@@ -1,0 +1,1005 @@
+Hey, I'm Cordelia and I've [music] built
+a product called the Thinker in one day
+using Claude to do most of the heavy
+lifting and I launched it live on this
+show. I did it in five steps. It was a
+real product. I'm going to show you how
+I did it and how I got sales in that one
+day and I'm going to give you the honest
+version as I walk you through that
+process using the Thinker as a case
+study. We're going to build it out
+together at the pages, the Claude build,
+the cart, the automation behind it, all
+step by step so that you can get an idea
+that you've got for a product out of
+your head and into reality so that you
+can test it. And so we're told this a
+lot in marketing that we should validate
+our ideas before doing them. However, if
+you have a warm and mighty audience,
+that idea validation can rely on
+visibility. It can also rely on you
+communicating your problem or what
+you're doing efficiently enough so that
+people fully understand it. I actually
+think that what we need to do is the
+absolute bare minimum we can to just
+attempt launching something and then see
+that data. And that is what we're going
+to do here today. I'm going to walk you
+through how I'm going to basically we're
+going to build a product here together
+and we're going to take it to completion
+and then I'm going to show you how to do
+that whole process from beginning to
+end. So we're going to use Claude today.
+Also, I'm going to personally use Go
+High Level because it's a good place to
+build pages all-in-one CRM system. We're
+going to use that for pages and
+automations and we're also going to use
+Stripe to take payments. I want to tell
+you a story. I'm at the Mystery Books
+Man. The Mystery Books Man is someone I
+spoke to years ago when I was sort of a
+general business coach and I was working
+with people to help them build and grow
+their online businesses. I spoke to this
+guy who had essentially spent months
+building an affiliate website. He had
+done loads of research and he had built
+by hand because this is like 2018. So
+you might imagine, just imagine. We're
+pre-AI. We're pre- We're we're pre- lots
+of things and we're in the dawn of the
+dinosaurs when it comes to web design in
+the difficult days where it was actually
+really tough and really hard. And his
+concept was that it was going to be a an
+affiliate website affiliated with Amazon
+and the products that he was selling on
+that website were mystery books. All the
+mystery books was cataloged on this
+website that he had built. He created a
+listing for every single mystery book
+and he had written captions for every
+single mystery book explaining and
+describing them that were paraphrased
+from the general descriptions. And he
+had linked every single one of these
+mystery books to where you could
+purchase it on Amazon. And I hated to
+break the news to him that I didn't
+think this concept had legs. He had
+spent a long time building this thing
+and why would anybody go to the Mystery
+Books website that didn't have a better
+user experience than Amazon to buy a
+book could just go and buy it on Amazon.
+And it didn't make any sense for the
+amount of time that he had spent
+building it. What he did is so human. He
+found something he was interested in and
+he disappeared into the work and he
+built the whole thing before he had
+checked whether a single person would
+have even want to buy mystery books from
+him specifically rather than just go to
+Amazon or A Books. I don't know what his
+research process was, but I I do know
+that he had been in the cave building
+and building and building for months.
+But the problem is is that he was stuck
+in build mode without validation. Now
+that's one extreme. The other extreme is
+when we've got someone who is the
+opposite of the Mystery Books Man.
+Instead of getting head down building
+something for so long, they're trying to
+validate their ideas and they are
+focusing on getting feedback and
+figuring out whether the idea that
+they've got has got legs before having
+the confidence to actually go and build
+it and put it together and put it out
+there and try and sell it. You know,
+they run polls, they ask in Facebook
+groups, they create surveys, they try
+and get funding, they do market
+research. So three years later they
+still don't have a product. They're in a
+different cave, but it's still a cave,
+right? One person builds without testing
+and then the other person tests without
+building. Both of them end up in the
+same place with nothing live, no real
+data and just essentially the idea of a
+product that has never actually been
+tested. The system I'm about to show you
+is designed to get you out of both of
+those caves. What we're going to do is
+build something and try and actually get
+out there and sell it before you have
+completely completed it or perfected it.
+And what I'm going to do today is show
+you how I would build the scrappy
+version of a product and then sell it.
+And then later, once I've got that proof
+of concept that people want it, I've got
+that validation, now I'm going to
+over-refine it, improve it, work on it,
+and develop it rather than the
+conceptualizing stages. First thing
+we're going to do, if you haven't
+already got an idea for a product that
+you want to sell, we're going to mine
+it. We're going to think about what is
+it that you already have, that you
+already deliver, that you can use. And
+then the second thing we're going to do
+is a hand-raiser test. We're going to
+test if anybody wants it. There's two
+reasons why we do it. Number one, we
+want to create a little bit of intrigue
+and a little bit of noise, which will
+kind of preempt when you do come out and
+start selling it, you've built up a
+little bit of anticipation and interest.
+Number two, it's going to give you an
+indication whether people want it. The
+best test is to put it out there and see
+if anyone buys it with the minimum
+possible build because it's a good thing
+to do to build anticipation, awareness,
+and interest. Number three is we're
+going to build it and then we're going
+to let the launch be the test of whether
+anybody wants it. And then number four,
+we're going to wire up the pipeline so
+that when someone buys it, they get an
+automated email that's delivered and
+they get they get the product delivered.
+And then five, we're going to let that
+feed the content engine. I'm just going
+to explain that later because that's
+going to be overwhelming. Let's get
+through the product first, then I'll
+show you what we'll do with it
+afterwards. If you are watching on the
+replay, let me know. Drop me a #replay.
+If you have any questions as we go
+along, then please do drop them in. I'll
+try and make sure I get everything
+answered. The first thing I want to say
+about building digital products is that
+you've probably already got one and I
+recommend this as a concept for someone
+who's already in business, got clients,
+doing the higher ticket stuff. You've
+already got one-to-ones, maybe you're
+already selling courses or whatever it
+is that you do. If you're not
+service-based and you're doing something
+different, you've got the main thing
+already going. Digital products, as in
+like low-ticket things, so maybe it's a
+a mini course or a PDF or some kind of
+guide or some kind of resource, these
+things are low-ticket meaning like less
+than a couple hundred quid. Could be
+five, could be five quid. What that
+means is because it's small ticket, in
+order for you to really get it changing
+the game for you or adding to your
+revenue or or becoming an income stream,
+then you need to be able to sell it in
+volume. Now it doesn't mean you need to
+have a huge audience right now. You can
+work on that. Like even if you sold a
+couple of them a month at 10 pounds
+each, it's a start and it build it can
+build with time. If you're thinking of
+starting a business right now, don't
+start here. Start with a higher ticket
+thing where you can make less sales for
+more money and work with less people.
+It's much easier to really get to that
+place where you're replacing your
+employee income with business income.
+But if you are a bit further on in your
+business, you're like, I want to start
+adding new streams. Like I want to also
+have a passive side of things. And when
+I say passive, by the way, I mean you're
+not delivering the product. You've
+created it and you're now selling it.
+You're not delivering it. It's never
+passive in the sense that you have to
+create it, you have to market it. You
+you know, there's customer support. Like
+there's there's loads of things that
+make it not passive, but the thing that
+becomes passive is the delivery of it.
+You're not exchanging your coaching time
+or your consulting time for money
+anymore because you've got these things.
+That requires you to have a bit of an
+audience because you need to sell it to
+people and if you haven't got an
+audience at all or you're completely
+brand new to business, you might find
+that quite challenging and you want to
+focus on the high-ticket things. But if
+you're already there, this is going to
+be perfect for a next step for you.
+So have a think then about your ideal
+client, the person that you've been
+working with. What do you keep giving
+them over and over again? Or what is
+something that you keep banging your
+head against the brick wall about? Or a
+question you keep being asked? Or a
+really cool tool that you go through
+with your clients that could be packaged
+up as a singular thing on its own. So
+I'll give you an example. I have an
+agency that runs your own live show for
+you. All you have to do is show up and
+deliver like I'm doing right now.
+Everything around it is done for you by
+my agency. Now that's a big done-for-you
+program. So things that I can do, pull
+out bits that could be DIY, that I could
+package up. I could create an episode
+research system where I'm researching
+for my clients what the best episode is
+for them to deliver next based on what's
+performing well on their channel, based
+on what's performing well in their
+niche, and also the competition as well.
+And I could package that research system
+up and I could sell it as a product. I
+could sell it as a one-off thing, as
+subscription access, as software. I
+mean, but what I would want to do first
+is sell it in the scrappiest iteration
+that I could so that I could test
+whether people would buy it. Now the
+scrappiest iteration of a research
+product would be to give someone a
+research process and teach it. Teach
+them the research process, how to find
+out what should be your next episode on
+your channel or on your show. And that
+process can then be either videos of me
+teaching that or an even scrappier way
+of doing that could be just a workbook.
+I just have a workbook with AI prompts
+and, you know, the ways in which they
+can implement it in a really
+straightforward way without needing me
+to build, you know, a big piece of
+software that they can use that does it
+for them. I would then sell and have a
+subscription, but I'm not going to start
+with that. That would be wild because
+it's going to take me so much work and
+it's going to be iteration 10 before
+it's ready and then I've spent the
+mystery books, man. I've spent ages in a
+cave building something I don't even
+know if it's going to sell. So, I'm
+going to start with a really scrappy
+iteration of that and then test it and
+see if anyone buys it. And if they do,
+then go, "Okay, how can I tighten this
+up? How can I make it more of a thing?
+How can I make it deeper? How can I make
+it easier to implement? How can I turn
+it into this? I can turn it into that.
+It can become a course. It can become a
+membership." So, we want to start with
+that. And if you've already got an idea,
+then great. And if you haven't, then
+that's where you want to look. You want
+to look at the stuff you're already
+doing. Now, you have to do that with
+your ideal client in mind because it
+could be stuff that you're using for
+yourself that would really work. But
+let's say you're a photographer and
+there's stuff that you're using in your
+photography business. Well, you could
+package that up and offer that out, but
+that's going to be relevant to your
+peers most likely. It's not going to be
+relevant to your ideal clients. And this
+is where we want to think about the
+long-term customer journey here from
+this product because the great thing
+about low-ticket products is that they
+are really awesome leads. Like let's
+imagine you have a lead generation where
+you offer a freebie and you get people
+signing up for it. Those leads are
+really valuable. But the ones that have
+actually paid for something small,
+they're even more valuable because they
+are even warmer and it highlights that
+they are likely to say yes to something
+else. If they bought something from you,
+they're likely to buy something else
+from you. And so, we want to be thinking
+about using this low-ticket product as
+kind of like a really good lead magnet
+and not just a cul-de-sac where it's
+like, "Okay, I sold that and then that's
+that and whatever and move on and think
+of something else to sell." It's like,
+"No, what else could you offer these
+people that are buying this low-ticket
+thing?" So, you don't want to just
+package stuff up and sell it to your
+peers. You want to think about your
+ideal clients and what would be useful
+for them. Package it up for them and
+then have in mind like what would be the
+next step beyond that. What could be the
+next step in the process towards working
+with you on your bigger product, your
+bigger package, your bigger service,
+whatever that looks like for you. The
+Thinker is the product that I'm going to
+show you how to build within that is
+just something that was already part of
+my day and it's relevant to my ideal
+clients cuz they're business owners and
+it's something that I built. AI-powered
+machine that prioritizes my tasks for me
+so that I don't end up playing it safe
+and burying myself in busywork. It is
+insanely life-changing this thing and
+it's so brilliant that I had this idea
+that I really wanted to turn it into
+something that people could implement
+and adopt. So, it's already part of my
+day and then what I need to think about
+was, "How can I make this simple for
+people to adopt and and implement?" And
+all I did was write down the process and
+kind of organize the process so I had it
+laid down because it's very easy for you
+to operate in your mess, right? But when
+you want to let's say you were going to
+bring a new person onto your team, you
+have to organize your chaos so that you
+can translate it to that person so that
+they can understand it and then adopt
+it. So, I started to think about how
+could I translate this system to
+somebody? And in that process, I did
+step two, which is the hand-raiser test.
+The hand-raiser test is really simple.
+We're going to do a hand-raiser test.
+I'm thinking of putting together a guide
+that shows you how to launch a
+low-ticket product. Who wants that? Type
+me in the comments. White on black is
+really nice and easy to read and these
+posts catch attention. This is all you
+need to do for hand-raiser test. Little
+post out there. Type me in the comments.
+I'm actually just going to post this
+because I am thinking of that. We'll see
+what happens. Guys, go to my Facebook
+personal profile if you want that. So,
+that is the hand-raiser test and that is
+all you are going to do. And what that's
+going to give you potentially is some
+information on whether people are
+interested in that product. Now, spoiler
+alert, you might not get any engagement
+on that post, but you might also get
+loads. We want to take that lightly. If
+you get loads, that's really cool. If
+you don't get any, you're not going to
+throw this idea in the bin because
+that's not a good enough test. You can't
+base whether you get a response on a
+post like that enough on whether you
+should actually create the product. And
+look, here's the truth. When I was
+thinking of putting the Thinker together
+as a product, I did that just like I do
+with most things and I got tumbleweeds.
+Nobody said they wanted it. In fact, I
+had one person reply saying, "Don't be
+crazy. That that's not possible."
+Because the Thinker, when I explained
+what it did, it's it is insanely good.
+Like it's amazing. You you WhatsApp it
+your ideas and your tasks and it sorts
+and organizes them all out and then it
+prioritizes and it tells you what you
+should do based on what your biggest
+priorities are in your business right
+now and it builds you a success day
+every day that looks like I'll show you
+real quick. It looks like this and it
+tells you, "Morning, boss. Right, big
+week. The upgrade launches tomorrow,
+blah blah blah." And it tells me all the
+things that I need to do for all of like
+what I've got coming up, right? And this
+is just based on what I've put into that
+dashboard. So, that is the Thinker. So,
+I didn't get any feedback and I could
+have taken that and gone, "All right,
+well, no one wants it. I won't bother."
+And just moved on to something else. But
+I know that that is not necessarily
+enough data for me to base that decision
+on. What I need to do is put it out
+there and see if anyone buys it. I took
+the Thinker, I turned it into a product,
+I rocked up here on the show, I did a
+walk-through of how it works. Before the
+end of the day, I'd made sales. I was
+like, "Oh,
+okay. This is interesting." And couple
+of weeks later, I did a 2.0 version
+where I showed like an extended version
+of it. I packaged that up into the 1.0
+version, gave it to the people that
+bought 1.0. They now have both and then
+sold it again and I made sales. And so,
+if I had listened to that data off of
+Facebook, I wouldn't have gone ahead and
+done that. So, take it lightly with a
+pinch of salt because remember the
+algorithm might not be pushing that
+post. So, there might not be visibility
+on it. And also, you might not have
+worded it in a way that makes people
+understand and so they might not have
+said yes to it. So, you want to give it
+a test and a bare minimum test at that.
+The next step, which is actually
+starting to build it. So, we've done the
+hand-raiser test. We've taken the
+response with a pinch of salt and then
+built step three is that we're going to
+build it and let the launch be the test.
+So, I'm going to show you exactly how to
+do this, but just to let you know,
+inside the strategy lab, which is my
+community where I essentially give you
+all of the strategies from the show
+every single week and lay out in a
+step-by-step way, I am going to be
+turning this into a playbook that will
+have a lot more detail and will give you
+the prompts that you can use in a
+templated way to go and use Claude to
+get your product created and will give
+you a whole step-by-step guide. You can
+jump in today and get that for free. The
+membership is $4 a month and you get a
+7-day trial so you can jump into it, get
+today's for free. If you want to stay
+around, it's $4 a month. And if you
+don't, then you can you can jump out and
+cancel anytime, but that will that is
+where the resources from today's live
+show will be. So, first step then, you
+can just brainstorm with Claude about
+this, is starting to put together all
+the bits. So, I had created the Thinker
+with Claude anyway so it's got a bit of
+context. So, I was like, "Do you want me
+to show you the system or do you already
+understand it enough?" What the Thinker
+is is it's a few Make scenarios in
+make.com, which is an automation tool,
+and you can export those automation
+scenarios in JSON files. So, I exported
+those so that Claude could read them and
+I also gave it a copy of the screenshots
+of the Thinker so it understands
+everything that it does. And then it
+digged into it and it's made me a
+flowchart of the whole process. And then
+I'm just basically checking that it's
+got that right. I'm like back and forth,
+back and forth and then getting it so
+that it's got full understanding of the
+process. Now, we're into creating a PDF
+that essentially just explains that
+whole process as a downloadable. Now,
+what I got from the output there is a
+Thinker setup guide. I've got it to make
+a system map. So, I've got the setup
+guide here and then it's just a case of
+going through the setup guide. You know,
+it's 18 pages, making sure that
+everything is correct there, that it
+hasn't invented anything because AI does
+make mistakes. You have to check it. It
+just will fill gaps that it doesn't
+understand. I also got it to make a
+system map that went inside the strategy
+lab so that somebody could come along
+and have a look and build it themselves.
+Like I wanted to be able to teach the
+system so that you could build it
+yourself, but then if you wanted the
+shortcut, you could just download all
+the things that you can copy and paste
+and it makes it easier. So, that was the
+Thinker system all mapped out. Now, once
+I've starting to build up these assets,
+the next thing that we'll want to do is
+to start thinking about how we're going
+to present this to somebody. So, some
+kind of delivery page. Now, if you think
+about it, how it's going to look, we've
+got a Canva and just basically draw this
+out a minute. So, let's say we've got
+this here. We want to map out the
+process. Step one is that we want to
+think about the journey. So, what's
+going to happen is we're going to
+promote the product and then that
+promotion will take people to a sales
+page which contains all the info plus
+buy a plus pricing and that will have a
+button that then takes them to the cart
+page and then the cart page, once
+they've submitted their payment, they
+will be taken to the delivery page.
+Also, we want them to get an automated
+email, which delivers the delivery page.
+DP means delivery page. Then afterwards,
+you can think about your customer
+journey, and you know, what you want to
+do beyond that. But just in terms of
+delivering the product, that's what we
+want to do is we've got these things
+here. So, in terms of that, so we've got
+to get the product ready. Think about
+what do we need in order to get these
+things ready. So, I like to work
+backwards. If you start trying to
+promote the product before you've made
+it, you're going to be a bit confused
+and have gaps. If you start trying to
+write the sales page before you've got
+the product nailed, then you're going to
+have gaps. Same with the cart page, etc.
+So, we want to essentially come up with
+the product first. We're clear on the
+process. We've got that down. And then
+we think about the delivery page. And
+then we're going to make the cart page
+and the sales page together from there.
+And then we're going to create the
+promotion for the product. So, the
+delivery page then is what we need to
+work on. So, once we've got the process
+down, and we're back and forth refining
+that process and things that need
+changing. And the next thing we need to
+think about is what do we put on the
+delivery page? Now, for the thinker,
+there were quite a few things that go on
+the delivery page. Like, I had to give
+it the JSON files to import to make. Had
+to give it the setup guide, prompts, and
+like some knowledge files. And there
+were quite a lot of ingredients needed.
+Yours might be really simple. Maybe it's
+a calming audio that you've created. And
+so, that's just one ingredient. You just
+need a page that's got the link to the
+calming audio. Once we've got all these
+ingredients, we need to host them. And
+we need to put them somewhere so that
+people can download them. Now, I use
+GoHighLevel. In GoHighLevel, you have
+something called media storage. And you
+can click on media storage, and then
+basically upload whatever it is you want
+in here. So, I've created a folder
+called The Thinker. And inside The
+Thinker, we've got all these things.
+These are all the ingredients plus a
+couple of other things for Thinker 1.0
+and 2.0. So, you could just put your
+calming audio in here. And once you've
+got that, you just click on the three
+dots. You go get link, and it copies the
+link of the location. What that means
+is, when somebody clicks on that link,
+it will just auto download it to their
+computer as a file. And here it is, now
+downloaded, which is here, the knowledge
+base workbook. Yeah? So, that's you need
+somewhere to store them. So, you get
+your ingredients, and then you store
+them in the media storage. Now, you want
+to save these links because what we're
+going to do next is we're going to make
+a page with Claude, a delivery page. And
+we're going to tell Claude, right, I
+want you to make me delivery page that's
+going to host the calming audio or the
+Thinker files. And I want this page to
+be essentially the thank you page. And
+so, we're going to ask Claude to create
+that. And as you can see, I'm back and
+forth for ages getting this map and
+everything how I want it to be and etc.
+etc. It is a bit of a process because
+obviously you want to make sure that
+it's right. Now, this is just a page
+that Claude has created, and it looks
+amazing, doesn't it? One thing that's
+made it look great is the fact that I
+have my branding aesthetic guide. There
+was a video where I taught you how to
+create a brand aesthetic guide. I will
+link it in the description. And so, I
+have this brand aesthetic guide here
+that I then use to make sure that
+everything is uniform when I create
+documents, when I create images, and all
+the rest of it. And so, it's always the
+same font, it's always the same shade of
+pink, and it's always the same vibe. And
+so, it's put together this page. And
+then when it comes to images, this is
+actually an image that Claude has
+created. But Claude can't create images
+outside of very basic blocks. And it it
+can't do what ChatGPT or Sora can do and
+create fantastical images. So, you have
+to host the images that you want to use
+inside your media storage, and then give
+it the link to that, tell it what it is,
+and then it will basically be able to
+embed it in a page. And so, what I've
+got down here on this page, this is all
+Claude generated stuff. I haven't hosted
+anything right up and apart from I've
+given it the download links for all of
+the downloadables for the product. And
+then these white boxes here, this is
+actually a video embed. And these are
+videos of me going through and doing
+full builds of the Thinker. And I've
+just given it the link to where it is on
+YouTube or the embed code. So, you
+essentially build the page here. But
+anything you need to give it, maybe you
+want to have an about you section and an
+image of you, you need to give it the
+image of you, and you need to give it
+the storage location. So, you just
+upload it into your storage location
+here. If you're using WordPress, your
+your media storage on WordPress will do.
+It just needs to be somewhere where it
+can grab it, where it's hosted. And then
+it will grab that, and it will put it
+into the file, and then it will be on
+there. You will not be able to see it in
+the preview because the image doesn't
+display here. If I was to click on the
+Thinker sales page, open in Chrome, it's
+only showing me the version from the
+computer. But now, because I've got it
+on Chrome, it can now display the
+images. Whereas if I was to open it
+here, it's just displaying a blank box
+and all this here, broken image thing.
+Yeah? So, do not despair if you can see
+that. You want to then click on the open
+in Chrome to see what it actually looks
+like. So, that's your delivery page. And
+if you're only delivering one thing, if
+you're delivering a PDF or an audio or
+something, that's going to be a lot more
+simple than my delivery page. My
+delivery page is big because there's
+loads of files I'm delivering and
+there's a setup. I'm basically teaching
+someone how to build a piece of software
+on Claude. The next thing, once you've
+got the delivery page, what we need is a
+sales page. And again, it's the same
+process. But what you want to do is
+create copy. And you want to be thinking
+about your ideal client or your ideal
+user of this product, where they're at,
+and what it is that they're experiencing
+right now that is the reason why they
+might be interested in this. So that you
+can create a headline at the top that's
+going to hook them in. And then you want
+to be able to articulate what the
+benefit of buying your product is going
+to be and how it's going to solve that
+problem. But essentially, this is what
+you'll end up with, a system that
+prioritizes your ideas. You can get
+really creative with Claude pages.
+Claude's just out of the box pages are
+just text, right? Cuz if we open this in
+Google Chrome, once we've got the stuff
+down, you think about, okay, well, what
+images could I include? You want to show
+people what is in the box. Don't just
+have a bit of text and a buy now button.
+Have some images that demonstrate, like,
+oh, this happens and that happens. And
+you know what's really cool? You can get
+them doing stuff like this. All you have
+to do is ask Claude, can you make the
+images interactive so they turn around
+and show a benefit on the back? You can
+embed videos. Again, it's just a case of
+giving Claude the link to YouTube, and
+then it will embed that video. And you
+can get it to do really cool things.
+It's just about hosting that image
+somewhere and giving it the image link,
+and then it can embed that image onto
+the page for you. So, what we need to do
+is come into If we go into sites on
+GoHighLevel, and then we go to websites
+or funnels, exactly the same thing,
+doesn't matter. Let's go to Kudilicate.
+Let's click on new page, demo. Create
+new page. Create from blank.
+Essentially, you want to strip
+everything off the page so it's
+completely bare. Make sure there's
+nothing on it. And then we're going to
+add a code box. And what I also like to
+do is all of these boxes, they come with
+some padding. So, I'm going to reduce
+all of that to zero so that there's no
+padding anywhere. For the purpose of
+this, I'm just going to leave it as it
+is. And then inside this code box, I'm
+going to open the code editor, and I'm
+just going to paste the code from
+Claude. If I click on copy, it's going
+to give me all that code now. I can see
+what it looks like by clicking that
+button. It's going to give me that. And
+then I'm going to paste it into here,
+and I'm going to press save. I am not
+going to be able to see a preview of
+what this looks like on this page. I'm
+going to have to hit this preview button
+or publish it and then view it on the
+main link. But if I just hit that button
+instead of publishing it for now, you
+can now see that this page is hosted and
+it is live. It's not cuz I haven't
+published it. It's on demo version in
+GoHighLevel. But anyway, it's there, and
+it's ready to go. So, that is how you
+get a Claude page onto your website.
+It's as simple as that. And if you want
+to edit the button, you decided, oh,
+actually I don't want it to go to that
+page anymore. I want it to go to a
+different page. Or if you want to change
+something, all you have to do is go back
+to Claude, get it to edit the code, and
+then you copy and paste the code in
+again, directly into here. So, that's
+how you get the thing on there. Now,
+what you can see on this page here, on
+the preview, is that we have a lot of
+white space at the top. And also,
+there'll be a lot of white space at the
+bottom. And that's not great. I'm a bit
+of a perfectionist when it comes to
+these things, and it's just about
+getting rid of that padding on these
+boxes surrounding the code. You get rid
+of all that padding, and then happy
+days, that white space will disappear.
+What we need now is the bit in the
+middle of the sales page and the
+delivery page. And the easiest thing you
+can do is to have a Stripe payment page.
+So, you go to Stripe. You click on the
+plus button. You say create payment
+link, and you set up the payment link in
+here. So, I can choose my product or I
+can create a new product. And I would go
+The Thinker full system, 147 quid.
+Create link. And then I've got the link
+to that. And what I can do is go back to
+Claude and say, here's the link to the
+cart page. Can you please embed put that
+behind all the buttons, and then get the
+code with that now edited, put it back
+on the page, and then publish it, and
+then test it to make this button, it
+takes you to that cart page. Now, on
+this cart page, we have the ability to
+edit where it goes and and what happens
+after. If you click on after payment,
+you can show confirmation page or you
+can replace with something else. So, if
+you click on don't show confirmation
+page, you can put your own page here.
+This is where you will put the delivery
+page. So, that once someone has
+completed payment, the delivery page
+will load as the thank you page. And you
+don't want to solely rely on that
+because sometimes it might not load. And
+so, what you also want to do is have an
+email set up in your CRM so that you can
+then email people that buy it. Now, the
+scrappy way of doing this is to keep an
+eye out for any sales that happen, have
+Stripe notify you, and as soon as one
+comes through, run to the computer and
+ping the email. Another thing you can do
+is set up Zapier, which is a linking
+tool that links two softwares together.
+And so, what you'll have do is you'll
+set Zapier up so it's watching for a
+payment of £147 to come in, and when it
+does, it will send that person and their
+details to your CRM. And you want to set
+it up so it will tag them, and then that
+tag triggers an email to go out. If
+that's alien to you right now, don't
+worry about setting any of that up. Set
+it up so that you've got the delivery
+page on the as a thank you page, and
+then we'll figure out the emails later.
+This is one of the things where we try
+and do the bare minimum to test if
+someone's going to buy it, then we build
+on the fancy stuff later. We develop the
+process later. We automate later.
+There's no point spending ages figuring
+out how to automate an email if it's a
+new thing to you, if you haven't sold
+one of the products yet. Let's sell it
+first and then figure automations out
+later. And that's how we create the
+product and it's set up and it's it's
+ready to go. How are you going to
+promote it? What's going to be the way
+you're going to tell people about it?
+Now, we've done the hand raiser test,
+and you might find that you've got a few
+people that said, "Yeah, I want that."
+And if you do, then you can set you can
+go to the hand raiser test post and you
+can write underneath, "Amazing, it's
+ready for you to grab. Here's the
+download link." And you share the link
+to the sales page. Or you might decide
+to do an online workshop where you walk
+people through it or just use sales
+posts to promote it. There's lots of
+ways in which you can get the word out.
+And you want to try and do something
+where it builds into your current system
+so that you don't have to build a whole
+new system for selling. And the easiest
+thing if you haven't got a system, if
+you don't have a show, if you haven't
+got something that you're already doing
+that you could promote on like an email
+list or anything like that, and it's
+just you and you're on social media and
+you're just posting content and hanging
+out at networking events, and that's
+kind of your marketing strategy right
+now, then you want to create a bit of
+anticipation with that hand raiser post,
+and then you want to go and say, "It's
+ready. I've made this thing. Here's the
+link to download it." And and announce
+that it is available, and then put some
+posts out on a regular basis to let
+people know that you have this thing and
+it is available to grab. So, that's how
+you create the product. The next thing
+that we want to think about then is
+letting it feed a content engine and and
+how we can then take that to the next
+step because this product, the thinker,
+just to give you an example of how I did
+that, I didn't create it, promote it,
+and then it was the end. What I did is I
+then used that as a way to kind of
+create more content my social media
+accounts. So, it became an episode of
+the show. It's now technically three
+episodes of the show because I'm now
+showing you how I did it. And so, I
+have, you know, used that to create
+content which promotes it and and gets
+people looking at it and and raises
+awareness of it as a product. The other
+thing is is that once you have people
+pay for it and they come through, you
+want to treat them now as kind of like
+low ticket product leads, and the
+relationship has just begun. The purpose
+of marketing is building relationships
+with people. And if somebody has just
+bought something, do you know what that
+says? It says, "I trust you. I trust
+that you are going to help me solve my
+problem." Otherwise, they wouldn't put
+their money where their mouth is. And
+so, what you can then do is think about
+enhancing that relationship even
+further. Is there a next step? Is there
+a further thing? Is there a one-to-one
+call that would lead them into something
+else? Do you have a community? What is
+the next step of that relationship so
+that you don't let that go cold because
+they bought that thing, which means that
+they are interested in what you do.
+They're very warm right now, and let's
+continue to further that relationship.
+The low ticket product is the door. It's
+not the goal. It's the door. It should
+be the beginning of a whole new
+relationship with that person and with
+that person and your business. And so,
+you want to have a pipeline. You want to
+show them what else you do so that you
+can invite them to the higher ticket
+work, and you can have a conversation
+that a social media follower never gets
+to have with you because they've got
+that deeper connection to knowing what
+what it is that you do. So, one product,
+one system, and then everything is
+connected. And that's it, really. The
+last thing, if you are building
+relationships with people, you're
+enabling them to grow to know you, to
+like you, to trust you. You're building
+trust with them. And the people that buy
+the thinker, I want them to know what
+else I do, and I want them to find their
+way to the show. I want them to find
+their way into the strategy lab, into
+the real conversation about their
+business. I want them to think about the
+fact that they could have their own live
+show and come and talk to me about that.
+The product is just the start of that.
+It's not all of it. As I said, if you
+follow that step-by-step process, you'll
+get a bit of a shortcut because it's
+going to give you all the prompts and
+all the steps without watching this
+video again, but also without reading
+your scrappy notes again, and in a way
+that you can copy, paste, rinse, repeat.
+That's all for me. My name is Cordelia,
+and this [music] has been how to launch
+your own product, and I hope that you
+have found it useful. Lots of love. Have
+a wonderful day, and I'll speak to you
+soon. Bye.

@@ -1,0 +1,1223 @@
+Today, we're building an entire finance
+department powered by AI agents, a chief
+financial officer plus a full team of
+specialists across financial planning,
+analysis, accounting, and treasury. And
+not just any CFO, but a CFO that can
+actually delegate. It actually routes
+questions to the right sub agent
+automatically, just like a real finance
+team would. Now, my guest today is Mike
+Dion. He is a senior corporate finance
+professional who spent the last decade
+helping companies automate tens of
+thousands of hours of work with their
+finance processes. He broke this down so
+clearly that anyone can watching can go
+and replicate this today. Zero coding
+required for just a couple of bucks a
+month. Now, if you stick around till the
+end, Mike is going to demo the whole
+system live, including how to publish it
+so that your entire team can use it
+inside of Slack or Microsoft Teams. So,
+I hope you enjoyed the episode.
+Mike, what are we going to learn today?
+>> We are going to walk through how to
+build an entire finance department and a
+CFO inside n8n, the automation tool.
+>> That is so cool. So, we're going to
+basically be building an AI agent CFO
+inside n8n. I'm excited to jump in and
+see this thing in action. So, before you
+share your screen, what is your
+background? Like, why should people
+listen to you?
+>> I am a senior corporate finance
+professional. I've been working in
+corporate finance for over the last
+decade. Uh across that time, I've helped
+people automate more than 100,000 hours
+of work out of their processes. And
+today, my mission is to help people
+double their impact in their companies
+while working 40 hours uh or more or
+less a month.
+>> I love it. Well, that's so cool. So,
+let's go ahead and dive right into your
+screen, and we're going to break down
+this AI CFO step-by-step and see what's
+under the hood.
+>> Sounds like a plan. So, as I pop this
+open, so as I mentioned, we'll be
+working inside of n8n. Uh for anyone not
+familiar with it, it's a very similar
+tool to things like Make, Zapier, Power
+Automate. Essentially, a workflow tool.
+The great thing about n8n, first of all,
+if you're willing to do a little bit of
+setup, you can actually run it
+completely free, whereas those other
+tools will drain your pocketbook real
+fast. Um I run this on a on a virtual
+private server on my website. It's all
+really easy. That's like four or five
+bucks a month, and then n8n itself is
+free. Um and then the other thing is
+just a lot more customizable and
+dynamic. Zapier and Make are a little
+faster to set up, but you can basically
+build anything with n8n.
+And if you want to get really fancy and
+start coding, you can build even more
+with n8n. But I'm going to show you in
+this video, you don't actually have to
+write any of the code yourself. We're
+going to build this entire AICFO with
+AI. So, it's going to do literally
+everything for us as we go. And that's
+really the the sweet part about this is
+regular everyday people who are only
+used to working in tools like Excel can
+now build things that previously only
+tech developers could do, and it's
+really exciting time.
+>> Yeah, so I'm so excited
+>> n8n, cuz n8n's powerful, too, man. Like
+n8n's super powerful, and I think a lot
+of people are intimidated by it. So, I'm
+excited to see how yours is set up,
+because
+I mean, correct me if I'm wrong, but you
+don't have like a development
+background, right? Like you're not a
+developer, you're not a coder,
+necessarily. Like you're a finance guy.
+>> Not remotely. The only coding I ever did
+professionally was VBA in Excel, which
+is barely coding. Maybe a little bit of
+little bit of HTML tossed in there from
+just learning how to do some websites,
+you know, in high school and really on.
+All of my coding expertise has been
+self-taught working in partnership with
+AI. And I will say in partnership,
+because I think it's really important.
+You can't get in the mentality that you
+just have AI do everything. You need to
+learn as you go. You need to understand
+what you're doing. You need to
+understand the framework of how code
+works. But you can lean really heavily
+on it to assist you. So, partnership is
+really what it's all about.
+So, let's get rolling with this. So,
+let's go ahead we'll start where we
+should always start. We'll just give
+this a nice title that uh stay organized
+as we work. So, this will be our AI CFO.
+Um for anyone not familiar with workflow
+tools, everything starts with a trigger.
+So, there's a lot of different choices
+of trigger in N8N. There's some really
+fancy ones that can involve, you know,
+web hooks and things like that. We're
+going to have this start very simply
+though and we're going to build this
+like it's a chat. So, our users at the
+end of the day will interact with this
+CFO in chat form, which is how you would
+interact with the CFO. It's It's going
+to be like just slacking or teamsing
+with a CFO.
+Uh we're going to set this up later, but
+I'm going to toggle now to make the chat
+publicly available.
+And what that's going to let us do is is
+two things. I'm going to show this to
+you essentially hosted in N8N, but you
+can also embed it on websites. You can
+embed it in company tools like a a slack
+or a one drive or things like that. It
+basically turns what you're building
+into an application that other people
+can use. It's great to build automations
+for yourself. It's really powerful to
+build automations that an entire team of
+people can use.
+And then we'll just customize the
+message users will see.
+So, say hi there. I always call CFOs
+Charles. It just It's a CFO name, you
+know.
+>> So, I was I was about to say I was like
+that is sounds like a finance name.
+Maybe it's cuz of like Charles Schwab.
+>> It does. I am your
+chief financial officer.
+All right. So, that's what it'll say.
+So, when the users come in and we'll set
+this up at the end once we have it
+ready, they'll come in they'll chat with
+this just like it's your CFO named
+Charles and he's going to answer all
+your questions and solve all your
+problems.
+So, we'll kick that off so it's ready to
+go.
+And that's the start. So, that triggers
+it. You can set off your automations by
+time. You can set them off to trigger
+when another sequence runs. Lots of
+options, but we're going to keep this
+simple and do it as a chat.
+And then we're going to go straight in
+to the core power of this tool. Now, I
+mentioned we're going to build a CFO and
+their entire finance team. So, we're
+going to start with a really powerful AI
+agent that is the CFO.
+That CFO is then going to hand off
+different tasks. If it's an accounting
+question, they're going to go to their
+head of accounting. If it's a treasury
+head of treasury. They're going to be
+able to hand it off to all these
+different people, but our first agent is
+going to be the really powerful CFO.
+So, we're going to go to our AI tools.
+We're going to stick an AI agent in.
+And then we're going to start building
+this one. Now, what's really critical
+with this is getting a good system
+prompt. For people who are not familiar
+with system prompts, this is as you're
+working with AI tools that you want to
+be reusable, it teaches the AI how to
+behave. It's essentially its brain and
+how it's going to approach tasks and
+think about it. Now, writing really good
+system prompts can take a while, but
+we're going to actually have Chat GPT do
+it for us. The reason I'm using Chat GPT
+here, first of all, it's just kind of
+one of the, you know, tools I default
+to, but we're going to be connecting all
+of this to Open AI models on the back
+end. That's what's going to drive this.
+So, we're going to have Chat GPT write
+the system prompt because nothing knows
+Chat GPT better than Chat GPT itself.
+>> Right.
+>> So, we're going to ask it to help us
+build it.
+I'm going to pop Chat GPT over here. I
+am in Pro. You don't need to be in Pro
+to do this. Everything I'm going to show
+users can do with the free version. I
+just have Pro and I'm using it for that.
+The only real difference is if you, you
+know, mess up and want to try again, you
+get less prompts with the free version a
+day than you do with the Pro version.
+Aside from that, everything you're about
+to see can be done free. It can also be
+done in Claude, Co-pilot, Gemini. I
+really everything I'm doing today can be
+done with any of the tools.
+Uh, and you can just swap them out one
+for one with chat GPT.
+So, we will paste in a prompt. We're
+going to have it act as an AI agent
+expert. We want help building an AI CFO
+in n8n.
+It's going to be using an AI agent node
+with thinking and reasoning
+capabilities. It's going to call on
+other AI agents. This is going to be
+FP&A, accounting, and treasury. It's
+going to process requests, and we're
+going to ask it to help us write the
+system prompt for this AI tool.
+I will say chat GPT's been overdoing it
+lately with the with the intros a little
+bit.
+>> Yeah, yeah. I feel like it can get a
+little
+it can get to be a little verbose, but I
+I was just saying like I'm so excited to
+kind of work through this whole process,
+but it's so so timely for me because I'm
+you know, I've been messing around with
+Open Law quite a bit, and I've been
+thinking about like how do I have my own
+financial, whether it's an Open Law
+agent, or in this case, I'm probably
+just going to go rewatch this video and
+just duplicate your workflow in n8n to
+have my own uh
+agent CFO. So, I'm I'm really excited to
+get in the weeds here. I'm already like
+my head is already spinning in terms of
+ideas here.
+>> Yeah, and I'm going to I'm going to be
+showing a pretty straightforward setup
+cuz I like it, you know, it's I like it
+to be a little bit more approachable,
+but as you play with it and and want to
+start adding features, I mean, you can
+really put some put some fancy stuff
+into these.
+You can build all kinds of I mean, you
+can start building in, you know,
+uh it can start querying, you know,
+rates from foreign exchange websites. It
+can start querying interest rates. I
+mean, you can connect it to all kinds of
+different things and really really neat
+stuff.
+Uh so, here is our system prompt. We'll
+go ahead and copy this over.
+We're going to put this right down here
+as our system message.
+So, this is what's going to give the
+tool its brain, and then the prompt. So,
+we don't need to prompt it. The prompt
+is going to come from the chat, and
+that's why you see this chat input here.
+Now, you'll notice this has the dollar
+sign JSON. If you're not familiar with
+JSON, it's a coding language. It's a
+simple coding language that really just
+is a way to structure data that AI tools
+and other computer systems can handle it
+easier. You don't really need to know
+that cuz AI can help you. If you have
+any questions, if you ever get stuck
+building automations, just ask AI to
+help you. Ask it to explain it to you.
+It'll walk you through really easy. But,
+just know that JSON is just a way to
+just structure data so the AI tool can
+read it, and a lot of it is going to
+write itself as we work through Any.do.
+So, you'll see that. Nothing to get
+scared about. Again, if you ever have a
+question, copy-paste it to ChatGPT or
+Claude, it will answer the question for
+you.
+So, this is the core of the agent, and
+it's built. Now, what we need to do is
+we need to enable it to work. So, right
+now it's literally just a system prompt
+and the ability to take in chats. We
+need to give it the actual AI model. We
+need to give it some memory, and we need
+to give it some reasoning power so it
+can work through different tasks for us.
+So, let's start with the chat model.
+So, we're going to come down here to
+chat model. All of the options you could
+possibly want are here. We're going to
+just work with OpenAI since that's what
+most people are familiar with.
+And this is a great place to talk about
+how to save money with AI tools. So,
+right when you're working in ChatGPT,
+you're not really burdened by the amount
+of data you're sending back and forth.
+But, when you start connecting to AI,
+you're paying for every single token.
+And a token is just a bit, a little
+piece of what you're sending back and
+forth. It's almost like a syllable in a
+word. And you want to think carefully
+about that cuz if you're going to run
+these a lot, it can get pricey over time
+if you don't structure it right. One of
+the benefits of this system is we can
+have the AI CFO use a more supercharged
+reasoning model, and then have most of
+the work done by cheaper models in the
+in the agents, right? We don't need to
+give them all the same strength.
+So, we're going to give a reasoning
+model to the core CFO, but we're going
+to give kind of just the basic regular
+old ChatGPT mini models to the tools.
+And that's going to give us a lot better
+capabilities to manage our spend and put
+the abilities in the right places,
+right? Don't Don't supercharge it cuz
+you're paying for it whether you needed
+it or not.
+So, we're going to go ahead and scroll
+down to 40. So, there's GPT-40.
+That's going to be a little bit more of
+a powerful reasoning model.
+And since this is going to be a CFO, so
+I'm not going to do web search or file
+right now, but I'm going to give it code
+interpreter because code interpreter
+will let us work with numbers and do a
+lot more reasoning in that area. So,
+we'll turn that on as well.
+All right, and that is our model. So,
+this is what it's going to call on when
+we ask it any questions.
+And that part is done. And you'll see as
+we add, it's basically building out this
+little workflow that we can follow along
+with. You just follow the arrows, you
+follow your workflow. If it's a dotted
+line, it's not in the core workflow. It
+can just be called on by the AI agent.
+The AI agent is the real the real
+trigger here.
+Memory, you can get fancy. You can add
+all kinds of external structured
+memories. We're just going to do a
+simple memory right now. It's going to
+store it inside of my n8n instance.
+So, we'll pop that in. Context window,
+this is how far back in the chat you can
+look. So, we're going to give this We're
+going to let it look back 10 chats.
+Don't want to go too many or it'll start
+start costing you a lot cuz it's going
+to send this back and forth to OpenAI
+every time, but we want to give it
+enough that you can have a little bit of
+a back and forth with the CFO.
+That takes care of the memory. And then
+our first tool we're going to add is
+going to be reasoning, which is going to
+let this tool do a little bit more
+thinking than the average agent would.
+This is going to be in AI tools cuz I
+clicked on memory.
+AI agent tool.
+Let's go down to reasoning.
+Thinking. Thinking tool, not reasoning.
+That's the problem.
+Thinking. Thinking.
+>> look at how many tools it has access to.
+I mean, there's there's so many
+different capabilities you can give the
+agent, right? So, for folks who haven't
+worked inside N8N before, if this is
+your first time kind of jumping into a
+a node-based workflow builder,
+I mean, the possibilities are endless
+with this type of stuff, which is what's
+so exciting about it. So, just context
+for people watching or listening who
+maybe haven't jumped into N8N before,
+there's so many tools you can equip your
+agents and your workflows with.
+>> Yeah, it's true. I mean, there's over
+250 pre-built connectors. Plus, there's
+the ability to connect to anything that
+has an API. Um when you add it when you
+go to add a node, you'll see all these
+different options, but within each of
+these, like if I go to action in an app,
+you're going to get this list of more
+than 200 actions. I mean, there's a very
+good chance any tools you're using are
+in here or have the ability to build
+your own connection. I mean, it's just
+just fantastic.
+So, this guy right here, this is our
+CFO. This is our Charles right here. And
+now we need to give our CFO a team of
+agents. And for that, we're going to
+give them in this case a tool, and that
+tool is going to be another agent. If
+you want to get really crazy, kind of
+inception style, you can even give your
+your agent tools other agent tools. You
+can just kind of keep going down that.
+You'll burn through a lot of tokens and
+spending, but you can just keep going,
+give every agent their own agent, and um
+and go crazy, but we're just going to do
+one layer here to keep it simple.
+So, we'll go ahead. We're going to add
+in another agent.
+Here's our AI agent tool.
+All right. And now, this is going to be
+where we put in We'll start with our
+FP&A agent, then we'll do accounting,
+and then we'll do treasury. And just
+like we did for the AI CFO, we're going
+to go back to ChatGPT and ask us to help
+it with this.
+We'll keep this prompt pretty simple cuz
+we've already defined the task, and
+we've already defined the role, and
+we're still well within the context
+window.
+So, we'll say, "Continuing your role,
+help me build the FP&A agent. Output a
+description and a system prompt." So,
+this is going to start helping us build
+out all the sub-tools, and then we'll
+use that same prompt again for treasury,
+and that same prompt again for
+accounting.
+The FP&A agent is not a spreadsheet
+monkey. That's so funny.
+>> So, this is a dumb question is for
+someone who, like myself, has no finance
+background. Like, what does FP&A mean?
+>> That is a really good question. Um so,
+FP&A is financial planning and analysis.
+So, the best way to think about it is
+accounting looks backwards. Their job is
+to keep all the books straight, to make
+sure that you're, you know, reporting
+correctly to the IRS, the SEC. FP&A's
+job is to look forward. So, their job is
+to plan where the business is going, to
+analyze and provide insights about where
+the business is today um using
+accounting's data of kind of what's
+happened, but that's the difference is
+forward-looking versus
+backwards-looking. They're two separate
+teams under the CFO. Um one of which is
+just focused on getting the actuals in
+the books correct, one of which is
+focused on kind of guiding the
+organization.
+All right. So, here's our agent
+description. Now, this is probably a
+little bit more than we needed cuz the
+description is
+it does inform the agent a little bit,
+but it's more so for the users. So,
+we'll just take in the top sentence
+here.
+All right. So, that'll be our agent. And
+then, just like before, we'll add a
+system message.
+And here is our system prompt for the
+FP&A agent.
+All right, and then just like the core
+CFO agent, we need to give this one
+capabilities as well.
+So, let's try to continue keeping us
+organized.
+Slide this up here. So, we need to give
+it again a chat model, a memory, and
+then any tools we want, which will in
+this case be thinking. So, our chat
+model, we're going to still use OpenAI,
+but we're going to use a lighter model
+that's not going to take up as many
+resources.
+Cut our spending down a little bit.
+We'll just go pop in GPT 52. This is the
+current working model in ChatGPT. That's
+a pretty good guide. If you're trying to
+do just regular basic work, the core
+model at the time will be one of the
+more newer, more advanced, but won't
+cost you too much in spending cuz it's
+not one of the really supercharged
+models. So, just a general rule of
+thumb, if you don't want to keep track
+of all I mean, there's
+90 or so different models in here. If
+you don't want to try to figure out what
+they all mean, just look what's in
+ChatGPT at the time. That's probably a
+pretty good pretty good one to be using.
+Again, we're going to give this the
+ability to interpret code.
+Coding in this case gives it the ability
+because a lot of the interpretation of
+financials is going to be done with
+Python or R, and this gives it that
+ability. So, it really works a lot
+better with that information if you give
+it the coding ability.
+>> So, that's what I was going to ask. I
+was like, so if we're dealing with
+finances, why exactly do we need to give
+it a code interpreter skill? But, that
+makes sense when you explain it that
+way.
+>> Yeah, and you know, it's it's always
+important to remember the tools are
+LLMs, they're large language models.
+These AI tools evolved to work with
+language, not with numbers. They can
+work with numbers now. So, if you went
+back to like GPT 3, early 4s, they were
+really bad at numbers. They
+hallucinated. They couldn't, you know,
+if you asked them 1 + 1, they'd tell you
+it's four. Um
+>> That's because they hadn't developed
+kind of these reasoning capabilities or
+the ability to work with things like
+Python as well.
+All of that's gotten better because if
+you're in chat GPT and using it, it it
+just turns these tools on naturally. You
+don't need to tell it to do it. Because
+we're designing it ourselves, we need to
+tell it to do it. So that's why like
+you'll see chat GPT do this
+automatically and it's totally fine.
+We're we're kind of developing this so
+we have to help it a little bit along
+the way. And again, anytime, you know,
+we we might even get an error or
+something as we work through this or not
+like our output, we're just going to
+tell chat GPT where we're having an
+issue and it will help us rewrite our
+system prompts. You don't have to get a
+writer's time, right? That's the biggest
+thing is no one's seeing this until you
+let them see it. You don't have to be
+perfect.
+Uh, we'll just go ahead and add our
+think tool.
+All right, there's that and then we can
+give this one a name so we remember what
+we're worth.
+All right, FP&A agent tool.
+Now we're going to do that exact same
+thing. We're just going to do it a
+couple more times for our other tools.
+So come back to chat GPT.
+Take our prompt, turn this into an
+accounting prompt.
+And we'll fire that away.
+So what do you think? How are we looking
+so far?
+>> I think we're looking great. This is
+awesome. I mean again, it's just
+what I like about what you're showing us
+is you're breaking it down step-by-step.
+Like anybody watching this
+or listening really could
+go and replicate this and we're only 20
+minutes in and you know, I'm sure within
+the next 15 minutes or so they could
+have a full functioning system exactly
+like what you're showing us and
+you know, none of it requires any
+sophisticated knowledge or paid tools. I
+mean, you have chat GPT Pro, but you
+even said you don't need it. Like you
+could get this rolling for a couple
+bucks, right?
+>> Absolutely.
+Yeah, I think I always want to make sure
+like I too too often this tech work is
+made to be a little bit more
+intimidating than it really needs to be.
+>> And 2 years ago even it was. I could not
+have been building an automation like
+this 2 years ago without a lot of time
+and effort I didn't have. But the
+ability of AI tools to teach us anything
+and guide us through
+the biggest thing I'd say if you as
+you're learning this is don't try to
+build something crazy the first time.
+It's still important. You can't
+outsource your learning or your
+understanding to AI. You can outsource
+the the technicalities to AI. You want
+to understand how what a workflow is.
+You want to understand your process. You
+want to understand what AI tools can do.
+But you don't have to understand how to
+write the entire system prompt. You
+don't have to understand how to generate
+every line of the Python. You want to
+understand the the structure and the
+fundamentals. And you can even ask AI to
+teach you that. So don't skip that step,
+right? That it's still not the time to
+do that, but it is the time to let it
+batch. I mean, I think how long it would
+have taken even 2 years ago to write all
+these system prompts out.
+>> Oh, yeah. It would have taken forever.
+>> 6 hours of work to write these.
+>> Yeah.
+>> All right, so there's that. Again, we're
+going to give it our
+Move this up here so we can keep
+Let's go ahead and give it our chat
+model.
+Give it 52 again.
+All right. Give it our code interpreter.
+Some memory.
+>> And so is the default context window
+length do you always set it to 10 which
+basically just means like hey it's going
+to reference the 10 most recent chat
+messages from the user before giving its
+response is that what that means?
+>> Yeah, so and I like
+it's it's five back and forth. So it
+includes the AI's response. So the
+reason I do 10 is it gives me five
+interactions. That covers most questions
+you'd be asking.
+Um five literally means if you go back
+and forth twice you're out of context.
+>> Got it. Yeah, so it so theoretically it
+should always be a even number.
+And you know full production wise you're
+probably want to even go higher than 10
+but for purposes of this I mean we're
+just going to ask it one or two
+questions as a as an example and you'll
+get it. Um it's really depending on you
+know if you're paying for it if your
+employer is paying for it out of kind of
+a pool of tokens.
+Uh depends on just kind of the the
+capabilities you want to give it.
+>> All right, there is Oh and I'm
+remembering
+let me go ahead and run this.
+Cuz I need to get a little bit of
+So I'm what I'm going to do right now
+that you're going to see is I'm going to
+let the AI agent run because I need a
+piece of that JSON code that's passing
+through. I need to be able to drag and
+drop in these tools and that's why we
+see the little thing there. So a nice
+easy way to just get it to run is say
+what can
+you help me with?
+That's going to give it just enough to
+get going. It's going to give us this ID
+we need inside the code.
+And it's this session ID is what we
+needed. So, I just needed something to
+go in so it could run for me.
+Uh so, let me go back and fix this error
+we're seeing.
+So, here we want to just pass down the
+original chat, right? So, we're going to
+take that.
+And this is the great thing is again,
+you don't need to know the coding if
+it's already over here, you can just
+kind of drag and drop it. So, it's a
+little bit easier than it even looks at
+first glance.
+We'll go back down and do the same thing
+Add input.
+Pop that over.
+I did not successfully save the name, so
+we'll rename this.
+All right. And then the last thing we
+need to do is just build our treasury
+agent and then we'll be good to do a
+couple of demos.
+So, now we'll add one more tool and
+we're just going to do the exact same
+process again.
+Now, in playing with this I'll say so,
+I've actually built this with as many as
+eight AI agents. There is absolutely no
+reason that everybody needs to sit here
+and watch me build eight. Three is more
+than enough, but there there's no limit.
+You can keep going as many as you want.
+You can have as many individual tools as
+you want. Um but it is reiterative. I
+mean, it's just it's just you redoing
+the same thing multiple times in a row.
+But once you get comfortable, you can
+you know, and and if you hit any limits,
+that's the other thing. You don't have
+to even try to guess
+where you need to expand this out to.
+You can get the basics in. You can get
+kind of you know, to take from the tech
+world, minimum viable product. Get it
+out there, get it working. The fastest
+way to learn where you need to build it
+out more is by getting it out there. So,
+don't worry about trying to get every
+single possible scenario or situation
+covered. Get the basics, get the most
+common, and then as you find yourself
+not getting what you need, you can
+adjust as you go.
+>> Right. And that's really good advice. I
+would agree with that.
+Here's this. All right, we'll drag over
+our
+message.
+Go down to our system message.
+Oh, it's still running. I'll give it a
+second. Got too ahead of myself.
+There we go.
+All right, we'll put our system message
+in.
+Call this our
+treasury agent.
+All right. So, there's that. I'll pull
+it down here.
+Zoom out so we can keep seeing
+everything.
+Put over here just a little closer. And
+then we'll do our chat model.
+Exactly the same as before. We'll pull
+in open AI.
+We'll pull in GPT-5 too.
+And we'll add our code interpreter.
+Then we'll do our memory.
+Context window 10.
+And give it our thinking tool.
+All right, and there we go. So, this is
+an AI agent. We've done it. Just a
+couple of minutes. Look at that. So, now
+we're going to test it. Um there's
+there's
+You never quite know what you're going
+to get the first time you run it because
+until the system prompts talk to each
+other, sometimes it can go a little
+crazy. I also always love to point out
+that there's this rule when you're doing
+live demos that, you know, one time out
+of 10 AI just decides to do something
+insane. And that one time out of 10 is
+usually when you're screen sharing. So,
+I always
+>> Law in action.
+>> Exactly. Always exciting to see what you
+get back. But, that's why, you know, we
+have the AI tools here because if
+something goes crazy, we can just give
+that feedback to ChatGPT and it will
+write a new one. So,
+uh let's start with a simple question.
+Now, I'm going to put in a question that
+should be targeted to FP&A. So, what is
+the best way to run a rolling forecast?
+That's a process FP&A is doing. So, as
+we test this, what we're looking for is
+we're looking for our AI agent, our CFO
+to run, and then to choose just the FP&A
+agent tool to answer the question. So,
+it the process will be a fail if it
+doesn't pass off because we want it to
+be asking its specialist questions. The
+process will also be a fail if it picks
+the wrong tool. So, a successful run of
+this would be the AI agent passing it to
+FP&A FP&A and coming back with a usable
+readable answer. Any of those things
+aren't true, we'll want to refine our
+system prompt.
+All right, so we'll send that.
+So, you see right now we're processing,
+so the CFO is working. When you see that
+little orange swirl, we're working. It's
+using the chat model. It's engaged its
+memory.
+And then we'll see what happens from
+The suspense is killing me.
+>> I know. I'm like I'm really excited to
+see what it does.
+>> Okay, so we have an unsuccessful run,
+which is not too uncommon. The AI agent
+ran. The AI agent came back with a
+correct answer. And you might be saying,
+"Well, why is that a failure?" It's
+because we don't want the CFO to be
+answering the questions. So, it worked.
+It did give us an answer. So, we know
+that at least it will come back with
+something, but we want the work done by
+the FP&A agent tool. So, what we want to
+go back to ChatGPT and say is basically,
+"You must have the CFO either pass off
+to a tool
+or say that I don't have a specialist to
+answer the question." Because we want to
+make sure it's being done by the lighter
+specialized model.
+>> So, basically it gives me almost like
+delegation logic.
+>> Exactly. Exactly. It did It is good. It
+came back with a good clean correct
+answer, well-formatted, easy to read. It
+just didn't behave the way we want this
+entire agent to work.
+>> So, come back here.
+I just asked the model to do its first
+run. Oh, wait. I have to use the
+available microphone. Let's hit that.
+I just asked the model to do a first
+run. I asked it a question about rolling
+forecasts and how to work with a rolling
+forecast.
+It did not pass this tool off to the
+FP&A agent. The AI CFO ran it by itself.
+I need you to build in logic to the AI
+CFO's system prompt such that it always
+passes off to one of its specialist
+agents or comes back and tells the user
+it doesn't have a specialist that can
+answer that question.
+Please give me a new system prompt.
+And that is as you're working with
+ChatGPT, one of the best ways to get
+information into the tools is to just
+talk to them. So, if you're able to talk
+to them and you're in a place you can
+talk to them, I highly recommend
+prompting that way. Um They're again,
+they're language models. They're
+designed to work with text and they're
+designed to work with written
+communication and you can get your
+information in a lot faster than trying
+to sit there and type it out.
+>> So, yeah. So, kind of like exactly what
+I was thinking. It's Now it's giving us
+a delegation and four system prompt. So,
+previously, it's you know, if the
+regular AI CFO agent, obviously it's
+hooked up to a the OpenAI model and it
+probably gets that system prompt and
+it's like, "Oh, I can just answer that
+myself. I don't need to delegate that
+out to my
+you know, FP&A sub agent, but what we're
+updating it with is we're updating the
+system prompt to say you must, right?
+You must either delegate or say that you
+can't answer. Which is funny cuz that's
+kind of how you would want your human,
+you know, if there was a human in that
+position, you'd want them to probably
+operate the same way. It's like, "Hey,
+either I have my specialist handle this
+task or it's something I just can't do."
+Like, of course you would want a human
+specialist to handle it, same way you
+would want your AI specialist to handle
+it as well, I think.
+>> Exactly. Yeah, and there's there's two
+big reasons we want this to work this
+way. The first one is that it's is
+cheaper. Right, if you're running this
+over time, it'll be 30 to 40% cheaper by
+having it pass off than by having the AI
+CFO run it cuz we're giving it all that
+reasoning power. Um the second reason is
+just as you build this out, you can do
+things like you can connect your tools.
+I could connect my FP&A tools to my
+forecast. And I could ask it questions
+about my forecast.
+>> Mhm.
+>> And if I've connected the tool to FP&A,
+the CFO is not going to have direct
+access to that information because
+again, that's not how we've built this
+tool. If it doesn't pass it off, I lose
+out on all that context that I've given
+it. So, a little bit of it's cost and a
+little bit of it's just thinking ahead
+to make sure that the right AI agent is
+doing the right job with the right
+information.
+So, now we'll give this another test
+run. So, we'll try our rolling forecast
+question again. And now again, what
+we're looking for is to make sure
+that our AI agent passes off the task.
+So, the CFO is running.
+And it passed off. Look at that.
+>> Nice. Yep, it did exactly that.
+>> Yep. So, now you'll see that the AI
+agent is still running. It's in
+basically paused mode.
+Only the AI chat is running for the FP&A
+FP&A agent. That's then going to stop at
+some point, turn green, pass it back to
+the AI CFO, and then we'll get our
+response. So, that was a successful test
+as long as we get back a response that
+we like.
+There it goes. So, now it's back to the
+AI agent. So, now you'll see the chat
+model running again. It's basically
+formatting the response, and it's adding
+like the executive polish.
+All right. So, here's our response. So,
+the domain classification is FP&A. It's
+routed this to an FP&A agent, and here
+is the specialist findings.
+So, it gave us the findings. It gave us
+a summary.
+It gave us an executive overview what
+this means, risks, recommendations, and
+then saying for further assistance,
+you can tailor this to your specific
+needs and give me additional
+information. So, that is a really
+successful run.
+Uh let's just give it another example
+for demonstration of going to a
+different agent.
+So, now I'm going to give it a question
+that should route to treasury.
+So, we have excess cash on hand. That's
+treasury's function to manage cash. What
+are some good options for using funds
+until we have a need?
+And what we want to see is exactly what
+happened in the last run except using
+the treasury agent instead of using the
+CF instead of using the FP&A agent.
+Now, what's interesting here is we just
+had it basically lie to us cuz it says
+it routed it to treasury agent.
+>> But, it did not. So, let's let's let's
+yell at it a little bit. You did not
+pass it to the
+Please try again.
+So, if we can poke at it and it it
+behaves, we're good to go. There we go.
+So, it passed off. So, it it's a flag.
+If we see that behavior multiple times,
+we'd want to revise the system prompt.
+Um what is likely happening is I
+probably should have just cleared the
+context. So, bad on me for not doing
+that. I just got a little confused cuz
+there was no there was no context
+clearing.
+Um and that's also again something that
+we could build in. If we saw it not
+behave once we poked it a little bit,
+then we would definitely want to rewrite
+the system prompt.
+>> And so in updating the system prompt in
+that case, like let's say we we kind of
+poked it and then it did the same thing
+again. Like it lied to us again and it
+didn't delegate properly. I'm assuming
+that that would involve like going into
+the system prompt and just I guess more
+strongly wording the delegation language
+of like you absolutely must delegate,
+you know, at all cost like just some
+some just more extreme language to tell
+it like you have to delegate to the
+correct agent or like or else, more or
+less, right?
+>> Yeah, I've I have found doing things
+like and it's weird it works, but if you
+do like capitals capitalized do not,
+things like that the AIs respond really
+well to. Um but we got a really good
+response. So it did route to treasury.
+Uh we have a specialist finding there's
+it's breaking it down even by like the
+length of cash, kind of what we'd want
+to be doing, where we can park it. Um
+all of this information looks great. And
+then it gives you kind of the executive
+bullets, decision posture, and then I
+can provide additional details for a
+tailored recommendation. So again, a
+really successful run. And that's our AI
+CFO.
+>> That's awesome. I love it. And I mean
+this is this system
+could apply to any small business. I
+mean the any small business out there
+that is considering you know, I don't
+think there's necessarily a I mean you
+might disagree with me. I think it makes
+sense to have like a human
+finance professional maybe, you know,
+running this particular agent system
+here, but you certainly don't need like
+a finance team if you're a small
+business. You could get away with
+one person in the business who wears a
+finance hat from time to time managing
+the system.
+I I mean, that's going to to get you to
+I would assume seven figures, multiple
+seven figures, maybe even eight figures
+per year in revenue. That that system
+could support that. Like is that kind of
+been your experience in
+installing this in your company and
+other people's companies and and
+everything that the system can kind of
+provide?
+>> Yeah, I think I think at the entry-level
+you really see being able to replace a
+lot of the actual work. At management
+and more and you know, senior executive
+levels, what you see is it opens up kind
+of the brain space to do the things that
+really matter. Right? What we want our
+teams doing, if you're in treasury, we
+want you spending time with banks,
+building relationships, getting better
+tools, right? Finding better ways to
+park the cash, finding better ways to
+manage it, thinking through processes to
+help the company.
+Not having to answer all these random
+questions that come up. So, what it's
+doing it at that level, you know, it's
+it can fully automate kind of the
+entry-level work. But for management and
+executives, what it's allowing them to
+do is actually just spend time
+building and improving the business. And
+that's what we really want because
+there's not all these little tasks. And
+then just as an example, I pop this
+open. Um you know, I mentioned you can
+once this chat's built, you can publish
+it. You can now interact with it. This
+is a it just had N8N create a small
+website for us. This is the chat. You
+can talk to Charles, our chief financial
+officer. You can embed this on a
+website. You can embed this in Teams and
+Slack, anywhere else that you're able
+to, you know, kind of embed chats.
+And it doesn't have to live in this
+technical N8N setup. You can format this
+to your own branding, to your own
+preferences, and make it fully available
+to your team and anyone who needs it.
+So, it's not living in some system that
+everyone needs a login to. You can make
+it completely and easily available in
+this very This is all your users see.
+It's just a regular AI chat. But you've
+done all this background work and
+customized it for your company and your
+purposes.
+>> Now, is this something, Mike, that you
+build for clients or that you have built
+for clients? Like is this one of your
+products? Like this
+A I C F O that you like do you sell this
+as a product?
+>> So, I actually don't. So, what I do, my
+method is after getting burned by a lot
+of really expensive management
+consulting firms, I believe in in local
+upskilling. So, I really focus on
+teaching internal teams the ability to
+build automations like this. You know,
+really focused on tools that they'd have
+more immediate access to and having them
+stay there because what you find is you
+have someone come in, you have someone
+build these really fancy automations,
+they work for 3 months, your business
+changes and no one knows how to refine
+them.
+>> So, if I build you an automation, I
+maybe bought you 3 months of automation
+and then you have to keep coming back to
+the well. If I train you how to build
+these automations, your team can keep
+this going forever.
+>> Right. So, that's the really that's
+really my philosophy is as someone who
+is a you know, corporate finance insider
+not having these consultants coming and
+going. Who's motivated to help your
+company? Your own employees. Who knows
+your company best? Your own employees.
+Who's best positioned to automate? Your
+own employees and it's all about
+enabling people to do this easily and
+feel the confidence to do so.
+>> I see. Yeah, and then that makes a lot
+more sense too because I mean like you
+said the businesses change so rapidly,
+especially ones that are in
+scaling mode and ones that are growing
+at a high pace. It's like this might be
+suitable to the business needs today,
+but like you said 3 months from now, 6
+months from now, 12 months from now, the
+business might be in an entirely
+different place and this they might have
+outgrown this automation or they've got
+different systems. Like things are just
+going to be different. So, I think that
+makes sense as far as looking to upskill
+the team versus build it once and then
+hope that they come back for more later.
+Now Mike, so this has been fantastic.
+Where where do you want people to kind
+of go and connect with you? Like where
+can people, if they want to hire you to
+to teach their team, like where do you
+want to send people after this
+demonstration?
+>> Sure. So so two big places. So I'd say
+one of my favorite places is my YouTube
+channel F9 Finance because I like
+putting out stuff there for free. I want
+to make sure that you have access to all
+this information and it's it's a great
+place to get new tools and tech every
+single week. But aside from that, I've
+got my website F9 Finance. You'll find
+all corporate training there.
+But the best part is you'll find my free
+weekly newsletter, Finance Automation
+Insider. When you sign up for that, I
+send you 15 5-minute finance automations
+that you can build with tools that you
+already have on your computer. So
+that'll save you 5 to 10 hours a month
+forever, totally free just for joining
+the newsletter.
+And I'll send you stuff just like this
+end-to-end AI CFO every single week.
+>> Awesome. Well, Mike, this is good stuff,
+man. And you did a really good job
+breaking it down in a way that I mean,
+like I said, we were 42 minutes in. I
+mean, it probably took only 30 minutes
+to build the automation end-to-end. I
+mean, somebody could just rewind this,
+copy it step by step, apply it to their
+business, and boom, they've got a full
+working AI agent CFO installed in their
+business in under 45 minutes. So great
+work. Thank you for your time. And for
+everybody that is in the audience and
+listening to us here, we'll have links
+to Mike and his YouTube channel in the
+description and in the show notes.
+And we'll be back next week. Thanks so
+much for your time, Mike.
+>> My pleasure. Thanks for having me.

@@ -1,0 +1,221 @@
+All right, today we're going to be
+talking about how you can scrape 10,000
+targeted leads in less than five
+minutes. We're going to try and make it
+less than five minutes. Maybe it'll take
+a little longer. So, let's go. So, first
+we're going to go off to Apollo.io. This
+is a database tool where you can scrape
+a bunch of people. There's tons of
+different data tools. This is the one
+I'm going to use for the sake of this
+video. You can go sign up, make a free
+account. Next, we're going to want to
+determine who we want to even be
+reaching out to. So, I'm going to use my
+company as an example, Anivvo Marketing,
+and I'm going to look at one of my case
+studies, and we're going to use Tixcale
+as the example. This is a content agency
+that we got good results for and is also
+the people editing my videos. Shout out
+Tick Scale. So, what we're going to do
+is we're going to go over to Apollo.
+We're going to go over to the companies
+tab and then we're going to fill in the
+company that we want to find more leads
+like. And so, you can see Tixcale. They
+are listed as a marketing and
+advertising company under the industries
+tab. and the keywords. We can click in
+and see marketing services, video
+content, YouTube marketing, ads, all
+kinds of other stuff here. And so, we're
+going to try and scrape more people like
+them. So, I'm going to go over here now
+to the people tab in Apollo and I'm
+going to build the list. I'm also going
+to take these keywords that I have in
+account when I'm building this list. And
+I'm also going to take the decision
+maker that signed the deal as an example
+of the types of people we're going to
+reach out to. So, under email status,
+I'm going to press verified and
+unverified. This is going to show me
+emails that actually exist on Apollo's
+platform instead of people that don't
+have emails. Now, for job titles, for
+the sake of speed, I'm not going to list
+out every possible potential decision
+maker. I'm going to go over this
+management level filter here and pick
+all the different seniorities of
+potential decision makers. So, I'm doing
+director level and above. Now, if I want
+to reach out to people exactly like who
+I just reached out to, then we should
+only do founders or seauite people. But
+again, for the sake of this video, I'm
+just going to be doing all possible
+decision makers. Now, moving on here,
+I'm going to reach out to relevant job
+titles and departments. Now, I sell B2B
+outreach as a service. And so, I'm going
+to reach out to executive titles. I'm
+going to reach out to marketing titles.
+And I'm going to reach out to sales
+titles. So, I'm going to go over to the
+seauite box here. I'm going to take
+executive level people, founder level
+people, sales leaders, and marketing
+leaders. And this will give me all the
+seuite people while layering in the
+management people. Now, I'm also going
+to check the box for marketing and check
+the box for sales. So, this is going to
+give me all marketing and all sales
+titles. But, if you remember, we layered
+on these management levels here. So, now
+we have all the relevant decision-making
+titles. I'm going to add in an employee
+headcount filter here. So, that way we
+can reach out to people that have
+similar employee sizes. Now, if we look
+back to the companies tab here, you can
+see tick scale has six employees. I
+don't know how accurate it is, so I'm
+going to do at least five and all the
+way up to 100. And then, finally, to
+make sure that we're reaching out to
+video agencies, I'm going to add the
+industry and keywords filters in here.
+And so first we're going to start off
+with the industry filter of marketing
+and advertising like was shown in the
+company tab here. Make sure I'm reaching
+out to other video marketing agencies.
+So you can see there's brand strategy,
+client case studies. These keywords
+aren't relevant to the type of company
+you're reaching out to. Video editing
+would be a good keyword. YouTube
+marketing would also be another good
+keyword. So I'm just going to include
+keywords like YouTube and video. And so
+this will filter for marketing and
+advertising companies that have the
+keywords YouTube or video on it, which
+are disproportionately going to be like
+marketing agencies that sell these types
+of services. So we're going to input
+that here. All right. Awesome. So now we
+have YouTube video marketing and
+advertising. You can see there are
+27,000 people in Apollo with these
+keywords and there is 16,000 I've
+already saved and paid for. And so
+that's what we're going to start with.
+And so I'm going to take this list and
+I'm going to select this and I'm going
+to select 10,000 people for me to
+export. I'm going to press apply.
+Awesome. Now that they're all selected,
+I'm going to press export. And I'm going
+to export all emails. We are not done
+though because some of these people
+might not be the correct and relevant
+decision makers. And also some of these
+people might not be running YouTube
+video agencies. And on top of this, we
+want to validate their emails. And so
+we're going to try and do that in the
+next minute or so here. All right.
+Awesome. Apollo has exported all the
+people. So, I'm going to press download
+here. And now I have all these 10,000
+people. We're going to move on over to
+Clay. The reason why I like to use Clay
+is because you can stitch together a
+bunch of tools in one central place. So,
+I'm going to create a new workbook. I'm
+going to import from CSV and I'm going
+to install or upload the file that we
+just scraped here. And then we are going
+to press continue. All right. So, now
+that I'm in Clay, I want to do three
+things or two things. I want to validate
+that these emails exist in the first
+place. And I also want to validate that
+these companies are even video agencies
+in the first place. So, first I'm going
+to add enrichment and I'm going to add
+my million verifier verification code in
+here. I'm going to input the email that
+I want to verify here. And I'm going to
+apply this. And what this will allow me
+to do is verify all these emails in one
+place without having to download it and
+upload it into another software or
+download it and upload it into another
+tool. And so now you can see here we
+have emails and they are verified or
+they're not verified. Then moving on
+here, we're going to want to use AI to
+make sure that these companies actually
+are video agencies. I'm going to o go
+over here to Clay. I'm going to pick a
+model that is actually cheap and
+affordable. And then I'm going to use my
+own API key. And then I'm going to do a
+super simple prompt. I want you to visit
+this website and tell me if they are a a
+video or a marketing agency that sells
+YouTube content or video services. If
+they are, output true. If they aren't,
+output false. Return nothing else except
+for true. True or false. Awesome. We're
+going to save and run this. And now you
+can see not only have we got all these
+leads really fast, we validated them. We
+made sure that they're they're good to
+reach out to. And then we're also going
+to layer on AI to see that these
+companies are the companies we want to
+be reaching out to in the first place.
+Cool. And now you can see that the hit
+rate on this list because I'm doing this
+very quickly is about 50%. So what I
+could do, one thing is either just run
+this whole list, get the 50% or so of
+these that are actually accurate, or I
+could go back to Apollo and play around
+with the filters here. I could tighten
+it up like I did here and change the
+keyword to video editing instead of just
+video. And this will get me a little bit
+more accurate. Or if I'm happy with
+this, I can go ahead and just run this
+column all 10,000 times. Same here. Run
+this column all 10,000 times. And then
+you will have a big large list of clean
+people you can reach out to. And if you
+want to get the full, you know, I just
+scrape 10,000 here. If you want 10,000
+clean, accurate people, you're probably
+going to need to scrape a little bit
+more than that. So hopefully this was
+useful. If you want to build a quick
+list, this is exactly how you can do it.
+Now, there's all kinds of other stuff
+you can do in Clay here to make sure
+your lists are more accurate, more
+clean. Make sure that you're reaching
+out to more than just one segment at a
+time. Obviously, I'm just doing this
+quick for the sake of this video. So, if
+you need help running cold outreach
+campaigns, you can check the first link
+in the description below and apply to
+work with us. Otherwise, check the other
+free videos on this channel.

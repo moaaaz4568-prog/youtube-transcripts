@@ -1,0 +1,141 @@
+yo so we just finished a quick test this
+week we wanted to compare smartly SAS
+mail and instantly SAS mail is in our
+own internal tool for sequencing that as
+you can see is excellent for Enterprise
+deliverability it's one of the main
+reasons that we use it right now and uh
+surprisingly we just started testing
+instantly and it really swept the floor
+with Gmail targeting uh which Gmail is
+typically our most valuable uh lead
+Prospect right now and so it's very
+interesting um mostly just sharing this
+cuz one like this is just this is just
+our data like every time I look at
+somebody else's data um we see it
+different for everybody and then on top
+of that we're starting to see
+differences in deliverability uh when it
+comes just client to client um as well
+uh we ran one client where we saw that
+um it was completely inverse of the data
+that I'm shooting you here and so the
+quick thing to take from here is just
+like take it with a grain of salt um but
+I just thought this was really
+interesting that I would share and also
+I'll give you a little preview of what
+we're doing um for those of you that
+don't know we did a massive um a massive
+test last uh last October we sent about
+50,000 emails for rbb to kind of get a
+snapshot of what deliverability looked
+like in the marketplace and the thing
+that I took away from that is that
+matching your configurations those
+configurations being what type of
+inboxes are you using in combination
+with the sequencer that you're using uh
+and finally uh in combination with what
+type of inboxes you are trying to
+deliver your emails to at scale can
+genuinely add three four five times
+multiples on all of your results cuz the
+main thing is if you can get your your
+reply right up that's multiplicative on
+every single lead that you could
+possibly get and so on so anyways I can
+talk about this a lot this will really
+just be like a short quick thing before
+I take my dogs on a walk here in about
+30 minutes but the main thing to pick up
+here is that right now and this is
+changing week over week but right now
+what we're seeing is we used Gmail
+inboxes and we wanted to test a Gmail
+inboxes deliverability to Gmail Outlook
+custom and Enterprise when we look at
+gmail instantly stood out we just
+started using instantly maybe a week ago
+and uh we're about to uh uh use them uh
+quite considerably we're probably going
+to start send in millions of emails a
+month using their platform and so we've
+been really in depth and agreed in API
+all of that kind of stuff but the main
+thing is that it's delivering seven
+almost eight times better than smart
+lead right now and then uh our own
+internal tool which Gmail's always been
+a little bit weaker uh when it comes to
+our tool once again we're using our tool
+because we want to Target this
+Enterprise uh which I'm glad we did this
+test too because what we used to be
+doing is we used to be using um like a
+zour typee infrastructure um things like
+hyper tide things like scaled mail in
+order to deliver to these Enterprise
+clients and uh on average we would see a
+2 3% reply rate we would never see a 6%
+reply rate and also we sent um about
+100,000 emails in order to get this data
+so I'm pretty confident um at least for
+this one client that we sent to that
+this is what we're seeing so this is
+what internally we're doing uh next week
+but here's kind of the big thing is that
+um uh in the month of March we're going
+to be doing a uh big test like we did in
+October basically what uh my team has
+been working on on is um Let Me Clear
+yeah let's clear that What U my team has
+been working on is like a realtime
+deliverability analytics dashboard and
+so every sequence that we're using is
+feeding this entire dashboard a lot of
+this data is uh inaccurate so like
+ignore you know reply rates are actually
+like normal over here for example um uh
+we just had like bulk in uh upload a
+bunch of data like this is a weird Spike
+for 500% reply rate it'll even out um in
+the coming weeks but basically at any
+point in time I'm going to be able to
+pull up What is my iability for a vendor
+what is my deliverability based on who
+I'm trying to send the email to which
+sequencer is giving the best
+deliverability and we're going to be
+able to put that all into a bunch of
+analytics and actually I think this is
+pretty cool my my team made this pretty
+pretty sexy dark and light mode
+transition um I think that's pretty dope
+um and actually if you're curious who
+who the team is that's working on this
+it's OBS Kings and I'm a I'm a big fan
+of them so anyways this is what's coming
+down the pipeline in the month of March
+we're probably going to be doing a big
+massive deliverability test um but also
+after March we should have a real-time
+live dashboard on deliverability so um
+you know so that way we can uh deliver
+emails better than anybody I mean the
+main thing right is that if I didn't do
+this we would be we would be getting two
+to three times less results for our
+clients than if we Wen doing it so it's
+just huge multiplicative it's a ton of
+work a ton of analytics it's a ton of
+automations it's a ton of API endpoints
+that we're hooked into takes a lot of
+work non-stop that we've been working on
+it for the last like four months to put
+it together but it's super worth it cuz
+uh in my opinion deliverability doesn't
+most important thing uh in the entire
+world so anyways have a great Saturday
+I'm going to go walk my dogs now bye

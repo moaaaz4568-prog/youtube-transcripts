@@ -1,0 +1,320 @@
+welcome to analyzing Finance with Nick
+we've done the iceberg of Finance
+economics and wealth management and now
+we're going to do our next Iceberg which
+is the iceberg of options and volatility
+why are we doing this one one I think
+this is something a lot of people don't
+know that much about I have a pretty
+strong expertise I worked at one of the
+largest options Market making hedge
+funds for three years as a research
+analyst and I do a lot of options
+related work for my clients at my
+current wealth management firm that I am
+a partner at so I figured I would kind
+of share my expertise and kind of go
+down the layers of the iceberg in the
+world of the derivatives Market as a um
+there's nothing on here as investment
+advice please do your own investment
+research or retain an investment advisor
+I'm not going to answer any specific
+trading related questions in these
+videos so if you have those kind of
+questions Umstead the comments I
+recommend just contacting me directly
+either through email or my consultation
+form European versus American are two
+conventional types of options there are
+also more exotic types of options which
+I'll talk about later in this Iceberg
+and I also have a whole video I did
+about exotic options several years ago
+but you have American option is an
+option that you can expire at any point
+not expire you can
+exercise at any single time within the
+length of the contract say it's a 90day
+contract you can exercise it which means
+you swap the option for the under and
+take delivery on the underlying security
+anytime you want you usually have no
+incentive to do this before expiration
+baring special situations because why
+would you have to add the additional
+cash you need to put up to buy those
+shares if you'll get the same kind of
+upside by just owning the option but the
+American options let you be able to
+exercise early if you want to where
+where as a European option is an option
+that you only are allowed to exercise on
+the day of expiration and then there's
+options that kind of in between where we
+have a fixed band of time and that's
+called a bermudan option and then
+there's Asian options which are based on
+the average price of the stock over a
+given period of time yeah there's a lot
+of other types of structures but
+European and American options are
+typical and most of the ones that you're
+typically going to interact with
+probably in a brokerage account are are
+either one of those two now we're going
+to move on to level five and it's about
+Citadel next we're going to talk about
+Gamma squeezes a gamma squeeze when you
+have like a surprise upward move in an
+asset class usually due to a short
+squeeze but it could be a new shock or
+something else where you have a lot of
+people who are short gamma which
+basically means they're not expecting
+like it to move Beyond a certain point
+usually they are people who are selling
+options that are out of the money all of
+a sudden have to become forced buyers to
+either Delta hedge their positions if
+they're market makers or to cover their
+losses if they're taking a speculative
+selling option bet and this increased
+all of a sudden need to either buy or
+sell in line with the direction of the
+gamma shock move creates a gamma squeeze
+which makes what would be a smaller move
+move and underlying a much bigger move
+due to all the short gamma participants
+having to cover their positions and a
+very quick manner now we're going to
+talk about is options strategies the
+first one of these option strategies I'm
+going to talk about are the most notable
+ones which are straddles and
+strangles a straddle is basically when
+you buy a put and a call at the same
+strike and you do this because you
+expect volatility to be higher than what
+is implied so say for example there's a
+stock at $100 the put costs five the
+call costs five if you buy them both
+you'll make money if the stock moves
+more than plus or minus $10 each way and
+if it moves less than that you will take
+a loss and that is a stradle the other
+you could sell a straddle if you expect
+less variants where you make the most
+money if it's at zero and you make
+progressively less money until it gets
+to the strike it gets to the strike plus
+the premium points and then you start
+losing and any move greater than the
+combined premium of the positions you
+sold a strangle is similar except
+instead of converging at a single point
+by buying the options at the same strike
+you buy them and a band so instead of
+say for example buying the both stock
+strikes at 100 you buy the 95 put and
+the 105 call and you make a fixed amount
+of money as long as no you lose a fixed
+amount of money as long as the option is
+stuck between 95 and 105 but any amount
+below 95 or greater than 105 your
+position starts to progress in the money
+and soon makes an outright profit
+depending on the premiums you paid and
+selling a strangle is the reverse you
+get a fixed locked in return at those
+points but if it moves away from one of
+the strikes to the other you start to
+lose it's just a wider version instead
+of having converge at one point you
+converges at a range of point of prices
+these are the most common strategies
+apart from vertical spreads which a
+vertical spread is simply when you buy a
+put or call at One Price closer to the
+money and you you sell another putter
+call out of the money so you collect a
+fixed amount if it moves through your
+range so and say for example I buy a
+stock there's a stock at 100 and I buy a
+like a call at a 105 and I sell a call
+at 115 and so my maximum I'm going to
+make is 10 because selling the call
+basically calls out any of my gains
+above 115 and but the same time by
+selling that call if I bought the the
+stock the The Call by itself it'd be $5
+to save for this example so I have more
+upside but I need it to move up a lot
+more to make a profit whereas I buy the
+spread the spread may only cost $2 cuz
+I'm selling an out of the money against
+it so I'm only risking I'm risking $2 to
+make 10 and so a lot of these spreads
+offer more attractive risk reward ratios
+than just buying the option outright
+especially when volatility is high by
+doing vertical spreads you're making
+more of a pure directional bet and less
+of an implied volatility bet because
+especially if skew is high because a lot
+of the implied volatility from selling
+the call out compensate for the
+volatility you are buying from closer to
+the money call it works the same with
+puts too so that is those are vertical
+spreads and then there are time spreads
+where you buy an option at the same
+strike but at two different expirations
+and the reason you do this or you buy it
+one and sell it the other and the reason
+you do this is you expect an event to
+happen in a certain time and so if you
+expect the event to happen after one
+strike but before the next you can sell
+the front money month and buy the later
+month which basically you can have the
+like the the the upside move or the
+increased volatility expectation of the
+event with at a lower price because you
+can sell the front month if you're
+confident for example that you know that
+this event will not happen in this point
+and if it's too well telegraphed the
+Market's going to price this in but
+there are certain things where there if
+you just if you can have a good idea of
+the timing of it that it would make
+sense to have a time spread then there
+are also diagonal spreads which are a
+Time spread and a vertical spread at the
+same time you're trading a different
+strike a different part of the term
+structure those are called diagonal
+spreads and then there's some collars
+which are used to lock in certain gains
+it's where you like and usually these
+are done with a stock to protect
+existing gains but you could sometimes
+do it without them and you can kind of
+get like a similar to a synthetic Bond
+type per turn where you basically buy a
+put and you sell a call a similar
+distance out of the money and you want
+this to be close to as break even as
+possible you buy a call and sell a put
+which is a risk reversal it's high a
+synthetic of owning the equity itself
+but maybe possibly a cheaper entry point
+but you have the same risk profile so
+like if the stock moves down more a
+certain price you have the same downside
+as owning the stock and if it moves up
+beyond the certain strike you have the
+same pay out as owning a stock but if
+you think a Stock's going to do nothing
+you don't waste your Capital holding
+this underlying so that's what a risk
+reversal is and then the last one I'm
+going to talk about next I'm going to be
+talking about some more advanced option
+strategies one is a butterfly which is
+betting on a neutral movement of the
+stock kind of like selling a straddle
+but a little bit safer it's when you're
+really trying to Target a very specific
+price the way you set this up is you buy
+one lower strike out of the money call
+you sell two at the money calls and you
+buy one Higher out of the- money calls
+you make money if it stays near the mid
+price where you sold the calls that's
+where you make the most money you lose
+if the stock moves too much in either
+direction and your risk is limited
+because you are buying the lower strikes
+and you're using the premium sold to
+finance the position so it it does
+create a defined risk profile and it
+creates a shape that's kind of if you
+really try with your best imagination
+kind of looks like a butterfly and I'll
+show the image where the stock is now
+you can use it slightly higher prices
+with calls or lower prices with puts a
+condor is similar to a butterfly and
+what this does is that you buy a lower
+strike call you sell a slightly higher
+strike call and you sell another
+slightly higher strike call and you buy
+another higher strike call but you do it
+more in a range and so it's kind of like
+a strangle versus a straddle in this
+sense so it creates a wider hit box than
+a butterfly but it has lower Max profit
+potential than a butterfly so that's
+kind of the tradeoff and it's a similar
+tradeoff you're getting with a strangle
+versus a Str rattle the next really
+thing I'm going to talk about is iron
+butterflies what makes an Iron Butterfly
+iron like that's a question that I think
+that a lot of people have an iron
+version is a synthetic version of the
+regular butterfly strategy but instead
+of using all calls and puts use a
+combination of puts and calls and you
+can use put call parody to create the
+synthetic Alternatives and that's what
+an iron Condor as well and put call
+parity which I should have a term here
+on the visual but I do not but I'm going
+to explain it here is the idea that
+there's a formula that you can use to
+basically create any sort of synthetic
+version of any of the four types of
+elements in the derivative or underlying
+with other pieces and so it's like the
+formula is like put plus stock equals
+call plus Bond and based on that you can
+derive any of the other any of the four
+with a combination of the other three so
+if I wanted a synthetic call what I
+would do is I would own the put I would
+own the stock and I'd be short at the
+bond whereas if I want a synthetic put I
+would be short the stock long the bond
+and long the call and you can do this be
+and create the strategy and the
+directional risk reward setup you want
+without necessarily doing the pure form
+of it and the reason why this is
+important because these it means that
+there should be some sort of they should
+all basically trade in a certain way
+that this cannot be Arbitrage and if it
+can it means there's a way to make
+risk-free profits so like if a put is
+more expensive than buying the call and
+the bond while shorting the stock then
+you would just have one onone position
+you would just you would hedge these
+against each other and lock in an
+Arbitrage so that is put call parity and
+based on that it should be what help you
+determine what the appropriate price is
+to pay for the option relative to the
+other options you have in like in terms
+of trading if I put that in a good way
+sometimes it's kind of hard to explain
+these kind of things you know
+intuitively but can't really put into
+words so that's going to conclude level
+five the next three are going to get a
+little bit even more crazy but I look
+forward to continuing this journey with
+you

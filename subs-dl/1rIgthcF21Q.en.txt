@@ -1,0 +1,607 @@
+I've sent thousands of direct messages
+via LinkedIn, booked hundreds of
+sales calls solely through LinkedIn, and
+the best part is that it was all fully
+automated.  If you don't know me, my
+name is Jayden Lee Lua.  I am the
+founder of Velocity Flow, where
+we build, run, and manage
+revenue growth systems
+for B2B companies across various
+industries.  Today I'm going to show you how I
+automate my prospecting on LinkedIn,
+specifically with Cloud Code and
+using AimFox here.  So, the
+first thing you should do is go to
+aimfox.com.  Uh, you have to click
+on log in.  Obviously, you
+probably don't have an account.
+So make sure you create an account
+, obviously.  The first thing I want to
+explain to you is how to actually create your account
+.  Okay, as you can see here,
+this is mine and my co-founder's.
+This is like a rented avatar that
+we have.  There are a lot of
+great features in AimFox that we
+personally use.  So the first thing you should
+do is click on add
+account.  Click here and you will have two
+options.  You can download the
+AimFox Chrome extension, and I'll
+show you what it does in a second, or
+simply log in with your
+email and password.  It will send a
+notification to your phone and you
+basically just have to
+confirm it.  My account is already
+connected, so let's say I'm going to
+do this.  And if you have the
+Chrome extension, this is exactly what it will
+look like.  You are going to click next.
+Obviously, select your proxy.  And of
+course, it will take forever because
+I'm recording a video.  But yes,
+assuming you proceed to the next
+screen, you just click continue
+and you'll connect your account.  Now, the
+first thing you should do, especially
+if you have a new LinkedIn account,
+is click here and then on
+account settings.  Then click on
+auto-accept connections.  I
+have this enabled too.  It helps warm up
+your account, so to speak.  And then
+you can go here.  And as you can see here,
+it has the warm-up mode activated.
+So what this does is
+basically like sending
+cold emails, right?  When you buy
+new sending domains, if you start
+sending hundreds of
+connection requests and outreach messages on
+LinkedIn with a new account without, you
+know, warming up the account first,
+then your account will be banned,
+you understand?  Because you look like a spammer, and rightly so
+, don't you think?  So, the first thing you should
+do is activate the
+warm-up.  And this is the
+configuration I have on mine.
+Well, I have 200
+connection requests, 150 message requests
+, and
+150 InMails. You can choose the
+warm-up speed.  So, let's say you just
+bought the account and it will start
+sending in, you know, next
+week or the week after, you can put it
+on fast.  I always keep mine in the
+middle, and you should also leave it
+warming up.  Essentially, the same as
+with cold mail.  But
+you can also do some other things here
+.  They have Sales
+Navigator contracts.  So you can click, you
+know, on Sales Navigator here to
+make sure you can actually use
+Sales Navigator and send the allowed number of
+InMails with Sales Navigator,
+as well as the connection notes
+too.  And then you need to make sure you
+have the range position.  Now,
+you have to pay for a subscription,
+obviously.  But you can also
+rent avatars.  So, if you don't
+want to use your main account for
+outreach, you can
+rent avatars.  We do
+this for some clients as well.
+So you can click on rent
+avatars, and this will be the price.
+You have to buy a minimum of three,
+and it will be 129 per account.  It will be
+around 387. If you already have your
+account, however, it will be $50
+per account you have here, per
+reach position, right?  So, for
+me, let's just say my business partner and
+I are the only ones here.  By the way,
+this is just one of our
+workspaces, but let's just say my
+business partner and I are the only ones here.
+It will be $50 each.  We pay 99
+a month for Aimfox.  So, it's
+relatively cheap in that sense.
+So, that's billing,
+essentially.  And then you'll want to
+warm up your account.  So, assuming you've
+already connected and warmed up your
+account, I'll now show you how to
+connect it to Cloud Code so
+you can automate scoping and
+configure it.  Before Cloud Code and the
+addition of this integration,
+you had to manually log in and
+configure the campaign, right? And I'll
+show you how to do that too.
+You would simply click on campaigns,
+create a new one, and basically
+have to do everything manually.
+But obviously, with Cloud Code, it helps
+a lot.  Basically, you can
+automate everything.  So you'll want to
+click on integrations here, and
+then you can click on MCP server
+.  It will take you to the MCP server.  And then,
+if you click on Cloud Code here, it will
+tell you exactly what to do.  You're going to
+navigate to Cloud, click on the
+profile icon in the bottom
+left corner, go to the settings menu,
+you'll want to add a connector, paste it and
+call it Aimfox, okay?  So
+, I'm going to guide you step by step on
+how to do that right now.  You want to
+click there.  You want to go to Cloud
+Code.  Oh my God!, you can
+see my chats.  You need to go to Cloud Code and
+then click on customize, I think.
+And then you'll click on connectors.
+Then you'll want to add a connector,
+add a custom connector.
+Next, name it Aimfox and
+simply copy this.  Ready.
+Continue.  And obviously mine is already
+connected.  I'm not really sure
+what this is.  But you can simply
+click add and you should be all
+set.  You are not yet connected to
+Aimfox.  Let's see why.  I'm
+showing you how to do this in
+real time.  I already have it set up on
+mine, but it will ask you to log in
+.  So I'm going to click
+continue and grant access.  Continue.
+Give him all the access you want.
+Continue.  Then it says that I already logged in
+, as I said.  Good.  So, what
+we're going to do now is go back to
+Claude code.  And mine, of course, has just
+disappeared.  Okay, let's go
+back to Claude Code, and I'm going to
+show you exactly how to set up
+a campaign.  Very quickly, if you want
+us to create, execute and
+manage all your outbound campaigns
+, whether by cold email or
+LinkedIn, simply click on the
+first link in the description and
+book a free call.  Okay, the
+first thing we're going to do is
+make sure Aim Fox is
+connected and working, right?
+So as not to waste our time.  Well, what we're going
+to say is, obviously I
+have Whisper Flow.  I highly recommend it
+, I have no affiliation or anything,
+but I strongly recommend that
+you get Whisper Flow.  This way, when
+they are in a deep
+Claude Code session, they can speak to him
+directly instead of typing.  But
+basically, what they're going to tell him is
+that they want to make sure he's
+connected, right?  Hey, just
+checking if the Aim Fox connector
+is connected in this session.  And
+then it will tell you if it's connected.
+Okay, great.  Yes, it's connected.
+Good.  So, now what we're going to
+do is ask you to set up an
+outreach campaign.  Good.  So, what we'll do
+is tell you
+exactly what we want and which account we
+want to use, okay?  Okay,
+great.  I need you to set up a
+broadcast campaign for
+third-degree connections.  I will be addressing
+specifically
+mergers and acquisitions (M&A) advisory firms.
+I want to talk to the founders, the
+owners, the CEOs,
+or the co-founders.  Give me as many as
+possible.  And then I want to set up
+a connection flow where I want to
+connect with them on LinkedIn.  An
+hour later, react to one of their
+posts and then send them a
+message via InMail.  Can you
+set this up for me?  And what used to
+take, you know, maybe 45 minutes
+to set up yourself,
+Claude Code will basically take care
+of everything for you.  Alright?  So I'm
+going to pause the recording while it
+works its magic.  Okay, it's finished now and
+showed some errors here, which
+usually never happens to me.  Perhaps it's
+because I'm in the normal terminal
+and I usually use Visual Studio Code,
+but it says it doesn't have access to
+basically search for
+potential clients.  Well, they really have
+two options in this situation.  Um,
+you can come back here and basically
+set up the campaign yourself, and I'll
+show you how to do both in a
+second.  But the easiest way, um
+, is if you already have a list of people
+, whether from a cold email campaign
+you set up when you got
+their LinkedIn and you want to contact them through
+LinkedIn as well.  So, the way we
+set it up is that in our Email
+Bison, when leads don't
+respond within 3 days,
+they're sent directly to a
+LinkedIn campaign on Aim Fox. Um, this is
+all done with Claude, by the way.  They are
+sent to a LinkedIn campaign that
+is constantly running on
+Aim Fox and contacting them.  So, we're
+contacting them both
+ways.  Um, and they see our name
+, um, all the time, basically,
+right?  They see it in their email, they see it on
+their LinkedIn.  Um, we connected with them
+on LinkedIn.  Um, so that's more or
+less the strategy we use.  So
+, you can do that, you can
+just drop a CSV and give it to
+Claude and tell Claude to
+set it up for you, or you could extract it
+manually yourself.  But in this
+case, I'll simply say to use the CSV I
+already have, so I can show you
+how the flow actually works.  So
+, I'll just tell Claude, um, I have
+a list of M&A advisors in my
+Email Bison and I want you to use that list
+of people I have.  Um, just use
+like 50 of them for this example and
+set up a campaign with those
+people.  And then I'll just tell him that, and he'll
+basically go and get that list.
+Um, I hope Email Bison is
+set up in the terminal, because if it's
+not, it'll give me a problem, um, but we'll
+see.  Okay, great.  So, Claude
+proceeded to get those leads from Email
+Bison, um, and they're all right here.
+So, I uploaded them.  I only did 213, um,
+for the purposes of this example.  He's over
+50. This is the
+Eminent Advisor.  So, he got these leads
+from Email Bison.  We're already
+contacting them and then proceeded to
+put them on an Aim Fox campaign, um
+, and also set up the
+connection flow for me.  Well, if you're going to
+see if it shows it to me, because I just started it up
+live.  Yes, this is the
+connection flow right here.  As
+you can see here, connection flow A.
+So, how does this actually work?
+Let me pause the campaign to
+show you live how it works.
+You can give the campaign a name,
+obviously.  I only set
+connection flow A. But what will happen, what
+Aimfox will do, is make you see the
+target profile immediately
+before connecting.  This mimics
+real activity, you know, like
+actual account activity.  And then
+it will send a connection request.
+You can also add a
+connection note.  They have
+pre-designed templates that you can use.  Let's say,
+like this, for example.  What this
+will do is add a warm connection
+based on your profile.  You know, "Hi
+Stephen, I'm always impressed by the
+leadership you've shown."  I
+don't really use these that much.  If you use them, don't
+use AI ones because I see them a lot in
+my direct messages these days.  But
+yes, I would prefer to create my
+own.  But I'm not going to add a
+connection note.  Let me turn this off.
+Rule out.  Okay, or delete.  Perfect.
+You can add a connection note, and I
+think you can even make
+voice notes in emails too.  But we'll
+also want to react to
+a post.  We want to react to
+a post one hour after
+contacting them.  We can activate that.  And
+this is the copy sequence we
+have prepared.  And you can even
+add follow-up messages
+too.  You can back up a
+skill.  There are so many great things you
+can actually do here.  I'll just
+leave it at the basics,
+probably this, and add a
+follow-up message.  Taking a
+different approach, offering a
+lead magnet mechanism.  And this is
+the schedule I have here.  I have it from
+Monday to Saturday.  I'm going to show you how to
+manually set up this campaign if you do
+n't already have a prospect list.
+What you're going to do is go on campaigns.
+You are going to click on create campaign.
+Now, you have outbound campaigns and
+you have inbound campaigns.  Good?
+So, obviously we're going to run
+exit campaigns.  This could be
+LinkedIn search, people who
+interact with posts,
+group members, Sales Navigator,
+event attendees, a
+custom list, or a CRM.  Um,
+you can even upload leads from your CRM,
+which is very useful, and I have Claude do it
+for me.  Um, but you're going to click
+on Sales Navigator, then you can
+click next, and then
+you select the account.  So I'm going to
+do this, we'll just do it for
+my business partner's account.
+We want to give the campaign a name
+.  Um, I'm really bad at this,
+so make sure you do it.  You need to
+give the campaign a name.  Um, and
+then you need to select your
+scope type.  So, if you have a
+Sales Navigator account, you can use InMail.
+Um, but if you're just buying your
+account and don't have Sales Navigator, you
+can simply click on
+login.  Um, but for this one we'll use
+InMail.  We'll do, um, 10 goals just
+to make this much faster, and
+obviously you can filter out people
+who don't have a profile picture, who
+are in active campaigns, or who you
+'ve contacted before.  Good?  Then
+you're going to click on create campaign.  And
+what it will do is take you here to
+Sales Navigator to find your
+potential customers.  What I like to
+do here first is activate the
+"published on LinkedIn" option.  It's
+the first thing I like to activate, and then I
+go to the geographical location.  And
+then I select the
+geographical location I want.  Obviously, for
+this example, I'm going to use the United States
+.  And sometimes the selection box is a
+little slow;  I type something and it appears about
+5 minutes later.  Um, I don't know why he
+does that.  There it is.  Include.  Then
+, geographical location and then the
+profile language.  Um, I only speak
+English, so I'm going to select
+English.  And those are the two things I
+do first.  Now you filter, obviously
+you only use the filters.  It's pretty
+standard if you've ever searched for
+potential clients before.  Um, but you're
+also going to, for example, the
+location of the company's headquarters.
+That's the one I use.  I'm going to include the
+United States, and then you can filter
+by specific people.  Good?
+So, the first thing you want to do
+is select industries.  Let's say I
+'m trying to contact, you know,
+SaaS founders.  I'm going to click on
+software development, and then, or no,
+that's not software development.  Um,
+let me see.  Well, we'll just...
+we want to focus on consulting.   Alright
+?  Then you can click on
+the industry, and then you can
+click on the position, um, your current position.
+So, whether we just want to
+contact founders.  While that
+loads, we can see, okay, perfect.
+So, we just want to reach
+founders.  And after that, I mean
+, it's pretty standard when it comes
+to everything else.  There are a lot
+of things you can filter, um, like
+if you have connections in common, or yeah,
+that's really all I do
+when it comes to segmentation.  Am I
+missing something?  I just want to
+make sure you can click on
+their seniority level if you wish.
+Um, years at the current company, years
+in the position.  But Sales Navigator is
+probably the
+most accurate list-building tool you'll
+ever have because, you know, the data
+is obviously on LinkedIn, and when
+someone changes jobs, they
+update it on their profile.  So it's
+very fast.  Um, but now that we have
+our leads, let's click
+next and what it will do is find
+the exact targets that your filters
+basically selected for
+us.  So, let's give it a
+second for the
+targets to appear.  Okay, great.  As you can see here
+, my goals have appeared.  I'm going to
+click next and this is
+where you'll actually set up
+your campaign flow.  Alright?  So,
+you have your audience here, and since
+we're doing
+InMail optimization, it will look a little different.  Um,
+so we're not making
+connection requests, we're
+doing InMail optimization.  This
+is a really cool feature.
+You can do automatic translation.
+So, you can
+automatically translate messages into the
+recipient's language.  Let's say you're
+contacting someone who speaks
+Spanish, although I don't know why
+you would do that.  Obviously you can turn
+that on, but we filter for people
+who only speak English, but still
+, some people might speak another
+language.  So, we could translate it
+automatically if you want.  And then
+you can also see, um, you can see their
+profile.  So, before connecting with
+them, you view their profile.  And then what we're
+going to do is create the
+emails.  Okay, they have
+pre-configured templates, and we have
+some here too.  You can create a new
+template.  Uh, but I'm almost certain,
+if I'm not mistaken, that you can
+add voice notes.  Uh, I'm not really
+sure where you can do that.
+Let me see.  Okay, I found the
+problem.  It's because this account doesn't
+have a seat, so I'm going to
+switch to my account and it should
+work.  Yes. Okay, great.  So
+now you should, you should let me edit
+this.  Let me refresh your memory.  I'm not going to
+cut out any of the mistakes or anything like that
+because I want to show you what
+this looks like in practice.  Uh, but
+yes, there it is.  Works.  So, if
+that happens to you, it's probably because you do
+n't have an active seat.  Uh, but
+yes, as you can see here, let's say it
+was a SaaS company, we can edit
+this.  We can do something like add
+a file there, and I'm almost certain they
+have voice notes, if I'm not
+mistaken.  I know I've sent
+voice notes before.  It's something pretty good to
+try.  They have spin tax, so
+you can make different variations.  Well
+, as you can see, I usually let Claude do
+everything, so there's some content they
+added, but let's just say it's, you
+know, pretty standard.  Let's...uh
+, let's talk about the name.  Okay, let's talk about the
+name.  Let's do something like a
+lead magnet.  Let's do
+Loom's video strategy.  Hey, I made a
+quick video showing how I can solve
+the XYZ problem for you.  Can I send it to you
+?  Okay.  So obviously
+, you wouldn't want to say "problem XYZ".  Uh
+, what you can do is use AI
+to generate something like a
+placeholder there.  So, where
+can we do that again?  Let me see
+.  Uh, I mean you can use
+occupation.  Okay, great.  So, it's
+this button right here.  You can ask
+the AI ​​to generate the prompt for you.  Uh,
+but basically I'm going to tell him.  So
+, hi, I'm writing a text,
+uh, Loom's video strategy.    That
+will be the name.  I made a quick video
+showing how I can solve the
+XYZ problem for you.  Can I send it to you
+?  I need you to create a
+prompt to put in that
+XYZ problem placeholder.  I need you to
+basically visit their profile and list
+the problem they are most likely
+facing.  And then you can
+simply do something like this.
+Obviously, if you know your industry,
+you can complete this.  I'm just
+showing you the use cases you can
+take advantage of.  Um, but as you can see here,
+boom!  So, let's update this
+and see what happens.  David, I prepared a
+quick video showing how I can
+solve the consistency challenge
+.  Yes, that's pure AI.  So,
+we need to edit that.  Um, the
+words, the sentences are too
+long.  It's clearly AI.  I just need you to
+add three to seven words in
+that placeholder instead of
+a whole paragraph.  Okay, so
+we'll look into that.  Save the changes.
+Let's see what happens.  David, I prepared a
+solve your inconsistent flow
+of qualified leads.  Can I send it to you
+?  I mean, that works.
+Obviously, I would have something much
+better, but as I said, I'm just
+showing you the use cases.  So,
+let's say we want to use that one.    We would
+click save and then
+click next here.  And
+then, as you can see here, you adjust your
+programming.  So I prefer to
+disable it on Sundays because it
+seems to me that not many people are active
+on LinkedIn on Sundays, but even if they
+aren't, they'll see your message on
+Monday.  So it doesn't really matter.
+If you want to maximize that, you can
+click next, um, and then you can
+basically start your campaign.  But
+that's exactly how you
+automate your LinkedIn outreach for
+yourself.  Like I said, I've sent, you
+know, thousands of direct messages.  I have
+booked hundreds of sales calls
+specifically for LinkedIn only.
+Obviously, sending messages
+alone isn't going to, you know, get you an
+incredible number of meetings if you don't
+have a social media presence, because what
+people will do is see your message and
+immediately click on your profile.
+What do you do?  I hope you have a
+good profile picture.  You need to have a
+biography that says exactly what
+you do, and you need to have a presence,
+right?  Whether you post
+YouTube videos there or post
+consistently, reaching people on LinkedIn
+won't work unless you really
+have your profile well-structured.  Um,
+and it might still work in some cases
+, but nine times out of 10 when
+you send a direct message, they'll click
+on your profile to see who you are.  So
+make sure you keep that in mind.
+If you want me to make a video about
+how to optimize your LinkedIn profile, I
+can definitely do that too.
+That's all for this video.  I hope you
+enjoyed it. Check out this video
+here to learn how to send 10,000
+cold emails a day, but I'll
+see you in the next one.  Peace.

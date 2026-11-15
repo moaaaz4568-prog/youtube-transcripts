@@ -1,0 +1,268 @@
+All right. In this video, I'm going to
+be doing a beginner tutorial for
+Prospio. So, if you are considering
+using the platform or want to figure out
+what the platform does, then you are in
+the right place. So, what I'm going to
+be covering in this video is what the
+platform is and what it does. I'm going
+to cover some of the features of the
+platform. So, all the different tools
+inside of it, and then I'm going to be
+showing you a realworld use case using
+the Chrome extension and uh using inside
+of Clay, which is my preferred way of
+doing it. So jumping in, this is
+Prospio. What Prospio is is it's a data
+enrichment tool. Meaning it's not a
+database where it stores a ton of data.
+It's an enrichment tool. So you provide
+data to Prospio. For example, first
+name, last name, and company website.
+And it can output a lot of things like
+their emails, uh other emails, uh at the
+company. You can find mobile phone
+numbers of people. So for example, if
+you have a contact and you're trying to
+find their mobile phone number, this can
+be a really useful platform. It can help
+verify emails and it also has a Chrome
+extension. So, jumping in, I'm going to
+jump into their platform. And by the
+way, I have an affiliate link. So, if
+you want to sign up to Prospio, if you
+use my link, you get 30% or 20% more
+credits. I think it's 20%. Uh 20% more
+credits in the first three months. So,
+if you're going to use the platform,
+might as well use my link. That's a
+shameless plug. But anyways, jumping
+into the platform, you can see it has a
+few tools here on the lefth hand side.
+I'm going to go top to bottom. So the
+email finder, if you go over here to
+unique finder, what you can do here is
+plug in someone's full name and their
+company website and it can output their
+domain. So as an example, if I put in my
+name, Matt uh Lucero, and I put in my
+company's website, anomarketing.com, and
+I press find email address, you can see
+it found my email. And so if you're
+trying to find specific emails for
+specific people, this can be very
+useful. You can also do this in mass.
+So, if you want to upload a big list of
+people's info and you want to find their
+emails, as an example, let's say you
+want to export your CRM data and upload
+it into Prospio, it can help you find
+more emails. And so, you can upload a
+file and then you can do this in mass.
+So, that's just one of the features. Um,
+I prefer to do this in Clay, which I'm
+going to show you how to do in a second.
+The next one is the mobile phone number
+finder. So, um, again, you can plug in
+someone's LinkedIn URL, you can find
+their mobile phone number. Same thing
+with the bulk finder. You can do this at
+scale. Again, really common use case is
+if you have a CRM or if you're trying to
+do a cold calling campaign, you can get
+a list from any major data provider like
+Sales Navigator, um, Apollo or anything
+like that or even Clay and then you can
+use Prospio to find their mobile phone
+number data. Um, moving on here, saved
+leads. This is if you want to build a
+list. This is also useful if you're
+scraping uh directly from Sales
+Navigator, which Prospio lets you do.
+And then, uh, domain search. So, this is
+useful if you want to find all the
+different emails on a company's domain.
+And again, um this is useful for a
+couple kind of more niche purposes in my
+opinion. One way that I like to use this
+is for companies that are smaller and
+are more bluecollar. For example, like
+an HVAC company, you can use this to
+find emails because it's really hard to
+find decision-maker emails because they
+might not even exist. So, as an example,
+if there's tomtomsroofing.com,
+Tom might not have a tomtomroofing.com
+email, it might just be contact at or
+support at or something like that. And
+so, this can be really useful if you're
+just trying to find any email at a
+company. And a really common use case is
+if they're a local like bluecollar type
+of business and they're smaller. And
+then lastly, there's an email
+verification tool. So, if you want to
+verify emails to see if they're good to
+email, you can do that in here. And you
+can also use list to kind of sort data.
+So now moving on, I want to show you the
+Chrome extension. So um I'm over here on
+LinkedIn and let's say for example, we
+have Vibov here from Smartle. This is
+the cold email sending tool I use. Um
+and so I'm I have the founders page up
+here. If I want to reach out to Mr.
+Vibov here from Smartle, I can install
+their Chrome extension, which is very
+easy to install, and I can press find uh
+email or find mobile phone number, and
+that'll let me find that together in one
+go. I'm not going to press these because
+I don't want more editing work. But if I
+want to find someone's email or mobile
+phone number, you can do that here on an
+individual basis. And you can also use
+it inside of Sales Navigator if you want
+to scrape people via Sales Navigator. I
+personally don't use uh the Chrome
+extension a whole lot because I use Clay
+and a few of these other tools. And so
+I'm going to show you that here in a
+second. But this is useful if you do
+some manual prospecting work on LinkedIn
+and you want to grab people's data. I'm
+going to show you how I like to use it.
+So, I'm going to hop over here into
+Clay. If you don't know what Clay is,
+you're probably living under a rock. Um,
+but basically, Clay is a data tool where
+you can basically play around with a lot
+of data in one central platform. And so,
+I'm jumping into Clay here. And what uh
+I'm going to do is I'm going to just
+scrape a list of people. And then I'm
+going to use Prospio to kind of fill in
+the gaps with the data. So, inside Clay,
+I can scrape a big list. And so, I'm
+going to go over here to find people.
+And I'm just going to scrape a dummy
+list. So, I'm going to find people in
+the United States. I'm going to find
+people that have a CEO level job title
+or seuite level job title. And then I'm
+also going to filter for I'm going to
+filter for uh 10 people. And then I'm
+going to filter for company attributes.
+I'm going to do company size of 11 to
+50. So, small mediumish size businesses.
+And then I'm going to press continue
+here. And I'm going to import this. I'm
+actually going to bump this up to 50.
+I'm going to continue and import this
+into a new table. So, what I just did
+here was a really basic scrape. You can
+do this inside of Clay. You can do this
+inside of Apollo. And you can see here
+it already prompts you to try and find
+emails. Now, there's two ways you can
+find emails using Prospio. So, one is
+that you can tick one of these boxes.
+And what it'll do is a waterfall. And
+what a waterfall is is not only does it
+leverage a tool like Prospio, you can
+see it leverages lead magic, find email,
+and a bunch of other data tools. That
+way you can get maximum amount of data
+coverage. So you're not just using one
+platform or what I'm going to do here is
+just use Prospio. So I'm going to go
+over here. I'm going to filter for
+people that have websites because if
+they don't have a website, then you're
+not going to be able to find someone's
+email. So I'm going to say their email
+or company domain is not empty. So
+people that actually have a company
+domain. Um the hit rate should be pretty
+high here out of this random sample that
+we scraped here. I'm going to wait a
+second for it to load. All right. Right.
+So, it looked like all of them actually
+had domains, which is awesome. And so,
+I'll show you. This is how I like to use
+Prospio typically is I'll either export,
+again, if you're using your CRM, you can
+export your data from your CRM into
+Clay. You can upload directly to
+Prospio, but I end up doing a lot of
+enrichments at once usually. So, uh
+going here into Clay, I can press add
+enrichment and I can just type Prospio
+in here natively. So, I'm going to type
+Prospio. And what this will allow me to
+do is again search for the data in one
+place. And so if I want to find all
+these people's work emails, I can press
+this or their mobile phone numbers. I'm
+going to do work email. One thing that's
+uh really nice too, Clay, you can either
+pay via Clay credits or you can hook up
+your Prospio API key, which is what I
+do. And then I can go over here and it
+automatically map those two fields for
+uh full name and company domain. I can
+press continue and add to fields. And
+then I can save and run this 50 times.
+Now, what Prospiel will go do since I
+fed it a giant list is it'll go out and
+try and find all these people's emails,
+which is going to be very useful instead
+of me having to go manually and sift
+through all these accounts myself. And
+so, I can do this in one click of the
+button. You can see here it's loading
+in. And again, I'm going to uh blur this
+out here so you don't see all these
+people's info, but you can see here it
+had a pretty good hit rate. It looks
+like it's a little more than 50% of the
+people. Um, and so I can click in here
+and it also shows you the email status.
+So you can see here this is a valid
+email. It also does validation in one
+step. And so if I want to take this and
+plug this into another tool, I can do
+that in one step. Alternatively, what I
+like to do too is not just leverage
+Prospio so you can get maximum data
+coverage. You can go over here and press
+add enrichment and I can add other data
+tools in a waterfall. That way I can get
+as much uh data as possible. But I like
+to use uh Prospio in my waterfall. That
+way I can get maximum data coverage. And
+so you can also leverage additional data
+tools. I like to think of data as not
+just like a one-sizefits-all solution.
+There's a bunch of different providers
+that you can layer on as well, but
+Prospio is one of the many that I use in
+the mix and it's one of the most
+frequently used ones so that we can get
+as much data as possible. And so that's
+how to use Prospio at a super high
+level. Again, if you're considering
+using it, this is how you can use it.
+Um, if you want to check it out, again,
+shameless plug. I have an affiliate link
+if you want to use that. you get some
+free uh extra credits whenever you sign
+up and do a paid plan. Um, and again,
+really appreciate you watching this
+video. If you want to see other videos
+on this channel talking about cold
+email, scraping data, and uh outbound
+sales as a whole, you can check out the
+other videos on the channel. really
+appreciate you watching this and hope
+you have a great rest of your

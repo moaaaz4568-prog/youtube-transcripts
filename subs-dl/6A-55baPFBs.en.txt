@@ -1,0 +1,1272 @@
+Sending cold emails and making cold
+calls both work, but using them together
+makes them both work even better. I know
+this because my team and I have booked
+about 5,000 sales calls using cold
+outreach, and over the past few months
+we booked an additional 900 sales calls
+simply by layering on a warm calling
+system on top of our existing cold email
+system. Most teams don't organize their
+cold outreach systems well, and that's
+exactly why they're leaving sales
+meetings and additional revenue on the
+table. So, in this video I'm going to
+show you the exact cold outreach system
+we run mapped out step-by-step so you
+can implement the best cold outreach
+strategy that I know of right now. All
+right, so here's what we're going to be
+covering in this video. First, we're
+going to talk about the outreach
+infrastructure so you can do both cold
+calling and cold email. So, we're going
+to be talking about the potential team
+members you need, the tech stack that
+you need, how you can set up that tech
+stack at a high level, and basically how
+you can organize the system from an
+infrastructure perspective. Now, after
+you have that set up, we're going to
+talk about how you can actually set up
+these cold outreach campaigns. So, how
+to build the lists properly, and how to
+set up the campaigns properly so that
+you are set up for success. And then the
+last thing we're going to be talking
+about is the appointment setting system.
+So, this is basically how you
+orchestrate the cold email with the warm
+calling or the cold calling with the
+cold email, and basically how you merge
+the entire system together, make sure
+that you are getting sales meetings on
+your calendar. Now, before I show you
+this system, I want to make sure that
+you understand exactly why this
+combination is so much more powerful
+than running either channel on its own.
+So, sending cold emails by themselves
+can be an insanely effective strategy.
+You can set up some email accounts, you
+can set up some infrastructure, and you
+can send hundreds, thousands, or even
+tens of thousands of cold emails per
+day, and that is exactly why it is so
+effective. It's because you can send so
+much volume at scale in an automated
+fashion. If you were to try and cold
+call 100 people a day, you could do that
+by yourself or maybe with one person on
+your team, but if you want to do 10,000
+cold calls a day, you either need to be
+doing crazy parallel dialing, which in
+my experience isn't that effective, or
+you need a huge SEO team, which costs a
+ton of money. The main benefit of cold
+email compared to cold calling is simply
+how many people you can reach for the
+cost. You can reach hundreds, thousands,
+or tens of thousands of people a day by
+clicking some buttons on a computer
+screen and not really having to hire a
+huge team to do it. However, if you want
+to do that by cold calling people, you
+might need to hire a couple reps or even
+dozens of reps, which if you start
+adding up those costs, it can get very
+expensive very quick. Now, on the other
+hand, whenever you cold call people, it
+is so effective because when you call
+someone, you are there hand-to-hand
+combat talking to someone directly on
+the phone. You don't have to deal with
+not getting responded to cuz you were
+talking to the person directly on the
+phone. So, you can get direct feedback
+on the offer. You can overcome
+objections. So, if you send a cold email
+and someone's not interested, on a cold
+call you can overcome those objections,
+which makes one cold call a lot more
+effective than one cold email. However,
+again, the downside of cold calling is
+simply the cost. So, cold email excels
+by sending a ton of volume in an
+automated fashion, and it allows you to
+reach a ton of people. Cold calling, on
+the other hand, is more effective per
+dial done compared to per email sent,
+but each one of those dials is a lot
+more expensive. So, if you're cold
+calling a huge audience, you end up
+wasting a ton of money and a ton of time
+calling a bunch of people that weren't
+even interested in the first place. And
+so, those two reasons are exactly why
+cold calling and cold email work
+perfectly together. The reason why is
+because you can use cold email to do the
+volume approach, to reach out to
+thousands of people or tens of thousands
+of people per day. Because when you send
+cold emails by themselves, you might get
+a ton of people that respond. You might
+get a smaller fraction of those people
+that say they're interested, but a lot
+of those people that say that they're
+interested don't end up booking a call
+because again, there's only so much
+attention you can give them over email.
+If someone responds to your email and
+they say, "Yes, I'm interested." and you
+try and book that meeting and they don't
+respond to you, it doesn't leave you
+with a ton of options other than sending
+another email over and over again. But,
+if you have someone who cold calls them,
+you can get right in front of their
+face, get the objection that they had or
+that was stopping them from booking the
+call, and focus way more attention on
+the few people that actually said that
+they were interested. So, just to show
+you how effective this strategy actually
+is, I have my Salesfinity dashboard
+pulled up here. This is the tool that we
+use to make dials, and for reference, we
+have three sales development reps on our
+team. Only two of them are making dials
+because one of them is just triaging
+incoming responses, and you can see here
+that over the last 30 days we made 7,255
+dials and we set 79 meetings. And I
+think there's a few more meetings that
+aren't tracked in Salesfinity here, but
+just for the sake of this demonstration,
+I'm going to show these numbers. And the
+other thing to keep in mind is that we
+only have two reps calling here and
+they're only calling on the business
+days. So, this is a 30-day period, but
+really they're only dialing 20 out of
+those 30 days. So, that means that if
+you assume 79 meetings and them dialing
+across 20 or so days, that means they're
+averaging about two meetings per day per
+rep, which is pretty good. Now, when you
+compare that to this article where you
+can see that Salesfinity analyzed 3.57
+million outbound dials and found that
+the average B2B SDR takes 400 dials to
+book one meeting, you can see that this
+is about four times more effective.
+We're getting about one meeting in this
+data set for every 90 or so dials. Now,
+again, this is a data set too that I
+want to keep in mind. Some of these
+calls that they're making are pure cold
+calls as well. So, if you look at the
+combined cold email and cold calling
+stats together whenever you mix them, I
+think these numbers are even better. The
+last data set I checked where we were
+purely doing that, I think we were
+getting about one meeting for every 20
+to 40 dials made, which is very good.
+And just to show you our internal stats,
+so this is Airtable and what we use to
+track all of our dials, not just the
+stuff in Salesfinity. You can see as
+we've been running this dialing process,
+we've booked about 917 meetings through
+calling, and this is over multiple
+months as well. But, just to show you
+how effective this is, these are the
+stats in the last 30 days, and this is
+only with two reps. We had up to four
+reps at one point making calls, and so
+we've narrowed the team down a little
+bit more to the top performers. And as
+you can see here, when you implement
+this strategy well, you can get a lot
+more meetings on your calendar. The big
+takeaway that I just want to highlight
+here is that cold calling and cold email
+both work, but when you do them
+together, they work a lot better.
+Because when you're sending cold emails
+and people say they're interested, if
+you're not following up with those
+people through as many channels as
+possible, whether that's calling them
+over and over again, you are not going
+to be booking as many meetings as you
+possibly could be. So now that you know
+why this works, let me show you what the
+actual system looks like because it's a
+lot simpler than what most people think.
+So let's just jump into that. All right,
+so I've done a bunch of talking here. I
+want to jump in and show you the system.
+There's three things here, the outreach
+infrastructure, which are the people and
+the tools that you need to make this
+successful, the list building and the
+campaign setup, so the scripts that
+you'll use, how you can scrape the leads
+and all the kind of tactical stuff to
+build all the stuff out, and then the
+appointment setting system, which
+converts interested leads into booked
+calls, layering on the calling element
+along with email responses. Now, there's
+a lot here. I actually redid this
+because I want to make sure that I had
+as much tactical detail as possible
+showing you real scripts, real examples,
+and stuff that you can swipe directly
+into your business to make this as good
+as possible for you. So you're going to
+want to stick around all the way to the
+end. So the first thing we're going to
+talk about here is the outreach
+infrastructure. And as you might have
+noticed here, everything's color-coded
+because I have three roles here, which
+if I were to build an internal team,
+these are the roles that I would build
+out. And funny enough, at our agency,
+these are the kind of three core roles
+that we give all of our clients whenever
+they work with us. So if you want to
+build this system inside your own
+business, I would recommend you
+replicate what we have built out because
+we send millions of cold emails, and
+I've thought through this team structure
+a lot. If you were to try and run this
+in-house, there's kind of three core
+team members that I would say would be
+useful for you to have, unless you want
+to try and do all of this yourself, or
+maybe you want to do one or two of these
+roles yourself. The first one is the
+go-to-market lead. So this is the person
+who oversees the entire project. This is
+a 100K per year or more role. This is
+the type of person who understands cold
+outreach, demand generation, and
+marketing inside and out, and that's why
+this person gets paid so much and even
+higher than this. And what I see a lot
+of people trying to do is mix this role
+in with the strategist role, which I'm
+going to get to here in a second, which
+you could do, but the reason why I have
+these roles separated out is because
+there's a lot of work that a strategist
+might do, and it is a lot of button
+pushing work, and that might be kind of
+a more lower-level job, and I recommend
+that you separate them out just because
+there's so much stuff kind of baked into
+what most people try and jam into and so
+this go-to-market lead role, this is a
+six-figure role or maybe even
+multi-six-figure role where they kind of
+oversee the entire project, make sure
+everything's done right, and they have a
+deep understanding of how to turn a
+stranger into someone who's interested
+in your service, which takes typically
+three-plus years of experience and tons
+of doing the reps. That's the first
+role. The second role is the
+go-to-market strategist or what some
+people call a go-to-market engineer.
+This is a more tactical role where they
+are actually pressing the buttons,
+building the campaigns, and building
+everything out. Now, this person's job
+is to basically operate the campaigns,
+build all the lists, write all the
+scripts, upload everything, make sure
+everything is good, and the go-to-market
+lead, you know, would quality check this
+work to make sure that everything's done
+well. And this is the person who's doing
+a lot of the day-to-day building. Now,
+the reason why these roles are separated
+out in the structure that I run is
+because a lot of people I see trying to
+jam these together, call it a
+go-to-market engineer, expect them to do
+everything, but the reality is is
+there's so many subtle things that need
+to be done in a system like this, which
+is why you should separate out these
+roles, and because the work of doing the
+stuff is typically something you can pay
+a little bit less for compared to
+someone who has really deep experience
+and would lead a project, which is why
+there's a salary discrepancy. Now, I say
+you can hire from 40 to 80K a year. This
+is really depending on if you want to
+hire onshore or offshore, and again, you
+can pay way more for this. I'm trying to
+also be budget conscious for the people
+watching this video, and if you want to
+build out this team, this is what this
+would look like. And the third role is
+the SDR. This person's job is just to
+book meetings on your calendar. This
+person should just be calling 24/7, just
+be following up with leads. This salary
+range is assuming you're going off shore
+and you want to find the cheapest
+possible person. You are not going to
+find anyone who I think is going to be
+phenomenal for less than 20k here. And
+when I say phenomenal, I mean someone
+who can actually do the job. Uh
+realistically, if you want someone
+phenomenal, you're going to want to pay
+more towards the top end of this comp
+range. And this is more of a
+performance-based role where their job
+is just to call and dial leads and make
+sure they get on the calendar. So, you
+can do all of these roles yourself. Just
+keep in mind that it is a fair amount of
+work and it does require a fair amount
+of input and strategy and that's why in
+my business, we manage a bunch of
+clients. These are the three kind of
+roles that we hire for and if you want
+to build an in-house team, I'd be
+looking to hire these types of people.
+And if you work with us, you got these
+three people working for you. Now, the
+tools that you need to have. This is
+what we have in this kind of bottom
+portion here. There's a few different
+buckets of tools you're going to want.
+The first tools you're going to need are
+data platforms. So, this is where you're
+going to source the contacts, where
+you're going to find the leads, where
+you're going to scrape the leads, going
+to get their data from. These are tools
+like clay.com, apollo.io, prospio to
+source phone numbers, listment to
+validate the email addresses that you're
+reaching out to. These are the tools
+you're sourcing to find the decision
+makers that you want to reach out to and
+make sure that you get in front of them.
+The second thing you're going to want to
+set up is your multi-domain email
+infrastructure. So, basically, when you
+send cold emails, you want to make sure
+you are not sending from one email
+account because if you do that, you're
+going to land in spam, your email
+accounts are going to get banned because
+these trillion-dollar companies like
+Google and Microsoft know that if you
+send a bunch of emails from one account
+in a spammy way, that you're going to
+get flagged as spam. Now, if you spread
+it across multiple accounts, you'll look
+a lot less spammy, you'll be able to get
+under the spam filters and your accounts
+won't get suspended or have nearly as
+many issues. And the way that you do
+this is purchase multiple domains, like
+I have here, and multiple email
+accounts. And using a tool like
+smartlead.ai, you can connect all these
+accounts in one place and send emails
+out from all of them. So, this is how
+you kind of orchestrate everything
+together. So, just to say that again,
+the first thing you're going to need a
+data platform to find the people you're
+reaching out to. After you have your
+data platform, you're going to need the
+backbone email sending engine, which
+means you're going to have to set up
+multiple domains and multiple email
+accounts under those domains. And then
+you're going to connect it to a tool
+like SmartLead where you can send those
+emails from. Now, I also threw in here
+HeyReach. This is a tool you can do
+LinkedIn outreach from. And this would
+all go under the responsibility of a
+go-to-market strategist. So, again,
+data, email backbone, and then email
+sending tool itself. Now, the SDR, the
+only tool that this person should be
+worried about is the dialing platform
+and making sure that the people they're
+calling actually are mobile phone
+numbers, not landline numbers. Do not do
+parallel dialing in any of these
+platforms. So, basically, when you're
+using a dialing platform, you can either
+choose to dial people one by one, which
+is what I recommend, or you can parallel
+dial. That's where you're calling like
+five people at once. Now, the reason why
+that doesn't work as well is because if
+you call a bunch of people at the same
+time, whenever they pick up the phone,
+there's like a delay between whenever
+you call them and it connects to you,
+which makes it less likely that they are
+going to convert into a meeting. I don't
+know if you've experienced this, but if
+you get a phone call and you say hello
+and there's like a 5-second delay and
+then someone starts talking, that's
+because they're using a parallel dialing
+software. I do not recommend it. I mean,
+it also burns out your phone numbers
+faster. So, I recommend you use
+SalesFinity or a tool like SalesFinity.
+There's tons of tools like Orum, Noocs,
+and Kixie that all can do dialing. So,
+those are just a few tools you can use.
+A big question I get asked is like how
+do you screen for gatekeepers or get
+around that? If you just use a tool like
+Clearout Phone, whenever you're sourcing
+the mobile phone numbers that you are
+scraping, you can filter out the people
+that aren't mobile phone numbers. So,
+like the landlines or the voice over IP
+numbers. And this allows you to have
+better connect rates and whatnot. So,
+just to recap, three people you can
+hire, go-to-market lead. This is the
+person who is very skilled, oversees the
+project. Strategist, this is the person
+who builds the list, writes the scripts,
+and manages all the tools here. And then
+SDR, this is the person who calls the
+people and manages the appointment
+setting process. So, that's the
+infrastructure that goes into
+everything. You can do all of these
+yourself. You're just doing basically
+three full-time jobs here. And if you
+are very skilled at leading a team, like
+really this go-to-market lead is just
+someone who has a ton of experience
+doing this and understands the product
+or service very well or can quickly pick
+up a product or service. And so, maybe
+this is something that you replace or
+chief marketing officer if they're
+skilled enough. And then, these are
+roles that you can, you know, kind of
+hire out for. But, if you were to build
+a team, this is the team structure I'd
+recommend. This is how we build our
+teams. And then, if someone were to work
+with our cold outreach agency, these are
+the three people that they work with
+because we found this to be the team
+structure that works best. So, that's
+the outreach infrastructure covered.
+That is the way you want to do this. And
+moving on here, let's talk about how you
+can actually set up the campaign. The
+first part of the campaign setup is
+mapping out your TAM and your ICP. Your
+TAM is your total addressable market.
+These are all the people you can reach
+out to. And your ICP is your ideal
+client profile. These are the people
+that are most likely going to respond to
+the outreach that you're doing. Just to
+give a diagram of what this looks like,
+this kind of highlights the ways that
+you can break out your market. Your
+total addressable market is every single
+person that can possibly pay you money.
+This is the biggest slice of anyone you
+can work with. Now, within your total
+addressable market, your ideal client
+profile, these are the people that are
+most likely to pay you money. So, maybe
+when you look at the people that close
+at a higher rate, these might be people
+that are more affluent. This might be
+people that have certain characteristics
+you want to filter by. This is a smaller
+segment of all the people you can
+potentially work with, but these are the
+people that have the highest probability
+of having success with any sort of cold
+outreach or paying you money. Now,
+within your ideal client profile, you
+have your segments. So, let's say you
+have this big kind of pool of people you
+can potentially reach out to. There
+might be distinct characteristics that
+some of these people have. And when you
+reach out to these people, you want to
+be calling out or talking to those
+people in different ways. because if you
+were to speak to everyone in this circle
+the same, they are not going to respond
+amazingly. But, if you reach out and
+talk to people in these kind of smaller
+buckets and make caught five campaigns
+here with five different types of
+messaging, you're going to get a lot
+better results because you can speak
+more narrowly to certain people's pain
+points and desires. So, coming back to
+the flow chart here, first thing you
+want to do, and you can see I have this
+color coded in orange here because this
+is a very high leverage type of position
+here or something that takes a lot of
+skill and prowess to understand. And
+maybe if you're a really skilled
+marketer operator, you can kind of
+figure these things out yourself, which
+is understanding all those different
+buckets in your business. Now, after you
+understand these different buckets,
+you're going to want to define your best
+fit leads, segment them out, and those
+are going to be the campaigns that you
+create. Just to show you a real example
+of what this looks like, this is why I
+have this sticky note covering here.
+Your total addressable market, let's say
+I'm using myself as an example, so I run
+a cold outreach agency. All the people
+that we can potentially work with are
+B2B companies that have a average
+contract value of $10,000 or more and
+have 10 or more employees in the United
+States. Like, this is the widest
+possible interpretation of everyone that
+we can work with. But, one thing that I
+noticed as an example is that the people
+that are more likely to work with us,
+our best customers, they tend to be
+chief marketing officers and CEOs that
+tend to work with us disproportionately
+and companies that have sales teams. If
+a company approaches us and they don't
+have a sales team, we can still work
+with them, but the people that have the
+most success with us typically have a
+sales team because it shows that they
+have a proven process or some sort of
+success in place, which makes them a
+more ideal candidate for our service or
+more likely that they're successful. And
+so, that is like our ideal client
+profile. Now, again, this is really
+oversimplified for the sake of this
+video. We could make these criteria two
+to three times as long, but I want to
+make sure this video is not three hours
+long, and so that's why I'm going
+through this quickly. Now, after we've
+defined our total addressable market and
+our ideal client profile, we have of
+segment. So, within the ideal client
+profile of B2B companies with a $50,000
+ACV or more, with 10 or more employees
+in the US with a sales team, there might
+be managed IT companies. There might be
+software as a service companies. And
+these are the segments because the way I
+might talk to a managed IT company might
+be completely different than the way I
+talk to a software as a service company.
+And so, this is how I'm segmenting out
+these lists here, and these might be the
+campaigns that we create. Or maybe
+they're managed IT companies with a
+recently hired CMO. So, we're breaking
+down all of these things into smaller
+and smaller chunks, and this is how
+we're getting very effective campaigns
+that convert. And if you don't do this,
+if you just send to everyone your total
+addressable market, chances are your
+performance is going to be a lot worse
+than it should be because you can't
+accurately speak to people. One thing
+that I've heard a lot of people say
+recently that I think is true is that
+your campaign is your list. When you
+build a list, your copy kind of comes
+from it, your campaign kind of comes
+from it. The reason why you want to do
+all this work and define these
+characteristics really well, and dig
+really deep, check out your CRM, look at
+your call recordings, do market
+research, and figure out all these
+different segments really well is
+because this is ultimately what makes or
+breaks campaigns. If you have the best
+script in the world, but you're reaching
+out to the completely wrong people, your
+campaigns will not perform well. And so,
+this is the kind of system that you're
+going to want to go through to make sure
+that this is done well. So, after you
+define your total addressable market,
+you define your best fit leads, and
+you've segmented out your leads as this
+example, you know, I'm using myself as
+an example, this is where a go-to-market
+strategist can come in, or you can come
+in and build all the specific list stuff
+here. So, the first thing you're going
+to want to do is actually source the
+accounts, the contacts, and the emails.
+So, this is basically going to a
+database or using some sort of lead
+scraping software to source the people
+you want to reach out to. So, I have
+Apollo pulled up here. This is one of
+the tools that you can use to scrape
+leads. And if you've done all the work
+of segmenting out your ideal client
+profile, your total addressable market,
+and your segments, you can go into
+Apollo and build these lists pretty
+quickly. So, let's use this example here
+of segment two. Let's say we want to
+build a list of B2B companies with an
+ACV of $50,000 or more with 10 or more
+employees in the USA, etc. etc. So, I
+can go over here into Apollo and select
+B2B, so I can filter for B2B companies.
+For job titles, I can type CMO for chief
+marketing officer and CEO for chief
+executive officer. I'm doing this really
+simply for the sake of this video.
+Normally, you're going to want to add
+way more titles than what I have here.
+Email status, I'm going to select
+verified and unverified, so we're only
+looking for people that have emails in
+Apollo's database. Now, after we have
+this all set up, we're going to want to
+filter for people that live in the
+United States, so I'm going to do
+location United States. Employees, I can
+go over here and filter for people that
+have, let's just say 10 or more
+employees. I'm going to cap it out a
+thousand, so this list doesn't get crazy
+big. And just like that, we've built
+our, you know, initial set of a list
+here. Now, the other things we need to
+filter for are companies that have an
+average contract value of $50,000 or
+more and, you know, people that have
+sales teams and software companies. Now,
+that's a lot of things that we can
+filter on here. And the problem is is
+that data tools, you might need to use
+multiple data tools to get that data
+because general database like Apollo
+probably won't have all that data in one
+place. Apollo has more filters we can
+play around with, so if I wanted to, I
+could go into the companies tab here and
+filter for companies that have a sales
+title. If I wanted to, I could use
+Apollo's AI filters and ask Apollo to
+scrape all these websites and see if
+these companies have an average contract
+value of $50,000 or more. I personally
+like using Clay for these functions a
+little bit more. The reason why is
+because Clay gives you a lot more
+flexibility, like you can build on top
+of the data a lot better inside a tool
+like Clay. But, as an example, let's say
+we have this list of 94,000 people, we
+can scrape a bunch of these people and
+then throw them into a tool like Clay to
+filter them down further. Now, again, I
+haven't filtered for software as a
+service companies. Let's go in here and
+type information technology. I can do
+keywords like software. And so now that
+leaves us with about 20,000 people. And
+again, we're going to want to filter
+this down further. But, let's just say
+for the sake of this video, we take
+these 20,000 people. I'm going to
+select, call it a thousand of these
+people. And then, after I have these
+people, I'm going to export them, and
+then we're going to throw them inside of
+Clay, so we can filter them down even
+more. Cool. So, we just downloaded those
+people from Apollo. I'm going to now
+upload to these people inside of Clay.
+And just like that, I migrated all those
+people I scraped from Apollo over into
+Clay. And so, now you can see we have
+all this data in Clay right here. So,
+going back to our flowchart, we mapped
+out all the people we want to reach out
+to. We just scraped part of one segment,
+and we got some of these people's
+companies, emails, and contact info
+through Apollo. And now we have it
+inside of Clay here. Again, I'm doing
+this extremely quickly for the sake of
+this video. I want this to be as timely
+as possible, cuz I know your time is
+valuable. I have videos on this channel
+where I break down how to use Apollo in
+super granular detail, how to play
+around with the filters a lot more than
+I did, and how to really make these
+searches more effective. Realistically,
+if you were to build out a workflow like
+this for your company, all the things
+that I'm showing you are going to take
+hours and hours, or days, or weeks. And
+so, I'm just trying to condense this
+into less than an hour, or maybe
+slightly more than an hour here, so that
+you can watch this and hopefully apply
+this to your business. But, keep in
+mind, if this looks like this is too
+quick to follow along, I'm trying to
+make sure that this is as speedy as
+possible, so you understand everything,
+but also keeping in mind that your
+business has a ton of nuance. If I want
+to build out a lead list specific to
+your business, or a strategy specific to
+your business, this video would be 10
+hours long, because there's so much work
+that goes into this. We have now mapped
+out our total addressable market. We've
+defined our best-fit leads. We've
+segmented out a couple different
+markets, so we can potentially reach out
+to. We used Apollo to get the email
+accounts, the contact information, and
+the emails themselves, which now, if you
+look inside of Clay here, you can see
+all these email accounts, all these
+people's names, all of their company
+information, simply by going into Apollo
+and, you know, selecting all these
+people's information and exporting them.
+And so, just like that, we have a lot of
+people's data here. Now, the next thing
+that we're going to want to do is filter
+for the best fit leads because while I
+scraped a bunch of people's data, I
+still haven't gotten every single piece
+of their data. We still haven't filtered
+if their average contract value is
+$50,000 or more. We still haven't
+filtered if they have a sales team. We
+still haven't filtered if they are 100%
+a software company, and that's where
+coming into Clay and leveraging AI comes
+into handy. So, I'm going to move my
+face here. So, now what we can do is
+inside of Clay, we can use AI to layer
+on these filters or to start to build
+these kind of custom data set. So, if I
+press use AI here, I can now leverage
+Clay's AI agent to see if these
+companies are software companies. So, as
+an example, I want you to visit these
+websites and figure out if these leads
+are software companies. If they are a
+software company, return true. If they
+aren't, return false. Here is their
+website {slash} website. So, now you can
+see here, I just threw together a sample
+prompt. And basically, what I want AI to
+do here is to filter and verify our
+leads more. I'm going to let Clay work
+its magic. I just went into Clay and had
+it generate a prompt here. And what this
+does is it took what I said and made it
+a lot more pretty. And now we're going
+to use one of Clay's agents here to
+visit every single one of these websites
+and determine if they are a fit to work
+with. So, now what this prompt is set up
+to do is it's set up to have an AI agent
+visit every single one of these
+companies' websites and determine if
+they're actually a software company.
+Because if they're actually a software
+company, then they're a fit for us to
+reach out to. And if they're not, then
+we shouldn't be reaching out to them.
+And this is the crucial step where a lot
+of people mess up. They build these
+giant lists that are completely
+inaccurate leads, and as a result, they
+don't get people interested in their
+service. So, now we have this prompt set
+up here. I'm going to switch the model
+over to something cheaper. So, inside of
+Clay, you can use more expensive models
+or you can use cheaper models. If you
+want to save cost, which I want to do
+here, I'm going to use a cheaper model
+here. So, I'm going to use Anthropic's
+Sonnet 4.5 model. I'm going to press
+save, and I'm going to run 10 rows here.
+And now what you can see is going to
+happen is an AI agent's going to visit
+every single one of these websites to
+determine if they are software
+companies. And that's what I'm talking
+about here in the section where you want
+to filter for the best-fit leads,
+because otherwise, we just scraped a
+bunch of leads from a tool like Apollo,
+and we start running email campaigns
+towards these leads, then they won't
+work well, because whenever you scrape
+10,000 or 20,000 leads at a time, they
+very likely won't all be a fit. So, I'm
+going to let that run here. All right,
+so now you can see the AI agent finished
+running on the first 10 people here. And
+as you can see, out of this random list
+I just pulled from Apollo, it looks like
+only five out of the first 10 people
+that we scraped actually are at software
+companies. And this makes sense, because
+you can see this company right here, but
+this is probably blurred out, but based
+on their name, I can tell pretty quickly
+that this is likely a staffing company.
+But, you can see that it got pulled into
+our list, and the reason why is because
+in our list here, we just put the
+keyword software, which my face is
+blocking. You can see I put the keyword
+software there. Now, there could be a
+staffing company that is listed under
+all the filters that we had and has the
+keyword software, and so now, as a
+result, they are falling into our list.
+And whenever we want to reach out to
+software-as-a-service companies, we do
+not want to reach out to staffing
+companies. This is where most people
+mess up. They build their list, and they
+don't filter for the leads that are
+actually the best fit or validate that
+the leads even are who they say they
+are, and as a result, their campaigns
+don't perform well. This is why you want
+to go through the step, and this is how
+you can use a tool like Clay. This video
+would be very long if I went through it
+in segmenting also for companies that
+have an average contract value of
+$50,000 or more. And also filtered for
+companies that have sales teams. To be
+clear, that's not insanely hard, either.
+All I would need to do is duplicate out
+this row here. We might need to use
+slightly different tools, because
+ClayGen, which is this AI web scraper,
+might not be able to access data that's
+found on LinkedIn. So, if we want to see
+if they have a sales team, we might need
+to use a slightly different tool. But,
+all that being said, that is, at a high
+level, how you can scrape leads, how you
+can take those leads, filter for leads
+that are the best fit, and then from
+there, let's just filter for companies
+where software as a service equals yes.
+So, I'm going to filter for software as
+a service status is checked. So, we have
+five people here. If this was a real
+list, I'd run this for all 1,000 people
+that I scraped here. From here, then we
+can validate to make sure that these
+people's emails exist. So, you can see
+Apollo grabbed their emails here, which
+should be blurred out, but we want to
+make sure that these emails actually
+exist because if they don't, then
+there's no point reaching out to them.
+So, I can go over into another tool here
+and type in Listman. And after I select
+this row here, I can press continue and
+add to fields, save, run these five
+rows. And so, now Listman will go
+through and validate that these emails
+exist. You can see one of these emails
+actually is invalid. That is
+effectively, again, how we map the total
+addressable market, how we define the
+best fit leads, how we segment out those
+leads, how we find those people's
+information, how we then filter for the
+best fit leads, then we validate those
+leads. That is how you build lists and
+how you broadly set up everything so
+that you can set up campaigns. Now,
+setting up email campaigns, in the
+flowchart here, I've it pretty
+simplified. Just email outreach campaign
+one, two, and three. So, if you were to
+run this process for three different
+segments, that's where you'd have three
+different campaigns. Now, to set up
+campaigns, you're going to want to use a
+tool like SmartLead. So, this is a
+sequencer tool. I'm going to pull up my
+SmartLead account. Earlier, I was
+mentioning the email account setup here.
+You can see we have 10,000 emails on the
+dot. That's a lot of email accounts
+because we manage just over 30 clients
+in our system. And again, if you want to
+purchase email accounts, you can
+actually just purchase them natively
+through SmartLead. So, now, if you want
+to create campaigns in a tool like
+SmartLead, after you set up all those
+different leads, you can go over, make
+an account into SmartLead. That's where
+you're going to have all your email
+accounts set up, and you're going to
+press create campaigns. We're just going
+to call this test campaign. And from
+here, after we've done all that work of
+uploading and scraping those leads, I
+can click over to tools here and export
+and download these leads that I just had
+here. I'm going to want to filter out
+that invalid lead, so actually I'm going
+to go through and filter for leads where
+verify email. So, I'm going to separate
+out what ListMint provide me in a
+separate column. I'm going to set result
+equal to valid. So, now we have our four
+leads here. I don't want to spend a
+bunch of money for the sake of this
+video, so I'm going to go over here and
+export these four people. And then from
+there, I can go into SmartLead and I can
+upload these leads. I'm going to import
+the list that I just made here. I'm
+going to press continue and import the
+leads. And so just like that, I have
+those four leads imported. Now from
+here, this is where I can create the
+email sequences. So, this is where
+you're going to write your copy. Now,
+this isn't a full copywriting video. I
+have other videos on my channel all
+about copywriting. But for the sake of
+this video, I just put together a sample
+script here. Whenever you're building
+these campaigns, the whole reason why we
+segmented out these leads in the first
+place is so that we could write
+different scripts for all these
+different segments of people because the
+way that we're going to want to talk to
+our managed IT companies with a CMO
+might be completely different than how
+we talk to our software company CMOs as
+an example. I've just put together this
+sample email script here. Hi first name,
+I saw you just raised the seed round, so
+this might be for software companies
+that just raised a seed round of
+funding. Are you looking to get in front
+of more people to find product market
+fit? We can send 5,000 outreach emails
+per day for people looking for solution
+and book them into demos for you. Would
+you be interested in seeing how a pilot
+campaign works for you? So, I'm going to
+copy this here. This is just a script I
+put together for the sake of this video.
+And just like that, we have our script
+loaded into SmartLead. And if we set up
+the email accounts as we talked about
+earlier here, this is where you can
+start selecting your email account. So,
+we have 10,000 accounts here. If I want
+to put all 10,000 accounts, I could do
+that all at once. We are not going to do
+that. If you want to set up email
+accounts, you're going to want to do
+that through Google or Microsoft.
+SmartLead makes that very simple for
+you. So, you can purchase email accounts
+natively through here and just set them
+up as I was talking about earlier in
+this part of the flowchart. So, if you
+want to set up this kind of multi-email
+account structure, you can do that
+through SmartLead. So, all that being
+said, you're going to take your list,
+you're going to upload them into
+SmartLead, and then from there, you can
+write your targeted scripts. Now, again,
+there's so many settings inside
+SmartLead. I have videos I actually
+recorded a course for SmartLead that is
+like 2 hours long just talking about how
+to use SmartLead. This is why I said
+that these are basically full-time jobs
+for people cuz there's so many nuances
+that you need to understand to be able
+to use these tools. But, all that being
+said, that is how you take your list and
+then you upload them into SmartLead.
+When you have all your email accounts
+set up, you can throw them into
+SmartLead, you can launch campaigns, and
+have them in these siloed manners. After
+these campaigns go live, then all of
+these outreach responses are going to
+funnel back to a sales development rep.
+Inside of SmartLead, there's a master
+inbox where they can respond to
+everything, or they can respond and
+manage stuff inside of SalesFinity here.
+So, after the email responses start
+coming in, this is something that is
+managed and handled by a go-to-market
+strategist, then a sales development rep
+comes in here, reviews everything, and
+can call people. So, what the job of a
+sales development representative is is
+to take all the warm leads that come in
+from the email campaigns and respond to
+them. So, inside SmartLead, there's a
+section here called the master inbox.
+This is where all the incoming responses
+come in. So, we have all these tags
+here. You can see this person is tagged
+as interested follow up, which means
+this person is interested. So, if I
+click into here, you can see this person
+said he's traveling until the end of
+May, and he wants us to reach out on
+June 5th. We can then respond to him
+through SmartLead here, or give this guy
+a call and try and get him scheduled in
+for June 5th. But, all that being said,
+this is where your sales development
+reps will want to live and manage all
+these responses. So, you're going to
+have all these responses coming in, just
+like this person coming in. So, this
+person says, "Hey, thanks for the
+loop-in. We partner on deals regularly.
+I'd love to have a 20- or 30-minute
+conversation." And this person says
+they're free at 11:30 a.m. EST. And so,
+what a sales development rep could do is
+then call this lead and book them in for
+a meeting, or reply this lead and book
+them in for a meeting. And where we see
+so much value is just calling these
+leads. So, we use
+get this done. SmartLead actually just
+rolled out a feature where you can call
+the lead natively through here. If I
+wanted to, I could press call lead and
+then it'll pop up with a phone number
+that I can call someone with and then I
+can type in their phone number and call
+them here. And then I can call them and
+set them for a meeting. Now, a question
+that a lot of people ask is what is a
+script that you can use? Now, this is a
+rough warm call script. So, if I want to
+call this person, I would say, "Hey
+Susie, it's Matt. I'm calling from Nivo.
+I'm giving you a call because you
+responded to my email earlier about X.
+Does this ring a bell? No worries.
+Essentially, we do X, Y, and Z. Would
+you be interested in a quick call to see
+if we can help?" So, this is a rough
+script that you can use if you want to
+try and book people into calls that we
+use on our team. So, again, after you
+watch these campaigns, this goes to
+someone, their full-time job is just to
+book them into meetings. You're going to
+want to call them through SmartLead or
+Salesfinity, respond to them through
+SmartLead, or send them a LinkedIn
+connection request through HeyReach. So,
+HeyReach is a LinkedIn automation tool
+and through that tool, you can set up
+campaigns where anyone who's interested
+automatically gets a connection request.
+Now, one way that I really like to use
+this is anytime someone is tagged as
+interested, then they get a connection
+request and this allows you to follow up
+with them on multiple channels. The
+important thing for you to do here is
+every single time you get a response,
+you want to push for a meeting. The
+biggest mistake I see a lot of people
+make when they respond to emails or try
+and cold call people is they don't try
+and sell the meeting hard enough.
+Whenever you respond to anyone who says
+they're interested, your job is just to
+get them on a meeting
+to follow up and again and again and
+again to try and get them on a sales
+meeting. And when you're doing this,
+you're going to want to keep responding
+and following up. And if you're getting
+no response, you're going to want to
+review them again, send them a call
+email and LinkedIn connection request,
+try and get them on a meeting. And when
+I say try and get them on a meeting,
+constantly pitch them times, follow up
+with them, give them value, and keep
+doing that until they get on a sales
+call. If you do that appropriately, you
+should be able to schedule them on for
+sales calls. Like I just showed this
+example here, this guy said 11:30
+Eastern works. So, I can open up my
+Calendly here and punch this guy in for
+11:30 EST, book him in for a call, and
+tag him as meeting booked. And from
+there, that goes over to the sales team.
+Now, I color-coded sales team as blue
+because this is outside what we're
+talking about, you know, we're talking
+about the cold outreach appointment
+setting process here, but this goes over
+to a sales team. The important last step
+here that I have marked is orange
+because again, this is something that
+you'd want a team lead to manage or
+someone that's really sophisticated is
+reviewing the data. After you run the
+system and you do it over and over and
+over and over again, you are going to
+get a ton of valuable data, and with
+that data, then you can learn again what
+the best leads are, rebuild campaigns,
+and iterate on your campaign strategy.
+This is what takes a lot of campaigns
+from being five out of 10 or six out of
+10 campaigns and making them 10 out of
+10 campaigns. You need to run this
+system, run it through multiple times,
+gather a ton of data, and then once you
+have that data, you can then figure out
+which campaigns to run again. So, as you
+can see, these are a few campaigns
+actively running for ourselves, and I
+tasked some new members of our team to
+run these campaigns. And as you can see,
+some of the first iterations of these
+campaigns performed very terribly. You
+can see we sent a bunch of emails, one
+positive reply. After we reviewed that
+data and did our second round of
+revisions here, you can see our positive
+reply ratio, meaning the percentage of
+people that respond in interested go
+from 3% up to
+14%. And this is using less leads. You
+can see here in the last, call it two or
+three days here, we generated 20
+positive replies or had new members of
+our team generate 20 positive replies
+because I had them go through this
+process where they tried their first
+round of ideas, they look at the data,
+they figure out what's went wrong, and
+then do it over again. And when you run
+this iterative cycle, this is what
+allows you to go from sending 20,000
+emails and getting eight positive
+responses to sending 10,000 emails and
+getting 20. So, we got two X better
+results with half the volume. So, that's
+like a four X increase in results simply
+by going over the data that we had and
+just running it again and running it
+again and running it again. And then we
+have 20 people here that respond
+interested, that's where you can go into
+a tool like Salesfinity and call these
+people. And tools like Salesfinity make
+it so easy. They have their dialing
+function here. I can just load up a
+bunch of leads. You can see there's like
+seven or eight leads here. I can just
+press start dialing and it'll just go
+through all of these leads one by one by
+one and then you can handle objections,
+try and get these people on the calendar
+and go over and over again until
+hopefully your sales team is flooded
+with more calls than they know what to
+do with. So, that is the exact cold
+email and cold calling system we've used
+to book thousands of sales calls. Now,
+if you want someone to build this system
+and implement this system and run this
+system for your business completely done
+for you, you can click the first link in
+the description below anevo.com. That is
+our cold outreach agency. We can have
+three people run the system just like I
+showed you here at a fraction of what it
+would cost to actually hire those people
+yourselves, have them book calls on your
+calendar and run this whole system and
+book sales meetings for your sales team.
+Now, if you want to learn from me
+directly instead at a cheaper price, you
+can check the link below that one which
+is our school group where you can learn
+from me, join our community and learn
+how to implement something like this so
+you can do it yourself at a fraction of
+the cost. Otherwise, if you like this
+video, you're going to love this one
+here where I go in-depth on the cold
+calling side of things. So, check it
+out. Take care.

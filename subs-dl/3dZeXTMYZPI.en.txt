@@ -1,0 +1,646 @@
+Claude's recent release of the new model
+Opus 4.6 also introduced us to a new
+feature in Claude code called the Claude
+code agent teams, which allows us to
+create autonomous teams of working
+agents which work at the same time,
+which makes building agent workflows 10
+times faster and 10 times more powerful.
+And so in this video, I'm going to break
+down exactly what Claude code agent
+teams actually are for a complete
+beginner and how they're different from
+sub agents or the general Claude chat.
+How you can set them up step by step,
+but most importantly, I'm going to build
+a tangible use case that I use within my
+business and build one live right in
+front of you. And in case you don't know
+who I am, my name is Michele and I
+scaled my own AI agency to six figures
+working with over 50 businesses to
+implement AI solutions and teaching over
+20,000 people in the process. All
+starting with zero technical knowledge.
+With that being said, let's dive in. All
+right, so here I broke down Claude chat
+versus sub agents versus agent teams.
+What they all are and how they're
+different. All right, so the first one
+here is Claude chat. This is you talking
+to Claude directly with no tools, no
+code, just a conversation, simple back
+and forth and nothing in between. And
+typically you use Claude chat only when
+you have a question or want some help
+writing something, just a normal
+conversation. Maybe you can write your
+emails. An example of this could be that
+you're building an automation in, let's
+say, N8N. [music] You have an error, you
+drop the error message into Claude code
+and say, "Hey, can you explain this
+error message?" Or can you help me write
+my cover letter, brainstorm video ideas?
+Basically, the way the 99% of people are
+using AI right now, it's using Claude
+chat. Then we have sub agents, and sub
+agents just means that you have a boss,
+and the boss has three employees, but
+this is a bot. The employees cannot talk
+to each other. Okay, so if employee A is
+making something that then depends on
+employee B, well, that's a problem
+because they can't speak to each other
+and they can't communicate, right? When
+making a task together,
+>> [music]
+>> which could decrease the quality of
+output and it just wouldn't work well.
+The results can only return to parent
+agent only, and they have a shared
+context window. So they have a shared
+context window, which means that they
+all operate under the same window, the
+same kind of tab in Claude code. And
+when do we use sub agents? Well, sub
+agents are used when you're building
+code or you need Claude to research,
+explore, or plan different things in
+parallel at the same time. This could be
+authentication, write test, right? Where
+you have two different things which are
+not dependent on each other running at
+the same time, or explore this code base
+for me, plan this feature then build it.
+And when you're building with sub
+agents, you ideally want to have two
+different tasks, or three, or four, or
+five, whatever it is that you want. Uh
+but make sure that these tasks do not
+correlate with each other. So, for
+example, let's say you have a YouTube
+transcript, and you want to repurpose
+that YouTube transcript into a LinkedIn
+post, a blog post, and maybe a Twitter
+post, right? All these three things,
+>> you might think they're not dependent on
+each other, but they are. Because the
+style of writing, the tone of voice, has
+to be the same across the different
+content that you make. And so, with sub
+agents, you're not able to have the
+LinkedIn post talk to the blog post,
+talk to the Twitter post, to make sure
+that they all have the same exact tone
+of voice. And then we have the one and
+only agent teams, okay? So, the way that
+agent teams works is that you have a
+team lead. So, you give team lead a
+task, say, "Hey, can you make this team
+of people that can do X, Y, and Z?"
+Right? What this does is that it spawns
+a team, [music] so it creates a team,
+and assigns tasks across the different
+teammates. And just like sub agents, it
+will start creating agent one, agent
+two, and agent three. And these agents
+all have the same shared task list, but
+the agents communicate with each other,
+and each one has its own context.
+[music] So, it has its own context
+window, and operates under its own kind
+of environment, right? And so, [music]
+you have teammate A talking to teammate
+B, talking to teammate C, which can all
+see the same tasks that they have here.
+And the team lead is the one that kind
+of operates the whole the whole team.
+And this would be like an actual
+company, right? All the employees are
+talking to each other, same department,
+maybe different departments, but they
+can still speak to each other,
+correlate, and communicate with the head
+of department kind of in that in that
+role. Now, you only use agent teams
+really when you need multiple cloud
+working on separate repos, or separate
+kind of instances, or when you have a
+big tasks, right? Usually it's
+development-based, so it's more
+technical. For example, you can build a
+front end plus back end plus tests.
+Front end does depend on the back end,
+and it does depend on the tests. So, you
+want to have two different agents under
+the same team that are building the
+exact thing that you want, but bear in
+mind they you also communicate with each
+other. So, the output will be much
+higher, right? Because obviously the
+front end would depend on the back end
+working. And the test would depend on
+front end and back end working. So, do
+you want them to communicate with each
+other at the same time? Or migrate five
+services at once, but also one cloud
+orchestrating the rest. Now, in terms of
+the actual build itself, there is a
+repeat and improve process, which is a
+four-step cycle that we go through every
+single time when it comes to the
+communication, when it comes to speaking
+to the agent team for whatever it is
+that we want to build, right? The first
+thing is collect. So, we want to
+brainstorm ideas, and it's going to list
+every task and set clear goals, just
+like a head of department would or just
+like a CEO would. Then we organize. So,
+we rank by priorities, we set deadlines,
+and we block the time slots for the
+agents [music] itself. Then we execute.
+So, each agent will work through the
+tasks, will track the progress, and will
+have focus on what we have to do cuz
+each agent has its own task that it has
+to do. And then review, which is
+checking what's done, um not what's
+left, and adjusting the plan in case we
+need to change, right? And then we
+repeat and improve, and we keep going on
+and on and on. And that's exactly how
+the team actually operates, just like
+you would for a real company. And one
+more thing before we get to the build is
+that this is great because we have what
+we call parallelization advantage.
+Because a traditional workflow would
+have six tasks, and let's say they all
+take 1 minute, right? So, you have 6
+minutes total. When you have an agent
+team, we have what we call parallel
+processing. So, instead of each task
+being done individually at different
+times, here you'd have three different
+agents all working at the same time on
+their own tasks. Task one, task three,
+and task five will be done at the exact
+same time, as well as task two, task
+four, and task six, which means that
+instead of spending 6 minutes or waiting
+6 minutes, then you will wait 2 minutes
+because we have what we call parallel
+execution. And these are all fancy terms
+just to say that this basically saves us
+a lot of time. I'm speaking in in like
+minutes, but sometimes it can be hours
+[music] that you would wait for a
+workflow to to work. And here you would
+literally get it within minutes, which
+is kind of mind-blowing, and I think
+that's where the future of agent
+workflows are going to be. It's having
+one main agent which controls all the
+others and having [music] them do the
+task for you without you having to be
+there. Okay, so here I am in
+Antigravity, our IDE that we're going to
+use. And by the way, Anti-Gravity VS
+Code, basically the exact same. You can
+pretty much use VS Code as well, but I
+just chose Anti-Gravity because that's
+[music] what I have here. First thing I
+want to do here is press open folder.
+So, I typically like to have a Claude
+Code main folder and then have different
+folders inside. Just something that I
+do. And I can press new folder here
+and name this agent so our Claude agent
+[music] teams. And I can press open.
+I already downloaded the extension, but
+you can go here to extensions. You can
+look for Claude
+Code.
+Make sure it's the one by Anthropic,
+which should be the one here, Anthropic.
+And then, you can install it and then
+you'll be able to see a little button
+here which has Claude Code open and you
+can press this button.
+X out of here, X out of here, let me go
+back to here. Okay, so here I am on the
+Claude Code documents. This is the
+official Claude Code documents which
+tells us how to basically start the
+team. I found this by going to
+code.claude.com/docs/en/agent/teams
+[music]
+and you'll see run agent teams right
+here. And if I scroll down, we can see
+when we use it, when we don't use it,
+how it works. And then here it says to
+enable agent teams. So, to enable agent
+teams, we have to make [music] a file
+called settings.json and then we have to
+put this right here inside. I'm going to
+go back here. I'm going to press new
+file.
+I'm going to name this setting.
+Is it setting or [music] settings?
+settings.json settings.json
+And you'll see that this will now be
+turned into JSON because that's the data
+structure. And if I go back, I can copy
+this and then copy it back.
+And I can press file, save.
+What you could have also done is you
+could just actually copy this or you can
+just you go command A, copy the whole
+thing and then you can paste it into
+Claude Code and say, "Hey, based on this
+documentation, can you please enable
+agent teams?" And it will do it for you.
+But, I like to be different, so
+>> there you have it. Okay, so
+settings.json, we have this here. And
+now, this is where we can prompt Claude
+Code to be able to make the agent. All
+right, so I already have my prompt here
+that I'm going to use. Uh you can find
+it in the second link down below in my
+school community. So, basically, what
+I'm telling the agent to do is I am
+going to drop a sales discovery call
+transcript. So, let's say I had a call
+with the client, I drop the transcript
+of the call, so what we said in the
+call, and then the team [music] will be
+consisted of four different agents, 1 2
+3 and 4. So, this agent will make the
+client summary document, this agent will
+make the proposal, this agent will make
+the CRM kind of update, and this agent
+will make a follow-up email. With that
+said, I'm going to copy this, I'm going
+to go back here, and I'm actually not
+going to be using this chat, but I'm
+going to be using the terminal.
+Now, I was a bit confused when I saw
+people using the terminal versus using
+the chat. The reason why we use the
+terminal here is because we can see
+more. So, if I press Claude here, uh my
+Claude will open up. Like this tells us
+everything. This shows all the settings,
+this shows all the small things. It
+might look a bit more complex, but it's
+very very easy when you start using it,
+and you you get a hang of it. I'm going
+to press X.
+I'm going to make this full screen, and
+we can use the terminal. And by the way,
+you can use the other one as well, it's
+just that I can't see all the features
+that I want to show you, um but it still
+works the exact same. I'm going to go
+here, copy this, and then paste the
+prompt here. I'm going to press enter.
+And now, Claude code is going to start
+working on this.
+>> It says tool loaded.
+We have this settings.json, which means
+that we're enabling agent teams, and so
+it knows that it has to make a team
+[music] of agents. It's now saying,
+"Hey, we have to create the input and
+output directory structure." I can just
+say yes, proceed. I could also say yes,
+and don't ask again, but I want to show
+you all the different things [music]
+that it's asking you to do, which is
+fine, so so I can press yes. As you can
+see, it made the output and the input.
+The input is where we have the
+transcript, so we'll be adding the files
+here, and the output is where we get the
+CRM, the emails, [music] the insights,
+and the proposals as well, for each
+transcript that we use. Now, it's saying
+that it's going to create a sample
+transcript and the orchestration script
+in parallel, so it's also testing that
+it does work. Now, it's asking whether
+we can make a transcript.md
+document to basically test a transcript
+of a call and make sure that all the
+agents work simultaneously. I can press
+yes.
+This is now writing the transcript.md,
+which I believe it's going to be here.
+Yeah, the input, cuz that's the input.
+Uh and then it's saying, "Do you want to
+make this edit to run pipeline.sh?" I
+can just press yes. So, now it's asking
+me all the different small things that I
+typically would not want to be asked, uh
+cuz it's all code. Now I can go to yes
+and don't ask again. Okay, now it's also
+making the folder called agents. So all
+the different agents that we have, the
+four different agents, will all have
+eight MD document. So MD just stands for
+markdown. It's the way that they
+basically put titles and subheadings and
+bullet points and so on to structure the
+information. And so each agent will have
+an MD document.
+>> In the MD document it's simply just
+instructions of what the agent is. So
+then we give it a transcript, [music]
+it basically goes back to the MD
+documents and says okay, what does this
+agent have to do? [music] What about
+this agent? What about that agent? And
+the last agent as well. And it will
+start running all of them at the same
+time. Okay, there we go. So this is the
+structure we have dot cloud slash agent.
+Then we [music] have agent one. Let me
+just take this out here.
+We have agent two. We have agent three.
+And then we have agent four to make the
+proposals. Okay, so I'm pulling back up
+the terminal. I can actually just
+clear this conversation.
+Clear. I can start from zero. So now
+what we'll do is we'll actually test it.
+So we have everything done. We have the
+cloud agents set up. We have the input
+and the output folders. We have the
+script and then we have the the thing
+that allows us to be able to make the
+team. So I can just go back here. I can
+then go to dist example discovery call.
+This is an example like example input
+that I would give the actual agent. And
+I can say, "Hey, can you use this
+discovery call transcript to be able to
+activate the team and yeah, activate the
+whole team agent team in cloud code and
+use this transcript as the input." Not a
+question. Paste it here.
+And now we press run. So this basically
+pasted the whole the whole call that we
+have. It's a short call. So nothing
+crazy. Uh but it's enough for it to be
+able to make all the things that we
+wanted to make. So it's saying, "I can
+see the full agent team pipeline. Let me
+first update the transcript file with
+the Call Insights marketing discovery
+call and then run the pipeline."
+Pipeline just [music] means run the
+agent team. Now it's saying, "Hey, can
+we replace the transcript MD, which is
+the one here,
+with the transcript that you just gave
+us?" I'll just say yes, allow all edits
+during the session just because I don't
+have to then approve everything. So it
+uploaded here and now it's saying, "Hey,
+can we run the pipeline?" I can just
+press yes and don't ask again.
+Now it's saying, "Hey, let me kick off
+agent one, call insights agent first
+since the other three depend on its
+output." And this is great because you
+get to see exactly how agent one now
+talks to the [music] other agents. Agent
+one is a call insights, and based on the
+call insights, we then feed it to the
+other agent to make the email and the
+proposal and the CRM as well. Cuz it's
+now telling me that it made the client
+summary, company overview, core problem,
+main pain points, desired outcome,
+timeline, red flags, objections and
+concerns, and key quotes. I can say,
+"Yes, I want to proceed." And now I
+should get the insights here, client
+summary.md. And by the way, I'm doing
+this obviously manually to show you how
+to test it and how everything works, but
+you can pretty much upload this or
+publish this to a platform like Modal,
+and then all you have to give it is the
+input, and then the whole agent team
+will work on its own. And one thing I'll
+also cover it later on is the pricing
+cuz you can see I'm getting completely
+rinsed with my tokens. It's going faster
+>> than than I've ever seen. So, this is
+one drawback of agent teams, but we'll
+get into that in the later part. So,
+agent one was complete. It then ran
+agent two, three at the same time. So,
+two agents finished. It built the
+product proposal from insights and the
+CRM deal for JSON from insights. And now
+that agent two and three are done, now
+we're going to be launching agent four,
+which is going to be creating the
+follow-up email. So, it's saying now
+that all four agents have been
+completed, here's a summary of what was
+generated. So, we have the call insights
+agent, proposal, CRM, and follow-up
+emails. We have [music] the files, which
+you can find emails here, CRM here.
+We have insights here, and we have
+proposal here, which I'll go in just a
+second. And it says, "All output files
+are ready in the output directory. Want
+me to open them for review?"
+>> I can just say, "Yeah, let's see what it
+does." Really.
+Yes, open them.
+And by the way, you [music] can also
+edit the permissions. So, right now, if
+you press shift tab, shift tab, you can
+see that I'm I'm changing this. Plan
+mode accepts edits. You can also do
+bypass permissions, which is letting it
+just do everything on its own. So,
+client summary, this is a document,
+project proposal, CRM deal update, and
+follow-up emails. So, I'm going to make
+this smaller so you can see, right? And
+I'm going to go through each one. So,
+CRM,
+this is the deal update that you upload
+in your CRM to be able to include all
+the fields. So, this included the
+company name, industry, size indicator,
+growth rate, contact name, title, email.
+There was no email, so we couldn't find
+it. The deal stage, discovery, summary,
+main problems, pain points,
+desired outcomes, and a bunch more other
+things as well.
+Then we have the emails. So, this is the
+follow-up email that I made. And it
+said, "To Sarah Collins from Wren James
+Solutions. Subject line, your road map
+from 18 to 40 clients, proposal inside.
+Thank you for the candid conversation
+Wednesday. The way you described the gap
+between where Collins Marketing is today
+and where you want it to be, 40 clients
+without the operations breaking, give us
+a clear picture of what needs to happen.
+A few takeaways I want to make sure we
+capture correctly. Onboarding is the
+biggest time drain. And now we're
+putting client with manual folder
+creation, document sends, and tool
+setups across Google Drive, ClickUp, and
+Slack, and things still slip through the
+cracks. Reporting is costing your VA 30
+to 40 hours per week. The knowledge
+bottleneck is real. I've attached a
+proposal which outlines a two-phase
+eight-week engagement, and talk soon.
+Wren." [music] We also asked you to book
+a call. Now, if I go to client summary,
+I can see the insights. So, this is the
+summary of the actual that we had on the
+call. In a proposal, we have the
+proposal that we have that it just made
+based on the conversations.
+Understanding your challenges, manual
+client onboarding, reporting, tools,
+knowledge, proposed solution, and we
+have scope of work, deliverables,
+timeline, investment,
+why us, next steps, and so on. And these
+are all things that you could easily
+turn into like a PDF. So, let me go here
+to Clock Code. And I'm going to say,
+"Can you turn the project proposal.md
+file into a PDF that I can use? Make
+sure the formatting is correct."
+Obviously, if you looked at this, you'd
+be like, "Okay, [music]
+how do we use this now?" You could
+easily uh copy that into Notion or copy
+that into Google Docs, but I just want
+to show you how Clock Code does it for
+me. All right, so it just finished
+making the product proposal PDF. So, we
+can go here. This is a markdown format,
+and it turned it into a PDF. Of course,
+if you look at it this way, it also
+wouldn't make sense. But, because it's a
+file on our computer, I'm just going to
+open it up, and we get this right here,
+which is PDF version with the executive
+summary, understanding your challenges.
+Then we have [music] tools, propose
+solutions, scope of work, deliverables,
+timeline, investments that also mean the
+table, very nice formatting, the price,
+why us, and next steps. And so, that's
+exactly how the whole agent team ran
+through to make the output, which you
+can then use for whatever it is. And
+this right here is a seven out of 10 use
+case, I'd say, because you could still
+do with sub-agents in some way, but the
+output is better here just because you
+have [music] the client summary, which
+is made, and then passes the client
+summary to the proposal and to make the
+email and CRM to then give you the full
+output. All right. So, there's one
+aspect to this that I briefly mentioned,
+but I didn't really dive deep into,
+which is price. Cuz if you saw before,
+for me to run all the four agents, it
+cost me 10,000 tokens,
+>> and it was increasing way too fast for
+my liking. And so, here we have token
+cost, and here we have speed. Obviously,
+regular Claude will take a lot more
+time, it'll be cheaper the faster you
+get, and then more expensive it will get
+until you get to agent teams, which is 5
+minutes and 80 bucks. This is because
+each employee in the agent team has its
+own context. It has its own kind of
+place where it runs. And so, it will
+cost you a lot more to be able to run
+this agent team. But, if you are
+building something a bit more complex,
+where let's say you're building a
+software application, and for the
+software application, you want the main,
+you know, team leader, and then you want
+the different agents to be able to talk
+to each other. Cuz when you're making
+the front end, the back end, the
+privacy, the the OAuth, all these
+things, you'd want the different agents
+to communicate to build a much better
+output rather than using sub-agents.
+Now, for the most part, if you're
+working with Claude code and you want to
+run different tasks in parallel, you're
+better off going with sub-agents rather
+than spending six times more, but also
+getting six times the speed. [music] And
+if you want all the prompts and
+resources in this video, then check out
+the second link down below. You can go
+to the classroom section, uh go to the
+templates vault, and then you'll be able
+to go to the Claude code resources, and
+you'll find Claude code agent teams, and
+you can press on this link right here.
+Bear in mind that not everybody gets in,
+so please put some thoughts into your
+answers when you reply. So, now you
+understand exactly how Claude code agent
+teams actually work and how they compare
+to sub agents or the general flow chart,
+but also how to build one live
+step-by-step. And in my eyes, this right
+here is only the start of what Anthropic
+really is building because we're getting
+to a point where we've building
+autonomous systems. We have a team
+leader and then we have all the agents
+working simultaneously. And the cost is
+higher now, but I do predict that it'll
+be lower over time and sub agents will
+get more powerful and we'll be able to
+do things that previously we couldn't
+even conceive or conceptualize to be
+able to do. And if you want to work with
+me one-to-one to be able to take all
+these skills and turn them into a
+tangible AI agency that you can start
+and scale within 3 months, then I left
+the first link down below, which is a
+one-on-one mentorship program. Watch the
+video if it sounds like a good fit, feel
+free to apply. And now that you've built
+an agentic system instead of flow code,
+check out this video on the screen where
+I show you the top four ways where
+[music] you can take the system and
+actually put them into production. With
+that being said, I hope you found value
+from this video and I'll see you in the
+next one.

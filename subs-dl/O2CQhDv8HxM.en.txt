@@ -1,0 +1,892 @@
+Hey, I'm Katelyn K. And, [music] if you
+are tuning in for the first time,
+welcome. This is the marketing strategy
+show. Quick [music] question. How many
+amazing things have happened in your
+business this month or this week that
+you meant to share and you didn't? A
+client DM that made your day or a
+testimonial that was really great or
+maybe an email that came in or an
+opportunity or maybe you went to a
+networking event and you had a great
+time. These little moments throughout
+the day that happen and then they often
+make us go, "Oh, I should put that on
+LinkedIn. I should share that on
+Instagram." And we go, "Oh no, how do I
+word this? What should I say? How can I
+put it in a way that sounds like I'm not
+bragging? How can I make it sound
+valuable to people? Why does anyone
+care?" And before you know it, you've
+gone, "Ah, I've got a hundred things
+that need doing that are so much more
+important than this." And then, the
+weeks go by and you realize that there's
+been so many great achievements
+happening in your business and you're
+not really documenting any of them. You
+watch someone else in your industry
+doing something similar to you and
+they're showing all these amazing things
+and you remind yourself like, "Oh my
+god, I need to be doing that. I need to
+be sharing these things. I need to be
+documenting all the wins that I'm having
+because it builds me authority. It shows
+that I'm achieving great things. It
+shows that I'm good with my clients."
+Like I need to do that. Now, I've had an
+idea to solve this. And so, I'm going to
+build this idea out on this video
+because what I wanted was an episode
+where I taught you how to use Claude
+CoWork Projects and how you can build a
+brain inside them that's going to really
+help you create content that is very
+driven by your opinions and your voice
+and is very you. And the idea is that we
+have a method for capturing a
+screenshot. So, let's say a client
+messages you and says, "Oh my god, thank
+you so much for our session yesterday. I
+feel so good today. I really appreciate
+that." And you're like, "Oh, that is
+such a lovely message." And you want to
+share that somewhere. But it's just like
+it's going to take thinking time for you
+to actually write out what the caption
+would be to go with that post and post
+it. So, what we're going to do is we're
+going to build a system where you
+screenshot something and you put it
+somewhere with a voice ramble of why
+that moment, that screenshot is
+significant. And then the machine that
+we build here on this video is going to
+turn it into a piece of content ready
+for you to schedule on social media. So,
+I am going to use Claude co-work for
+this. If you prefer ChatGPT, you can do
+this in What are they called? Their
+custom GPTs is probably the best way to
+do it on ChatGPT. So, the other thing
+that we're going to use is Airtable. But
+you could just use Google Sheets or any
+other spreadsheet type of software will
+be fine. But we're going to use those
+two tools. And what I love is that
+Airtable and Claude work so nicely
+together. So, this just may unlock for
+you a load of other use cases where you
+think, "Oh my god, I could get these two
+working together in so many different
+ways." So, we have three tabs in Claude.
+We have chat, co-work, and code. And we
+are going to do this inside co-work.
+Now, the reason why we're going to do it
+inside co-work is because co-work has
+just got a little bit more freedom. It's
+got the ability to do things that chat
+doesn't. And we want it to work with
+Airtable and drop things in and be
+connected to Airtable. Co-work is just a
+really good place to do that. Be aware
+that inside co-work, every time you
+start a new chat, we are going to start
+a new task. And that opens up a new
+conversation with co-work. This is
+what's called a sandbox. And what I can
+tell you is it doesn't have memory of
+all the other conversations in co-work
+like chat does. It only has the context
+that you give it, which is a blessing
+and a curse in some cases. So, you can
+give it a folder on your computer and
+you can give it context in terms of
+things you want it to know. and then it
+will have that context of what of what
+is going on. The way you can get co-work
+to have memory of other things it's
+doing across the board, across multiple
+chats, is you set up a project. So,
+we're going to create a new project, and
+this project is going to be called the
+moment capture. And this project is
+going to be essentially the folder in
+where all of our moment catching
+activities are going to live. So, we're
+going to do everything inside this
+project. So, the instructions, you are
+my on-the-go moment catcher, which means
+you are responsible for helping me
+document the wins and achievements and
+noteworthy
+moments in my [clears throat] day-to-day
+business life and I'll turn them into
+authority-building pieces of content we
+can post on social media with specific
+purpose to build trust with audience. We
+are a trusted solution to their problem.
+Okay. So, that is just basically what
+the project is about on the whole, like
+birds-eye view. Now, we've got memory
+turned on, which is good. We're going to
+hit create, and then this project, the
+moment catcher, is now going to be what
+we're going to do everything inside
+Claude on for this specific thing that
+we're building. So, couple of things
+then. We want to have some knowledge
+files. What I mean by that is that on
+your computer, we want to have a folder
+that contains lots of references and
+information about who you are, what your
+business is, who your ideal client is,
+and all these details, because what
+that's going to do is it's going to give
+context about your business, and that is
+really important. And I really recommend
+you create a set of knowledge files that
+you can program into multiple different
+places. I have knowledge files that I
+use for blog writing, for content
+writing, for management of clients
+pipelines and the same set of knowledge
+files I'm using across the board for
+lots of different things. So, it's worth
+investing a bit of time into creating
+knowledge files. And normally what you
+can do is go into an AI that knows you
+really well and create those knowledge
+files from there. In the sense that
+you're going to be able to ask it, "Tell
+me about my ideal client." And it
+already knows all the context, so you
+don't have to recreate the wheel
+essentially. So, I'm going to choose a
+folder on my computer and that folder is
+Cordelia's Brain Knowledge Files. And
+inside this folder, you can see I've got
+an overview of my companies, brand
+positioning and voice, like what my
+brand is all about, what my voice sounds
+like. I do have a video on my YouTube
+channel that is called How to Get AI to
+write like you. I will hook you into
+that in the description of this video.
+That video is really great cuz it shows
+you how to create your voice profile
+that you can then train AI on how to
+talk like you. I'm putting that into the
+knowledge files, so AI knows how to
+write like you. Audience profile, so who
+is your ideal client? And also I always
+have like my current priorities and my
+capacity. APs is my affiliate products.
+CK Tech Stack, that's all the tech I
+use. And MSS Transcripts is a really
+cool one. So, this means Marketing
+Strategy Show Transcripts. And it's just
+a TXT file that contains loads of
+transcripts of me talking here on this
+show. It is all the show transcripts all
+put into this one file. Now, what that
+does is it enables this project to have
+a full understanding of who I am and
+what I'm about and it can dip in and out
+of these to get information so that it
+doesn't have any blank gaps. Couple of
+things that AI does, which is really
+annoying. Number one, it fills knowledge
+gaps with fluffy crap basically. So, if
+you ever find it producing general
+waffly crap, it's probably because it
+doesn't have enough information in order
+to be specific. Another thing that it
+does is it skips ahead and it does three
+jobs at once. It'll create a document on
+the first iteration with the final draft
+without creating a structure and then
+filling out that structure with content
+and then producing a document in three
+different stages. And so, you want to
+basically teach it how to slow down and
+break everything into stages. So, we are
+going to do that. I'm going to show you
+how I prompt and how I set up Claude to
+do something really well rather than
+just rely on it to know what to do and
+then it produces some waffly crap and is
+quite vague because it's trying to do
+everything in one go. So, we've got
+knowledge files. Knowledge files are in
+situ. It also has this folder called the
+moment catcher. It's created that
+folder. And what's going to happen is
+any outputs or anything that it creates
+for this project are going to be stored
+in the moment catcher folder. So, this
+will become populated with documents
+later on if needed on the go. It It's a
+very local thing. Like, if you opened up
+Claude on another computer, you wouldn't
+have access to this co-work project
+because it lives locally on your
+computer. So, you would have to move the
+files to the new computer or store the
+files in the cloud and then rebuild the
+project on a different computer. So,
+that is the only kind of real limitation
+that there is with with this. So, on
+airtable, it's free. It's brilliant and
+it's free up to a certain amount and of
+AI credits are included in airtable,
+which is great. I'm going to create a
+new workspace. I'm going to call the
+workspace moment catcher. Okay, and then
+I'm going to create a table. I'm going
+to build an app on my own. They call it
+an app. It's basically a spreadsheet
+that you can create an interface for and
+we are going to create a form with ours.
+It always gives you these fields when
+you start a new air table, but let's
+just build from scratch. I'm going to
+delete all of them. Let's just start
+blank cuz it's easier to get your head
+around what's going on. The first thing
+we have here is name. I'm going to
+change that to date. And we're going to
+change this field type to date and hit
+save. The next thing we're going to have
+in here, the long text. And this long
+text we're going to call significance.
+Then we're going to create an attachment
+field and we're going to call it
+screenshot. And then we're going to have
+a status. Oh yeah, single select. We're
+going to call it status. And the options
+on there are going to be new, post
+created, posted. Simple as that. And
+then the next thing that we're going to
+create is a form. So I want this to be
+really easy for you to capture things on
+the go. And you know, if you have to
+open air table and fill in a spreadsheet
+every time you have something that
+happens on the go, that's not going to
+be very easy, is it? It's just going to
+be like the most annoying way to build a
+neural pathway ever to exist. My thought
+process is is that if we have a form,
+click on build it yourself, and we're
+going to go with form name, we're going
+to call it the moment catcher. Create
+the form, and we're going to get rid of
+Let's get rid of that from the form. I
+actually think we should get rid of the
+date. It's just going to be an extra
+thing to do, isn't it? We just want the
+significance and the screenshot, and
+then publish. Only users with base
+access. Going to copy this link. And
+because I am recording this on my phone,
+I have a video that I'm going to open
+and play for you to show you how we save
+this to our phone. So I called it the
+moment log. I've changed it. It's now
+called the moment catcher, so ignore
+that. So you're going to then put the
+link that you get from air table into
+Google Chrome on your phone, and then
+hit this button here, and then click on
+view more if you've got an iPhone. I
+don't know how you do this on Android,
+but click on view more, and then add it
+to your home screen, and then you can
+call it the moment catcher or the moment
+log or whatever you want to call it.
+What's going to happen then is that is
+going to now live on your home screen as
+the moment log, and so when you click on
+it, that's going to open, and you can
+put by hitting on this voice symbol down
+here at the bottom that transcribes, you
+could just record yourself explaining
+why it's significant, and then if you
+click on that attachment button, then we
+want to go to photo library, and then
+just basically add something in from
+your photo library, and then you can
+just drop that screenshot in there and
+explain why that is significant. So,
+that's how you would do it on your
+phone. You've got this form then saved
+to your phone, and you can just fill it
+in as you go. Now, there is another
+really like complicated way of doing
+this, which is that you could totally
+set up WhatsApp on make.com and have it
+so that you WhatsApp yourself an image
+and a ramble about why why the
+screenshot you've taken is significant,
+and then what that would do is enable
+you to capture that and on the go via
+WhatsApp. So, what's going to happen
+then? So, if we put the screenshot in
+here, so if I get Here's Here's a
+screenshot I found earlier. Drop that
+here, and then in the significance, the
+significance of this screenshot is that
+it was the first time I have been asked
+if I want an affiliate partnership off
+the back of my YouTube channel. I've had
+a big company called Semrush reach out
+and offer affiliate partnership with
+their software, which is really exciting
+because they're a big company, it
+definitely looks legit, and it goes to
+show even with less than 700 subscribers
+what you can achieve on YouTube when you
+have a live show. And so, the
+significance is it's a testament to the
+success so far of the Marketing Strategy
+Show, which I want to demonstrate that
+the value in that is that if you show up
+regularly over and over and over again,
+it will enable you to start getting
+opportunities coming your way as you
+start building an audience. Right, now I
+just rambled on the spot live about the
+significance of that. I'm sure that
+there is more that I could say, but
+point is I'm busy, I'm on the go, I
+haven't got time to really think about
+it. I just want to capture that moment
+and then get on with my day. Happy days.
+What we'll see now is that that is now
+sitting inside Airtable. We've got the
+significance and we've got the
+screenshot sitting there. I'm also going
+to rename this base, the moment catcher.
+So we've got that there and then we've
+got status. A couple of other things
+we're going to need then is but we are
+going to get Claude to take this and
+turn it into a post. And then once it's
+done that, we want it to create the
+actual copy, the social media post. So
+we want it to create that and then drop
+that in here so that when we come to
+schedule, we can get the screenshot from
+here and we can get the post from there
+and it's sorted. I'm going to get rid of
+these. Let's grab the link to this
+Airtable and drop it in here and say,
+can you extract the Airtable base ID and
+table ID from this link, please. Right,
+we're going to open a scheduled task and
+I'm going to put the prompt in there. So
+coming back into the moment catcher,
+then we're going to go scheduled task
+and we're just going to set it up as a
+scheduled task from here. Now we've got
+the Airtable. So I like to use XML tags
+and XML tags look like this as the first
+XML tag. You are my social media
+manager. It's your job to turn my
+collection of notable business related
+moments that have happened throughout my
+day and turn them into social media
+posts that demonstrate my authority,
+credibility, and ability in solving the
+problem that I help my clients with. You
+will check Airtable new moments that
+have been captured and turn those
+specific moments into posts. And then
+another XML tag. Now, the reason why we
+use XML tags with Claude is because it
+was trained on XML tags. What it does is
+it separates out some things from other
+things. So, for instance, let's say
+you're putting an example of how you
+want it to behave in the prompt. You
+don't want to accidentally muddy the
+lines between the example and then the
+instructions. So, it just enables you to
+keep clear separated lines between what
+is what. So, we've got the role. The
+next thing we're going to have is the
+trigger. You will be triggered manually
+and when you run, your task is to check
+for new moments in Airtable that have
+the status new. If there are none, you
+will assume there is no task for you to
+do today and you will stop trigger. The
+next thing we need is context. Now, it
+has access to the files, but it's not
+very clear what those files are just by
+their titles. We want to just basically
+explain what those knowledge files are
+and what it's going to give them. Yeah,
+we want to explain what they are so that
+it can know whether it should dip into
+it or not. Especially the MSS
+transcripts, right? The MSS transcripts
+is one that's like a huge file and it
+needs to know what it is. Otherwise,
+it's going to go and try and read it all
+and then go, "Oh, I think this is a file
+of transcripts. I now I'm going to work
+out why that is helpful for me and what
+I can do with those transcripts." You
+have access to knowledge files and here
+is how I want you to use them. So, MSS
+transcripts, this is the transcript of
+me talking on video about my area of
+expertise and it includes all my human
+nuance, my opinions, stand stances, etc.
+You will need these to get an
+understanding of how to write from my
+perspective. We're going to call this
+the moment catcher description. You take
+captured moments that I've shared with
+you throughout my day and turn them into
+social media posts. Let's hit save.
+Let's go and check what the other
+knowledge files are. We've got Let's
+just screenshot that. So, let's edit
+this. MSS transcripts, we've done. The
+next one is brand positioning, so you
+understand the flavor and personality of
+my brand. Audience profile, so when you
+write these posts, you know who you are
+speaking to. Current priorities and
+capacity, so you have current things to
+tie the posts you're writing to if
+necessary, if it improves quality,
+context, story, etc. Connection
+marketing, connection marketing
+overviews, so you understand what this
+business is about. So, that is the
+context. So, let's let's close context.
+The next thing we are going to do is
+task. You are going to take a screenshot
+and a dictated ramble about why this
+screenshot is significant to my
+role/business/audience
+and turn this into a social media post
+that I can share with my followers. I
+will be also sharing the screenshot, so
+you can refer to it in the caption you
+are writing. Okay, so look, every good
+post has a hook and we often refer to
+that, which is a relate statement, where
+you want to relate to the audience and
+hook them in by relating to them. And
+then we've got the sort of bridge. So,
+the bridge then ties the hook to the
+demonstrate part of the body of the text
+where you are sharing the significance
+of this post. Why do we want to do it
+like that? Because we could just say,
+"Oh, I got a win." And that is great. We
+can do that, but it would be even better
+if we can find a way of relating to the
+audience. So, it would be relate
+statement is relate to audience or share
+something personal, vulnerable, or
+something that will hook the reader in
+to want to know what this is about. We
+don't just want to pop on socials and be
+like, "Oh, this is what Sarah said about
+working with me." We want to be like,
+"Sarah was experiencing a really hard
+time with XYZ. She tried everything. And
+this message that I received from her
+today after witnessing how hard things
+have been for her, just lit me up and
+made me so excited. After 4 weeks of us
+implementing the XYZ method, she has
+started to be able to sleep at night and
+she feels so much better in herself and
+blah, blah, blah. And I'm just so
+excited for her. Sarah, keep crushing
+it. I'm really proud of you." So, that
+is like an indirect testimonial. We're
+not going to social media to be like, "I
+just had one of my clients reach out and
+tell me that they are having a great
+response to this process we put in place
+as a direct result of us working
+together. Thank you so much for the
+testimonial, Sarah." And for that you
+shared it on social media. Because what
+you've done is accidentally made it all
+about you and at the same time really
+boring, right?
+And no one cares. Like, just unless they
+are in a buying position where they're
+on the fence and they're like, "I really
+want to work with you. I'm just not 100%
+I want to see some proof. I want to see
+some evidence." If they're in that space
+looking at that kind of testimonial is
+helpful because it's going to enable
+them to make a buying decision. But most
+of the people on your social media
+accounts they're at the top of the
+funnel, which means they're not making a
+buying decision just now. What you need
+to do with them is demonstrate why you
+are a really good solution to their
+problem, and you do that by sharing
+value, sharing tips, sharing insight.
+And so, if you can turn your testimonial
+into something that's relating, into
+something that people can see like, "Oh,
+Sarah had that issue. I've got that
+issue. Oh, I'm interested. I want to
+read more about this. What is this
+method?" Rather than it just being a
+blatant plug for your product. It's more
+positioned in a way it can give value.
+Bridge, so we don't have any knee-jerks
+and transition the copy smoothly from
+relating to giving point of this post.
+And then, demonstrate the body of the
+text by you're sharing the significance
+of this moment in a way that gives
+insight, value, hope, or something to
+the ideal reader, rather than just a
+shameless plug. Cool. So, we can we can
+actually give this a new XML tag. You
+can have XML tags inside XML tags. This
+could be copywriting
+structure. And then, because we've
+finished the copywriting structure, we
+can put that there. And then, so you're
+going to take a screenshot, you're going
+to review, just in case it thinks it
+needs to actually screenshot something.
+You're going to review a screenshot and
+a dictated ramble about why this
+screenshot is significant to my role,
+business, audience, and turn this into a
+social media post I can share with my
+followers. I'll be also sharing the
+screenshot on social media with the post
+you write, so you can refer to it in the
+caption you're writing. It's just
+overkill with clarity, but you know,
+just better to be clearer than vaguer in
+terms of like getting a good result. I
+want you to write a post to accompany
+the screenshot based on the structure
+above and everything you know about me
+and my audience. And then, task. I think
+that's fine. And then the only other
+thing we've got is inputs, which I think
+it already knows. Let's hit save. We're
+going to come back to the previous chat
+that we started. And we've got to go to
+projects and go to the moment capture.
+And here we go. Extract airtable IDs.
+Here we go. Base ID, table ID. And let's
+go back to the scheduled task. Where is
+it? Moment capture. Scheduled task. Edit
+that. Inputs, airtable base ID and table
+ID. I'm also going to put here you
+looking for a moment with the status new
+and you will find the ramble and
+screenshot there in that record. Okay,
+probably overkill information. Okay, I'm
+going to say that's it for now because
+this is different to just your usual
+chat with Claude or chat GPT, right?
+What we're doing is we're creating a
+prompt that always stays the same. The
+thing that changes is the variables. So
+what we need to do is either to to get
+the best possible output, we either have
+to now tweak the prompt or we have to
+tweak the input to get a better output.
+And so the only way we can test it is by
+running it and seeing what it does. So
+let's come into airtable and let's come
+to the status and change that to new. I
+wonder if we can actually in this field
+have like a default option to new. Oh
+no, default option, new. Save. And that
+means that any new records that are
+added will just automatically be new. Oh
+yeah, output. We didn't tell it what we
+wanted it to do output wise. We need to
+do that. Let's quickly do that. I'm
+going to put that between task and
+inputs. Oh, and voice as well would be a
+good one. We've got that already in the
+in the knowledge files, don't we? So
+that's fine. Okay, output. I want you to
+then output plain text only, no
+commentary on your process into I'm
+going to say no commentary on your
+process or preamble into airtable under
+the field in the same record that you
+are working in and change the status to
+Let's find out what that status is
+called. Right, so the status that we
+created, the new one is going to be post
+created and then the post is going to
+the field we want it to post into is
+that one. So the field social media
+post, same record that you're working in
+and change the status to post created.
+Save. Ah, I'm going to hit run. Let's
+see. So, another thing for you to know
+about this is you could schedule this to
+happen every day. So, every morning 8:00
+a.m. or something along those lines and
+it will basically just start running at
+that time, the time being the trigger
+for the task. You could do it once a
+week. You could do it a couple of times
+a week. Depends how many moments you
+decide to catch, you know? If you're not
+catching very many, you might do it once
+a week. If you're catching loads, then,
+you know, once a day would be great.
+Now, one thing to note is that if you
+are doing this from a laptop, when your
+laptop is closed or asleep, or the same
+with a computer, when your computer
+screen saver is on or your computer is
+closed or asleep, then the project is
+not going Sorry, the scheduled task is
+not going to run. It will basically skip
+it or error or it will come back and try
+and do it later. So, you do need to come
+and check in to see if it's happened.
+For this reason, actually, I've bought a
+Mac mini that I have on my desk
+connected to my second screen that just
+has all of my scheduled tasks in so that
+it can run throughout the night. And
+what that means is if I get all my
+scheduled tasks throughout the night,
+I'm not using up the quota in my 5-hour
+work window or 4-hour work window,
+whatever Claude gives you. I'm not using
+up my quota in the day with a load of
+scheduled tasks. I'm using it up in the
+night when I'm not using it anyway. So,
+I schedule it all for like 2:00 a.m. cuz
+I'm asleep at 2:00 a.m. and I know that
+it's not going to affect how much
+Clauding I can do in the day because
+it's happening in the night. So, just a
+little tip for you there. So, we're
+going to have a look at air table. Okay,
+it's not in here yet. So, what's going
+on in Claude? It's probably still
+working. Let's have a look. Yeah, it's
+still running. What's it doing? Okay, so
+it's waiting for us. Claude wants to use
+update records for the table. Yeah,
+allow for all scheduled runs. So, every
+time you start a new schedule, it
+usually has approvals that you that you
+give. And then once you've approved it
+once for all subsequent schedule runs,
+it will do it without you. So, the first
+time that you don't want to set it up
+for 2:00 in the morning for the first
+time and then come back and be like,
+"Where the hell is my thing?" because
+you'll probably find it's because you
+haven't approved it. Okay, post has been
+written. Here we go. It's posted it in
+here. Look, post created. Okay. Now,
+just so you know, the screenshot that I
+gave it was an email that I received
+offering me an affiliate partnership on
+the YouTube channel. So, they would give
+me free access to their software and
+then pay me commissions if I speak about
+their software on the show. To be
+honest, I'm not entirely sure it is
+going to be a good fit for you guys. So,
+I don't think I would do it. But, we'll
+see, maybe. I don't have a massive
+YouTube channel. Less than 700
+subscribers, no viral videos, no
+millions of views, just me showing up
+every single week with a live show
+talking about marketing strategy because
+it's what I know and it's what I care
+about. And then this landed in my inbox.
+SEMrush, one of the biggest names in
+digital marketing software reaching out
+to me asking if I want an affiliate
+partnership. Now, look, I'm not sharing
+this to brag. I'm sharing this because I
+think a lot of people are sat there
+going, "What's the point in putting out
+content when nobody's watching?" And I
+get it. I really do. I've had episodes
+where I could count the live viewers on
+one hand. I've questioned whether I was
+worth the effort more times than I'd
+like to admit. But, here's what I've
+learned. You don't need a big audience.
+You need a consistent one. You need to
+keep showing up. Keep talking about your
+thing. Keep building the body of work
+that proves that you know what you're
+talking about because the right people
+are watching even when it feels like
+nobody is. Companies like SEMrush aren't
+reaching out because I've got huge
+numbers. They're reaching out because
+I've shown up consistently every week
+for long enough that it's clear that I'm
+not going anywhere. That's what
+consistency does. It builds something
+that numbers alone never tell you about.
+It builds trust, credibility, and
+apparently partnership offers from
+companies you actually respect. So, if
+you're putting out content and it feels
+like you're shouting into the void, keep
+going. The people that matter are paying
+attention and some of them might just
+slide into your inbox whilst an
+opportunity with an opportunity you
+didn't see coming. I feel a little bit
+emotional reading that because that was
+brilliant. That was brilliant.
+It was
+honestly, it's because it's got the
+knowledge files, it's got the voice
+prompt, it's got the context about who I
+who I am that it was able to write like
+that. And once you've got those things
+down, it's going to change the game for
+you, my friend, in terms of getting AI
+to write really well for you. So, I hope
+that has been helpful. Let me know how
+you get on and all the only bit that
+we're missing next beyond actually
+getting that post written is posting it
+to social media. And there are a few
+things that you need to know. So, number
+one, that you can edit and do whatever
+you want with it. It might need trimming
+down if it's too long. If it's longer
+than 2,200 characters, it might be too
+long for Instagram. So, we need to check
+and do a character count and just make
+sure. If that's the case, we need to
+include that in the prompt. We need to
+go back to the prompt and be like, "This
+is going out on Instagram, so it needs
+to be less than 2,200 characters, yeah?"
+The second thing is call to action.
+That's something that we haven't got
+here. I actually really love that we
+don't have a call to action because it
+means that it's pure value without
+asking for anything and that can be
+really, really good. And I look, I mean
+that's authority building, sharing that
+you got an affiliate partnership, but
+the really cool thing is the way we've
+positioned it. There's a real message,
+there's real value in there for our that
+for our audience. We're likely to get
+people actually reading that and you
+know, that's obviously going to build
+credibility and authority off the back
+of it, too. So, two birds, one stone.
+But, the my point is is that it's a
+really lovely positioning. We don't have
+a call to action. You can add one in if
+you want to. You don't have to though.
+You could just leave it as pure value.
+It's not there to drive traffic. It's
+there to build authority and
+credibility. That's the purpose of it.
+So, it doesn't actually need a call to
+action. You could then turn that into an
+email broadcast to go out as well. Like
+it's worthy of that, I would say. And,
+you know, you can do other things with
+it. So, you just in terms of the
+packaging of the copy I'd say it's raw
+right now. You just need to add a CTA if
+you want one. And if it's an email, you
+need a subject line. You need a from
+Cordelia at the bottom. And you might
+want to ask people to DM you or click a
+link or, you know, whatever it is with
+your call to action. So, just packaging
+is the next thing to think about.
+Packaging, as I've come into the the AI
+world, has become a term that I've
+learned. And And it just means packaging
+is just the It's It's like the final
+iteration of something. How you wrap it
+up and put a bow on it, basically. And
+then it's completely finished. So, just
+that last little bit to do. And then
+it's ready to go out. And you can either
+get that going out automatically with an
+automated poster, or just set yourself a
+few minutes a week to just go and grab
+it, have a read, make any tweaks, and go
+again. Now, one thing that I just want
+to share is that you might find after
+you've done a few of them that you have
+a bit of a pattern of Oh, they're always
+wording it in this way, or they're
+always doing it in that way. And that it
+just means you need to go back to the
+prompt and tweak the prompt. Personally,
+I'm quite happy with what we created
+today. I think it's good enough to go.
+And I'm I'm really happy with that. And
+if you want me to give you access to my
+knowledge files, so you can have a read
+of them and and use them to create your
+own. You want access to the exact prompt
+that we just created, so you can copy
+and paste it. And you want access to the
+step-by-step process laid out in a PDF,
+then all you need to do is come into the
+strategy lab. In there, I am going to be
+sharing with you the resources that you
+need to implement this strategy really
+simply step by step. It will be in there
+in a little guide. So, you don't have to
+worry about coming back to this video or
+coming back to your notes later when
+you're squeezing in making this happen.
+You can just grab the PDF, drop it into
+Claude to be like, "Claude, doing this
+strategy. Help me with this." And it
+will just make it a hundred times easier
+for you. You can jump in on a free trial
+by the way. It's just to access today's
+and as many of them as you want and then
+if you don't want to hang around you can
+leave or you want to hang around it's
+like $4 a month. Actually implement
+this. Download today. So, jump in there
+and it'll be ready soon. I hope that has
+been helpful and yeah, my name is
+Cordelia Kate. This has been the
+marketing strategy show. I hope you
+found it helpful and I'll see you in
+another video. Bye.

@@ -1,0 +1,2743 @@
+What if you could
+create
+AI-powered marketing systems without
+writing a single
+line of code?  Well, that's exactly what
+Claude Code allows you to do.  So in
+this episode, we'll
+be chatting with
+Craig Gwitt, who will be
+showing us all of
+his
+Claude Code marketing setups live
+.  He is the founder of a seven-figure SaaS
+company
+,
+and he grew his
+YouTube channel from 250 to
+over 13,000
+subscribers
+by teaching non-technical
+business owners how
+to use
+tools like Claude
+Code for marketing.
+He said something that
+stuck with me in
+this episode.  He
+built the first version of
+some of these SaaS
+tools that you'll
+see sitting on your
+phone during
+your
+son's basketball practice.  He's not a
+technical expert, and
+you don't
+have to be one either.
+So, let's
+dive in and
+learn how
+to use Claude
+So, Craig Gwitt,
+what are we
+going to learn today?
+We learn about the Claude
+Code for marketing.  I
+think Claude Code
+is probably the most
+misunderstood AI
+product today
+outside of the
+developer community, and it's a
+real powerful
+force for marketing.
+So I'll talk about
+some of the things I
+use
+internally.  We
+made it
+open source so that
+anyone can
+use both
+specific
+tools and
+certain frameworks and
+abstractions in their
+business and products.
+Yes.  And Claude Code is
+incredibly powerful.
+And we're going to
+do one thing: we're going to
+simplify this to a
+basic level for the
+non-technical
+business owner.  I
+know, including myself,
+that every time I heard the
+word "code," my brain
+just shut down.  But
+I promise you guys,
+it will be worth your
+time, especially if
+you are not a
+techie like me.  So
+, before we
+get started, Craig
+will share his
+screen and dive
+into some of his
+workflows in
+action.  But before that,
+Craig, could
+you briefly
+explain why people
+should listen to you?
+What is your experience?
+Yes, I am the founder of Castos.
+We are a podcast
+hosting and
+analytics platform.
+We are a seven-figure SaaS business
+and we've been doing this for
+eight years.  During this
+time, we have moved from a
+traditional SaaS to an
+AI-centric approach
+as owners,
+operators, and
+marketers.  My
+experience is mostly in
+sales and marketing.
+And in the middle of last
+year, in the fall, I
+revived my YouTube
+channel,
+now dedicated exclusively to AI, and
+released 100 videos in
+100 days.  I grew
+my channel from 250
+subscribers to 13,000
+today, uh, and had
+some really
+big successes, like a
+video about AI with
+over 100,000 views
+.  So I live and breathe AI
+, er, I advise and teach
+people how
+to use AI in
+their business.  And
+so as a practitioner who
+does this every day at CASTOS,
+and also helping
+people in similar
+situations, I teach them how
+to use AI,
+especially Claude Code,
+simply because, in
+my opinion, it is the
+best AI
+platform and
+tool on the market
+today.  "100 Days of AI"
+- I love this
+concept, actually, that's how
+you came to
+my attention when I
+came across this
+playlist, it's so
+cool, and I think there's a
+lot to
+learn from it, as
+far as learning all the
+AI ​​tools.  If
+I have to
+post videos
+about it every day, I'll definitely
+dive deep into the
+details, but
+I'll also learn YouTube and,
+you know, how to run a
+YouTube channel.  So I
+think it was a
+great experiment.
+Steeply.  Thank you.  Yes.  Um,
+okay.  Can I
+start showing
+my screen?
+Yes, let's
+dive in.
+Yes.  Steeply.  Um, I think
+we'll start off
+a little general to
+orient people to what this
+toolkit is.  Corey, do
+you think
+most people here are
+familiar with what
+Claude Code is, or do we
+need to start with the
+basics?
+Yes, we can start
+with the basics, like what is
+it?  What is he doing
+?  How is he
+different from the
+regular Claude, and
+then we can
+go into the details.
+Steeply.  Steeply.  So,
+basically, a regular
+Claude, like ChatGPT in
+many ways,
+or Gemini, or Grok—it's
+just a chat interface,
+and it's like mental
+ping-pong for me.
+Like, I have an idea,
+he says something, I
+respond, we
+do something, and we can
+hone the idea that way.  This is
+normal.  Um, and he's
+kind of stupid,
+right?  As
+amazing as
+ChatGPT and Claude are, they are
+somewhat stupid in that they
+can't
+do things for us.  Uh
+, but in Claude Code,
+first of all, you interact
+with it through what's
+called a terminal.  And
+the terminal is that
+super scary place
+where developers
+go to write code,
+create scripts,
+and do a bunch of things
+I don't understand.  Because
+I'm not a developer.  Well, so
+I think,
+first of all,
+Yes.  So don't be
+afraid of this
+place.  Um, I'm
+using a
+program called
+Ghosty here.  Ghosty with two "Ts".  Well,
+this is a
+terminal emulator.  So it
+kind of makes the
+terminal look a little more
+human-friendly
+than it would otherwise be.
+And here I am in
+this project.  Well, a
+project is just a
+place on my
+computer.  I have a
+folder called "coding" and I'm in a
+project called "
+Castos Writer".  This is the
+tool we
+use to
+create all the
+content on our
+website.  That is, SEO,
+landing pages,
+comparison pages.  Well, we
+use it
+to optimize
+conversion rate.  And there are many
+ways to
+use Claude code.
+I'm going to open,
+um...I'm going to open another
+program to
+show you the
+structure so you
+can understand the
+conceptual
+level.  It's easier
+to see here before
+we dive in and
+start, um, start
+using this
+tool.
+Yes.  And I think it's
+also a good introduction,
+because again,
+when you hear "
+terminal," your brain
+shuts down, or
+at least mine did, and when
+you finally
+get
+the courage to go in there
+, you're like, "Well,
+how do I organize my
+folders?"  Like, how do I
+set everything up?  How to
+lay the groundwork
+so I can start
+using what I believe
+is the
+most powerful
+software
+tool on the
+planet right now.
+So, I think it's a
+great transition.
+Yes.  So, in terms of
+tools, there are
+ways to do it
+all in one place.  And this is what
+is called an
+IDE, an integrated
+development environment.
+You may have heard of VS
+Code, Cursor, or anti-gravity from
+Google.  They are all cool.
+You can
+use them.  Um, and
+actually, you know what?
+Today I will
+do that so we can
+see everything in one
+place.  Let me
+just open up and
+they are all or could
+be free.
+Um, anti-gravity is definitely
+free.  VS Code
+is owned by Microsoft and is
+free.  Um, these are
+just programs that
+run on
+your computer where
+you can
+access all of
+this.  Um, so
+let me
+open this project.
+I also use
+Cursor and have been using it for
+a few months now
+completely
+free, it's a
+great tool.
+So yes, it's very similar.
+Yes.  Yes.  Um, okay.
+So, that will be the
+last nice
+moment in this.  This is the
+last time I
+stop
+showing the screen
+and switch.  Ahem.
+Good.  So, the advantage of an
+IDE is that you see
+the files on the left and the
+terminal at the bottom.  Is
+n't that right, Corey?  You see what
+I'm looking at.
+Yes.  Class.  Um, this
+looks like a
+combination of the two
+screens I
+showed earlier,
+right?  The terminal
+at the bottom is where you
+will interact with
+the product.  Um, and the
+file structure here,
+like, what's in this folder?
+If you imagine Windows
+Explorer or Finder on a Mac, you
+know that these are folders
+within folders where
+files and so on are located.  So, for
+orientation, you
+have a few folders here.
+Of course, the
+most important of these
+is the context folder
+.  And you can see
+, I'll just take a
+few of them, okay?
+Um, brand, so who am I
+?  Who is Casus?
+What is this all about?  Yes?
+What product do I have?
+Who do I serve?  What do
+they want?  Um, what are the
+things they want and
+need, what are they
+afraid of, who am I serving,
+what tone of
+voice do I use
+when I write, right?  So,
+this is who I am and how I
+want to
+present myself.  And we have a
+whole bunch of such
+documents.  These are the
+most important
+documents in the entire
+project because I
+often use
+the term “intent” in AI
+because when you
+get poor
+performance from
+AI, 95% of the time it’s
+because you haven’t given
+it the context it
+needs to
+succeed.  Especially
+now, when the models are
+so good, models
+like those in ChatGPT,
+for example, versions 5.2, 2
+medium or others.  In Claude you
+use Opus 4.5.
+This is the model.  The models are
+very good.  You
+no longer need
+to engineer
+prompts.  You just
+say, "Hey, write
+me a letter."
+Yes?
+If he doesn't know who
+you are, what your business is,
+what your
+customers want, or what
+features you have, he
+won't be able to write the
+letter you have in
+mind.  Um, and so
+context is a way
+to fill this project with
+everything it needs.  So
+, you can see
+here the features,
+competitors, and
+other examples of what
+I wrote.  We have an
+“
+author spotlight” section at Castus where
+we highlight
+one of our
+clients—that’s what
+goes into these
+landing page templates,
+right?  So, if you're
+going from zero
+to
+cloud code expert, this is where
+you'll spend 70% of
+your time.
+Yes.  And this is where you'll
+spend 70% of your time,
+because as I'll tell you in
+a bit, we've
+made an
+open
+source version, a kind of
+skeleton of the project, so
+people can
+download it and
+start
+using it
+today.  You can—
+everything else I'm going to
+talk about is
+100% there, and it's free.
+But here you have to go
+in and tell
+the machine who you are, who
+your company is, who
+your brand is, what your
+product is, and all that stuff
+.  So, Corey, do
+you have any questions
+or anything you want
+to add about
+contextual
+content?
+No, I think you hit the nail on the head
+.  This is almost
+verbatim my
+post on
+LinkedIn today, where it seems the
+first line was about how
+I downloaded an AI
+agent, expecting a
+miracle.  And in the end, it
+turned out to be just
+another pointless
+chatbot, and the point of my post
+was that it
+happened because I didn't give
+it the proper
+context.  So I
+think you're absolutely
+right.  It's like
+most of your
+time and effort—
+recalling the quote by
+Abraham Lincoln that
+if he
+had six hours to
+chop down a tree,
+he would spend the first four hours
+sharpening the axe.  And
+so, in the world of cloud
+code, sharpening the
+axe is about giving
+it all
+the context it
+do the job.  Because
+once it has the
+proper context,
+it's like a Ferrari.  It's like a
+racehorse.  He
+just gets to
+work, and you
+let him
+do his thing.
+But that's 80% of success—giving
+him the right
+context for the
+task.
+Yes.  Yes.  Certainly.
+So in our example
+project that we
+will share, you
+can all familiarize yourself with it
+.  This is
+seoomachine.io.  It's completely
+free.  You
+can just
+watch it and we'll
+add a link in the
+description.  You are actually
+downloading a
+skeleton version of
+this application, but
+you will have to
+fill it out
+yourself.  That's
+essentially all you
+need to do.  So
+spend a few
+hours on it.  If you are
+already using
+something like ChatGPT
+which has unlimited
+memory.  Maybe he'll
+actually do
+well.  Say, "Hey,
+I need to create
+these 10 documents,"
+you can download
+examples, add them, and
+say, "Do this for
+me."  That's my favorite
+thing about working with AI: "Hey
+, take this other
+example and do my
+version."
+You can do it.
+So load
+the context, got it?
+This is definitely the
+most important thing of
+all.  If you think
+about the analogy I
+like about these things, it's like,
+let's say I...I
+just hired a very
+smart
+marketer who
+doesn't know what to do yet,
+right?  And we solved
+the problem of him
+knowing my business
+because we have the
+context.  Now we
+need to give him
+standard
+operating procedures
+(SOPs).  Essentially, we
+instructions on how to
+complete the tasks.
+The term we
+internally is "
+definition of
+readiness," or what a
+good outcome should look like.  This is
+related to skills
+and teams.  So, there are a few things going on in
+this "claude" folder
+.  I don't want to
+skip any of them,
+because they're all important,
+but they're quite different
+.  The first is agents.  You've
+all heard the term "AI
+agents" and you're thinking, "What the
+hell does that
+actually mean?"
+I think for many
+people it means something
+different.  But for me and
+on my channel,
+the definition of an AI agent
+has three components.  He
+has access to the model.
+It has access to
+one or more
+tools and has
+memory.  So if
+you think about this
+content analysis agent, it has
+access to these
+scripts.  So I'll
+check the search
+intent of this term
+Python script.  He has a
+lot of knowledge, as he
+will be referring to
+different contexts and
+information in this
+project.  And then he
+will turn to the model;
+to OpenAI or to Anthropic,
+right?  So, these agents
+can work at
+any time.  You
+can run them
+manually;  you can
+call them here in
+the terminal.  You can
+call them;
+You can also configure
+the agent to
+run at a
+specific time,
+like when I
+push this code to
+GitHub or when I run
+another command, like
+here in the commands
+and skills section, which we'll
+talk about in a
+minute.  Or the
+cloud machine code
+could simply
+decide when
+to run them.  So,
+agents are quite
+autonomous.  They can be
+summoned.  They
+work anytime.
+I like
+agents as a supporting
+tool in my
+productivity toolbox.  And I
+want to pause
+to emphasize something
+.  It's like
+, hopefully we're
+starting to see
+how much more
+powerful this is than just
+ChatGPT, right?  In ChatGPT you
+could do that,
+right?  You could
+download the GPT project
+or Claude or Gemini gem with
+all that, and even
+add some
+really fancy
+system prompt to it, right
+?  To do one thing
+right?
+And that's all.  And
+then you think:
+I need to
+create another one
+when I want to write an
+email.  Then another one
+when I want to
+analyze my
+AdWords.  And another one when
+I'm doing
+conversion optimization.  And this is where
+the fun begins—
+inside the .claude folder.
+By the way, for those who are
+not developers: when you
+see a dot before a
+folder name, it
+means that it is
+stored only on
+your computer.  This
+data is not sent
+to GitHub.  GitHub, Git, and GitHub
+are what's called
+version control.  And that's why
+I'm sharing this project
+with our
+team.  So when we
+come here to
+draft
+articles or do
+research, I share
+all of that with my
+team.  So we
+can publish
+them on the website.  I can
+download them for myself.    Much like
+you do with Google Docs.
+You can share
+them and
+work on them together.
+But this folder here, the
+claude folder, is not
+shared.  She is only
+yours.  And if you're
+thinking, "Oh my God, that's
+not really good."  "I don't
+want to do this."  Well, okay.
+Find a way
+to add this to your git
+or do something else
+.  Create a
+central
+repository for all of
+these skills, because
+if you're a team of 10
+marketers, you
+probably want
+everyone to play by the same
+script.  So,
+finding a way
+to exchange them in a standardized way is quite
+important.  But, strictly
+speaking, the skills and
+commands are quite similar.
+You call the commands
+manually.  And
+I'll show you what I mean
+.  So here in
+the terminal, to
+run Claude Code,
+just type claude.  And
+if you don't have
+Claude Code installed,
+just search for it, it's
+literally one
+line of code there.  Now you are still
+in the terminal,
+but you see that Claude Code
+is running.  And you can
+call the command by
+simply typing a slash and,
+for example, optimize.  So I'll
+just do slashresearch
+.  How to start a podcast.  I'll
+just make, well,
+let's say, the best USB
+microphone.  OK.
+So what just happened is
+this: it reads
+the context and does what
+I
+asked it to do.  It does a
+bunch of
+Reads, I
+guess, because
+as soon as you hit
+Enter, it writes: read
+brand voice, read
+context, read
+two more things, read
+target
+keywords, read SEO
+instructions.  So I
+guess he
+reads them first every time
+, because that's
+probably part of the
+research team
+telling Claude Code, "Hey,
+before you search,
+read these
+four reference
+files first."  Is that correct?
+That's right.  Yes.
+Good.  Yes.
+Yes.  And I can't immediately
+remember where it is in the
+document, but yes.
+Yes.  So, yes.  That's right
+.  He will get the
+context he
+thinks he needs
+to complete these
+tasks.  Um, right now it's
+running three different
+agents in parallel.
+It conducts
+keyword research
+, competitive
+analysis, and
+USB Microphone market research.
+He uses
+web search for all of
+this, meaning he goes
+online to
+research all of this.  And
+it asks me if
+I want to
+access this site
+.  And I'll just say "yes.
+"  I'll click down here and
+just say "yes."  And I
+just want him to have
+access to all
+these websites.  So
+he searches and gets a
+lot of information.  And
+he will come back and
+give me a plan for all of this
+.  Again
+, how much more
+powerful is this than just
+asking ChatGPT
+to do something?  There are other
+tools that
+can do the
+same amount of
+work.  The only other one
+I know of is
+called Manis.  M-a-n-u
+manis.im.  Well, Manis can
+do
+this level of work.  All this is
+just in the browser.  And in
+I like Manis
+better for certain
+things.  And I mean,
+if I'm starting
+something new, uh, I can
+just go into Manis and
+do it in one
+go.  For example, if I'm
+not going to
+set up all
+this context.  I'm not
+going to do all
+those things.  I'm on my
+phone.  Maybe Cloud
+Code doesn't work very well
+on your phone.
+It runs on your
+computer, which is why it is
+so powerful, because it
+has access to
+your entire computer.  Uh
+, well, you know, Manis—it's
+just an app, like
+ChatGPT or something.  So,
+uh, but this is an agent-based
+AI tool.  So,
+he'll go and do
+all of that.  It can
+create up to a hundred
+subagents to
+perform all
+this research.  Uh
+, and it can
+create scripts
+and write documents,
+and in many ways
+it's very similar to Cloud
+Code.  Uh, Manis was
+acquired by Meta, well, Facebook
+, uh, a few months
+ago.  So he went and
+did all this
+research here, right?
+Uh, all this
+research, like,
+wow, this is really
+great.  Like, what should I
+do now?  Like, uh
+, this is all in the context of
+content marketing.
+So you think, oh,
+cool, uh, what do we
+do with this now?  Yes?  and it
+did that and saved it
+in this file here, or
+it asks if I want to
+save it in this
+file?  Uh, and I'm like: "
+Yeah, cool."  Let's
+keep this.  And so
+if we go back
+here to our
+file tree, we can
+find the research.
+He is creating a document
+now.  And
+he'll be here in a minute.
+He must be here.  Yes.
+So, he is here.  This is a
+document he
+created.  So, cool.
+You can just
+stop here and
+say, “I’ll pass
+this on to a marketer on my
+team or the author.”  Uh
+, that's completely
+normal.  Uh, or you
+can call
+another command and
+say, for example,
+write this file.  And
+when you click
+here at the top, you're
+referencing that
+file in that command.
+So if you're working
+with this file up here
+, it knows that
+when you say "
+write," you want to
+write about it.  Uh, and
+so once he's
+finished
+working through it, like he
+says, you can
+just write
+based on that.  Um, and
+while this is working, I want
+to stop and just
+say that I'm not a
+techie.  I'm not...I
+don't really know, I'm
+not some
+incredible
+marketer.  I'm not
+some incredible
+AI expert.
+Honestly, I
+made the first version of
+this while sitting in on
+my son's basketball practice.
+I was simply not
+allowed to attend the
+training itself.  I
+sat there for 45 minutes
+and thought: this is really what
+I need.
+And I was just talking
+to Claude Code about how we
+could build this
+.  So don't think, oh my
+god, Craig is
+some cool AI
+wizard and I
+could never
+do that.  Literally,
+you could just, and
+we'll do it in a
+minute.  We will launch a
+whole new project.
+You just tell Claude
+Code what you need and
+it will do it.
+Especially if you have an
+example
+project like our SEO
+machine, it's literally
+all the same.  We just
+updated it this
+week.  I gave a
+big
+presentation on this
+topic yesterday.  So we
+fixed everything and
+published it.  It's
+completely free
+for you, you can
+try it.  Ahem.  If
+you say, "Hey, this
+doesn't quite
+fit us, but it's a
+cool starting
+point."  Then you
+can say, “Hey
+, I want to do
+a project like
+this, but a little
+different, because I’m a
+consumer D2C brand, and
+I actually want to
+optimize ads
+, but I really
+like the
+concept: I want to
+research, write,
+create ad
+scripts, maybe
+create videos or
+storyboards.”  Say,
+"I want to do this,
+but with the same
+reliability and style
+as what we have
+here."
+Right?
+Hmm, cool.  So Claude Code is
+very smart, and he's
+like, "Cool, I
+created this brief, the
+next step is
+to launch the 'best of the best'
+."  USB microphone, so we'll
+just do that.
+So, “write about
+the best USB microphone,
+” and he’ll write an article
+based on all
+that context,
+drawing on the
+research he
+just conducted—just like
+any good
+writer in the world would do.  If we
+go back three
+years, we
+did a lot of content
+marketing at Castos.  We
+paid thousands of
+dollars a month to
+writers, and they
+did this:
+they opened five
+different tabs in Chrome
+and read all the articles
+on that topic.  They
+were creating a plan.  They
+selected the best
+parts from each
+source and molded them
+together into an article.  This is,
+in fact, what we
+did in
+two clicks of a
+button.  And you
+will get a
+95% optimized article,
+practically for free
+.  It costs probably
+10 cents in tokens.
+Or you have
+a subscription, so it
+doesn't even
+cost that much, Claude's paid plan
+is $20 a
+month.
+Mhm.  Aha.  I saw that
+you're on Max, I'm on Pro
+, so I pay $100 a
+month, you pay $200,
+but the average person
+who's just starting out
+with this can
+be very efficient
+on a $20 plan
+, right?
+Yes.  Yes.  Aha.  Aha.  This
+will take some time,
+right?  And it always
+adds confidence that
+it doesn't just give something out
+instantly like some
+other AI tools,
+it really does
+its job.  It
+does all this work.
+I'm going to pause and
+switch to another
+screen because I think it'll be
+easier
+to understand what I'm
+talking about.  Em.  Therefore.
+Okay, about
+skills: these are things you
+can call with
+commands like /research, /
+write, /analyze.  My friend, a
+guy named Corey
+Gaines, a really cool
+marketer, put together a
+list of marketing
+skills.  Again,
+it's completely
+free.  It's there,
+we mentioned GitHub, that's the
+place.  There are all these
+skills there, you can
+go in and view
+them for free.
+For example, he has:
+"I want to set up a
+split test."  "I want
+to check the analytics.
+"  "I want to look
+at competitors and
+alternative
+pages."  "I want to
+conversion rate optimization."  You can
+go in and see them,
+discover and
+understand how Corey
+approaches
+tasks.  And
+a skill is simply a
+task that you
+want the AI ​​to
+perform.  In this
+case, the task
+is to
+optimize the
+conversion rate on the
+page—homepage,
+landing page, or any
+other.  And you have all these
+skills.  You can
+say, "I want them
+all."  They are
+free, right?
+There's nothing to do,
+just take it and
+install them all.
+Or I don't really
+want to do this,
+but I want to see
+how a
+really good
+marketer and a fairly
+AI-savvy person thinks about it
+.  You just look
+at these skills and
+you're like, "Hey, if I
+want to create my own
+version of this, how is this
+set up as an
+example?"  How is it
+organized?  How does this
+define what is
+good?  How does it
+set parameters: what
+to do and what not to
+do?  Um, all these
+marketing skills
+are combined in our SEO
+mechanism, you know, in a kind of
+sample
+project.  So you
+get them
+completely ready, and
+you can do
+all these
+activities in your
+Claude Code project.
+And just to delve a little
+deeper into the
+topic of skills.  So I
+agree.  I mean
+, skills are some
+of the most valuable
+tools you
+can equip your
+AI with, for
+lack of a better
+example, right?  And what
+I tell people: think
+of a skill as a
+operating procedure
+(SOP).  It's simply a process
+you follow in
+your business.  So,
+by creating a
+skill file for your AI,
+when you ask it
+to perform this process,
+it will do
+it the same way every time,
+based on what
+you have taught in that
+skill.  And what's really
+cool about Claude and Claude Code is that they
+actually have a
+skill builder built into them.
+You can go to Claude,
+you don't even
+have to be in
+Claude Code.  You can
+just go into the
+regular
+Claude app and say, "Hey,
+I need you to
+help me
+build an
+email writing skill."
+Yes?  It's like he'll
+interview you or
+walk you through the
+create a reliable
+skill, then
+create it and even
+install it for himself.
+So now whenever
+you ask it
+to write an
+email, it will do so
+based on the guidelines
+you defined during the
+skill creation process.
+So yes, skills are very
+important.
+Skills are important, and I
+think you know,
+thinking of skills as
+... yeah, standard
+is a very good
+analogy.  And if we
+think about what
+we did for
+research and
+writing, it's both an SOP
+and a team.  You can
+call them manually
+with /research or
+/write.  You can also
+call them
+automatically.  So you
+can say, "Hey,
+do CRO on casto.com."
+Yes.
+This is obviously very
+smart.
+This skill.
+Aha.  She will know how
+to use this
+skill.  Uh, and
+the last thing I'd like to
+say before we
+create a
+new project from scratch in a minute
+is SEO machine,
+be sure
+to check it out.  We'll
+add this link,
+or just search for
+SEO machine on Google.  It should
+appear, just
+grab the link from
+this page and
+tell the cloud
+code that you want to
+use it.  And that's
+very smart.
+So you just
+say "clone
+this" and it will know what
+to do: "hey, I want
+to use this as a
+marketing project
+on my machine."
+make this
+work on my
+computer.  Uh, and
+look, we updated
+all of this yesterday or the day before yesterday
+.  So, uh, SEO
+machine—that's pretty cool.
+Back to
+the context: instead of
+all of this
+existing in isolation,
+we get data
+through custom
+integrations that we
+built from three
+places.  I'm trying
+to figure out where we
+wrote that down here.  But those
+three places are your Google
+Analytics (you'll need to
+connect it)
+, your Google Search Console, and a
+third-party
+data provider,
+something like Ahrefs,
+if you're familiar with it,
+called Data for SEO.
+Here it is:
+data sources.  So, we
+get real
+traffic metrics from
+your site, real
+clicks and impressions from Google
+Search Console, and
+real comparisons
+of how you
+look compared
+to others
+with Data for SEO.  So
+it's not just, "hey, I
+want to write an article
+about something."  It's more like, "
+Hey, what should I
+write about?"  We have a
+skill for
+prioritization, and it
+does all this
+analysis that, again
+, a
+very experienced
+content marketer would do for you, and for
+practically
+no cost.  We also
+look at
+search intent,
+keyword analyzer
+—it's a very powerful
+platform.
+Download,
+try,
+connect
+data sources.  Uh, and I think
+you...I think you...you'll
+at least find it very
+interesting.  This is really
+cool.  And of course, we'll
+also add a
+link in the description.
+So, and again, it's
+free.  So, for
+anyone who wants to
+take advantage of this, as
+Craig said, this is what I
+usually do:
+when I find a
+skill pack that I want
+to implement, I just
+copy the link on
+GitHub, paste it into
+Claude, and say, "Hey,
+install this."  "And it'll
+just follow
+the link,
+download the files, and
+install them. in 30
+seconds. So,
+yeah. Yeah. Yeah. Class.
+So, um, I thought
+we could create a
+new project from here,
+because I think people might
+think, "Oh my God, this
+looks like something
+complicated." And I
+totally get that. Um.
+So, we're back in
+our
+development environment, anti-gravity. It
+could be Cursor, VS Code,
+or just the terminal
+on your computer,
+like I often do. But
+I want to, um I want to...
+okay, so we'll
+work from here.
+I just want to
+figure out the best
+way. So, you're all
+set, right? There's a
+comparison table here. There
+'s a full blog post here
+. This was working
+as we spoke.
+So, we have this
+full post. It's
+about 3,000 words here. It's
+optimized
+based on our
+research. So this,
+this is cool. Um, so I don't
+create anything here. So
+I'm just going to get out
+of here for now.  And I see that I'm
+in this folder on my
+computer. So I'm going
+to do a little bit of what I
+know about the terminal,
+like, " cd "—change
+directory. You put
+a space, dot-dot
+—that means
+go
+back one folder. So
+go up one
+level in the hierarchy. And that's where
+all my
+projects are. And I
+have all these
+projects on my machine. So I'm going to create a
+new one.
+We're using " mkdir "
+—create
+a directory. Um, Corey,
+what do we want to
+do a project for
+Cloud Code about?
+Let's do a about.
+I mean, we're on the
+subject of SEO. Let's do a
+for... is this going to
+duplicate the one
+you already have? You'd better
+do... let's
+a project for generating
+ideas for YouTube.
+Yeah.
+Based on what's
+trending in AI right now
+.
+Yeah. Um, let's be really
+original and
+call it YouTube Machine. Oh
+no. I already have, I
+already have a project
+called YouTube Machine.
+Uh. Okay. Let's call
+it YouTube Magic. Okay,
+cool. So we
+created a directory.
+We created a folder on
+our computer
+called YouTube Magic. And
+now let's say cd to
+change
+directory again to this
+YouTube Magic folder. Um. Magic.
+Cool. And then we
+just say claude
+to run Claude here
+. Uh, so we can see
+that Claude is running here. And
+now I'm going to
+make sure that my
+Super Whisper is running. Cool.
+Okay. So I
+use a
+tool
+called Super Whisper on
+my computer.
+Again, in terms of
+tools, Claude Code
+and Manis are just great.
+By far the
+most powerful AI
+is called Super Whisper
+or Whisper Flow, or there are
+a few others like it, but this is
+basically
+Whisper Flow.
+I press a key on my
+computer, it
+starts recording, I
+speak, it
+transcribes and
+inserts the text where
+my
+cursor is. So let's say,
+uh, I'll do my thing, I have
+this  option-space. I want to
+create a project in Claude
+Code that will search
+YouTube and find
+viral
+video ideas that I can
+implement on my
+channel. So I
+need a
+context area so I can
+tell you about
+my channel. I
+need a way for
+you to create, uh,
+collect data about
+existing YouTube channels
+and what
+videos are doing there. So
+you're going to need to
+find successful videos.
+We should probably
+have a concept of
+something like a "
+winning formula,"
+because we're probably going
+to want to iterate on
+a few different types of
+formulas over time. Um, and there's probably
+going to be a few
+more things, but the goal here is to
+use this
+YouTube Magic project to
+find successful
+video ideas so that I can
+grow my channel.
+Now, Craig,
+let me ask
+you something as well.
+So, that project that
+we see here on the
+left side of the screen right now
+is your
+copywriting project,
+right? So this is for
+anything that you do in the
+SEO or
+writing space.  content.
+But this new project
+that we're building is
+specific to YouTube.
+So one of the things
+I wanted to ask is,
+this project is for YouTube, I
+know you mentioned
+it, but obviously
+we're going to have to
+give it some
+context to
+get the best
+results. So what kind of
+context would you give
+Claude Code for a YouTube
+project? Would it be
+something like, "Hey,
+here's my channel." "Here's
+the videos I've made so
+far." "Here's what
+average
+viewer looks like." "Here's their
+demographics."
+Something like that.
+Just a more
+specific context
+that would be needed
+just for this
+project.
+Yeah. So I think
+in terms of how we're
+using it right now, that's
+partly why
+I don't use an
+IDE. Because if you
+saw me
+demo Ghosty
+in front of the terminal,
+I have
+six
+different projects running at the same time.
+Because I have one that
+I call my "
+second brain." That's
+just it, you know
+? I have one that
+works.  as a
+co-founder of Casto. This is
+my co-founder
+who just
+checks my
+gut feelings
+about what I'm doing.
+I have a project for the
+author. I have an
+actual product and
+products that we're
+building. So for
+me, an IDE is not the
+best way to
+multitask. Um.
+I know you
+asked this, but
+listen, I don't want to
+say this because we're
+talking about cloud
+code, but Codeex is
+really good at this right now
+. Um.
+Really?
+Yeah. I even tweeted
+about it
+last night, I didn't
+want to like Codeex, but I
+used it
+yesterday, and it just
+came out, a new version. It does it
+really well
+. Where can you have
+... let me
+share
+this quickly, because I think it's
+appropriate to show
+people how to
+work, it's almost as
+important as what
+we're talking about
+. Um. Okay. So this is
+Codeex. This Codeex is a
+ChatGPT product, and it's
+just a different style,
+but it does something like
+Exactly. And
+this Polyboard is a
+project that I have,
+it's like a Trello board for AI
+agents. I have
+Open Claw running on my computer, and I thought
+I need to see
+what all eight of my agents are doing
+, and Polyboard
+is just an open source
+project that I want to
+implement. So they
+can report, and I
+can give them feedback
+and stuff. Um. In
+this case, I have
+two projects running,
+because I just
+started
+using it, but you
+can add a new
+project. But here you
+say, "Do this here,
+" and then go over
+here and say, "Do this
+other thing." You can
+have five or six
+projects
+running at the same time.
+So compare that to
+how you
+standard IDE—it doesn't
+matter, does
+it? For example, Cursor, VS
+Code, Anti-gravity—they're all
+kind of not designed
+for that, right?
+They're designed for
+you to
+work in one
+place. So you
+can put files here, the
+terminal at the bottom, or you can
+open multiple
+terminal windows, that's
+maybe, right? Uh, and the
+file structure is
+right here. Well, to be
+honest, I almost
+never
+use it. Um, for
+marketing I
+use it I
+visualize documents
+much more than
+anything else. But even
+then, I just don't
+use it that
+much. So from a
+tooling perspective,
+I usually
+use it,
+especially if it's my
+thinking partner, I
+just want a place to
+communicate where there's
+all the context,
+right? Um, and that's why I
+'ll use
+the terminal. If I'm
+developing a product, I
+increasingly
+use something
+like codeex or for
+cloud code,
+a product called
+conductor conductor.build.
+Exactly the same. Um,
+it uses what's
+called
+git work trees.
+So it creates a
+separate instance of
+the application. So you
+can really
+multitask on a project.
+Um, and the main
+use case is
+just communicating. And
+I think that's exactly it.
+Because what you're
+saying here is really
+valid, like, we're
+going to create
+this or  we already
+created this project,
+but we're stuck in the
+wrong folder,
+right? Um, so we're
+going to hit "go" here. And,
+uh, he's like, "Okay,
+cool." He has a
+rough idea
+of ​​what we want.
+Actually, I'm going to hit "
+stop." Oh, he
+went into
+planning mode himself. Cool. That's
+smart. So if
+he hadn't gone into
+planning mode, I would have
+hit Shift + Tab. And you
+can hit Shift +
+Tab to make him accept
+the edit. We
+just let
+him do whatever
+he wants, which is what I
+usually do. Um,
+and then
+planning mode. When
+you have a request like
+this, and you say,
+"Hey, I have a big
+thing I want
+to ask you to
+do, I want to
+go into
+planning mode so we
+can agree on
+what I'm talking about and so you
+understand it and we're
+on the same page." Um, and
+if you canceled
+your progress here,
+I just hit Escape.
+You just  you press the
+up arrow, and it
+returns the previous
+query. And you're in
+planning mode. And I would
+just press Enter
+to restart this,
+even though
+it went into
+planning mode, just
+for the sake of demonstration.
+So going into
+planning mode, it's
+like, cool, let me get my bearings
+. Let me
+figure out what's
+going on here. It'll
+read a bunch of files.
+Then it can
+go online and
+do some more
+research. If you
+link to another
+project on your
+computer, like,
+oh, cool. So it's already
+asking me, how do you
+want to collect this
+data? Um. Because that's what
+we do at Outlier. I
+know that's what you
+want to do. So
+we built that into the
+tool. It's
+called Outlier.
+Outlier.so.
+Use the
+YouTube API. It's free.
+What makes a
+video successful for you? Cool
+. Let's see.
+Number of views
+. And here I'll just
+press space to
+select that. Um. All of these
+things. Freshness. No,
+it might be a little
+older. So I'm
+going to pick three out of four
+. And if
+you want, you can add
+something else here. Um, and I'll
+just...
+your own
+answer.
+You can type your
+own answer. It's
+like, hey, are
+you sure you want to tell me this
+? And you say
+yes. And from there, the
+planning mode often
+goes online.
+It'll ask if it can
+access
+other projects on
+your computer.
+For example, a very
+common case is:
+we have Castos and the
+Outlier app that we're
+developing from a
+code perspective, and we have
+marketing and
+operations projects
+for each of them. And I
+want them to
+interact so that they
+understand—they're
+not in the
+same place in
+terms of folders, but they
+can and should
+reference each
+other to understand the
+context of what's
+going on. Cool.
+So he's put a lot of
+thought into it and has this
+project structure,
+right? He's got a
+context folder.
+He's got formulas. This is where the
+winning formulas are
+that we want to
+iterate on. He's
+going to do some research.
+In  it will have this
+script to get
+data from the YouTube API. And
+it will have a place to
+put
+environment variables, which are
+kind of like
+passwords for
+computer systems to
+talk to each
+other. So it has a
+plan, and the plan is good,
+so we're going to say, cool,
+just do it.
+So about two
+weeks ago, Claude Code
+came out with a feature that
+clears the context and
+automatically accepts the
+plan.
+Context is
+important here, and
+managing it is
+always a key
+point in such a
+powerful AI
+tool, because
+now it's going to get
+to work, even though
+the task is quite
+simple. It's
+going to run for a few
+minutes, but it might
+fill up the
+context window. Um. And if
+it does, it
+has to compress
+the context, and the
+context window is
+the number of tokens
+that it can
+send from your
+computer to the
+AI ​​model. And over time, it
+just grows. So
+at some point it
+has to
+decide, yeah,
+let's
+condense this, make it
+concise, and
+then we can start
+over. But clearing
+the context at the beginning
+-- if you've already
+interacted with it a lot
+above to get to a
+certain point—it could
+fill up your
+context window
+halfway already. And that would be a
+bummer. So it's
+pretty smart: we've
+approved the plan, and
+now we're just
+going to
+execute it. I'll say
+yes, and it'll go back and
+read it all over again,
+because I put all the
+context into the plan above.
+It needs to start
+doing things on
+my computer. It'll
+create these subfolders,
+I'll just click "
+accept changes," and
+it'll start working. This is
+kind of a quick and
+crude example. You
+don't really
+need to give it
+a lot of instructions
+to start
+creating the structure
+, the file system, and the
+functionality. What we
+have in the
+Casto writer tool is very complex,
+but you get 70% of
+the result
+in about 10 minutes.
+Right? So it
+creates a completely
+separate folder. So we would
+technically have to
+go and open this
+new folder to
+start working on the
+new YouTube
+Magic project. Is that right?
+Yeah. And to be honest, I
+don't know how to do that
+here. I don't know how to do that
+do without
+messing up what we're
+doing here. But what
+I would... yeah. You could
+do this to
+create this. Done.
+Close all of this. And
+then open this
+project. um, the
+YouTube magic project. Um, you see
+down here, this is this
+folder. So, what I would do is
+this: ideally, I would
+start in the folder where you
+want this thing to
+end up.
+but create everything
+in this folder.
+Yeah. But it's a pretty
+cool thing that Claude Code
+can pull both
+vertically and
+horizontally from
+where you
+started it. So we
+started it in this
+cast writer folder, and now
+it's working in a different
+folder because we
+told it to. So yeah,
+and I think we changed
+that, but even if we
+started in one folder,
+you can tell it, "
+Hey, go look and
+work in a different
+place." Some of my
+friends only have one
+Claude Code, one place that
+they
+run Claude Code from. It's
+like a "parent"
+node, if you will. And
+then they have a
+repository for
+the application,
+like
+software. They
+have a marketing
+assistant. They have a
+sales manager.
+They have an
+operations project. And
+this "parent"
+node has the context of
+everything. So you could
+do that.
+Got it. I can see that
+it could be an even
+neater way
+to keep everything together.
+Especially if you're
+only going to have a
+few projects, if
+you're not going to be a
+power
+user, just
+someone who says, "Hey,
+I want to have a few
+little
+specialized
+Claude Code projects for
+each of these functions
+in my business; I don't
+plan on doing much
+outside of that," then
+that could be a really
+nice structure, I think
+Yeah, I think you have to
+be a little careful
+with one thing: there
+'s definitely
+the concept of
+context overload. So on the
+other hand, as we were
+talking about, if I
+just go in and say,
+"Hey, shoot me an
+email for
+Corey's business." It's
+like, "Who is
+Corey? What's his
+business? Who  client?"
+He doesn't know any of
+that. If you just
+throw
+everything at him,
+especially a bunch of
+different
+context,
+code, marketing,
+sales, finance, he
+might not be very good at
+handling
+tasks. So I don't
+know the answer. I haven't
+done what we're
+talking about here, to
+have a "
+parent" project
+. a parent project
+, but I would just
+caution that if you
+really start
+doing a lot of things there
+, you might have to
+drill down a
+level for
+specific tasks.
+Yes. And that's a valid
+point too. And that's the
+question I was
+selfishly looking for an
+answer to.
+Let's say I want to
+have different projects
+for different platforms,
+right? So if
+I'm posting to
+YouTube and then to X, LinkedIn
+and other places, I
+guess your
+advice would be to have a
+separate project for
+each platform, right
+? As opposed to a
+general
+writing project that might
+span,
+say, X and LinkedIn. It's
+probably more
+efficient to have a
+separate  project X, which
+is
+just context about X. Same
+for LinkedIn, same for
+YouTube, for each
+individual platform.
+So, am I getting this right
+? Um. I have
+this project, and I want to
+open it up
+just to share my
+thoughts on it.
+Um.
+Yeah, I'd love to take a look at it
+Yeah. So, I just
+started working on this
+. And it's...
+a lot of this stuff is
+just days or
+weeks old. So, I
+think it's all
+moving so fast.
+One of the biggest
+challenges that we all
+have is how do we
+stay on top of all
+this without going
+crazy. Um.
+Yeah, that's my
+biggest weakness. I
+feel
+so behind every day, and
+then I'm like, "Wait, 99
+% of people haven't even heard
+of Claude," so we haven't
+...
+Yeah. Yeah. Yeah. Yeah.
+So, my advice here and what
+I do is I
+have literally a handful of
+people that I
+follow. So I have a
+playlist on YouTube and a
+group, or whatever it's
+called, in  Twitter, and
+I just check
+them once a day. If there's
+something I
+need to know, I'll
+learn from
+them. So if someone
+wanted to make me
+that person, that would be
+cool. Um.
+But no, Corey,
+to answer your
+question: I create
+quite a bit of
+content. YouTube is
+my main channel right now. And
+so I want to be
+able to take my
+content from YouTube and
+use it in
+different ways. And then it
+would work like this:
+we would have
+context again. And it's
+not very robust right now, but
+let's say, here's the
+context of what I
+want the
+emails to look like. And this is, like, my
+style guide,
+right? Um, and then I have
+output formats
+that I want to
+get it in. And this is just a
+place where it's going to
+go. Um, and then
+I have prompts that
+I'll send to LLM
+for each type of
+content. So:
+an article for LinkedIn, a post for LinkedIn, a
+script
+for YouTube Shorts, a note
+on Substack, something like a
+tweet, and a post on  Substack.
+Um, and this project
+just takes a
+transcript from YouTube. It's
+just a little bit of
+Python code that
+Claude wrote for me. Um, and
+then it processes
+it, calling these
+prompts with the
+transcript that it receives. So
+ideally, and I think
+this is 90% done.
+Ideally, what would
+happen in this
+project is, I would
+set it up on
+my computer
+via cron. Um, and cron is
+just a way to do
+something on a schedule.
+Yeah. Um. It would go and
+get this
+transcript. So
+set it up to
+run every day at 10
+a.m. It would
+get the transcript
+. It would process
+it, send the
+transcript to all these
+prompts, get
+the content back,
+put it in the
+source folders, and
+then I would just
+plug it in for
+publishing or
+give it to an assistant
+or my Open Claw or
+whatever. Um, but
+that's how I think about
+implementing what
+you're talking about.  So
+I don't have specific
+projects, but I have
+specific prompts. Um,
+because it's tone, format
+, length, pace, style,
+and so on. Um,
+that's how I think about it.
+And it's, again,
+90% done, and we
+just need to
+finish the rest. But,
+um, that's how I think about it
+And I mean, it's
+essentially a
+content repurposing project, right? It's not like it's
+, yeah, it
+takes a transcript from
+YouTube, and that's kind of the
+input that
+it starts with, but this
+project is not biased towards
+any one
+platform more than
+another. It's more of a
+content repurposing project. So my
+question is, you
+mentioned Open Claw a few times.
+I've been really deep into
+experimenting with it, and I'm
+sure you
+probably have your own
+thoughts on that
+tool as well. But,
+so, my other
+question is, obviously  , that
+Claude Code is an agent
+shell, uh, OpenClaw
+is also an agent
+shell.  Are there any
+disadvantages, say,
+if instead of the
+Claude Code project that you
+are repurposing,
+you use,
+for example, an
+OpenClaw agent, where they
+perform the same
+function, the same
+context, everything is the same,
+but the execution
+is performed by OpenClaw, not
+Claude Code?  Is there any
+real difference here?
+Yes, I don't know.
+Yeah, I don't think
+anyone knows.  I
+mean, like,
+of course.
+Uh, I'll give a little
+context on what
+OpenClaw is so people
+understand and it will
+formulate an
+answer better.  So, Claude
+Code, if you look at
+it as an evolution.  So, the
+first time you
+use ChatGPT, you're
+like, "Wow."  "Like,
+he talks to me, he
+remembers things, I
+can ask him
+questions, and, you know,
+my wife, we had
+dinner yesterday, and she says, '
+It's like having a best
+friend that I
+talk to all the time.'"
+"I'm like, 'Yeah, this is
+crazy.'"  "Uh, but
+that's actually what
+stage she's at,
+right?"  Uh, and I
+think a lot of people
+here are like, "Well, that's
+cool."  I've outgrown
+this.  I want to move on
+.  I want to
+use Claude
+Code where I can enter
+text.  I can
+follow commands.
+You could maybe
+put it on cron, which is
+pretty advanced for
+Claude Code, but really,
+if you're not sitting at your
+computer, it does
+n't do anything.  Uh, the
+next level is an
+AI agent, and as we
+said, I would put Claude Code and Manis
+roughly on the
+same level, except
+that Manis runs in the
+cloud, they are agent
+tools, but they are
+not agents that will
+just go and
+do something on their
+own.
+Right.
+Uh, Janet, this is my
+OpenClaw, uh, hello, well,
+hello to
+The Good
+Place, just doing
+things, like she
+wrote to me
+this morning, "
+Hi, I made a
+website last night."  Er
+, "Give me the DNS so I
+it."  I'm like, "Wow."
+Okay, that's cool.  So
+now Janet has a
+website.  We purchased
+her domain this
+morning and
+set it up.  Uh-huh.
+I've seen crazy
+things like a
+guy giving out his
+email and credit
+card, and it
+gets a
+phone number and starts
+calling people.  This is where it
+gets a little, it gets
+a little weird.  So I guess I guess
+answer boils down
+to a question of
+.  It's like, if you want to
+get a specific result from your AI
+, I probably wouldn't give
+it to open claw, which I
+provided, sorry,
+pretty poor
+context and guidance.
+For example, if you
+just say, "Hey
+Janet, send me a
+tweet," that's probably
+going to be pretty good.
+But if you say, "
+Janet, read my
+last hundred tweets,
+style guide, identify dos
+and don'ts
+, blah blah blah, and
+create an
+SOP and a skill based on that,"
+that's much
+better.  And I think at
+this point it doesn't really
+matter whether
+Janet does it or
+some cloud-based
+program does it on a
+schedule, because
+ultimately they're
+using
+pretty much the same
+mechanism to
+do this
+Yes.  And again, I
+think I have
+the answer, I
+assumed, and I
+should have voiced it
+, but assuming
+the same context
+for clawed code and open claw, which one would be
+better
+suited to such a
+task?  But as you
+said, the result
+will probably be
+about the same,
+especially if claw code
+uses opus 45 and
+open claw uses opus
+45, the result will be
+almost identical.
+Again,
+assuming the
+context is
+the same.  I guess I'm
+trying to figure
+this out because again, I
+have one
+open claw agent right now.  Her name is
+Claire.  She's just my
+general assistant.  And
+I'm starting to realize
+that I'm giving her all these
+skills.  For example, I
+give her writing skills
+, communication skills,
+and all these different things.
+And I think about it from the
+perspective of
+if she were just
+my employee.  I
+don't really want an
+employee who is a
+jack of all trades.
+I want an employee
+who is a specialist.  So I'm backing up a
+.  I'm thinking, "
+Okay, maybe I'll
+just make Claire
+my assistant."  Well
+, she's, you know, she's like a
+administrative
+assistant.
+Email scheduling,
+that type of thing.  And
+then I think I'll
+just create a new
+agent.  And maybe
+this new agent will be
+my YouTuber
+.  Let's say his whole
+job is to
+do something
+similar to what you
+showed us in the
+YouTube Magic project.  He
+researches headlines, writes
+intros to our
+episodes, researches
+guests, and does
+everything related to
+YouTube, he's simply a
+master at it.
+So that's how I
+start to think about
+these agents or
+agent tools.
+Aha.  Yes.  I, I think that's a
+very, very valid
+way of thinking about
+it.  I don't know
+the answer.  My
+personal approach
+right now is this: I have
+Janet at the
+helm of everything, and
+six or seven different
+subagents under her.
+Let's say one for Castos,
+one for Outlier, one
+for all my
+content, one for
+my health and
+fitness, one for
+our personal
+finances, and Janet
+can call up and
+launch these
+agents at any
+time she feels the
+need.  Ahem.  We are
+thinking about
+setting up an OpenClaw or a
+whole OpenClaw array for
+our employees
+at Castos.  And in this
+situation, we would have what
+you're talking about
+: Kelly has an agent,
+Jimmy has an agent,
+you know, Sergey has an
+agent.  They would
+share some
+context here,
+discussing something
+like parental
+structure.  But we would all be
+equal.  And in
+this aspect,
+perhaps this is my
+last remark
+about OpenClaw, it is
+dangerous.  That is, it is
+not something you
+install on your
+main computer.
+This cannot be
+used on
+the same machine where
+you access
+Stripe,
+email, and personal
+stuff.  I have this
+sitting on an old
+MacBook here on my desk, and
+if we do this with
+Castos, we'll put it
+on a DigitalOcean droplet behind
+Cloudflare and with all the
+security measures possible, and it'll all be
+dockerized into a
+separate container
+for each person.
+Because we're talking
+about removing
+restrictions, like we
+did a little bit with Cloud
+Code, right?  We take GPT
+or, say, Claw,
+install it on your
+computer and give you
+access to a bunch of
+tools.  Er, Open
+Claw does the same thing, but
+even more,
+quite consciously, she
+can literally
+do anything.  Um, and
+you don't want that to
+happen without
+understanding what
+she can and can't do, in a
+place where it could
+hurt your
+business.
+Yes.  And we've seen, I
+mean, I'm sure
+you've seen these
+horrific stories in X over the
+last few
+weeks.  That is, people
+simply set
+it up without any
+safeguards and
+allow it to act
+at its own discretion, and
+this can
+only end badly.
+Actually, I...yes.
+So, mine is now
+set up
+virtually, and my
+business partner is the
+technical brain of
+everything we do.
+So he, you know,
+did everything necessary
+to properly
+protect the system.  So
+I feel calm
+in this regard.  But I'm
+literally, as soon as we
+finish recording in a
+few minutes, going
+straight to my local
+Apple store to
+buy a Mac Mini, start
+hosting my
+system locally, and
+build a real
+team of agents that
+I can give a higher
+level of access to
+because it's
+hosted locally and
+better secured.  So
+yeah, that's what I'll
+be making
+future videos about and going into
+much more depth
+.  Yeah, I'd
+love to come back and
+talk about that, because I
+think that's...um...my
+...my...my...vision
+of where we are right now is that
+it's
+probably not the
+final answer.
+This is not something we
+will be using
+in 5 years.
+But this archetype... "
+model" is a bad
+word.  Um, this type of
+thing—this is the next
+evolution: from ChatGPT to
+Cloud Code or Codex or
+whatever, to an
+autonomous agent
+or agents.  Hmm, it's
+definitely the same.    I
+don't think any of
+us expected Open Claw
+to be the same
+incarnation, and it
+probably won't be the
+final solution.
+Um, I think someone,
+and it's most likely
+Anthropic, will offer a
+version of this for
+use.
+That's right.  Yes.  And that's what
+we're
+discussing internally: we're
+staying
+agnostic about
+agent tools
+and just trying to
+get the
+fundamentals and get a
+deep understanding of
+this technology, because
+you're right—
+it's not going to be
+Open Claw in five years.  I can almost
+guarantee it.  So
+when the
+next version comes out, we'll
+be ready.  We
+know how this
+technology works.  We
+understand the principles.  And
+then it's just "
+plug and play" with
+whatever
+agent tool eventually
+comes along.
+Yes.  Yes.  And the principles are the
+same everywhere.  Yes.
+Aha.
+Perfectly.  Craig, that
+was fantastic.  I
+learned a lot myself, and I'm sure
+our audience did
+too.
+Steeply.
+So, uh, before we
+finish, two things.
+First:
+give me a link to the
+SEO toolkit
+or marketing
+skills you
+mentioned earlier.  People
+will be able to just
+go there and
+download them.  What
+was the link there?
+Oh, God.  Um, I would just
+look for
+machine.io.
+Sorry.  So, yes,
+Claude's project is an SEO
+machine.  So, SEO machine.io.  And
+if you want to find
+just marketing
+skills, just
+search for "marketing skills, Corey
+Haynes", spelled like
+your name, and then Hannes,
+H-A-N-N-E-S.  Um, yeah, that's
+great.  You can
+use either one or the
+other.
+Marketing skills
+are, in fact, just
+skills.  SEO machine—it's
+all in one,
+including skills.  And
+you're just filling in the
+context.  So this will
+allow you to go
+from zero to
+full-fledged work
+quite quickly.
+Perfectly.  And where
+can people follow
+you or learn
+more about you?  Where do
+you want
+to direct them?
+Yes, I think Twitter is the
+best place for social media
+.  There I am Craig Huwitt, and
+also YouTube.  I'm on
+YouTube.com/thecraighewitt.  Um,
+I keep
+talking about all this there
+Steeply.  Craig,
+thank you very much for your time.  We will
+definitely
+invite you again in
+the future.  And to our
+viewers—I hope
+you enjoyed it, and
+we'll
+be back
+next week, as always.
+Thanks, guys.

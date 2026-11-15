@@ -1,0 +1,853 @@
+What if your AI was
+more than
+just a chatbot?  What
+if it could actually
+do the work for
+you, not just
+answer
+questions?  Well, that's exactly what
+Perplexity
+Computer and Claude Co-work promise.  So in
+this video, I'm going to pit
+them against each other in a head-to-head
+confrontation
+.  I'll give them three
+identical tasks,
+make them perform three
+identical
+workflows, and show you the
+real results.
+One costs $200 a
+month, the other is only
+$20, and
+honestly, the winner
+surprised me.  So
+in the end, you will
+know exactly which one is
+worth your
+money and which one I recommend
+using.
+So, let's begin.  The first
+task for both
+tools is a
+competitive analysis,
+which we will turn
+into a finished report for
+the client.  Here is the query
+we will use
+in both Perplexity Computer and
+Claude Co-work.  I copy
+it, go to
+Perplexity Computer, turn on
+computer mode,
+create a task,
+paste the query, and
+press Enter.  While he's at
+it, we'll go
+to Claude Co-work and do the same thing
+.  So, we are in
+Co-work.  We test the
+same query and
+click "Let's go."
+We run it on
+Opus 4.6.  We make sure
+that the
+most powerful model is used.
+I'm not sure which
+model Perplexity Computer
+will choose by
+default, but I'll
+come back when
+both tools
+are finished and we'll
+evaluate the result against the
+established
+criteria.  OK.
+Now that both
+tools have completed
+the task, let's
+take a look at the
+results.  By the way,
+Co-work managed
+about 60 seconds
+faster than Perplexity Computer.
+I'm more
+interested in accuracy
+than speed here.  So, I
+took the results of both.
+I pasted them into Google Docs
+and now I'll show you what
+these
+documents look like.  Here's what
+the result
+from Perplexity looks like.  This is all
+the work it
+did while
+executing the query.  He
+created a
+one-page
+document that can be
+exported to Google Docs with
+one click, which is what I
+actually did.  So,
+here is the result from
+Perplexity.  Now we
+want to make sure
+we have an objective
+way of evaluating,
+not just, "Oh,
+this seems
+better."  instead of
+another.  So the way
+we're going to
+evaluate them is we're going to
+pick a few, not
+necessarily five, but
+we're going to take a few
+pricing or
+feature claims from each
+result and
+check them out on the
+official websites to
+make sure the
+information we're getting
+is true.  Friends,
+if you need a
+copy of this Google
+Doc I'm
+working on and want to
+test it out for
+yourself,
+follow the
+link in the description
+if you're watching on YouTube,
+or in the
+release notes;  there is a
+free
+download there to
+get this
+document and run
+these tests yourself.
+So, once again, this is the
+result of
+Perplexity's work.  To start, we'll
+just look at
+each of them in general.
+Remember, we
+wanted this to be
+client-ready
+material that could
+literally be copied
+, pasted,
+downloaded, and
+sent to
+the customer right away.
+Subjectively speaking,
+it looks pretty
+good.  This is what the
+Perplexity computer gave us.  Everything in a convenient
+tabular format.
+It looks aesthetically
+pleasing.  Looks
+good.  And they
+even added a
+recommendation at the bottom.  So:
+best price,
+best
+free plan,
+most polished
+and best for services
+.  So far, not bad from what the
+Perplexity computer has to offer.
+Now let's look at what
+Claude CoWork gave us
+, this is the result from
+CoWork.  Note right away that
+one of our conditions
+was to keep everything
+concise on one
+page.  He broke
+this rule right away.
+This is more than one
+page.  It's
+about a page and a half
+.  This isn't
+necessarily critical,
+but it's worth remembering
+that sometimes we need to
+go back and
+ask him to be
+more concise to
+get a
+one-page result.  So
+let's just
+compare cal.com,
+everyone's results
+for cal.com, and the real
+information to
+make sure it's
+accurate.  So, let
+'s take a look at the prices for
+cal.com.  CoWork tells
+us that the starting
+price is free, the
+mid-tier is $12-15
+per month, and the highest
+tier is $37 per month.
+Let's check if this is
+accurate.  So,
+free is
+correct.  12-15, and
+then 37. So the
+team rate is
+$12 per year, and
+then $16 per
+month.  So CoWork
+made a mistake.
+Actually it's 12-16.  And
+regarding the annual plan, oh,
+it looks like the
+monthly plan for
+organizations
+is 37 per month
+, and when paid annually
+it drops to 28
+per month.  So, a
+small mistake on
+Cowork's part, but it's not
+critical.  Again
+, in the end, it's not
+that important.  Now,
+if we look at
+Perplexity, let's
+compare
+the results to what
+Perplexity produced.  So,
+they included a
+which is correct.  And
+regarding the Teams plan, Perplexity
+indicated that it costs
+$12 per
+user per
+month, which is true if
+you choose the annual
+option.  Perplexity also
+noted that it's
+$28 per
+month for the
+enterprise plan
+, which is also correct.
+So I would say that in the
+first test, Perplexity
+is definitely the
+winner.  The document
+looked better.  He
+clearly followed
+all our
+instructions: to have
+one page, an
+attractive design,
+and a professional
+look for clients,
+and I think he did a
+better job.  So
+let's move on to the second
+test.  The second thing
+we're testing: I
+created a folder with 10
+text files
+containing dummy
+notes about receiving
+clients.  They have
+different formats,
+contain a lot of
+typos, and the
+structure is
+inconsistent.  The goal of
+the test is to see if
+each
+tool can read
+these 10 messy files
+, extract
+structured data from
+each, and output it
+into a clean table.  So I'll
+take a break,
+come back after I
+upload the files to
+each tool, and
+then we'll run
+the test to see the
+result.  And this is exactly the
+query we are
+using here.
+Okay, now that
+have completed their analysis,
+let's dive in and
+compare their
+scores.  It's worth
+considering: since
+Perplexity is cloud-based and doesn't
+run directly
+on your computer,
+the difference between the two
+requests is that
+I had to
+upload files
+to the request, whereas Claude
+Co-work had access to a
+folder on my
+computer and could
+pull files directly
+from there.  In the end, it's not
+that important.  This is
+simply the key
+difference between the
+two tools.
+Perplexity is
+cloud-based, while Co-work can
+work with and modify files
+on your computer
+.  So,
+let's look
+at the result it
+gave us.  The first one
+we'll look at
+is the result from
+Perplexity.  So, this is a
+spreadsheet
+that Perplexity prepared
+based on that
+fictitious
+client data, where
+, as you recall,
+there were a lot of
+discrepancies,
+typos, etc.  And here is the one that
+Co-work gave us.
+So, again,
+subjectively speaking,
+they look
+pretty similar.
+Personally, I
+like the look of the Perplexity version a little
+better.  I think it
+looks more aesthetically pleasing.  It
+looks a little
+neater.  And the
+Co-work option also
+copes with
+the task well.  Again
+, no
+major problems.
+Now, how will we
+evaluate them?  We
+will check this
+table against one of the
+source files.  We wo
+n't look at
+all 10. We'll
+just look at one of them.  I
+copied one of the
+original files into a
+Google Doc so we can
+evaluate them
+objectively.  So,
+the file that we
+will review and
+compare here to
+data is correct
+is information about
+client Sofia
+Martinez.  If we
+find it here, we
+will see that it is
+first on the list.  So,
+Perplexity indicated that her
+name was Sofia Martinez.
+The name of her business is "
+Sophia's Bakery," a bakery
+and
+catering company.  Let's
+check if this is
+correct.  She
+owns a bakery.
+That seems to be true.
+What is her name?
+But what is the name of her
+bakery?  Okay.  So,
+Perplexity even
+noted that the name of
+the business was not listed.
+Which is true, because in
+our examples there
+are no notes about the business name.  So
+Perplexity, you know,
+took the liberty of
+saying, "Hey, we'll
+just call it
+Sophia's Bakery because
+we don't have a clear
+name."  But we can
+understand that this is a
+bakery or a
+catering business.  So,
+so far so good.  I'll
+even zoom in on
+the image a little so you
+can see.
+OK.  Now he
+says that, based on
+the notes we provided,
+the main problem is
+that they have an
+outdated website
+without the ability to
+order online, and
+customer acquisition
+is based on "
+word of mouth"
+and a small
+audience on Instagram -
+about 200
+followers.  Is this
+true?  It seems she was
+asking for a
+website design update.  She has a
+website on Wix, but she
+says it looks
+outdated and cheap,
+and she wants something
+more professional with
+online ordering.  And
+closer to the end, she
+talks about her
+main problem.
+She gets
+most of her clients
+through word of mouth
+and Instagram, and has
+followers on Instagram.
+So, again, it
+seems like Perplexity
+has perfectly identified the
+main “
+bottleneck” for this
+fictional client.  Er
+, Perplexity estimates her
+time wasting at
+5–8 hours per week.  And
+again, it's hard to
+say how
+accurate this is.  Perplexity had to
+rely on
+intuition to
+decide whether this
+statement was accurate.
+But if I'm a baker,
+I don't have an
+online ordering system, and I
+only take orders through word of mouth
+,
+recommendations, and
+a little bit through Instagram, then
+5–8 hours a week
+is probably a realistic
+amount of time I
+could get back
+if I implemented a
+professional website
+and ordering system.
+Finally, we
+asked Perplexity
+to recommend an AI
+tool it
+could use
+to address this
+problem.  And he
+recommended ChatGPT
+for creating
+social media captions,
+product descriptions, and
+email drafts to
+improve her
+online presence.  This is a pretty
+basic recommendation.
+I don't really
+like her.  I haven't
+really enjoyed
+using ChatGPT
+for anything
+lately, but it's
+not that bad after all.
+So let's
+see how
+Claude
+Co-work's performance compares.  If we
+move on to Co-work, we
+see Sofia
+Martinez again.  He did the same thing as
+Perplexity.
+He simply called it
+“Sophia’s Bakery”
+since there was no name
+.  He recognized
+it as a
+bakery/
+catering business, which is
+correct.  And then
+he identified the same
+basic "
+bottleneck" it seems as
+Perplexity.  Outdated
+website without online
+ordering,
+reliance on word
+of mouth,
+number of
+Instagram followers
+to attract
+customers.  So, it seems
+that the results for
+this column in both
+tools—Perplexity
+and Co-work—were almost
+identical.  I would be
+interested
+to know if
+Perplexity actually used
+Opus 4.6 as a model for
+this task,
+because Perplexity chooses the
+model it thinks is
+best for a
+particular job, and
+that's cool because you're not
+tied to just
+Anthropic models like you would be
+in
+Cohere, for example.  So, if
+you look closely,
+Cohere estimated her
+about 5 hours per
+week.  I
+think that's
+probably closer to the
+truth.  Perplexity provided
+the range.  Cohere simply
+gave a clear number.  I
+like that Cohere
+was a little more
+restrained in the
+lower threshold, and I
+think that's great.
+But this is where the two
+tools
+differ, and this is where,
+in my opinion,
+Cohere has the advantage for
+this particular
+task.  So, again
+, the main
+problem
+identified by both
+tools is
+that
+Sofia's bakery website
+is outdated and lacks an
+online
+ordering feature.  Now,
+Perplexity, while
+identifying the
+website as a "
+bottleneck," recommended
+ChatGPT for
+social media content creation
+as a solution.  Instead,
+Cohere took notice of
+the problem and
+suggested
+using an AI
+website builder
+to quickly create a
+modern website with a
+built-in
+online ordering feature.
+So, in my opinion, in
+task, Cohere wins
+because its
+recommendation is
+much more relevant
+to her specific
+problem.  Isn't that right?
+Social media content
+isn't necessarily her
+main problem,
+although Perplexity, judging by the
+tool's recommendation, thought
+otherwise.  So, overall
+for the second task,
+I think Cohere is
+better because it
+recommended a more
+appropriate tool
+that would actually
+help her solve the
+problem.  But,
+I think
+Perplexity's result
+looks better.  It is more
+aesthetically
+appealing, but
+again, that's not what
+we're evaluating here.  We
+evaluate the actual
+effectiveness
+of the tools.  Now,
+finally, we'll
+test another
+usage scenario.  We will
+test whether
+each tool can
+conduct research
+, create a result
+for the client, and provide a
+workflow.  We'll
+see if
+they can find real
+tools.  Will
+they be able to find
+reviews from real
+users?  And will
+they be able
+to create a ready-made PDF
+report in one go?  We'll
+give them both the
+same query as
+usual, and I'll be back
+when they've completed their
+analysis.  OK.  Now that both
+Cohere and Perplexity
+have completed their
+research.  We
+asked them to find
+three free or
+low-cost AI
+tools that
+help solo
+entrepreneurs
+automate
+bill reminders.  We wanted
+them to find
+the name, price, one
+key feature, and
+one
+real
+user review, then
+compile it all into a
+one-page PDF
+report with a professional
+headline,
+comparison
+table, and
+best-of-breed recommendation
+at the end.  So, here's what
+we got from Perplexity
+, and I'll zoom in so you can
+see it better.
+So, once again, we
+asked for a professional
+headline—and that's exactly what
+we got.  We
+asked for a comparison
+table and
+recommendation of the
+best option
+below.  So that's exactly what
+we have: a
+comparison chart
+here and a recommendation
+below.  And one of the things
+we also
+asked for was
+user feedback.  So, these
+reviews seem
+true, right?
+That is, there is nothing to indicate that
+they are
+fabricated or
+false.  But what
+I like about
+what Perplexity published
+is that he provided
+the sources at the bottom.  So,
+he provided sources not
+only for what was
+in the comparison table,
+but also for the
+reviews themselves.  So, again
+, subjectively
+speaking, the result from
+Perplexity looks very
+good.  Uh, I'm a big
+fan of this.
+I think, again,
+it's just a beautifully
+designed result
+.  He offered
+us three fairly
+common options.
+Let's see what
+Co-work has to offer us.
+So, Perplexity
+suggested Zoho Invoice,
+Invoice Ninja, and Invoice Sherpa.  And
+Co-work offered e-e
+Zoho Invoice, FreshBooks and Invoice
+Sherpa.  So, two out of three
+recommendations
+coincided in both
+tools.  Regarding the
+Co-work result, it
+seems to
+have followed
+our rules clearly as well.  It was a
+concise,
+response, as we
+requested.  There's
+a title there.  There is a
+comparison table as well
+as a "
+best for" table.  The only
+thing Co-work missed, and
+keep in mind we did
+n't necessarily
+ask for this, but it
+was a nice touch
+from Perplexity—he didn't
+provide a source with
+direct links.
+So here in the footer,
+remember, in the footer of the
+Perplexity result,
+we have the exact sources
+and links to them,
+including the reviews.
+Co-work in the footer contains an
+e-report
+prepared in
+March 2026.  Prices
+and features are subject
+to change.
+Check
+tool's website before
+purchasing.  And then he
+names the sources: G2,
+Capterra, GetApp, NerdWallet, SMB Guide,
+and research.com, but doesn't provide
+links to these
+sources.  Again,
+we didn't ask for
+links,
+so it's not a
+fault,
+but I like
+that Perplexity went
+above and beyond
+and added
+links to sources.
+both results are
+very similar and very
+strong.  I would say it's a
+tie in this third task.  Now
+people are probably wondering
+what the verdict is,
+right?  Perplexity won the
+first task, Co-work
+won the second, and the
+third was a draw.  What is
+my recommendation?  My
+honest advice: It's worth
+considering that Co-work
+is available for
+$20 per month on
+any
+Claude paid plan, you can
+use Co-work
+starting at $20
+per month.  Perplexity Computer is
+only available in the
+Perplexity Max plan, which
+costs $200 per
+month.  So, is it worth
+using
+Perplexity if you're going
+to pay 10 times
+more than Claude
+Computer Use?  My honest
+opinion right now is no,
+of course not.  If you
+can afford to pay
+$20 a month for
+access to one of
+these tools, I would
+choose Claude.  I don't think
+Perplexity Computer is
+worth
+paying $200 a
+month yet.  Does
+he feel
+better?  Does
+it look a little
+better overall?  I would say just barely
+.  I would say
+it is about
+5–10% better than Claude
+based on my
+initial
+testing, and I think
+this is mostly because
+Perplexity Computer has access
+to all the available
+models.  You are not
+limited to just
+Anthropic models, and the
+fact that it is cloud-based
+allows it
+to work even
+when your computer
+is off or you are
+not around.  Whereas
+for Claude to work, it
+must be running on
+your local
+device and the computer
+must be turned on.
+So, Perplexity Computer is a
+slightly better product,
+but is it worth paying
+10 times more for it
+?  The answer is no
+.  Therefore, my choice is
+Claude Computer Use.
+I hope you
+enjoyed this
+comparison.  This was
+my honest opinion after
+testing Claude
+for the last
+month and a half and
+Perplexity Computer for the
+last few
+days.  Both are
+great tools.  I'm looking forward to
+what Anthropic does with
+Claude, and what Perplexity
+does with Computer.  And
+if you like
+these videos and these
+releases, don't forget
+to subscribe so you don't
+miss new ones.
+See you
+next week.

@@ -1,0 +1,1142 @@
+My name is Corey, and I am a local AI
+consultant.  We are visiting several businesses in this area and
+providing comprehensive evaluations as a paid service
+.    Are you sure you'll be
+okay?  Yes, please
+contact me via text or email, and we can discuss it in more detail
+.  all
+right.  So, we are back with the second episode of
+building an AI agency from scratch
+.  I'm
+really looking forward to this episode
+.  I think this episode will be really fun because it is the part where I start making
+cold calls in earnest,
+visiting businesses in person, and
+beginning sales
+.
+Actually, sales account for 90% of the entire process
+.  In this episode, you will
+also be able to see me getting rejected.    This will likely be the
+episode where you can learn the most.
+So, shall we briefly summarize what we covered in the first episode
+?
+I created a list of potential customers using HyperAgent
+, and here it is.  I
+exported this list consisting of a total of 98 businesses and
+uploaded it to Google Sheets
+.  Well, I could have sent
+the data directly to Google Sheets using HyperAgent, but
+I did it this way.    I
+also built a simple CRM system using HyperAgent.  We have currently
+secured 98 leads.    For
+future tracking, we
+have made several updates to the pipeline.
+After securing a lead, I will record the
+number of conversations with the actual decision-maker
+.  We will not
+include conversations with receptionists or people who are not decision-makers
+, and
+will only count conversations with decision-makers.
+And we will analyze how many of them
+showed interest, how many of them
+accepted the free website creation offer
+, how many of those who accepted
+booked follow-up calls for paid service consultations
+how much revenue was actually
+generated from the booked calls, etc.
+So, when this series
+ends, conversely, I found out that "on average,
+Y contracts can be closed through X conversations
+."  You can say that
+.  This is the very
+core of the sales pipeline.
+Here are my leads,
+sorted by priority
+.  At the top of the list are
+tree care service providers
+.  This is because it is a
+niche market we are targeting, and there is
+no proper website
+.  Therefore, these are the
+easiest
+companies to target.  Especially
+since there is a great opportunity in this field,
+I will make cold calls to all of these companies
+.  For companies that
+do not answer cold calls or whose representatives cannot be
+reached, we will visit in person to
+speak with the decision-makers
+.  This is because these companies have a
+very high chance of success
+.  Now, here are
+25 tree care service companies
+, but none of them have a proper
+website.  The most
+difficult part is meeting the decision-maker, but it will be
+much easier if you visit them in person.    The
+data here is
+all the data collected by Hyper Agent for us
+.  It includes useful information such as Google ratings,
+the number of Google reviews, and links to Google Maps/Google
+My Business Pages
+.  Now,
+before we get started in earnest, I would like to express my gratitude to Hyper Agent, the sponsor of not only this video
+but the entire 'From Scratch'
+series
+.  Especially if
+you watched Episode 1, you would have seen the capabilities of the Hyper Agent to
+some extent, as
+I entrust 98% of the work throughout this entire series
+to the Hyper Agent
+.  Hyper Agent handles all tasks, from identifying potential customers to
+building websites and
+writing contact scripts
+And I have
+prepared special benefits for my viewers
+.  If you
+visit hyperagent.com/corey100 and sign up for a paid plan, you
+can receive free credit worth $100
+.  You may also click the link in the description below
+.  With $100 credit, you
+can use every feature we will show you in this series at least once
+.  So, please visit Hyper Agent to
+claim your free benefits
+, and then let's move on to the rest of this episode
+.  Before we begin full-scale cold
+calling and door-to-door sales,
+there is one thing I would like to mention.
+In this episode, we plan to
+sell or offer two products
+When making cold calls, I plan to sell website creation services to the tree management service companies mentioned in Episode 1
+.  And the second proposal
+is a free mini AI evaluation that we plan to provide, especially when doing door-to-door sales.  We will watch to see which proposal
+leads to a sale first
+.  If the website building service
+is sold first, I plan to
+create a website building agent and provide it for free in Episode 4
+.  If the Mini AI
+evaluation leads to sales and
+is upsold to a paid evaluation, I will
+create an agent that completes the paid evaluation and provide it for free in Episode 4
+.  In short, regardless of which
+proposal leads to a sale first
+, we will create an agent to implement that proposal and
+provide it to you for free via the Hyper Agent Marketplace in Episode 4
+.  Now, shall we
+move on to the fun part
+?  Let's start the cold call
+.  Now, let's
+contact a few companies to see which proposal will be
+accepted first and
+how quickly we can schedule a consultation call, and then
+move on to Episode 3
+Welcome to Verizon Wireless
+.  Your number
+has changed, is
+disconnected, or is no longer in use
+Hmm, it seems the number on the website is
+n't connecting at all
+.  One tip I learned over the years in sales is to make
+two calls
+.  If they
+don't answer or it goes to voicemail, just call them back
+right away
+.  It often connects when the second bell
+rings
+.  The website for the following company is
+inaccessible due to a 404 error
+.  Then I will call this company
+Thank you for calling Kantu Tree Experts.  This
+is Casey.  How can I help you
+Hello, Casey.  I
+am Cory.  I was
+looking for tree care services in the Charlotte area. Do you happen to
+have a website?  I could
+n't find you online
+.  I would still
+like to continue cooperating.  all
+right.  The
+reason I am asking and calling you is that
+I did some research, and it seems there are about
+6,100 website searches related to tree care services in the Charlotte area per month
+.  However, it
+seemed that your company did not have a website.  I
+build websites for businesses for free and help them acquire more
+potential customers and manage them efficiently by adding AI features
+.  I am contacting you because I was wondering if you might be
+interested in this kind of service,
+or if I could have a conversation with the owner
+.  Well, the
+conditions aren't right yet
+.  We are coordinating a few things
+right.
+What work are you currently working on regarding the website
+?  Is an in-house person
+handling the production,
+or are you collaborating with an external company
+?  Yes, we are
+collaborating with external companies.  all
+When is the website scheduled to open
+?  I'm not sure yet
+All right.  Don't worry.
+Thank you for your time.
+If
+there are any changes, I will contact you again in about a month
+.  Yes, that's
+good.  thank you.
+good bye.  you're welcome.
+good bye.  Yes, they are
+n't
+doing anything over there.  The funny thing is, it's a
+common excuse people make
+.  We say things like, "Ah, we are
+working with someone else,
+" or "We are handling it well
+."  But
+I bet $1,000 that even if you come
+back in 30 days, the
+website will still be broken
+.  So,
+I think it would be best to contact you one-on-one and meet in person.
+Hello, this is Joe Retson Tree
+Care Services.  I am
+unable to take the phone right now, but please
+leave a message and I will get back to you as soon as possible
+thank you.  have a good day
+.  (
+After the beep, please record a message
+.) When you finish recording,
+hang up or press 1 to
+check additional options.
+Hello, Mr. Jo.  My name is
+Cory.  I
+apologize for contacting you so suddenly, but I
+looked up your company online.
+It seems you don't have a website.  An
+error
+occurs when I try to connect.  It appears the website is
+not currently operational
+.  So, I
+would like to create a website for your company for free.
+This is to show you what services our company provides.  We build corporate websites and
+apply AI technology to help you
+acquire more potential customers and
+manage them efficiently
+.  This is a proposal to create a
+website for free, without any conditions
+.  If you are interested, please feel free to
+call or send a text message at any time
+.  thank you
+.  I will contact you soon
+.  So, I’m going to
+leave a voice message like that, especially when I think the recipient might be the boss.  For example
+, there is a person named Joe from Centra Tree Service. He
+could be the boss, he might not be, or he could just be a
+stranger
+.  However, seeing that the message came
+on that person's mobile phone rather than the office
+, I tend to think that they are probably the
+boss or are actually running the company
+want to pique curiosity through such voice messages.
+I
+will make a website for you for free.  Like this
+.  I'll create a website for free and
+send it to you, saying, "Here it is
+. Try installing it. Good luck
+."  That's what they say.
+Of course, that person won't try to install it themselves
+, and will
+want me to install it for them
+.  So, we will
+charge a fee for that part
+A.B.  Bentley.
+Hello,
+are you the Bentley stump removal company?  Yes, that is
+correct.
+Hello, my name is Cory
+.  I was looking for a tree stump removal company in this area
+, but it
+seems you don't have a website, so I am asking you
+.  Is that right?  Ah, but they
+hung up the phone.  I will
+call again.
+I am A.B.  It is a Bentley.  I am
+unable to use my mobile phone right now
+, so please leave a short message and I will get
+back to you
+.  I doubt they will
+reply, so I should
+send a text to pique their curiosity
+.  I guess I should send it in the
+same format as the one I sent to someone else
+.  So, "
+Hello, you just hung up the phone, but it
+seems you don't have a website, so I created a new one for you for free
+. It will
+help you attract more customers. Would you like me to
+send you the link? If you don't mind, I can
+also help you set it up."    I'm going to
+say that.  I will
+send the message like this.  They might
+swear or something, but we'll have to wait and see
+hello?
+Hello, is this Tree Care LLC
+?    yes
+Hello, this is Cori.  I was looking for
+tree management services in this area
+, but I found that you
+don't have a website.  Is that correct
+?  yes.  I will call you back right away
+.  I guess I need to change my opening remark
+Phone number 7.  Alright, shall we
+start business right away
+?  I will wait a moment
+.  Before that, I'm going to
+copy the exact same content I just sent to someone else and
+send it to him as well.  For example
+, "Hello, you just
+hung up the phone, but I
+created a website for you.
+Would you like me to send you the link? If you don't mind, I can also help you with
+the setup
+."  Like this.    I
+just sent that content to him as well
+.  From now on, in my conversation
+scripts, instead of saying "It
+looks like you don't have a website...", I should
+change it to
+say this.  I'm going to
+get straight to the point and
+say this.  "Hello, this might be a bit random, but
+while looking for a local tree care company, I noticed that you don't have a website
+. So, I
+created one for you for free. If you like it, I
+think I can help you with the setup as well. Corey, who just sent the text, replied,
+'
+Thank you, Corey. I'm not interested right now, but I'll
+save your contact information
+.'"  You said that, right? Yes
+, I understand. I will start conducting business this way from now on. I
+also need to update the tracking system
+. It looks like there have been about three
+actual valid conversations so far
+. Of course, there were instances where voicemails were
+left or calls were disconnected, but
+I will adjust the valid conversation count to three. I intend to limit that number to three going forward
+One of the constraints of this series is to allocate 60 minutes a day to outreach activities.  I just conveyed that information
+, and to summarize the first day of today's activities
+, I have
+contacted about 12 companies so far
+.  The phone numbers for two of the companies did
+not work.  I didn't have any other contact information, so I had
+no way to contact you
+.  To be exact, there were 3
+.  I left 2 to 6
+text messages or voice
+messages for the remaining 10 companies.  We
+definitely plan to follow up with these six companies, and we
+intend to proceed by visiting their offices in person.  I
+plan to do that later this week
+.  I will continue to call every day
+, and I will visit one or two places in person daily to
+maintain consistent contact.  We have a
+60-minute goal or constraint
+.  This is because, while it is fine if these
+people hang up on me,
+don't reply to text messages, or do
+n't answer voicemails
+, it is much harder to refuse when we meet in person
+So, I will
+set up the website in advance using HyperAgent before visiting.
+Then when I arrived, they said, "Okay
+, here is the website. It's
+finished."  You could say that
+.  "And from there,
+well, let's start the conversation. This is
+Day 1. We'll
+talk about Day 2 again tomorrow. Good
+heavens, it's 10:30 a.m. on Tuesday
+How many of these companies don't even answer the phone? It seems these
+people hate money
+. Hello.
+Hi, is this Sheave Street
+Service? Yes, that's
+right. Hello, this
+is Corey. I'm
+sorry to bring this up so suddenly, but it looks
+like you don't have a website, so
+I made one myself. Would you like me
+to send it to you via text message
+, or send you the link via email
+? That's
+fine. I'm driving right now
+. Okay,
+I understand. Then, may I
+ask why you don't have a website
+? I
+think you have a Facebook page. Yes, that's
+fine. Thank you.
+I'm off now.
+Who said they'd help you
+Hello, this is Corey."  Uh
+, and you know, I'm
+sorry to bring this up so suddenly
+, but it seems like you don't have a website
+.  I made one for you myself. Would you like me
+to send the link via text message
+or email
+?  Ah,
+I have a website.
+Oh, do you have a website?  yes
+What is your address?  I
+looked it up on the internet, but I couldn't find it
+It's 99007.  9907?
+This is the website address.  Um,
+wait a minute.  I
+entrusted it to someone else.    I
+just started today.
+Oh, really?  Yes, no matter how much
+I looked, I couldn't find it.
+So, I
+made it for you myself from scratch.  I think we would be missing out on a lot of
+potential customers if we didn't have a website
+.  "And actually, one of the things I
+do for local businesses is
+build and set up websites.
+So, as I mentioned, I was
+wondering if you happen to have a website, or if you would be willing to discuss that
+."
+"
+No, I already have one.
+My representative
+will be looking at the website today. Oh, did you
+just create it today? Yes.
+What is the address? Could I look it up for a moment
+Hmm, I'm not exactly sure. I think it's
+Route 9007, somewhere
+around Detroit Drive. Okay, I'll
+check it out. It's probably
+Detroit Drive
+. That's the correct company address.
+Yes, I'll check it out. It
+'s Huntersville. It says S&K Tree Services
+. Uh, wait a minute
+. Okay, let me take a look. I
+see something, but it's not loading.
+Ah, but
+I see the website my representative created. Ah, it's right
+here now."  Hmm,
+I understand.  Yes, here is a simple
+mockup.  All right.
+Excuse me, but may I ask how much this work costs
+Um, no.  Hmm, I don't really remember
+.  I told you it was 2,000 dollars
+Oh, 2,000 dollars?    yes
+.  All right.  and.  By the way,
+how about trying it this way?  As I mentioned
+, I am working on a similar project
+.  To be honest
+, the one I already made for you
+looks a little better than this.  And you
+only need to receive $500 instead of $2,000
+.  We perfectly optimize
+not only your entire website but also your Google
+Business Pages
+.  Have you ever heard about the opportunities you can gain by
+utilizing Google Business Pages
+Like an opportunity you're missing?
+No, I've never heard of such a thing
+.    yes
+.  Well, honestly, I think
+perfectly optimizing Google Business Pages is
+much more important than the website
+.  That is exactly the difference between getting
+one or two leads a month through Google and
+getting five, seven, or even ten
+.  Hmm, then how about
+trying this?
+You're in Hunter's Village, right?  Yes, that is correct.
+I'm
+planning to go to Huntersville tomorrow. Would it be okay if I stopped by the office briefly to
+show you what I made
+Even in the worst-case scenario, I
+can tell you a few things about Google and the website
+, and in the best-case scenario, it seems there might be an
+opportunity to work together
+.  Are you sure you'll be okay
+Um, my schedule is a bit packed
+.  all right.
+Hmm, I think I might have time
+.  I will send you a text message
+Yes, that's good.  Then,
+how about trying this?  Is
+another day this week okay for you?
+Thursdays are also on the quieter side
+.  Since we're meeting anyway, I
+thought I'd do a simple task as well.  Please send a calendar if possible
+.  That’s
+a bit complicated. My weekend is packed, and
+next week is full too, so I’m
+not sure if I’ll have the time.  Um, wait a moment. I'll
+take care of another task quickly and let you know.    It's
+okay, right?  Yes, that's
+good.  And, my time is
+flexible.  I could
+go early tomorrow morning, or late tomorrow afternoon
+.  Yes, I'll go
+tomorrow afternoon.  It's okay, right?
+Yes, that's
+good.  I will send you my name and
+phone number via text message right now
+.  Also, if I
+don't hear from you by the end of today, would it be okay if I called you again to confirm tomorrow's schedule
+?  Yes, that's
+good.  Yes, that's
+I hope to see you tomorrow.  Yes, that's
+good.  good bye.
+Oh, and this is the website she mentioned
+.  They say she
+gave $2,000 to the person who hired her for this job, which is a really
+ridiculous amount.  Because
+... the website is a mess.    I
+made it with Manas.  Well,
+so that means it has
+n't been distributed to her domain yet.    I
+heard that they reached an agreement sometime today or yesterday.  Anyway,
+this is really at a basic level
+, and anyone can tell it was made with Vibe coding
+.  It's
+much better than having no website at all
+.  So, what I did was a
+message template, but it
+doesn't seem like it will provide a quick quote, nor is it a template where I can say, "I will
+send you a free quote quickly
+This is an opportunity, isn't it?  This is just a
+premium contact form
+.  This is not a
+form that can provide a genuine quote right away
+.  In conclusion, it is much better than
+before when there was no website at all
+.    Are you asking if it's an
+ideal state?  Absolutely
+not.  Are you asking if it's worth investing $2,000
+?  Absolutely
+not.  Tomorrow, if possible, I will
+go and check it out in person.
+Please make a reservation for our schedule.
+If possible, I will meet you in person wearing my Meta
+Ray-Ban sunglasses and
+record the conversation
+.  Basically, we say,
+"We will
+create something better for you at one-quarter the price, and we will
+also organize your Google Business Page
+."  I will
+tell you that.  "Actually,
+this was our
+fifth call, and I was
+rejected outright the previous four times. Since
+this is our fifth call,
+um... I do
+n't think I can 'absolutely' evaluate her. She has
+n't provided a free website yet. So, I
+won't evaluate her this time, and
+I will send a follow-up text right now. And if I
+don't receive a reply this evening, I will
+call you back to arrange a
+meeting in person tomorrow to
+finalize the contract, tailored to her schedule
+. Hello, this
+is Harmony Earth Tree Service. Please leave your name, phone number, and
+message. This
+is Jason from Branch Out Tree Service. I am
+unable to take your call right now.
+Hello, this is Matt. Matt,
+is this D&M Tree Service?
+Yes, that is. Nice to meet you.
+Matt, this
+is Corey. I apologize for contacting you so suddenly,
+but it
+seemed you didn't have a website, so I
+created one for you myself."
+are you perhaps Gomez Tree Service?
+Yes, that is correct.    This
+is Cory.  Ms. Martha Taylor
+gave me her contact information, but
+since she didn't have a website, I
+created one for her myself.    I
+contacted you to ask if it would be okay if I sent you the link via text message or email
+.  Ah, yes.  Well, right now I
+use both text messages and emails for work.  yes.
+Is the company name Gomez Tree Service, or
+are you the CEO?  no.
+All right.  Then, who would be a
+good person to talk to?  I'm not sure
+is this J&I Tree Service?
+Yes, that is
+correct.  This is Cory.
+Ms. Martha Taylor gave me her contact information, and I
+would like to speak with the owner.  Is the boss here
+.  yes.
+What do you mean?  Yes,
+Ms. Martha Taylor is a friend of my family
+, and it
+seems she was a former customer.  He
+gave me his contact information.
+Hello, the reason I am contacting you is that I
+create websites for small businesses
+, and it seems your company does
+not have a website
+.  I created a website for you for free
+, and I
+wanted to send you the link to ask if you would like to review it and have a consultation.    Is this the correct
+number I just called
+good.  Then I will
+send you the website link.    If you like it, we could
+discuss how to install the website at your company
+.  It seems like your company
+has a website as well, but I don't see any way to schedule a consultation
+or request a quote
+.  I am worried that you seem to be missing out on
+many potential customers because of that
+right.  I will send you the website link shortly
+.  By any chance, what is the owner's
+name?
+Then, could I send it to the person in charge
+Jamie Yo?  Yes,
+Jamie.  great.
+I will send it to you now, and I will contact you again later to
+confirm
+.  Yes, I
+received it well.  thank you.  thank you
+good bye.  You gave me your contact information
+, and I would like to speak with the owner
+.  Is it possible for you
+No, it is not possible right now.
+great.
+Yes, as I mentioned, Ms. Martha
+Johnson gave me my contact information
+.  Ms. Masa, you are a former
+customer, aren't you?  The reason you asked me to contact you is that
+design websites for small businesses
+.  You have a website
+, but I found there is no way to get a quote or make a reservation
+created a new website for you.
+I wanted to show you what it looks like.  it's okay.
+So, since you are already
+receiving many inquiries
+, do you have
+no plans to accept any more?  The company called
+J&I Tree Services, which I just spoke with, is
+…  Hmm, they
+certainly…  They ignored my calls
+.  I thought they probably wouldn't even reply,
+but I figured it would be a good idea to
+create a site and send it anyway
+created a simple website using HyperAgent
+.  I
+used the SiteSmith agent and utilized a skill called
+'Small Business
+Website Builder' that was already available on the marketplace
+.  Since this skill was
+created by me and uploaded to the HyperAgent Marketplace, it is already
+available, so you can
+use it immediately after this video is uploaded
+.  What I did was
+simply, "Take the existing website and
+make it a better one. Also,
+add a form that people can click to get a quote
+."  That is what I requested.  "That is
+exactly all I asked for
+. Honestly, I
+didn't put much effort into this one. I did
+n't consider it a particularly promising lead.
+So, once the work is finished, I will
+receive the HyperAgent result link and send it to you via text
+. Of course, I will contact you a few more times
+, but
+judging by how the conversation just went, I'm
+not expecting much.
+But who knows? They might
+see our website,
+think it's much better than theirs, and decide to talk
+That is why I follow up on every lead, no matter
+how unlikely it seems
+. If
+there is one thing I've learned from my sales experience, it is that you must
+follow up on every lead, no matter how slim the chances are
+. Corey, we were supposed to
+visit tomorrow to show you the website I built for you, but since I have
+n't heard from you, I
+reached out to ask if you have some time
+Hmm, I don't think I can do it tomorrow.    I have
+absolutely no time tomorrow.    My
+son was hospitalized, so something came up right
+now.  Ah
+,
+I see.  Yes, I'm
+not sure exactly what time it is, but I think I need to make time tomorrow
+.  yes.  Then I will let you know
+.  I really don't have time tomorrow
+.    I'll let you
+know by sending a text tomorrow
+.  yes.  great.
+And as I mentioned, I
+plan to be in the area tomorrow, so
+would it be okay if I stopped by briefly around 9 or 10 in the morning to ask if you have time?    If it does
+n't work out, I can come back later
+.  Would you be able to spare some time
+?  yes.    I will let you know
+good.  thank you.  You're
+welcome.    I
+started looking for tree care companies in the Charlotte area, but it seemed like there probably weren't any left
+.  I secured the lead quite
+quickly.  However, I found that it was
+almost impossible to visit many companies in person to conduct business because their phone numbers didn't work or most of their addresses were private residences
+.  So I used Hyper Agent to
+find 100 more businesses.  This time,
+not limited to a specific field,
+Please find 100 more businesses that meet the following conditions. They must have
+at least 5 Google reviews, be
+owner-owned businesses providing B2B services
+."  That's what I said
+.  "So, this program
+asked me a few questions to
+formulate a plan, and then I
+proceeded with the work. And
+this is the final list.
+I secured 100 prospects across Charlotte and 26 surrounding cities, spanning 11 counties, with at least 5 Google reviews each.
+The call went to voicemail
+Hello. Is this
+Jamie?
+Yes.
+Jamie, this is Corey. I think you spoke with
+me, or
+someone in the office, last week. You remember I created a
+new website and
+sent it to you, right
+? Did you see it? Yes. I will
+connect you right back
+is Corey. Hello.
+This is Ralph from SK370. I would
+appreciate it if you could call this number
+Yes, you said SK, right?
+Yes, this is Corey. You
+remember us talking last week, right? We were
+talking about the website you purchased from someone else
+Ah, yes. But I
+told you."  Everyone, I
+already sold it to someone else
+.  Yes, you
+said so.  I think you mentioned that
+the payment hasn't been made yet.
+How much did you say they were asking for
+?  About 2,000 dollars
+.  Yes,
+so, I made almost the exact same thing for you
+, though I'm
+not sure if I've sent it yet.
+Actually, I'm only receiving $500
+.  Oh, I'm
+sorry.  Could you please repeat that
+No, I can't hear you well because I'm working right now
+Oh, you mean you're working right now?    yes
+All right.  Then, when can we
+discuss this issue in detail
+?  I don't
+want you to go out of your way to spend $2,000 when you can buy the exact same thing for $500
+.  Would you like to talk a little more
+?  Or have you already
+paid $2,000?
+Um, no, it's fine.  Then
+I don't need to talk anymore
+.  There is something else, yes.
+That's all.  thank you.
+Yes,
+then have you already paid?
+No, it's fine.  yes.
+All right.  hello.
+Is the boss here?    They are
+n't here.    yes
+.  Um, wait a minute. My name is
+Corey.  I
+work as an AI consultant in this region
+.  I help local businesses
+find ways to attract more customers by utilizing simple AI tools
+.  I came to ask if the boss happens to have
+some time
+.  I would like to ask you to take about 10 minutes to
+tell me a few specific methods
+.  I have no separate materials to provide
+Do you have some free time?  If you need it,
+I will give you my business card.
+Yes, that's good.
+That is a part that AI cannot do.  yes that's right.
+Mr. Ben, is that your name?  I
+really hate AI.  I'm
+curious why you dislike it.    It is
+difficult working with people who think that if you input this and that into the AI ​​and hand it over to a developer, nothing will work out.  It works,
+though.  They just
+want the image.    that's
+It's really annoying.
+You may have had a bad experience too
+, or I
+think I should tell people that I will only work with companies that do not use AI.  Yes, that
+'s interesting.    yes
+.    Do
+other housing construction companies share the
+same idea?    It's
+easy to fill something in quickly, but if you actually
+look closely at the image, you might think, "Oh, that wall is
+n't connected."  You
+can tell from a construction contractor's perspective that
+.  "You're right
+, it does look a bit awkward. It's
+really annoying. I
+assume you're referring specifically to image generation or Pinterest; as you can see from searching on Google
+or looking at photos
+, people these days just
+upload anything they can find. Yes, that's correct
+. This kind of thing happens, doesn't it? They
+don't even properly verify the source. Sometimes they
+upload images where the product can't even be found.
+Right.
+When selling furniture, how can you sell it if you
+can't even create proper images
+? Yes, I understand
+I have a few use
+cases in mind, and while I
+can't offer general suggestions without knowing exactly how your business operates, I wouldn't recommend using AI for the
+kind of use cases you mentioned
+. AI is
+better suited for repetitive backend tasks, like sending emails
+. It's also a field where it can be applied very easily
+. There are many more
+areas where AI can be utilized
+."  It is customer-facing
+work, but that doesn't mean the company or
+brand image will suffer
+.    You
+can enter your desired email address using ChatGPT.    yes
+Basically, you have to reread it and
+refine it as you like.  So,
+additional work is needed.
+And
+there is also a way to contact him.
+I am in a meeting right now.
+Oh, I'm sorry.
+If you don't mind, that person might be
+interested.
+Yes, I'll give it a call.    yes
+thank you.
+hello.
+Hello, Mr. Ben.    This
+is Coriga.  I
+apologize for contacting you so suddenly, but
+I stopped by the office briefly this morning and spoke with one of the staff members
+He gave me Ben's number;
+would you be able to talk briefly right now?
+Um, I'm about to enter a meeting...
+um... what's going on?
+What do you mean?
+Yes, I will keep it simple.    I
+stopped by the office briefly because I work as an AI consultant in this area... I am helping companies
+implement very simple AI tools to acquire more potential customers
+.  The
+person I spoke with
+didn't seem very favorable toward AI,
+but they suggested that we
+talk about how AI could help acquire potential customers
+.  You said it was a free consultation of about 15 minutes, right?
+He gave me his business card and asked me to call him
+, so I would like to ask him a few brief questions
+Well, we currently have a
+sufficient foundation in
+place in terms of business.  Regarding my
+ongoing business development or
+other tasks, I am not sure if there is a
+need to fully introduce AI in the current situation
+.  yes.  Yes, as I
+mentioned before, it
+seems you are already seeing a good influx of potential customers.  And there is one more thing I
+wanted to ask you
+.  As I
+mentioned to the person I spoke with in the office
+, there are many areas that can be
+improved in terms of back-office operations
+.  Even if there is a
+large influx of potential customers
+, there will certainly be opportunities to save time by automating
+many tasks currently handled manually
+mentioned, if you take just 10
+or 15 minutes to
+talk, you will be able to
+find at least one specific example of how to utilize it
+.  It would be nice if it helps
+, but it's
+okay even if it doesn't.  I think you will be able to learn at least something
+Yes, then I would appreciate it if you could call me around the middle of next week
+.    I will
+set a time.  Yes, I will
+call you in the middle of next week
+.  I will check the calendar and
+let you know the available times
+How about Wednesday?  Or, ah,
+how about another time?  Monday
+?  Are you okay by any chance?
+Are you talking about the 31st?  No,
+I think Wednesday or Thursday would be good.  Then, shall I
+call you at noon on Wednesday
+?  Are you sure you'll be okay?
+Yes, it's fine.  great.
+And since I have your email address
+, I will
+send you a calendar invitation so you don't forget
+.  I will call you on your mobile phone, but
+I will also send you an invitation, so you will be able to check it by any means
+.  Are you sure you'll be okay?    yes
+.  great.
+What is your name?
+My name is Cory Gannon.
+As I mentioned, I
+live here in Noda.
+I stopped by briefly today.  yes.    I
+will wait for your email.  Yes,
+good, Ben.  I will send you the invitation right now and
+call you at noon on Wednesday.  yes.  thank you
+.  good bye
+hi.  Yes, what you just
+said was a good example of not accepting a
+rejection, especially from the person in charge
+.  You probably
+saw the content of the phone call I just had.  No, it wasn't a phone call;
+I went there in person and
+spoke with the owner
+.  He said that he really hates AI and has
+absolutely no interest in it
+.  But the owner
+gave me his business card.
+The person I just spoke to
+is that very person.  I made a meeting appointment with that person
+.  Since he is a key
+stakeholder and there is an opportunity to save time, of
+course there should be one.
+Of course, you mentioned that you have plenty of leads
+, and while that is good, I
+think you are aware that you can significantly increase time and efficiency by utilizing AI
+.  So, I will
+send you an invitation to the meeting next week, and I hope we can
+meet and talk then
+.  And
+after that, you just need to
+proceed.
+Hello, how are you doing?
+great.  This is Liza Red Pass
+Hello, this is Cori.
+Nice to meet you, Cory.
+How can I help you?
+Yes, my name is Cory and I
+am a local AI consultant.  yes.
+I am helping local businesses adopt simple AI tools that help them
+acquire more potential customers
+I visit several businesses in this area to
+provide 10-minute free consulting
+.  yes.    I am going to
+tell you specific ways to increase your potential customers by utilizing AI.  Yes, as I
+mentioned, it is completely free
+.  It would be great if it helps, but it's
+okay even if it doesn't.  yes.
+However, it seems that many businesses are
+not utilizing AI properly
+.  I am not sure how you
+are currently using it
+, but the
+method I am suggesting is to
+increase your potential customers and
+help businesses in other regions
+.  Yes, we just
+arrived.  My husband and I
+are the owners.    It
+looks like a new place.  Do we
+have space as well?    yes that's
+right.  It's probably
+been about two weeks since I came here.  We are
+n't new.  It's
+not a new insurance agency.
+This is just the new location.
+Previously, it was near Inman Oda,
+next to Joy Nery.    yes
+.  And I live in Inman Oda
+Ah, I see.
+We are one of the first places to open here
+.    that's
+right.  yes.  That's good.  Yes,
+and we just
+arrived here.  We are still settling in
+, but my husband and I
+live in Mount Pleasant, South Carolina.  So I
+literally arrived 30 minutes ago
+.  That's good.  yes.
+So today I am
+focusing on settling in, and I will be
+here all week.  yes
+Then, would we be able to meet if you have time later this week
+?    Could you please
+repeat that?  Yes,
+my goal is to schedule an appointment
+.  Most people are
+busy every day, you know.    Do
+you have a business card or anything else you can give me?
+I don't have anything else to give you.    If
+you have a business card, I will contact you later
+.  yes.  Yes, I was going to
+send you my information via text message
+I think we can set the time after that.  Would you please
+do that for me?  Then I think I can find out the
+exact time by looking at my calendar
+We plan to be here until Thursday afternoon
+I am glad to be able to meet and talk.  I am in
+charge of that work.    yes
+I do not sell insurance; I am in
+charge of operations.
+Then, do you not have a certification
+?  No, there is
+n't.  yes.  I'm the only one
+without a certification.
+Everyone else has a certification
+.  I do not work in insurance
+right.  Then, is
+my email address and mobile phone
+number correct?
+Yes, my mobile phone number.  great.
+It's okay to send a text message.  My
+mobile phone number starts with 803
+.  Yes, let's set a time to talk on the phone sometime this week
+great.  It's good.
+Also, just out of
+curiosity, how are you using AI these days
+Or do you not use it at all
+?  Yes, I use it for things like email
+, and Greg uses something called Kara
+.  They say it is an AI specializing in insurance
+.  That's interesting.    Once
+you receive a quote, you enter all the information into it and
+send an email.  Greg will be
+able to explain it in more detail
+.  Anyway, I always use it
+.  That's good.  There was
+something interesting.
+There was one company I visited this morning, and I
+think it was a custom housing construction company in this area.  The female employee
+opened the door and
+said this.  "We..."
+Actually, I do
+n't work with people who use AI.
+She was completely against AI
+Really?
+You know, sometimes people like that just
+seem to have something wrong with them. It’s no use saying anything
+. You
+can never persuade them. They just say, "Okay, I’ll just
+go."  That makes you think
+.  All right.    You wo
+n't be able to change your mind.    I will
+absolutely never put AI in mobile phones
+, and I absolutely do
+not want to do that.  I am really against it.
+Yes, I agree.  I want to
+talk to a real person when I call
+.  I made a call and wondered, 'Am
+I talking to an AI,
+or a real person
+?'  I really hate the feeling of doing it
+.  I agree 100%.  I really
+hate it.
+But, well, we could sit down and talk
+and as I said before, all
+I have to do is ask a few questions
+.  For example, '
+How are you using it here
+?', '
+Have you thought about this aspect?'    It's the
+same thing.  Hmm, I
+will disclose my process very transparently.    yes
+.    I
+will give you a very specific recommendation.
+Based on our conversation, I will
+tell you one thing you can do that you are not currently doing
+.  ""
+yes.  Then, 'Alright,
+go ahead and try it.'  I suppose I could
+put it that way.
+""
+yes.
+And what I offer as a paid product
+is a comprehensive evaluation.    yes
+usually take about 45 to 60 minutes to
+analyze the business in depth.    It is
+not a method where I dig into everything, but rather a
+method where I ask the customer more questions.    As a
+result, we provide a comprehensive report including
+3 to 7 ready-made AI tools that can be helpful to your business
+.  You might
+not have even known that such tools existed.
+So, I am telling you this transparently
+.  We
+conduct a consultation for 10 minutes and 15 seconds, and
+additional consultations are available if you would like more time.
+great.  yes.  great.    If
+you contact me via text or email, we can discuss this in detail
+right.  great.  So,
+shall we summarize the situation before moving on to Episode 3?  It
+is now the 6th day since the challenge started
+.  There is one thing to note here
+.  Although it has been much more than
+6 days since the first episode aired
+, I am only
+counting the days I actually participated in the challenge.  I think that is more
+realistic.    I
+thought it was meaningless to include the days when I didn't call, didn't knock on the house, and did nothing.    I
+thought it would be more realistic to calculate the challenge start date based on the actual day of work
+.  So, we found a total of 198
+leads.  In the
+first task performed by HyperAgent,
+98 were found, and
+they were tree management service providers
+as you saw in the latter part of the episode, we
+found 100 more.  This is because, although the tree care
+service leads have not completely run out
+, many numbers are
+disconnected or
+are mobile phone numbers, so it seemed likely that the
+list would be exhausted soon
+.  In other words, it means that
+many leads were not properly connected
+.  I understand
+.  We just went and
+secured 100 more people.
+So, we had a total of 15 conversations in this episode
+Three of them showed interest, and we
+booked two sales calls in Episode 3.
+If I can release the recording file,
+I think I can show it to you.  If it doesn't work, I will
+let you know how it proceeded
+.  Interestingly,
+out of 15 conversations, 2
+were in-person consultations, and both
+led to phone reservations
+.  On the other hand, 13 cold calls did
+not lead to call reservations.  Of course, the sample
+size is still small, but that is not surprising at all
+.  However, it is
+clear that going out and knocking in person significantly increases the chances of scheduling an appointment and closing a deal.
+Episode 3 is scheduled to be released soon, so please
+look forward to it.  And for
+those who actually want to learn this work, please keep watching.    Do
+you want to know how to actually make money by selling AI
+?  In our community, I
+teach you not only everything I show you here, but also all the other methods I used to generate revenue by selling AI services.  Our
+community name is AI Operator
+Academy.  You can find more detailed information by checking the link in the description or
+visiting aoa.community
+Thank you for watching.  I will be back soon with Episode 3

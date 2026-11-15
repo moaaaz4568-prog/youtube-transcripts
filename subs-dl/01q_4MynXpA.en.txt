@@ -1,0 +1,3397 @@
+We have people who have
+never
+written a single
+line of code in their lives, but are
+building real
+businesses and making
+money from it.  I
+guarantee you that it is
+entirely possible.  Just
+yesterday I opened the
+Replit app and said,
+"Hey, I need
+an app to
+track the 100
+foods I'm
+trying to feed
+my baby."  45
+minutes later, when I
+finished feeding her
+and cleaned up, the app
+was ready.
+Now you can
+deploy applications
+in minutes, not
+hours or days.  You can
+open Replit, and let's
+get started.  Let's
+do this.
+So, today's
+guest is Amal Jain.
+Let me
+start with a little
+context.  A few
+months ago, a
+"vibe coding" expert
+named Matt Palmer came to our show.  He is a
+lead
+developer at Replit, and he
+shared how you can
+build your first
+million-dollar app
+using only
+AI agents.
+No programming
+required.  You guys
+really enjoyed that
+conversation.  Then
+something interesting happened.    A
+couple of months later,
+Replit released its
+new agent, Agent 3,
+which is capable of
+building
+software almost
+entirely on its own.
+It is autonomous.  So
+when I heard about this, I
+reached out to
+Replit again and we spoke to
+Amal, the
+Product
+Engineering Lead who
+led the development of Agent 3,
+so he could give
+you all the tips and
+information you
+need to
+build your
+first successful
+app in
+minutes, right from your
+phone.  My goal for
+this episode is very
+simple.  I believe there are
+people watching
+us at home, maybe
+even you, who have all
+these ideas for products
+and businesses, and the only
+reason you haven't
+implemented them is because you
+tell yourself that you're not a
+software engineer, you're not a
+coder, and you don't have the
+technical background to
+build things.  Well,
+not today.  After
+watching this
+episode, you'll be able to
+build software from
+your phone in
+minutes.  I
+hope you
+listen to this
+conversation, put
+some of the
+things we
+talk about into practice, and in 6-12
+months, write to
+me privately saying that
+you created your first
+successful app, and it
+all started with this
+video.  This is my hope.
+But anyway,
+let's get to the
+conversation.  You are listening to the
+Callum Johnson show.
+What benefit will they get
+from
+listening to
+our conversation with you?
+Yes.  Um, a lot of it
+with Replit, you know, our
+mission is to empower the
+next billion
+developers.  When we
+say "developers,"
+we mean
+people who are able to
+bring their ideas to
+life.  I hope
+that in this conversation we
+can show them
+how easy it is to do this with a
+platform like
+Replit, by describing what they want in
+natural language.  And
+Replit allows you
+to bring that vision to
+life.  Turn
+it into something you can
+run and show to
+users, friends,
+or anyone else.
+You know, it was a big
+discovery for me
+even during the
+preparation, and I know
+that you and I had a
+similar impression.  There's this
+magical feeling of
+creating your first
+app, this process of
+going from an idea to
+something tangible that
+actually exists.    What's
+interesting is that, as I
+said, you're the head of
+product development at Replit, but
+you've also built your
+own startup in
+the past.  So I would like to
+read something to you.
+You wrote this on
+your LinkedIn.  You
+said: “After finishing
+work on my own
+startup, I planned to take a
+break, but then
+Replit appeared.  I've always
+admired their
+mission—to empower
+a billion people
+to build
+software—but I was
+skeptical until I
+tried their
+new AI agent.  It
+was real magic."
+From request to
+working application in 5
+minutes.  Then you
+say, "I built
+find good
+episodes of House Hunters for
+my wife."  I
+created an app to
+episodes of "House Hunters" for
+my wife.  Can
+you take
+us back for a moment to that
+first moment, that
+moment of magic of
+creating that
+app for your
+wife?  Describe how
+it was.
+Yes.  I spent six or
+seven years building my
+own company.  As
+most
+listeners know, it's hard, it's
+exhausting, and I've just
+made the difficult
+decision to leave
+the company, especially with a
+second child.
+I just
+had my second
+child and decided it was the
+perfect time
+to take a break.  The idea was to
+spend time with
+family and enjoy
+this special
+time.  My
+wife and I were on parental
+leave
+and
+just spending time
+with the baby.  One
+day, well, my wife and I,
+as you can
+imagine,
+were watching a lot of TV
+because the baby is sleeping and you're
+watching TV.  And my
+wife loves a show
+called
+Property Hunters.  This
+show is about how buyers
+in markets across
+America look at
+different
+home options and then
+choose the one they
+want to buy.  She is
+simply obsessed with this
+show.  She is crazy about
+real estate.  So, we
+sit and watch these
+episodes one after the other
+.  She thinks out loud,
+like, eh, I'd like to
+see some more
+luxurious houses,
+not for elitist
+reasons, but simply out of
+curiosity.  He says: it would be more
+interesting to see
+luxury homes in
+Southern California
+or something.  And at that
+moment I thought: I'm an
+engineer.  I can
+create it, but it will take
+long days of
+work.  I...I'm not
+going to
+do that.  But I had heard about
+Replit and heard about the
+recent buzz
+around the company and
+their bold idea—a
+program in
+minutes.  And then I
+decided I would just try
+it.  I
+typed, "Help me
+create an app
+that allows me to
+filter episodes of
+Property Hunters by
+location and budget
+."  And in just 10
+minutes, I had a
+prototype ready
+that allowed us
+to filter
+the results so we
+could select the
+area we were interested in.  Set a
+budget and watch
+these episodes.  It was
+just an
+amazing
+experience because I immediately
+earned a ton of points from my
+wife because she
+got exactly what she
+wanted.  Since then, we've
+spent a lot of
+time watching even
+more
+episodes.  It was
+just magic.  Even
+for me, an engineer
+who has had this ability
+to build software
+for a long
+time.  The ability to
+do this without
+thinking about code, in
+pure natural
+language, just
+speaking these words into
+space—and voila,
+the program is ready.  It
+was, it was, it was a
+true miracle.  I think that's when
+I realized that this is what
+I
+want to work on.  This is what
+I want to contribute to.
+Yes.
+Yes.  Yes.  Do you know what the
+most interesting thing is?  I was thinking
+about this while you were
+talking: when we
+traditionally think
+about technology and
+technology
+companies, we imagine
+huge problems,
+right?  So you
+think about what
+Uber does or, say,
+Airbnb does—they're huge,
+very complex applications
+that
+teams of engineers work on,
+but with AI and
+intuitive
+programming, some
+of these capabilities
+are becoming more accessible.
+Now you have
+everyday problems
+that the consumer can
+simply take and
+solve on their own
+using
+apps or agents
+like Replit Agent.  I'm
+interested in hearing
+your opinion, because you have a
+unique
+perspective: you
+develop
+software yourself at Replit,
+but at the same time you see
+moments when your
+wife or acquaintances
+use it
+as regular
+consumers.  What do you
+think the
+impact will be on humanity and
+all of us if Replit
+truly achieves
+its mission—
+to enable a billion
+people to create
+software?  What does this
+mean?
+Yes, I believe that
+software gives an
+advantage.  Overall, there is
+more you can do with software.  You can
+automate
+processes.  You know, the
+world now runs on
+software.  But this
+power was locked in
+the hands of the 40–50 million
+developers that
+exist in the world.  This
+means that many
+ideas and problems
+go
+unnoticed.  Many problems
+remain
+unsolved because
+it is not accessible to
+the rest of the world, to 7.5–8
+billion people.  And
+if we make it so
+that everyone can
+solve their own
+problems, it
+should really help
+everyone be
+more productive at
+their jobs.
+Free up time in
+everyday life
+for creative pursuits.
+This should allow
+many more
+people
+to build businesses.  They
+will be able to implement
+these ideas, create
+prosperity for themselves and
+their communities.  And with
+products like
+Replit, we're finally
+seeing this
+happen.  We
+see it
+happening in
+real time: people
+who have never
+line of code in their lives are building
+real businesses and
+making money from it
+.  So I think
+this will have a
+monumental impact
+on how we
+function as a
+society, because now
+everyone has the power
+to improve their lives
+and pursue their
+passions.
+Yes.  I really
+like it.  We'll
+move on to the point where by the time
+someone finishes
+listening to this talk,
+they'll be able to
+build their first
+app using
+Replit.  Before we
+do that.  I know from
+our previous
+conversations that the ability to
+build something,
+entrepreneurship,
+creating businesses and
+products—this is
+really very
+personal for you.  It really means a lot to
+have that opportunity.
+I think about that person
+who is listening to us at home
+and is still a little
+hesitant.  They
+ask themselves, "Is this
+even possible?"  Can
+you tell us
+how being able to
+build software
+has impacted your
+life?
+Of course.  I think I
+owe a large
+part of my
+success and even happiness to
+this ability that
+I was lucky enough to
+acquire.  I grew up in
+India, had access to
+education, but came
+from a poor
+middle-class family.
+I have always had a
+desire to do
+more, to leave my
+mark on this world.  And
+...I was lucky enough to
+go to a great
+programming school,
+learn
+programming, and that
+allowed me
+to move to the
+United States, to the very
+center of events in the
+software industry.  This allowed
+me to
+build a great
+career, working
+on truly
+successful products
+like Facebook, Airbnb, or
+Replit.  Now it just
+brings me
+personal satisfaction
+, because I create
+software that
+directly
+affects
+people's lives and their
+well-being.  In addition, I was
+able to achieve a lot
+personally and
+provide for my
+family.  I think this would be
+impossible without
+learning coding and
+being able to do
+all these things.  And that's what
+gets me out of
+bed every morning—the idea of
+giving everyone this power
+, this superpower of
+coding, because I
+really, really believe in it
+.  I believe this is a
+superpower that
+everyone should have.
+Yes.  Yes.  I
+like it.
+The superpower of coding.
+OK.  You know what?
+Let's give it to the people
+.  And you know what's interesting?
+You know, a few
+months ago we filmed an
+episode with your
+colleague Matt
+Palmer.  And the thing that
+just blew me away
+was not just what we were
+able to create
+with Replit.  At the
+time, it was Replit Agent 2. I
+know you've since
+released Replit
+Agent 3, which we'll talk about later
+, but it wasn't just about
+what we were able to
+build.  It was about
+speed.  And there was
+something that Matt said
+during that episode.
+He says, "Now you
+can deploy
+applications in
+minutes, not hours or
+days, and it changes the types of
+ideas you
+can
+take on."  Can you
+talk about what it's like
+to be inside
+Replit and see what people are
+actually creating
+with this
+software?  Are there
+any success stories
+or examples that you've
+seen within the
+company where someone
+was able to build something
+incredibly quickly and
+now has a
+full-fledged business
+built on
+Agent?
+Yes, we see this very
+often.  Ahem.  One of my
+favorite examples,
+and maybe it's not as
+broadly applicable to
+starting a business,
+but I think it
+just shows the
+power of what
+non-technical people
+who don't know how
+to code can
+achieve with
+Replit.  Um, I often
+tell this
+example.  I personally
+adore him.  He
+corresponds to
+who I work with every day.  Um
+, but one of our...
+Replit also sells
+services to large
+companies.  Zillow is one
+of the
+real estate companies that is
+our client.  Ahem.
+One of their
+employees at Zillow,
+Mike Messenger.  He
+doesn't really know how to
+program.  He's not
+on the engineering team,
+but he discovered
+Replit.  He had an
+idea he always
+had for Zillow: how to
+connect
+real estate agents with people
+buying
+real estate.  And he was
+able to use
+Replit to create this
+product, and
+it has since generated tens of
+millions of dollars in
+revenue for
+Zillow.  It was
+so amazing
+that now thousands of
+Zillow employees
+actually
+use Replit
+software for
+internal use as well as
+for their
+clients.  Um, I think
+this is a great story
+because Mike
+Messenger works at a
+company that has
+engineers at their
+disposal, but the
+engineers' time is
+limited, and
+he usually can't bring
+his ideas to life
+because of the
+engineers' time constraints.  The
+fact that he was able to
+do this on his own
+and create so much
+value for his
+company is
+truly impressive.  We
+see similar
+examples of people who are
+just starting
+their business or
+part-time job and
+earning real
+money using
+Replit.
+Yes.  You know what?  I think
+one of the things I've
+noticed in talking
+to people and even
+our listeners
+is that there are kind of two
+groups of people when it comes
+to
+creating something.  There are
+people who have a
+bunch of ideas, they
+get inspired, but they
+never take the first
+step to start
+building something.  And on the other
+hand, there are stories
+like the one you told
+about Mike
+Messenger: he
+worked at a job and
+eventually created
+something that brings in
+millions of dollars of
+value.  So before
+we get into the
+steps of
+building something on
+Replit, tell me
+about the psychology: how
+a person should think about
+starting work on Replit
+so that it becomes the
+moment when they
+successful software
+product.  Okay,
+short break.  I
+had to change
+my diet.  Listen
+, there are days when I
+run non-stop.
+Meetings, recording,
+research, and then
+personal life.  And
+by the time I
+finally remember
+dinner, I either
+order something fatty
+over the side dishes or
+skip it altogether.
+So a few weeks
+ago I decided I had to
+break this
+vicious cycle of
+bad habits.  On
+the advice of friends, I
+started ordering food from
+Cook Unity, the sponsor of
+today's
+episode.  Cook Unity is a
+chef-driven marketplace
+delivers fresh,
+ready-to-eat
+meals right to your
+door.  Friends, honestly,
+I'm talking about
+restaurant-quality dishes
+from famous
+chefs.  For a behind-
+the-scenes look: This week
+I sampled
+jerk chicken with plantains.
+I also had the
+Singaporean
+chicken curry.  Both
+dishes were very
+tasty.  I'm not just
+saying that.  And that's
+cool, because their
+website has over 300 different
+dish options.
+Honestly, in my
+experience, this
+saves me a lot of time.    It
+only takes 2-3
+minutes to heat up food.  And compared
+to buying a bunch of
+groceries,
+cooking a meal, and then
+eventually some of the
+groceries go bad
+because you were too
+busy, it actually
+saves me money
+and time.  So if you
+want to try it
+yourself, follow the
+link in the description and
+try Cook Unity
+today.  And I
+actually arranged
+something for you.  So
+, if you
+use
+the link in the description,
+you will get a 50
+% discount on your first
+order.  Thank you to them
+for sponsoring
+this episode.
+Now let's get back to the
+episode.  Yes, a
+short pause.  If
+you want
+to create something, this segment is
+for you.  I remember
+when I started my
+first business, I
+spent more time
+thinking about how to get
+started than on the
+business itself.  I've
+used a bunch of
+website builders, plugins, and
+payment
+tools.
+It seemed like it
+took five
+platforms to sell
+one thing.  Then
+Shopify, the sponsor of
+episode, came along and changed everything.
+Shopify is a powerful
+set of tools to
+help you
+start and
+grow your business.
+Whether
+you sell
+t-shirts, candles, or
+coaching services,
+it's all in one
+place.  One cool
+feature they
+recently added is
+Sidekick.  This is your
+personal AI
+assistant that you can
+ask to help you
+set up your
+store, write
+product descriptions,
+change your homepage,
+or even
+launch advertising
+campaigns.
+The most interesting thing is that he
+doesn't just follow
+commands.  He analyzes
+and solves
+multi-step
+tasks.  It's
+literally like having an
+AI business partner,
+which is very helpful in the
+early stages of
+development.  So if
+you have an idea and are ready
+to bring it to life,
+head over to
+shopify.com/calum johnson to
+get started today.
+This is shopify.com/calum johnson.
+Thank me later, and
+we'll get back to the
+episode.
+Yes.  I think you just
+mentioned it—it
+seems too good
+to be true.  I would
+advise people to start
+small.  Think of
+any problem
+you've recently
+faced in your
+personal life and
+thought it would be
+nice to have an app
+that solves it -
+try creating
+one yourself and experience the
+magic.  I will give an
+example.  My daughter is
+seven months old, and we are just
+starting to introduce
+solid foods.  We are a
+pescatarian
+family, so many of the
+food charts
+available online
+simply don't suit us.
+You know, we don't eat
+meat, so I don't give her
+beef.  I would love to
+have an app where
+we can
+track what she
+eats and what allergens
+we have already checked.
+Something more
+individual,
+tailored specifically to
+my needs.  And so,
+just yesterday, I
+opened the
+Replit app and typed in a
+request.  While feeding
+her carrot puree, I
+simply opened
+the app and wrote,
+"I need
+foods I give my
+baby to
+introduce her to
+different foods."  After 45
+minutes, when I
+was done feeding
+and cleaning, the
+app was
+ready.  And last
+night we already brought in
+all the products, and now
+we can constantly
+monitor her
+progress.  It was
+just magical because I
+could have downloaded 50
+ready-made apps from the App
+Store, but none of them
+suited me
+perfectly, and here I
+created my own
+unique solution.
+I think everyone has
+something they've
+always dreamed of having,
+some little thing.
+Try it out to
+see the power of
+the platform, test it out a bit,
+get used to
+Replit's capabilities.
+Get familiar with it,
+then gradually
+build up the pace,
+especially with the new
+features of Agent 3. Agent is
+so powerful
+that it can create
+full-fledged,
+professional applications
+that you can sell
+or offer to a
+wide audience as a
+developer or creator.
+It seems
+a little intimidating at first.  The idea
+seems a bit
+unrealistic, but I
+think it's worth
+starting small
+so that people quickly
+see the value, the
+potential, and get used to the
+fact that it's possible.
+Yes.  I like
+this first step because
+we often (and I
+did too) try to
+start a business with
+great
+enthusiasm and
+ambition: “I will build
+something successful,” and it is
+under this pressure that
+procrastination and other
+difficulties begin.  I really
+like your
+approach—just
+start solving
+your own problems.  We've
+all had this experience
+: maybe you're
+driving, or
+trying to
+make a decision, or
+looking for something, and you think, is
+n't there an app for this
+, or has
+n't someone already created a
+product like this?  Why does
+n't this exist yet?  And now,
+once you
+feel that pain and
+frustration, you
+can just go and
+create it.  I
+like this as a
+starting point:
+just start
+solving your own
+problems.  But you know
+what?  Let's get down
+to business.  You can
+open Replit, and
+let's just
+get started.
+Let's do this.  Let's
+dive into this
+app
+I just talked about
+to track
+my
+seven-month-old baby's nutrition.
+That's what this application is.
+I'll start by
+tracking 100
+products.  She
+tried three.  Also
+allergens and division
+into fruits, vegetables,
+proteins, etc.  It
+took me
+about 45 minutes
+when I encountered
+this problem.  I
+would like to show the
+path of how this
+happened.  I did all of
+this on mobile, but
+we can start here
+and see how I
+implemented it.
+OK.  Perfectly.
+Let's do this.
+Perfectly.  So, last
+night, as I said, I was
+feeding her, and in
+the middle of the process, I
+went into my
+mobile app
+.  We watch it on
+desktop, but there is a
+mobile app called
+Replit.  I personally
+use it a lot because ideas
+come to me in my head, while
+walking, or in my
+daily routine
+, and you just type
+them in.  Let him
+do his thing
+while you're busy with
+other things.  My
+request was simple:
+here's my daughter's name,
+here's the app
+I want to create.
+Keep track of all the
+foods she
+tries, considering
+she's a
+pescetarian.  We
+want to eliminate
+all allergens.  And, also
+help me
+recommend the next
+product she
+should try.  I'm
+just typing this.
+Back to
+feeding.  Agent Replit
+gets to work.
+He starts by
+making a plan.  I
+find this useful
+because it can
+turn your
+blurry idea into something
+clear very quickly.  What exactly are you
+trying to create
+?  So the first thing the
+Replit agent does is it
+breaks it down into
+specific stages of what
+it's going to
+build.  Hmm, and at this
+point you may
+decide to make
+changes to the plan.  You
+might say, "Hey,
+that's not really what
+I was looking for."  "I would also
+like this."  "
+Maybe skip this."
+But once you've
+done that, you've actually
+started the process.  So
+at this point I
+thought, "This looks
+great."  Start
+building.  And this
+releases, launches the
+agent.  As you can see, he's...
+One quick thing,
+Omar, sorry to
+interrupt, or when you
+go into Replit, and you do
+it on your phone, through the
+mobile app, do you
+just give the context of the
+situation, describe everything
+that's happening,
+what you're dealing with?
+When you're at the end of that
+first query, that
+first message
+that you type into Replit, do
+you ask it to
+come up with a plan, or do you
+literally just
+say, "Here's the context of what
+I want to
+build," and then
+you hit "Enter," and it
+automatically suggests
+how it's going to
+do it?
+Yes.  So, it does
+it automatically.  The idea
+is that
+people have ideas, but they
+might not have
+thought about them too much yet
+.  And if a Replit agent
+understands exactly what you are
+looking for, or
+provides such
+clarification, then they are
+better set up
+for success.  Then it
+can truly
+meet your
+needs.  So we
+found a lot of
+value in this
+planning phase.  We
+call this the
+planning stage, where you
+can come up with a very
+vague idea,
+but the Replit agent is
+smart enough
+to engage in
+a dialogue with you until a
+plan is drawn up that is satisfactory to
+both
+parties and there is a
+clear path
+for the AI ​​to get the
+job done.  Hmm, so
+every time you
+give him a request, he
+first thinks,
+plans, and tries to
+make a to-
+do list.  It's like it
+takes a vague
+request, refines it, and
+turns it into a clear
+to-do list that
+you can approve
+or change at your
+discretion.
+I guess, I guess, like this
+...so once the plan is in
+place, how often do
+you have to
+engage in discussions with
+Replit about the plan, or do you
+just quickly
+look at it and
+think, "yeah, this works for me
+" and
+move on?
+What have you noticed from your
+own experience?  Yes
+, it was, it was, uh...
+you could say, a bit of a
+learning experience.
+At first, my
+assumptions or my
+ideas were very
+vague.  I just
+laid them out as is.  And in
+that case, there were
+a lot of arguments and
+discussions to
+clarify what exactly
+I needed.  Over
+time, I learned
+to provide more
+detail and to give exactly the
+type of detail that
+he
+works well with.  I think in
+many aspects, AI
+sometimes has its own
+character and
+quirks, and over
+time you learn to
+work effectively with it.  And so over
+time I really
+fine-tuned the process and
+understood what makes a
+prompt successful.  And I
+think, I think, you know
+, defining
+who you're building for, what the
+primary function is, or
+what work needs to be
+done, if you will
+.  uh, giving him those
+two things already
+helps achieve
+much better
+results.  So over
+time I got better at
+fine-tuning the
+interaction, and now
+Replit AI and I are on the same page
+: I give a query, it
+produces a great list of
+tasks, and
+most of the time
+it looks great,
+so I just start
+building.  Yeah, it's
+actually, it's really
+cool, the way you
+explained it, because you kind of
+get better at
+creating prompts
+for the agent just by
+constantly interacting
+with it and going through these
+iterations.  Uh, no, these are
+good things.  OK.
+Yes, let's move on.
+Yes.  Yes, definitely.
+I think, I think, you know, in
+this regard, after
+that ChatGPT moment
+that happened 2-3 years
+ago, we all learned over time to
+work better with ChatGPT, we
+became better at writing
+prompts, and I think
+similar things
+are happening with
+other AI products.
+Yes, one hundred percent.
+Perfectly.  So, at the
+planning stage, I already
+feel confident.
+So I just say: "
+start building."  At
+this point, what we
+want to do with Replit
+is free up your
+time so you can live
+your life and
+do the things you
+used to do.  So
+, at this stage, Replit,
+especially Replit Agent 3,
+which we recently
+released, is very
+autonomous: given an
+agreed plan, it is
+able to execute
+it on its own.  He is
+able to
+immerse himself in
+work.  He
+can really do everything on
+his own and constantly
+move forward.
+So once I
+did that, you'll see
+that he starts
+to understand that I
+need to create an
+app to
+track baby
+food.  He
+begins development.
+One of the coolest
+things he does:
+every time something
+starts working,
+he now knows to
+test the
+functionality he
+created.  I think this is
+very important
+because the AI
+checks its own
+work and
+makes sure it is
+moving according to the
+tasks that we have
+agreed upon.  So if
+he makes a
+mistake or something
+accidentally breaks,
+he is able to detect it himself
+, adapt
+his plan, and add a
+new task:
+to fix what he
+did not quite
+right.  I think that's
+extremely powerful.
+We call this
+testing.  But
+giving Replit Agent
+the ability to not only
+build, but also
+test what it
+has built really
+unlocks that
+potential and makes
+it more
+autonomous, making it
+much
+better at
+achieving the desired
+results on its own.
+Yes.  You know, we
+hear words like "
+autonomous," and I'm
+looking at it from the
+perspective of someone who
+has no
+programming experience, so that's
+even what you
+guys...I took that from
+your site.  I took
+this from the Replit blog.  It
+said: "Agent 3
+runs on its own for up to
+200 minutes, completing
+complete tasks
+autonomously: building,
+testing, and debugging
+your application with
+minimal manual
+supervision, giving
+you back hours of time."  We
+hear words like
+"autonomous" and "
+self-employed."  I
+just want to make
+it clearer for
+people.  Can you
+tell me
+how important this is?
+The fact that it can
+run for up to 200
+minutes on its own—
+what impact will that have
+on the person
+watching us at home
+when they're
+using it?
+Yes, that's true.  With
+Agent 3, we truly
+pushed the boundaries of what
+was possible with
+agents for
+programming.  The idea behind having an
+agent work for a long time is
+that it frees up
+a person for other
+creative pursuits, for
+other valuable pursuits,
+instead of
+watching the
+agent and babysitting
+it while it
+performs the task
+you have given it.  um in
+software development
+, and this is something
+that engineers
+have felt for a
+long time, but
+now that
+more people are
+getting the chance to
+build with Replit,
+they are also noticing
+how important it is
+to test every
+feature they build.  Um,
+but it's a very, very
+monotonous task,
+time-consuming and not very
+enjoyable because
+you keep
+pressing the same
+buttons.  I think a
+lot of the power of
+the idea of ​​AI is that
+it can
+take over these
+mundane, monotonous
+tasks so that people
+can focus
+on more creative ones.  And I
+think it's this
+autonomy—the
+fact that it tests and
+corrects itself—that
+opens up the possibility that you as a
+human don't have to be
+constantly
+interrupted, you don't
+have to sit here and
+babysit this
+agent and test
+every single thing it
+creates.  He can
+do it himself.
+Um, and keeps himself on
+track, keeps
+moving forward, and
+only interrupts you
+when he
+really needs your
+help.  Instead of
+interrupting
+you at every
+completed task,
+asking you to check
+it or notifying you when it's
+complete.  I think
+this is, to some extent, the
+future we
+imagine with AI.  It
+will do a lot of
+things for people
+autonomously in the background
+while people
+can live their
+lives, spend time
+with their families, and
+do the creative
+talked about.  Yes, that's
+interesting because you're
+absolutely right.  It
+seems almost utopian
+, what we've heard
+about the future of AI
+and technology: that
+we'll have these AI
+agents in the background
+that perform
+tasks without even
+requiring our
+super-detailed,
+minute-by-minute supervision
+.  And with this, it seems we've
+already achieved that.  Um,
+yes.
+Yes.  It was such a
+big jump from the
+second agent to the
+third.  The team
+just did a
+truly amazing
+job pushing
+the boundaries in this field.  And
+as an example, last
+night when I
+was trying to build
+this particular
+app, it was running for
+about 45 minutes, and by the
+time it
+sent me a
+notification, we'll
+see it right here
+.  He has already completed all
+these tasks.  He
+created a
+food recording system.  He
+product database and search.
+He created this
+tracking mechanism
+.  Um,
+food suggestions.  And at this point,
+he had been working for 46 minutes
+without a single
+interruption.  So I
+could spend time with
+my baby and even
+feed him while this
+was being built in the
+background, without
+having to test
+it myself.  And at
+this moment I receive a
+push notification.  She has
+already gone to bed.  I
+log in and
+everything is working really
+well.  There are a few
+minor flaws
+that need to be fixed,
+but it always
+makes an impression.  I
+do this often, as
+part of my job,
+but also because it
+still amazes me,
+even after hundreds of
+attempts.  It's incredible
+how powerful and
+capable Replit Agent is, and how
+awesome,
+downright mind-blowing, it is
+to go
+from idea to finished
+application every time.
+Yes.  You know, it's almost
+a four-step
+process: idea, then the
+planning and
+specification phase, as we
+showed at the beginning
+when we discussed the
+plan.  Then you just
+let the agent do its
+job.  This is a new
+feature of Agent 3—you can
+just leave it
+running autonomously.
+This is the third step.  And
+then at the end you
+do the
+sanding.  You know
+what?  We'll move on to
+polishing, but before
+that I want to talk
+about the phase when the
+agent is already
+directly working
+.  The first thought that
+came to my mind: with
+Agent 3, with the new agent that
+you created, the
+planning phase has become
+even more important, because
+if you let it
+work on its
+own, then as I
+understand it, it is during
+planning that it
+communicates what it
+will do.  So you
+want to make sure
+you're on the same page with him
+so that in those 45
+minutes he creates
+exactly what you
+need.  Is this something
+you've noticed, or are you
+still actively
+checking everything
+on your phone even
+during this time
+to make sure
+it's building exactly what it
+needs to?
+Our vision
+coincides with yours:
+this planning stage is
+extremely
+important now.  Ahem.  This is a new
+paradigm, because until now
+agents could not
+work for so long
+without intervention.  That's why
+we try to
+create a
+comprehensive
+planning process where you and the
+agent can
+agree on exactly what
+needs to be
+done, and then they will
+receive clear
+instructions and direction
+to get the job done.
+So I think the
+planning phase becomes
+incredibly important,
+and we try to
+encourage our
+users
+to spend more
+time there to really
+refine their to-
+do list.  Almost
+think of it as a to-
+do list that
+you both
+agree on so that it is absolutely clear to the
+agent
+what they need to
+do.  So you don't
+have to constantly
+check it
+after you've
+started the process.  We
+still see
+users, myself included
+, encountering this.
+Curiosity takes over,
+and you want to
+look inside
+and see what's
+being built.  But it's
+also a very interesting
+experience because
+you see in real time how
+screens and
+functionalities are created.  On this
+preview page, you can really
+see the
+features
+and interfaces coming out, and that's
+really magical too.
+So when users
+try Replit for the first time
+, watching
+it work is
+definitely a very
+enjoyable experience.  But
+over time, as you
+start to create
+a lot of programs, if
+you devote
+enough time to the
+planning phase, you
+ensure success for
+everyone: both yourself and the agent,
+and can really
+let them
+complete the tasks
+you agreed upon
+.
+Yes.  You know what?  Just
+to continue the
+planning theme: when you
+look at the plan,
+because as I said
+at the beginning, you're the
+head of
+product development at
+Replit, you're an expert, and I
+think a lot of
+things are intuitive to you about the
+plan: "Okay, this
+plan looks good."
+I'm thinking about the person
+watching this for
+the first time and using Replit for the first time
+.  Are
+there certain things
+they should look at
+in the plan to
+say, "Okay, this is
+ready to go"?
+Excellent question.
+Maybe we'll try to
+do it live
+So, I'll take the idea I've
+been working on and
+click start a chat.
+Perfectly.  As it
+works, you can
+see that by
+default it
+first goes
+into the planning stage,
+where it works,
+thinks,
+tries to make a
+plan about what to pay
+attention to here.  Um, in
+many ways, an idea
+can be broken down into what
+specific
+user flows
+, or what specific actions
+the user needs for
+this idea you're
+thinking about.  Um, functions
+is a good way to
+think about it.  If I
+introduce such an idea, I
+expect features:
+food recording,
+recommendations for the
+next product,
+tracking
+overall progress.
+If I am indeed, the agent
+is trying to do
+just that.  It
+tries to take this
+idea, this broad
+concept, and break
+it down into specific
+functions, actions that
+the user will perform.  So, in
+a lot of ways, you as a
+developer
+are trying to
+make sure that it
+meets your
+expectations and what
+you want to see in
+your app.  So
+when I entered this query,
+it returned and
+listed all those
+functions where it said
+I'm creating a
+food tracking dashboard with
+visual progress
+.  Sounds good.    An
+allergen checklist is very
+important in many
+ways.  This is the goal
+of introducing new
+foods to the baby.
+Um, that
+food recommendation mechanism with
+age-appropriate pescatarian foods.
+I really
+like that the agent
+even took the
+initiative, he
+was
+smart enough to
+take into account age
+characteristics, because this is
+very important.  I didn't
+give him that
+instruction, but he
+figured it out himself.
+Baby feeding styles, a recipe database
+—that's great, a
+food journal—that's great, and a
+food calendar.
+At this point I could
+say that everything
+looks good.  Or I
+could start by
+saying "change of
+plan."  I
+don't really need a calendar.
+I don't necessarily need
+to see the dates my
+child consumed a
+particular product.  I am
+primarily interested in
+a list of all the
+consumed.  So, that's what
+I'll focus on
+, and my advice for
+most people
+trying Replit for the first time is
+to try to start with a
+smaller
+feature set.  Now I'll
+say, "Hey, I'm
+interested in three things,
+first of all."
+Let's change
+the plan to include
+only them, and then
+say, "Okay,
+let's build the
+whole application, and let the
+agent run on."
+Yes.  No, these are wonderful
+things.  I
+like the idea of
+simplification, the idea of
+working out these
+functions, because you're
+right: when we have
+an idea, we think about the
+big picture and
+what problem
+it will solve.  We don't
+think about the details,
+about what
+functions are included in this,
+so at the beginning it is
+important to determine
+what these
+three functions should be?  You know,
+because I see it at the bottom of
+the screen: "build the
+entire app" versus "
+start with the design."  You
+have chosen to "create the
+entire application."  What are
+the arguments in favor of
+each option?
+Why would someone choose
+to “build the entire
+app” while someone
+else would choose to “start with the
+design”?
+So, Replit
+is used by different
+people, and they strive to
+get different
+results by
+optimizing their
+work.  For example, we
+often see people
+landing pages.  And in
+this case, design,
+visual look and
+feel matter
+much more
+.  This, this
+Some users
+really want
+to see what
+their app will look like
+before
+building extensive
+functionality.  This is where,
+for example,
+in the world of technology,
+product managers and
+designers often start.  They are
+visual;  they want to
+create the
+layout and
+visuals first to
+make sure of them
+before saying, "
+Okay, let's
+build this whole
+app."  But if you are
+someone who is more
+interested in
+creating your own
+app.  This plan
+looks great to me
+.  The feature set
+makes sense.  It really makes
+sense to move on
+to creating the entire
+app right away, because
+after the agent
+has created something, you can still
+refine that
+design.  You can
+change the colors,
+branding, layout, or
+anything else.  It's
+just the different
+use cases that
+people come to Replit with
+and choose to start with
+design.  We see
+mostly product
+managers and
+designers in the technology space
+using this as a
+way to create
+rapid prototypes
+where they are not looking for
+full-fledged applications
+.  They primarily
+want to bring to
+life the idea they have
+for their product.
+You know what?  I'm
+interested in your
+personal opinion on
+this, and maybe
+everyone we
+ask at Replit
+will answer
+differently, but you're kind of
+explaining that
+people build
+apps,
+software,
+landing pages on Replit—they
+build
+all kinds of
+products.  Is there an
+idea that makes
+you think: Replit
+can create all of this,
+but it's best
+suited to
+creating just this kind of
+product or
+idea?  I'm just
+wondering if there's anything that
+you've seen where you're like,
+"Oh yeah, he's
+actually really great at
+this."  I
+think Replit is
+effective at
+creating
+full-featured
+applications.  It is truly
+capable of creating
+something ready for
+real
+use,
+comprehensive, something that you
+can safely
+give to real
+users, your
+friends, etc.  Um, that's why
+I lean towards
+things like that.  I don't
+see Replit as...I would
+advise people, if
+you really want to
+bring real ideas
+to life, this is the
+place to go.  Replit is the place
+for you.  If you're
+trying
+to build mostly a
+landing page or some kind of
+website, just a
+front-end site, if
+you can say so, then
+there are probably other
+tools that are
+better suited for that
+.  So I
+believe that a
+comprehensive,
+production-ready,
+functional, and
+productive application
+is what you will be
+proud of when showing
+it to real
+users.  Replit
+really shines in this.
+It is equipped with all the
+necessary
+tools and
+components to
+achieve this goal.
+So this is my
+subjective view.
+However, we see
+a lot of
+users also
+creating landing pages,
+marketing
+pages, and purely
+visual things
+using Replit.
+Yes.  And that's cool to know.
+I like it.
+It's good to have that
+clarity.  Creating
+applications.  Good.  So
+you click "
+build the entire
+app," and that's when, like
+with
+baby food,
+there's that 45-
+minute window of
+time where it just
+takes over and builds everything for
+you.
+That's right.  Yes.  So, at
+this point, it was the
+interactive part of
+the journey where I
+had to introduce an idea.
+I had to
+revise the plan.
+I needed to
+make sure he was
+good.  The agent
+really does a great
+job with the
+planning phase, and is
+usually very
+accurate.  So for me
+it was a
+click of a button: "
+this looks good."
+Let's start
+building the entire
+application and getting it up and
+running.  It's at
+this point that I
+put my phone down and
+check my notifications
+only when the agent
+needs my
+intervention.  But at
+this stage, we have already
+launched the agent.  He
+will do everything—he
+will create each of these
+functions.  Every time
+he creates a function,
+he will test it.
+He will make sure it
+works.
+Continue.  Continue.
+He tries
+to create each one of them,
+and when he's done, he'll
+let me know.
+Yes.  You know what's interesting?
+I was just thinking about this
+while you were talking: if,
+say, it took you
+46 minutes to create
+this app for
+your daughter.
+You
+weren't even
+present for most of this time.  You.  This was an
+agent who worked
+independently and
+created this
+product.  It actually
+took about 10-15
+minutes of your time during the
+planning phase, and
+then when we
+moved on to
+finalizing it, it's
+truly impressive.  This is
+right, this is what we were
+talking about, this really
+fulfills the promise of AI,
+where AI does the
+work for me while I
+go about my
+life.
+You know.  OK.  So maybe
+let it
+run in the background
+.  I'm curious
+if we go over
+what you've already
+created and look
+at the visual part,
+even the design and
+how it looks.
+How much of this—I
+mean, when you
+get out of the autonomous phase—what
+we see on the
+screen, how much of
+it was pure
+AI work, and how much of it was
+your
+design direction and certain
+details?
+In this case, I was
+pleasantly surprised.
+This is one of those things
+where we
+invested heavily in making sure that the
+Replit agent creates
+not only
+functional but also
+visually appealing
+applications.  So as soon as
+I saw it, I
+was pleasantly surprised by the
+playful tone of the
+entire app.  This is
+an app for
+feeding babies,
+for tracking
+baby food.
+So he is very
+playful.  There are
+light red and
+green colors.  So
+I was very
+pleased with
+the result.  However,
+if I wanted to
+change some things,
+Replit gives me that
+option.  So,
+for example, I can
+set a theme for the
+whole project
+by saying, "Hey, I'd
+like something like a
+black and white theme."  I
+can just pick
+this theme and really
+control the look
+and feel down to
+every single
+button, every
+single element.
+There's just a lot
+control.  However, with the
+recent
+improvements we've
+made to this
+product, it does a great
+job of
+creating a successful
+first theme, which I've
+found often
+matches what I'm
+looking for.  Yes.  You know what?
+In preparation for
+this episode, I,
+of course,
+even watched the video that
+Matt and I shot.  I
+even read
+the press releases that you
+had about Agent 3. Then
+I went to Reddit—a
+great site—and there's a
+huge
+discussion thread where people
+are sharing feedback
+about their experiences with
+Replit Agent
+3. One of the issues, one
+criticisms of Agent 3
+compared to Agent 2,
+was that:
+yes, the standalone
+features are useful, but
+that standalone phase
+can be
+time-consuming.  And sometimes it
+doesn't even fix
+the problems, which is
+probably why we
+move on to the
+refinement stage.
+Can you say something about
+this?  And also, from
+your personal
+experience, has it ever
+happened that
+after the
+work was done, there were still
+problems
+with functionality, and
+how do you fix it?
+This discussion thread
+was very…very
+instructive, as it
+allowed us to see
+certain aspects that
+our
+users needed, but which
+autonomy did not
+provide.  And
+thanks to our
+team and their
+speed of work, we were
+very quick
+to take this feedback into account
+and add an autonomy level mode
+gave users
+more control.  If
+they want to have more
+control over the process,
+they can
+set the
+autonomy level to “
+low” or “
+medium” and take
+more of the helm,
+giving the agent
+instructions on
+small details.  By providing this to
+our power
+users, we
+hope
+to meet their
+expectations for
+the ways they interact with
+our product.  I
+think we are constantly
+learning.  We
+listen to
+our users, and the
+future is definitely one where
+a person won't have to
+give instructions to
+an agent so often.  Um, you know,
+like how
+Amjad, our
+CEO
+, describes it.  This is, to some
+extent, full
+autonomous control
+versus autopilot,
+if you will.
+I think there are
+some shortcomings today, and we
+are only at the very
+beginning, at the
+forefront of this
+path.  What I
+really like
+about the Replit team is
+their ability to
+take feedback and
+act on it very quickly
+So I wouldn't be surprised
+if in a few weeks,
+continued
+investment in
+full autopilot mode,
+we make
+maximum
+autonomy
+much more useful,
+and our experienced
+will want to switch to it too
+.  But for now,
+our instinct has
+been to go to
+the users and give
+them more control
+over what they
+need.
+Yes.  You know, I understand
+what you're saying:
+the ideal is that
+most people,
+99% of users,
+just
+autonomy, and we
+reach a reality
+where AI can perform
+actions at an elite level
+without human intervention.
+But have you noticed that
+at this time, the more
+experience someone
+gets with Replit and Vibe
+coding, and perhaps
+even with
+programming in
+general, the more often
+they want to choose
+lower settings,
+as if seeking
+more control
+over how the
+agent works?  Is this something you
+noticed or saw?
+Not quite so.  So I
+will share a few
+thoughts.  I think when
+we look at the data
+on how people
+are using it,
+the advantage is still on the
+side of the "max" and "
+high" modes.  Um, we've
+seen certain
+switch to "
+low" or "
+medium" in certain
+scenarios.  Another thing
+that I see as an engineer is that we
+use a
+variety of
+products in the AI ​​space,
+you know, other agents
+for writing code
+that are more
+focused on
+writing code than
+on building
+applications.  And more and more
+often I catch myself,
+my colleagues, and friends
+leaning towards this
+autonomous mode.  There are
+products, even the
+new ChatGPT with GPT-5, where you
+want to give a query and
+run for a long
+time,
+think deeply, so that
+it comes back with a
+really good
+result, not just
+give its
+first thought.  So, I
+think a lot of the
+AI ​​world is moving towards
+that;  and
+as
+AI capabilities continue to
+grow, We will,
+we will, models, and
+all the products
+built on them
+,
+will continue
+to move closer to the point where
+will start to trust them more
+and allow them
+to work autonomously.
+From my own experience, I
+can say that I am
+increasingly inclined to
+delegate
+tasks and
+trust AI more in their
+execution.  But I
+believe that change is
+difficult.  It is human
+nature to want
+control.  So it will
+take time for all of us to
+learn to
+work better with this
+AI technology, which is
+constantly and
+extremely rapidly
+evolving.
+Yes.  You know what?
+Let's say a beginner
+watches this video and
+creates their first
+software product.
+It uses Max,
+uses AI Agent 3
+at maximum
+settings.  They've
+reached the same
+point as we are now
+: they have a visual
+result, that
+magical moment where
+everything is in front of their eyes, and an
+autonomous agent
+has just created the
+finished product.
+Tell us about the
+refinement stage.  How do
+I go from the
+“Okay, it’s
+90% done and I can see
+it in front of me” stage to
+this being
+the final—not the
+final, but the
+final V1—version
+one that can be
+launched?  Take
+me through this
+polishing stage, this
+last 10%.
+Of course.  I believe that
+this 10% is often a path of
+small
+interactive
+improvements where the process
+becomes less
+asynchronous and more
+synchronous.  You
+have to
+work closely with the
+agent on those
+small requests
+that you want to
+implement.
+Personally, I can
+give as an example
+that after the first 46
+minutes of work,
+the program reaches a
+state that I am already
+quite satisfied with.
+She completed 46
+minutes of work.  I'm
+looking at the product.
+My first thought is that
+visually everything
+looks really
+good.  I
+like it and I don't
+want to
+change much.  Over time, I will
+personalize it,
+say, adding
+my child's face
+to make it
+more interesting.  But
+first, I try
+to use
+the functionality and see
+that the system
+was trying to show
+me progress by day.
+So my first
+request to him is:
+progress, I want
+you to show me the
+key metrics
+of how it
+tracks what
+percentage of the
+nutritional journey has already been
+completed.  This is one of the
+first things
+I ask for.  As soon as I
+do it, a minute later
+it comes back and
+just tells me, "
+Hey, it's done."  At
+this point, I could
+combine my requests
+: I want you to
+change the main
+metrics.  I want
+you to add this and that, and it
+would do all these
+tasks, but I was sitting
+in front of the computer and
+testing it.  As I
+was thinking of ideas, I
+just entered them here
+, continuing to
+test the rest of
+the application and
+evaluating what the agent
+had created so far
+.  So even in
+autonomy mode, if
+the task is small,
+the agent is
+smart enough to just
+complete it and
+come back to you with,
+"Hey, I'm
+ready."  It took
+less than a minute of work.
+And then, continuing
+testing, I
+realized that I needed to
+add the date of
+food consumption, because I
+might forget to write
+it down and want to enter the
+data retrospectively.
+So I give him this task
+and he does it pretty quickly again
+.  He
+understands that adding a
+date is a serious action
+, and something could
+break.  So he
+understands that
+testing is needed.
+He does all this
+testing, and it
+seems like after
+a few minutes he
+finds some
+bugs, makes all the
+necessary changes, and
+comes back to me,
+"Hey, I made the changes
+you asked for."
+Aha.  So, the date picker
+works, and it was a
+longer action that
+took about 20
+minutes because he
+had to implement
+the concept of
+tracking by
+dates, rather than just
+general
+tracking.  It often happens
+that some
+tasks are small and
+some are large.  It's hard
+to say for sure
+just by looking at the
+application.  My
+personal preference is
+to simply add these
+messages to this
+chat.  There's even a
+queue here.  The agent is
+queue them and
+keep
+working on them
+one by one.  Or,
+if I notice several
+things, I often just
+pass them all on in one
+go.  But this
+polishing phase, this
+final 10
+percent stage, is
+usually a little more
+interactive, where you
+test the first
+version you've created and
+try to get to
+that production-ready
+result that you're
+happy with and
+want to present to
+the world.
+Yes.  You know, it's pretty
+, um, cool, because when
+you listen to it, it's
+almost like a game.
+Like you, well, give
+him certain things.  You
+add this."  And then
+you take it back,
+as if you're playing to
+achieve the same
+ideal result for yourself
+.  For
+someone who really
+wants to create
+an app to one
+day put it on the
+App Store for iOS or the Play Store
+for Android.  Do you have
+any secrets or
+tips that
+will help
+speed up this
+grinding phase and achieve
+something that will not
+only be useful to
+you personally, but also, as in the
+case of Michael
+Messenger of Zillow, will
+be used by
+millions of people?  It seems like
+it has reached such a
+level of perfection
+that a wide range of people
+use it.
+Yes.  Um, I think there are a
+few things that
+go into this process of
+going from what is,
+for lack of a better
+word, a prototype
+to something that is actually
+ready for release.  And the
+way we see
+our users
+doing it, and the way we
+recommend—it's, uh
+...Replit wants to take
+a lot of that
+burden on itself.  He
+wants to give you all the
+tools to
+get to this stage quickly.
+And so, you know, this is where
+things
+like testing come in handy, because
+it checks and
+detects if there are any
+errors.  So that
+all errors
+are fixed before release.  This is where
+this complete
+visual control comes in handy,
+where you can
+grind the finish
+if you think it
+should be a little, um,
+a little more left or
+a little more right.  It
+allows me to do
+things like this.  But more
+importantly, it
+performs things like
+security scans,
+where if you've
+built something, it will
+analyze all of your
+code and functionality
+it's truly secure and
+you won't
+leak your
+users' data.  Um, well,
+uh, we offer
+users a lot of
+visual control tools
+, you know, ensuring
+that the functionality is
+reliable and
+stable,
+secure, and even
+more—our
+publishing process allows you
+to do it
+at scale, where you
+can launch a
+product that
+one or two
+users will use, but
+suddenly everyone
+opens it and
+loves it.  It
+will serve
+thousands, tens of thousands
+, hundreds of thousands of
+automatically, without
+any problems and without
+you having to worry about it
+.  So our
+philosophy is that
+we have
+invested in a lot of
+tools, advice and
+help that are
+available to you on the
+Replit platform so that you
+can actually
+bring your idea to
+production.  Um, that's why
+we see
+users actually
+posting these ideas.
+Yes.  No, it's so cool,
+you know, from a
+design perspective, because you
+mentioned earlier about
+adding a photo of your
+daughter, and it
+got me
+thinking: I think for
+a lot of newbies,
+when you're first
+starting out
+, there's usually
+some app or
+other product that
+inspired you.  You know,
+you think, "Oh, I
+wish my
+app looked
+like this, or
+my landing page
+looked like a Nike or
+Air Jordan or Apple website in terms of
+design."  Is it possible to
+do this in Replit,
+for example, can I
+take a screenshot of
+another app
+that I
+like the
+design of on my
+phone?  Can I
+upload this
+screenshot to Replit so that
+it almost mimics the
+design language and
+look and feel of
+that app?  Is this
+possible, or am I
+living in illusions right now?
+This is quite possible.
+So we allow you
+, if I wanted to change
+this to
+look more like,
+example, Instagram—I could
+Instagram, just
+paste it in here, and
+let it...
+smart enough to pull out the
+visual style, the
+design, the theme, and
+apply that.  Um,
+actually, I have a
+great example for
+this.  Um, you know, I
+wake up in the middle of the
+night quite often, can't fall back asleep,
+and need a
+bedtime story to
+fall asleep.  I use
+a product that I won't
+name, it's
+quite expensive and, um,
+of no real
+value.  There are only 20
+static stories.
+I'm so tired of
+hearing the same
+stories.  So I
+decided to create
+an app that
+does just that.  I want to
+publish it in
+one of the stores,
+launch it, and
+make money from it
+.  In fact,
+I hope it works
+out someday.  And, um, as part of
+that, I drew
+inspiration from certain
+websites.  I took a
+screenshot and just
+provided it because I wanted it to
+look
+soothing, like here.
+After all, in the middle of the night, I
+want to look at something
+so calming.
+So I actually took
+a screenshot from another
+app and provided it
+to recreate this
+look and feel.  And
+coped well with this
+task.  Um, so in
+a couple of hours of work I was
+able to create this where
+I have complete control
+over what story I
+want to listen to and with what
+accent, a
+British accent is
+really good for helping me
+fall asleep.  Also,
+you know, what are the background
+sounds and in this very
+calming theme
+that's in this app,
+I was able to build that.
+Now I'm really
+hoping to launch
+it and let
+people create
+their own
+bedtime stories and get paid for it
+Yes, we need
+to know when, when this
+will be launched.  That would be
+good.
+Certainly.  I
+need a distribution
+.  So I'll let you know.
+I think looking at
+it, it really does
+look like a
+professional product.
+It just looks like
+something like this.  You wouldn't
+say, "Oh, yeah, it
+took them a few
+hours to
+create that."  You would
+simply say, "This is what
+they charge
+money for."  "It's like it's
+just a business
+we're going through."
+So, we go from
+idea to planning,
+launching the agent, and
+then refining it.  At
+what point do you
+think, as an engineer and
+expert in Replit and
+coding, is this ready
+for deployment?  So is
+this ready to be
+deployed and how
+can someone do it
+?
+There is an axiom in Silicon Valley: if
+you are not ashamed of your
+product at the time of
+launch, then you
+launched too
+late.  Ahem.  I believe in it.
+I think many would
+agree with this, because
+when you're trying to
+solve a problem as a
+business creator, you
+can endlessly
+polish the product, and
+that takes a lot of time.
+But if the functionality
+works well, my
+instinct is to release
+it, to give people
+the opportunity
+to use it
+now.  For example,
+few tools today
+allow you
+to create
+bedtime stories in this way.  I don't
+really
+like the way it
+looks now.  I
+still have a lot of
+work to do, but
+I'd rather be a little
+embarrassed about certain
+details than deprive
+people of value.
+Users who
+have such a need
+will use
+even an
+unfinished
+application just to
+get what they want.  So
+I want to launch it
+now, and in parallel
+continue
+to improve
+the product.  So
+versions
+one, two, three appear—it's a
+rapid iteration.
+I think it's
+important
+to test early and
+often when building a business, to see
+if people really
+need a
+bedtime story app.
+Yes.  You know what's interesting
+?  At the beginning we
+talked about
+speed, and
+in fact the fastest
+way to market
+is very important.  You
+deploy the first
+version, get
+feedback, and in the meantime,
+iterate quickly to
+get to the second and
+third versions.  In
+your opinion, is this how
+successful AI businesses will be built
+today and in
+the future, or will it all
+depend on
+speed?
+100%.  The landscape
+is changing very
+quickly, the capabilities of the
+underlying technologies
+and AI models
+are evolving instantly
+, and this field is now
+oversaturated with
+many products.
+With
+tools like Replit
+, we have truly
+unlocked the potential
+where anyone can become
+a developer and
+create something.  So
+the competition is great.    There is a lot going on
+.  It's always
+better... You should
+aim for a
+fast time to
+market to
+get the product to users as quickly as possible
+and get feedback
+to make sure you're
+really giving them the
+value you
+were hoping for, and not
+wasting time.  I believe
+that speed has always
+been
+critical for business,
+and in the world of artificial
+intelligence, where everything
+is changing rapidly,
+it is even more relevant.    The
+threshold for entry has dropped,
+the time to develop a
+technology or
+product has become
+so short that it is
+worth betting
+on speed.  Do you
+think
+we'll get to the point where people
+will build
+multi-million dollar
+apps right on
+their smartphones,
+just by running into
+some problem?
+They simply describe
+it in Replit Agent or another
+similar program.  And the
+first version
+of the application, which will
+later bring in
+millions of dollars,
+will be created entirely
+using a smartphone.
+In this conversation.
+I fully expect
+this to happen.  We are still at the very
+beginning of this
+journey.  Ahem.  What we
+have today is
+already amazing.  In
+six months, let's say,
+agent version 4 will be released,
+and I see how these
+capabilities
+will grow
+exponentially.  So as
+a developer, you can
+sit at dinner,
+just write down your
+idea, and let the
+agent do everything for
+you.  In a few hours,
+he will create something that
+can be published
+to the whole world with one click
+and even easily
+distributed directly from his
+smartphone, without
+spending
+a lot of time on it.  At Replit, we
+truly believe that it's
+not just about
+helping you build
+apps.  It's about
+helping to create
+real products
+that we also
+help
+distribute and
+monetize.  How
+can we give you
+the ability to
+communicate with
+users,
+send them
+notifications or,
+say,
+emails?  How can we
+create ways for
+products to grow?  How can we
+you to easily
+monetize your
+products?  For example,
+I can easily add a
+payment feature—
+charge a dollar for
+each bedtime story.  We
+are working on a full
+cycle, and thanks to
+this, any
+enterprising person anywhere in
+the world will be able to take a
+smartphone, describe
+their idea, refine
+it several times,
+see how it
+becomes popular.
+Yes.  Yes.  You know what?
+I'm curious about your
+opinion: are there
+any downsides to this?  Because when
+I, and the reason I
+ask this is because
+we're having
+these conversations, and it's
+like a possibility, and
+honestly, I love
+sharing it with people
+, showing what's
+possible, but the
+general discourse
+around AI that I
+see mostly on the
+internet is more like a
+doomsday scenario.  And so I
+constantly think to
+myself: “Where is the truth here
+?”  Will there be any harm
+or negativity from
+people getting
+such opportunities?
+I have a very
+optimistic view
+on this.  I think that AI
+as a technology will primarily
+take over the
+mundane, tedious
+tasks that people
+are forced to do
+today, and free
+us up for creative
+pursuits, for family,
+friends, and everything
+a person can
+love.  Um, I even
+think of it as
+working for a
+living, people
+will be able to work
+passions.  Ahem.  Yes, this is
+my view on how
+we, as humans, can
+develop these
+technologies in a safe
+way so that they are
+used for the
+benefit of society.
+You know, it's like going
+from the agricultural era
+, where
+people had to
+plant seeds by hand,
+to having a
+combine harvester that does
+it for you.  So you, as a
+farmer, can
+own more
+land,
+grow more
+crops, and feed
+more people.  I
+truly see this as a
+leap that
+frees us up for
+other creative
+pursuits and solving more
+complex problems.
+Yes.  We hope so
+.  We hope so.
+You know, the first version of
+Replit Agent, when did it
+come out?  This all
+appeared sometime at
+the end of last year.
+Yes.  So, over the last
+12 months.  If we, and I
+won't ask you what
+exactly is in Replit Agent 4, or
+what you're working on now
+, then 12
+months ago we
+didn't even have Replit Agent
+.  We now have Replit Agent
+3 and it works
+autonomously.  In 12
+months, where do you
+we'll be in terms of
+AI capabilities and
+things like that?  I
+think if I
+could really think
+about it in terms of
+Replit and what we're
+trying to do,
+the word "opportunities
+" that you mentioned is
+exactly what's needed.
+I think
+expanding the
+agent's capabilities
+across multiple vectors is
+something we'll
+see in the next
+6–12 months.  You know,
+today he's
+doing great at
+apps.  How can we
+make it
+more efficient,
+covering the entire
+software lifecycle, and better
+handling
+planning?  How can I
+make him better at
+writing and
+testing code?  How can I
+make it better at
+organizing the code so that
+each subsequent action
+is easier?  How can I
+make it so that it
+can do more?  How can
+we help with
+distribution and
+monetization,
+given
+the possibilities of what
+he is creating today?
+Now he creates
+mostly
+web applications.  How
+can we help
+him create
+mobile apps
+that can be
+published to
+stores with one
+click?  How can we help
+you create
+automations that
+can simply
+run in the
+background?
+Software will not
+always be just an
+interface with which
+we interact.  How do you
+create
+runs in the
+background, where you just
+give it a task—a kind of
+agent that
+creates other agents,
+and the ability
+to connect to
+more of
+your systems?  So that he
+can access your
+emails.
+So that he has access to
+your Slack.  So that it
+has access to
+any application
+you use.
+Then he will be able to
+create better
+software.  He
+will be able to connect them
+together.  It will be able to
+part of your life.
+It will allow you
+to create, you know,
+businesses.  With
+that in mind, I really
+look at it through the
+lens of opportunity;  There is
+still so much that
+done in these areas, and this is where
+we are investing a lot of
+resources.  So, Replit
+Agent 4 should become much more
+powerful,
+allowing you to
+build businesses,
+solve your own
+problems, and operate in
+many dimensions.
+Yes, you know, before I
+finish, I
+thought about two things
+that you mentioned at the very
+beginning of the
+conversation.  The first thing
+you said was that
+you wanted to
+leave your mark.
+You mentioned
+saying, "I wanted to
+leave my mark."    That's
+why I
+wanted to build a
+business and become an
+entrepreneur in the first place
+.  And the
+second thing I think about
+is even some of the things
+you're doing right now with
+Replit, where the mission is to
+empower a
+billion people to
+software.  I
+just think about these
+two things, like
+you're working on this
+mission to help a
+billion people.  That
+will be millions of
+people.  There are already, I
+don't even know how many
+people, as you've seen, who
+have actually created something
+with Replit.  On a
+personal level,
+Amal as a person, what does this
+mean to you?
+Some of the things that you've
+been able to achieve, your
+work and even the impact
+of what you see,
+people actually
+building their first
+businesses, software
+products through an AI
+that you helped create
+Yes.  So you know, this
+idea of ​​leaving a mark on the
+world sounds a bit
+selfish as an
+aspiration.  I think it's
+almost, you know, an
+innate desire that
+I have, and other
+entrepreneurs have, too, but
+it often leads
+to great
+results because
+you end up
+creating a product
+that solves a
+problem for people.
+For me, it's always been
+about
+helping people make a
+better
+living.  Um, I
+joined Airbnb a
+long time ago, and initially
+when I came in, it
+was all about travel
+, you know, travel—it's a
+great way to
+experience the world and
+understand other
+people.  Um, I
+joined from a
+traveler's perspective, but
+very quickly what
+liked about Airbnb
+was the perspective of
+the hosts who have these
+homes that they
+pay huge
+mortgages on.  How
+them monetize this?
+How can they
+use this
+large asset, which
+is usually a significant
+part of their
+capital, how can they
+monetize it?  I think it
+was very powerful
+to see their stories
+and help them
+achieve that.  Um,
+I managed to do
+that for Airbnb Experiences, which
+was pretty much the same
+idea: how to let
+people monetize
+their time, be proud to
+show off their city,
+but get paid for it
+—a new career,
+if you will.  Um,
+from there I went on to
+start a company
+that, again, was
+very focused on
+helping
+hourly workers.
+Hourly workers in
+America
+have had a very
+difficult time for a long time.  No
+flexibility, bad
+pay, all that.  So
+really taking this
+approach, how can we
+help them make a better
+living?
+Um, and when I came across
+Replit, I
+really liked it too,
+because by giving people
+software, we
+give them a chance
+to build businesses and
+achieve prosperity
+for themselves and others.  Um,
+about helping people
+achieve their
+goals.  Helping
+people make a
+living is what
+inspires me, and I
+hope that this
+will be my contribution to the
+world, and Replit is particularly
+effective in helping
+with that.  I think I'm
+much closer to having a
+direct
+impact, and I'm excited
+to see how this
+unlocks the potential of
+billions of people
+over the next few
+years.
+Yes.  This is simply
+incredible.  But before
+we finish,
+I'm always all for
+our conversations to be
+practical and
+useful, so that after
+someone closes
+the window or turns off
+the video, they can
+do something right away.    The
+weekend is ahead.
+If you were to give someone a
+task on a Saturday
+morning or Sunday
+lunchtime when they have a few
+free hours,
+to do something that
+definitely wouldn't be a waste of
+time and for which
+they would be infinitely
+grateful.  You might
+even experience that
+magic we
+talked about earlier when
+you see the
+program you created come to life.  What
+task would you give
+a person to make the
+most of this
+weekend and not
+regret anything?
+I would recommend spending
+Saturday
+observing
+what is bothering you, what
+seems
+ineffective, or
+thinking about what
+you are missing in your
+daily life.
+this exercise in itself—
+being attentive to the
+environment and
+noticing problems—is
+wonderful.  I think
+this is the
+first step for entrepreneurs: open Replit on
+Sunday morning
+enter your idea, and
+within a few
+hours you will see
+it come to
+life.  Um, and if you're
+really motivated,
+try to get it
+to a release, put
+it online,
+send it to friends,
+potential
+users, and
+see if
+you can
+go from idea
+to first real
+user in a weekend.
+I guarantee it's entirely
+possible.
+Yes, Amale, thank you very much
+, my friend.  I am so
+grateful that you
+took the time and were
+so
+candid with us.  I think this will
+help a lot of
+people.  So thank you.
+Thank you, Callum.
+Really, thank you for
+inviting me.  It was a
+great conversation.  It was a
+pleasure to talk
+about Replit, and I can't wait
+to see
+what people create.
+OK.  So, if you
+liked this
+episode, you'll definitely
+like this one
+here.  Click
+here.

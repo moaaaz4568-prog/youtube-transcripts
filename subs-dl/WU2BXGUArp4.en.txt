@@ -1,0 +1,762 @@
+Over 10 months, we built a cold email
+machine for Fixer AI that generated over
+$4.3 million in annual pipeline revenue
+for them while it was at its peak. And
+they went from launching their AI SAS to
+raising $10 million for their series A
+in only 3 months, [music] then scaled to
+$17 million in annual reoccurring
+revenue before raising a $30 million
+series B. And cold email was a major
+driver of that growth from sales
+automation systems. And what's even more
+crazy is that we could have continued to
+scale that machine to their total
+addressable market. And if we did, that
+machine would have been closing $32.2
+million in annual reoccurring revenue.
+In this video, I'm breaking down our
+entire work with Fixer AI. From the
+initial consulting we did all the way
+through to the sending of 8.8 million
+emails per month and generated over $4.3
+million in peak annual closed pipeline.
+I'll show you exactly how we built the
+infrastructure, the testing process that
+we used, the segmentation strategy that
+helped us find campaigns converting at
+643 emails for every single signup. And
+how we were able to sign up 138 users
+every single day, 7 days a week. That's
+4,275
+new users per month for Fixer AI. Real
+quick before we get into the details, a
+quick disclaimer. These numbers and
+metrics I'm about to share are from our
+internal campaign estimates from sales
+automation systems. While Fixer and
+Archie left us an incredible testimonial
+for our work, I do want to be clear that
+these are our estimates and our [music]
+stats. These are not an endorsement or
+verification from Fixer or anybody on
+their team about any of this
+information. None of this is their
+private or confidential data. None of
+that is included here. And this is
+simply our campaigns, our results super
+transparently on 10 months of the most
+ridiculous work we have ever done and
+opening the lens on everything we we've
+exclusively accomplished for them based
+on our tracking. All right, let's get
+into it. How did this relationship
+start? This whole thing began with a
+referral from Adam Robinson, the founder
+of RB2B. At the time, we had just
+started doing outbound for RB2B. And
+that same outbound motion today is
+generating over $132,000
+in LTB per month for them. Anyways, back
+then, early 2024, Adam connected me with
+Archie Hollinssworth, who's the
+co-founder and now CRO of Fixer AI. Back
+then, Fixer was just transitioning from
+being an executive assistant company
+into becoming an AI SAS product. And so,
+we did an initial consulting arrangement
+with them. You see, Archie wanted to
+test if a cold email would be a viable
+channel to fix her one day. And so, we
+started with a super small consulting
+retainer of about $1,000 a month. And
+our our consulting fees are more now,
+but at the time, that's where we were
+at. And so, it was just a simple $1,000
+a month. We would hop on bi-weekly calls
+where we'd review campaigns together and
+I'd give him insights on what he should
+test next and how he should be thinking
+through all of these frameworks as he
+goes to scale. And then we also set up a
+small amount of infrastructure for him
+so he didn't have to worry about
+deliverability through our cold email
+infrastructure.com service. And this
+lasted about 2 3 months. And here's what
+we discovered is through this testing
+period, we successfully determined that
+cold email was absolutely a viable
+channel for them. Once we accomplished
+that goal, uh Archie basically shut down
+the channel because the whole point was
+to establish it. It was to validate it.
+We stayed in touch and honestly this was
+just the beginning of uh my friendship
+with Archie who I would call a good
+friend today. I'm so stoked for
+everything that they've done. Fast
+forward about 5 months later to
+September of 2024ish. It was October or
+September or so. And Archie reached out
+with a huge ask. You see, Fixer was
+hoping to raise their first round of
+funding and really go big. They were
+part of some sort of accelerator program
+or something and they had something
+called a demo day come up in December
+and they needed to show product
+viability and prove that people actually
+wanted a fixer AI. The request was
+massive. They hit us up and we're
+basically like, "Yo, can you send half a
+million emails tomorrow?" They were
+like, "We we need to sign up as many
+users as possible within the next 6
+weeks. We'll provide the leads. We just
+need you to rapidly deploy
+infrastructure for us." And so the
+entire goal was to get as many signups
+as possible before demo day to
+demonstrate traction, you know, and we
+had done some really big projects today,
+like helping people send half a million
+emails per day, but none of them were
+this fast. They were like, "Yo, can we
+start sending emails next week?" We knew
+we could do it, though. we had developed
+some tactics that we still use to this
+today to rapidly deploy and ramp up. And
+so we said yes, we got to work
+immediately. The machine was uh fully
+built and fully warmed up and fully
+operational in about 1 week. And so we
+started to ramp up to send half a
+million emails per month. And then we
+did another week as we kind of ramped up
+to that volume. And so after just 2
+weeks, uh they were at their full send
+volume. Originally, Fixer was going to
+provide the list. But about 4 weeks in,
+it became way too burdome for their
+team. they figured out just how
+difficult it is to process that many
+leads that fast. And so we pivoted into
+um our fully managed growth generation
+service and now we were handling uh the
+lead generation uh email validation, the
+waterfall enrichments, the campaign
+building and the managing of the uh
+entire funnel. Right at this stage we
+were only testing about like 10
+different campaign variants, sending um
+half a million emails per month. And
+then suddenly Fixer was like, "Hey, we
+need to double it. We're getting really
+good traction. We need a sprint. Let's
+make this happen." And the retainer went
+from about $25,000ish per month to about
+$50,000ish per month during this time.
+It really planted the seeds in my mind,
+what we now call our series A plan. And
+I'll I'll touch upon that later. But
+what was awesome is that the the
+campaign performance for them was uh
+incredible. This was a full uh
+productled growth motion. There weren't
+any demos. It was just, "Hey, do you
+want to try our free AI SAS?" But we
+literally sent millions of emails over
+this period. And the sign up pattern uh
+has been remarkable the whole time. On
+average, for every one positive reply
+that we get, we get 2.11 people to sign
+up for Fixer. And this means that people
+would get the email, research the
+company on their own, go directly to the
+website, and just sign up there. And
+once they're signed up, why would they
+reply to our email to sign up, right?
+They they just signed up. And so we had
+a massive uplift there. Sure enough, we
+do all this crazy work, balls to the
+wall, as fast as possible. And by
+December 2024, demo day rolls around. We
+had signed up 2,228
+users. What was even more important and
+critical for the Fixer team at this time
+was that one of those users became one
+of their first massive enterprise
+clients. I don't know the figures. Um,
+it's it's purely speculation on my part,
+but I'm pretty sure it was like their
+first million-dollar deal. I'm pretty
+sure that they became a million-doll
+annual reoccurring revenue company
+because of that simple deal. And it was
+also because of the PLG motion. So, you
+might be going, "Well, how does a PLG
+sign up one user? That's like 1,000
+seats potentially, right?" Well, what
+happened is that we had worked with
+their team, helped them a little bit
+with Clay and understanding like, hey,
+you should be enriching all these leads
+that we're sending in to you guys, and
+as they sign up, you should be
+identifying the the enterprise accounts,
+and that's exactly what they did. And
+so, we had signed somebody up. I think a
+few days later, they uh instead of doing
+a cold call on the person, it was a
+warm, hey, do you want a white glove
+onboarding experience, or at least I
+think that's what they did. Once again,
+I'm slightly speculating here on [music]
+what precisely their team did. And I
+don't speak for Fixer, but first
+million-doll type client and they hit a
+million ARR because of that simple,
+well, not so simple PLG motion. And as
+you can imagine, Fixer had an extremely
+successful demo day at the end of 2024.
+[music]
+And from that demo day, they raised
+their series A for $10 million in
+[music] about March. As you know, it
+takes some time to process those things.
+And so, still in December, we took a
+twoe pause over the holidays. They were
+like, "Hey, we had a great demo day.
+We're super confident we're raising
+funding." They're like, "Can you build a
+long-term strategy with us?" And this is
+also where I want to say something
+really huge throughout this entire thing
+is that it isn't all just us. We very
+much are only as good as our clients
+offers. And we did a great job for them
+with cold email, but they also have a
+correct marketing team. Frankie Atill
+was running a ridiculously huge ads
+campaign alongside everything we were
+doing. And we owe a ton of our success
+to having such a great person to work
+with during that entire time frame.
+After the holidays, Frankie Fixer, they
+came back and said, "Hey, demo day went
+great. We're about to uh raise that
+funding and so we need to grow fast.
+What can we do to make this a long-term
+viable strategy? This is marked the
+beginning of what I like to call phase
+2. You see, we immediately started
+heavily testing which is our bread and
+butter. We at the beginning we needed to
+move as fast as possible, but if they
+wanted a long-term strategy, I was like,
+we need to do some heavy uh testing to
+figure out the campaigns that can add
+multipliers and make this even more
+efficient channel. We looked at what it
+took to create success for Fixer during
+that time. During this initial phase
+with them, it's it gave me the
+inspiration for what I call now call our
+series A plan. You [music] see, it was
+it was 25 for them. It was I think it
+was like 50 grand a month in order to
+send a million emails per month. Right
+now, what we're doing is it's 25 grand
+per month to start sending a million
+emails as fast as possible. And we
+literally named it, you know, the series
+A after helping Fixer raise their series
+A. If someone wants to do the exact same
+game plan that Fixer did, this is the
+the go-to plan that I point people
+[music] towards for what we offer. So
+now going into phase two, they wanted a
+long-term plan. And so our plan was to
+scale up to 2 million emails per month.
+And you see, Fixers TAM is enormous,
+right? Their product is used by anybody
+who uses Gmail or Outlook in the B2B
+world. That's 132 million people, every
+business user and professional worker in
+the world. The difficult task was
+finding out who to go after first and
+where money was best spent. During that
+phase 1, our campaigns averaged to we
+had to send 7,300 emails in order to get
+a positive. And some people might be
+like, "That's horrible." They were able
+to raise their $10 million series A
+because of that. Sometimes scale with
+cold email can really solve those other
+issues when you really want to move
+fast. It's just food for thought. And so
+the question was, how could we make that
+even better? Nowadays, we like to get a
+number down to like 1500 emails in order
+to get a positive. And so we started
+doing what we do best. We did very
+strategic testing to find the variance
+of campaigns that give a 5 to 10x
+multiple. And so we created over 26
+different campaign variants. Uh each had
+completely different vibes and value
+propositions. We tried completely
+different angles and offers that we had
+never even tried before. The other thing
+that we did in this phase is that we had
+three of the variants where we used AI
+to enrich different quantities. Some of
+them were as straightforward as just a
+simple variable. Like if we were uh
+messaging people about saving an hour a
+day, AI would research their job title
+and inject what types of meetings they'd
+have more time for if they were saving
+an hour a day. At the end of the first
+two weeks of phase 2, here's where we
+were at. We had sent 873,641
+emails over those first two weeks, and
+the results were all over the place, as
+you would hopefully expect. Some
+campaigns took as many as 25,000 emails
+to get a positive reply. And most
+campaigns were worse than what we were
+doing before. And the average across all
+campaigns was it took 7,350 emails just
+to get a positive reply, which is which
+is really bad. And this was
+significantly worse than our previous
+base of 4753.
+In fact, it was two times worse than
+Fixer's expectations. More on why that
+was my fault uh in a second. But I was
+excited because we found the winners.
+And you know, variant K, it would take
+2,397
+emails to get a positive reply. For
+variant L, it would take 2,745 emails to
+get a positive reply. And variant T, it
+was taking 1,925 emails to get a
+positive. And these were more than twice
+as good as what we were running before.
+But here's the problem is I we did not
+properly prepare Fixer to expect these
+overall results during the testing
+period. You see, when you have one
+variant that's good and you introduce
+10, let alone 26, but 10 variants that
+could be bad, you're diluting your
+results by like 90%. And we failed to
+communicate to that to them. You know,
+they just raised funding and they needed
+to be highly effective as they scaled.
+While I'm stoked that we had just found
+a 2.47x multiplier on their campaigns,
+Fixer's response was they had a red
+alert and they immediately issued a
+cancellation notice to us. It's not
+always easy to talk about the failures,
+right? I I'm a big believer in radical
+honesty and radical transparency. They
+immediately issued that cancellation
+notice. Their CAC was out the window and
+they needed results, not um experiments.
+And you know, so I I met with Frankie,
+we helped them on a call to understand
+what was happening. I looked at the data
+and I'm like, yo, I'm so confident that
+if we implement our best campaigns that
+I just found doing this testing that I
+can increase conversions compared to
+what we were doing before by 2.47x.
+I was like, "Dude, and and and more than
+that, I think we can increase campaign
+efficacy by just 4.5x week over week if
+we just run the new campaigns."
+Unfortunately, it didn't matter, right?
+They needed CAC to be X all the time.
+And so, their 30-day cancellation notice
+went through. As you can imagine, I left
+that call very defeated and uh very
+distraught. I just lost my biggest
+client. And I looked at it with all
+things as, you know, everything's what
+can I control versus what can I not
+control. I looked at it as completely my
+fault. I'd failed to uh manage the
+expectations and educate the client on
+why the testing and temporary lack of
+results would end up being worth it. As
+one of my favorite books says, the
+obstacle is the way. The worst pains
+typically make way for the muse to give
+you the inspiration you need. And if you
+don't know the muse, you can read one of
+my favorite books, The War of Art. Not
+the art of war, the war of art. And so,
+you know, through this, I thought, how
+can we guarantee their client
+acquisition cost? I pitched them on a
+performance model where I offered to
+match their CAC on their most
+competitive channels. And Fixer was
+intrigued by this, but they were still
+hesitant. They were all for the idea,
+but were skeptical I could make results
+as good as before. I mean, I remember
+Frankie being like, "I've never seen
+somebody forex a channel overnight
+before. I get it, [music] but I was also
+the one looking at the data, so I had
+zero concerns." Meanwhile, this 30-day
+notice was ticking down to zero, and
+they were leaving. I continued running
+campaigns to prove that I was right. I
+wanted the the data and results to speak
+for themselves. And so I deployed the
+top five campaigns from those 26 that I
+knew would do better. Meanwhile, we also
+worked with Fixer to set up a special
+attribution system so Fixer could
+actually track the signups that we were
+driving because I had a theory that
+like, hey, there's probably a lot more
+signups here. We didn't know about that
+2.11 to1 yet. Once again, as a reminder,
+what we were competing with was a 7,317
+email per positive reply. And we rolled
+out the new campaigns. And thank the
+Lord, we hit 1,829 emails per positive
+reply on average, which were even better
+than my estimates. I thought we could 4
+and 1/2x it and we actually 5 1/2xed it.
+But here's what was even more dope is
+that because we had now introduced
+signup data into the mix, we found out
+that one particular campaign was twice
+as good at driving signups over second
+place. And the craziest thing is that
+when we measure the campaigns by
+positive reply rate, this campaign was
+in fifth place. [music] But when we
+measured it by signups, it became first
+and it became first by double. It's just
+a huge testament to like how how data is
+really powerful because what we really
+want with our clients is to drive the
+same result that they want. I think a
+lot of success with clients is setting
+up all the mechanisms in place so
+everybody has the same interest in
+alignment over the long term. At least
+that's one of the lessons that I learned
+here. Thank god the deal was saved.
+Fixer accepted our performance offer
+after I had proved that the LTV to CAC
+on the channel would be basically
+implicitly guaranteed. So we saved our
+most important client by converting them
+to this hybrid performance model. And
+this became the exact structure that we
+use for our series A plan today that we
+now offer. And as a side note, shortly
+after Fixer accepted the new performance
+model, that's when they publicly
+announced the raising of their series A
+for uh $10 million. What is our series
+A? Well, it's 25 grand a month base to
+send 1 million emails per month. The
+thing we also do is we build in an OR
+statement on a performance model that
+guarantees a 5:1 LTV to CAC ratio for
+all our clients. So, here's what that
+means is that we typically set up a
+revshare or sometimes it's an upfront
+signup. We work with each client to
+figure out exactly what is your LTV.
+Great. How can we set things up to make
+sure it's always a 5:1? And so you'll
+have that performance track. But at this
+tier, clients, they'll only pay that
+performance track when it's greater than
+the base retainer. And so what that
+allows us to do is allows me to invest
+into the infrastructure myself. If I
+want to scale them past that base 1
+million, if I want to scale them to 2,
+3, 4, 5, hit their total addressable
+market every uh 30 to 60 days. And I
+would have never thought of this
+specific thing if I didn't go through uh
+this obstacle, this this tough time. If
+a company wants to duplicate what we've
+done for Fixer, this is typically the
+plan that I point them to is our series
+A. Moving on, this is about March of
+2025. We started doing a bunch of other
+tests to see like how effective could we
+get this channel. We had already taken
+it from about 7,000 to 5,000 to now
+about 2,000 efficacy for every email we
+would send for signing people up. Now
+that the deal was saved and we had
+furthered our trust with Fixer, we
+continued testing a bunch of other
+factors. You see, uh, first was what
+type of inbox is the lead using? It's
+very relevant for Fixer's product. If
+they're using Gmail or Outlook or custom
+SMTP or if they're an enterprise
+account, you can check all of that using
+things like email guard to figure out
+who those people are. We eventually
+found that Gmail was the best to target
+for them. And it was better than the
+other inboxes by about 2x, interestingly
+enough. And so for uh, next, we also
+looked at some industry testing. We had
+tested over a 100 different industries,
+and we found the top 10 industries in
+terms of campaign efficacy. um I can't
+share that with you is that's fixer's
+private information on the ideal
+customer profile. But then the next
+thing we looked at is uh obviously
+hierarchy and seniority testing and we
+tested multiple levels right seuitees
+directors founders heads owners uh
+partners VPs entry level people
+everything we could think of as a side
+note you'll notice we have a very
+opposite process to most people most
+people when they do cold email they're
+trying to predict what are those slices
+and they only want to talk to those
+slices I like to start big I like to do
+emails to everybody in the total just
+market not I like one email every 60
+days so I don't like spamming people one
+message to all that and then let's see
+where the positive replies come and then
+follow the heat there. It works great
+with people who have a huge TAM. But
+honestly, it works for our clients who
+have a small TAM and high LTV too. But
+it it lets you know like who should we
+be going after? Let's let the
+marketplace tell us who we should be
+going after. Eventually, we kept doing
+this and we a winning segment. And so
+only a couple months after this
+cancellation crisis, we had further
+increased the efficacy of our cold
+emails for fixer by over 11x because we
+found out now if I targeted a seuite who
+has a Gmail inbox in a certain industry
+with a certain headcount, the
+performance would get crazy. So instead
+of 7,000 emails in order to get a
+positive, instead of 5,000 to get a
+positive, instead of 2,000 to get a sign
+up, we got all the way down to 643
+emails in order to get one sign up. And
+the thing is is how many sea suitees
+with Gmail inboxes of a specific
+industry of a specific headcount were
+there? Well, that specific slice of the
+pie had two uh 302,000 people who fit
+that. So, I knew if I hit that list, I
+would sign up 470 people. And once
+again, our actual results crushed my
+estimates. Uh we didn't just sign up 470
+people, we would sign up 600 people
+every single time we hit that list. And
+the thing is, we established dozens of
+lists like this where we figured out
+here's the exact message to this type of
+person at scale that prints. For
+example, we found a second pillar that
+was really good, about 2,34 people, and
+that's just founders with those specific
+uh cross-sections. We just kept
+repeating this process. We found the
+winning segment, build it into a pillar,
+let it run, and find the next ones until
+we have dozens. And so, here's when we
+went into peak performance. You see, we
+increased to sending almost 8.8 million
+emails per month. This was, you know,
+1,988,686
+emails uh per week. This became our peak
+send volume. And during this time,
+sending 8.8 8 million emails a month. We
+were signing up 4,275
+users per month or 965 users per week.
+Over our entire lifetime average of
+working with them, not just outside of
+peak, but just total lifetime, we would
+average 1,465
+emails per sign up. And obviously, this
+includes all the learning phases. So,
+it's even bogged down compared to our
+best, obviously. And during those peak
+months, campaigns had significantly
+better results than ever. Uh, obviously.
+And so you put that all together,
+signups to conversions to paying
+accounts [music] times LTV and ACV, all
+of that jazz, we were generating
+[snorts] $4,300,1541
+in peak annual pipeline revenue. Once
+again, my estimates, not endorsement for
+Fixer, but we were generating $4.3
+million of annual pipeline for them. And
+what's crazy is that during some of
+these months, we were billing well over
+six digits all on performance at
+basically no risk uh to Fixer. Because
+we were doing that, that also inspired
+me for our accelerator plan, which is
+even more crazy. It's 100 grand a month
+base to send 5 million emails per month.
+And yeah, that you heard that right. Six
+digits a month to send cold emails. We
+have a built-in or statement for the LTV
+to CAC. Uh it's a 10 to1 instead of a 5
+to1 compared to our series A. And you
+can pay whichever is more, you know, the
+the retainer or the performance. Uh but
+also in this, we are exploring including
+an in-person training with our entire
+like clients leadership and sales teams
+in order to help them convert uh those
+leads even better. Here's what's even
+crazier is that we had unrealized
+potential here. This was a small segment
+of what we were going to do with the
+channel. You have to remember their TAM
+is 132 million contacts and one of my
+core principles is send enough emails to
+contact the entire total adjustable
+market every 2 months. That requires 66
+million emails per month. At peak, we
+were only doing 8.8 million emails per
+month. That's a potential 7.549
+increase, right? If you take that 7.9
+multiplier on the 4.3 million, that's an
+estimated potential if we would have
+been able to talk their total adjustable
+market every 60 days of 32.2 $2 million
+in annual pipeline revenue via cold
+emails. [laughter]
+And that's what we were working towards.
+All while guaranteeing an LTV to CAC
+ratio that matched their best performing
+channels. We then concluded our
+partnership with Fixer in August of
+2025. [laughter]
+Yeah, you heard that right. [music] The
+primary reason was uh Fixer just didn't
+feel that it fit with their brand image
+anymore. They were taking off like a
+rocket ship. I keep hearing rumors any
+day now that they're going to go into a
+100 uh million dollar AR company. Who
+knows? I don't have any insider
+knowledge. I just see what Archie's
+posting on uh LinkedIn and things like
+that. It's pretty cool, you know, and
+the the main reason that it didn't fit
+with their brand image anymore and it
+was just over a specific concern, right?
+Like one of their advertised product
+features is preventing cold emails and
+we were sending cold emails for them and
+so it was a values-based decision for
+them and I respect them the hell out of
+that uh because we had a machine that
+was just printing cash and they went
+through with their values and what like
+their product stands for and of course I
+I I back their decision uh the whole
+way, right? Um, there's things for sure
+that are more important than uh than
+just money, and these are pennies when
+you're talking about the velocity that
+they could be at. Shortly after that, in
+September 2025, Fixer then successfully
+raised their series B for a $30 million
+funding round. And at the about the same
+time, they announced hitting $17 million
+in annual reoccurring revenue, which is
+obviously very incredible growth from
+where we started with them only a year
+and a half originally uh before. And uh
+these are some more for sure only
+speculative numbers for me based on the
+estimates that I have. But over their
+entire time of our project with them, I
+estimate that their LTV to CAC ratio
+with us was somewhere between 3.28 to1.
+And you know, here's the crazy part
+though. If you think like an owner like
+I do is if the owners, you know, ever
+sold 100% of the company at a 12x
+multiple, which is normal for SAS and AI
+companies, their LTV to CAC would jump
+from 3.28 to1 to 39 36 to1. This is only
+based on the $4.3 million machine that
+we built, not the 32 million uh that we
+could have done if we continue to scale
+scale it to the full potential it paints
+and even more insane picture. When I got
+started in cold email 2 years before
+that time, I could have never imagined
+the type of value that we would be
+providing to our clients uh with with
+cold email, right? And you see, if I
+could really boil it down to some simple
+principles is that we are not trying to
+predict what the best idea is by only
+testing one idea. We're allowing the
+marketplace to tell us what the best
+idea is. Our expectation is that most
+tests will underperform during the
+testing phase. And so the first three
+months are always the hardest with our
+clients as we're finding that perfect
+message market fit. And you have to
+accept short-term performance dips to
+find those breakthrough winners to get
+the 11x multiples on what we're able to
+do so you can build a massive machine.
+The strategy has paid off massively as
+you can see. If you want to replicate
+this exact playbook for your AI, SAS, or
+B2B company, we've packaged everything
+we have learned from Fixer into what we
+call our series A plan. We send 1
+million emails per month for you with a
+built-in 5 to1 LTV to CAT guarantee. And
+here's how it works. First, we map your
+total adjustable market and identify
+everyone you should be reaching. Then,
+we set up a multi-dommain infrastructure
+with deliverability optimization. Next,
+we do rapid testing to find your winning
+message just like we did with Fixer. And
+then, finally, we then scale to 100% of
+your total addressable market with that
+proven message. If you want to book an
+intro call with us uh to see if this
+makes sense for your company, click the
+first link in the description. And if
+you want to see exactly how I send over
+half a million cold emails per day right
+now, then watch this video next.

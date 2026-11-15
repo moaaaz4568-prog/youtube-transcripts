@@ -1,0 +1,302 @@
+good morning so we have finished up that
+big deliverability test that we were
+doing we learned a lot we're going to
+dive into a lot of the data here and uh
+really just share you our observations
+uh my thoughts most importantly uh what
+we're doing with this data uh what we
+have done to immediately create results
+and then what we're continuing to do uh
+based on these learnings because the
+world of cold Emil is changing uh daily
+at this point and so it's uh it's quite
+a game to be playing so let's just uh
+let's just hop right in right so first
+thing um if you don't have any what test
+I'm talking about what we did is we sent
+over about 50,000 emails over the last
+two weeks uh for one of our clients RB
+Tob using their infrastructure so we can
+do Mass testing the main thing that we
+did is we have uh two different
+sequencers we have Smart lead and we
+have SAS mail SAS mail is like a private
+um uh sequencer that we uh have been
+using and have developed and um uh smart
+lead is a sequencer we've been using uh
+forever okay and so what we did is we
+looked those two sequencers we then uh
+look uh took four different
+infrastructures uh Gmail scaled mail ma
+Reef hyper tide and we had them outbound
+four different types of inboxes so we
+segmented all this between uh 28
+different campaigns so that way we could
+have controls and silos my thesis was
+that this was going to be very drastic
+uh from bucket to bucket and it turns
+out that that's very true and so um here
+you can see it's pretty average across
+the board right if you look at just a
+general average it's like a 2% uh reply
+rate roughly uh just under 2% right but
+what uh we've been finding is that that
+if you go very specialized in certain
+configurations you can add multipliers
+on your deliverability right now um and
+other thing is that that's changing
+quite a bit so let's uh so we'll hop
+into a couple data points uh first uh a
+few things though before we do hop in
+one uh I'm just a single cold email
+agency uh we're we're you know we're
+sending 3.2 million emails a month but
+still um I know guys that do 3 million
+emails a day right and so uh this just
+one perspective this is a twoe snapshot
+this stuff is changing so much this is
+just what we're doing and how we're
+applying it right um the second thing um
+on here if you look at um some of the
+data it it doesn't really it's not going
+to affect too much because what I'm
+about to say is only going to affect
+positive reply rates but I did make a
+mistake and I accidentally changed some
+copy that we were doing uh with this
+test instead of using our core copy that
+has uh been super dependent uh we wanted
+to experiment with some new copy and
+that was a different conversation and it
+snuck into our core campaign and then
+got duplicated for all of these and so
+that new copy got in and it's prer about
+like eight times less uh effective than
+like our core copy which sucks right uh
+the third thing that's even really
+interesting it's actually kind of a good
+thing I don't know is that uh scaled
+mail um uh their team accidentally uh
+didn't set up our settings with Demar
+properly and um and so we see like
+really bad deliverability from them to
+like Gmail but that could be be just
+because of dmar and then there's
+obviously a big potential that if dmar
+was fixed these would do even better and
+so it's really interesting because
+they're some of the top uh uh winners in
+some categories they had a malfunction
+that I didn't catch and so that's my bad
+and uh uh and some have did it great so
+it's going to be really interesting to
+do another test right um and uh so yeah
+let's just uh hop right in so some of
+the big things right is that you'll see
+on average you have matches like this
+right but then um if we go down to like
+very specific results at the end right
+if we go by top categories because the
+main thing we're looking at right is if
+I'm going to deliver to someone who has
+proof Point what configuration should I
+be using if I'm going to send an email
+to somebody who's using Gmail what
+configuration should I use right now to
+do that right and that was the biggest
+thing that we were trying to look for so
+we simp just looking at reply rates
+across the board and as you can see I
+mean based on your configuration you can
+have a variance between. 13% and 4.53%
+which is it's pretty wild right um that
+that your results can vary that much
+simply by configuration but if you just
+look on it on a aggregate it's it's 2%
+and so uh so let's uh hop in a little
+bit deeper right so I'll go to the
+bottom and show you the winners right um
+if you see the long form post we kind of
+rank a bunch of other ones but basically
+when we look at if we're trying to
+Target Enterprise then SAS mail in
+combination with Gmail did the best um
+if we want to go after custom esps so
+these are just people they they aren't
+Outlook they aren't Gmail they're
+something else basically then uh if we
+use Smart lead and scaled mail we would
+have the best results and then if we
+wanted to email people on Google Mail
+reef and Google were the best but what's
+interesting is that we we found that out
+um we installed that last Friday for a
+bunch of our clients and then this week
+um like 30% of our clients uh they'll
+their mail uh their mail Reef server
+burnt within like two days um and I
+think think just has to do with Spam
+complaint rates because mail reof is
+high risk High reward because it's your
+IP and all of our good offer clients
+like they're just printing this week
+where uh some of our clients uh they
+maybe have I don't know the marketplace
+is saying it's less desirable because
+they're marketing a Spam and less
+positive replies and things like that
+right and so um all those M Reef servers
+burnt and so what we are doing uh
+yesterday what we started in fact I
+think we got it done last night is we
+moved over all of those uh uh to Smart
+lead in Gmail for right now because
+that's the next best deliverability when
+it comes to Gmail right and then the
+other thing to note is like nothing we
+were doing was delivering the Outlook so
+I'm really curious to hear if there's
+something uh a configuration out there
+that someone else is using that seems to
+be delivering Outlook that would be
+really really impressive and so um uh
+couple things right so a few different
+takeaways right is specific
+configurations matter the most the
+second thing is that we're using two
+sequencers they performed very close to
+each other some better in other areas
+but they were basically an aggregate
+like technically sasma beat smart lead
+by a very small percentile but it's not
+that drastic for me to like make a
+decision except for that I need to use
+both of them and I need to create a
+system that sits above them to be able
+to use both of them right um the other
+takeaway is that scaled male and Hyper
+tide are basically uh the same in a lot
+of different configurations so we're
+probably going to be using both going
+forward um and then the the last thing
+once again this stuff is changing very
+very drastically you'll see things here
+where uh you know like Google to Google
+um was uh kind of ped out you'll see
+here it goes down this goes very up and
+to the right this goes very up and to
+the right um you'll see tons of things
+that come into play when it goes to
+these configurations right um and so uh
+first thing that we did immediately is
+we uh used email guard uh there's a Code
+you can use uh that the founder told me
+about email guard 5 and you can get 5%
+off forever and we use that to run an
+enrichment on all of our lists and we
+even did a custom made Pi point and Clay
+to just do it programmatically and we
+figured out okay who is uh what type of
+inbox then we uh move them based on the
+highest configurations that's going to
+give us results here right
+um the second thing is we just don't we
+moved all Outlook leads we're not going
+to email them for right now until their
+reply rates go up next is we used uh uh
+sasma Gmail to Target Enterprise we use
+smartly to scaled mail to Target SMTP
+customs and then we used sasma and mail
+reof to Target Gmail accounts um and
+then once again uh mail Reef started uh
+uh falling apart just uh just for those
+particular servers so for those ones
+that got burnt we moved him back over to
+Gmail on Smart lead right um and uh
+what's crazy is that when we did inst
+all these um these changes right we had
+one client that only had four leads in
+14 days and we were about to lose them
+because we're trying to get them 30
+leads a month and they were in their
+conversion window and uh we rolled out
+these updates and we got them 10 leads
+in 4 days so this stuff is drastically
+affecting the results of our business
+right now and it's just like this stuff
+just popped up two three weeks ago where
+like these configurations are just
+changing uh so fast there's been like
+little spikes like every 90 days there's
+kind of something big but like recently
+it's been getting just way more crazy
+right like when we started this test
+Gmail to Gmail wasn't delivering at all
+and then by the end of the test it
+somehow becomes like the one that we're
+actually going to be doing like the best
+one so um so this analytics is going to
+be going to be massive right um so what
+we're doing next uh step one is that
+we're immediately uh unifying our
+analytics between both of our sequencers
+in a single spot one so our clients can
+have a portal two so that way I can have
+mass analytics on what's going on and I
+don't need to be doing testing like this
+all the time the second phase that we're
+doing that our oper uh I'm working with
+our operation teams to build is we're
+going to create a master inbox uses both
+of the sequencers as well so like a
+Grandmaster inbox and what that'll do is
+that'll allow me to get um all the like
+what's a bounce message what's a reply
+what's a positive what are out of office
+messages and I'll be able to get very
+specific data I'll be able to use email
+guard to enrich that entire database and
+in real time I'll be able to tell who's
+delivering to who well who's getting
+more bounces than others um who's
+getting uh more out of offices than
+others like is a is aist just more out
+of office this week we'll be able to
+have that mass data all in one spot and
+then the final thing is now that we'll
+have that data in real time will'll
+Implement a dynamic ESP and sequencer
+matching so that way we can uh do all of
+those together right and so what those
+are going to look like is that we would
+have something that sits above takes all
+the data in real time compiles it all
+together and then in real time it'll
+route our leads based on what the best
+deliverability is uh on that given day
+based on the last however many data days
+worth of data we decide to go with so
+you know comment below if this was
+insightful um if you want full analytics
+if you comment I'll shoot you a DM and
+I'll shoot you over a full analytics
+page you can go over all this kind of
+stuff and look at the data yourself I'd
+be interested if You observe anything
+differently uh from me and then the
+other thing I'm thinking is that if if
+this does get enough attention I'm sure
+this could be valuable to other people
+but I I don't know yet it's just a
+theory um if this does get enough
+attention I might genuinely look into
+creating some sort of system where we
+can share this real-time data with other
+people and say hey today here's what's
+delivering best um uh and uh and so it
+just kind of depends on like if this is
+actually interesting to other people so
+if if you like it or whatever comment um
+share to other people if you think it
+help them out whatever it may be so
+anyways hope this uh serves you well bye

@@ -1,0 +1,733 @@
+Most people use AI for cold email
+completely wrong. They go to ChatGBT,
+ask for a script, and then blast it out
+to 10,000 people. That's not AI
+outreach. That's complete spam, and it's
+why your deliverability is tanking. We
+used AI to generate over $140,000 in
+cash collected last month, but we didn't
+use it to write generic scripts. We
+built a relevance engine that automates
+the entire research process that used to
+take VAS hundreds and hundreds of hours.
+I'm Josh. We book over 250 appointments
+every single month for our own agency
+using this exact same system. Today I'm
+going to show you behind the scenes of
+an AIdriven campaign and I'm going to
+show you exactly how we source the
+leads, how we use AI to enrich the data,
+and how we turn that data into a message
+that actually gets people to reply. Most
+people confuse how you're supposed to
+use AI inside of your cold outreach. The
+best outreach script is almost always
+the outreach script that is written with
+the most context of your ideal prospect.
+So, for example, you probably have more
+context on your ICP than Chad GBT does,
+right? Which is why if you give Chad GBT
+context that's already inside of your
+brain, at the very best, it's going to
+produce an outreach script that you
+could have written on your own. But
+realistically, it's probably going to be
+worse because it's probably going to
+sound robotic. It's probably going to
+have a million dashes and it probably
+doesn't know how to really well format a
+cold email. Now, what you can use it for
+though is because better scripts are
+written with better context, you can use
+Open AI to go get context that you don't
+already have for every single individual
+that you're trying to reach out to. So,
+obviously, if you receive an email,
+you're going to be significantly more
+likely to reply if you feel like the
+other person has already done research
+and has already looked at you based on
+what they're saying inside of their
+email. So what you can use open AI to do
+and you know all these LLMs to do is go
+get the context that you don't have for
+every single one of your process. You
+don't have the time to look through
+every person's LinkedIn and every
+person's website to get the perfect
+context on how you should write an email
+for that person. But Chad GBT can do
+that. So, what you need to do is you
+need to get it to the point where it can
+go to all of your prospects websites and
+all of your prospect's LinkedIn profiles
+and look at exactly how it can use that
+context in a small part of your cold
+email so that it can use that relevant
+context in one specific domain because
+it understands the prospect better than
+you do. That is how you get AI to work
+inside of your cold outreach campaigns.
+So, I'm going to walk you through right
+now number one, how we actually find
+leads to begin with. Number two, how we
+actually use AI to enrich those leads
+and get personalized context about every
+single one of those leads. And then
+number three, I'm going to show you how
+we actually build the script using this
+personalization so it stands out from
+everyone else in their inbox. So when it
+comes to sourcing leads and building
+lists of the decision makers that you
+want to target, the first and most
+important question you have to ask is
+where are the people that I want to be
+targeting? And based on where your
+prospects are, we can use the best
+scraping tool to actually go ahead and
+find them. And not only that, but we can
+use signals that would indicate that
+they're possibly interested in working
+with you before we even find them. So,
+let me share my screen here and I'll
+show you how we build these lists. So,
+let's say, for example, you're wanting
+to target companies that are running
+Facebook ads. So, a lot of our clients
+are doing this and they're getting very
+good results with it. But, I'll show you
+how we actually can scrape these people
+and then I'm going to show you a few
+more examples. You know, your clients
+might not already be running Facebook
+ads. So, the first thing you can do is
+you can just go to meta ads library and
+search like a keyword of what people
+might be running their ads for. So, if
+you're wanting to target like skincare
+brands, which are probably e-commerce
+companies, you could just search up
+skincare. That's one example. You know,
+if you wanted to find roofers, you could
+just search up roof replacement or
+something. And then you get all of these
+ads. There's more than 50,000 people of
+people running these ads. So, what
+you're going to do is you're going to
+want to copy this information or this
+URL here. And then you're going to want
+to go to this Facebook ad library
+scraper, which is a appy scrape. Now,
+what you can do here is you just put
+your URL of the ad library in here. You
+put how many results you want. I'm just
+doing this as a test, so we'll only get
+10. And then this is going to basically
+run. And then what it's going to do is
+it's going to give you all of the
+companies that are actually running
+Facebook ads. And then from there, we
+can get that company information and put
+it into our play enrichment software,
+which we're going to use AI for to
+actually find the owner of the company
+and all of their information. So we can
+actually start sending them emails and
+start getting clients. Now, you can see
+at this point it's run around 5 to 10.
+So we can just click export here and
+then export as a CSV. And then we're
+going to get a list of all the companies
+and all the types of ads that these
+people are running that we can mention
+inside of our cold email campaign
+because again we're going to get that
+context of what the ad that they're
+running is and then we can use that ad
+to basically talk about how we can make
+a better one. Right? So that's one
+example and that's if you're you know
+wanting to target those types of people.
+The second one is you can use Apollo.
+Now this is the most standard one that
+almost everyone uses but the thing is if
+you can enrich this information you can
+actually get it to perform a lot better
+than most people do. Because what most
+people do is they'll just take the
+information on Apollo and it'll just
+start sending emails just like everyone
+else and then they don't stand out. But
+what we can do is we can take the
+information here and find additional
+information and additional emails that
+most people don't find and we can
+message people from that information and
+then we're going to get significantly
+better data, significantly better reply
+rates. Basically what you want to do is
+you do not want to check email verified
+on here. What everybody does. The reason
+why you don't want to do this is because
+we can find emails that Apollo doesn't
+give us. So, if we're just checking off
+verified, we're only going to get the
+leads that Apollo has emails for, which
+again is what everyone else does. The
+emails who aren't verified in here are
+the ones who are typically going to have
+higher reply rates cuz they're not
+reached out to as much. So, you're just
+going to add the job title of the person
+you want to reach out to. Let's say we
+want the CEO or the owner or the founder
+of the company, right? If we're
+targeting a small or mediumsiz business,
+let's say the location we want to target
+is we want to target the United States
+of America. And then for employee count,
+we want to do 11220. Again, I'm just
+making an example. And let's say you
+want to target, you know, recruiting or
+something. Then you just put recruiting
+here, staffing and recruiting. You're
+going to cut a whole bunch of leads. And
+then you can export these. Now, you can
+either export them directly from Apollo,
+which you can do that, and you will have
+to pay a pretty penny to do that. Or if
+you want to save some money, there are,
+it changes all the time cuz some of
+these scrapers get restricted and then
+some new ones pop up. But typically, if
+you search up like cheap Apollo scraper,
+you're going to get scrapers that can
+actually scrape Apollo's data for you.
+And it's typically like anywhere from 3
+to 5 cents per lead, which is
+significantly cheaper than if you were
+to actually buy it directly from Apollo.
+So that's another way you can do it.
+Another way you can do it if you don't
+want to do that is you can scrape from
+sales navigator. So you basically make
+the same search. Again, I just did this
+example. If you're doing law companies
+in North America that are 1 to 50 in
+terms of employee count, then you just
+grab this list. You can get a Chrome
+extension called Prospio. P R O S P EO.
+And then you just click export with
+Prospio. And then you're going to be
+able to export this list. No, I'm not
+going to do that because I don't need to
+use credits for this. But that's how you
+would go ahead and do that. And again,
+you need to understand where your
+prospects hang up. So, if your prospects
+are like online, you know, a lot, right?
+Let's say if they're a recruiting
+company, for example, or if they're like
+a larger business or if they own like a
+SAS company or something, you're going
+to be able to find them on LinkedIn. And
+Sales Navigator obviously gets their
+information from LinkedIn. And Apollo
+also gets their information from
+LinkedIn. So, that's where you'd find
+those people really well. Like, you can
+find a lot of SAS companies in here and
+things like that. Now, if you're wanting
+to target chiropractors, for example,
+you're not going to be able to find them
+on Apollo or Sales Navigator. You might
+be able to find them on Meta Ads
+library, but that's only like a very
+small percentage of those. So, we have a
+client, for example, who's targeting
+dentist, and this works really well for
+him. So, you can use a software called
+Bright Data. And what this does is this
+scrapes Google Maps for all of the leads
+within a certain category. So, for
+example, this example, I just did
+chiropractors. So, the filters that I
+used, you can just go to brightdata.com
+to get this information. But basically
+what you want to do is you want to put
+the category is and then the niche you
+want to target and the country is the
+country you want to target. So I just
+did chiropractors in Canada for this
+example. Obviously if I put United
+States we would get a lot more leads
+than the 6,000 that we got here just
+because nobody lives in this frozen
+country behind me. And as you can see
+once this loads we're probably going to
+get somewhere around 50 to 100,000
+people in here. That's basically how you
+can get data and how you can get leads
+based on the actual place where they
+hang out. Yeah. You see there's 100,000
+chiropractors in the states. So based on
+the information obviously that uh that
+you know where they are, you can find a
+different source of the lead and you can
+scrape them using that method. And in a
+second here, I'm going to show you how
+we can take that information that we get
+from these sources. Obviously, again,
+you can just download these. Obviously,
+you have to pay for them to actually
+download these lists, but there's less
+like a quarter of a cent, so it's not a
+lot. Take these leads. You can use this
+to actually get the original data. And
+then I'm going to show you in a second
+here how we can take the data that we
+get from these Google map scrapers,
+these Apollo scrapers, and these meta
+scrapers and actually convert those into
+emails that we can then send to as well
+as AI personalized context that we can
+use inside of the email to make it stand
+out even more. So the next step of this
+is the actual enrichment process where
+we're going to use AI to take the leads
+that we've already found that we've
+imported into our software called Clay
+and then I'm going to show you how we
+can take that to build context using AI.
+I'm going to actually show you behind
+the scenes of my campaign that I'm
+testing that I'm using AI for in a very
+big way. First thing you're going to do
+is you're going to upload the
+information that you have into a clay
+table like this. This isn't going to be
+a full clay breakdown that's like 20
+minutes long cuz there's a few of those
+on my channel already. But I'm going to
+show you how we actually build the AI
+context inside of here. Right? So, you
+have all your information, which is
+going to be your name of the company,
+the name of the person you're reaching
+out to. You're going to have some of
+their emails, etc. Then what you're
+going to do is you're going to need to
+build a clagent or an open AAI basically
+website scraper. So what we're doing
+here in this outbound improvements table
+is this is actually using AI to go into
+all of the websites of all of the
+prospects and all the companies that we
+already have and research information
+about them. Then what we're doing with
+that research is we're actually
+inputting that research. Basically for
+my specific case, we're using it to
+create ideas that they could have for an
+outbound campaign. Right? So for
+example, we help people with outbound.
+we help people with cold email,
+LinkedIn, etc., right? What we're trying
+to do is instead of just using, you
+know, the generic thing that everyone
+else says, right? Is we'll help you get
+clients with a cold outreach campaign.
+Instead of saying that, what we're going
+to do is be specific about what type of
+cold outreach campaign we could run for
+them based on their specific company,
+right? And we're giving them three ideas
+inside of the actual message that we're
+sending them. Obviously, I can't look
+into all of their websites manually,
+like I was saying before. So, we're
+using AI to actually go ahead and do
+this for us. So for example, we can
+actually look at an example with you,
+right? So if we were to look at this
+website, this website of let's say this
+prospect, right, hunter andbard.com.
+Let's just look at these guys for
+example. So based on what we can see
+here, marketing that connects you to
+your customers. Okay, cool. We can just
+see that they don't have a lot of info
+on their service in this front page. And
+then we can look here, right? They have
+some testimonial from Sarah saying this
+highle strategy. They have all these,
+you know, 200 results. Okay, cool. So
+now we have like a basic idea. And then
+they have these different plans. So
+messaging and materials fullb pilot
+guided program right so we haven't
+looked at everything we'd probably want
+to look at this 5 minutes right to even
+get an understanding if we were doing
+this manual but look at the ideas that
+our you know AI is able to come up with
+right so we can mention winning a
+gold.com award for you website redesign
+so prospects trust you more than other
+agencies right so that's one idea that
+they could use so somewhere on their
+site and I would probably have to look
+here but they probably mentioned they
+got their gold medal thing somewhere in
+here so I'm not going to go ahead and
+look at all of these different things it
+will be somewhere on here. The next
+thing, use research to mention to each
+prospect how your ABM focus, right,
+which is this ABM focus. Use AI to
+research each prospect to show them how
+your ABM focus on highv value B2B deals
+helps their business, right? So again,
+it's relating this context that I do not
+have before researching this prospect,
+which is the whatever the ABM method
+that's talking about here to how we
+could help them with cold outreach,
+right? And the third thing is use AI to
+find, you know, companies hiring
+marketing managers because these guys do
+marketing. So you reach people who are
+already looking for services like yours,
+right? So again, it's being super
+specific with the context that it knows
+about their website to how it could be
+related to our service, right? So we
+can, you know, look at this one, right?
+Mention helping Nike, fly kit, refine
+messaging, so similar brands get more
+leads from sustainable audiences, right?
+So again, this is mentioning something
+from their site and how it could relate
+to us helping them with cold outreach,
+right? So for this one, mention helping
+Capital One get 10 million views and six
+figure revenue so prospect trust you
+more than other agencies, right? So
+again, all this is contacts that's on
+their website. So we can look at this
+one for example. So if we go to this
+website here, they're going to mention
+working with Capital One and helping
+them get results. So we can even go find
+here, right? So it says Capital One, you
+know, on our partners here. So if you go
+to case studies, right, it's going to
+talk about Capital 1's results that they
+got and you know, generated over 10
+million views, which is exactly what it
+said inside of the personalization as to
+how we can improve their cold outbound
+campaign. So this is where it gets that
+information from. And once you can find
+specific information for every single
+one of these prospects, you're able to
+stand out from every other person that's
+sending them cold emails because they
+feel like you're talking directly to
+them. Now, obviously, you can go and do
+this all by your own and just go through
+thousands of YouTube videos trying to
+figure all this out. If you want to skip
+all of that and just work directly with
+me and my team to actually help you
+build this entire [music] system
+internally so that you can consistently
+start generating high quality
+appointments, there's a link in the
+description that goes to my page and
+talks about what we do, who we've
+helped, etc. So you can check that out
+if you want. Let's get back to the
+video. So now the question becomes, how
+do we actually write an email now that
+we're able to actually find all the
+context about every single company that
+we're trying to email. So I'll show you
+how we actually copyright and that we
+can integrate AI within our script so it
+sounds natural and it sounds high
+quality so people positively reply and
+actually book sales calls with you to
+buy your product. Okay, this is what we
+do. So the first thing that you want to
+think about is if I was actually
+manually researching every single
+company, how would I write the email?
+The easiest way to go and do this is
+actually go ahead and like look at your
+prospects websites and try and write
+like three of them just as if you were
+doing it manually and that will give you
+really good context for how to actually
+do it with AI. So let's say for example
+you're targeting SAS companies. We'll
+just look at Salesforce as an example,
+right? Cuz there's a lot of information
+on here. We can get creative with how we
+can actually come up with a script,
+right? So you want to look at like what
+is there to research on the prospect's
+website. So that's going to really
+depend on the type of person that you're
+reaching out to, which is why I would
+suggest looking at a website of your
+ideal prospect. So saying we're
+targeting these people in software,
+right? Here's one thing that we can look
+at is what is their niche, right? So
+it's mentioning all the types of clients
+that they work with, for example. So one
+thing that we can mention is like, okay,
+cool. If we were selling like a Facebook
+ad service, right? We could probably
+talk about, you know, the types of
+clients that we would run the Facebook
+ads for. So let's say, you know,
+financial services is one of the people
+that comes up on here. We could talk
+about running ads for financial services
+companies, right? Or getting clients
+with financial services companies,
+right? And let's see what else do they
+have. So maybe they have some
+information on their blog, for example,
+that we could reference. So mastering
+B2B lead generation. So you could maybe
+start the email by saying, I read your
+article about mastering B2B lead
+generation. And then you could mention
+something that it's is inside of the
+article. You could say something like
+that. If we go to, for example, maybe
+their products, you can probably mention
+the different products that they want to
+sell. And if you're targeting software
+companies, they probably want to sell
+more like enterprise deals, right? So
+let's say if you look at analytics and
+you go to their analytics pricing, you
+can see whatever their highest package
+is the data cloud for Tabulu starter
+pack, right? And you could mention that
+for example, if I were to think about
+this, I'd probably do this for like 10
+15 minutes, but if I were to just write
+this right now, I would say something
+like, hey, I just read your and then
+insert like something that was on the
+site. And you could use AI to find
+something that was on the site. So like
+ideally blog or article or newsletter or
+something like that, right? Something
+that's interesting on their site and I
+resonated with the part that mentioned
+and then you can do context about the
+actual thing that you read and they're
+going to be like, "Oh, this person
+actually took the time to actually look
+at my website. I'll give this person the
+time of day." Let's say you're wanting
+to sell them again Facebook ads
+campaign. So you want to talk about the
+outcome of them getting more clients.
+And again, you want to be more specific.
+So let's say, you know, I think we saw
+financial services here. So, let's say
+they want to target financial service
+companies, right? And they want to let's
+look at one of their products. For
+example, let's look at Agent Force.
+Agent Force pricing. And then their
+highest pricing is they charge $500 per
+100,000 credits. So, we could say if we
+could help you get financial service
+companies who are looking to use your
+guys' agent force and spend at least a
+million credits a month, which is would
+be a decent 5K a month retainer for
+them. Obviously, I don't know if
+Salesforce would give a about this,
+right? But you get the idea what I'm
+saying, right? So, if I was wondering if
+I could help you guys get an additional
+five financial service and this would be
+a custom variable of their niche, right?
+So an extra five niche in this case
+would be five financial service
+companies looking for your guys's and
+then service which would be Asian force
+and use at least and then you talk about
+the plan which would be in this case
+their flex credits and they would spend
+whatever a million credits a month which
+would be 5k a month for them at least
+plan would you be open to a short
+conversation and again just keeping it
+super short straight to the point and
+very personalized right and you just
+sign off right So again, if I thought
+about this for, you know, like 10, 15
+minutes, I could probably come up with
+something better than this. But you see
+how this is going to be so much more
+personalized and so much more specific
+to the company that I'm reaching out to
+than if I were to just say, "Hi, if I
+can get you more clients, do you want to
+have a chat?" First of all, it's a lot
+more believable because in this case,
+you're actually taking the time to look
+at their thing and they're if you're
+just saying it like the generic example
+that I just gave, they're probably going
+to be like, "Yeah, this probably person
+probably sends this to everyone." But if
+they're being so specific about how they
+can help you, you're probably more
+likely to believe them, right? So the
+whole goal is to do that in this to make
+it extremely contextual to their
+situation. So they number one believe
+you and trust you that you can get them
+the result. Number two, obviously
+because they believe you, they'll take
+action on that and then they'll actually
+positively reply which is the end goal
+or at least the initial goal and then
+obviously we're trying to book a call
+and sell them later. Right? So that's an
+example of how you can use the context
+from AI to build the proper cold email
+script. Now, if you're a big data nerd
+like I am and you want to know the exact
+math behind how most of my clients get
+to 50 to 100K a month using these
+outbound systems, I'm going to actually
+share my screen on my iPad here and show
+you the exact math of what it takes to
+go from wherever you're at to get to
+100K a month using just purely cold
+outbound. And I promise you it's
+possible because we're doing that for
+ourselves, right? On average, again,
+this widely depends. Some of our clients
+have $5,000 lifetime values. Some of our
+clients have $50,000 lifetime values.
+But on average, let's say they're
+charging around $15,000 over the total
+lifespan of the client. So maybe they're
+charging 5K a month. They do three month
+contracts or let's say maybe they're
+doing 2K a month and they stay for
+whatever that is like 7 and 12 months,
+right? On average. So that would be
+$15,000. That's how much a client is
+worth to them. In order to make $100,000
+a month, they have to sign seven clients
+per month. On average, again, I'm just
+going to use average numbers so you have
+an idea of what's possible and how you
+can apply this to your business, right?
+On average, people close at about 20%,
+so they need 35 actual showed
+appointments per month. And most clients
+have about a 70% show up rate. Sometimes
+it's actually higher than that, but
+we'll say pessimistically it's 70%. They
+need about 50 booked appointments every
+single month. Right? Again, these are
+rough numbers. If you do actually the
+calculator math, it's like I'm rounding,
+right? But it's about this. And then if
+you do 50 divided by 33%, which is our
+positive reply rate to booking rate. So
+about a third of the people that
+actually reply positively, we actually
+get them to book in. If you're anything
+less than that, you should definitely
+start working with me because we have an
+entire super in-depth playbook that
+we're actually using for a lot of our
+clients and they're at like 50% of their
+positive replies are converting to
+appointments. Either way, that's going
+to require about 150 positive replies a
+month to get those 50 to get those 35 to
+get those seven clients a month so that
+they can get to that 100K a month. And
+then if you divide that by 0.5% which is
+the average positive reply rate of our
+clients. Some of our clients again have
+like 0.1% positive reply rates because
+they have like $100,000 packages that
+they're selling. And some of our clients
+have like 4% positive reply rates which
+is absolutely obscene by the way, but
+I've seen it happen. We're just going to
+use 0.5% as an average. That's about
+what ours is. Ours is about 0.70.8 and
+we're sending like thousands and
+thousands. I think we're at 10,000
+emails a day at this point or close to I
+think we're at like 78,000 emails a day
+that we're sending right now.
+Regardless, if they need to get 150
+positive replies a month with a 0.5%
+positive reply rate means they need to
+send 10,000 emails per month. And you
+break that down, it's a little bit less
+than 500 emails per day. So if you
+actually do this math yourself, you will
+begin to realize all of this becomes
+extremely predictable. And once you have
+this math, you need to obviously test to
+know exactly what your numbers are going
+to be cuz they might not be the same as
+this. And they will probably be worse if
+you're just doing this on your own. If
+you understand exactly the numbers that
+you need to get to your goal, getting
+there just becomes about what is
+preventing me from taking these actions,
+what is preventing me from having these
+numbers in my business, right? If you're
+not even at the point where you're
+sending the amount of emails that you
+need to send, obviously that's one
+action that you can take, right? And if
+your positive reply rate is screwed up,
+then it's like, okay, now all of your
+time should be focused on how can I fix
+this positive reply rate and you know,
+and so on and so forth. All the business
+is is just about fixing these metrics
+until they all line up. And again, if
+you don't want to have to fix them and
+you want me to just give you the stuff
+that already works, then you can click
+the link in the description. But if not,
+that's cool as well. But this is what
+you need to know, regardless of whether
+you work with me or not, to actually be
+able to get to the 100K a month mark.
+The reason why this system made me 140
+grand last month is not because the copy
+was godwritten, but it was just because
+we used context and we used AI to
+personalize every single email and sent
+that to [music] thousands of people
+every single day at the same time. We
+stopped guessing and started using data.
+So, if you want to work with my team,
+you can check the link in description.

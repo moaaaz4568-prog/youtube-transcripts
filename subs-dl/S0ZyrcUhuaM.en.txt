@@ -1,0 +1,200 @@
+if you want to learn some tips and techniques to
+create hyper realistic work in adobe illustrator
+then today's video will be just for you i'm going
+to show you how to make this realistic 3d pill
+but you can apply the content in today's video to
+other designs as well but first a quick 10 second
+word from today's sponsor and sponsoring today's
+video is an absolute must for graphic designers
+it's where you can download over 55 million
+resources envato elements learn more about that
+later in today's video now i have here an artboard
+of 1920x1080 pixels but i'm going to zoom into my
+workspace a tiny little bit for this 3d design
+it's going to be best not to work too large and
+you will see why later but for now press l for
+the ellipse tool and hold down shift and click
+and drag to generate a circle the color of your
+circle doesn't matter much at all to be honest
+now press p for the pen tool hover your pencil
+on the left edge of the circle and click onto
+the anchor points illustrator should snap
+right to it now then create a second point
+somewhere up like this and then hold down shift
+to extend the path outward holding down shift
+helps us keep the path aligned to the previous
+point horizontally as you can see here wherever
+my cursor goes the line remains straight so make
+a third point in a similar position as a previous
+and then click to the far right edge
+of the circle on the anchor point
+finally close the path back at the right start
+you can press v to click away from your path
+now choose a different color for this shape so you
+can easily see it on top of the circle with the
+new shape selected press command or control c to
+copy it and then paste a duplication by pressing
+command or ctrl f now click the top shape and
+hold down shift and rotate it a full 180 degrees
+or you can just reflect it as well
+now move it into position like so
+we've now made the shape for our design
+importantly we need to select everything and
+then either press ctrl or command g or come up to
+here where you can group the objects in this drop
+down menu now if we don't group the objects then
+the next steps simply just won't work so let's
+go ahead and apply some 3d magic by opening the
+3d materials panel found right here you're going
+to need the most recent version of illustrator
+for this by the way and that is as of april 2022
+so for this design we need to first use inflate
+so select that option and then for the plane
+let's go ahead and use isometric top there
+are many settings that you need to be aware
+of for this process and i'm going to show you my
+personal settings at the very end of the video
+so as you can see at the moment we have too much
+inflation and we can change that with the volume
+slider and you can see the changes in real time
+the depth slider well controls the depth of our
+three-dimensional design and for this pill
+kind of design i want something like this
+and again i will show you the finished settings
+later you can also change the orientation here
+but i don't really mess with it because i find
+the controls too fiddly and command or control
+z or z will snap back to the previous design okay
+so next we have the materials tab this will apply
+textures to your design and this is very important
+to get right so your design does look realistic
+for a medical pill i found that cardboard paper
+and also handmade rice paper seem to work best
+you'll probably find that a lot of this design
+process will be trial and error but just to give
+a brief rundown of the material settings here is
+the resolution of your output the better the res
+the better quality of your design but the slower
+your computer will run and i'm going to change
+this later and we will look into this later too
+a lot of these settings change the amount of
+texture fibers and roughness for your materials
+as well as the counter fibers and so on at the
+moment i'm using handmade rice paper but for the
+final output i do end up using the cardboard paper
+now you can also change the color of parts of
+the materials as well and the pill is far from
+finished but before we move on i want a background
+so that the lighting effects can be applied
+best so press m for the rectangle tool and
+then create a rectangle i also want to send
+this shape to the back of all layers and once
+you've done that it's time to apply a gradient
+now to make that gradient just click right
+here and then select the freeform gradient
+this will help provide a smooth and neat looking
+gradient for our backgrounds now you can move
+your nodes around like so and also change their
+color by double clicking them and then choosing
+the color of your choice and again i will
+show my final settings later in the tutorial
+now you can experiment with what you think might
+look best for your design and once you do have
+that background lock it down with command or
+control 2. now we're going to open this 3d tools
+panel once more but this time we're going to look
+at the lighting now lighting is vastly important
+to 3d work because it basically adds the realism
+that we're looking for we have four options at the
+very top as kind of base starting points and
+i personally do quite like the diffuse option
+the intensity controls how intense the lighting
+effects are the rotation controls where the source
+of light is coming from around a 360 degree angle
+and the height controls how high or how low the
+source of light is in relation to your design
+and of course the softness changes how soft or
+stuck your light is to activate shadows
+we need to flick this switch right here
+a lot of these effects will look pretty lame
+until we flick on the ray tracing option
+and also we change a few other settings that
+i will show you soon but you want to work on
+your design mainly with the more lame settings
+because your computer will not slow down that much
+but as soon as you change to higher quality
+settings things do become slower and more laggy
+for my final lighting settings i have the
+intensity sort of in the middle rotation
+is 166 a fairly low height and a fairly
+high softness shadow bounds are right
+up so we can see all of the shadows if your
+design is large it might be too big to show the
+whole shadows and it might be cut off and this is
+why i said at the start of the tutorial that you
+shouldn't make your design too big don't worry
+we can scale it up later but we're not done yet
+there is one setting that totally changes the
+game as well as possibly blowing up your computer
+so in the document raster effect settings
+panel we can change things to 300 ppi
+this will give you an awesome render but it
+will totally slow everything down completely
+of course it depends on how powerful your
+computer is but you should work in 72 ppi
+and then export in 300 ppi i actually sped this
+part up but as you can see look how crisp and how
+awesome this design looks right now i also need
+to show you the final material settings but first
+we can duplicate this pill by holding down the alt
+option key and then clicking and dragging upwards
+and then if we disable the shadows on the
+new design we can build a stack of objects
+if you spend time working on the lighting and
+the shadows of multiple different 3d objects
+you can end up with some really interesting and
+cool realistic designs so for my gradients here i
+have five different notes two darker ones at the
+bottom and then three lighter nodes at the top
+this suggests light and as you can see the
+shadow of my design extends into the darker
+areas of my gradient now for the materials
+i did use cardboard paper with the highest
+resolution i used a repeat of 100 a really low
+roughness of 0.14 and a fairly low fiber setting
+now i think the other settings here are pretty
+standard but you should experiment with yours
+and find the right texture for whatever it
+is you're designing now i also did change
+the color of the material from a really brown
+to this kind of off-white and again here are
+the lighting settings that i currently have
+on my design remember to work in a low quality
+option and then change it to a high quality once
+you're ready to view it or export your design
+so yeah thanks to the sponsor
+of today's video envato elements
+this is a great one-stop shop subscription
+service that i use personally on a daily basis
+now as you can see here they've added over 94 000
+new assets this week alone and there are over a
+quarter of a million motion graphics downloads
+you can find a wide range of categories to look
+over such as video imagery templates and even
+fonts as you can see here and let me tell you
+the font selection on envato elements is vast and
+awesome but yeah you can also find things like
+website design templates and app design templates
+too and you're never going to run into trouble
+either because you own the rights to each download
+due to having a license when signing up for a
+paid subscription and it works out to be less
+than twenty dollars a month for the annual plan
+and when you consider how useful this
+website is and how many downloads there are
+it does work out to be really cost effective
+and yeah you can check out envato elements
+linked down in the description box below if you
+want to see more 3d tutorials in adobe illustrator
+just click a video on screen and until next
+time guys design your future today peace

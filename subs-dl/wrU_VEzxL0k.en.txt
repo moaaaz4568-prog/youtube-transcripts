@@ -1,0 +1,364 @@
+We spend hours going back and forth with
+AI to the point where it would have been
+quicker to produce something with pen
+and paper by candlelight in the
+old-fashioned way. And it's frustrating
+really because AI is supposed to save us
+time. However, after a good old back and
+forth and a bit of an argument,
+eventually we generally get what we want
+and we might get a fantastic output.
+However, the idea of having to have that
+whole bloody break moral of a
+conversation again 2 weeks, 3 weeks down
+the line when you want to do the same
+job again, it's a little bit painful.
+And it's why Claude skills exist. So, if
+you're not using them yet, just know
+that the whole back and forth arguing
+that you're currently doing with AI can
+be totally cut down to like 10%. You're
+going to be able to systematize your
+argument with Claude, make a skill, and
+that is going to save you so much time
+in the future. And that's what I'm going
+to show you today is Claude skills, how
+to use them, and how to save time. Now,
+I have with Claude built a sales page
+and that sales page is for a product of
+mine called the Thinker. And we're going
+to go to a Claude conversation where I
+built this entire sales page. It's a
+very long conversation and I'm going to
+show you how I now bottle that whole
+conversation into something that becomes
+repeatable so that next time I want to
+build a sales page that is as good in
+terms of aesthetics, structure, voice,
+etc., then we're going to be able to
+utilize everything that we've done in
+that conversation to make it a
+repeatable process. Okay, so this is
+Claude,
+of course, and
+um inside here you'll see that you can
+tell by the bar on the side as I scroll.
+This is one long conversation. And in
+this conversation I created the Thinker
+sales page, delivery page, promo
+content, all of it. So, it's a very,
+very long conversation. So, what I want
+to do is extract from this conversation
+now a repeatable method for building
+sales pages moving forwards because when
+we look at a sales page that I built,
+and when you ask Claude to just create a
+sales page, it's probably going to do a
+very poor job because it's not being
+specifically programmed with what makes
+a high-converting sales page. So, you've
+often got a lot of back and forth to do
+in order to get the result that you
+want. So, this sales page it has a hero
+section which is very clearly got a
+headline that's designed to connect with
+the audience, a little bit of verbage
+that explains, and then a call to action
+button. And we also have an image here
+as well. There is a video, and then
+there is more relating copywriting, and
+then demonstrating what exactly this
+does, some pictures of the Thinker and
+how it all works, etc. And then we
+scroll all the way down, and it will
+take you to giving you all the details,
+and then take you down to Q&A, about me,
+and then the price and the call to
+action button. We're going to just
+basically create a skill that enables us
+to then replicate this. And by the way,
+the point of me showing you this is so
+that you can create a skill for anything
+that you're getting Claude to do that
+you want it to be able to do again.
+So, look, here's the thing. I've got the
+whole long conversation. We finally got
+the page to where I want it to be. It
+has got conversions. I want to
+encapsulate the structure, the
+copywriting, the voice, the methodology
+that is on that page, how it's all laid
+out, and then apply it to different
+[clears throat] products that I produce
+in the future without it taking me 3
+days of chatting with Claude. I've
+written out a prompt, and this prompt is
+essentially going to get it to scrape
+the process out of the conversation and
+then convert it into a skill. I like to
+write my prompts like this with XML tags
+for Claude. This is an XML tag. It's
+basically like a bookend for a
+instruction that explains what that
+instruction is supposed to be doing. So,
+this is telling Claude what its role is
+in this prompt. You are a skill author.
+You take work that has just been
+completed and turn it into a reusable
+skill.md so that the same system can be
+run again for something new without
+starting from scratch. And then we've
+got context. Directly above this
+message, we built the full sales page
+for a product called the Thinker. We
+worked through all of it together, the
+framework, the copywriting, the voice,
+the visual design of the page. I want to
+bottle that process into a skill I can
+reuse to build a sales page for any
+product I choose to promote. Four things
+I want preserved, the framework, the
+system, the copywriting methodology, and
+the visual style. The skill cover covers
+the sales page only, not the delivery
+page nor the cart or checkout page, just
+the sales page. Task, write a complete
+skill.md that captures how we built the
+Thinker sales page generalized so that
+it works for any product. Read back over
+everything we did in this conversation,
+notice the order we worked in, the
+copywriting decisions, the section
+structure of the page, the voice, and
+the visual style choices. Pull out the
+reusable system underneath it. Strip out
+anything specific to the Thinker and
+keep the repeatable method. Where a step
+needs product specific input, write that
+as an instruction for a placeholder
+instead of baking Thinker details in.
+But, basically, then it's going to write
+up the skill, and then we've got
+essentially that it needs to go in order
+and it needs to not skip ahead. This is
+a really important guardrail to include
+because AI loves to skip ahead, and you
+need to tell it to slow down. It's
+always trying to like get to the finish
+line before it's actually grown some
+legs. So, you know, let's let's actually
+have a framework to build on before you
+start trying to add my voice to
+something. Then you'll have something
+that's got really good substance to it.
+Otherwise, you're trying to dress up
+something that doesn't exist and
+therefore it ends up being a bit
+lopsided. So, copy first in three phases
+and then essentially just walks them
+through the process. By the way, this
+prompt I'm going to explain to you how
+you can get your hands on it without
+writing it out yourself in a way that
+doesn't have specific Thinker stuff
+involved in it so that you can copy and
+paste it and use it for your own things
+moving forwards. I will explain that
+shortly. So, let's just drop that in and
+what that is going to do, that is going
+to start going through the conversation
+and scraping out the entire process so
+that we can then use it. Now, if you
+want to get your hand on my sales page,
+I'm going to give that to you if you
+come and join Strategy Geeks. Strategy
+Geeks is my brand new community and in
+here I'm sharing with you loads of
+things that are going to help you
+systemize and make things easier with
+using tools, tech, AI, etc. And inside
+the classroom, the copywriting skill,
+the sales call follow-up skill, and the
+sales page skill. So, come and join
+Strategy Geeks to get access to that and
+of course there's also so many other
+things, loads of systems, loads of
+prompts, loads of ways of using AI.
+Let's have a look what Claude has done
+and is still going. This transcript is
+enormous. Yes, it is. It's bloody huge.
+So, it's got We've got two options.
+Write the skill MD now based on what I
+can see, ask to confirm the key bits I'm
+unsure about. We're going to say option
+one.
+Option one.
+Okay, so it's called my bluff. We've
+already got the skill. It already knows
+it exists. So, let's go grab that. So,
+once you've got your skill, what we're
+going to do is hit save skill and that
+is going Mine says upload and replace
+cuz I've already got it saved, but for
+you it will just say install, and then
+you've got the skill installed. And so
+now, next time you want to create a
+product or something, let's have a
+think. We can go new chat. I want you to
+create a sales page for strategies. Have
+a look through our conversation to see
+what you know already, and ask me about
+any blanks you have. And so I'm now now
+just going to give it this sales page
+skill. And how I've done that is forward
+slash, and then sales page, and it comes
+up. And that is how you access all of
+your skills by hitting forward slash.
+And so as you can see, I've created
+loads of them. If you're installing a
+skill from somebody else, that someone
+else has given you, please do your due
+diligence to always read it before you
+install it. If you're creating it
+yourself, like this, then you would just
+hit save. But let's say that you're in a
+Facebook group, and someone has gone,
+"I've made a skill on how to generate
+10,000 pounds in 1 hour with Claude."
+And you're like, "Oh, that sounds like a
+great skill. I want to install that in
+my Claude." Just make sure that you read
+it, because installing skills from other
+people is actually highly dangerous.
+They could have put something in terms
+of some bad intentions in the form of
+instructions into that skill that
+essentially gets Claude to do some
+things that you don't want it to do once
+it's installed and running. For
+instance, there could be a bash command
+in there that goes and gets some of your
+private data and emails it to someone
+off the back of a Claude skill. And so
+you just want to make sure that you do
+not install skills from people you do
+not know and trust. So how you
+essentially do that is that if you come
+into customize,
+you can click on create new skills, and
+then you go add, and you add a skill.
+But what a skill is is essentially just
+a a document that has got some writing
+on it. So you need to be able to read it
+and understand
+what this is actually going to get
+Claude to do.
+There isn't anything that can be hidden,
+I don't think, apart from what you can
+see and read here. But, if you don't
+understand something on here, don't
+install it. That's really important. So,
+that skill, it's here, and you can
+basically have a read of it, and then
+when you're happy with that, you can
+install it. Okay, so it's now going to
+go back and forth, and it's got branding
+for Strategy Geeks, the genuine blanks
+it needs for me. Check out join link,
+body font dot color hex code, founding
+spots, and proof. And so, I'm going to
+now go back and forward with it, and
+it's essentially going to fill in those
+blanks. And once it's written the copy,
+it's going to then start putting that
+copy onto a page, and then it's going to
+present that page to me. And instead of
+us doing that here now with Strategy
+Geeks, I'm going to essentially show you
+what it's going to give you.
+So, inside here
+here is how, finally, when we have
+everything presented and filled in, it
+creates a page that looks like this.
+Now, a couple of things.
+The images will look broken
+because it can't host the images
+internally here.
+Images need to be hosted somewhere. So,
+I use Go High Level,
+and what I do with images is that I go
+and host them inside Go High Level, and
+then I come back and give the link of
+that Go Go High Level hosted image to
+Claude. However, it will still look
+broken in here because it can't show
+hosted images inside the preview of HTML
+code here inside Claude. So, to see it,
+what you'd have to do is look at it
+inside Google Chrome instead. And
+usually, if it's just spat out, it will
+have a view and open in Chrome. Here it
+is. Sales page. Open in Google Chrome.
+Now, when I hit that, it's actually just
+opening a local file on my computer. If
+you try and scrape this link and go to
+it, it will take you nowhere. This is on
+my computer. But, what you can see is
+you can now see the images. So, you can
+see that that image is hosted, but if
+you look in the preview, it's just
+showing a broken image there. Yeah? So,
+to get a real good look of what it looks
+like, the best thing to do is open it in
+Chrome and then have a look through.
+Again, this is probably I think that's
+probably just because it's the to do
+with the the preview mode. Now, once
+you're happy with it, then you just need
+to host it on a page. And this is like,
+"Well, how do you get this out of Claude
+and into a page?" And so, you just
+basically copy this code and paste it
+into a code box on your web builder. So,
+that is how the skill works and how to
+use it and then just a couple of tips
+there on how to create sales pages. And
+of course, if you would like the sales
+page skill, you are welcome to it. It is
+inside Strategy Geeks for you to go and
+grab. But, have a think about what
+things have I been creating already
+inside Claude that I can now turn into a
+skill? What could I turn into a skill?
+How could I turn these things in And all
+you need to do really is say, "I love
+what we've built here. I want you to now
+help me turn this into a skill so that
+we can do it again and again without us
+needing to go back and forth." Even if
+you just type that, you'll probably
+produce a pretty good skill.
+But, if you would like the exact prompt
+that I used to convert a conversation
+into a skill properly, then I'm going to
+put that into Strategy Geeks for you and
+you can grab that from there. By the
+way, the link to join Strategy Geeks is
+in the description of this video. I
+think that's all there is to cover on
+skills. It's quite straightforward. It
+saves a hell of a lot of time and you're
+going to have so much fun with it now
+you know how to use them. Just remember
+be careful from installing skills from
+people you do not know.
+And when you are creating your own
+skills, then you need to save them after
+you have created them and then they will
+be there on the forward slash shortcut
+for you to access again and again and
+again. And of course, you can even turn
+them into schedule tasks, but that is
+for another video. That's all for me.
+I'll speak to you soon.
+Bye.

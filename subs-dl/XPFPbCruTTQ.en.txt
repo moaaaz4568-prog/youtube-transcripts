@@ -1,0 +1,299 @@
+today guys we're gonna be working in adobe
+after effects and i'm gonna show you how to
+actually animate a logo in the exact way you can
+see on screen now i've actually enlisted the help
+of someone to help me with these after effects
+tutorials because i am quite a noob when it comes
+to this software but if you do want to see more
+after effects tutorials heading into the future
+do please let me know so firstly we want to have
+our logo as a vector of course and i predominantly
+use adobe illustrator and it's actually a good
+idea to have all of the individual parts of the
+logo broken up so we can work with them in after
+effects really easily and so if you have text you
+want to outline the text and then just you know
+break up each individual letter from your texts
+and of course an easy way to do that is to work
+in the layers panel and it's going to really help
+if you leave lines like the square here as
+a stroke object and not outlined or expanded
+so you can import your projects by either coming
+up to file an import and there's actually the
+keyboard shortcut or alternatively you simply
+can just double click this box here but when you
+do import your project it's important to actually
+list the import as composition retain layer sizes
+and that's just going to import the design in
+individual layers like we mentioned earlier
+that's effectively created a composition and we
+need to double click that composition to enter
+into it oh and a quick reminder to actually
+change the duration of your composition
+come up to composition and then also
+composition settings and you can actually
+change the duration here and we're going
+to be working on a five second render today
+one interesting workflow in after
+effects is to actually get rid of
+the data files linking back to illustrator
+because this can actually confuse things
+so instead we're going to actually change
+the objects to shapes within after effects
+so if we come down to here we can press ctrl a and
+that's going to highlight all of these illustrator
+data objects down here and then we're going to
+right click and create shapes from vector layers
+what that has done is effectively change all of
+the illustrator objects into paths within after
+effects if you just click here and drag down
+a tiny bit so we can rearrange things like so
+and then we can just click and drag to highlight
+all of the illustrator objects and then just
+remove them so now we're working with shapes
+completely within after effects and to prove
+this if you zoom in here on the o it's actually a
+shape and we can edit it like so in after effects
+like in adobe illustrator it can be
+annoying when you have background
+layers that just move around when you
+click them by accident so what we can
+do is we can lock that background layer
+here as you would in any adobe software
+and that's now locked down nicely
+in today's animation we're not going to actually
+animate individual letters because for this
+animation i'm working on it might not look too
+great so we're going to group things together
+so highlight all of the sat right click
+and then go to pre-compose and we're going
+to give it a relevant name like sat so we
+can quickly identify what is in that group
+and i'm going to do the same thing again for
+the bottom roi now with the sat and the roi
+if we click this box here this is going to be
+continuous rasterize and we actually have a
+bounding box appearing now switched off you can
+see the complete area which is not going to be
+too intuitive and if we actually turn that
+off as well when we scale things it's not
+vectorized to infinite as you would with you know
+adobe illustrator with it turned off we have that
+kind of fuzzy pixelated look that you would
+expect in photoshop we're going to start by
+animating the sat in today's video and so to start
+doing that i'm going to move to two seconds in my
+timeline which is where most of the animation
+is going to start to end if that makes sense
+and so i highlight both of the layers i want
+to animate this being the two layers of text
+and then press p on your keyboard p for peter
+because both layers are highlighted and when we
+click the stopwatch icon it's actually going to
+affect both layers at the same time and at the
+two second mark this is where i want the sats and
+the ori to finish in this position here anything
+before that is going to be the animation so i'm
+now going to drag them back to the beginning of
+the timeline and if i drag the sat in the auri
+outwards you will see how things animate back
+to that starting point at two seconds and that is
+pretty linear and pretty boring as you can see so
+what i'm going to do is i'm going to highlight all
+of the keyframes and then press f9 on the keyboard
+and then come up here to the graph editor if you
+do see this however you need to make sure you are
+in the speed graph so make sure you've got that
+checked and again highlight all of the keyframes
+and then i'm going to bring the arms inwards to
+the center and as you can see when we preview
+the animation now it kind of isn't a linear steady
+progress it's got some kind of character to it now
+we're now going to create a
+matte for the sat and the ori
+text so you need to make any color rectangle
+you want and drag it over the stroked rectangle
+we don't want it any larger or any
+smaller than the stroked rectangle
+and then we're going to name this mattes
+i'm then going to pick with a bit to
+the original rectangle outline and then
+as you can see when i move
+things they are in unison
+that's how pick whip works it's
+kind of linking them together
+now i'm going to hide the matte because you'll
+see when we go to the effects preset window and
+set mats when i actually move
+things it's kind of knocked out
+so the mat is acting like a kind of a mask and
+revealing the animation whenever it comes into
+that space and you simply copy that onto the
+ori and we get the same effect for that text too
+simply click the layer that
+you want to copy press command
+or ctrl c and then paste it onto
+the layer with command or ctrl v
+we're now going to animate the square
+and so in the drop down of the square
+press add and then trim pass once you do
+select trim pass this window will come up
+and we're gonna go back to that two second mark
+and you will notice that the stopwatch says
+end and then drag it right back to the beginning
+again and of course we've got another very generic
+kind of animation that's just filling in the
+stroke from zero seconds up to two seconds
+and then for this square animation highlight all
+of the frames again right click and go down to
+easy ease or we can do the f9 on the
+keyboard again and also then come into
+this section and do what we
+did before but with the square
+there are different ways to do this but this is
+one easy and a very quick way to be doing this
+as you can see the preview is
+looking pretty neat already
+and if i drop down a square again you
+can see where there's an offset option
+here click this one at the start and then at the
+end click another keyframe and then just make it
+do one iteration as in one times one x and do
+the same thing again using the f9 or coming up
+to the graph here and that's just going to make
+the stroke move along as it's doing animation
+and now we're going to rotate the actual
+rectangle box as it animates so at a start
+add a keyframe then move to two seconds
+and then add a rotation of 180 degrees
+and again you've got that generic boring kind
+of steady animated sequence and as we did before
+highlight all of the keyframes with f9 and then
+edit things again to make it more interesting
+there are plugins for this kind
+of stuff but this is how you do
+it manually and it's always good to know of course
+we're now going to tidy things up before we
+move on to next parts and we're going to group
+all of the layers apart from the background layer
+so click hold down shift and then click to
+highlight everything and then right click
+and hit pre compose we're going to add some
+flashy different color effects to our animation
+this is all about adding more style in this
+section and so to do this firstly unlock the
+background click on the logo top layer which is
+our animation come over here and type in fill
+if you double click that it's going to default
+to red but we can then edit the color here so
+i'm going to change it to white from the default
+red and i want to add a fill onto both of the
+two layers and you need to make sure it's the same
+color as it currently is and you will soon see why
+so you basically need to add a fill effect to
+each layer so you can animate them properly add
+fills to both layers that you want animating
+and color them to their current color this is
+your starting point and then scrub to a frame
+later and change the colors to the alternative
+color this will give you the flash then copy
+and paste the first frame to one frame after
+and then go back to the original we're
+then going to set a keyframe for both
+of these in the drop down and you do that
+by clicking like so and then if we nudge
+over one frame we can then reverse
+the colors with this arrow icon
+so we're then going to just simply change around
+the black to the white and the white to the black
+and then we can actually copy the keyframe
+and it will make a little flash like so
+and i'm actually going to
+duplicate this flash twice
+and you can do that by command c and
+then command v or control c and control
+v
+you can actually drag out the keyframes like so
+to increase the amount of time spent on the flash
+just having three keyframes for a flash would
+only mean it will show for one frame if you
+add another flash frame and then spread
+it out it will last longer and again i'm
+just duplicating the flash over to the
+right here you most likely do a lot of
+playing around with your flashes until you
+feel like it fits your animation properly
+we're now going to change the scale of the
+logo and it's going to be starting at around 20
+larger and then ending up
+in this size position now
+but first we're going to tidy up the layers here
+so press ctrl a to select everything and then
+press u on your keyboard and voila it collapses
+everything so it keeps things just nice and neat
+so click on the logo layer because
+that's what we want to scale
+press s on the keyboard and that's going to bring
+up the scale property and then press the stopwatch
+here at the beginning and then press on the two
+second mark when everything ends in our animation
+and then we go back to the
+start and press 120 in the scale
+as the animation plays out the logo kind
+of scales down a tiny bit it just adds more
+intrigue you know to the design and of course
+like we've done before highlight all layers
+and then come into a keyframe assistant and
+easy's and bringing out those arms to the center
+but the flashes are not in line with
+each other which is pretty important
+to get right and i'm going to
+bring them back a bit as well
+and the scale down isn't too obvious so
+i'm going to change that to 175 percent
+and i do feel like these keyframes aren't in
+time properly so select them
+all and then press shift alt
+and then press the left right button and that's
+going to shift them 10 keyframes to left to right
+now that's looking pretty good as i said
+but we can add an extra little bit on
+to the end of this animation we're going to
+actually add in a line stroke that's going to
+lie over the original stroke so
+we're going to duplicate this layer
+of the actual square and that's
+just command or control d
+and on the duplication we're going
+to get rid of these properties
+and we're going to pick whip this one
+here so they're kind of connected as we
+said earlier with the matte so essentially
+we now have two layers doing the same thing
+and you won't even be able to tell the
+difference that there are two different layers
+we're going to rename this one small and we're
+gonna go into it and you can resize it up here
+but to go even further we can come into the
+you know the smaller one here and then come
+into the stroke drop down menu within it and then
+see in the dashes section we can add the dashes
+if you press it once we can't actually see
+the gap so you need to press it twice to
+bring up the gap option as well and then we
+can control the distance between each dash
+like in illustrator it's the same kind
+of principle when working with strict
+dashes
+and of course again come up here to change the
+stroke weight and as before press ctrl a and
+then also u to collapse everything in your layers
+window and there we have the animation and we're
+going to go back to the main composition and here
+we go it's all come together pretty well and yeah
+this was a first after effects design tutorial
+on my channel but if you'd like to see some more
+broken down tutorials on tips or different parts
+of after effects and how to get into after effects
+do let me know down below but of course until
+next time guys design your future today peace

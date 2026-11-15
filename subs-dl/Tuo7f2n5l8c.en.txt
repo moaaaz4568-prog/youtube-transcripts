@@ -1,0 +1,498 @@
+At approximately 4:47 this afternoon,
+one of my kids is going to come up to me
+and be like, "Mom, what's for dinner?"
+And if I have not got my together
+and sorted out a plan, I am going to get
+the dinner dread come over me and go to
+the fridge, open it, look in it, there's
+nothing in there that I fancy cooking,
+all the stuff I don't fancy cooking
+screaming at me, "Dear, we're going to
+go off in a minute, you need to eat us."
+And I'm probably going to just start
+eyeing up that bottle of wine definitely
+bought to make a risotto and also
+feeling for Deliveroo on my phone in my
+pocket because the truth is, I messed up
+again. I have not been organized. I've
+been too busy. Life's too chaotic. And
+well, that's just the way it goes when
+you run a business and you've got four
+kids. Until I created a system that
+takes the stress out of dinner time. And
+when the kids say to me, "Mom, what's
+for dinner?" I just open my phone, I
+have a look, and I tell them, and it's
+all pre-organized and pre-sorted. And I
+want to walk you through that system
+today so that you can, if you like it
+and you want to try it on and see how it
+fits, try it for your family or your
+household and see if it makes a
+difference.
+And so, my first digital iteration of
+the system was to put together a
+cookbook on Canva, my recipes to this
+cookbook. The other thing that I created
+was I have a reminders list, and this
+looks quite difficult to get your head
+around when you look at it like this,
+but reminders on my phone called the
+menu, and in the menu, I would type out
+like the days of the week, and I would
+put next to Monday and Tuesday what we
+were having for dinner that day of the
+week. And to get inspiration, I just
+scroll down to get past that. You can
+see that I've got like Monday, Tuesday,
+Wednesday, Thursday, Friday all kind of
+here laid out every single week. And I
+would basically scroll down to my recipe
+list, and then when I'm doing my
+shopping list, I've got those things in
+mind. Okay, what do I need for Malaysian
+chicken curry? Let's have a look at the
+recipe. And so I start to build the
+shopping list based on what we're eating
+this week.
+Well,
+the next iteration, welcome dawn of AI.
+What happens next? Is I decide to build
+the ideal thing for executing this
+system perfectly. And I built it
+initially on Base 44. It was a good
+start. It was all right. It was really
+fun, actually, seeing your ideas turn
+into something is really, really fun, as
+we all know with generating pictures of
+ourselves as something strange on Chat
+GPT. But what was really annoying about
+Base 44 is they have two different types
+of credits. And one of the types of
+credits is just building something, you
+know, you type in and you say, "Oh, can
+you make that button pink? And can you
+do this? And can you do that?" And it
+uses those credits. Another type of
+credit it uses is called integration
+credits. And integration credits are
+credits for using things that you have
+integrated. So I integrated my own AI
+into my app, and it was charging me for
+using those integration credits. It
+turns out the system had built this
+thing where it used integration credits
+like crazy, because every time I added
+one recipe, it updated all the other
+recipes. At this point it had like 50
+recipes in there. So 50 recipes got
+updated all in one go, and all the
+integration credits went.
+And it even recognized that it had built
+that wrong. So I built I basically took
+everything off the I built so far, moved
+to Lovable, and I love Lovable. Reason
+being is because they give you five free
+credits a day. Even if you're on a paid
+plan, you get your five free credits on
+top of that. So the paid plan is like
+what, $20 a month, and you get 100
+credits a month. Nope, you get 105. I I
+like that. That's really nice. It also
+means that even if you run out of
+credits, you can pick up and start
+working on it again the next day. And
+there's no integration credits. That is
+not a thing. It's just
+credits. And so that was really cool and
+I moved to there and I really like it.
+And now since then I've actually built a
+couple of other bits of software and
+apps and I'm doing all in Cloud Code. So
+what's really nice about Lovable is it
+takes out lots of the techy stuff and
+you can just build an app in there and
+hit publish and it's published. So I'm
+going to show you the app that I've
+built to systematize dinner and then I'm
+also going to show you how you can get a
+copy of it to use yourself. So this is
+the cookbook that I have built. Now what
+is really cool about this is that we
+have everything that I've told you about
+that I've been doing. We have all the
+all the recipes in the cookbook. This is
+everything that I've saved and so I've
+taken a picture of the recipe and then
+it's uploaded into here. And that's how
+it works on this cookbook. Is that if
+there's something that you want to cook,
+you basically put the recipe in here.
+Now if you've already got if it's
+already a recipe in your house that you
+you always use that you love that you
+want to then you just put it in there
+and then press the button and press the
+plus button. But if you want to take a
+picture of a cookbook or a recipe card
+or something someone sent you and said,
+"Oh my god, you need to try this." You
+can upload that. And if you haven't had
+this before, you can toggle on the
+recipes to try button because in our
+house we love to try new foods and then
+we go, "Ooh, is it on the menu this
+week? Do we love this? Is this like is
+this staying?" And so we have a recipe
+to try and then in the to try section I
+can just get the kids to go either keep
+or reject. Um so for instance Nashville
+hot cauliflower is something I really
+wanted to try um and so we can basically
+decide whether we are keeping that or
+binning it once we've tried it. So we
+have this cookbook. Few ways you can
+upload into this. Firstly, you can just
+paste a URL. So we can go to uh BBC Good
+Food. You can say, "Okay, I really want
+to try this cauliflower olive and lentil
+tagine." And then come back into the
+cookbook, you just basically paste it
+here, toggle on recipe to try, and then
+press the plus button, and it's going to
+turn up in the to try section once it's
+been processed, and here it is. You
+might need to refresh the page, and here
+it is. Cauliflower olive and lentil
+tagine. Ingredients here, and
+instructions. Now, I've also made it so
+that it's really simple to edit the
+recipes because one of the great things
+about writing down your own recipes and
+having a place where your own recipes
+are stored is that you can edit them and
+make them your own. The first thing I
+absolutely hate about reading other
+people's recipes is all the bloody fluff
+that they put in. Like, I don't need to
+be taught how to peel a potato. Just
+tell me peel potatoes. I don't need to
+be taught how to how to slice a
+cucumber. Just tell me cucumbers sliced.
+So, I like to take all of the fluff out
+of recipes and just have the simple
+steps. Job done. And so, I've also built
+in this AI section where you can then go
+changes to make, and you go, "Okay,
+well, actually, I really don't like
+cinnamon. So, we're going to take the
+cinnamon out." Or, let's say you did an
+accident. Like, I accidentally put the
+courgettes in first this time, and it
+was divine. Then you can go, "Oh, change
+this to do XYZ." Right? So, for the
+purpose of this, I'm going to be like,
+"I hate cinnamon. Remove. Plus, organize
+the ingredients and make the whole thing
+clearer and give me at a glance
+clarity." And if I click on that, it's
+now going to reorganize things for us
+and take out that cinnamon. So, now
+we've got produce, pantry, and spices,
+and then ingredients. Happy days. So,
+you can just make any changes to things
+that you want to as you go along. So,
+that is the cookbook and the recipes to
+try and how to add things in. Then we
+have the weekly menu. So, you've got
+Monday through Sunday, and then you can
+basically add what you want to eat that
+week. So, obviously, I've added things
+already cuz this is what I'm actually
+using. We had this last night. I have to
+say I did not like it. And when I'm
+organizing this, so I'll sit and do this
+on a Sunday and I'll go through
+everything and I'll click right what
+we're going to eat Monday and I'll go
+through the recipes and I can search for
+stuff. So, I can be like, "Okay, we want
+something chicken." Chicken on Mondays
+is good. And I'm now going through all
+the chicken stuff. Now, you can also see
+that I haven't added photos to all of
+these things yet. It's just something
+that I can do as I go. planned that we
+were going to add real pictures of the
+actual food. I have not kept up with
+that. You could just ask AI to add them,
+but you might just eat loads of credits.
+So, anyway, I'll I'll just add them as I
+go. I'm like, "Oh, okay, Amos is going
+to cook his breaded chicken on Monday.
+We're going to do that." And then when
+I'm going through on the shopping list
+and and I'm thinking about, "Okay, we
+need to go shopping to buy everything we
+need." I've now got this weekly menu and
+I can click the down arrow on the items
+here and I can go right, "We need some
+panko breadcrumbs. We are out of those.
+Uh paprika, we've run out and potatoes
+we're going to need. Uh oh, vegetable
+oil, we are running out." And I can go
+through all these recipes and basically
+add anything that we are missing that we
+need. And then inside the shopping list,
+these things are going to show up.
+They're not just going to show up
+though, they're going to show up
+organized into what supermarket aisle
+they're probably going to be found in.
+Now, that's based on a tagging system,
+not AI. And so, what that means is
+sometimes it gets it wrong. So, if it
+does, because you're like, "Okay, so
+drinks has put a lime in drinks." That's
+understandable. It's a zest and juice of
+a lime. That might be That's an easy
+mistake for it to make. So, I can just
+drag it into fruit and veg and here it
+is in the fruit and veg section ready to
+go. Now, what I love about this is that
+when I'm shopping, I want on my list in
+organized places where I need to go in
+the supermarket. I don't want to have to
+sort that myself because that's a
+mission and this shopping list is auto
+sorted into aisles for me. Takes out
+thinking, stress, walking around, you
+know, getting the chicken and then
+realizing towards the end of the shop
+that the sausages are at the bottom of
+the list and I need to go back to the
+meat aisle again. And even better, if
+you want to do the shop online, you're
+going to also save more money because
+realistically, when we go into a
+supermarket, we spend more than if we do
+online shopping. And so if you're
+wanting to shop on a budget and get
+everything you need for a healthy
+dinner, then creating this list and then
+doing it online, you're going to get
+absolutely everything you need. There's
+going to be minimal wastage. And so
+you're really organized, you've got
+everything there ready to go. And so
+you've got the shopping list here, you
+can add to it. So I can go, "Okay, I
+also need some washing powder." Cuz
+obviously that isn't on any of the
+ingredients.
+Um we don't eat washing powder in this
+house. And so that should end up in
+household, but it didn't. And if it
+doesn't, that's fine. You can actually
+just move it into household, like that.
+So there we have it. That is my
+cookbook. And that is how I manage and
+run the food for a family of six and not
+waste much and do it on a budget. So if
+you want to grab that cookbook and get
+the entire app copied over to your own
+Free Lovable account, so you can
+customize it, make it your own, have a
+little play around with Lovable and how
+it works, and systemize dinner time as a
+project, then come to this page here.
+The link is in the description of this
+video and grab the cookbook for 27 quid.
+And what I've also got thrown in there
+for you is all of my recipes to get you
+started, so you're not starting with a
+blank page. And so that you can go
+through them all and decide whether you
+want to try them or ditch them. And
+they're all there for you. And trust me,
+my family absolutely love a lot of these
+recipes and they've been wanting to get
+their hands on my cookbook for so long.
+I'm often sending pictures of things,
+but now Now got this, I can just give it
+to them. They're going to be super
+happy. But yeah, so you can get the
+cookbook and also all of my recipes, 27
+quid, yours to keep. Um and this isn't
+you entering my app. This is you
+building your own app. So how that works
+is, so when you get access to the link,
+it will take you to a page that looks
+like this. If you don't have a Lovable
+account, you will just be creating your
+free Lovable account. Then, once you've
+logged in or you've created your free
+Lovable account, see this, Corky's
+Cookbook, and there's a remix button at
+the top. If you hit remix, you can then
+decide what you name it. So you could
+call it Sandra's Cookbook,
+if that's your name,
+or whatever you want to call it. And
+it's now going to go through and remix
+that project and set everything up for
+you. It's just copying it all into your
+own Lovable account. Remember, you have
+five credits for free on this account,
+and so you're only going to be able to
+edit a couple of things today, and then
+you'll have to come back tomorrow. And I
+recommend you edit the name of the
+cookbook and even the color, if you want
+to, to make it your own, and then add in
+my recipes as well. Um but you're also
+going to need to create your own login
+credentials. And so I'm going to show
+you how to do that. So we are in. To
+find out how many credits you've got
+left, you can click on this purple
+upgrade button, and you can see that
+we've got five remaining credits left.
+If you wanted to upgrade and get the
+paid version, you can. It's 22 quid per
+month, um and that gives you 100
+credits. That is perfectly enough for
+creating um a quite a a medium-sized
+project, I would say, depending on uh
+what you want to create it for. But for
+this, for just creating your cookbook, I
+would say just stick with the free one,
+and you can have up to 30 a month and
+five credits per day. So how it works
+then is that we want to have your own
+login, because there is a login to get
+access to the recipes, because this is
+an app that's published on the internet,
+you need to create login. So, I'm going
+to type in here, help me create a login.
+Email is cordeliak@gmail.com.
+Password is 1 2 3 4 5 6 7 8 9. It's just
+my cookbook app. So, that is going to
+create those logins for me. Now, what I
+can do is copy this in and and get ready
+for it to tell me that those logins are
+ready. 1 2 3 4 5 6 7 8 9. Yeah, it's
+asking me to change my password. Let's
+just do it, whatever.
+And there we go. It says that my account
+has been created. So, I should be able
+to just sign in and here we are. I'm in.
+So, now I'm in, the next thing that I
+want to do is upload all the recipes and
+you have got a zip file that was emailed
+to you with the cookbook when you grab
+it. And so, if you want to grab all of
+my recipes and start this from having a
+load of recipes in there for you to go
+through and try rather than start from a
+blank uh screen, then all you need to do
+is grab the recipes that I give you with
+this cookbook, unzip them, and then drop
+them into the chat here and it will just
+import the starter recipes for you and
+you will then start with a load of
+recipes already imported. And another
+thing that you can do is change the
+branding. So, you probably only got
+enough credits. Let's just have a look,
+see how many we've got. Okay, we've got
+3.4 credits left, so that's pretty good
+going. We could probably change this
+change branding to Sandra's cookbook and
+make it more girly and unicorn-like.
+There we go, let's see what it does. So,
+it's offering us what kind of color
+scheme we want. So, it's like, "Ooh,
+quite like the yellow and green." Go
+with that one. How do we want our fonts,
+etc.? Quite like that one. The cookbook
+pages, ooh, I like the idea of mixed.
+Yeah, that's great. Let's go with
+whatever it's saying and see what
+happens. And this is the fun part. You
+get to make it your own.
+And oh gosh, here it is. Sandra's
+cookbook.
+It is ready. It looks like it's been
+stood on.
+But there we go. Happy days. And you
+know, you just make it your own. If you
+don't like it, you want to change it,
+you can. It's there for you to do
+whatever you want to it. It is yours.
+You've bought it. It's your own. Make it
+yours. Okay, and now we have the
+cookbook ready. What we want to do is
+publish it so that you can access it
+from the website, but also from your
+phone. I'm going to show you how to turn
+it into an app really easily without
+needing to put it on the App Store. You
+hit the publish button and it's going to
+be published to
+recipe-rebuild.hub-hub.lovable.app.
+You can edit that if you want to. You
+can also add a custom domain if you have
+a pro account and you think it's worth
+the time and effort to do that, then go
+for it. Um but I'm going to hit continue
+and public. Anyone can access it. Uh
+it's got a login page anyway. Hit
+continue, hit continue, and publish. And
+then essentially what that's going to do
+is unpublish that to
+the link that we just shared. So if I
+pop that in there, you'll see that that
+is now published on the website,
+Sandra's cookbook, and you can sign in
+using the sign in details that would you
+just created. So, now we've got that,
+what we can do is take that link and
+drop it into your phone. Take that link
+and open Google Chrome on your phone,
+and then click the link that allows you
+to save that to the desktop, and then
+when you open that from the desktop of
+your phone, it will be like opening an
+app on your phone, so that you can sit
+on your phone with that app open and go
+through your cookbook and select what
+you're going to have for dinner this
+week, sort your shopping list out, do
+your online shop, or get ready to go to
+the supermarket. Easy peasy, lemon
+squeezy.
+Now, the great thing about that is that
+it means I'm not spending loads of money
+when I go shopping on stuff we're not
+going to eat. I know exactly what we're
+going to eat this week. And look, I've
+got a family of six and a dog that we
+cook for as well. So, there are seven
+mouths being fed in this house.
+And I could quite easily go and spend
+250 pounds on shopping and then waste 70
+pounds worth of food if I'm not
+organized with what we're actually going
+to eat. Anyway, that's all for me today.
+My name is Cordelia Kate. And if you
+like this video, please do hit the
+subscribe button and also share it with
+any of your friends that you think need
+to know about this. Like, have you got
+any chaotic dinner time friends that
+like just could do with becoming a
+developer like you and building your own
+app, then do share this with with them.
+Um all right, lots of love. Thank you
+very much. Bye.

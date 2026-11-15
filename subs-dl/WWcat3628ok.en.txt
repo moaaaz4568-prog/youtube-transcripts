@@ -1,0 +1,639 @@
+Welcome everybody. Hey, I'm Kudali Kate
+and in the next 20 minutes we're going
+to be building a brand voice prompt in
+Claude, [music] not ChatGPT, that makes
+your AI sound like you actually wrote
+it. And you're going to walk away with a
+voice profile and a working prompt that
+you can drop into every single AI
+conversation you have regardless of
+whether it's got a memory of what you
+and your business are and are about.
+You're going to be able to drop that
+voice prompt in with every single prompt
+that you use to get your AI outputs
+sounding more like you. Because right
+now, you're possibly rewriting half of
+what ChatGPT gives you or maybe you're
+just putting it out anyway, but you
+know, you've got this inkling feeling in
+the bottom of your tummy that tells you
+it doesn't quite sound like me, does it?
+It hasn't quite got the edge. Not quite
+got my quirk. It's not quite there. And
+so today we're going to fix that. And
+this is going to be game-changing
+because it means that we can be
+producing AI content off the back of how
+we sound and what it is that makes us
+human. And this is how we should be
+using AI. We want to take AI and get it
+to elevate our humanness and make us
+more human rather than outsourcing our
+personality to AI and becoming part of
+the AI soup that is becoming social
+media. You know, here's the thing is
+that like we're in the middle of the
+beginnings of the AI revolution, right?
+And everybody's using it to make their
+lives easier. You know, we've got people
+that are replacing staff members and
+there's this fear of oh my god, I'm
+going to get replaced by AI. And it's
+valid. There is a whole conversation to
+be had on this topic. But where I see
+people going wrong with this is they are
+outsourcing to AI the human element and
+they are turning themselves into AI slop
+by just basically getting AI to create
+content for you without adding in that
+human element. So, what we're going to
+do is we're going to use AI to create
+all this amazing stuff for us, but we're
+going to give it a high-quality human
+input, so we get a human-like output
+that sounds like you, that feels like
+you. And if we can start reframing how
+we think about AI doing work for us,
+instead of it being it takes on jobs and
+it does work for us, it's helping us
+actually elevate the stuff we're doing.
+The things that you need to keep doing
+are things like this. Get on video, talk
+to your people, you know, record
+yourself, record your voice, have these
+human conversations with your audience,
+and then use AI to take that to the next
+level. And that is what I'm about, and
+that is what I am teaching you here is a
+strategy for getting AI to take your
+humanness to the next level. But what AI
+will never be able to replicate fully
+and replace fully is you and your
+personality. And we need to always be
+feeding so what we want to do is get it
+to multiply your actual self rather than
+replace your actual self. But for today,
+what we're going to do is we're going to
+create a prompt that gets you
+producing content that sounds like you.
+So, what we need is we're going to use
+Claude for this. The way that it kind of
+pushes back and strategizes with you and
+the way that it actually doesn't blow
+like smoke up your ass. Like it tells
+you straight. It's like, "This is a bad
+idea, Claudia. Don't do that." Or,
+"You're onto something." And that kind
+of guidance is actually really nice
+rather than ChatGPT that just tells you
+everything you say is wonderful. "Do you
+are amazing." And then just thinks that
+you are the most amazing person in the
+world, which is nice. It's validating,
+but it's frustrating when you're trying
+to create something that's good quality.
+So, that's one reason why I like Claude,
+but also I'm getting much better outputs
+from it. So, you can use a free Claude
+account. You don't have to get paid
+Claude for this to work. You can use
+ChatGPT. I've created these on chat GPT,
+but my preference is Claude. I think
+you're going to get a much better output
+with Claude. And just to kind of show
+you the difference, I'm going to share
+my screen and let's let's just have a
+look at Okay. So, here is chat GPT and I
+have I've specifically done this in
+incognito mode so that we are logged out
+of any memory and it just is fresh and
+also as basic as possible. And this is a
+kind of prompt you might put into to
+chat GPT when you want to create some
+content. Hopefully, you're using a bit
+more of a sophisticated prompt than
+this, but you know, won't blame you.
+We've all We've all been there. And as
+you can see, this is the output. Now,
+what's wrong with this output? Let's
+have a look. If you're a small business
+owner, your email list isn't just a
+marketing tool. Okay, here's problem
+number one. Problem number one is we
+have a M dash. I don't know if you've
+noticed this, but people are pushing
+back on AI generated content. So, if
+you're creating content that has an M
+dash in it, it is big giveaway AI
+content. What's going to happen is most
+people are going to get to this part of
+it and go, "Oh yeah, they didn't write
+this. I can't be bothered to read it."
+You are trying to get people's
+attention. Attention is a currency. So,
+we going to make sure that we do not
+have this inside our prompt. By the end
+of today, you're going to have a voice
+prompt, but you're also going to have a
+humanizing section that makes it pretty
+human as well. But we're going to make
+sure those never show up in your copy
+ever again. It's one of your most
+valuable business assets. Here's why.
+You own it. Unlike followers on social
+platforms like Instagram and Facebook,
+your email list belongs to you. No
+algorithm changes, no sudden reach
+drops, no platform shutdowns, direct
+access to your audience anytime. Now,
+look, there's nothing structurally awful
+about this apart from it's missing one
+key thing, your personality. Anybody can
+produce this. Anybody can. And it's
+getting easier and easier and easier.
+Like someone could come onto social
+media and start going, "Right, I'm going
+to position myself as a business coach.
+I'm going to help people build an email
+list and help people get sales and da da
+da and they could just get chat GPT to
+create all the content, but they will be
+exactly the same as everybody else on
+the internet doing exactly the same
+thing, which means that the competition
+is going to be really really high
+because you've got to also compete with
+all this other AI generated content and
+there is so much AI generated content
+everywhere. That it's very very to cut
+through the noise. But that means it's a
+really good opportunity for you guys.
+It's because whilst loads of people are
+just using prompts like that on chat GPT
+to get less than mediocre output.
+Technically speaking, it's teaching the
+right message. It's explaining the right
+things. It's got the right information
+and it's a structural way that is able
+to be absorbed well and you know, it's
+not bad, but the thing that it's missing
+is personality. It's missing the edge
+that makes you human. And if you can
+encapsulate that edge and make sure that
+it uses that, then you're going to have
+an edge against all the other content
+out there on social media because it is
+you. And look, I've been saying this for
+a long time, but it is more relevant now
+than it has ever been before. You are
+the most important asset in your
+business and I know that sounds cliche,
+but hear me out a second. There are
+billions of people out there and there
+is only one of you. And that means that
+nobody else can really do you as well as
+you can do you. And so you want to
+capitalize on that and do you really
+well so that you are being the wildest
+most extreme version of yourself. And I
+don't mean that means you need to be
+crazy and you need to be wild because it
+has become so easy to create a faceless
+brand and it has become so easy to just
+turn out a load of lukewarm crappy
+content using chat GPT or even Claude
+that doesn't have your edge and doesn't
+have your personality. But what that
+means is that you're in high competition
+with everybody else on the internet that
+can do that now at the click of a button
+really, really easily. So you the thing
+that's going to make you stand out isn't
+being better at your job or having a
+better set of features in your program.
+It is your personality. It is the thing
+that makes you human. So we're going to
+give it the human input so that it can
+replicate that and then output it. But
+in terms of just asking it to do stuff,
+you could say to it, "Oh, be more
+human." It doesn't understand that. It's
+not going to just become more human cuz
+you told it to. You've got to tell it
+what the nuances what the rhythm is and
+all these kind of things. So, just
+wanted to quickly let me go back on to
+here and just show you what the Claude
+output version is just so that you can
+see the difference of that prompt. Set
+exact same prompt put into Claude and I
+would say it's it's a lot better in
+terms of the structure already of it
+being a social media post. It's if you
+compare it to ChatGPT, it's given me
+hashtags for one. That's nice. It's
+given me a call to action, which is
+really nice. So, strategically it's a
+lot better in that sense. Whereas like
+ChatGPT has not given me anything that
+makes it strategically work in that way.
+And then in terms of the tone of voice
+or in terms of the structure of it, your
+social media following can disappear
+overnight. Your email list can't.
+Without even putting any serious prompt
+in there that's getting it to say who
+we're talking to, what the purpose of
+this post is, like why we're writing
+this post and what we're trying to get
+people to do off the back of it. It just
+kind of is like intuitively got it. This
+is pretty, pretty good. And then it's
+basically given us some useful content.
+If you haven't started yet, today's the
+best day to begin. Drop a heart in the
+comments if you're ready to start
+building yours or DM me and let's talk
+strategy. That's pretty good going
+considering the prompt is really crap
+and it's got no voice. But here's the
+thing. Anybody can create that. As you
+can see, like it was a case where you
+would get a crap output with chat GPT
+and it's like, okay, well, you need to
+understand what goes into creating a
+really good post and then you can get
+chat GPT to create good output. It's
+like, you know, if you understand
+copywriting and you understand
+marketing, then you're going to be able
+to mold this prompt so that it produces
+quality. But now you can see with
+Claude, it's like you don't even need to
+do that. You can put a really
+prompt in and you're getting good
+quality out. So it is becoming more and
+more important for you to find that edge
+with your humanness and you to use that
+in your prompts so they are like you and
+video content is important as well and
+that's what we're going to do actually
+today is we're going to take a
+transcript of some video content. But
+but I'm going to just say that we could
+create voice prompts for different
+scenarios. And the one that we're going
+to create today is we're going to create
+one for marketing content. So I'm going
+to take the transcript of me delivering
+marketing content, which is a live show
+episode. Now, when it comes to you
+finding a transcript or some kind of
+input, you want to have a think, where
+am I my most where am I at most myself
+in a setting that is suitable for the
+tone that I use when I'm creating
+marketing content. So it could be that
+you've got a live training session that
+you've done for your community or for
+your clients or for someone else's
+community. It could be a talk that you
+delivered on stage.
+It could be actually a piece of written
+content that you wrote yourself or you
+know really captures you. What you don't
+want to do is do what a lot of people
+might do by accident. Don't go and get a
+piece of copy that AI has written for
+you. Like a blog post on your site that
+you're like, yeah, that was really
+great. I really like that. I want to
+sound more like that. Because you're
+going to get AI content and you're going
+to plug it into AI and you're going to
+get it to create you AI content with
+that. And listen, when we start
+programming AI with AI to create stuff
+that's AI and we take the human side out
+of it, that's when we get AI slop that
+has got no personality, no edge, and is
+the same as all the other generic crap
+that's on the internet that we are
+literally swamped with at the moment.
+So, find yourself a a good chunky piece
+of copy. I'm going to get a transcript
+from an hour's long talking. Like,
+that's quite big. Doesn't have to be
+that big, but we you know, get something
+that's that's nice and chunky. And then
+go into Claude. Now, I'm going to use
+Opus 4.6 which is
+like the current best model on Claude.
+You could use Sonnet. You could use the
+free version, but I'm using the best
+because if I've got the best, I'm going
+to use the best. And in terms of
+copywriting, some of these models, like
+on Chat GPT, sometimes the best one
+actually was worse at copyright. 4.0 was
+great at copywriting and then 5.1 was
+like not that good. And it's because it
+was prioritized for more like coding
+stuff and I think it lost a bit of
+personality. Loads of people kicked off
+about it. But anyway, with Claude,
+actually Opus 4.6 is their most advanced
+model and it's their best writer as
+well. So, get yourself a transcript of
+some kind and then what we're going to
+do off the back of that is plug it into
+I've got a couple of prompts that I'm
+going to show you just now. And those
+prompts are going to be getting it to
+analyze your voice. This voice prompt,
+we're going to create it in two, maybe
+three steps. Let me just get my prompt
+open. Here's my prompt. I'm going to
+give you samples of my writing. I'm not
+actually. Let's change this. I'm going
+to give you samples of me speaking. I
+need you to do a deep analysis of my
+voice. Analyze these layers, rhythm and
+structure. This is really important. Do
+you know we speak with a rhythm? I
+interrupt myself a lot and then change
+direction and da da da. These are things
+that are human nuance. They make me me
+and it's super important to encapsulate
+part of that. Now, understand that if
+I'm still if I'm writing, I'm going to
+sound a little bit different than if I'm
+speaking because I'm not going to be
+including the ums and the likes and the
+you knows that I say way more than I
+wish I did. So, those things we don't
+necessarily want them. However, we what
+we want is rhythm and you'll find that
+when you have a look at content that
+ChatGPT's or Claude's or any LM has
+written for you, it's got a very AI
+rhythm. And that's one of the things
+that if we can break that rhythm, we'll
+start sounding more human. I use a lot
+of ellipses, a lot of like more than one
+exclamation marks, capitalize the odd
+word, you know, for instance, and
+there's a bit of emphasis in the way
+that I would write. So, just kind of
+breaks that rhythm. Now, then you will
+just paste. So, I'm just going to grab
+one and paste that there. Now, be
+prepared because this is a easy way you
+got to get a bit vulnerable. It's going
+to It's going to call me out on all my
+umming and a ring and how waffly I am.
+And that's okay. I don't care. Remember,
+those things are the things that make me
+human. That humaness is the thing that's
+going to be the most scarce and the most
+sought commodity in this ever-growing AI
+world that we are in. So, it's fine.
+It's fine. So, here we go. Your
+sentences swing wildly between long
+stacking run-ons and punchy fragments
+and that's the engine of your energy.
+Sounds like me. So, look, I'm not going
+to read you all of this, but you can
+have a read of your output that you get
+from this and you'll be like, "Whoa.
+Okay. This is interesting." Nice to have
+a bit of self-awareness of these things,
+but it's really important for
+encapsulating. You would not be able to
+encapsulate yourself that well. By the
+way, the angle it might be a bit that
+we've got a bit of a narrow view on
+this. So, I've given it one recording of
+me talking about systems. So, it's going
+to think I'm systems mad. It's not
+wrong. I am systems mad, but just to
+point that out that you might want to
+give it a bit bit of breadth if you find
+it's coming out with stuff that's too
+specific. So, the next prompt, now turn
+that analysis into a voice profile
+prompt I can paste into any future
+conversation. Let's say
+AI
+conversation. And that is now going to
+give me my prompt. And then we're going
+to be able to test it, basically, and
+see see if it worked. Now, I have also
+got a humanizing element. Let me grab
+you my voice prompt that I'm using at
+the moment. It's a bit smaller than This
+is kind of a a generic thing. There is
+here speak like a human. This is step
+three. This speak like a human is a
+generic humanizer that I've been using
+for my blog post, which is really,
+really lovely because it makes sure that
+that sentence structure is broken up and
+that you're not being too AI generic. It
+may not necessarily be needed because
+this is this voice prompt is so large
+that it may already have these things in
+here. But the third prompt is just to
+run it through this. Is there anything
+from the following humanizer prompt that
+would be good to add in? One thing that
+I would specifically add in, there is
+something that AI does all the flipping
+time and it drives me mad. It's just
+obvious that something's been written
+with AI when it's got this in it. You
+know when it says, "I'm not talking
+this. I'm not talking that. I'm talking
+this." I It's so annoying. I've been
+told this is a staccato sentence
+structure, but it's a also an a negation
+pivot construction. It's not about X,
+it's about Y. It drives me mad. AI does
+this with every output and if someone is
+used to seeing AI and they understand
+AI, if your audience are business owners
+and they're using AI, man, they're going
+to sniff it out. They're going to sniff
+it out fast. Just as fast as an M dash.
+So, I'm including this as well. Never
+use that. And so, it may not have picked
+that up because it's taking it from my
+I'm just having a look at these never
+uses. It hasn't got that there. But,
+it's taking this from my voice. It's not
+taking this from So, I think it's
+important to add in this humanizing
+layer. So, is there anything from the
+following humanizer prompts that would
+be good to add into in into this? I
+specifically
+want you to
+make sure the I'm just going to copy
+that. Negation pivot constructions
+always avoided. And then we'll just
+basically add in that humanizer layer.
+And it's saying yes, it thinks it should
+do that. The negation pivot ban is
+important, but needs nuance for your
+voice. I'm not going to spend too much
+time like pouring over this. I think you
+could spend a bit of time doing that.
+But, let's we'll say great. Update the
+prompt. And then it's going to do that.
+So, let's just grab an example social
+post. So, we're going to say, "Write a
+social post about why email list
+building still matters in 2026." And
+we're in Claude. So, we might just go
+Let's Let's create a new chat. I'm in a
+in a test account, as you can see. Let's
+paste that in there using my voice
+profile below. And so, this will be
+inserted into anything that you're
+doing. Now, look, you could actually do
+this in a few steps. And I find that
+when we do things in a few steps, we
+actually get a better output. So, if you
+asked it to create the structure of
+copy, then write the copy, and then you
+put it through your voice profile, that
+would be three steps. And you'd probably
+get a much better output than trying to
+get it to do everything in one go. For
+the purpose of time and just to make
+this easy, I'm going to show you the
+simplified way. And then you might even
+you might even go structure, substance,
+voice, SEO, HTML, you know, if you're
+doing a blog post. But, for the the of
+this, let's grab the Cordelia Cape voice
+profile and let's see what it does.
+Okay, I can just press copy at the
+bottom. There we go. Copy. I love that
+Claude doesn't give you all the wrap
+around crap as well. Like, "That's a
+great idea." As the chat GPT does it, it
+goes, "That's a great idea. Oh my god,
+you're so amazing. I'm going to create a
+voice profile for you now." I just
+realized as well that Anyway. So, we're
+going to post that in and let's see.
+Does it feel like me? Okay. So, I want
+to talk to you about email list because
+I feel like every few months someone
+posts something that's basically "Email
+is dead. Stop bothering." And then I
+just No, no, it's not. It doesn't
+[laughter] actually sound like me. So,
+that's funny. And this is another
+example as to why we want to break
+things into steps because what we've got
+here is we've got a post that is focused
+on sounding rambly like me, whereas what
+would be better is if we've got a a post
+that's been structured well. So, let's
+do this Let's do this again without the
+voice prompt and then we're going to use
+the voice prompt as a step two. I'm just
+going to grab it from my last copied
+things. Oh.
+Pasted it twice. Okay, so you see what
+we've got here is we've got a It's
+prioritizing the fact that this is a
+social post. And so, it started with a
+relate statement rather than started
+with trying to be my voice, which is
+what the previous one did. Everyone's
+chasing followers, algorithms change
+overnight, platforms die. Your email
+list, that's yours. This is a really
+good like It's the same structure as
+we've got before in the example, but
+it's a really good structure for a post.
+It's prioritizing the fact that this is
+a post rather than prioritizing that
+this is me speaking. So, with language
+models, when you ask for edits, it
+generally doesn't restructure the post,
+it just edits the words on it. A bit
+like, let's say it created a dress and
+then you go, "Oh, edit it so it looks
+more chic." It's just going to change
+the color of the dress. It's not going
+to change the shape of the dress, right?
+So, it doesn't change the shape of the
+copy, it just changes the dressing of
+the copy, if that makes sense. And so,
+it should Oh, LinkedIn. The LinkedIn
+version. Any specific angle or personal
+experience you want woven in and to keep
+it general. Right. Okay, so I know
+everyone's obsessed with follower
+accounts and going viral and all of
+that. And looking Look, I get it. It's
+exciting when a post takes off and the
+numbers go up and you feel like the
+algorithm is finally finally on your
+side and then it isn't, right? It sounds
+so much more like me. Now, what I might
+do is try a few posts and then go back
+to Claude and say, "Look, this is great,
+but it's a bit over the top." Starting
+posts with okay and then adding in right
+It it it's how I speak, but it's not how
+I write. I write with a little bit more
+grammatical correctness, but I want it
+to still have the edge of my
+personality. And I'm back and forth
+testing it and tweaking it and testing
+it and tweaking it until I've got
+something that sounds just like me. And
+that is how you create your voice prompt
+and essentially what you can then do is
+run everything that you create on social
+media through that. So, that when you
+are putting out a post, it is a post
+that's come from you, that your people
+feel like it's something that you have
+said. And that is really really
+important because honestly, we are
+swamped with the generic AI slop right
+now. And everyone is getting sick of it.
+And that doesn't mean you should stop
+using AI. Like, we are not going back
+and getting chalk and chalkboards and
+putting signs outside. Okay, that's not
+going to happen. You you can't put it
+back in the box. Like, use it. It's
+there. These tools are there to use and
+everyone else is using them. And if you
+don't use them, you are going to be left
+behind. But use them smartly. Use them
+in a way that elevates your humanness.
+Encapsulate that. And if you aren't
+doing anything that is video that you
+can get transcripts from, that needs to
+be your priority. Prioritize elevating
+your human content with AI. That is all
+from me. I hope that has been helpful.
+Let me know in the comments if you have
+any questions. I would love to answer
+them. And go enjoy creating your voice
+prompt. But that's all from me.
+My name's Cordelia Kate. This is the
+Marketing Strategy Show. It's been
+awesome to have you here and I will see
+you next Tuesday. Have a bloody
+wonderful one, guys. And [music]
+yeah, speak soon. Bye.

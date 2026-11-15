@@ -1,0 +1,807 @@
+[Music]
+welcome to bite-sized agency briefs a
+webinar series that packs a ton of
+important Agency information on one
+topic from one expert into a 25-minute
+brief why 25 minutes because who has the
+attention span for much more these days
+and you can squeeze in a listen between
+meetings with time for a bathroom break
+or coffee refill before your next
+meeting
+thanks for tuning in this is bite size
+agency briefs I'm your host Steve
+gooberman from agency outside where I
+coach agency owners to build the agency
+of their dreams I'm really excited to be
+here with Marcel pettopass I hope I
+didn't butcher that uh Marcel is the CEO
+and founder of parakeeto a company
+that's dedicated to helping agencies
+measure and improve their profitability
+by streamlining their operations and
+Reporting systems these are problems
+that Marcel found in running his own
+agency in his early 20s and uh Marcel
+thanks for joining me it's a pleasure to
+be here Steve thanks for having me yeah
+I'm excited uh I've I've seen parakeeto
+for a long time probably since about the
+launch kind of in the agency ecosphere
+so it's an honor to have this time with
+you and share some of the knowledge that
+you've gained over the years give the
+quick backstory agency life launching
+periquito what led up to it and how'd
+you get to where you are now yeah um the
+real quick story is that my first
+business ever was an agency we were
+doing uh real estate virtual reality
+services so creating 3D models of houses
+um back before you could do that with
+your iPhone
+um and you know I became familiar with
+the challenges of trying to be
+profitable enough to scale operations to
+hire other people to do the work
+um to pay for overhead and all that kind
+of stuff and at the time real estate
+market was a little different than it is
+uh today although the day we're
+recording this like we're talking about
+another housing crash though I don't
+really know but at that time in my city
+it was very much a buyer's market houses
+were sitting for a long time the average
+price of a home was like 150 000
+Canadian pesos so real estate agents
+were pretty
+um
+pretty hesitant to invest a lot of money
+in their listings and I had really tight
+margins and I've kind of figured out
+really early on that there wasn't enough
+margin there to scale that business
+without me being the one doing the work
+so I walked away from that but you know
+was viscerally aware of just how hard it
+was to answer simple questions like are
+we making money on clients and projects
+and like do we have enough work to keep
+somebody utilized and kind of running
+through all those numbers on my own and
+trying to bring the data together from
+all the different places that existed to
+do that then I got into technology
+because I don't know I guess I'm a
+sucker for punishment I wanted to build
+a SAS company spent a few years you know
+fumbling through that and then one day I
+got a call from a good friend of mine
+Jared who runs an agency out of Boise
+the specialized in software development
+in the medical space and he just said
+hey you know we spend uh they were much
+further along than I've ever been in my
+agency but he said look our team spends
+like a day a week in spreadsheets trying
+to answer these simple questions there
+has to be a better way to do this and I
+said yeah I totally understand that
+problem and we kind of put our heads
+together and that was the impetus to
+start parakeet you know and just say
+what's a better way for us to make this
+kind of information more accessible to
+smaller agencies that don't have
+Enterprise you know resources to invest
+in in the tools and the teams that are
+required to do it at scale
+So when you say there's a couple things
+that popped up for me so when you say
+small agencies are you talking like 0 to
+10 or like under a hundred or what's the
+ideal agency that can really benefit
+from parakeet yeah the the our perfect
+client is kind of in that 10 or 20
+employees on the low end up to like
+75 maybe 100 on the high end and really
+the vacuum that we're filling is
+and my thesis on this is that there has
+been a democratization of data uh over
+the last decade especially in the
+project management and Professional
+Services space where the cost of
+creating data about people and projects
+and time has basically gone to zero and
+now you have these agencies that have
+all this data about clients and people
+and projects but they're struggling to
+get really any value out of that data
+and so they need to adopt data
+management practices that historically
+only Enterprise companies have really
+been familiar with like okay how do we
+get all this data in from all these
+different sources normalize it transform
+it and turn it into reports that are
+useful the small business hasn't really
+had to deal with those problems and the
+tool sets that exist for solving those
+problems like zapier and Google Sheets
+they're just not really sophisticated
+enough but a small agency doesn't have
+the resources to employ you know a
+full-time data scientist or data
+engineer and you know a CEO or somebody
+that has enough experience to like
+design a system like that we're talking
+about twenty thirty thousand dollars a
+month worth of salaries plus an
+Enterprise software license for you know
+this kind of a data management
+infrastructure the cloud hosting for
+that an agency with 25 people they need
+these insights but they can't afford to
+invest it's not reasonable for them to
+invest that amount of money so there's a
+vacuum here we need better solutions for
+these smaller businesses in that size
+range to get that Insight that's
+affordable and accessible and that
+that's kind of the space that we're
+trying to solve for
+got you and when you were kind of early
+explaining it and and what your process
+was it made me think of like my early
+agency days where I was like all right
+we're you know projecting tight on
+profitability and we didn't project that
+profitability we would project our
+revenue and that was about it and we
+would deal with usability when we got
+into a crunch I was like shoot who's
+going to do this project we don't have
+enough people so it was you know I fully
+feel the pain but it would come down to
+if there was a profitability question
+I'll just do it because as the owner my
+time is less valuable my profitability
+you know so I'm sure that's something
+that you guys have experienced and
+solved for as well right yeah and and so
+much of it and I think this is the
+reason why we kind of start being more
+interesting around that 10 to 20 people
+size range because that's the point
+where the founder can no longer
+subsidize mistakes in the business right
+there's a scale where their evenings and
+weekends are just not enough anymore and
+so systemic profitability issues
+actually need to be addressed for the
+business to continue to scale and that's
+usually the breaking point where they
+start going yeah we need some help with
+this because we can't really figure it
+out and we know we're not profitable but
+we're not really sure why and what to do
+about it and that's where we can really
+be helpful in
+um first of all diagnosing what the
+issue is but then also helping them get
+the visibility on an ongoing basis to
+actually manage that to success and and
+build that muscle inside the business as
+they scale
+yeah so so you guys have a pretty sweet
+process starting with an audit and
+getting into that Baseline and helping
+agencies understand where they are
+what's wrong where the holes in their
+processing people are so they can plug
+profitability what are some of those
+metrics that that you guys look for the
+agencies could be watching out for to
+help them with their predictable
+profitability yeah this is a mouthful to
+say predictable profitability yeah
+there's a lot of keys in there
+um so it starts with a concept that we
+call delivery margin and those listening
+might be thinking about that as being
+the same as gross margin or contribution
+margin and theoretically they should be
+the same but we had to create our own
+set of language because we were tired of
+arguing with accountants over semantics
+um but delivery margin is essentially
+looking at what is the fundamental
+profitability of the services that you
+sell and in short how much money is left
+over once all the promises made the
+clients have been delivered and the cost
+of delivering those promises has been
+incurred what's left from the client fee
+for you then pay for your overhead
+expenses doesn't run the business and
+then ideally have a profit left over and
+that tends to be the reason that
+agencies are not profitable but
+unfortunately most of them cannot see
+that number on their profit and loss
+statement without having to dig in at
+the transaction level and parse things
+out most agency financial statements are
+not designed to show you that number so
+that's the first place that we look in
+the audit process and then the secondary
+question is what is causing that
+delivery margin to be below Target and
+there's really only three things that
+drive delivery margin there's the
+average cost per hour for the agency so
+in short what does an hour of labor cost
+on average and that has to do with how
+expensive are the people that do the
+work and of course you know we think
+about how dropping that number is
+obviously going to make it easier to be
+profitable and we do that by figuring
+out ways to require less expensive or
+more Junior talent to do the work and
+that typically comes off the back of
+more clearly documented processes and
+you know proper delegation good team
+management all that kind of stuff the
+second one is utilization rate rates
+which is looking at of all the capacity
+that we purchase in bulk from our team
+because that's what an employment
+agreement is in an agency is I'm buying
+2 000 hours of your life at this fixed
+price and I'm going to resell those
+hours at a profit ideally what
+percentage of that time is being spent
+doing things that earn revenue for the
+business or that move client
+deliverables forward so that the higher
+that percentage is of course the easier
+it is to be profitable and then the last
+one is average bubble rate which looks
+at for every hour that my team spends
+doing client work on average how much
+revenue does that earn for the business
+and a lot of people think of that as
+just being a pricing conversation but
+that's only half of the equation the
+other side of that is how much time does
+it actually take us to do these things
+and those two levers can move average
+bubble rate so those three metrics are
+really the levers that move delivery
+margin and so that tends to be the focus
+in our audit and our liftoff processes
+assessing how are we performing on those
+what's the opportunity for this agency
+and then can we measure and manage those
+to success over time through a reporting
+system and
+I think what's unique about our approach
+in that is we don't have one way of
+doing it a Founder might say you know
+what I want to have an agency with low
+utilization I want to have a culture uh
+where we have a four day work week or we
+just don't Bill our clients or we don't
+Bill our team out that much and then we
+can say that's fine let's talk about
+what needs to be true to achieve that or
+they say we want to be a low price
+competitor like we're we don't have an
+opinion on the business strategy
+necessarily we'll provide advice on that
+but we're very objective in terms of
+respecting the constraints or the
+cultural values that an agency has and
+just being objective about here is what
+the financial model needs to look like
+or here are the options that you have to
+achieve your idea of success within the
+constraints that you have for the
+business
+I love that and similar to kind of how I
+approach things it's not a cookie cutter
+even though you guys have a system and a
+process yeah the start and end are
+different because agency owners have
+different
+goals wishes you know like I said
+different uh definitions of success and
+so it might not just be all right every
+agency needs to have this you know 40
+profitability you know net net profit
+bottom line that might not be the goal
+and I think that's really important
+because so many of the other offerings
+in the space that focus on these metrics
+focus on benchmarking and I think that
+benchmarking is innately problematic
+because it doesn't matter what other
+agencies are doing
+um it only matters what your agency is
+doing in the context of like its
+objectives and
+you know like Revenue per ft for example
+is a metric that gets thrown all around
+a lot and there's actually nothing wrong
+with Revenue per FTE as a metric I think
+it can be very useful as a proxy for
+delivery margin but the way that it's
+benchmarked is problematic in that
+there's just this kind of arbitrary
+number where it's like oh over 200 is
+good under 200 is not good but it's like
+you can't make that's just not true
+because if your whole team is in San
+Francisco 200k is probably not good and
+if your whole team is in Bangladesh 200k
+is probably in insanely good it's a
+relative thing and so I I find that too
+many agencies are focused on
+benchmarking and they start to set
+internal targets for these metrics based
+on those benchmarks without actually
+considering their own context which is
+much more important than what anyone
+else is doing around these metrics
+so using benchmarks kind of as as
+bumpers in certain situation works but
+because every agency has so many
+individual nuances you know number of
+people Services
+geographical location nowadays is so
+vital because of how distributed
+everybody's become
+um so benchmarking can be helpful but
+not as a golden rule not as a concrete
+definer yeah yeah you know you hear
+these blanket statements like you you
+can't be a profitable agency if you Bill
+by the hour or if you have a low average
+billboard race or if you don't have a
+utilization number and that is just
+objectively not true like mathematically
+that is incorrect there are many ways to
+be profitable even if your average
+billable rate is low it's just about
+understanding holistically like what
+other levers you can move
+um so yeah I think like I get I get
+frustrated about those conversations
+because they lack context and I have to
+then unravel a lot of that with our
+clients that come in with this
+insecurity or this fear or this idea of
+what they need to do and then we end up
+realize together like well actually you
+don't need to do that you have other
+options
+and it's about really balancing those
+against their priorities and and their
+cultural considerations with what kind
+of business they want to run and how
+they want to be positioned and so on
+yeah totally random but it reminds me
+ages ago I went to a web standards
+conference like it was like the zeldman
+crew back in the day and Jeff Croft who
+used to work for Carl Smith at engine
+works was the speaker and
+people would ask him questions and every
+answer was it depends and to the point
+the third or fourth question was like
+why do you still say it depends and to
+your point I mean everybody every agency
+is different every scenario is different
+and and those you know solely objective
+definitions of you know defining it
+based on net profit or usability or
+average billable rate or things like
+that that might work for a specific
+agency but it might not work for all
+agencies so those answers it absolutely
+it depends yeah I get that now I will
+say that there are
+there are simple rules that can apply
+with their percentages right and they're
+it's all about relativity so for example
+um you know let's assume that you wanted
+like a 30 net margin and you want it to
+be an agency that has a really strong
+work environment you're investing
+heavily in Administration in sales and
+marketing you want to invest 30 of your
+agency gross income in those areas then
+what that would mean is you need to have
+a 60 delivery margin on your profit loss
+statement so that you can spend 30 of
+that money on overhead and then have 30
+left over in order to achieve a 60
+delivery margin there's a certain amount
+of of Delta between your cost for your
+delivery team and your price that needs
+to be achieved right so like those are
+truths but those are relative truths and
+then the question of what exactly is the
+target for your average billboard rate
+depends on what is your cost per hour on
+average or you know what kind of payment
+do you make to your people and what is
+your utilization rate those are all
+factors that then have to get considered
+so the benchmarking is not innately uh
+problematic but benchmarking at that
+level of metric is the challenge right
+when the important thing is looking at
+like what are the ratios that need to
+exist and then understanding that
+there's multiple ways to achieve those
+ratios
+interesting yeah yeah I'll get clients
+will say so what should this employee's
+usability rate be or what should we be
+charging per hour it's like here's some
+tools we can use you know I've got you
+know spreadsheet templates that people
+can use to to figure out average
+billable rates or total agency costs and
+things like that but it comes down to to
+your point man and it I think it always
+has to come down to that what are your
+goals and what do you want
+um the four day work week is great but
+does that mean we're all working 10 hour
+12 hour days now or is it still you know
+in that eight hour workspace or you know
+what does that do to our usability so
+yeah and who's paper interesting
+yeah I had that exact conversation with
+somebody where you know and it's nuances
+too they were like confused as to why
+they weren't profitable and then we
+started digging into it and they're like
+our utilization is really high and then
+they talk to me about how they were
+doing a four day work week and I was
+like okay well is your basis for
+capacity the five days per week or the
+four and they were like well it's the
+four I was like cool so the reason
+you're not profitable is because you're
+not accounting for 20 percent of the
+time that you're buying from your team
+that you're now just giving them back
+for free and you're not factoring that
+into your price so your clients aren't
+paying for that you're paying for it and
+it just so happens that that 20 is all
+the margin that you would otherwise have
+in the business so you're breaking even
+because you're trading your profit
+margin in for the four day work week and
+if you want to do a four day work week
+you can continue to do it that way or
+you can start getting your clients to
+pay for that capacity but like that is
+just the mathematical constraints of
+this right
+um and so those nuances matter a lot too
+in terms of understanding what is the
+proper measurement of something like a
+utilization rate or an average bill will
+rate because the devil is in the details
+and I have conversations every week with
+agencies that are they have that same
+struggle they're like all of our metrics
+are good and yet we're still not
+profitable why is that it's like because
+there's a detail about how you define
+this metric that is you know creating
+this what seems like a small percentage
+difference that is actually really
+material at scale it's worth hundreds of
+thousands of dollars to you in the Run
+of a year
+interesting so what are those kind of
+lost numbers that they're not thinking
+about yeah so there's a bunch of places
+where we see this gets mixed up but
+um the definition for capacity and the
+definition of a billable or delivery
+hour are two places where we often see
+clients get tripped up so
+um with capacity this is often a
+byproduct of the team being held
+accountable to utilization and so
+somebody's capacity starts to become
+this idea of like available capacity
+right so uh you know if they're on
+vacation we take that out or if they're
+on holiday we take that out or you know
+if uh we're only expecting a certain
+amount of that time to be billable we
+take out the non-billable time but
+mathematically if you think about that
+the more time off or non-billable time
+that somebody has based on that
+definition of capacity the more
+profitable the agency becomes we know
+that that's not true so that cannot be
+the definition for capacity in a world
+where utilization is meant to measure
+the financial efficiency of your team
+but the reason we see this happen is
+often because
+a client will start to try to expose
+utilization to their team as a
+performance metric and then the team
+rightfully so starts going well this is
+like I take vacation and my
+utilization goes down and then I get
+slapped on the wrist for it and so the
+definition starts to change to a p
+sentiment and the problem there is like
+well you never should have exposed
+utilization to your team in the first
+place it's not a good use for that
+metric and it will cause that problem
+right and then similarly the definition
+of a billable hour starts to change
+where it starts to get conflated with
+two things a that it matters if the
+client was billed for the hour or not
+which is not relevant at all in the
+context of utilization a billable hour
+and a delivery hour are different and
+sometimes we have to create those those
+two different definitions because the
+billable hour has a connotation of like
+did we Bill the client for this time and
+that's a pricing model kind of thing
+and then the other question is how much
+time did we spend doing this thing for
+the client regardless of whether or not
+that time impacted the cost to the
+client and those delivery hours are what
+need to be factored into both
+utilization and average bill rates so
+skus on that as well as I had some
+clients where available hours started to
+become defined as anything that was
+productive so like working on the
+company website became a billable hour
+for the same reason I described earlier
+the team was getting slapped on the
+wrist for doing what they were asked to
+do which was non-billable and then
+they'd be like well now my utilization
+rate is low this isn't fair and so we
+start changing the definition but again
+by that definition the more time we
+spend on the company website the more
+profitable the business becomes and we
+know that that's not true so those
+little details right when we mix the
+definition or we start rounding the
+edges of the definition of a billable
+hour or we start rounding the definition
+of somebody's capacity
+that all of a sudden creates a five or a
+10 skew in what we think our utilization
+rate is
+and that could mean hundreds of
+thousands of dollars in profit and for
+some agencies that's their entire bottom
+line right or it starts to mean hundreds
+of thousands of dollars in differences
+of average billable rate so these these
+nuances and the definitions are really
+important and those two things are
+typically where we see most people mess
+up uh and then of course uh delivery
+margin is is a whole other thing the
+pass-through expenses what's considered
+Revenue what's not that stuff all gets
+nuanced as well
+so don't just make up internal projects
+to increase usability rates got it
+and just like you know or or create a
+separation
+between
+um a productivity focused utilization
+metric that's meant to measure like how
+much of a person's available time is
+being used for productive things and
+separate that from utilization as a
+finance metric which is only meant to
+measure what percentage of the time that
+we've purchase is being used for
+delivery time or to move client
+deliverables forward and it doesn't care
+at all about if you were on vacation or
+if you were doing something that was
+productive but not billable like we got
+to separate those Concepts but when the
+metric is misunderstood and it's being
+used to do two different jobs of course
+we start to get into these problems yeah
+so so talk about real quick how this
+affects resourcing and projecting out so
+projected profitability lets me see down
+the road but it also lets me see
+potential resourcing problems with my
+team based on it now are you basing that
+on Pipeline bandwidth or closed business
+or how do you how do you measure that
+there's two ways to do it so one of our
+big uh projects with most clients is
+installing what we call top-down
+resource planning so I think the way
+that most software and most project
+management Frameworks think about
+resource planning is this bottom-up kind
+of strategy where in order to forecast
+our resources we have to take a project
+break it down into discrete tasks assign
+those tasks to individual people and
+kind of build capacity back up and of
+course the problem with that is that
+there's a huge amount of work that has
+to happen and it's really hard to
+maintain if anything changes so the
+issue that we run into with clients is
+early in a Project's life cycle like
+it's still a deal in the pipeline we're
+not sure if it's going to close like it
+doesn't make sense to try and go through
+all that work and then maintain that so
+what's a better way to start to get
+forward visibility that's just as
+accurate but less precise that's a whole
+other discussion we can have precision
+and accuracy are not the same thing
+often they actually conflict with one
+another so instead it's about creating a
+simpler model where we have an alignment
+of how we think about role categories
+and how we estimate time on a project
+and we estimate from a top-down way so
+we have this high level framework for
+and if we have enough data we can
+actually make this very programmatic
+where a dollar of website Budget on
+average historically has equated to you
+know 0.5 hours of project management
+time and 0.8 hours of development time
+and right so we have this formula for
+the budget for this website is 300 Grand
+we can start to get a sense of what kind
+of resources will we need in the future
+and very quickly run scenarios of what
+if we close this deal what if we don't
+what if we hire this person what if we
+don't
+so that's on kind of an hour's basis and
+there's another even simpler way that we
+can start to forecast capacity which is
+using our average billable rate values
+so if we know what our average billable
+rate has been historically if we want to
+get more precise if we know what that
+looks like across different service
+lines then we can look forward and just
+say how many hours do we have available
+what is the average bill rate we expect
+to make on those hours that gives us a
+revenue capacity number for any given
+period of time and then we just look at
+our Pipeline and say okay what's the
+budget for this what's the timeline and
+we can on a financial basis again get a
+high level understanding of like just
+how above or below capacity will we be
+and very quickly run scenarios and it's
+changing the mindset of saying instead
+of building this up in a bottom-up way
+which is a great practice but should
+come later in the Project Life Cycle
+after a deal has been closed how do we
+do this in a higher level top-down way
+so there's less friction there's less to
+maintain and we can be quicker to get
+these assessments done
+um and still get again an accurate
+represent rotation that's not quite as
+precise
+man I freaking love all these I mean
+you're a scientist not a designer or an
+agency guy
+um we're gonna have to do a part two
+because we're running out of time and I
+want to create a couple different
+fire questions so first is you know just
+based on your profile favorite breakfast
+meat
+favorite breakfast meat I gotta go with
+bacon uh I know that's pretty standard
+but bacon and then the close second is
+the breakfast sausage there's something
+about a breakfast sausage and you know
+it's destroying you from the inside out
+but it still tastes so damn good yeah
+all right scrapple yes or no
+scrapple yeah
+I don't know what that is
+you don't have scrapple and bacon in uh
+in Canada uh maybe we do but we probably
+call it something more it's where they
+take all the scraps of everything left
+over and they make like a nice little
+cake out of it okay yeah it's almost
+like a breakfast hash or a hash brown
+yeah 100 I'm in foreign
+like the leftover pig lips and the
+leftover whatevers they just yeah sign
+me up I'm I'm game for it all right I'll
+try to send you some from from the
+states here
+um favorite podcast audio book or show
+that you're binging right now
+uh I've been listening to you all in the
+all in podcast with uh Jason kalkanakis
+and a bunch of other like really great
+Venture capitalists and I've been really
+enjoying that
+I'll have to check that out
+um favorite new tool that you're using
+that's making your life easier either
+business-wise or professional wise I
+mean I
+I hate saying this but it has to be chat
+GPT it really is so useful when you
+figure out how to use it chat GPT uh and
+and then there's the other one for
+Discord the image generator but yeah
+like stock photos are dead yeah
+mid-journey and now notion.ai we just
+got kind of got access to that yesterday
+and it's already been really handy very
+cool and then finally
+um just a vital piece of business uh
+advice that you can share
+all of my mistakes in business have been
+a result of me assuming that I was right
+instead of trying to prove myself wrong
+as quickly as possible and the more I
+lean into trying to prove myself wrong
+the better everything goes so that's
+probably the biggest one I love that and
+that also kind of leads to the
+scientists side of you of looking for
+the looking for the faults that you can
+prove yeah love it uh Marcel thank you
+so much for your time I'm grateful for
+it and we'll have to do a round two very
+soon
+thanks Steve great to be here
+[Applause]
+again for tuning in to bite-sized agency
+briefs as always if you found value in
+this episode chances are someone else
+will too so please share it with your
+network also if you know someone with
+expert knowledge on a topic that agency
+owners would love drop me a note let's
+get them on finally find someone to hug
+today

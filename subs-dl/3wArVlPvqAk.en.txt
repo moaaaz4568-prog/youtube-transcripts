@@ -1,0 +1,454 @@
+There's a feature inside of Clockwork
+code, that 90% of people don't even know
+it exists. And it's the single
+difference between someone who uses
+Clockwork code as a basic code assistant
+and people who use it as an AI agent
+that can actually control the web,
+control the browser, talk to the
+databases, and look up documentation on
+its own. And it's called MCP. And since
+I set it up in my own workspace, it
+completely changed the way that I'm able
+to build with Clockwork code. And so in
+this video, I'm going to walk you
+through what MCP in Clockwork code
+actually is for complete beginners. I'm
+going to show you how to set it up, and
+then I'll show you three different types
+of MCP servers that I actually used that
+you should install right away. With that
+being said, let's dive in. All right, so
+the best way to explain MCP is they're
+just plugins, right? Essentially, other
+people build tools and you just plug
+them in. So you have Clockwork code,
+which talks to the MCP server, which is
+running in the background. And the MCP
+server will be the one controlling the
+external apps. [music] So your browser,
+your databases, maybe it's Notion, maybe
+it's Superbase, maybe it's your Gmail,
+right? Whatever that may be. And it
+makes it so much faster for us to be
+able to use the softwares because it is
+trained on how it should talk to the API
+documentation. And the API documentation
+is essentially the documentation which
+shows how you can actually automate
+something with a software. So you can
+install the MCPs, they run as servers,
+right? And Claude gets new tools and
+talks to real apps. So you basically
+don't have to configure things yourself.
+And so how are they different from
+skills and hooks? Well, skills are just
+instructions. We say do this task like
+this, right? We have step-by-step
+instructions that Claude could uses to
+fulfill a certain task. Now I made a
+full video on skills, you can check it
+out up here. Then we have hooks, which
+are guardrails. So this is giving it
+rules as to saying, "Don't touch this
+file." It's sort of like the security
+guard, right? Which says, "Hey, before
+this happens, make sure this is in
+place. After this happens, make sure
+that is in place." Different rules. I've
+also made a full video on hooks, you can
+check it out up here. And then we have
+the MCP. So the MCP gives us new
+abilities, right? so we say, "Now you
+can use Chrome. Now you're able to
+connect to Notion, and you know exactly
+what you should do." Right? And this is
+a new pair of hands that we give to
+Clockwork code, which is why I say that
+it completely changed the way that I use
+Clockwork code because it allows me to
+build things that previously I'd taken a
+lot more time to set up and things that
+previously were not possible. So again,
+skills are instructions, hook are
+variables, and MCP are new abilities.
+They work together not against each
+other. So they're different things,
+right? When you combine all those three
+things together, that's when ClockCode
+starts to become really, really, really
+powerful. So here I'm on my main YouTube
+workspace which controls my main YouTube
+content generation system. And inside
+this workspace you can see that I have a
+file called .mcp.json.
+.mcp.json is going to be the file that
+we use to add the MCPs. As you can see
+here, if I zoom a little bit, here we
+have an MCP server called Chrome
+DevTools. And so what does this do? This
+allows us to be able to use the web and
+access different things outside of
+ClockCode, right? This doesn't mean
+script a website, this means going
+inside a website and taking a
+screenshot, for example. Now, if you
+look at this, you're like, "What the
+hell am I looking at?" That's okay
+because you don't really have to
+understand the code. You just have to be
+able to talk to ClockCode to ask it what
+you want, right? As you saw, to set up
+the MCP, we have to make a file. But
+before we do that, let me show you why
+we need it in the first place. Hey, can
+you go to apple.com? Can you take a
+screenshot of the main page [music] and
+can you then give it to me here? So in
+theory, this should be able to then go
+to Apple, take a screenshot of the page,
+and then bring it back here as an image.
+As you see though, it says, "I can't
+take screenshots of website. I don't
+have a browser automation or screen
+capture tools available. I can only
+fetch the page content, read screenshot
+files that already exist on your
+machine." So this is why we use MCP. And
+so what I can do here is I can go to
+file, I can write .mcp.json.
+And inside here, I'm going to paste the
+code that we had before. File and save.
+And by the way, I'll show you how to get
+this code as well, so don't worry. Once
+we have this here, let me ask you the
+exact same question in a new tab, and
+you'll see how now it's going to go to
+Apple, take a screenshot, and then bring
+it back. As you can see here, it's
+saying, "Let me navigate to apple.com
+and take a screenshot for you." I can
+say yes.
+Let me do bypass permissions so it
+doesn't ask me. It said it successfully
+navigated to apple.com. It took a
+screenshot, and now we have the
+screenshot of the page, which is this
+one here. Okay? And so just in a matter
+of seconds, we were able to unlock a new
+feature in Clock code just by adding
+this MCP.json file here. You can start
+to see the different applications that
+come into this. This is a very, very
+simple example. One of the most used
+examples is Chrome DevTools, which is
+the ability to go to websites, take
+screenshots, and access the web, but we
+also have other ones as well. And by the
+way, just so you know, it actually
+opened up a new Chrome tab here, which
+is how it was able to take the
+screenshot and then bring it back to the
+workspace itself. So, to find the
+snippets of code that I just showed you,
+which allow Clock code to have new
+features, plugins, we have to go to the
+MCPservers.org. Now, if you're aware of
+skills, which is the ability for us to
+add instructions to Clock code and do
+different things, skills also have
+something similar. So, if you go to
+skills.smp.com,
+we have what we call a workspace full of
+skills that we can copy and paste into
+Clock code. So, this right here is
+Amazon for MCP servers.
+>> [music]
+>> And so, as you can see, we have the
+Chrome DevTool MCP, which is a an option
+that we can use. We have Firecrawl, we
+have Superbase, we have Playwright, we
+have Xcode build MCP, and we have a lot
+more as well, right across official,
+search, web scraping, communication,
+productivity, and so on, right? So,
+let's say I go to featured. Let's say we
+go to the Chrome DevTool that we had
+before. If I go here, I'll be able to
+see the name, the
+description as well. So, this is the
+tool that allows your coding assistant,
+such as Gemini, Claude, Cursor, or
+Co-pilot, control and inspect a live
+Chrome browser. So, it allows to control
+Chrome and go to a new browser and do
+whatever it is that you want to do. It
+looks at the key features, the
+disclaimers, usage statistics, update
+checks, requirements, and we have the
+code itself. So, here, we can copy this
+code, and that's the code that you'll be
+able to paste right here. Go here, you
+can paste it, and then make sure you
+press command S. Then it pushes
+everything back. That's why I kind of
+changed the structure. But, it's the
+exact same code. Now, bear in mind, with
+MCPs, not all of them are vetted, which
+means that they weren't completely
+verified, so use your judgment as to
+what it is that you can actually be
+using. If I see that this is in the
+featured MCPs, then it's probably
+something that I am going to be able to
+use because it's trusted. But, let's say
+I go to cloud service, right, and find a
+random one, let's say AKS MCP, I don't
+really know whether this is good unless
+I look at the stars here, the GitHub
+stars. The higher the stars, the better
+it is. If it has two stars, then I'm
+most probably not going to be able to
+use this cuz I don't know the impact it
+will have on my cloud code and the
+things that it does. And if you ever
+copy some code and you have no clue what
+it actually means, you can simply just
+say, "What is the MCP.json that I have
+right now? What does it do?" It tells
+you, and then I also told it to give it
+to me in one sentence and make it very,
+very simple to understand. And here it
+says that it lets me control your Chrome
+browser, clicking, typing, taking
+screenshots, and inspecting things so I
+can help you test and debug websites
+directly from the chat. Now, one use
+case for this specifically is, let's say
+you are making a landing page. And let's
+say you wanted to look at the top
+landing pages from five different
+websites. And you wanted to take
+inspiration as to the top header that
+was on the landing page specifically.
+So, here we have Apollo, we have
+Mailsco, we have Email List Verify,
+which are all different SaaS, so
+softwares, that verify different emails
+or give you some data, right? And let's
+say I wanted to make a new tool and make
+a landing page similar to these ones.
+And so, here then I can say, "Can you go
+to each of these websites? Can you take
+a screenshot of the landing page? And
+then bring it back and make a new folder
+under our workspace, name it screenshots
+of landing pages, and leave the pictures
+there." And I can press go. I can put
+this as bypass permissions. Okay, so now
+it's going inside Apollo.io, it's going
+to Mail.so, Email List Verify. The next
+one is ZeroBounce. We have
+Verifalia.com. And then finally, we have
+Hunter.io. As you can see, it just
+finished everything. It made the folder
+of screenshots of landing pages. And
+here we have Apollo, Email List Verify,
+Hunter, Mail.so, Scrap, Verifalia, and
+ZeroBounce, right? And so, all of these
+could be used then when you're making
+your landing page as inspiration. You
+can say, "Hey, [music]
+look at these images of landing pages,
+kind of emulate their style, and make me
+a new landing page and call it XYZ
+name." So, another one that I use often
+is the one of Superbase. So, Superbase
+is a software that allows us to be able
+to store data. It's sort of like a
+Google Sheets on steroids, right? It
+allows us to add data to a table that we
+can then fetch using its API. So, you're
+throwing a question, all the information
+is stored in Superbase, and Superbase
+gives you the answer. So, here, what I
+can do is I can just configure this
+here. So, I can copy this, which again
+usually is in the bottom, right? Here,
+what I can see is the name.
+We can see the demo of this of how it
+works. This is giving me the actual
+setup. What I would have to do here is I
+would have to go and copy this. You can
+also look at the setup documentation
+here, which goes through everything that
+you have to do, but it's pretty much the
+same as the one we had here. So, I can
+go here, and by the way, you don't
+actually have to make a new file. You
+can use the exact same one. So, now we
+have this,
+and then I can say, "Can you add this to
+the MCP?" I can give it the new MCP of
+Superbase. When I press go,
+put bypass permissions, it will now add
+the MCP to our new mcp.json, which will
+be here. As you can see, it's making the
+change. I can say yes, and now we have
+the Chrome DevTools, we have Superbase,
+and we have more and more and more and
+more as we start to add new things to
+our file. Okay, let's say I wanted to
+have this document right here, which is
+a fake SOP for an e-commerce store. I
+wanted to add it to my Superbase so that
+we can store all of this in a table, and
+then we can then fetch and can ask
+questions about the thing itself, like a
+chatbot. I can go here, I can download
+as a PDF, and I can upload it right
+here.
+And then I can say, "Hey, I uploaded the
+PDF of the e-commerce store SOP in all
+this space. Can you please [music]
+now make a vector database inside of
+Superbase, and can you add all the
+information there, vectorize it, and
+then
+uh yeah, make a new table and call it
+SOP?" I'm going to make this plan mode,
+so plans.
+What it's now going to do is it's then
+going to use the MCP of Superbase
+because it has to access the software
+itself. As you can see, it's reading the
+mcp.json file because that's where we
+have the actual MCP itself. Now, it's
+giving me a plan for creating the local
+vector database in Superbase. Sure.
+Looks all
+I understand half of it, but not even
+half of it, but it's saying all the
+things I wanted to do. I can press yes,
+auto accept, and then I can put Papa's
+permissions to let it run on its own.
+So, it's going to take the PDF, as we
+call it chunk it, so it's going to
+chunk, meaning that it's going to take
+the actual document, it's going to split
+it up into different parts, and then put
+it all into the vector database itself.
+And the vector database, by the way, is
+just a a Google Sheet which stores all
+the information. So, it just pulled up
+this page right here where I have to
+authorize the MCP
+MCP client connection, authorize API
+access. I can say yes,
+choose your organization, authorize
+cloud code, authentication successful. I
+said done. It found my project, which
+takes 2 minutes to set up, make an
+account, and then pretty much make an
+organization, and that's it. And now
+it's going to create the table in the
+Superbase account. As you can see, it
+made a table called SOPs, and we should
+be able to see the information starting
+to come in. And as you can see now, we
+have the information that we had on the
+Google Doc, we have it here in the
+Superbase itself, right? And the way
+that this works, again, is that we have
+each text, which is an embedding. An
+embedding is just a number, and when we
+say query the vector database, when we
+ask questions, it matches the numbers of
+the questions, of the letters that we
+that we actually give it, to the numbers
+here, and it gives us the answer, right?
+But essentially, what it did is that it
+used the MCP of Superbase itself to then
+send all the information here without us
+having to set up anything apart from
+that MCP code itself. Now, although MCPs
+are great, there is one fallback, which
+is the cost. And so, if I go here to
+{slash} contexts,
+I will now be able to see how many
+tokens the MCPs actually take. So, here
+I can see that I'm using Cloud Opus 4.6,
+I'm using 15.6K out of 1 million tokens,
+so 2%, and only two MCPs use 10,800
+[music]
+tokens, which is quite a big amount
+considering the fact that we only added
+two. And you can see here that the MCP
+tools, right? So, each tool, which means
+that each type of action that it can do,
+is requires tokens to run. And so we
+have click, which is 163, close page
+112, drag 155, emulate, and so on,
+right? [music] And it keeps on going and
+going. So one important thing is that
+the more MCPs you add, the more money
+you have to spend on tokens. So make
+sure to not use 15 or 20 MCPs because
+they will take up a lot of your tokens
+and contacts. Just use the top two to
+three that I showed you and make those
+your main priority ones whenever you're
+using Claude code. And so with the fact
+that you are spending a lot of tokens
+with the MCPs itself, usually what we do
+is that we install the MCPs here, right?
+So let's say we install Chrome dev tool,
+or let's say we install the Superbase.
+We check if it works, which means that
+you test it, see if it did the right
+thing, and then you turn that MCP itself
+into a skill, because skills require
+less tokens. And so with the healthy
+setup, you typically have a system
+prompt, which is the prompt of the
+actual AI itself, Claude code. Then you
+have built-in tools, and then you have
+MCP tools. You want to have a few, and
+then you have your conversation, which
+means it's a lot of room. Because the
+more you speak to Claude code, the more
+the tokens, or what we call this context
+window, increases, which means that you
+can't be having conversation with Claude
+code forever because the tokens, the
+space of the conversation, ends, right?
+And so you want to have as much space as
+possible for the conversation instead of
+having the system prompt, built-in
+tools, and having 20 different MCP
+servers, which take up so much tokens
+and so much space and context where to
+the point where you can actually have a
+proper conversation with Claude code
+before the tokens runs out. So you want
+to be as efficient as possible with your
+tokens that you are using in Claude
+code. So that right there is a full
+breakdown of the MCPs inside of Claude
+code that allow us to be able to make
+Claude code 10 times more powerful by
+having these new abilities that it can
+do. And if you want to work with me
+one-to-one to be able to start and scale
+your own AI agency, then check out the
+first thing down below, which walks
+through a full video going through the
+full program. If it sounds like a good
+fit, then feel free to apply. And if you
+like this video, then check out this
+video on the screen where I show you how
+I use Claude code to build a profitable
+personal brand on YouTube. With that
+being said, I really hope you found
+value from this video, and I'll see you
+in the next one.

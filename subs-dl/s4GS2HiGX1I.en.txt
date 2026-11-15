@@ -1,0 +1,973 @@
+This guy literally just pulled 4 million
+views on Instagram in 30 days using a
+Claude code system that he built from
+scratch and today he's going to walk us
+through the entire setup on screen. So I
+brought in Nick Perue who runs an AI
+consultancy and he converted those 4
+million views into over 6,000 newsletter
+sign-ups. So he's the real deal. He's
+actually in the trenches doing the work.
+So in this episode he's going to break
+down the exact Claude.md setup that he
+uses, the skills that he uses to write
+scripts, the ICP file that he built
+around a character named Patrick, and
+why he treats AI like a new employee
+versus a magic button, which is what so
+many people do wrong. So if you stick
+around till the end, he even shares the
+humanizer skill that he's been using to
+strip away all the AI tells from every
+script before he hits record. So enjoy
+the episode. All right, Nick, what are
+we building today?
+What's going on everyone? We are going
+to be showcasing my short-form Claude
+code instance. So in simple terms, this
+just helps me create short-form content.
+So I start with an idea, I see somebody
+else's video, it inspires me, or if I
+just have an idea myself, I run it
+through this
+this AI system, this AI system, however
+you want to frame it, and it's going to
+create content for me. So
+I could actually go ahead and already
+share my screen and just showcase some
+of the results that this has been
+getting this far for my Instagram. Yeah,
+let's check it out. I know short-form is
+something that a lot of people either
+they just put out bad short-form content
+or they don't have a system in place. So
+I'm excited to see how you do it and
+obviously you've been crushing it.
+Yeah, absolutely. So some quick
+background, like everything that you're
+seeing on the screen right here. So
+obviously like the big things that stand
+out, like the amount of views. So in the
+past 30 days
+I've been able to amass about 4 million
+views.
+Scroll down a little bit further, all
+the interactions, but the big standout,
+4 million views. So with that being
+said, I mean mean, a lot of a lot of
+numbers that we can crunch that this is
+attributing to more than just views. So,
+being able to So, actually just give you
+a little bit of background about what we
+do, some context about us like we run up
+AI consultancy. So, we drive
+pretty much all these views into our
+newsletter.
+So, I think it's about close to 6,000
+sign-ups that we have acquired within
+our newsletter just within the past
+about 45 days or so.
+Where now we're nurturing everybody
+who's watching our content then flowing
+to our newsletter eventually.
+Ideally, they become clients of ours.
+So,
+very high level, that is what we've been
+able to amass thus far. So,
+um
+with that being said, I'll be able to
+jump into what it actually looks like
+inside of Claude code and how I actually
+use this every single day.
+And now when you say you're you're
+converting them to the newsletter, are
+you just doing like a CTA at the end of
+the reel that says like, "Hey, comment
+XYZ and I'll send you just like a lead
+magnet through ManyChat." Is that kind
+of how you guys are doing it? Yeah,
+exactly. So, if you can still see my
+screen here, you can see if I just click
+on one of these for example.
+Now,
+I'm not going to put the audio on, but
+at the end of this
+I'm usually going to to say something
+where it's going to lead them to All
+right, for example, this one in
+particular, it's a guide on Claude
+co-work. So, I'm saying, "Hey, if you
+want to if you want to access to this
+guide, then just comment co-work and
+I'll send it over to you." So, sometimes
+I'll do something that's going to be
+very specific to what the content's
+going to be. Other times, I'll just be
+saying like, "Hey, if you want access to
+my weekly AI newsletter, then comment
+this and I'll send it over to you." But
+anyways, we have a ManyChat flow set up
+where it's going to be
+essentially just
+discussing with them, collecting their
+email, and sending off a few other
+things inside of DMs, and then I'll have
+an appointment setter take over from
+there once we're asking an open-ended
+question.
+Um but all of this, it is stemming from
+the video.
+As the as the trigger, I guess.
+Cool. So,
+having said that, let me go ahead and
+show you what it actually looks like.
+Let me figure out how to share my screen
+here.
+If I could share my entire screen, I
+would imagine I would have to do.
+Let's see.
+Okay.
+So, here's what it actually looks like.
+I pretty much just live inside of the
+terminal whenever I'm using this. I
+don't deploy it on Telegram. I don't
+really play it on anywhere else. It's
+very possible to do put this as you
+already know.
+You can put this
+on WhatsApp, Slack, iMessage now, really
+wherever. But anyways, I just use it
+inside of the inside of cursor.
+Uh as close as the terminal
+so you can get almost. But anyways,
+here on the left-hand side, if you're
+not familiar with cursor for anybody
+who's watching or
+or Claude code or any IDE,
+this is essentially just my folders. So,
+we have all this broken down. We have
+our Claude file. This is all of my
+skills. So, I'll try to give a very
+high-level rundown of of this first and
+then we'll dive into each one and
+elaborate on them a little bit further
+of all the files. So, Claude, this is
+just consisting of
+some of the different skills. So, I have
+three specifically. So, one, that's
+creating captions for all my videos.
+Two, reviewing any script.
+Three, that is writing all the scripts.
+So, whenever I want to create a new
+script, whether it's an idea, so I could
+start off saying like, "Hey, I have an
+idea about something."
+Whatever it may be. And then eventually,
+let's say you want to turn that into a
+script. All I have to do is just write
+script and it's going to start creating
+it for me.
+So, pretty straightforward on how to
+actually start using it, but it is very
+uh
+it's a very meticulous setup that I
+actually have in place.
+And this is something
+>> like for example, you know, {back slash}
+write script about Claude CoWork and
+it'll just go and
+research Claude CoWork and then write
+a script I'm assuming based on
+formats that have been successful for
+you already, right? Like you're giving
+it references that of videos
+[clears throat] that have performed
+well.
+Yeah. So,
+what I typically do is yes, I do provide
+it with some
+some previous analytics where here's
+what works well, here's what doesn't
+perform well, things like that. But
+anything that's going to be a little bit
+more specific about like maybe it's
+Claude CoWork or anything else like any
+anything that's more nuanced, I do have
+it do a little bit more research. I give
+it some
+more access to my recent videos saying
+like, "Hey, I just uploaded a few videos
+on this topic. Here's what did well,
+here's what didn't do well. So, let's
+try to take what we learned from all of
+this and create a better version." Um
+that's more so how I have been using it
+as of late. So, it is kind of a dance
+where
+you do have to, you know, AI is doing
+about 90% of the work. Don't get me
+wrong, but there is there is a bit that
+you have to configure and tweak and make
+sure like you are
+providing the proper oversight. I think
+that's kind of where we're at generally
+even outside of um using systems like
+this.
+Using AI like practically in any
+setting, it's really just having some
+some solid oversight and making sure
+that you're steering it in the right
+directions, right?
+Right.
+Yeah, there's there's going to be a a
+human in the loop especially when it
+comes to content. I feel like if if you
+want to put out good content, there has
+to be a human in the loop. Like you
+can't just have the AI go wild.
+Yeah, absolutely. Um
+so, it's the same exact case with this.
+moving on, we just have our directives.
+Inside of my directives,
+and um this is kind of
+I call it directives as this was, uh,
+what I used for a PCE framework that I
+called, where basically this was just
+going through, um,
+some processes that Claude Code now
+optimizes for. So, completely
+irrelevant, but anyways, the directives,
+this is just the
+some high-level instructions. So, of
+course, you'll recognize we have a
+Claude MD now. For anybody who's not
+familiar with Claude Code or
+this entire
+environment, Claude MD, this is the
+brain. So, in the brain I'm providing it
+with high-level instructions, and
+actually
+as of yesterday, there was a leak where,
+um,
+Claude Code's entire codebase was
+released. So,
+the big takeaway from that is we see
+like how you should actually be creating
+your Claude environments, how Claude is
+actually set up properly. So, with that
+being known, we know how we can actually
+play around with Claude, how we should
+be polishing and setting up everything.
+So, as of just yesterday, I've just, uh,
+refined this to be adhering to that. So,
+how that actually looks is I just break
+things up into how I want the format of
+each
+video video scripts to be outputted. I
+provided some brief information on my
+audience. So, I call him Patrick. I saw
+that, yeah. I was hoping you were going
+to go into detail on that. That's
+interesting. Yeah, so Patrick is my ICP.
+>> [clears throat]
+>> So, Patrick, he consists of small
+business owner, small businesses to
+mid-market. So, anywhere from few
+hundred thousands to up to 15 million
+dollars in revenue, about 2 to 50 staff.
+So, I wanted to create content that is
+going to be speaking to Patrick. Now,
+it's not always that we're going to
+have it be so specific like, um,
+anything that's going to do just be
+talking to like a small business. Like,
+we do generalize our content a little
+bit as opposed to just going like bottom
+of the funnel.
+Um,
+but of course, you know, we're just
+providing some more some more language
+saying like never say Patrick in your
+scripts, don't use jargon without
+explanation, stuff like that. I mean, I
+can go on for days just giving AI
+instructions about the stuff, but
+it's very important that we're keeping
+our Claude MD file pretty loose and
+very direct and punchy. Mhm.
+Then we have some more information, so
+writing rules. So, what it should
+actually look like.
+Um so, focus on like anything that's
+going to be benefit. Make sure we're
+talking about and speaking to any
+results. Speak to Patrick specific
+context, not just like business owners
+generically.
+Um
+What else beyond that?
+We're always trying to to showcase demos
+first.
+And then we have key principles. So,
+going through some things that I've just
+learned. I mean, this has been this
+entire environment has been something
+I've been building up for ever since I
+started short-form content. So, maybe
+about a year, even some
+some key lessons that I've taken from
+from long-form, so YouTube. I've
+incorporated into here, so I mean, I've
+been building this for effectively about
+2 years with obviously not using it all
+inside of Claude code, but building all
+these lessons, all these takeaways, so
+that is what is
+essentially being input into all of
+this. So, that's what these trinity of
+values uh
+um quality over content's looking like,
+not being the AI guy or being the AI guy
+for business rather.
+Yeah. So, within this Claude MD file, we
+kind of give it some some
+we're pointing it into specific
+directions. So, we say, "Okay, you can
+reference these specific files
+when you needs to." So, if we close out
+this, we can elaborate on some of those
+and what that actually looks like. So,
+for example, let's take a look at this
+foundations one.
+So, within the foundations, we just have
+some like
+I mean, some of these are very nuanced.
+Some of these are pretty general, pretty
+broad, where if we just pluck out Let's
+look at this first one. So, negativity
+always wins. So, core principle of this
+is negativity
+it speaks
+it speaks volumes. So,
+it is going to have a
+more resounding effect on somebody
+if they were going to listen to
+something that's going to something
+that's going to um
+insult them. So, for example somebody's
+grandma's a fat
+Feel free to
+to blurt that out, but um if you're
+saying like somebody's grandma is a
+sweet old lady, it just so happens that
+the algorithm, it loves things like
+this. It just speaks to to the
+negativity.
+>> [snorts]
+>> Right. There's just going to be a
+stronger emotional response, kind of
+like you're saying, to something super
+negative versus even something super
+positive, right? It's emotional, or I
+guess negative emotion is a stronger
+driver of uh that causes people to
+react. Which is I think why you see rage
+bait content, you know, for better or
+for worse, performing so well.
+Yeah, exactly. Um so, it's so it's exact
+things like this that I'm trying to
+input into
+pieces of my content, but I don't want
+it to be like every single video I'm
+saying like, "You suck at this." or
+"You're stupid." Things like that. Like
+it's just going to be a little bit
+repetitive.
+And uh people will pick up on that. So,
+I don't want us to go with that route,
+but it is a good factor to include in
+some of your content. So, sometimes like
+if I if I just know that
+it's going to be a good angle to take
+prior to actually creating a video. So,
+let's say
+I have an idea and it just so happens
+that like I I thought like, "Okay, well,
+maybe the negativity's going to work
+really well." So, I'm already set on
+using that. In which case, I could just
+say
+I want to create a video on Claude
+CoWork and let's go with the negativity
+route. So, if I were to say something
+like that, it's just going to
+immediately find in its files in the
+environment within this foundations that
+it's going to to leverage this
+negativity always wins
+um premise.
+So, in that case
+I mean, we could test this out. Let's
+see what's going to happen. Um
+might not be perfect because usually I
+give it a little bit more direction and
+what I actually want the video to be
+about. Maybe like the results that I'm
+trying to get. Maybe I'm pushing a For
+example, we just recently had a webinar
+workshop where we were talking about how
+to effectively use CloudCode in a
+business setting. So, in that case, we
+wanted to push a lot of our CTAs, all
+the lead magnets to our workshop. So,
+that's where we would be a little bit
+more specific about the results that
+we're trying to get or maybe if we saw
+like another news piece that we want to
+speak about. So, we'll just give it some
+information, give it the website, it'll
+go ahead, go research that. Um but
+again, it just comes back to giving it
+some proper oversight, giving it some
+good directions. That's
+really the premise of of uh
+using AI effectively inside and outside
+of things as specific as this current
+system.
+So, it is running uh for quite some
+time. I mean
+already taking a minute. So, I mean
+I guess that just speaks to how much it
+actually has to go through within this.
+And I mean, sometimes
+that can actually be
+detrimental. If you For example, if you
+have cloud.md, if this is too long, it's
+going to hallucinate. It's not going to
+remember like what it should be focusing
+on, what it shouldn't be.
+Um but anyways
+we can see uh phase one. So, it's just
+coming up with the strategic decisions.
+So, the hook, we're going to start off
+broad. So, like delegating task to AI on
+your computer.
+Uh let's see what else.
+So, it's finding this negativity angle.
+So, rather than the standard um like
+tool just dropped opener that I
+often go with. So, that's something
+something like that. It's It's top of
+funnel those typically do very well.
+It's going to lead with the pain of
+repetitive computer tasks manually.
+So, it looks like it's trying to play
+this into the angle of like doing this
+towards Patrick, so some sort of
+business owner.
+So, phase two hook options. So, you're
+still doing manually
+you're still manually doing tasks on
+your computer that AI can do. Now, it is
+costing you hours every single week.
+Stop spending your mornings on email,
+spreadsheets, etc. etc. So, it doesn't
+actually look like these are too
+too aggressive of negativity.
+Right. Um
+but you get the idea. So, But, that is a
+good angle. The third one there is a
+good angle where it talks about
+cuz that's a pain point that every
+business owner has where it says every
+hour you spend on the admin work at your
+computer is the hour you're not closing
+deals or serving customers. Like
+regardless of
+obviously that's not the most negative
+statement in the world, [snorts] but
+it's definitely going to get the
+attention of a Patrick like a small
+business owner who's super buried in the
+weeds and needs [clears throat] to buy
+back some of their time with AI. So, I
+mean, you know, I think it's still an
+appropriate hook.
+Yeah, absolutely. And what usually
+happens is so,
+let's say I go with one of these
+or one of these I I prefer over another.
+So, with this either I'll keep tweaking
+it saying like okay, maybe we could
+change like this this minor point or
+whatever it may be. And just keep
+refining it from there. I I often
+test different hooks. So, maybe I take
+all three of these hooks and I record
+them.
+I'll record them record the entire
+script just do like three different
+three different hooks with the same body
+copy
+same CTA and just test like which one's
+working. And then from there like I'm
+going to take the feedback take um the
+analytics that I'm getting from
+Instagram. There's uh there's something
+called trial reels. I don't think I'll
+be able to pull it up on my computer. I
+think I'll have to have it on my phone,
+unfortunately. But, with trial reels,
+you can test um what's going to get
+pushed to
+Essentially, it's just going to see
+which one's going to be performing
+better. So, with YouTube, I think uh
+I think uh
+it would just be comparable to the AB
+testing of like titles or thumbnails.
+But, anyways.
+Yeah, so that's the foundation. So, I'm
+just going on more more um concepts. So,
+the first one, we have that quick win.
+Uh I mean, the list goes on and on of
+different foundations. So, these are all
+just different things that I have
+learned over time about the algorithm,
+things that I have learned from
+different YouTube videos. So,
+it's not always that it's following
+these foundations because, again, it is
+very long. So, it's not inherently a
+process of this to go through this
+foundation. It's usually something that
+I have to have a reference specifically.
+Now, for that foundations file, because
+that is super long, like you said, I'm
+assuming you didn't just write that from
+scratch. Is that something where you
+kind of maybe just brain dumped into
+Claude, like everything you've learned,
+and it just compiled it into this this
+markdown file here? How did you go about
+actually building that?
+Yeah, I mean, more or less, that's
+exactly what I did. Where
+it starts off with reading a brain dump,
+or it's just other files where I have
+some notes of different things. So, for
+example, like I knew I had something
+written out, two types of reinforcement.
+So, there's positive reinforcement,
+there's negative reinforcement. So, both
+are trainings to like a predictive
+behavior. I mean, this expands into
+something much larger, and
+um but yeah, like this, it is extremely
+long. So, sometimes
+I will
+A better way to go about that is
+I have some original files, or I just
+have some brain dumps that I'm going to
+be putting into
+whether I insert it into here or just
+like
+through the native browser inside of
+Claude, and it's either going to expand
+on it a little bit, make it a little bit
+more
+depictable for the AIs to actually
+understand. So,
+to answer your question, yes. That's uh
+more or less what my approach look like.
+Now, what is the So, this is an awesome
+setup, by the way, man, and clearly it
+works cuz you're at almost 4 million
+impressions in the last 30 days. So, if
+somebody wanted to
+do like the most bare-bones version of
+this as possible just to get it up and
+running and so that they can start
+testing and tweaking and getting
+feedback in terms of data,
+where do you recommend they start? Like,
+which of these files do you think they
+should create first?
+>> Yeah. So,
+first,
+just assess what you currently have. So,
+whether that's uh some Notion documents,
+or maybe you have some SOPs, whatever it
+may be, just assess what you have. If
+you have information about your
+business, any contacts, just start
+putting them out in a drive, put it
+somewhere just so you can easily access
+it at some point because what I'm about
+to get into, that's where you're going
+to be leveraging it. And that [snorts]
+is the Claude MD file. So,
+it all starts with this. Like, this is
+the entire brain. This is the file that
+is arguably the most important. So,
+right here, like
+what I walked through, it's very
+high-level, but I mean, that
+fundamentally is is all this is. It's
+It's a very high-level file of of what I
+do,
+of how I want this to output anything
+any um
+any scripts, anything like that.
+And then from there, so once you have
+your Claude.md file, and this is where
+to actually build this out, you use AI.
+Like, AI is your weapon. So, use AI to
+build out your Claude.md file, take a
+look at like the Claude leak, analyze
+the the lessons, the key takeaways of uh
+how to actually structure Claude MT
+file.
+And then from there, you could expound
+upon that. Like you could give it some
+some more direction. So for example, I
+have
+let's see, like a quality checklist.
+So
+number one, like is your current content
+consistently excellent? It's really just
+a list of things that I needed to run
+through before it actually starts.
+Before it before it um
+finalizes anything. And that has to do
+with my
+if we open up my commands, that has to
+do specifically with my reviewing script
+skill, where it has to leverage the
+quality checklist. But anyways, getting
+back to the point, you just provide your
+Claude MT file, provide your Claude
+instance with just context about what
+you do. So of course like for all of or
+any of you guys watching like this may
+or may not be directly related to
+content. Whatever it may be, like you
+just want it to provide it like your
+goals, it's it's
+it's responsibilities, like what you
+want it to do, context about you. So for
+example, when I have to provide it
+one of the most important things is I
+have to provide it like who my ICP is.
+So again, like that's going back to
+this. And there's actually another
+folder.
+This expands much.
+It's just a more elaborate
+ICP breakdown,
+where it elaborates on Patrick.
+So who who we're trying to speak to. So
+this is of course a very core component
+of creating content. We want to be
+speaking to like these specific
+industries.
+We want to like it has to know like they
+can't be too technical.
+maybe they've heard of ChatGPT, they
+tried it once or twice, maybe they don't
+know too much about Claude code. So
+that's telling the system you can't talk
+too much about Claude code. So it's as
+simple as just starting with the Claude
+MT file. From there, you're inevitably
+going to get into a rabbit hole where
+you're finding different
+different little tweaks, different
+adjustments you have to make, you're
+constantly going to be learning. And
+with this, you're just going to
+accidentally become more and more
+technical. So,
+um that's not to say you guys aren't
+technical now. I don't
+exactly know your audience, but anyways,
+it all starts with just providing it
+context and the
+the outputs that you're trying to get.
+It's as simple as that.
+Well, and I think you I think you're
+spot-on when you talk about how
+important the ICP file is as a context
+document. That's something I tell people
+the the two foundational
+context documents, whether you create
+them as skills or just, you know, it's
+just general files that you're using
+inside your AI projects,
+the two most foundational ones are ICP
+and then brand voice. So, I'm sure you
+have something in there about your brand
+voice, like how you talk, things you
+like to say, words you avoid, right?
+That type of thing so that it actually
+sounds like you and not just like AI,
+but
+I feel like those two pieces of context
+are are two of the most critical. And
+then everything on top of that is more
+specific to your setup or what you're
+trying to do. Like, would you agree with
+that or is there any anything else you
+think is like super foundational? Yeah,
+100%. Um
+so, first off,
+this kind of relates to something a
+little bit more expansive than just like
+my my exact setup. So,
+overall, yes, I I do provide it with my
+brand voice. I I don't give it like
+specific words or anything like that.
+Generally, like I have I give it like my
+style, my tone.
+anything like that. So, I have I try to
+go with more of like a
+um include some humor, some some wit
+within my videos. So, that's kind of
+like the style that I take. But, yeah, I
+mean, that goes for for legitimately
+anything when you're utilizing AI,
+especially like if you're using using
+this for writing emails. I mean, this is
+a huge thing for any for any of our
+clients like that we've worked with or
+anybody that like comes to us saying
+like AI sucks like it can't it can't
+write emails for example like it can't
+figure out my language.
+It's like well you haven't tried to like
+instruct it properly. So yes, you do
+have to provide it with um
+what that actually looks like is just
+providing with examples of
+you know, your tone some past emails for
+for example you can provide it but
+beyond that
+um something that I've actually been
+using
+the past couple of weeks or so is this
+humanizer skill. So
+there's actually a GitHub skill
+where it's just going to
+humanize everything. So what it says
+specifically is just remove signs of AI
+generated writing from text used when
+editing or reviewing text to make it
+sound more natural and human written. So
+if you guys pull up
+yeah, if you pull up um I think it's by
+Bader b a
+b i d e r
+on GitHub
+this is something that I have been using
+where it's going to make it sound a
+little bit more
+I guess human for lack of better term.
+And that's critical. I mean, that's
+something that
+even in for example like in my open claw
+agent one of the things that I have in
+its agents.md which is like the open
+claw equivalent of claw.md is to never
+use m-dashes ever ever ever and it still
+from time to time does and I find myself
+having to go in and remove them
+because I don't want those in there cuz
+people just assume that that's AI
+generated. So yeah, having a humanizer
+skill like that I think is really
+helpful
+just to do that kind of quick quality
+check and remove anything that looks
+blatantly AI generated. So that's a
+great tip there.
+Yeah, definitely.
+Um it it's always the m-dashes the
+uh what's a few others it's um
+>> X it's Y. Yeah, bullet points or some
+overly formal structure exactly.
+Yeah, um yeah, so that's that's exactly
+what this does and I mean, that's not to
+say you have to use this specific
+specific GitHub skill. I mean, there's
+thousands of different alternatives to
+to eliminate all that AI slop, I guess.
+Yeah, there's there's quite a few of
+them. And there's plenty of like I see
+on X every single day people sharing
+new skills or new, you know,
+repositories. I mean, free resources for
+people to go and take advantage of to
+power up Claude Code or their AI agents
+or even just Claude Chat and Claude
+Co-work. So, there's there's so much out
+there that you can add on to the
+existing tools you're already using. So,
+this is fantastic. And again, just one
+more time, if you could kind of
+summarize
+if somebody wants to get started with
+this inside of Claude Code building a
+essentially a short-form content
+creation factory, would you say the best
+place for them to start is kind of what
+you said earlier, just take inventory of
+what you have and then slowly build out
+the other context files and skills on
+top of what they already have?
+Yeah, most definitely. So,
+some framing that I've I've kind of um
+I'm pushing on to to some of our recent
+engagements is and even
+within some of my videos, really just
+trying to just scream from the roof like
+this is
+essentially just another employee. Mhm.
+if you're going to be onboarding a new
+person, what does that actually look
+like? Well, you have to give them
+information. You have to give them
+context about the business, what your
+processes actually look like. That is
+exactly what you're doing with this AI
+system. So, um
+more specifically, creating your Claude
+Code environment. So, um
+creating the Claude MD. So, finding out
+taking inventory of any SOPs you guys
+currently have, any context about your
+business, even if you just provide it
+with your website. And so, literally
+going to Claude Code or going to Claude,
+whatever um
+tool you're actually using, you can just
+type out like, "Okay, here's my website,
+a little bit about us."
+And then, I mean, one, it's going to
+research your website. It's going to
+find plenty of information about what
+you guys do, who you are, who you've
+worked with, or you can just provide it
+with that information. And then from
+there,
+really describe like what you're trying
+to get out of this. So, you can create
+different Cloud Code projects. So, for
+example, this is short-form. I have so
+many other ones. Um,
+So, I have one that is for long-form. I
+have a Hermosi consultant. I have one
+for creating LinkedIn posts and anything
+for our B2B education side. I mean, the
+list goes on and on. So, I'm just
+creating a different environment for
+each purpose. So, if you want to create
+one that's for creating content just
+like this,
+just start with providing it context.
+Start with providing it like what you
+want to get out of it, things that you
+have learned in the past, or you can
+just have it research extensively. So,
+you can say something like, um,
+"I need you to find the
+top short-form
+video process for Instagram." So, you
+have to research different communities.
+Don't bias to like the first thing that
+you find and find like generally like
+what is the best approach that people
+take for creating short-form videos.
+So, something like that. It's going to
+do a hell of a lot of research for you.
+It's going to compile everything that it
+needs. I actually took an approach,
+doing something like this for LinkedIn
+and X. And I've yet to actually put it
+into practice,
+but interested to see how that's going
+to end up turning turning out. But, I
+guess, uh, I'll have to keep you in the
+loop within the next few few weeks or
+so.
+Well, and I I think you nailed it,
+right? That talking about how important
+context is and looking at AI like it's
+an employee, because that's exactly what
+it is. And that's something I tell
+people is like, "Look, you wouldn't
+expect to hire a brand new employee and
+them to be perfect and knocking it out
+of the park on day one, right? But, on
+day 30 and day 60 and day 90, once
+you've trained them and given them your
+SOPs and talk showed them about how you
+do business,
+they're going to do a great job. And
+it's the same way with AI.
+Uh and another thing I've said in my
+content in the past, too, is that like
+the era of prompting, it's over, is
+over. We're in the era of context now.
+And context is is what's most important.
+Like knowing how to prompt, they they
+pretty much solved that. Like you no
+longer have to say like, "Hey, act like
+a world-class copywriter." Whatever this
+stuff that people used to say, it's like
+you just give it good context and a good
+clear prompt, and it can go out and and
+do exactly what you needed to do, just
+like a really well-trained employee. So,
+I think you're spot-on with that.
+Yeah, most definitely. I think I think
+it just comes down to AI being put on a
+pedestal and all this
+hype on the internet. So, everybody
+comes in with these expectations that
+like it's going to solve all your
+problems on day one with when it's
+clearly not the not the case, but yeah,
+I guess that's just uh
+what it comes with uh
+utilizing the internet.
+Yeah, for sure. Well, Nick, this has
+been fantastic, man. So, of course we're
+going to link your YouTube channel in
+the description and in the show notes.
+But aside from YouTube, do you want to
+send anybody anywhere to go and connect
+with you or or work with you? Maybe if
+they need AI implementation in their
+business?
+Yeah, absolutely. So, um any of you
+watching, any business owners, anyone
+who's looking to to upskill their team,
+educate their team, and really just
+become AI native within the next decade,
+then you can book in a free call. I'll
+have a I mean, links are all over all my
+platforms, YouTube, wherever this I
+don't know um everywhere this is going
+to be posted, but you can check out
+inside of my bio.
+And um yeah, with that being said, I'm
+pretty much across all different
+platforms, Nick Peruse, so you could
+guys can uh can check me out there.
+Awesome. Well, Nick, thank you for your
+time, man. And be sure to go check out
+his channel, guys. He's got some really
+good stuff on there.
+And for everybody in the audience, we
+will be back soon. Thanks, Nick.
+Awesome. Thanks, Clay.

@@ -1,0 +1,429 @@
+I put Perplexity Computer head-to-head
+against Manifold and I gave each of them
+three real tasks that you literally
+cannot do with a normal chatbot like
+Claude or ChatGPT. So, these tasks were
+turning deep research into a live
+website, pulling data from your Gmail
+and your Google Calendar, and then
+turning them into a formatted
+deliverable, and then scraping five live
+websites to build charts and
+recommendations. Now, one of these tools
+absolutely dominated the other in these
+tests, and in this video I'll show you
+how each one performed so that you can
+decide which one is worth your money.
+Stick around till the end and I will
+give you my honest recommendation, and I
+hope you enjoy the video.
+All right, so today we're going to be
+putting Perplexity Computer head-to-head
+against Manifold. Now, I love both of
+these tools. Manifold was actually the
+first agentic tool that I ever used
+probably eight or nine months ago, but
+Perplexity is my current favorite tool,
+specifically Perplexity Computer. I'm
+going to share my screen and show you
+guys exactly the three tests that we're
+going to be putting these tools up
+against. Now, for what it's worth, I'm
+on the Perplexity Max plan, which costs
+$200 a month, and then I'm on the
+Manifold Pro plan, which is their $20 a
+month plan. Now, it shouldn't make a
+huge difference as far as the output
+quality, but just wanted to put that
+caveat in there. So, the first test
+project that we're going to put these
+two up against each other with is we're
+going to do multi-source research and
+then we're going to have them deploy
+that research to a website. So, the test
+that we're going to run is can each tool
+research real data from the web,
+generate working code, and deploy a live
+functional website all from a single
+prompt. And this is the prompt that
+we're going to be using here.
+The second test we're going to run is
+can each tool read data from a connected
+app, which in this case will be our
+Google email, calendar, and drive, and
+then cross-reference it with web search,
+and then produce a deliverable all
+without manual copy and paste. And then
+the last test we're going to run is can
+each tool browse multiple live websites,
+extract structured data, analyze it, and
+produce the polished chart and summary
+all fully autonomously. Now, I chose
+these three case studies because they're
+case studies that you cannot you cannot
+do these tasks with a normal chatbot
+like a ChatGPT or like a Claude. So, I
+wanted to make these use cases specific
+to agentic tools like Perplexity
+Computer and Manifold. So, with that
+said, let's go ahead and throw the first
+prompt into each tool. So, we're going
+to copy and paste it directly into
+Manifold. We're going to click go, and
+then we're going to copy and paste it
+directly into Perplexity Computer, and
+press go, and then I will come back
+shortly once both of these tools are
+done. All right, we are back. Now,
+>> [clears throat]
+>> this task took about 9 to 10 minutes in
+total, but what's interesting is
+Perplexity finished in about 2 minutes.
+Manifold took about 10 minutes for the
+exact same task. So, what we're going to
+do first is we're going to look at the
+live summary of the data that we asked
+it to produce, and we're going to
+compare that against the real
+information that it pulled it from. So,
+Perplexity says the five most funded AI
+startups of 2025 are OpenAI at 40
+billion, Anthropic at 16.5,
+Scale AI at 14.3,
+Project Prometheus at 6.2, and XAI at
+5.3 billion. And it says that it pulled
+this information from TechCrunch. So,
+let's look at the actual TechCrunch
+says OpenAI at 40, Scale AI at 14.3,
+Anthropic at 13, Prometheus at 6.2, and
+XAI at 5.3. So, it looks like it nailed
+the figures exactly except Perplexity
+has Anthropic at 16.5 million,
+and Anthropic, according to TechCrunch,
+was only 13 billion, but it turns out I
+think Perplexity pulled that data from
+both their
+E funding round and their F funding
+round, series E plus series F, whereas
+the TechCrunch article is only reporting
+on the series F. So, theoretically
+Perplexity is still right. Now, we asked
+it to deploy
+basically turn this information into a
+website that has a publicly shareable
+URL. So, this is a more subjective
+rating, but if we look at the website
+that Perplexity created, and keep in
+mind it built this in like 2 minutes,
+this is the website. So, pretty simple,
+pretty cut and dry here. It's got a
+leaderboard as far as the funding is
+concerned with OpenAI leading as we
+said. You know, nothing too fancy here,
+right? This looks pretty good for a
+simple one-shot exercise. We gave it no
+guidance or feedback in terms of UI
+design or how the website should look.
+So, all things considered, I mean, the
+fact that we gave it no guidance, this
+looks pretty good. And it is shareable
+in the sense that in the top right we
+can click share. Right now, it's private
+only to me, but I can change it to where
+anyone with the link can view this
+website. So, that it passed the test of
+creating a website with a publicly
+shareable link. Now, if we go over and
+look at Manifold. So, Manifold again did
+the exact same thing, but it took it
+about 10 minutes total. It found the
+exact same results. OpenAI at 40
+billion, Anthropic at 16.5. It also,
+which is interesting to note, combined
+Anthropic's series E with their series F
+into 16.5.
+Scale AI at 14.3, Project Prometheus at
+6.2, and XAI at 5.3. So, as far as the
+accuracy of the data, it is spot-on.
+Now, here's the actual website that
+Manifold built. So, we see it's a little
+bit of a different theme, more of kind
+of like a spacey vibe, white and blue
+font, and then a little bit of gold
+thrown in as well. It laid it out very
+similarly to how Perplexity laid it out.
+It's just a different UI design overall.
+So, again, this is a very subjective
+rating as far as like which website
+design I prefer. I think the Manifold
+website design actually looks a little
+better. I just like this style and this
+vibe a lot more. But as far as accuracy
+of the data and everything that we asked
+it to do and deploying it to a public
+URL, both of them completed the task
+perfectly in an acceptable fashion.
+Again, in the top right we can click
+publish to where anyone with the link
+can view the website, so it passed that
+as well. So, all in all I'd say this
+first task was a tie. They both did
+exactly what we asked them to do, but as
+far as the UI design, I think Manifold
+slightly edges out Perplexity Computer
+in this first exercise. All right, so
+now we're going to do we're going to
+give it a new task. We're going to give
+it the second task in the use case test
+here, which is to check my Gmail for the
+most recent email, and then which is a
+test email that I sent it. It's going to
+extract project names and deadlines from
+it. Then it's going to check my Google
+Calendar for any conflicts with those
+deadlines in the next 30 days. And then
+lastly, it's going to create a Google
+Doc titled Q2 Planning Summary that
+includes a table with each project, its
+deadline, and then whether there's a
+calendar conflict on that date. So, as
+we did before, we're going to go back
+into Perplexity Computer, hit new task,
+paste in our prompt, click go. Same
+thing with Manifold, paste in our
+prompt, click go, and I will be back
+when each of these are done. Both tools
+have now completed the task. Now, again,
+it's worth noting that Manifold took
+again roughly 10 minutes to do this
+task, but I think is a relatively simple
+task. Perplexity Computer finished it in
+about 60 seconds. So, if speed is a
+priority, Perplexity Computer thus far
+is absolutely the winner in that
+category. Now, let's check out the final
+result. So, again, what we wanted it to
+do was check our calendar or first of
+all extract a specific email that I'd
+sent to myself with our Q2 planning
+project names and deadlines, then check
+my calendar for any conflicts with those
+deadlines, and lastly create a Google
+Doc that includes a table with each
+project, its deadline, and whether
+there's a calendar conflict on that
+date. So, let's check out what we've got
+here. So, Manifold outputted the direct
+link to the Google Doc, which we have
+right here. Now, so what it gave us is a
+pretty basic Google Doc. It looks like
+it tried to put it into a
+table here because it has like the
+column what what look like our column
+headlines here kind of stuffed together
+in the document, but it's not in a
+calendar format. So, or sorry, it's not
+in a table format. And if we look at the
+prompt that we gave it, we specifically
+said include a table with each project,
+its deadline, and whether there's a
+calendar conflict on that date. So, it
+did what we asked it to do, but it
+didn't output it in a table. It just
+outputted it in a bunch of kind of
+jumbled it just outputted it in a
+jumbled format that kind of makes it
+hard to read. So, did it do the task
+that we asked it to do? Yes. Did it take
+a long time to do it? Yes. And did it
+give us it in the exact format that we
+asked it to give it give it to us in?
+Not exactly. So, Manifold didn't do
+great with this task, and it took a long
+time to do it. So, let's go to
+Perplexity Computer and see how it
+performed. Now, keep in mind Perplexity
+did this in roughly 60 seconds.
+And what's interesting to note is I
+actually don't have my Google Docs
+directly connected to Perplexity
+Computer or Manifold, but it gives it to
+you in a docx that as long as you have
+Google Drive connected, which I do to
+both tools, you can export it directly
+as a Google Doc to your Google Drive.
+So, that's kind of a little nuance that
+as long as you have Drive connected, you
+can utilize Google's entire ecosystem.
+So, let's do that. Let's export
+Perplexity's deliverable straight to
+Google Drive and see it in a Google Doc
+format. So, it's a one-click, and here
+we have it. So,
+it looks like Perplexity Computer did a
+great job with this task. So, it did
+exactly what we asked it to do. It put
+the projects, the deadlines, and the
+calendar conflicts into a table, which
+Manifold did not do. This is a good,
+clean-looking table. It even kind of put
+headers onto the document as far as like
+here's the source email, here's a
+section for projects, deadlines, and
+calendar conflicts, and then notes at
+the bottom. So, when you compare this
+output to the output that Manifold gave
+us, I mean, Perplexity absolutely blows
+it away. Like Manifold didn't even
+format the deliverable Google Doc at
+all. It kind of just threw a bunch of
+text into a Google Doc. Whereas
+Perplexity Computer went a step further,
+formatted it properly, pulled the source
+email contents, put it into a table just
+like we asked, and then formatted the
+notes as well. And something I was
+curious about whether or not it would
+do, it did keep it to one page, right?
+We specifically said make it one page.
+Both of those tools did that, but for
+this particular exercise, Perplexity
+Computer absolutely blows Manas out of
+the water and definitely takes the cake
+for the second use case. Now, let's go
+in and give it the final use case here,
+which is data collection, analysis, and
+visualization, where we're going to tell
+each tool to go to the website of five
+popular project management tools, in
+this case Asana, monday.com, ClickUp,
+Notion, and Linear. And for each tool,
+it's going to find the price of their
+most popular paid plan, and then it's
+going to compile the pricing into a
+spreadsheet, and then it's going to
+create a bar chart comparing all five
+tools by price, and then it's going to
+write a short summary, three to four
+sentences each, identifying which tool
+is the best value and why. And then
+lastly, it's going to deliver the
+spreadsheet, the chart image, and the
+summary as separate files. So as before,
+we're going to go into Perplexity
+Computer, simply hit new task, copy in
+our prompt, press go, and we're going to
+do the exact same thing in Manas, new
+task, copy in our prompt, press go, and
+I'll be back with the output of each
+tool. So they are both done now. Let's
+look at the output first starting with
+Manas. So remember, we asked for three
+deliverables from each tool. One, we
+asked for a spreadsheet with all the
+pricing data and the source URLs. Next,
+we asked for a bar chart, uh basically
+comparing all five tools visually. And
+then lastly, we asked for a summary, no
+more than four sentences,
+uh with the recommendation for which
+tool would provide the best value. So
+for Manas, here is the bar chart that it
+gave us, pretty simple image here. Uh we
+see the best value box kind of overlaps
+with the pricing here, so it's like a
+slight visual flaw, but all in all,
+pretty good-looking bar chart, no
+complaints there. Next, we're going to
+look at the spreadsheet that it gave us
+comparing the pricing. So it did exactly
+what we asked. It took Asana,
+monday.com, ClickUp, Notion, and Linear,
+and I did verify this pricing, so this
+pricing is all accurate. We did ask it
+to give us the a quote based on the
+annual pricing option per seat, so this
+is all accurate, and it included the
+source URLs, so it did that process just
+fine. And then lastly, we asked for a no
+more than four sentence summary of which
+tool it recommends. So I'm really just
+going to count the sentences here, so
+that's one, two, three sentences. So
+this did exactly what we asked it to do.
+And Manas recommended ClickUp as being
+the best overall value with the business
+plan that it offered. So another thing
+to notice, Manas actually did this task
+a lot faster than Perplexity Computer.
+Perplexity Computer actually got stuck
+for a little bit trying to find Asana's
+pricing tier,
+and it took a couple of minutes, but it
+did fix itself, and it did find the
+information. So this is the one task
+that Manas beat Perplexity in terms of
+speed. But now let's look at the output
+from Perplexity. So the first thing that
+it gave us is the uh spreadsheet that we
+asked for listing the pricing, and it
+pretty much gave us the exact same
+output as Manas. All the pricing matches
+what Manas gave us, with the source
+URLs, annual cost per user, price per
+user per month billed annually. So it
+did exactly what we asked it to do
+there. Next, we asked it for a bar chart
+comparing the pricing of each tool. Now,
+I will say Perplexity's bar chart is a
+little better. Again, this is
+subjective, just my subjective opinion,
+but there's no overlapping in terms of
+like the font or the numbers or anything
+like that, pretty clear and easy to
+read. So uh Perplexity maybe edges it
+out slightly just on for that
+deliverable. And then lastly, the we
+asked it to generate a summary listing
+its recommendation for the tool that we
+should use, and it looks like Perplexity
+also recommended ClickUp's business
+plan. see how many sentences it gave us.
+So it gave us one, two,
+three, four. So it also did what we
+asked it to do, and gave us four
+sentences or less, and it also included
+the sources in the pricing summary,
+which we didn't necessarily ask it to
+do, but it's kind of a nice touch. So
+for this final task, it really is a tie.
+I mean, the output is roughly the same
+across the board, and uh Manas did just
+as good of a job here, even a little
+quicker than Perplexity Computer. So
+you're probably wondering at this point,
+what is the consensus? What is my
+overall recommendation between Manas and
+Perplexity Computer? And considering the
+fact that Perplexity absolutely blew
+Manas out of the water for the second
+task, and the fact that it's five to 10
+times faster in its output, I give
+Perplexity Computer the edge over Manas.
+I think the UI is cleaner, I think it's
+easier to use, I think it's more
+powerful overall, and it would
+definitely be my recommendation if
+you're deciding between Manas or
+Perplexity Computer. So I hope this
+comparison video is helpful. I have
+another video comparing Perplexity
+Computer head-to-head against Claude
+Co-work. We will link that in the the
+description below in the show notes. Be
+sure to go check that out. And if you
+like comparison videos like this, then
+leave a comment or send me an email and
+let me know, and I'm happy to do more
+just like them. So thanks for watching,
+and I'll be back next week.

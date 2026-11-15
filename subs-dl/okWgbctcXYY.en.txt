@@ -1,0 +1,619 @@
+How do you go about finding the right AI
+solutions to sell? This is by far the
+most important question that you need to
+answer for yourself if your goal is to
+make money selling AI to companies
+because it will either make you allow
+you to effortlessly make six figures,
+multiple six figures a year or even
+millions of dollars every single year or
+lead you to the path of being a
+commodity where you're unable to charge
+more than $30 a month or $100 a month
+for your solution. Okay? And if you stay
+till the end, I'm actually going to jump
+into my screen and walk you guys through
+this custom AI research assistant that
+we built that allows us to go into
+different markets, uncover different
+pain points, and figure out the right AI
+solutions to essentially bridge the gap
+for this specific niche. But before I go
+into that, let me go over why I even
+want to talk about this subject.
+Yesterday, I was on a call with a
+customer who joined the webinar that
+we're doing, build and release AI
+webinar, and he's been running an
+agency. And one of his biggest
+bottleneck is at least from the question
+that he asked me is, "Hey Serge, like I
+see that everyone is just selling the
+same old low barrier solutions, right?
+People are selling AI, voice agent, chat
+bots, AI WhatsApp letters, all that good
+stuff, right?" And he's like, "Well,
+what's the point of selling this if
+everyone is selling it, right? Meaning,
+I don't have a way to stand out. I'll
+show you how to stand out from all the
+competition from leveraging this AI
+research and offer building assistant
+that will allow you to find unique
+problems, unique AI use case that you
+can leverage to build a unique AI growth
+infrastructure. But before I do that, I
+want to talk to every founder, operator,
+professional, someone who already has
+something going on and who's doubting
+the process of taking advantage of this
+AI opportunity and jumping all in
+because they're like, I don't want to
+get into a vehicle where I end up just
+competing with everyone and not have a
+moat, not have an edge over everyone
+else. Okay, here's what you have to
+understand. In AI, the way you stand out
+and win has actually nothing to do with
+the actual tools that you leverage. And
+that is the good thing. There's only two
+things that matters in this AI race. The
+first one is product market timing. In
+business, you want to make money. You
+have to get the product right. You have
+to get the market right. But most
+importantly, you need to get the timing
+right. The person who gets in first
+makes most of the money. And when I say
+most of the money, I mean the agency
+owners who start selling AI today, the
+consultant who start leveraging AI in
+their offer today is going to probably
+make 80% of the money that is to be
+made. And the person who jumps in next
+week, 6 months from now, a year from
+now, will have to scramble and fight
+over the remaining 20%. Because I can't
+tell you how being early changes the
+game for an entrepreneur. When you just
+get in late and demand and supply have
+kind of like hit equilibrium, there is
+no money to be made, right? It's just
+enough money to survive. But the people,
+the reason why a lot of people are
+launching AI offers are scaling faster
+is not because they're better, smarter,
+or whatever. It's because supply is
+infinitely lower than demand. So they
+just put up an offer on ads. They just
+do cold outreach and people jump on
+sales calls and they want to buy their
+thing. So the sooner you get in, the
+sooner you start making money. The later
+you get in, the harder, like anything
+else, once something gets super
+commoditized, it is just harder to make
+money with, right? But the second thing
+is data. You have to understand that
+even if you're competing with someone
+who's infinitely less qualified than you
+at selling the same solution, the same
+kind of like function, let's say you're
+selling an AI voice agent, maybe you're
+selling an appointment set, maybe you're
+selling an AI accounting agent, right?
+You have to understand that even if
+someone can subscribe to a platform that
+allows them to build the same solutions
+and functions, the thing that matters is
+not the solution itself. It's the
+knowledge and data that is used to
+create these agents. So, as long as you
+know more about a specific field, about
+a specific function than the next
+person, you're going to make money. AI
+is not where you win. AI is not the
+moat. You cannot get a moat with AI. You
+can only get a moat from knowing more
+things, from having more depth, and from
+having more data. So, this is why I
+believe that the people who are actually
+going to win the most at this AI race
+are people who already have business
+experience, not the kid who is excited
+about selling chat bots. Like, I'm
+sorry, but I see a lot of people are
+like telling people that, oh, you can
+make a money, a lot of money with AI,
+and they're super beginners. They don't
+have any depth in any field. I'm like, I
+don't know what AI you're talking about,
+but nobody's going to buy I mean, I
+don't know if you guys have noticed, but
+like Jasper.AI, a copyrightiting
+solution, it's like $29 a month. Chat
+GPT is free. All these solutions are all
+commoditized. Voice Agent, Synthflow,
+Assistable, all of these are $30 a
+month, $49 a month. Which means that the
+solutions, the tech itself is a
+commodity. AI is a commodity. Once you
+take the AI, the technology, and then
+you add in your IP, your proprietary
+kind of like workflows and knowledge and
+processes, that's where you win. So, it
+doesn't matter if there is more people
+still selling the same plane as you, as
+long as you know how to stand out from
+having more depth. And which is why as
+I'm about to walk you guys through this
+AI kind of like offer building assistant
+and research assistant that we built,
+you guys will see that we never start
+with the AI solution. We always start by
+gaining depth into the market that we
+want to sell to. So, let's get straight
+into it. Before I walk you through the
+results of leveraging this custom GPT
+aka research assistant, it is important
+to understand the context out of which
+we built it. At client acquisition.io,
+we specialize in finding markets,
+finding gaps within those markets and
+creating systems, growth infrastructures
+to essentially bridge the entire gap for
+that market and allow it to access the
+same efficiency as the top 1% of an
+industry. Okay. So our job is is
+literally finding the right markets,
+finding the right problems, finding the
+right solutions for those problems,
+right? That's what people pay us for
+tens of thousands of dollars to help
+them do when we're launching companies
+for clients and partners. That's what
+they're paying us to do. It's because we
+have the right frameworks and we also
+have data from having done this in over
+70 different markets and helped almost a
+thousand people launch companies and
+help them with their go to market. So
+what did we do? We plugged in our entire
+frameworks. Okay, prompted it. And the
+other thing is that it also has
+knowledge base and data on some of the
+offers that we're currently scaling. So
+when you're leveraging this, it is
+important to understand that it's not
+like asking Chad GPT like hey like
+you're not asking it questions. All
+you're doing is you're just giving it
+inputs. Okay. So here are the inputs.
+You have three ways of starting to
+leverage this custom kind of like GPT.
+You can either already have a market
+that you want to go after. The second
+thing is you can either decide to go
+after a local service business, a local
+service kind of like market. Three is
+maybe you pick to go after online
+service businesses, right? In this case,
+I chose that I wanted to go after online
+service businesses. And what it did is
+it decided to recommend me around 10
+different niches within the online
+service world, right? You have online
+coaches, so business uh life coaches, uh
+course creators, right? It will give you
+the size of the market. It will give you
+the average revenue. It will give you
+the growth rate. It will give you the
+average order value. It will give you
+the lifetime value for these businesses.
+Why is that important? Well, it's
+because that's how we go about selecting
+different markets. It is super
+important. You don't want to pick a
+market that doesn't have a high growth
+rate. You also don't want to pick a
+market that has a low average order
+value. You're not going to go to someone
+who only makes $50 per client and say,
+"Hey, here is an AI solution that cost
+$10,000." They're going to think you're
+crazy. You're delusional. They literally
+need so many clients to make that money
+back. There is no point in buying it at
+a premium. But if you find someone who
+makes on average $3,000 per client and
+whose LTV for each client they get is 30
+grand, do you know how much money you
+can make them? Literally, you make them
+an ROI from just installing one AI
+solution. That gets them the efficiency
+to make an extra client without have
+them working harder. That's why we have
+all these things. Now, I'm not going to
+go over the logic behind it. You just
+get it all pre kind of like set up in
+this GPT in this custom GPT. Okay. Then
+the next thing is once it's giving you
+the top 10 kind of like service or kind
+of like businesses to go after in the
+niche then you have to select one. In
+this case I was like well I'm going to
+go and select uh course creators. The
+next thing that we will do is it will
+then kind of like analyze the market
+right it will send you again the size of
+the market. It will give you the average
+revenue per on average per business.
+Okay. It will give you the average order
+value. It will give you the average LTV
+for the clients that they acquire in
+this market. the growth rate, the common
+tools that they use, right? It will also
+explain why this niche is gold. Again,
+guys, please understand this. We're not
+starting with AI. Nobody cares about AI.
+AI is not how you make money. You make
+money from understanding the people
+you're going to sell to and their
+problems. Okay? Which is why most people
+end up making a lot more money are
+selling to people just like themselves
+because you understand yourself better
+than anyone else. Right? Now, here's the
+next thing. Then it will give you
+reasons why uh this niche is good. The
+first one is most cruc creators sell
+knowledge not time. So scaling is
+possible without adding hours. They face
+major plateaus between 10 to 30k per
+month due to broken systems. They're
+tech comfortable meaning they welcome AI
+when it's it saves them time or boosts
+conversion. Many feel burnt by growth
+hacks or generalist marketers. Right? In
+the info space and the course creator
+space you guys know that there's so many
+marketers out there who are not good at
+what they do who release new tactics
+every single day. So they create
+specific high lever systems. Part two of
+this gap analysis, it will then identify
+three critical pain points that most
+course creators suffer from. Each of
+which AI can crush with precision. The
+first problem is lead conversion is
+manual and unscalable. The old way that
+they turn leads into appointments and
+into sales is manual follow-ups with DMs
+or long email sequences, calendar links
+sent back and forth, wasted leads due to
+poor nurturing. Okay. And on top of that
+there is a second order consequence from
+these problems or these inefficiencies
+which are great content creators stay
+stuck at 30K per month. There's a high
+lead drop off rate. Okay. So average 70
+to 80% never book or buy never book a
+sales call or never buy anything. Right?
+And then the other thing if you
+experience all of this you end up with
+what you end up emotionally drained.
+They start thinking that hey maybe this
+won't work. Okay, these are great
+stories you need to understand because
+when it comes to selling AI, if you
+cannot tell this back to the prospect,
+you're going to go to them and say, "Oh,
+I have a chatbot that can set for you."
+They're going to be like, "Okay, why
+would I pay $5,000 or $10,000 for it?"
+Right? They won't see value in it,
+right? And then here it will say, "Hey,
+conversational AI using Synlflow to
+triage, qualify, and convert leads in
+real time." Today, as I record this
+video, we have one client that we've
+launched into the local market who had
+his AI voice agent selfell and book an
+appointment within the niche that we
+kind of like launched the offer, right?
+So, we're leveraging AI to actually
+convert appointments instead of
+leveraging setters, which has been
+successful. Another client saw an
+appointment come in from the AI WhatsApp
+agent. Anyway, I don't want to go on a
+tangent, but check this out. And then it
+will then show you like, hey, paired
+with automated pipeline workflows on GHL
+or make. Okay, then turn dead leads into
+booked calls and or uh instant course
+buyers, right? So you can either book
+sales calls or just send them to make
+purchases, right? Keep watching cuz at
+the end you can also ask him more
+questions, right? And then the next
+problem is offers lack personalized
+positioning and don't stand out. Okay,
+essentially here like everybody copy
+paste frameworks from YouTube or coaches
+struggle to communicate real
+transformation. Hard to justify premium
+pricing. Most people in the course
+creator world don't know how to create
+premium prices. They're also dealing
+with the same commoditization that I try
+to get as many people to stay away from.
+So, this pain story is one 10K a month
+creator used the value ladder strategy
+she saw in a webinar. After 3 months and
+$7,000 in ads, she only made two sales.
+But when she shifted to a premium
+positioning to an AI generated offer,
+she booked 12 sales call in 10 days and
+closed four deals at 3K. AI solution.
+Use assistable custom prompt library to
+generate 100% personalized high
+converting offer, page and VSSL uh
+scripts. Okay, so you can build custom
+GPTs, all that good stuff. Each version
+is tailored to the audience pain, niche
+promise, and creators story. Reuse and
+remix for paid ads, upsells, and launch
+cycles. Three, manual course launches
+burn out the creator. Old method launch
+is stressful. Endless editing, no
+evergreen system relies on the creator
+to do it all live. Webinars, countdowns,
+all that good stuff, right? The
+consequences they launch once every six
+months or give up. Revenue stalls
+between launches. Mental burnout. AI
+solution. Build an evergreen launch
+machine using prei uh pre-written AI
+scripts. Logic flows. AI generate
+urgency mechanism. AI SMS phone tweaks
+combined with the automated nurture and
+buyer sequences. Okay. So, as you guys
+can see, it's kind of like giving you
+the overview of the problems and the
+solutions and the pain created by these
+problems. Okay. Then after that, it will
+go into asking you what's your current
+monthly budget that you're willing to
+reinvest into client acquisition. Right?
+So you can say $1,000, you could say 500
+bucks, you could say $5,000. And the
+reason why we do that is because we
+essentially want to get it to lay out
+the gotomarket strategy, the client
+acquisition process that you should
+actually follow, right? So the AI, it
+will build your offer, step-by-step
+integration, unique mechanism, uh
+ideation, and GTM strategy breakdown and
+monetization model. Okay? as well as
+wave-based profit growth scenario. I'll
+explain a little later. So, check this
+out. Now, let's get into part three,
+which is AIdriven offer and 1 hour
+delivery system for course creators. One
+problem is that we want to focus in is
+in this niche is I can't scale because
+I'm the bottleneck in my lead
+conversion, launches, and content. We'll
+solve this with a growth infrastructure
+built around three pillars. And the
+solution, we're going to call it kind of
+like AI launchpad for course creators. A
+fully productized system that automates
+lead qualification and conversion via AI
+DMs or embedded chat. High converting
+sales page and offer script via
+evergreen prompts. Evergreen AI launch
+campaigns, email, SMS, urgency, deadline
+logic. This lets course creators uh grow
+without having to run themselves into
+the ground every 90 days. Right? The way
+we prompted it is to kind of like share
+what something that can be built within
+an hour. But you could also say okay I
+have 5 hours per client or 10 hours and
+the more hours you kind of like increase
+the more sophisticated the solution.
+Okay, so here we'll kind of like give
+you the system component AI sales
+assistant. You use synth flow or uh bot
+press. Productize or process is plug-in
+lead qualify flows and upset logic.
+Personalize offer and VSSL generator.
+Assistable and chat JPT. Use client
+input to create a page ready assets.
+Evergreen funnel. I'd use GHL or make
+plug-andplay nurture launch campaign
+builder. Use Zapier Nad integration. You
+know, use these solutions. Autosync
+leads enrollments email logic. Okay.
+Now, how to productize it? Uh repeatable
+delivery system. First things first,
+step by step is onboarding form. I'm not
+going to go over all this stuff.
+Autogenerate sales assets. Plug into
+funnel chatbot. Go live and send
+training loom. Okay. And then at the end
+it will also suggest a unique mechanism
+name idea, right? Creator conversion
+engine ever launch AI the course scaling
+circuit uh inboxer enrollment OS
+operating system uh smart launch matrix.
+You get to choose. I personally would
+choose something like creator conversion
+AI creator conversion engine. That would
+be good. And then part four is
+monetization strategy and reinvestment
+flywheel. Since we gave it a $1,500 ad
+budget and then let's say on average
+we're going to sell the system for
+$6,000 and then the fulfillment cost is
+going to be 20% of 6K which is 1,200 per
+client which FYI is a lot more money
+than it actually would cost you to
+fulfill per client. I'm going to show
+you afterwards. But let's say you have
+CAC is 10% and cost of fulfill is is
+another 20%. So you have 70% margins
+left, right? If you were to take that
+70% from every client that you have left
+of money, okay, so if you sign two
+clients, you make $12,000, right? It
+cost you 2.4K to fulfill for both. It
+cost you 1.2K to acquire these two
+clients. You're left off with
+$8,400. If you decide to reinvest $8.4K
+on acquisition, you end up acquiring 14
+clients. And the profits created by
+these 14 new clients is what? 58,000.
+And this is again, this is in a world
+where you're not necessarily trying to
+think of all the obstacles and
+constraints that live in the real world,
+but it's you want to think of if you
+were to reinvest every single dollar you
+make in your business. You make profits,
+you reinvest into acquiring new clients.
+After reinvesting the first kind of like
+from acquiring two clients, you can
+afford to scale your business to
+$84,000. That's if you invest whatever
+you made from the first two clients of
+profit. And then if you decide to do it
+again the third time, you literally can
+take profit from 14 clients and reinvest
+it into acquisition and end up making
+over half a million dollar. And the
+truth is, the only thing keeping you
+from not being able to do this is your
+ability to be aggressive on reinvesting
+and just talent. Nothing else keeps you
+from actually getting to a point where
+in 6 months, well, I'm not going to say
+if you're a beginner, you're probably
+not going to pull this off because it's
+going to be too much going on. But if
+you're someone who's been making six
+figures, half a million dollars a year,
+maybe never crossed a million dollars,
+when you sell something that the market
+wants, it is possible to have 10% of
+your deal size be your CAC. And it with
+AI, the fulfillment cost is so much
+cheaper than you actually think. Okay,
+so for me, that's where I want to know.
+I want to know a business that I can
+reinvest three times in three waves and
+be able to get to a point where I'm
+making almost half a million dollars a
+month. Okay, so theoretically with
+starting up with 1,500, you could
+generate 400,000 in profit by wave three
+in the same month if bottlenecks didn't
+exist. This is why we charge upfront
+fees, we productize delivery and
+reinvest profits fast. If you do not
+reinvest profits fast and you just keep
+this 8,400 and you go buy shoes, you go
+buy a new car once you start making 8.4K
+4K profit per month. Well, you're going
+to have someone like me who doesn't care
+about making money today. And I reinvest
+everything three times. And while you
+were thinking that CAC is going to
+remain at, let's say, 600 bucks, it now
+goes to $1,000. And then it goes to
+2,000. Why? Because I acquired a 100
+customers while you were only looking to
+acquire your fourth, your fifth. So
+speed to acquiring customers is the most
+important thing. Okay. Now check this
+out. The next thing is go to market
+strategy. Here it will end up kind of
+like recommending what we personally
+suggest. It will give you different
+approaches, right? Instagram DM funnel,
+lead magnet plus funnel, paid ads to AI
+funnel, newsletter, sponsorships, and
+depending on which is easiest to launch,
+which is of course the Instagram DM
+funnel. Okay? And then the next thing is
+you can also decide to have it go a bit
+more in depth in setting up the actual
+infrastructure that you want to sell.
+Okay? And then here it will go much more
+in depth. It will show you kind of like
+how to plug and play a lot of these
+solutions. And the last thing that I
+also asked it is if I wanted to find
+someone to fulfill on my behalf, who
+would I need to hire? Okay. And then it
+will tell me who I need an AI
+implementation specialist or no code
+growth builder, right? Who has
+familiarity with synth flow, a go high
+level familiarity with tools like zapier
+or make prompt engineering and you know
+can also set up um you know these these
+um email SMS uh campaigns on GHL or
+other platforms like active campaign.
+Okay. And you can find them on where up
+or online jobs.ph. PH communities and
+Discords. Okay. And the role, look at
+this. Rate per install is $150 to $300
+per install when you're starting out. A
+no code is 800 to 1,200 when you have 3
+to five installs per month. So they're
+working on 3 to five installs per month,
+which at this rate is like a few hundred
+bucks per installation. But you have to
+realize that you're selling this for
+$6,000. So your cost to fulfill is $300
+to $500 per client. That's why everybody
+should be selling some level of this AI
+solutions. Okay, but anyway, I don't
+want to bore you guys with too much
+yapping. But I thought I would walk you
+guys through this because this is the
+part that I think most people who are
+telling you like, hey, use this AI
+solution, use this, are not talking
+about is that you need to understand the
+problems that these businesses are
+dealing with before you try to optimize
+for going on N8 and try to automate a
+bunch of stuff and you end up realizing
+that people don't even know why you're
+doing what you do. Okay, if you guys
+want to use this AI solution, this AI
+custom GPT, you can access it when you
+purchase a ticket to uh the AI master
+class that we have happening, click the
+link below. I'll have the link below and
+when you purchase it, you get access to
+a WhatsApp community and it will be
+pinned in the kind of like description
+of the community. Okay, but highly
+recommend. Let me know what you guys
+think of this. Is it good? Is it not
+good? Is it valuable? Is it not
+valuable? But I think this is a great
+tool. You can use it to go into all the
+different niches, local businesses. if
+you don't know who to sell to, what you
+should sell to, what you should sell to
+them, pricing, uh, client acquisition,
+all that good stuff. Okay? So, get it
+and, uh, let me know what you guys
+thought of it. Love you. Bye-bye.

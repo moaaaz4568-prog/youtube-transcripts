@@ -1,0 +1,688 @@
+I just sent over 600,000
+cold emails using six different cold
+email tools to ultimately figure out
+what the best cold email setup is. So,
+in this video, I'm going to break down
+the full 12-page report breaking down
+exactly what I did, sharing all the
+metrics and processes to control for
+everything, and share the full results
+in the sequencers and after running it
+through my own API poll to make
+everything uniform. Real quick, if you
+don't know who I am, my name is Matt
+Lucero and I run an Evo, which is a lead
+generation agency that focuses on cold
+outreach. I've sent over 10 million cold
+emails and booked over 4,000 sales
+meetings, so I do a lot of outbound and
+ultimately I'm super excited to be
+sharing these results with you because
+if you do outbound, then you are going
+to be able to get some takeaways from
+this video. So, without further ado,
+let's get into this. All right, guys, I
+am super excited to be making this video
+for you here today because this report
+is the culmination of over 600,000 cold
+emails sent just for this purpose and
+months and months of sending, tweaking
+things, making sure everything is
+absolutely accounted for. So, I'm so
+excited to be sharing this with you.
+This is the Enievo cold email platform
+report. We sent over 600,000 emails
+across six different tools. Three of
+them were sequencers, three of them were
+mailbox providers. I'm going to
+elaborate on that a little bit more and
+we did this between Q4 of 2025 to Q1 of
+2026, which is almost ending right now.
+So, real quick, if you want this
+document by the way, there will be a
+link somewhere in the description. I'm
+going to skim a lot of this. The main
+reason why is because this is 12 pages.
+When I recorded this video once going
+through everything and it got really
+long and so I'm going to try and go over
+the main bullet points to keep this more
+sharp and pointed. So, main things we're
+going to cover, summary of everything,
+goal and purpose, methodology, test
+parameters, sequencing, quirks, results,
+comparison, results and findings of the
+mailbox providers, data pipeline, flaws,
+limitations, recommendations. Now, I
+tried to structure this almost like a
+scientific study. I don't know if you
+guys had a statistics class or a high
+school science class where you go
+through studies or a high school science
+class where you see like studies that
+are done in medicine and stuff like
+that. The main reason is is because they
+do it that way because there's so many
+things to control for and I want to make
+sure that this is as robust as possible.
+So, this report outlines one of the
+largest, if not the largest, third-party
+test of cold email tools. Over the
+course of last quarter and this quarter,
+we sent 650,000 emails evenly across
+three major sending platforms,
+Instantly, Plus Vibe, SmartLead and
+three inbox providers, HyperType, Inbox
+Kittens and Zapmail to measure
+deliverability, reply rates and overall
+platform performance. We used fresh
+everything, fresh email accounts,
+randomized lead lists, same email copy,
+same warm-up periods, same sending
+windows, fresh sequencing accounts.
+Like, I'm not mixing it in with our main
+agency account. We went to great lengths
+to control for every possible factor.
+I'm going to skim a lot of it. Like,
+please read through it. If you really
+want to care about the validity of every
+single thing that I did, you probably
+won't appreciate it unless you read
+through it because there's so many
+things we controlled for. But, the main
+reason was to see if there is a
+substantial difference between mailbox
+providers and sequencing tools or if
+there's some combination where I could
+send the same amount of emails and get a
+bunch more meetings booked because that
+would obviously benefit my business
+greatly. I'm not looking for these micro
+differences and I'm going to talk about
+that here in a second with statistical
+significance. Again, throwback to
+statistics class if any of you guys took
+that. The main thing is I'm not looking
+for little point differences. I'm not
+looking for 1%, 2%, even 5% because at a
+certain scale, the statistically
+significant result might not be
+statistically significant. There might
+even be a 30% variance, but if it is not
+statistically significant, then it
+doesn't matter because it could have
+just been randomized luck. So, main
+things we did, methodology. Again,
+please read through this cuz if I read
+through every single one of this, this
+would be a multi-hour long video. We
+tested three providers, Zapmail,
+HyperType, Inbox Kittens. They all sell
+Google or Microsoft accounts. And
+between me and my head of go-to-market,
+we've used all three of them before. We
+tested these cuz they're basically the
+most popular ones on the market, at
+least the ones I see right now. There's
+plenty of more good ones. These are just
+the ones we tested. For the sake of this
+test, we used Zapmail and Inbox Kittens
+Google setups, again, cuz they're the
+most popular ones. And then HyperType's
+Azure setup because, again, I think
+that's the most popular setup on their
+platform. We purchased 246 domains for
+the Google setups with one email account
+on each and 42 domains via HyperType
+with 50 to 52 accounts. For those
+unaware, best practice for Azure is you
+send a little bit of emails across a lot
+of accounts and for Google, it's flipped
+and so we split these evenly across
+sequencers. Again, you can read through
+this. Sequencing tools, we used
+Instantly, SmartLead, Plus Vibe. Again,
+these are the most popular ones. Again,
+me and my head of go-to-market, Walter,
+have used all three of these before and
+we chose these mainly because they're
+the most popular ones. We used
+Instantly's $350 a month plan,
+SmartLead's $330 a month plan, which I
+think no longer exists. Now, I think
+it's like 100 bucks or 150 bucks. Don't
+quote me on that. And then Plus Vibe's
+$77 a month plan. Now, the reason why
+there's a big difference in the pricing
+is because we just did what was minimum
+required to send the amount of emails to
+make it even. Now, the reason why
+Instantly is more expensive is because I
+think they have a lot more bells and
+whistles. They have like website pixel
+tracking. They have their whole
+database. They have a bunch of other
+features I can't think of off the top of
+my head. Plus Vibe is not to say it's
+more bare-bones in the sense that they
+don't have a bunch of features, but they
+charge less for basically sending the
+same amount of emails. And then
+SmartLead, they just slashed their
+price, so I think it's a little bit more
+than Plus Vibe, but a little bit less
+than Instantly. Domain strategy, we used
+one registrar. We distribute the emails
+across these different .com, .org,
+.info. Every domain contained the same
+company stuff, so we used our company
+for this example. We used a
+randomization function, but also made
+sure there was an even distribution
+across the different domain types that
+we tested and there was approximately
+550 domains tested in total. Inbox
+creation warm-up, you can see all the
+different settings. We just did what the
+providers recommended for these
+settings. Note, there's some quirks with
+Instantly because they don't have
+randomization. The other two did, so
+again, that's something to keep in mind.
+Lead sourcing, we sourced all leads from
+Apollo, 10 to 500 employees, all these
+different titles. This is the rough
+composition. Here's how we did
+everything to make sure that the leads
+were evenly split. Providers like Apollo
+as an example stack some of the better
+leads at the front of the list and throw
+the less relevant leads at the end of
+the list. That can make a big difference
+in results. We randomize all of them. We
+split them into nine different chunks
+and then we split them across all the
+platforms. We did the same email copy.
+We used spin tax across all of them. We
+did a similar of a sending configuration
+keeping in mind that each platform kind
+of had their own quirks. Real quick fun
+fact, while putting together this report
+and sending out all these cold emails
+for ourselves, as you might imagine, we
+booked meetings and got some closed
+deals from this. I believe we got four
+or five closed deals as a result of
+these campaigns. So, if you want someone
+to come in and build a cold outreach
+system to be able to get results for
+your business, get you meetings on
+calendar and hopefully close deals, you
+can book a call, see if we can do that
+for you. I'm not going to guarantee that
+we can get you tens of thousands of
+dollars, hundreds of thousands or
+millions of dollars in closed deals.
+Like, we got multiple five figures in
+closed deals from this campaign.
+However, I am saying that we can take a
+look at your business, see if we can
+help you and hopefully we can do
+something like that. So, check one of
+the links below. Back to the video.
+Here's all the different timelines. So,
+we started this, started warm-up on the
+21st. We launched the campaigns on the
+10th. We stopped sending on the 10th of
+March and we sent most of the emails in
+the first, call it, month or two, but
+then there was kind of a long tail of,
+again, quirks between some platforms
+kind of dripping out emails. And again,
+you can see all the different kind of
+stuff here. Now, before we get into
+results, I'm going to get into quirks
+because this will kind of inform
+results. Despite having basically the
+exact same settings across all the
+platforms, you can see this was a
+snapshot of what the results looked like
+on January 23rd. Instantly had sent by
+far the most emails, then Plus Vibe,
+then SmartLead had sent significantly
+less. So, from what I can tell, one of
+the main reasons it's because SmartLead
+has a setting called domain rate
+limiting, which throttles sending a
+little bit, which is supposedly making
+some of the Azure stuff perform better,
+which is one of the reasons. This is
+going to come into play when we talk
+about results here because I think that
+Instantly sequencing emails faster had a
+negative impact on results because while
+we did pause during kind of the
+Christmas times, still a fair amount of
+emails were sent there. If Instantly
+sends quicker, then that would lower
+their results even though it's
+fundamentally kind of the same thing.
+Email account disconnects, some of the
+platforms had disconnect issues. So, as
+an example, like SmartLead had some more
+email accounts disconnect. Again, that
+kind of ties in with some email
+sequencing speed and some other things.
+And then master inbox tagging. One of
+the big things I noticed, and I'm going
+to jump ahead and kind of reveal the
+results, is as you can see here,
+SmartLead had the lowest amount of
+replies reported in the platform. You
+can see Instantly had more replies. And
+then if I hop on over into Plus Vibe,
+Plus Vibe had the most replies.
+Asterisk, asterisk, let me pull
+everything up so you can see. No
+screenshots, no doctoring. You can see
+I'm doing this all live. One of the
+important things to note here is, yeah,
+you can see the reply rate's the
+highest. One of the important things to
+note here is how each platform
+categorizes things. So, one thing I
+noticed specifically is that SmartLead
+would throw way more replies into their
+untracked reply section. So, under
+master inbox, there's a section here
+titled untracked replies and they would
+throw a bunch more emails in here, which
+did not get counted towards the reply
+numbers. One of the easy ways to fix for
+that is to figure out what the reply
+rate is excluding out of office, which
+I'm going to talk about here in a
+second, the human reply rate. But, all
+that being said, those are the quirks.
+Now, getting into the results. So,
+again, results, this is SmartLead. I'm
+going to refresh it again for anyone
+who's doubting any of the results here.
+While this loads, there's the results.
+Instantly, again, same thing. Those are
+the results from those campaigns. And
+then Plus Vibe, again, to see the full
+results, I have to go into the all-time
+thing here because they calculate their
+analytics slightly different. And just
+like that, those are the results. Other
+thing I did, I'm going to get into this
+dashboard here that I built that will
+kind of go over the results in a lot
+more depth. This is actually all of them
+side by side. If I can't figure out how
+to host this, it's going to be hosted
+somewhere in the description or
+somewhere in that document. But again,
+if you want to see all the different
+campaign numbers, you can take a
+screenshot there, look at all of those.
+And then I'm going to explain what these
+mean here in a second. So, after
+everything was all said and done, we
+settled everything. Here are all of the
+results. Now, one thing that I did to
+make the results uniform is instead of
+taking everything at face value, which
+is what SmartLead had, what Instantly
+had and what Plus Vibe had, I pulled in
+all the replies via an API. So, I don't
+know how to code. I used Quad Code and I
+used ChatGPT's Code X. And I basically
+fed it all the API documentation, pulled
+all the email replies into one central
+kind of spreadsheet or one CSV file. And
+then from there, I had AI score the
+sentiment of all the replies. So,
+there's no kind of weird stuff cuz one
+thing I noticed is SmartLead had more
+positive replies. I'm like, are they
+miscategorizing things more positively?
+And I want to make sure that all the
+replies are kind of categorized
+appropriately. So, here's the results
+when I adjusted for everything I
+possibly could. So, of the emails sent,
+SmartLead sequenced more in the end.
+Somehow, I think it's because Instantly
+got hung up on some of the replies, but
+they were sequencing faster. Total
+replies, PlusFive had the most.
+Automated replies, PlusFive had the
+most. Human replies, PlusFive had the
+most. Human reply percent, PlusFive had
+the most. Interested replies, SmartLead
+had the most. And then bounce rate,
+Instantly had the least. So, if you want
+the results, there they are. You can
+interpret them as you please. Those are
+the results. Now, important thing to
+note. The total replies is as reported
+by the platform. The automated and human
+replies are as scored by the sentiment
+analysis that I built. So, that way
+there's no one platform that reports
+more things as interested or not
+interested or something like that.
+Everything is scored and categorized by
+the same algorithm. So, I had Codax spin
+up a reply sentiment categorizer. So,
+basically what it did is it categorized
+all the replies uniformly. And as a
+result, these are the results that I
+got. Now, this is the important thing
+that I think is missed in a lot of
+different tests that are done is
+statistical significance. If anyone has
+a statistics class, then this is
+something you probably know. While there
+are big differences in data or
+noticeable differences in data, like you
+can look at this and say, "Man, PlusFive
+crushed Instantly." The reality is is
+while there's significant differences in
+data, one thing to note is statistical
+significance. So, for anyone who didn't
+take a statistics class, statistical
+significance basically means are the
+results actually likely to be real or is
+randomization the thing that is
+accounting for the difference in
+results. So, SmartLead has almost 2x
+more positive replies compared to
+PlusFive. But when you run it through a
+statistical calculator, it is not 100%
+statistically significant given the
+variance that it can occur at large
+scale. One thing to note, I think some
+of Instantly's results are statistically
+significant. But again, to give the
+platforms the benefit of the doubt, my
+hypothesis of why Instantly had lower
+performance, not because Instantly has
+worse deliverability, it was because
+Instantly sequenced emails faster than
+the other two platforms, which was
+disproportionately during the Christmas
+holiday period. And as a result, there's
+more out of office replies. Now, the
+reason why I have this hypothesis is not
+just a hunch. It's whenever I take the
+mailboxes, which the mailboxes adhere to
+the same platform settings, you can see
+the results are way more tightly
+correlated. Again, not statistically
+significant from each other, but they
+are way more highly correlated. The only
+kind of statistically significant
+results I found were on the most extreme
+end. And again, to Instantly's credit,
+they sent emails out quicker, which
+means that they sent more during the
+holiday season, which is when I ran
+this, which again, in turn, may have
+shown that they have less kind of
+positive replies or human reply. So, all
+that being said, you can see here like
+SmartLead had the most positive replies.
+Could that be because they sequenced a
+little bit slower and it was outside the
+holiday season, and so as a result, they
+got kind of more interested leads? That
+could be it. But higher holiday volume
+could be a reason for this. Again, I'm
+giving all the possible benefits of the
+doubt. So, there's a meaningful
+difference between what the platforms
+reported and what the actual human reply
+rate is. Again, PlusFive reported a
+almost I don't want to say 2x
+difference, but like a very strong
+difference between PlusFive and
+SmartLead. But again, whenever I pulled
+in the data, ran a sentiment analysis to
+exclude the non-out-of-office emails,
+then the results were a lot more tightly
+correlated. You can see here PlusFive,
+SmartLead, Instantly. Now, another way
+that I did this, and again, I'm going to
+show the mailbox providers. This is kind
+of more similar than the other
+platforms. Again, you can take a look at
+this. But I put together this dashboard
+that kind of breaks everything down. If
+I can figure out how to host this, I
+will. By sequencer, you can see PlusFive
+had the highest human reply rate when I
+scored it. Whenever you took the total
+replies, again, PlusFive still had the
+highest, then Instantly, then SmartLead.
+When I ran my own sentiment analysis, it
+was PlusFive, then SmartLead, then
+Instantly. When you take the interested
+replies by sequencer, this is regardless
+of me scoring it or the platform scoring
+it, you can see these are the numbers
+there. When you see the bounce rate by
+sequencer, again, you can see these are
+the numbers there. Mailbox numbers, I'll
+get into this. These are a lot more
+tightly correlated. You can see
+Hypertide had the most positive replies.
+ZapMail had slightly less. Bounce rates,
+Hypertide had the most. Again, you can
+see all the numbers here. I'm going to
+go through all this. Again, if I can't
+host this, I'm just going to scroll
+through this. So, again, if anyone wants
+to screenshot, read through all these
+results, it's going to be all here in
+the video. Automated replies by
+platform, so SmartLead had the least
+proportion because they threw a lot of
+the positive replies in the untracked
+reply section. Sentiment analysis,
+again, you can check out all these. It
+looks like the best performing positive
+reply rate was SmartLead with ZapMail.
+All that being said, the most important
+thing that I want to call out with this
+entire study, despite how much data and
+how much effort, I would have loved for
+there to be the quick and easy fix is
+whenever I run a statistical
+significance calculator with a
+reasonably high confidence. Again, I
+could try and bump it down, but there is
+always a chance that some of this data
+is too random, and I don't want to make
+kind of rash judgments based off of
+that. But all that being said, those are
+the results. Again, if you want to
+screenshot it, based off if you just
+want the headline, okay? It looked like
+Hypertide performed the best out of the
+mailboxes, and it looks like PlusFive or
+SmartLead performed the best depending
+on what you're scoring things by.
+Despite you can read I have 12 pages of
+kind of accounting for things, there are
+still so many ways that even the
+slightest change can make a difference.
+And then, when you account for
+statistical significance, it's basically
+impossible to find any sort of result
+difference. So, all that being said, one
+of the biggest challenges in this study
+was trying to make everything uniform.
+So, each platform categorizes stuff
+differently. SmartLead over-indexes on
+untracked replies. Instantly and
+PlusFive had the inverse. Each platform
+tags things differently. So, I made my
+own kind of API here, and this kind of
+makes the stuff more uniform. So, I kind
+of jumped the gun here, but here is the
+flaws and limitations. Again, I poured
+so much money into this, so much time
+into this, multiple weekends, multiple
+like full workdays into this, but I
+still want to point out all the things
+that could be wrong with my sweet baby
+here that I put together. The first
+thing is that no study is perfect. This
+is just documenting everything that
+could be wrong. The first is the
+Christmas timing. Again, I kind of went
+over this. Second thing is inconsistent
+warm-up behavior. Every platform has
+slightly different warm-up. Instantly's
+warm-up algorithm, not to say this in
+kind of a negative way, but it did not
+follow the configured settings as
+tightly as some of the other platforms
+did. PlusFive and SmartLead had a little
+bit more manual control. SmartLead, they
+had more inbox disconnections. You can
+see SmartLead had 73, Instantly had 13,
+PlusFive had zero. In SmartLead, we used
+domain rate limiting because that was a
+SmartLead unique setting. We tried to
+use unique settings. So, in PlusFive, we
+used their specific warm-up pool stuff.
+And in Instantly, we used some of the
+other settings they had in there. Again,
+we're sending from a single offer.
+There's untracked replies. There's
+sentiment analysis. There's no ESP
+matching. So, we only tested three
+tools. You can see we were going to test
+Pager, they weren't ready in time. We
+were going to test Email Bison, but they
+didn't want to participate. We ran a
+similar test with them a while back,
+again, way smaller, but we found kind of
+similar results to what I'm showing
+here. The point is is that there's so
+many different permutations and so many
+different ways you can do this. And so,
+again, I'm only testing a small slice.
+That being said, what are my final
+recommendations after sending hundreds
+of thousands of emails and testing all
+these different platforms and pouring my
+heart and soul and so much resources
+into this, the results are basically the
+same, okay? Now, while you might see,
+someone could look at this and say,
+"Hey, or there's somewhat significant
+differences." I would implore you to go
+to a website, calculate the statistical
+significance, see if it holds up, and
+then try and account for literally every
+single variable cuz there's so many
+variables to account for. All that being
+said, all the platforms I mentioned in
+this video are great tools if you want
+to send cold emails. So, if you want my
+opinion from all this, you can see
+there's two ways you can look at this.
+All right, so one way you could look at
+this is you could say, "SmartLead is the
+one that gets the most interested
+replies. PlusFive has the best
+deliverability. Instantly has the best
+bounce rate algorithm." The reality is
+is I think they're all pretty much the
+same except whenever you account for
+statistical significance, they're
+slightly different, right? Same thing
+with the mailbox providers. So, my
+takeaway from all of this, again, the
+whole kind of report, I put so much
+effort into this to hopefully find an
+answer here. What I found or my kind of
+interpretation is the results are
+basically the same. The tool does not
+determine your performance. Your copy,
+your list, your offer, your
+infrastructure hygiene, all this stuff
+determines it a lot more. Again,
+overall, all these platforms are great.
+You could pick any platform. You could
+pick SmartLead, PlusFive, Instantly. You
+could pick Email Bison. You could pick
+ZapMail, Hypertide, Inbox Kit. You could
+pick Scaled Insights. I can name off all
+the different providers, so many
+providers. Not to say that all of them
+are perfect. These are the three that I
+tested, these are the three that I'm
+going to focus on. But the main thing
+that I found is you're not going to see
+substantially different results between
+platforms and between mailbox providers
+when holding all the variables constant.
+Again, assuming you're using the name
+brand kind of tools. There are sketchy
+kind of weird tools that you can use
+that aren't proven out, and yes, you
+might see worse results with them. But
+again, these are kind of my final
+thoughts. So, all that being said, so
+for all the people out there watching
+this video and want to know what
+actually moves the needle and what
+actually improves cold email
+performance, what I got to tell you is
+if you're spending time agonizing over
+which platform to use, you're optimizing
+for the wrong thing. Variables that
+actually matter are list, offer, email
+copy, infrastructure hygiene, follow-up
+speed. Just pick a platform, get good at
+using it. All these platforms have pros
+and cons. They all have different
+pricing. Some of these platforms have
+more features, some of them have better
+support, some of them have better stuff
+at scale. All that being said, my
+recommendation is that all the platforms
+I mentioned in this video, I think are
+great tools, and there's plenty of more
+platforms I didn't mention in this video
+that are also great tools. So, that's
+pretty much it for this video. If you
+want to work with us, check out
+anevo.com. All right, so wrapping up
+this video, I want to give a few
+shout-outs. Shout-out Taylor Herren.
+This project was a huge inspiration from
+a similar test that you ran. Shout-out
+Walter on my team for putting together
+all these campaigns because there are so
+many things that we controlled for.
+Walter spent multiple weekends putting
+this together, and myself spent multiple
+weekends putting this together. So,
+shout-out to him. And then shout-out to
+all the tools mentioned in this video.
+These are such great tools, and
+shout-out to all the other cold email
+tools that I didn't mention in this
+video. That's all being said, if you
+want to dig through this report and see
+what you can find, this is all going to
+be linked somewhere. Really appreciate
+you watching this video, and hopefully
+you got value out of this.

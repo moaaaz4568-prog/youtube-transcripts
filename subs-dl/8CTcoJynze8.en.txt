@@ -1,0 +1,438 @@
+Your cold email copy could be perfect.
+Your offer could be a no-brainer. Your
+lists could be fully accurate, but if
+your landing in spam, literally none of
+that matters. And the truth is, most
+people have no idea their emails are
+even going to spam in the first place.
+And you see, we send over 12 million
+cold emails [music] every month across
+all of our clients. And we have systems
+that show us exactly where every single
+one of those emails lands. So, in this
+video, I'm showing you the exact process
+we use to make sure we actually reach
+the inbox even when sending hundreds of
+thousands of emails per day. So, the
+first question is, what [music] actually
+causes spam? Before we get into
+solutions, you need to understand what's
+actually sending your emails to spam in
+2026. As Google and Microsoft are doing
+things that we have never seen before,
+and there's new players popping up in
+the market all the time. And you see,
+most people think it's just about domain
+age or warm-up. And those certainly
+matter. In fact, all of these things
+matter, but there's like 50 variables
+that can influence it. So, it's only
+just a small part of the equation. The
+real issue is that email providers are
+looking at dozens of factors
+simultaneously. And here's what I
+believe Gmail and Outlook are actually
+evaluating right now. One, they're
+looking at your sending infrastructure.
+Are you using legitimate accounts with
+proper authentication? The basic stuff.
+Your sending patterns. Do you look like
+a human or a bot? They look at your
+content. Does their AI categorize your
+messages as sales, spam, or legitimate,
+something that they would want to flag
+to the user? When they look at recipient
+engagement, are people opening,
+replying, or marking your emails as
+spam? And the challenge is that all of
+these factors interact with each other
+and layer upon one another. And you
+could have perfect infrastructure, but
+terrible copy, and the whole thing will
+burn to the ground. You could have great
+copy, but send from a burned domain and
+you're still going to go to spam. And
+everything has to work together as a
+perfect system. Cuz if just one of these
+50 things isn't perfectly set up, the
+whole thing doesn't work. I mean, here's
+a here's a real example of how sensitive
+this could be. We had a client where we
+changed one character in their emails.
+We changed capital A capital I ai to
+capital A lowercase I. And that single
+character out of a about a 100 character
+email that we were sending, that single
+character took them from zero positive
+replies to five positive replies the
+very next day. And the difference
+between spam and inmox can be that
+precise. And it hasn't always been like
+this. This is new stuff that Google
+Microsoft are doing right now and
+rolling out that is affecting everybody.
+I met with a uh prospect yesterday and
+they were tracking open rates and they
+had a 10% open rate and I was like, I
+know for a fact you are not delivering.
+And so we see this all the time. That's
+why fixing deliverability and
+maintaining deliverability requires a
+systematic approach. You can't just
+focus on one element and hope for the
+best. You need to address infrastructure
+uh technical setup and content all
+together as one cohesive unit. And
+Google and Microsoft are changing the
+rules every day and not even telling you
+those rules in the first place. Let's
+start with infrastructure. Most people
+make the mistake of using a single
+sequencer and they maybe even purchase
+domains from one single provider or
+maybe they even purchase the domains on
+their sequencer and when something fails
+and it will their entire operation stops
+working instantaneously and we approach
+this completely differently with full
+redundancy built in. I actually don't
+know anybody who does exactly what we do
+up to the level that we do it at all in
+our entire industry. So first layer of
+what we do is every client has three
+entirely separate infrastructure sets.
+We name them odd, even and burner. And
+each set can independently handle the
+client's complete sending volume. We
+also diversify each set across Gmail,
+Outlook. And we have [music] some really
+cool proprietary enterprise SMTP
+options, which is just like a custom
+inbox if you don't know what the hell
+SMTP means. And here's the rotation
+schedule that we follow. You see the
+first half of the month, days 1 through
+15. The odd infrastructure handles all
+of our active campaigns where days 16
+through 30 of each month, the even
+infrastructure takes over on all active
+campaigns. Whichever set isn't currently
+active, we'll simply just go on a pure
+warm-up mode to heal up. And long-term,
+we found that this prevents domain
+burning that happens when you push
+accounts a little too hard. The burner
+set also serves as a permanent emergency
+backup. It's in always warm-up mode,
+always ready to deploy for a client
+[music] immediately. And this matters
+because mistakes happen, right? I've
+personally destroyed thousands of
+domains, tens of thousands of domains in
+single days. Even a couple months ago,
+one of our best clients, RB2B, all of
+their domains failed all at once. And we
+switched to the burner set immediately
+while rebuilding those 375 domains. And
+this way, the client never experiences
+or I should say we do everything
+possible to minimize downtime. You know,
+it doesn't stop everything. at
+mid-occtober, half of all of my Gmail
+inboxes went down. There was a massive
+change that Google rolled out on October
+17th that affected everybody in the
+industry. And so there's things like
+that, black swan events, just like any
+industry that you cannot predict, but we
+do everything we can to minimize it for
+our clients. And uh cuz downtime in this
+business can be catastrophic. Two weeks
+of broken campaigns can mean tens of
+thousands of dollars in lost revenue for
+a client. Hundreds of thousands of
+dollars of lost revenue for a client
+with even a week of downtime. And this
+system eliminates the risk completely.
+We also split infrastructure across
+multiple sequencer platforms. Our
+current rotation includes instantly
+smart lead and SASmail. SASmail is our
+own custom version of email bison with
+some of our proprietary mechanisms built
+on top of it. It's insanely good at
+enterprise deliverability and different
+sequencers excel at different things and
+they also change at what they're good at
+throughout time. one month, Instantly
+could be the best at inboxing to Gmail
+and the next month it could be SAS Mail
+instead. Right now, Instantly has the
+best email sending algorithm by far.
+They're really good if you just load up
+campaigns, they're 30% more effective at
+actually sequencing emails. So, what
+that means is if you're doing really,
+really large volume, like we do, if you
+start doing over 100,000 emails per day,
+you're going to notice the other ones,
+they really struggle to actually get
+through all of those emails and sequence
+them properly. Instantly is 30% better
+at that mechanism by default. So, we
+really like them cuz they're really easy
+to do if you have really large projects
+and we can push 300,000 emails per day
+through a single client instantly set
+up, which is really cool. And their back
+and sequencing is just more
+sophisticated than alternatives for
+whatever reason. SASM delivers the best
+inbox placement rates, particularly for
+enterprise clients. We reserve it for
+highv value enterprise prospect lists.
+It delivers four times better than our
+average configurations. The trade-off is
+that that unique configuration of that
+sequencer plus the more expensive
+inboxes makes it about 21 times more
+expensive per email sent in order for us
+to do that. But when you're targeting
+Fortune 500 companies, that cost is
+absolutely worth it to make sure that
+you're inboxing every single time.
+Smartle performs exceptionally well
+right now when targeting Outlook inboxes
+and our data consistently show this.
+Once again, these things change just a
+little bit about every week, every
+month, and we track those things in real
+time so we always know what the best
+configurations are at any point in time.
+The next thing that we like to do is we
+like to match inbox type to inbox type.
+This single tactic has given us anywhere
+between a 3x to a 16x improvement on
+reply rates. And most modern data tools
+will show you what email system your
+prospects use. So for example, we really
+like to use email guard. It's an email
+endpoint that you could hit and it tells
+you if the lead it's on Gmail, Outlook.
+And the nice thing too is like a lot of
+platforms like I believe Apollo, Lead
+Magic for sure does this, Wiza for sure
+does this. They do it in their data
+export as you do enrichment on their
+waterfall. And so you can see if someone
+uses Gmail, if they use Outlook or if
+they use enterprise systems. And the
+strategy of matching your sending
+infrastructure to their receiving
+infrastructure is huge. Here are the
+current configurations that work best
+for us. If you're trying to target
+someone on Gmail, we like to use Gmail
+accounts set up on email bison or we use
+SAS mail internally. For if we're going
+to target someone who uses Outlook, we
+use an Outlook inbox from Scaled Mail
+and we like to load that inside of SAS
+Mail. For enterprise users, we grab a
+Gmail inbox and we load that onto SAS
+mail to target them. How do you
+determine what's enterprise? It's not
+headcount. When you're looking at this,
+when you run it through something like
+email guard, they'll tell you that they
+use something like Proof Point, Spamus,
+Minecast, Barracuda, things like that.
+The impact of getting these things right
+is massive. Generic enterprise targeting
+without the right matching, you should
+get about a 2% total reply rate. But
+when we use Gmail combined with SASM for
+those same enterprise leads, we get a
+6%. We're tripling [snorts] the number
+of people who read our messages just
+from this simple backend configuration
+and using all of these sequencers at the
+same time and then also analyzing that
+data in real time to be cool next month.
+What is the right sequencer and ESP
+combination in order to do that and also
+tracking the analytics so we actually
+know in real time what is the best
+deliverability configuration which we
+have an in-house platform that we have
+completely built from the ground up.
+We're actually debating re-releasing
+that kind of feature to the public. I
+think it will be free. There's a link
+for outfound.io io in the description if
+you're interested in joining our weight
+list and trying to convince us to
+release it to the public. Anyways, we
+know this stuff as well because we
+recently completed a test with nearly a
+quart million emails sent. We ran 120
+separate campaign configurations across
+three sequencers. We used three
+different inbox vendors and four warm-up
+networks. I invested 64 grand of my own
+money into domains, inboxes,
+infrastructure, sequencers, all of that
+just to run this test. And the main
+insight here is that deliverability
+isn't just about domain warm-up. It's an
+entire technical stack working in
+perfect harmony and the right sequencer
+combined with the right inbox type for
+the right prospect type. When all of
+those pieces align perfectly, you see
+dramatic improvements in the results
+that you're able to. The next layer that
+we do for deliverability is we have a
+very specific technical setup when we're
+creating these inboxes and maintaining
+them. You see, every inbox we operate,
+we use a fingerprintless browser paired
+with a residential IP address. And you
+can use platforms like in incognit or go
+login for this. So that way when we log
+into the inbox, it looks like it's from
+a house. It looks like it's from a
+regular place. It looks like a real
+human to Google and Microsoft. For
+Google and Microsoft, if we have to log
+the account back into the sequencer,
+which happens all the time. You get
+logged out of LinkedIn once a month or
+whatever. You just got to refresh that
+cookie. Right here, it's the same thing.
+When an account disconnects, we got to
+log it back in. And Google and
+Microsoft, they know when you automate
+it versus they know when it looks like a
+human who logs in. So that's why we use
+this method cuz if you're logging in
+from varying locations or anything like
+that, devices will throw up an immediate
+red flag and your infrastructure will
+degrade. Email providers, you know, will
+recognize this as automated behavior
+from their operations and you'll either
+throttle your sending ability or
+terminate accounts in entirely. The next
+thing that we look at, and I know this
+is a lot, but this stuff is complicated.
+Like I said, there's 50 plus variables
+and we're trying to tackle all of them
+in just one video. So, next is checking
+blacklists for all of your domains as a
+daily routine as well. There's a ton of
+blacklist databases that Google and
+Microsoft will trust to see if you are a
+bad player or not. And getting listed on
+even one can destroy your deliverability
+instantly. We check every domain
+regularly and replace any that get
+flagged because we already know that
+they aren't going to inbox anymore. The
+manual labor aspect of this system is
+huge. You shouldn't automate it. You
+can, but it's going to burn your
+infrastructure more. This infrastructure
+management on our end, it requires
+hundreds of VAS, virtual assistants,
+ready to go on call at any time. We've
+had situations requiring over 1,000
+labor hours in a single weekend in order
+to repair our infrastructure for our
+clients, which once again, we manage
+over 50,000 domains. Rebuilding, you
+know, 375 domains quickly demands that
+level of an available workforce. We need
+an army of payroll ready to manually log
+into thousands of accounts at a day's
+notice. And uh that's kind of the power
+of cold email infrastructure and
+automation here doesn't work despite
+what people try. Many attempt to
+automate the inbox creation management
+and sometimes they get an edge but then
+every so often Google or Microsoft catch
+on to it and they fix the problem and
+they have detection systems that
+identify these automated setups
+eventually. Our opinion is that
+everything needs to be done manually to
+maintain the legitimacy at scale. And
+this explains why most companies can't
+handle this type of cold email
+infrastructure internally. One of the
+last thing that's super important when
+you look at this is the deliverability
+of your copy. You see, today email
+platforms are using AI to categorize
+every single email coming in. And the AI
+will scan your email, instantly
+classifies it. Is it legitimate? Is this
+just a newsletter? Is it just spam? And
+even with flawless technical setup, AI
+content filters will still block you.
+Because of this, your emails can't sound
+like typical sales outreach. You need
+copy that reads conversationally and
+genuinely personal. It should sound
+something like a real person, what they
+would actually write. And so, here's one
+final framework I can leave you with.
+What helps us is that the last thing AI
+filters want to do is put an email that
+a user would actually want to read and
+not place it in the primary. Right?
+That's one of the reasons I was using an
+AI tool and I stopped using it cuz I was
+like, "Oh, I missed a really important
+email that I actually wanted to
+receive." You have to think, if you were
+an AI spam filter, what would you need
+to do to read your email, not as spam?
+And that's what the trick really is. I
+hope this has given you a good
+behind-the-scenes look at what we focus
+on to make sure that millions of emails
+are sending every single month. I think
+if you're doing super small projects, it
+is technically not a lot of work. If
+you're going to send less than like a
+thousand emails a day, that's great. But
+we know how complicated this is. And so
+what we did is for our managed growth
+generation systems that we manage for
+clients where we're sending as many as
+8.8 million emails per month just for
+single clients, we've had to systemize
+all of this for ourselves. And so what
+we did is we created cold email
+infrastructure.com. It is the exact same
+service that powers all of our growth
+generation. We built it because we had
+to systemize it for ourselves anyways.
+And so if you're somebody where you're
+like, hey, I want to run the campaigns
+myself. I want to do the creative
+myself. I want to do the lead genen
+myself, but [music] I never want to
+click on the email account tab or have
+to manage domains or do blacklist or do
+any of the crap that I just talked about
+here. Then check out cold emailfure.com.
+It should be the first link in the
+description below and set up your free
+call to book an intro with us. And if
+you want to see how we generate
+high-quality leads for our cold email
+campaigns on our growth generation
+service, then watch this next

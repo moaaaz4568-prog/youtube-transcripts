@@ -1,0 +1,1077 @@
+A lot of people are talking about how to
+use Cloud Code to make money online, but
+most of what's out there assumes that
+you already know how to code. So, I
+brought on a guy named Ryan Dozer who is
+a non-technical marketer. He has over a
+decade of marketing experience, but he
+has literally zero coding background,
+and he's going to show us how he built a
+real workflow using Cloud Code geared
+towards SEO that's generating clients
+that are paying him recurring retainers
+in the thousands of dollar per month
+range. So, in this episode, he's going
+to walk through his exact workflow from
+start to finish, showing you the full
+system, and if you stick around till the
+end, you're going to hear how he built a
+full fake septic tank website from
+scratch in a few hours and got it
+ranking on page one of Google beating
+out legitimate businesses. So, he's
+literally showing us how he got a fake
+website to outrank real businesses on
+Google using the strategy. You're going
+to love this one, so let's dive in.
+Ryan Dozer back on the pod again. Uh so,
+Ryan, by the end of this episode, what
+are people going to take away?
+>> Yeah, Corey, first of all, thanks for
+having me back. It's great to be here.
+So, by the end of this, I'm going to
+show you a real-world Cloud Code SEO
+workflow both with WordPress via an MCP
+and then also with a Cloudflare GitHub
+setup, but the more important part here
+is how someone can actually make money,
+whether that's passively through a
+digital product or also selling this as
+a service to potential clients.
+>> Awesome. Now, you said things like Cloud
+Hit Cloudflare and GitHub, and you know,
+right away that makes me think that this
+leans toward technical, but I guess the
+question is does somebody need to be
+technical? Like, does somebody need to
+be a developer to do what you're about
+to show us and to eventually make money
+with this as a service?
+>> No, I'm glad you called that out. So,
+I'm actually a non-technical marketer. I
+have over a decade of experience in the
+marketing industry and not a coding or a
+programming background. So, if I can do
+it, I know anyone can do it.
+>> Perfect. Yeah, love that. All right,
+well then let's dive in. Why don't you
+show us
+share your screen and and show us what
+we're looking at here.
+>> Awesome. I'm going to go ahead and dive
+in and share my screen.
+All right. And so, what I'm going to
+show you in this video here is I'm going
+to show you two Claude Code SEO
+workflows, okay? So, the very first one
+here is going to be how I repurpose my
+YouTube videos into blog posts on
+ryandozer.com.
+So, if you go to Ryan Dozer on my
+YouTube channel here, you look at all
+these YouTube videos, every single one
+of these videos is repurposed into a SEO
+optimized blog post on ryandozer.com
+that looks just like this. And so, what
+I'm going to show you in this example is
+how I actually did this. I'm not going
+to go through the full entire workflow.
+I have a separate YouTube video that
+explains all of this in more detail, but
+this essentially is kind of the
+prerequisites of what you need in order
+to do this, right? You need a paid plan
+of Claude. You need Claude Code
+installed on an IDE like Visual Studio
+Code, which is what I'm about to show
+you in this tutorial. You need long-form
+YouTube videos that you can repurpose, a
+transcript scraper. You need a
+compatible CMS like WordPress or
+Webflow. And then you also want a skill
+markdown file that's optimized for SEO
+content writing. And so, in this exact
+example here, I actually had Corey on my
+YouTube channel where we discussed his
+AI audit business framework, okay? And
+so, if I wanted to repurpose this into
+an SEO optimized blog post, all I would
+do, the way that I have this set up, is
+I would take a YouTube video URL.
+Hold on here, man. My internet's
+struggling.
+You got me?
+Okay. you hear me?
+>> Yeah, you're you're breaking up a little
+bit on my end, but I I think I got you
+loud and clear uh for the most part. So,
+yeah, continue. This is good stuff.
+>> going to continue this.
+>> Now, so real quick, because folks
+watching this
+folks watching this might not be uh you
+know, they might not have a YouTube
+channel, they might not have content of
+their own to start with. So, you know,
+is this when we talk about like telling
+this as a selling this as a service, is
+this best to sell to clients that are
+like creators or they already have
+content out there or are you going to
+show us a way to do this even if there's
+not existing content to repurpose?
+>> Yeah, so this particular example, I'm
+going to show you how I'm monetizing
+through a digital product, right?
+Myself, but you could also sell this to,
+you know, really any company I would say
+that has a podcast that's in B2B. I
+think that's a really good market for
+this. Are those kind of those
+higher-ticket B2B businesses that need
+to repurpose and get more content to the
+masses, but they have no idea how to do
+this and they have the budget to pay for
+it, right? I wouldn't sell this to a
+creator as there's a million different
+SaaS tools that already accomplish this
+and there's not really a market for that
+particular, you know, segment, I would
+say. Um but if we go back to the demo
+here, I'm going to share this YouTube
+video URL and copy it to my clipboard.
+And if I pull up Claude Code, this is my
+Claude Code setup within Visual Studio
+Code, which is just my IDE of choice
+here. And this is the actual prompt that
+I used in Claude Code to generate that
+blog post. So, all I did was I first
+called out the SEO blog post writer
+skill, which if you don't know what a
+skill markdown file is, this is
+essentially an SOP or a standard
+operating procedure for AI to follow a
+particular task. And so, with this SEO
+blog post writer skill, I've essentially
+laid out step-by-step all the SEO best
+practices, past examples, how to fully
+repurpose a YouTube video into a blog
+post that ranks, right? Things of that
+nature. And then here I pasted that
+YouTube video URL. I gave it a target
+keyword, and in this example, AI audit
+business was kind of the best keyword
+that I found here. I also gave some
+secondary keywords. This is
+extracurricular, not necessary, but the
+more, I would say, relevant inputs that
+you can provide, obviously the better
+outputs that you're going to get here.
+And then I gave it a title. You don't
+have to do this. You can ask Claude code
+to just copy the YouTube title. And then
+here I had these links in the video
+description from that YouTube video
+description that I also want to include
+in that blog post on my website. So, I
+included that as well. And just a quick
+tip, whenever you tell Claude code to
+triple-check something, it'll spin up
+agents in parallel and triple-check
+whatever task that you're asking it to
+do. So, that's a quick little thing
+there that I found gets better results.
+And so, long story short, I wasn't going
+to sit here and let this spin through
+this entire task. As you can see, it
+took a while. What this did, with fully
+hands-off after that one prompt, is it
+created a draft on my WordPress site.
+So, if I go to ryandozer.com, I've
+synced this up to Claude code via an MCP
+connection. And if I go to, you know,
+these are all the different posts here,
+but this one in example is the AI audit
+business. If I actually click into this,
+what you'll notice is that it went ahead
+and did this automatically. So, it took
+the title, automatically gave it into
+the WordPress title, right?
+Automatically gave me a category that it
+checked based on the relevancy.
+Automatically took that thumbnail from
+the YouTube video, added as a featured
+image. Automatically gave the title, the
+URL slug, the meta description, right?
+And then if we go to the actual article
+itself, what you'll see here
+is that it took all those elements from
+the YouTube video, you know, optimized
+it based on proper H2 H3 hierarchy,
+automatically embedded the video, added
+links both internally and externally,
+went ahead and got actual screenshots
+from the YouTube video. So, this is like
+the the super unique here. Of what it
+did is it had an agent watch that video,
+analyze the transcript for key points,
+take screenshots, opti- or compress the
+images so it doesn't bloat the media
+server on WordPress, upload it to
+WordPress, and then put it in parts of
+the blog post that actually makes sense
+and flow well, right? So, it's not just
+random. Um and so, yeah, you can get his
+technical FAQs. I got an author bio
+here. You can get as detailed as you
+want with this, but these things are
+actually starting to rank here, right?
+So, this isn't just AI slop content
+that's going out to no one. If I pull up
+my Google Search Console here, you'll
+notice I started this at the end of
+February. And what's significant about
+this data is that ryandozer.com had zero
+authority going into this, right? Zero
+DR, zero credible backlinks. And as I
+started putting out more content,
+getting on some different podcasts and
+whatnot, I started to acquire much more
+authority. And this also hints at the
+quality of that content, too, right? So,
+this isn't like amazing traffic per se.
+Like obviously I could do better. A lot
+of this is vanity metrics. Um but a lot
+of sites don't even get this traffic
+that are doing a lot of other things
+that work at legitimate companies and
+all sorts of that stuff. And so, the
+question then is, "Well, Corey, right?
+How am I making money from this?" That's
+the ultimate question here. Well, what
+ends up happening is that when I drive
+all this traffic to the site, really
+there's two primary ways here. Number
+one is I have a digital product called
+my Claude Code Skill Stack, okay? So,
+when some Whenever someone goes to
+ryandozer.com, typically on a blog post
+here,
+if I scroll down, there should be a
+floating widget that appears within the
+first five to seven seconds of someone
+visiting this website. And that is where
+most of the sales have actually come
+from, right? I don't know if it's going
+to do it in this particular example
+here. But anyways, there's a floating
+widget, and someone clicks on that
+widget or clicks on this main menu
+button, comes to my digital product and
+they end up purchasing this, right? I've
+made over $5,000 in revenue passively
+from this digital product of my Claude
+Code Skills and I would say about 80% of
+that revenue has come from ryandozer.com
+traffic. So, that's how I know I can
+attribute that back to the revenue of
+this Claude Code Skill Stack. And if I
+pull up my Stripe dashboard here, this
+is just going to show some of the recent
+purchases, right? I even had one this
+morning, but it goes back, you know, all
+the way then from but over $5,000
+passively total from that digital
+product where most of the traffic is
+coming from ryandozer.com
+due to the articles that were repurposed
+from those YouTube videos. And of
+course, right as I say it here, here's
+that floating widget on bottom where
+most of the sales come from. Yeah, so
+that's the very first demo there, Corey.
+I know I went through a lot there, but
+just any quick thoughts, comments?
+>> So, I mean, right off the bat, what I
+what I love about this workflow is that
+I mean, like you said, you only
+implemented this at the end of February,
+which has been, you know,
+that's been what? 3 months and you made
+roughly $5,000 on
+the traffic that's resulted from this
+workflow. And like looking at the Google
+Search Console Analytics right here,
+it's like it really didn't start to take
+off
+until what? Mid-April?
+>> Yeah.
+>> So, I mean, you could even make the
+argument that it's been 1 and 1/2 months
+really that it's taken to generate that
+amount of revenue. And you know, that's
+with a $99 digital product. I mean,
+if you had, you know, $200 digital
+product or $500 or if you were selling
+like a high-ticket coaching or or offer
+like that, I mean, it could probably be
+even more. So, I think that this just
+goes to prove that this stuff works. I
+think a lot of people when they hear
+like AI-generated blog posts or using AI
+for SEO, I think they immediately just
+think that AI is going to go out and
+just spam 500 different articles for
+your website and they're going to be
+generic and the goal is just basically
+to get people to click on them and
+there's not a whole lot of value there,
+but clearly this is something that is
+working. And just so I know, too,
+because I mean, I will probably buy your
+skill pack if your Is your SEO skill,
+like your blog post skill, is that in
+your skill pack? Like what you just
+showed us?
+Is that inside the $99 skill pack that
+you sell there?
+>> Yeah, this and about 25 or 30 other
+skills that I use for marketing and
+content are in that skill stack, right?
+Everything that I show, I I try to throw
+in that skill stack to be like, "Hey,
+these are the real-world things that I'm
+actually using."
+>> Nice. Okay, awesome. Yeah, so I I will
+be a customer of that because I was
+actually talking to my business partner
+about your workflow specifically and he
+was like, "Dude, we either need to He's
+like, "We either need to have a
+consulting call with Ryan and have him
+just walk us through it, or if he's
+willing to sell us that skill, we'll
+just buy it off him." And the fact that
+we can get that one and 20 more for 100
+bucks, I mean, that's worth it. So,
+awesome. Well, let's let's keep going.
+What do you What do you got next? I
+think next you're going to show us
+>> how someone can essentially offer the or
+how you're selling this to clients more.
+>> Yeah, well, first of all, you know, the
+what I wanted to show you quickly, too,
+is I'm actually using this exact same
+workflow on a real-world client, right?
+Medix Dental IT is a one of the top IT
+providers for dental offices and dental
+service organizations in the country,
+and I'm using the exact same WordPress
+Claude code workflow that I'm using for
+them, right? Obviously, it's a different
+type of content here. We're doing
+listical style, going after more
+keywords nationally versus some of the
+other stuff in my niche per se. Um but,
+a lot of these results here, like you'll
+notice the spike recently since I've,
+you know, started implementing more of
+this strategy more and more, and a lot
+of these impression spikes here have to
+do with more visibility in AI search
+results, right? Just because the clicks
+went down here and then they shot up
+right here, and it's kind of a roller
+coaster with the click side of things
+coming from Google search results. This
+hints at higher AI search results in
+both Google AI overviews, AI mode, and
+also Gemini, because this is coming from
+Google Search Console, right? This isn't
+ChatGPT, Claude, or anything like that.
+But, for instance, right? If I pull up
+an incognito window and type in like
+best dental IT providers,
+um dental IT support providers would
+probably be the money keyword here.
+There's always been a competitor that
+has outranked us because they've had a
+listical article right here on this
+topic for about 5 6 7 years. So, it's
+very difficult to outrank someone if
+they've had something established for so
+long right away. Um but, what you'll
+notice right here, right? Here's the AI
+overview. Top-rated providers. Well,
+guess what? Medix Dental is showing up
+right number one, and then there's a
+link to the actual article right there,
+right? So, that's that's key in point
+here. Here's a local service page, and
+then there's probably some other serp
+that I got in here, but you get the idea
+of how this is working on a national
+scale, and the idea of AI search results
+in this particular instance is, of
+course, we want to drive traffic, but we
+also want to spin the narrative of
+someone in our target audience to think,
+"Wow, Medix Dental actually is the top
+IT provider in the US," right? For
+various related keywords. That's the
+idea.
+>> Got it. I see. So, so essentially, it's
+like the more impressions they're
+getting, even if it's not directly
+resulting in clicks, which obviously it
+is. I mean, more impressions is going to
+mean more clicks, but like based on that
+screenshot that you showed us there of
+the Google Search Console, it's like
+more impressions is a good thing because
+chances are a lot of those impressions
+are coming up
+on in the AI overview, which is
+literally when someone is searching,
+"Who's the best dental, you know, IT
+service provider?" Your client is
+showing up as number one, and that's an
+impression of of AI telling the
+searcher, "Hey, this company's number
+one." Like that impression in my mind is
+worth a lot more than just their website
+showing up, you know, at the top of
+Google search results.
+>> Yeah, cuz you're trying to
+You're trying to spin the narrative.
+Right. Right. Right. That makes sense.
+Okay, yeah, that makes perfect sense.
+And so
+So that's a great example. Now, like how
+do you price this? So let's say like for
+for that client example, like how much
+are you charging them if you're willing
+to share? And how do you go about like
+even maybe showing the ROI of that? Like
+how does that How can they attribute
+that to ROI?
+>> So I'll be honest, like he's a kind of a
+personal friend of mine and the amounts
+have changed, but it is a retainer for
+several thousands of dollars every
+month, right? And so I just got off a
+call with him yesterday where he was
+telling me they've had way more inbound
+leads, and of course attribution with
+this stuff is very difficult. If someone
+searches for that, they call, you know,
+we don't necessarily know unless they
+ask them in the inbound sales process.
+But that's the idea, right? The idea is
+to drive overall more inbound leads for
+his sales team to field, and then of
+course lead that to more revenue and
+recurring clients. So to give you an
+honest answer, Corey, I don't know the
+exact, you know, attribution from that,
+but the client's happy, more inbound
+leads are happening, and more monthly
+recurring revenue is happening for him
+as well.
+>> Right. I mean it it it really comes down
+to like are they getting more inbound
+leads or aren't they, right? And if they
+feel like the amount of additional
+inbound leads that they're getting since
+they started working with you is enough
+to justify paying you, you know, two,
+three, five grand a month, then they're
+going to keep doing that. And you know,
+attribution is something that's a
+problem like you're not the only one
+that faces that problem. That's going to
+be an issue for anybody in this space,
+but
+I mean, it's it's clearly working in the
+fact that they're continuing to write
+you a check every month shows that there
+is demand for this type of service. So
+so let's think about and I know you're
+about to show us another example here,
+but you know, somebody watching this, if
+they wanted to kind of get into this
+niche and start selling these services,
+are there any kind of like low-hanging
+fruit ways to find these clients? I
+mean, my where my mind goes first and
+foremost is like
+go talk to people in your town. Like
+local service businesses I think have
+the most upside here. Especially ones
+that have websites that haven't been
+updated since like 2002, which is most
+of them.
+>> Yeah, and that's exactly what I was
+about to show in this next example,
+right? Are these local service
+businesses, especially kind of the lower
+competition local service businesses
+that are HVAC, plumbing, or roofing that
+are kind of penetrated by private equity
+and have millions of dollars invested in
+marketing, right? We don't necessarily
+want to go for those companies. We want
+to go for the septic tank companies of
+the world or the junk removal companies
+of the world that haven't been eaten up
+by private equity yet, at least for the
+most part in most markets.
+>> I'll even think of companies like
+funeral homes and like there was a a pet
+crematorium uh down the street from my
+apartment where I used to live, right? I
+mean, think of
+like dumpster rental companies. I mean,
+there's so many just like boring niches
+that they're local businesses. They
+probably get a fair amount of leads from
+whatever website they have, but they
+there's opportunity to get a lot more
+with a couple of little enhancements.
+So, yeah, I think that's the best place
+to start for sure. And would you like
+cold call them? Would you go
+into the business and look to talk to
+the owner? Would you email them? How
+would you go about doing that?
+>> Yeah, I think it's uh it's a
+multi-pronged approach there, right?
+Obviously, the best option is to cold
+email, cold call, but going in yourself
+probably is the better option than both
+of those, especially with AI, with spam
+calls, and spam emails nowadays. Just
+try to go in person if the business is
+close enough to you and try to explain
+to the owner here of kind of hey, I I
+saw your website hasn't been updated in
+several, you know, in a decade or
+several years, and you're not getting a
+lot of traffic, right? Here's what I can
+do, and here's the solution that I can
+provide for you on a reoccurring basis
+that will not only drive traffic and
+impressions, but actually drive more
+inbound leads, cuz at the end of the
+day, that's all that matters.
+>> And I bet if you go and have that
+conversation in person with 10 different
+local business owners, and I mean with
+the owner, right? Not just like going in
+and talking to a receptionist or
+somebody that doesn't have
+decision-making authority, but if you
+just have 10
+conversations, you could be the worst
+salesperson in the world, and I
+guarantee you close at least one of
+them.
+Yeah, especially if you if you offer to
+work on like a performance basis or with
+a very low
+initial retainer, right? To kind of
+build your portfolio and prove yourself.
+So, I I think in person is is so
+underrated. I've been talking about that
+a lot recently.
+>> But, continue. You've got another
+>> A lot of these local service businesses,
+Corey, too. Like, a lot of they they
+make money of most of the time from like
+referral and word of mouth, right? They
+don't really care about the online
+presence so much because they haven't
+needed it. But, as time goes on, like,
+things are going to become way more
+competitive, budgets are going to get
+tighter, like, you have to have an
+actual inbound lead process in order to
+compete long-term, and I think that's
+the sales pitch.
+>> Completely agree. Yep. So, you've got uh
+a great example of a boring business
+that we're looking at here on screen,
+Des Moines septic tank pumping and
+repair. So, why don't you kind of show
+us what we're working with here?
+>> Absolutely. So, just a full disclaimer,
+this is a fake website that is ranking.
+Uh it was ranking earlier on page one of
+Google for money keywords, right? Like,
+septic tank uh pumping near me was an
+example that I looked up earlier. Septic
+tank pumping Des Moines is another
+example. Um and of course, I can't get
+in the map packs cuz this isn't a
+legitimate business. I can't get
+verified through Google Business
+Profile. Um but, what's interesting here
+is that you'll notice I'm on the middle
+of page one for septic tank pumping near
+me. I didn't even specify Des Moines or
+nothing cuz it knows my IP address and
+where I'm at right now. I'm beating a
+lot of legitimate septic tank companies
+including Better Business Bureau and
+HomeAdvisor and all these other places
+that, you know, are actual legitimate
+businesses and services. So, it's
+honestly super laughable that this is
+happening and the fact that I built this
+only 2 weeks ago. And so, the idea here,
+Corey, is
+>> That's crazy.
+>> 3 or 4 hours putting this together with,
+you know, Claude skills on a Claude code
+session, like just going really deep
+think mode or deep learning mode trying
+to figure all this out. Um, and so,
+essentially what I did, this is 100% AI
+and what I had AI do was create all
+sorts of service pages, location pages.
+I had it create a blog that went through
+and generated all this optimized blog
+content, right? And so, what I'm going
+to show you, I guess, in this super
+quick demo is just kind of writing a
+blog post and how you can use Cloudflare
+and GitHub to push this straight from
+Claude code. I guess the other thing I
+need to explain is I not only built this
+with Opus 4.7, I think was the model. I
+used what's called the Astro web
+framework, okay? This is owned by
+Cloudflare. It's an extremely popular
+web framework now that a lot of people
+are using. It's SEO optimized, easy to
+use, and it's also super fast, as you'll
+see here, this is passing core web
+vitals, firing extremely well on mobile
+and desktop, which all factors into the
+equation here. And so, the idea is if we
+want to go actually to a demo, I'm going
+to pull up Claude code and I had
+something ready to go here that I can
+share with the audience. So, now, if I
+were to actually do this, I wouldn't get
+I wouldn't do this same thing every
+time. The reason I'm having a lot more
+detail here is cuz if I'm doing this for
+the first time, you want to add more
+details to this beginning prompt here.
+And so, basically what I'm telling it to
+do is creating an SEO optimized blog
+post for desmoinesseptic.com,
+and then I'm giving it the details of
+that blog post, right? Septic tank
+mistakes. That's a good keyword for this
+niche that I'm going to go after here.
+And then here's the title, the URL slug.
+I had a I had actually GPT image two
+generate me a featured image. So, I used
+Codex alongside Claude code with GPT
+image two to help me generate this
+featured image that I'm going to
+automatically upload to this blog post.
+And so if we go back to this Claude code
+setup here, I gave it options to add
+relevant internal links with anchor
+text, relevant external links. And then
+here's a key point as well. I have it
+research Google search and AI search
+results for that target keyword to
+analyze the top websites for content
+structure, you know, what are they doing
+for total word count, who are they
+linking to, right? All the little nuts
+and bolts of SEO, I want to study the
+competition for that. And then
+triple-checking the data is 100%
+accurate. I'm going to go ahead and
+bypass permissions here cuz again, this
+is a test site. I don't really care
+what's going to happen. And then I'm
+going to click go. And I guess while
+this is running in the background,
+Corey, any just thoughts or comments as
+I went through that pretty quick?
+>> So, yeah, that's I mean, it's it's
+obviously very detailed what you're
+doing. Like somebody might look at this
+and be like, "Oh, I could spin this up
+in a couple of hours." But what they
+don't realize is you have a lot of
+knowledge on the space already. So, this
+is one of those things where like you
+knew the questions to ask going into
+this. So, you're going to get better
+results a lot quicker. I guess one of
+the questions I have is again, like if
+somebody was watching this and they're
+like, "This is great. Like I love this
+idea. I want to go and learn this skill
+and sell it to clients."
+Is this skill also included in your uh
+your skill pack?
+>> Yeah, so I just made a video yesterday
+on how to vibe code websites with Claude
+code for local service businesses, and
+this skill is included, right? And so,
+the idea of why this skill is so
+valuable, Corey, is because it took an
+entire 4-hour conversation window of
+context, put all of that into a skill,
+my entire process of how I did this
+whole thing, and then took the final
+product of desmoinesseptic.com,
+you know, analyzed that entire website
+structure, pages, etc., factored that
+into the equation of the skill markdown
+file, combined with that context of how
+I built this whole thing. And so, that
+is going to speed you up this entire
+process of you just trying to vibe code
+this yourself and figure it out, right?
+And so, if I pull up this website, for
+example, Des Moines Junk Removal, looks
+very similar to Des Moines Septic, does
+it not, right? So, this is pulling in
+that same
+>> yeah.
+>> but with different branding. And that's
+the key, right? Different branding,
+different service, different service
+areas. So, you can apply this exact same
+thing to really any local service in any
+area in any niche, and it's even better
+if you already have a logo or a brand
+guide or brand colors. So, then we can
+plug and play those things into the
+skill, so it doesn't just look like an
+exact duplicate, if that makes sense.
+>> Right. That makes perfect sense, yeah.
+And you really you can I mean, you could
+copy paste this playbook for
+any niche that you wanted to spin up.
+And you know, the the marginal cost of
+building a new site with this method is
+next to zero. I mean, you could spin up,
+you know, one, two, three, four sites in
+a weekend just to practice. And
+I think that'd be something really
+compelling to show a client. Like, "Hey,
+look, I spun I spun this site up in a
+couple of hours. Within a week or two,
+this is how we're ranking for these
+keywords. Imagine what we could do with
+your website that's been around for x
+amount of years, and that you already
+have some domain rank, and you guys have
+credibility in the community. Like,
+imagine how much more effective we could
+be with your business, right? So, it's
+like it's almost like you could be your
+own case study and build that case study
+in just a couple of hours over the
+course of like a week or two, and then
+that could be the fuel that you use to
+land that first local client.
+>> Yeah, I mean the opportunities here,
+Corey, are endless, right? I mean gone
+are the days of paying thousands of
+dollars for expensive web design
+agencies and developers and even trying
+to DIY it yourself with Wix, you know,
+Squarespace, WordPress, and all those
+other solutions, right? These are gone
+out the window. And just for just quick
+background of how I built this, right? I
+know it's technical. I have a full video
+that explains this, but all you need is
+a free GitHub repository. That just
+stores all the files and the code and
+everything of your website. And then you
+need a free deployment solution like
+Cloudflare to actually deploy this live
+on the internet. Now, Vercel is another
+option that's popular. It's a competitor
+to Cloudflare, but you just need GitHub,
+which is free to sign up, Cloudflare,
+which is free to sign up, and they have
+a very generous free plan, and then of
+course, all you need is a Cloud Code
+subscription. So, realistically, for $20
+a month, you could do this. Now, you'll
+run out of usage if you're trying to
+pump this out with Opus, so I'd
+recommend $100 a month to do this. But
+if you think about the ROI associated
+with this, Corey, for $100 a month, I
+mean think about not only how many
+websites you could pump out, but I mean
+how much content you can create that's
+actually fully optimized and like I
+don't know, the opportunities for just
+generating ROI off of what I just showed
+you are truly endless depending on if
+you hit the right business owner, the
+right industry, the right service area,
+etc.
+>> For sure. And this this fires me up.
+Ideas like this really fire me up
+because this is and I've been talking
+about this a lot recently like on X for
+example is that people need to focus on
+business models or like selling AI
+services or AI solutions that make their
+client more money, right? I think too
+many people focus on time-saving
+solutions and time-saving opportunities,
+which is great, but it's like you can
+only save so much time in a given week.
+However, you can make an infinite amount
+more money, right? Like this what you're
+showing us here scales like essentially
+infinitely
+versus an automation or a solution that
+might save a client like 5 hours a week,
+right? So, I I love this. And to your
+point, it's like you could have a $100
+month
+Claude subscription. Cloudflare or
+Vercel is virtually free.
+Uh VS Code is free, what you're using
+here to to run Claude code.
+Um Astro is free. Like everything you're
+using is free except the Claude
+subscription. And I mean, theoretically,
+you could probably
+launch and maintain what? Probably two
+or three clients on the $100 month
+Claude subscription without really
+hitting
+uh limits consistently. And those two to
+three clients could be paying you,
+you know, two, three, four thousand
+dollars a month each, if not more, once
+you get really good and start adding
+other services. So, the arbitrage on
+that $100 month subscription is insane.
+So, I love this. I think this is a
+really good opportunity. I'm really
+bullish on SEO still. I mean, people
+saying that SEO is dead are just
+completely
+clueless in my mind. Like this is one of
+our big initiatives in our business for
+Q3
+is turning our returnmytime.com
+website into more of almost like a tool
+directory for uh you know, where
+solopreneurs and business owners can go
+find AI tools that get the job done that
+they need, right? And we're going to use
+that as a way to drive email sign-ups
+and leads. And And I just think there's
+unlimited opportunity even for just just
+that website, right? Then you go look at
+the boring local service businesses and
+there's like a hundred times more
+opportunity. So, you brought
+>> a really good point there, Corey, about
+the boring local service businesses. And
+that is a really key takeaway from all
+of this, right? I'm not just spinning up
+some, you know, AI SaaS or, you know,
+some AI directory site and trying to
+compete nationally for top of funnel
+keywords. I'm going after an actual
+business that's making several million
+dollars in revenue and telling them,
+"Hey, I know they have the money to pay
+me, right?" That's the idea. So, it's
+like, "Hey, I know you have the revenue.
+Let's actually get you more inbound
+leads to generate more revenue and also
+just give yourself a more professional
+brand and website that could pay
+long-term dividends down the road,
+right?" It's not necessarily an
+immediate ROI in the first few weeks or
+even months. Think about the impact of
+building a professional-looking brand
+with a professional-looking website that
+that has and pays long-term dividends
+down the road for your company, right?
+So, there's more to it than just that
+instant ROI. And as this is doing this,
+what you'll notice in this chat here is
+that this took a while, right? And the
+reason this took a while is because
+you'll see it's web fetching all these
+different .gov sites and census data,
+right? So, it's spinning up agents in
+parallel to research all of this data
+about septic tank and septic tank
+mistakes and all this cool stuff here to
+give me an actual thing. And here's the
+game plan. Now, if I were to push this
+live, Corey, I'm just going to say
+deploy this live.
+I'm not sure it's going to work by the
+time we're done, you know, calling here
+on this demo. But, we'll see what
+happens as what I'm going to do is this
+will push straight to GitHub. And
+because GitHub is synced with
+Cloudflare, it will then post
+automatically to desmoinesseptic.com.
+That's the idea here.
+>> So, that's what makes it essentially
+hands-off, and that's what That's what
+lets a solopreneur or solo operator
+handle two, three, five clients at a
+time without having to hire a bunch of
+VAs or without having to hire more
+people. And, you know, another thing I
+love about this strategy and just SEO in
+general and what you're showing us is
+that it's evergreen in nature, right?
+That's one of the things that I dislike
+about social media. All social media
+sites except from YouTube is that, you
+know, you post a tweet, and even if the
+tweet pops off,
+48 hours, 72 hours later, it's virtually
+invisible, right? But a really good
+YouTube video can pay dividends for
+years down the line, and a really good
+SEO-optimized website or blog post can
+be sending you traffic for years down
+the line as well. So, this is one of
+those assets that, you know, when you're
+pitching this to clients, it's like,
+"Look,
+we're not going to see an ROI on day
+one. We might not even see an ROI by day
+30. But this is one of those things
+where the work that we do today, you're
+going to get an ROI on day 90,
+on year one, year two, year five, and
+beyond, even after we stop working
+together.
+The amount of money that you paid me,
+however much that ends up being, you're
+still going to be getting a return on
+that 2 years after we stop working
+together, 5 years after we stop working
+together. And so, you know, for business
+owners that are thinking long term,
+which the best ones are,
+they they see that value, and and
+they're willing to to play the long
+game. So, I love this, man. Is there
+anything else you want to share
+>> Yeah, so
+to kind of cap this off here, Corey,
+you'll see here that, you know, this is
+deployed, and we can actually see if
+this worked, right? And so, let's come
+back to Des Moines Septic. I'm going to
+refresh the page, and boom, there it is
+right there, right? And if I click into
+this, you'll notice the blog post, you
+know, it can obviously be better. It has
+links. It has in you know, these CTAs
+that I had, you know, told it to earlier
+to improve the CRO, to drive more leads
+within blog posts. This could obviously
+be better. There's no doubt about that,
+but, you know, you you saw how quick
+that took me just to spin that up there,
+and that's the benefit of all of this.
+Is it's all hands-off. It went from
+Claude code to GitHub to Cloudflare just
+right inside my VS code interface. And
+if I don't like something, I could say,
+you know, fix this title or, you know,
+fix the links or fix the content. I
+could pull that back up in Claude Code
+and tell it to do that, and it'll just
+do it right there and then deploy it
+from there. But, I hope you're starting
+to see the light bulb and the
+opportunities here versus the manual
+side of drag and drop on Wix or updating
+WordPress content really, right? Just
+hours and hours of tedious work that
+probably are less valuable than what I
+just showed you right here. So, I hope
+that, you know, you and your audience
+kind of took away what these
+opportunities are of just how SEO is
+working with Claude Code right now.
+>> 100% and I think this is one of the
+biggest opportunities
+one for local or really just for
+businesses in general to get on top of
+this stuff and leverage AI to rank their
+businesses higher and therefore create
+more opportunities for themselves, but
+also for the solopreneurs and
+freelancers and just people of the world
+who want to turn this into a service. I
+mean, this
+the the tools have never been easier to
+access, but the opportunity has never
+been bigger. So, this is a a wide-open
+opportunity in my mind for someone to go
+out there and turn this into a service
+and within a few months' time have a
+small handful of clients paying them a
+few grand a month each, right? Like for
+most people, that would be a
+game-changer for their financial
+situation. So, this has been awesome,
+Ryan. Uh we're definitely going to
+include a link to his Claude Code skill
+pack in the description. So, if you guys
+want to download the skills that he
+showed us in this video, I think it's he
+said it's $99 for like 20 or 25
+marketing skills. The ones he showed us
+in the video are obviously included
+there. That's a no-brainer. It's going
+to save you what? 4 5 6 hours of
+tinkering around yourself. Uh pretty
+much all done for you. And then, Ryan,
+where else uh do you want to send
+people? We'll definitely uh add your
+YouTube channel as a collaborator. So,
+Ryan's YouTube channel will be linked as
+well. Where else do you want to send
+people, Ryan?
+>> Yeah, Ryan Dozier on YouTube, of course.
+ryandozier.com, right? That's where I
+showed the examples here in this video.
+Um and then I also run a community
+called the AI Marketing Insiders. We
+recently hit 1,000 members, so that's
+been growing pretty good recently, too.
+I would say those three places are
+probably best.
+>> Awesome. Well, Ryan, thank you so much
+for your time. Go check out his channel.
+He's got really good stuff on marketing
+with AI. And we will be back in a few
+days uh on my channel. Thanks, guys.

@@ -1,0 +1,956 @@
+Most people are wasting hours
+re-explaining themselves to AI every
+single time they use it. Imagine using
+Chat GBT for an intricate task and every
+time you need to use it for that same
+task, you've got to reexplain yourself,
+give it more context, and basically
+reinvent the wheel every single time.
+But luckily, there is a better way. And
+today, I'm going to walk you through
+exactly how to build what's called a
+context profile. And a context profile
+is a structured knowledge package that
+basically teaches AI who you are, how
+you communicate, who you're talking to,
+and the nuances of a specific task or
+project so you don't have to repeat
+yourself every single time. I'm going to
+show you the exact prompts that I use to
+generate the documents that create my
+context profile and how to set up a
+project in Claude so that every time you
+go to repeat a task, you don't have to
+reexplain yourself and reinvent the
+wheel. So there's no more starting from
+scratch, no more generic AI outputs with
+this system. You're going to have
+tailored responses that are specific to
+what you want to tackle every single
+time. So let's dive right in. Now before
+I dive in and share my screen, so for
+those of you listening on the podcast,
+this is going to be one that would
+really help to watch on YouTube, but I'm
+still going to talk through every step
+just as if you're listening on audio as
+well. So before we jump in, we're going
+to talk first about what is a context
+profile and why is it important. So
+think about a context profile as a
+structured information package that
+gives AI a system
+that contains a specific background
+knowledge it needs to perform a task
+effectively. So think of it like
+briefing documents that you'd give a new
+team member before they start working on
+a project. And a solid example of a
+context profile, one that I'm actually
+going to be showing you an example of
+today, is a brand voice context profile.
+So, I'm going to be showing you my brand
+voice context profile, how I created it,
+the exact prompts that I used, and what
+the brand voice context profile allows
+me to do is when I can create content in
+my voice every single time. So that way
+I'm not getting these generic responses
+from AI that contain emojis and words
+that I would never use in real life.
+Every single bit of output is it sounds
+like me, right? That's what it comes
+down to. So without a solid context
+profile, you're basically starting from
+scratch every single time you talk to
+AI. And now this can apply to so much
+more than just content creation. Because
+I know a lot of you guys listening to
+this aren't content creators, but you'd
+still like to leverage context profiles
+for your business. And think about it
+through the lens of what if you had a
+context profile for your ICP, your ideal
+client profile. If you had a context
+profile for your ICP, then every single
+output that you get from AI would have
+your ICP in mind. So that way, it's not
+guessing at who you're talking to or who
+you're marketing to. It's going to know
+exactly down to the exact demographics
+of that person who your ideal client is.
+So that's the type of power that a
+context profile gives you. Now, we're
+going to do all of this inside a Claude
+project. So some of you listening, maybe
+you've never used Claude, maybe you're
+still only using chat GPT. Think about a
+Claude project as the equivalent of a
+custom GPT. So you can use them
+interchangeably. what I'm going to be
+talking about today. You can use this
+information to create a custom GPT or
+you could use this information to create
+a claude project. They're pretty much
+the exact same thing. And think about a
+cloud project as a dedicated workspace
+for specific tasks or specific projects.
+And you can think of a custom GPT in the
+exact same way. Now, before we jump in
+and before I share my screen and show
+you guys how I generate my contact
+profiles, I'm going to touch briefly on
+why I chose to start with a brand voice
+context profile. Now, for me, it makes a
+lot of sense because I do a lot of
+content creation. I do a lot of writing.
+I do a lot of videos just like this,
+whether it's scripting the intro or
+scripting the outline. Basically, I
+don't want to have to tell the AI every
+single time I want it to outline some
+content for me what to say, what not to
+say, phrases that I use, phrases that I
+avoid, my tone, my style. I don't want
+to have to give it examples every single
+time. I just want it to have that
+information stored so that if I ask it
+to turn, let's say, a bullet point list
+into a LinkedIn post, the output that it
+gives me already sounds like me because
+it has my brand voice contact profile
+already attached. So, I'm going to share
+my screen and the first thing we're
+going to do is we're going to jump in
+and take a look at my brand voice bio
+document. Okay, so this document and
+I'll share my screen here and show you
+exactly what this looks like.
+This is going to be the foundation of my
+context profile specifically for my
+brand voice. And again, when you're
+listening to this, you don't have to be
+creating a context profile for content
+creation if you're not a content
+creator. Think about how you can apply
+these exact same principles to your
+business because they apply regardless
+of what you're creating the profile for.
+So looking at my brand voice and bio
+document here, this is the foundation
+for my context profile. So I create this
+document one time. I upload it to my
+Claude project, which I'll show you guys
+how to do shortly. And now every time I
+ask a question inside that project,
+Claude is going to reference this
+document and it's going to give me an
+answer through the lens of this
+document, through the lens of my brand
+voice and my bio. So, I'm not going to
+go through this entire document word for
+word because it's four pages long, but
+I'm going to touch on the important
+things that it contains. And the beauty
+of this document is that I didn't sit
+down and take 30 minutes or an hour to
+write this out. I actually had Claude
+interview me and ask me questions about
+my life and my background. And then
+Claude generated this document. And I'm
+going to give you guys the exact prompt
+that I had Claude use to generate this
+document for me here in a second.
+So, it starts off by talking about who I
+am. So, I'm Corey Ganham. I co-founded
+Brand Rocket, which was an Amazon retail
+business that generated over 16 million
+in lifetime sales. I've coached other
+Amazon sellers. I create content on
+social media. I took a departure from
+e-commerce, and now I focus on talking
+about AI and automation. This section
+talks about how I have this podcast, The
+Corey Ganham Show. Every episode's 45 to
+60 minutes. That's real talk about
+what's actually working in the trenches.
+So that is the summary of the who I am
+section. The next section talks about
+what I do. So what is it that I do for
+people? What do I sell? What services do
+I provide? And here it's got two main
+sections. One is AI assessments, which
+is where I help small business owners
+uncover growth opportunities or cost and
+time savings opportunities by
+implementing AI and automation. And the
+second part of what I do is content and
+thought leadership. So, just like the
+podcast episode you're watching or
+listening to right now, a big part of my
+day, a big part of what I do is creating
+educational content just like this
+across podcast, LinkedIn, and Twitter,
+teaching non-technical business owners
+who are AI curious but don't know where
+to start. So, that's a summary of the
+what I do section. And again, if you're
+listening to this, just be thinking
+about what I'm talking about and insert
+your own experience. Insert your bio.
+insert what you do and this document
+will be just as effective for you as it
+is for me. So next it asks about who I
+serve. So in my case I serve
+non-technical business owners who know
+that AI and automation could transform
+their operations but they don't know
+where to start. People who are tired of
+the fluff and the theory and they want
+practical implementable solutions.
+People who are AI curious business
+owners making over 2 million per year in
+revenue. So, that's a very simple, very
+concise statement of exactly who I
+serve. So, again, next time I ask Claude
+to, let's say, script a podcast intro
+for me. It's going to have who I serve
+in mind, and it's going to gear that
+intro to that exact person that I just
+mentioned here. The next section, it
+covers my approach. So, my approach,
+it's not crazy unique. It's the approach
+that a lot of people take, but it's the
+one that I'm taking. So, my approach, I
+build in public every day. Hey, I'm
+solving practical AI problems and I'm
+sharing what I learn. I don't teach
+anything that I haven't done myself. If
+I'm posting about it, I've implemented
+it first. And this episode is a great
+example because I'm not sitting here
+talking from theory about how to create
+a context profile because it's a hot
+topic right now. No, I'm showing you
+exactly how I created my own context
+profile. And I purposely waited to do
+this podcast episode until I had a
+context profile that worked for me, that
+was solid, that I knew how to build and
+I knew how to explain. So that's a big
+part of my approach.
+Now, another part of the my approach
+section talks about uh I believe the
+best way to learn AI is by doing solving
+one problem at a time every day. Not
+having to go through courses, not having
+to get certified, just being consistent
+and practically solving problems.
+talking about how much wasted time and
+money exists inside most small
+businesses and the fact that most small
+business owners don't know what they
+don't know and if they'd simply educate
+themselves they'd uncover massive
+competitive advantages with simple AI
+solutions. Now that is the gist of my
+bio. So the next part of the of this
+document goes into my brand voice
+characteristics. So this is really what
+helps tell the AI how to write in my
+tone or how to output information in my
+tone and in my voice. So the first thing
+that it has here under brand voice
+characteristics is that my voice tends
+to be direct and no nonsense. So for any
+of you guys that have been following me
+for any amount of time, you know that I
+don't beat around the bush. I don't use
+jargon or buzzwords. I say what I mean
+and I say it clearly and I say it
+concisely.
+The next main point when it comes to my
+brand voice is that I emphasize
+practicality over theoretical concepts.
+I only care about what works. I don't
+care about sounding smart. I don't care
+about looking smart. If it doesn't have
+a real world application, I am not
+interested. The next section being
+educational and generous. So, not
+gatekeeping, sharing everything that
+works. Genuinely wanting to help people
+do things, not just think a different
+way. because it doesn't matter if I help
+you think a different way if it doesn't
+influence the way you behave and the way
+you go about your work and the way that
+you go about the world. Another big
+tenant of my brand voice is being
+authentic and transparent. So, not only
+sharing wins, but sharing failures,
+right? And I encourage those of you
+watching this, if you're going to create
+a similar profile, whether it's for your
+brand voice or for your business, being
+authentic and sharing those failures in
+addition to those wins, I think really
+helps people resonate with your message
+more because it's way easier to resonate
+with somebody who's flawed like we all
+are than somebody who just portrays
+themsself to be winning all the time.
+Now, we go into a couple of the content
+themes that I like to focus on. So, some
+of those being daily AI problem solving
+and implementations, building in public,
+specific tools and how to use them,
+LinkedIn and X growth tactics that work,
+real life stories and case studies from
+successful client audits and
+implementations, and then a really
+important section here that I think a
+lot of people leave out, but I think
+it's critical to have as a part of this
+document is what you don't talk about.
+So this is going to tell the AI, hey,
+when you give when you generate an
+output or when Corey asks you a certain
+prompt, this is what you don't talk
+about. This is what you don't include.
+And those are things like theoretical
+concepts that don't have a practical
+application, generic fluffy productivity
+advice that doesn't help anybody,
+surface level hype that doesn't teach
+anything or doesn't educate, corporate
+speak, political or controversial non-b
+businessiness topics. There's a time and
+a place for that and my content is not
+one of them. And then anything I haven't
+personally tested or implemented because
+again one of my core themes is only
+talking about things that I've done.
+[snorts]
+And then it goes into my content
+philosophy, my key differentiators,
+personal elements, brand personality,
+tone guidelines, and calls to action
+that I like to use. So again, I'm not
+going to go into every single one of
+these subsections in detail. The purpose
+of this exercise was to show you guys
+what a strong bio and brand voice
+document looks like. So, taking a couple
+minutes just if you did nothing else
+after this episode, but you just
+generated this document here and fed
+[snorts] that to let's say a custom GPT
+or a clawed project and then asked all
+of your prompts just inside that project
+from here on out, the quality of your
+output would be three to five times
+better instantly
+because again, this is giving the AI
+context about you that it's never going
+to forget. Because if you give it an
+example or if you give it some context
+one time, it's going to remember that
+context for a little bit, but eventually
+once the context window once you get
+past the AI's context window, then it
+basically forgets everything you told it
+and then you've got to give it those
+examples again. But when you give it
+these documents and you give it these um
+this context inside a custom GPT or
+inside a cloud project, then it never
+forgets it and it will reference it
+every single time. Now, I'm going to
+basically speak out loud the prompt that
+I used to generate this document. And
+guys, if you want any of the prompts
+that I mentioned in this episode, you
+can get them completely free at the link
+in the description if you're watching on
+YouTube or if you're listening on
+podcast platforms. Grab these prompts
+for free in at the link in the show
+notes. So, I'm going to include them all
+there. Now, the prompt that I use to
+create this brand voice and bio document
+is really lengthy. So, I'm not going to
+talk the whole thing. I'm just going to
+touch on the core uh the core tenants of
+that prompt. And again, you can get that
+at the link below. So, basically, the
+prompt that I use is, hey, I need you to
+help me create a comprehensive brand
+voice and bio document that will serve
+as my content creation guide. Please ask
+me questions one section at a time, then
+write each section based on my answers.
+Here are the sections I need. And I list
+out every one of those sections that I
+just explained to you guys in detail. So
+the first one is who I am. The second
+one is what I do. The third one is who I
+serve. The fourth one is my approach. So
+on and so forth. And I really like
+prompts like this that tell the AI to
+interview me to pull out the information
+that it needs to create a good document.
+Because I think a lot the mistake that a
+lot of people make is they they
+basically give a prompt and have Claude
+or have chat GBT output what they think
+they need. But in reality, if the AI
+just had a little bit more context, the
+output would be 10 times better. So
+that's a huge hack is asking the AI,
+hey, interview me, ask me questions with
+the goal of achieving this output,
+right? in our case, a brand bio or voice
+document. Ask me as many questions as
+you need in order to make a solid
+output. So having the AI interview you
+is really, really important. And again,
+the full prompt actually contains
+12 different sections that it's going to
+interview you on.
+Actually, sorry, 14 different sections.
+And then it gives custom instructions at
+the bottom for the AI to generate this
+specific document. So, some of the
+instructions for the AI are ask
+questions one section at a time. Wait
+for my response before moving on to the
+next section. Use the first person, be
+specific, not vague. Use real examples
+when I provide them. Keep language
+conversational but professional. Start
+by asking me the questions from section
+one. So, that whole prompt again, you
+can get at the link below. But guys,
+copy that prompt into Chad GBT or
+Claude. take the 15 to 20 minutes that
+it'll require to answer those questions
+and out will pop a very strong, very
+solid brand bio and brand voice context
+document that you can use in a custom
+GPT or in a clawed project. Now, the
+next document that I use and I kind of
+layer this one on top of my brand voice
+context profile is my ICP document. Now,
+ICP stands for ideal customer profile.
+And this is where AI gets really
+powerful is when you start layering
+context profiles on top of each other.
+So, we just generated our bio document,
+which was also our brand voice document.
+So, we killed two birds with one stone
+there. Next, we're going to generate our
+ICP document.
+When you label or basically when you
+layer your ICP context profile on top of
+your brand voice context profile, think
+about how much more powerful your
+content creation efforts are going to be
+now because now the AI one knows about
+you and your background. Two, it knows
+how you speak, your voice and your tone.
+And three, with an ICP document, it
+knows exactly what your target customer
+looks like. So, it can use your tone and
+your voice to create content that speaks
+directly to your ICP's pain points. That
+is the stuff that is AI on steroids.
+That's the stuff that 99% of people are
+not doing.
+Now, I'll share my screen again and
+we'll walk through my ICP document at a
+high level. And again, my ICP is
+irrelevant. What's important here are
+the principles that I'm teaching you so
+that you can then go and copy this exact
+document for your business and for your
+ICP and now you're going to have a
+really really powerful way to use AI
+like I said that 99% of people aren't
+doing. So here we've got our ICP
+document and the top of the page you see
+it has our primary avatar. Now this is
+the main person that I'm talking to.
+This is my ICP. And Claude has defined
+them as the overwhelmed operator. And I
+think that's a great way to describe my
+ICP because as we get more into the
+demographics and the psychoraphics,
+you're going to understand that, oh
+yeah, the overwhelmed operator is
+exactly who Corey's talking to. So if we
+touch on the demographics of what my ICP
+looks like, the role that I'm speaking
+to are business owners CEOs who are AI
+curious. Okay? and AI curious as a
+critical descriptor here because who I'm
+not talking to are those business owners
+who are so stuck in the past that
+they're afraid to even talk to chat GBT.
+No, there's probably not a lot that I
+can do for that person. I'm also not
+talking to the CEO who is incredibly
+technically savvy that knows how to code
+and who's spending their entire day
+talking to AI and testing out different
+tools. That person is a little farther
+ahead of my ICP. What I'm targeting is
+right in the middle. Those founders and
+those CEOs who maybe they've used Chat
+GBT, maybe they've used Gamma or some of
+these other tools. They're AI curious,
+but they're overwhelmed. They're too
+stuck in the weeds of their day-to-day
+business to really spend time leveraging
+these tools effectively, but they they
+want to learn more. They just don't know
+how. So, that's the person I'm talking
+to. Now, another demographic is their
+business stage. So, I'm targeting
+business owners who are 6 to seven
+figure businesses, at least 500k a year
+in revenue, uh, but typically in the $2
+to $20 million per year revenue range. I
+feel like that's a really good sweet
+spot for what I'm offering as a product,
+which is AI assessments and AI audits
+for these small businesses. Because if
+you're too small of a business or if
+you're a soloreneur, you're probably not
+going to be able to afford my services.
+And if you are, then it's probably not
+going to be effective enough for it to
+be worth it for you because you're just
+a one-man show and you don't have a very
+big business. So really, my sweet spot
+is that $2 to $20 million per year
+range. Now, the industry that I'm
+targeting, the people that I'm talking
+to as far as industry is concerned,
+service businesses, agencies, coaching
+and consulting, e-commerce, SAS,
+professional services, really again any
+business doing 2 to 20 million per year.
+But those industries tend to be tend to
+have the most opportunity, tend to have
+the companies where the CEO is AI
+curious, but too in the weeds to really
+learn more. Location, primarily
+US-based, English-speaking markets, of
+course. And then team size. Now this is
+important because again if our main
+product is going to be an AI assessment
+to gauge an organization's readiness to
+use AI and to uncover revenue
+opportunities or uncover efficiency
+opportunities that is going to be most
+effective when the company has 5 to 50
+employees because again if you have less
+than five employees sure there's going
+to be opportunity to save time or make
+more money but there's not going to be
+nearly as much opportunity as there
+would be in a medium-sized business that
+has maybe 5 to 50 employees.
+Now, let's talk about the psychoraphics
+of my ICP. And again, for those of you
+listening to this, this is an incredibly
+important section where yeah,
+demographics is important, right? We
+want to target CEOs. We want to target
+these specific industries doing 2 to 20
+million a year. But arguably the
+psychoraphics are more important because
+this is this gets into the psyche of the
+business owner. because if they don't
+have the psychoraphics that you're
+looking for, then they're probably not
+going to be a good fit. And again, guys,
+after we go through this document, I'm
+going to give you the exact prompt that
+I used to generate this document, which
+again, you can get at the link in the
+description or the show notes. So, when
+it comes to psychoraphics,
+these are the pain points that your ICP
+is facing. So, for me, it's those
+business owners that are running a
+profitable business, but they feel like
+they're drowning in operational tasks,
+which is the majority of small business
+owners because most small business
+owners, they're running a a they're
+running a team where they're the ones
+putting out all the fires and they're
+answering the phones and they're the
+ones staying up late to service the
+clients. They're drowning in operational
+tasks and they don't have time to work
+on the business because they're so busy
+working in the business. And that's
+exactly what the second bullet point
+says. Spending too much time in the
+business instead of on the business.
+They know their systems are held
+together with duct tape, right? They're
+just hoping that things don't fall
+apart. They're aware of the fact that AI
+and automation could help, but they're
+completely overwhelmed by where to
+start, so they just bury their head in
+the sand. They're frustrated by the gap
+between what they hear AI can do and
+what they can actually implement. And
+this this episode is a great example.
+There's plenty of small business owners
+out there who claim that, well, yeah, AI
+is great, but it doesn't really work for
+my business because it doesn't
+understand my industry or it doesn't
+understand my role. When in reality, if
+they listened to this episode and took
+the 20 to 30 minutes that it takes to
+generate a really solid context profile,
+that would 10x their AI efforts and that
+would get them on the track to using AI
+more effectively. And again, uh, the
+final psychoraphic is they're just tired
+of watching YouTube videos and saving
+and bookmarking those Twitter threads of
+all these inadin builds and things that
+on paper look good, but they have no
+practical implementation path
+when it comes to their emotional state.
+They're skeptical of the hype. They've
+been sold snake oil in the past. They're
+exhausted from manual processes that
+they shouldn't be spending time on, but
+they have to. and they're anxious about
+falling behind their competitors who are
+adopting AI and getting ahead of the
+curve, right? They're overwhelmed by
+where to start and they're motivated by
+the efficiency that comes with freeing
+up time for strategic work.
+And again, we're not going to go into
+every single point in this document
+because this ICP document is even longer
+than the first one. This is a six-page
+document.
+But again, I'm going to give you guys
+the prompt to generate this easily. But
+a couple of the other key points that I
+want to touch on are the
+um the sorry me scroll up here
+the ways so really their goals and
+aspirations right
+they want to scale revenue but they
+don't want to scale headcount along with
+it they want to implement AI in ways
+that actually provide ROI so again this
+whole document is basically six pages of
+every single pain point every single
+frustration every single characteristic
+of my perfect client all the way down to
+well, how do they consume information,
+right? How do they go about following
+thought leaders? How do they go about
+making decisions? We've got a whole
+section on decision-m style. And one of
+those points is, well, they need to see
+proof before committing, right? So,
+that's why we post case studies and we
+use real life examples. And that's why I
+build in public and talk about the
+problems I'm solving in my business.
+Because if my ICP needs to see proof to
+make a commitment, what better proof
+than me proving that this stuff works in
+my own business. So this ICP document is
+incredibly detailed and I'm going to
+share just briefly by speaking out loud
+the prompt that I use to generate that
+ICP document. It's it's a lengthy
+prompt, but again, I'm going to give it
+to you guys for free. So really the the
+the gist of the prompt or at least the
+intro to the prompt is you are a
+strategic business consultant helping me
+define my ideal customer profile. I need
+you to create a comprehensive ICP
+document that will inform all of my
+content creation and marketing efforts.
+Please ask me targeted questions to
+gather the necessary information. Then
+create a detailed ICP document covering
+core demographics,
+psychoraphics and current state, goals
+and aspirations, pain points and
+frustrations, behavioral
+characteristics, content strategy
+implica implications, success metric,
+success metrics, and what I think is the
+most important section is your anti-ICP.
+Who is my service not for? Who am I not
+targeting? So, very similar to the
+section in our brand voice profile that
+says, "What do we not do? What do we not
+say?" This document has a section for
+who do we not target? Because knowing
+who not to target and knowing what not
+to say is arguably as important, if not
+more important, than knowing who to
+target or what to say.
+All right. So, and what I love about
+this prompt is that under each of those
+sections that I just mentioned, there's
+three to five additional sub questions
+that are included in the prompt that
+again I'm not going to read here because
+it would just take too much time. But
+for example, under the goals and
+aspirations section of the ICP prompt,
+there are three additional sub
+questions. What are they trying to
+achieve? What does success look like for
+them? And what transformation are they
+seeking? And if you can just take the
+time, the 20 to 30 minutes that it takes
+to answer these questions, you take your
+brand voice and bio document, you layer
+it over your ICP document, and now you
+have a lethal lethal lethal marketing
+asset that AI now has all the context
+about your business and about how to
+speak directly to the client that you're
+looking to target.
+All right. Now, so once you've got your
+brand voice and your bio document and
+you've got your ICP document, which
+again is going to take you maybe 20 to
+30 minutes a piece to generate using the
+prompts that I'm providing for you. The
+last step, at least for my specific
+context profile, one that's focused on
+content creation, is to attach examples
+of your best work specific to the
+context profile you're creating. So
+again, my contact profile is focused on
+my brand voice and using it to create
+content. So naturally, I'm going to want
+to attach five to 10 examples of my best
+work specific to my content. So what I
+did, and to show you guys to to share my
+screen here and kind of show you guys
+what I'm talking about,
+if we jump into my Claude,
+I'll show you guys exactly what my
+project looks like.
+So here we're looking at my claude and
+here on the right hand side of the
+screen, these are all the files attached
+to my brand voice profile. So these are
+all the files that essentially make up
+my contact profile. And so you see here
+we've got the brand voice bio, which is
+the first document we went over. It's a
+four-page document. Next, we've got the
+ICP profile, which is the one that we
+just spent a couple of minutes talking
+about. And then you see we've got seven
+additional documents here. And what
+these seven additional documents are is
+they are examples of my best work. So
+this first one here is podcast
+transcript number one, podcast
+transcript number two, 3, four, and
+five. So we've got five fulllength
+podcast transcripts attached to our
+context profile so that Claude has even
+more examples of how I talk, my tone, my
+voice, the way I say things.
+Because the PDF documents that we gave
+it are great. The ICP profile is great.
+The brand voice uh bio document is
+great, but unless we give it specific
+concrete examples, it's still going to
+be guessing a lot of the time. So that's
+where I like to choose 5 to 10 quality
+examples of my best work to give it to
+to make the output even that much more
+tailored to the way that I do things.
+Now, when it comes to giving examples,
+it's quality over quantity. What I
+didn't do is I didn't go in and pull
+every single transcript for every
+podcast episode I've ever done. No, that
+would just be too much. It makes way
+more sense to choose the very best five
+to 10 and include those. So, I've
+included five uh podcast transcripts uh
+of what I thought were my best
+interviews to date. I included those so
+it has a very vivid understanding of the
+way that I speak out loud. And then I
+included two additional documents. One
+of those are my top 10 best performing
+LinkedIn posts and the other one was my
+top 10 best performing X posts. So now
+because I've got five podcast
+transcripts attached, it knows how I
+speak out loud and it can reference
+that. And because I've attached my best
+written LinkedIn post and my best
+written expost, it also has really good
+examples of how I write. So, when I go
+and I say, "Hey, Claude, write me a a
+tweet about XYZ topic," it's going to
+look through my best X post and say,
+"Oh, okay. Well, here are some of
+Corey's best performing tweets to date.
+I'm going to use that tone or I'm going
+to use that voice or I'm going to choose
+one of those topics and use the context
+from the bio document to generate a
+really good tweet." And now, I preface
+this by saying it's not like I just have
+AI writing all my content. I don't have
+it write my content and then just copy
+and paste it into LinkedIn or copy and
+paste it into Twitter. No, that's not
+the point. The idea is it's going to
+give you a really good place to start.
+It's going to get you 70% sometimes 80%
+of the way there and then where your
+skill still comes into play is going in
+and editing that. So, for example, this
+morning I scheduled two LinkedIn posts
+for later this week. I had Claude
+generate the posts, but then I went in
+and edited them to add a few things here
+from my experience, remove a few things
+that sounded too robotic, and then
+that's the final post, right? So that is
+my very specific context profile in
+Claude for creating content which layers
+our ICP document, our brand voice and
+bio document and five to 10 examples of
+my best work across podcast, Twitter and
+LinkedIn. Now the very last part of the
+context profile is generating project
+instructions that will reference all
+your files when generating outputs. So,
+if we jump back into my Claude again,
+you'll see here that there's a section
+inside of the Claude project that says
+instructions, right? So, these are
+custom instructions that you need to
+give Claude so that when you're working
+inside this project, yeah, it's got all
+your documents attached here, but you
+got to tell it what to do with those
+documents. Without custom instructions,
+Cloud is kind of taking a shot in the
+dark as far as when to use which
+documents.
+So, if we look inside our custom
+instructions here,
+and again, this is something that I had
+Claude generate, and I'll give you guys
+the prompt that I used to generate these
+custom instructions. You'll see that
+they're telling Claude exactly when to
+use which document. So, it says, "You
+are assisting Corey Ganam, an
+entrepreneur who built a $16 million
+e-commerce business and is now focused
+on helping small business owners
+implement AI and automation. Corey's
+content targets non-technical business
+owners, typically 500k to 20 million in
+revenue, who are AI curious but
+overwhelmed by where to start. Always
+reference the uploaded context files
+before creating any content. And then it
+goes on to say, hey, this document
+contains this. The ICP document defines
+the target audience. The bio document
+covers Cory's background and
+positioning. The podcast transcripts
+show you examples of Corey's tone,
+style, and word choices. So on and so
+forth. So really the custom instructions
+for the project are what ties the whole
+context profile together.
+And the prompt that I used to generate
+the custom instructions which again I
+will include in the prompt packet that
+you guys can get in the description or
+in the show notes simply says please
+generate one to two concise but
+descriptive paragraphs to include as my
+project instructions for my brand voice
+profile project. You don't need to spell
+out my brand voice guidelines or my ICP.
+Again, all of that information is
+already contained within the files
+themselves. I just need a brief
+description to include as the project
+instructions. So, that is the exact
+prompt that I used to generate these
+project instructions right here. I took
+the exact output that Claude gave me. I
+copied and pasted it into the project
+instructions. I uploaded all of the
+documents that we've discussed
+throughout this episode. And then boom,
+there is my context profile. So now
+anytime I want to
+write content or come up with ideas or
+even just brainstorm what I'm working
+on, I come into Claude, I come into the
+project section here on the side and I
+jump into my brand voice project. And so
+you'll see here I've got see it doesn't
+say exactly how many uh chats I have
+going on in this project but since
+making this particular project probably
+three or four months ago I'd say 90% of
+my AI prompting happens within this
+project because I spend most of my AI uh
+workload using it to help to come up
+with ideas and to create content. So I
+really hope this episode was helpful.
+This is ex the exact process that I
+followed. I'm not saying it's perfect.
+I'm not saying it is even the optimum
+optimal way to do this because again at
+the end of the day I'm not an expert. I
+don't claim to be. I'm just sharing what
+works for me with hopes that it can work
+for you guys as well. So as a reminder
+you can grab all the prompts that I
+mentioned in the video for free at the
+link in the description if you're
+watching on YouTube or in the show notes
+if you're listening on Apple or Spotify.
+Do me a favor. If you enjoyed this
+episode, leave me a review or like the
+video. And it doesn't even have to be a
+good review. Just leave me an honest
+review if this helped you out. I'd
+appreciate a review. It really helps get
+this show in front of more people. So,
+thank you so much for watching. I'll be
+back with a new episode next week and
+I'll talk to you guys soon.

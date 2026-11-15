@@ -1,0 +1,922 @@
+All right, welcome back to the podcast.
+So, this week's guest uh is one that
+I've known for a couple of years now,
+Nick Spizac. I'm going to let him get
+into his backstory here shortly, but the
+short of it is uh Nick and I met in the
+e-commerce world. He was one of the
+first members of the wholesale network
+mastermind. He went from corporate
+software developer to ecom entrepreneur.
+Recently left the nineto-5 a few months
+back to pursue e-commerce full-time. and
+he also happens to know quite a lot
+about AI in the world of development and
+automation. So, bringing him on today to
+talk through some of the opportunities
+that he's seeing in AI, talking about uh
+hacks for small business owners, ways to
+make recurring revenue with AI, and
+getting people started and learning
+about this stuff the right way. So,
+Nick, excited to have you on today, man.
+Looking forward to to talking through
+some of these things.
+>> My pleasure. Thanks for having me back
+on the podcast, Corey.
+>> Yeah, definitely. And for those who are
+curious, you can go back and listen to
+episode 40. Uh that was the last time
+that we had Nick on the show, episode
+40. And that was back when the podcast
+was called the Amazon Wholesale Podcast.
+So that one goes deep into Nick's Amazon
+background, but today we're going to
+talk more about uh the other side of his
+background. So Nick, do you want to just
+give the uh the brief elevator pitch on
+your story?
+>> Yeah, sure. So I grew I grew up as a
+doing the reseller back in the day on
+eBay. Um, and then fast forward a couple
+decades, right? So, we was right around
+COVID time, I started being able to
+utilize some of my background in IT. I
+worked in corporate as a developer, a
+system engineer, and an architect for 15
+years. And I used that experience really
+to find products that were cheap online
+or in demand and then reselling them on
+Amazon. And that's like you mentioned,
+that's how we got connected. um as the
+years kind of went on started learning
+about different aspects of things
+whether it was logistics or brand
+management and we're still doing that
+today. Right? So nothing's really
+changed on that front. What has changed
+is applying the skill set of not just
+software engineering but being able to
+utilize some of these artificial
+intelligence technologies in a practical
+way. And as we kind of go through the
+podcast today, the intention will be
+it's very simple. It's it's definitely
+one of those things where you can make
+these topics seem very complicated, but
+they don't need to be. So, I'd love to
+kind of talk through some of the
+practical ways of, you know, how we're
+starting to utilize AI and and the
+direction that we're moving forward
+going into 2026 and beyond.
+>> Yeah, and that's a great point because I
+mean that's my mission as well at the
+end of the day to to simplify these
+things for the everyday small business
+owner and make it more approachable and
+more easily or easy to implement, right?
+So with that, I mean, let's start with
+maybe your most actionable tip when it
+comes to starting to implement some of
+these AI tools for the everyday small
+business owner.
+>> Yeah, I think the most important thing
+is just kind of getting into the
+ecosystem. So you're going to hear all
+of these different terms around chat GPT
+and perplexity and Google Gemini and all
+of those items and at first it can seem
+super overwhelming. So I would say the
+very first thing if you're AI curious
+and starting to kind of think through
+because no matter where you go, if
+you're on the news, you're on you're on
+social media, you're hearing all this
+buzz around AI and potentially even have
+some fear of missing out around it. So I
+I would say the very first practical tip
+is literally just taking a day where
+instead of doing a Google search, just
+use chat GBT to ask the same exact
+question that you would have already
+done. And another one that you can do
+with that is all of these AI providers,
+they have something that you can put
+onto your phone. So now you're in a
+position where you can literally have
+conversations to be able to figure out
+something of interest. And it doesn't
+even need to be in the professional
+context. It can just be something that
+you're like, "Hey, I'm I'm I'm curious
+about a specific topic, like what should
+I make for dinner tonight based on the
+ingredients that I have in my cabinet?"
+And you'll be shocked at what you can
+learn about some of these things without
+it h really having to do too much to to
+kind of really dive into the deep end of
+it. Yeah, it's true how just learning
+how to integrate it into your life as it
+already is is really the biggest
+immediate unlock. So instead of using
+Google asking chat GBT and just starting
+to think to use it for things that you
+wouldn't normally think to use it for. I
+think that's a great example where again
+I can't tell you how many times I've got
+a random assortment of groceries in the
+fridge and I can just take a picture of
+everything and and ask Chad GBT what can
+I make based on this what I have and
+it'll put something together and then I
+don't have to think about it. Right? So
+that's just a very simple everyday use
+case that I mean anybody could apply and
+just it's starting to think with that
+mentality of just when can I implement
+it in my into my daily life now. And
+that's great. And that's that's a great
+way for, you know, someone who's
+completely inexperienced to get started.
+And for those who are willing to spend
+even a little bit of time learning these
+concepts and learning how to use this
+technology, I think there's such a large
+knowledge gap as it stands right now.
+There's people that know a little bit
+about AI are so much farther ahead than
+people who know nothing. And I think
+there's a large amount of people that
+still know nothing. So, one thing that I
+know that I'm focused on and Nick, I
+know you and I have been working
+together on some of these things, uh,
+are doing essentially AI assessments for
+people and for small business owners.
+So, because one of the things that we've
+heard, some of the feedback that we've
+gotten from PE from small business
+owners is that they don't know what they
+don't know. They know that they need to
+implement AI and they know that there's
+things that they're doing that are
+inefficient, but it's like they they'll
+tell me, "Hey, I want you to come just
+sit down and watch me work for a day.
+Can you just come shadow me for a day
+and watch everything that I do?" And
+obviously that doesn't scale. So, we're
+putting together essentially an AI
+assessment or an audit for lack of a
+better term to audit what people are
+doing in their everyday work scenarios
+and then put together a list of
+recommendations on how AI can be
+implemented or how things can be
+automated to make that workflow more
+efficient. Right? So, that's kind of one
+of the things that we're doing to to
+make money in this AI day and age.
+>> Yeah.
+>> Yeah. And I think couple things to to
+hit on, especially for small business
+owners, right? If you're fe if you're
+feeling that that that FOMO, the fear of
+missing out, like, oh, I'm not using AI
+in my business, there's there's an
+overarching question to ask yourself,
+and that's generally where it is, is how
+where's the return on investment going
+to be on these, and a lot of the the
+shiny object syndrome with AI right now
+are based on first principles that have
+been around for decades, right? And it's
+been how do I eliminate waste and how do
+I grow my business, right? So we think
+of AI with that acronym as artificial
+intelligence. But before even getting to
+that type of tier, think about what the
+the true meaning of it, information and
+automation, right? So same same acronym,
+but before we even get to artificial
+intelligence, how do I get the
+information I need to be able to make
+good business decisions and what aspects
+of my business can I make more lean so
+that way it's able to be standardized
+and then eventually automated. So, kind
+of Corey, kind of getting into what you
+were talking about with these
+assessments. A lot of times with
+assessments, it's it's just looking at
+what's the existing process? What's the
+current state of that look like?
+Following Elon's methodology of
+eliminating waste, right? Taking
+everything back to ground zero and
+challenging, okay, why is it set up this
+way? Are there areas that we can take
+out of that existing process flow and
+visualizing the work? What are the steps
+that are there? Can I teach myself? Can
+I teach my employees? Is it too
+complicated? So, those are really the
+fundamental steps with these assessments
+is getting back to these principles of
+being able to say, hey, what how does it
+work today and being willing and open to
+challenge if it's really the right
+direction to do it or if the process can
+be made simpler.
+>> And I love that we go about it that way,
+right? Because with that framework,
+you're basically saying we're not going
+to just implement AI into a task that
+isn't yet optimized. First thing we've
+got to do is we've got to look at that
+task and make sure are we doing that
+task in the most efficient manner
+possible. If we're not, well, we cut out
+the waste like you said and we implement
+steps that make it more efficient. And
+then once you have that fi that finished
+product which is the now fully optimized
+task then you can look at that task and
+say okay now it's time to implement AI
+or hey actually now we can automate this
+step here but you can't just jump
+straight into AI or jump straight into
+automation without fixing the underlying
+process first. And what you're saying we
+do is one we do the audit right and then
+two once we figure out what we can do
+then we actually go and set it up for
+success by uh you know cutting out the
+waste and fixing the pro underlying
+process first and then we make
+recommendations on well hey here's where
+we can use AI or here's what we can
+automate. Is that kind of what you're
+saying?
+>> Yeah and like going back to the original
+piece right what is the ROI for this? So
+the best way to measure it is you can do
+these in three different ways. You can
+look at it from an effectiveness p
+position which is really how much money
+can I make by utilizing this updated
+process right so those would be
+growthoriented
+automation opportunities or AI
+opportunities there there's an
+efficiency angle right so a KPI around
+how many hours saved now you can look at
+a process say okay I eliminated this
+amount of waste I automated this
+specific aspect of my existing business
+process
+And now I can tie with an actual
+quantitative result of here's how many
+hours I' saved and if this was done
+manually this is how much it would have
+cost in current state to do that. And
+then the third method is around
+experience and that's really around it's
+a harder one to measure but it's around
+looking at your customer base and say
+did I increase the experience that they
+provide whether that's onboarding into a
+a service or product that you offer
+measuring that with a net promoter
+score. So there there's those are really
+the three levers that you can pull when
+you're starting to think through okay
+well what do I actually want to do with
+this? It's either is it an is it an
+effect effect effectivenessbased metric
+where maybe we're looking at it from a
+growth angle is it an efficiency based
+metric where we want to look at it from
+hours saved or is it an experience-based
+angle where we're saying hey how do I
+make my existing customer base have a
+better result of the products and
+services that we're offering
+>> right so you're optimizing for one of
+those three things right either time
+saved additional revenue generated or
+increase in customer experience and so
+that's the ROI that you measure the work
+on because again to go and fix a process
+that is inherently incredibly
+inefficient is not going to be cheap,
+right? We're talking a significant
+investment. But when you tie it back to,
+well, yeah, it's going to cost you,
+let's say, 10K, but then you look at,
+oh, well, it actually saves our number
+two person in the company 15 hours a
+month and we pay him 200k a year, right?
+So, actually, we're making that money
+back and then some is how it how it
+pencils out in a lot of cases. So, I
+love that. And again, to be able to get
+to the process work, you first got to do
+the audit, which is why I'm incredibly
+um we're obviously incredibly bullish on
+the audit as being kind of the entry
+point uh product in and of itself for
+getting to do some of this higher level
+process work. So, we've got a couple of
+those in the pipeline right now. We're
+doing one uh for a realtor. We're doing
+one for a large like $25 million a year
+um box manufacturer. We've got a couple
+more in the pipeline. And if you're
+interested in one of those audits for
+your small business, uh, feel free to
+reach out. You can email me
+corey@coreygam.com
+and we can talk that through with you.
+But Nick, one other point that I want to
+highlight in terms of this whole journey
+that we're on, right? Because I'd say
+again, you and me are ahead of n I mean,
+you're ahead of 99% of people. I'm
+probably ahead of 90% of people when it
+comes to knowledge of this stuff, but at
+the end of the day, we're not experts,
+right? I think the key that people need
+to realize is that you really just need
+to be one step ahead of your customer if
+you choose to sell this stuff or if you
+choose to um you know implement this
+stuff for other people as a business. So
+I just want to get your thoughts on
+that. Like is it really as simple as
+just staying one step ahead of of the
+other uh of your customers? I mean
+>> yeah I think at the end of the day the
+fundamental item is learning how to
+learn, right? So and that's just a
+principle for any of any business. If
+you're if you're a business owner, if
+you're a decision maker in an existing
+business, the continuously being okay,
+well, what's the next thing that we need
+to be thinking about? What are the
+contingencies we're putting in there?
+And that's no different than decades of
+centuries of establishing businesses,
+but we're just in a a very unique
+position now where the leverage of using
+AI capabilities allows us to get to
+those outcomes so much quicker, right?
+And that that's the big the big piece is
+it's looking at it from the lens of how
+much more output and and getting to our
+desired outcome can I use by leveraging
+this versus someone that's not using the
+capability. And that's really the
+opportunity cost at the end of the day
+if you're not looking at these items.
+Somebody else that is your competitor or
+would be a potential competitor is
+looking at it. So, it's it's definitely
+getting to your point of just staying
+not just one step ahead of the customer,
+but also one step ahead of your
+competition that's also looking at this,
+>> right? Absolutely. And again, in my
+experience, all you have to do is put
+in, you know, I put in 15, 20, 30
+minutes a day most days of just either
+practicing with some of these tools or
+building certain automations or just
+bottom line tinkering with this stuff,
+right? And just doing that for 15 to 30
+minutes a day most days is going to put
+you ahead of most people. So that's
+really what it comes down to.
+>> Now Nick, another question that I had
+for you because there I know there's
+people in the audience that they're
+building businesses, right? Maybe
+they're uh younger or they they've got a
+couple of businesses under their belt
+and they're looking for that next one to
+start. I think a lot of people are
+wondering how to make money in AI, but
+specifically recurring revenue, right?
+I'm I'm obsessed with the concept of
+recurring revenue. So what are some of
+the best ways that you've seen people
+making recurring revenue whether it's
+monthly or annually uh when it comes to
+AI? Yeah, start with start with a
+problem you have, right? I'll give a
+practical example in my in in one of my
+businesses right now. So, it's staying
+within the Amazon space, right? We're we
+we do growth partnership with with
+existing brands and one of our brands
+has an issue with minimum advertised
+pricing. So, we used a I used AI
+specifically to code a mini app that its
+whole purpose was to go out and look at
+their listings and find out what was the
+amount of violation per offer that was
+there and more importantly, how much
+revenue was that coming at a a cost on a
+monthly basis. So when we do our fi when
+we do our quarterly reports with that
+brand around financials that's a very
+clear going back to that ROI equation
+that's a very clear way for to say hey
+this is the amount of money monthly of
+lost opportunity as a result of the
+price being below minimum advertised
+here is your brand degradation over an
+annualized [snorts]
+basis of what this looks like. So that
+was one very practical way to be able to
+say what's an existing painpoint that I
+had with working with our with our brand
+partners to be able to show value and we
+utilized AI as a way to code the app
+quickly to be able to show some value on
+that on that very specific action.
+>> And then do you have that basically
+selling as a subscription to these
+brands you're saying and that's how you
+generate the MR. So, we haven't used the
+MR specifically on that one yet, but
+that's a forward feature. So, basically
+for our brand partners, it's a free
+service for being for being customers
+with us, but it's also an an MR
+potential with either brands that don't
+necessarily want a brand partner, but
+they would be willing to have
+>> standalone
+>> a standalone for that. So, it's that's
+generally the idea here is using it as
+building blocks. solve the the specific
+pain point for yourself first and then
+see can you take that as a productized
+service model to be able to generate the
+monthly reoccurring from there. So,
+okay. So, you're saying it's basically
+it's like, hey, find a problem and
+create a little lightweight tool more or
+less almost like a mini SAS that can
+solve that problem that if it solves it
+for you, it's going to solve it for
+other people and you can monetize that,
+right? So, I think I think that makes
+perfect sense. That's a great way to
+make recurring revenue with AI. And I'm
+just looking at some of your notes here,
+too. So, one thing I want to point out
+is I think when you think about
+recurring revenue, I think you the you
+can justify the, you know, $1,000 per
+month, $2,000 per month, $5,000 per
+month price tag if your service is
+making your client a lot of money,
+right? Because at the end of the day,
+there's there's automations or there's,
+you know, AI services that are going to
+make the client money and then there's
+services on the other end of the
+spectrum that are going to save them
+time, right? or or save them money. And
+when it comes to savings, you can only
+save so much. But when it comes to
+making more money, you can help them
+make an unlimited amount of money. So, I
+think if you want to make the highest
+amount of recurring revenue with AI,
+it's got to be a service that makes the
+client money. And obviously, the more
+money it makes them, the more you can
+charge per month. So, these that's why
+these like lead genen services or these
+marketing automation companies can
+charge 10, 15, 20,000, $50,000 a month
+retainers. it's because they're
+generating four or five times that in
+revenue for their clients, right? So, I
+think people just got to keep that in
+mind.
+>> Yeah. And especially depending on where
+your skills are, right? If you're if
+you're more naturally inclined in the
+sales and marketing side, the growth the
+growth angle of that is going to be a
+more natural fit. If you're [snorts]
+more systems oriented or systems
+focused, the efficiency side may become
+as a natural fit. But knowing all three
+of the pillars is a fundamental skill
+that as you're looking through the these
+opportunities, you can you can rate them
+based off of an emp an effort and impact
+analysis, which is a key part of those
+assessments, right? What is an outcome
+of an assessment? It's saying here's all
+of the opportunities that we could do.
+Which of them should we do? And the
+effort and impact says okay, if there's
+something that's going to have an high
+impact to one of those growth lever,
+right? growth, efficiency or experience
+and the effort to complete that that at
+the end of the day is minimal. That's
+going to be your lowhanging fruit. Those
+are the ones that you tackle right away
+and it's very easy to sell those types
+of items. So thinking about those in
+visual sense of being able to put them
+and map them for a customer is such a
+valuable it's such a valuable way of
+thinking because it gives them a very
+objective way to be able to make a
+decision based on your recommendations
+as the quote unquote expert in that AI
+space.
+>> Right. No, that's that's a really good
+insight, right? Is at the end of the day
+it's got to be it's got to be ranked on
+a scale of effort to impact, right? like
+you said and it's the things that are
+currently high impact below effort. We
+need to just go ahead and and automate
+those entirely or get those outsourced
+entirely because that can open up a lot
+of additional opportunities for that you
+to then reallocate that time to stuff
+that matters more.
+>> Y
+now I want to touch on a few really
+tactical tips and tricks that people can
+implement right away. So, there's one
+that I want to touch on that I feel like
+I've been screaming from the rooftops
+for the last few months. And until
+everybody I know has downloaded this
+app, I'm not going to stop talking about
+it. But my first of the three AI hacks
+that I'm going to share is called
+Whisper Flow. So, it's Wispr
+Flow and it is a uh basically a talk to
+text app. So, you just hold down a
+button on your keyboard and you can talk
+and it will just type out what you're
+saying. But, it's actually good. So,
+think if Siri worked and knew how to
+format and knew context. That's how good
+this tool is. And it saved me or I guess
+it even uh quantifies for you. It'll
+quantify the amount of uh time saved or
+I guess how much faster your typing is
+when you use Whisper Flow versus typing
+it out yourself by hand. And my typing
+quote unquote because all I'm doing is
+talking is I think five times faster
+when I use Whisper Flow. And it's
+completely free. So, it's been a game
+changer as far as just saving a ton of
+time.
+>> Yep. I would I would definitely endorse
+that as well. Um, when Whisper Flow came
+out, there's it's has a very generous
+free tier. Um, so just utilize it to its
+full capacity, they also have a mobile
+app, which is really nice. So, not only
+can you use it on the desktop, but you
+can also use it with I have an iPhone.
+So, with the iPhone itself, there's a a
+um app you can download within that. and
+then your keyboard, you just toggle it
+over and you can you can do the same
+transcription service. So, super super
+easy hack to be able to just have
+conversation with what you're already
+going to be doing anyway.
+>> Yep. And uh it takes about a week to get
+used to because at first it's like
+you're you're trying to talk your text
+out and you're just sitting there
+thinking to yourself, you're like,
+"Wait, is that right? Like, do I say it
+that way?" But after about a week, you
+get used to it and you start typing.
+Again, you're just talking, but you're
+typing so much faster.
+>> Uh, so the second one that I have is
+using connectors in chat GPT. So, pretty
+much everybody listening to this is
+probably using ChatGBT in some capacity.
+What they probably don't realize is that
+there's something in chat GBT called
+connectors, which is basically a way of
+chat GBT to connect to some of the tools
+that you use throughout your everyday
+work. Right? So, for example, it's got
+connectors to Gmail. It's got connectors
+to your calendar, to Google Drive, to
+Outlook if you're using Microsoft. So,
+you can go in and enable those
+connectors and then you can talk to chat
+GBT as if it can take actions in those
+other tools, right? So, for example, you
+can talk to your email if you have the
+Gmail connector enabled. So, you could
+say, "Hey, uh, please summarize all the
+emails that came in today." And ChatGBT
+will be able to summarize your email
+inbox. So using those connectors inside
+chat GBT is a great way to get access to
+the other tools that you use with with
+the power of chat GBT included.
+>> Yeah. A little bit additional context
+too on that. What we're seeing in the
+market is so for OpenAI specifically,
+they're supposed to be going generally
+available by year end with GPT apps. So
+they originally did custom GPTs was the
+first iteration of this. Now apps are
+exactly what you mentioned Corey, right?
+So there's a couple that you'll see
+already allow listed on chat GPT. A
+couple of them are like Spotify, Zillow,
+Canva where in natural language, if
+you're just having conversation with it,
+it'll already make a recommendation to
+go ahead and pull up those specific
+services. So, think of it kind of like
+the Apple App Store, but for AI and with
+800 million viewers that are using it on
+a regular basis, it's it's a really
+interesting opportunity, especially if
+you have a if you have a particular
+service that would you can you integrate
+natively.
+>> Yep. Yeah. The Open AI is basically
+turning into the Apple of the AI world,
+right? they're owning that that app
+store and there's going to be a lot of
+other additional connectors and and apps
+built on top of chat GBT. So those are
+just a few to start with.
+>> Yep.
+>> And then my third hack on my list here
+is using Loom for creating SOPs. So Loom
+is a tool that records your screen and
+your microphone. So it's just loom.com.
+It's completely free. If you get the
+free version, you can record videos up
+to 5 minutes. And it just makes it easy.
+You can one click record your screen and
+your camera and your microphone. So
+you'll just record yourself going
+through a task and then you take that
+recording and you can upload it to
+Google Gemini and then Google Gemini
+will watch the recording of you doing
+the task and then recommend ways to
+optimize that task and to automate that
+task. So that's a way to one record SOPs
+and then two have Google Gemini give you
+suggestions on how to optimize it. So
+you can kind of kill two birds with one
+stone with that one there. Yeah,
+definitely start thinking through what
+does your knowledge base look like?
+Because knowledge bases are are going to
+be a critical continue to be a critical
+point within the AI [snorts] age where
+not just is there the generally
+available information, but then there's
+all of your own private proprietary
+information that you want to give the AI
+context around how to be able to
+interpret it. And it's going to
+interpret that data much much more
+effectively than you would if you were
+doing it manually. So having Loom on
+there is great because it's already
+going to give you those native
+transcripts and supplementing it with
+the different large language models is a
+great way to be able to um find some
+insights within the data that you
+already have as part of your standard
+operating procedures.
+>> Absolutely. So those are three hacks
+that people can implement today and give
+value immediately. Now Nick, let's say
+that somebody listening to this again,
+maybe they've used Jad GBT, but that's
+about all they've gotten into. So, I'd
+say I'd classify them as AI curious. So,
+if someone's AI curious, where are you
+telling them to start?
+>> Yeah, we kind of hit on it already,
+right? I would start with chat GBT
+because it's the easiest to get started
+with. I would look at it in the same
+mindset as any other type of like if you
+were building a house of using the right
+tool for the job. The same thing applies
+in the AI space. So, as of time of
+recording, Chad GBT is going to be
+essentially your Swiss Army knife. it's
+going to be your general purpose type
+location to go. If you're looking for
+creative writing or or coding, um it's
+been doing great in that space, but also
+Claude by Anthropic has been an area for
+that. So, taking a look at that for some
+of your copywriting type activities that
+you would be doing. Um if you're looking
+for real time insights, that's going to
+be grocked as of recording where you're
+looking for social media content. It's
+generally less censored in terms of
+being more raw in terms of the types of
+information you can get back and
+perplexity from a web a web or real-time
+research. So the the the market's always
+changing, but the skills are going to be
+fundamental in that if you can talk to
+it in natural language and think
+through, okay, as a business owner, how
+would I teach my employees, use that
+same kind of mindset with talking to AI,
+being very deliberate in how you speak,
+being very deliberate in how you type,
+making sure to ask yourself the
+question, do I actually understand what
+I'm typing or or saying right now cuz if
+I don't understand it, how is the AI
+going to know it? So come from from that
+lens of just being very direct and very
+deliberate of how to do it and then
+that's a great way to kind of get
+started and as you kind of get more
+familiar with it, it's going to be much
+more natural. You'll be utilizing it as
+essentially your research partner for
+any topic. In today's world, there's not
+any time I'm looking at something new,
+the very first thing I'm doing is
+pulling up the same type of question
+into each one of the providers and
+seeing what type of answers that it
+provides back to me. So, right,
+>> I'd say that's probably the first step
+if you're AI curious and you're a
+business owner looking to get into this
+to start putting it into practice.
+And one thing I love about um that
+model, right, is that it it's just
+forcing you to kind of get in the weeds
+and and learn everything uh by hand. And
+I think that again just if you're just
+using chat GBT at this point, there's so
+much more opportunity for you out there.
+>> So I I think that's a great place to
+start. Now, what is a uh AI business
+model that you expect to flop? because
+there's a lot of I feel like trendy
+businesses that are popping up around
+AI. You've got automation agencies,
+you've got, you know, people being
+freelance developers, you've got people
+specializing in Zapier, you've got all
+these different business models cropping
+up. So, which of those do you expect to
+just totally flop?
+>> Anything that doesn't have really an
+established mode around it. So think of
+it as like your GPT rappers, things
+where you have, you know, a commoditized
+uh chat interface, those types of items
+like that, right? Anything that any of
+the big tech firms can very easily
+generalize and put as as a feature or
+capability in their existing suite. So
+any of those ones I it's not necessarily
+that they're going to flop in the sense
+of they won't be successful but they're
+going to be successful by the large well
+well-invested
+technology companies the Googles of the
+worlds the open AIS of the worlds ones
+that have a lot of funding and very
+skilled engineers that are developing
+these these products and capabilities.
+the areas that I think we'll will likely
+have be very bullish on are going to be
+in the in the niches, right? Some of the
+boring business angles that can utilize
+they already have established customers
+where the juice isn't necessarily worth
+the squeeze for big tech or they don't
+have the experience in that area. That's
+where folks are going to flourish.
+Anything where you can be on the
+forefront of voice, vision or hardware.
+So as software continues to become more
+commoditized, there's a pendulum swing
+coming back to hardware. So think
+through over the next two years, right?
+We're already starting to see the
+movement toward where humanoids are
+becoming actually practical, right?
+We're starting to see these these demos,
+these prototypes that are there. All
+right. Well, if I'm a business owner and
+I'm starting to think through, well, how
+is this going to affect me? there's
+probably going to be a nice gap in the
+market for a period of time where okay,
+well, if I'm in a traditional business
+where I have I have labor that has
+repetitive tasks, can those repetitive
+tasks now be done by a trained robot? It
+sounds crazy right now, but it's not
+that far from
+>> in two to three years. I bet it I bet a
+lot of that's going to be happening.
+>> Yeah, exactly. So you have now you also
+will have aspects where some of these
+things still require a remote person to
+be able to learn it.
+>> Well, if you have over if you have
+overseas talent that knows how to do it.
+>> Keeping you from that model. So I think
+there is going to be an interesting area
+where okay now I have hardware I have I
+have leverage through the potential of
+these robot capabilities. All right.
+Well that's still a little bit further
+out there. What can I do to set myself
+up for success? Learn my existing
+processes. Learn where I can where I can
+optimize for them in today's world.
+Think through where this is going from a
+roadmap perspective and start setting
+yourself up for making sure to know
+this. So when the when the opportunity
+is there now, you already know, okay,
+now this is how I'm going to deploy this
+from a practical lens.
+>> Right. Exactly. It's just knowing
+basically keeping your eyes on the
+forefront of what's happening in this
+world so you know where to implement and
+you know where to pivot because this
+stuff does change so quickly. So I think
+all of that is fantastic advice. I think
+a lot of it uh that the biggest
+highlight for me again is talking about
+the audits and really everything that we
+talked about whether it's what we're
+planning to do or what we see other
+people doing successfully that all
+starts with an audit in some capacity.
+It's uncovering what is the opportunity
+here first and foremost and from there
+being able to decide your next course of
+action. So, uh that seems to be the
+right direction for a lot of folks
+including ourselves. So, with that,
+Nick, uh we'll wrap things up there.
+Where do you want people to follow you
+or to to go interact with you in any
+way?
+>> Yep. So, on o all socials I am primarily
+on X. Um, it's nickbzak
+and that's generally where I'll be
+putting out AI content, not just for u
+boring businesses, but general ones
+around technology and the tech
+background. So, always putting out
+different things that we're learning
+along the way and uh happy to connect
+with folks.
+>> Yeah, Nick puts out really good content
+over there on X. So, go follow him
+there. Nick, thank you so much for the
+time. Guys, if you enjoyed the episode,
+be sure to leave a rating and a review.
+If you're watching on YouTube, be sure
+to like the video and we'll be back next
+week with another episode just like
+this. Thanks, guys.
+>> Awesome. Thanks, Corey.

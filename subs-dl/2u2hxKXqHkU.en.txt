@@ -1,0 +1,205 @@
+This is by far the easiest and quickest
+Open Claw setup video on YouTube in
+under 7 minutes you'll have a working
+Open Claw agent. And if you want a
+step-by-step Google Doc that you can
+follow along with to set up your own
+agent, you can grab it for free in the
+description or in the show notes. So I
+hope you enjoyed the video and 8 minutes
+from now you'll have a working Open Claw
+agent. First thing we're going to do is
+we're going to open the terminal.
+And keep in mind the command that I'm
+going to run cuz I'm on Windows is a
+little bit different than what you run
+if you're on Mac. But I'll give you guys
+the Mac command as well. So all you do
+is you copy and paste one simple little
+command here and you press enter.
+And what it's going to do is it's going
+to go through the Open Claw installer.
+Now one of the prerequisites is you've
+got to have node.js installed first,
+which again is another super simple copy
+and paste one command into the terminal
+and then it's done.
+So we're going to let that run and I'll
+be back once it's ready.
+All right, so it's saying Open Claw
+installed. Now it's going to refresh the
+gateway and then it's going to pop open
+a new screen and I'll show you where we
+go from there.
+All right, so that's going to take a
+couple of seconds to run and once it's
+done it's going to show you here Open
+Claw. We're basically going through the
+setup here, the guided onboarding. So
+they're going to give you a little
+like yes or no question. Basically
+you're just going to put yes here.
+So we're going to click yes and then
+setup mode we want to do quick start.
+And then I'm going to do use existing
+values cuz I've done this on my computer
+before. I'm just showing it again as an
+example.
+And so now it's going to ask you what
+model you want to use. So for the sake
+of this example we're just going to
+choose Anthropic.
+And then you're going to give it your
+Anthropic API key. So I'm going to pause
+and come back once I've entered that.
+All right, so all I did was copy and
+paste my API key from Anthropic, which
+again you can just Google Anthropic API
+key, you log into your Claude and you
+generate a key. It takes like 10 seconds
+and it's going to ask me what model I
+want to run. So let's just say Claude
+Sonnet 4 6 for now.
+And now it's going to ask what channel
+do I want to connect. So Telegram is it
+even says recommended newcomer friendly.
+So we're going to set up a Telegram bot.
+I'm going to show you guys how to do
+that.
+So it's literally going to walk us
+through how to do that. We open Telegram
+and we're going to do that here.
+So if we're looking at Telegram we're
+going to start a new chat
+with Oops, how do we start a new chat
+here?
+So we click the menu in the top left and
+then do contacts, add contact.
+Sorry, we don't add contact. Up here at
+search you're just going to search
+@BotFather.
+And then he comes up right here. And so
+all you're going to do is you're going
+to click start and then run backslash
+new bot.
+What are we going to call it? It's going
+to say please choose a name. So let's
+just say Corey's test bot claw.
+Now let's choose a username. So
+uh it's got to end in bot. So we're
+going to say Corey's test bot. Oh,
+that's the one I used for my earlier
+test. So let's just say Corey's test bot
+one.
+It's got to end in bot.
+Corey's Open Claw bot.
+There we go. So now that we've got the
+bot
+it's saying how do you want to provide
+this Telegram bot token? You just enter
+it. So all we do is copy this token
+here.
+Press enter, enter the bot token, enter.
+And then there you go. So now it's
+connected to Telegram. And it's asking
+us next which search provider do we want
+to use? So basically what uh internet
+searching capability do we want to give
+it? I'm just choosing DuckDuckGo for the
+sake of this example because it doesn't
+require any additional setup.
+Just click enter. So now web search is
+enabled. It can use DuckDuckGo to search
+the internet. Now it's going to ask do
+you want to configure any skills for
+right now? And so again for the sake of
+this example I'm just going to say no
+cuz we're just going through the setup.
+And skills are really easy to configure
+after the fact. So we just hit no.
+Now it's going to ask us if we want to
+enable any hooks and it says hooks let
+you automate actions when agent commands
+are issued. So again for the sake of
+this example I'm just going to skip for
+now. And now we are good to go. So it's
+completely installed.
+It is going to ask us if we want to
+restart, reinstall or skip. So I'm just
+going to skip.
+And I'll show you how we now talk with
+our bot.
+All right, so now that it shows us
+onboarding is complete, what it's going
+to do is it's going to open up this tab
+in your browser here, which is basically
+where you can chat with your bot inside
+the browser before you uh fully connect
+it to Telegram or WhatsApp or wherever
+you want to connect it. So now we can
+just message our assistant. We'll just
+say
+are you alive?
+And it should reply to us any second.
+But this is kind of the default Open
+Claw control panel. So this is the chat
+window where you can chat with it. This
+is where you can see all the channels
+that it's connected to, sessions, usage,
+cron jobs. This is going to be your uh
+all your files, your skills, your nodes,
+all anything that you can kind of
+connect and
+um update within your agent. And so it
+said we said are you alive? It said yep,
+I'm here. I just came online. No memory,
+who are you and who am I supposed to be?
+So the next step, which we'll get into
+back in the live presentation, is how we
+set up the agents.md,
+user.md
+and soul.md. Now the last step here is
+just fully configuring it with Telegram.
+So we can chat with it in Telegram from
+our phone or our computer anywhere we
+want instead of having to do it here
+through the browser. So in Telegram when
+we named our bot it said done, congrats
+on your new bot, you will find it at
+this channel. So if we click this
+channel
+it's going to open up a chat with our
+new bot. And so we click start. And it's
+saying first thing it's going to say is
+Open Claw access not configured and it's
+going to give you a user ID and a
+pairing code. So all you have to do
+is copy this command, which I'll show
+you in a second.
+So we basically just have to run a quick
+command in the terminal to pair our new
+bot with our Telegram account. And that
+command is just Open Claw pairing
+approve Telegram and then the um pairing
+code ID here, which I'm using one from
+the old example. So if I give you a new
+one, w t s e 5 g k. That should be it.
+So we run that.
+And then now it says approved Telegram
+sender. So now if we go back into our
+Telegram chat it might take a second to
+pick it up. But let's just say are you
+alive?
+We see it's typing here at the top, so
+it is working.
+And sometimes it takes a couple of
+seconds to respond, but it'll probably
+say something similar as to what it said
+here in the browser. It says alive
+enough to notice I don't know who I am
+yet. So there you go. So there in, you
+know, 6 and 1/2 minutes we've got our
+Open Claw fully set up on our local
+machine, connected to Telegram and now
+we can start to build all the files that
+turn it into much more personalized bot.

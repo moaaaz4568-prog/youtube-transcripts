@@ -1,0 +1,147 @@
+Just a few hours ago, Anthropic released
+Claude code routines, which are
+scheduled tasks that run in the cloud,
+meaning your computer doesn't actually
+need to be open for these tasks to run.
+Now, a lot of people are saying that
+this is the N8N and Zapier killer, that
+Anthropic is looking to put these
+companies out of business with this
+update. So, what I'm going to do is I'm
+going to hand it over to my business
+partner, Nick Spisak, who's going to be
+breaking down the difference between
+Claude code routines, scheduled tasks,
+and loops, when to use each one, and
+then I'll come back in at the end and
+give my two cents on what this means for
+workflow automation tools like N8N,
+Zapier, and make.com. Claude code
+routines just dropped, and the first
+time I saw it here, it looked super
+confusing. When do you use each of these
+different features that are available?
+So, Claude actually has three different
+modes, routine, schedule, and loop. So,
+if you're as confused as I was when I
+first looked at this, here's a breakdown
+of how to really think about this in a
+super simple format. If you want to set
+it and forget it, use a routine, because
+that's going to use Anthropic's cloud
+infrastructure. If you want to need
+local access, use the desktop schedule,
+which is also on co-work. And finally,
+if you need it right now, use loop. So,
+for each of these three scenarios, this
+will give you a breakdown of when to use
+each of the different types. I have a
+full article breakdown on X that goes
+into the details of this. Now, what
+we're going to do next is we're going to
+actually take a look at how to build a
+routine by looking at some of the
+existing skills we already have around
+on our system and get it deployed, so
+that way we can use it on a schedule
+without having to do any additional work
+outside of just setting it and
+forgetting it. Now, we're over in Claude
+code. So, what I did here is I asked to
+my local system, are there any skills
+that would be a great fit for a demo for
+a Claude routine? And it gave me a
+couple different suggestions. So, we're
+actually going to do the X scan routine,
+which looks for any trending topics that
+are currently trending on X, formerly
+known as Twitter.
+So, after I had it do the assessment,
+Claude code went through, it looked
+through all of my different skills that
+I had available. I gave it the
+selection, and it was then able to give
+me a full breakdown into what I needed
+to set up. And the biggest requirement
+for routine is you need to have it in
+GitHub. So, what we did here is we
+created an X scanner demo, and you can
+see it has a full breakdown of what this
+skill does, the scans that it ran, and
+any of the routines, as well as a full
+breakdown of how we can actually build
+this in the web interface itself. So,
+we're going to go ahead and do that. All
+right. So, to create a new routine,
+you're going to go to
+claude.ai/code/routines.
+You're going to click the routines
+button over here on the left-hand side,
+and then click on new routine.
+Now, when you do this, you're going to
+go ahead and give it a name. So, in this
+case, I called it the X scan demo.
+And you're going to select a repository
+of where it's going to be. So, go ahead
+and select your GitHub repository that
+you have. And as you can see, this is
+the one that we currently have here.
+We're going to go ahead and in the
+routine section, I have a markdown file
+that's already ready to go for the
+system prompt. So, we'll go ahead and
+drop that in.
+Once you have your system prompt, you
+can choose one of three different
+options. You can do a schedule, a GitHub
+event, or an API call. So, in this case,
+we're going to click on schedule, and we
+want to run this, let's say, at 10:00
+a.m. Eastern every day. So, we add that
+as a trigger, and once we do that, we
+can go ahead here and unselect any of
+our custom connectors that we don't want
+it to have access to, or we can add
+connectors if there are ones that should
+have that, as well as setting the
+permission set for each of these. And
+then we click the create button. This
+will give us a full rundown here, when
+we can actually go ahead and click run
+now if we want to run it on demand, or
+it'll wait until 10:00 a.m. to go ahead
+and run the actual routine. So, what you
+can see here, I'm going to look at one
+that we just did, and here's a breakdown
+of some of the different topics. It went
+through and ran the the X trendsetter,
+and it scanned through to see what are
+some different topics. And you can see
+that it gave us a couple different ones
+that are strong candidates for this week
+to find a unique angle to make an
+article or post about. So, this is just
+a brief overview of how you can use each
+of the different options. And as a
+recap, routines for set it and forget
+it, and you want it to run on
+Anthropic's infrastructure. Schedules
+for anything that need remote or need
+local access. And finally, loops are for
+when you need it right away, and you do
+it directly in the Claude code CLI. So,
+the million-dollar question is, is this
+going to be the death of Zapier, N8N,
+and make.com? And the honest answer is
+probably not, only because those tools
+still excel for very simple, one, two,
+three-step automations. And where Claude
+code routines is going to dominate is
+for complex automations that don't have
+a lot of pre-existing connectors that
+require you to create or edit code, and
+that have a lot of edge cases. So, don't
+go out and cancel Zapier and N8N just
+yet. Just know when to use which tool
+for the right job. So, thanks for
+watching, and we'll we'll be back soon.

@@ -1,0 +1,816 @@
+I sent 500,000 cold emails
+last month and here's what worked in
+2026. If you don't know
+me, my name is Jaden Lee Lua.  I'm the
+founder of Velocity Flow, where we
+build, run, and manage
+revenue growth systems for
+B2B companies across various industries.
+And in this video, I'm going to
+outline the four parts
+you need to master to build this system
+for yourself.  So, without
+further ado, let's
+jump right into the video.  First, we'll
+cover mapping your total addressable market
+(TAM) and
+ideal customer profile (ICP).  So, in
+practice, the total addressable market
+is basically
+everyone who can buy your product,
+right?  And your ICP is basically
+just your ideal customer profile.
+I like to explain it this way.
+Imagine your TAM is the entire pizza
+and your ICP is just one
+slice of that pizza.
+This growth system basically works
+better if your TAM is larger
+as opposed to a small TAM.
+So, I'll give you an example of what that looks like
+.  Let's say
+a B2B clothing company, they
+sell everywhere in the US to
+every business, right?  Of course they
+will have millions of
+potential customers.  So this is an example of a
+large total addressable market.  On the other hand, let's say a
+clothing brand only sells to
+people in Los Angeles, right?
+Of course, one city, that's
+their entire market.  Their TAM
+will naturally be smaller.  The reason why total
+reachable market is important
+is because if you send thousands of
+emails a day and your total market is only
+2,000 to 3,000 people, you will
+exhaust that list in just a few
+days.  To map your total market
+, you can use Claude and
+give orders like this.  I
+am a B2B clothing company in the United States
+.  I only want to
+work with B2B companies in the United States
+.  Approximately, how
+big is my total market?  I'll just
+hit the enter key.  Then, Claude
+will do some research and give you a
+rough estimate of how big
+your TAM actually is.  Of course this is
+just a rough estimate and
+depends heavily on what is in the
+database.  However, the results are quite
+accurate.  As you can see here
+, he will do research on various
+websites.  We have the
+US uniform rental industry, the number of
+employer companies in the United States.  So,
+this tool will do the research and
+once it is done, it will
+give you a rough estimate of
+how big your TAM is.  The reason this is
+so important is because once
+you know how big your TAM
+actually is, you can gauge how
+many email accounts to purchase
+to avoid overspending.  Well, it turns out the answer
+given was strange.  Giving answers
+like one dollar t.  Make sure you are
+specific with your commands (prompts)
+.  I just want to inform you that TAM
+means people/companies who can
+buy my product.  So,
+just refine it or get specific from the start,
+and as you can see here,
+here is your TAM.  So 1.2 or 1.25
+million and 10+ employees, 20+ employees,
+640 thousand.  So as you can see,
+this is a rough estimate.  There are approximately
+36.4 million companies.  And that's of
+course for the industries I mentioned
+earlier.  For example, the industry is
+so big, you could send 10,000
+cold emails a day without
+exhausting the list in a few
+months.  After mapping out your total
+reachable market, you
+should now focus on your ideal customer profile
+.  Okay?  So, for example, you're a
+B2B apparel company and you only want to
+work with M&A advisors,
+for example.  So that's the industry
+you'll choose.  You obviously have to research
+their problems and what they
+need from your offering.  Then
+who do you want to contact.  Such as
+founder, CEO, owner, president, then
+you filter by
+company size.  If we go back to Claude
+, the example given was 10+
+employees.  That's 1.25 million, right?  So we
+want to, and later I'll show you
+how to do this segmentation as well.
+That's how to determine your ICP, who your
+dream customer or ideal client is that
+you want to reach, including
+income range, and the geographic location
+I mentioned earlier is only in the US.  So
+we can still use it.  So, after
+mapping your ideal customer profile
+aka ICP.  So we have mapped the TAM
+and determined the ICP.  Now, we're
+actually going to divide the market into
+smaller pieces.  Now, the
+reason why this is important is
+because if you just pull up a list
+of, you know, a million people,
+right?  Those one million people
+will all have different pain points
+and you can't just
+write generic copy to appeal to
+them all.  What you want to do
+instead is divide
+the list into different industries
+, right?  Maybe SAS here, maybe an
+M&A advisor here, maybe an agency
+here, so you can write
+the copy and tailor it
+specifically to them.  And obviously, you
+can do that with AI.  And I
+'ll show you in a moment, but
+I'm just trying to illustrate the
+point.  So, let's say your TAM
+is 50,000 people.  You want to
+do 5,000 or 10,000 here,
+5,000 or 10,000 here.  And then
+you just want to break them down,
+divide them into
+pieces.  And the smaller
+the segment, the tighter the list.
+Plus, the message really
+speaks to them specifically.
+And that's why it's so important to be
+able to break this down so you can
+see specific prospects rather than
+trying to catch with a big net
+and ending up catching no fish
+at all.  Now, once you have
+your TAM mapped out and then you
+know your ICP, now what
+you want to do is take
+that ICP and then you want to switch to
+something like AI Arc or Quicken
+Rich or whatever database you are
+using.  I feel like AI Arc is probably
+one of the best data providers out there
+.  Um, I have an affiliate code if
+you want to use it in the description
+below.  Um, but if you hate
+me, that's okay.  Um, but yeah,
+once you actually determine the ICP,
+you'll take your ICP and
+then you'll basically just
+switch to something like AI Arc.  So
+I'm going to open up AI Arc so you can
+get the illustration here.  So
+this is what the Arc AI actually has
+um once you log in.  This is what the
+database looks like.  So they
+have a lot of different features.
+Much of this is standard but
+I find it very useful.
+Let's say a company similarity search
+as an example, right?  Let
+'s try this.  Let's say we want to
+work with a company um like
+you basically if you have a
+great case study where you
+got really good results
+for someone, you want to get
+more clients like them.
+Let's say I work for Nike
+as an example.  I'm just going to
+type in Nike or enter
+their domain.  Then it will appear right
+here.  I'll click look alike.
+Then I will click search.  And
+what will happen next
+is that this tool will attract a bunch of
+companies that are similar to Nike.  So
+as you can see, Under Armour,
+Converse, Reebok, New Balance, and that's
+just one of the things you can
+use a similar company search tool for
+.  Uhm, but for this example,
+we'll build it from scratch.  And
+I'll show you all
+the filters and everything in a moment.
+Uhm, but let's undo this so
+I can show you what it
+actually looks like.  Okay, cool
+.  So, you want to go to the
+company search tab.  Uhm, let me
+make sure you guys can actually
+see this.  Perfect.  You want to go
+to the company search tab and
+basically as you can see
+here, you can filter by
+employee size.  So, the example we
+used was 1 to 10, right?  Then
+maybe we want the location to be in the United States
+.  Okay.  And then we want to
+enter the keywords.  Well, the way
+I rely on this keyword is
+by turning to Claude again.
+Let's say I want to target
+SaaS companies in the United States.  Well
+, what I'm actually going to do
+is give a command like this.
+Uhm, hey, I want to target
+SaaS companies with 1 to 10
+employees.  Give me
+as many keywords as possible and separate them with
+comma format.  Press enter.  And what it
+will do is give you a
+list of all the keywords.  Now, the reason
+I prefer doing it this way
+rather than relying on industries is
+because when you rely on
+industries, some of the companies
+you want to work with won't
+be under the industries tab, right?  So,
+the way we filter that is by
+using the keyword section
+instead.  And basically, you know,
+once Claude gave the list,
+which of course took a long time.  Uhm
+, but now what we want to do
+is paste it here.  And what
+you'll find is the list will be
+a bit messy, right?  So we're
+going to go to, let's say we put
+the list in here.  Let's see
+if it's done.  Okay, cool.  So
+we're going to copy that and then we go
+to AI Arc.  We'll paste it
+here.  Click enter and it will
+display the SAS company as
+you can see, 101 employees.  Well, what
+you'll find is, like if
+you look at how Arc AI works, these
+are the companies that best match
+your keywords, and then if you
+go to page 100, obviously the results
+are going to be much broader, right?  So, if
+we look here, the results are actually
+quite targeted.  This all looks
+like a SAS company, but let's say
+, for example, there's a financial company,
+right?  We just have to go back to Claude
+Code.  Let me move the screen
+so you can see.  We
+go back, back, back again to
+Claude Code, and then we just
+say something like: "This
+gives me financial companies.
+Give me the exclusion keywords,
+um, to include."  Basically,
+we just need to type it.
+Let's say, you know, he gives us an
+exception keyword for
+financial companies.  Now what
+we're going to do is we're going to go back
+to the AI ​​Arc.  We're going to go to the
+exceptions section here and then we're going to
+copy it and paste it in there.
+It is not like that?  But for this example, I
+mean this list is quite targeted.
+Oh, apparently not.  There is a sign saying
+truck transportation there.  So that's what you
+need to do and another cool thing
+about this is if you
+click on the source settings here and
+go to industry, you can measure
+how targeted you want to be.
+So let's say a
+very tight match search, we're going to click
+this button here and it's
+basically going to give us a
+very tight search based on the filters
+or keywords that we provide.  You
+can also filter a lot of other things,
+right?  There are keywords, industry, products
+and services, technology, right?  I'm
+actually working with
+someone who's targeting
+e-commerce brands, for example.  And if you
+look here, it says target people
+who use Shopify, right?  That would
+be the kind of trigger I would
+use.  And of course filtering by
+employee roles, staff growth,
+funding, etc.  Well, obviously I'm not
+going to go through the whole scraping process
+now, but I just wanted to give
+you an example of what it looks like in
+practice.  And let's say the list
+appears.  What we're actually going to
+do now is we're just going to
+select all the rows and then go to
+peopleles to find
+these people and then we're going to filter on
+things like job role, right?
+Such as founders, CEOs, co-
+founders, presidents, etc.  So
+once we have our list completely done,
+what we're going to do is
+bring it into something like Quicken
+and Rich.  Um because with AI Arc,
+sometimes the results can't find the
+person's email.  So you can
+use email finders like
+Quicken and Rich or there are many
+out there.  I personally like
+Quicken and Rich.  I'm not
+affiliated with them or
+anything.  And basically the list
+is complete.  So now all
+we have to do is take it to
+million verifier to verify
+all the emails.  The reason why we need to
+verify all emails is because
+if you get invalid emails
+or catchall/risky emails,
+then once you start sending thousands of
+emails a day from your custom domain,
+what will happen is that all
+your emails will start going to the spam folder.
+Over time it will damage
+your domain reputation.  I've done a split
+test on this.  Catch alls aren't too
+bad, but invalid ones
+tend to really mess up
+your domain.  So, I would only
+do both if you have a
+very small TAM and you
+really want to maximize it.
+I'll put a catch all on the
+list.  But once you have
+verified the contact, what
+you will do now is go
+to Claude Code or clay.com for example.
+Clay.com is a little more expensive and I
+think you can do the exact same thing
+with Cloud Code.  So, I
+just use Cloud Code.  You'll
+basically just drop this CSV
+in there and then tell it what personalization
+you want.  So, for example,
+visit each company's website,
+find out what they sell and who
+they serve, write a custom first line
+for each prospect, right?  So,
+an example of what this actually looks like
+is seeing you help med Spas
+exit last year for 10 million or
+something like that.  That would be some kind of
+personalization on a large scale, right?
+Let's say you send to people
+, it will be different for each prospect
+.  So, it's really tailored
+to each prospect, right?  And this
+goes back to trying to
+segment your list as well.
+Everything I've discussed with you right
+now is completely irrelevant if you
+don't have this part.  This is
+part of building your infrastructure,
+right?  This is probably one of the
+most important parts because without it, you will
+end up in the spam folder and no one
+will receive your outreach message.
+So, I've created a checklist
+that you can use to gauge,
+you know, how much you need to
+prepare for this, and I'll
+show you how to do it right here.
+But the first thing is to set up
+your domain.  So, rule number one
+is never to post from
+your main domain.  You will create a
+set of domains that are similar to
+your main domain.  So, this is what it looks like
+in practice, my main domain is
+velocityflow.co, right?  I will
+never send email from this primary domain
+.  And the reason why you shouldn't
+send emails from this domain
+is because let's say I start
+sending thousands of emails a day from
+this domain.  Naturally, on a
+large scale people will flag you,
+you know, people don't want
+your messages in their inbox.
+Start, you know, marking you as
+spam or something.  All
+that reputation will then be tied back to
+your main domain.  So now when
+you try to send an email to a client,
+maybe an invoice, a contract, or an
+agreement, it will all go to
+spam because the reputation you sent out
+with that cold outreach message is
+all tied back to
+your main domain.  So, let me
+clear this out and I'll show you
+what we're going to do.  So
+instead of sending from the main domain,
+as I said, we're going to
+create a bunch of dummy domains from
+your main domain.  Correct?  The practice
+is if my main domain is
+velocityflow.co, maybe
+velocityflow-mail.co,
+tryvelocityflow.co, getvelocityflow.co,
+and then velocityflowteam.co.  That's
+just an example.  Well, how did I
+get this idea, before we
+do that, we need to measure
+how many domains
+we actually need.  So, I'm going to
+show you how to use your TAM
+to figure out how many domains
+and email accounts you need.  Well,
+to find out how many
+email accounts and domains you need,
+you can open the calculator in the
+description.  This allows you to
+see how many email accounts and
+domains you need based on your
+total reachable market (TAM),
+reply rate, meeting conversion rate
+, etc.  If you are just starting out, I
+suggest leaving everything as
+default.  Hm, or even lower,
+right?  Because you are not that good yet.
+So, I'm going to drop the
+reply rate, the meeting to conversion rate, and
+you can get a rough idea of
+what the booked meetings are going to be like, right?
+So, let's say your TAM is
+100,000 people.  Okay?  So, we can
+change this to 100,000 people.  Then
+let's say our response rate is at 2%.
+We leave it there.  And let's say
+our meeting to conversion rate is 30%.
+Then let's say Google, we split 50/50
+between Google and Microsoft.  We will
+need 117 Google domains and five
+Outlook domains.  Okay?  And Outlook is just
+another word for Outlook Azure.  And you can
+create 49 to 99 accounts per domain.
+So in total, we will need 122
+domains and 729 email accounts.  And if
+you look at the stats here,
+98,000 people reached, 1960 replies,
+98 positive replies, and 29 meetings
+booked.  And this is all within a
+30 day period.  Now that you
+know how many domains you
+need, I would go straight to
+ChatGPT or Claude and give a
+command like this.  I'll open the
+text box so you can
+see it visually.  I will
+use Whisper Flow.  Hey, create 122
+clone domains from my main domain.
+My main domain is
+velocityflow.co.  I need you to
+create some clone domains from
+this domain.  Everything should look
+professional and appear like a
+real domain.  They are all .co domains and
+you can use simple commands
+like that.  Hm, and of course it
+catches the whisper flow.  I would
+do something like that.  Paste
+in ChatGPT.  That will bring up
+different variations.  You can go
+to Pork Bun and buy them all.  The
+main thing that happens when you create a
+domain is that a lot of people use the
+.info domain.  We used the
+.info domain a few months ago,
+because it was very cheap, a lot of spammers
+used it and their infrastructure
+was damaged.  So, we switched everything to the
+.co domain.  Hm, so make sure you
+use .co or .com.  Both
+have the same delivery rate.    It
+doesn't really matter, just that
+.com is a little more expensive.  Um, so
+after you buy your domain, what
+you're going to do now is
+buy your email accounts, right?  So
+as I said before,
+we do a 50/50 split between
+Google and between Microsoft or
+Outlook Azure.  Correct?  Well, the reason
+why we want to do a
+50/50 split is because let's say Google,
+you know, this August, Google
+wants to issue some regulations
+or something.  Then what happens
+is that Google deliverability starts to
+decline and you stop getting
+all the replies like before.  Well,
+if that happens, you have Outlook
+as a backup.  And vice
+versa, right?  If Outlook
+makes a big push or
+adds rules, then we still
+have Google as a backup.  Okay.
+So, that's the exact reason why we
+wanted to do a 50/50 split.  Even
+sometimes if Google has been performing
+well for months, I'll
+do a 70/30 split.  However, it
+really depends on how
+much risk you are willing to take.
+Now, when it comes to
+buying an inbox, I would turn
+to something like Inbox Kit to
+buy your inbox.  You all
+get a discount if you use
+my link in the description below.
+However, the real picture for
+Google inbox is that you want to
+do two email accounts per one
+domain.  Okay?  And each of these inboxes
+can send 15 to 25 emails
+a day.  Well, for Outlook, it's a little
+different.  You can create 49 to 99
+accounts per domain.  And each domain or
+each email account can send
+about 5 to 10 emails a day, right
+?  And of course, if you go to the
+infrastructure calculator, you can
+map all of this out.  But you
+can obviously buy your infrastructure in
+Inbox Kit.  Very standard.  I won't
+discuss it today.  I just
+wanted to give you a general idea of
+how to actually build
+your system.  But if you are not
+using Inbox Kit, then all
+you have to do is set up
+your own DNS records.  Some people
+do it for you like Scaled
+Mail.  I think they are a little more
+expensive.  Premium Inboxes is great.  I
+only use Inbox Kit.  That's where
+I get the best deliverability
+and they basically handle
+all of this for me.  However, if you
+don't use them,
+you'll most likely have to set them up yourself.
+So, you have to prepare SPF records
+.  Um, basically authorize
+your sender.  Then your DKIM.  This
+is the signature on your email, right?
+So, if my email is
+jaden@velocityflow.co, I'll
+write, you know, Jaden Leua, founder
+at Velocityflow or something like
+that, right?  You know, you can create any
+signature you want to use.
+You should also not send links
+in your emails as they are
+spam triggers.  So make sure you don't
+add any images or anything because
+it will just be spam.
+Basically it will make your email
+go to spam.  Okay.  So after that,
+now you want to set up
+your DMARC and that basically tells
+your inbox what to
+do.  Okay.  Once you've purchased your
+email accounts, domains, everything, you
+'ve got them set up, they're in
+your sequencer, you have to
+warm them up for 14 days before
+sending a single email.  Now, the reason
+why this is so important is
+because if you just created a
+new domain here, right?  And you
+start sending thousands of emails every day
+, it's basically going to tell
+Google and Microsoft, "Okay, this account
+has no reputation. They're
+most likely spammers."  So
+, instead, what you're going to
+do is enter this email account
+, your email account from this domain.
+You'll put it in
+your sequencer and warm up
+for 14 days.  So, after setting up
+your infrastructure, you build your
+prospect list, you map out your TAM and
+ICP.  Now, what we're going to
+do is focus on building
+our message copy.  Okay?  Copywriting in
+the message that is actually received by the
+prospect.  Now, what I see a lot of
+people don't understand is that you have to
+realize that your offer is
+your copy.  A weak offer would
+sound like something that could be
+delivered, right?  It's completely
+unclear and will simply be ignored.    A
+strong offer has a
+specific outcome and is low risk for the
+prospect.  Okay.  Well, what is actually
+most effective for cold outreach
+is basically a lead magnet.  Giving
+before asking, okay, so if you're
+doing a cold email and you ask for a
+30 minute call, it's like proposing to a
+stranger on a first date and
+they're just going to ignore you.
+Some insane people might
+actually say yes.  But um,
+what I've found works better
+is a lead magnet offer.  Okay, so here's what it looks like in
+practice,
+basically provide free value
+first, a free audit, a lead sample,
+or a case study.  Basically
+giving something to fix a
+small problem of the bigger problem
+you are solving.  So, if
+you're a lead generation agency,
+maybe send them a sample of leads,
+or if you do
+video editing, maybe say, "Yeah, send
+me a 30 minute video. I'll
+edit it for you completely
+free."  You get the point.
+You just want to give something of
+value.  And the real thing
+you have to ask yourself
+is, is this lead magnet
+taking up my real resources and time
+?  And if the answer is yes,
+that's how you know
+you have a good
+and truly valuable lead magnet.  Like an
+AI-generated PDF from ChatGPT and then you
+send it to people.  There's not
+much value there.  Okay.  So,
+what will happen is you
+send them an offer, they will
+reply, and then you direct them to a
+phone call.  Okay.  Well, another
+very important thing in
+script writing is the cold email preview text
+.  Okay.  So it's like the
+first six to eight words in an email
+that you can actually see in
+your email.  Okay, so this is what
+it looks like.  And many people make
+mistakes in this part.  They say
+, "Hey, first name. I hope
+this email finds you well. My name is
+Derek and I'm reaching out because,
+really, you should probably
+start with your offer or
+start with a specific pain point
+, right? I see you're
+hiring three SDRs right now. That usually
+means your outbound marketing is going
+well, but your lead flow isn't
+up to scratch, right? Just something
+like that. And this is something
+you should think about when you're crafting
+your copy, like the first few words
+of your email. Now, what
+I also see a lot of
+people doing is sending resumes in
+emails, right? Let's say I'm a
+lead generation agency, like I
+am. Let's say I'm, you know, oh,
+my name is Jaden. You know, I have
+experience at this company. I'm good
+at this. I basically
+send out resumes and it's all about
+me. This might have worked
+a few years ago. It's not
+working in 2026. What
+really works is providing
+specific outcomes of what
+the prospect will get. For example,
+we're scheduling 15 calls in 90
+days. If we don't do that,
+you don't have to pay anything. If
+you  Want to, no, no one cares
+about you. It'll just get deleted,
+whereas a reply about the
+specific outcome they want will definitely get
+a reply. One specific outcome is
+always better than a
+paragraph about yourself. You can
+make it, say, 10 to 20
+words and it'll get a reply. You
+can make it six paragraphs and I
+guarantee no one will reply. And
+if they do, it'll be
+like, you know, go away or
+something. But I have some
+terrible emails to show
+you that I've received. Again, the
+preview text of this cold email
+breaks that rule. Hey Jaden,
+have a great week. I'm
+curious about something. How do
+people typically find and
+evaluate Velocity Flow before
+deciding to work with you?
+I spend a lot of time helping
+brands. Yeah. See, this is like the
+part of a resume that showcases
+their portfolio. Would you like to know
+more? Hmm, unclear call to action
+. It's like, not
+very clear actually. How
+would I fix this? So, I believe
+this person is selling a visible AI service.
+I believe, um, I don't really...
+I don't know what this person is selling
+, but basically how I would
+fix this is  like, “Jaden,
+if I could evaluate Velocity
+Flow before someone decides to
+work with you, could we
+chat for a minute?  "That's an example of what
+I would use. Obviously, I
+wouldn't use that exact sentence
+, but that's just an example. It's
+something you should think about.
+And then the other thing is
+your YouTube channel needs help. Um, hey,
+I hope you're doing well. I noticed
+your YouTube channel only has 340 subscribers, you
+'ve uploaded 20 videos, but
+unfortunately, your channel is not
+growing and your watch time is really
+low. So, what he's doing is
+basically taking a swipe at me. And
+that's exactly what you don't do
+because these prospects basically have
+big egos. And when you
+attack them like that, it's not
+going to go over well, right?
+Instead, he's clearly a
+YouTube editor in my opinion. I would just
+say, 'Jaden, if I can
+edit your video for free, you
+just send me a 30-minute video to
+edit, can we
+chat for a minute?'  "And nine out of
+10 people will definitely say yes to
+that. Sometimes you have to do
+free work to get the
+leads you want when doing
+cold outreach. Right. The last one
+is some kind of partnership opportunity for
+velocity flow. 100% free audit in the
+subject line with a dash. This is
+terrible. Uh, dear Jaden,
+I hope this email finds you
+well. I wanted to reach
+out because I'm excited to
+introduce you to Growth,
+a leading service. Look, this is
+like a whole paragraph. Um, and
+again, I don't really
+know what he's doing here,
+but these are just a few examples
+of all the things you don't want to
+do. And that's the complete system,
+from mapping your TM,
+determining your ICP, setting up your
+infrastructure, building your prospect list
+, and preparing your copy. And
+this is all the stuff that works in
+2026. And if you want this system
+built completely for you, you
+can click the first link in the
+description below and book a
+free call. Now, everything I've
+covered here, honestly, is just
+one piece of the puzzle. So,
+watch this video to get a
+better understanding. And if  If
+you enjoy content like this, click
+subscribe and see you in the
+next video.

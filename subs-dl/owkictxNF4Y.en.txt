@@ -1,0 +1,1731 @@
+All right, voice agents. Everybody is
+talking about them, and if you run a
+business, you probably had that thought
+of I should have a voice agent answering
+my phones. But, the reality is most
+people have no idea even where to start
+when it comes to building them, and the
+tutorials that are out there either skip
+the hard parts or just assume that you
+know how to code. So, on this episode, I
+brought on Susan Westwater, who is the
+co-founder of a company called Pragmatic
+Digital. Susan has been in the
+conversational AI space since 2017, way
+before ChatGPT. She's co-written two
+books on voice and AI, and she's even
+built voice personas for major CPG
+brands. So, today, she's going to be
+sharing her screen, walking us through
+how to build a fully functional voice
+agent using a tool called Voiceflow from
+A to Z with zero code. So, you're going
+to get the exact prompt structure, the
+knowledge base setup, the conversational
+flow that she uses with real clients.
+And if you stick around till the end,
+she's even giving away the entire system
+prompt template, so you can literally
+drop it into Claude, swap in your
+business details, and have a working
+voice agent in under an hour. You're
+going to love this one, so let's jump
+right in.
+Susan, what are we building today?
+>> Hi. Um we today we're going to build a a
+voice agent. Um well, I think what's
+more exciting is is we're going to
+basically operationalize a repetitive
+business conversation. Um that sounds a
+lot more um
+I guess higher level, but today we're
+definitely going to be taking something
+where we're going to operationalize a
+workflow. Um that's when you use for
+phone and appointment handling. We're
+keeping it simple, and we're keeping
+everything pretty pretty set. But, um
+we're going to be using Voiceflow as a
+tool, and we're going to figure out how
+we can find ways to do more than just
+customer service calls, um and and kind
+of breaking out of there. I I wanted to
+look at a way um that we could find
+something that was a little more than
+dealing with angry people.
+>> Yeah, and and voice is a frontier that I
+think a lot of people are afraid to
+touch because it is customer facing for
+most people. So, I think this is going
+to be an awesome use case. I'm excited
+to run through it. And before we jump
+into your screen and you kind of take us
+through the build uh start to finish,
+why don't you just give us your
+background? Like why why should folks in
+the audience listen to you? Like what's
+your credibility?
+>> Sure, absolutely. So, um I have been in
+the conversational
+AI and AI space since about 2017 when I
+founded uh co-founded uh our company
+Pragmatic Digital um to start focusing
+on actually voice marketing and the
+whole notion of how voice and AI can
+impact customer experience.
+Um we have looked at it from in a whole
+bunch of other ways, but it is near and
+dear to my heart for a variety of
+reasons. Um I've also written uh
+co-written two books on the topic in
+addition to a bunch of papers and led
+research programs. Um but we've been
+working really deeply in the space of
+everything from Amazon Alexa skills to
+um looking at ways of adding an entire
+voice persona that would work with
+systems not just Alexa, but across them
+for some major CPG brands and things
+along those lines. So, um we've been
+combining a lot of our experience and
+knowledge from traditional CX into now
+what is more of like applied AI for CX.
+>> And you know, you've been doing this
+long before it was cool, which I love.
+I've had some people on recently who
+have been in the AI space since, you
+know, I think you might even have been
+in longest, but I had somebody recently
+who's been in it since 2020. Actually, a
+guy recently who's who's been in it for
+about 10 years. So, I love talking to
+people like you who are I feel like
+there's a pre-chat GPT AI crowd and then
+there's a post-chat GPT. And of course,
+I belong to the post, but
+>> Yeah. And there's nothing wrong with
+that.
+>> Yeah, of course.
+>> That's awesome.
+Um I feel like chat GPT has brought has
+it helped change conversations in an
+interesting way?
+Um, obviously, um,
+there were a lot of different calls and
+like when people would talk about voice
+and go, "Oh, Alexa. Oh, Google
+Assistant." When chat GPT happened, it
+allowed us to allow people to kind of
+change that conversation to say, "Go
+play with this thing." And so, that was
+really exciting. It's dangerous and um,
+exciting at the same time, which is the
+best place to be of innovation and that
+I think is the most exciting thing about
+that is that the whole notion of how
+generative AI has shifted um, what we
+have to think about. Um,
+is is an exciting time. I think it also
+helps leave room then for some other
+things as well and allows people room at
+the table, per se, of like, "Hey, I
+don't know how to code all this stuff."
+That's okay. Here's now tools and things
+out there to make it possible for you to
+do a lot more than you could could
+previously.
+>> Exactly. Yeah, and that's what I love
+about what we're going to get into
+today, too. So, you're going to share
+your screen and we're going to look into
+Voiceflow, which is the tool that you
+built this voice agent on top of and
+we're kind of going to break it down to
+eight as ease. So, whenever you're
+ready, let's dive right in.
+>> Yeah, absolutely. Um, and one thing we
+can even talk about as well as I'm
+getting ready to share.
+Um, and I just realized
+>> [laughter]
+>> I have many and um, many of an account
+and I'm getting ready to share this and
+I don't know why it's it's not allowing
+me to. Here we go.
+Screen.
+Um.
+I don't need to.
+Hello.
+Let's go.
+So, we're going to go into uh,
+Voiceflow. Now, I prefer to use
+Voiceflow because Voiceflow's been
+around for a very long time. Um,
+aforementioned, um, that team has been
+working on all of these um, has been
+helping with conversation design for
+quite some time.
+Um, they're one of the OGs. Um, what
+they have just recently in the past, I
+would say 10 months, have done is looked
+at how do we make this agentic? How do
+we work that way?
+Um, and I think one of the other things
+that we definitely want to think about
+as we're thinking about those things is
+this notion of what is the difference
+between a chatbot and a voice agent? Cuz
+you're going to see in the interface
+that I'm about to show you, it actually
+has both. Um, and part of that's just
+because, I'll be honest, um,
+incorporating all of the Twilio on this
+part for me today wasn't necessarily
+going to be a primary thing. We'll talk
+about it and I can show you how easy it
+is um, for those phone numbers, but um,
+with some of those things that we're
+going to also look at it a way of making
+it voice enabled a voice enabled
+chatbot, but the reality is is that um,
+what a voice agent does that's so
+different is that it listens, it
+decides, and then it acts using those
+rules. And today, we're going to be
+looking at something where we're going
+to necessarily there's three ways to
+think about the control level um, of
+where we talk about being in the loop.
+So, that's all human approved and I
+think that's what a lot of people are
+used to experiencing when they're
+dealing with agentic of, you know, um,
+I'm always going to be involved of AI is
+going to gather, but the human's the one
+who decides and acts. Um, but what we're
+going to be looking at today is actually
+something that's a little more on the
+loop. So, the human supervises. So, AI
+is going to decide within those rules
+and then we will be supervising those
+outcomes. We will be seeing that and so
+we're more of an operator than we are
+the driver. So, when we think about um,
+the other part of it and when we think
+fully autonomous and I think that's
+where people's brains go of how and or
+um, Jarvis or any of those things, it is
+this idea of that AI can decide freely.
+Um, and that a human only is going to
+react if damage occurs. Um, I like to
+think of it that way of putting in the
+idea of if damage occurs because that
+actually is typically going to be what
+is your first question
+about how autonomous you're going to
+want your agent to be. Is
+what is the impact of a bad decision?
+What is the impact of those things and
+that helps guide when we think about
+that in the loop type of thing that's
+really obviously a lot of regulated
+things have to just play in that space.
+>> Right.
+>> And by the way, we can do lots of really
+exciting things. It's just going to be
+way more deterministic. Um where we're
+going to get into more of that
+traditional scripting of if thens all
+over the place as opposed to when we
+start thinking about on the loop and
+things like that. So, let's dive in. So,
+the use case two that I've also been
+looking at today as like I said was an
+idea of
+coming up with a very simple a simple
+use case because it's very helpful
+for us to think about that. And when we
+think about it from that perspective
+when we're getting ready to jump within
+something, there's a lot of pre-thinking
+that we're going to want to do
+before we even jump into let's just jump
+in and build. And you can see
+on the bottom here I've got my
+bright line appointment and then full
+experiences and a couple examples to
+show how complex you can get.
+What's really also exciting is that this
+is all things that someone can do on
+their own. So, let's dive right into
+Bill.
+Um and what you can see here is we're
+looking at a perspective of what we had
+started to build and put into place was
+an appointment. Um and we said, "Okay,
+well, I want to do an appointment set."
+And if you look at all of this, this
+looks really amazing, right? It's a lot
+of stuff. It's and it's kind of almost
+intimidating of hey, I wouldn't know how
+to do all that. Well, here's the
+exciting thing about when we go into
+this and I'm going to start a whole new
+Well, I'll show you how easy it is to to
+kind of go from there. So, we can do a
+new project.
+And it can say we're going just going to
+call this
+um
+live build.
+And here's our prompt, right? So, this
+is how easy this can be. So, I have a
+prompt and I'm going to actually see if
+I can do this slickly is I'm going to
+shift us shift us over to show you where
+some of that pre-work comes into it. The
+strength of what we're doing is all in
+this prompt.
+Um so, that'll be an exciting thing to
+see of like what we can do. So, we've
+got live build and now I'm going to move
+us into where some of my prep work is.
+All right.
+>> And so, I assume you probably have some
+prompts that you've used in the past to
+create voice agents and it's I mean, I
+assume it's probably like a
+a clawed prompt, right? To use a similar
+example of like, "Hey, we've got our our
+prompt bank that's worked well for us in
+the past and that's kind of our starting
+point for creating some of these
+agents." Like, am I thinking about that
+correctly? But, it's obviously not going
+to like one shot it.
+>> Yes, no, absolutely. And believe some of
+this actually is going to be a little
+more one shot than you expect
+only because this is us prepping it to
+be able to get that set up. So, as we
+think about our agent instructions, this
+is here's how this agent is going to
+behave. And so, we're saying that this
+is a customer service support
+agent prompt. So, we're going to start
+with and and here we're going to say
+with identity and purpose. So, first of
+all, what are you doing? What's my goal?
+Why am I here?
+Um and then also making it a point to
+say here's what your role is. So, we
+kind of talked about it in the sense of
+what are roles and goals. We want to
+make sure that when we're covering that
+often in identity and purpose. And I
+will admit I've done a bunch of this a
+little bit ahead of time cuz nobody
+wants to watch me type and misspell.
+Um so,
+so as we work through this, we kind of
+say, you know, we're setting us some
+very strict parameters. And like I said,
+for this particular instance, I've kept
+it pretty
+tight just so that way then we can see
+how what success looks like and keep it
+pretty simple. There's a ton of
+dependencies that can come up into place
+as we think through this and and as we
+troubleshoot. But so we have said, you
+know what, you're a virtual automated
+scheduling assistant.
+Here's your roles to be able to help us
+determine not just
+I have someone who is calling and they
+want an appointment. I'm actually going
+to make sure that they should be
+scheduled. I should actually I'm going
+to make sure that
+a couple of things about that. And then
+after I do that, I'm going to book this
+appointment. I will send them
+confirmations and I'll be able to get
+that set up.
+The goal here is to not troubleshoot
+electrical problems. And it's really
+important when we're working with some
+of these
+LLMs and we're setting these up to say,
+here's what you do do and sometimes it's
+really important to say and here's what
+you don't do. So don't get excitable
+like I'm giving you really important
+boundaries. So we then move into voice
+and persona. And with voice and persona,
+we're looking at an idea of what that
+personality should be, you know,
+friendly but brief. But the more
+specifics you give, the more you can
+shape this. This because this is just a
+a generic type of person who is going to
+be called, they there's not too much
+personality that we're getting to to
+deep into, right? If I had a an
+established brand that had like a
+spokesperson or if I had other things
+along that lines, I might get a little
+more creative. I might add a lot more
+information to be like, I need to make
+sure that you sound like say
+an example would be like if you think of
+Tony the Tiger. You need to sound more
+like Tony the Tiger. We have other
+places where we'd putting in customized
+voice, but language is important as
+well. So we we kind of cover within
+there's of just kind of what that
+personality is.
+And then we move into speech
+characteristics. And this is part of the
+speech sculpting to just do you sound
+like a human? How much of a human do we
+want them to sound like?
+And so we do want something
+conversational most of the time.
+We we try to make that now
+you'll notice that within there I had
+said you are automated you're a virtual
+agent. We will keep that transparency
+throughout but that doesn't mean that it
+needs to be an awkward robot
+when we're recovering through it. So we
+kind of cover through that as well. And
+again this is using to your point this
+is using some stuff that will start as a
+base point
+as a as template over time and then we
+start to create that. The other nice
+thing about being able to set this into
+what we're looking for to happen is that
+depending on how I'm building this in
+voice flow I can go back and start to
+adjust how this bot will or how this
+agent will
+behave as opposed to what it knows.
+There's two really important documents
+like we have all this agent instructions
+and then you'll see underneath we have a
+another one love Google document tabs
+because it really does make it easier
+for us to keep [laughter]
+is kind of talking through the knowledge
+base. And the knowledge base is the what
+you know
+as opposed to and and and say what the
+company does as opposed to here's who
+you are agent. So you will see
+then we get into this is where we start
+to get these core rules right?
+We're going to confirm this information
+you have to collect it you can't skip
+fields
+is
+you know escalating emergencies if
+someone's calling about an electrician
+appointment we need a little hey wait a
+minute is this an emergency or not? So
+we kind of go through all of these
+thoughts. The more we think about this
+ahead of time
+the easier and the more successful our
+first shot out is going to be. So we
+will have
+you know we also are saying you know
+what we don't want to put an exact
+pricing cuz we don't want that promised.
+By the way this is just booking an
+appointment I'm not giving you an
+estimate. We don't speculate about
+safety and then also if I've asked
+someone something twice and they still
+haven't been able to give it to me and
+I'm not understanding, I don't want to
+continue to try to limp along in this
+agent demo. So, that's also one of my
+fail-safes of when I exit or when I
+start to transfer to another to a human.
+Um there's nothing wrong if your agent
+can't actually handle these things.
+What is wrong or whatever is is when
+it's a janky type of
+>> um handoff [clears throat]
+or when you have to make someone repeat
+all that information. So.
+>> I mean, I feel like that's that's been
+and sorry to cut you off, but just to
+kind of add my two cents. Like I've had
+conver- like for example, if I've called
+Amex in the past, right? And they'll say
+like, "Well, what's your What's the last
+five dig- digits of your number?" And
+I'll say it and it's like I'm I'm saying
+it clearly. There should be no reason
+that it's not understanding me, but for
+whatever reason it's not picking it up.
+And it's like you say it once, it asks
+again. You say it a second time, it asks
+again. And then if it fails the second
+time, it's just, "All right, I'm going
+to transfer you to an agent." Right? So,
+that way you're not sitting there kind
+of playing verbal tug-of-war with the
+voice agent. They're just like, "All
+right, you know, we we just got to get
+this guy to a human so that we can
+maintain
+this positive customer experience more
+or less.
+>> Yeah, absolutely. And it's important to
+make sure that like we need to address
+the root cause and not make them feel
+like
+um make our customer feel like they're
+part of an experiment, right?
+>> Right. Yeah.
+>> You're like it's
+>> important.
+>> The job is to solve the their problem.
+And some days, you know, if it's not
+working or they're in a noisy
+environment, that happens as well. Um we
+actually have the opportunity, by the
+way, to say that um where we then start
+to go through there um from that. But
+what we also then figure out is what
+that conversation flow should be. And I
+add this conversation flow in here of
+just sort of hey, this is what I how I
+always want you to kind of talk through
+this. There's ways that we can get
+variants, but this is a a a place where
+we can put that. Um if they sound upset,
+that's also something we can mess with
+as well of making sure that we
+acknowledge that because that's what
+good customer service is.
+Um now as I said, we have that emergency
+check right in there. Um ask right away,
+"Hey, before are you seeing something?"
+Um and if so, that's where we just end
+the call and we move on. We've started
+to already build that immediate I don't
+want you to troubleshoot. I don't want
+you to and if you if you don't put some
+of that explicitly um
+it will sometimes try to problem solve
+because
+the way that I like to think of all of
+these types of models and what we're
+working with is they have they're trying
+to win the game, right? It's sort of
+like the move you know, um not to date
+myself too much, but that movie WarGames
+where they want to win. They want to get
+a right answer. Um and sometimes in
+their mind like in that the way that
+logic flow is, transferring is giving
+up. So therefore they they they still
+want to stay within there. So we have to
+put some of those guardrails in there as
+we think about that. Now you'll see that
+>> how you put that multiple times in the
+prompt. It's like you do not
+troubleshoot electricity issues cuz
+obviously you're the example you're
+using here is for residential
+electrician. So yeah, it's like you've
+got to make that abundantly clear or
+otherwise it it will try to troubleshoot
+or it will try to kind of step outside
+what it's intended to do.
+>> Exactly. And and again, this is a very
+narrow case. If I had um a customer
+service bot and I have something to show
+a different way of how that could be
+handled. I have another example that's a
+lot more robust and not built in 5
+minutes. Um I can show you how that can
+get deeper and more complex, but um and
+you can start to kind of chunk them
+together so that they can do that. But
+this can be that main this is just that
+main piece of like, "Hey, this is an 800
+number you can call um and you can put
+that within there." So the next
+important thing is can we even help you?
+So this is where then that
+qualification. So when we start talking
+about qualification criteria, this is
+where then we can also start to put that
+within in that particular piece.
+And then you know, these are the
+information these are the pieces of
+information that you have to collect.
+This is also if there we also have to
+kind of plan out hey, if we don't serve
+them, what do we want to do? What do we
+want to offer? We could leave this up
+and not be explicit
+and it would probably just say we don't
+help you have a nice day. We don't know.
+But if we want to make sure that we're
+giving someone a good experience, that's
+also then when we explicitly send them
+down that path of how do we handle that.
+And then we have intake questions after
+that of if we can help them. Okay.
+How these are the important you know,
+pieces of information that we need to
+have. And again, you'll say do not
+diagnose. It's your not your job to
+solve the problem. Your job is to
+schedule this appointment.
+>> Yep.
+>> And then we have you know, confirming
+the details.
+If it's not emergency, we'll schedule
+same day. You know, we can offer a human
+if it's hey, I need to see someone
+today. There's also moments to where we
+can say hey, if something needs to be
+escalated. So you'll see where we have
+schedule, human or escalate which
+escalation typically is transferring as
+well.
+Again, we also have a situation again of
+where we're trying to not just solve the
+behavior or solve the question. So it's
+hey, I can't give you this information,
+but I can give you someone. I can
+transfer you to a human. There's a lot
+more as I was going through and rabbit
+holing this. I'm keeping this very
+simple,
+but there are ways that you can also
+include rates and things like that.
+>> you can obviously get super intricate
+here, but I like that this is more of a
+simplified version because this is a
+great way for anybody listening to
+start. Like if you're you're listening
+to this or you're watching this and
+you're like I've always wanted to create
+a voice agent for my business or at
+least like an MVP of a voice agent. I I
+this is the playbook. This is awesome.
+>> Yeah, oh great. Yeah. Yeah, and I can
+I'm happy to share this um with your
+audience or if you want to of a way to
+make this accessible from an idea of
+this is kind of the general general jump
+on those things. This is a pretty solid
+template um cuz we've been using it over
+time. The other thing too that we're
+looking at is because we all know LLMs
+can get a little verbose and I myself
+included and I'm not an LLM is to then
+say um
+how many words like keep it as short as
+possible. I want you to keep that there.
+Um
+only ask one question at a time. So,
+when I'm doing that information
+collection, I don't want you to say
+name, address, phone number. Whoa.
+>> Right, one at a time.
+>> Yeah, humans also do that as well. Um
+and then using explicit confirmation as
+well. Um in this particular case, it's
+really important cuz if any one of those
+pieces of information is wrong, we'll
+probably have a breakdown in the best
+experience possible.
+>> Um same with uh technical jargon. I want
+you to keep it layman's terms. Um and
+then be empathy, but don't apologize. Um
+that's a really important piece. Uh
+I don't know about you, but I cannot
+stand it when I have an agent that keeps
+going I'm sorry. I'm sorry. I'm sorry.
+>> Yeah, I'm like I don't care. I just want
+you to fix the problem or transfer me to
+a human or you know, get get out of this
+conversation.
+>> Yeah, absolutely. And sometimes when we
+say empathy, it's amazing how quickly
+it'll glom on to it becomes incredibly
+submissive or just kind of um apologetic
+and it's like, no, I just need you to
+not um be cold, but I also don't need
+you to uh take on the the world's
+troubles.
+And then we then have also then
+escalation conditions. Now, this is if
+there's a safety concern, if this person
+is irate, um if it's someone we can't
+help because it's a commercial property,
+um they want to negotiate prices or we
+have this, you know, like we as we
+mentioned earlier, the um not being able
+to get to the answer we need within two
+attempts, we let them then um we will
+move and we will transfer to a human.
+Um for frustrated customers, now we're
+calling out an edge case of like if
+there's folks that are just
+upset as they're trying to make this,
+we've also covered off on that of just
+trying to to take some ownership and
+just trying to take a moment to pause
+and and help with that. This is again an
+attempt at trying to do a little bit of
+containment
+um for someone. But there's ways that
+you can also if there are certain things
+that you know are coming through or if
+there are certain things that let's say
+not angry, but there's this one issue.
+There's ways that you can also start to
+branch things off um and that's kind of
+what this is a demonstration of of if
+there are certain scenarios where you're
+like, "You know what? We'll have to
+treat them a little bit different and I
+want to be a little more control have
+more control." Then you can put that
+within there.
+Um and then we have call management. So
+that's background noise, um any of these
+particular things of letting it help.
+That way then also there is an
+opportunity to say here are the things
+we do if we have we can't hear, we need
+a moment to pause cuz we have to look
+something up. Um or if let's say the
+call drops,
+since we have their number, we can call
+them back. But let's let's look at how
+we're going to handle that as opposed to
+letting it go into the ether.
+So that becomes the entire document that
+we have there that that goes within here
+and we have this. So what I'm just going
+to do is I'm going to copy that.
+>> Now Susan, you did mention uh
+potentially making this available to the
+folks who are in the audience. I mean,
+is that something we can take you up on
+because well for one, I I want it. So
+hopefully I can get it and hopefully we
+can give it to them as well.
+>> Yeah, I know, absolutely. Um one other
+thing too, I now that I've copied this
+that I wanted to call out too is I
+always like to think through the
+conversation flow as well.
+>> Mhm.
+>> So as I'm thinking through this, um
+is there a greeting? Is there a
+disclosure? What's kind of that triage?
+What what are the chunks of this to help
+me understand cuz that's also going to
+be what helped me fill out my agent
+instructions. Um when we think about the
+process of how we do these things, I got
+to figure out what the problem is I'm
+solving first.
+Figure out what that flow would look
+like and then we think about, okay, what
+do we want the agent to do about it or
+that? It helps me um it also helps me
+figure out what information I need or or
+or what what other pieces. This is a
+simple and it's not to I will You'll see
+why it's nice to have like, okay, this
+is five steps. Because once we move into
+um the creator, so this is that live
+build where I've said I hit create new
+project. We called it live build. Here's
+the prompt. I just pasted everything in
+there.
+And then
+>> We're still seeing Google Docs still.
+>> Oh, shoot. All right, hold on.
+Hold on. Let me
+Let me get back to the the right
+document. That's not fair.
+It's all magical. No.
+>> Uh let's see here.
+There we go.
+Here we go. So we go from the Google
+Doc. So before, you'll see before we
+clicked on new project, we got create
+new project. I'm just calling it live
+build so I can see.
+And then I have my prompt.
+>> This is where I've gone and I've taken
+my agent instructions
+and I paste them in here.
+>> So that whole Google Doc that you just
+showed us, you're you're basically
+copying and pasting that entire Doc.
+Like that is the prompt.
+>> Yes, right into here. And you'll see
+what that does. So then what happens, I
+click generate and you'll see
+requirements.
+It's designing the flow.
+It's optimizing the interactions and
+it's finalizing it. So you'll see how
+simple this is without me doing any
+coding.
+>> And that's what we love here is is how
+do we kind of build these automations or
+build these tools or build these
+workflows without having a code.
+>> Yeah.
+>> Right. So, I I mean, Voiceflow is
+something I've actually used Voiceflow.
+It's That was one of the first AI tools
+I ever experimented with for the purpose
+of kind of having my own internal
+knowledge base and and having almost
+like a Basically, before custom GPTs
+were a thing. That's kind of what I was
+using Voiceflow for, but
+>> Oh, interesting.
+>> Yeah, which is funny cuz it's like not
+not the tool for the job, but I was just
+kind of messing around with it back This
+is probably
+a year more ago at this point. But,
+yeah, I can see it being a very powerful
+platform for obviously what we're using
+it for today. Are there other I mean,
+I'm sure there are, but off the top of
+your head, what are the other like what
+are the competitors of Voiceflow? Like
+the other kind of off-the-shelf voice
+agent builders that don't require coding
+expertise?
+>> So, there are also um ones that are also
+out there. There's like
+>> Hello.
+I'm Laura, your virtual scheduling
+assistant for Brightline Electric. I'm
+here to help you schedule a service
+visit or connect you with our team for
+any electrical needs you may have.
+>> Boy, she really got excited. Um
+>> So, you'll see here um so, Vapi is
+another one or Vapi, V A P I.
+Um there's also um a couple others, I
+think um 11 Labs just launched
+something, I want to say last week, this
+week. Um the days run together of how to
+build your own agents as well.
+Um but, I like Voiceflow like I said, my
+most of my familiarity is with
+Voiceflow.
+>> Um just because of being able to build
+that. There's also um another platform
+called Voicify, which is very much a
+centralized library that you can use for
+chatbot, voice agent, teleph- uh tel-
+telephone
+covering off on all of those different
+um aspects that you can put where you
+can put even put that on on a You can
+put it in your apps, or you can even put
+it into your mobile app of having an
+assistant within there. So, there's
+different places to to manage it.
+Um and you'll see here because this is
+so simple
+um from a perspective of where we
+started, there isn't going to be that
+much iteration and apologies, I my mouse
+is not cooperating today, which is
+typical. Um
+so, based off of what we did and the
+conversation flow we did, it actually
+went ahead and mapped out all of this
+for us.
+So, again, I didn't have to go as far
+into the um
+into mapping all of this stuff out.
+>> And is that because of the strength of
+your prompt? Like I'm assuming if your
+prompt was much more rudimentary, we
+there's probably would be a lot more
+tweaking under the hood to be done right
+now, but because you had like a really
+solid all-encompassing prompt, it kind
+of kind of did just one shot this this
+use case, right?
+>> Yeah, and it'll feel like it's one
+shotted, but there are spots where we
+might want to tweak something or we can
+add something and there's a couple other
+things that we have to do as well. Um
+you'll see that we've got this whole
+thing put together and that's um you
+know, question clarified, failed after
+two offense. This is covering off on all
+of those particular things. Um it's
+covering off on everything to getting us
+to where we need to be.
+Now, what's um
+where is it? So, appointment
+confirmation and wrap-up
+or where where we're actually where we
+have customer um intake details. One of
+the other things that we need to put
+into here is our knowledge base.
+Um we have information, but we don't
+have as much as as we normally should.
+So, we click on this edge and we hit So,
+I've clicked in here, this is
+introduction um and greeting and I have
+my agent.
+So, you'll see that I have a little
+button here called knowledge base.
+>> Um and you also see here. So, here's
+instructions of what to happen at that
+particular case. So, when I this is the
+greeting. Here's what I want you to say,
+state your capabilities,
+um making sure that this is covered off.
+Again, the system built this all off of
+that prompt like you said because of
+having that template. You can also see
+all of the tools that we have involved
+right now
+that you can be able to pull it. So you
+can work into where it'll shoot an
+email. You can make it so that the
+Twilio's in there for the 800 number of
+adding that in and I can even show you
+where you're able to put those things.
+It's not connected because of the key,
+but you just have to enter keys and it
+will then connect it for you. Once
+you've got that on your file,
+in your account, you've got the 800
+number, it will also put that within
+there. Now, knowledge base and I'm going
+to switch to another screen again for
+you.
+>> And just so I understand correctly, so
+all the tool integrations there, right?
+So like make.com was one of them,
+you know, the Google suite of
+applications. There's a lot of tools
+that can be connected. So I guess
+you can connect a tool to that specific
+like conversation point. So I'm trying
+to think of like an example. So So let's
+say
+you know, maybe the customer asks them
+ask the agent to send them an email.
+Like if that Gmail tool was connected,
+the agent could just automatically do
+that. Like is that kind of the purpose
+of having those tools integrated at
+different steps?
+>> Yes, and I can I'm going to we're going
+to towards the when we get to one of the
+other steps, I'm going to show you how
+easy it is to do that.
+That's the nice thing. So
+this what's again with the way that this
+is set up, it's pretty simple
+and it's just a matter of a couple
+clicks as opposed to embed code. You
+have all of those options if you have a
+really complex or you have someone who
+is more dev and technically minded, but
+what's again what I really like about
+Voice Flow is it's not a either or, it's
+a here's a way that you can work within
+this, um, because you don't have, you
+know, an IS degree. Here's a way that
+you can be able to put this through.
+But we'll start with, um, we'll we'll
+let's talk about the knowledge base
+before we jump into that because here,
+how are we going to tell you me about my
+services? How am I going to tell you
+what you can do? Well, I'm going to need
+to enable my knowledge base. Now, if I
+click on that,
+you'll see, um, that then that opens it
+up. And this is saying the LLM
+description, but we're actually going to
+close out cuz we've turned that on.
+And we're going to come over here.
+So, over here we've got our dashboard.
+Got our workflow, which is all these one
+little arrows and tools. Then we have
+knowledge base. So, I've clicked on it.
+Right now, we don't have a data source.
+So, I was talking earlier about how
+there's two really important documents.
+One is your prompt that's in your agent
+instructions.
+And then we also then have the, um,
+prompt that is very important from a
+perspective of tell me what I can say
+about this. Knowledge base is also
+important to if you're saying, "I don't
+want you to go and just pull something
+and make something up. I want you to
+have definitive facts." So, these are
+the facts around that. It's important
+with your knowledge base to keep that
+just the facts
+because A,
+I've got a centralized place. So, if
+something does change, we change our
+hours, I have an easy place to change
+it.
+>> Um, and that will that inform
+information. If I were to put that all
+in that prompt, I would have to go back
+dig through that prompt and fix all that
+out. So, you can see that there are
+there is some information, even though
+that was a really comprehensive prompt,
+um, in those agent instructions, there's
+actually stuff I've I've held back from
+a just the facts perspective.
+>> So, so tell me if I'm understanding this
+correctly. So, the the big prompt that
+we copied from the Google Doc into,
+basically, to build this flow, like
+that's our system prompt, basically,
+right?
+>> So, that's our system prompt. And then
+what you were showing us a second ago is
+we also have almost like mini prompts at
+each step of the conversation. Is that
+correct?
+>> Yes, we do.
+>> Okay. So, we've got again, when it kind
+of built the the like the branching
+logic for us of the voice agent, it's
+like we've got a almost like a little
+mini individual prompt for each step
+there. And then, the knowledge base is
+essentially the foundation of
+when it's responding to a customer or
+when it's going to answer a question,
+it's consulting the knowledge base to
+get the content of that answer. Am I
+understanding all that correctly?
+>> That's correct. That's correct. And each
+of those steps, we can tell it, "Hey,
+I'm I'm fine with you just using general
+knowledge." Or, "Hey, you know what? No,
+I want you to look and reference the the
+knowledge base." And that's why we've
+got that. There are I can show you
+There's an even more rapid, simple way
+to create everything off of what we've
+got.
+That version is incredibly
+open. The version we have here, the more
+you map those things out, the more
+control you will have. The more
+deterministic it will be. So,
+when we're spinning some of these up,
+you know, faster isn't always better.
+I'm not going to lie. Sometimes when And
+even we were talking and I think you
+would we had said but I was like, "Oh,
+I'm not sure 15 minutes like spinning
+one of these up in 15 minutes,
+I'm not sure that's the best thing to
+advertise cuz you you know, you you
+break a lot of eggs making that omelet."
+>> The reality is is that there are like
+you can get more control. And I actually
+have a version of this where we're just
+using we're one shotting it one shotting
+it. And you can see how, "Wow, that's
+really amazing." But also, you can see
+how it's fraught with I have given up so
+much control of what this agent gets to
+say.
+>> It depends on your comfort zone. So,
+faster isn't always better. It's just a
+matter of covering, you know, of
+understanding the limitations of what
+you need.
+>> So.
+So now we're going to go back to our
+knowledge base and I actually have
+created that
+Um here's where I have our knowledge
+base. So this is everything. So this is
+our source of truth. So we have we've
+determined with our instructions the um
+essentially here's how I want you to
+behave. Here's how I want you to handle
+things. This is this is what your source
+of truth is. So that again this is
+incredibly simplistic um but like you
+know this is a um it's open to operated
+to residential electrician. Here's what
+you have. Here's our service area.
+Um we can also include zip codes. Um
+again this could be a lot more robust
+but for simplicity's sake keeping it
+simple um of just
+just pieces of here's what we here's
+where we have appointments. If we have
+an urgent situation um here's how we
+handle that. These are all things by the
+way is the questions that you'll
+probably keep coming up with which is
+why it's also um helpful to keep that in
+one spot where you're like oh you know
+what um when I first did this I forgot
+you know like business hours. I'm like
+wait a minute if I don't tell this um
+this agent what we do with uh an
+emergency then they're not it's not
+going to know and it's just going to say
+sorry I can't help you.
+>> Okay. Let's make sure that we've got
+that uh covered for and and so you don't
+nece- it feels like a one shot but it's
+over time.
+Um we also keep the um the si- the the
+appointment duration in there of like
+typically how much just so that way one
+it helps with scheduling on our end but
+also so that it can help with um when we
+send over that confirmation.
+And then we have common services just in
+general of what those things could be.
+Again there's a lot more to it. Um
+you can get this can become more robust
+or less robust depending on what you
+want to put.
+Here's um
+what what is urgent, what's an emergency
+situation, making sure that we've got
+that defined.
+Um same-day service, just covering off
+on all of the things and some of the
+questions
+that they would have. But again, this is
+just the facts.
+Um and keeping those two things
+separate, that way then if I do need to
+change Oh, you know what? We're actually
+going to do a
+We always do a consultation fee. I can
+just come in and change this and update
+this
+um instead of having to rebuild
+anything. So, I'm only maintaining one
+document, and that's what's really
+helpful.
+So, I exported this. Um I've exported
+this as a a Word doc. So, that way then
+we'll go back to voice flow
+as it's doing that.
+And what it'll let me do. Sometimes it
+lets me switch back really quickly, and
+other times not so much.
+Um we go back into
+um to to
+conversation builder, right here.
+So, I'm going to want to add that data
+source.
+So, I hit click on the add data source.
+I'm going to add a doc. You can see I
+can just say just go to my website. And
+that's it.
+>> can have add a web page. That's
+interesting.
+>> Mhm. Yeah, you can just give it the URL.
+You can give it a site map. You can give
+it tables. You can give it plain text.
+Or you can even connect it to if you
+have a Zendesk piece um so that it
+allows that to work.
+>> So, could you give it a like a Google
+Doc URL so that way all you have to do
+is update the Google Doc and it pulls
+that in? Or or do you have to kind of
+export that as a PDF?
+>> You know what? I will admit I have not
+done that. Um we could we could
+uh we could see. I'm wondering if with
+the tabs it will confuse it. Um but
+let's
+>> Yeah. So, um that might confuse it. But
+I if you have a solid single page, yeah,
+I I would think it that could.
+Um but I'll show you where I've been
+able to pull it from. So, I'm going to
+pull this.
+And then, oh my goodness.
+As you look at all of my downloads. All
+right.
+So.
+Uh, let's see.
+Oh, that's the plain text text. Of
+course, I should be able to find this
+faster, but of course, that's how it is.
+Um, do do do do do do.
+Um, hm.
+This is very interesting to me that it
+did not Hold on. Let's re-download it.
+Cuz I
+That's what happens. I was so prepared
+and then proceeded to
+>> That's usually how it goes, right?
+Like I thought I'm like, I have this
+sorted, but yeah, yeah, yeah.
+All right. I'm sorry.
+>> that it can pull So, it can pull from a
+URL. So,
+and I I guess it probably makes sense to
+whatever
+knowledge-based documents you give it is
+like, well, what are you going to keep
+the most up-to-date? Because when I when
+I think about like giving it a URL, like
+if I just gave it my website URL, for
+example, a lot of business owners don't
+really update their website that often.
+Maybe a couple times a year if that. So,
+it's like if you're giving
+the voice agent your website as the
+knowledge base, but it hasn't been
+updated in 2 years, then that's probably
+not the best idea where it might be
+easier, kind of like you said,
+to have like a Google Doc or
+some uh external knowledge base that you
+do keep more up-to-date, so that way the
+agent always has the most up-to-date
+information, right?
+>> Yeah, no, absolutely. And and yeah,
+let's be honest. Yeah, most of us don't,
+do we? We don't keep um shoemaker's
+children most of the time when it comes
+to websites.
+>> Yeah, right.
+>> Or if you write an article though or or
+something along those lines, that's
+something you can also do as well.
+Um, but yeah, let me
+see why this is Oh, I see what I did. In
+my organization, I um overly organized
+and hit it in another file. That's
+That's embarrassing, but uh we'll pull
+it up real quick.
+There it is.
+So, I downloaded a Word doc, and now you
+will see
+I'm just going to
+Hold on.
+Pull this here, and it is just as much
+as just pulling that in.
+And you'll see I just dragged and
+dropped it in. I don't even have to
+really search for it. So, yeah. So, then
+I just You can add certain things in
+there. So, chunking struc- So, one thing
+you can say is if you more copious, like
+this is a really good and a simple doc.
+But if I needed to, and I had like
+certain things within there of hey, you
+know what? I want you to keep this large
+I want you to organize this information.
+>> Um I want you to keep it set like this.
+Um you know, only use summary. Don't get
+into the details. I'm giving you a ton
+more information you like I'm giving you
+the math, but I only need you to share
+the answer. Those are other things you
+can do as well, um depending on what it
+is. That can be helpful if it's a
+general customer service bot or
+something along those lines. There are
+other times where it's like, you know
+what? No, don't summarize cuz I they're
+going to need that step-by-step.
+>> So, we're going to import that.
+So, now we have our voice agent
+knowledge base.
+And so, now we have that set, and that
+will then be available to the rest of
+the project.
+So, we'll go back to our workflow.
+And that it's really easy to navigate
+through here. Um you also can have your
+analytics. That'll share And that's the
+other thing I like kind of like I I like
+about uh Voice AI. It's pretty easy
+interface for me at this point with the
+familiarity.
+But going back to to this, so
+showing where we did, and we edited
+agent. See, now we've got our knowledge
+base.
+Now, the other thing that we'll want to
+do is as we are taking our customer
+intake,
+we're going to want them to collect that
+information.
+So,
+um what we do is this is also going to
+require an edit cuz I'm going to want to
+make it um you can do
+um Calendly, you can do a couple other
+different things, especially if you have
+your APIs. For simplicity's sake today,
+you'll see I'm just going to have it put
+it into I'm going to have it add to a
+Google Sheet.
+So, all I'll need to do is connect to
+And I'll have my
+>> that we're looking at here, right, is
+the the information gathering step. So,
+what you're saying is that as the agent
+is asking those questions one at a time,
+like, "Hey, what's your name? What's the
+service address? What's the best email?"
+You're you're saying it's just going to
+take that information and dump it into a
+Google Sheet, but
+>> we could dump it into our CRM or we
+could really dump it wherever we want.
+Any
+>> Absolutely.
+>> to Voice Flow, we can we can transfer
+the data.
+>> Yeah, and these are as you can see with
+Google with some of them, there's some
+super simple ones. There's other ones
+where it's like, "You know what? I'm
+going to have to just do an API call."
+No and and that's not that big of a
+deal. I believe they also have some MCP
+stuff in there as well.
+>> Which can be helpful for some of those
+other pieces. So, I've signed in.
+Signing in. Signing in.
+Now it's going to say because I've been
+work as you can see I I'm going to say,
+"Yeah, that's fine."
+And then it's going to say, "All right,
+well
+because it's pulled that sheet, I'm
+going to manage my sheet."
+You can see where I've got that.
+Hold on a second.
+Oh, because I I know why. Um
+I was going to show you how we were able
+to just pick that sheet, but because
+I've picked it before,
+it's just going right back and you'll
+see that I have this electrician
+appointment.
+And you'll see what's been set up here
+is this is all of the questions,
+right? [snorts] And description and
+pieces like that and then it's putting
+all that information in.
+Now, right now, let me just res- Oh.
+So, you can see from a previous
+one that I had before when I was just
+covering it. It was covering through
+saying name, etc. I do see one thing
+that's coming in a little funky cuz it's
+not putting the timestamp in. Um but
+that's something again. So, that's where
+you were talking about one shot? That's
+where we start to play with it and say,
+"How do I get you to pull correctly?"
+And and and from there.
+>> Right. How do Yeah, how do we optimize
+it further?
+>> Yes. So, we've got this whole piece
+here, right? Non-services, all of these
+covering up. So, let's give it a run and
+let's give it a test.
+>> Now, will it will it talk to us or will
+it um
+is it only going to type?
+>> I can actually get this if I wanted to.
+Um and because I didn't do the Twilio,
+but I can show an example
+of where if I hit call.
+So, that's my cell.
+I'm just going to set that up cuz I have
+do not disturb set up, of course.
+>> Oh, yeah.
+>> See if I can
+So, I just told it to call me.
+Takes a moment unless it just Oh.
+Un- do not disturb that and try it
+again. There we go.
+So, you can see
+>> on do not disturb, too.
+As you as you should, especially during
+a podcast.
+>> Yes.
+Hold on a second. And of course, my um
+my uh
+my
+do not Disturb got in the way first, so
+that's hilarious.
+All right, let's try that again.
+This is the fun.
+>> [music]
+>> All right.
+So, I'm going to put this on speaker.
+>> That's perfectly fine. I'm here and
+ready to help whenever you're ready to
+proceed. Take your time getting set up
+with the speaker. Just let me know what
+electrical service or scheduling
+assistance you need, and I'll be happy
+to help you out.
+>> Hello, I'm ready.
+>> Great. I'm
+ready to help you. What can I do for you
+today? Are you looking to schedule a
+service visit, or do you have questions
+about our electrical services? Before we
+get started, I need to ask an important
+safety question. Are you currently
+experiencing any sparks, smoke, burning
+smells, or total power loss at your
+location?
+>> No.
+I'm good.
+>> Thank you for confirming that.
+Now, I can help you with scheduling a
+service visit. To get started, I'll need
+to check if we provide service in your
+area. Could you please provide me with
+your zip code or the city you're located
+in?
+>> Sure, I'm in Clarendon Hills.
+>> Great. We do provide service in
+Clarendon Hills. I'll need to collect
+some information to schedule your
+appointment. Let's start with your name.
+Could you please tell me your full name?
+>> Susan.
+>> Thank you, Susan. Could you please
+provide me with your last name as well,
+so I have your complete name for the
+appointment?
+>> Westwater.
+>> Perfect. Thank you, Susan Westwater. I
+have your name confirmed. Now, I'll need
+a good callback number where we can
+reach you to confirm the appointment, or
+if our technician needs to contact you.
+What's the best phone number to use?
+>> You can use this one.
+>> I'd be happy to use that number, Susan.
+Could you please tell me what the actual
+phone number is? I'll need to get
+>> That's she's She wants you to expose
+him.
+>> Yeah, all good. 312-933-6090.
+>> Thank you. Let me confirm that callback
+number. 312-933-6090.
+Is that correct?
+>> Excellent. I have Susan Wastewater in
+312-933-6090
+confirmed.
+Now, could you please give me a short
+description of the electrical problem or
+service you need? Just a brief overview
+of what's going on.
+>> So, you can see how this goes through. I
+don't know if you want to go through the
+entire entire piece, but you can see how
+the whole thing goes all the way through
+and how you can work through it and talk
+through it. Um
+So, I'm going to I'm going to actually
+cancel out of that, but it will go all
+the way through and we can we can get
+through that and you can start to see
+where information because we didn't get
+to the point where I give that info,
+it's not putting that info in here. So,
+you can see that that hasn't hit yet cuz
+we haven't hit that part of the flow.
+>> But, the fact that you just I mean, you
+pretty much just spun this agent up over
+the last what, 45 minutes and we can
+call it and have a full conversation
+with it and it can save the data and
+push it to a Google Sheet. I mean,
+that's pretty impressive to to spin that
+up that quickly. I mean, there's
+probably a lot of small businesses out
+there right now
+who could get this set up and under an
+hour same way that you did, right?
+>> Yeah, no, absolutely. Um and it's all
+about just making sure that you the
+clarity.
+Um that's the important part of it. It
+is covering off on that clarity and and
+figuring out how to work that. Now,
+again, this allows us to have different
+pieces of what information is collected
+and where it gets covered off on and we
+can put that in a different sheet or
+different things like that and get
+pretty sophisticated. So, yeah, it
+doesn't take much anymore and that's
+what's kind of exciting about being able
+to dive into it. Um plus, you can test
+and test and test, which is also really
+helpful. Um especially when you're
+looking through some of these pieces
+here of like introduction and greeting.
+Um we have triggers, so some of those
+triggers could be that someone calls or
+that you hear something else that helps.
+Um there's one other thing I wanted to
+call out. Um yeah, are these exits. Uh
+exit conditions.
+Um you can also spin that stuff up. So,
+here I have it where it's just a very
+simple end the call. I could make that
+exit condition, then you move on to
+asking something else because they
+wanted to know
+the status of their project. Or if they
+wanted to know something like that.
+That's where then you can start to
+branch, but like I said I said today,
+we're going to keep it pretty simple and
+then you can iterate off of that. Yeah.
+Well, no. I mean, this is I think it's
+the the playbook's pretty clear, right?
+And for folks that want to duplicate it.
+So, I will take you up on on getting
+access to the Google Doc. So, we will
+>> Sure.
+>> Uh we will put that in the YouTube
+description. And for anybody listening
+on podcast platforms, we'll put that in
+the show notes as well. But, I mean, you
+can pretty much take that So, here's
+what I would do, right? I would take
+that document, which is pretty much the
+template for uh one of these system
+prompts for one of these voice agents.
+And I would I would give the template to
+Claude. And I would tell Claude to
+maintain the template, but then
+obviously swap out the content for
+whatever your business is.
+Save that as a Google Doc. And then
+boom, there's your fully functioning
+voice agent in a matter of minutes,
+>> Yeah, absolutely. And I'll be honest,
+sometimes when I am like, "Gosh, this is
+getting really, really long. Am I
+getting down too many rabbit holes?"
+I'll actually run it through a Claude or
+I'll even run it through ChatGPT or any
+of my other favorite LLMs for the day
+and mess with it and say, "Hey, help me
+make this clear." Or help me make sure
+this. Or what is something else you'd
+want to know if you were building this
+agent? Just to help me make sure that
+I'm refining it. So, using it to refine
+or even what are some standards?
+And I'll admit that like when we work
+with some of these before it's like,
+what are some standard T's and C's that
+I'm missing? Or am I missing a
+an edge case that could be a
+major issue? So.
+>> But yeah, so it's very simple and the
+other part of it too that I do like
+about Voiceflow is they have a lot of
+documentation.
+>> So, if we we go back to this,
+the amount of information that you can
+get
+where you have documentation or even
+Discord, that's really really helpful.
+there's a couple areas too that I can
+just share here of like my usage right
+now of what I've got. Plans are billing
+my members, but when I start talking
+about my phone numbers, there's my
+Twilio number that I've been able to
+add.
+>> And so you can keep those within there
+and then it can ask you what what number
+do you want to use? What piece do you
+want to use? So, there's some
+information you can also
+um basically store within there. So,
+there's a ton of help though to help
+anyone figure out how to do this.
+I am a double English major. So, any of
+these integrations that I was just
+showing you or things like that, I'm
+pretty confident anyone can do that. So,
+yeah, I can code but still
+this is a lot of this doesn't take that
+much and there's enough things where you
+don't hit publish so that way then
+you're keeping yourself safe.
+You know, not worry about what's out
+>> Right, you can kind of sandbox it until
+you perfected it and then put it live.
+>> Yeah, absolutely.
+>> Awesome. Well, Susan, this has been
+fantastic. I've certainly learned a ton
+and I'm in the the whole idea of voice
+agents kind of like I said in the
+beginning, I think it's intimidating to
+a lot of people. One because the stakes
+are pretty high for most. They don't
+want to put a voice agent product out
+there that's going to paint their
+business in a poor light. So, they want
+to make sure they get it right before
+they put that into production and for
+most people that means they never do
+anything with it at all. So, if anything
+this uh interview here is kind of shed
+light on the fact that like anybody can
+do this, right? You just need a pretty
+strong system prompt and a platform like
+Voice Flow and you know, what we're
+going to give that system prompt to
+folks and and they can run with it. So,
+I think this is great.
+>> Yeah, I know. I'm so glad. And there are
+ways to like you heard that it just
+defaulted to that voice. There's ways
+that you can change those voices. Um
+there's an integration with 11 Labs too
+if you wanted to use the recording of
+your voice.
+I'll be honest, I don't usually
+typically use my own voice um just
+because of all of the things that are
+fraught with with voice security in
+general.
+of those pieces, but um obviously I'm
+recording right now. So, why have you?
+But you can come up with some synthetic
+voices or you can use other model voices
+that are out there that you can either
+create through 11 Labs or there are some
+built right into the system. So, if you
+wanted to use a more masculine or if you
+wanted to use a different accent or if
+you wanted to use use a different
+language. Um making sure that there are
+voices that can handle say if I would
+need something to speak, you know,
+Catalan Spanish.
+I can. It's got the ability to do that.
+So, that's another part to it as well of
+where you can kind of think about what
+is the voice of this brand or hey, this
+is a we have a spokesperson. We always
+want to use their voice. That's
+perfectly fine. There's ways of being
+able to integrate that within. But
+again, those are things that spin up
+pretty fast. Um so, you can kind of go
+from there. It's all um they have lots
+of help questions too to help guide you
+through that.
+>> That's awesome. Well, Susan, thank you
+so much for your time today. Like I
+said, I've certainly learned quite a
+bit. Uh so, before I let you go, where
+can people follow you or find out more
+about you or work with you directly?
+>> Sure. Um so, our website is
+www.pragmatic.digital.
+Um and that's where you can learn about
+all of the different areas and flavors
+of AI of how we help and and the
+services we provide.
+Um, we're also in the process of
+spinning off a couple programs to help
+cater to small to medium businesses.
+Um, because we work with anyone. Um,
+it's more about mindset for us, quite
+frankly.
+Um, but um, we want to make sure that
+we're catering to that because there is
+like you said, there's that intimidation
+factor and there's a lot of things that
+you can do on your own um, that is
+especially with the knowledge that most
+folks have done if you've set up a CRM
+system, trust me, this isn't any more
+complicated. Um, the other thing too is
+I'm pretty active on X just because
+that's where the AI community lives.
+>> Um, and I'm at sjw75.
+Um, that's how old my handle is. Um,
+>> I'm going to follow you right now.
+Um, and and there's a lot of great
+brethren of who I also follow as well
+like uh, Robert Scoble, Brian Romley. If
+you really are interested in
+understanding more about some of the
+edges of VR, ambient computing as well
+as some of the innovation of local AI.
+Um, since that's been a major hot topic
+with everything that's going on with um,
+clawbot and all the you know, every week
+there's something new.
+>> Yep. Awesome. Well, guys, we'll put all
+of her information in the show notes as
+always and in the description if you're
+watching on YouTube. Go check out her
+website, go follow her socials and
+Susan, thank you for the time. We'll
+definitely have you back to do a follow
+up in the future. I can see
+uh, a lot more people wanting to get
+into voice agents here in the near
+future.
+>> Oh, for sure. Yeah, happy to do so and
+thanks for having me on.
+>> Of course. All right, and for everybody
+in the audience, we'll be back next week
+with a new build.

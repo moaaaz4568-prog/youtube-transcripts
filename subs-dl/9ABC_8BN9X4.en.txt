@@ -1,0 +1,310 @@
+Claude is by far the most powerful tool
+to create content at scale. In one of
+our recent videos, I broke down the
+entire system we built with it. Now, the
+problem with it, like most AIs, is that
+when you get their help to make your
+content, they sound nothing like you.
+And the reason why is that they lack
+context. They are fundamentally dumb.
+Not in the sense that they don't have
+knowledge, but they lack context. They
+don't know what you know. They don't
+know your values or how you speak, let
+alone the knowledge that you have. And
+that's why when you try to write a piece
+of content with AI, it sounds nothing
+like you. That's also why I spent the
+past few days building a solution to
+this. [music] A permanent memory that
+lives in your laptop and that your
+Claude can access and update so that at
+any time you use it, it knows who you
+are, your preferences, and how to write
+content. And it has virtually your same
+exact knowledge. In this video, I'm
+going to show you step-by-step how you
+can recreate this for yourself. By the
+way, if you're new here, I'm Alessio,
+co-founder of Create Content Club. We
+have more than 400,000 followers, and
+our goal is to help other coaches,
+entrepreneurs, and founders build their
+personal brand by also leveraging the
+help of AI. So, if you want our help to
+build your content strategy, just check
+the first link in the description. And
+with that being said, let's get into
+this. So, what you can see right here is
+my Obsidian. Now, this is honestly one
+of the coolest interfaces that I've ever
+seen. Every single dot that you see here
+are basically thousands and thousands of
+pages of knowledge. And all of this is
+interconnected into this nice little
+graph. Now, obviously, this is just like
+for the sake of visualizing it, and it's
+pretty cool. It's not necessarily what
+we're actually going to interact with,
+but it's it's a really nice visual
+interface as well. As you can see right
+here to my top left, I already have a
+specific folder that's created for
+Claude. And it has a memory, and it has
+a scan folder. How does this work
+exactly? Fundamentally, the goal of
+this, and also what you can see right
+here, which also you can see in the form
+of folders, is everything that you have
+in terms of knowledge or information
+about you and your business, you can
+just import inside of this big memory,
+which fundamentally just exists as a
+folder on your desktop of your laptop.
+And it's all just simply a lot of text
+files. So, it's just a lot of pages with
+all information, and you can connect
+this to Claude so that Claude can just
+load this into the context of a project
+before even starting a chat. What does
+this do for you? Claude starts having
+context on who you are, what you do,
+your knowledge, and ideally everything
+that you wanted to know before you even
+start creating. And so, this can be
+extremely helpful for your marketing,
+but especially for your content, which
+is specifically what we use it for. How
+do we start from this? Now, I actually
+created a Claude skill that guides you
+step-by-step in exactly what you need to
+do because this is a somewhat of a
+technical process. So, especially if
+you're not used to coding or a little
+bit more of the tech side of things,
+then you might not know exactly what to
+do. Don't get scared about this. I also
+don't know absolutely anything about
+coding, and I managed to figure it out
+thanks to Claude as well. So, it's
+absolutely no problem. Now, I just want
+to give you an overview and the concept
+and how it works. The reasoning is this.
+In here, we can just import a bunch of
+information. And so, how I started using
+it, and you can see it right here as
+well, is by importing all of the
+databases and the information and the
+pages that we have on our Notion. So, we
+personally use Notion for everything.
+Now, depending on what you use, you will
+want to import something that makes
+sense for you. In this case, in our
+specific case, as you can see right
+here, I have Notion, I have the Claude
+chats, and I have also all of my ChatGPT
+chats. And so, I basically just created
+an export that you can do very simply so
+you can just search up how to do this
+both from Claude and from ChatGPT,
+exporting all of your chats so that it
+collects all of this information about
+you. And then, the same thing goes for
+any notes that you might have. This can
+literally be anything that you can think
+of, any documents, any notes that you
+write. So, even just importing all of
+your Apple notes, for example. And the
+first thing that you will want to do is
+just dump everything in here. Now, this
+will not be the context that Claude
+uses. The reason is very simple because
+obviously it will be very unorganized
+and very messy. How the process will
+actually look like will be for Claude to
+start from here, do a scan of all of
+this information, and then try to put
+together a new folder from scratch where
+it collects in a more organized way all
+of this information based on what it
+actually needs to know about you. Right
+now, I'm just going to show you real
+quick to give you an idea of how this
+works, but I created a Claude skill that
+guides you step-by-step in exactly how I
+managed to build this for our own
+Claude. You can just find the link of
+this in the description and once you
+have it, you just open your Claude, you
+click on customize skills plus here at
+the top, then create skill and upload a
+skill. And so this will allow you to
+just import this, which is fundamentally
+just a set of instructions that will
+guide you step-by-step in exactly how
+you need to do this process. So from
+here, just to show you real quick how
+the process will look like, I will just
+type forward slash and then I will
+select this, which is my Obsidian memory
+setup. So this is just a skill that will
+guide you step-by-step in exactly what
+to do. I'm just going to press enter
+without adding anything and as you can
+see, it will just come through this list
+of instructions that I created for you
+and it will give you step-by-step the
+exact things that you need to follow to
+be able to build this up. And it will
+start obviously by asking you some
+context because your context will be
+different from ours, the programs that
+you use will be different from ours, the
+documents that you have at your disposal
+will be different from ours. And so
+based on that, it will ask you a few
+questions. So as you can see right here,
+it basically just start by prompting me
+and asking me what exactly do I want to
+build, okay? So you have different
+options actually of approaching this.
+You can create a passive memory, for
+example, and this will be something
+that's gets stored here but that Claude
+doesn't need to interact with and
+update. And so this is actually
+something that's relatively simple to
+create. The version that I built out is
+a little bit more complex because it
+allows also Claude to modify it. And so
+this is really interesting because the
+power of this is that Claude always
+access this memory before starting any
+conversation with you. And so if you
+have any changes in your approaches, so
+for example, let's say you use this like
+we do for writing content and there's
+something that the AI gets wrong every
+time that you don't like, you can notify
+it, you can let it know and build this
+hard coded rule. So for example, never
+do this specific thing, okay? So I'll
+never add these dashes that look very
+AI. And it will update this memory, and
+now every single time it will preload
+this memory. Obviously, if you want this
+aspect of Claude also being able to
+interact with this memory and updating
+it, then you will want to select this
+second option, which is a self-creating
+memory. So, as you can see, Claude can
+also write and update notes itself. So,
+I'm just going to select this, and as
+you can see, it's going to prompt me now
+with the next step. And as you can see,
+the next step that it will give me
+because based on this, it will give me
+the exact steps and that I need to
+follow able to import all of this. It
+will ask me exactly what I want to
+import. And so, in my case, I will
+select ChatGPT, Claude, the Notion
+workspace because we also use Notion.
+And then, as you can see, there are a
+bunch of other options. So, Apple Notes,
+Google Docs, any summaries from calls
+that you hosted, any presentations that
+you have, anything that's a file on your
+laptop can be imported in one way or
+another. Okay, so in this case, I'm just
+going to select also this one, and I'm
+just going to press enter. Now, one last
+thing, obviously, that it will ask me is
+also what operating system I'm using.
+The reason why is because, as I was
+mentioning before, there is a little
+tiny bit of coding involved. Again,
+don't worry, don't get scared. If you're
+not technical, doesn't matter. It's
+literally instructions that we will just
+need to copy and paste. You don't
+necessarily need to understand exactly
+what this is. So, in my case, I'm just
+going to select Mac. And then, as you
+can see, it also prompts you already
+with this. It asks you, "Hey, are you
+are you familiar with this? Have you
+ever done it?" And then, I will just
+tell it, okay, straight up. And as you
+can see, it gives me the instruction
+because I prompted it. And I created
+this set of instruction so that also
+non-technical people is very to do. And
+so, I will literally just tell it, "Hey,
+never. So, walk walk me through it very
+slowly. Give me the exact instructions
+for this." Now, as you can see, it gives
+me already all the different phases that
+I need to follow. And then, from here,
+we can simply expand on each and every
+one of them. As you can see right here,
+the first thing it will obviously be to
+install Obsidian. Now, one thing to keep
+in mind that it also mentions here is
+that most likely this will not take you
+one single session. The reason why is
+because takes a little bit of time. It
+takes a little bit of feedback to be
+able to import all of this information
+depending also obviously on how much you
+have at your disposal. For us, we
+imported literally years of ChatGPT
+chats all in this place. So, it took a
+few days even just to get access to
+those chats and download them. And then
+another couple of sessions for Claude to
+be able to scan through all of them. As
+you can see right here, it gives me also
+some inputs and some suggestions already
+knowing the context about who we are,
+what we do, and what other tools we use.
+With that being said, I will not dive
+into every single phase because
+otherwise this will be a 2-hour long
+video probably and it's not really worth
+it because again, your situation will be
+very specific and it will depend a lot
+on what you actually want to feed to the
+system. But this set of instruction has
+all of the information that it needs.
+So, you can just go back and forth with
+it. If you have any question or any
+problems, ask Claude directly. This is
+literally also how I built our own
+memory and now it's fully on and fully
+functioning. It's very simple. Even if
+you're non-technical, all you need to do
+is just ask Claude for the instruction
+or if anything is not clear, just ask it
+to expand on it and that's basically it
+on how you set up this permanent memory
+on your laptop that will literally
+create a super AI for you because it
+will have all the context that it needs,
+which is the biggest problem that AI had
+until this point. So, I cannot stress
+enough how powerful this system is. With
+that being said, if you want our help to
+also build a content strategy for you,
+so not just have the tools to be able to
+write the content, but also have a
+structured strategy so you know exactly
+what type of content you should create
+and what you should talk about in your
+content, then check the first link in
+the description. You can just book a
+quick free call with us where we will
+run you through exactly how we would do
+it for your personal brand. And with
+that being said, I'll see you in the
+next video.

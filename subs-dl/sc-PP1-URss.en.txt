@@ -1,0 +1,1061 @@
+I'm Corey, and I'm going to
+give you a complete,
+step-by-
+step action plan to
+create AI
+workers in Claude
+that you can easily
+sell to clients
+for
+monthly income.
+This is probably one of the
+easiest business
+models to start in
+2026.  I believe there is
+unlimited
+potential here, and that
+is actually the
+plan.  I will now
+turn this release
+into a guide so you
+have a checklist
+implementation, and you
+can get it for
+free in the description.
+So, let's
+talk about AI
+workers, shall we?  What
+is an AI worker?
+Why does the customer pay
+for this?  Ultimately, the AI
+worker is created
+and designed to
+perform
+repetitive tasks
+that customers
+hate to do.  You'll
+notice that the main
+theme of this issue is that
+we're technically
+not selling the AI
+worker, we're selling the
+outcome, right?
+For example, an
+insurance agency has a
+full-time employee
+who processes
+claims, and that
+person costs them
+$80,000 per year.  Well, the
+outcome we're
+offering them is: look,
+you don't need an
+$80,000-a-year employee;  you
+can have an AI
+worker that you
+pay me, say
+, $1,000 or $2,000 a
+month to manage,
+and the result will be
+flawlessly processed
+applications every day, 24/7, from a
+worker who doesn't
+sleep, doesn't take
+breaks, and doesn't need
+insurance.  So,
+again, we
+take a task that
+the client hates
+to do and
+present it as a
+deliverable.  Then we
+can easily
+create
+such an employee for them in
+Claude, and the client pays
+us monthly for their
+support, adding
+new capabilities, and
+ensuring
+stable work.    What
+I like about
+this model is that you,
+as a seller, don't
+need to know how
+to code or have a
+development team
+—you can
+build it in Claude, and
+it's pretty much a
+five-step process.
+talk about these
+five steps.  Step
+one—we need to
+find a job, right?  This is
+any task
+that is performed,
+say, at least
+five times a
+week, but the more
+often the task
+is performed in a
+business, the better.
+Step two—we
+are going to write a
+job description.  We
+want to treat
+this the same way we would
+hire a human, because
+technically they're
+hiring an AI
+worker to
+do this
+job.  So, we
+need to create a
+one-page
+job description with real
+responsibilities,
+tools that the
+AI ​​employee will use
+, and
+rules that he
+must follow.  You'll
+notice that we
+actually treat
+this like hiring a
+regular
+employee.  So we
+want to structure the
+entire process in exactly the same
+way.  Again
+, the only difference is that
+artificial intelligence will do the work.
+Step three, which
+is probably
+the most important in the
+entire process, is
+loading the
+context.  It's not like
+we just
+set up a
+Claude client, give it a few
+requests, and say, "Hey
+, here's your worker."
+It doesn't work like that, does
+it?  The most important
+part that
+ensures
+long-term work
+is giving Claude the
+context he
+needs to
+do the work correctly and consistently so that the
+result is
+stable.  This
+requires us
+to provide Claude with
+instructions (SOPs),
+examples of quality
+work, a brand voice
+so that the output
+sounds like it comes from the brand
+and not from artificial
+intelligence, processes
+that the agent should
+follow, etc.
+This will be the most important
+part, and we
+will look at it in more
+detail soon
+.  And then we
+will turn the
+specific job that
+needs to be done into a
+skill or set of
+skills.  So,
+a skill is essentially an
+SOP or standard
+operating procedure
+, effectively a checklist
+of how the AI
+will perform
+a task every time.  After
+creating a skill, we
+test it on
+real past
+work to
+make sure it does what
+we
+need it to do, and then
+we can tweak
+and fix it so
+it works
+correctly every time.
+After that, we
+can configure
+the agent to run on a
+schedule: daily,
+weekly, or monthly,
+depending on the
+frequency
+required for a
+specific task
+.  And every month, clients
+continue to pay
+us to
+review
+the employee,
+correct errors
+if they occur,
+and provide a report on
+what they are actually
+doing and what ROI they are
+creating for the business.
+So, diving into
+step one:
+job searching.  We'll start with a
+task that the client
+already does daily,
+as we've already said.    The
+golden rule is:
+the closer a task is to
+generating revenue, the
+more we can
+charge for the AI
+worker who
+performs it, and the higher the ROI
+it will bring to the business.
+A great example of
+this is the speed of
+reaction to leads,
+right?  So,
+let's take a business,
+for example, a
+roofing company
+.  A roofer
+receives 10 inbound
+leads per week.
+Maybe they
+get 40 leads a
+week and the average
+check is
+$10,000.  Typically,
+a roofer
+spends 12–24 hours,
+if not more,
+responding to these
+inbound leads.  So if
+we have an agent who
+can respond to
+these leads, or
+at least
+draft responses,
+in 5 minutes instead of 24
+hours, that will immediately
+make
+the roofer more
+money.  This is something that
+is closer to
+revenue, and we can
+charge significantly more
+for this type of
+AI-managed
+employee than for
+someone who
+only deals with paperwork.  So,
+again, step one
+is to find a
+task.  We will
+make sure that
+we can
+structure this
+task into the same
+steps every time.  So
+if the company doesn't already
+have a standard
+operating
+procedure (SOP) for
+this job, the first thing
+we'll do is
+create one for
+them.  We will
+focus again on
+what either costs money
+and customers, or
+brings in money and
+customers for the
+business.  We like to
+focus on
+putting each
+task on an
+effort vs.
+performance matrix.
+So we
+focus on the
+upper left
+quadrant.  If you
+look at YouTube, you
+see the quadrant here;
+The top left corner is
+what we call “
+quick wins
+.”  These are
+high-impact tasks,
+meaning they create
+value for the business
+but require little
+effort, right?  They are
+relatively easy to
+implement, so we
+will create them first,
+and focus on the upper right
+quadrant—high
+impact, high effort
+—
+later.  Only when
+we exhaust all
+high-
+impact, low-
+effort options.  We can
+ask a client, “
+Hey, tell me about a
+task you
+completed five times
+last week.”  What is
+at the entrance, what is at the exit,
+and who checks it?”
+So, while we're at the
+first step,
+we have to
+make sure
+we're auditing the
+process, right?  We
+want to know what it
+looks like today
+so we can
+optimize it and
+later
+automate it
+with an AI
+worker.  The
+second step, as I already said, is to
+write a
+job description.  We will write
+it as if we were
+hiring a person
+because it is primarily an
+exercise for us to
+clarify the task
+and the outcome
+we want to achieve.  Because
+if we can't
+accurately describe the work
+and the desired result,
+then this process is not
+worth the effort, or
+we need to go into
+detail to
+understand whether it's worth
+spending our
+time and the client's time on it.  Here's
+an example: imagine an AI
+employee who
+will be responsible for
+working with leads.  So,
+the challenge is to
+respond
+to each new lead
+within a few
+minutes.  The tools
+he will
+use
+are Gmail, a CRM system, and a
+calendar.  The rules are as
+follows: the AI ​​employee
+never names
+a price, he only books
+calls and reports to
+the owner every Friday.
+Of course, this is a very
+simple example, but
+it is a template that
+you can follow
+regarding tasks,
+tools, rules,
+and reporting when
+creating a
+job description for your
+AI worker.  So in
+this example, we
+could say, "
+Okay, this is the role of an AI
+worker for
+$500 a month,"
+right?  And this is just an
+example.  You can
+charge significantly more for it
+.  I wouldn't advise
+taking less, but it's
+usually a good idea for
+each AI employee to
+have one job or
+at least work in
+one area, be it
+sales,
+administration, etc.
+Now the third step,
+which we called
+the most important, is
+loading
+the context.  Because an AI
+worker without
+context is like
+hiring a person off
+the street, without any
+training, who
+knows nothing about
+your business.  Maybe
+she's very smart,
+but doesn't understand anything
+about your business, and you
+ask her to
+do something.  She can
+do it very
+confidently because she is smart,
+but the result can
+be completely
+wrong.  And this is exactly how an
+AI worker will behave without
+proper context.
+That's why we want
+to give such an AI
+worker
+standard
+operating procedures
+(SOPs), right?  Which
+essentially explain exactly how
+the work should be done.
+We want to provide him with
+five to ten
+past examples of what
+completed work looks like.  We
+want to provide him with
+documents that
+demonstrate the
+brand voice and tone of the
+company or business
+we are working with.  We
+pricing and
+company policies as they
+apply to this
+specific role.  We
+want to give him
+access to the
+company's tools through
+connectors, right?  So
+if we do this in
+Claude, which is what
+this episode is focused on
+, Claude has
+over 1,200
+native connectors out of the box,
+like your mail,
+CRM, calendar, etc., that
+you can
+plug in right away so that Claude
+access that data.
+So, we want to
+give him access to
+business tools
+through these connectors.  And
+then we want
+to provide it with any
+edge cases and
+exceptions.  So when you
+know that
+some
+isolated problem might happen.
+It may be a
+one in 100 situation, but we
+still want to build
+that into the AI ​​worker and into
+the skills that we
+build so that it
+knows how to
+handle it and what
+exceptions to
+make.  Now all of
+this context can
+be stored either in the
+Claude project or in
+what is called a
+skills folder.  And as
+I mentioned earlier
+, a skill is just a
+(SOP) that an agent can
+follow every time
+, and it can have so-
+called help
+files in that
+skill folder, which are all the things
+I mentioned here.
+So, a reference
+file could be a
+past example, an SOP, a
+brand voice, or,
+say, a
+pricing document.  So this
+skill actually
+takes all of this
+information into account every time the
+AI ​​agent
+uses it.  So,
+think of context
+almost as training for an
+AI worker.  With a
+employee, you
+can, for example,
+send them to an
+on-site training session, or
+make them watch an
+onboarding video,
+or give them a guide to
+your
+company's processes.  The context
+I just
+mentioned is the
+equivalent of this
+for an AI worker.
+Step four is
+actually creating
+the skill, right?
+So, creating an
+opportunity that an AI
+worker will
+perform in order to
+complete the
+required task.
+So, when we
+create a skill, we
+simply take the work
+that needs to
+be done and
+break it down into
+steps.  So
+remember what I
+mentioned in the first
+step, like
+figuring out what
+work needs to
+be done?  This is the point
+where we take the work
+done in the first
+step and
+automate it,
+turning it into a
+skill, and Claude can
+create that skill
+for us.  So here on
+the right, I have an
+example of the skill that
+I used to
+create these charts
+for the video that you're
+watching right now.  If
+you watch this on YouTube
+, you'll notice that
+each step in this
+progress bar is a
+step in the skill file itself
+.  So the first
+step in this skill is
+that Claude
+reads a line in my
+Notion with all my
+video ideas,
+takes three of them, and
+turns each one into the
+diagram you
+see now.  When
+the diagram was
+finished, he took
+the link to it,
+added it back to Notion, and
+then checked and
+sent me the files.
+So this is an example of a
+skill
+called "idea to
+diagram."  It's
+literally a skill
+that I've built into
+my Claude, and it
+helps me
+prepare for these
+episodes, you know?
+If I didn't know AI
+, it would take me
+30 to 45 minutes
+per video to
+do what Claude
+does in about
+10 minutes thanks to this
+skill.  10 minutes
+in total, not per
+video.  So if I didn't know
+AI,
+because my time is
+precious, I would
+easily pay $500, $1,000,
+$2,000 a month for
+this skill and for
+someone to
+maintain it,
+fix it, and
+improve it, because it
+actually saves
+me 2, 3, 4 hours a
+week because of
+the amount of videos
+I create.  This is an
+example of a skill.  And
+when you create
+a skill for a client,
+with its first version
+, it is worth testing
+it on five real
+examples from the past.
+The goal here is to do
+quality control and
+make sure we're
+getting exactly what we
+need.  And everything that is
+intended for
+the client, we prepare in
+drafts for
+human approval.  It's
+just a good rule
+that will reassure your
+customers because you're
+saying, "Hey, nothing that
+AI creates is going to
+automatically go to the customer
+."  We will prepare a
+draft.  You or
+someone from your
+team will approve it,
+and only then
+will it be
+sent to the client.
+So, a simple prompt,
+of course, this is very
+simplified, but just
+to give you an idea of
+what you can put into
+Claude to create a
+skill: you can
+say, “Hey, here’s the
+job description, right?
+Which we created in the
+second step.  Here is
+the instruction (SOP).  Here are
+five past
+examples.  Create a
+skill that does
+the job.  "Ask
+me about anything you would have to
+guess
+."  And that last
+sentence is key—
+telling Claude to
+ask you
+anything he would have to
+guess, because
+Claude is really, really
+good at it.
+In particular, ChatGPT is not very
+good at asking
+questions, but Claude is
+the opposite.  You can
+create skills in
+ChatGPT just like you can in
+Claude, but Claude does a great job of asking
+you questions,
+asking
+clarifying
+questions to
+get the extra
+context you need
+to create a
+truly quality
+skill.  So I
+always like to
+add that last
+sentence.  Now the
+fifth step is to
+create a
+monthly
+work cycle.  Ultimately, you
+create an AI
+worker once,
+but it is for managing
+, improving, and
+keeping it up
+to date that
+the client will pay you
+every month.  So, again
+, if we
+created an agent, it
+will run for the entire
+month.  We, as the person
+who created it and
+who is paid
+monthly to
+support it, will
+selectively check
+the results, right?  We will
+constantly
+review its
+performance and
+make sure it
+does what
+we designed it to do
+.  And whenever we
+encounter an
+out-of-the-box
+case or
+issue, we will
+intervene and
+fix it
+proactively, if
+possible.  We will fix
+this as soon as possible.  And
+then we
+will provide the client with a
+weekly report that
+shows the work
+completed by the agent.
+This way they
+will know exactly what
+their AI worker is doing
+, what
+results they are achieving,
+and we want to
+quantify this wherever
+possible so that the customer
+feels confident
+in continuing to pay
+because they see on paper the
+value they are receiving
+.  And again,
+remember this.
+They pay for the
+work to be done.
+They pay for
+the result that the
+AI
+worker provides.  They don't
+pay for the AI
+worker itself.  They don't
+pay for development.
+All they care about
+is the result.  So I
+want to make this
+extremely clear.
+Now, what could go
+wrong, because after all, it all
+sounds very
+simple, right?  It's simple
+, but not necessarily
+easy.  So, let's
+talk about what
+can go wrong and what
+can break, because
+it happens
+all the time, but we'll
+discuss how to
+fix it.  The problem
+you may
+face is
+that the client may
+consider this a one-time
+job and may not want to
+pay you monthly
+for support.  The solution
+in this case is to
+clearly
+outline expectations right away
+.  If a client
+is surprised
+to receive their
+first bill from you in
+a month, it's your
+fault because you didn't
+agree on this
+in advance.  Therefore, we
+want
+to explain from the first call that
+we are selling them not
+just a service, but a
+monthly result
+.  We don't sell them on
+creating an AI
+employee
+because they're not interested.
+So, when they
+get a monthly
+result, we have to
+pay them every month to
+support it, and
+as soon as they
+stop paying,
+they stop
+getting that
+result.  The second
+problem you
+might run into
+is that the agent might
+make a mistake
+, right?  An AI
+employee will
+definitely make
+a mistake.  This is inevitable.
+The solution here is: you either
+step in and
+fix everything
+as quickly as possible or
+simply require
+human approval of
+everything
+the customer sees.  I've already
+mentioned this, and it's
+pretty obvious, but
+most companies,
+if not all, that you'll
+be selling this
+service to will not
+agree to let AI
+do the work and
+send it to
+the client without
+first being
+reviewed by a human.
+So be sure
+to add this stage—
+human participation in
+approving any
+actions directed at
+the client.  Another
+may encounter
+is what is known as “
+workload expansion,
+” where a client
+constantly adds new
+tasks for you or an
+AI employee.
+You have two
+options here.  Option
+one: within the
+subscription fee
+that you charge
+the client, you can
+anticipate a certain
+number of new
+tasks per month.
+Let's say when you
+set up an agent
+for a client, you
+charge $1,000 for
+setup and
+$500 per month for
+support.  And within
+that $500, you
+can tell
+the client, "Look,
+you get one
+new assignment a
+month as part of
+that amount."  So, once
+a month, if you
+want an agent to
+get a new feature,
+I'll do it for you, and
+it's already included in the
+$500
+per month cost.  So this is a
+way that you
+can clearly
+define the scope
+and
+actually limit
+your monthly
+commitment to
+only creating
+one new
+task for an agent
+per month, or clearly
+explain, "This agent
+does one
+task, and they have to
+well."  So every
+time you
+need a new
+feature or new
+capabilities, it will be a
+separate agent or a
+separate offering,
+paid for
+separately.  So, it all
+comes down to
+setting expectations up front
+and making sure
+you and the client are on the
+same page.  Now
+let's look at the
+financial calculations
+.  How do you turn this
+into a real business?
+The first thing I like
+to sell to clients is an
+AI agent that is not controlled at all.  I
+prefer to
+sell the
+so-called appraisal first.
+An appraisal is a service
+that we typically
+sell
+for around a thousand dollars.  This
+takes
+about two hours of
+our time.  So, we
+make about
+five hundred dollars an
+hour selling
+estimates.  I won't go into the
+details of the evaluation
+as I have
+tons of other
+episodes and videos on
+how we sell them.
+Just know that
+an assessment is when we
+sit down with a
+business owner, take a detailed
+look at their business,
+and determine where
+AI can be applied.
+The result of the evaluation is
+not our development of anything
+.  This is simply an overview of the
+available options
+for the client.  So
+after selling the assessment,
+offer the
+guided AI agents
+discussed in
+this episode as a
+solution to address
+the gaps identified
+during the assessment;  or we
+can sell our
+AI concierge service, i.e.
+collaborative consulting.
+If a managed AI
+agent is a "
+do-it-for-you" service where
+we create an AI
+employee and
+implement it into
+your business, then an AI concierge
+is a service where we are
+paid from one to
+two thousand dollars a
+month to
+work with a client
+to get them
+results, as well as the
+necessary training
+and coaching.  It all
+depends on
+what type of business you
+want to develop.
+If you're looking for
+higher prices,
+you can usually charge significantly
+more for a "done for you" model, such as a managed AI agent, than for a "
+collaboration" model, such as an
+AI concierge.  And again
+, I have a few
+episodes about AI concierge.
+If you want to
+delve deeper into this
+model, you can
+search for information
+in this podcast or
+on my channel.  As for
+next steps, I
+recommend that you
+look at your
+business if you already
+run a small
+business, or at a
+business owner you know, and write a
+sample job description
+for a task that
+is done
+repetitively, just
+to practice
+spotting such
+opportunities.  Because
+I guarantee you, once
+you write
+one job description and
+start noticing what
+these
+opportunities look like, you'll
+see them everywhere.  And
+then it will all come down to
+talking to
+business owners
+about creating AI
+workers who
+can deliver
+these results at
+scale.  And if you
+want to learn how to
+turn everything I've
+shown you here into a
+service that
+customers are willing to
+pay for, we
+teach this
+methodology in detail, as well as the
+AI ​​scoring and AI
+concierge that I
+mentioned, in our
+community called
+AI Operator Academy.  You can
+go to aoa.community
+if you want to
+join us,
+or click on the
+link in the description.
+We have a guarantee: if
+you don't find your
+first paying
+client within 90
+days of
+joining our
+community, we will
+refund 100% of your
+money.  So, you
+lose practically nothing.
+Today, our
+community has over
+315 members.  They are all
+successfully selling AI
+services.  We will be glad to
+see you among us.
+Thank you very much for
+watching.
+See you soon.

@@ -1,0 +1,659 @@
+One of the best things about live
+streaming is that you capture the real
+human side of you, which is absolutely
+brilliant in this day and age because
+you are going to be demonstrating that
+you're real and you're definitely not
+AI. However, there are a few people that
+obviously feel really nervous about
+going live and it's understandable
+because you can't hit pause, you can't
+do take two. And so I want to walk you
+through today how I use AI to help me
+prepare to go live. And this is exactly
+how we should be using AI guys, is to
+help us get more from being human, not
+by replacing our humanness with it. And
+one of the problems with that is that
+they are just basically steamrolling the
+personality of them out of their
+business, which is the worst thing you
+can do. I go live every single week with
+a new topic. I don't have time to do
+rehearsals. I'm a mom of four. I've got
+two businesses I am running. I've got a
+mini team I'm looking after and I don't
+have a lot of time, but I prioritize
+going live every week because I get a
+lot from it. I repurpose my lives into
+all the content I could need. And it's a
+system for turning up and showing up in
+a really human way that I then utilize
+to get all of my other streams of
+content from. Of course, there is a
+system needed in order to keep on top of
+that because if you are going live every
+week, you got to come up with something
+new to say every week. You've got to
+prepare yourself for it every week. And
+so that can soon become overwhelming and
+be a plate that you drop if you don't
+systemize it. So, I'm going to show you
+today how I use AI to help me prepare
+for every talk. Now, specifically, we're
+talking about just a live. Yeah. If I'm
+preparing myself to talk on stage at an
+event where there's like 500 people, my
+process is a little bit different
+because it's a little bit higher stakes.
+You know, we always start by preparing
+for a talk by creating a bit of a
+script. The purpose of the script is to
+help us create an arc that we will then
+wrap our head around. I'm going to show
+you the role of the script. But what I
+don't have whilst I'm live right now is
+a script on screen that I'm reading
+from. There is no auto cue. There is
+none of that. And the reason being is I
+don't want to speak from a script.
+Because if I'm speaking from a script,
+I'm not thinking for myself. I'm doing
+the thinking of something I prepared
+earlier which is giving me very tight
+constraints because my free flow
+thinking is not thinking about what I
+could say next or taking me on an
+interesting kind of journey in my head
+before it comes out of my mouth. No,
+it's focused on What else did it
+say on the script? maybe I need to
+read the script. Where's the script? And
+it becomes a crutch that prevents you
+from being able to riff and think for
+yourself. So, we're going to create a
+script, but the script is only to help
+me get prepared for when I'm going live.
+I never use it whilst I'm live to read
+off of it. And I find that times when I
+do do that, I prevent myself from being
+natural. I get wooden and it gets really
+crap. And I have a client that has a
+script and she likes a script, but you
+can clearly tell when she is reading off
+a script and when she is just riffing
+and oh my god, the magic is in the riff.
+You know, when you get someone
+passionately expressing themselves, you
+can't do that by reading a script. So,
+this is where I begin by just doing a
+bit of a notes splurge of, you know,
+essentially what I am going to cover or
+what is important to me. There is no
+structure to this. It's just a bit of a
+splurge. I've just got into the mind of
+what it's like for somebody delivering a
+talk. And so I've I've written when
+you're delivering a live talk, you don't
+want to read off a script because what
+it's going to do is make you sound
+wooden, take your personality away,
+prevent you from thinking for yourself
+because the whole time all you're doing
+is thinking about what is it sounds
+script which prevents you from being
+able to think on the spot, come up with
+better ideas and insert things. You
+know, I said it to you a minute ago
+because it's in my head as something I
+know I need to say on this talk because
+I have prepared by doing the things I'm
+going to show you soon. And at the end
+of this, you are going to see something
+that is going to blow your mind and help
+you prepare not just for live talks, but
+probably like every performance or
+something that you need to do. So, I do
+basically a bit of a brain dump of what
+this is about. And then I get specific
+and I think, okay, well, what are going
+to be my three key takeaways for this
+talk? Well, here you go. Spoiler alert,
+script prep. Um, I am going to show you
+how I prep my script and what I use it
+for. That's what we're doing now. Gemini
+notebook, that's coming next. And then
+the trust I know enough and bullets
+thing. I'm going to walk you through
+that, too. And then I'm going to have
+have a call to action at the end. What
+is the next step for people to take off
+the back of this talk? So once I've got
+that outlined, then I'm going to use
+that as my rough raw kind of human input
+for everything else that I get out.
+Because if you start with something
+human, then you start with something
+that's come from you. So in that initial
+notes splurge, I might share a story or
+some personal experience or an analogy
+or how I feel about something or an
+opinion of mine. And in doing so, what's
+going to happen is that is going to make
+its way into the talk. I'm going to give
+you at the end, I'm going to show you
+how you can get your hands on all the
+prompts and everything that I use for
+this. I'm going to be creating a a
+step-by-step flow sheet that's going to
+give you absolutely everything. So, you
+can just copy this whole process. So,
+what we're going to do next then is
+we're going to go into So, this is
+chatgbt and you know, you can use any AI
+of your choice. I'm actually using chat
+GBT and Claude in today's explanation. I
+use both of them interchangeably just
+when I fancy using one or the other. But
+I do find that chat GPT creates a much
+more grounded output when it comes to
+writing scripts or writing copy whereas
+Claude is very verbose. So I often use
+TGPT to get the copy and I then I use
+Claude to create the to construct things
+and create the the packaging. So, what
+I've got here is a prompt that I'm going
+to give you a bit later. That's
+basically got loads of information and
+what I want it to do with this outline
+of the script. This thing here that we
+just created in notes, the what, the
+three takeaways, and the call to action.
+I want it to take that and turn it into
+a YouTube video arc in precisely the way
+that I like it to do it. And I've got
+the whole prompt there. And then what
+it's done, what this is now, is this is
+going to give me the input to hand off
+to Claude. Now, you could do this in the
+new chat GPT work, which is like Claude,
+but yeah, I'm going to copy this now.
+And what it's done is it's just
+basically gone through and it's turned
+my idea for the talk into an arc. So,
+welcome people in. Um, acknowledge names
+in the chat. Ask when you're speaking
+live. So, then, you know, essentially
+it's going through this whole process.
+Now, again, this isn't so that I can
+memorize this whole process, but this is
+so I can create some really good
+materials that I am going to use that
+help me to memorize this process. I'm
+going to copy that. And the next thing
+we're going to do is drop it into
+Claude. Okay. So in here then I have
+given it I've pasted the text into
+Claude. So I've just pasted it and it
+pops up in a little pasted box. And then
+I've got this skill called Live Pod Show
+notes. It's just basically one big
+massive prompt that tells it how I like
+it to create some show notes for me. So
+what it's doing is it's taking that
+plain text and it's now making it look
+pretty. You can see that we have that
+now much nicer for me to sit and have a
+read through, isn't it? You know, we
+went from just that plain text to now
+we've got how I prepare for a live talk
+without reading from a script. And I'll
+sit and have a read. Just do a scan read
+and just what I'm looking for is the
+shape. Yeah. So, we've got warm up the
+room. There's some ideas, questions I
+can ask. Paint the picture and I'm just
+going to have a read of these things and
+just get my head around it. And there's
+also the second thing that my prompt
+creates is a beat sheet. And the beat
+sheet is where gives me it in much less
+text. If I'm going to have something
+with me live whilst I'm delivering, it
+can be this. So we've got the cold open,
+which is just the thing that I'm going
+to say when I start recording. And then
+we've got each section. So warm up the
+room and just be live and chatty and
+whatever. But then we've got paint the
+picture of what happens when preparation
+turns into dependence on a script. Then
+separate preparing the talk from
+scripting the performance explain the
+three layers of preparation blah blah
+blah and there's a little paragraph that
+goes with each one so that I can just
+remind myself of what that section is.
+So if I feel like I want to have the arc
+close by I can just come and have a
+quick look at this of like oh what am I
+doing next and that'll just keep me on
+track. So that's one way in which I
+prepare is to get the script written
+down and then the beat sheet written
+down so that I've got the full arc of
+the talk and I've got something to
+glance at. What you don't want is to go
+into delivering a talk with a full
+flipping script to look at because
+you're just going to get stressed. I'm
+not following that whole process that we
+just looked at. Like there is definitely
+some bits that I've missed there. Like
+the question at the beginning it said I
+didn't ask you that question. But it's
+fine. What it's done is it's got me
+prepared enough to deliver something and
+what I deliver is better than it would
+be if I followed on off a script because
+it's real and it's human and therefore
+it's more relatable. Um, and it's what's
+come from me, not what's come from a
+polished version of me that chatbt
+generated. You never ever want to sound
+like AI because you're reading an AI
+generated script. That that just
+basically takes the whole point of
+creating live really human content and
+just pisses all over it. I mean, it's
+now just pointless. It's now just like a
+chocolate teapot. You might as well just
+create some AI videos quite frankly. So
+that's fine. Allow yourself to go off
+script, forget half the stuff. The point
+is it was there to support you, to
+prepare you so you can deliver
+something. And that something will be
+human. and that human thing will be
+great. So the next thing then is we want
+to take that and we want to now bring it
+to life. So what we're going to do is
+essentially copy all of this. So that is
+our full script with the title and
+everything. I'm going to come into
+notebook LM which has recently renamed
+itself to Gemini notebook. Now, if
+you've never come across this before,
+you are in for a bloody treat because
+what it does is it takes the sources
+that you give it, as in transcripts,
+pieces of text, research, etc., and then
+you can create resources from those
+sources, which is, I think, originally
+intended to be an amazing tool for
+helping students to prepare for exams or
+whatever, or helping people with
+research to to really get to grips with
+their sources. It just so happens to be
+the most amazing public speaking tool,
+right? And the reason being is so you
+can put your script in as a source. So,
+we can put loads of different sources in
+here. I'm going to put copied text as a
+source for this example. And just paste
+the text that we've got here, Live Pod
+Presenter notes, insert. And what that
+is doing is adding it as a source into
+the source list. And then I can ask
+questions about it and have a
+conversation about this source. And what
+it does is it uses the sources as the
+source of truth. And what you can then
+do is create different resources from
+that. So let's do a few. I'm going to
+grab a prompt that I've got saved to my
+clipboard and let's do audio overview.
+Let's do a deep dive between two people.
+and that my prompt is stay as close to
+the script as you can so that this video
+is a true representation of this talk
+that we are preparing for. Add analogies
+and find ways to explain things but do
+not change the main structure and
+teachings. The reason why this is really
+cool is because this is going to create
+essentially like a podcast between two
+people. You're going to be able to hear
+them discussing the topic of what you're
+going to be talking about in your talk.
+So whilst you're doing the washing up,
+whilst you're driving, whilst you're on
+a walk, wherever you are, you can listen
+to it. You can get this app on your
+phone. And by the way, if you happen to
+have a Gemini account or a Google
+account, sorry. You've probably got this
+included with it. I didn't realize I
+haven't paid extra for this. I didn't
+realize that this just comes with my
+business suite, which I pay for with
+email, so that I can have an email
+address for my business and storage and
+stuff. And boom, it just comes with
+this. So check it out. You may just have
+this and you don't even realize that
+you've already paying for it or it's
+already a tool that you've got access to
+because a lot of people are paying
+Google for something. So anyway, this
+prompt stay as close to the script as
+you can so that this video is a true
+representation of this talk that we are
+preparing for. Add analogies, find ways
+to explain things, but do not change the
+main structure and teachings. This
+prompt is important because it's going
+to keep it grounded to that structure,
+but it's going to allow it to
+imaginatively add things in that you
+might then listen to and be like,
+"That's a really good way of putting it.
+That's a really nice way of explaining
+it. Oh, that's a really good way of
+relating to our audience, you know, and
+that's gonna as you're listening, it's
+going to trigger your imagination and
+you're going to start to see the
+pictures in your head, which is going to
+help you to memorize those pieces, which
+is really, really cool. So, I'm going to
+hit generate on that. Video overview is
+really cool. We can do a a five minute
+video. Exactly the same prompt in there.
+Five minute video on that. We could do a
+slide deck, exactly the same prompt in
+there, so that we we can have a look at
+those visuals. We could do an
+infographic. We could choose what should
+we go with. I think we should go with
+clay. Quite like that. My inner child
+wants clay. All right. And we hit
+generate. And you can see there are
+other things here. But yeah, so those
+four, but normally the one that I go to
+all the time is the explainer video.
+Now, that's going to take about 10
+minutes to generate. But don't worry
+guys, here's one I prepared earlier. And
+here we go. So, we've got a few of these
+here ready to go. So, we've got these
+four sources. So I'm going to go from
+let's have a look at the infographic
+first. So look the purpose of looking at
+this is because I've got on one page a
+clear visual on my full arc of what it
+is that I'm talking through talking
+about. So layer one build the thinking
+use AI to organize messy voice notes. Uh
+the script is a training tool. Its job
+is to expose weak thinking during prep
+not to be read live. Chunk of knowledge
+bullets assign post keys. So, if I know
+what I'm talking like this could just be
+really helpful for embedding it into my
+mind what the arc is of what I'm talking
+about. So, that's quite helpful. What we
+got next? Um, the next one we've got is
+the slides. Now, the slides are so cool.
+I really really like the way it does
+these. But it sometimes you go, I really
+want to actually just share the slides
+and and do a a proper little slided
+presentation. Um, now when you are when
+you're you can actually get them to do
+it in your brand style. You can just
+give it your branding, your fonts and
+your colors, and it will actually
+generate the slides in your branding,
+which is amazing. And they are really
+nice. They're very visual, but it's
+again, it's a just a really nice way for
+you to walk through and look at what the
+arc is and see different ways of it
+being visually explained. Look, the
+script trap and the winging it trap. The
+winging it trap. You know, I could have
+coined that as a term and been like,
+"Oh, yeah, the winging it trap." This is
+the the problem is that you end up going
+down three separate rabbit holes and
+talk for 25 minutes only to realize you
+missed the main point and there's zero
+structural safety net. If you lose your
+train of thought whereas having that
+beat sheet you then can just go back to
+it. But yes, so you can have a look
+through this and this is going to h this
+is amazing. It's like someone else has
+taken your talk, your area of expertise
+and has created slides for you and you
+now get to go through and see this
+visually laid out. And of course, there
+might be stuff that you disagree with,
+but the fact that you disagree with it
+is going to help you remember it more,
+you know? So, this is just all just to
+help me prepare and get it in my head.
+And there might be a slide here that's
+so flipping good. I'm like, "Oh, yeah. I
+need to I need to share this. This is
+going to be a very good slide." And I
+can, you know, upload it into reream as
+a slide I want to share or, you know,
+have it ready to to share with you guys
+whilst I'm live. And then, yeah, it's
+come up with some other stuff. And it's
+just really nice to to go through and
+see that. Okay, so that's that's the
+slides. This is my favorite. Let's go
+interactive mode on the podcast. So this
+is two people discussing the content and
+the content is the source that we've put
+in which is the script.
+>> So what if the actual reason you are
+just completely terrified of public
+speaking has nothing to do with stage
+fright.
+>> Right. Like it's something else
+entirely.
+>> Exactly. What if it has everything to do
+with the fact that you well you wrote a
+script?
+>> Oh yeah. That is a massive realization
+for a lot of people.
+>> I mean think about it. You got this
+massive presentation coming up, right?
+Maybe it's a huge pitch to a new client
+or a keynote or just a really high
+stakes company. All hands meeting.
+>> The pressure is definitely on.
+>> Yeah. And you sit down, you stare at
+that blinking cursor on a blank screen
+and you start typing out every sing
+>> How cool is that? Right. So, there's two
+and and what I like about it is they are
+they're not like robotics. I mean,
+they're a bit robotic sounding, but but
+they're you can listen to it and it
+doesn't it's not like it's not making
+you want to poke your eyes out, you
+know, like the robotic AI. Hi, I am John
+and I am your AI reader. I I don't know
+where I'm going. Sorry. It's it's it's
+more palatable to listen to which is
+nice. The other thing you can do is
+interrupt it and join in the
+conversation.
+>> Single word you plant. Oh, our listeners
+got something to share. Let's hear it.
+>> Hey, what were the what were the top
+three takeaways? Can you walk me through
+those?
+>> That is a great question. I love that
+you jumped in right there.
+>> Yeah. Thanks for joining the
+conversation. You want the too long
+didn't read version early.
+>> Exactly. If we had to boil this entire
+system down into three main takeaways,
+here they First, your script is a
+preparation tool, not a performance
+document.
+>> Right? You write it to train your brain
+not to read it out loud to an audience.
+>> Second, you have to learn the shape of
+the talk, not the sentences.
+>> It is about building a mental map so you
+can navigate if you get off track.
+>> And third, ruthless reduction. You strip
+your notes down to tiny prompts that
+remind you what you know.
+>> Those three steps. So, there we have it.
+I mean, that's pretty bloody cool, isn't
+it? You can join in, you can ask, you
+can get it to recap, you can just, you
+know, have a conversation with it and
+talks back to you, which is really nice.
+But that could that's it's a bit longer
+that one. So that one we've got.
+>> So what if the
+>> that one's 20 minutes? Yeah. So this is
+you got a long drive going for a nice
+long walk. You're doing some housework.
+It's not like the thing that you're
+going to watch just before you go live
+at the last minute. You know, it's a bit
+longer. But what I love is that we've
+then got this video. So if you're
+someone who if you're like I'm not an
+auditory learner, Cordelia, I need to
+see the visuals. So like the slides are
+brilliant because they give us the
+visuals, but often the audio on its own
+without the visuals, you know, it can
+it's quite long-winded and it doesn't
+necessarily go into your head if you're
+not an auditory person. So if you're
+more kinesthetic and you need to see
+things and feel things, adding a layer
+of audio to that can bring it more to
+life, which is really great. And that's
+what's good about this video. So we've
+now got a five minute quick video which
+is going to run through the full arc of
+the whole talk basically in five
+minutes. usually run into one of three
+problems. Forgetting exactly what to
+say, rambling off topic, or sounding
+like you're just reading a document
+aloud. Now, with this one, it is more of
+an AI robotic voice compared to the
+podcast. But, you know, one of my
+clients, she loves looking at this video
+before she goes live because it just
+gives her the whole thing bite-size. The
+visuals, she helps. It really helps her
+to memorize what she's talking about and
+she just really likes it. The voice
+doesn't bother her at all. So that is a
+I think a really phenomenal way to
+prepare for a talk because essentially
+just from having that script we can now
+create so many different types of
+resources that enable us to just get
+that in our heads and it is not about
+memorizing a script. One last thing on
+that is that remember, I know it's scary
+going live and I know it's you want the
+slides and you want the script and and
+and you want to feel supported so that
+you've got the resources so that you
+don't mess up and that you you you
+produce something fantastic. But the
+problem is is that this isn't you at
+school anymore. You're not standing up
+and delivering a presentation in front
+of your teacher that knows the topic so
+much better than you or a professor or
+all the other students that have all
+been studying and are at the same level
+as you. Like that was daunting for a
+different reason. you were trying to
+teach someone how to suck eggs, but now
+you're creating content and you're
+creating these lives to share either
+what's on your heart or your expertise
+or your knowledge to people that are
+looking for that and want to learn from
+that and you only need to be a step
+ahead of someone else to teach them how
+to get up the next step. Right? So, it
+is very much the case that all of these
+materials are supporting you to feel
+confident in getting up there and
+sharing your thing. And it's not a case
+where you need to learn from a script
+because you're not teaching stuff you
+don't know. You know all of this. This
+is your topic. This is what you chose to
+become an expert in. This is the thing
+that you're passionate about. Is it not?
+Because if it's not, then why the hell
+are you going live about it? Like
+[laughter]
+should we should we find something else
+to go live about? And I think that
+that's a really powerful point because
+we all started off presenting to people
+that know a topic better than us and it
+was daunting for a different reason. So
+you just got to get yourself to a point
+where you feel confident and confident
+enough to stand up and share what's on
+your heart and what's on your mind
+because you've given a structure to it.
+So there we have it. Let me know what
+your thoughts are on how I prepare for
+public speaking and how do you prepare?
+I'd love to hear about it. What do you
+do? Some people have some really great
+systems, tactics, strategies. I'd love
+to hear what yours are. Please pop them
+in the comments. Let's start a little
+thread underneath this video for
+different ways and means we can get
+prepared for doing a live talk. Also, as
+promised earlier, to get your hands on
+all of the prompts and the steps and
+everything that I've shared here on this
+episode today, all you need to do is
+head to Strategy Geeks where you will be
+able to grab the extended show notes.
+There is a free 7-day trial for those
+that don't want to hang around. They
+just want today's show notes and they
+want to be gone. Uh, but when you jump
+in there, you will see that there are so
+many resources that you can grab. Um,
+and every time there is an episode, we
+have extended show notes. And the
+extended show notes give you the whole
+thing step by step. The link to jump in
+and grab the extended show notes is in
+the description down below. So, click on
+that, jump in, and you'll be able to
+grab them and let me know what you
+think. And yeah, that's all from me. I
+hope you have a wonderful rest of your
+day and I will see you on another
+episode soon. Lots of love, guys. Bye.

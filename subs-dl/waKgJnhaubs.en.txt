@@ -1,0 +1,278 @@
+So, you have a new board game in mind,
+or maybe you're already working on one.
+Whether it's your first project, your
+eighth, or your 200th, play testing is a
+crucial step in the process, and one of
+the most satisfying. But without the
+right method, it can eat up a lot of
+your time to just get your game playable
+each time you make a change. Time and
+effort that could be spent working on
+your game instead of working on getting
+your game to the table. You might be
+thinking, it'd be nice to improve how
+rapidly you can prototype and play test
+after making any changes. If so, you're
+going to love this. When I started
+making games over 10 years ago, I
+started at what I like to call level
+one. I hand wrote everything on pieces
+of paper that I would cut out. Maybe
+you're smarter than I was and you're at
+level two and you use spreadsheets and
+Photoshop and print before cutting out.
+You could be at level three where you
+play your game digitally on something
+like Tabletop Simulator. Let me
+introduce you to level four. Dextrous is
+a website that you can use to manage
+your game project. It allows you to set
+up card layouts so you don't need to
+design and make changes to each
+individual file. One feature that makes
+this so special is the ability to export
+that project. Dextrous paired with
+something like Tabletop Simulator allows
+you to make changes and play your game
+incredibly quickly. But we're not
+stopping there. In this video, I'll walk
+you through what you need to reach level
+5, where you and as many others as you'd
+like can make as many sweeping changes
+as quickly as you'd like that will
+update every single card and token in
+your game near instantly. I want to show
+you what this looks like immediately.
+So, check this out.
+So, as you can see here, this is one of
+the main spreadsheets for our game, and
+I want to use it as an example for how I
+can make a lot of changes really
+quickly. So, let's say after last
+night's play test, the best way to move
+forward is actually to rename every card
+overflowing strength. And that also the
+cost of cards was actually pretty
+confusing. And we like the idea of
+everything costing a single slice of
+pizza. And then lastly, the point values
+were pretty low and we really think that
+the best way to move forward is to make
+everything worth 99 points. And as
+quickly as that, we are able to go play
+test all of these changes. Come over
+into Dextrous and we tell it to refresh
+the data and update to all the changes
+that we just made. You can see that
+everything is now called overflowing
+strength, costs one slice of pizza, and
+is worth 99 points. Next thing we need
+to do is export this and tell tabletop
+simulator to update its information to
+the new changes. You give it just a
+couple of moments. It runs through a
+loading bar and as quickly as that we
+are able to jump into tabletop
+simulator. So this is a snapshot of one
+of our games recently played and you can
+see that all the cards are still
+individually named, have different costs
+and are worth 1 to four points. Now we
+want to play test our changes. So, we go
+back to the main menu, and that part's
+actually important. I'll explain that
+later. Let's create ourselves a new
+game.
+And as quickly as this, we can now see
+that everything is called Overflowing
+Strength, costs one slice of pizza, and
+is worth 99 points. There was a time
+when I would make all of those changes,
+one page, each card at a time, one
+image, one text field. This is the
+difference between level three and level
+five. Recently, my buddy and I went back
+to the drawing board for our game. But
+by using the tools and method in this
+video, we were able to rapidly prototype
+and play test our game into a very good
+spot in just about a month and a half.
+All right, so what do you need to do
+this? Let's walk you through the steps.
+Step one, create a Dextrous account. You
+want to make a game, something you can
+rapidly prototype and play test at
+lightning speed. Use Dextrous. Simply go
+to their site and create an account. The
+free tier is more than enough to do
+everything you'll need. Once you've
+created your account, you need to make a
+new project. So, go to the project page
+and hit the plus sign to create a new
+one. In the top left, you can give it a
+name. Start by adding a component, but
+each component needs a layout. So,
+select the new layout option. A layout
+is a template for a component. Imagine a
+set of cards or tokens in your game that
+all have the same format. You can make
+more. The interface is fairly
+self-explanatory. On the left side of
+the screen, you can import images and
+control the size of text. Across the
+top, you can create layers, and you see
+them in a list on the right. Here's a
+few examples from our game. You can play
+around in here as long as you'd like, or
+you can make a simple card and come back
+to make it look pretty later. At any
+time, you can export your cards to be
+printed, or better yet, and more
+importantly, you can export as a
+tabletop simulator file. This allows you
+to load all of your components at once
+into TTS so you can play virtually with
+your friends on Steam. Step two,
+tabletop simulator. So, you're making a
+game, but you need to play test it. I
+think that play testing your game
+digitally is the way to go. When it
+comes to rapid prototyping and play
+testing, it is infinitely easier to get
+your friends together to play your game
+online than it is in person. I should
+know I've run D and D 5D. It's also
+infinitely easier for strangers to try
+it out digitally as well. Tabletop
+Simulator is my platform of choice to
+play test my games. It is a virtual
+tabletop where you can play and do
+pretty much anything you can think of.
+It's a community-driven game that costs
+$20 on Steam, where people have uploaded
+every board game I've ever thought to
+look up. It's a great platform to play
+games, which makes it a great platform
+to play test games. Depending on how
+involved you wish to get, you can
+program just about anything you can
+think of. You can import custom assets,
+automate games with scripting,
+automatically count resources, you can
+even place a virtual tablet on the table
+that you can browse the web or open PDFs
+with. The sky's is the limit. And most
+importantly, when importing a dextrous
+project file, you have every component
+you've ever designed instantly ready to
+be shuffled and used at a moment's
+notice. But we can take it even a step
+further. Step three, Google Sheets. When
+making a game, the best way to make
+sweeping changes is through the use of
+spreadsheets. You can see everything at
+a glance because every value is right
+there listed next to the others. You can
+compare the wording of effects side by
+side. Change the VP values of every card
+all at once. Make sure every card's name
+follows the same theme. change how many
+of each card are in your game and sort
+by every variable you have. Spreadsheets
+allow you to take it a step further. You
+can set up reference pages for
+shortorthhand or you can make pie charts
+showing the percentage of card types and
+categories in your game. But I think the
+biggest benefit of working on your game
+in Google Sheets is that you can edit
+with as many others at the same time as
+you'd like. Most other platforms or
+methods, you're stuck working on each
+file individually, and if anyone else is
+helping you, you tend to overwrite each
+other's work. You can spend as much time
+as you want customizing your spreadsheet
+by publishing this to the web as a CSV.
+Dextrous can make all the changes you
+make here to all of your cards with a
+click of a button. When you have all
+three things, Dextrous, tabletop
+simulator, and Google Sheets working
+together, it's like assembling each
+piece of Exodia. You win the game. If
+you want to try it out, there is a link
+in the description where I have provided
+everything you need to do this yourself.
+It's a starter kit. It'll walk you
+through step by step to download a
+template Dextrous project with a link to
+a Google spreadsheet that you can copy
+for yourself that is linked to that
+Dextrous project. This way you can hit
+the ground running with most of the work
+already done for you. Feel free to
+reverse engineer it for your own
+purposes. If you are interested in more
+helpful tips for game design, be sure to
+hit that subscribe button so you don't
+miss when the next Tabletop Craft video
+is released. And there is one final step
+to follow. Step four, play test. So you
+have your game in mind and a good idea
+on how to rapidly prototype it. Now you
+need to play test. Go get some friends
+together and try it out. But maybe you
+could use some new friends or a fresh
+set of eyeballs to take a look at your
+game. If that's the case, then you can
+come join me in the tabletop craft
+Discord. I'm starting a new community on
+Discord for beginner game designers and
+play testers. And I'm filling it out
+with all of the best resources I can
+find, all the lesser known tips and
+tricks and best practices like the
+method in this video. If that sounds
+cool, you can find a link to it in the
+description of this video. I think that
+this could be a cool place to gather
+like-minded people who you can bounce
+ideas off of and ask their opinion on
+specific questions. Help me build this
+community of game designers and play
+testers by clicking the link in the
+description. Come say hi. Once again,
+there is also a link in the description
+that you can follow to get a head start
+on how to do this for your game. Just
+know that I'm not your guy when it comes
+to specific technical questions. The
+Dextrous website has in-depth
+step-by-step video walkthroughs for you
+if you learn best that way. And if you
+have specific technical questions, the
+Dextrous Discord is the perfect place to
+ask them. Talk to the guys who made it.
+They're great at responding to
+questions. I hardly know enough to make
+this work in the first place. So, go
+talk to them about the how and why it
+works. A quick tip and a lesson learned.
+I would suggest turning off the mod
+caching option in Tabletop Simulator.
+This will save you a step each time you
+go to play. Also, when making changes to
+your game, keep the same number of
+components. If you don't, you'll notice
+that the card art and text are split
+between each card awkwardly. Hopefully,
+if you run into that issue, you'll
+remember this bit in the video. Also, my
+buddy Rob might have recently discovered
+the secret to unlocking level six.
+Fingers crossed. Join the Tabletop Craft
+Discord if you want to learn more about
+that. Once again, my name is Dave
+Jultima. Happy play testing. Thanks for
+watching.

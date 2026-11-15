@@ -1,0 +1,1465 @@
+Cloud Code is hands-down the most
+powerful way for non-technical people to
+build real software right now, but most
+people are way too intimidated to even
+try it. So, in this episode, I brought
+on Adam Sandler, and not the Adam
+Sandler that you're thinking of, but
+Adam Sandler the marketing operator who
+spent years at companies like American
+Express and Nestle, who's now using
+Cloud Code to build competitive research
+tools from scratch with zero coding
+background. So, we're going to walk
+through the entire process live on
+screen starting with a blank terminal
+and ending up with a fully functioning
+dashboard complete with scoring,
+filters, contact information for the
+research targets that we found, and
+more. And if you stick around till the
+end, you're going to see how we turn the
+whole thing into a reusable skill that
+you can run for any market. So, enjoy.
+All right, Adam Sandler, what are we
+building today? How you doing, Corey? Um
+I thought it would be
+uh helpful to show how to put together a
+process in Cloud Code starting with some
+simple research and working all the way
+up to a tool uh because I think this is
+sort of one of the superpowers that
+Cloud Code unlocks for people who are
+not technical or don't have a technical
+background. I think, you know, where
+we're going is the capability to
+uh for, you know, people who are
+historically in knowledge worker jobs
+like marketing like myself, um we have
+the ability now to create tools, even if
+they're one-off use tools,
+to help us accelerate how we go to
+market, how we perform our work. Um and
+I'd love to showcase how we can take an
+approach that focuses on competitive
+research, Mhm. turn that into a tool
+that allows ongoing
+repeated research uh so you don't have
+to do everything all over again.
+Effectively, building yourself a tool in
+real time as you
+operate it.
+That makes sense.
+>> Awesome. Yeah, well, this is going to be
+a good one. I'm excited for this.
+Anything having to do with cloud code is
+just massive leverage once you put in
+the groundwork to refine it and get it
+up and running. So, we'll jump into your
+screen here in a couple of seconds, but
+before we do, why don't you just give us
+your elevator pitch? Like, who is Adam
+Sandler? What's his background? Why
+should people listen to him? And how do
+how do people differentiate him from the
+other Adam Sandler?
+>> [laughter]
+>> Uh well, the differentiate
+differentiation piece is easy. I'm a lot
+less wealthy. Uh
+>> We're getting there though, right?
+>> that. Uh yeah, but so, you know, I um
+historically have a career in marketing.
+I live in New York and
+um worked in a couple of large
+enterprise Well,
+several large enterprise companies based
+in New York City
+um
+in various marketing roles. So, American
+Express was one of the bigger names I've
+worked at and I worked in the open
+business unit, which is focused on small
+business customers and worked on a
+content marketing initiative there
+called Open Forum. Um this was, you
+know, over a decade ago and it was when
+content marketing was still very
+nascent. So, got my feet wet
+um understanding uh you know, how to use
+uh organic content as an acquisition
+mechanism. Um and later in my career and
+most recently in that world, I was at
+Nestle Health Science, Mhm. which was by
+way of acquisition of Nature's Bounty
+vitamins, where um I led a digital
+marketing team and also
+uh later in my tenure there,
+um helped to lead the Amazon business as
+well. Um so, you know, learned a lot
+about e-commerce and you know,
+high-volume selling um
+you know, uh channel management, a lot
+of a lot of very uh multi-faceted um
+uh ways to market in that world. And
+vitamins is a low margin, high volume
+business, which on Amazon, and I know
+you're well familiar, Yep. is can be
+very challenging. So, you know, it was
+learned a lot, worked with a lot of
+really great people. And then, since
+that time, over the last 2 years, I've
+been doing independent marketing
+consulting and um started using AI just
+for like how I operate, quickly saw the
+benefits um of how it could help me
+deliver for my clients. And, you know,
+fast forward to today, obviously, you
+can't get through your day without
+encountering AI somewhere, right?
+>> Right. That's in your LinkedIn feed or
+within the apps you're using every day.
+Um and so, you know, I think
+you know, when we when we think about
+Claude Code and sort of like how this
+technology and the platforms are
+evolving, I think there's a real impetus
+and and need for, you know, knowledge
+workers like myself uh and per- I don't
+I don't want to characterize you, but
+perhaps folks like you and I
+>> to get comfortable and to really
+understand how to embrace this
+technology, right? And get past some of
+the
+I think technical hurdles, which, you
+know, on the surface appear
+impenetrable, but in reality um
+are really not. Right. Yep, I agree
+completely. So, what uh what I love
+about, you know, these episodes and what
+we're going to learn today is you are
+going to share your screen. So, if
+people are watching this or if they're
+listening on the podcast platform, be
+sure to switch over to YouTube, and
+Adam's going to break this whole thing
+down step-by-step. We're going to jump
+into his screen, look at his Claude Code
+setup, and build some of these workflows
+from scratch. So, Adam, why don't you
+take it away? Absolutely.
+All right, cool.
+So, um
+I am using Claude Code in an IDE called
+VS Code. Uh VS Code is a free product
+that you can download and it's
+essentially an interface that coders use
+for doing engineering, right? But
+because of how Claude Code has become a
+lot more
+popular among non-coders,
+this is an easy-to-use interface to get
+it up and going, right?
+>> Mhm. This is where a lot of people I
+think also get a little bit intimidated
+when you start hearing words like
+terminal and you see black screens like
+this with a lot of colors, but uh
+as we get into this, you'll see how
+simple it can be,
+right? So, um I'm using a uh Anthropic
+account. I pay for the max the top max
+subscription, which is $200 a month.
+What I'm doing, you could probably do
+for the $20 a month subscription.
+Um so, what I'm going to do here is open
+a new directory. Actually, I'm already
+in a directory, so
+uh
+I'm going to open a new terminal up
+here.
+Uh terminal is sort of like your
+foundational interface for operating a
+computer, right?
+>> Mhm. So, all I'm going to do is um type
+Claude I I'm using a command to allow me
+to skip permissions. I don't recommend
+it for new
+for newbies, but essentially what I'm
+doing is just typing Claude and
+launching Claude Code inside uh
+the VS Code application. So, I
+>> It's funny that when I first Sorry to
+cut you off, but when I first launched
+uh or when I used Claude Code for the
+first time, so I I use Cursor, which is
+obviously a competitor to VS Code, but I
+could not figure out how to launch
+Claude Code. Like I literally So, I had
+to ask Claude and it was like, you All
+you do is just type the word Claude and
+press enter. Yep. And I was like, oh,
+okay, that's not that hard.
+>> And I think, you know, what you just
+mentioned of like how you figured it
+out,
+just ask, right? Just ask
+Claude how to do it. And that's how I
+learned a lot of stuff as well. Um no no
+shame. Um, so
+uh there are a couple of ways to open
+Claude within. Uh
+VS Code has a built-in now. I think it's
+built-in, but there's an extension that
+Anthropic released called Claude Code
+for VS Code, which gives you a little
+bit of a nicer interface. So, if I hit
+this orange button up here, after it's
+installed, you'll see this orange
+button.
+It'll just give me something that's a
+little bit easier on the eyes. Oh, nice.
+Yeah. Yeah. Um, and I do work in this a
+lot. It does have a couple of
+limitations compared to the terminal
+version, which is on the left side. I
+don't want to get into the details on
+that now.
+Um, but uh perhaps in a in a second
+[laughter] session if we want to go dive
+deep, we can do that. Yeah. I'm going to
+close the But like I said, you know, if
+you're just getting started, this is a
+really like easy uh way to onboard
+yourself to working with Claude Code
+inside VS Code. I'm just going to close
+this one and focus in on the terminal.
+It's the same exact thing, just looks a
+little bit differently.
+So, I thought it would be really
+interesting to focus on a research-based
+product project, rather, because it's a
+really great um example of how we can
+build an iterative workflow. Mhm. And
+start with something very simple and get
+to something that is like a tool and a
+process that can be repeated. Mhm.
+>> [clears throat]
+>> And research is always a great example
+of this because there's so many
+different ways to to conduct research.
+For now, um I thought maybe we can look
+at like competitive research in some
+manner. Are there any um like
+industries, verticals, companies that
+you have in mind that we could target
+for competitive research? I do. So, I'll
+use a actually a real-life example. I
+was doing a consulting session for a
+friend of mine last week who is in the
+wedding venue business. So, something
+that they're doing is they're actually
+going and approaching other owners of
+wedding venues here in the state of
+North Carolina
+and they're pitching them and basically
+saying, "Hey, we will run your venue and
+just kick you back a rev share. So, you
+don't have to do any work, you don't
+have to bring any leads, you don't have
+to market. We're literally just going to
+use your venue." Right? And so, part of
+what I was showing him and I was
+actually showing him this in Claude
+CoWork, which is kind of like a step
+down from Claude Code, but they do
+similar things. I was showing him how
+Claude CoWork and therefore Claude Code
+can go out and do some really detailed
+deep research on wedding venue basically
+wedding venues in the area. And it's
+it's funny because he want he wanted to
+find distressed wedding venues.
+And his definition of distressed, it's
+not concrete. It's not like, "Oh, it
+they have to meet these criteria." It's
+like, "Eh, you know, distressed might be
+they might be in financial distress,
+like they might be going through
+bankruptcy, they might have bad Google
+reviews."
+You know, so there was kind of like
+these three or four
+kind of loosely defined
+definitions of distressed. Yeah. And I
+was like, "Well, let's just throw these
+into CoWork and see what it does." And
+sure enough, within
+five to seven minutes, it had I think
+seven or eight venues within 30 miles of
+his venue
+that we actually dug through the results
+and he was like, "These are like good.
+Like these are One of them that own that
+like Claude went in and found that the
+owner just went to prison and now
+there's an a a foreclosure auction on
+this wedding venue." And my friend who I
+was showing this to was like, "It would
+have take Like I never would have found
+that. It would have taken me hours to
+find that." That's distressed. Yeah.
+Yeah, so long-winded way of saying like,
+let's just use that as as an example.
+Let's look for We could repeat the same
+search like wedding venues
+that appear to be in a state of distress
+in the state of North Carolina. Yeah.
+And and you'll see me using my voice.
+Uh I I think, you know it's Whisper
+flow?
+Uh actually I'm using super whisper.
+Okay, interesting. Same thing I'm sure.
+Yeah, it it's very similar. I and only
+because like I guess I found it first.
+Mhm. Using it for over a year at this
+point and it is
+you know, it has not cost me any money.
+It's it's great. Um and so you know, I I
+highly recommend voice dictation because
+you're removing a lot of cognitive load.
+Right. typing, when you're not you know,
+having to stare at something. Um so just
+a you know, hot tip for those who are
+not on board yet. So okay. Uh Let's
+research distressed wedding venues in
+North Carolina and let's focus on pain
+points and reviews from customers.
+Okay, so I purposely left it a little
+bit general cuz I'm curious about like
+how it's going to scope out um the idea
+of distressed. Right.
+>> As you were speaking and I think you
+sort of like that was the point you were
+making is like well, what does
+distressed mean? Right.
+>> What I was thinking is like well, how
+would you research that because like if
+there's financial distressed, that might
+not be public information, right?
+>> Yep. So um
+and and and so what Claude code is doing
+right now, it's searching the web,
+right? Just like a lot of these LLMs
+have the capability to conduct web
+research um behind the scenes, right?
+Outside of the view of the chat. That's
+what Claude code is doing right now and
+we're getting a little bit of a visual
+of the different terms, right? So we're
+seeing there was one about scams which
+caught my eye earlier. Right.
+Uh Bride strand, it's one of the
+keywords that it uses suddenly brides
+stranded. So it's like how funny is
+that? So it's basically looking for like
+social media posts or like reviews or
+basically anywhere online where somebody
+has complained that hey XYZ wedding
+venue like stranded me on my wedding day
+like we were screwed which I think is
+like a really I wouldn't have thought to
+do that. Um and one other thing to be
+aware of and I don't think this is
+happening right at the moment but
+um Claude code can launch autonomous sub
+agents meaning it can actually launch
+its own chat sessions that it will
+operate outside of your view
+to conduct this research in parallel
+right? So you can have three sub agents
+all doing work at the same time and then
+they will come back and report the
+results to the primary agent which is
+our session here. Right.
+So [clears throat] just a good thing to
+understand and maybe we'll look at it
+some of that later. So here we go. So we
+have um an outcome here. There's a lot
+actually some links
+uh obviously we don't want to read the
+entire report but what I'd love to do is
+get to a point where we have a uh
+commonality some some common data point
+to work with across these different um
+venues, right?
+So we've done the research we've have
+some intel and one of the magical things
+that Claude code can do and I think
+co-work now as well is it can create a
+file and store it on your local machine.
+Mhm.
+So we can now capture these insights
+whereas maybe like if you're just using
+chat GPT you might have to copy paste
+Mhm. something else.
+Um and I think you know it sounds small
+but this I think is one of the core
+benefits of using Claude code the
+ability to read write edit and delete
+files on your machine Mhm. means that
+you effectively can manage the
+information and the context that Claude
+code is using and has access to it any
+given moment and can update that
+context. Right. And now we're sort of
+like bumping up against the idea of
+persistent memory. Right? So, uh I just
+want to draw the line from like that
+seeming that seemingly simple capability
+to the actual utility and impact. Mhm.
+Um
+so,
+it's [clears throat] hard to sort of
+like just eyeball to see if like there
+are uh
+you know, pain points that we could
+parse into data, but I'm going to ask
+Claude code to do it anyway.
+I would love to create a CSV that can
+give us visibility into the discrete
+pain points for this selection of
+competitors as we look to get a
+understanding of the landscape for our
+business of finding distressed wedding
+venues.
+Well, so do you see the table above? It
+actually kind of already did that where
+>> it. Yeah, it like it sort of gave like a
+roll up, if you will, right? Like here
+are the common things. Oh, so you're
+saying we want it specific to each
+venue, like
+>> to get more granular. Got it. I see.
+Yeah.
+Because that's what's going to open up
+the path for us to operationalize that
+data, right? Like there's not there's
+maybe some good intelligence here, um
+but it doesn't look like we can like
+really use it just yet, right? And
+that's kind of like what I want to get
+to.
+And so, as Claude code is thinking, the
+panel here on the left, it's empty
+because this is just another view into
+the folder that the project is on on my
+computer. Right? So, if I right-click
+here and click reveal in finder,
+it's going to pull up that exact folder.
+Oh, I see. Right? So, it's a just a
+another quick tip to like identify files
+on your machine. You can right-click,
+reveal in finder.
+Um but also just to illustrate that this
+box here is just the same thing,
+different view. Right.
+>> helpful cuz you'll you know, you'll end
+up managing a lot of files. And here it
+is, right? We have our CSV
+with a ton of these different
+uh venues, and then it structured some
+schema based on the findings, right? Not
+a ton of data, 31 records, great for a
+demo just like this, but
+>> Yep. if you are working with large sets
+of data, you can uh similarly use this
+kind of approach, right?
+Um Great. So, we we sort of like we have
+a schema now, right? We've done
+research, we have a schema. What can we
+do with this? Let's now
+our business of identifying these
+distressed uh venues, I guess
+you know, we want to at some point like
+transact something, right? Or or contact
+a customer or a potential prospect or
+client, right? Help me understand a
+little bit like what the business wants
+to do cuz I want to like try and shape
+it around the goal.
+Yeah, so so his the the goal of my
+friend who does this was twofold. It was
+one, if they are in enough distress and
+they're willing just to sell their venue
+outright, then they my friend wants to
+buy it and then operate it, Okay. And
+then on the other hand, if
+they don't necessarily want to sell, but
+they're so,
+you know, grinded down from years or
+months or or however long of operating
+these venues that are clearly not
+performing well, and if they're not
+performing well, they're probably not
+making any money. So, his pitch then is
+again, we'll come in and operate it, and
+we'll spruce it up, we'll even invest in
+the property to get it up to 2026
+standards, and we'll bring in the leads,
+and we'll operate it, and then we'll
+give you a rev share, essentially.
+Okay, that's that's super helpful. A lot
+of detail as well.
+Um I'm going to do my best to sort of
+regurgitate some of that in a pithy way.
+using this data, we would love to
+identify targets for our business to
+explore for potential acquisition and
+targets for our business to explore for
+potential management partnerships or
+cooperative arrangements where we can
+have some level of control and
+management of the venue.
+So, again, I'm leaving it a little bit
+open-ended and one thing I'd love to
+showcase here is plan mode. And I'm
+going to I'm going to flip it on. So, if
+I hit shift tab here, I'm activating
+plan mode. And this is one of my
+favorite features of Claude Code. Uh I
+believe it's in Covalence as well, but I
+don't know if you can manually activate
+it in Covalence. Um
+what plan mode does, it turns Claude
+Code's capability to edit files off
+and tells Claude that you want to have
+basically a conversation to plan out
+this ne- next task. Right.
+>> And the idea is that Claude Code is
+going to then sort of guide you through
+a series of different questions to
+clarify the ask, and then it's going to
+write a plan to do this, right? And so,
+this is probably a little bit of a
+simple example.
+Uh however, I'm sorry, Corey, were you
+speaking?
+No, you're good. Okay. Um
+so, this is probably a little bit of a
+simple example,
+but
+plan mode is such a powerful tool
+because it'll help you identify
+opportunities or gaps or things that you
+may not have thought of.
+Um and there have been so many instances
+where plan mode has
+opened the door to different paths or
+different ways of doing things. It's a
+learning tool. And
+right? And again, so you hit shift tab,
+and you can see on the bottom of my
+screen the mode is um indicated here
+under the chat box.
+So,
+plan mode is on.
+Um and I'm going to hit enter.
+And you know, plan mode, you don't have
+to have a robust hypothesis or idea or
+anything. You don't even have to be
+using it in the context of producing a
+thing. You can use it in the context of
+like, "Hey, help me plan my weekend."
+Right.
+It can be super basic.
+>> Yeah, and and it really sort of like
+got me onto the um
+I've become a big fan of like guided
+experiences because of plan mode. So
+when I develop my own workflows, I try
+to enable a guided experience.
+And I think and not to get off on a
+tangent, I'll just brush over it
+briefly, but obviously you and I know
+how powerful skills are and I think plan
+mode within Claude code is incredibly
+useful for kind of brain dumping, the
+way that you currently do a task or
+execute a process, and then letting it
+put together a plan for creating that
+skill, right? So that I think plan mode
+in Claude code, in my opinion, is the
+most effective way to really put
+together solid skills in the shortest
+amount of time possible.
+>> Mhm. Mhm. Um and we'll we'll definitely
+get into skills. So the first question
+it's it's asking is the format. Do I
+want a CSV, a Python analysis script, or
+both? And I'm just going to go with both
+here um because why not, right?
+>> Mhm.
+Um the next question, control level. For
+management partnerships, what level of
+control are we targeting? Full
+operational takeover, majority
+management control, advisory consulting,
+or flexible? Depends on the venue.
+So it's it's my understanding that they
+are Ideally, they want full operational
+control. It's like, "Hey, we take over
+everything, you sit back and collect the
+check. Obviously we're going to take the
+majority of the profit, but it's going
+to be hands-off for you."
+>> Mhm. Yep. Uh and and you know,
+it's it you did mention that in when you
+were describing it Um and then that was
+left out of my vague ask, right? Well,
+but it's that goes to show that that's
+how good Claude Code is is it's like,
+well, hey, this is probably a key detail
+that we should fill in. What's the
+context there? And that's another
+beautiful thing about plan mode is it
+will
+ask you the questions required to fill
+in that context to actually give you a
+good output. Whereas Chat GPT is just
+going to go and answer, right? Or even
+regular Claude is just going to go and
+answer unless you specify, hey,
+interview me to get the context needed.
+Yeah, Claude regular Claude is now using
+the question thing. I don't know if
+you've caught that. Mhm. Uh I think it's
+probably Yeah. Um meaning like when you
+sometimes Claude just regular desktop
+Claude will like flash you questions to
+click on versus answering just like plan
+mode and co-work.
+or in the UI extension we looked at. So,
+uh one other thing just to sort of call
+out here is that like if you're not sure
+or you're not happy with these options,
+you can you know, add your own option or
+you could even chat about this. Mhm.
+Right? So, you can dig deeper to
+understand like whoops, I just
+I just went a little too far here. Um
+Oh god, I'm sorry.
+Let's try that one more time.
+No worries. But yeah, again, that's
+another good thing about plan mode is
+like I've I've done that many times
+where I'll like fat finger a button and
+be like, oh, but I didn't mean to type
+that and then we go redo the interview
+and it's, you know, take doesn't take
+but a couple seconds.
+>> a way to go back. I just fat fingered
+it.
+>> And stop the whole question.
+Okay, so the thing that I wanted to
+mention though was the chat about this,
+right? So, you can um chat more about to
+get an understanding like, okay, why
+these options? You know,
+a lot of times you'll see Claude Code
+will make a recommendation in those
+options. It'll say like recommended this
+one. Right.
+>> Um so it like chat mode is great for
+understanding like, well, why did you
+recommend that one? Right? Um and
+digging a little bit deeper into the
+process. And I I'm using that more and
+more lately. Okay, so for one reason or
+another, it just skipped
+>> The plan, yeah. the questions. That was
+my fault.
+Um but let's not waste time. Let's just
+continue moving forward. So once plan
+mode finishes and gets that information
+from you, it's going to present back to
+you that plan, right? So here's Claude's
+plan, distressed North Car-
+North Carolina wedding venue target
+analysis. Um we've got pain points. The
+deliverable will be another a CSV file.
+Um and here's an overview of the schema,
+the situation,
+uh and it's created a rubric for
+scoring.
+Right? So this is sort of like what is
+responding to the nature of our ask,
+which was like, well, how do we decide
+what to do with which, right? Right.
+>> Um and so there's a scoring system that
+it's implementing here that will be
+visible in that CSV file.
+Right? And here's the uh more
+information about the venues and looks
+like some details about those specific.
+So
+normally I would like spend some time to
+read through this carefully, and I
+recommend everyone does when you're
+using plan mode, cuz you will find
+things that you might not align with,
+right? You might find things that you
+that you want to change. And there are
+simple things, too, like if you're um
+working with a project that you want to
+manage version control, it's good to say
+like, and do this on a new branch, for
+example, right?
+>> So uh after plan mode has
+presented the plan, I'm presented with
+more options.
+Um yes, clear context and bypass
+permissions. So this just means that
+it's going to start a fresh session with
+this plan.
+That's what clear context means.
+Uh so, you know, we have a full context
+window of tokens to work with. And
+bypass permissions, it's not going to
+ask me
+to move forward with like discrete steps
+or edits.
+So, I hit number one and it's going to
+go and now activate on this plan and and
+create that CSV uh analysis.
+Um and then after this is where like I
+want to, you know, nobody wants to go
+into a CSV, right? Um and you know, that
+is I think where we start thinking about
+operationalizing this information in a
+way that is engaging uh easy to digest
+and repeatable.
+Um [snorts]
+you know, and thinking about like how
+this would manifest as a tool.
+And so, Adam, I got a question. So, just
+to play devil's advocate cuz I already
+know there's going to be people who say
+like, "Well, why do you need to do this
+in Claude Code? Like why can't you just
+do this in regular Claude or like
+ChatGPT?" I mean, is there a difference
+and if so, what like what is the
+advantage of doing it in Claude
+>> Yeah, yeah, I think it's it's a really
+great question. I think
+you know, we talked about the ability to
+capture and store these files, right?
+Mhm. So, I mean, in all fairness, it's
+been a minute since I've like really dug
+deep in ChatGPT. So, the the last as far
+as I know, ChatGPT is not
+uh able to manipulate files on your hard
+drive
+uh in a folder on your machine, right?
+>> Right. So, the examples we're looking at
+here, we're creating new files, right?
+But Claude Code could go back and look
+at specific data points in here. We can
+ask it to retrieve certain things or
+change or edit certain things, right?
+So, like it's a dynamic, living and
+breathing project in that regard Mhm.
+with files that are instantly on your
+computer, right? So, I think that's one
+major difference. And again, like the
+LLMs are sort of like pushing in this
+direction or the the typical platforms
+are pushing in this direction a little
+bit, especially Claude with the Claude
+code.
+Right? There's like rumors flying around
+there that Claude code is just going to
+be the main
+>> That is just going to be Claude, yeah.
+Which kind of makes sense. Um
+And so
+uh with Claude code, you know, we're
+we're also working within a discrete
+project folder. Mhm.
+The session that I'm working within is
+can only see what I give it access to,
+which is this folder. Right? It doesn't
+have memory of anything else that I've
+done. It doesn't know uh anything else
+about me. Um this is a completely empty
+project directory. So, this specific
+session of Claude code doesn't even have
+the skills that I typically would pull
+into a project. Um right? So, all of
+that is malleable and customizable. I
+can completely customize how I want this
+project to behave. And I think that's
+also unique to a platform like this like
+Claude code. Right. Um we have the
+capability to plug in a lot of different
+tools.
+I'm sure you've heard of MCP. Right?
+>> Yep. Uh which are, you know, essentially
+integrations with outside platforms.
+Easy uh
+low-impact ways to transfer data back
+and forth, right? Mhm. So, I have a
+project where
+I have an MCP tool that pulls in uh
+website performance data from Google
+Analytics.
+Creates a report and then can, you know,
+take a number of actions based on
+the substance of that report. Right. You
+know, so [clears throat] there's a lot
+of things like that you can put together
+yourself. Um uh
+through those different things like MCPs
+and plugins and skills and things like
+that.
+So, there there's a lot, but I would say
+like those are the things that come to
+mind in response to your question.
+Um cool. All right, so what do we have?
+We have a new CSV, uh but we don't
+really want to work in a CSV. Um so,
+it's rolled this up as we were speaking,
+uh, we got a different score for each of
+these different, uh, venues. Do these Do
+these res- Have you seen these names
+before?
+>> Yeah, so it's So Champagne Manor is the
+one that we identified from our co-work
+session last week where that the owner,
+I think, just got a like is in prison
+now and it's going to to foreclosure
+sale. Right? So that was one that I even
+asked him, I was like, "Had you ever
+heard of this venue? Like would you have
+found this in your regular research?"
+And he said, "No." And the reason for
+that is because it's not like it's on
+the website that like, "Hey, we are in,
+you know, foreclosure." What Claude most
+likely did is it went out there and
+found like a social media post or an
+Actually, I think it was a news article
+about the owner going to prison and then
+it put two and two together like, "Oh,
+this guy owns this venue. He's now in
+prison. The venue's probably a good
+target for acquisition." And then it
+digs a little deeper and it's like, "Oh,
+what do you know? It's actually going
+into foreclosure." And it makes sense
+that it ranks that particular property
+with an acquisition score of 4.2 out of
+five.
+Right? And a partnership score of only
+1.2 cuz like you're not really going to
+partner with a venue that like that
+doesn't have an owner and is in going
+into foreclosure. It makes way more
+sense just to go and buy that thing.
+Yeah. Um, so Yeah, so all of the I mean,
+this is this is like I'm going to I'm
+texting him right after this. I'm like,
+"We've got a episode coming out for you.
+It's all about you next week." And I
+think he'll love it. So yeah, this is
+spot on.
+>> Let's think through like what would be a
+natural next step from this, right? Like
+we have our research, we have our
+intelligence, and
+>> [snorts]
+>> you know, one of the things that I'm
+thinking of is, you know, we can create
+a visual, uh, dossier or asset similar
+to like what might be an artifact in
+Claude desktop to better consume and
+understand the outcome here. Mhm. Um,
+and that's something I do all the time.
+Uh, Uh, one of my favorite skills is the
+playground skill. I don't know if you're
+if you play
+>> familiar, no. It's actually officially
+released by Anthropic and it's available
+through their plugins. And I have it
+installed um, globally.
+>> So, I can invoke it without installing
+it in a specific project. Um, but for
+anyone who's interested, and maybe we
+can follow up on this cuz I don't know
+if I have the exact link, but if you
+type {slash} plugins, you can manage
+your different skills that are
+officially released by Claude. Oh,
+interesting. Right? Um, and you can add
+new marketplaces. Right? So, there's an
+official Claude plugins marketplace that
+you can grab the link. You can add it to
+the marketplace uh, list here and then
+you'll have a number of different skills
+and plugins that you can
+add to your projects
+uh, through this way versus like
+dropping a skills folder in or something
+like that. Right. So, I already have the
+playground skill installed through that
+method. So, I can invoke it for things
+like this. Um,
+and just to give a quick understanding,
+playground is a skill that is designed
+to allow you to interact with the model
+in different ways. Um,
+and
+I don't want to waste too much time
+getting into the weeds on that. I'll
+just show it in action.
+Let's use the playground skill to create
+a visual dossier of each one of these
+um, acquisition or partnership targets.
+Uh, where we can get in a snapshot an
+understanding of the recommendation, the
+score, the time sensitivity with the
+right context for us to have a
+uh,
+business-oriented session on
+strategizing our approach for this.
+Okay, so I see what you're doing here
+because you're you're saying so what
+we're what we're looking at above is
+like, okay, well this is a little chart
+that basically shows of these five
+properties,
+this is the acquisition score, this is
+the partnership score, this is like a
+quick reason why Claude gave it that
+score, and it's like, that's great, but
+that doesn't really help us dive deep
+into like what really makes this
+particular property a great acquisition
+target versus this one that might just
+be a really good partnership target. And
+like you were saying earlier, we have a
+CSV that has all that data, that was the
+deliverable of Claude's work, but it's
+like, we don't really want to dig
+through a CSV. Like,
+it's hard to look at, it's hard to kind
+of make sense of it. So, what you're
+saying is now with the playground skill,
+you're telling Claude code, it's like,
+hey, basically take that CSV file that
+has all of our output and turn it into
+something that we can actually look at,
+that's actually visually appealing where
+I can kind of from a quick glance
+understand Claude's reasoning behind
+each of the properties and and really
+from there be able to decide next steps.
+Exactly.
+>> Right. That's exactly right. Like, we're
+sort of asking Claude code to be our
+analyst and, you know, do the reporting
+and and give us the qualitative
+um perspective, right? And and these
+this is a roll up, right? This is a
+summary. Mhm. So, if we click here,
+like
+you know what? To be quite honest, I was
+expecting to see a lot more. What if Oh,
+okay, there is a lot. Okay. So, you
+know, it's it's just summarizing um what
+is in that CSV to your point. Right.
+>> Like, nobody I don't want to read it.
+You don't want to read it. Um and the
+the utility of still having that CSV
+though is that like we've established
+structure, right? Like, we have
+structured data.
+And when we get into repetition, that's
+where doing that up front like or having
+that awareness up front to start with
+structured data is going to help.
+Because if I just asked for research and
+it like, you know, dumped it into the
+chat and I copied and pasted it into
+another prompt,
+you know, you're you're there's no
+structure there, right? And you're not
+building process or iterating, right?
+We're iterating here and that's kind of
+like the the through line that I I try
+to keep
+uh through these processes. Mhm.
+So, playground is going to create an
+HTML file.
+Uh
+usually it launches it automatically in
+the browser as well. It It launched it
+off screen. Let me pull it onto the And
+it tells us it's saying I'm building a
+professional
+briefing dashboard essentially. Wow. And
+that's exactly what it just did.
+Right? So, let me let me see if I can
+zoom in a little bit on it. Um right, so
+here's a overview, right? Five venues,
+two two acquisition, two partnership,
+one to monitor, uh two at high urgency,
+uh one medium, one or two low urgency,
+right?
+>> You even built in like
+um Filters. Yeah, that's awesome, right?
+And then if I click here, I don't know
+if you caught that before or Oh my god,
+this is like insane. I'm actually
+shocked by this. Right? Exactly.
+Um and so now, you know, this is
+playground um
+big
+sorry, develops this into a
+self-contained HTML file. Right. Saved
+locally on your computer, right?
+>> Yeah, all of this is just one file.
+So, like if you wanted to just send this
+file to your buddy,
+you know, you don't have to worry about
+like where are my assets, where's my
+data, right? That
+wraps it all up into that one file.
+What playground is really intended to do
+is allow you to interact with your model
+in different ways and like for example,
+if I said make a playground for me to
+tweak the UI,
+it'll actually create a tool for me to
+visualize the UI and like slide things
+around to change heights and things like
+that. That's sweet. I I'm like I'm
+literally pulling up cursor on another
+screen right now to install playground
+as a plugin.
+>> then and then like playground what
+happens is like it gives you a prompt to
+copy and paste back into Claude code
+with like all of the minutia and details
+of things that you change, right? Like
+change the font 24x or something to
+that, right?
+>> So again, I'm just trying to like I'm
+stretching playground into use cases
+that I don't think it's typically
+designed for, but something I've gotten
+a lot of mileage out of.
+I mean this I really hope for the folks
+listening on podcast that they switch
+over to YouTube because this is a really
+I mean we didn't even tell it to build a
+dashboard. We just said like, "Hey, give
+us something that we can visualize." And
+it went in and built like a fully
+functional dashboard
+with filters, with tags, visual like
+ring style diagrams of like of the
+I mean yeah, it's tagged as like
+operational failure, operating under
+duress.
+And then I like how it has a a next
+steps recommendation for each one, too.
+>> that was part of the ask, right? Because
+the ask included like, "Okay, like help
+me plan my my working session to
+strategize this, right?"
+>> Right. And then it even included a way
+to copy that to the clipboard.
+Wow. Yeah, pretty awesome. So again,
+that's the playground skill, official
+Anthropic release, way under the radar.
+Um so what do we do from here, right?
+Well,
+what if we wanted to branch out into
+other states? Mhm. You know? We could.
+>> What if like you okay, we've conquered
+North Carolina, what about South
+Carolina?
+Right. Right?
+Um and this is I think where we start
+thinking about skills, right? Cuz now
+we're thinking about repeating this
+entire process.
+You know?
+Um and so
+I would
+from here and to be clear like, you
+know, we are like for the sake of the
+video I think like we're going we're
+going fast, right?
+>> Mhm. I
+I would put more thought and care into
+the individual steps.
+But, like you know, generally this is
+the approach I think. Right.
+So, let me think about this for a
+second. So, we want to wrap we want to
+be able to repeat this process for other
+states, right?
+So, is there anything before we do that?
+Like is there anything else on the
+dashboard? Let me Where did I did I lose
+it?
+Is there anything
+>> see VS code right now. Yeah, yeah. I
+think I might have closed it. My like my
+right click is not working so I want to
+open that in the finder. That's strange.
+Anyway, one thing that I thought like
+was missing was like links, right? Links
+to maybe their their reviews, their
+their homepage.
+So, I want to add that in. So,
+please update the
+HTML the
+HTML with
+per venue links to their homepage,
+include their contact information, and
+if they have a Google review Google
+business page with reviews, include that
+link also.
+Cuz that'll be
+easy for us to then like not have to do
+those extra steps when it you know, when
+the time is right. Yep. And then when we
+want to create a repeatable process, we
+we have those details included as well.
+So, yeah, like the the it's a very
+interesting
+focus, right? The the wedding venues.
+Like a lot of you know, the purview that
+I have typically are you know, companies
+that are very digitally native. Right.
+Doing a lot of like
+digital marketing through emails or
+landing pages and you know, funnels and
+things like that. So, like the I
+appreciate like this this uh
+unique vertical cuz I think it like, you
+know,
+it's challenging to to sort of like
+pivot in that regard
+because like where I envision this going
+was like, okay, now we could repeat a
+landing page for these different
+competitors, right?
+but this is a little bit different and
+and I really enjoy this uh
+it's very unique to what I'm usually
+doing. Yeah, and I figured too. I was
+like, well, this is one we were just
+working on this week in Claude work.
+Let's see if Claude code can go even a
+little deeper.
+And you know what I my next step here
+would would probably be even saying to
+Claude code it's like, hey, that that
+workflow that we just implemented to
+find these venues in North Carolina,
+let's turn this into a skill so that we
+can replicate it at the city level or
+the town level and then of course at the
+state level as well. And a lot of times
+it's like, great. It just does it and
+then you run it once,
+see how it goes and then if there's
+tweaks to be made, you just tell it to
+update the skill accordingly.
+Yeah. Yeah, yeah. Mhm. And and um I do
+that all the time. Like refine and
+update skills and some frequently like
+we'll go in there manually, right?
+Because if you open a skill and I guess
+we can look at this once we make the
+skill. Like if you open it, it's a
+markdown file, right? Which is
+essentially text and it's written like a
+prompt, you know? So, you can you have
+the capability to be surgical
+if and where you want to. Yeah.
+Um and it's also like very
+uh I would say productive and and
+helpful to just sort of like get that
+familiarity of how a skill is built,
+right? Just sort of like over time, you
+know, as you as you read them,
+you get that intrinsic understanding of
+how a skill works and it's going to make
+you so much better at designing your own
+skills over at Absolutely.
+>> So, what's happening now? It's it's it's
+using Claude in Chrome. Uh so, it could
+I think it's controlling a browser in a
+different I have a different desktop
+instance somewhere. And I think it's
+controlling a browser there. Um
+but one of the great capabilities they
+added recently to Claude code and I
+think it's in all the Claude projects
+now or products is the ability for it to
+take control of your browser. Yep. Um
+I've gotten so much mileage out of that.
+And sometimes it'll just do it on its
+own. I think like it is now.
+Um while it goes and collects that
+information, let's think about the next
+prompt. And I think after this is when I
+would be inclined to turn it into a
+skill. Mhm.
+We did basic research at first. We
+created structured data from that
+research. We
+evolved that into a analysis with a
+scoring rubric. And then we created a
+visual presentation
+uh to enable us to like actually use it,
+right? Yep. And that was a lot of steps.
+And we can basically
+repeat that in one command through the
+magic of a skill.
+And skill there are skill creator
+skills. Yep. Anthropic has an official
+skill creator skill, which I think can
+be accessed the same way.
+Through {slash} plugin.
+It's thinking now. So, it's it's
+effectively queued up. But you can the
+same way that we looked at how to get
+the playground skill, I believe you can
+get the skill creator skill that way as
+well. Yeah, it's just what {slash}
+command {slash} plugin. Yeah. But you
+might need to grab that URL for the
+Anthropic marketplace. I don't know if
+that's built in or not to be honest. Um
+and there's a lot of like, you know,
+community and and user made skills and
+and marketplaces out there as well. Um,
+I encourage scrutiny because like, you
+know, there's some I've heard some
+horror stories of security issues. I've
+never experienced that myself. Just know
+where your things are coming from, I
+guess. Like if you want a skill, make
+sure you trust the source. Yeah, don't
+just go and download random skills off
+the internet, especially if they're not
+if they're not from an approved source,
+like you said. So, that's that's good
+advice for anyone. Um, and then as far
+as skill creation goes, a lot of people,
+including myself, have created their own
+skill creator skills that are a little
+bit more advanced than the one Anthropic
+provides.
+Um, and I wouldn't say it's a necessity,
+but if you feel like you're not getting
+what you need out of the official skill
+creator, just go create your own. Right.
+Cuz then you could be prescriptive about
+the kinds of skills that you want. Yep.
+You could even create a skill that is
+specializes in specific types of skills.
+Um, and I don't want to overcomplicate
+things. The point of what I'm saying is
+like it's totally white space. Yes. And
+like there's very little risk to
+experimenting.
+Right? Um, and so it's it's worth your
+while cuz you're you're going to learn
+something one way or another. Right,
+100%. Uh, is it stuck on this one the
+one property here that it's researching
+on the browser? It might be. Um, let me
+let me give it like a yeah, 9,000
+tokens. It's not moving. Let's um,
+I'll stop it right there.
+And what I want to do, too, is I I want
+to have you back for a follow-up where
+we can go deeper into skills because, I
+mean, again, I think we're in agreement
+that skills is going to be one of the
+most critical
+as well, skills to learn and then over
+the next, you know, few years is how to
+build skills, what type of skills to
+build, uh, how to construct them the
+right way, how to iterate on them. So, I
+mean, as far as for today, I think this
+is a great example as far as like an
+intro to what Cloud Code can do. And I
+mean, people listening can use their
+imagination as far as where they want to
+take it from here. Like we said, you
+could turn this
+this uh research process into a skill so
+that it's automated and happens the same
+way every time. You could then take it a
+step further and say, "Okay, well, next
+we want to find contact information for
+these venues, for example." And then it
+can go out and do that. And then you can
+turn that process into a skill, the
+process of actually finding the contact
+information. You can really take it all
+the way down the chain. I mean, you
+could have it, you know, you could have
+a skill where, "All right, every time
+you find a new venue, you put together a
+three-page PDF proposal uh that we can
+then use in our presentation to the
+venue." Like there's a million
+directions you can go with it.
+>> Yeah, you could even set up like a cron
+job, right? Like have
+a a time-based or time-triggered
+workflow that executes like once a week
+and, you know, says like, "Hey, find me
+all the new distressed venues in, you
+know, the Southwest or something like
+that, right?" Yep.
+So, yes. Uh and you can chain them
+together. There's a ton of
+opportunities. I know I know we're like
+we're we're using a lot of time here.
+So, I just asked it to add whatever it
+found to the existing um HTML file.
+Um and while it does that, oh, okay, it
+just pulled it up again. Sorry, it
+Do you still see me? Yeah, I see it.
+I see the dashboard here. Okay, cool.
+so, it should have added contact
+information where it was able to find
+it, but we kind of cut it short, but
+here it is, right? So, we got the
+address, we got the phone number, we got
+an email address. We cut it short,
+otherwise we might have gotten some
+other stuff that we asked for. Um and
+then from here, let's move on to the
+skill. So,
+it's I'm going to give you it's it's
+like mind-bogging mind-boggingly simple.
+Create a skill that can perform the
+research, the analysis, and create the
+dashboard visual just like this that we
+can run
+for any state or city.
+And I'm going to put this in plan mode,
+um which I highly recommend you you do
+when you are creating skills because of
+the same reasons that we mentioned
+earlier where, you know, there might be
+details that you not you haven't thought
+of or
+you know, there there could be blockers
+that would prevent this from just moving
+forward. You might not get the outcome
+you want if you don't use plan mode.
+Might get confused. Um
+AI still hallucinates, still gets things
+wrong, uh still gets confused. Um I
+always like to tell people like use your
+instincts, right?
+>> Yes. Right.
+>> in instincts. If you feel like if it
+smells fishy or something doesn't look
+right, like don't just you know, Don't
+just assume it's right, right? All the
+time I'm correcting and and finding
+things and, you know, instincts are are
+critical here. Right. And let's see if
+we can speed run this skill creation
+just because we've got a hard stop here
+in a couple of minutes. And if not, like
+I said, I want to have you back in the
+future for
+for a skill specific episode.
+Yeah, yeah. Um I wish I could like turn
+a crank and make it go faster. I know.
+If if it's if
+I could always like record a follow-up
+video and send it to you if you wanted
+once it's finished if you're if you have
+to cut it. Um
+Yeah, I'd say let's go ahead and cut it
+here just because we've got another
+recording here in a couple of minutes,
+but this has been fantastic as far as an
+introductory lesson for
+for folks getting into Cloud Code, kind
+of how it's set up, how to
+really just how to get your feet wet,
+right? There's a million different use
+cases out there. Absolutely. Like I
+said, it's it's very simple. Like I do
+think it's it's going to be ubiquitous.
+Right. Um, one thing we should just
+throw in there about skills is that
+skills is an open protocol. Mhm. Uh,
+Google's products are using skills. I
+think ChatGPT products are using skills
+to as well.
+>> Yep. Right? So, like you're that those
+are transferable to other um, platforms.
+Absolutely.
+>> And so, I think that's just sort of like
+a signal
+to what you said, like they're not going
+away and and it's going to
+I think
+be more prevalent as time goes on.
+Right. And I think I think what people
+should take away, if they only take away
+a couple of things, it's one, just
+download an IDE, whether it's VS Code or
+whether it's Cursor, and just get into
+Claude Code and just start messing
+around with it. And then, two, just
+create a sample skill. Take anything you
+do on a daily basis, doesn't matter how
+big, how small, and turn it into a
+skill, and then just iterate on it over
+time. Mhm. So, that's that's my
+feedback.
+Absolutely. Um,
+yeah, it's uh, cool, man. This was this
+was great.
+Yeah. Well, Adam, it's been great having
+you. So, uh, where can people find out
+more about you and and follow you? So,
+Adam Sandler was taken. So, um, you can
+find me at viableedge.com is my website.
+Um, and I have a lot of uh,
+marketing-related content uh, as in
+regards to AI
+uh, and the gen-tech marketing
+workflows.
+Um, you can find me on YouTube at
+viableedge. Uh, I'm also active on X at
+the viableedge. And um, LinkedIn, I did
+manage to get Adam Sandler. Nice. Yes,
+so you can find me at Adam Sandler on
+LinkedIn.
+Beautiful. Well, Adam, thank you so much
+for your time. And for those in the
+audience, we'll be back next week, as
+always. All right, Corey, I really
+appreciate it. Thank you so much.

@@ -1,0 +1,265 @@
+If you're creating
+elaborate prospecting tables and adding
+personalization to the first line
+just to get more responses, you
+might actually be hurting
+your results.  Because the simplest campaign we
+'ve ever sent generated
+a 40% positive response rate for one of our clients
+, and 60% of
+those turned into
+qualified meetings.  And at the end of this, you'll see
+why most people
+overcomplicate cold mailing and
+exactly what to do instead.  In
+fact, I am the founder of Velocity Flow
+, where we create, run, and
+manage these campaigns for many
+different clients across various
+industries.  And this campaign is one of
+the clearest examples of what's
+really making a difference right now
+in 2026. Look, this is what
+most people do when they
+try to schedule meetings through
+cold emails.  The problem is that
+most people spend hours trying to create
+personalization, whether it's with
+LinkedIn posts,
+company news, or literally whatever they can
+find.  And then the email
+ends up loaded with context and feels
+like a sales pitch from the
+start.  And the moment the
+email feels like a
+sales pitch, the person becomes
+defensive.  The person on the other end
+has literally seen thousands of emails
+with the same first line.  "I saw that your
+company published about..." or "I just
+saw that your company achieved such a goal"
+.  Literally everyone does that,
+so everyone knows what comes
+next.  No one answers.  The campaign I
+'m about to explain to you did
+exactly the opposite.  The text was
+short, direct, and to the point.  And instead
+of trying to customize the content,
+we let the trigger do the
+heavy lifting so that the text
+could be as simple as possible.
+Now, our client is a
+selection and recruitment firm,
+so they use a
+hiring trigger to help us
+find companies that were trying to
+fill vacant positions in the last
+30 days.  Now, if you go to the screen
+here, we did it through Apify.
+That's apify.com.  We were looking for the "LinkedIn
+job scraper", and this one is from GenFirst.  It will
+look something like this.  You have to create an
+account first, and then it costs
+around $4.33 for every 1,000
+results.  It's not the cheapest, but
+the results and quality it offers
+are really good.  Once
+you're in the "LinkedIn job scraper", it will
+look something like this.  This is exactly
+where you'll place your filters to
+find the customers you're really
+looking for.  So, what we did in
+this situation, we obviously didn't do it
+10 records at a time.  I'm only
+going to do it this way for the example in
+this video.  But we did a maximum,
+let's say about 6,000, I think it was
+about 6,000 or 7,000 records that we
+were looking for.  We entered
+multiple positions for our client
+who was
+actively looking to fill those roles.  And
+then we select our location.
+Again, this is just one example here
+.  So I'm going to choose California.
+We selected your contract type, whether it
+was in-person, hybrid, or remote.
+We selected your type of employment, which in
+this case will be full-time, and the
+publication date.  This is
+probably one of the most
+important parts, the last 30 days,
+so we chose the last month.
+You could also choose the last few
+weeks, or the last few days.  Just for
+the sake of this example, I'm going to
+select the last month.  Now,
+we also select your
+experience level, whether it's an internship,
+entry-level, mid-senior,
+director, executive, etc.  Now, I usually
+skip this part here
+because we already put California above,
+so there's not much point in using it.
+But, something we did use for this
+campaign specifically is that
+our client was trying to target
+people in a specific location.
+California is obviously super big,
+right?  So, let's say he was
+trying to target companies in Los
+Angeles, for example.  You can enter the
+distance, indicating how far that
+post was from Los Angeles.  That
+basically attracts companies that
+are within a certain radius of that
+location.  So, after putting
+all our filters here, we
+simply click save and
+start.  And then what this will do is
+extract the jobs from LinkedIn and
+basically generate a complete CSV file
+of companies that are
+actively hiring in the last
+30 days.  Okay, now as you can see
+here, these 10 jobs have just
+finished loading.  Now, obviously
+we're going to verify our search.
+Okay, so this one is in California
+.  All of these are in California for
+software engineers, full stack in
+San Francisco, and so on.  Okay,
+perfect.  Now, what we're going to want to
+do is click on export.  We're going
+to export this as a CSV and then
+click download.  Okay, once
+we've exported the list,
+then we'll go to clay.com.  Let's
+click on tools here.  This
+is in a table here, so just
+open a table and click on
+tools.  We import the CSV and
+we're simply going to drag the same
+CSV that we just downloaded from Appify
+.  Let's click on continue.
+Let's select all the fields we
+want.  So, we'll
+select them all, then
+add them to the table and save
+without running.  Then, once
+we imported the CSV into Clay, what
+we did was add a GPT column
+using Clayja, and this is the
+exact message we gave it.  You are a
+research assistant who helps
+identify the
+most likely hiring manager for an open position
+obtained from a
+LinkedIn dataset.  You will use the
+company name, job title, and, where
+available, any
+public references accessible from the
+job's LinkedIn URL.  So,
+essentially, what this will do, I'm
+going to show you so you can
+pause it and use it yourselves.  Or
+they can simply go to Sculptor and
+tell him exactly what they're
+trying to do.  It will search for these
+people in order of priority, as
+you can see, and then it will have
+selection rules, data extraction requirements
+, and so on.  You can pause this
+if you want to use it yourself.  And
+then we would use that, and essentially
+go and track the
+company's LinkedIn profile.  I would find the
+active hiring manager of that company.
+I would get their LinkedIn profile and their
+professional email address.  And
+then, obviously, we would use
+professional email to
+contact them.  If you really want us to
+build, run, and manage
+these campaigns for your business, you can
+click the link below and
+book a free call.  But
+now that we achieved
+correct segmentation, the next step was to create
+a message that didn't sound too
+generic.  You'll be surprised, but of
+the three different variations
+we used, the shortest email had the
+highest
+conversion rate.  It just said, "Name, if
+we could fill your vacant position,
+for example, software engineer, if
+we could fill your
+software engineer position in the next
+X days, would you be interested?"
+We use that interest-based call to action
+, too, not "Do you want to
+book a call, XYZ?"  The best
+calls to action we've seen
+work are
+interest-based, so that's something we've
+applied here as well.  And we started
+with the offer, and that's why I think
+this text performed the best
+of all.  Now, the other
+text we used didn't work
+as well, but it still got a lot of
+interesting responses.  It was, "Hi [
+Name], I noticed you're hiring
+for the job. It looks like you're
+looking for someone with experience in X and
+Y. I just interviewed someone with
+exactly those skills.
+Would a brief chat be worthwhile?" The
+other one we also used was, "Hi [
+Name], I just placed a
+software engineer at
+a company similar to yours in X
+number of days."  I saw you're
+hiring for the same position,
+thought it would be worth a
+quick note, open to a brief chat.  It's
+crazy because if you look here, this
+was the shortest and it was the best
+performing.  This was the second
+shortest and the second best
+performing.  This was the longest and
+best; they all still have almost the
+same number of words.  It's just because of
+the way it's structured.
+This is a
+normal cold email format, but this one looks like a
+Slack message from someone who's
+writing to you, and I think that's why it
+worked better.  Now, the
+main reason this campaign had
+such a high response rate is
+because the targeting was accurate and
+the offer and copy were well-
+tailored.  Because if you think about it, when
+someone is actively hiring and
+you reach out with a short message
+saying you have the position they're
+looking to fill and ask if they'd be
+interested, it's almost a no-brainer
+.  And the people who actually
+responded to that message, nine times out of
+10, were already receptive
+because they probably
+hadn't filled that position yet.  They had
+that problem at that time, we
+had the solution and we solved their
+problem.  Segmentation based on
+triggers and a short,
+impactful text that generates curiosity.
+Now, if you want to know how we came up with
+this offer and the creation of the text,
+you can click on the video here and
+watch the following video where I go into more detail about
+how we think about creating
+texts.  I'll see you in the next video.

@@ -1,0 +1,1574 @@
+systems.  So, for
+everything you're
+trying
+to systematize in
+your business, we
+now have AI, of course.
+So where can we
+implement AI into
+systems?  What are the best
+use cases we've
+seen where it really makes
+sense to
+implement it,
+especially when it
+comes to your
+personal brand with
+agent-like AI that
+can do the
+work for us?
+We now have one tool
+that can
+do most
+of these tasks for
+you, and that's Claude.  Therefore, this
+presentation will be
+dedicated to things that
+I have researched and that
+I believe are
+relevant and
+worth noting.
+I've
+been testing a lot of
+code-related stuff in recent months.  I really
+dived into it
+and tried out
+all those things you
+see on Instagram now
+where everyone is bragging about what
+they've built
+with code.  I
+literally and sincerely
+tested them to
+find out: what is
+actually worth
+implementing in
+business, especially when
+we are developing a
+personal brand, and what is
+just noise?  Because that's the
+thing: as a
+business owner, you're
+busy.  You don't have
+time to figure out what's
+really worth it
+and what's not.  The cool thing for
+those of you who aren't
+very AI-savvy
+is that
+you can now
+integrate Claude with
+a lot more
+things than
+you think, thanks to MCP
+.  I won't go
+into technical details because I do
+n't think it's worth
+it.  Also, I don't
+think I'm the best
+person to explain,
+but the idea is that
+now it can
+integrate
+directly into all the
+applications and many
+external systems
+that you
+use.  Before I
+dive into the
+technical aspects, in
+fact, before I
+jump into the three
+specific
+use cases that I've
+highlighted, I want to
+give you some
+principles for
+implementing these
+tools, because I
+think that's exactly what
+you need to learn.
+I'll name my three
+personal favorites,
+but I want you to
+understand how I
+approach
+using AI and where
+I think it's
+appropriate.  How I
+conclude:
+"Okay, it's worth it."
+I can spend
+more time
+figuring out how to
+implement this
+system.  Again,
+as I said,
+updates
+appear
+literally every day.
+Every day you see
+something new.
+Everything changes every day.
+Okay, my
+number one principle: don't
+fall into the trap of
+implementing AI
+for AI's sake,
+look at where it
+actually fits
+into your workflow.
+Look at what actions in
+your
+workflow or
+team's workflow can be
+automated, and don't
+try
+to implement
+any trendy AI
+agent or new AI
+technology just because
+it's something new and
+shiny.  I was recently
+talking to
+one of our
+clients about this, as we have
+built a very
+advanced system with a
+CLO to do
+content research
+for you, as well as
+script writing.  And this person
+came to me and
+said, "As for
+the scripts, it takes me
+almost more time to
+set up
+the context that
+you were talking about to
+rewrite things,"
+even though I really
+like the
+scripting part.  I
+replied: then don't
+implement it if
+it doesn't make sense for
+workflow.  Unless it's
+something specific.  Just because
+I showed you how to
+do it and proved it's
+possible doesn't
+mean you
+actually have to
+do it.  So, first,
+understand what is
+implementing into your
+workflow
+based on what you
+do.  And don't
+try to do the
+reverse process,
+like, "Hey, there's this
+cool thing."  "
+Let's see
+if I can adapt
+my workflow
+to implement this
+cool new thing."  And
+second, have each
+department of your
+business take the time to
+figure out what
+parts of their
+can be replaced by
+artificial intelligence.
+You don't have to
+do it yourself.
+You have different people and
+different team members
+working on
+different operations.
+For example, Jonathan,
+our
+appointment specialist, also
+did this for his
+direction.  He began to
+research this and
+study the aspect of
+appointment scheduling.  Hey, are there any
+really good
+cloud integrations
+that we can
+use for
+scheduling
+meetings so that,
+for example, some of the
+introductory messages
+that get really
+repetitive, or the
+follow-up actions that
+get repetitive
+for those specific
+leads where I know
+I just need to
+send a
+question mark, can be
+automated?  And
+then I can
+free my mind and not
+focus on
+very repetitive and
+simple tasks, but
+I can
+focus more on
+priority
+tasks,
+understand better and
+spend more
+time on conversations that
+require more
+nuance and context,
+where
+my expertise is actually needed.
+And I sincerely believe that this is how
+everything will
+develop in
+the future.    The
+traditional way
+you have employees
+or people inside
+your business who, over
+time, move into the
+role of managing
+other people.  I think
+many companies
+will move towards
+scaling
+by choosing a new path:
+from employee to
+manager of AI agents.
+So, it is appropriate
+to mention the approach here when
+you invite people from
+different departments of
+your business,
+employees
+in different
+positions, to learn AI
+for specific
+tasks.  This will allow them to reach the
+point where they
+will independently manage
+AI agents that
+will later replace
+some of their
+duties, because they will
+not replace the
+employees themselves if they
+are valuable members of the
+team.  They
+will simply give them more
+leverage.  The
+same applies to you
+as a business owner.
+If you can
+delegate certain
+things, automate
+them, or entrust them to
+AI agents, you
+get more
+opportunities for
+development.  You can
+where you are really needed
+, where you need to think,
+apply
+critical thinking,
+or use
+your experience as a
+business owner.
+Now I'm going to focus
+on three specific
+examples that I
+highlighted that
+I found very interesting and
+that we actually
+use
+to this day, and they're all
+essentially built on
+Claude.  So I'll
+show you those too.  The first
+is
+content research.  Okay,
+takes time and
+can be easily
+systematized.
+So, the idea is
+exactly that.
+Pay attention to those
+tasks that are
+based on numbers and
+very logical steps
+that do not necessarily require
+deep context.
+Because in this
+case, for example,
+for us depends a lot
+on numbers.  So how do we
+approach this?  We
+are looking for deviations.
+We look for content
+that performs significantly
+better than
+other
+content from the same
+person.  This is a very
+logical process.  It's a
+very consistent
+process.  This
+can easily be delegated to AI
+because it
+literally
+only needs to look at
+the numbers.  They need to
+open an Instagram profile
+, look at
+the numbers, okay?  And
+now Claude can
+do it, thanks to
+Claude's integration with Chrome.
+Of course?  That's why I
+say that now Claude
+can interact with
+all these different
+programs, and it
+can just
+browse everything for
+you, because that's basically what
+I'm
+talking about.  This is a task with a
+very low
+efficiency factor.  This is a
+low-
+efficiency task: searching for
+ideas by opening
+Instagram and scrolling through your
+feed, or delegating
+it to someone else.
+Maybe there
+is someone on your team who
+does this for you.  But
+then again, why would
+they spend two
+hours scrolling through
+Instagram when they could be
+running this process
+while they sleep,
+right?  And they could
+other tasks with a
+higher
+efficiency factor.  Maybe
+they could
+writing scripts directly.
+I'll quickly show you
+live how it
+works.  I won't
+show the whole
+process because it would take
+too long.  I
+will also show you the
+final result.
+My code is already open
+here.  OK.  And I'll
+quickly show you everything now
+.  This is literally
+the same task
+I just ran, but
+I want to quickly
+show you by
+creating a new one.
+Okay, I'll show you
+how it works so
+you can get a quick
+idea.  We have our
+"virus scout"
+.  In this case, we
+created it as a clone of
+-skill, which is very simple.
+It's just a set of
+instructions, and you'll
+have
+access to that too.  I'm giving very
+little instruction here
+because, again,
+little context is needed.  So, I
+literally just
+say, “Hey, find
+two unusual videos on your
+Instagram Explore page in the
+content
+marketing or
+personal branding niche
+and share
+the links with me here.”
+Now it has a
+lot of context—this is a
+skill that I created—but
+I'll just
+press Enter and it will
+start doing this
+task in the
+background.  So that's
+its strength.  As you can see, I
+already have everything
+open here.  It
+will open a new tab,
+and again, I won't
+process, just to
+give you an idea, and
+then I'll show you what the
+final
+result looks like.  It
+loads Instagram itself
+if you are already logged in
+.  It will open
+the page while taking
+control of the
+Chrome browser.  So,
+he can just
+do it for me.  And
+again, here I have
+already created a skill
+that has a set of
+instructions.  So he
+knows what to look for.  He
+knows what an "
+atypical case" is,
+it's a kind of
+definition.  And that's the
+context I'm
+giving it.  He will literally
+start flipping through my
+Explore page or
+searching for those
+keywords.
+Will try to find people
+who actually talk
+about this specific topic.
+It will find these videos,
+compare them to the
+profiles of these people, and
+determine whether it is
+atypical content.
+Okay, as you can see, he's
+literally flipping through the
+tape.  He is looking for "
+personal branding".
+He will now open
+the video.  Again, I
+won't show the
+whole process because it would
+take a while, but
+the idea is that all of this
+happens while I'm
+doing other
+things.  It can
+run in the background
+while you
+do other
+work, or even
+while you sleep, if it
+has all the necessary
+permissions.  Therefore, I
+strongly
+recommend that you
+test these
+workflows beforehand.  But,
+as you can see, he
+literally flips through the feed for
+me
+in search of content.
+It will open a bunch of
+links, select
+ideas, and you can, of course,
+run it
+right now.  Of course, I
+instructed him to
+find me two
+content ideas.  This is not a
+very good request.  This is
+just for speed,
+but you can
+literally say,
+provided you have
+enough credits
+to run.  Hey,
+give me 50
+content ideas, let
+it run overnight, and
+it will find you 50
+great pieces of content
+that are truly great
+because they're
+data-driven.  He only needs to
+look at the numbers
+to understand
+the context, because there are
+captions, descriptions, and a
+bunch of other elements
+that can be
+used to
+identify
+personal branding
+.  So now I'll quickly
+switch to the chat I
+already had.
+As you can see, it
+performs all these
+tasks.  And here is
+the result, for example,
+for what I
+ran earlier when I was
+testing.  I leafed through it
+for a while.  He
+found these two
+links and gave them to me
+.  When I
+first
+set up this
+feature, I based it
+on our Notion,
+which we
+use to
+generate content
+ideas.  Most of
+you are familiar with him.  So
+the instruction I
+gave him was that
+I could add a
+link to the
+Notion database and he would do the
+research
+and add all the
+links there.  Link
+to the original
+source, a title for
+it, and I can
+look it up later.  As
+you can see right here, in
+this case I
+just asked him
+to provide two sources, and
+he gave them to me here.
+He gave me the numbers
+.  He told me
+how
+outstanding the material was.
+I'm just going to stop
+this task now because it's
+going to take some time.  But
+as you can see, it
+literally finds
+content related to
+and content
+marketing and
+does the
+research for me.
+So that's really something
+I would use.
+Again, as I
+said about our
+workflow, we also
+scroll through our
+Instagram feed a lot.  So I
+constantly have
+new ideas
+that I save.  But
+if I had to
+stop and
+spend two hours
+flipping through the tape,
+risking getting "stuck"
+for hours and losing
+productivity, I could
+just run
+this and it would do the
+work for me.  Very,
+very simple.
+Does it know not to
+show
+content you've already
+seen?  Because now
+my virtual assistant does this work
+, and she, of course, knows
+which videos she has already
+shared with me.
+Yes.
+So it doesn't
+repeat itself, and it
+does the same thing.    This is where
+the idea of
+using
+databases comes into play.  Now I'm
+showing you the
+simplest version you
+can create, and
+it will literally
+search profiles to
+compare them to
+views.  But the idea
+I mentioned is
+can give it
+access to your
+database in Notion so that it can
+scan
+your saved content ideas and
+them.  So if you
+pull that out separately,
+it can just
+do those
+checks.  Of course,
+the other thing is that you wouldn't
+want to run it like this
+—that's another
+point, because there are
+many different
+approaches to this.  You
+can—now I'm
+running this at a very
+basic level.  I'm
+just running this in
+free mode.  I
+say, "Hey, go to the
+review page and
+look for something."  The way
+we initially
+set things up, but it would take
+too long
+to show here, is to
+create a database of
+authors so that the program
+has specific
+profiles that it
+looks at to
+find atypical
+content, and we
+expand this
+list over time.  So,
+essentially, it's part of a more
+complex system,
+but I think it's the
+most suitable
+solution for
+most people.    A
+more complex system
+starts with
+the authors.  It
+conducts
+research,
+finds profiles of
+authors who
+discuss topics similar to
+yours, collects them,
+and then you can
+run
+it periodically and add new
+authors.  So she
+will check this
+database, see
+which authors she has already
+found.  will conduct
+research and
+find new ones.  And
+then you can
+implement this for
+a list of creators that you're
+constantly updating, and
+it will look for new
+ideas for content, and
+also compare
+them to your
+idea database to
+first check if
+it hasn't found
+these videos already.  Again
+, there are stages and
+levels here.  You can
+make it
+more difficult.  You can
+add more
+filters.  I
+can also configure
+it to
+filter by
+certain
+keywords, for example.  I can
+say, "Hey, that's cool."
+You find me things
+related to
+, but a lot of them are
+too focused
+on business or
+scaling, and I
+might want more
+content about
+filmmaking, so
+I can specify
+additional parameters.
+Then you can
+teach it, and what's
+interesting is that these "
+skills" are essentially a
+list of instructions.
+So when I first
+created this skill, I
+tested it.  I
+ran it, and when there
+were any
+problems, I said, "
+Hey, fix this in the way
+you're doing
+the task, and then
+upgrade the skill."  And
+Claude literally gives
+it to you in a way that you
+click a button and
+update your skill
+so that it has a new
+set of instructions
+that includes this new
+instruction, so you
+can build on it
+.  This is the most
+basic version,
+where I just told
+him, "Hey, find some
+viral content in
+this niche."  This is the
+simplest version,
+but you can start
+with a database of authors
+that you specifically
+created—
+I have another skill for that—
+and you can also
+ask him
+to compare that to your
+idea database if
+you want.  The second
+option is actually
+very interesting.  I just started
+researching this
+recently,
+so I have
+n't talked to any of you about it yet.
+This is a montage.  We are
+getting closer to
+that.  I do
+n't think we're there yet, but it's
+really, really interesting, and it
+really struck me,
+because they're starting to
+implement
+integrations between
+agent-based AIs
+like Claude and editing software
+like DaVinci Resolve.
+So, there is Resolve MCP.  This is something that
+someone
+programmed so that you
+can plug in and
+have Claude
+communicate with DaVinci
+Resolve, the
+editing program, and give it
+direct instructions.  The cool
+thing about this, again, is that
+you
+can
+systematize the
+process.  So, for
+example, I'll
+show you what it's
+capable of now.  There are
+very monotonous
+tasks to be
+performed in editing,
+and you can add this
+to your
+team's skills to
+increase their
+efficiency.
+For example, your
+editor needs to
+process two
+hours of video and find
+all the pauses.  Maybe it's
+multiple
+timelines and videos where you need to
+find all these
+silences.  Now you
+can do it
+with this
+program.  You can
+give her instructions.  I'll
+show you quickly.
+Of course, on a shorter
+video, not a
+two-hour one, because
+otherwise it would take
+forever.  You can
+give her a set of
+instructions.  I'll start with what's a
+step
+earlier—a very
+simple
+color correction.  Let's say
+I need to
+convert all my
+clips.  They are very
+flat.  They are shot in
+log format.  So they're
+really, really dull, and
+color them in and
+do some basic
+correction.  So let
+'s say this is my
+clip.  OK.  And here is
+my code.  I'll just
+take this, which was a
+test I
+ran earlier.  And I'll
+just create a new
+task.  And I'll just
+tell him, "Hey,
+use Resolve MCP," which is
+what I have installed,
+"access
+Timeline 3," which is the
+timeline that I have
+open, "and
+convert the clip from slog 3
+to rec 709," which means, "
+convert this grayscale
+image," which is the
+format that we
+recorded in, "to
+normal color."  I'm
+launching it.  This should
+be pretty quick.
+So I can show
+you live.
+This is essentially a
+code-based communication, the technical
+part behind
+the scenes doesn't
+matter, but it
+can communicate with the
+editing program, and because of that, it
+has access to it
+.  Again,
+this is far from
+ideal.  Because there are
+things he still
+can't do, and of course,
+it's getting better
+every day.
+For example, this is
+something completely new.
+Previously, it
+was even impossible
+to get such
+programs
+to communicate
+directly with Claude.
+You see, it's literally
+like going to a
+color page and
+applying it to
+me.  Now, again
+, is that impressive?  No,
+I could do it in a
+few seconds.  But
+if I need to
+do it at scale,
+with a bunch of clips, with
+a lot of
+repetitive tasks
+, these things get
+better.  This is what
+video editor should focus on.  You
+want them to be
+aware of what is
+possible on that side.
+So that, for example, they
+can focus
+on the creative aspect.
+They can
+what exactly we can
+do in the editing
+to make this video
+more engaging,
+instead of me
+cutting out all the pauses.
+Okay, I need to
+convert this
+clip.  Convert
+this clip.
+Convert this
+clip.  Fix the
+sound again.  All these tasks
+that are just
+repetitive and
+need to be done
+over and over again.  You
+just need to allow
+a few such background
+tasks.  It can
+do it for you.
+It will load.  In
+this case, it's
+just a set of
+instructions.  And now I'll
+quickly show you how I
+move on to the
+next steps,
+like cutting out
+pauses, which again, I
+found
+quite impressive.  It
+usually just gives
+you a set of instructions.
+You say, "Hey, cut out
+all the pauses."  It
+asks, "Hey,
+how tight do you
+want to trim
+the pauses?"  What stock do you
+want to leave?  And we
+want it to be
+very fast, very
+dynamic, because it's for
+short content.
+You just say, "
+Hey, okay, let's go."  And
+it will cut everything for
+me.  So, as you can see, it's
+analyzing it now.  And in this
+case, you just
+find different
+options.  So, of course,
+you can give
+instructions.  In this
+case, I didn't create a
+skill for this.
+So I didn't give him any
+instructions.  It has
+zero context, so
+it asks me
+questions because it
+obviously wants
+to clarify what exactly I
+want to do.  As
+you can see, it already has
+access to the
+editing software itself.  So for now I'll
+skip it and do the
+editing myself.  You
+begin to understand
+the possibilities and what
+can be done
+with these
+tools.  Okay,
+the idea is that you
+understand the principle of
+this.  I don't want
+you to get hung up on
+whether
+I need to start
+using DaVinci
+Resolve now and figure out how
+to connect this
+particular thing—that's not the
+point.  The bottom line is
+that these
+tools
+can already perform
+all the basic
+assembly tasks, and that's why I
+say: let your
+study them for at least
+20-30 minutes a week.    You
+don't need anything
+super complicated, just
+let your
+video editor explore
+these possibilities.  Give
+him a task: spend 30
+minutes a week
+exploring what's
+currently possible in AI and
+editing, just
+testing what can be
+done.  It
+took me very
+little time to
+check this out.  How do you see
+how aggressively you
+should cut the silence?
+Okay, let's be
+aggressive.  I want it to be a
+very fast
+pace for short
+content.  And now
+it is
+rebooting.
+Again, this is
+still not optimized.
+It's still relatively
+slow because it
+reloads everything and
+then loads the
+entire clip already
+cut.  But it
+works.  This is already working
+and interacts perfectly with
+the program.  So for now
+I'll just leave it
+running in the background
+.  I'll show the result
+later,
+otherwise we'll be
+stuck here.  But you
+get the idea.  Again
+, as I said,
+does this replace
+the editor?  Not yet.
+But it speeds up
+their workflow.
+And more importantly, it
+allows them
+to focus on
+creativity, not
+routine tasks.
+This gives you an advantage.
+Here is the main idea.    The
+latter is very
+interesting and extremely
+underrated.  I haven't
+seen many
+people talking about
+ice magnets.  You
+AI models to
+create and
+generate
+personalized lead
+magnets for your
+potential customers
+.  This is very interesting because
+it produces two
+results.  First,
+it exponentially
+increases perceived
+value.  If you
+create a resource
+personalized for
+each person,
+instead of
+giving the same
+simple PDF to everyone
+.  You
+personalize the lead
+magnet, but it
+still works
+at scale.  You're not
+manually creating this
+for everyone, because you're
+just training the
+AI ​​model and giving it
+enough context
+to make
+good advice—which is what
+we
+did yesterday with "Dream
+Follower," by the way.  It's built
+on this system, on this
+idea.  If you
+ask the right
+question, and I provide the
+right context
+and instructions, I'll
+simply ask you
+to fill out this form.
+But how much more
+valuable does that
+seem compared to
+if I just
+gave you a PDF of
+who your “dream
+follower” is?  Because
+it's very specific.  This
+applies specifically to
+your situation.  And the
+second point that's
+related to this is that
+it
+allows you to
+pre-
+qualify people by
+gathering
+information about them.  Did
+you find it strange or
+intrusive yesterday
+when we made you
+fill out a questionnaire
+about your “dream
+follower”?  No.  I
+want to know my "
+dream follower
+."  I will provide you with all
+the information,
+as much data as possible
+about my business and
+what exactly
+my product offers.  But it
+gives me a lot of
+context and
+arguments if I
+want to start
+a conversation with you and
+decide what
+to offer you or whether
+you are even a good fit
+for my services.  But
+it doesn't feel like a
+sale, because the goal is
+to provide value specifically
+for you.  I want you to
+... So this is another
+example of what we
+created, and I'm going to give it to
+you to
+try now.  I created an
+AI
+profile optimizer.  This is just
+a screenshot of it, and
+then there is a full description
+of how to
+build it.  I
+tested this with
+my data.  I
+filled it out, and it
+generated a
+perfect and
+optimized
+Instagram profile for me, which
+was completely
+customized for me
+and presented as a
+web page.  Okay,
+I want you guys to
+try this.  This is
+very similar to what I
+said about the "dream
+follower", it's a
+similar experience.  This is a
+similar structure to what
+we talked
+about with the “dream
+follower.”  But
+again, I want
+you to focus
+on the feeling: when you
+were filling this out, did
+you feel uncomfortable?  Have
+you ever felt like you were
+filling out a form on a
+website where I just
+ask a bunch of questions
+for the sake of questions?  No,
+because you know you
+want to provide accurate
+answers.  You want
+to provide accurate
+answers and
+as much
+information as possible.  And again
+, I just want
+you to understand
+the context and
+realize that you can
+do the same thing for
+a lot of different
+things that you
+advise people on.
+You create a set of
+instructions behind
+the scenes, the technical
+part and everything else.
+We even have a video on
+YouTube explaining
+how you can actually
+build this from a
+technical perspective.
+It's easy.  I can
+promise you this because I do
+n't know how to code myself.
+That's the power of code
+today.  You just
+give instructions and
+it can code for
+you.  The idea, again, is that
+you provide
+much more
+value and at the same time
+qualify leads much better.
+Lately, we've been
+getting the best
+leads thanks to this
+, because I try to
+provide you with the
+most accurate
+information possible.  I will not
+lie in this form.
+Whereas if you
+just gave me a
+calendar form, for example,
+to fill out,
+I would have much
+less motivation
+to enter all my
+correct data.
+Maybe I don't want
+you to know that my
+company makes
+hundreds of thousands of dollars
+and then you start
+offering me the
+most expensive service.
+But if I fill this out,
+I don't want to lie because
+it will give me
+personalized
+plans based on my
+specific situation.
+And I don't want to
+distract you, but in the
+meantime, it also
+cut out all the pauses.
+So it was happening in the
+background.  I just
+like it
+when you tell me to
+see, start with the
+feelings.  Emotions are what
+motivate people
+to act.  If you
+are selling in the B2B sector, the
+hook should be
+a result or a
+problem.  If you
+sell in the B2C sector,
+this is quite apt.  This is
+better than some
+editors that
+cut out pauses, I'm not
+going to lie, because it's
+very accurate, right?
+So you understand
+the potential of this.    Please
+fill out this
+profile because I just
+want to know your
+thoughts on how
+this
+experience feels?  Does
+it seem more valuable
+compared to a PDF
+I can give you
+about optimizing
+your profile when
+you see the
+final result?
+This is definitely better
+than just a
+standard PDF.  I can
+provide you with a set of
+instructions on how
+to optimize your
+profile.  But in this
+case, I'm taking it a step
+further.  I'm literally
+doing it for you.  I'm already
+building this profile for you
+.  Those were
+literally just three
+examples.  There are probably
+more of them.
+There are probably more AI
+agents than you
+can imagine
+that are literally capable
+of replacing tasks that
+you or
+your team members are already performing.
+Think about these
+tasks.  This is the last
+task we will give
+you guys.  Just
+think about
+can be easily done
+without thinking.  That's the
+idea.  Any
+of these tasks becomes
+more difficult when it
+requires more
+context.  This is why,
+for example, it is difficult for AI
+to write scripts for
+content, because it
+requires
+a lot of context: what
+does a viral
+video look like?  What is the
+original source?
+How will this be structured
+in terms of format?
+How do you actually
+speak?  What do you
+believe in?  What does
+your real
+expertise look like?  This is why
+scripting
+is still so difficult
+for AI, because it
+requires a lot of
+context.  But for
+all those tasks that are
+very mechanical,
+very repetitive,
+explore this question.
+Look for options for their
+implementation, because most likely
+such an option
+already exists, and you simply
+don't know about it.
+OK?  So write
+them down.  I wouldn't want to
+do it now because
+particular exercise
+takes a little time to complete.
+But take
+a moment this week,
+sit down, spend 30
+minutes
+researching how
+or if you can
+even
+automate
+any of these tasks
+with code, and
+get your team to
+do the same.  This is
+also very important.
+For example, if
+your team has different
+departments, different people
+have different responsibilities
+.  As I said, we
+instruct our
+editor to do the
+same.  We also instruct Jonathan, who is
+in charge of
+appointments, to do
+this.
+Explore these
+tools.  Which of the
+less effective
+tasks you
+perform could already
+be replaced with this one?  So
+just making
+you the manager of another
+human being, I could
+make you the
+manager of these AI
+agents, and you could
+do more work,
+focusing on
+more effective
+tasks, on the
+creative aspect.
+Whether it’s editing
+or scheduling
+meetings,
+delving deeper into more
+complex conversations with
+leads that require
+more nuance and
+context.  I think we
+can end with
+questions.  So if there are
+any final
+questions, either to the
+last part of
+Brian's presentation
+or to what I've
+talked about so far,
+I feel like a lot of
+the tasks that I would like to
+through AI are tasks
+that my virtual assistant is currently doing
+.
+Yes.  How can I
+help her
+master it more quickly so
+she feels
+confident
+using it?
+Yes, I would say that the
+best way
+to do this—and here
+you have a huge
+advantage over
+any technical
+task you've
+had to do up until this
+point—is to ask the
+AI ​​itself.  Let her
+just talk to
+Claude and ask him how to
+do these specific
+things.  That's literally how
+I
+figure everything out.  How did I
+invent the AI ​​lead magnet
+?  I just heard
+someone talking about it
+, and I didn't have
+any instructions or
+guides.  I haven't
+found any
+specific video or
+tutorial on this
+.  So I just
+turned to Claude, and that's how
+I created these
+AI lead magnets.  I
+just came to Claude
+with this very naive
+approach: "Hey, I
+have an idea, I want
+to create a service where
+people enter their
+information and I give
+them a personalized
+result."  Is
+this possible, and if so
+, how to do it in the
+easiest
+way?  Mhm.
+And he just starts
+giving me
+instructions.  Okay,
+how exactly do I
+do this?  And I just
+tell him, especially
+if it's something technical
+that requires
+programming, because
+he can literally
+give you the code.  I'm
+just asking, "Hey,
+explain it to me like
+I don't understand anything about
+programming and don't
+know where to find it."
+So I just tell
+him, "Hey, click
+here, click here,
+click here."  And it
+gives you the result.
+All the instructions are there.
+You have the advantage: these
+models have access
+to all this
+information, and they are
+interactive in the
+sense that you can
+just ask them
+about anything.  Of course,
+if you have more
+experience with a
+particular task
+and know the best
+way to
+do it, you can
+give him clear
+instructions and a little
+direction.  I've had
+situations where
+Claude would suggest a
+solution and I'd say, "
+Actually, I think
+we can do it more
+efficiently this way,"
+and that's also a working
+option.  But it
+finds solutions
+if you just ask,
+and it's also the best
+way to test
+and figure out what's
+wrong if any of
+this breaks.
+When I was trying
+to figure out AI lead
+magnets, a lot of
+things on the site didn't
+work;  you just
+go and ask Claude.
+When he's doing these
+tasks, you can still
+communicate with him,
+so you can
+ask, "Hey, why is
+n't this working?"
+For example: “This gives
+me this result,
+but I want another one, why is
+this happening and what can I do
+to fix it?”  And
+as long as you give
+enough instructions
+and context about
+what exactly you
+want to change and how,
+it will simply tell
+you how to do it.    The
+most interesting part of
+these two days
+because I've never
+done it this
+way, I mean
+I've used
+ChatGPT and other things.
+But now I can
+create it and I know exactly what
+leads look like.
+I think this AI lead
+magnet is the most interesting
+part of all of this.
+Editing will continue
+to be handled
+by editors.
+The research is also
+very interesting.  These two
+elements, in my opinion,
+were apt in terms of
+content distribution, because it was
+something I didn't know,
+although
+I should have known, since I
+also work a lot with
+AI.  So
+MGM.  It was nice.

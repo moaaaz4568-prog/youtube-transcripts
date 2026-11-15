@@ -1,0 +1,104 @@
+in today's tutorial I have a quick fire
+trick when using the offset path
+function and it's one that many people
+often wonder how to do so let's dive
+right into it in today's video so
+welcome back to Satori graphics and in
+this second recent video on the offset
+path function I'm gonna show you a
+really neat trick
+when using typography and if you want to
+see more videos with the powerful offset
+function illustrator you do let me know
+but to demonstrate the problem in
+today's video sometimes people want to
+have a full stroke around the text but
+for that stroke to be set away from the
+type itself with a clear visible gap in
+between so one method people might adopt
+would be to are coming to the appearance
+panel then create a stroke and then
+actually head into the effects options
+and offset our stroke however with the
+preview option highlighted we can see a
+clear problem and that is the stroke
+overruns itself in many many areas along
+the typography and this doesn't look
+ideal at all well I do have an efficient
+or workaround which you're going to want
+to add into your work flow bank for
+future designs so for this one
+workaround
+we do need to outline the text so let's
+go ahead and do that first and foremost
+the second step is to make a compound
+path which you can find here or you can
+press ctrl or command 8 which is the
+keyboard shortcut the third step in this
+offset path workaround is to use the
+offset path function in the object
+drop-down menu you obviously can adjust
+the settings to fit your typography and
+look at the detail of the inner
+lettering to see if it looks good for
+your design and then hit OK
+so now you're going to end up with
+something pretty much like this and
+select the outer line with the outside
+stroke and apply a stroke in the color
+palettes down here in the bottom left
+finally for this part of the workaround
+method select the inner type and then
+apply a color fill like so so that
+essentially is the desired outcome but I
+do have one awesome and one useful tip
+to show you when using this design so
+after you've played around with the
+stroke weights you might not be happy
+with how it looks especially in the
+inner part of the typography so simply
+come into the stroke panel here or you
+can actually locate it in the windows
+drop-down menu but here you can change
+the orientation of the stroke in
+relation to the path itself so it could
+be inside in the middle or on the
+outside and this is going to change the
+appearance of your design until it meets
+your desired outcome there is one other
+way of doing this and it might apply to
+you and your workflow because here I've
+got some typography that is outlined and
+it's already engraved so of course that
+means I came up to here I won't line the
+texts and then I in grouped adorn so
+yeah I'm left with the vector shapes
+that are not grouped together if I this
+time I go and use the compound path
+function nothing appears to actually
+happen
+the first method resulted in an
+invisible outline of my text but if we
+then use the offset path we have another
+different outcome as well it's easy to
+see what it's actually happened by
+coming into the layers window because we
+have two shapes one the original text
+and then the offset chunkier version
+with the thicker version we have to
+simply flick it over to a stroke and
+then the desired outcome has been
+achieved in a second different method so
+this workaround is something many people
+want to achieve but many cannot seem to
+accomplish so I hope this short but
+sweet tutorial actually appeals to you
+when using offset path function with
+holography also if you want to see more
+offset function tutorials and just let
+me know in the comment section down
+below because there are more tips and
+there are more functions and uses that I
+do have for it in Illustrator but of
+course guys until next time design your
+future today peace

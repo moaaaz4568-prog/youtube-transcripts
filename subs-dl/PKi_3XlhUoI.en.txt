@@ -1,0 +1,918 @@
+Hey, I'm Cordelia Kate and in today's
+video, I'm going to show you how you can
+build three simple products with Claude
+and sell them to your audience in a
+really straightforward and simple way.
+Based on the facts that it is human
+nuance stuff. And what I mean by that is
+you might think that in this day and age
+with AI taking the world by storm and
+everything changing that the information
+industry is going to start dying because
+everyone turns to Claude for answers.
+Everyone turns to Chat GPT. Why are
+people going to be buying courses? Why
+are people going to be buying these
+things? In terms of my theory on this is
+that it would get to a point where we
+just go round and round and round in
+circles with AI not getting any answers
+really to our questions and we just want
+to speak to a damn person that has been
+there and done it. And this is the same
+for your audience. You might think, "Oh
+god, yeah, but they could just go and
+ask Chat GPT how to do this and they
+could just go and ask Claude how to do
+that." But what they don't get when they
+ask these questions to the AI is human
+experience. Like I tried that, I tested
+that. This is my experience. This is
+what happened. This is This is what
+failed. This is what succeeded. And that
+human experience is what people want.
+And they want you to be able to explain
+it in a way that they can apply it to
+their business based on the fact that
+you've got experience. And I'm going to
+show you today how we can get three
+examples and very quickly turn them into
+a product using Claude. And then on my
+next video, I'm going to show you how to
+use Claude to take that and then turn it
+into create a sales page for it and link
+it up to a cart page so that you can
+actually start making sales from it,
+too. So, we are going to create three
+products together today. The first
+product that we're going to create is
+going to be something taken from a talk
+that I did on stage and a workbook that
+I handed out after that talk. And I'm
+going to turn them into a guide with you
+here today. The next thing I'm going to
+do is take some old course materials
+that I've got and I'm going to turn it
+into a checklist and we're going to turn
+that into something really cool and
+meaty. And then the third one that we're
+going to do is actually I'm going to
+take a library of things that I use,
+package them up as a library of things
+that my audience can use. So, those are
+the three products we're going to create
+today. An ebook, checklist, and a prompt
+library. And we're going to get Claude
+to essentially package those up into a
+product for us. Let's go into here. So,
+the things that we're going to turn into
+products today, as I said, I've got a
+talk here that I delivered on stage at
+Expert Empires. And this talk was me
+teaching a strategy called the excuse
+post, which is a strategy for getting
+clients using a social media post that
+does that really well. I've also got the
+workbook that I created that goes along
+with that as a kind of a resource that
+we're going to get Claude to turn this
+into a product for us. The next thing is
+that I've got this course Tribe Funnels,
+and in here there is a checklist that I
+created that helped people go through
+the program and and the strategy for
+building your own community and my
+community building funnel basically that
+works really, really well. And if you
+want to build your own community, this
+is the way to do it. But that is a
+really good thing that we're going to
+package up. We're going to create a
+checklist. And then I've got this
+library that I created on AirTable. It's
+a library of my prompts that I use all
+the time. And so, we're going to take
+those and we're going to turn them into
+a prompt library for people to access as
+well. So, having a think about what you
+could package up. Something that you've
+already got that's already sitting in a
+course. I love the idea of you know, an
+overarching checklist that gives people
+a high-level view of how to do
+something. Because the reality is people
+get stuck in the weeds when it comes to
+the detail. They're like, "Oh yeah, but
+okay, but I've got to launch the
+Facebook group, but then how do I do
+that?" And what's the Who am I launching
+it to? And what do I say? And how do I
+say it? And all these things. For sure,
+like those details, that's when people
+need you and they come to you and they
+say, "Yeah, but can you help me with
+this? And can you help me with that?"
+And so, having a high-level checklist or
+a high-level strategy or a high-level
+methodology can be a really good like
+intro product to you because what it
+does is it demonstrates that this is
+really good and really high quality, but
+it also leaves them digesting something
+that makes them want more and builds a
+bit of a relationship with you. So, by
+the time they come and ask you for the
+next step or you promote the next step
+to them, they're more likely to say yes
+because they've already invested in a
+part of it and got something from it.
+And so, you know, coming to do more with
+you makes sense. The next thing is that
+you could put together So, there's
+strategies, checklists, overviews, and
+things like that. But then there's also
+there's also methods or systems or
+processes. Have a think about the stuff
+that you're doing that really helps you
+or that you're doing with your clients
+that really helps your clients. Just
+implement one small thing. So, it's not
+about the big micro macro outcome that
+you deliver in general. It's like a
+small piece that you can package up.
+Another thing is a talk, a webinar,
+something that you've already created
+that you can then repackage up into a
+mini product. And really those things
+are the best because to get very good AI
+output, we need a highly human input.
+And what I mean by highly human input is
+it came from you. One of the worst
+things that you can do when creating
+something using AI is to go to AI and
+ask it to create it without giving it
+that highly human input. It doesn't have
+that nuance that you have when you're
+teaching, sharing from your opinions,
+and what your standard is on something,
+and what you believe in, and what your
+experience is, and the storytelling that
+just happens when you start teaching
+something. Those things are really
+really important for making an AI output
+sound like it's actually not just AI
+slop. So, having that input is really
+important and that's why I am taking
+things that I've already done and
+repackaging them. So, this is the prompt
+that we're going to be using. Claude was
+trained using XML. This is an XML tag
+where you've got like that arrow, what
+it is, and that arrow, and then inside
+you have the content. So, these act as
+bookends for this section. And what that
+does is it means that it's not getting
+the input confused with the
+instructions, and it's not getting the
+instructions confused with the voice
+prompt, etc. It creates nice separated
+out things. You can just use headings as
+well. Headings work fine. We always
+start every prompt by saying what its
+role is if we're prompting well. And so,
+in this instance, you are a digital
+product creator on Cordelia Kate's team,
+and you're packaging up her knowledge
+and experience into a product that will
+help her audience. Then I've put who the
+audience are, business owners in the
+experts industry who are building a
+personal brand and a following online,
+blah blah blah. Now, the method is very,
+very simple. Be aware, by the way, the
+more you tell AI what to do, the more
+you strangulate its creativity. You want
+to try and keep prompts as brief as you
+can whilst being as clear as you can so
+that it actually has the breathing space
+to be creative. Otherwise, what you do
+is you just get it to stay within the
+fine confines of what you wanted it to
+do, which is fine, unless you want it to
+actually critically think and come up
+with some really good quality output
+ideas. So, just remember that the if you
+prompt too much, you I can accidentally
+set quite a low ceiling. So, the method
+that I'm giving it is really basic. You
+must first create an outline. This is
+the framework you'll use. Then create
+the substance built onto your framework.
+Then rewrite the whole thing in my voice
+given below. That's the method. That's
+different from the task. That's just the
+method that it's going to take. The task
+we're going to write out together in a
+minute. The voice prompt, guys, there is
+an amazing video that I did, how to get
+Claude to write in your voice, on my
+channel. I will link you into it on a
+card at the top of this video. Next
+thing we're going to have is guardrails.
+Guardrails are things that you will add
+into prompts as you go, probably. But a
+guardrail is like, don't do this. Make
+sure you don't accidentally do that.
+It's a bit like, you know when you've
+got a bowling alley and you're you're
+bowling, it's like having the side rails
+up so the ball stays on the lane. So you
+don't end up veering off in another
+direction. My guardrails are quite
+simple. Make sure you go through the
+process step by step. Do not skip ahead
+or merge steps. AI wants to be
+efficient. So what it will do is it'll
+merge, creating the outline and the
+substance into one step and then we'll
+wonder why the hell the output is a bit
+rubbish. So we want to get it to to do
+it at one step at a time and not to
+merge things. Never use negation pivot
+constructions like it's not about X,
+it's about Y. They drive me mad. So we
+want to make sure it doesn't do that.
+That is a really good guardrail to add
+in. And then the next one is never use
+em dashes. Use commas and other
+punctuation instead. Yeah, so we've got
+these guardrails and then we're going to
+have inputs and the inputs are going to
+be the highly human input stuff that I
+was telling you about a minute ago. This
+is going to be the framework that we're
+going to use for all three of these
+create a product prompts. We're going to
+use this framework. The only variable
+we're going to change is the task and
+the inputs. That's it. So I'm going to
+copy that. So the things that we need to
+do is the task and the inputs. So I'm
+going to go grab the inputs first. So
+this is the transcript. And by the way,
+if you don't know how to get transcripts
+and you've got Claude, just go to Claude
+code and ask it to get you the
+transcript of a video. It just depends
+what you're using. Various ways to get a
+transcript. But when you've got your
+transcript, we're going to go into this
+inputs thing and we're going to go,
+here's the transcript of the talk. And
+then the next thing is, here There we
+go. Okay. So this this thing that I've
+just dropped in is just essentially the
+workbook I set everybody when I
+delivered that talk on stage, I set
+everyone a challenge to implement the
+sales strategy and get sales call booked
+in off the back of it before even
+leaving the event. I wanted it to be the
+case that a talk that they'd watched at
+this event resulted in them getting
+results before they'd even left the
+event. So, that was the challenge. And
+then also attached the workbook that
+went with the talk I just pasted. And
+then all we need to do is go over to
+task. I'm going to just record my voice
+doing this for a minute. I want you to
+take the transcript of a talk that I did
+on stage that is also accompanied by a
+workbook. And I want you to repackage
+this up into an ebook that explains the
+strategy and why it is really a good
+strategy to do, who it's for, how it
+works, what it does, how to use it, etc.
+Gives examples, which you have in the
+workbook attached, and also enables them
+to easily apply that example to their
+own business or scenario by having
+templates and a way for them to apply it
+based on the methodology given in the
+workbook. I might spend a little bit
+more time, you know, going into a bit
+more detail. I think it doesn't really
+matter too much. It's going to ask me if
+it needs any more detail. So, let's have
+a look. Right, method says outline
+first. So, let's get the framework on
+the table before we touch anything. So,
+I would go through this framework and
+just make sure it's correct. So, we've
+got it's broken everything down into
+chapters here. So, we've got 10
+chapters. Bloody hell, this is going to
+become a book I can sell on Amazon.
+Cover and title page. Excuse post
+playbook. Strapline, how to sell a new
+offer in a day without sales page or
+webinar or 43 days of grinding. Yes.
+Love that. That's me. And and remember
+it's got The reason why it's producing
+something that makes me go, "Yes." is
+because it's got a transcript of me
+talking for half an hour. Half an hour
+of me delivering my best content.
+Chapter one, the 43-day problem, classic
+launch model, why it doesn't work for
+most people, Doug the mathematician. I
+love this. So, it's got this structure
+and I'm not going to spend ages going
+through this right now, but you will.
+Just go through it and just check that
+you're right with it. Go back or forth.
+The reason why we do this break it down
+because now it's going to have a really
+good framework to build on. Whereas if
+we just said make me an ebook, you're
+asking it to structure the ebook, create
+the substance, and write it in your
+voice all at the same time, and it's
+just going to have just going to be like
+a bit floppy. Like it's just not going
+to have robust structure. So, we want it
+to have robust structure. Go back and
+forth. Check this. I would probably go
+like take the stuff out about Doug. It's
+not going to make sense. It made sense
+on stage cuz he was there. Like it's you
+know, and just go back and forth to get
+that framework completely right. And
+because I've got that setting, it's
+given it always gives me things to flag
+and the things that it's worried about.
+The workbook calls it baif, b a y f, but
+the transcript also says baify. And the
+build as you fly. Okay, so I just let it
+know one faith build as. So, I just let
+it know that what it's asked for. And
+it's also asked, "Do you want the deeper
+sales call teaching stuff chapter seven
+to stay or get cut?" The original talk
+gestures it, but explicitly hands it off
+to Matt Elwell. Yeah, to let's leave
+leave the sales stuff. And no mention of
+Matt Elwell because that was it was
+promoting something at Expert Empires,
+so it won't be relevant in the book.
+Cool. Now, whilst that is working, let's
+go and get our second product on the go.
+And our second product, we need the same
+prompt for. We're going to get a new
+chat. We're going to drop that in there.
+And the next thing that we're creating
+is the Tribe Funnels Checklist. Now, I
+have got two transcripts from two
+different training videos and a
+checklist that I've already created. It
+needs to repackage it because it was
+relevant to a course that I did, and it
+needs to be reconfigured so it doesn't
+need the course alongside it to be
+relevant and to make sense. Um context,
+like the context change has changed. So,
+let's drop in the inputs. We're going to
+say attached. Right, we're going to pop
+1 2 3. Okay, so that that's the inputs.
+That's been added. And then the task is
+going to be this. You are going to take
+the two transcripts from training videos
+and the existing checklist that I have
+and repackage it for my existing
+audience who want to build their own
+community and need the methodology to do
+this well. Most people try to build a
+community by putting together a
+community platform such as school or a
+Facebook group and then put some content
+in it and maybe even go live in it and
+then wonder why nothing's really
+happening a few months in when they've
+got a few people in there, but it's not
+really a community. So, this methodology
+solves that problem. It teaches people
+how to build a community in the right
+way and uses the exact method that I
+used to generate six figures in nine
+months from my first community and then
+went on to teach this as a strategy
+several times over to clients that have
+hit six figures and generated at least
+100k in revenue from this strategy. I
+want you to make this relevant in
+outside of the context of needing to buy
+a course. I want it to be a high-level
+checklist that walks them through the
+entire strategy from end to end so they
+know what they need to do every step,
+but at high level, not in too much
+detail because otherwise it's going to
+become an ebook. There we go. That is my
+instruction. That is what I want. And
+the little bit of This is the bit like
+this highly This is also also containing
+highly human input because I've shared a
+bit of my opinion, a bit of my
+experience as well in there. And and
+that is obviously going to contribute to
+getting a better output as well. And
+then I've got the checklist. So, I'm
+going to drop that in there. That's
+going to start creating the outline.
+Let's come back to Okay, so we've got
+the excuse post playbook and it's given
+me the framework again and we're just
+going to pretend we've read it cuz cuz
+of time and the fact that we are doing
+this as we go. and I'm just going to
+say, go. Okay, I should have No, it's
+not that one. Where is the Where is the
+one we were just using? Oh, there it is.
+Found it. Here we go. So, it's now
+building the framework. So, just to give
+you we are back in the Tribe Funnels
+product. And we're going to flick back
+and forth a little bit just because
+otherwise we have to sit and wait for it
+to produce. So, it's had a look at the
+transcripts, it's had a look at
+everything, and it's coming up with the
+structure. It's not It's just telling us
+what it needs to flag. So, the format
+question. You said high-level checklist
+that walks them through the entire
+strategy from end to end. The existing
+Tribe Funnels checklist is literally
+already a checklist. Yeah, that's fine.
+It's just come back and ask me some
+questions. It's just concerned about the
+format and the fact that it's part of a
+course. I've just told it, yeah, that's
+the point that we're repackaging this,
+and it used to be in a course, and it's
+not anymore, it's now standalone. What
+to leave out, the transcripts are
+spending a lot of time on mindset. I
+agree, not necessary for the checklist
+we're creating. And then it's just asked
+about reframing the community from being
+about Tribe Funnels, which is terminol-
+like it's the trademarked name that we
+had for the strategy, and talk about it
+being more about fai- like most people
+put a Facebook group up, post some
+content a few times, and wonder why it's
+flat. This is the method that actually
+works. It's going to leave leave with
+that as pain point. That's all good, so
+I'm just going to say yes. Okay, so,
+what have we got? We're back here inside
+the ebook, and it has now written the
+chapters in time terms of the substance
+draft. So, this means that substance
+When I say substance and then style, we
+want it to actually create the the copy
+that has substance and makes sense
+before trying to style it because the
+substance is more important. You don't
+want to have to You don't You don't want
+to have You don't want something that's
+styled well, but doesn't contain
+substance. So, that's really important
+to have that down first. So, when we're
+looking at this, we're not going, "Oh,
+that doesn't sound like me." Doesn't
+matter. We're going to put it through
+the voice next and then it will sound
+like you. So, this bit is just plain
+English what it is that it does. Chapter
+1, the 43-day problem. Okay. Now, the
+problem is is that you guys are watching
+me right now and that means I'm not
+going to sit and go through this with a
+fine-tooth comb. But, when you get your
+output, you want to go through this and
+just make notes. One of the things I
+love to do is just turn the voice record
+thing on and then just critique it out
+loud as I read it. So, I would put that
+on and I'm not going to do it cuz it
+changes the microphone, but I'm put that
+on and then I'm going to basically say
+out loud something along the lines of,
+"Okay, just having a read of chapter 1."
+And then know that I can take as long as
+I want. The voice thing isn't going to
+stop recording and no one's going to get
+annoyed waiting for me. It's AI. It's
+fine. So, that is a really nice way of
+doing it and I might go, "Oh, fill in
+the module 7 days. Actually, that
+doesn't really make sense. Let's
+reconfigure the days and let's change
+this to this much and blah blah blah."
+And just verbally kind of rant at it
+about the stuff I want it to change. So,
+I'm going to do that as I go through all
+the chapters and then give it my
+critique and then when I'm happy with
+it, I'm going to say, "Go." And it's
+going to come back and say, "Now it's
+going through the voice pass. How to
+sell a new offer in a day without sales
+page webinar or 43 days of grinding by
+Cordelia Kay." Okay, so we're going to
+go through this again and just be happy
+like is this is this good? Like what
+would I change? How would I make this
+more me? And you know what? Another
+thing that you could do which could be
+really fun. Let's have a go at doing
+this. Grab one of these chapters and
+let's head over to Zero GPT. Zero GPT is
+going to test a sample of content and
+tell you whether it's likely that it was
+created with AI. So, we're going to put
+we pasted that text into here and it's
+going to basically detect whether it was
+created with AI or not and what the
+likelihood of it being created with AI
+is. And look at that. Look at that,
+ladies and gentlemen, 4%.
+There's only one line that it's
+flagging. It's saying, "Your text is
+human written." Now, I'm sorry, but that
+is to do with the fact that number one,
+we've we've already given it the highly
+human input, but number two, it's the
+voice prompt that I've put in there that
+has got it to mirror the rhythm and the
+pace and the tone that I speak in and
+put that into text. And like I say, that
+video is really, really cool. I put
+together that teaches you how to do
+that. But, that is insane. That's one of
+the best That's one of the best results
+I've had. 4% It's It's It's a very good
+thing. So, let's come back over to here.
+So, we've got this Looks like it's human
+written. You're going to go through,
+you're going to read it, you're going to
+make sure that it is good, you're going
+to get it to tweak anything you want
+tweaking, and then when you're happy
+with it, we're going to then put it into
+a document. Okay, now make it into a
+beautiful PDF. I'm going to say use HTML
+using this visual style guide. Make it
+easy to read with blocks or quotes or
+headings or call outs, etc. scattered
+around that break up the text. Okay, so
+coming back over to here, that is now
+going to be making the document. We're
+now coming back into the checklist that
+we wanted and seeing where we're up to.
+How's it getting on with the tribe
+funnel checklist? So, we have got the
+community blueprint. Okay, kind of hate
+the title, not going to lie, but fine. A
+standalone checklist for building a
+community that actually generates
+revenue by Kody DK. Intro, short, half a
+page max. The problem, most people put
+up a Facebook group, drop some content
+in, go live a couple of times, and
+wonder why nothing's happening. That's
+not a community, that's a holding Okay,
+cool. What this checklist is, the actual
+method end to end, the same one I used
+to hit six figures in nine months from
+my first community and do that and that
+two of my clients have used hit six
+figures. Fine. Six figures in 10
+figures? Okay, so we're like Okay, guys.
+I mean, if we change that to Indian
+rupees, then yes. But, maybe I'd need to
+verify. So look, we need to go through
+and just check this stuff and make sure
+that it's not talking nonsense. Not 10
+figures, mate. Okay, so we've got the
+sections here. I'm going to say that
+I've gone through all of this, you know,
+as per the rest of this training. I'm
+going to go through all of it with a
+fine-tooth comb, make sure that it's
+really got that all correct, throw stuff
+back like this, not 10 figures, actually
+three people, six figures from that
+strategy. Let's just give it that
+information there. A few things to flag,
+blah blah blah, got it, and then we're
+going to go move on to substance. Okay,
+so that is now going to create the
+substance stage, and then beyond
+substance, there is voice, and then
+beyond voice, we then turn it into a
+document when we're happy with it. So
+we've got two products on the go. Should
+we get the third product rolling now
+while those two things are being
+created? Okay, back in here then, we're
+going to grab this prompt. We're coming
+back into Claude. We're going to paste
+it. So it's exactly the same prompt that
+we've used twice before. So I'm not
+going to go through it again, but what
+we need to put the task and the inputs
+in. So the input this time around is
+going to be an airtable. And the reason
+being is that I have got all of my
+prompts on airtable. Okay, so let me
+just do this task prompt. I want you to
+take the data from the airtable I have
+given you below and turn it into a pack
+of prompts that help people with their
+digital marketing and building an
+audience and getting clients and
+creating content. It's a pack of all my
+favorite prompts that I save because I
+use them over and over again that I want
+to package up and give to my audience to
+use themselves. We want to turn this
+into a prompt pack document. Firstly,
+the pain that we're going to solve with
+this is the constant annoyance of trying
+to figure out how to one, get AI to
+produce good quality, two, dig out the
+prompt we used last time, three, needing
+inspiration for how we could be using AI
+better, and offer this prompt pack as a
+starting pack of signature prompts that
+they can use, make their own, and save
+somewhere to use time and time again
+themselves. Okay, so it already knows
+that this is going to be a a product.
+We've We've given it a bit more
+information on the task. The input is
+the Airtable. I already have an MCP
+connecting Claude to Airtable. So, I've
+already got that set up, so it will just
+be able to go in there and get it. If
+you haven't got that set up, I'll show
+you how to do it if Airtable is
+something you is relevant for this for
+you. You just come into settings, and
+then you go to connectors, and then
+Airtable's here, but if it's not there
+for you, just hit browse connectors, and
+you search for Airtable. It's here, and
+then you basically just hit the connect
+button that will be there for you, and
+then authorize what it can what it can
+connect to within Airtable, etc. Okay,
+so it's come back and it said the
+Airtable link won't work. I'll just
+remind it that it has an MCP. Sometimes
+it doesn't know that. You have to prompt
+it and remind it and let it know that
+it's got a tool that it can use. And
+obviously the the numbers it needs to
+access are in the link I gave it. So,
+it's going to grab that, and meanwhile,
+let's come back into the excuse post
+playbook, which has now been turned into
+a lovely, hopefully, oh, okay. A lovely
+playbook, which needs a little bit of
+sorting out because obviously you can't
+see the title um because it's a black on
+black, and we've got this circle over
+the word excuse. But for a first draft,
+it's not bad. Mind you, it's going to Do
+we need to tell it it's going to be A4?
+For some reason, it's responsive, so
+maybe that's why. But okay, the 43-day
+problem. And so, look, it's just laid
+this out really nicely. A couple of
+things it always does when you're
+creating these things is it has It makes
+font really faint. So, I'll I will tell
+it to make the font a bit darker in
+places like here. That's really hard to
+read altogether. I'll probably get it to
+get rid of that. It's actually hurting
+my eyes. I'll just go through and
+basically tell it to make surgical edits
+to a couple of bits and pieces. And so,
+I'm going to go through this and you're
+going to figure out what is it that you
+want to change. And then once you're
+happy with it, all you need to do now is
+convert it from HTML into a PDF. Let's
+just see. Convert to PDF. And then we're
+going to go A4. It's good to tell it
+what size. It'd also be good if it was
+typing, wouldn't it? And let's just go
+back to the community checklist. How are
+we getting on with this? Nice. So, it's
+looking more in the form of a checklist.
+We've got nice. Okay. Cool. The live
+event funnel. So, again, I'm going to go
+through all of this and just make sure
+that it makes sense. It's It's actually
+teaching my methodology. That It's not
+It's not going against my methodology,
+which would be counterproductive. We're
+going to tell it to just go for it and
+put my voice in there and then create a
+document. That's still going. Okay. So,
+coming into the prompts, it's still
+working on that. Right. That's still
+working. We've got a voice pass added to
+the community checklist. And then Yeah,
+we're going to go formatted file as the
+next step. And that's kind of it, guys.
+Then you've got your produced documents
+that look really awesome and cool
+because you've got your You've got your
+aesthetic style guide that you can
+create. Okay. It's got the prompts.
+Nice. So, essentially on that air table,
+we've got a load of random prompts that
+that I use a lot. And it's rightly
+coming up with some of these aren't
+right for your audience. The connection
+funnel sales script. My instinct cut
+those entirely or strip them down to a
+framework version. I like the framework
+version. Framework. Let's go framework
+template versions. The way things need
+to be made relevant. Yeah, total four
+prompt 14 prompts. Yeah, go. And like I
+say, you know, I would go through and
+spend a bit more time refining things,
+but here we go. We've got our first
+product ready to sell. Let's open it in
+preview. We know it needs some work. Oh,
+it changed the it changed the color
+without me telling it to. All right.
+Although it
+it's very very faint in places and we go
+through and check, but you know, for a
+first draft needs a bit of padding at
+the top of the pages, always does, but
+for a first draft it's not bad, you
+know? I I think it's quite it's made it
+digestible to read, you know, the it's
+in my voice, feels ballsy. What if I get
+crickets? Five things to Yeah, I you
+know, for a first first glance and a
+first draft it's perfect, basically. So,
+that is a 22-page ebook that we've
+created that's ready to go. There we go.
+That you'll find that on Amazon later.
+And then we've got the community
+blueprint is now in HTML. Nice. And so
+this is a checklist. And I love how
+we've got context for everything as
+well, so it's not just a a bullet point
+list. I think that's great. That's
+brilliant. So now we'll say, "Okay,
+cool. Turn this in convert to PDF." And
+we have our second and we have our
+second product ready to sell. And then
+for the prompts we've got them here. So,
+this is the going to be the outline of
+the prompt pack, the signature prompt
+pack. Could you locate confidentiality
+line? Welcome the the pain digger blah
+blah blah. How to actually use a prompt.
+Nice. Section one content. And so here
+we're going to say, "Go." Oh, it wants
+me to answer things. Section order.
+Content first feels right. Sales section
+including these Yeah, I've got sales
+prep prompts, but it's worried about me
+making them available. It's fine. The
+onboarding email cut. Yeah, I'm just
+going to say yes to all for the purpose
+of this video. But again, you know, to
+be honest, if I was going through and
+actually making a signature prompt pack,
+I would also go and get all of the
+skills. I've got loads of skills that
+created in Claude. You can see them
+here. And I've also got loads of
+scheduled tasks that are just prompts
+that I've used time and time again for
+the same thing being done all the time.
+So, I would also go and get those and
+turn them into prompts that would live
+in this prompt pack. And I just go and
+gather everything. But obviously, you
+know, I don't even really use that
+Airtable prompt thing as much anymore
+because now I'm using Claude and we have
+skills and scheduled tasks. Like you
+just make a skill and it just lives in
+there. So, I might do like a signature
+skills pack or something. But I just had
+that easy to show you what that could
+look like if you were to take that,
+package it up, and and turn it into a
+product that people can buy. And so,
+what I what it's doing now is it's
+taking those prompts and putting them
+into code boxes one by one, making them
+relevant to the audience. And then, just
+the same with the others, it's going to
+then go through a This is the substance.
+It's then going to go through the style.
+And then it's going to put it in a
+document. And then, just like with the
+other two things that we created, you're
+going to have a document that you can
+then sell. And look, this is This is
+really valuable. Like these things are
+really These are huge shortcuts that
+you're helping people to create that
+they can't get from just going to AI and
+having a conversation. You know, you
+can't I'm telling you you can't go to a
+chat Claude and say, "Claude, write me a
+prompt for doing this." Because AI is
+rubbish at making prompts. You know, all
+of those prompts that I've created, they
+take hours of refining because I have to
+create them, test them, refine them.
+Whenever AI writes prompts, it just
+bloats them out. Puts way too much
+information in there. Like gives
+examples, creates a ceiling, tells it
+what not to do, gives it a do not do
+this list, and all this stuff. So, it's
+it's really challenging to just create
+all of that stuff with AI without
+having, you know, a real kind of human
+hand involved. So, that's why having
+these these things that you've got that
+you use that are helpful to you, you can
+definitely package them up and sell
+them. Next week, I'm going to show you
+how we're going to take these three
+products. We're going to pick one We're
+going to pick one and we're going to
+create a sales page for it using Claude.
+That's going to look so beautiful and
+that sales page is then going to live on
+a just a go We're going to host it in
+GoHighLevel, but you can host it on your
+page builder. All you need is a code box
+and we're going to paste the code that
+Claude gives us into the code box. But
+I'm going to show you how I make a sales
+page on GoHighLevel so that one of these
+products can now be sold on that sales
+page and we're going to have a sales
+page, a cart page, and a product
+delivery page. And so we're going to
+create those three things on the next
+video. And if you aren't subscribed to
+this channel, then hit subscribe so that
+you get notified about that. So I hope
+that's been helpful for you and as
+always, I'm putting everything that I've
+just gone through and more into a
+downloadable playbook that goes
+step-by-step through everything for you
+into the strategy lab, which is my
+resource library where you get all the
+playbooks for all the strategies that I
+teach here on this channel. And you can
+essentially take it and drop it into
+Claude and get it, you know, work with
+you to build out whatever strategy it
+is. It just means you don't have to go
+and look at your scrappy notes. You
+don't have to come and rewatch this
+video again. You can just grab that
+playbook and follow the instructions on
+there and you get the copy-paste prompts
+that I've used from today as well as the
+direct links to go and grab that voice
+profile creator and also the brand
+aesthetic guidelines as well. So all of
+that is inside the strategy labs. But
+yeah, that's all for me. I hope that was
+helpful. I will see you on another
+video. Lots of love. Bye.

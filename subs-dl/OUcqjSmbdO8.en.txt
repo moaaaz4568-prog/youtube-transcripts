@@ -1,0 +1,533 @@
+Hey guys, this is the outbound funnel
+that made me $220,000
+in the last 3 months. I'm going to break
+it all down for you. You spend $0 on ads
+in this entire time and made a ton
+of money. So, it all comes down to our
+niche. So, we are in the marketing
+agency owner niche. And if you look at
+Apollo and Sales Navigator, you're going
+to go to find 150,000 of them,
+or at least the ones that are in the
+geography that we consider to be
+qualified or are within our criteria.
+So, what we have been testing between
+the two is Sales Navigator and Apollo
+for actually finding the data. But, what
+we found actually is more accurate is
+just Apollo. If you use
+Sales Navigator, it pulls up some like
+weird Apollo tends to be more
+accurate. There's slightly less people,
+but it's it's better bang for your buck.
+So, we are able to get 150,000 agency
+owners from here. Then, what we do is we
+bring them into this spreadsheet. So,
+the way that we actually export this is
+using an app called Scrap,
+which is overly expensive and I think I
+paid like
+two grand for this list, which isn't I
+mean in the whole scheme of things, it's
+not a lot. But, I found there are
+significantly, significantly ways that
+you can do that are cheaper that I
+learned after I spent all this money.
+But, the reason why we use that and we
+don't just normally use these like $3
+Apollo scrapers is cuz we get to know if
+they have an open or a closed profile,
+which is going to be very important when
+we come down to here into the actual
+campaign settings for the email and
+LinkedIn outbound process. Right? And
+then we get their email for some of
+them. We don't have all their emails. We
+get emails for about 25% of the people
+here and then we do some more enrichment
+later to find the other emails. And then
+we need their website as well because
+we're going to be scraping a lot of
+things inside of their website. So, then
+we put it all into Clay and this is
+where all of the magic happens. Well, a
+lot of the magic happens here, right?
+So, what we do here is we actually
+verify that they are within our niche.
+So, even still, sometimes Apollo is not
+that good and there's you're going to
+find some weird inside these lists.
+So, we basically use AI to go into their
+website and to go into their LinkedIn
+profile and verify, do these people
+actually have marketing services or not?
+If they do have marketing services, then
+we move them on to the next part of the
+process. If they do not have marketing
+services, then obviously we we get rid
+of them.
+Now, after we know that they have some
+kind of marketing services, we need to
+find which service actually is that,
+right? So, we use an AI service finder,
+which is basically just using ChatGPT
+inside of Clay.
+And then we can go through their
+LinkedIn and go through their website,
+and we see what is their main type of
+service that they provide. And then from
+that service, we can basically use that
+inside of our outreach to make our
+outreach more specific to the type of
+person. So, instead of say, "Hey, if we
+could get you marketing clients," we
+say, "Hey, could I get you SEO clients?"
+or "Could I get you PPC clients?" right?
+So, inside of this niche and inside of
+your niche, you're going to have
+different sub niches. So, you want to
+kind of find out which sub niche they're
+involved in, so you can kind of slightly
+tailor your message to those kind of
+people, right? Um so, that's what we do
+with this. And then we find their email,
+right? So, we're able to find about 70 I
+think it might be higher now. Um my
+office manager is testing some new
+things that we're we're improving this
+number. Um but right now it's about 70%
+of the qualified people we're able to
+find emails for. So, out of the 120,000
+that are actually qualified here, we
+find about 84,000 uh emails. And then
+what we do
+uh is we personalize with three
+different uh we use three different
+things to personalize. So, first thing
+is we look at case studies. So, we're
+able to use AI again inside of Clay.
+This is all something that we help our
+our clients basically set up, by the
+way. So, I call this like niche
+subjugation. So, if you're wanting to
+like take over your niche, um I'll help
+you build out this whole thing to
+basically just crush your niche. Um but
+basically, the next part is we
+personalize, right? So, the first thing
+is we look at their case study uh on
+their their website with AI and then
+basically pull that and then put that
+into a like a proper format, like, "Hey,
+saw you helped case study name get the
+result that he got in the time, if it
+mentions the time. Really impressive,
+right? And that's what we say for this.
+Then if it can't find this, there's like
+an if statement, and then it will go
+into another API, which will go scrape
+their LinkedIn profile recommendation.
+So, if you actually go to LinkedIn
+profile, um so I'll just show you mine
+for example, um at the bottom of some
+people's, it won't be for everyone, but
+some people will have recommendations
+from people, right? So, one of our
+clients, um Donovan for example, um we
+helped him scale from 2K to 15K, so I
+asked him to make a recommendation for
+me. Um and then he said, right? So, then
+we have a bunch as well. Um but you can
+basically scrape people's
+recommendations, um and then you can use
+this in the personalization. So, if
+someone was scraping my profile, they
+could have said, "Hey, saw you help
+Donovan increase his monthly revenue by
+$13,000 per month in 2 months.
+Impressive, right?" So, that's the the
+second thing we scrape from. And if we
+can't find either of these, then we take
+the most recent LinkedIn post, right?
+Now, the way that we actually do this,
+sometimes their most recent LinkedIn
+post is old. So, what we actually have
+in place is we have an AI that will also
+go into their LinkedIn profile and read
+when the LinkedIn post was posted. So,
+if it like was like 8 years ago, then we
+won't say, "Hey, I saw your recent
+LinkedIn post on X." It will say, "Hey,
+I saw your LinkedIn post on X. I know
+you posted it only I I know I saw you
+only you posted it 8 years ago, though.
+Haha. So, I don't know if you remember
+it." And it was I don't know if it's
+exactly like that, but it's something
+like that, right? So, it messages it
+differently depending on how long ago it
+was posted. Um
+then we in total, from these
+personalizations, we get about 80% of
+people that we can find a
+personalization for, which is pretty
+decent, um which leaves us with 67,000
+leads here. And then what we do
+uh is we put the qualified emails into
+There's basically three buckets, uh and
+these are going to go into three
+different types of campaigns. So, we
+have qualified emails, which you get
+about 67,000 here with the
+personalization. We don't really send
+without the personalization, uh just cuz
+we don't need to right now. We might
+later, um once we increase the volume,
+but right now we don't need to. Um
+qualified closed profiles, so this is
+just LinkedIn profiles in total. So,
+this is just with excluding the email
+finder, we just need to make sure they
+are they have a personalization and they
+are in our niche. And we get about
+100,000 of these people.
+And then we have about 77,000 qualified
+open profiles. So,
+basically on LinkedIn there's something
+called an open profile which you can
+just message someone without having to
+be connected with them. So, we scrape
+these differently cuz we have a whole
+separate campaign for this, right? Now,
+once we have this all of this data here
+which is this the I mean these are both
+like equally important, right? But we we
+get all this data, then we put them into
+these three separate campaigns. And we
+have different like sub campaigns within
+these campaigns. But I'll just go over
+high level with you and then I'll go
+into the the kind of nitty-gritty in
+terms of like the the smaller details we
+do in here, right? So, for for our email
+campaign, right? We obviously get our
+67,000 qualified emails. And what we do
+is we send 1,320 cold emails a day. We
+actually send 4,000, but these are like
+including
+some people call this differently
+depending if you're including follow-ups
+or not. So, we send to one email, we
+send an initial email and then a
+follow-up and then another follow-up.
+So, we send basically three emails per
+lead. So, this is basically 1,320 new
+leads per day, right? Depending on how
+you kind of measure this, right? So,
+basically what that you're probably
+asking like, "Okay, you're going to run
+out in 2 months." Yeah, we do. So, we
+resend the same list every 2 months. And
+you know, people don't remember you from
+2 months ago when you just put your name
+in the thing. So, this actually doesn't
+make a difference.
+And we found that the reply rate doesn't
+change over time, so you just have to
+kind of repeat the same list which is
+also really nice cuz we don't have to
+pay for this list multiple times.
+So, we are right now just trying to find
+lists from other places than Apollo and
+Sales Navigator. Like right now we're
+building out a
+thing to scrape school like school
+communities. And we're also building out
+something to scrape Google Maps which we
+do already have, but it's not something
+that we've quite implemented for
+ourselves just yet.
+I'm I'm not that happened. Anyways,
+then from these emails, um we split
+these up into three different campaigns.
+Um
+I'll talk about this right now actually
+cuz it kind of is makes sense. So, we
+have three campaigns. We have a campaign
+for Europe um that sends the control uh
+script, which is basically the thing
+that we know works the best. Then we
+have a North America uh campaign, which
+also sends the control script. And then
+we have a test North America campaign,
+which we create like a slightly like I
+will create basically a new script every
+week to keep testing to try and beat the
+control, um which we have a pretty solid
+script right now that's killing it. We
+have about a 1.2 It's slightly higher.
+It's like 1.5, but when you mix in the
+tests we're doing it equal evens out to
+about 1.25 positive reply rate,
+um which is really good. So, that's how
+we kind of do the testing. So, I believe
+we have
+25% of our emails going or 20% of our
+emails going to Europe, and then 80% of
+our emails go to North America. And then
+out of the 80% that are going to North
+America, 70% of those will be sending
+the control, which is the one that has a
+1.5 positive reply rate. That's the one
+that works the best. Uh and then we have
+uh the
+the variant the test one for each week
+that we that we test with about 30% of
+the North America leads.
+Um and actually what's really
+interesting is Europe, I believe the
+North America one has about a 1%
+positive reply rate the control, and
+this and then the Europe one has like a
+3% like a 3.5% positive reply rate. So,
+it ends up evening out to about 1.5. Um
+but Europe is a lot easier uh to get
+replies than North America. There's just
+a lot more people in North America. Um
+but yeah, that's basically the the
+little nuances of that. Um and then I'll
+go however how we convert people, but
+this ends up being about 16 positive
+replies a day, uh and we convert about
+half of these. It's actually slightly
+lower than this. It's I think it's like
+0.4
+0.45 right now. Um but we get about six
+to 6.5 meetings a day uh from just from
+cold email. Sometimes it's higher like
+we've had like I think our record for
+email was like 11 meetings in a day
+uh and then plus LinkedIn we got like
+eight on that day and then we got like
+three from YouTube. So, we had like 22
+appointments in one day. Um and this was
+like last week. So, that was pretty
+cool. Um but normally on average it's
+like seven meetings a day from email if
+you average everything out. Um and
+that's basically
+um how we do that, right? And then I'll
+show you how we actually convert these
+people at that efficient rate into into
+bookings, right? Um then for LinkedIn we
+basically use a software called HeyReach
+to send all this out. But we I don't
+know if we mentioned we use Instantly uh
+for email. You can use SmartLead, it's
+kind of the same thing. Doesn't really
+matter. But we use uh Instantly. Um and
+this is going to piss me off. I'm not
+going to edit that. Um so, with LinkedIn
+those two campaigns. So, there's closed
+profiles and there's open profiles. Um
+so, with the closed profiles we send
+connection requests. To the open
+profiles we send emails cuz we can just
+message them directly, right? So, we
+have way more closed profiles that we
+can basically deal with. The constraint
+right now for the LinkedIn outreach is
+just the amount of accounts that we
+have. Um so, right now we have about 15.
+Three of them are kind of shadow banned
+right now. So, we have like 12 that are
+basically active right now. Um we're
+working on getting more. I just got five
+more from this provider. We're going to
+see if it works or not. Um but yeah,
+right now we have about 12. Um which
+means we do about 40 connection requests
+a day per account that's active. So, we
+do about 480 connection requests per
+day. And what we do since we have an
+oversupply of closed profiles, we
+actually cuz we saw before from this
+thing, right? When people actually
+posted uh on like how recently they
+posted. So, if they recently posted,
+then we're going to add them to the
+closed profile campaign. And if they
+didn't recently post, then we're not
+going to use them cuz we're again not
+constrained by the the amount of leads
+we have but by the amount we can send
+cuz of the LinkedIn profiles.
+so, that's basically how we do that. Um
+which allows us have a pretty high
+connection acceptance rate. I think it's
+actually like closer to 30 right now uh
+for our connection acceptance rate. But
+I think 25 is like this a low low ball
+estimate here.
+Um so anyway, we send about uh 480
+connection requests a day. And then from
+that we get about 120 who accept. And
+then we obviously send all of them cold
+DMs, right? Um what we also do here is
+cuz sometimes like or like what's going
+to happen is you're going to send these
+uh you're going to keep sending these
+connection requests and keep getting
+more like people who accept, right? And
+over time you're going to build up this
+list of people that you're connected
+with. So what we've recently done
+is you basically built out a whole
+reactivation campaign. This is also
+something that's been crushing it for
+for our clients. I think Donovan is the
+one one of the people who used that as
+well. Um which is how he was able to to
+add like 13K a month in like 2 months.
+Um it's cuz he used this reactivation
+campaign and he had a bunch of people
+just sitting there. Um but this is
+basically what we're able to do. Like we
+build this whole list of people that
+we're connected with. And then what we
+do is we reach back out to the same
+person every single 3 months. So this
+amount of reactivation messages like per
+day it kind of just keeps building up
+and keeps building up. It's almost like
+when you have like you're building up
+this email list, you just keep sending
+to more people and more people. It's
+kind of the same thing with connections.
+Like you're building up this connection
+list and then you can continue to raise
+the amount of people you're DMing every
+day. Um which is pretty cool. Um overall
+we have about a 15% positive reply rate
+on LinkedIn. Um it was a little bit
+higher than this. It was like 22. Uh but
+the reactivation messages once we added
+this uh it lowered it because I mean
+these people just have a lower reply
+rate cuz we already cold outreach to
+them. Um it's still worth it cuz it
+costs us nothing. Um but I think this is
+like
+probably like eight. So it kind of
+balances out to like 15% positive reply
+rate. Um so in total we get about 36
+positive replies a day on LinkedIn. Or
+sorry, this is just like LinkedIn uh
+close profiles. And then overall we have
+about a 2.5% booking rate from the
+amount of messages we send. So 240 cold
+DMs. Obviously this call gets sent
+automatically with personalization that
+we that we scraped here before, right?
+Uh and then this converts into about six
+meetings a day from LinkedIn.
+and then uh open profiles, right? So,
+this is people we can just send to,
+which is awesome. Uh we send about 300
+emails per day. Uh you can send to 40 uh
+you can send 40 emails a day per account
+at kind of a maximum.
+Um sometimes it like it doesn't let you.
+So, for example, like some accounts will
+be
+like they'll reach the limit earlier
+than other accounts. I don't know why
+that is the case, but sometimes it'll
+just cap you at like 200 emails a month
+and then some accounts will let you do
+like a thousand emails a month, but from
+the 12 accounts right now, we're able to
+send about 250 to 300 emails a day. Uh
+we get about a 3.5% positive reply rate
+on those um just cuz the the script we
+use here is a lot more direct than the
+script we use here. Um the script we use
+here is more similar to the email one.
+And then we get about 10 positive
+replies a day. Uh but these are more
+like intentful replies than these ones.
+Uh so, we convert these at a
+significantly higher percentage.
+Um so, these uh
+roughly these basically 300 emails a
+day. We have about a 0.5% ABR
+and this turns into about 1.5 uh
+meetings per day. I'm pretty sure we
+just changed the script recently here um
+and I'm
+fairly certain we can get this up to
+like 0.7 or 0.8. Um but this is
+currently what it is right now.
+Um and that's basically that. So, if you
+add all this up, uh it's about 14
+meetings a day. 1.5 + 6.5 is
+uh eight and then plus six 14, yeah. So,
+the way that we convert these, this is
+kind of the the big
+uh thing we do here, right? The way that
+we actually convert these positive
+replies into meetings
+um is basically So, we have two
+appointment setters. So, I have a one
+setter that just sits in the Heyreach
+campaign all day and I have one setter
+that sits in the Instantly campaign all
+day. And the guy who's doing this, he
+basically dials every single lead. So,
+he makes like he dials like all these
+people plus he dials the like the
+follow-ups. So, he makes like 70 80 90
+dials a day. Um basically what he will
+what we'll kind of the KPI we have for
+our team is that you have to respond
+within 5 minutes of a person replying
+back to you, right? So that's kind of
+KPI we have and this like dramatically
+will increase your booking rate because
+if someone's like
+"Yes, I'm open to chat." and you
+immediately send them the booking link,
+the likelihood that they book goes
+significantly higher.
+If they do not book or reply back again
+within 10 minutes after that, what we do
+is we have this guy double dial them. So
+he just we have a we use CloudTalk as
+the software but we're looking at
+some other ones but right now that's
+what we're using.
+And he'll just call them.
+And then we have a small little script
+that's basically like a small discovery
+call
+basically asking about their problems
+and how we can help and all that
+And then we we basically book them onto
+a call.
+and that's pretty cool. And then we have
+after if they don't pick up this call
+like if they pick up the call, we
+obviously try and book them.
+And if they do not pick up the call,
+then we will double dial them every
+single day and follow up with them on
+email and follow up with them on
+LinkedIn every single day like all of
+these people all of these like what is
+16 52 62 people every single day for 8
+days straight.
+And then we get a bunch through there as
+well. So that's basically the whole
+strategy that we use to get a ton
+of meetings. I hope you enjoyed and I'll
+see you later.

@@ -1,0 +1,1530 @@
+Welcome back everyone for another
+episode. I'm super excited to introduce
+Kassm for our third episode. We have a
+nice little three-part series going on
+now. Um, and he's been one of our most
+requested, actually, our most requested
+guests to come back. Um, so
+>> you just said that to all the guests.
+>> No, for the last uh the last two uh
+episodes we did, I had loads of more
+people DMing me about it just like with
+their takeaways and what not last time.
+So, um, you dropped some dropped some
+gold and uh let's do it again. But uh
+for anyone who's uh doesn't know Kassen
+has been living under a rock or has
+shamefully missed our last two episodes
+which I'll link down below you guys can
+catch up. Uh Kassen has built six seven
+eight figureure companies which is
+insane and exited two of them. And when
+we did the first podcast like a year and
+a half ago you had built four at that
+point. So this man is just churning out
+seven to eight figure companies. Um and
+one of the main reasons he's able to do
+all that and actually still have a life
+and a family and free time is because
+he's really mastered hiring and
+delegation and just wrote an awesome
+book on it. and that's going to be the
+bulk of the conversation today. But uh
+anyways, welcome uh welcome back, dude.
+>> Yeah, thanks for having me, brother. I
+appreciate you.
+>> Yeah, looking forward to looking forward
+to chopping it up. So, first of all, I
+think it's been like six, seven months
+since we last chatted. What's um what's
+new in your world? What are you working
+on now? What are you the most excited
+about these days?
+>> Man, I uh I own AEO.co. Do you know what
+AEO is?
+>> Yeah.
+>> So, most people don't know that SEO has
+already achieved force obsolescence. 65%
+of all searches result in zero click.
+>> Really? Wow.
+>> I I I just bought my children
+Chromebooks. My sons are eight and 10.
+And I've been thinking about their
+future and I'm like the only two skills
+I can see on the horizon are of course
+AI and then B would be authority
+building. And so I bought them
+Chromebooks and the only thing they're
+allowed to do with their Chromebooks is
+use AI and and right now they're using
+Bolt.new to create video games which is
+fun to watch. They figured that out by
+themselves. I didn't know anything about
+Bolt. And uh shoot YouTube videos. And
+so I buy him this Chromebook for that
+purpose. And when I'm setting my boy's
+Chromebook up, the thing that blew my
+mind, dude, it made me feel so old. The
+Chromebook default browser, of course,
+is Chrome. Guess what the Chromebook
+default search engine is?
+>> Um,
+what is it? Gemini,
+>> homie. There isn't one.
+>> It's not search. It's Gemini. You nailed
+it.
+>> But it's not it's there is no search
+engine.
+>> Oh, they've removed it entirely.
+>> The whole thing. You don't. So you and I
+when we use Google because Google's
+trying to like segue us into kind of
+this new framework. We see Google search
+generative experience is what they used
+to call it. I think they're just calling
+it AI mode now. And then beneath that we
+still see search results. My chillins
+>> only see Gemini. like they don't which
+is mind-blowing for so many reasons
+because it's it's Google's still it's
+you know 80 some odd percent of their
+gross revenue comes from Google search
+ads and they're and they're sunsetting
+their highest performing
+not highest what I mean it's all it's
+every I don't know bro it's it just
+blows it just it just it changes the way
+we have to think about the knowledge
+graph and so and so if you think about
+that for a moment the new endeavor is
+going to be answer engine optimization
+and All the SEOs in the whole wide world
+are saying it's the same thing and it's
+not. I have six employees who've done
+nothing but for the last 12 months for
+full-time, AJ, one employee manages the
+other five. So, five employees full-time
+every single day. Each employee does uh
+an analysis. Do you can I show you? Do
+you want to see some data?
+>> Yeah, for sure.
+>> This is really cool, dude. I don't know
+how far a field we want to go. I didn't
+even mean to talk to you about this, but
+here we are. So, this is the the task
+that's being undertaken. Let me share my
+screen. If you're listening, I'll do my
+best to kind of explain as we go. And if
+you're watching, you're going to maybe
+have a better experience.
+>> If you're listening on the podcast,
+we'll share the YouTube down below
+after.
+>> I'm excited for this. Yeah, because
+honestly like I I feel like I've heard a
+lot about AEO recently, but it's like
+it's like I even I won't even know where
+to look or who to learn from cuz it's so
+new, right?
+>> So, I own the largest AEO community uh
+on school. You can go to school.com/eo.
+Um, we're about to roll out a free
+version of it, but this is, so this is a
+snapshot in time. This is June 20, uh,
+June 11th, 2025. Uh, the gentleman who
+did this study, his name is Maten, and
+I've got Matine and four other people,
+five people doing this full-time. So,
+Matine does 20 queries a day. And, and
+we have them across 10 different
+categories, the usual suspects. So,
+there's like local brick and mortar,
+SAS, e-commerce, professional services,
+info marketing, etc., etc., etc. So, I
+just happen to use Prof brick and mortar
+for this particular slide. This is what
+I use for some of my talks. Uh you can
+say I was at Genius Network here which
+is why this is called Genius. And he
+does 20 queries a day. So here's query
+one which is best boutique coffee shop
+in Kingman, Arizona. And then query two,
+where to find specialty coffee in
+Kingman, Arizona. Here's query 3 all the
+way down to query 20. Now the reason
+it's getting that granular is because
+Kingman, Arizona is a smaller enough
+geography to where it's it's easier to
+filter out signal from noise cuz there
+aren't so many boutique coffee shops and
+the the data repository, I think, ends
+up being far more valuable. So you take
+that query and you plug it into three
+separate LLMs. And we're really only
+testing five in total. We're testing
+Chat GPT, Perplexity, Gemini, uh, Grock,
+and then in some instances will use
+Notebook LM depending on the um, oh no,
+sorry, did I say Claude? JP, GPT,
+Perplexity, Gemini, Claude, Grock, and
+then in some instances, we'll cycle in
+Notebook LM for deep deep research. Um,
+but we we test three against each other.
+And to be honest with you, three at a
+time just because the data analysis when
+we try to do the numbers crunch is too
+hard to do any more than that. So you
+take this one query and you plug it into
+three LLMs. So in this instance, we've
+used Chachi, Petite, Plexity, and
+Gemini. [snorts] The LLMs give you an
+answer. But the question is is how did
+they get that answer?
+>> That's the that's the question that we
+used to ask for SEO, right? Why do you
+rank number one? So now I'm like where
+did you come up with that answer? So
+each one of the LLMs gives you a cit
+citation. So you can see that we've
+listed all the citations in the order
+that they were offered chronologically.
+So here's ChatGpt citations and then
+here's a list of Perplexity citations
+and a list of Gemini citations. And if
+you're listening, not watching, ChatGpt
+has five citations, Perplexity has
+eight, Gemini has five, but all of
+Geminis are Google local. Uh, [snorts]
+which makes sense because this is a
+local search. But hold on cuz this gets
+really interesting. We check to see what
+the overlap rate is between the
+citations and Google and Bing search.
+And statistically speaking, Chat GPT has
+a 40 to 60% overlap rate with Google.
+Uh, Perplexity has like a 60 to 80%
+overlap rate with Google. Here's the
+craziest part, dude. You ready for this?
+Guess what Gemini's overlap rate is with
+Google.
+>> It's low like close to zero.
+>> It's close to zero. Which means Google
+Gemini is not using Google's knowledge
+graph. They're building their own
+knowledge graph from the ground up. So
+chat GPT and perplexity are just
+googling for you faster and Google
+is building their own knowledge graph
+from the ground up using true true
+AIdriven indexing which means I'm super
+long on Google. It's why when you use
+chat GPT or Plexity or CL or Grock
+actually is an exclusion because it has
+its own data repository but they seem
+better when you talk to chat GPT you
+feel like you're like wow I'm getting
+really mature answers. Well, that's
+because it's going to to farm out of
+Google's very mature forest. And when
+you use Gemini, it's like, "Oh, I'm
+getting these little SL
+saplings." And that's because Google's
+growing it from the ground up. And the
+day they want to rip the rug out from
+everybody else, they absolutely can. The
+plot thickens. We take each one of these
+citations and then we study them based
+off of all the usual suspects. So,
+keyword matching, domain ranking, back
+links, page refs, total domains, page
+speed, schema validator, blah blah blah
+blah blah. The number one key
+performance indicator for SEO is link
+building and has been link building for
+the last 10 years. As a matter of fact,
+SEO is really nothing but link building.
+Argue with me if you want to, but you
+can't because that's why SEO.co, the
+Hoth, and Posy Rank all exist cuz you
+just go by links and then you rank. We
+give lip service to the idea of quality
+content, but that's not what moves the
+needle is link building. Guess SEO is to
+link building as AEO is to guess what?
+>> Uh, I don't know.
+>> Schema [snorts] markup.
+>> Say it again.
+>> Schema markup.
+Schema markup.
+>> Dude, I don't I didn't even know what
+the hell schema markup was. I built
+websites 20 years ago as and I remember
+hearing the words schema is basically
+like the table of contents for for your
+your website. LLMs love the living
+daylights at a schema markup. And then
+there's a whole bunch of other things
+too like there's an LLM.txt file that
+everybody's starting to use. There's
+zero indication in my data that that
+makes any difference whatsoever. And so
+I have five employees doing 20 queries a
+day, every single day for the past year.
+I have more data on this than any human
+outside of maybe Monik Bond who owns
+Search Atlas, but I I think my data is a
+lot different than his cuz he and I are
+going after kind of a different thesis.
+Uh and we're starting to crack the code
+on what moves the needle. And so I've
+launched this community ao.co. It'll
+probably end up being an agency. And uh
+I want to be the world authority and
+answer engine optimization because I
+think it's going to be I actually think
+it's going to eclipse search engine
+optimization because search
+search is a it's a Pavlovian exercise.
+It's prompt response. It's linear. You
+know, like if you're if you're trying to
+figure out,
+to use a benign example, let's say
+you're trying to figure out what car you
+want to buy, right? You would start very
+very very top of the funnel and you
+might say like, well, what what what
+cars have the best safety ratings? And
+then you figure and then it would give
+you 10 results and you'd have to go
+through those results and then you have
+to go back and and pursue each one of
+them and and take your own notes and
+then come back and then you're like,
+"All right, safety ratings aside, now
+that I know of the cars that I'm looking
+at, which one is the most reliable?" And
+now it's it like it's it's it's this
+linear, tedious, hard, long-term, and
+it's true for everything that you do.
+With AI,
+you give it the desired end result and
+and the commercial intent behind
+referred AI traffic is so high, dude,
+it's insane. My my friend John Moran,
+who was my business partner for a long
+time, he's the smartest Google ads mind
+in the whole wide world. Uh he drives
+more traffic than anybody I know. He was
+responsible for $100 million in ad spend
+when we sold our agency and and now he's
+doing all sorts of high-end freelance
+stuff. He works for for a private equity
+group that has a portfolio of like 40
+some odd businesses all positioned for
+either going public or exit. John is
+watching LLM traffic. And what's
+interesting about it is LLM traffic is a
+fraction of the traffic that he sees.
+Like a fraction of a fraction of a
+fraction. It's teeny teeny teeny tiny.
+But if you know a Google search referral
+has a 2% conversion rate and a meta uh
+social referral has a 3% conversion
+rate, a chat GPT referral will have like
+a 30% conversion rate 40.
+There's an article on on Hrefs about
+this, how the chat GPT's conversion
+because once somebody lands on your
+site, they're already sold. The funnel
+has been accomplished in app. And so I
+just do it. I think AEO is just going to
+be the thing. It's so much fun. It's
+also the wild wild west, too. So I would
+caution anybody against investing in it
+unless they're really willing to, you
+know, do the work because things are
+going to change. But now is the time,
+you know, the flip side of that coin is
+now is the time to really capture market
+share and establish yourself as a
+category think because billions of
+dollars in SEO equity are about to be
+wiped off the slate and uh it's it's
+pretty interesting to watch actually.
+>> Do you think um that is really
+interesting to watch and that's I didn't
+that's uh pretty fascinating that Google
+Chromebook just eliminated Google
+entirely. I mean that's a bold uh
+>> bold move but those guys obviously know
+a lot more than what we do, right? So
+that's a good sign.
+>> Yeah. Well, you know, it's funny. I'm
+I'm I've always been very long on
+Google. I actually think Google's AI is
+far far much farther along than they let
+on. I remember, you know, I spent so
+long in the Google game. If you're
+listening and you don't know this, I
+built the number one ranked Google Ads
+agency in the world and I sold it in
+October 2022. And I've never run a
+Google ad campaign myself and end in my
+life. Uh which means I just really sat
+there and watched smarter people than me
+working. And the thing that we kept
+seeing from Google is they had the
+technology like you know Meta had 55,000
+demographic and psychographic profiling
+factors for every human in the methere
+and Congress freaked out had a
+congressional hearing. It triggered what
+I think triggered GDPR to be frank. At
+the same time Google had 72 million
+factors. But Meta let everybody know and
+they let us target by it. And Google
+stayed very very very very very quiet
+until the legislation dropped and they
+saw where public opinion was and they're
+like, "Hey, here's and then they kind of
+veiled the targeting in really creative
+ways. I Google has a very good habit of
+letting other companies take the arrows
+because pioneers get slaughtered and
+settlers prosper and and they're okay
+with giving up market share in the short
+term, but then they come I mean look
+what they just did with Google. What's
+that thing called? Banana banana.
+Whatever the
+>> Yeah, nano banana.
+>> Nano banana.
+>> Dude, it's it's insane. All of a sudden,
+Google, which is losing the AIdriven
+everything game, except maybe VO,
+rolls this thing out that's the best
+that anybody's seen.
+>> Yeah. Out of nowhere. Totally. Yeah.
+>> Out of literally nowhere because they
+they and and note that it also came
+after you have all of this kind of, you
+know, settling. I I don't know who the
+legislative body is, but people trying
+to figure out like what are we going to
+do with these copyright issues? And
+there have been a couple of settlements
+already. I think the biggest one came
+from Claude, if memory serves. And then
+Google's like, "Oh, okay. We've got case
+precedent because Google's run by
+lawyers. We know exactly how to approach
+this." And bam, they've got the baddest
+ass AI tool you've ever seen in your
+entire life.
+>> So, for those of you listening, bro,
+I've only ever lost money in the stock
+market.
+>> If you want to make a ton of money, AJ,
+just do this. Anything I I buy, just
+short 24 hours before. Short a stock.
+Tell me you shorted it. I buy it. God
+sees that I bought it and it tanks.
+Okay? And then I guarantee you a billion
+dollars. This is this is a hundred times
+out of a hundred. So, I'm the dumbest
+stock investor in the world. That said,
+Google go by Google. Like why wouldn't
+you? Cuz they they're the only company
+on the planet except maybe Amazon and
+Apple. And there's reasons why Amazon
+and Apple can't do it. They're the only
+company on the planet with the knowledge
+graph to actually build AI. Name another
+company that's been indexing the entire
+web since the infasy of the web.
+Basically,
+>> yeah,
+>> there's, you know, Amazon has AWS, but
+they can't use that content according to
+the terms of service unless they've
+modified it. Apple has the window
+through which the most valuable
+consumers view the internet world. And
+they've taken a really weird stance on
+tracking and data acquisition.
+>> And so I don't see Amazon or Apple
+really being able to compete in those
+ways, at least not anytime soon.
+>> Bro, Google's it. Google's the only
+they're the only ones that have it. So
+anyway, that's my tirade on AI and AEO
+and all that garbage.
+>> Yeah. I mean, when AI first kind of came
+out, or at least, you know, the
+mainstream AI came out with CHBT, I felt
+like Google would be the one to take the
+cake because of just all that data,
+right? But then it was kind of weird how
+they lacked a bit, but that it makes a
+lot of sense what you said that they're
+just kind of more in the more in the
+shadows.
+>> They're holding back.
+>> Yeah. Well, uh, one more thing I add
+before we move on because I definitely
+want to talk about your book and your
+hiring, uh, secret sauces. Uh, what what
+across your portfolio companies, what
+are some of your favorite ways you're
+using AI right now, whether it's
+operations or marketing or what what are
+some cool things you guys are doing?
+Well gosh, what a good question. First,
+so I own Pareto Talent, which helps uh
+find, train and place uh what we call AI
+enabled EAS.
+>> And my very strong opinion is that AI is
+not a top- down endeavor. It's a
+bottom-up endeavor. And what I mean by
+that is, you know, picture for a moment
+the the archetypal
+uh warehouse, right? So, like you're in
+Detroit in the 1940s and you've got the
+fat cat with the cigar up on the
+mezzanine looking down at all the peeon
+workers and you know he he snaps his
+fingers or points or whatever and
+decides what changes and how it changes
+and everybody hops to. Okay, so that's
+that's the that's the assembly line
+paradigm through which we view business.
+Even if people don't want to admit
+that's how they view it, I know that's
+how they view it because I I watch how
+people run their companies. Uh it's the
+mezzanine approach top down. The problem
+with that is when Fat Cat starts
+pointing and saying,"I want that whole
+assembly line, you know, here's we're
+building this automobile and I want the
+entire windshield department to start
+using AI top down." It's it's a mallet
+of a solution that that doesn't work yet
+because AI is not sophisticated enough
+to to just say go press the AI button.
+What needs to happen is is it has to
+happen from the bottom up. So, you've
+got, you know, uh, uh, Jeffrey McGregor,
+a third generation Irish immigrant
+working on the line just like his daddy
+did and his daddy did, who knows his,
+you know, he's building the pistons to
+the I don't know anything about cars,
+dude. So, I'm going to say a bunch of
+words I don't understand, but he's
+building the one thing that he's known
+how to build his entire life that his
+dad taught him and his dad taught him,
+which means he really understands it on
+an intricral level. And and if if
+McGregor says, "You know what? When I
+when I insert the piston uh immediately
+after greasing it, there's this point
+where I'm I'm spending a significant
+amount of my time cleaning this rim.
+That could be automated. That part, you
+can't automate the insertion because the
+the the QA requires optics that's not
+available. And you actually can't
+automate the pass off because there's no
+bridge between my machine and the guy's
+machine next to me. But the rim cleaning
+can be can be automated. And that's you
+know you might I don't know. I think
+it's a good enough example. I'm just
+going to leave that as it is. That's the
+way to roll out AI. So this whole like
+this weird obsession that people have
+for just force-feeding AI to their
+businesses, their employees, their
+clients, their strate, it's so
+catastrophically damaging because
+they're they're taking everything that's
+bad about AI and suffering from it and
+everything that's good about AI and not
+allowing themselves to benefit from it.
+What needs to happen is you need the
+people who do the work to implement AI
+tools on a granular level in in sequence
+slowly and and slowly by the way builds
+equity and snowballs and becomes very
+quick over time. But that's why I like
+AI enabled EA. So when you ask like
+what's your favorite way to use AI?
+Dude, get get in the weeds. Get in the
+weeds and that's the best way to use AI.
+That's when you and there's still tons
+of human intervention necessarily. I
+really like Sean Py had this great
+podcast on my first million where he
+talked about the K-shaped economy and
+the K-shaped economy. The base of the K
+is the the the line in the sand. It's
+right now and the downward trending case
+is 80% of humanity falls to absolute
+zero productivity. They're superfluous
+to the productive endeavor. Universal
+basic income. Here's money. Stay at
+home. Watch Netflix. We don't need you.
+20% of people spike to a level and
+degree of productivity that will make
+them feel and look like demagods. And
+that's that's what's going to happen.
+But in order for it to happen, you can't
+just prompt the result. You need a
+person who understands when to use the
+tool, how to use the tool, what tool to
+use. Even if it's a tool using the tool,
+you know, there's still there's still
+that kind of interaction. And and I do
+believe that interactivity will taper
+obviously, right? It would have to. But
+then that's when we start to approach
+AGI and that event horizon, bro. Make
+your money now because when that
+happens, you know what I mean? Like I
+don't know. I'm glad I'm rich now, dude.
+I don't know. I I really mean that. I
+feel I I'm so I I'm so intimidated by
+this new environment and I made my money
+when the when the world was still stupid
+and and I made all my money a dollar at
+a time. Like I'm not a you know the
+smart guys made their money with SAS.
+The almost as smart guys made their
+money with ecom. I made my money in
+professional services. It's just the
+dumbest least sophisticated you know but
+that's all I knew how to do. I couldn't
+figure out the other two categories. And
+now
+you It's funny cuz SAS is getting eaten
+alive. Ecom's getting eaten alive and
+professional services that it has this
+moment. We've got I don't know what,
+five years to really meant money. But to
+mint money, you have to do things that
+don't scale. And it's so
+counterintuitive cuz our whole
+professional lives, the whole world's
+been saying scale, scale, scale, scale,
+scale. I used to say those words. I used
+to say, "If it doesn't scale, I won't do
+it." Scale is bad. I own scalebad.com.
+Scale is the death of profitability, not
+of value, right? If it scales, it's
+still valuable. ChatGpt scales to
+infinity. and what chatgpt outputs is
+valuable, but it's no longer profitable.
+You couldn't charge somebody for a chat
+GPT laden output. [snorts] At least not
+a person in the no. Maybe there's some
+ignorant people that are still on AOL
+dialup and you could sell them chat GPT
+outputs, but they're the people that buy
+the encyclopedia on the yellow pages,
+right? Like they don't know what the
+hell they're doing. Scale kills
+profitability. As soon as something
+becomes ubiquitous, it doesn't mean it's
+not valuable. It means that it's not
+profitable. So, what people need to
+start doing if they really want a
+profitable business is to focus on the
+things that don't scale. I'm training
+and placing EAS. Dude, that is the least
+scalable endeavor in the world. Takes a
+thousand applicants to produce one
+executive assistant. Like, wo god. You
+know what I mean? Like, that's hard and
+it's a pain in the ass. And and you deal
+with personalities, not just the A's
+personality, but entrepreneurial
+personalities. And I'm teaching people
+to delegate. And we're But that
+non-scalable endeavor, crazy profitable
+and so much fun. So, if you if you're a
+young entrepreneur listening to this
+right now and you want to know what to
+do, go find the thing that doesn't
+scale. everything that scales. It's so
+weird that we're still buying into this
+weird mantra. You got all these idiots.
+Every time I open my Facebook feed,
+dude, there's some idiot saying, "I
+built a business in a weekend and you
+can too." And I'm like, "Listen to
+yourself.
+You just you just described why it's no
+longer valuable. Look at how quickly and
+easily anybody with internet access can
+can perform this task.
+I.e. look at how and why nobody should
+ever pay to have this task performed
+again." you know, like, so is there an
+arbitrage play? Yeah, but god is it is
+is is the timeline limited and
+>> you never ever ever ever ever ever ever
+know when the when the bottom's going to
+fall out on you.
+>> So anyway, that was a bit of a soap box,
+dude. But that's the best I can do with
+that topic.
+>> Well, no, that's a cool perspective
+because honestly, I remember when once
+AI started getting big, uh it was a lot
+of the agencies that were a lot of my
+agency had friends were freaking out
+thinking like, oh, this is going to
+really kill our work. Our clients aren't
+aren't going to want to pay for like
+high quality work. But you're saying
+it's the the opposite, which makes sense
+because while everyone's obsessed with
+automation, like hight touch services
+and relationships and all of that. Um,
+and like customization, all of that will
+will be what's more valuable
+essentially.
+>> Bro, answer your phone.
+>> Yeah,
+>> this is this is radical as hell. AJ, you
+ready for the most radical
+recommendation anybody's ever made in
+the world of business? That if I if I
+call somebody and a real life human
+being answers, my mind is blown.
+>> I'm just like I I am so tickled pink.
+And if they if they speak in an accent I
+can understand, you've got me forever.
+Like I'll propose forever. I mean, at
+that point, it's just this weird this
+this I'm trying to work myself out of
+every facet of my business that's
+difficult so I can sit my ties by the
+beach. Tim Ferrris's dream. It It's
+gone. It's gone. It's there's no such
+thing you know like obviously that was a
+microcosm brought about by the disparity
+and understanding that the interet
+provided and was temporary and now AI
+collapses that
+>> obviously right so yeah man there's a
+bunch of people if you're chasing quick
+or easy money you there's still a ton of
+money be made but it's going to look and
+feel and smell and sound like really
+hard work you know and people that don't
+like to work I you know I don't know
+Man, you know what? Actually, you're
+going to be fine cuz universal basic
+income is going to be the the ubiquitous
+truth and the whole world's going to get
+paid to stay at home and watch Netflix
+if they want to. I hope. Otherwise,
+we're going to see Blood in the Streets.
+Um
+>> we'll see.
+>> It's going to be We're living through
+definitely quite a moment for sure. Um
+it'll be it's fun to fun to watch. Uh
+and a little bit scary, too. But yeah,
+we'll see. We'll see how it all plays
+out.
+Well, um, dude, tell us, uh, tell us
+about the book, Hire, how to attract,
+hire, and manage the best remote talent
+in the world. Why did you write it? And
+I would just love to hear a little bit
+more about your hiring philosophy, like
+the main kind of premise of it, cuz you
+said you read all the books on hiring
+and then created this out of what's, you
+know, what you couldn't find or what you
+learned from your own experience. And by
+the way, for listening, we'll give you a
+or Cass will give you a free copy. So,
+we'll put a link down below and a bunch
+of resources because he's super
+generous. So, we'll share that uh as
+well. Yeah, tell us about it.
+>> Go to thehirebook.com and you can have
+the the audio book, all the resources.
+I've got a global job posting board with
+every job uh board on the planet. Um all
+the templates, checklist, cheat, cheat
+sheet, download and the book. I've got
+the advanced reader copy and a PDF
+version that you can have. It's
+absolutely free. There's no ascension.
+I'm not going to sell you something on
+the back end. Uh the book is it's based
+I've spent 20 years in the
+entrepreneurial world cracking this one
+code. The one thing I I truly am world
+class at, dude, is talent acquisition.
+Uh, I've built six multi-million dollar
+businesses. I'm working on my third exit
+right now. And at the risk of sounding
+horribly arrogant, uh, I there's not an
+industry I can't conquer. And it's not
+because I'm smart. It's because I've
+acknowledged
+my limitations. I'm so much more
+successful than I deserve to be if the
+benchmark for success is intelligence. I
+agency in the world. I've never run a
+Google ad campaign myself and in my
+life. I had the highest performing real
+estate investment campaign on the
+planet. Well, in the United States uh
+before I knew anything about real estate
+investing or lead generation. I own the
+largest English speaking monastery
+community in the world. I'm not a
+trained monator. I didn't go to
+monastery school. I have a 10th grade
+education. The only thing I'm good at is
+talent acquisition. And when you're good
+at talent acquisition,
+what else do you need to be good at? Cuz
+if you think about the entrepreneurial
+plight, every entrepreneur is trying to
+do it all themselves. So, if you're
+like, "Oh god, I have a finance problem.
+Got to go learn finance or bookkeeping
+or whatever. Oh no, I have a merchant
+problem. I have to go learn merchant
+processing. Oh no, I have a lead
+problem, a sales problem, an ops
+problem, a fulfillment problem, an
+ascension problem, a customer service
+problem. Got to go learn that thing."
+But if you get good at talent, it's
+like, "Oh no, I have an insert any
+problem here. Got to go find someone
+good at that problem." And then I will
+never have a that problem again along
+that level of analysis or that category.
+Period. So if you get good at talent,
+you you don't have to be good at
+anything. You don't have to be good at
+anything. And that's what I teach. I
+teach people how to find the key though.
+The the trick is finding peak
+performers. I call them Pareto talent.
+Pareto refers to the Italian
+mathematician who identified what people
+call the 8020 rule. It's not really the
+8020 rule. It it technically means the
+square the square root of the total
+participants are responsible for 50% of
+the output. But that's hard to say and
+even harder to wrap your head around. So
+people call it the 8020 rule. And the
+8020 rule says that 20% of the
+participants are responsible for 80% of
+the output. And it's true in every
+single organic ecosystem, which is
+insane. So 20% of the criminals commit
+80% of the crimes and 20% of your
+customers are responsible for 80% of
+your revenue. And 20% of the employees
+do 80% of the work. But what people
+don't realize is that number is fractal.
+And I didn't know what fractal meant.
+Somebody in a podcast explained it to
+me. So, just to offer a sterile example,
+if you have a thousand employees,
+200 are doing 80% of the total work,
+which makes sense if you I was a kid. I
+worked at a call center. If you've been
+in at a big company, you can see that,
+right? Like you got your peak performers
+and there's the eight team and they
+really do just crush it. But zoom in on
+those 200.
+When you zoom in on the 200, 40 are
+doing 80% of that work. And when you
+zoom in on the 40, eight are doing 80%
+of that work. And when you zoom in on
+the eight, what this results in is one
+per in a thousand person organization,
+one person is doing about 25% of the
+total work and eight people are. So it
+what's interesting about that is you can
+index towards those hires. And I've seen
+this in my own life over and over and
+over again. When I sold solutions 8, I
+sold in October of 2022 to a soft bank
+back martekch company for a low 8 figure
+sum. When I sold, I had 80 employees
+plus some contractors that were
+basically employees. So call it like a
+100 people. [snorts]
+One person managed 40% of my revenue.
+John Moran, greatest Google ads mine on
+the planet.
+>> One person managed 40% of my revenue out
+of a hundred resources, dude.
+>> Now, what happens when the Ivy League
+Goldman Sachs douchebag comes in as a
+consultant and says, "Oh, wait a minute.
+Look at this. That's keyman risk." What
+do they do? They mitigate the risk,
+right? They flatten the hierarchy. When
+you flatten a hierarchy, a hierarchy, a
+functional hierarchy is is shaped like a
+pyramid. The highest value assets go to
+the top of the pyramid. And what do they
+do? They institute minimums and quotas
+and they they redistribute risk which
+flattens the hierarchy. They're asking
+for and embedding mediocrity into the
+fabric of their business. It's insane.
+The only the only competitive advantage
+you and I have being small business
+owners is talent. That's it. Because
+there's trillion dollar organizations
+out there right now that have all the
+money, all the equity, all the time, all
+the legislation, all the lobbies, all
+the, you know, they've got it all. But
+bureaucracy leads to exactly what I just
+described. A bureaucratic environment
+cannot honor an individual human as
+though they were a a a unique and and
+God-given miracle. Right? And that's
+what the prototal, what's really
+interesting, it's a religious truth. The
+PTO talent framework adheres to the idea
+that every human being is truly a
+miracle. And if you have an employee
+base of five or 10 or even a hundred,
+you can run a business like that because
+a client comes in and they're like, "Oh,
+I you know, I I really need somebody who
+knows how to sweep chimneys." And you're
+like, "Dude, freaking Ryan. Let me tell
+you, I actually know the guy. I know his
+background. I know his education,
+watched Mary Poppins his whole life,
+loves loves sweeping chimneys. I'm going
+to put Ryan, right? I can treat Ryan and
+the client. I can I can I can couple the
+miracle that he is to the need. But as a
+business grows, people can no longer be
+miracles. People become commodities. And
+when a when a human being is
+commoditized, you nullify everything
+that's value about valuable about their
+humanity. As a matter of fact, here's
+what's really interesting. Treating a
+human like a commodity is akin to
+treating them like a robot. But the
+problem is is a human is not a robot cuz
+a human has to sleep and pee and has
+emotions. And so
+when you treat humans like AI, you get
+everything that sucks about humanity and
+nothing that's good about AI, right?
+because the human doesn't have any of
+the prowess of the AI. And then so and
+and we flip it. We treat humans like AI
+and we treat AI like humans, we're doing
+both wrong. But if you treat people like
+like true
+God-given unbelievable miracles, if you
+hold that expectation so high, that's
+why it takes a thousand applicants to
+produce one EA cuz my expectations are
+so so so so high, dude. But then I end
+up with these people that are Pareto
+talent and they run through walls.
+They're the greatest people you'll ever
+hire in your entire life. And I have a
+whole framework. There's seven steps. So
+seven you're seven steps away from
+hiring the best person who's ever been
+on your team
+and that's the book and you can have it
+for free.
+>> Yeah, that's awesome. So what um and
+actually when you first introduced you
+walked through it uh like two years ago
+when we first connected and uh we first
+time we had you on the podcast um I've
+been following that structure since then
+and now my team is like epic like we do
+the like every step of it the test
+project is great um and yeah it
+absolutely absolutely works. Um, but I
+didn't know you go through that many
+people to find one. EA, that's insane.
+What are you So, what are you looking
+for? How do you spot a player talent?
+Like, when you're going through a
+thousand people to find one, like what
+are some things, some non-obvious things
+that you're looking for to spot these
+people,
+>> dude? So, you have to hire for will and
+train for skill that that becomes less
+and less true if you're like, you know,
+oh, I need a heart surgeon. Obviously
+need somebody train on heart surgery,
+right? I I absolutely have to have a
+Ruby on Rails developer because of this
+specific thing. So those exceptions
+aside, what's interesting about
+especially in a postAI world, all of
+those skills, I believe very strongly,
+and I'm going to say something that's
+petulant and might offend people and may
+even sound like hubris. I think I could
+do heart surgery if I had AI, YouTube,
+and a heart surgeon looking over my
+soldier. You know what I mean? Like
+>> why couldn't I do that?
+>> AI. So even the Ruby on Rails example,
+>> skill is is becoming on a fundamental
+level. [clears throat]
+Null.
+You want people who are proactive,
+thoughtful, problem solvers, follow
+through, keep to their word, all the
+things that mama taught us, right? Like
+it's it's the CVY Steven CVY character
+ethic versus uh personality ethic.
+That's what we're testing for. So like
+my model, the framework that I I give
+people, the framework I gave your
+audience two years ago, all it does is
+it's a thousand people because you put a
+thousand people at the top of the funnel
+and then you make it really really
+really really really really hard to get
+from the top to the bottom.
+I call them fly traps. Lots of little
+fly traps. And if they get from the top
+to the bottom, chances are they're one
+of the best. And it's, dude, here's the
+thing. It's not hard. It's tedious. It's
+tedious. But but people that can go
+through that tedium and they can solve
+those problems. They end up being
+absolutely invaluable. And the way to
+get them there is to make you have to
+put a pot of gold at the end end of the
+rainbow that's worth it. So employers,
+every employer I know is trying to pay
+the absolute least they can and get the
+most they can. You got to flip that. You
+have to pay 10% more than the high water
+mark, which is people mishar me when I
+say that. They say like, "Oh god, 10%
+more cost. I can't afford that. You
+don't understand my business, my
+margins, my model." And I'm like, "No,
+no, no. You don't understand math." Cuz
+when you pay 10% more, you don't get 10
+or 20 or 30 or 50 or 100% more. You get
+three times, five times, 100 times. And
+I see that over and over and over again.
+So the math can't not math. This math's
+in your favor. And then they say, "Okay,
+fine. Well, if you know if the window
+for this salary is 80 to 100 golden
+stones, uh, you know, 10% more than 80.
+And I'm like, no, no, no, no, no. 10%
+more than the high water mark is 110.
+And to get people to swing from 80 to
+110 is damn near impossible. But if you
+can do that, and it's not just about
+paying money. You pay with a lot of
+things. Respect, time, resources,
+culture, uh, benefits. Treat people like
+adults. Be a fun place to work. You know
+what I mean? Like honor them. I like to
+let people work from home on a
+semi-flexible schedule doing meaningful
+work. And if you do that and you pay
+them more than they could ever make
+domestically, especially in
+international markets, dude, you get you
+get
+I mean they're like
+they're mystical, bro. Like they're you
+know what I mean? They're they're hard
+to describe or define. My personal CFO
+Stein, he's a college professor in
+Argentina. Poor guy lost the geographic
+lottery. If he was here, he would be a
+CFO of any Fortune 100 company. He is a
+a literal genius. I'm not using that
+word in in the way that we've kind of
+bastardized it. I mean, his zone of
+genius is the financial analysis of a
+company. I have a portfolio of 17
+businesses. He's the CFO of all of them.
+And I pay them more than he he'd ever
+make domestically ever by I hope
+significant margins. But he costs me
+less than a CFO than a CFO's assistant
+would cost here. It's such a win-win.
+and and he doesn't have exposure to the
+opportunities that people do here. So, I
+go after international talent, pay more
+than anybody's willing to pay in that
+market. And and then just love on
+people, dude. Like, actually treat them
+like real life humans. Let them do work.
+Delegate projects, not tasks. Don't
+micromanage, you know? And if you do
+that, that's that's that's the key.
+That's the the easy button.
+>> Yeah. Yeah, I mean I think this
+international talent thing is just such
+a win-win arbitrage because you can pay
+above the market rate but still be
+saving money from what you would pay if
+you're hiring locally or in America,
+right? So it's like um yeah, it's
+definitely definitely a win all around.
+What um so you mentioned a couple things
+just around how to actually keep them
+happy. So semiflexible schedule
+obviously paying them well benefits like
+what else when you think about retaining
+these people, right? Because obviously a
+players can get they can get a job
+anywhere, right?
+Yeah. So my favorite thing to say
+everybody's question is how do I retain
+top talent? And my answer is you don't.
+You don't retain top talent because top
+talent doesn't want to be retained. And
+top talent wants to grow. As a matter of
+fact, there's, you know, there's a
+litany of studies. I have them cited in
+my book that peak performers prefer
+growth to comp. So even if you pay more
+and more and more and more, at a certain
+point, if they're not growing, if
+they're not learning, if they're not
+expanding, they're going to leave. And
+again, going back to hierarchies,
+hierarchies taper at the top. So, as
+your business grows, you're going to be
+able to ascend a lot of people. You're
+going to be able to grow them within
+your organization, but a lot of people
+aren't going to have room to grow. So,
+what I tell people is one, give me two
+years, which isn't too too too long an
+ask. And what's nice about the 2-year
+time horizon is generally speaking, the
+cost of hiring, training, and then, you
+know, upboarding an employee is recouped
+and then profited within the 2-year
+window, depending on your industry. But
+that that can be a general truth. You
+have to do your own math. Uh, I ask give
+me 2 years and before you leave, find
+and train a replacement and if you're
+willing to do that, I'm going to help
+you leave. So, Colin Schmemell's my
+favorite example of all time. If you go
+to Twitter right now or X, uh, the most
+famous Google Ads mind and X is Colin
+Schmemellbeck. Colin Schmelbeck was my
+employee. And when I hired him, I knew
+he wanted to go off and start his own
+agency. So, I said, "Hey buddy, give me
+two years. Find a trainer replacement."
+He did exactly that. I benefited from an
+extraordinarily brilliant human for 2
+years. And then when he went off on his
+own, I very publicly started to refer
+him work. All my employees saw it. And
+what was really interesting and it came
+full circle, he started to refer me work
+too, which I didn't necessarily see
+coming, but he he didn't want to build a
+big agency. He wanted to just be like,
+you know, the the assassin freelancer
+type. And so he'd he he'd skim all the
+best clients off the top. And then
+anybody who had like difficult
+infrastructure issues or attribution
+issues, whatever, he'd refer back to us,
+which those are my bread and butter
+clients. I had another one, Danish Rafi.
+He was this Pakistani VA. He's just a
+kind of a freelance kid who I hired
+full-time to like do digital handyman
+work for me. He ends up getting so good
+and he and he grew his own business. He
+spun off. I'm referring him work all the
+time. At one point he shoots me an
+email. He goes, "Hey man, I have a
+client that's way too big for me. Do you
+want him?" He sends me Jay Abraham.
+>> I end up on the phone with J. Abraham's
+CMO because a Pakistani VA somehow was
+referred Jay Abraham and decided, "Dude,
+I can't. this is too this is too big a
+bite for me. I can't take it. So, be
+very public about the growth
+opportunities in your business, but also
+outside of your business. Because what
+ended up happening at Solutions 8, we
+became an aspirational company. I had
+people come work for me that could and
+were making more freelance than I could
+afford to pay them, but they wanted to
+be in the organization. They wanted to
+learn. They wanted that peer group. And
+it helped them build pedigree. They they
+got to spin off and launch their own
+agencies. I have so many friends, people
+that I used to employ that that were
+able to build their own agencies on the
+back of what it is that I had. And so
+don't try to retain, try to grow people.
+Be that be the launch pad for them.
+>> Yeah, I love that. That's awesome. Um,
+and you mentioned about, you know, get
+you like you'll get that ROI back within
+2 years. What about in the first few
+months? Like how how soon are you
+expecting someone to reasonably make an
+impact? And also, how soon do you cut it
+off if it's not working out? Like like
+that balance between if someone's kind
+of just Yeah. Yeah. Second question
+first. I I hire slowly fire quickly if
+somebody's not a fit. And dude, I'm
+actually getting more and more petulants
+as I get older. Like if I just don't
+feel like you're a fit, I'm like, "Hey
+buddy, this doesn't feel right to me."
+>> We talk and now now I I don't pull the
+plug right away cuz I don't want to be
+cavalier with people's lives. But first,
+I hire everybody on a on a 60 to 90day
+trial depending on the role.
+>> And I ask them, let's say this doesn't
+work out. Flash forward 60 days and for
+some reason it's not right for you, it's
+not right for me. What kind of position
+are we putting you in? Are you walking
+away from a 20 or 10 year job that
+you're about to get retirement from? you
+know, like I want to make sure I'm not
+playing with people's lives and they're
+willing to take the risk once we're
+there. If they're not cutting the
+mustard then, and this is what
+entrepreneurs really bad at,
+>> hyper communicative. So, we hop on I
+learned the rule of three from Ryan
+Dice. First time you make a mistake,
+it's my fault, obviously. Hey, AJ, you
+made a mistake. I know you're smart,
+conscientious, proactive, human, and you
+never would have done that if I gave you
+the resources or explained to you why
+this is so so important. So, can you and
+I talk about this cuz this is really
+important for me and it's an absolute
+dealbreaker and I just want to make sure
+we're on the same page. Cool. Cool. Put
+it in writing. Got it. Second time you
+make that mistake, it's your fault. Hey,
+dude. We just had this conversation. You
+got to tell me what the hell's going on.
+And if if you can convince me that
+there's a disconnect or that you can do
+better, then we'll have another at bat.
+If not, we're we're over. And the third
+time you make a steak, you're fired. And
+I don't mean a mistake like I dropped
+the glass and it broke, right? That's
+like human error. That's but I mean like
+negligence, not paying attention, not
+doing it right. Just failure. So real
+honest, not even honest failure. What
+would you call it? Dishonest failure. Uh
+so that's the second question. The first
+question is um people are never going to
+run faster than they do in the first 90
+days. And so what entrepreneurs do
+really really poorly is they ramp people
+up slowly. They're like, "Hey, come on
+in. Sit down. Take it easy. You're going
+you're going to spend your first two
+weeks watching training videos and then
+then you're going to shadow Sally. She's
+been here for 80 years and and she'll
+explain everything to you. And then once
+that's done, we'll give you your first
+client and you can but they're going to
+be small and and and you know you're
+going to be able to just they're also
+made of rubber so if you drop them
+they'll bounce and and then if that
+works out then we'll start to and it's
+like dude by day 90 that person is like
+lulled to sleep. They're [snorts] never
+going to run faster than they do in the
+first 90 days. So when I hire people if
+there's 10 things a person can get done
+in a day they should always have 12 on
+their list. Now I'm very I'm very clear.
+I do not expect you to do 12 things a
+day. This is a 10 unit day. I want you
+to get 10 units done. But it's up to you
+to manage expectations and communicate
+as to what you're pushing and why
+because you're a proactive human and you
+went through my hiring process and I
+know you're capable of doing that. And
+Parkinson's law says that work's going
+to expand in the time allotted, right?
+>> So don't all lot so much time. Like make
+sure they always have something to do
+and that puts them into a cadence to
+where they're really and dude trust
+people. If you hire somebody for a role,
+throw something at them, you know, throw
+something big. Like I have an EA right
+now. I own AEO.co. As I mentioned
+earlier, my EA, Julian, who now isn't an
+EA any longer, he wrote the book,
+created the community, and manages all
+five data analysts.
+>> That's amazing.
+>> From the ground up, dude. He built a
+whole business literally from the ground
+up. And, you know, I started to test him
+out in the very beginning. We tried to
+build a couple different things together
+and I saw what he was good at and what
+he wasn't. And then, bam, I've got a
+whole business in a box that the guy
+built. took a year, you know, like it
+takes time, but if you're willing to
+invest that amount of time, like man,
+you get you get a lot out of people.
+>> Yeah. So, you'll you'll typically you'll
+start someone as an EA just to give them
+a variety of things and see where they
+shine and then promote them to something
+else over time based on that. That's
+>> I call it the 262 framework. So, this is
+why EA is my favorite role because it's
+the only role where you're allowed to
+not have a job description. Uh, in the
+two 262 framework, you give somebody 10
+things to do. They're going to suck at
+two of them. They're gonna be horrible.
+They're going to do six just fine. Check
+the box. Great job, kid. And they're
+going to do two better than any human
+you've ever encountered in your entire
+life. And what the entire professional
+world has been trained to do, and I
+don't know why, is to go focus on the
+two things they suck at. And to say,
+"We're going to get you there, and
+here's a performance improvement
+program." And you know what I mean? It's
+like, stop that. If you judge a fish by
+its ability to climb a tree, it spends
+its whole life thinking you're stupid.
+Stop making them do those two things.
+Keep the six on their plate if you need
+to keep them busy, but go focus on the
+two things that they're extraordinary at
+and build a whole role around that. My
+first EA became my director of
+automation. My second EA became my
+director of social. My third EA became
+my CTO, my business partner, and now my
+best friend. Like, it's unreal the the
+incubator capability of the EA role if
+you use it right.
+>> Yeah. Yeah. That's awesome. Um, so once
+you have these people, once like once
+you're building your team out, what are
+uh what are some of the mistakes you see
+people make with delegation or some of
+the best things you've learned? Cuz
+actually it's it's one thing to actually
+find the right person, but then to
+actually manage them um and delegate
+properly and like get out of the way,
+right? And make sure things don't like
+fall or blow up in the process when
+you're when you're passing things off.
+>> Yeah. Well, I think things can and will.
+And so here's the thing that sucks is
+people delegate something and then it
+doesn't go the way they wanted it to and
+they're like I'll never do that again
+which is there's no way especially you
+know let's say that you've been doing
+whatever you're doing for at least a
+decade. You expect this you know green
+bean fresh newbie to come in and step up
+to the plate and knock it out of the
+park and impress you. That's not going
+to happen. So delegate projects not
+tasks. If you're delegating tasks you're
+a micromanager. You're not really
+delegating at all.
+>> In the beginning delegate smaller
+projects safe you know it's training
+wheels. It gives them the ability to
+take a swing and then you get to see how
+good they are. But and this is the most
+important part. Authorship creates
+ownership, especially for peak
+performers. All of us hate backseat
+drivers. And so if you sit there over a
+grownass human shoulder and they're
+creating something and you're like, "Oh,
+you know what? Change that square to a
+circle and change red to blue and I
+don't like where you put that line."
+Consciously or subconsciously, they take
+their hands off the wheel and they're
+like, "All right, AJ's driving." And now
+for the rest of that project and their
+life, that's your responsibility. So if
+it fails, if it works, if it if it
+doesn't work, that was your thing, dude.
+You told me change the square to the
+circle. And and even worse, if it does
+work, that's not theirs. They don't have
+any pride of ownership in that, right?
+So you give people projects, you let
+them do the project, and the only thing
+you're allowed to critique is that which
+is objectively wrong. Hey, just so you
+know, dude, the studs have to be 18 in
+apart because the building code says 18
+in apart. And if they're not 18 in
+apart, the inspector comes in and we got
+to redo the whole damn thing. So the
+18-in rule is an objective truth. But
+oh, I don't like the color of the maple
+that you used. Shut your mouth. It
+doesn't matter. It's it's irrelevant to
+the process. Let them establish a level
+of ownership because when you do that
+for people, you they build an an an
+equity in the company that's it's
+difficult to to put a value on. But
+dude, I I saw people coming back. I had
+a young lady get promoted out of our
+knowledge base. We had a knowledge base
+at Solutions 8 where we just captured
+everything that everybody needed to
+know. [snorts] And she was promoted into
+another role and she kept coming back to
+the knowledge base and like cleaning up
+the tiles and you know making sure like
+people were she would correct
+nomenclature and and she was an absolute
+nut because it was her baby. And I she
+took it and ran with it dude and she
+didn't do it the way that I would have
+done it. She didn't use the tool that I
+would have used. She didn't build rules
+the way that I would. I I you know, I
+didn't love it in the beginning to be
+honest with you, but it ended up being
+way better than anything I could have
+created because I just let her take it
+and run with it.
+>> So, authorship creates ownership. And
+you know, people complain all the time,
+man. Employees won't do anything without
+my say so. Well,
+>> whose fault is that really?
+>> You know, go take a long hard look in
+the mirror. Bet money. That's a dance
+you started.
+>> Yeah. I mean, you're creating a tone of
+dependence, right? If you uh if you're
+always there just to kind of wag your
+wag your finger at them. Um,
+>> but it's hard because I think what
+happens to a lot of entre I mean what's
+happened is like if I think back to
+myself and times where I've been like
+too much uh like just too much too
+hands-on rather than getting out of the
+way is like you'll catch someone making
+a mistake and then you you
+subconsciously tell yourself, oh now I
+need to watch the next time they do
+this, right? And then it just like
+creates that kind of reinforces itself.
+But um I think what you said at the
+beginning of that is really wise that
+you just have to kind of be okay with
+mistakes, right? Like know that some
+balls are going to get dropped and
+that's part of the process of handing
+that off. Um, so if you're kind of okay
+with a little bit of that messiness,
+then it makes it a bit easier.
+>> Absolutely. Couldn't agree more.
+>> Yeah. Um, cool, man. Well, super
+powerful stuff. I uh I know we're out of
+time now, but I appreciate you as always
+being generous with your time and
+sharing your your wisdom. Uh, and for
+everyone listening, watching, definitely
+grab the book. We'll put the link down
+uh down below. And there's a bunch of
+cool resources. is he's got like a whole
+global job board of all the different
+places you can hire talent online uh job
+posting templates and a lot of good
+stuff. So, uh thanks for sharing all
+that, man. And um looking forward to
+doing this again sometime.
+>> Appreciate you, AJ. Take care, buddy.
+>> Awesome. Take care.
+>> All right, sir.
+>> Hey, I'm AJ Casada, co-founder of
+Revenue Boost. Really hope you enjoyed
+today's video. If you do, make sure to
+leave me a comment and definitely
+subscribe right now so that you're
+notified of all the cool stuff we're
+doing, all the [music] cool tactics,
+tips, and strategies that we share here
+on the channel. We help B2B companies
+scale to seven to eight figures. We've
+helped [music] over 400 clients and we
+can help you too. And we share some
+amazing stuff on the channel here. So,
+really, really hope you enjoyed and if
+you do, let me know in the comments and
+be sure to subscribe. All right, back to
+the video.

@@ -1,0 +1,477 @@
+I'm going to give you the AI and
+LinkedIn outreach strategy that in the
+last three months we used to make over
+230K plus about an extra 10K in bank
+transfers. I'm even going to show you my
+Stripe. This is literally my live
+Stripe. You can see I'm moving all
+around here. Like this is actually what
+we're doing. Um, and I'm going to give
+you right the three main components that
+we actually use to implement the
+strategy to make that amount of money
+with our high ticket services. So the
+first component that we need is
+intentbased lead sourcing. How can we
+find people and source leads who are not
+just cold, but who are already
+interested in your services? The second
+thing is using AI to personalize every
+single outreach we send to people so
+that it seems like we're making a
+genuine connection with them and we can
+do it at scale and then creating the
+actual outreach campaign so we can
+automate the entire process. And I'm
+going to give you all the tools that we
+use for all of this. All right, so the
+first thing is intentbased lead
+sourcing. So you need to look at your
+niche and your market like this. So you
+have the majority of people who are not
+interested in your um in your service
+and then you have a small percentage of
+people who are interested in your niche.
+There are basically we should make two
+campaigns for each of these. It's not a
+which one should I use situation. It's
+we should prioritize the lowest hanging
+fruit which are the people who are
+already interested and then when you're
+trying to scale then we need to
+obviously target everyone and then
+filter the people who are out here who
+haven't directly shown that they're
+interested and that's how we're going to
+be able to scale. So the first thing
+that we do is we need to find the people
+who are interested. The way that we do
+that is by looking at intent. And the
+way we can do that on LinkedIn
+specifically is by looking at what types
+of posts people are engaging with. So
+here's an example. We obviously do cold
+email. We do cold LinkedIn. We do all
+this. We do a bunch of different kinds
+of outreach, right? So, what I can do is
+I can go to someone who I know posts
+about this kind of stuff like Eric. And
+I can see all of the people who are
+liking and who are commenting on this
+guy's posts are going to be people who
+are already interested in my services,
+right? So, the way that I can go ahead
+and actually scrape this, right, is
+obviously I'm going to go to his profile
+and then I'm going to be able to
+actually extract the people who like
+that kind of content by using a software
+called Hey Reach. So, I'll leave a uh
+link in the description to this as well,
+but the way that you'll do that is
+you'll just go into here, you'll link up
+your account, and then you're going to
+click on leads and LinkedIn post
+reactors. Once you've done that, you're
+just going to click continue. And then
+you're going to select whatever you want
+the list to be. So, we'll call it Eric
+list. Um, select the account that you
+want to scrape from, which I will put my
+own account. Uh, and then you're going
+to put the post URL. So, you're just
+going to go here and copy the post that
+you want to find these 82 interested
+people with. You're going to click this
+and you're going to look copy link and
+you're going to put this in here and
+you're going to click start importing.
+Right? And then what this is going to do
+now is this is going to basically take
+all the people who are interested and
+who liked this post and it's going to
+give you a list of them. Right? I'm not
+going to go through all this because it
+takes like two or three minutes to
+actually um give you the the list. But
+that's how you do it. Right? And then
+the next thing is actually getting your
+total addressable market. So the larger
+amount of the people who are interested
+or the people in your in your niche who
+could want your service, right? So, this
+is priority number one. You want to find
+all the the the people who post stuff
+about things in your niche to your um to
+your audience and all the all the people
+who do similar services to you and you
+want to scrape their posts. That's the
+first thing that you can do to get the
+highest reply rate and the highest
+booking rate. Once you've capped that
+out, and you will cap it out once you
+send enough outreach, the second thing
+you need to do is you need to basically
+start scraping from Sales Navigator. And
+once you do that, we need to export that
+information with a software called
+Prospio. And what that will allow us to
+do, right, is it'll just give us this
+list of leads and also it will tell us
+if they have an open or a closed profile
+so we can put them in separate
+campaigns. Right now, the way that we go
+ahead and do this is we would obviously
+go, we'll save that for later. We're
+going to go into sales navigator and
+you're going to download a software
+called Prospio, which I'm going to show
+you how we actually use it, right? But
+let's say we go into sales navigator,
+right? You'd go into lead filters and
+then you'd make a search. The things
+that you want to put in here is you want
+to put uh if you're targeting business
+owners, you'd put CEO, right? You'd put
+owner. Um and we would put founder
+like that, right? And then, you know,
+you can go to your your industry and
+let's say if I'm targeting marketing
+agencies, which we do, um and then I
+want North America, let's say, just as
+an example, right? Then, you know, you
+would want to refine this down until you
+get a lower search result. you probably
+want to aim for around 2 3,000 leads.
+Um, but then what you would do is you'd
+click export with Prospio
+and then what it'll do here is it'll
+just basically you would click apply
+here and then you generate a list. Now I
+don't want to use my credits for this um
+but you can use Prospio and that's what
+we use internally um to basically scrape
+sales navigator to get all these leads,
+right? So that's how the you can get
+number one the people who are pretty
+interested in your services and it's
+also how you can get your your entire
+niche and your entire total adjustable
+market so you can send a ton of length
+and outreach. Right. The next thing is
+going to be personalizing scripts with
+AI. So the way that we actually do this
+is we use a combination of Clay and Chat
+GBT and a couple different tools that we
+use to basically personalize
+automatically personalize every single
+um every single first line for every
+single outreach that we're sending to
+every single person. Right? So there's
+three things that we look for when we're
+trying to build a first line and then
+I'm going to show you how we actually
+set it up inside of Clay so that you can
+copy the same thing. So the first thing
+we need is or the first thing we look
+for just for our own business, right, is
+we look for case studies on their
+website. So we basically run a prompt
+that allows Chad GBT to go into their
+website and scrape all of the text in
+their website. From that text, we then
+use Chad GBT to basically find if
+there's a case study somewhere or a
+testimonial somewhere in that text and
+then it's going to format that text
+saying something like, "Hey, saw you
+helped run XYZ company get XYZ result.
+Really impressive, right?" If it doesn't
+find a case study on their website, then
+what we'll go do is we'll search for
+their LinkedIn recommendation section.
+So, for example, if you go to LinkedIn
+and you go to the bottom, you're going
+to see that sometimes people will
+recommend people, right? Um, if you want
+to know what that looks like, just go to
+my LinkedIn profile. You can go to the
+scroll to the very bottom of it and you
+can see people that recommend me, right?
+And then we can basically write a
+similar first line based on that. Then
+we also again we have another
+conditional uh thing that if we can't
+find this or this, then we'll check
+their most recent LinkedIn post and then
+we'll make a first line based on that
+post. Right? So then we are able to
+cover about like 85% of people and
+actually get a personalized line for
+them and that converts extremely
+extremely well. So, I'm going to show
+you how we actually set this up in Clay.
+Um, so that you can more or less just
+copy what we're doing, right? Um, so the
+first thing, right, like I was talking
+about is going to be the case study uh
+recommendation. So, let's just let this
+load and then I'll show you how it
+works, right? So, we use this as well
+for for emails and we use this to, you
+know, scrape different emails and find
+people's specific marketing services
+and, you know, find a bunch of different
+nuances about their company. But the
+main point I want to show you is more of
+the the case studies, right? So what
+this basically does, right, is we
+already had a an AI basically or this is
+yeah, we basically have an AI that will
+go into their website, right? And this
+is called Clayant. If you're not
+familiar with Clay, you might want to
+look up a basic Clay tutorial on how to
+use this. Um, but essentially, I don't
+know why this isn't loading. Um, but the
+prompt in here is basically saying,
+okay, is there a case study inside of
+the the text of the website? If there
+is, say true. If there is not, say
+false. And then this will here it is.
+Right? So analyze website and check if
+there is case studies mentioned. Right?
+So this is going to go into their
+website. Um and we use chat GPT 40 mini
+to connect to this. Right? Um a case
+study should include this is spelled
+wrong. I don't know why it is but it's
+spelled wrong. It still works. Um it
+should include a company name, a result
+driven like revenue, clicks,
+impressions, any type of achievement and
+then return back false or true. So if
+there is a case study uh it will return
+true. If there's not it will return
+false. If this says true then this one
+will run and this will basically create
+the personalized first line. So this one
+for example right said I saw you helped
+Mottown Park get get effective branding
+and strategic storytelling. Impressive.
+So this is there's something on their
+website right. Um so I saw you helped a
+client increase their monthly visitors
+by over 10,000. Impressive, right? Um, I
+saw you helped Zorg Punt, whatever
+company this is, get 5x growth in their
+e-commerce business in eight months.
+Impressive, right? And it just makes a
+ton of these that are like very very
+accurate. Um, and it like this works
+extremely well, right? So, this I'll
+show you the prompt for this as well.
+So, you can copy this. Um, so this is
+basically what it is. You want to
+screenshot it, you can. By the way, this
+is also something that we like work with
+our clients one-on-one and completely
+build out this entire table for them.
+So, they can essentially just plug and
+play into this. Um, and when people plug
+in the the personalization just compared
+to even if they're already running a
+cold email campaign or a cold LinkedIn
+campaign, they see about a 2.5x increase
+in bookings. So, like I had a client
+recently, he was coming in and he had
+about 20 bookings a month. We just
+changed this and he was getting 50 a
+month just from adding personalizations.
+It's really powerful. Um, if you want to
+learn more about how that works, you can
+click the first link in the description
+and it kind of explains how we operate.
+Um once it actually like let let's say
+it finds it it doesn't find the case
+study response, right? Then we basically
+have a a thing that it will go over to
+the recommendation um scraper, right? So
+we have the scraper. We use a tool
+called um rapid API and it's like the
+it's if you just search up LinkedIn uh
+profile scraper inside of Rapid API,
+this one will come up. Um, but
+essentially we have the like a specific
+um like we have a specific key that we
+use. Um, which I'm going to blur that
+out because obviously you can't copy my
+key. Um, but basically once we connect
+this here, right, we this this will
+essentially scrape all of the the
+LinkedIn uh the LinkedIn profile, right?
+And all the information inside of it.
+Then what we do here is this will return
+the most recent recommendation um inside
+of this LinkedIn scraper and then this
+will convert the recommendation and make
+like a summary of it and then spit it
+out as a first line right so take this
+recommendation text right output in this
+way I saw your LinkedIn recommendation
+from XYZ saying XYZ right I'm impressed
+and again once we have that then we will
+push it on into this uh into this new
+thing that's going to scrape their post
+and this is using the same rapid API
+thing basically, right? Um,
+we also check if it's reposted or they
+posted it originally. If it's reposted,
+um, we're basically going to say, I saw
+your recent repost, right? I saw your
+repost on LinkedIn versus I saw your
+recent post. Um, we also check when it
+was uploaded and we do this for or when
+it was posted. We do this for two
+reasons. Number one, if it was posted a
+super long time ago, um so eight months
+ago for example, we want to prioritize
+targeting the people who posted four
+days ago because we know these people
+are more active on LinkedIn and these
+people are probably not and they have a
+higher likelihood of responding, right?
+We also say it because we don't want to
+say your recent LinkedIn post if they
+posted eight years ago, right? So we'll
+just say instead of saying I saw your
+recent LinkedIn post on XYZ XYZ, it
+really resonated with me, right? We
+would say I saw your LinkedIn post about
+XYZ. It was two years ago though. Haha.
+So I don't know if you remember. Right.
+So it's making like it's a little bit
+more human. It's a little bit more like
+what a human would say, right? If they
+were talking about that post. So once we
+do all this, then we basically have a
+waterfall
+um which is right uh here, right? So
+this is just a waterfall and it combines
+all of the three different lines that we
+wrote. And then you can see here like we
+have a first line for basically all of
+these, right? Um so then we can just
+upload these. We can go to actions,
+right? We can download this list. Uh,
+and then we can upload it to to our our
+automated software which I'm going to
+show you in a second. Um, and then we
+can actually start sending the outreach.
+Right. Also there I'll put a link to
+Clay if you want to mess around. There's
+like a free trial. I think it's 14 days
+that you can test some of this stuff
+out. Um, and I'll put that in the
+description as well. Right. Um, anyways,
+let's go back into the final section
+which is how we actually create the
+automated outreach campaign. So, the
+software that we use is Hey Reach. Um,
+there's a lot of different softwares out
+there that you can use. Um, but this is
+the one that we found to work the best.
+Um, so this is kind of the four things
+that you need inside of Hey Reach to set
+up properly in order to get um good
+results, right? So number one, and I'm
+just going to log into Hey here, is we
+need to set up the
+sender schedule, right? So the way we do
+this is we'd go to LinkedIn accounts,
+right? Obviously, you're going to need
+to connect your LinkedIn account. We
+have a lot of accounts connected here. A
+couple are disconnected. I need to to
+reconnect them here, right? Um, but what
+you need to do is once you go into here,
+these are the settings that you want,
+right? So, you want max messages at AD
+to be 40, max inmails at ADB 40, and max
+connections at ADB 40. Then, you're
+going to go to sender schedule, and
+you're going to want to set it to around
+um we set it from 7:30 to 5:00 p.m. um
+just cuz that's when our team is active
+and available to respond. You're going
+to want to set this up based on your
+schedule, right? I don't know why my
+camera disappeared, but we'll bring it
+back here. Right? The next thing that
+you need is going to be actually
+importing leads. So the way that you'll
+do that if you were using the intent
+strategy there already should be
+uploaded to this list. If you need to
+add leads from hey rich you're just
+going to click or from clay you're going
+to click add link or add add search and
+then you're going to go to import from
+CSV and you're going to continue and
+you're going to import the list that you
+that you basically downloaded from clay
+right and then you're going to have the
+personalization in there. The next thing
+you need to do is create two types of
+campaigns. So the reason why we use
+Prospio to scrape and not some other
+cheaper tool is because it basically
+tells us if they have an open or a
+closed profile, right? If they have an
+open profile, it means that we can
+basically send them a message without
+having to be connected with them, which
+is super important. And if they have a
+closed, then we have to connect with
+them first. So we basically create a
+campaign, right, where we can send out
+40 messages per day, not connection
+requests, messages, two open profiles
+every day. And then we have a separate
+one for sending connection requests. So
+I'll show you the inmail one first. So,
+what you're going to want to do is
+you're going to want to click start new
+campaign. So, I'm going to show you one
+that we've already built, right? Um, so
+if we go into here, I have a lot of
+campaigns here. So, inmail campaign,
+right? U, we're going to go to view
+workflow. This is how you want to build
+it. So, you don't want to do check if
+inmail, you only want to upload inmail
+leads into this campaign, right? And
+then for the connector campaign, we have
+a separate one. Uh, and it's going to
+look like this, right? So, you're going
+to want to put send connection request.
+Um, and then in three hours, right,
+you're going to want to send the message
+uh that you're going to use to do the
+outreach in the connection request. You
+want to be you want the personalization
+to be in the connection request because
+that's going to give you a higher
+connection acceptance rate, right? Um,
+and then it's going to send the message.
+And then, um, after a day, if they don't
+respond, then we're going to send a
+follow-up. And after two days, if they
+don't respond, then we send another
+follow-up, right? And that's basically
+how we do everything. Um, obviously
+there's little nuances to it. So again,
+if you want me to set this up, um we can
+have a conversation. You can just uh
+feel free to schedule time with me down
+below.

@@ -1,0 +1,545 @@
+I sent 100,000 emails in
+a single week.  And I know what you're
+thinking right now.  Everything ends up in
+spam, it takes months to work, and it can't
+compete with ads.  But all
+this is only true if you don't know what you're
+doing.  And that's why in this video, I'm going
+to guide you through the whole process.
+This will be a six-step structure
+, starting with the infrastructure, the
+prospect list, the offer, the
+text, the launch of the campaign to
+20,000 emails per day, and finally,
+showing you the results.  If you don't know me yet
+, my name is Jaden Lee Lua.
+I am the founder of Velocity Flow, where
+we create, run, and manage
+revenue growth systems
+for B2B companies across various
+industries.  And after sending over
+a million cold emails,
+I can confidently say that I know
+exactly what I'm doing.  The first step
+is to configure the infrastructure, and
+to achieve this, we will work in reverse
+from 100,000.  It doesn't have to be
+100,000, maybe for you it's 10,000,
+but that's how I think when I want to
+reach a number: I work
+backwards.  Let's say our goal is
+100,000, which is what we shipped
+last week, and there are only five
+shipping days a week, right?  So we don't
+ship anything on
+weekends.  So, to reach this
+goal of 100,000, we need to send
+20,000 emails every day.  Now, 20,000
+emails a day;  If we do the
+calculations and divide it by 990,
+we will get 20 domains.  I got 990
+because there will be 99 inboxes
+per domain, and each one can send
+up to 10 emails per day.  Now, we're going
+to rely on Microsoft for this,
+specifically because the
+deliverability has been much better.
+Well, I wouldn't say better, they're pretty much on
+par, it's just much cheaper, so
+you can send a lot more while spending
+a little less money.  Our first
+step will be to buy the domain.  So what we'll do
+is create several
+similar domains that still read like the
+brand.  For example, let's say Velocity
+Flow, or we'll just put v e l
+here.  So if my
+main domain were v e l dot co, these
+would essentially be the
+lookalike domains.  So, it would be v l s q
+dot co, v e l team dot co, and so
+on.  Now, the reason
+this is so important is because the
+reputation of these domains
+will not be linked to your
+main domain.  The reason this
+matters is that if you try to send
+hundreds of thousands of emails, say
+from your main domain, what will
+naturally happen with
+cold prospecting is that people
+will start flagging your messages,
+right?  Sometimes people aren't
+happy with cold prospecting, and
+that's simply their nature.  There's no
+way around that.  Okay, so what
+will start to happen is that
+they'll start marking him, right?  And that's why you
+need to replace it
+constantly.  But what will happen
+is that, once they start marking it
+, all the invoices you send to your
+clients, the communication with your
+team and with your clients, all of that
+will go straight to spam.  So,
+let's say you had a great
+sales call and sent the proposal;  It will
+go to spam because all that reputation
+is linked.  That's why
+creating a bunch of
+similar domains is so important.  Now, to create
+these subdomains, what you want to do
+is simply go to Claude and say,
+"Hey, I want to create 20
+similar domains from my
+main domain."  My primary domain is
+this one.  Make sure they are
+professionals.  Make sure
+the brand name comes first, followed by the
+actual term.  Short words that
+anyone can read.  Make them look
+professional and ensure they are all .co or .com
+domains.
+Now, to proceed to purchase your
+domains, you can use services like
+Porkbun, Namecheap, Spaceship, or GoDaddy
+.  Those are all the ones I recommend.  And
+in fact, right now, InboxKit
+has a great offer at the time of
+this video.  It's September 17th,
+specifically in .co domains.    They
+are selling them at the lowest price
+on the market.  So, if you want to
+buy some there, I would suggest you do so
+.  But now that we have
+our domains set up, what we
+need are inboxes.  And
+that's the next step in
+setting up our infrastructure,
+okay?  As I said, we bought 20
+domains specifically for this, and
+each of these domains will have 99
+accounts per domain, for each one of
+them, understood?  If you do the
+math, 99 times 20, I have the calculation
+right here back.  I think it's going to be
+okay, that's right.  But no, it's
+correct because it's 10 cents a day
+.  So, if I had 20 domains and
+wanted to send 20,000 emails, each
+one would send 10 per day.  Yes, that way
+I would send a thousand a day, okay?
+So that's correct.  Returning to
+inboxes, the first thing we'll do
+is order 99
+Microsoft inboxes per domain through
+Inbox Kit. And if you don't know how to do that, I'll
+guide you step by step right now.
+As you can see here, we're already in Inbox Kit
+.  So the first thing we'll do is
+connect our domains.  In my case, I
+already bought them, but you would simply
+click on connect existing domains,
+download the CSV from Porkbun,
+Namecheap, Spaceship or GoDaddy and then
+click on upload CSV.  You drag and
+drop that CSV here, and what will
+happen is that they will ask you for an
+API key to configure all this for you,
+which is what I meant: the SPF,
+DKIM and DMARC, configured by the
+provider, and basically they will do
+all the work for you, okay?  They
+will get everything ready for you regarding
+the domains.  Now, once you've
+connected your domains, let me move
+this so they can see it.  You need to go to the
+mailboxes tab here.  After
+going to the mailboxes tab, go to the
+top right and click on
+buy mailboxes.  We purchased the mailboxes,
+then we clicked on the
+mailbox wizard, selected Azor specifically for this
+, and chose the
+domains we had already purchased.  Let's say he
+wanted these, and we'll put 99 at the
+bottom, or yeah.  So,
+we'll have to get out of there.  Boom!
+Boom!  So, 99 here, we click
+next and then you put in a
+custom name, or you can also use
+random names.  I like to put my
+name on it because it's linked to my brand,
+and I would recommend you do the same, but
+we've been testing it.  The name doesn't really
+matter that much.  So you enter
+your name, click on generate
+mailboxes, and then you purchase the mailboxes.
+Now, after you buy the mailboxes,
+what will start to happen is that if
+you go back to the mailboxes tab,
+they will start appearing right here,
+okay?  So, they will start to
+appear.  And after they appear,
+you can select them all here,
+click on Actions, connect to your
+sequencer, and you can basically
+connect them to your sequencer right here
+;  It will charge, and then you would activate
+the heating to keep them warm
+for 2 weeks.  I got a little ahead of myself
+, but as I said, once we
+ordered them, Inbox Kit did this step for
+us.  We bought the mailboxes,
+we bought these 2,000, well, in my
+case 2,000, and then we
+heated them up for 2 weeks,
+okay?  I've been warming up these
+accounts for over 2 weeks now, but
+this is exactly how you would do it
+.  Now, getting into this, this
+is the exact game plan I followed,
+okay?  At the beginning, I wanted to
+reach 100,000 shipments per day.  So
+, I only needed 60,000 contacts.
+Now, you might be wondering, Jaden,
+how do you send 100,000 emails if you only
+have 60,000 contacts?  The
+total market we were targeting had a
+ceiling, which was 60,000 in this case,
+okay?  So, what we did
+was cover all 60,000 in the first
+3 days of the week, okay?
+So, we sent 20,000, 20,000 and
+20,000.  OK?  But what
+we did was contact them all with
+follow-up emails.  OK?
+We contacted them all with
+follow-up emails, and that's
+basically how we sent 100,000 emails.
+So each of these 60,000 leads
+was contacted twice during the
+week, and that was basically the plan
+to reach 100,000 emails.
+Now that we had the whole plan,
+right?  We knew how we were going to
+achieve it.  We had the infrastructure
+to do it.  We heated them for 2
+weeks.  The next step was to create the
+lead list, right?  Extracting
+60,000 leads from something like Apollo, AI
+Arc, or any other database is going to
+be extremely expensive.  So,
+instead of relying on one of those
+data providers, we use something
+called Get Leads.  OK?  I've
+talked about this a lot because I
+honestly believe it's a
+cheat code right now.  But I'm going to
+explain exactly how we did it.    We
+basically just used Cloud Code, and we
+accomplished this in about 10 minutes.    I'll
+show you exactly how we
+did it right now.  Okay, great.  As
+you can see here, we are on the Get
+Leads page.  And if you want a discount on Get
+Leads for yourselves, there will be a code
+in the description below.  I am a member
+of their organization.  It's not that they're forcing me, but I
+really think they have a great
+product.  And that's honestly what we
+use at my agency.  So, if you go
+a little to the left, you can
+register and create an account.  Next,
+click on the integrations here.
+And basically, they want to use the AI ​​of
+their choice, okay?  And EPT
+Astra, I think it's called, is something very
+important right now.  They can go and
+try that if they want.  I personally
+only use Cloud Code.
+They basically have a video that shows how to
+connect...sorry, I'm just making sure
+you can watch this.  They basically have a
+video that shows exactly how to
+connect it to your Cloud setup
+.  Okay, just watch this video,
+follow the instructions, set it up
+on your Claude, and then you can log into
+Claude Code and tell it something like this.
+Basically tell them: "Hey, I want to
+generate 60,000 leads in this niche."  "
+Give me as many as possible."  "I want
+the owner, maybe a company of 20
+people in the United States."  And then,
+the system will do it for you.  Now,
+if you're smart and don't want to
+do things manually anymore, because we do
+n't use clay.com for anything anymore.  What
+we actually use is that we built
+this process.  We built this process
+here.  Let me show you this
+quickly.  So, we built
+this process.  How it actually works
+is that we get the leads, right?
+Let's say that here we got the leads
+from AI Arc.  And then, obviously, there will be
+a bit of noise on that list, right
+?  Nothing will be perfect, but Get Leads
+does a good job because Claude
+is extracting them, so it works
+quite well.  But sometimes something
+slips through, and we don't want to waste
+shipments on people who don't buy
+our products, okay?  So, then
+we applied the ICP filter.  So,
+basically, we eliminate those who don't
+buy before paying for their
+emails.  Uh, and I don't really know why
+this step is here,
+because when you scrape in GetLead
+, it finds the emails for you, but
+this here would be like an
+enrichment, right?  How to use
+something like Prospect.io to perhaps
+find emails that we didn't get
+here, but this has a very
+high success rate, I think it's like 98%
+most of the time.  Um, so
+we're aware of this problem, but you know,
+sometimes... Then, from there,
+we proceed to verify all
+emails on Million Verifier.  So,
+the reason I said this is
+because you could actually create a
+workflow, give it your
+GetLead MCP, tell it to do the scraping, and
+then filter the ICP for leads that
+don't return emails, take them to your
+enrichment, and get the email.
+After that, when each lead has
+an email, send it to Million Verifier
+for verification, and then you can
+remove the gateways.  This is
+like Mimecast, Barracuda, and Proofpoint,
+um, because these are
+security gateways, and this will cause your
+domain to bounce and reduce your
+sending reputation.  Good?  And then
+you can even add something like a
+small customization, which I'll
+show you exactly how to do.
+You can literally do any
+customization you want with Cloud
+Code, and then basically
+delete them too so you never have
+to pay for leads you already have again
+.  Great, now we have the
+sending infrastructure to be able to
+send 100,000 emails.
+We have the lead list to
+Now we need to come up with a
+very solid offer to ensure that
+these emails are not wasted.
+Good?  An offer that's very
+easy to say yes to, and for this we
+rely on something called a
+front-end offer, and I always talk about
+front-end offers because I honestly believe
+that to crush your entry reach
+, you need to deliver something valuable to the
+prospect.  Good?  To do this, we
+proceeded to scrape the
+pain points of prospects on
+Reddit.  And we basically told
+Claude to use a group of sub-agents
+to thoroughly investigate the
+prospect in this specific industry we were
+targeting.  Basically,
+we told him to find his
+pain points.  We use those pain points to
+basically create a
+lead magnet.  To do this,
+we basically recorded a Loom video just once
+and started sending it to everyone.  Um,
+and this is more or less the offer we're
+relying on here.  So, the way it
+really works is that it will always be
+free, so the responses
+will be much higher.  OK?
+But when something is free, the
+intention will be much less.
+OK?  But if you make your
+free offer that good, you'll convert
+a lot of prospects.  OK?  And
+that's the main thing you should
+think about when creating your
+initial offer.  OK?  These are the
+things we use too.  The
+first email could be a
+relevant line and an offer.  It could
+be something like: "Hello, [name]".  A
+custom AI line, a
+sentence ending in a
+gentle question, and then your name.  OK?
+Another copy you could use would be
+the basic concepts of
+deliverability.  Okay? What's
+the key to what they're asking?  Add the
+detail that the first email omitted.
+How it works and why it's low
+risk.  So, this is basically
+the follow-up email we sent
+in the thread.  Our main goal
+with the follow-up email is that, if they did
+n't reply, we always assume they
+saw the email.  If they didn't reply,
+maybe they didn't see it, but our
+mentality is: if they saw the email, the
+last thing we want to do is bother them
+by saying, "I'm just reposting this."  "I'll
+make sure you saw it."  "I'll
+put it at the top of your
+inbox."  I hate that.  So we tried to
+find a completely
+different angle to approach the situation in
+another way.  The reason this
+works so well is because if the
+first email didn't work, it means
+the offer was bad, that's what
+we assume.  You may never have
+seen it, but we tried to present a
+stronger offer for the second
+mail.  And that's exactly how
+we converted so many prospects;  I'll
+show you the exact metrics in a
+second.  This is the
+exact checklist we followed before
+launching.  Okay, point
+number one, and it's one of the
+most important parts, is to make sure that
+every prospect in the
+email checker is okay.  OK?  There are
+emails that people send to
+everyone and I don't like them because they have a
+very high bounce rate, but that was
+the number;  Always verify your data
+or you'll spend a lot of money on
+infrastructure and it will burn out much
+faster.  OK.  Okay, we'll
+mark this and move on to the next step
+with both emails
+uploaded and rotated.  Okay, these are
+basically the two variables or the
+two text frameworks
+we use, the first one and the tracking one.
+And then we turn off plain text
+or our tracking.
+Honestly, I don't know why we do it
+, but we do it.  OK.
+Now, that's 4,000.  This is wrong.    So we made sure
+that all
+inboxes were
+connected.  And then we add the
+AI ​​variables.  We scheduled it for 8:00
+a.m.  at 5:00 p.m.  In fact, I recommend
+doing it from 9:00 a.m.  And we set the
+daily limit at 20,000 to
+make sure we reached that number.  And
+we kept the heating
+on throughout the entire process.
+OK.  Now that you've built the
+infrastructure, it's been
+heating up, you can send the volume you
+want, you have a good offer and
+the prospect list, the next
+step is not to spoil the
+important response.  OK.  That's
+exactly how I do it.  And I have
+people in charge doing this for
+me, obviously, because as a founder, we
+always look to focus on
+things with the highest return on investment.
+However, that's exactly how I
+handle the responses.  I
+'m also always in the inbox
+all day.  So I respond within
+the first 5 minutes.  And then
+I send the calendar and don't try to
+sell it again, okay?  And
+honestly, tracking every 48
+hours is key, but the main thing here is
+that you could disregard everything
+else.  If you simply respond in
+less than 5 minutes, I believe you have a
+48% chance of closing the
+call just by implementing this.  So
+, if you're going to take anything from this list,
+my recommendation would literally be to
+respond as quickly as possible.
+Now, the reason this
+matters so much is because when the
+prospect responds, it's very likely they'll
+still be in front of their computer
+at that moment.  If you reply 30 minutes
+later, they might have walked away from
+their computer and completely forgotten
+about you, okay?  And
+I would even try to answer in less than 5
+minutes, uh, even in 10 minutes,
+right?  But that's the general rule,
+don't waste a quick answer.
+Always respond within the first
+5 minutes.  As I said, I was going to show
+you the results, okay?
+So, as you can see here,
+let me make sure you can see it
+.  Perfect.  It was from August 31st to
+September 7th.  Uh, and like I said, it was on
+a normal weekend, so it was
+a 7-day period.  We managed to send
+100,641 emails.  In fact
+, we contacted 92,000 people.  Uh,
+we had around 1,300, uh, we had
+a bounce rate, uh, which is pretty
+low.  I like to keep it below
+3%, I'd say.  And then we had an
+interest rate of 11%.  This wasn't
+the best part.  We were testing a
+lot of new offers at that
+time.  But out of these 100,000
+emails, we only booked 65
+sales calls out of those 154, okay?  And in
+total, basically setting it up,
+cost around, I mean,
+$700 or $600, I think.  $600 to
+set it up.  So, if you do the
+math, that's 65 calls.  Let me
+do the calculations quickly.
+So, that's approximately
+$9 per customer.  And the funny thing is,
+this is only for a week,
+okay?  So, if you do that every
+week, right?  If you do this every
+week, you obviously don't have to send
+this crazy amount of volume and, you
+know, maybe your bid or your CPA will be
+much higher.  This is just one week,
+right?  It's not like I'm
+paying $600 every week.  I'm
+paying $600 a month.  So,
+in reality, if we divide $600
+by four, what do
+we actually get?  150, I think.  Yes.
+150. So now, if we pay
+$150 a week and get 65
+sales calls, our CPA
+is now between $2 and $3.  And that's why
+I use cold mailing so much, because the
+acquisition cost is much
+lower and it starts with knowing exactly what
+you do.  Hey, I hope you
+found some value in this video.  If you
+like more videos like this,
+click subscribe and I'll see you in the
+next video.  Peace.

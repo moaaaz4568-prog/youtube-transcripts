@@ -1,0 +1,849 @@
+Claude recently launched Claude code and
+Claude co-work and now their AI model
+can literally do any task for you. Now,
+I spent the past 3 days building a
+system that uses Claude to replace an
+entire social media team. How do I know
+that this actually works? Because it
+runs on the same exact principles we
+used to grow more than 400,000 followers
+and help hundreds of entrepreneurs do
+the same for themselves. So, in the next
+few minutes, I will show you exactly how
+you can get access to this system and
+use it for your own business to build a
+successful personal brand that positions
+you as an authority and gets you
+qualified leads every single day. So,
+let's get straight into it. I will start
+from a quick demonstration of what this
+actually does and then I'm going to
+break down with you with a clear SOP
+exactly step-by-step how you can copy
+and paste this system into your own
+laptop and make it your own. I'm going
+to start by showing you step-by-step the
+process that we follow. Now, I created
+multiple skills which are these AI
+agents that Claude uses for each and
+every one of these processes. I'm going
+to start first one which will be finding
+other competitors in your niche. Now,
+this is really important. We want to
+always start by doing market research
+and understanding what's already working
+in our space. So, I'm just going to type
+forward slash and creator finder which
+is the specific skill that does this
+part of the process and then I'm going
+to paste a prompt that I already
+prepared and that I will also share with
+you. I'm going to break down for you
+every single step in a second with an
+SOP. Now, I just want to show you real
+quick the power of this and exactly how
+it works because honestly, it's really
+really impressive. So, I'm just going to
+paste my prompt real quick here and as
+you can see it's a very simple prompt.
+You don't need much because all of the
+instruction are already inside of this
+skill that I created. So, let's run this
+process to find creators in uh in this
+case I'm going to talk about the content
+creation niche. Focus specifically on
+people that talk about growing your
+personal brand and avoid people that
+just talk about filmmaking and editing,
+okay? So, I'm going to also go very
+specific to give it instruction to know
+what to look for. And then I'm going to
+just say, in this case, I'm just going
+to say three creators to make the
+process pretty quick, and put them in
+the creator database, which is this one,
+okay? So, here I'm going to provide with
+you a system that we built on Notion.
+This is what we use on a day-to-day
+basis for our business as well to find
+all of the content ideas. So, in my
+opinion, it's the best option. Now, keep
+in mind, this is something that you can
+definitely tweak. If you prefer, for
+example, to use Google Sheet or Google
+Docs for any of this, you can definitely
+just instruct the skill to change this
+small detail. Now, I'm a big fan of
+Notion because it keeps everything
+organized and everything in one single
+place. And so, right now, I'm actually
+just going to take with this Notion that
+I'm going to also break down and show to
+you in a second. I'm going to take my
+creator list, which is this one right
+here, and I'm just going to copy the
+link to this specific view, so that it's
+going to be able to load the creators
+directly here. Now, I'm going to paste
+here the link of it, and then I'm going
+to click on let's go. So, as you can
+see, Claude right now is reasoning, and
+it's following a very clear step-by-step
+process that I already instructed to do.
+And so, as you can see, for example,
+this is really important, this is not a
+given, I instructed it also to check
+your database already, so that it will
+not search for duplicates. And so, as
+you can see, right now it's literally
+performing all of these tasks for me.
+Now, I'm going to just show you and cut
+to the end where you can see actually
+the final result of this, which in my
+opinion is it's generally impressive,
+but then this is literally just step one
+of the process. Now, I'm not going to
+show you live every single skill because
+otherwise it will take a long time. We
+literally start from this first part, in
+which we are going to just search for
+creators and other competitors in our
+industry. Then there's a separate skill
+that will literally just scrape their
+profiles to find all of their best
+performing videos. From there, we have
+another skill, so another agent, that
+will take all of them and transcribe all
+of them, transcribe the exact video and
+exactly what they say in their videos,
+and put it inside of your Notion as a
+content idea. And now, obviously, we
+don't want to just say the same exact
+words. We don't just want the same
+script. And so, here is where the fourth
+agent comes in place because you can
+literally give it a knowledge base. So,
+for example, transcript of your calls,
+transcript of your presentation, any
+information that you have that could
+help it understand exactly how you talk
+and what kind of value you would want to
+share. And this agent is going to take
+that transcript, keep the same structure
+overall and the same topic of the video
+because we know that that that performed
+really well. This is the reason why we
+do the scraping in the first place. And
+then, replace the actual value and the
+tone of voice with how you would
+actually talk, taking it from your
+knowledge base. So, as you can see right
+now, this is this is generally exciting
+for me because these will be processes
+that we used to do manually all of the
+time or we had to delegate to someone.
+As you can see right now from my screen,
+Claude is literally going and performing
+all of these tasks for me. It's
+literally opening up the post on
+Instagram. All you need is to just be
+logged in to your Instagram. It's
+opening up profiles of people and it
+shows and it scans everything in their
+profile to understand if they're
+actually a good fit for what I actually
+do to add them to my database. And as
+you can see again from the reasoning of
+Claude, it literally goes step-by-step
+and it checks people. And so, as you can
+see, for example, it checked a creator
+and then it thought that from one of the
+videos that it found, it was a good fit.
+But then it realized that the topics
+that he talks about are not really
+aligned with what I described. And so,
+it discarded that creator. So, it also
+has these critical thinking steps in
+which because I instructed the skill to
+do it and because I just gave it the
+right prompt of focus on this and not on
+this, it can literally select creators
+that are actual good creators. So, as
+you can see, it just found one right
+now. All right. So, as you can see, it
+literally just finished the entire
+process and you will notice that it
+already put all of them inside of my
+Notion database. This is so powerful. It
+can literally perform all of these tasks
+for you. From here, I'm not going to
+show you every single one of the skills,
+because otherwise, again, the video will
+become way too long, but I'm going to
+just dive straight into the SOP and
+step-by-step everything that you need to
+do to be able to replicate the system
+and get access to all of the skills.
+Now, keep in mind, you will also find
+the link to this SOP in the description.
+Let's get started straight up with what
+you need before you actually start this
+process. So, I just want to run real
+quick through all of the tools that are
+involved in this. It's actually very
+simple. Most of them are completely
+free. Now, the first one that you will
+need is a Claude AI account, and you
+will definitely need the pro account.
+This is because to be able to use the
+agents and use Claude Work, so the part
+of Claude that actually performs these
+tasks, you need the paid version of it.
+Now, this costs $20 a month,
+approximately. I think it also depends
+on the region where you're in. Now, keep
+in mind that it can easily start costing
+a little bit more, especially because
+Claude runs on credits. So, depending on
+your usage, you might need the plans
+that are a little bit more extensive.
+So, for example, for us, we actually use
+the plan that's a little bit more
+expensive. it's the max plan that's 80
+to 90 bucks a month. Still totally worth
+it, in my opinion, especially for what
+it's able to do, because this is
+literally just one of the examples of
+the things that Claude can do. Now, the
+second thing that we will need is a
+Now, the reason why we need something
+separate, in terms of services, is
+because, unfortunately, transcription of
+reels is not something that Claude can
+do internally. I did a lot of research
+on this. This is probably what I spent 2
+days on, out of the three, to be able to
+build this system in the smoothest way
+possible. And so, I just ended up
+landing on Any.io. In my opinion, it's a
+great option, because it's a simple
+automation software, and if you're not
+using it already, I highly recommend
+implementing it for your business. It's
+basically similar to Zapier, if you're
+familiar with automation softwares. It
+just gives you a lot more things that
+you can do and a lot more flexibility.
+It's a little bit more technical, but at
+the same time, again, as you can see
+now, Claude or ChatGPT, all of these
+tools can literally give you anything,
+even without you having to write a
+single line of code. So, you will see
+that I also already prepared the
+automation on any 10, so you don't need
+to know anything technical. I will
+literally show you the process
+step-by-step on how you can actually
+copy and paste it inside of your any 10
+account. I will highly consider it also
+for other automation inside of your
+business. This also comes out at about
+20-30 bucks a month. Everything else is
+literally free. So, I highly encourage
+you to just implement the system, test
+it out at least. In my opinion, it's
+100% worth it. So, you will need Claude
+in Chrome, which is the extension, as
+you can see right here. I have it on the
+top right corner.
+And this is completely free. You just
+need to install it and it will allow
+Claude to access Chrome and perform
+these actions. Then, you will need a
+Grok account, not Grok, the AI of
+Twitter. This is actually another
+separate type of AI. And this is the
+actual AI model that we will use to
+transcribe Reels completely for free,
+that we will have to implement in the
+any 10 automation. Then, you will need
+your Instagram account and you will need
+to be logged in, obviously. Claude
+cannot bypass any password or login for
+you, so you will need to have access to
+your account. And one thing that I
+actually highly recommend that you do
+before starting any of these processes
+is is for you to make sure that you
+already trained your algorithm by
+interacting with the right content, so
+that your Explorer page can show Claude
+the right type of content. So, what do I
+mean by this? Obviously, Claude is very
+smart. It can do the research for you,
+but at the same time, if you're
+searching, for example, content, let's
+say, specifically to business or to
+sales, and in your Explorer page,
+there's memes or there's completely
+random things, that will not really help
+Claude and it will spend more time on
+the task, which will also consume more
+credits. So, I highly encourage you to
+just train your algorithm by interacting
+with the right type of videos. As you
+can see, my Explorer page is extremely
+targeted. Most of the content that I get
+here is already related to personal
+branding, which is our niche, and so it
+makes a lot of sense because Claude can
+just land in here and most of the stuff
+that it will see will be already a good
+candidate or good content it can take
+inspiration from or creators that it can
+select. So, it's really, really
+important to keep that in mind. The
+other thing that you will need is this
+Notion setup. As I was mentioning
+before, if you prefer, you can also do
+the same on Google Docs. In my opinion,
+Notion is a better way to keep
+everything organized. It's very simple
+to install and to implement, and it's
+also completely free. To be able to
+collect creators all in one point, and
+then also collect content ideas that, as
+you can see, we can also then schedule
+on our calendar. So, let's say on this
+one I wanted the 17th, and then I can
+just get it here. So, just Ctrl Z and
+get back to it. I'm going to run you
+step-by-step on exactly what you need
+and what steps you need to follow to
+build up the system. The first thing
+will be to create an account on each and
+every one of these programs listed here,
+okay? So, we will need a Claude account,
+as I was mentioning. I have it open
+right here. Obviously, here I'm already
+logged in because I already have an
+account on Claude. So, a paid account of
+Claude. The second one will be Any time,
+okay? So, this is really important. You
+can literally just click here, and it
+will send you to the home page. Right
+now, it's broken for some reason, but it
+will send you to the home page of Any
+time, where you can sign up, and then
+click on skills, as you can see here at
+the top left. Then plus,
+create skill, and then you can just
+click on upload skill. And here you will
+be able to just drag and drop these
+files that I already created for you
+that have, as you can see right here,
+I'm just going to show you one example
+real quick. So, this for example is the
+one to write scripts. They have all of
+the knowledge and all of the instruction
+inside. Like, this is literally the same
+exact instruction and the same exact
+knowledge that we used to write scripts
+that got us 400,000 followers. So, this
+is not some generic scripts or some
+generic skills and agents that will just
+try to put together and piece together
+something that might work, might not
+work. This is literally trained on the
+knowledge of us growing 400,000
+followers and literally helping hundreds
+of other entrepreneurs do the same. So,
+that's why it's really beautiful and
+really powerful in that sense. In here,
+once you actually created your account
+of Any time and you're in this in this
+screen right here, you you just click on
+create workflow. And all I need to do,
+and this is the beauty of AnyTime in my
+opinion, is literally just press command
+V, and as you can see, it will just give
+me the pre-made, ready-to-go automation.
+So, this is literally already done. The
+only thing that I need will be, and this
+is the reason why we created the Groq
+account in the first place, is that I
+need to actually replace this with my
+own API key. So, again, might sound a
+little bit technical, but I promise you,
+it's very, very simple. All you'll need
+is going to your Groq account that you
+just created. So, you can just click on
+start building, create the account, and
+it will give you this screen right here,
+okay? And uh if you don't see the button
+create API key, you might just want to
+click on API keys that pops up here in
+the menu, and then just click create API
+key. It's just going to load for you
+real quick, and you're literally just
+need to copy and paste this inside of
+the automation. So, it's just going to
+load in a second. Obviously, this is
+something that you don't want to reveal.
+This is sensitive information. I will
+delete this one right after this video,
+in case you're wondering. So, I'm just
+going to copy this one,
+and I'm going to open up this automation
+that I created. I'm going to open up
+this specific node, which is the one, as
+you can see, transcribe with Groq. And
+so, in here, as you can see, I already
+have selected my Groq account. So, in
+this case, in your in your specific
+case, you will probably just see this as
+empty, because you don't have connected
+this yet. So, all you'll need to do is
+just create new credential, and then
+paste this API key here. That's it.
+That's it, right? You're going to click
+on save, and the automation will be
+ready to go. Now, I'm not going to do
+it, because again, I already have my
+Groq account connected. Once this is
+done, we're going to move to the next
+step, which will be to just prepare your
+content ideas database, create your
+database, AnyTime Webhook, and Notion
+knowledge base. All you'll need to do is
+just click on this template that I
+already created for you, and from here,
+obviously, right now, I'm the owner of
+this template, so I see like this. For
+you, it will show up, let me show you
+real quick, it will show up like this.
+And so, it will be a template that you
+can't edit from here. What you need to
+do is create a copy for yourself. So, as
+you can see here at the top right
+corner, I have a button that says
+duplicate. You can just click on here,
+it will duplicate it inside of your own
+Notion account, so that you have your
+version that you can actually edit and
+change things inside of, okay? So,
+right now, as you can see, I still have
+this creators. I'm going to just clean
+it up real quick for the sake of the
+video. And um, in here, I have my
+creator list, okay? And I'm actually
+going to save the link to this. So, this
+is really important. Once you duplicate
+it, so you have your own version of it,
+you can just click on here, and
+you can click on copy link to view. Once
+you have your link, I would highly
+recommend you save it somewhere. So, for
+now, just for the sake of this example,
+I'm just going to type it out in here.
+And so, this is one link. The reason why
+I need a link is because Claude will
+need this specific link to be able to
+know where to put the content ideas,
+okay? And then, I'm also going to take
+my content ideas. So, this is another
+database where Claude will actually put
+in the transcript for the videos, and it
+will also link the original video. This
+is really important because that way you
+can also reference back to it. You can
+double-check if there's anything that
+you might not necessarily like about
+that specific video. So, if you want to
+be a little bit more strict with your
+selection, and you can always
+double-check where it found that content
+idea. And so, same exact thing. I'm
+going to just click on it and copy the
+link to this view, and I'm going to also
+save this one. So, I'm just going to
+also type it out. Now, this is something
+that you can literally just do once and
+put inside of your Notion or inside of
+Claude, then it will be trained. It will
+know exactly where to find things. So,
+this will be my creators, and this will
+be my ideas. Once you have this set up,
+the last one that you need, the last
+couple of things that you need from this
+template will be the two ones that you
+find here at the top. The first one is
+the webhook. So, again, it sounds a
+little bit technical. It's not really.
+As you can see, this is just like an
+example of what one will look like. I'm
+going to show you real quick how to take
+it from your automation. So, you created
+your automation, you filled in with your
+Grok information and then from here
+you're just going to click on this one.
+Just to make it very simple and sum it
+up, this automation is what will take
+those videos from Instagram and pass
+them through an AI model to be able to
+transcribe the video and get exactly
+what the creator is saying. I know it
+sounds a little bit technical. Again, if
+you just follow these instructions step
+by step it will be very easy. The reason
+why we need this is because as I was
+mentioning at the beginning Claude
+unfortunately does not have any option
+that's native inside of it to transcribe
+the videos. The only alternative is for
+it to literally just take screenshots of
+the video and try to extrapolate for the
+captions, but you can understand how
+that can easily cause issues because for
+example, if a video simply doesn't have
+caption then we would not be able to get
+transcript. So, from here all we need is
+just click on the webhook, click on
+production URL, okay? So, this will be
+the actual webhook that will be
+active and that will be able to use
+Claude. So, Claude will basically send
+information to this address here to be
+able to run the automation. As you can
+see, I'm just going to click on this one
+and it's going to copy for me
+automatically and I'm going to save it
+inside of the Notion right here. So, as
+you can see this is another example.
+This is what it will look like
+approximately. Now, in here you can see
+it has our own custom link because we
+are self-hosting and A10. Not going to
+get into this. You can look into it as a
+separate videos. I think there's people
+that can also explain this way better
+than me, but it will look something
+similar to this with {slash} webhook and
+then {slash} and the specific address
+that you set with. If you want you can
+also customize this, doesn't really
+matter. So, I can literally just put 1 2
+3 4 5 6 7 and and just save it there,
+okay? So, this is the first thing. Now,
+the second thing will be my knowledge
+base. As you can see I already filled
+this out. For this it will be very
+personal. It depends a lot on what you
+have at your disposal. Now,
+what I personally did is I took a bunch
+of our YouTube videos and I literally
+just copy and pasted the entire
+transcript of the videos, okay? So, as
+you can see this is literally just
+entire transcript of videos YouTube
+videos that we have that are hours and
+hours long because this way the AI can
+reference to this. First of all, for the
+knowledge. So, how are we actually going
+to replace the value in the videos if
+the AI obviously does not have our
+knowledge as experts. And second of all,
+also how we speak. How do we speak? How
+do we actually express ourselves? How do
+we tend to build sentences? Are they
+shorter? Are they longer? What kind of
+words do we use in our sentences? So,
+the more context that you can give to
+it, the better. Now, obviously don't
+exaggerate as well otherwise it will
+have to scan through pages and pages of
+documents every single time. And so, for
+this you can literally put YouTube
+transcripts, call transcripts,
+presentations that you did, any
+information that you have that embodies
+the information that you share with your
+client, what you actually believe in,
+and also how you actually express
+yourself, you just want to put it inside
+of here. So, if you want you can
+literally just type forward slash,
+create a new page here on Notion, and
+then you can just paste in the text of
+the actual resource that you have. Okay?
+So, once we have this,
+everything is ready. Okay? So, I'm going
+to just show you real quick how you're
+actually going to use this. I'm not
+again going to show you the entire
+process just because otherwise you would
+just sit here looking at me staring at
+the screen for the next 30 minutes or 1
+hour or something like that. Now,
+obviously this takes a little bit of
+time as a process. What I highly
+recommend you do is you just let it run
+while you're doing something else or
+even let it run while you're sleeping. I
+recommend that you actually keep an eye
+on it when you're just starting out and
+you do it the first time because you
+will need to grant Claude access to
+Google Chrome. You will need to grant it
+some permissions to be able to also
+write inside of Notion. So, you don't
+want to just leave it there to do its
+thing the first time that you run it,
+but once you gave it all of the
+necessary permissions, then it will be
+very autonomous which is the power of
+the system. Okay? So, as you can see,
+this has a description at the exact
+description of what each and every one
+of these skills of these agents does
+with all of the details, okay? And then
+I also already put in an example message
+that you can just copy and paste inside
+of your cloud. So, you literally have
+everything that you need, okay? It's
+literally already built out for you. So,
+for the first one, I already showed to
+you, I'm going to go with the second
+one, which is the viral spotter. I'm a
+really big fan of this skill. So, this
+basically just scrapes the entire
+profile of the creators that you already
+saved, and then it finds all of the
+videos that outperform their other
+videos. The reason why is because those
+videos clearly have something that made
+people pay attention, which is usually
+the topic and the hook of that video.
+And so,
+I'm just going to show you how you
+actually fill this out, okay? So, I'm
+just going to copy it, paste it inside
+of my cloud co-worker, and obviously
+here I need to actually pull the
+specific skill, so the viral spotter
+there.
+And then I will show you real quick how
+do you replace this, okay? So,
+everything is inside of brackets of what
+you need to replace. We're just going to
+go back to what we created inside of our
+Notion template, okay? And the first
+thing that we need is my creator list,
+okay? So, I'm just going to scroll up.
+There we go, the link to my creator
+list. So, I'm just going to copy this
+link and paste it inside of cloud. Then
+pull out the outliers in here. So, this
+is okay, you're going to scrape, where
+do we actually put this content ideas
+that I find? So, I'm just going to copy
+this one, the ideas that we already
+saved,
+and there we go.
+And then transcribe the audio using
+Design Titan automation webhook. So,
+again, remember what I was mentioning,
+we have it already saved. So, for this
+one, you can
+literally just take it from here, okay?
+So, we have our webhook. You can share
+the specific link, or if you want, you
+can also just share the page, okay? So,
+I can literally just like
+click on share,
+take the actual link to the page,
+and then link it to cloud, okay?
+So, right now I'm not going to press
+enter and start it just because I want
+to show you real quick how to fill out
+also the other prompts
+because also this again will take a
+little bit of time. It will scan through
+all of the creators that I have there
+and start looking for all of these
+outliers between their content ideas.
+And again, this is very very much
+trained on specific principles that
+we've seen working in content. So, it's
+not random. It's not just going to
+search on the profiles like the
+instructions behind the skill are not
+just look for videos that have a lot of
+views. No, it has very specific
+instructions based on what we've seen
+performing the best whenever we look for
+specific references of videos. Okay? So,
+I'm just going to delete this one
+and I'm going to go back to our notion
+to get the second part. So, this will be
+the third script actually, the third
+prompt. And this is the transcribe and
+script. Okay? So,
+some of these skills have a little bit
+of an overlay between them. So, this one
+for example would
+be able to transcribe the video and then
+rescript based on my knowledge. So, as
+you can see, the structure is pretty
+similar. So, I'm just going to open it
+up. Same exact thing and then
+choose to see transcribe and then
+same thing here. Okay? Now,
+one thing here I specify let's go let's
+do the content ideas with this specific
+status because as you can see what I
+like to do in our notion is to also add
+a specific status. So,
+one thing I would like for you to still
+like do the in-between steps especially
+at the beginning and then
+you can automate the entire process if
+you really like how it's doing the
+research. So, I really like the personal
+touch still because that can be also
+something that you use to
+improve the skill itself and train
+Claude on what are your specific
+preferences for the ideas. So, obviously
+it's going to find the right ideas
+because it's selected creators. As you
+can see, it's a very precise in finding
+the creators. It has this very clear
+instruction to find ideas, but still
+there might be something that you don't
+want to create content about. Maybe it's
+a perfect idea. It will be a topic that
+would hit, but it's it's not a topic
+that you really want to discuss with
+your personal brand. And so you might be
+like, "Okay, you know what? This is an
+idea that I kind of have saved here, but
+I don't want to approve it." Okay, so
+you can just leave it like this.
+Or if you want you can even just delete
+it directly. And for all of the ones
+that you actually like, you can just
+click on idea approved. And so this is a
+very specific line. If you want you can
+also just remove this and let it run
+through all of the ideas that you have
+there, but I like to have it because
+especially if you have a more complex
+process, or maybe you have a team member
+that does this process of just quickly
+manually reviewing the ideas to make
+sure that everything is in place, then
+this can be a great idea. And so I'm
+just going to write with
+idea
+approved status, so that it knows which
+ones to focus on, and then the knowledge
+base. Okay, obviously here we are
+already re-scripting the videos.
+So it's really really important that it
+has information to be able to rewrite
+them. Now obviously you can also prompt
+it manually on specific instruction on
+what you would want to write inside of
+those scripts based on the topic, but in
+my opinion it kind of defeats the
+purpose of automating this entire
+process. Now keep in mind, I still
+recommend that you reread and check the
+scripts because as much as it has
+context,
+it will not be 100% exactly like you.
+That's inevitable because maybe there's
+something that you just think in that
+moment, or there's a little bit of that
+creativity aspect to it as well, for
+which you decide to just slightly change
+the script or slightly tweak it in a
+certain direction. And so I highly
+recommend that you still double-check
+them, but if you create something like
+this, then you can just start from this,
+share it as you can see, just copy the
+link, and then paste it here, and then
+press send, and it's going to do the
+whole process of taking those content
+ideas that you already approved, taking
+your knowledge, and then rewriting them
+based on it. Now real quick, I'm just
+going to run you through the last couple
+of prompts.
+And in here we have one that's just
+specifically for scripting. So, as you
+can see, there's a little bit of an
+overlap because depending on what tasks
+you want to automate, I think it's a
+very good thing to have separate skills
+for each and every one of them. So, for
+example, maybe you just want to script
+the videos. You prefer to find your
+ideas manually, then it's a good thing.
+You have like this separate skill that's
+just for scripting, okay? Or maybe you
+you would like to first double-check the
+transcripts to make sure that they are
+correct and the AI got correctly what
+the video was saying. And so, for
+example, you can run the viral spotter
+that also gets the transcript. And then,
+once you check them, run separately the
+scripter. So, this is the reason why
+they are split up. And so, as you can
+see, obviously here there will be the
+same thing. So, the status of the idea
+and the link. And then, the last one,
+and this is the most powerful one,
+obviously the one that will also consume
+the most credits, so use it carefully,
+but it's literally the full pipeline.
+So, every single step that I just
+described, if you just want to automate
+the entire thing and you don't want to
+think about it, this is just incredible.
+You literally just give it all the
+information that it needs. So, the
+creator list database, the content ideas
+database, the webhook connect 10,
+the knowledge base, and you will want to
+obviously describe your niche because if
+it's starting completely from scratch
+and it needs to find the creators, it
+will need to have the information about
+who you are and what you actually do.
+And then, it will literally run the
+entire process for you. So, this is
+everything that you need to know. Now,
+you will find all of the links and
+everything that you need in the
+description of this video. I do want to
+mention real quick, if you want our help
+to build out an actual strategy for your
+personal brand because these are tools.
+Always keep that in mind. If you don't
+understand what you're actually doing,
+then this will only get you so far.
+These are tools to automate, but you
+need an actual strategy to be able to
+grow your personal brand. So, if you
+want our help for that, you can just
+check the first link in the description
+where you will be able to book a call
+with us. You can have a conversation and
+just see if you're a good fit for what
+we do. And with that being said, I'll
+see you in the next video.

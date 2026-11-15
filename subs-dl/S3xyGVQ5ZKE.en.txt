@@ -1,0 +1,463 @@
+Welcome back to the show, Kushboo. How
+are you doing? I'm doing good. Thank you
+for having me again. Excited for our
+talk today. Yeah, we're going to talk
+about AI and how it's really changing
+the landscape and some of the cool stuff
+that that you're seeing out there. Um,
+but for the people that have not heard
+of you or know you yet, who are you,
+what you doing? Uh, so I'm the COO at
+EDM solutions. I have been with the E2N
+since I would say eight years now. uh we
+work with agencies we are white table
+service providers with my experience of
+working with more than I would say 500
+agencies I dipped my toe into AI eight
+months back did a lot of research
+implemented a lot of automation saw the
+productivity boost by 20% every quarter
+on quarter and now we kind of educate
+agencies on how to leverage AI and then
+help them with uh the AI journey like
+taking the first steps well it was it
+was cool you know I learned a lot you
+know you spoke at our event at Elevate
+in Phoenix um not too long ago and you
+were talking about AI agents and I I and
+I think I was like and I think I'm like
+most people running agencies of going
+yeah AI you go to chat GBT you go to
+Gemini you ask it questions and it gives
+you really cool stuff but I wasn't
+really familiar with what an AI agent
+was and then when I started diving into
+it I was blown away so tell everybody
+what an AI AI agent is or what it is how
+it's different from just going to chat
+GBT
+right so AI agent is something where you
+can define that what exactly it needs to
+do so usually when we start using chat
+TPD so let's say I have a client email
+that I want TPD to correct for me so
+maybe I'll just go on a chat and paste
+that thing now again if I have something
+for that same client I might go and
+search that chat and see where it has
+all the references and all the memories
+and the context about that client
+So I don't have to feed the same
+information again. So now you go on and
+search that chat. Now when you're kind
+of pasting on that chat, you feel that
+I'm getting more I would say contextual
+responses which is more specific to that
+client because you have kind of inputed
+all the client's memory in that chat and
+that's the reason the response that you
+get in that chat is very different than
+a very generic chat. Now to solve this
+thing, chart GPD came up with agents
+where you can create a custom GPT where
+you can train the GPD to behave in a
+specific way. So now you don't have to
+go and search for chat and even in chat
+when it gets lengthy, it can just go
+back and reiterate to 300 last messages
+and nothing above that. So now to solve
+that limitation, you can always go ahead
+and create custom TPTs where you can
+feed specific information about any of
+your business domain or a client or
+maybe a content outline or anything that
+you think of. So when you know that you
+have very specific set of instructions
+and this is how you want your chat GPD
+to behave, this is what an input would
+be and this is what my expectations are.
+This is what the idle output look like.
+So when you have everything laid out, an
+agent would work better in terms of any
+other normal conversation that you have
+with chatbt. Yeah. I mean after your
+talk, I started really diving into it.
+And so for for everybody like just as an
+experiment, you can go to chatbt and
+then you can go to like
+explore. There's an explore button and
+then you can hit create. And when you
+hit create, you can give it a title and
+you can tell it its role. I want you
+guys to think about this agent as a
+role. So, one of the ones I created was
+this marketing strategist that will help
+you out with landing page, email copy,
+all this kind of stuff, I I wanted to
+do, but in order to make it smarter,
+what I started doing is taking all of
+our success stories over the past 11
+years. So, all of these success stories,
+I almost said like sex stories. Uh, that
+would be really bad. Uh, that's a whole
+another topic. Um, but all these success
+stories in was in Trello. So I was able
+to export that data out. I was able to
+import it into this agent. I was enable
+also upload our branding guidelines, our
+brand voice. I was up I was able to the
+um past clients biggest challenges like
+thousands and thousands data points.
+So now I can share out this URL. So a
+lot of times we hire out a lot of
+agencies or we bring it on a lot of
+people. So I just send them this
+marketing strategist link and said ask
+it any question that you want and it
+will help you. So if I go what's a good
+email I should send out on April Fools.
+It could say oh there is this story of
+Zach who went from 10,000 to 800,000 by
+sending out this one April Fool's email.
+use this and it will write it for you
+based on all the data points you give to
+it. It's pretty unbelievable.
+Yeah. But you also use it for onboarding
+your team members. Yeah. Talk more about
+that as well as um QA testing because
+that was fascinating to me. Yes. Uh so
+one of the major major I would say
+breakthrough that we got when we kind of
+started building this agent was people
+always always I would say feel very
+lethargic when it comes to reading SOPs
+of 50 plus pages and reading all these
+procedures which they don't know when
+they're going to implement it but they
+still have to go through it because it's
+kind of in the onboarding. So we're like
+how about we make this dynamic where we
+can get all these SOPs in one document
+feed that document as a knowledge base
+the to the agent and then train the
+agent in a way where we can say that hey
+you are an expert dynamic SOP agent
+where you just give the information
+whatever is asked to you don't give
+anything you know I would say additional
+to what is being asked to you and do not
+search internet so I guess that is the
+biggest thing that we always always uh
+forget is we always tick on search for
+web but when you know that you have a
+very defined knowledge base and you
+don't want uh child DBD to go out of it
+and add its own two cents just uh I
+would say get rid of that check mark
+which says go on web so it will not go
+on web and it's going to give you
+results from your knowledge base itself
+it's not going to give any additional
+results so that way we kind of gave our
+SOP as a knowledge base and now any new
+client account manager we on board we
+don't give the SOPs where they have to
+read everything in the first week
+itself. They can just go and write in,
+hey, it's my first year today. What do I
+need to do? And it can give you like a
+step-by-step approach. Once you're done
+with that, you can say, hey, I'm done.
+What do I need to do next? So then it's
+going to give you incremental
+information just as when you need it
+instead of overwhelming you with all the
+information. So that was one of the
+biggest I would say breakthroughs. And
+it's it's not just that we made it and
+we didn't use it. We did use it. So we
+onboarded about eight new account
+managers after that and we gave that to
+them. So we gave an SOP guide as well
+and then we gave this agent as well just
+to see the human behavior. What do they
+choose? What they feel more comfortable
+about. I would say they were very
+fascinated just by the idea of they have
+somebody they don't have to go to
+basically somebody and ask these
+questions and feel can I ask these or
+can I ask that or how about I'm asking
+too many questions. They know that they
+have an agent that's not going to judge.
+they can just ask as many questions as
+they want if they want to see what's in
+there for them you know what kind of uh
+services and procedures and everything
+so it's always based on curiosity that
+you could ask the way you wanted and I
+feel now we are at a stage where after
+evaluating everything we don't even give
+those physical SOP guides anymore in the
+onboarding we just give the link to this
+agent and it works kind of really well
+um and the same happened for quality
+testing as well is when you know that
+okay you have a business domain where
+you have very specific processes laid
+out in terms of you already have a
+checklist you already know what needs to
+be done how that needs to be done
+everything is laid out super super
+precisely in that case this agents work
+really really well because you already
+have the data that is needed to train
+the agent now all you have to do is just
+create the agent and give the
+information that you already have laid
+out in terms of processes so we have
+this uh 500 points checklist which we
+make sure about when it comes to
+delivering a new website to the clients.
+So now what we did is we created an
+agent and said that hey you are a
+quality testing expert uh make sure you
+pass through all these checkpoints and
+just give us the report on all these
+checkpoints. Now there might be some
+limitations uh based on the model that
+you are using or the properties or the
+parameters that you have in the
+checklist. So you also have to mention
+about the fallback strategy that if
+there is something that you are not able
+to check right now just don't have a
+tick mark on it just give me a note on
+these are the things I cannot check and
+this is why I cannot check so now it's
+also like after 500 I guess it's
+checking about
+350 to 370 points and where it just
+mentions out I would not be able to
+check because it was a packin excess
+needed or it was a third party
+integration or anything that it is So
+now we have like a whole report. So now
+instead for a QA to go and check all
+these 500 points, they just have to go
+and check this remaining 150 points. So
+that was also amazing. Yeah. Yeah. And
+you know for I just want everybody
+because this just was blowing my mind.
+An agent works as a role or a team
+member in one specific role. And what
+you can do, what's really makes things
+really neat is you can make agents like
+your marketing agent communicate to your
+creator
+agent and they can talk. So like think
+of if you were building out a social
+media team, what do you have? You have
+the CMO, you have the strategist, you
+have the creator, you have the tester,
+you have, you know, all the these
+different roles. You can create a
+workflow for all these
+agents and it's always working for
+you and then you can have human beings
+add elements. Like one of the things
+that we're building out right now for
+agency mastery is I don't want it to
+spit out just there's a lot of people
+that are just spitting out content from
+AI all day long.
+I want this team that we're assembling,
+these AI agents to give us ideas and
+then when I say, "Yeah, I like that
+idea." Create that, but I want to review
+it and still put my personal touch on it
+outside of that. But it does 90% of the
+work, which is incredible,
+right? And with the chat GPT task now it
+has become so so easy for you to kind of
+even map things out what the competitor
+is doing. So let's say I have chat GPT
+task which tells me whenever there is a
+website copy update on any of the
+competitors or whenever they are posting
+any blog post it gives me a summary of
+summary of it. Uh what is everybody
+talking about in the dig digital space?
+How is SEO evolving? So you can specify
+these kind of topics and set a chat GPT
+task. So it could just give you all the
+information that you need just once a
+week. You can say that okay give me all
+this information on my Monday morning or
+like a Friday evening and then you don't
+have to go through all these different
+sources to kind of scrap this
+information out and summarize it for
+you. The chat GP like chat GPD could do
+it for you. just about you know
+leveraging the existing features and
+kind of seeing how we could use and
+leverage that model for the real time
+applications of it.
+For for all of you listening to this,
+your guys head probably hurts just like
+mine when I was first really kind of
+really understanding it and especially
+diving in. We're like, you know, Kushboo
+did, you know, what's working uh for the
+mastermind members and really dove into
+one of her workflows and AI agents and
+all this and and I was getting chats
+from all the members are like, "My head
+hurts, right?" Like, I get it, but it's
+already here. the people that leverage
+AI. I look at this like, you know, I I
+started my agency really when websites
+started taking off and the internet was
+really the this resource this amazing
+technology
+advancement AI is that times a thousand
+and if you don't really start looking at
+it outside of just going to chat GBT or
+Gemini and just you know do building
+prompts or building little things and
+not looking at how can you streamline
+your agency
+to a a part where it makes you more
+efficient to make you
+um deliver bigger impact. Every one of
+your clients is looking at you to solve
+their biggest
+challenges and one of their challenges
+is AI and how it's going to disrupt
+their business. So you if you can start
+understanding it now, getting ahead of
+all of this and really start you
+utilizing it for your agency and for
+your
+clients, you're going to succeed
+greatly. Like this is a
+huge huge advancement that I can't I
+barely understand it and I'm so excited
+about it. Do you have the same feeling,
+Kushbu?
+Yeah. And I guess with all the new
+models that kind of are enhancing
+itself, you just feel like every day
+there's a new breakthrough just like
+recent chhattpd image generation now
+they had doll E which used diffusement
+model. Now they have this image
+generation which which is an allgether
+different algorithm in the logic. Now
+they're kind of working on a more
+advanced version with Gemini's new
+version the AI vortex studio. So I guess
+the way that we have been working is
+definitely going to change a lot in
+2025. Right now if I'm mapping out how
+it has changed the digital space like
+when I talk to people who have already
+adapted AI who are kind of building
+products on AI or maybe integrating it
+heavily you can definitely see that
+change. So now instead of writing long
+codes, people are using cursor AI to
+write the codes for them and just
+preparing the user flow which they could
+feed to cursor AI or maybe how to write
+the prompt on cursor AI. That's the
+thing that they are learning. They're
+not learning how to code in Python or
+how to code in kind of you know uh PHP.
+So that's kind of evolving that
+landscape is evolving and now in
+business analysts are no more creating
+that documentation of how that you know
+user flow is going to work. They are
+kind of preparing this flow of
+automation on what the data points are
+going to be how the automation is going
+to work. So I would say every business
+area in the digital space is evolving
+and we might not be doing the same thing
+that we were doing back then. Now we are
+evolving it in a way that how we could
+incorporate AI, leverage it for what we
+really think that we would have more
+time for and nearly save that time and
+invest it somewhere else where where you
+kind of lost spending. Yeah. Yeah. It's
+it's incredible. Well, this has been
+amazing and we probably hurt a lot of
+people's minds. Is there anything I
+didn't ask you about AI that you think
+the audience needs to hear about? Um,
+yeah. Yeah, I guess you know one common
+notion is we always consider chat GPT or
+open AI or Gemini as AI and then we kind
+of always feel for more when we see all
+these fancy tools was doing all this
+fancy stuff but I guess the models
+itself if you are leveraging those
+models just know that how to use that so
+for chat GPD we already know that we can
+create custom agents and projects and
+tasks but do also check out Gemini uh
+don't forget to check out the Google AI
+vertex X studio where you can stream
+online literally you can share your
+screen. So where you are stuck it can
+give you audio on what to do as a next
+step. So think like it's an expert 24/7
+there to guide you if you're stuck
+somewhere. So not everybody's aware
+about these tools which are there in the
+market. We know more importantly just
+Gemini and Llama and then Chad TPT but
+there is much more than that. So do uh
+don't forget to check out like not
+Google's notebook len Gemini and Google
+AI Vertex Studio. Yeah, I love it. And
+when and look everyone, don't worry if
+if you don't want to put hundreds of
+hours into understanding this, we do
+have a solution for you. Uh you can book
+time with Kushbu and her team. Uh if you
+go to their site, you go to
+e2msolutions.com and look for
+fractional AI is it AI special
+consultant for consultant fractionally a
+consultant. Okay. And look for that and
+you can book time with them where you
+can have them build all this for
+you. You just tell them the logic. You
+tell them the the process and the things
+how you have it now. And if you could
+use AI and leverage it, they'll build it
+all for you. So that they're they're
+building a lot of cool stuff for us
+right now. And I I highly recommend you
+guys go check out E2M Solutions and uh
+and reach out, have a conversation. It
+can't hurt. Um I don't know many people
+doing this and uh and uh they're they're
+crushing it. So go check it out.
+Anything else to add? Um no, I guess
+you've covered almost everything.
+Awesome. Well, go do that now. And until
+next time, guys, have a
+swing. I hope you enjoyed this content.
+If you want more content like this, make
+sure you click on the link on the screen
+or check out your most popular podcast
+platform where the full episode is
+there. And until next time, have a swank
+day. What are you doing? Go check it
+out. Click on the link.
+I'll see you soon.

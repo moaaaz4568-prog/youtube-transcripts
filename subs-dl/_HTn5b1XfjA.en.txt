@@ -1,0 +1,208 @@
+if you use adobe after effects or you're thinking
+of using it sometime in the future today's video
+is really going to help you out because i have
+some free plugins and scripts that you can make
+great use of in adobe after effects and we're
+going to start off today with something called
+the fx console and these are going to be linked
+down below but do follow along so you understand
+exactly how these things work and later in today's
+video learn how you can get access to skillshare
+premium now skillshare is an online learning
+community with thousands of different courses
+across a wide range of creative areas these are
+things like logo designing just graphic design
+in general web design photography and so much
+more so yeah stay tuned to the very end today's
+video to learn more the fx console is really
+really handy and you can download it for free
+on mac or windows and this thing is going to
+help you search for effects in after effects
+so i'm just going to skip the installation process
+to save time in today's video to show you how this
+thing works just on a random composition i'm going
+to generate a star here much like in illustrator
+when you want to have an anchor point central to
+your object we can do that in after effects here
+so how does this effects console actually work
+so as long as you are clicked onto a layer
+press control and space bar
+and then this will appear
+and from here you can access
+effects very very quickly
+instead of actually coming up here to the top
+right we now have this console right on the screen
+so for example i can actually
+press control spacebar and
+just type in the fill and voila we have that fill
+see this effects console is just a quicker
+way to access effects in adobe after effects
+there are a few smaller features with this
+console but the main appeal here is that
+you have access to those effects really really
+easily by pressing ctrl spacebar so the second
+edition in today's video is something called butts
+capper and it's made by the guys at battle axe
+now these guys make a lot of high-end plugins
+and scripts and they're really really useful
+in high quality one of their most famous plugins
+is the rubber hose which is relating to how arms
+and legs move in animations but yeah down
+on the bottom here we do have some freebies
+and there are some really neat ones here and
+i haven't actually gone through all of them
+myself but we're going to look at the butt
+capper plug-in today you might want to take
+a look at these other ones as well in your
+own time and also do remember that you're
+going to have to quit after effects if you
+were installing something like a script or
+a plugin whilst it's open so i'm going to go
+ahead and do that right now and be right back
+so to demonstrate bug happen i'm
+going to just draw a random shape
+and then make sure it's got no fill
+so it's just kind of a strict path
+now when you're actually working on animation
+in after effects a lot of the time you do want
+the end of the stroke to be rounded off and in
+adobe illustrator we would call this a round cap
+and normally when you're working after effects
+there's a long way around to actually do that
+and it's by coming down into this path here
+it just takes a long time to go through this
+process each and every time but we can find
+the buckhapper plugin right here and we can
+drag it and actually just position it into our
+workspace like so and again this is just going
+to speed up our workflow in after effects which
+is invaluable in the long run so this rounded
+icon here will round off the ends of our stroke
+like so it is really handy just to have it here
+off to one side when we're working as opposed to
+coming into that path each and every single time
+the next plugin today actually comes with after
+effects and you don't need to install anything
+come up to window and then create nulls from
+pass.jsx if you click that you're going to get
+this window over here now this plug-in
+works with the points on a stroke path
+as you can see here i've got four different points
+on the stroke when you're trying to animate things
+like this it can be very time consuming to
+fiddle around with each individual anchor point
+but the create nulls from path makes things a lot
+easier and i'm going to show you how right now
+so if you highlight the
+stroke and then click points
+follow nulls you would get this
+error message that comes up
+well if you come into the shape
+layers and in the path down here
+you need to highlight the path in
+this menu and then click the tab
+this makes effectively four different
+nulls and each point i showed you before
+will follow these nulls
+if i click the shape layer you will see it's
+made the effects up here at the top and if i
+move them like this it actually alters in real
+time and you can set keyframes just like normal
+so i press p to drop down position and then
+just move it forward two seconds on my timeline
+drag this null over to the left now that null will
+follow that it gives you more control and it does
+maybe make the timeline a bit more busy but it's
+very very handy for complex animations it's very
+intuitive so if you involve the very technical
+animation it's going to be very very useful
+we also have null follows points
+which essentially is just the inverse
+you can see my four nulls are
+here they're all on the points
+so if i go into the path now
+and i move this one down here
+and then if i click up you will see that the
+null always follows that path and so you can
+do some pretty complicated animations with
+this it does give you more flexibility on how
+you animate things in after effects and finally
+with this plugin the trace path creates a null
+from one part of your past to the other so
+make sure you've actually highlighted the path
+then click trace path and this null has
+appeared on the line and what it's doing
+is it's actually starting from the left and
+it's continuing all the way over to the right
+what you could do is you could put a car or
+something on top of this and then you could
+say animate the car that follows this path as a
+kind of a road that's just one way you could use
+this there are many ways to do that but this is
+one of the most time saving methods of doing it
+the fourth script in today's video
+guys is called dojo ease script
+so you need to scroll down and find this link
+here and just like you always do with scripts
+and plugins you need to put this into the program
+files of after effects and when you finally open
+up after effects once more we do have this window
+here of the doji is script if you've used after
+effects for any length of time you will know that
+often animation can just look pretty boring so
+an example here just moving this circle from
+left to right in an orderly steadily fashion
+it just looks pretty boring and you're probably
+going to want to bring this animation to life
+so if i highlight all of my keyframes on this
+animation and then i come over to the dojo ease
+plugin you will notice i have these options here
+in this drop down menu what they do is they change
+the easy graph meter which will dictate how your
+animation actually moves in a fluid fashion and
+what i use quite a lot is the medium ease and
+let's have a look at how that plays out now
+and there we go it kind of starts off
+slow speeds up and then finishes slow
+which is a lot a lot better than just having a
+plain old boring animation again this is another
+time saver that stops us having to come into
+the graph editor over and over again we just do
+things as one click of a button you could go more
+aggressive and use a strong ease and you can see
+in the graph editor in real time how it affects
+things you can come into the settings menu and do
+more detailed in-depth more involved adjustments
+to every single thing you do but also a really
+cool one is the overshoot effect so let's go back
+and highlight the keyframes and then give that a
+try if you press ctrl click on your keyframes
+it will return them back to normal keyframes
+the other shoe adds a little bounce
+or wiggle at the end of the animation
+which just brings it to life that much more
+but yeah these were the plugins that will save
+you time and they're all free remember they're
+not something that you're gonna pay for if you
+can save time for free in after effects well
+i think that's a win so yeah the sponsor of
+today's video is skillshare and skillshare is
+an online learning community with millions of
+different users taking thousands of different
+classes now you can actually learn new skills
+or nurture existing passions or you might even
+discover a hidden talent that you might have
+now i'm actually currently taking a course by
+gestapo torres and i'm brushing up on my skills
+even though my routine is pretty jam-packed
+throughout each day now skillshare normally
+costs just less than ten dollars per month
+but the first 1 000 people who click the link
+down below today and sign up to skillshare will
+be granted a free trial to skillshare premium
+so yeah click the link down below and sign up to
+skillshare and discover new skills today but yeah
+if you want to learn more about graphic design or
+after effects do click a video on screen and until
+next time guys design your future today peace
+yes

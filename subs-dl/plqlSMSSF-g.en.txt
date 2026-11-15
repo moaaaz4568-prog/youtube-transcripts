@@ -1,0 +1,1532 @@
+Deliverability is
+one of the
+most important
+elements of your entire
+cold email system,
+because your list,
+offer, text,
+scripts, and call to
+action—all of this
+means nothing
+if people don't read
+your emails because they
+end up in spam.
+Even after
+sending over 10
+million cold
+emails for my own
+agency and
+scaling it to almost
+$200,000 per
+month, I still
+put
+deliverability
+first because without
+it, nothing else
+works.  So in this
+video, I'm going to show you
+my complete
+deliverability toolkit
+that you should
+implement in your
+agency so that your
+cold emails
+actually land in your
+inbox and you
+get more
+client calls.  So, to
+be clear: when
+I say "
+deliverability," I
+mean whether
+your
+emails make it to your main
+inbox or
+get lost in spam where
+no one sees them.  And
+every year it becomes
+harder and harder to get
+into the main
+inbox folders.  Spam filters
+are becoming increasingly
+strict.  Mail
+providers
+are constantly changing their rules.  And
+most people who
+do cold
+mailings have no
+idea what they
+need to do now to
+get into their inbox.
+So that's what I'll
+talk about in this
+video, so you can
+be sure that
+your emails are
+going to your
+Inbox and not spam.  I
+will tell you how we
+configure domains,
+how we set
+warm-up and
+sending limits, how we
+ensure that our
+texts are not
+marked as spam,
+how we verify
+emails (because
+new tools have appeared for
+more effective
+verification due to
+changes in
+provider policies), and how we
+check whether a
+mailbox is in spam in order to
+replace it with a new one in time
+and maintain a
+high
+response rate.  So, with that said
+,
+let's move on to the video.
+Okay, the first thing we
+need to do is
+purchase our domains.
+And then I'll show you the
+two best
+software products
+we
+use to
+fully configure
+turnkey boxes
+to make it
+as easy as possible, and
+it's
+even cheaper than
+configuring everything
+yourself.  So, here's how we
+do it: the
+main software
+we use
+for domains
+is called Dino.  This is
+the best and
+cheapest option
+we found, and it
+makes
+buying domains very easy.  When
+we buy domains, we
+essentially do this:
+many people say, "
+Only buy
+.com domains because they are the
+most reliable," and
+maybe that's true.
+At the same time, we
+tested .com domains
+against .co, against .info,
+against anything
+else, and it makes
+absolutely no
+difference.  So, to
+save money and
+afford
+more emails and
+positive
+responses, instead of
+spending unnecessarily on
+.com domains, we
+use
+.info domains.  So what we're going to
+do is this: we
+have a prompt for Claude where
+we can put in
+our company name, and it will
+generate a bunch of
+domains.  I'll leave this
+link in the description
+so you can
+copy it and
+create lots of
+domains.  But I will show you
+what to do after
+you generate these
+domains.  So, this is the
+prompt for the
+domain generator.
+Again, I'll
+put it in the description.
+So you just
+take it and copy
+it.  Insert it into
+Claude.  You can paste
+this into GPT or anything
+else.  And then we
+will write that our
+company name is JKD
+agency, and ask to
+create a certain
+number of domains.
+So in this quick
+example, I'll just
+ask to create 50
+domains.  Now we
+calculate the
+required number of
+domains like this—it's a bit of a
+guess, but it's important
+to know before buying
+domains—we
+send 16 emails
+per day from one
+mailbox.  We
+send one
+follow-up and one
+main email.  This
+means we write to
+eight new people a
+day from one
+mailbox.  And we
+create two
+mailboxes for each
+domain.  This means that
+if we want to
+send, for example,
+800 new emails per
+day in total, right?
+Then we simply
+divide that number by
+eight—that's the number of
+boxes we
+need.  So, we
+need 100 mailboxes,
+and then we divide this
+number by two, because we
+need
+two mailboxes for each domain.  That
+means we'll
+need 50
+domains, right?  So,
+that's a number of
+domains with our
+metrics—which I
+recommend
+using because
+they work and we've
+done it hundreds of times
+.  This will allow us
+to send 800 new
+emails per day to new
+people.  Of course?  And a
+total of 1,600 letters.
+So, once we
+do that, we'll just
+move on to searching.
+And when the upload
+is complete, which will take
+about 10-20 seconds, we
+can copy
+these domains and
+transfer them to Dino.
+OK.  So, you see,
+everything is ready after 13
+seconds of waiting.
+Now we are going to
+copy all 50 of these
+domains.
+I probably already have many of them
+, but if you're
+doing this for your own
+company, you probably do
+n't yet.  Uh, so
+we're back to
+Dino Dot.  And now we'll
+click this
+button where it says "
+mass search".  Then
+we will click on "exact
+search".  And let's just
+insert all 50
+domains that we
+need, like this.
+Having done this, we
+will proceed to the search.
+And you see again that
+here, there's probably... actually
+, maybe we don't have
+any of them.
+Maybe not...
+Anyway, here are a couple of those
+we already have.  Yes.
+So, we have these two, but we do
+n't have the rest.  True.  So
+we'll just check
+the boxes next to
+all the ones we
+need.  Obviously, there
+are two here that I
+already have.  So I would have to
+find
+two more.  If you
+need 50, you can
+generate 60 to
+make sure
+you definitely have the ones
+you don't already own,
+if you've done this
+before.  And then
+just check all
+those boxes.  I won't
+do that because you
+probably know
+how to do it, right?  And
+so you see the
+cost is
+only $5.66, that's in
+Canadian dollars
+since I'm in Canada.
+So that's about
+four US dollars.  That's
+really cheap
+compared to buying
+a domain, which costs
+around $15
+, right?  Well,
+anyway, if I were
+buying them, I would
+click "add all
+to cart."  And then I would
+just place
+the order.  This is how
+we buy these domains.
+And again, if
+you don't know how
+to make a purchase, you're
+unlikely to
+succeed.  So
+I hope
+you can figure this part out on your
+own.  Once
+you already have these domains,
+we need
+software to
+create
+mailboxes on the
+purchased domains.
+So, we
+use two
+main services, and
+each of them for
+different purposes.  The first
+option—for
+most of our
+inboxes, we
+use “premium
+inboxes,” which allows us
+to set them up at the
+lowest price, and
+they are very effective.
+If you go to the
+pricing section for “premium
+inboxes,” you’ll see that
+we can get them
+for $3.50 per
+box.  We,
+of course, have many
+mailboxes.
+So it's a little cheaper for us
+, because we
+have them in large
+quantities.  But
+overall it
+will cost about
+$3.50 per box
+.  And they are supplied
+"cold", without
+warming up.  So when you
+buy these boxes,
+you have to
+warm them up.  Now I
+will show you how we
+do it.  This is one of the
+ways we
+work.  Another
+method is suitable
+if we don't want to
+wait 14 days for the
+boxes to warm up, but
+want to buy them and
+start
+sending immediately, which is what
+many of our
+customers want.  When they
+come to us,
+we give them a choice.
+We ask, "Do you
+want to start right
+now?"  And many of
+them choose this
+option.  So, if you
+want to do this,
+you need
+mailboxes that are already warmed up
+.  The place where we
+get them
+is called Upscale B2B.
+put all these
+links in the description for
+you.  But if you
+go to the
+pricing section, I believe you
+have to log in
+to
+make a purchase,
+but you can
+see that we have a
+total of 1,300 boxes with
+them, which is of course a
+lot.  And if you
+look at the plans, you
+can get these
+warmed-up
+Google mailboxes for $8 per
+mailbox per month.
+Of course, this is more expensive
+than the option with "premium
+inboxes."  However, you can
+send emails from them
+immediately.  So if you
+value speed
+or money, then this is
+essentially the price you pay for
+speed, right?
+And one more thing
+worth noting about
+warm boxes:
+they already come with
+domains.  So anything
+you would have to
+buy separately at Dino
+Dot doesn't need to be
+purchased when you
+pick up these heated
+boxes.  So, in
+the end, it still works out to be
+much
+cheaper
+to choose the non-
+warm-up options over time, since
+you don't have to
+pay for
+those mailboxes every month.
+This is a one-time payment, well,
+or domains.  But that $3.58
+and that $8—that's the fee for
+each month.  So it's more
+expensive, but
+again, you
+get the extra
+speed, which is
+definitely
+worth it.  And, of course, you
+saw how many
+mailboxes
+these guys have.  We really
+where we work.  So,
+that's it.  Now, when
+you buy this, you will
+be asked for a few
+details.  So I'll show you
+what it will look like.
+With Upscale, everything will be very
+similar.  So I'm just
+going to show you how to buy
+one of these and what
+happens after
+that.  Of course?
+So, you just
+take it and buy it.  I'll
+just buy one as an
+example to
+show you how it
+works.  I'll pay $3.50
+to show
+you this example.  And
+after I
+do that, I'll show you what
+you need to do
+after payment.  OK.
+So, I ended up
+purchasing one of these
+boxes.  Now I'll
+show you exactly how we
+enter these variables into the
+form to properly
+configure these
+boxes.  So, for the
+domain redirect URL, you need to
+specify your website
+because right now we
+have all these random
+domains.  We want
+to make sure that these
+domains
+redirect to
+our real site.
+This actually makes a
+big difference, because
+we estimate that
+at least in our
+industry, about 1.8% of
+the people we
+send an email to
+click on this
+link.  They
+copy the address from the
+email, paste it
+into their browser, and
+go to the site, and
+we get a lot of
+meeting notes
+from people like that.  So
+this is definitely
+important.  Put
+your website here, and ideally
+it should be a
+sales funnel, okay?
+So, once you
+do that, you will need to
+enter your
+Dinodon credentials.  After that, you
+will insert your
+domains here.  Of course?
+So, we had the 50
+that we bought.  So from
+now on, I'll just paste in
+all the domains I
+just purchased from Dinodon.
+Of course?  Once you
+do, enter
+your Instantly login details here
+.  So enter your
+Instantly data here.  Or
+if you have another
+tool,
+like Smartlead, Email
+Bison, or any other
+platform you
+send emails from,
+enter that here.  And
+then you
+will need to enter the
+credentials from
+this
+software here.  Then,
+enter the number of
+inboxes, the
+total amount you
+purchased.  Of course, I
+only bought one to
+demonstrate it to
+you.  And then specify
+the number of
+inboxes per domain.  We
+usually create
+two mailboxes per domain
+.  So I recommend
+this option.
+Next, enter the name of the
+person on whose behalf
+you want to send
+letters.  You can
+enter your own name
+or choose a nickname.
+You can specify
+any name you
+want to give to the
+email address.    This is what
+you need to
+enter here.  Then
+enter the
+character's name for the
+email, and the
+last name here.  And you will
+need the
+V2 option.  In this case, it
+would look like
+Joshua@domain.com and
+Joshua2@domain.com, right?
+So, you will
+need two
+options if you
+are creating two
+mailboxes per domain.
+You will need three
+options if you are
+creating three
+Quite simple.  Next is
+the password for the mail.  You
+just need to
+provide a password here
+so that you can access
+these mailboxes if the
+need arises for some reason.  And
+then you need to
+insert a link
+to the profile photo of the person
+who will be sending
+the letters.  So, if you're
+doing it yourself,
+upload your
+profile photo to a
+free
+image hosting platform.
+Um, we use a
+good free
+service—ImageBB.  Here he is.
+It is completely
+free.  Just
+ignore everything here and
+click "Start
+Download."  Then
+you upload
+your profile photo here,
+get the link,
+paste it here,
+and that will allow you
+to have a profile photo under the
+name or
+email address that
+you send
+emails from, which is very
+important.  Good.  And this
+can be ignored, just like
+additional assets.
+Again,
+make sure you
+specify that you
+are using Dino
+for your domains.
+That's all, then just
+complete
+the order.  And what
+happens next:
+because we gave them
+access to our
+Instantly platform, or
+if you
+use Smartlead
+or something, you give them
+access to that
+platform.  This
+company
+will automatically upload all of
+your purchased
+mailboxes to
+your Instantly within
+24–48 hours.  Here's how we
+personally
+set it up.  I know
+other people
+use different
+software, but these
+two options are
+best
+for our purposes.  This
+is the
+infrastructure setup.
+Now I'll show you how
+we set up
+mailing options when we
+receive boxes
+from Upscale or
+premium boxes.
+So, now I'll show
+you the
+email settings that allowed
+us to get 6,400
+responses with an
+average
+response rate of 2.6%.  We
+sent 2.5 million
+letters.  These are just our
+own results.
+This does not include
+the results of all
+the clients you
+see here.  So if we
+go into
+mail settings, I'll
+just show you
+one of these examples
+, okay?  If we
+look at one of the
+Google options that we
+currently use
+as our primary.  If we
+go here, I'll
+show you
+the settings we
+use for
+these mailboxes to
+ensure that emails
+always make it to the
+inbox.  Good.  So,
+if we go
+into the settings here,
+we'll see exactly what
+we set.  We
+need to
+make sure that we
+have entered the name of the person
+who is actually sending
+this email.
+So, in this case,
+the pseudonym for this
+letter is Bethany.  We
+just type it into the
+name field.  And for
+the signature, we will simply
+indicate the
+sender's account name.  We
+do this because
+when we send an
+email, we want the
+signature to include the name of the
+person
+sending it, right?
+You don't want
+the letter to be sent on
+behalf of this
+pseudonym, but with your name in the
+text itself
+.  This
+will look very
+strange.  People usually
+don't react very well to this
+.  So you
+specify the sender's account name here
+.  This is very
+important.  Good.  Now
+those were the basics.
+Let's move on to the
+immediate
+sending limits.
+So, the daily
+campaign limit, as I
+said, that we
+use is 16
+emails per day.  We
+send eight to
+new people and eight to the same people
+we already
+sent letters to
+yesterday.  We are doing a
+campaign with two
+sequences.
+Once we
+do this, it is important
+to set a limit on the
+increase in warm-up
+per day—one.  And that's
+essentially when you
+get an
+inbox.  This will
+simply increase
+heating sheets
+by one each day.  And our
+daily
+warm-up limit is 25.
+So we send 25
+warm-up emails
+every day, and we also send 16
+every day, right?
+So, a total of
+41 letters come out of
+this mailbox every day.
+And the response rate
+to these warm-up
+emails is set at
+45%.  This is what we
+use.  This is what
+we have found
+works.  And we
+turn off all these things
+because they are not really
+necessary.  We also have
+spam protection enabled, an
+open rate,
+and an "important" flag set
+to 100. Again, these
+things simply
+improve
+email delivery.
+This is what we
+think works
+best.  This is how we
+actually
+set up our
+inboxes to
+warm them up and
+set the volume of
+emails we
+need to send.
+Additionally, it's important to
+know that we
+warm up our
+mailboxes for at least 2
+weeks, unless
+they have been
+pre-warmed
+at Upscale—then, of course,
+you can send
+emails right away.  But
+if these are premium
+mailboxes that we
+buy unwarmed
+, we warm them up for
+at least 2 weeks before
+even starting to
+send out any
+cold emails.  This way
+we ensure that
+they don't end up in
+spam because we
+start sending
+cold emails immediately
+after they are
+set up.
+Of course?  Here's how we
+configure the
+warm-up settings
+and everything related to it
+.  Now I
+want to show how we
+structure our
+text, how we choose
+words, and how
+spintax to
+minimize
+the likelihood of
+getting spammed.
+The campaign, on the example of
+which I will show the
+creation process, is our
+recruitment for the CSM position.
+We also
+cold emails for
+recruiting.  I won't
+show you my
+basic
+email script because all these 12-
+year-old "agencies" that
+opened yesterday will
+just copy
+it and it will become less
+effective.  So, this is
+our recruitment
+campaign.  I will show you how
+we structure
+the text so that it doesn't
+end up in spam.  By
+the way, if you want to
+become a CSM in our
+company and know how
+to work with
+cold emails,
+apply on
+our website.  But
+back to
+the point: to
+prevent email services from detecting
+patterns, we need to
+a lot of spintax.
+A few years ago, this
+was less important,
+but with the development of AI and
+after Google,
+Microsoft, and other
+providers started
+using AI
+to check for
+identical text, it
+became critically
+important.  The more
+options you have in your
+spinbox, the higher your
+chances of
+landing in your inbox,
+as the email
+will be perceived as
+more unique.  As
+you can see, we have many
+different options for how
+structure this
+text.  So, I have a
+prompt that I'm going to give you
+now.  This
+prompt specifically
+works with
+spin tax settings
+in Instantly.  If you
+use Smartlead,
+I think the approach to
+spin tax is a little different there.  So
+you may
+adjust the prompt a bit
+.  But I'll give you a prompt
+and show you how you can
+essentially "plug and
+play"
+one basic script,
+turning it into a
+fully
+randomized version
+using spin tax,
+which means—as I
+said—the text being
+sent
+constantly alternates
+between different
+variations.
+For example, instead
+of saying: "
+the salary is
+from 10 to 15 thousand per
+month,
+consisting of a
+stable base and
+large bonuses," he
+will alternate the phrases
+"consists of," "
+formed from," and "
+includes."  This
+means the same
+thing, but in essence,
+the text does not have the
+same "
+digital fingerprint".
+Therefore, for
+artificial intelligence systems
+that analyze it,
+it looks different.
+This way we can
+actually bypass these
+filters.  So I'm going to show
+you our prompt, and
+then I'm going to demonstrate
+how we use
+it to create
+this much spin text
+within this kind of
+text.  Here is our
+prompt.  I'll copy it
+and paste it here, in
+Claude.  Then I will give him
+the text without spin tax and
+ask him to make a spin tax
+with at least 500
+different variations with
+all possible
+combinations
+inside.  I'll say:
+please process
+this script and
+make sure it
+has at least 5,000
+combinations of different
+variables like these.
+Of course?  After
+that, we'll move on to
+Instantly.  This is spin text,
+of course, but I'll take
+the version without it, like this
+.  Now I'll paste
+it here.  Next, I'll
+make sure that
+the variables are really
+variables, because that's what it should
+look like.  So
+it won't write "
+Brian" for every
+person, right?
+So, I'll change them quickly
+.  Instead of "Brian
+", I'll write "name".
+I'm looking for someone with that kind of
+experience.  That seems to be the
+only variable we have
+here.  There are
+few variables here.  Um,
+and then the
+account signature.  That's the only
+other variable.  Um,
+usually when you have a
+crazy
+offer like this, you know,
+like "we'll
+pay you for
+our work," you
+get pretty
+response rates and
+positive results
+.  So you don't
+have to be
+too fancy in
+this recruiting
+campaign when it
+comes to
+personalization, but it's still
+important to
+have some spin here.
+OK.  And instead of
+Bethany's name, of course,
+we'll insert the
+account's signature.  And then we'll
+send it to Claude.  And
+I'll show you the
+result it
+gave with all the
+combinations to
+make sure it does
+n't end up in spam.
+OK.  So, now you
+see that everything is ready.
+He generated a
+variant for us with 315,000
+possible combinations.
+Which is far beyond what
+we expected.    Is
+n't that right?  So, in essence
+, it is very unlikely
+that the same
+script will be
+sent twice.
+That's why it's so good.
+And if you add
+personalized
+variables here, there will be even
+fewer of them.  Yes?  So what
+is just
+copy all of this and
+paste it into Instantly,
+right?  This is essentially the same thing
+.  So we'll
+just copy that and
+paste it here.    Let's
+make sure we
+split the lines so that
+everything is
+formatted correctly.  So
+we'll do it like this.
+Look.  "
+Join"—this will be a
+separate line.  And "PS"
+will also be a separate
+line.  And this will be a
+separate line.  And this
+line.  And, actually, that's
+all.  Yes?  We see "
+Hi, Brian".  And
+you just need to
+see if it all
+makes sense.  I won't
+go into details
+because I trust the request.  And
+this seems quite
+logical.  I am looking for
+someone to fill the role of
+Client Service Manager (CSM) for
+our
+consulting
+business.  The
+pay range is from this to
+this, correct?
+So, it all makes sense.  You
+can check this out
+multiple times and
+see all the different
+variations of this.  But
+this will essentially show
+you, so to speak, what
+exactly will be said here
+.  And if you are satisfied with what is
+written there,
+then you are actually ready
+to work.  And you will
+do this with every
+single script you
+submit.
+Okay, now that we have
+everything set up, we
+to make sure that
+every email we
+send is actually
+verified and is from a
+real address.
+We know this for sure, because
+if not, your emails
+will start bouncing back,
+and your
+mailbox's reputation will suffer
+because providers
+will see: "Oh, this
+mailbox is sending
+emails to non-existent
+addresses."  Apparently this is a
+spammer account.
+We will
+send all their
+emails to spam.  So I'm going to
+show you how to
+this doesn't happen to you
+.  The
+software we
+use for this
+is called usebouncer.com.
+If you look at
+the prices and you already
+use an
+email verification service, you will notice that it is
+probably more expensive than what
+you are
+using now
+.  That's right.  And the reason is that
+it really
+works.  Until about
+two months ago, we
+used
+services like Million Verifier
+and Try Kit to verify
+our emails.  We
+noticed that they
+started marking
+invalid email addresses
+as valid.  In addition,
+the number of emails
+falling into the
+catch-all category
+has become significantly higher
+than before.  I don't know
+what happened, but I think
+it has something to do with
+Google changing the
+way these
+verification tools determine
+whether an email is valid.  As
+a result, Million Verifier
+returned a bunch of
+garbage addresses,
+calling them
+good, and marked
+real addresses as
+catch-alls that we
+couldn't write to because we didn't
+know if they were
+real.  Then we
+started getting a
+bunch of returns, and
+delivery metrics and everything else
+was not working
+properly.  So I
+had to research
+many different
+providers to
+find the best
+way to verify email
+addresses, and in the end
+we found that
+this software was the best
+.  So, um, you
+use it just like
+any other
+email checking tool.  We
+just take the API and
+connect it to
+Clay—that's how we
+use it.  Um, I'm
+not going to do a
+full demonstration
+of how Clay works.
+We have other videos for that
+.  But this is exactly what we
+verify email addresses
+.  So, I'll show you a
+rough
+setup and how to
+do it cheaper
+than usual.  First of
+all, you need
+to know how many
+credits you
+need.  That is,
+how many
+verified addresses do
+you want to find or
+how many addresses
+do you plan to send
+emails to?  If you
+are going to send
+50,000 emails, you will
+need this
+option.  However,
+instead of
+paying $250 for
+50,000 credits, you can
+opt for a monthly
+subscription.  Then it
+will cost
+$200 instead of $250. And
+you can
+cancel your subscription immediately.
+This will
+save you 20% on this
+order.  You just
+buy it and
+cancel the subscription immediately.    That's exactly how
+do it.  If I
+log in now, I
+think we have
+quite a few
+credits left.  Yes, we have
+almost 100,000 credits.
+If you don't know how
+to use API
+keys or Clay, we
+can help you with that
+.  If
+you want to learn
+more about our
+company, the description
+will include a link to
+how we work.  This
+will be the first link
+in the description.  But if you're
+looking for the easiest
+way, just
+click "
+verify list"
+.  Then click "
+add new list".
+After that, simply
+upload the email addresses
+you want
+to verify.  And the service
+will show whether they are
+valid.  Of course,
+there are more
+automated
+ways to avoid
+doing this manually
+every time, which
+we can help with as well
+.  Or you
+can watch
+the video about Clay and
+try to
+figure it out
+yourself if you
+have time.  Um,
+that's basically what we
+do, and that's how you
+can verify those
+email addresses.  Uh
+, and then you can, of course,
+send them
+letters.  Uh, and
+only send emails to accurately
+verified addresses.
+There will be some
+marked "unknown"
+or "general".  Do not
+send emails to
+these addresses as
+they are likely invalid.
+So, here's how you
+use Bouncer.
+Here's how you
+Now I'll tell you how
+we determine whether an
+email we may have
+previously purchased ends up in your
+inbox or spam.  As I've
+shown before,
+we've sent over 2.5
+million emails on
+our own behalf alone, not
+counting our
+clients.  And we know a little bit
+about how
+to check if
+these
+boxes are getting spammed, because
+we've had to replace them a lot
+over the last few
+years while we were
+doing this, right?  So,
+essentially, the main
+way we look at this is by
+analyzing
+our campaigns.  So I
+see all the campaigns here
+and all the active
+campaigns, right?  So
+if I want to
+filter out only
+active campaigns, I
+can do that and
+see all
+the campaigns that are
+currently active, the
+response rates, and the
+opportunities we
+received during that
+period.  So these
+campaigns are obviously
+pretty new, right?  However
+, we want
+to track changes in
+response rates for these
+different campaigns that
+we have, right?  We
+calculate it like this:
+every week we instruct
+Claude to log into our
+Instantly account, and he
+provides us with a report:
+how many emails we
+sent, how many
+people responded,
+how many responded
+positively, and how many
+booked an appointment.
+So we determine
+by looking at the
+ratio of
+the number of responses
+to the total
+number of
+emails sent.  If this
+ratio drops
+, you know that if you have
+n't changed anything—
+and you
+shouldn't
+change anything during testing—then the problem is most likely
+deliverability, right?
+This could be
+related to the list
+or something else, but
+if everything else is
+the same, then 99% of the time
+the problem is with
+deliverability.
+So when the
+response rate, which is the
+total number of
+responses received
+, including
+out-of-
+office messages and everything else,
+is divided by the
+number of initial
+sent, it drops by
+more than 40%.  We
+are replacing absolutely
+every
+mailbox in this
+campaign.  We
+ran
+inbox tests, looked at
+health scores, and tried
+a lot of other things, but
+nothing is more
+accurate than real
+data from a live campaign.
+Because we have seen
+false positive
+results when the test
+shows that everything is fine with the mail
+, but when
+you send a real
+"cold" email to a
+potential client
+, it ends up in spam
+.  And we've seen the
+opposite, when it says
+that the email will go to spam,
+but in fact the mailbox
+works fine and everything is
+fine.  We
+observed the same thing with the
+reputation indicator
+.  There are a lot of emails
+that have a 99-100%
+reputation, but
+still end up in
+spam.  And it happens the
+other way around: the
+reputation indicator is 80%, but everything
+works fine,
+you know?  So the
+best way
+to test is right
+during the campaign,
+simply by separating
+different campaigns into
+different boxes.
+Then you can
+understand: if the
+response rate
+drops 40% below
+normal, you know the
+problem is in the mailbox.
+You can replace them
+if you want to be
+sure that the mailing
+goes out immediately.  You
+can have backup
+boxes that you
+pay for, just to
+replace them with "
+warmed up" premium ones
+, or, if
+there are no spare ones, just
+speed, take the more
+expensive ones, and instantly
+again.  We usually
+do it this way because it's
+just more convenient.  This is
+how we ensure
+spam.  Another method
+that we recently
+tested,
+I spoke to another
+very well-known
+cold-mailing expert about it, you
+may or may not
+know who he is, but I
+spoke to him
+about what he does,
+and we're going to start
+testing it.  We have
+n't actually
+done this yet.  This is the method
+now.  But what we're
+going to start
+testing is
+getting a list of all the
+"out of
+office" or not quite
+"out of office" responses, well, it's an
+"
+out of office" response, but
+essentially it's those responses
+where it says, "I
+no longer work for
+this company."  This
+email address does not
+exist.  Please
+write to this address
+instead.  Yes?  It's
+like those types of
+emails,
+they usually always
+respond with the
+same pattern,
+right?  Uh, because it's,
+you know, they're not
+going to go back to that
+letter, right?  This
+address will forever
+respond to every
+email exactly like this.  So he's
+doing a campaign that
+only sends letters
+to those addresses,
+you know?  So, if
+he sees that the
+response rate, the
+overall
+response rate from those
+addresses that always
+respond, is below
+60%, he knows:
+the reason why those 40% don't
+respond—they
+Therefore, as soon as the threshold
+drops below 60%,
+it replaces all
+involved in this
+campaign.  This is very
+smart because you can
+be almost certain
+that the only reason
+they don't
+respond is because they're
+in spam.  And here's what
+you can do
+.  You can
+see at the level of an
+individual mailbox which
+ones receive
+responses from
+addresses that are guaranteed
+to respond, and which ones do
+not.  This way, you
+can be almost 100%
+sure whether
+your email will end up in
+spam or not.  This is one of the
+methods we
+will
+testing.  I decided
+to share all
+the information about
+how we ensure that
+emails end up in your
+inbox and not in spam.  This
+is the entire
+infrastructure
+we use to keep
+our emails out
+of spam and our
+calendar
+filled with
+qualified
+sales meetings.
+So, if you're an
+agency owner or
+consultant who's
+sending cold
+emails and not getting any
+responses, delivery is
+probably the main
+reason.  So I'll
+put all the
+links to these
+tools I
+used and these
+tips in the description so
+you can just
+copy and
+paste them for free.  If you
+want us to
+help you
+set this up
+individually, you can
+watch the video
+below this clip.  This
+in the description, and there we
+explain how we can
+personally.  You
+can review
+it if you want.
+If not, no
+problem.  You can
+continue
+watching our other
+videos and learn
+more about how we
+work.  And
+see you in the
+next video.

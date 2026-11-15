@@ -1,0 +1,852 @@
+The easiest way to get started with AI
+agents is using Zapier's AI agent tool.
+Now, Zapier lets you build AI agents
+from a single prompt. You don't need to
+know how to code, you don't need to know
+anything about automation, and in this
+video, we're going to walk you through
+how to build your first agent from
+scratch, from beginning to end, how to
+test it, and how to put it live into
+production. I sit down with Tom Nasser,
+who's been doing this for over 5 years,
+and he's going to show us a master class
+on how to build AI agents from scratch
+using Zapier, so enjoy the video, and
+let's dive in.
+Tom, what are we building today?
+>> We are going to start building with
+Zapier agents. Now, I know you might be
+thinking agents, AI agents, it's a scary
+new frontier, but we're going to make it
+really simple for you today. We're going
+to show off Zapier's agent builder, and
+I'm also going to show you how to build
+an automation that does some similar
+things, but also uses AI in the middle.
+So, that's what we're going to focus on.
+>> Awesome, and Zapier is such a powerful
+tool, and and I think the agent feature
+really helps take it to the next level.
+So, uh right before you jump in your
+screen, Tom, why don't you just give us
+your background, and kind of tell the
+audience why it is that folks should
+listen to you.
+>> Sure. Uh my name's Tom Nasser, I'm
+co-founder CEO at XRay. We're a workflow
+consultancy. We have helped hundreds of
+different companies from dog groomers to
+VCs build better operations, and design
+the way that people work. We're a
+people-oriented
+organization. We design work for humans,
+and that happens to use AI and
+automation on the back end, but by
+orienting around the person and the work
+that the person wants to do, it really
+helps figure out what the right tool is
+for the job. So, we started about 5
+years ago. Uh we have a handful of
+products of our own, um and really we're
+one of the the thought leaders in the
+space.
+>> And you also happen to have a a really
+awesome YouTube channel, too, which of
+course we'll link in the description,
+but for folks that want to go deeper on
+this stuff, I'd say check out Tom's
+YouTube. So, uh with that said, Tom, why
+don't you go ahead and share screen and
+we'll dive right in and look at some
+Zapier agents.
+>> Let's do it.
+So, here I'm inside of the agents
+product by Zapier. Um on their home
+screen, just click on agents, right? If
+assuming you logged in, assuming you
+have an account, uh chances are you're
+already paying for Zapier. If you're
+not, you could start a trial, but
+Zapier's free plan really doesn't give
+you much to play with, so you're
+probably going to end up putting up some
+dollars for uh for Zapier.
+So, you can just go ahead and click on
+create agent. And there's a bunch of
+different agent templates that they have
+for you.
+Now, they're pretty good, uh but today
+we're going to focus on a new type of
+agent that we're going to build from
+scratch. You can follow along and just
+explain in natural language what it is
+you actually want to do. So, in our
+case, we're going to say, uh look for
+emails from
+or about
+Orchestrated
+Connecting
+in my Gmail.
+And Orchestrated Connecting is a peer
+group that I'm a part of.
+>> Okay.
+>> So, we're going to say, look for these
+emails, then at the end of every week
+send me a Slack message
+with a general summary of these emails
+and link me to them.
+So, I can respond
+or read it.
+So, very general prompt. Great. Let's
+start building.
+So, when you click
+you know, the send the prompt, what
+Zapier Agent Builder is going to do is
+actually parse the message that you send
+to create a a set of different triggers.
+So, triggers and actions. So, in this
+case, it's looking at a weekly trigger
+for a preferred time, and then it's
+going to do a Gmail search, just like
+you would go to Gmail and search, you
+know, subject or body contains, in this
+case, Orchestrate Connecting. Um it
+would do that search on your behalf
+inside of your Gmail, and then send me a
+Slack message. So,
+what I'll end up doing, just uh zoom out
+a little bit here so the UI looks a
+little bit better. Um
+is we're going to add a trigger, and
+it's going to be scheduled by Zapier, um
+every week.
+And we're going to choose the day,
+Monday.
+How about
+6:45?
+And that's it. We just
+added that, right? Now, I did that
+manually. We could also just say to the
+co-pilot, like, looks good.
+Build it.
+Now, the co-pilot has gotten a lot
+better in the last year or so. It used
+to be a glorified tutorial, you know,
+like, here, I I said that up for you. I
+can't do it, you know.
+>> you say?
+>> I was just saying, yeah, it used to be
+that there wasn't much that it could do.
+It was kind of more of just like a like
+an interactive knowledge base.
+>> Yeah, it would point you to the help
+docs all the time. It was really a pain.
+Uh so, now it's a lot better. So, in
+this case, right, you see it, it's
+filling out the instructions, it's
+adding actions to the instructions. Um
+one nice thing about Zapier Agent is
+like the action that you want to perform
+inside of any given
+uh app is like inserted into the
+directions. So, you really know when
+it's calling certain things. So, I need
+to connect my Gmail, and I need to
+connect my Slack account. So, let's fix
+this setup error. I'm going to connect
+my Gmail.
+Great.
+Continue. This is just regular OAuth
+login through Google like you would
+normally do. If you haven't done it on
+your account, you'll need to do that.
+That's just how Zapier works.
+Um so, the search string, we could let
+the agent determine the value for this
+field or we could be specific about it.
+So, in this case, I'm just going to let
+the agent decide for now and and just
+save.
+So, that find email step the agent is
+going to actually draft
+you know
+the string inside of the search that is
+going to search for emails about
+Orchestrate connecting.
+Um and then I have a Slack step that's
+broken, so I'll connect that.
+Uh
+I am not sure if this is going to work
+the way I want it to work.
+>> It's basically saying that like, "Hey,
+this Zap isn't going to work until you
+authenticate your Slack account,
+obviously, right?"
+>> Exactly. Yeah.
+Uh so, let me just open up my one
+password here
+to get these fancy
+codes.
+Normally, you would have already done
+did this. I actually
+uh logged out of everything to give
+people a authentic authentic look. Um
+obviously, that's biting me in the butt
+right now.
+>> I mean, I no, I think it helps because
+again, it's like when you're kind of
+building it from scratch and walking
+through it step-by-step. I mean, the
+idea with this this podcast and this
+channel is to
+help people, you know, give people
+something that they can follow
+step-by-step. So, a lot of people don't
+know. It's like, "Oh, well, yeah,
+naturally, I have to connect my Gmail
+and I've got to connect my Slack and
+I've got to give it access to all the
+tools that I want it to operate within."
+>> That's exactly right.
+maybe
+Of course. Oh, actually, wait, could I
+uh sign in with a password instead?
+There we go.
+>> There we go.
+>> Um just needed to trigger the right the
+right way to do it.
+Um so, I'm just going to log in to my
+X-Ray Slack account.
+And now I'm in. I should be in.
+Should have already connected.
+>> Sometimes I have to do it twice, too.
+That's happened to me before.
+>> Really weird. Okay. And and now I have
+three accounts. There we go.
+>> Right.
+>> [laughter]
+>> Yeah.
+>> Hey, you know what? Um there everybody's
+dealing with a bug, right? So, here we
+go. Um so, we'll save this. And great.
+So, now that is all done. And we have
+default um default tools like visit site
+and web search there. I don't need a
+knowledge source, but you can think of a
+knowledge source as like the database
+that could be consulted if
+um you know, the agent needs to find
+additional information. So,
+here's basic instructions. You saw me do
+pretty much no setup, right? Like this
+this was I I mean, we're what? 5 minutes
+in?
+Uh maybe? So, I'm just going to click uh
+preview agent here down at the bottom to
+just see what would happen.
+>> Oh, I love that let's I didn't realize
+it lets you preview, which I think is a
+like kind of a people would think that
+that's an insignificant feature, but it
+is actually very important because
+there's nothing worse than going through
+a workflow and doing all this work to
+get something set up, and then you go to
+try to test it with your real data, and
+it breaks, and you got to go back to the
+drawing board and figure out what didn't
+work, but Zapier lets you preview it and
+test it before it goes live, it looks
+like.
+>> Yeah, so this is actually it's
+triggering right now. So, the time is
+obviously sort of voided, right?
+Um
+but the action is actually doing a find
+email step. And this is going to find
+one email. And in this case, it's it's
+from from David, right?
+Um the this event that I attended
+yesterday. So, it found this one email.
+And
+you know, I was hoping it might find
+multiple emails, but this is a find
+email step. This is a singular step. And
+maybe I actually want to add a different
+action to this. We'll we'll get to this
+in a second. But um so, this is going to
+also send a Slack message.
+Um and it actually it found
+uh it found multiple multiple things.
+Fantastics. And look at all the direct
+email links. Now, where is this actually
+sending it? That's the question.
+>> Yeah, like which channel within Slack?
+>> Yeah, see. So, the channel is dealer's
+choice. The agent could send this
+anywhere. Probably you don't want to do
+that. You probably don't want to do
+that. So, let's instead set a specific
+field here. And we'll do the tutorials
+channel cuz this is a tutorial.
+And I'll save this.
+So, now this is going to specify the
+tutorials channel down here at the
+bottom. And I'll approve this because
+I I'm ready to get this message.
+And I'll pop open my tutorials channel
+in Slack here.
+boom.
+Here we go. I'm just going to switch my
+screen
+to share my Slack with you instead.
+And just like that,
+weekly orchestrated connecting email
+summary. I have 11 emails over the past
+week with some key highlights, positive
+feedback,
+a bunch of direct emails if I want to go
+directly, some thank yous, and consider
+joining it actually gave me action
+items. I didn't ask for that.
+>> Right? But the the agent did that for
+me.
+Um which is pretty cool. So, I got 10
+direct emails from from these different
+folks. Uh and now I can action them if I
+want to action them.
+>> I think that's a great use case, too,
+because like I'm a part of multiple
+communities and I don't necessarily have
+the time to stay up to date with every
+single thing that's going on with every
+single one of them every week. But if I
+just had kind of like a weekly digest of
+like, "Hey, here's all the communities
+you're a part of and here's suggested
+action items."
+Because some weeks it's like there's not
+much going on and I don't really have to
+do anything, but some weeks it's like,
+"Oh, there's this event that I really
+want to remember to show up to."
+And if I don't have an agent like this,
+maybe, proactively letting me know, I'll
+completely forget.
+>> Well, that's that's really one of the
+use cases that AI actually shines in,
+which is like summarize some body of
+information.
+the where it where it's really not going
+to shine in is like post it to the right
+channel. It has no idea what channel to
+post it in. Right?
+>> That's a topic that we we actually just
+released um a video about on our X-Ray
+automation channel on YouTube about
+between deterministic programmatic
+automations and uh AI automations, where
+AI deals with this like fluffy
+summarization, categorization,
+>> And ambiguity.
+>> Exactly, ambiguity, non-deterministic
+things. You don't know what that message
+every week is going to look like. It's
+different every time. It's supposed to
+be. Right? But the deterministic side is
+search for this particular phrase every
+time, right? Don't get cheeky. Search
+for this phrase, right? And then post it
+directly to this channel. Don't guess
+what channel. I don't want that same
+message or that, you know, unique
+message every week in a different
+channel. That wouldn't happen.
+Right? So, the balance between
+non-deterministic things and
+deterministic things are really where
+you get to design a workflow that makes
+sense and it's faster and cheaper and
+like the right tool for the job. You
+don't need a sledgehammer to hang a
+picture on the wall, right? That type of
+thing.
+>> Yeah, I think that's a great example cuz
+traditional Zapier automations, like
+traditional Zaps, are It's like that
+It's got to be, for the most part,
+predictable input, predictable output.
+We're just automating the steps in
+between, but the agent function, like
+you said, can deal with those
+non-deterministic
+inputs or outputs, right? It can take
+unstructured data or more ambiguous
+decision-making logic and still take
+action on that because of the AI ability
+built in, right?
+>> So, there's one extremely important step
+that I didn't show you yet, which I'm
+going to show you and then we can talk
+about if we need a a different demo or
+not. Yeah. But, that is
+uh none other than the publish button.
+So, we just did testing, right?
+[laughter] This was This was a nice
+test. That was cute, but we actually
+need to publish a V1. So, then when you
+publish it, you get this nice little
+green, you know, published here. Uh you
+can actually see your activity. So, you
+know, today we actually ran it, um and
+it would cost you credits. Uh so, you
+don't actually pay for test runs, which
+is unique in Zapier. Some other
+automation providers do charge you to
+run tests. In this case, you're not
+charged to run tests and I have 400
+activities left in my fresh account to,
+uh you know, I could do 400 uh
+summaries basically. Uh each of these
+steps counts as one. So, in the the
+automate or the AI agent that we just
+built,
+um that would cost three steps per run.
+>> Right? Because we're, you know,
+triggering it, you're finding
+uh it in Gmail, and you're actually
+posting it to Slack. So, um there would
+be three activities consumed per run, I
+believe, unless Zapier has changed that.
+But, um
+yeah, monthly
+that each each agent can perform. So,
+you can actually like dig into the data
+usage. Data usage is actually measured
+in this side of Zapier. In the
+automation side, data usage is not
+measured, which is a big deal if you're
+moving big files and and, you know,
+that's a part of the equation.
+>> Mhm.
+>> Um
+but, yeah, after after that, you're
+you're pretty much done. So,
+uh then you can get into Zapier and, you
+know, build a zap, an agent, or, you
+know, something else that you need, but
+uh that was that was our agent demo
+today.
+>> That's sweet. That's awesome. And that's
+a great use case. Do you have one more
+we could run through, or is that what
+you had today?
+yeah, well, what what I was going to do
+is is show how to build it in a zap
+form.
+>> Yeah, let's do that.
+>> Right. So, if we um I'm actually going
+to cheat. I'm going to come back here,
+go to my agent, and I'm going to copy
+uh
+I'm going to copy
+the whole thing that I just gave it.
+I'm going to copy this, right? I'll come
+back,
+go to Zapier,
+go to my zap, and you get this Copilot
+again. And I'm just going to paste the
+same thing.
+>> Let's see Let's go to work, Zapier.
+Like, build these steps for me in this
+regimented way.
+And one of the thing one of the major
+differences between the automation
+building a zap versus the AI agent is
+the ability to control and manipulate
+the model itself.
+>> So, in an AI agent, you have no control.
+Zapier's AI agent is Zapier's AI agent.
+That is the way it is. You can't change
+any weights. You can't use Open AI
+instead. You can't do anything. It is
+like Zapier's thing.
+Um inside of the automation platform,
+I'm really curious to see if this
+actually works and actually gets built.
+the AI by Zapier step actually has
+things that you can configure.
+>> Right, cuz you can choose like which
+model you want to use, right? Whether
+it's Claude or Open AI or Gemini or
+whatever, right?
+>> You can choose which model. You can
+choose response format, like if you want
+the subject line in the body to be, you
+know, drafted as a as an output from the
+AI step, it will do all of those things
+distinctly. So, if you want to actually
+control the format, see and you see in
+the search string here, from
+Orchestrated Connecting or subject
+Orchestrated Connecting newer than 7
+days. This that search string, you can
+actually go to your Gmail, search that,
+and that's how like Gmail's search
+works.
+>> Right? That's the syntax for Gmail.
+>> So, it sounds to me like tell me if I'm
+understanding this correctly. So, like
+the use case that we that you demoed
+here, right? Is like going to Gmail and
+finding
+emails that fall under a certain
+criteria and then every week sending you
+a Slack summary of those emails. So,
+it's like we could accomplish that
+objective with a Zapier agent or we
+could accomplish the exact same
+objective with just a normal Zapier
+workflow. But you're saying that what
+differentiates them is with like a
+regular Zapier workflow, sounds like you
+can get a bit more granular with like
+with really all steps of the process,
+right? With an agent, you're leaving a
+lot of that interpretation up to the
+agent of like, "Hey, based on Tom's
+prompt, this is probably how he's going
+to want the data." But with a a true Zap
+that you that we're building right here,
+it's like we can really get in the weeds
+of like, "Oh, I want it formatted
+exactly this way, and I want to make
+sure it includes exactly this
+information." Am I understanding that
+correctly?
+>> Exactly right. That is exactly right.
+AI
+AI agents by Zapier are going to be more
+expensive, they're going to be slower,
+they're going to be more error-prone,
+and you're going to get a wider variety
+of
+>> of outputs.
+>> of outputs, right? Because you just
+can't fine-tune it as well.
+>> Right?
+>> But is is the pro then that they're just
+easier to set up? Like we spun that up
+in what, seven six seven minutes? And it
+was and it got the job done, but it's
+like like you said, maybe when we want
+to get in there and just like tweak it a
+little bit and and set it up to where it
+outputs things a very specific way every
+time, then it might make sense to just
+set it up as a Zap instead.
+>> Exactly. And And here I can control that
+search string, right? I can control if
+the automation fails, if I don't find
+anything.
+>> I right? I can create um an email if it
+doesn't exist yet, which obviously I
+don't want to do, right?
+>> Um but in inside of AI by Zapier, for
+whatever reason the copilot gave me an
+old version of that, so I'll just update
+that. I don't know
+>> Interesting.
+but I can continue here, and and let me
+just pop this out because I think this
+is a really helpful view. You can choose
+the input fields. So, I will say like,
+"Emails found." And then I could pluck
+all of the emails that are found inside
+of the Gmail step.
+>> Right? And then I can I can specify
+output fields. So, I can say, you know,
+"Summary" um here, and I can make this a
+specific field type if I wanted to, like
+text or whatever. So, this type of
+granular control is going to be a lot
+better for when you need field
+validation or you need to be inside of a
+specific format. Um or if, you know, if
+I wanted to bold certain components of
+the message, you know, inside of Slack
+or if I wanted a particular formatting,
+you could do that inside of configuring
+the Slack step.
+>> This got me here This got me closer. I'm
+not going to spend the next, you know,
+15 20 minutes configuring that because
+it would probably take another 15 or 20
+minutes to like get this into a demoable
+state and I just don't think it's going
+to add value right now to your your
+viewers, but you get the point. Like
+>> is what matters, right? Like that's to
+me is like coming into this, my goal is
+like I want to know when I should use an
+agent a Zapier agent versus just a
+regular Zap. And you kind of answered
+that question. It's like
+And again, I correct me if I'm wrong,
+but it's like you want to use an agent
+when it's like we just need to get the
+job done. We don't care as much about
+the output being like exactly the same
+every time as long as it gets the job
+done and it, you know, I guess
+resolves the need that we had set out
+for it to accomplish and it's good to
+go. But if we want like super granular
+control over like it's got to be
+structured this way every time. It can't
+deviate and we need these specific
+fields pulled in. Like that's when you'd
+want to create a a regular Zap, right?
+>> Yeah. When when you're dealing with soft
+verbose information,
+right? It's going to be best to use an
+agent because it's going to be able to
+adapt both, you know,
+uh flexibly. But when you're dealing
+with stuff like a database or tasks and
+projects or CRMs, like those types of
+things that have a rigid data structure
+that you really want to specify a number
+of fields and a number of data values,
+like it's worth it to spend the extra 15
+minutes in the configuration because
+then you don't spend the extra 50
+minutes in sweeping up with the agent
+built for you because you didn't
+specify.
+Like that's that's the trade-off in time
+is you're going to it's going to be fast
+to set up and get something working, but
+you might need to do a bunch of clean up
+if you were sloppy with how you
+configured it in the first place.
+And you know, it's going to be more
+expensive and like it's just it's a
+trade-off and you've got to you've got
+to weigh your options and
+know that you might switch between the
+two and you might set up a prototype and
+be like, "Wow, this is really nice, but
+I want to make it good, right? I've
+validated that it's useful, right?"
+>> That's actually smart. I didn't think
+about it that way, but it's like you
+could, depending on the workflow, it's
+like, "Hey, I'm going to kind of spin up
+an agent and that agent is going to be
+kind of my MVP. It's like, is this even
+possible?" And if the agent can do a
+decent job or or get the job done, then
+it's like, "All right, we proved this
+works. We've we've proven that this can
+be done inside of Zapier's platform. So
+now let's expand it and really dial it
+in and turn it into a more custom
+like granular Zap.
+>> Bingo.
+>> kind of a way to think about it?
+>> Yeah, absolutely. And like that's the
+that's like the secret sauce from the
+800-lb gorilla of Zapier. It's like
+everything that AI agents can
+functionally do is identical to
+everything that you can functionally do
+inside of the automation like Zaps
+portion. Those are the same API routes.
+It has the same integrations. It has all
+all of the same information. So
+one one last thing that I will share
+with all of you is this free resource
+that we ended up building
+here at X Ray for figuring out where and
+what can I build with the tools that I'm
+using.
+>> So this is our website, xray.tech.
+And you know, we have a whole bunch of
+different tools here for your you know,
+simplicity.
+Search is really what I want to focus
+on. Search.x-ray.tech is the URL. And
+you know, we'll just use Gmail as an
+example. Everything that we built today,
+Gmail and Slack. Those are the two tools
+that we talked about.
+So, we'll just open up Slack's view
+automation abilities.
+And here you can see all of the
+triggers, actions,
+and searches
+that are available
+for Slack on Zapier, Make, n8n, Workato,
+Bardeen, and Power Automate. All of
+these things are indexed in one place.
+So, you can say, "Oh, is there something
+that I can do with a channel?" Oh, I
+can. I can watch direct messages in a
+channel on Make. Or I can see a new
+public message posted anywhere, public
+channel.
+>> Right, Zapier.
+>> Exactly. So, you can like really compare
+and understand, "Should I even use
+Zapier or something like n8n good
+enough?" Or like, you know, what can I
+actually do with the tools that I'm
+using today? Like, Gmail has some really
+simple, you know, triggers. New label,
+new labeled conversation, new email.
+Like, all these things are just triggers
+and actions. And these are like the
+starting points of workflows or actions
+that would be, you know, in between
+steps inside of your workflow. And
+agents and automations can do all of the
+things on on these pages.
+>> And so, I'll give you props because I
+feel I'm sure this absolutely crushes
+from an SEO perspective. Like that kind
+of directory style pages on your
+website. And it's funny, we're that's
+something we're looking into for our
+website as well. It's just like a
+programmatic SEO strategy. But I love
+how you took cuz like Zapier kind of
+made that playbook, right? I'm sure
+folks listening to to and yourself and I
+certainly have. It's like, "Oh, well,
+what can I automate with Zapier?" And
+Zapier has a really good system for it's
+like, "Well, just type in the tools you
+use." And it's like, "Oh, you want to
+automate from Gmail to Slack? These are
+the triggers, and these are the actions
+that you can take." And you've taken
+that exact same model, but you've
+applied it to all the automation
+platforms. Cuz it's like, "Well,
+you know, maybe Zapier can't do XYZ, but
+maybe make.com can, right? Or maybe
+neither of them can, but n8n can." And
+like, so I just want to give you pro
+like that. As soon as you were sharing
+that, I'm like, "Damn, we got to copy
+that." Cuz that's [laughter] so good.
+>> Well, it's a lot harder than it looks.
+It might be a little bit easier now than
+it was, you know, a couple years ago,
+but um yeah, it it's it's you'd be
+surprised though, generally, like the
+top 100 SaaS tools all have nearly
+identical support.
+>> Right. Like, any tool that you
+realistically use day-to-day is going to
+be the same.
+>> Um it's the niche products, things like
+in the legal sphere, Clio is a big case
+management tool, or um you know, if
+you're if you're in
+real estate, or if you're in
+construction, there's some really
+specific tools that are there. And like,
+that's the extremely long tail of
+Zapier. Like, Zapier has those
+integrations, and Make and n8n and Power
+Automate don't.
+>> But like, Power Automate would have
+integrations, you know, better support
+for like SAP,
+>> Right. Like, more enterprise
+>> Right. Yeah. So, it it's just like, you
+know, um it's just different per
+platform. And like, we have that data.
+We we, you know, spent a lot of time and
+energy trying to figure out the right
+way to index it and present it. Because
+like, this was a tool that we were using
+for the last 3 4 years.
+And with our, you know, re-release of
+our brand,
+with our 5-year anniversary this past
+month, we like made all this stuff
+public for everybody.
+That's smart. Cuz again, I think from an
+SEO perspective, like I'm sure you guys
+are getting a good amount of traffic
+from from the what you just showed us.
+>> It's helpful. You know, and like
+builders like you and and you know,
+hopefully your viewers like it's a free
+resource. We're never going to charge
+for it. Like if you're trying to answer
+the question what can I automate with my
+tools? Like just do the search.
+>> And what's the So is it what's the URL
+real quick just so that maybe if people
+are listening on like a podcast
+platform?
+>> It's search.xray
+x r a y tech t e c h
+>> Perfect. Yeah, and we'll include that in
+the show notes of course.
+>> Yeah, and and like you can access it
+from our website just xray.tech. Um it's
+one of the products that we highlight
+and you know, if you have any feedback
+or other things that you you would love
+to see I'd be very happy to add it to
+the platform. We're really starting to
+get in a big like a good cadence of like
+shipping stuff right now. Um we just
+released all five of our internal
+products.
+it for different things from error
+monitoring and reporting to search to uh
+onboarding. There's a whole bunch of
+things that are really helpful if you're
+trying to run a automation agency or an
+agency generally and uh we're we're very
+competitively priced. We'll put it that
+way.
+Happy to talk to you and uh you know,
+figure it out if it if if we can help.
+>> Awesome. Well Tom, this has been
+fantastic, man. I've certainly learned a
+ton. I I know the power of Zapier and
+I've been trying to spread the word for
+years for other people to get in there
+and take advantage of the platform and I
+think you did a really good job of
+breaking down really the
+when you would use an agent versus when
+you would just use the regular Zap. So
+great work. Uh where can people follow
+you or find out more about you? Like
+where do you want to send people?
+>> Yeah, uh I would say follow us on
+YouTube or LinkedIn. We are XRAY
+Automation on both. Uh we post all of
+our updates there. You can find me uh
+Tom Nasser on you know, XRAY on uh
+YouTube or LinkedIn. But those are our
+two main platforms. Um so I would say
+follow us there if you want more
+updates.
+>> Awesome. Well Tom, thank you so much for
+the time, man, and well, of course,
+we'll put all the links you mentioned in
+the description and in the show notes.
+Be sure to go and follow Tom, and we
+will be back to build something new next
+week.
+>> Thanks. See you.

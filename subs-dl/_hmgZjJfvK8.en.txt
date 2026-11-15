@@ -1,0 +1,165 @@
+yo what's up everyone i'm still getting over a
+cold so today if you use adobe illustrator you can
+see some of the best tips and tricks and workflow
+techniques shown on this channel over the past
+24 months you will surely learn something from
+today's video if you watch every single section
+so let's get into it so the first tip relates to
+logo designing or even some of those people who
+work on illustrations but it can be applied
+to pretty much any workflow in illustrator
+simply come up to window and add a new window
+now you're going to notice that i have the same
+document but just version 1 and also version 2 as
+you can see here well let's go ahead and arrange
+the windows as a tiled orientation and let's
+see what happens so the awesome thing about this
+setup is that i can have one window zoomed really
+far into my design and the other can be a broad
+outlook of the overall design and of course
+that means i can be working on finer details
+zoomed right in on the left and then my logo on
+the right is also going to be changed as i work
+on the left but i get a broader kind of picture
+of what's happening on the right hand side
+i can also select the design on the right and
+press command h on a mac or control h on a pc
+and this should hide anchor points
+so i can see the design a lot clearer
+now this is neat because you can
+make a grid in lightning speed
+perfect for logo designing so head up
+to object path and then split to grid
+you have full customization over the columns the
+rows as well as gutter options here too but i
+personally don't want to use those for a logo grid
+this grid is actually a stroke path for now which
+means we can adjust the stroke weight but even
+more useful maybe is right clicking the artboard
+and then converting the grid to guides and so
+just like that we've made a logo design grid
+in a few seconds and let me quickly ask you to
+think of a font right now off the top of your head
+now you might go ahead and say something
+like myriad and that's because most of us
+have this font appear when we generate some text
+in illustrator and that's because it's a default
+setting however we can actually completely change
+that and also a lot more than just the font itself
+so as you can see i have myriad here but
+let's come into the character style panel
+and then navigate over to a
+character style options menu
+in this box we can put in our defaults for
+when we generate some text and obviously
+let's address that font first and foremost and
+the font i personally use quite a lot is aileron
+and so i'm going to select that and also a bold
+version but we can also change things like the
+leading which is the spacing between lines and
+also the kerning settings and i'm going to use
+optical because i do find myself using that more
+often and these are all going to be now default
+settings for me in my illustrator program and
+to test that theory i'm now going to generate
+some text and it should start with lron and
+my specific settings that i just punched in
+so firstly come into the appearance
+panel and then add a stroke
+we then need to offset the stroke and like before
+it looks rather messy if you
+remember back to the previous video
+however all we actually need to do is
+to come into the pathfinder option right
+here and then click add we can now edit
+the text whilst the stroke is offset
+awesome a lot of the time when we're working with
+stroke pass we might have a stroke style like this
+and this is the direction of the path now you can
+also make a manual adjustments with the width tool
+and that is shift and w on your keyboard but what
+if you want to change the direction of this path
+well press p for the pen tool and then just simply
+click one of the anchor points on one of the sides
+hold down the command or the
+control button and then click away
+this is a simple feature that not many people know
+about or even use in their workflow but yeah this
+isn't probably news to a lot of you guys and you
+can use this on the brush tools and so forth but
+there is a setting that you do want to take into
+consideration if you press command or control
+k and you bring up the preference settings
+you can then come into the general settings
+and there is an option to select precise cursor
+icons and this means you don't need to have your
+keyboard stuck on uppercase caps all of the time
+and you can still use the precision crosshairs
+whenever you want to now i often like to use
+these when i'm working on detailed designs
+because some tools such as the pencil do
+obstruct your view from the design and just
+your workflow so you do keep in mind that
+little setting in the preference settings
+well if you click under the text tool you
+will find the touchpad tool now with this tool
+selected you can move characters around without
+having to outline your text and that goes for
+moving up and down as well however there is no
+shift option which allows you to keep things
+on a straight line so you have to nudge the
+characters on your keyboard using the arrows
+you can also hold down shift whilst doing this to
+make them move 10 times faster if you wanted to
+know how many colors are on this design or even
+limit the design to a specific amount of colors
+say for example maybe you're printing a t-shirt
+how would you do that we can come into the recolor
+panel here and then you're going to notice that
+you can adjust the amount of colors in this little
+box and then we can move through as many colors as
+we want for our design and again this is helpful
+when you're printing via adobe illustrator and you
+can also move your colors around too and actually
+this panel is something i suggest that designers
+do really get to know because it has a lot of
+uses and a lot of things going on inside it
+now i've made a quick selection of circles
+here and i can actually go ahead and open up the
+swatches panel to turn this into a pattern itself
+that's not the actual tip however it's just
+part of the process but in the swatches panel
+you will find the patterns menu right here and
+i can drag and drop my shapes into that menu
+and it's going to give me a made pattern
+swatch now the thing i've learned is that
+you can apply your pattern to a shape and if you
+rotate that shape the pattern rotates as well
+but the question arises what if you want to only
+rotate the pattern or just rotate the square well
+in the rotate menu you can check only the pattern
+box and this is going to allow you to rotate the
+pattern itself within the shape and of course the
+shape is staying stationary which is pretty cool
+if we use the minus front option in the pathfinder
+window i cut the top shape into the shape below
+the thing is that we can see in the layers
+window just here that we have just one shape
+if i then go ahead and commit the same process but
+this time if i hold down the alt key on windows
+or the option key on a mac while clicking the
+pathfinder function i now have a genuine compound
+path we can come into the layers window and then
+click only the middle section with the blue icon
+and then just manipulate the shape and
+the size in any which way we want to
+this isn't a colored circle you
+are literally seeing through
+the shape onto the background and
+i can demonstrate that right here
+so there are some nifty tools and probably
+actually hidden tools to some people i hope
+you got some value from this video but if you do
+want to see more graphic design content by myself
+just click a video on screen and until next
+time guys design your future today peace you

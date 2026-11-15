@@ -1,0 +1,535 @@
+Anti-gravity is already amongst the most
+powerful AI coding tools on the planet.
+But the thing that 99% of people don't
+realize is that you're only using about
+20% of its actual power. Cuz the value
+is not in Anti-gravity itself, but it's
+when you connect it to thousands of apps
+using something that we call MCP, model
+context protocol. So you can now build
+systems that are 10 times more powerful
+than anything that you've ever built.
+And so in this video, I'm going to show
+you exactly what an MCP actually is, how
+you can start using MCPs in
+Anti-gravity, and finally, I'm going to
+be making a full stack app connecting
+Anti-gravity to your n8n automations.
+And in case you don't know who I am, my
+name is Michele, and I've scaled my own
+AI agency to six figures in 14 months. I
+worked with over 50 businesses across
+multiple industries,
+>> [music]
+>> and I also taught 20,000 people in the
+process. All starting with zero
+technical knowledge. With that being
+said, let's dive in. All right, so first
+things first, what an MCP is is just a
+way for you to connect to different apps
+without you having to connect to them
+individually every single time. Okay? So
+let's say you have an AI assistant,
+which in this case would be
+Anti-gravity. You talk to the AI agent
+there. You give a prompt that says,
+"Hey, can you make a workflow in n8n?"
+Now what that does is it then talks to
+the MCP hub, which is connected to n8n,
+is connected to Gmail, calendar,
+Outlook, Google Drive, Slack, all these
+different softwares, and it will take
+action on the softwares on behalf of
+you. Now why is that powerful is because
+previously for us to use automations, we
+had to
+>> use the AI assistant, and then we had to
+skip, and we had to connect the AI
+assistant to the actual software itself
+individually, [music] and it would take
+us of time, especially when you want to
+connect it to uh thousands of different
+apps. And so now with this MCP hub, what
+you have is the ability to send a
+request and the ability to then connect
+to hundreds of apps just within
+Anti-gravity itself using its MCP, so
+you can take action on all the softwares
+that you want. Now when you get into
+Anti-gravity itself, the way to find
+your MCPs is to go to the top right.
+You'll see the three dots, and then
+you'll get to the MCP servers. As you
+can see here, we have an MCP store.
+Think of this as the Apple Store, right?
+You have the Apple Store with all the
+different apps, but instead of apps, we
+have softwares. And so you can connect
+the Anti-gravity to Firebase, to
+BigQuery, to GitHub, Neon, Stripe,
+Redis, MongoDB, Notion, all these
+different softwares, so that when we
+actually build a web app or some sort
+of, you know, software with with
+Anti-gravity, it can automatically talk
+to the software if you want it to, okay?
+Without you having to connect it itself.
+Now there's only one problem because per
+se, if I go to Notion here and I press
+in the software, you will see that on
+the left-hand side, it will give me a
+step-by-step tutorial on how to actually
+configure Notion.
+And I would have to press install.
+And I would need an API token, which I
+can then get from Notion. The problem
+here is that n8n does not have the same
+thing. So if I search n8n here,
+nothing actually shows up. And so what
+we have to do here is configure it in a
+custom way.
+So you want to press manage MCP servers,
+and on the left-hand side, you will see
+view raw configuration. So this config
+means configuration. And let's press
+this here.
+And now what you need is a JSON with the
+actual API key with all the credentials
+of n8n, so that you can speak to n8n
+automatically through Anti-gravity's
+MCP. That's a lot of words right there,
+but bear with me, I'll walk you through
+exactly how to do it. So the first thing
+you want to do is you want to go to n8n
+right here. Go to your cloud account.
+You want to go down to the settings. Go
+to the MCP access. And then here, you
+want to go to access token. You want to
+refresh your access token. And you want
+to take the JSON,
+the one right here, which you can copy.
+Make sure not to share with anyone, or
+else they will have access to your n8n
+account.
+Um and you will paste it back here. And
+make sure always make sure that you
+press save. Now once you press save, you
+want to go back to the MCP uh manage
+MCPs here. You can refresh, and now you
+can see that you've just connected n8n
+to Anti-gravity. And as you can see
+here, it has three different actions. It
+has the action of searching the
+workflows, so it can go inside of our
+account and search for things. It can
+execute workflows, which is exactly the
+one that we're going to be using today,
+which is actually triggering a workflow,
+so starting an automation in n8n using
+our apps. And then finally, it can get
+workflow details. So it can get specific
+information about a certain workflow,
+okay? And for security reasons, if you
+want to turn one off and turn the other
+on, you can simply do that. But for this
+case, I'm going to turn everything on
+because I'm pretty much going to use all
+of them. And now that we have n8n
+connected, we're now able to make an app
+that can connect to our automations. So
+I'm going to press out, close this, and
+then I'm going to go back to the agent,
+and we can start building the app. So
+the first thing I want to do is I want
+to open a folder. Because remember that
+every single time that you work with
+Anti-gravity, maybe on an app or a
+software or some live coded dashboard,
+you want to make sure that you make a
+folder in your MacBook or in your
+computer so that it starts storing all
+the different folders there, all the
+files, whether it's code, whether it's
+just prompts, so that you can always
+come back to it later on. It's sort of
+like a project. Each app has its own
+project. And so we want to press open
+folder. I'm going to make a folder
+inside here, but you can just make it in
+your own computer.
+I'm going to press new folder and put
+n8n
+automation
+and press create.
+And press open. So now what happens is
+that whenever we make the actual
+software itself, and we have to store
+prompts or code or any sort of material
+to to get us ahead [music]
+when making the software, it can store
+everything right there.
+So then I can close it and then open it
+back up. The example of today is we're
+going to be making a dashboard where we
+can drop invoices in that dashboard, and
+then it will send the invoices directly
+to our automation in n8n to be able to
+do the next steps. So logically, when
+you think about building something like
+this, the first step is not actually
+making the software, but it's getting
+the back end of the software, which is
+the automation in n8n. All right, so
+right here I have the workflow inside of
+n8n, which is actually something that I
+built in one of my previous videos on
+YouTube. You can check it out up here.
+Uh it's called an invoicing parsing
+system. But essentially, we will connect
+our app in Anti-gravity to this workflow
+in n8n, okay? [music] So we'll have a
+dashboard. We drop the invoices, and
+then this webhook, it's called a
+webhook, which is triggered whenever
+something happens within a certain
+server. We will instruct Anti-gravity to
+say, "Hey, when I drop the invoice in
+the dashboard, I want you to directly
+send it over to the webhook in this
+workflow right here." And it's able to
+do that because of the MCP. Let me go
+right here. And the webhook, the way
+that it would work is that we feed the
+URL of the webhook to our Anti-gravity
+app. So we say, "Hey, build a dashboard.
+Whenever I drop the invoice, send the
+invoice over to this URL." Right?
+Because a webhook is just a URL that
+receives information from the web.
+[music] And so we're going to copy this
+and then paste it in our prompt when we
+tell Anti-gravity to do the app, which
+will then use to be able to go to the
+next steps. Now make sure this is in
+post method because then it's able to
+actually receive the invoice. If you put
+it in get, it's not able to do it. And
+then finally, respond. So we want to use
+the respond to webhook node because
+let's say I didn't have this,
+then I would drop the invoice into the
+system, and it would say, "Yep, all
+good." But I wouldn't know if the
+automation finished. So this way, what
+it does is that it it sends the invoice
+here. It then waits until the whole
+automation is finished
+to then send a signal back,
+which is this one right here. And waits
+until it goes until the end to be able
+to send a signal back. And then what we
+do here is we use the extract from file.
+So we extract all the text from the PDF,
+which will then go all the way to the
+information extractor, which will
+extract the full name, the total amount,
+the invoice date, the invoice number,
+client email, client address, payment
+status, payment method, currency, line
+item as well, which will add everything
+to our Google Sheet database, which
+looks like this with all the details
+here.
+And then we use an AI agent to be able
+to craft an email to our billing team
+using the details of the invoice
+informing them, "Hey, we've just
+received an invoice. It has been
+processed, so you're good to go." And
+then finally, we send a response to the
+actual dashboard itself in, you know,
+the one that we built in Anti-gravity,
+uh saying that everything was
+successful. Now the reason why we're
+focusing on n8n first before
+Anti-gravity is because we're working
+backwards. To be able to make this whole
+thing happen, we have to build the
+automation in n8n and then be able to
+connect our dashboard that we're
+building to the actual workflow. So when
+I go back here, it's actually very
+simple to build some sort of dashboard.
+Uh and the way that I like to think
+about things is asking myself, "Okay,
+when I'm building this app, what is it
+that I need to be able to build this
+app?" For example, for this dashboard
+itself, I obviously want my brand
+guidelines to be part of the process
+when Anti-gravity makes the actual
+dashboard. And so the first thing I do
+is I want to add a file here,
+and I want to name this brand
+guidelines
+.md.
+MD stands for markdown.
+Because yes, we have the workflow in n8n
+that's waiting to be triggered by this
+dashboard, but also now we have the
+actual dashboard that we want to build
+inside of Anti-gravity, and I want
+Anti-gravity to use my brand guidelines
+when making the dashboard. So here I
+have the prompt for the brand
+guidelines. I'm going to press file,
+save.
+And the brand guidelines just means the
+brand name, the logo, the colors, the
+typography, the UI elements, all the
+different things about my brand that I
+want inside the dashboard. Cuz I
+realized that when it comes to colors
+and things, if you leave it up to
+Anti-gravity, it doesn't do the best
+job. That's why you want to be more
+strict with the actual kind of prompts
+and and and things you tell it to do.
+Cuz remember, all these tools are very
+very good, but they're only as good as
+the prompts you give them cuz they're
+instructions. So if your instructions
+are bad, then your output will be bad.
+All right, so now it's going to be the
+time for us to be able to make the
+prompt. And for the prompt itself, I'm
+going to say, "Make a dashboard where I
+can upload invoices. Once I upload the
+invoice into the dashboard itself, it
+then sends the actual invoice over to
+the webhook in our n8n workflow, which
+is called Anti-gravity invoices."
+Because that is the name of the actual
+uh workflow. So make sure the name
+matches so that it knows it can search
+through the actual workflow. That's the
+name of the workflow. There you go.
+Important that when you are making the
+dashboard, make sure to follow the brand
+guidelines.md uh document that I left in
+the project. I'm going to make sure that
+the name is exactly with the spelling
+and capital letters to make sure that it
+doesn't trip up. And finally, here is
+the webhook URL. I'm going to go back to
+the workflow. I'm going to go here. I'm
+going to test this. I'm going to copy
+this.
+And make sure you save this and so on.
+So it's all good and ready to go. And
+when I go back, I can paste it here. And
+then I can choose the planning mode
+because this task right here is not
+something fast that it can execute
+directly, but it's something that it
+needs to take a little bit more time
+just because it's also using the MCP,
+and it's writing code for the dashboard,
+and it's going to test everything
+together. Now in terms of the actual
+model itself, you could be using Gemini
+3 Pro. I honestly don't really care
+about the actual overall looks of the
+whole dashboard as long as it works and
+it's using my brand guidelines, I'm
+fine. Uh which is why I'm using Claude
+Opus 4.5 because it's better at coding.
+It's better at the actual coding part in
+making sure the back end all works
+together, which is exactly what I care
+most about because obviously I'm
+connecting it to our automations, and I
+want to make sure everything flows
+together. So I'm going to then press
+run.
+And this is now going to execute on
+everything. One thing I I did here is I
+added the ID of the workflow because
+sometimes what I found is that the name
+itself is not enough
+to be able to I guess find the workflow.
+So now as you can see it's calling the
+MCP tool to be able to get the workflow
+ID and it's using the actual ID of the
+workflow to find the workflow. And one
+problem that I haven't seen anybody
+actually go through on a video, but that
+you will encounter as you get along with
+Antigravity is the actual rate limits.
+So as you can see here is actually a
+notification saying that the agent
+terminated due to error. I usually just
+press retry and keep going with the
+agent because Google doesn't actually
+specify the context length, which is how
+long you can have a conversation with
+the with the actual agent for, how many
+conversations you can have. It doesn't
+specify the exact number. I just keep
+going until it basically stops, right?
+It hasn't stopped for me yet totally
+where I had to wait a few days, but it's
+going to be something that you should be
+expecting if you're working with the
+software quite a lot and you don't have
+the max paid subscription as well. As
+you can see here it made the
+implementation plan, which is a plan of
+action that Antigravity makes when it
+needs to actually build the software.
+And it's going to make a task list,
+which is a list of tasks that it needs
+to do to be able to get from point A
+which is where we are now to point B,
+which is the full dashboard it working
+verified and good to go. And that's one
+of the good things about Antigravity
+that I found that works really really
+well. It's its ability to think through
+how it's going to structure the system
+before it actually structures it.
+Because then it allows us to be able to
+see, to verify as well, if the steps are
+laid out in a correct way. And we can
+always come back to it and comment on
+the tasks or comment on the
+implementation plan and tell it to
+change a few things in case we wanted
+to. So as you can see here it basically
+finished all the tasks apart from
+testing the complete workflow. So now
+what it's doing is that it's actually
+testing the dashboard itself to see if
+it works. And as I can see here it
+opened up the dashboard, which is now
+being tested and the blue borders is
+basically just so you know that it's
+it's walking through the whole process.
+But as you can see it's now using my
+brand guidelines as I mentioned JM
+Solutions blue everything, you know,
+works well here. Finally it gave me a
+link that I could open to be able to
+access the dashboard itself and we have
+a new page as well with the walk-through
+summarizing the whole kind of testing
+process that it went through as well.
+I'm going to press the link here.
+It's going to take me to the dashboard
+itself. I'm not going to go to my
+workflow here. I'm going to go to the
+webhook and I'm going to press listen
+for test event. So in my workflow I'm
+going to press execute workflow. So now
+it's testing so it's actually receiving
+the data from the dashboard and I'm
+going to be using a invoice that looks
+like this with the invoice number,
+invoice date, status, payment method,
+client name, email address, the
+description as well and the total
+amount. I can then drop the invoice over
+here. I can press upload invoice. As you
+can see this is uploading the invoice.
+So it's running the automation inside of
+N8N because we gave it the webhook,
+right, which it's using. It's then
+adding the details over to a Google
+Sheet that I can see here John Doe, kind
+of address, description, amount, invoice
+date, status and payment method. And
+then it's also using the AI agent to be
+able to craft an email, which is sent to
+our inbox. As I can see I get the email,
+which looks like this. We received the
+invoice number 2026-00187,
+John Doe, date of this, total amount and
+we also have the link to our Google
+Sheet database in case our billing team,
+you know, wants to check out the the
+whole dashboard. And if I go back to the
+actual dashboard, I can see that we have
+the fake invoice which was recently
+uploaded, which is green, which means
+that everything was successful. And so
+now we have this dashboard that we can
+continuously use to be able to drop
+invoices here to then be able to trigger
+the actual workflow in N8N right here.
+Now one important thing is that when you
+are activating this and you want to set
+this live, you want to do two different
+things. The first thing is you want to
+make sure that this is hosted in GitHub
+and it will then be launched live in a
+software called Vercel, right, where you
+can actually host the the software
+itself to be able to use it all along
+24/7. And on this side you want to make
+sure that you publish this workflow.
+Publish this. And when you publish this,
+you can go into the webhook and make
+sure you turn this from test URL to
+production URL. So you can copy this and
+then prompt the actual Antigravity here
+to say, "Hey, instead of using the
+webhook that I gave you before, can you
+change it and use this one here now?" An
+alternative thing that you could do is
+actually go in the code itself, which
+has the webhook, and just remove the
+test. So it's then going to use the new
+webhook that you give it, which is a
+production URL in the production mode.
+And if you want the full prompt that I
+gave the actual Antigravity plus the
+brand guidelines and also the workflow
+that I used up to date, you can check it
+out in the second link down below. In
+the classroom section you can go to the
+templates vault and you'll be able to
+see the latest video, which will be
+Antigravity. It'll be a new video there
+with a link right here. Bear in mind
+that not everybody gets in, so please
+put some thoughts into your answers and
+I'll see you on the inside. And so now
+you know how to connect N8N to
+Antigravity to make sure that the
+systems that you build are 10 times more
+powerful. Now this right here was a very
+easy use case and it's just the tip of
+the iceberg to the things that we can
+actually be doing when it comes to these
+actual systems. So I hope it gave you
+some use cases that you can start to
+think of and start building when you are
+building automations in N8N and also
+dashboards in Antigravity. And if you
+want to work with me one-to-one to be
+able to start and scale your own AI
+agency and actually monetize the skills
+that we're talking about in these
+videos, then I left the first thing down
+below. It's a full video where it walks
+through the details of the program and
+if it sounds like a good fit, then feel
+free to apply. And if you want to dive
+deeper into N8N, definitely check out
+this video up here where it's a short
+tutorial of 12 hours where I take you
+from a real beginner in N8N to a
+complete master in building automations
+and AI agents. With that being said, I
+hope you found value from this video and
+I'll see you in the next one.

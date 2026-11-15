@@ -1,0 +1,162 @@
+so I literally have no skills or
+experience when it comes to making or
+creating motion graphics well recently
+SV Jeter reached out to me and they
+wanted me to review their product and
+see if I can actually create some motion
+graphics myself without any previous
+experience I'm gonna give you my up
+front on my most honest opinion on SVG
+ater
+and show you how I managed to animate a
+simple graphic without any previous
+experience with motion graphics select I
+mentioned I have no experience with
+animating SVG's before today's video
+SVGA however has made the experience so
+incredibly easy that I was actually
+really surprised now I'm gonna keep
+things completely 100 with you guys
+today and this is my upfront and my
+honest opinion on SVG ater but you can
+try the free version and then move to
+the paid version if you do find it
+useful
+however the free version still offers
+all of the advanced features but when
+you export or preview the SVG in a
+browser the advanced features were only
+being used with the paid version
+and one thing I found super helpful is
+that SV Jeita has a set of tutorials on
+their website they're incredibly easy to
+follow and this is why I was able to
+learn how to animate an SVG in under an
+hour you can make a new project or you
+can simply upload the SVG file which is
+what I'm going to do
+now I did make a very quick icon in
+Adobe Illustrator and it's made
+completely of stroke lines with no color
+fills so taking the arrow tool I can
+click each part of my SVG design that
+are made up of two stroke paths now to
+set up an animation timeline you need to
+come down here to this button and for
+stroke designs you're going to need to
+select both the stroke offset option and
+also the stroke dashes option
+so this is my timeline and it runs in
+seconds from left to right much like you
+would find in video editing software
+so let's go ahead and animate this SPG
+by the triangle first with it selected I
+come here and I click the offset button
+and this is going to copy the path
+length number and then we need to copy
+this number with command or control C
+and paste it into the dashes section
+with command or control V
+now without clicking anything else it's
+just a case of moving the timeline
+slider up to how many seconds you want
+the animation to run for
+so once I've done that I need to finally
+set the offset option back to zero which
+is going to complete the animation and
+to check the animation drag the slider
+back to the beginning and then just hit
+spacebar it's really that simple
+but we've still got some worse things to
+do and there are a few more features to
+look at
+so for the circle select it and then go
+back to the button here and set up a
+stroke offset and stroke - time lines
+like we did before
+so like read a with the play icon we
+need to set the offset link and then
+copy it into the dash box
+for the circle I'm going to move the
+timeline a little bit longer as I want
+to make the animation run for a tiny bit
+more compared to the play button
+and so finally as we did before just
+change the offset number back to zero
+we can now drag the slider back and test
+for an animation to see how it plays out
+it is easy to change the start time the
+end time and also the duration of the
+animation but I'm not fully happy with
+the animation of the circle as I feel it
+could be more dynamic and just a bit
+more interesting so what we can do is to
+head here and grab the transform tool
+and then drag the crosshair icon to the
+exact middle of the design
+make sure the slider is set at the start
+and then head up into the corner now
+hold down shift and then rotate it
+exactly 180 degrees
+we then press shift and our to activate
+the rotate timeline
+and then we can rotate the circle
+another 180 degrees until we see we've
+made one full turn you can see that in
+the menu here now the animation looks
+slightly different as it isn't just a
+standard circular animation from start
+to finish
+so yeah I feel that looks really neat
+and for not having any previous
+experience with animating SVG's I'm
+really pleased with this outcome and I
+think it was really easy to finish
+actually we'll so of course you can play
+around the sliders to affect the
+animations lengths start points and so
+forth it is really easy to pick up the
+user face and also the features of SVG
+eita
+but the benefits of SVG files is that
+they tend to look really good on any
+device no matter what the size or the
+resolution is and they load extremely
+fast compared to other file formats
+that's mainly because it's just code
+generating image in SVG eita
+we export the SVG's in either CSS or
+JavaScript now I personally don't have
+much experience with the coding but I do
+know enough to apply the code into my
+website and for that I'm gonna use
+JavaScript now once you've exported the
+SVG file you can modify the code if you
+want to and this will actually change
+the design itself outside of SVG eita
+and other programs which is one great
+use and future of SVG files so I'm gonna
+pop into my dated pop failure web site
+that does need a revamp some time soon
+when I actually have the time I've been
+saying that for ages but anyway I can
+paste the code anywhere I like on my
+website now giving it a test run I can
+see the file is rather larger on my
+website than I'd like it to be and so if
+I wanted to change that I could just do
+it in SVG 800 or I could edit the code
+itself and so there was today's video
+about SVG ATAR and they're really easy
+to use product for animating SVG's do
+check the links below to head over to
+their website I've got more useful and
+in-depth of graphic design content
+coming here in this channel in the
+coming days and the weeks so if you
+haven't done already do subscribe to my
+channel to keep up
+dated to all of my graphic design
+content right here is a toy graphics but
+you enter next time guys design your
+future today

@@ -1,0 +1,1265 @@
+Right in front of me is a
+list of 4,691
+highly qualified
+leads that I was able to
+collect using
+GPT-6 Astra and then score
+and select
+using Jev for just
+$0.55.  And long story short:
+if you don't know who
+I am, my name is Matt
+Lucero.  I run Eva, a
+B2B
+lead generation agency, so I
+spend
+all day acquiring clients.
+We send over a
+million cold
+emails per month.  We have
+booked over 5,000
+sales meetings
+for dozens of different
+B2B companies.  So in
+this video, I'll
+show you step-by-step
+exactly how you can
+use GPT-6
+Astra to not only
+generate thousands of
+leads for your
+business, but also to
+score them with
+Jev so they're
+as accurate
+and cheap to process as possible
+.  So, before we
+jump into the Codex and
+start building
+our lists
+with GPT Astra and Jev,
+I want to first
+explain what Jev is
+, what makes it so
+fundamentally
+different, and why
+it changes
+lead generation so much.
+The main reason why
+this new
+Jev AI model is
+so useful and
+powerful is that
+it combines the
+intelligence of many
+advanced models,
+but provides it at a
+much lower price.
+If you take
+information from the
+website of Type Safe, the company
+that created Jev, you
+will see that a typical
+large language model,
+if you want to
+use it
+for
+lead classification or performing
+most
+lead generation tasks,
+costs between $0.20 and
+$10 per million
+tokens in input or
+output.  But
+comparing to Jev, you
+see that the cost of
+input tokens
+is $0.04
+versus $0.20, and the output
+tokens are free altogether
+because they are
+so cheap that
+they cannot even
+be measured.  This means
+that if you're
+trying
+to do any
+lead generation that
+involves large-scale
+data output, Jev
+is built specifically
+for that.  The limitations of
+Jev are that
+it cannot
+output large
+chunks of text.  So
+if you try to
+use Jev,
+for example, to
+write
+email texts, it
+doesn't
+cope with it at all.  He
+can't do it at all
+.  But what Jev is
+extremely good at is
+classifying
+things.  That is,
+sorting,
+objects, and deriving
+probabilities.  Imagine
+Jev as a very
+intelligent
+"if-then" operator.
+So, if we want to
+run large-scale
+lead generation campaigns, Jev is
+perfect for that
+because it is
+so cheap,
+effective, and
+smart at performing
+these tasks.  So, I
+want to jump right in
+and show
+you how we can
+build campaigns
+using GPT-6 Astra
+and Jev, which are essentially
+two cutting-edge
+models that
+have come out in the last
+couple of weeks.  So in
+this video, I'm going to create a
+list similar to
+the one I just
+showed in the introduction and
+show you exactly how you
+can do something
+similar for your
+business.  You may
+have a large list of
+qualified people to
+contact.  Okay,
+so we have the
+Codex open.  Codex is essentially the
+same Chat GPT.  This is a
+shell in which we
+can create
+things using
+Astra's Chat GPT-6.  So if you
+want to do everything
+with me,
+download it.  I'm
+currently using the
+$100 professional plan.  So, we're
+going to build a
+big list of leads.    The
+first step I
+want to take before
+we start
+generating leads is
+to give Codex a sort of
+briefing on what
+we're going to do.
+To make sure
+he has all the context
+and clearly understands what we're
+doing when we build
+these campaigns.  So I'm
+going to give him
+something like a
+campaign brief.  For this
+video, I'll ask him
+to create a
+lead list for my
+lead generation agency.  In this
+case, I want to
+target
+marketing agencies specifically
+.  So, I'll ask him
+to create a big
+list of
+decision makers at
+marketing
+agencies who would be a good fit
+for my
+business so I can
+contact them.  So I'll
+just
+communicate with Codex
+or GPT-6 in plain
+English.  First of
+all, I'm going to
+crank
+the settings to the
+max.  And I'll just
+talk to him
+.  I use a
+tool
+called Whisper Flow, which
+allows me
+to speak to AI in
+plain
+English.  So, I'll
+just briefly
+explain to him what I want to
+do.  So, the project
+we're doing
+together is: I want you to
+help me
+generate a large
+list of leads for my
+lead generation business.  More specifically, I
+want to target
+agency owners.  So before
+creating this
+list, I want you to
+make sure that
+my
+ideal client profile
+and all the criteria are
+fully
+fleshed out.  So,
+given this
+context, I want to
+decision makers in
+agencies.  Before we
+start
+building this, I want
+you to ask me
+a few
+clarifying questions to
+make sure my
+ideal
+customer profile or segment
+I want to
+target is clearly
+defined.  And then
+we'll move on to
+using a few
+tools and
+building everything.  So,
+first I just
+want to make sure
+you ask me
+questions to
+clarify my
+wishes.  Okay, here is
+the result of working with
+the text.  I'll just
+press Enter.  So,
+WhisperFlow simply cleans up
+the text to make it
+a little more understandable
+to the AI.  Class.  And
+now he asks
+a few clarifying
+questions.
+You can actually skip this step
+if
+you want.  I just
+like
+doing this because I think a
+lot of people
+don't
+carefully identify
+who they
+want to target before creating lead lists for their business
+.  And this leads to
+them
+collecting a bunch of leads
+they didn't even
+need, simply because
+they weren't
+selective enough.  So what I'm going to do is
+answer
+the questions, and then
+move on to the second
+step—using
+GPT-6 Astra to
+directly
+capture leads.  So,
+first I will answer
+these questions, and
+then I will tell you how to
+proceed,
+because there are many ways.
+First, you can
+use
+tools with
+good APIs,
+for example, Gatleads,
+Prospect.io, Apollo—there are
+so many great
+tools out there.  Another
+feature I want
+to show you
+, friends, is a
+super cool
+feature of GPT-6 Astra,
+which I think is
+amazing and the
+best I've
+seen in AI models:
+using
+a computer.  So I'm
+going to show you what
+it looks like now.  So, I
+will answer the
+questions he has
+.  First, what are
+you selling them?
+Qualified leads,
+scheduled appointments.
+What type of
+agencies do you want
+to reach?  Where should
+these
+agencies be based?  What is the
+best size?
+Who should we
+contact?  And what
+makes the agency
+particularly attractive
+?  So I
+will explain in detail what exactly I
+want to achieve.  Okay,
+I'll try to quickly
+go through these
+questions.  First,
+we will sell them
+B2B lead generation services,
+namely cold
+mailings.  Secondly, as for the
+agencies I want to
+reach out to, it could
+be any of them.  SEO
+, paid advertising,
+social media,
+web design—it all
+fits.  Next, I
+want to make sure that
+these agencies are based
+in the United
+States.  I want to
+agencies that have between 11
+and 50 employees.
+This is the
+best option for us.
+And the people I want
+you to connect with
+are CEOs, owners,
+founders, partners,
+people like that.  Uh,
+sales manager,
+business development manager would also be
+suitable.  And the main thing
+I want you to
+filter by is
+just make sure
+they are an agency.
+So the next step
+do is open
+my Apollo account and
+use the
+computer management feature to
+go into Apollo and enter
+all these filters
+according to our
+requirements.  And I want you to
+create all the
+criteria for the
+lead list.  I don't
+need you to
+save or
+export them now.  I
+just want you to
+form the criteria for the
+lead list
+based on everything
+we're talking about here, because
+then we'll
+use Jev through
+Open Router to do
+all the classification and
+dirty work, and
+we'll collect the data
+using other
+tools.  So the
+first step in this
+process—I want
+you to open a new
+tab in Apollo
+computer control so we
+can collect these leads
+.  OK.  So, I have the
+Apollo tab open here.  And so, the first
+step in the process: I want
+you to go to
+my already open
+Apollo.io tab.  I
+can collect leads.
+OK.  I press "
+Start".  So, you see
+, it says: "searching for
+existing Apollo tab
+".  OK.  So, I have the
+Apollo tab open here.  And you see that
+ChatGPT has just started
+debugging
+the browser, and
+a little
+cursor icon has appeared here.  And
+now you see that
+it actually
+uses its own
+cursor,
+using my
+Apollo account and my
+Chrome tab.  And he will
+now go through and
+click on all these
+elements.  Now you
+see it
+goes to
+opening the employees tab by
+clicking on 11-20, 21-50.
+My hands are in the air.  You
+see I don't
+touch anything, and he
+goes through and adds all
+these filters based on what
+we
+discussed.  And you
+see, it has its
+own little
+window where it
+takes screenshots of
+what's
+going on here.  And he's
+smart enough
+to understand that the
+employee range
+is applied.  So,
+now he moves on
+to the next step.
+Again, I know there
+are a lot of
+AI experts who
+will say, "Matt, you could
+just use the API
+."  What if I don't want to
+use the API?
+What if I want him to
+just click
+the mouse?  And that's exactly what I'm going to
+do here.
+So I just let
+him fill everything in for
+me.  So, you see,
+it goes to
+location, selects the
+company headquarters, and
+sets
+the location—
+United States.  And
+he clicked where he
+needed to.  It's even
+to know that sometimes when
+you enter data into Apollo,
+it doesn't appear
+right away, so you
+have to re-enter
+it and click
+on the prompt.  So he
+comes through here and
+does all this
+tedious work
+for me that I would
+normally have to
+do.  You
+can
+use the API
+to do this.  Also
+in another video I
+talked about a
+called Get Leads, which is
+very AI-oriented.
+You can just
+plug it
+directly into Code X.
+So this
+getleads.io tool is a program with
+almost unlimited
+capabilities that you
+can just
+plug into MCP
+inside ChatGPT.  I could
+just give it a
+query, but I also
+want to
+demonstrate
+the use of
+the computer, as
+I know that GPT-6 Astra is
+particularly good at this
+.  This
+means you can
+tools without
+needing APIs or
+deep technical
+knowledge.  So I'll just
+let him
+walk around and
+click through everything here.
+As you can see, he seems to be
+commenting on the process.
+The range from 11 to 50
+applies.
+Now the
+job title filter—he just
+added the
+job title filter.  Now it
+adds
+agency-specific keywords.  Again
+, he's trying to
+narrow down his search,
+and as we'll see later
+, he's adding
+keywords like "
+marketing agency
+."  One of the biggest
+lead generation challenges that Jev
+solves particularly
+effectively is the
+classification feature
+.  Apollo is a great
+tool.  This is one
+of the biggest
+tools for B2B
+lead generation.  He is so
+popular for a reason.  It contains
+a lot of data.  You
+can easily
+find and collect
+data from this platform
+.  But one of the
+biggest problems is
+that
+if we go in here,
+no matter
+how many
+keywords, how many different
+classifications we
+want to add, it's
+never going to be 100%
+accurate, because at the end of the day,
+it's a database.
+If we enter these
+keywords, as you
+can see, Astra does,
+for example:
+, advertising agency,
+digital agency, an
+IT company website might appear that
+says
+they serve
+marketing agencies
+, right?  So this
+keyword "marketing
+agency" will show up in the
+list here, and that's why
+you'll want to
+add another level
+on top of that, which is where
+Jev will show up, and we'll
+actually
+categorize these leads.
+And while this was
+possible before Jev, the
+biggest problem
+was cost, right
+?  So while it wasn't
+too expensive, Jev
+does it much,
+much, much
+cheaper.  And you see
+he
+will keep
+going through the
+links and
+adding all these different
+agency terms.  This
+works for about 5
+minutes.  It says that
+your search in Apollo is
+set up.  And now,
+if we open our
+search in Apollo here, you'll
+see that it has
+added positions,
+number of
+employees,
+location,
+industries, and
+keywords.  I'm going to
+add an email status of "
+confirmed" to
+get another
+level of accuracy here.
+And as you can see, that
+narrowed it down to
+about 10,000 people
+.  Because I
+use Apollo so often, I
+love Apollo as a
+tool, we
+already have
+9,000 leads saved and paid for here.
+If you created a
+new account with Apollo,
+you would have to
+pay for all these
+different leads.  But
+because we
+Apollo so much, those 9,000 leads are practically free for
+our agency
+, as we
+send over a
+emails per month.
+Okay, now we have
+these 9,000 people.  We'll just
+select everyone and
+quickly save
+these people.  Okay, I'm
+going to do an
+export.  We
+export records.
+So, we have 9,300
+leads saved
+right on my
+computer.  And again
+, unless you're like
+me who sends a
+emails a month and
+spends a ton of money
+on
+lead generation tools like
+Apollo, I would also
+look at other
+tools to
+see if there are any that are
+more cost-effective
+or cheaper.  There are
+tools like Lead Magic
+, Prospector, Getleads, even
+free
+tools.  So if
+you want to parse
+directories, you can
+do it for
+free.  There are
+tools like Quick
+Enrich, there are a lot of them
+.  You
+can also ask
+GPT-6 Astra for tool recommendations
+if you're not sure what to
+use.    So
+now we're
+back here at
+Codax.  What I'll do—I'll
+attach the file.  I'll just
+go here and
+click "attach
+files."  I'll go to the
+downloads section and
+select the list
+I have here.  So, the
+first step
+is complete.  We have drawn up a
+campaign brief.  Codex
+knows what we are doing.
+Step two: we
+asked Codex to collect
+leads for us.  We
+use Apollo,
+but again, there are
+a lot of other
+tools.  Now,
+step three: we
+will start integrating
+other tools to
+classify these
+leads, because while
+Codex did a great job
+of collecting leads with Apollo,
+Apollo is not always
+perfect.  And this is where
+Jev comes into play.  We will
+use Jev, which
+will cost a
+fraction of a cent to
+classify all
+these different
+leads.  And there are so many
+things we can
+classify.  In the demo
+I showed at
+the beginning of the video, I only
+classified businesses
+.  I used a
+tool to
+crawl
+websites and collect
+all the data from them.  After
+we got everything
+together, I asked Jev
+to read the site and
+tell me if it was
+really a marketing
+agency, because that's a
+huge problem.
+Sometimes you enter a bunch of
+keywords and
+then realize
+they're not marketing
+agencies.  Another thing
+we can do
+, and I just noticed this while
+looking at the data, is
+we can ask
+him to look at the
+positions here.  You see,
+we have positions
+like National
+Sales Director,
+Vice President of
+Business Development.
+Some of these positions
+may not be very
+apt.  For
+example, this position:
+product owner/
+architect.  This name
+ended up here
+because we entered the
+keyword "owner."  This is
+another great
+example of how we
+can use Jev
+—an intelligent or
+near-intelligent
+advanced model that
+costs next to nothing—to say,
+“Hey, look at this
+job and make sure
+it’s
+relevant too.”  So, we're going
+to do two things here.
+Now,
+using Jev, we're going
+to make sure that this
+list is perfectly
+clean, and not just a
+list of 9,000 people that
+we're going to,
+well, spam.  We want to make
+sure we
+are reaching out tactfully
+to those who are
+truly a good fit for us.
+So, there are a few things
+do with this list
+.  The first thing I want
+you to do with this
+list is
+every lead in it is a
+agency, because Apollo is not
+100% accurate in determining whether
+they are
+agencies.  The way
+do this involves
+using two
+different tools.    The
+first tool
+use is
+called spider.cloud.
+It's essentially just a
+web scraper that
+you can use to cheaply collect
+data from all sorts of different
+sites.  And after
+you collect all the
+content from the sites, I
+want you to
+OpenRouter.  I want you to
+create a
+prompt and
+classify
+each lead
+based on the content of their
+sites to
+make sure they
+are truly a
+agency.  Okay, that's the
+first step.  And then,
+step two: I want
+you to use Jev
+to check all the
+positions on this list
+to make sure that the
+positions listed for these
+people are indeed
+correct.  An example
+I'll give: I saw
+someone's job title was
+"product owner," for example,
+or "product owner/architect," and
+that's not the owner of the
+business.  So this
+keyword in Apollo got
+a little mixed up.
+create another
+Jev classifier that
+will go through the list and
+make sure all the
+positions are
+relevant.  One
+last thing: before that, I
+want you to create an
+.env file where I can
+add my API keys
+so that I can safely
+give you access to
+all the tools
+to do this
+work.  Okay, I'll
+let this
+work.  So,
+to summarize: we'll
+let Jev
+review and
+classify whether
+these leads are a good fit for us
+.  Then we
+will make sure that the
+job titles are
+correct.  When you
+work with artificial
+intelligence, you shouldn't
+just give it
+your API keys.  Your API
+keys are simply
+access to all your
+tools.  So
+instead, it's better
+to create an .env file—it's
+simply a file that
+the application
+will access for
+API keys, rather than
+just "throwing" them
+directly into the GPT.  As
+you can see, a file has been created here where
+I can
+add my API keys.    I
+forgot to mention, here's the
+I was talking about—spider.cloud.  This
+tool can
+scan websites
+extremely cheaply.
+To show
+how
+cheap spider.cloud is: it costs $0.001 to crawl a
+single site
+.  This is one
+hundredth of a penny.  So, if
+you want to
+scan a hundred
+sites, it
+will cost you one
+cent.  It's very, very
+cheap.  And the reason
+we do this is
+because Jev
+is just a
+classification model.  We
+need to
+make sure we
+provide her with
+information about
+companies, their
+website details, etc.  So,
+step one: this
+spider scraper
+will go through and collect
+all the content of
+these companies' websites.  Then Jev
+can read these
+sites, categorize
+them, and make sure
+they are a good fit for us.
+We come here, in
+spider.  I'll take my
+API key.  I
+will also do this through open
+router.  The reason we
+use open
+router is so that
+you can
+use Jev through it.
+You can contact
+Type
+Safe directly for your own
+API key, but then you need to
+submit an application.  I
+was approved pretty
+quickly, but creating
+an account
+through open router is probably the
+easiest way.
+So, I'll just take
+my API keys and add
+them to the .env file.  Okay, I
+just added my
+API keys.  So now I
+want you to do a
+test run.
+Take one of the
+leads.  Use
+spider.cloud to
+crawl their
+site, then
+use Jev to
+classify,
+first, whether they are
+truly a
+agency.  And secondly,
+check if their
+name matches the
+brief I gave you
+earlier.  Perfectly.  I'll
+just rename Jev
+to Jev.  And also, yeah, the
+last thing I want
+to add to this is that
+also show
+the cost of launches.
+So, now we
+click "Start."
+Okay, so the system
+says I'm testing
+one lead
+using spider.cloud and
+Jev classifiers.
+Then we'll see
+how much it costs.
+Perfectly.  So you
+see that this query
+ran for four
+minutes just to
+do a
+test run.  And,
+surprisingly, Codex was
+to choose the exact
+example I
+was trying to exclude,
+namely the guy with the
+position of product owner.  And he
+pulled this lead.
+He pulled up his
+website.  As you can see, Jev
+was
+smart enough to
+rule out this lead.    Oddly enough
+, for two
+reasons.  You see,
+first, he checked to see
+if they were a
+agency, and also
+found out that they weren't an
+agency.  So, spider.cloud
+scanned the homepage
+and determined
+that this company is a SaaS
+platform for
+managing
+agency operations.  This is exactly what
+I was saying earlier: a
+company may have the
+keyword “
+” in their
+keywords tab, but that
+doesn’t mean they
+are actually such an
+agency.  So it's a
+software platform,
+and he also checked
+their name and
+determined that it was
+irrelevant.  And to
+top it all off, it's
+0.064 cents, not 0.064
+dollars, but 0.064 cents, which
+means it's
+practically nothing.  It's
+almost free, and
+it includes spider.cloud and
+two different Jev launches.
+So it's extremely,
+extremely cheap.
+Now, moving forward
+, here's what I'm going to do: this
+was just one
+test run, and with a
+wave of the hand, a quick
+query, we're just
+going to run this for all the
+leads in the list, and we're going
+to get a perfectly
+clean result.
+Okay, now I want
+you to launch
+the classification and
+spider.cloud for as many
+people as possible.  Now I want
+you to do this
+quickly.  I record
+videos for YouTube, so
+usually I would like
+you to be very
+thorough and
+rework,
+rework, and
+rework.  I just
+want you to do
+about a hundred
+operations at a time
+or a hundred runs at a
+time and just do
+it pretty fast so
+I can show all the
+wonderful viewers of
+this YouTube video how
+fast it can be
+done.  Okay, as
+you can see, it
+will work with a hundred
+simultaneous
+operations.  And this is
+the advantage of running locally
+directly through
+various APIs: I can
+execute many
+requests at the same time, without
+being limited by
+the speed of
+another platform.  So
+, now I'm going to launch it
+for as many of
+these people as possible.
+Quick note: if
+you want our
+team to build and
+launch a complete
+lead generation system like I
+show in this video
+, including
+research,
+infrastructure,
+mailing,
+appointment booking workflow, and
+calling leads to
+put them on your
+calendar, you can
+apply to
+work with Anvil below
+this video.
+Otherwise, let's go back to
+the video.  So,
+about 15 minutes have passed.
+Actually, it should have
+taken a little less
+time, but my internet went down
+.  But I
+just had to
+continue, and as
+restarted.
+Now you see:
+after parsing 10,000
+leads,
+qualifying them,
+rejecting them, and
+processing them, we
+spent a total of
+about $4.
+Although we spent
+a little more.  A significant
+portion went simply
+to parsing the website.
+You see, it
+cost Jev about a
+dollar to
+analyze
+10,000 leads twice, or
+almost 10,000, for
+their relevance
+.  It is noted that 5,400 of
+them are qualified, 500
+are rejected, and 3,000
+require verification
+.  Part of the reason they
+may need to be
+reviewed is
+that the parameters weren't
+very clear, meaning
+we could have been
+more specific to
+increase or
+decrease the
+hit rate on what a
+agency is, or just
+be a little more
+rigorous.  So if
+I want to be more strict
+, I could just
+discard them or
+set a certain
+level of confidence.    So
+now you see
+all the leads we just
+processed.  There are
+a little less than 10,000 of them here. Name,
+surname, email
+addresses.  They're from Apollo,
+so there's a little
+more data here.  And you
+can see the
+original data of Jev.  Jev
+outputs the result in the
+form of probabilities
+: one means 100%
+confidence, 0.99—99%
+confidence, and so
+on.  And here you can
+see different
+results.  So, "
+agency" means
+it's probably an agency,
+"review" means
+the confidence isn't 100%,
+but here you see a
+confidence score of
+86%.  So if I wanted to, I
+could sort
+it and say, "Hey,
+if something is below 85%, then
+remove it, otherwise we
+leave it."  And then, uh
+, you see we
+have the same thing for the
+positions here, on the right
+side.  So, you see the
+job category and the
+job probability.
+You can see
+whether it is considered
+qualified or not
+.  I believe this
+calls into question both
+whether this is an agency and
+whether the position is accurate.  And
+then you can
+see the model, the
+website, and all that other
+stuff.  So
+now, if you want to
+launch a
+cold email campaign, it’s
+as easy as
+grabbing your favorite
+email marketing tool.  I
+SmartLead.  So you can
+say to Astra, “Hey, I
+upload this to
+SmartLead.  Here is my API key.
+create a campaign."
+Now, I'm still not
+excited about AI doing
+full copywriting
+and doing
+literally every
+little thing, but
+loading this into
+your SmartLead or
+mailing tool so you
+can send
+thousands of cold
+emails—it's a very
+simple logical
+step to get started, and
+from there you can
+process your data
+however you want.  But this is how
+very easily collect
+data on thousands of people
+AI tools and
+do it
+extremely cost-effectively
+.  The specific
+technology stack you
+will depend on
+your needs, but
+the cost of these
+AI-powered data collection tools is very, very, very
+low.  It really just
+depends on
+what
+usage scenario you
+want to impose on it
+.  So, Astra helped with
+the research, Jev
+helped with the evaluation,
+but none of that
+negated the need for a
+good offer, a
+secure
+infrastructure, or
+a person behind the scenes
+who really knows what
+needs to be said in
+your
+outreach campaigns.  So, if
+you want to see the
+full lead
+list building part
+, you can
+watch this video
+where I talk about how
+you can collect 10,000
+leads using AI
+.  If you'd like
+our team to
+build and
+run the same
+system for you, so
+we can collect data
+, source leads,
+conduct
+configure
+create
+messages, and
+book
+sales calls right on
+your calendar, you
+can apply
+to work with Anivo below.
+You can
+check out School Group
+if you want to learn
+directly from me
+and our team.  Otherwise,
+watch other
+videos.

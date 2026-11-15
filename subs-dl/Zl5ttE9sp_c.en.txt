@@ -1,0 +1,1093 @@
+the approach might be the problem as
+opposed to, you know, your execution.
+And so my my hope is that it's offered
+maybe a different way of looking at this
+and a different way of approaching the
+problem that is counterintuitive in that
+maybe simplifying it is actually the
+right answer. Welcome to the Agency
+Profit
+Podcast, a show dedicated to going deep
+space on agency operations, which is
+just as nerdy as it sounds. I'm your
+host, Marcel Pedipov. I'm the CEO of
+Parido, a firm that helps digital and
+creative agencies measure and improve
+their profitability. Join me as I
+interview some of the smartest thought
+leaders and agency owners in our space
+and go deep into operations, metrics,
+and all the other things you need to get
+right so you can spend less time
+worrying about operations and more time
+executing on your
+[Music]
+vision. Hello everyone and welcome back
+to the Agency Profit Podcast. I'm joined
+today again by the lovely Kristen Kelly.
+Hi Kristen. Hi Marcel. Nice to be here.
+Likewise. I'm excited for today's
+conversation. We're talking about a
+fairly nuanced but I think very
+important thing um which is forecasting
+and some different ways of thinking
+about forecasting that um maybe are not
+as common as I think they should be.
+Yeah. So really diving into forecasting
+which is basically just having a sight
+line over a specific time horizon and uh
+be able to make decisions accordingly.
+And um you know we're going to talk
+about two kinds as you mentioned it's
+nuance. So bottom up versus top down um
+you know both of those views having
+utility but um for much different
+functions and uh often confused. So yeah
+we're gonna get into that.
+Awesome. So, why don't we start by just
+talking about um yeah, forecasting. Why
+is it so important? Um why is everybody
+so obsessed with it? Um I think for good
+reason. And what are some of the
+challenges that people face and that we
+see our clients face all the time when
+it comes to trying to get their needs
+met as it relates to forecasting? Yeah.
+So, um I'll tee us off here. So I think
+that one of the main things with
+forecasting um in terms of why it's a
+necessity for a service business in
+particular is um so many of the metrics
+we need um to measure requires that we
+understand a baseline um and that we
+understand our business model so that we
+can project against it. So um having a
+forecast is predicated upon in other
+words understanding what it is we're
+capable of achieving um in the first
+place. So, um, that's really just I
+think the the true anchor point here for
+a forecast and, um, where we usually
+start obviously with our clients, just
+making sure that we've got a basis for
+reality that we're able to, um, to
+forecast against. Um, what else would
+you add to that, Marcel? Yeah, I would I
+would also say
+that fortunately or unfortunately, I
+guess this isn't really unique to um
+service- based businesses, but it is
+prominent in service-based businesses
+where like one of the most important
+management functions in a service-based
+business is the balancing of capacity to
+work coming in. And that is an
+inherently sort of forward-looking
+exercise of, you know, do we have the
+right amount of staff? How much work is
+coming in? Are we going to need to hire?
+Are we going to need to let people go?
+You know, how much sort of flexible
+capacity do we keep around in the form
+of freelancers and contractors? Those
+are really really important decisions
+and the bigger an organization gets the
+more important those things become
+because the stakes get higher and higher
+and higher as you talk about you know
+let's say you have an agency with a 100
+people you might be having five or six
+people a month come in and out of the
+team that's just like a regular motion
+and that might seem crazy to someone
+who's got 10 people on their team but at
+scale you know those are that's the
+level of implication and so it becomes
+increasingly important and an increasing
+amount of the leadership team's time
+becomes focused on that question as the
+company gets larger. But the other kind
+of piece of that which is sort of very
+punishing is the bigger the organization
+gets the more expensive and cumbersome
+it becomes to maintain an understanding
+of what's happening in terms of capacity
+because there's more moving pieces.
+There's more complexity to work through
+and that's where I think system design
+gets really important which is part of
+what we're going to talk about today.
+Yeah. And I think um we've obviously t
+touched on the capacity piece of the
+forecast, but um another piece of
+forecasting obviously being um revenue
+and AGI uh being an ingredient in terms
+of understanding like that staffing
+question that you talked about
+resourcing. Um it's really important for
+us to have a handle on what we're
+expecting from a capacity standpoint,
+but also um AGI. Yeah, this is sort of a
+a bit of a nuance thing, but it is
+important. Um I'm glad you brought it up
+which is it is possible and we've seen
+this before to have your team be very
+well utilized extremely busy and for the
+business to still not be making money
+and so um it is definitely useful to
+have another view of this which is
+looking at your capacity in terms of a
+financial lens as opposed to just um you
+know an hours lens. Both are important
+both serve different purposes but um you
+should probably have both. Yeah. So
+let's talk about the two vantage points
+that we've got when it comes to
+forecasting. Let's dig into it. Um,
+we've got bottom up and top down. Again,
+utility in both and really
+complimentary, but um, I think it's just
+important for us to maybe start by
+clarifying what both of these
+are. Yeah. And I'll start by saying
+that, you know, we're going to use this
+language of top- down forecasting a lot
+during this conversation. And it's very
+possible that like that concept has
+existed long before parakeido was
+around. But, um, I like to think that
+we've sort of like coined that in this
+particular context. And so, um, yeah,
+what is the key difference? Well, let's
+start with the the way that most people
+think about forecasting and is the
+prominent way that forecasting is done
+in agencies and is done in software
+platforms that are trying to support
+this function, which is what we would
+define as bottomup forecasting. And this
+is often the focus of a project or
+delivery sort of management team. And
+the question that they're trying to
+answer with that is often who's doing
+what and how busy are individual people
+on the team. That's sort of the first
+job. And that is accomplished generally
+by taking the work that needs to get
+done, whether that's projects or
+retainers or different client
+engagements, breaking those down into a
+series of taskbased objects and then
+assigning those taskbased objects to
+individual contributors on the team. And
+so the benefit of that way of doing
+forecasting or resource planning is that
+it's very precise. And so we can get a
+very detailed view into exactly how busy
+every individual on the team is supposed
+to be at a given moment in time.
+However, the downside of it is that it
+is extremely precise which means that
+let's imagine you have a team of 25
+people and you have 50 different
+projects going on and each of those
+projects has a couple hundred tasks on
+them and there's inevitably things
+changing. Somebody quit last week. We're
+hiring a new person. This project's
+timeline got pushed around. Some clients
+changed the scope of this other thing.
+We lost a client. we want a new client,
+right? All of a sudden, you have
+hundreds and hundreds and hundreds of
+objects that need to be kept up to date
+at a given moment in time. And so that
+really starts to restrict the utility of
+bottom-up resource planning and
+forecasting when you start trying to use
+it to look at longer time horizons. So
+let's say we're trying to forecast the
+next month or the next 3 months or the
+next 6 months. And certainly as you try
+to get higher and higher levels of
+insight. So what does our busyiness look
+like for this entire department or this
+function within our business or for the
+whole firm for example the
+dependency starts to become greater and
+greater and the surface area for
+mistakes and the surface area of things
+that need to be maintained gets greater
+and greater and greater and that's of
+course quite punishing when you have a
+lot of really precise detailed things
+that need to be kept up to date. So
+that's sort of the idea with bottom up
+is awesome for project managers,
+delivery managers. That's sort of the
+the purpose that it serves in the
+organization is quite good at that. But
+where it starts to fall down is more at
+the leadership level when we're asking
+bigger questions with more uncertainty
+over broader time horizons which is
+where we like to propose uh top down
+forecasting as the alternative method.
+Yeah. Now I think with bottom de or
+bottom up forecasting um this is
+obviously for ops people or project
+managers the kind of the default place
+to start where you just have the system
+installed you have your day-to-day
+workflow kind of contained but then when
+it comes to trying to figure out what
+all that actually means or what
+implications that has um at the higher
+level um you know at the executive level
+that's where you know we're falling
+short and that's where our our project
+management tool is not the answer not
+the sole answer. Yeah. And so I think
+this is where um there's like a trap
+that a lot of people fall into which is
+they think about solving that next set
+of problems which is as an executive
+team every couple of weeks we sit down
+and we have this conversation that
+sounds a lot like well what
+if X happens? What if we win this
+client? What if we don't win this
+client? What if this client signs next
+month instead of this month? What if
+this client fires us? What if this
+person gets hired? What if this person
+quits? What if this person gets moved
+from this job to that job? And what if
+any combination of any of those things
+happens and we're having a leadership
+conversation that is unfortunately based
+in unh inherent uncertainty, right? And
+so I think that's an important and
+specific set of language that I've just
+used. We are dealing with inherent
+uncertainty. And so the reason I say
+that is a lot of times what we're trying
+to do is we're we're trying
+to get answers to those questions by
+building up all of the little detailed
+bottom-up building blocks to that higher
+level. The challenge is every time we
+want to evaluate a different scenario or
+something changes, we often have dozens
+or hundreds of things that need to go
+get updated and changed in order to then
+reflect that new scenario that we're
+looking at. And so functionally
+bottom-up resource planning is not
+really designed for dealing with
+uncertain circumstances. It's more
+designed for dealing with fairly certain
+circumstances. So we know that the
+client has signed the contract. There's
+a defined scope of work. We have an idea
+of who's going to be working on it. Like
+that's a fairly mature place in the life
+cycle and it's generally contained to a
+much smaller subsection. But when we're
+talking about the leadership level,
+we're dealing with the inherent reality
+of running a business, which is we don't
+actually know what's going to happen.
+And so we have to evaluate a range of
+scenarios and then make our best guess
+based on that information and hopefully
+do so in a way that is creating
+alignment among the other stakeholders
+on the leadership team. So we're all
+saying, hey, we agree that this is our
+best guess and we're agreeing to that
+together and we're going to execute
+based on this set of of assumptions. The
+reason I I want to just pause here is
+oftent times what I've seen is firms say
+hey this is really hard forecasting in
+this leadership context is hard and the
+answer is okay well try to reduce the
+level of uncertainty in your business
+and okay fair you know can you
+productize your services can you make
+your scopes of work more predictable can
+you make your pipeline more predictable
+and to the extent that you can do those
+things great but there's a limit to that
+and in some businesses that there just
+isn't opportunity for that and I think
+that it's the wrong answer. Right? The
+wrong answer is let's don't try to make
+business unpredictable. That's kind of a
+fool's errand. The answer should be how
+do we design a system for forecasting
+that handles uncertainty better and
+enables the inherent nature of that
+conversation which is we don't know
+what's going to happen and so we need to
+be able to quickly and fluidly analyze a
+whole bunch of different circumstances.
+So top down forecasting proposes to
+solve that problem by reducing the level
+of precision in that forecasting system
+and essentially focusing on larger sort
+of broader less precise but still
+accurate in that context ways of
+modeling future work. And the the key
+way that we accomplish that is we don't
+estimate at individuals or tasks. We
+estimate at what we call role
+categories. So we take people we assign
+them into role categories and we take
+projects and we assign their work into
+role categories. So when something
+changes we are evaluating that at the
+level of how does this change the number
+of let's say for example design hours or
+project management hours or you know
+engineering hours that are required and
+when we're forecasting we're forecasting
+at that level right how much capacity
+available for the whole business and you
+know at this like one extra level of
+detail that doesn't go all the way into
+people and projects and by doing that we
+can cut the number of details that need
+to be kept up to date by an order of
+magnitude. You know, we can go down to
+like a tenth of the complexity and
+therefore speed things up, make them 10
+times faster to look at and enable that
+leadership conversation, which is very
+different than the sort of project
+management conversation that's happening
+dayto-day. That was a very long
+explanation. So, we can double click on
+that if No, it was a good one. I think
+um you know the the important thing to
+latch on to here I think is um the speed
+that the system a system like this or a
+forecast like this enables you to make a
+decision. So what used to be kind of
+like a very time timeconsuming and
+impossible task trying to figure out in
+your project management system um and
+also you know on the flip side with
+finance if you're trying to um pass a
+scenario off to that team and maybe have
+them go do some run some numbers um
+spend some time with that all very
+timeconuming exercises and maybe not
+ultimately yielding the answer that
+we're looking for when we're just um on
+the flip side looking at a top a top-
+down forecast that can tell us a
+directionally an accurate answer um in a
+matter of you know a couple minutes and
+just by changing a couple of inputs um
+we can arrive at a conclusion.
+There's a couple of things that I want
+to just sort of add add to this. So the
+the first is just a very objective lens
+and I did a LinkedIn post on this that
+I'll try to find and link in the show
+notes but um about why mathematically
+this makes sense and essentially if you
+think about the simple math it's uh the
+concept is a reliability block diagram
+and so that's like an engineering
+concept that essentially says an entire
+system is only as reliable as each
+individual part within the system. So
+let's imagine you had a car and there's
+a 100 parts in the car and each part has
+a 1% chance of failure at any given
+moment. Well, statistically there is a
+100% chance that that car will fail at
+any given moment, right? So if like you
+roll the dice, chances are something in
+the car is going to be broken at any
+given moment in time because you have
+100 parts multiplied by that 1% and
+that's how you get to that outcome. So
+if you think about the difference
+between a top- down system and a
+bottom-up system, let's imagine you're
+doing a bottom-up resource plan and you
+have, you know, 25 people on your team
+and you have 25 projects going on. And
+so those 25 projects each have 25 tasks
+multiplied by 25 people that they're
+assigned to, you have 15,000 objects
+that you're managing at any given moment
+in time. And if each of those has a
+0.01% 0 01% chance of being off then
+like you you still have a guarantee that
+the system is not going to be accurate
+at any given moment in time. And so
+that's just like a statistical reality
+of the more precise you make that
+system, the less likely it is to be up
+to date. And so what that forces you to
+do is say, okay, well, we're only going
+to keep this up to date for like the
+next two weeks and we're only going to
+keep it up to date for projects that
+like we know are confirmed and that we
+have a signed so and they've reached a
+certain point of maturity. So you really
+have to ratchet down the scope in order
+to make that viable. Whereas with the
+top down system, what we're saying is
+okay, we're not going to look at
+individuals. We're not going to look at
+um like tasks. We're going to simplify
+this and take that number of objects
+from 15,000 down to like maybe 150 and
+reduce the amount of time it takes to
+keep them up to date by making the input
+very very simple. And in doing so, the
+likelihood now that that's still going
+to be accurate, even if we say we're
+going to zoom out and look at three
+months at a time and we're going to
+consider the deals that are in our
+pipeline and that are kind of
+fluctuating all the time, it becomes
+much more viable. So that's sort of like
+a for the type A's in the room that are
+like why does this work? That's why it's
+just math, right? It's like
+statistically you're setting yourself up
+for success if you use a simpler system
+that is less precise but still just as
+accurate and I would argue more accurate
+in the context of trying to answer the
+question of what is the range of
+possibilities within this system. Um,
+and that sort of leads me to my second
+point on this, which is when you deal
+with
+uncertainty, the less accurate way of
+modeling things, or sorry, I should say
+the less precise way of modeling things
+is often more accurate. And so what I
+mean by that is if you were to ask me,
+hey Marcel, what's the weather going to
+be like today? And I said it's going to
+be um, you know,
+73.6°. Well, that's a very precise
+answer. But the real answer is probably
+well it's going to be somewhere between
+68 and
+76 depending on where you are, what the
+time of day is, if there's cloud cover,
+if there's not cloud cover, how the
+wind's going to right. So like although
+that's not a precise answer, it's more
+accurate. And so the reality is when we
+the further up the chain you go to the
+leadership level, the broader the time
+horizon you look at and the more of the
+pipeline you start to look at, the more
+uncertainty there is. And so I think
+it's understanding that a regression in
+precision in that context is not
+actually a regression in accuracy. The
+reality is the answer is a range of
+possibilities. And so having a broader
+set of tools that you use to express
+that that's more fluid is a more
+accurate way to look at that situation
+and answer questions in that context.
+And so it's understanding that like
+there is a very there's a big difference
+even in the nature of what that answer
+might look like depending on what
+question you're asking and the project
+manager asking different questions every
+day than you are as a leadership team.
+And so it it makes sense that you would
+use a different method and a different
+tool to accomplish that outcome. Yeah, I
+think you just hit on something
+important there with, you know, people
+asking and answering different questions
+with these types of forecasts. So, you
+know, the project manager of course
+needing to know who has spare capacity
+over the next day or so, next week or
+so, and then trying to load balance
+things like that versus the executive
+team who's looking at a really long time
+horizon and trying to look at resourcing
+and staffing from much a much different
+perspective. And, you know, so much so
+that a top- down forecast really
+includes just three main data points in
+the visualization. It's overall
+available capacity, how much of that is
+delivery, and then where does the
+planned work stack up against it. really
+that simple. Um, you know, versus bottom
+up. Yeah. Yeah. And and we're often sort
+of abstracting that to, you know, weeks,
+not necessarily days. Um, we're
+abstracting that, like I said, to these
+broader buckets of like design time,
+engineering time, or in some cases, the
+simplest starting point might just be to
+look at it for like the whole business
+is a super simple starting point. And
+so, if you think about like what does
+your project entry and your project grid
+look like in that context, it's like
+what's the project? How much are we
+being paid? When does it start? When
+does it end? Or if it's recurring, you
+know, what month does it start? And then
+how many hours? That could just be one
+bucket. What's the total number of hours
+that we think this is going to take?
+Right? So like that's all you have to
+maintain compared to in the bottom up
+forecast, it's that plus that same
+information for 200
+tasks, right? It's just like it's just
+such an astronomical difference. And
+then similarly you don't have to worry
+about who's actually doing this job or
+make guesses about who's actually doing
+this job. It's just like we have an
+average sort of cost per hour for each
+of these you know things. So we can do
+this from a financial perspective and we
+have a a team kind of composition that
+we maintain that tells us this is
+roughly how much time we have available
+across these different areas of the
+business or again in the simplest option
+this is how much time we have for the
+whole business. Do you want some free
+resources to help you measure and
+improve your profitability? If you do,
+then I want to tell you about our agency
+profitability toolkit, which you can
+grab absolutely free in the show notes
+or by heading to
+parido.com/toolkit. It's packed with
+training videos, cheat sheets,
+templates, and all kinds of other great
+resources to help you start measuring
+and improving the essential metrics that
+are going to drive better profitability
+in your business. And it's helped
+thousands of other agencies around the
+world do the same. So, I want to
+encourage you to go and grab a copy of
+that. And if you'd rather get in the
+fast lane and just have our team of
+experts guide you through the process of
+measuring and improving your
+profitability, then I want to encourage
+you to apply for a consultation at
+parakeido.com. And with that, I want to
+thank you again for tuning in. I hope
+you enjoy the episode and I'll let you
+get back to it. So, Marcel, even though
+these systems are in fact complimentary,
+what is the utility in actually keeping
+those um separate to some degree? Yeah.
+Uh, it's an excellent question because
+one of the traps that we see a lot of
+people fall into is they they really try
+to force a relationship between top down
+and bottom up. And often what that ends
+up essentially looking like is as soon
+as you link these things together,
+you're dependent on the bottom up system
+in order to get your top down visibility
+or your higher level visibility. Um, and
+the reason people do that is that
+there's just a general aversion to I
+don't want to have duplicate entry in
+our workflow. I don't want to have the
+team kind of putting the same
+information into multiple different
+places or you know entering it twice or
+I don't want these sets of information
+to sort of get out of line with each
+other or I want the information from one
+thing to flow into another thing right
+and I get that it's a nice to have but I
+think what people tend to underestimate
+is the cost and the implication of
+starting to create intrinsic links
+between these things and for example the
+moment that you intrinsically link your
+top down and bottom up forecast in such
+a way where it's like one updates the
+other then essentially what you've done
+is you've coupled everything to the
+bottom up forecast. So in order for the
+top down view or this higher level view
+to be accurate then all of the stuff in
+the bottom up view needs to be kept up
+to date and that creates kind of a bad
+situation for all the stakeholders
+involved. So the leadership team is
+going to be generally unhappy because
+they're going to be expecting something
+that is completely unsustainable from
+the project management team. And even if
+the project management team does manage
+to keep the 7,000 tasks that they need
+to keep up to date up to date in time
+for the leadership meeting, then as soon
+as the leadership team starts to have
+the conversation that they're going to
+have, which is, okay, but what about
+this and what about this and what about
+this and what about this? They're not
+going to be able to fluidly run those
+scenarios because the system's not
+designed for it. And conversely, the
+project management team is going to be
+upset because they're going to be held
+to a scope of work in the bottom-up tool
+that is completely untenable and is
+likely not creating any value for them.
+They got what they needed looking at
+like the next two weeks, but now they're
+being asked to like look out over the
+next 3 months and deal with a bunch of
+projects that haven't even landed yet
+and they're going to end up spending an
+inordinate amount of time on that. And
+so that's the cost of linking these
+things. And what's sort of backwards
+about it is the time that you save in
+like a little bit of duplicate entry in
+the systems, you're going to pay for it
+10 times over in the ongoing cost of
+maintaining the system that has now been
+designed to be significantly more
+expensive to maintain. And so I think
+that that's sort of the underwriting
+that doesn't happen objectively enough
+around this. And the utility of keeping
+these things separate is that yes,
+there's a bit of extra perhaps um
+duplication of work in some cases, but
+you're going to have two systems
+designed to do a specific job. Those
+scopes will be limited and you won't
+have dependency between stakeholders
+with requirements that aren't really
+realistic. The last thing that I'll say
+about this is there are still ways
+to create a flow of information. And I
+think that this is useful because these
+things tend to serve a purpose at
+different times in the project life
+cycle. So things will often show up in
+the top down system first because that's
+generally what you're going to use to
+deal with less mature work, meaning it's
+earlier in the sales process. And so you
+might start to like first frame it out
+and scope it out and kind of see roughly
+what it's going to look like in its
+early stages in the top down system. And
+then once it reaches a certain milestone
+like the so goes out or it's signed by
+the client or you know we have a scope
+of work that's been approved by
+management then you might trigger a
+workflow where you say okay well let's
+take what we know and push it into this
+this next system. So you can gain some
+efficiency without going all the way
+down the path of saying these two things
+are linked now and if one gets changed
+then the other one has to change because
+that is sort of like a path of no
+return. Yeah, I think that it's a really
+good point in terms of the sequencing of
+things. So, while they're not
+interconnected, um the general scope
+that's reflected in the top down
+forecast should also marry up and inform
+what's in the bottom up um you know,
+system. So, the the number of hours from
+a broad perspective that you're porting
+in um you know, from a from an
+expectation standpoint, what will this
+what are we estimating um at a parent
+task level, for example, for something
+to take? should um should all start with
+scope, get ported into our system, and
+then be handed off to the project
+manager. Yeah. And I guess while we're
+on that subject, I'll I'll speak to a
+couple of things I think are important
+here is then the worry that we have is
+the there's there's usually a person in
+the organization that has this mentality
+and these people are very useful and
+it's the kind of person who's like wait
+a second there's been some changes to
+this project in the bottom up system and
+now there's a discrepancy of 8 hours
+between like what's estimated in the
+project management system and what we
+have reflected in our top down system.
+And so they're like, "We must we must
+remove those discrepancies." And maybe,
+but if that's a 9,000hour project, it's
+not material, right? Again, remembering
+that like as long as the answer is
+precise enough at the bottom up level to
+get the question answered and it's
+precise enough at the top level to get
+the question answered, then the
+materiality of those changes needs to
+get taken into consideration. It's not
+inherent that they need to match up
+perfectly. And um you know the other
+thing that can be done there is there
+are ways that you can create summary
+reporting compare those things to each
+other catch material things and
+hopefully you've got the processes with
+things like change orders where where
+there are material and notable changes
+to the scope of work that that gets tied
+in so the appropriate systems get
+updated. But I think it's also important
+to call out that like it's not
+necessarily true that it's a problem if
+these things are not completely aligned
+all the time that there's a certain
+amount of discrepancy that is immaterial
+depending on the context. Yeah, that's a
+really important nuance. I think the
+main takeaway there is just the overall
+process which so many agencies just
+don't have you know sequentially um a
+starting point that begins with the
+scope. How does that look? what impact
+does that have at a high level and then
+you know trickle downstream effects from
+there. Um Marcel, I'm wondering if our
+um for those that are actually watching
+this on YouTube might benefit from
+seeing a visual of some of the things
+that we're talking about. Yeah. And I
+guess uh anybody that's listening this
+on audio, you just go cry somewhere
+because you've been excluded from the
+the cool demo. But yeah, I I I think
+that is a good idea. we'll just kind of
+share um what it sort of looks like uh
+to do this kind of forecasting. So, I'll
+just pull up a couple of examples here
+from our system. Um this is a shameless
+plug and if you see this and you're
+like, "Wow, this seems really useful and
+I would like to use that," then
+uh you can book a call in parakeido.com
+or using the link in the show notes.
+Okay, so I'm going to share my screen
+here. We're going to go through a quick
+demo of our system. And of course, if
+you are watching this on YouTube, or
+even if you're listening to it, maybe
+you're imagining how awesome it is and
+you want to talk to us about it, then I
+encourage you to do that by looking in
+the show notes. Um, so what we're
+looking at here is a timebased overview
+of the team, a timebased forecast. And
+there's essentially three things being
+defined here. What is kind of our gross
+capacity? So all the time that's
+available theoretically across everyone
+on the team. this dark gray line which
+shows us what is our delivery capacity.
+So all the time that's theoretically
+available for client work after we
+remove all the time that's not um that's
+allocated things like internal work or
+time off. And then the blue line is
+telling us roughly how much time is
+needed for client work in a given period
+of time. And then from that we can of
+course calculate our utilization, what
+we expect that to be into the future and
+model that against our target and see
+are we on track to you know utilize the
+team at or above where we'd like them to
+be. And then the way that we break that
+down um without going to the individual
+level is we use what we call role
+categories. So for this particular firm,
+we've defined that as design,
+development, strategy, client
+management, ad management. This could be
+anything for your firm, right? whatever
+you would categorize your people and
+time into. And then what we're able to
+do is say, okay, well, what does this
+look like for each of these individual
+areas of the business and we can combine
+them arbitrarily. So we can see here
+that like client management, we're
+properly staffed. Strategy,
+we're properly staffed, development,
+we're properly staffed, but design,
+we're underst staffed going forward. We
+need to we have a role that we need to
+fill. We probably need some freelance
+help, too. Ad management, kind of a
+similar spot. we have somebody leaving
+the team, but we we have more work than
+the current team will be able to handle.
+And so this really helps us get an
+understanding as a management team of
+like directionally where the focus needs
+to be, where we might need some some
+help and to what degree that discrepancy
+might exist. And the way that we arrive
+at this is through two simple inputs.
+The first is what we call the project
+grid. So this is just sort of a list of
+our projects. Very simple. When does it
+start? When does it end? How much do we
+get paid? and how much time do we think
+this is going to take across these
+different categories that we've defined.
+And the second is what we call the
+payroll grid, which is a similar view
+for our team. So, who's on the team,
+what category do they fall into, roughly
+how much time do they spend, and using
+that information, we can look forward
+and uh very quickly model, you know,
+what happens if somebody comes on or off
+the team or if a project does or doesn't
+come on. So just as an example, if I add
+a project here, we'll see that it just
+takes a second. And now we can model
+what it looks like if that project does
+or doesn't come on. And if I wanted to
+change the hour estimator, I I can do
+that without having to wait through a
+bunch of different tasks. And then of
+course the other component here is
+looking at this on a financial basis. So
+very similar visualization, but we have
+theoretically how much revenue could we
+earn in a given period of time. what is
+the cost of running the business and how
+much revenue do we have planned all
+driven from those same inputs. And so of
+course this sort of makes the game very
+easy which is keep this blue line above
+the red as close to the gray as we can
+without going over too much for too
+long. And if we do that everyone's
+happy. Um and so this is sort of an
+example of how we do top down
+forecasting with our clients. What some
+of these visualizations look like.
+They're very simple but again geared
+towards this leadership conversation and
+very quick ability to model things.
+Okay. So, so that was like a quick
+demonstration of, you know, an example
+of what top- down forecasting looks
+like. And of course, the main purpose of
+that is not to like sell you our stuff.
+It's to sort of try to make this feel
+tactical and objective so you can look
+like see what it actually looks like to
+do this. Um, but of course, if the
+byproduct is you think that's awesome
+and you want to buy it, then by all
+means, um, you'll be able to find ways
+to speak to us in and around where
+you're listening to this or watching
+this.
+Yeah. So, if I'm an owner or an operator
+listening to this, Marcel, and I just
+want to get started, kind of test the
+waters in formulating something like
+this on my own, where would you say a
+good place to start is? Yeah. Um, when
+you think about what a lot of what we
+just showed you is at a basic level,
+it's basically a grid. And that grid has
+two components to it. One component is
+capacity, the other component is planned
+work. And so this might the the starting
+point for this might just be to
+essentially build a table that says who
+is everybody on my team. What category
+would I put their time into? And figure
+out what is my weekly capacity let's say
+across a couple of simple buckets in the
+business. And then do the same thing
+with your projects. What are all my
+projects and how much time each week do
+I believe needs to be allocated to each
+of these different areas. And once you
+have those two tables, you can create
+the graphs that I just showed you. The
+only downside is you need to update that
+in a very similar way that you would
+update a resource plan, which is if the
+scope of the project changes, well, now
+I have to go back and update every
+single week, right? So the modeling that
+I just showed you is of course more
+nuanced. You know, it require like we
+had to write code to do that. But if you
+want to just validate that this
+visualization is helpful, that would be
+the simple starting point is to just
+sort of like build a week-by-eek grid
+that one handles capacity, the other one
+handles planned work, and maybe even
+just start with the total capacity for
+the team and the total hours per week
+for each project and use that as a
+starting point. Um, and it's very
+possible that if you're using a
+bottom-up resource planning tool, there
+may be some ways that you can kind of
+hack into that a sort of higher level
+view or some way of sort of rolling
+these things up. And I know increasingly
+some of these tools are are trying to
+make that kind of abstracted view a
+little bit more accessible. You know,
+there's mixed results on that, but um
+that that's where I would start is can
+you create a system where you're really
+abstracting this away from tasks and
+estimating at a much higher level. and
+what's the frequency that you recommend
+a team kind of maintain or check in on
+this um at it's a good question and I
+think it has a lot to do with the nature
+of their business and what I mean by
+that is if you're in an agency where you
+do a lot of like a very high volume of
+small quick turn projects then your
+cadence is probably going to have to be
+a lot tighter on this you might need to
+look at it weekly or bi-weekly whereas
+if you are in you know just to paint the
+other side of this picture if you're in
+an agency that works on massive of
+enterprise projects that take years to
+complete, you probably don't need to
+look at this quite as often. So, I think
+you have to titrate this based on the
+pace of change and the amount of
+fluctuation that's occurring both in the
+work that's being done and coming into
+the business as well as the team um
+that's in the business as well. So,
+turnover and how often your team is
+changing is also a factor you need to
+include. I would say for most firms, if
+you just started with like a bi-weekly
+cadence, that's probably a safe spot to
+start. Um, and I would iterate from
+there. So, all this is really helpful, I
+think, and a good um, you know,
+springboard for someone who maybe hasn't
+installed um, a system like this into
+their their agency, you know, maybe
+they've got bottom up and they're really
+just looking for that additional insight
+and clarity um, especially at the
+executive level. So, um, where can they
+go to find out more about Parico? Yeah,
+of course, if you want to speak to us
+and learn more about the platform and
+get more, you know, in-depth
+demonstration of how it works and how it
+could work for you, then of course I
+encourage you to book a consultation um
+here on the site, but uh or at paro.com.
+I think the key takeaway and I I hope
+what people glean from this today is if
+you've been frustrated because I think
+this is what we hear from a lot of
+people is they've spent years trying to
+close this gap and they they feel like
+no matter how hard they try, no matter
+how on top of their team they are, no
+matter how how many different tools they
+kind of switch around to that they still
+don't feel like they have the visibility
+that they crave in particular at the
+leadership level. And I hope that if
+there's one takeaway from this, know
+that it's it's probably not a lack of
+effort. is probably not a lack of
+intention or competency on your team.
+It's likely that you've just been set up
+for failure and using the wrong tools to
+try to do this job. And and hopefully
+what this has helped you um maybe
+reframe is that the approach um might be
+the problem as opposed to, you know,
+your execution. And so um my my hope is
+that it's offered maybe a different way
+of looking at this and a different way
+of approaching the problem that is
+counterintuitive in that maybe
+simplifying it is actually the right
+answer. Uh so for more information,
+parakeido.com. Yeah. Um and you know,
+we've got of course the toolkit. There's
+more there's more useful stuff in there.
+Um particular around estimation and um
+yeah, we'd be happy to speak to you if
+uh you have more questions. So with
+that, thank you for tuning in and I hope
+that you enjoyed today's episode. We'll
+see you on the next one. See you next
+time. Hey, thanks so much for tuning in
+to today's episode. I hope you enjoyed
+it. And if you've ever found yourself
+thinking, man, I get so much value from
+this podcast. I wish there was something
+I could do to return the favor. Well,
+today's your lucky day because you can
+leave us a review wherever you're
+listening to this and it is incredibly
+helpful. Of course, if you haven't
+grabbed a free copy of the agency profit
+toolkit, go and get that. It's got tons
+of free resources to help you improve
+your profitability. If you're looking to
+get in the fast lane and get help from
+experts to improve your profitability
+and measure your most important metrics,
+then apply for a consultation at
+paro.com. We'd love to chat with you and
+figure out how we can help. With all of
+that, thank you so much for being a
+listener and we will see you on the next
+That's

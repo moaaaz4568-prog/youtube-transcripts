@@ -1,0 +1,253 @@
+today we're going to be turning any PNG
+into a spinning 3D logo with the help of
+blender and Adobe Illustrator now if
+you've never used blender before don't
+worry this is a beginner friendly
+tutorial if you've got any questions at
+all drop them in the comments and I'll
+make sure to respond to every single one
+take our PNG logo this could be a PNG of
+any logo um if you have an illustrated
+file that's better but we can do it just
+fine with this so we've got our logo
+here we're going to click image Trace
+okay now if you have multiple colors you
+might have to play around with the
+settings here but if it's just black and
+white it should be fine with default
+then we're going to click expand ungroup
+and we're going to delete this
+background then we're going to make sure
+that we also delete any bits in the
+middle now we're going to select it all
+group make it a little bit larger so now
+that we've got the logo as a vector
+we're going to go to window 3D and we're
+going to click extrude now you can't
+tell because it's jet black so let me
+just quickly change the color to gray
+but what extrude does it makes it
+elongated whereas if you click inflate
+what will happen there it makes it 3D
+puff so if you want to do it as an
+inflate you can click click inflate as
+both sides it will look like this if you
+want to do extrude you just click
+extrude you can mess around with the
+depth see how wide you want it so for
+the sake of this video we're actually
+going to go with the inflate effect
+we're going to reduce the depth cuz that
+looks too big let's see how that looks
+happy with that you don't need to worry
+about the color now we're going to
+change that in blender so we click the
+logo click window and go to asset export
+here we're just going to drag it into
+this little box and then we're going to
+change the format to obj we just going
+to export that to our desktop now we're
+just going to open up blender and we're
+going to continue over there when you
+load up blender you'll see this screen
+if you've not used it before I will walk
+through exactly what I'm doing hopefully
+you won't get lost along the way first
+we're going to remove absolutely
+everything in the scene I'm just moving
+around here with the magic Trackpad with
+two fingers and I'm just going to drag
+over it all and click X to delete so now
+we want to add our logo into blender
+we're going to go to file import and
+wfront obj and then you'll see an obj
+folder where the logo is saved we're
+going to double click that and we're
+going to click the obj file as you can
+see we've got a logo here and it's a bit
+too big so we're just going to zoom out
+and then pressing s we're just going to
+bring that right
+down that's s on the keyboard now on
+your keypad you want to click one and
+that'll take you to the front and then
+you can just zoom in to the logo now we
+are going to lift it slightly up so
+we're going to click G on the keyboard
+Zed on the keyboard and we're just going
+to raise that up slightly just so it's
+above the red line that's going to be
+our floor now zooming out we're going to
+click shift a and then we're going to go
+to mesh and we're going to hit playe and
+then again we're going to click s and
+we're going to just drag that out now
+looking around we're going to click the
+tab button now I know there's a lot of
+buttons that we're pressing then we're
+going to click this top corner here hold
+shift click this corner here and then
+we're going to click e and Zed on the
+keyboard and we're just going to swipe
+up with the mouse that will create our
+background now we can look around and we
+see that we've got our logo and we've
+got our background we're just going to
+click these two corners now and then
+we're going to click command B and what
+this is going to do is going to Bevel it
+drag it bit then we'll click command B
+again drag them out a bit more and then
+we'll click command B one more time and
+just drag it about halfway so then we
+have this curve background now rotate
+around we're going to zoom out and we're
+going to click Tab and then we're going
+to right click this background and click
+shade smooth that's just going to smooth
+it out now we'll click one on the keypad
+to face the front and we'll click shift
+a we want to head down to camera to add
+a camera this camera will be in the
+wrong place so zooming out we want to
+click g y and then we'll pull it right
+back now as you can see the camera is
+still not in the right position so we
+need to click g z just to bring it up
+and then to see what's inside the camera
+you want to click zero on the keypad so
+as you can see we have got 16x9 frame we
+don't want that so heading over here to
+our output settings we want to change
+that to 1080 x 10 1080 if you're working
+with Tik Tok or Instagram reals then you
+want to change that to 1080 by 1920 but
+for me I'm just going for an Instagram
+post here so 1080 x 1080 is fine you see
+the camera is still not in the right
+place what I'm going to do is click this
+Arrow here at the top I'm going to go to
+view and click camera to view now what
+this is going to do don't touch anything
+yet whenever you move your mouse at all
+now that is where the camera is going to
+face so we're just going to zoom in and
+not tilt it any other way
+so we're just zooming in here and now we
+look a little bit high up so holding
+shift we're just going to go slightly
+down cool we're going to untick that box
+now and now we've got our logo position
+well with our camera the next thing you
+might be thinking is these colors are
+not the colors that we're after what
+we're going to do here to remove the
+color we're going to click the logo and
+we're going to go head down to materials
+here and we're going to click minus on
+all of these materials now that's
+removed all the materials let's click
+new material there's many tutorials on
+YouTube if you want specific material
+for your logo for example gold silver
+for this video we're just going to go
+for a basic color we want it to be a
+little bit metallic so we'll increase
+that and then we're going to decrease
+the roughness which is pretty much the
+opposite of metallic to see what our
+logo looks like we're going to hold Z
+and we're going to go down to material
+preview now this is the preview of the
+material so far so as you can see it's
+still pretty basic so depending on what
+color you want your logo we'll change
+that here so I'm going for an orange and
+then you can click zero to see what that
+looks like still want change it slightly
+let's play around with the metallic and
+roughness so obviously more metallic you
+go the more Chrome like it will look and
+the rougher you go the flatter it'll
+look we want to go somewhere in the
+middle there looks good and we're going
+to click the background and we'll do the
+same again so we'll click new and then
+we're going to keep the background white
+which going to increase the roughness
+and slightly increase metallic now that
+we've got our logo we need to animate it
+we want to do is click on the logo and
+head over to animation here you can see
+the logo in two different frames so
+we'll click zero just to see it and then
+at the bottom here you can see we've got
+a time frame with key frames so this is
+250 frames long you want to change that
+you just head over to output and then
+you can change the frames to whatever
+you like so if you want 3 seconds it' be
+90 if you're doing 30 frames per second
+so we'll do we'll just do 90 for now and
+we'll change it to 30 frames per second
+if you want a transparent image as your
+logo and you don't want the background
+then you need to leave this rgba ticked
+but where after a format today so we're
+going to change that and then this is
+where you save it to so you just click
+there and we're going to save it to our
+desktop and then down here we need to
+change this so we'll keep that as
+h.264 and then we'll change that to
+perceptually lless and we'll change the
+container to EG
+4 so now animation we're going to click
+the logo and we're going to click I and
+then we're going to click location and
+rotation then I'm just going to click
+this little AR Arrow here and we want to
+rotate it on the Z axis let's go for
+three spins which is three lots of 360
+in the Z axis we'll put 360 * three
+enter and then we'll click I and that'll
+create our key frames and then selecting
+these two we'll right click and go to
+interpolation mode and then we'll change
+it to linear y so it's looking nice so
+far let's have a look what it looks like
+when it's rendered so we'll hold set
+down and we'll go to material preview
+looking good and then if we go to
+rendered you'll see that it's still too
+dark so we need to do next we're going
+to go back to layout and we're going to
+add some lighting in here so I'm just
+zooming out here and I'm going to hold
+shift a and let's find the light and
+we're going to go for an area light and
+then clicking g z we're going to lift
+that directly up and pressing s we're
+going to make that a lot bigger and then
+over here in the light settings going to
+change the power to 200 now let's see
+what that looks like when we press zero
+through the camera and press in Z
+rendered this is what it looks like so
+far depending on your computer you can
+go over to render engine and change EV
+to Cycles now Cycles is better quality
+but takes a lot longer to render however
+the results are Miles better so I'm
+going to change my CPU to GPU and I'm
+going to change the max samples to 120
+now I'm going to click motion blur as
+well and now let's see what it looks
+like as you can see that's the Cycles
+pixels CU it's got to render each image
+sometimes it's better previewing it in E
+just you can see what it looks like then
+going back to Cycles if you're happy
+with it I'm going to head over to render
+and I'm going to click render
+animation

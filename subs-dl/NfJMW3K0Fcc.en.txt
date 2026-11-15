@@ -1,0 +1,699 @@
+I have been standing with my square peg
+trying to fit it into someone else's
+round hole for far too long. And today
+is the day that stops. I've built a
+square hole and I'm so excited by it and
+I'm going to show you today on this
+episode how I have built my own members
+platform and how you can do it, too.
+There's loads of really great solutions
+out there like School, Mighty Networks,
+Teachable, Kajabi. There's endless
+options out there if you want an
+out-of-the-box solution to build a
+course or community or platform of some
+kind. But if like me, you've got an
+imagination and you've got a reason that
+you built this platform or you want to
+build it and you've got a customer
+journey in mind that you want to create
+or you've got like marketing ideas or
+there's a feature that you think would
+be incredible and provide an amazing
+service to your members and you're hit
+by the friction of oh, no, can't do
+that, it's not possible on this platform
+again and again and again, you might
+have the same syndrome that I had and
+that is platform hopping. I am a
+well-renowned platform hopper amongst my
+friends, but every time you go
+this platform doesn't give me what I
+want and you change platform to go after
+some features that are available on that
+platform, you lose some features that
+were available on this platform and you
+also lose some members because people
+don't like change. They don't like
+changing platform. So you really got to
+take that into consideration. Is this
+platform hopping worth it? Is that
+change worth it for the long term
+because I'm going to hemorrhage 50% of
+my users. Like is it going to be worth
+it? And you also lose some features that
+maybe you didn't realize at first and
+you lose a bit of momentum and it's a
+bit like starting again because you've
+got a whole new learning curve not just
+you, but try educating your team if
+you've got one and also 50 members on
+how to use a new piece of software. It's
+It's not the most fun experience for
+anyone involved. And um I think that
+platform hopping is really just a
+symptom of not having full control over
+what platforms look like or feel like or
+how they're built because they're mass
+market solutions. Let's take Kajabi for
+instance. It has been built with the
+mass market in mind. Every course
+builder, every course creator, every
+body that wants to build a course and
+and and and sell it, Kajabi has been
+built for all of those people. So your
+specific idea doesn't fit into what they
+have
+built very easily. And a lot of them
+don't give you many customization
+options. And that was one of the reasons
+why I wanted to move to Heartbeat
+because I was like, "Oh, they they allow
+a lot of customization." Which is really
+cool. But in the end, I've decided to
+build my own. I mean like I've rebuilt
+my entire ecosystem. I've built my own
+CRMs. I've built my own course software.
+I've built my own app. I've built my own
+live show management system. I've
+basically built my whole business
+ecosystem of software myself now, which
+is incredible because it means I don't
+have any restrictions anymore. And it
+it's like total freedom. But what we're
+going to focus on today is the
+membership piece because often, when I
+want to like run a membership or a
+course or something and I want to use
+that course software, it just doesn't
+have what I need on it. And and it it is
+really frustrating. It and it's
+literally like going to a sofa shop and
+ordering a sofa cuz you like it. I'm
+going to have the sofa and then you get
+it back to the house and you can't get
+it through the front door. You know,
+it's just an impossible situation. And
+so having the ability to create your own
+platform takes away all of that. But it
+does add a bit of tech. Like there's a
+bit of there's a bit of tech headache to
+be had, but it's not that bad. And so
+what I want to do today is show you
+exactly what I've built. I'm going to
+show you the school platform and what
+that looks like and then share with you
+my vision because a few weeks ago we
+actually built this out live on the show
+this vision that I had. I'll link you
+into that video here where you can go
+and have a look at how we planned all of
+this out and then I'm going to show you
+what I've built and if you stick around
+to the end, I've got a really awesome
+thing that I'm going to give you that if
+you want to build your own, it's going
+to take so much of the legwork out. And
+I'm not here to on any platform,
+right? Like School is awesome, Go High
+Level is awesome, like all of these
+solutions are great because what they
+enable us to do is to get out there and
+start building something quickly and
+that's what we need to do. We need to
+build as we fly and we need to be able
+to go, "Right, let's see if this sells."
+What I I'm not an advocate for is you
+now using this, what you learned today
+on this video, as a reason to stall
+putting your idea out there in the world
+for another 6 months because you don't
+need to build your own platform in order
+to start making sales and building a
+membership. This should be your kind of
+next stage. Get proof of concept first
+and then build a platform behind it.
+With me with the School community, I
+have got currently 45 members. They're
+all dropping off now because they're
+moving to the new one moving into the
+new one, but I've got 45 members in
+there. I think I've had a total of 80.
+I've had 50% drop off. I'm surprised not
+more dropped off. I'll show you why in a
+minute. And so I'm like, "Okay, well
+this sells, right?" So it makes sense to
+invest in building something for the
+long term, but if I've got absolutely no
+proof of concept whatsoever. But I don't
+know if people buy it. I don't know if
+people want it. Then there's no point in
+spending all this time in the pre-build
+because it's just it could it could just
+be the thing that causes you to delay
+getting results and I don't want that
+for you. So, I'm going to jump in. Okay,
+so School community, here it is. We're
+talking about infrastructure, building
+your own home and it's the difference
+between renting someone else's house and
+deciding you're going to buy your own
+house. It's
+equally a big decision, you know? You've
+got to decide whether you want the
+ability to customize everything, to
+build an extension, to paint the walls,
+to change the carpets. And that's
+exactly what this gives you. It's like
+having your own house instead of renting
+someone else's. So, this is Strategy
+Geeks Inside School. This is me renting
+somebody else's house, which means I am
+at the helm of whatever shape it is.
+Already. I can't change any of this. It
+just it is what it is. And maybe that's
+something that's coming soon. Maybe
+customizable multi-tenant SAS software
+for community whatever, but I ain't
+hanging around for it. Um so, look,
+here's the problem is that what this is,
+this community, is a resource first and
+a community second. So, because people
+aren't joining the school community to
+join a community, what they're joining
+for is what I've put in here in the
+classroom. So, every episode of my show,
+I create a full-blown step-by-step
+playbook off the back of it. And what
+that means is, let's say I've done an
+episode on making everything look on
+brand with AI. So, like you know when
+you go and make AI visuals, how to make
+sure that every output you get is on
+brand for your business. So, you haven't
+got back and forth, "That's good, but
+it's not pink enough." Or, "It's not me
+enough." And this you know, you've got a
+prompt that you can use every single
+time to make everything on brand.
+Simple, easy done. Now, I'll walk you
+through it on the YouTube channel, but
+then I give you a downloadable that you
+can grab. This downloadable is the
+reason why people are joining the school
+community. But the problem is is if we
+if we looked at this on incognito mode,
+you would be able to see that this is
+the page that we land on.
+So, someone wants that PDF and they land
+on this page. And then what happens is
+that they get their 7-day free trial in
+order to get cuz I want everybody to be
+able to get them get a resource for free
+once at least, you know,
+it's not a total paywall. So, they get
+their free trial, they set up, they come
+in. Where do they land next? Here. At
+this point, can they remember what they
+came in for? Do they remember what the
+name of the PDF was? Can they remember
+what it was even about? If they are
+anything like me, they have forgotten
+all of the above and they're now looking
+at this community going, "Oh, cool.
+There's a community here." And they're
+seeing there's a few likes and a few
+messages, but because there's not
+hundreds, it kind of looks a bit dead.
+And so, the first impression is a
+slightly dead community, because it's
+going to be uh there's only 44 members
+in here right now. And you need your 10
+chatty Cathys who get like proper
+addicted to the platform for it to feel
+alive. That's all you need, by the way.
+Does You don't need hundreds of people.
+You need 10 chatty ones, and it'll feel
+alive as hell. We've got a couple of
+chatty ones in here, but we don't have
+10. And And you know, like I'm not even
+in here that much, because it's not
+serving the purpose. I've got friction.
+I'm feeling the friction. And so, it's
+kind of coming through, and that's the
+first impression, a slightly dead
+community with posts. Okay, so even if
+they then work out, okay, well, maybe
+what she offered me on that video is in
+the classroom. And they come into the
+classroom, and it's like, "Fuck, there's
+so much stuff in here. Like, which one
+is it?" Um and then, you know, if they
+work it out that they've got to click in
+here, and then it's on here, then even
+at that point, it's only at the bottom
+in a teeny tiny little hyperlinked
+thingy what's it, right? So, for me,
+when I look at the like that is
+counterintuitive as an experience. And I
+have no idea how the churn has been so
+low. I would have thought people would
+leave a lot more than they have. The
+other thing is that you've then got We
+We had events happening. The show
+advertised here with a link to go to on
+YouTube, but you haven't got many
+characters that you can put up in here.
+I don't think that looks very exciting.
+I don't look at that and "Ooh, I'm so
+excited to go to these events." I think
+this list view looks better, bit more
+exciting. And we go back, so you can see
+in time. That looks a bit better. But
+yeah, it's just not how I would design
+it personally. So, we've got the
+community, which, you know, and the
+leaderboard stuff, I mean, is is quite
+cool. They do leaderboards, and there's
+a bit of gamification, and that's quite
+cool. Um but there's just, you know,
+posts. They're all a bit archaic,
+really. I mean, you've got these little
+square images. It doesn't It's not a
+nice big image. Even when you click on
+it to open it, it's just like an
+attached square. But there are people
+that have got thousands upon thousands
+of school members running successful
+school communities, smashing it, you
+know, and and and I I think it's a great
+platform for what it is, but it just
+doesn't meet what I am trying to create.
+So, my vision and what I had in my head
+is I would have it so that off the back
+of an episode, you click on to go and
+get the show notes, but the show notes
+is the landing page. And then when you
+sign up, you land on the show notes page
+with the video there, the show notes on
+the page, um and then everything you
+need a downloadable, all the prompts,
+everything just there on the page. And
+then we've got the events and the chat
+room and everything on the menu tab, but
+that is the front door and the main
+event, because that's what people are
+coming for. And so, I'm so excited to
+share with you um my new community that
+I have built. And and then I'm going to
+show you how I've built this, but in a
+really simple non-techy way, because you
+don't need to be techy these days in
+order to build something like this. You
+just don't. Like the the barriers that
+were there and are down now. A mentor of
+mine, back in the day, you know, built
+this incredible app for a company that
+he was running, and it was a community
+and education tool, and it was going to
+be the modules, and it was going to
+replace needing a Facebook group, so you
+have this, you know, community platform.
+And and and it was expensive. Like the
+cost of building your own app was
+expensive. Like you could easily be
+spending anything between 100,000, half
+a million, and more in pounds on
+building your own custom app, and it
+would take months, right? You need team
+of developers, it costs a hell of a lot
+of money, you're hoping that when it
+comes to you, it's going to be the right
+shape. Then you've got the cost of
+teaching all your members and teaching
+all your staff how to use it, and you
+know, just an absolute colossal amount
+of money went into building this thing.
+And as a member of that platform myself,
+I just preferred Facebook group. The
+Facebook group was where everything was.
+Like it was alive in the Facebook group
+and it was kicking, you know, people
+were commenting. It was like really busy
+and buzzy and then you go into this app
+and it was wasn't the same experience
+for me. And I just felt baffled by how
+much that had cost. And you know, the
+the barrier has been so high for us to
+be able to build our own custom things.
+The barrier is gone. You do not need to
+be techy. This is not about building
+infrastructure. This is about finding
+developer tools that you can just build
+a user interface on top of. So I haven't
+built my own
+database. I'm not building my own
+hosting provider. Like I'm using
+developer level tools and I'm just
+building custom user interface on those.
+So all my data is secure, everything is
+compliant, everyone's information is
+safe. I'm using Stripe to take payments.
+I've got Clerk, which is a really
+awesome
+um sign-in tool that with that stores
+all the names and passwords. I don't
+manage that, right? It's all secured
+safely in Clerk and I just pay for that
+as a bolt-on. And at at the end of the
+day I'm probably spending less than 50
+pounds a month to run the membership. So
+it like it's profitable with a few
+members in it, but I've actually got a
+few different apps, so I'm split that
+split across a few apps. It's even
+cheaper, which is cool.
+But my point is is that I've got Clerk
+for the login. I've got Neon for the for
+the secure database.
+I've got Resend, which is a developer
+level email sending tool. And then I'm
+I've got Vercel, which is basically
+hosting. You know, like WordPress is
+hosting. You can host an app on Vercel
+and everything runs through that. And
+then I've got GitHub, which is like
+storage for your code. So I'm using
+tools, but I'm just building a custom
+user interface and you can 100% do the
+same. It's like being given a box of
+LEGO now and you You just build anything
+you want. And hey, the pieces aren't
+even all square. Like, you could build
+anything. You just got to have an
+imagination. The thing that's been hard
+is like the ability to actually bring
+that into fruition. Okay, so let me show
+you. Welcome to the Solopreneur Show
+members area. And just as I explained,
+so off the back of the show today, we're
+going to have Solopreneur It's episode
+33. And click on 33, and it takes us to
+the show notes for today's show. I
+actually left school. Here's the
+membership hub I built. And it says
+here, landing Wednesday, 16th of
+September. Okay, so the implementation
+guide will be here, and that you can
+unlock the guide for free for 7 days. It
+tells you everything that you get in the
+guide. So, spoiler alert, what's going
+to be in this guide is the Claude skill
+to build your own membership site based
+off of the entire conversation I had
+with Claude to build this platform. Mine
+is so you won't have like the branding,
+Solopreneur Show, and all that, but
+you'll you'll be able to basically
+custom build your app with the same
+tools that I'm using and everything with
+that skill. But anyways, this is the
+landing page for the membership. So, you
+land on here, and then you can unlock
+this guide for free for 7 days. I click
+on that.
+So, here we go. We have This is now the
+logged in site. So, ignore the studio
+part. This is sort of admin area, right?
+Um but everything here is what is
+included in the membership. So, if I
+click on show notes, that takes me to
+all of the show notes. And you can look
+at last week's episode, which was about
+how I prepare for public speaking
+without memorizing a script, for
+instance. Um you can see what's inside
+this guide, and you've got the whole
+thing mapped out here so that you can
+copy like for instance, every template
+or prompt or anything to for you to just
+grab and put into Claude. And you know
+what? You can even save the full
+transcript and put the transcript into
+AI. Um that's what that transcript is
+there for and what you might want to use
+it for. Like, "Oh, Coudili gave me this
+great strategy on the show this week.
+Help me with it." blah blah blah. And
+then you've got the PDF, which is
+essentially um the whole Basically, it's
+this page printed into a PDF so that you
+can download it, print it if you want,
+or just have it on your computer. And
+yeah, so every single episode has its
+show notes here and it's just so simple.
+It's {forward slash} 33 for episode 33,
+etc., which is really, really cool. And
+then, what that means is that I am now
+fully in charge of the customer
+experience. Because when people are
+clicking on that, so if we go to YouTube
+channel and I click on this one for
+instance, I built and sold a digital
+product with Claude in one day. In the
+notes here, you've got the full show
+notes link here that takes you directly
+to that specific set of show notes for
+that specific episode. And School just
+couldn't do that for me. So, have a
+think. Like, what do you currently want
+your experience of your members to be?
+And you can't provide that because of
+the shape of the system that you're
+using. That's a good enough reason for
+you to build your own platform. Because
+you can literally design it however you
+want it to be. A couple of examples of
+that were like The first thing was I
+remember being on Mighty Networks and I
+wanted to have an abandoned cart
+process. Whereas if someone wants to
+leave, we then had a pop-up that was
+like, "What's your reason for leaving?"
+And if they click on, "Oh, financial."
+We give them a couple of months for
+free, right?
+Not not a possibility. Or we want to
+sell a bundle of courses. If you buy
+this course, you also get this course
+together for a
+Way too complicated. Like, computer says
+no. Um tracking is another one. Like, I
+want to be able to see who's clicking on
+what and who's buying what from where
+and what emails converting and da da da.
+Computer says no. It's like
+why are these things not available? Like
+why is it not possible to do these basic
+marketing things that would just be
+really awesome? And that was why I was
+going to move to Heartbeat, because
+Heartbeat was going to allow me to
+basically create whatever marketing
+strategy I wanted. And this is a
+problem. Like if your marketing strategy
+is being dictated by the platform you're
+on, honey, it's time to leave.
+It's time to build your own thing um
+because that shouldn't be your thing.
+Like we shouldn't be molding our
+business to another platform. In fact, I
+would go as far as to say if you are
+molding your business to another
+platform, you are basically working for
+them rather than them working for you.
+You you're basically on payroll. You're
+working for them because you are keeping
+them in bread and butter, but you are
+sacrificing the sales and the customer
+experience that you could be making if
+you didn't have your own thing. And I'm
+not passionate about this. I'm not about
+to sell you anything, okay? This is just
+me saying like you have the freedom.
+You know, you have the right to build.
+So like um you can you can you know
+you're able to do it now. Uh but yeah,
+so the next thing is the Cloud Skills.
+And look, I've already got in here the
+one that I'm giving to you off the back
+of this, the membership platform skill.
+So if you plug this skill into Cloud,
+basically you're going to start going
+through and creating a big plan for how
+your membership area will be. So you can
+The stage one is planning. You got to
+get the architecture right cuz if you
+don't get the architecture right, you'll
+end up building something weird cuz I've
+been there, done that. It's so Well, if
+you get the architecture right first,
+and I I don't mean getting into the
+details because I'm somebody that I
+can't I can't sit and plan out the
+details in advance. I'm like, right, I
+need to get in and get my hands dirty. I
+can't sit here forever like mapping out
+what color buttons are going to be and
+all the finer details. You just need to
+get the building blocks in place. Like
+what What is the frame? What is the main
+frame in the architecture of it? And and
+then when you get onto it, and you've
+built that out, then you can, as you go,
+just like start defining and tweaking
+and and and changing the actual details
+as you like. And so, the the structure
+and the frame is what I was explaining
+earlier with it's like what email are
+you going to have
+Clark, what email sender are you going
+to use? What What are you building on?
+What's the hosting software? And then,
+what's the general shape of the
+platform? Like, what do you want the
+home page to be? Exactly, what's the
+experience? How do you want it to serve
+your people? And then, like admin area,
+that's important. I built a one without
+an admin area before, and that was
+confusing. I was like, "How do I see all
+the things?" Um so, just having that
+structure down is is basically what
+you've got in this skill. And by the
+way, to get access to this skill, all
+you need to do is come to
+solopreneurshow.com/33.
+You will find that in the description of
+this video, but you'll be able to jump
+into Claude's skills and grab it um
+directly from here and input it into
+your computer. And there's a little
+video here on how to install a skill,
+just in case you need some support with
+that. So, yeah, that's the Claude
+skills. Then, events-wise, we're going
+to have members' live Q&A session um
+every couple of weeks. You can just come
+and hang out with me on Zoom. If you've
+got a question, you can ask it. If you
+just want to hang out, you just come and
+hang out. It's just really fun. But
+also, I'm here to support you and ask
+questions. And then, look down here in
+the chat. This is a dead giveaway that I
+am a '90s kid because I was born in the
+days of MSN Messenger. Um here we have
+the chat.
+Boo! Um which is really, really cool. It
+is basically built out a little bit like
+an old-school chat room with some modern
+quirks. And one of the things you can do
+is stick a little forward slash in
+there, and it comes up with some uh some
+commands. And I can um I can click a
+send a wave. So, look, this is going to
+be the place to come and procrastinate
+in between the serious tasks that you're
+getting done, okay? We're going to be
+hanging out in here. I'll keep checking
+in. And then finally, this is the thing
+that I really wanted that is going to be
+game-changer. So,
+all the Q&A's that we run have a
+transcript attached to them, and all the
+videos have a transcript attached to
+them. So, all the videos that we've done
+here, there's 32 episodes here. Every
+one of these has got the video, but also
+the full transcript and PDF and also the
+show notes, right? So, every single one
+of them has got quite a lot of
+information. And then there's also going
+to be the Q&A's. The Q&A recordings will
+have a transcript with them as well. So,
+you will literally be able to pop into
+search and go, "How to get clients on
+Facebook?" And if that's been covered
+anywhere, it's going to search the
+system, and it's going to come up with
+some suggestions for what you should be
+looking at. To get clients on Facebook,
+start by leveraging your existing
+connections, use your personal profile
+to engage with your network, blah blah
+blah. And look, it takes says building a
+warm audience before running ads, a full
+strategy there. And there's also
+have to turn your Facebook profile into
+a lead generation funnel. And so, just
+basically you can ask questions, it's
+going to search the whole archive. So,
+this is the Solopreneur Show members
+area, super excited about it. And I just
+hope that it gets you thinking what your
+members area could look like for your
+business, for your community. So, you
+just imagine like what could you create
+for your business? What is your thing?
+What what do you want to build? And all
+you need is a Claude account. I don't I
+can't get on with Code Deck very well in
+the same way. It's slow, it's clunky. I
+prefer Claude personally. Claude Code is
+really awesome for this. And if you've
+got a Claude account, that's it, that's
+all you need. Even if you're on a lower
+account and you can only do a little bit
+a day or a little bit every 5 hours, you
+just have it set so you just come back
+to it. This has been a side project for
+me. I just build it on on the side as
+just something that's fun to do, you
+know? Um
+and then I am here on the Q&A's to give
+you some help inside the Solopreneur
+Show members area. Come and join. You'll
+be able to jump in and join the next Q&A
+and get some support if you need it.
+I've built quite a few different apps
+and sites now and like I say my whole
+business is
+AI and human
+AI dual managed and built.
+So I've got got a bit of experience with
+how to how to do these little bits and
+pieces now.
+There's the link to the Solopreneur Show
+site there. Do come on over and come get
+involved in
+everything else. But also if you want
+the
+skill that I've put in there that you
+can just plug into Claude, then that is
+sitting inside the Claude skill section
+in the new members hub. So lots of love.
+Have an amazing rest of your day and
+please do come and show me what you've
+built. I would love to have a look. It
+is literally like getting to look at
+other people's Lego. Like what are you
+building? What are you I'm nosy like
+that. I love to see what people are
+building. It's so much fun. And you can
+literally build anything. Like the
+possibilities are endless. So what are
+you going to build? Come show me. I
+would love to see it. Have an amazing
+rest of your day guys. Lots of love.
+Speak soon. Bye.

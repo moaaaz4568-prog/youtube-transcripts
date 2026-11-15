@@ -1,0 +1,429 @@
+I've been using Claude Code and Codex
+and every AI tool imaginable to write
+all of our cold emails. And it's not
+going to be in the way that you think
+about it. We approach it extremely
+differently from probably anybody else
+you've heard before. And this isn't just
+to generate random copy, but it can read
+through hundreds of thousands of emails
+we have sent for all of our clients or
+even just a single client, figure out
+exactly which copy elements are actually
+booking meetings or getting sign-ups,
+and then have it write new campaigns
+based on what those numbers show. For
+just one of our clients, we analyzed
+708,000 emails and found that one
+subject line alone was responsible for
+nine out of every 16 meetings that could
+be traced back to a campaign. So, I
+wanted to record this video to show you
+how you can do a lot of these things
+yourself, how we think about it, and
+hopefully you can understand how to
+maybe use AI on a daily basis for pretty
+much any workflow you can imagine. It's
+just being applied to copywriting at
+scale. And so, I want to record this
+entire process and how it's helping us
+generate tens of thousands, hundreds of
+thousands, even a million dollars for
+some of our clients per month just from
+cold email. So, let's dive in. Now, let
+me give you an example of one of our
+clients. Everstage is an AI-powered
+incentive compensation management
+platform. We've been running cold email
+campaigns for them for about 3-4 months
+now and have built up a significant
+amount of data. In one specific cohort,
+we sent over 700,000 emails for them,
+and right now we're sending over 1
+million emails per month for them in a
+very, very fruitful uh partnership for
+both parties, and we're both really
+happy with the results that we're
+getting them. The reason we're able to
+do all of this is because of a platform
+called Outbound.io.
+It's our own internal analytics platform
+for everything we do at Sales Automation
+Systems. Now, I did co-found it with a
+couple of the guys over at a development
+agency called Stimuli. They are
+literally some of the best developers
+I've seen in the entire world. The
+reason that I bring it up is that when
+you're using Claude Code and you're
+using Codex or any of these tools, they
+are only as good as the tools that you
+are able to get them. You see, most
+people running cold emails lose all
+their data the second they stop paying
+for their sequencer because platform
+like Instantly and SmartLead actually
+own that data. And so, when a client
+leaves, that you have to shut down that
+Instantly workspace, you don't have that
+data anymore. You can't pull anything
+out of there. Additionally, you'll get
+hit by their API rate limits and things
+like that. And also, you're probably
+going to be hitting those platforms a
+lot just from your day-to-day
+operations. And so, hitting it more when
+you're trying to do analytics is very,
+very difficult uh from those platforms.
+So, for example, when we did a huge
+project for Fixer, we were sending 9
+million emails a month for them just a
+year ago, I still have all of that data
+still. I can analyze it at any point in
+time for any of our clients. Anyways,
+that's why we built an our internal tool
+Outbound. I actually hired Stimuli to
+just build it for me, and then it became
+so powerful that they were like, "Hey,
+can we like give this to other people?"
+And they really had to fight to convince
+me because it gives us such a such a
+huge competitive advantage. So, anyways,
+I'll show you exactly how I used that
+tool. I'll show you an exact
+conversation that I had with Claude Code
+and Outbound. We'll be able to go
+through my copywriting process and the
+whole nine. And it's really great
+because Claude Code can just connect
+directly to all of our data and query
+all of the real numbers whenever we
+want. So, that is truly what makes this
+whole workflow very possible for us. All
+right. So, here is a bunch of
+information, a snapshot, if you will, of
+everything that I did in a session
+earlier with uh Claude Code. I would
+show you the exact uh session, but
+unfortunately, Claude Code does this
+thing called compaction, and you can't
+scroll past [music] long enough in the
+history, like it just blocks you. So, I
+wasn't able to show you the whole thing,
+but what I was able to do is say like,
+"Hey, can you extract that entire
+conversation that I had and get a really
+good summary?" I also have this pretty
+cleaned, so I don't share um any like
+non-anonymized like client data and
+things like that, but I can't, of
+course, talk about Everstage and what
+we're doing for them. I just can't talk
+about their data. So, some things will
+be anonymized in here, things like that.
+By the way, if you want to copy these
+files, they're going to be down in the
+description below for you, so you can
+just read through them cuz I don't know
+about you, I kind of suck at like
+reading stuff on a screen when I'm
+watching a video. So, this is mostly
+just proof here, so you can know that
+like, "A, I actually had this
+conversation. This was something I
+actually did." and just sharing it with
+you. So, what I did is I opened a
+session, pointed Claude Code at
+Outbound, and scoped it into everything
+we had on Everstage, right? Here, I'll
+just like, "Hey, what MCPs do you have
+access to?" Said, "Cool, here's
+Outbound." I go, "Rad, for Outbound, can
+tell me everything that you can do with
+it." Goes, "Yep, I can do all of these
+things." I go, "Great." And then I said,
+"Awesome, let's scope it into client the
+client Everstage. Can you give me an
+analysis of what gets them the best
+results?" And so, it analyzed 700,000.
+This was early on in our relationship,
+in the first month. 708,000 emails
+across 16 different campaigns, 30-plus
+variants of campaigns, and produced a
+full performance breakdown for you. And
+so, over here, you can see that this is
+that exact breakdown that it gave me. It
+gave me everything having to do with
+like, "Cool, here's what's really
+standing out. Here's the CTAs that are
+working well. Here's the opening type.
+Here's the subject lines that are
+working well. Here's the types of value
+propositions that are working well. And
+here are these results, right?" And we
+could completely see like, "Okay, this
+is a massive outlier for what we're
+doing cuz it's immediately getting the
+client like nine meetings." Which also,
+one of the features of Outbound is that
+it has a system where our clients can
+set up a data stream to us with their
+CRMs, so they can send us all of the
+data in real time on like their meetings
+booked, uh sign-ups on their websites,
+paying customers, so we can actually
+have this type of data. Early on, we
+could have optimized based off of these
+campaigns. I had a better reply rate,
+but this one or or this one, right? Like
+this one looks really, really cool,
+right? Like if we just had a reply rate,
+it's great. It's a 3.3% reply rate.
+We're doing so good. But, it only
+generated two meetings off of 58 cents,
+right? And here, we had nine meetings
+off of 152 cents. And so, that's why
+this this data is really, really
+important. So, I put all of that
+together. I was able to go through
+everything. Anyways, this analysis you
+can view it in the description if you
+really want the thing, but I'll kind of
+get back into how to think about this
+stuff. That was, you know, 708,000
+emails across 16 campaigns, 30 variants
+from early February. There was over
+12,000 total replies, 47 positive
+replies, and 52 meetings booked. And
+that number's higher because a lot of
+our prospects will forward the email to
+somebody else or they'll just go to the
+website, look around, and they'll be
+like, "I'm just going to book a meeting
+here instead of replying back to an
+email." That happens all the time. The
+first thing that jumped out in this data
+was that one campaign was doing almost
+all of the work, right? Sprint one,
+competitor in positioning makes variant
+four, had 52,000 emails sent, nine
+meetings booked. That single campaign
+generated more meetings than any other
+campaign combined. And the subject line
+was waiting on commissions data. So, the
+job became figuring out exactly why that
+one was working and what it had in
+common with everything else that
+converted. Then, when Claude Code dug
+into the copy elements driving meetings,
+here's what it found, right? Said, "Hey,
+with with those CTAs." So, when it came
+to the call to action type, an interest
+check CTA booked 14-plus meetings, while
+a soft meeting ask with CTAs only booked
+two. Which that's a question we get from
+clients all the time. Shouldn't we
+directly be asking for a meeting? Well,
+when you directly ask for a meeting, you
+only get two. When you do an are you
+interested check, you actually get 14
+meetings. So, just doing like the little
+extra effort will 7x results. And once
+again, you wouldn't know this if you
+didn't have the data in front of you.
+And just blatantly speaking, asking
+someone to confirm a pain point exists
+is much easier than asking for 30
+minutes on their calendar. And it gets
+you into a conversation instead of just
+straight into a no. The second thing it
+analyzed was the opening type. Every
+single meeting, literally 100% of them
+came from emails that opened with a
+specific pain point. All of the generic
+openers booked zero meetings. So, for
+the subject lines, direct subject lines
+like waiting on commissions data, it
+booked nine meetings for them. While
+personalized, like putting their name in
+the subject line, got 13 positive
+replies, but zero meetings. Craziest
+thing. And so, does that mean that like
+it it's definitive? No. But, all of
+these layers on top of each other tell
+us what direction we need to go with. Of
+course, the fourth thing, the value
+proposition, this is the most
+counterintuitive one. Comparative
+messaging generated 23 positive replies,
+but one meeting. While feature-focused
+messaging booked nine. And if you don't
+know like what these categories are,
+Outbound like it documents all of these
+types of things into different
+categories that explains what each one
+is very in-depth. Lastly, with this is
+the tone. A friendly, casual tone booked
+nine meetings from 235,000 emails sent,
+while like a consultative tone booked
+seven meetings from almost double,
+420,000 emails sent. Now, before I go
+into what the AI did with this data to
+write winning copy, if you want to use a
+data-driven process like this to
+generate leads and scale cold email for
+your business, click one of the links in
+the description to book an intro call
+with us. Now, back to the video. Now,
+what's great about this process, right,
+is before the AI started writing
+anything, what we did is we first laid
+out every decision and every number
+behind it. And so, this first-stage
+analysis that we just went through was
+extremely important in helping us go,
+"Okay, cool. Like, so what could we do
+to make this better?" So, everything we
+just went through, but including stuff
+like every single positive email was
+under 100 words. And we can see that
+every single decision is traceable back
+to data we have in Outbound, so nothing
+is based just on a gut feeling. And so,
+then what it did is I asked it to write
+out eight emails off of all of these
+frameworks and off of all of these
+learnings. We were testing five email
+one variants, each testing a different
+angle within the winning combination and
+formulas. One email two, threaded on
+email one, adding a mechanism context
+that was cut for length in the first
+email. A single email three, starting a
+new thread with a different value
+proposition to re-engage non-responders.
+And email four, a redirect asking if the
+email landed with the wrong person. And
+the reason that we're doing those, I
+usually hate follow-up emails, but we
+always test these for clients. And this
+was early on in the relationships, so
+we're like, "Cool, we think we have a
+winning combination here. Now, let's see
+if follow-up emails can give us any sort
+of uplift on these types of leads or
+not." And so, it helped us write the
+copy. I can't share the exact copy with
+you. That's the that's our clients'
+data, right? But, you can see everything
+here. Um and unfortunately, that file is
+not going to be in the thing uh below,
+of course. But, this can hopefully
+illustrate some of the ideas for you.
+And the thing is is Outbound also
+analyzes all of our copy. So, every time
+an email is sent, it's actually logging
+what's the subject line type, the
+opening type, the CTA type, the value
+proposition type, the social proof type,
+and what type of tone is it doing. So,
+you can actually [music] like analyze
+the labels inside of the platform um
+itself. And this is truly how we
+compound the data sets over time. The
+next session pulls by those tags and
+shows exactly which combinations are
+still converting and which have started
+to decay. And the reason this works
+beyond just one session is the skill
+layer underneath it. You see, I built a
+cold email copy skill in Claude Code
+that was built from four expert sources.
+And if you want these skills, they'll
+also going to be description for you.
+So, you can just install it to Claude
+Code, use it in Outbound, and it's good
+to go. So, the reason that this works
+beyond just one session is our skills
+underneath it, right? And if you don't
+know what a skill is, a skill is
+basically like a uh a playbook that you
+can install into your Claude Code or
+your Codex. They both have these things
+called skills. If you don't know what a
+skill is, you can literally just ask
+Claude Code, "Hey, I want to make a
+skill to do XYZ." And it's just a
+repeatable like uh like playbook for to
+do. You just hit slash, and then I would
+type in cold email copy, and that's the
+skill that I have. And if you want a
+copy of that skill, that'll also be in
+the description for you as well, so you
+can understand how it works. The thing
+is it that skill is completely based off
+of Outbound.io, and you can go to
+outbound.io and apply to work with us.
+It's basically in beta. Right now, it's
+a very white-glove service-as-a-software
+type company. And so, we're being very
+selective with who we take on, and
+really we're trying to get really good
+feedback early on on like, "Okay, how
+can we make this like the best it can
+possibly be?" And so, I built this skill
+from like four primary expert sources,
+right? One, Josh Braun, one of the most
+well-known copy email coaches in the
+space. Our own best-performing campaigns
+that we have ever done within our entire
+cold email consultancy. And then third,
+we have GEX Ramp from Eric Nowoslawski.
+He's a good buddy of mine. I love
+everything the guy does. And then
+lastly, the fourth skill is around Alex
+Hormozi's 100 Million Dollar Offers. And
+so, it's not just Claude generating
+generic copy like from a prompt, it's
+applying documented frameworks against
+real campaign data for our specific
+client in their specific market. The
+output reflects what's actually working
+for that client, not just a general best
+practice that may or may not apply. And
+because Outbound stores everything
+permanently, each session builds on the
+last. And the tags from this batch of
+Everstage emails feed the next analysis.
+And the next analysis writes better copy
+than the one did before. In fact, I'm
+working on a new thing. Make sure you're
+subscribed and like and comment on the
+video because we're going to release a
+new video. I'm working on it right now,
+where we have automated this whole
+process with these skills, where AI
+agent is running in the cloud every 2
+hours and applying these skills to
+automatically make all of our campaigns
+better in real time, and it's super
+dope. Over time, you're not just going
+to be running campaigns, you're building
+a compounding data asset that gets more
+valuable the longer that you run it. If
+you want us to build this kind of system
+for your business, map your total
+addressable market, set up your
+infrastructure, run the data, and
+consistently test and write copy based
+on what we're actually seeing, click the
+link in the description to book an intro
+call with us. We've done this for some
+of the fastest-growing companies of
+2025, like Fixer AI, AB2B, and Directive
+Consulting. So, again, if you're looking
+to learn more, you'll find the link to
+talk to us in the description below. And
+if you want to see how I get unlimited
+leads for cold email using Claude Code,
+then watch this video next.

@@ -1,0 +1,1149 @@
+the important message here is that the
+simplest way of measuring this in my
+opinion is actually the best and if
+you're thoughtful about the other
+metrics that you combine this with in
+your management system it can be a
+really effective tool for understanding
+why your profitability is or isn't going
+up welcome to the agency profit
+podcast a show dedicated to going deep
+space on agency operations which is just
+as nerdy as it sounds I'm your host
+Marcel p pop I'm the CEO of parakito a
+firm that helps digital and creative
+agencies measure and improve their
+profitability join me as I interview
+some of the smartest thought leaders and
+agency owners in our space and go deep
+into operations metrics and all the
+other things you need to get right so
+you can spend less time worrying about
+operations and more time executing on
+your
+[Music]
+vision hello and welcome back to the
+agency profit podcast today we have I
+guess I'll call it us special episode
+because it's just going to be me we're
+doing another solo cast episode and
+we're going to be talking about
+something that is long overdue to be
+discussed in depth on the show we're
+talking about the most misused
+misunderstood and potentially dangerous
+to your agency metric and that is
+utilization utilization rates so in
+today's episode we're going to talk
+about where utilization comes from what
+it is what it's meant to measure what
+it's not meant to measure how we measure
+it
+all of the details the reasons that it
+goes wrong how it can be miscalculated
+and misused how it can be properly
+utilized in the agency we'll talk about
+benchmarks everything that you need to
+know about utilization I'm going to try
+to cover in today's episode so buckle up
+it's going to be a good one all right so
+let's start with what utilization is and
+really where it comes from utilization
+has been around for as long as humans
+have been leveraging labor to get things
+done and it's it's also a common thing
+in the manufacturing space as well
+essentially what we're trying to
+understand is how much of the available
+capacity that we have either from a
+person or from a machine or anything in
+between is being utilized for earning
+revenue and earning revenue is the key
+distinction here in our definition
+because it's not to be confused with
+productivity we'll talk more about that
+later and this really became an
+important metric in the agency industry
+in the billable hour era which was the
+majority of the agency industry up until
+the last couple of decades and so most
+of us that are familiar with utilization
+rates probably experienced them for the
+first time working in an environment
+like that where oftentimes it was used
+as a performance metric which in a pure
+time and materials environment there is
+potentially an argument for doing that
+because in that world the more time the
+team works the more the clients will be
+build the more Revenue that the agency
+makes so there is a much closer linkage
+between time worked and revenue but in a
+modern agency in a modern context most
+of the time that's not really the case
+even in a time materials shop there's
+often going to be limits to how much
+time you can invest in a client or into
+a project before you start to not get
+paid for that time and in particular
+where we're starting to decouple the
+billing model from the time spent on the
+client looking at flat rates value based
+flat retainers Etc then the utility of
+utilization as a performance metric for
+the team starts to decrease and its
+usefulness becomes a little bit more
+abstracted from the individual
+contributor level because there isn't
+such a clear link between how many hours
+we work and how much money we make as a
+business and so in that new context the
+definition of utilization and how we use
+it we we need to be much more thoughtful
+about it because it's not as simple as
+it once was if you were an environment
+where time equal money and that link was
+very strong and I would argue that even
+in that case again because there was
+hour slippage it really wasn't that easy
+and so in a more and so now we get into
+the challenges with utilization that a
+lot of people face the first big one is
+that it's actually quite simple on the
+surface right what is the formula for
+utilization we'll talk more about this
+but essentially it's how many delivery
+hours or in a lot of firms this will be
+defined as a billable hour were worked
+and what was the capacity against that
+and that measurement could be looked at
+for the entire agency it could be looked
+at for an individual and everything in
+between but of course the Nuance comes
+down to how you define each of those
+things what exactly is a billable hour
+does it matter if the client was buildt
+for it or does it only matter if it's
+time that was spent on the client and
+does working on the company website
+count as a billable hour and what about
+these internal meetings we're talking
+about a whole bunch of different clients
+so there's a lot of detail in terms of
+what does or doesn't qualify as a
+billable hour that can have a very
+material impact on the measure of
+utilization and the same thing is true
+for capacity what exactly is our
+capacity within the context of measuring
+utilization and Does it include things
+like time off or not what about holidays
+and what about sick days and who is
+included in that calculation are we
+looking at the whole team or are we just
+looking at a certain segment of the team
+for example the billable team what about
+somebody that's partially on the
+billable team but partially does
+administrative work how would we
+allocate their capacity to this formula
+the the devils are in the details here
+and there in lies one of the biggest
+challenges with utilization is that
+there are hundreds of variations on how
+to calculate this because of the
+variations that exist at how we Define
+the objects within the calculation and
+this is what makes it so incredibly
+difficult to Benchmark utilization from
+one firm to another and why so many of
+the industry reports that we get are I I
+believe very problematic because they
+often don't do a very good job of trying
+to control for these variables and even
+when they do try to control for these
+variables there's only so much they can
+do about really validating the data
+that's coming in for example if we had a
+Time Tracking Company that was trying to
+publish some benchmarking data around uh
+utilization they have no control over
+how the object of a billable hour is
+being used inside of their software and
+so you might have a firm where they're
+counting things like working on the
+company website as billable and you have
+another firm it's not and it's very hard
+to control for those kind of variations
+at scale Without Really bringing that
+data through uh a cleaning process
+that's high context and that's very
+deliberate and so this is another one of
+the challenges is benchmarking and
+understanding what is a good utilization
+rate what's a bad utilization rate
+becomes really challenging and I'll make
+the argument that what other people are
+doing is not nearly as important as
+what's necessary for your firm to be
+profitable and what makes sense for your
+culture there isn't in my opinion really
+a benchmark for utilization I've seen
+firms be profitable with 25% utilization
+rates because they found ways to
+compensate for that low utilization rate
+and I've seen firms with 80% utilization
+rates be not profitable and so it's not
+the only variable and it's part of it's
+part of a trifecta of variables that
+really determine the fate of the agency
+so I'm going to explain now how we
+calculate and Define these things within
+the parakeeto framework and before I get
+into that I want to make it clear that
+what I'm about to share is how we do it
+and it doesn't necessarily mean that
+this is the right way to do it but it is
+the right way within our context meaning
+when we think about how utilization
+plugs into a larger framework that is
+connected to financial metrics capacity
+metrics efficiency metrics if we think
+about how we approach measuring an
+agency across Finance sales and
+marketing and operations the way in
+which we calculate utilization is
+consistent with all the other metrics
+which means if there's a change in
+utilization we know exactly
+mathematically how it impacts all the
+other things in that system and so we
+made all of the decisions at this level
+of how we measure utilization in the
+context of how it fits into a broader
+system and that to me is the important
+part if you want to calculate
+utilization differently and you found a
+way of calculating it differently that
+works for you that's great as long as
+it's consistent with everything else
+that you me measure and that is not a
+simple thing to figure out and most
+people have not figured this out or they
+figured out a way to do it that works
+for their business in this context but
+then the moment they introduce a new
+pricing model or they change something
+they have to rethink the entire system
+and so this is part of the reason that I
+would encourage you to consider adopting
+our framework because the way that we've
+designed it is meant to be flexible and
+it can handle changes in pricing models
+and billing models in Team Staffing
+whether you as freelance or inhouse or
+Outsource staff so it's abstracted and
+it has worked for dozens of firms across
+all kinds of different business models
+across all kinds of different Industries
+and what's nice about that is it handles
+change very well you don't have to
+reinvent the wheel every time you change
+your business model so I want to make
+that clear because I think it's
+important context before we get into
+this that this isn't necessarily the
+right way to do it but it's the way that
+we do it and the reason we do it this
+way is because it makes sense in the
+broader context of things and I'll try
+to explain the justification for some of
+the things that might seem
+counterintuitive about how we approach
+utilization in our context let's do a
+little screen share if you're listening
+to this on audio there'll be a YouTube
+version of this that you'll be able to
+watch for some visuals but I'll try to
+talk through it as I go and so the first
+thing I want to do is I want to make it
+clear that utilization is one of three
+major levers that affect delivery margin
+what delivery margin really is meant to
+capture is how profitable is every
+dollar of client Revenue at the point
+point in which we've delivered on that
+outcome so to put that into a context if
+a client gives us $10,000 to build them
+a website how much of that money is left
+over after the website has been
+delivered but before we pay to run the
+business we pay for overhead and
+facilities and the rest of those
+expenses so we're just looking at the
+fundamental profitability of the work
+itself and there are three ways that we
+can improve that fundamental
+profitability which really sets the
+foundation for the firm's profitability
+as a whole the first is average cost per
+hour which is meant to essentially lower
+the delivery cost so the lower the cost
+for every hour that's spent on doing
+that work in aggregate the lower the
+cost of Staffing our delivery team will
+be the second is average buildable rate
+so this looks at for every hour that we
+spend doing work for a given area of the
+business on average how much revenue
+does that earn for us and then the last
+one is utilization that's the last big
+lever and it's a really important one
+and utilization as ask the question of
+how much of the capacity that we buy
+from our team in bulk is being utilized
+to earn this average Billow rate right
+so do we spend 20% of the time that we
+buy from the team making money or do we
+spend 50 or do we spend 80 and of course
+the more time that we buy from our team
+is being deployed against earning
+revenue for the business the more
+efficient that business is leveraging
+capacity into revenue and therefore the
+less pressure there is on having a very
+high average billable rate or even
+having a very low average cost per hour
+so all these things are interrelated if
+we lift one we can either lower the
+others or we can leave them all the same
+or increase them and and these levers
+impact profitability we'll go through an
+example of that later on so I share this
+so that you can keep in mind that again
+this is just one piece of the puzzle and
+if you have for some reason a constraint
+that means that your utilization needs
+to be very low or perhaps you're just
+choosing to have a lower utilization
+because
+you value lifestyle more than absolute
+profitability or you just want to really
+create a great environment for your team
+not a problem necessarily you can
+compensate for that either by lowering
+your average cost per hour Andor by
+increasing your average build rate and
+you can still end up in the right place
+in terms of profitability and financial
+outcomes so let's talk about the formula
+for utilization the formula is quite
+simple it is defined as delivery hours
+over capacity now let's talk about the
+specific definitions of each of these
+things first of all delivery hours what
+is a delivery hour and why don't I just
+call it a billable hour and the reason I
+don't call it a billable hour is because
+the word billable could become
+problematic in the sense that it infers
+that it matters whether or not a client
+was build for the time and of course
+today most firms don't exclusively bill
+on time materials in fact most some of
+them don't bill on time materials at all
+all of their pricing is going to be
+based on flat fees are going to be based
+on value and so there isn't a concept
+really of a billable hour in that case
+and so we don't really care if the
+client was built for the time we care
+about how much time it took to get the
+work done to earn Revenue in that case
+and even in the case of a Time material
+shop a lot of the time we're not going
+to build the client for all the hours
+that we work because there's going to be
+mistakes or there's going to be overruns
+or perhaps we had an intern working on
+this that took longer and so we're not
+going to build through all of the hours
+and let's go through an example of how
+this would affect things and by the way
+this is important not just for
+utilization it's also important for how
+we would measure average billable rate
+so let's go through an example of that
+just to kind of illustrate the point so
+let's say for example we have a project
+and on that project the AGI the agency
+gross income that we collect is $10,000
+so after stripping out any Pastor
+expenses we got paid $10,000 to do this
+work and so the billable hours on this
+project were 100 hours so we build the
+client for $100 per hour but the
+delivery hours on the project so how
+many hours we actually worked on the
+project was
+125 and let's just say we had during
+that time capacity of 200 hours okay so
+in this example our utilization rate if
+we used billable hours would be 100 over
+200 which would would be 50% so this is
+billable utilization but if we looked at
+delivery utilization we would have 125
+hours over 200 and so you can see here
+that the utilization rate is higher in
+the other case
+62.5% and where you would see the
+problem with this or where somebody
+would say that this is a problem that
+they would say okay but you know if we
+measure this using delivery hours then
+we're going to think that we're more
+profitable than we actually are because
+our utilization rate looks like it's 62%
+but we actually only got paid for 50% of
+the time that we worked on that and
+again we got to think about the broader
+system that's not a problem because in
+the parakeeto system we would capture
+this in average billable rate so when we
+measure average billable rate over here
+if we did this based on billable hours
+then we would say Okay $10,000 in AGI
+divided by 100 billable hours would be
+$100 per hour so in this case it looks
+like okay we made $100 per hour if we
+did this based on delivery hours it
+would be
+125 hours that we're dividing our agency
+gross income by and so if we divide
+10,000 by
+125 we end up with an $80 average bable
+rate so we should see the de the
+decrease in profitability here and so it
+doesn't matter that our utilization rate
+looks higher as long as we're looking at
+these things together which we always
+should be then these things balance each
+other out but this to me me is important
+because this is a reflection of how busy
+the team actually was and when we
+exclusively focus on billable
+utilization the Insight that we often
+get is yes we're only getting paid for
+50% of our time that's great that's
+better than no Insight but what we start
+to do in this case is we tend to try and
+push utilization rate up and if we're
+not looking at this in conjunction with
+average bill bow rate you could see here
+that it's not clear to us what the
+actual problem was if we Define this
+based on billable hours what it looks
+like is that we were on budget and we
+are efficient at earning the revenue but
+it was that our team wasn't busy enough
+but the opposite is actually true the
+team was busy but we didn't earn the
+revenue efficiently and so you can see
+here that the inference what this metric
+tells us changes based on how we Define
+a billable hour versus how we Define a
+delivery hour and to me this detail is
+really important because the way we
+react to this would probably be very
+different if we were in this scenario we
+thought our utilization was low but our
+project was on budget we would give our
+team more work to do and the reality is
+they're a lot busier than it looks and
+so probably what we end up here is a lot
+of evenings and weekends and overtime
+and our team starts to subsidize our
+work we probably run into issues
+attracting and retaining Talent we
+probably run into issues with burnout we
+probably run into issues with quality
+and the reality is that what actually
+happened was we spent more time than we
+expected on this project and so this
+would be addressed differently we might
+charge more next time we might estimate
+differently we might look for
+opportunities to get this process more
+efficient so that we can actually get to
+the level of efficiency that we want and
+what that helps us do is actually scale
+the business in a more sustainable way
+and we don't have this false idea of how
+long it's actually taking to do things
+and we lower the risk of overworking our
+team so to me this is why the definition
+of a billable hour versus a delivery
+hour is a really important thing to
+create separation around it so that kind
+of covers the definition of a delivery
+hour and a delivery hour simply put is
+any time that we spend doing client work
+regardless of whether or not it impacts
+how much we get paid if it was necessary
+to get things done it needs to be
+included in delivery hours and we can
+look at this for any section of the
+business we can look at it for a project
+for a group of projects for clients and
+we can look at it for any time period a
+week a month a quarter so this scales
+both horizontally and vertically and
+then the same thing is true about
+capacity so the capacity metric I want
+to give a warning to anyone that's a
+project manager listening to this you're
+probably going to have an aneurism when
+I first explain how we measure capacity
+but bear with me I'll explain to you why
+I think this makes more sense than doing
+it in the way that you might naturally
+gravitate towards when we talk about
+capacity we're talking about all of the
+time that we purchase from a given team
+for the area of the business that we're
+measuring so if we looked at utilization
+for the whole Agency for a year here for
+example we would include everybody in
+that calculation including the admin
+staff including the sales staff
+including the founder people that don't
+do any client work or people that only
+do a little bit we're including all of
+their capacity in this calculation if
+we're looking at the whole business and
+we're including everything so we're not
+going to strip out time off we're not
+going to strip out holidays we're not
+going to strip out non-billable work so
+for most people 40 hours a week for 52
+weeks a year year their capacity is 280
+hours per year and I know what you're
+thinking but Marcel that's not their
+capacity they don't work 280 hours a
+year we have to give them vacation we
+have to give them paid time off many of
+them are not productive isn't that going
+to make our utilization rate look lower
+and the answer is yes it is and it
+should because your utilization is lower
+and it is lower because of all of those
+things and the impact of not including
+those things is a really dangerous false
+POS posi so let's talk through an
+example of this once again let's say
+that we have an individual they have 280
+hours of capacity in our model and they
+work
+1,400 delivery hours in year so in this
+example their utilization rate, 1400
+divided 2080 is
+67.3% all right so this was their
+utilization rate in our calculation now
+let's imagine that instead of
+calculating their capacity is 280 hours
+we have the same number of delivery
+hours but we're going to subtract out
+let's call it 4 weeks of time off and
+holidays and sick days and those kinds
+of things so 4 by 40 is 160 we're going
+to subtract that so that gives us 1920
+hours of capacity instead all right so
+we're adjusting their capacity down to
+1920 so now if we take that 1400 and we
+divide it by 1920 now their utilization
+looks like it's
+72.9% and so you think well that that
+seems more fair doesn't it but the
+reality is this is going to make it look
+like our utilization rate is 5% higher
+than it actually is we're not seeing the
+cost of all of that time off in here and
+what this does is it creates this
+incentive and this effect where the more
+time off I strip out of this the higher
+my utilization rate goes so I get this
+false positive which is telling me the
+more time off the more non- bill work
+the more capacity I strip out from my
+model in my business the more profitable
+the agency becomes and that's actually
+the opposite of what's really going on
+now why does this happen I think this is
+really important the reason this happens
+most often from my experience is that
+utilization rate is exposed to
+individual contributors on the team so
+the designers and developers and
+copywriters that come in every day to do
+client work are starting to be held
+accountable to utilization rates which I
+think is a mistake because the impct
+that has is they start to focus on
+hitting that utilization rate instead of
+being efficient on projects they start
+to complain about things that seem
+really unfair hey well you asked me to
+work on the company website and
+therefore my utilization rate was lower
+and so I feel like I'm being penalized
+for doing what I was told and then we to
+appease that sentiment we'll say oh yeah
+that that does seem a little unfair
+let's change the definition of working
+on uh the company website to be a
+billable hour which now again is going
+to inflate our sense of what utilization
+rate actually is and similarly hey I
+took vacation I took time off but now my
+utilization rate looks low that doesn't
+seem fair to me and so we say yes okay
+let's appease your sentiment and let's
+change the definition of capacity to
+strip those things out and so this is to
+me not a reflection of a flaw in the
+metric because the metric's job is to
+tell us if we are efficiently using the
+capacity for client work what this
+challenge is is a reflection of the
+metric not being used in the right way
+and the purpose of the metric not not
+being understood and from my perspective
+this isn't really something that we need
+to be exposing to individual
+contributors especially in an
+environment where we're billing on flat
+rates or we're billing on value because
+all that's going to do is create
+negative incentives and they ultimately
+don't really have much or any control
+over this metric they don't get to
+choose how much staff we hire and they
+don't get to choose how much work we
+sell and how we resource them against
+that work so this metric really is a
+management metric right utilization is
+really within the management team's
+control and if we want to get a sense of
+how productive the team is or how
+effectively wear resource planning we
+can use Alternative forms of utilization
+but those are different and they serve
+different purposes so the idea of how
+much how well did we use what was
+available to us this week is a very
+different question than how utilized was
+the agency this week those should be
+calculated differently so this is the
+case that I'm making for why this is a
+better way to do it it's has a bunch of
+added benefits of being more accurate
+actually for the question that we're
+trying to answer here but it also is
+less expensive we don't need to make all
+of these micro adjustments for things
+like time off and holidays and sick time
+we also don't have this now
+idiosyncratic measurement from one time
+period to another and so it's actually a
+lot easier to compare utilization this
+month to last month because we're not
+going to have the basis of capacity
+shifting all over the place or shifting
+over time and for all of those reasons
+we really believe in this way of
+calculating utilization we find that is
+it is a more truthful reflection it is
+more mathematically consistent when you
+zoom that out and start to connect it to
+things like average billable rate
+average cost per hour and ultimately to
+delivery margin and that to me is the
+right way to use it hey it's Marcel here
+and I hope you're enjoying the episode
+so far if you are then I want to
+encourage you to check out the agency
+profitability toolkit it's a free set of
+resources that we've put together to
+help agency owners just like you improve
+their profitability it's full of free
+checklists templates and training videos
+and has helped thousands of agencies get
+better at measuring the essentials of
+their business so if you want to grab a
+free copy of that you can head to
+par.com toolkit or look for a link
+wherever you're watching or listening to
+this with that I want to thank you again
+for tuning in and I'll let you get back
+to the
+episode let's talk now about the
+benchmark Mar for this metric and really
+there aren't benchmarks like I mentioned
+before but typically what we see I'll
+show you what is typical and typical
+means if you're going to charge a
+typical amount and you're going to pay
+people a typical amount and you still
+want to be profitable uh these are the
+kinds of targets that you would want to
+be setting and so on a weekly basis your
+prer producers would be somewhere in the
+75% plus range so we're talking about 28
+to 30 hours of billable time out of
+their 40-hour week for delivery managers
+there's going to be a very wide range on
+this because the the way that those
+roles are defined is very Broad and the
+ability for them to actually track their
+time can be fairly broad for example a
+project manager that's overseeing 200
+clients at a time it's going to be very
+hard for them to actually effectively
+track their delivery time and so a lot
+of this is going to be considered
+delivery overhead but in their case
+really anything over 35% is pretty good
+but we'll see a very very wide range
+here and then for anybody else like the
+founders the sales and marketing people
+administrative staff anything above zero
+is really a bonus and what matters more
+than anything is that the composition of
+the agency sets a floor that is or sets
+a ceiling I should say that is high
+enough to give the agency a chance of
+being profitable and generally speaking
+on a weekly basis we're aiming for 65%
+plus so on an annual basis we need to
+now consider like I said before the cost
+of time off holidays Etc how much that's
+going to lower our utilization as a
+business so again it's not that we're
+ignoring these costs it's that we are
+actually factoring them in a way that
+makes sense for the rest of the system
+so in this case we're generally going to
+you lose anywhere from 10 to 20% of our
+utilization throughout the year for time
+off and holidays and things of that
+nature sick time most firms fall right
+in that range 10 to 20% so if you want
+to be conservative take 20% off I'm
+using 15 for this example so pure
+producers end up at around 60 percent on
+an annual basis delivery manager at 20%
+plus everyone else at 0% plus and like I
+said if you're in a typical situation if
+you can achieve a utilization rate of
+50% or higher you're putting yourself in
+position to be profitable as long as
+your rates aren't materially lower than
+every everyone else or you're not paying
+significantly more than everyone else
+for your talent again I'm not really big
+on benchmarks for utilization rates but
+hopefully this is helpful to give you a
+sense now I want to illustrate the
+impact that this has on an agency is
+profitability so let's imagine that we
+have 10,000 hours of capacity so roughly
+a team of five people and we have a
+utilization rate of 50% in the first
+example and a utilization rate of 60% in
+second example and across both of these
+we have an average billable rate of $100
+per hour then the amount of agency gross
+income or agency Revenue that this
+business can bring in changes in these
+two scenarios at 50% utilization rate
+that means we have 5,000 hours earning
+Revenue at an average of $100 per hour
+this firm could make a half million doar
+in AGI this next firm at 60% now it's
+6,000 hours being used in that way and
+so that brings this up to
+$600,000 and so you can see that this
+utilization rate has a really material
+impact on the financial outcome now the
+other thing that we can look at is let's
+say firm wants to get to $600,000 but
+for some reason they can't raise their
+utilization rate perhaps that's just
+culturally something that they're not
+willing to do or they have some
+constraints in terms of how their team
+is composed then in this case we could
+use the lever of average bubble rate to
+still get to that level and so in this
+case we would take $600,000 and we would
+divide it by the 5,000 hours they have
+available and what we would see is that
+well we can earn the right to
+maintain this lower utilization rate and
+still achieve that $600,000 outcome by
+having a higher average bble rate so
+this I hope illustrates the relationship
+between these two metrics and helps
+again illustrate why utilization
+shouldn't be and doesn't have to be the
+only metric that we use to try engage
+the efficiency of our team and if we
+pair this with something like an average
+bill bow rate we can have a more simple
+and truthful measurement of that metric
+and still be able to see the full
+picture of how to achieve a certain
+outcome or why we're achieving a certain
+outcome and what's really causing us to
+increase or decrease our profitability
+as a firm next thing I want to talk
+about is how do we improve utilization
+and so I want to remind you of the
+formula right we have delivery hours
+over capacity and so really there are
+two levers to improve our utilization we
+can either increase the number of
+delivery hours or we can decrease our
+capacity so in this case where we have a
+certain amount of capacity and we have a
+certain certain amount of delivery hours
+and we're looking ahead at the next
+month and we're seeing here that we're
+going to miss our Target we have a gap
+there are two levers that we can pull we
+can decrease our capacity which is
+Corporate speak for We Lay people off we
+actually decrease the amount of people
+that we have on the team or we can sell
+more work and sell more work is the key
+sentence here it's not enough to just
+tell our team hey work more hours
+because if we recall the formula for
+average bu rate we're not going to see a
+benefit from that if we're earning the
+same amount of Revenue the only way in
+which working more hours improves our
+profitability is that we are actually
+getting paid for that time so we either
+go sell more projects which increases
+the amount of work that our team can do
+that earns additional revenue or if
+we're in a time in materials environment
+we are able to work more hours that can
+be build through to the client but this
+idea of selling more work is really
+critical because the mistake I see
+people make is there utilization rate
+gets low they go to their team they say
+hey I need you working more hours the
+team Works more hours earning the same
+amount of Revenue they were before and
+now we actually just have a worse
+situation we have a team that is busier
+than they need to be they have a false
+understanding of what the scope of work
+is we have clients that are used to
+getting over serviced and we have an
+efficiency problem and so now getting
+back to profitability Takes Two Steps we
+have to first fix this efficiency
+problem that we've created by doing this
+and then we have to increase our
+utilization and so I really really want
+to drive that point home that this is
+one of the reasons why I really don't
+believe in exposing utilization to the
+team directly unless it's being done
+very thoughtfully because doing so
+without enough context creates this kind
+of problem and it either gets your team
+spending more time doing things than is
+necessary to try and arbitrarily meet
+this target or they're lying on their
+time sheets which really hurts your
+ability to see what's going on so let's
+talk about tactics to improve
+utilization rates where are some
+practical ways that you can do this one
+of the big ones is what I call client
+delution and really what this speaks to
+is that generally speaking teams that
+spread across fewer clients at a time or
+fewer projects at a time tend to have
+higher utilization rates without burning
+out and this kind of is intuitive if you
+think about it if I'm a software
+developer and I get to work on the same
+project every day for six months at a
+time and I don't really have to go to
+many internal meetings I don't really
+have to think a whole lot about other
+things that are going on I know what I'm
+working on I have clear Direction I can
+just log in and work on the project
+every day then I might be able to work
+32 34 36 38 billable hours a week and
+not be that stressed out because my
+focus is on one thing whereas if I'm a
+project manager and I'm spread across 25
+different clients at a time my
+utilization rate might only be 40 or 50%
+and I feel very stressed out and it's
+probably necessary for me to spend a lot
+more time in things that not billable
+because because there's such a drag and
+a cost to managing multiple clients and
+likely there's a lot of cost to context
+switching and T switching that I have to
+deal with and so generally speaking as a
+rule of thumb if you can lower client
+dilution meaning your team has to worry
+about fewer projects at one time and you
+can do larger allocations of people and
+their focus to fewer clients you can
+increase the amount of utilization that
+you get from that team without actually
+making them feel more stressed and that
+really is the important consideration
+there the second big thing is investing
+in forecasting because so much of this
+is about as an executive leadership team
+as a project management team being able
+to balance Staffing to work coming in
+and not being overstaffed too often not
+making full-time hires when you really
+should have used Freelancers not U
+hiring the wrong person with the wrong
+skill set so part of your team still
+feels really busy and overworked while
+another part of your team has has too
+much free time on their hands and so
+hiring the right people at the right
+time and balancing that against your
+pipeline is such an important piece to
+getting this right and in particular
+around forecasting the important
+consideration here is trying to separate
+bottom up forecasting from top down
+forecasting and the mistake I see a lot
+of firms make here is they only have a
+bottomup forecasting system which means
+they take projects or work they break it
+down into tasks and they assign those
+tasks to individuals and that's a great
+way to get understanding of who's doing
+what for the next week or two weeks and
+really looking at a granular and precise
+level of individual contributors and the
+things that they're working on but when
+you're trying to answer the question of
+what does our marketing department look
+like for the next three months and how
+does that change if we do or don't close
+these three projects running that
+simulation in a bottomup framework is
+going to have so much drag it's going to
+be so slow it's really hard to look at
+Broad time Horizons and start really
+looking out into the future and that's
+where a top- down methodology becomes
+really important so in the show notes
+I'll leave a link to an article that
+talks more about this but this is really
+our focus at parakito is we we tend to
+help with installing a top- down system
+so that the executive leadership level
+can look across longer time Horizons and
+run simulations and that's really about
+trying to make decisions about hiring
+out into the future about what kind of
+clients or projects we're going to
+pursue from a sales and marketing
+perspective and is going to be much more
+effective at running those scenarios
+than a bottomup methodology which is
+really much more for a project
+management function looking at shorttime
+Horizons and making sure that individual
+contributors are properly resourced so
+invest in resource forecasting and the
+better job you can do of keeping your
+staff levels appropriate to the work
+that's coming in and generally airing
+towards the side of being underst
+staffed as opposed to being overstaffed
+and turning away work if you have to
+this will really help you keep your
+utilization rates where you want them to
+be then next is paying attention towards
+load balancing within teams this is a
+really big Insight is when you have the
+ability to measure utilization for the
+whole Agency for example but you don't
+really have the ability to measure it
+more granularly and what we find is in a
+lot of cases within a department you're
+going to have a couple of people that
+are really putting in the extra hours
+that are super utilized that are really
+busy often overworked and at the same
+time there's people within that team
+that are underutilized and so you might
+have a team where you're like hm it's
+weird you know these people are telling
+me that they're absolutely slammed when
+I look at the utilization report it
+doesn't seem like it's that high and
+it's when you double click that you
+realize oh it's because they're doing
+half of somebody else's job it's
+incredible how often we see this at
+parako when we double click into
+utilization reports and realize there's
+one individual on this team that's
+carrying things and you might inherently
+have a sense that that's happening but
+when you see the data it can really help
+you identify challenges where perhaps
+they're not doing an effective job of
+delegating or perhaps they're picking up
+slack for a skill Gap or perhaps the
+person that's working on that team
+that's not that utilized just isn't a
+good fit but getting that Insight is
+really important because if we're not
+doing a good job of load balancing and
+spreading the workout and keeping
+everybody on the team utilized that's
+going to ladder up to gaps in
+utilization and interpersonal or burnout
+issues among the team as well and then
+the last thing to talk about is really
+dependencies and synchronicity
+dependencies and synchronicity and so
+this is really about the mechanics of
+how projects take place and this is
+really about is there a handoff that
+needs to happen between one department
+or another or is there a task that can't
+be started until another one is complete
+right so project managers listening to
+this is all going to be very familiar to
+you but you really want to pay attention
+to what is the process that needs to
+take place on a project and where are
+the places where we might get blocked
+and somebody is no longer able to
+contribute meaningful hours to this
+project until this thing is unblocked
+and most of the time this comes down to
+dependencies and handoffs within the
+project and synchronous meetings where
+the only way to move this forward is to
+schedule a meeting and to get worked on
+in that meeting and the more
+stakeholders are required on that
+meeting the more complex and difficult
+sometimes it becomes to get that
+scheduled and this is where you can have
+a project that really could get done in
+a week but it has to get spread out over
+three because you got to schedule these
+meetings and that's a consideration or
+you have to create enough space for
+these handoffs to happen and so Trying
+to minimize the amount of that kind of
+stuff that occurs within a project or
+find ways to drisk those things can be a
+really big lever in helping you actually
+fill in utilization as much as possible
+and minimize the cost or loss that
+occurs when things don't go as planned
+when somebody is late on a deliverable
+when a meeia needs to get rescheduled
+and it creates this vacuum now where you
+have to find ways to fill that time you
+have to now contact switch and move on
+to another project because this one's
+now blocked and those things can get
+really expensive if they get out of hand
+so those are some of the highest uh
+leverage places to focus is on trying to
+decrease client delution trying to
+invest in forecasting so you can balance
+your capacity to your work trying to
+really focus on load balancing within
+teams and making sure that work is
+getting spread out between individuals
+and then looking at the way that
+projects actually happen and decrease
+the risk of dependencies and
+synchronicity on creating unused time
+because somebody is actually blocked
+from being able to contribute to the
+work that they need to do so to recap
+what we've talked about in today's
+episode number one utilization is a
+really important metric but it's also
+very misunderstood it's very easy to get
+confused and get into the weeds around
+capacity and billable hours and how to
+define those things and how to set
+targets around this but the important
+message here is that the simplest way of
+measuring this in my opinion is actually
+the best and if you're thoughtful about
+the other metrics that you combine this
+with in your management system it can be
+a really effective tool for
+understanding why your profitability is
+or isn't going up and what you want to
+really make sure you do however you're
+deciding to measure utilization is
+consider the impact that it has on the
+rest of your management framework be
+clear about the purpose of this metric
+is it meant to measure the efficiency of
+the agency or are you trying to answer a
+complete completely different question
+like how good are we at resource
+planning or how productive is the team
+in a given week those are different
+questions than how efficiently do we
+deploy our capacity against earning
+revenue and just try to avoid exposing
+this to the team without being really
+thoughtful because it's very easy to
+underestimate the damage that can do in
+your business so with all of that I hope
+that you have enjoyed this episode it's
+been a mey one we've talked about a lot
+of things if you have questions I want
+to encourage you to reach out either
+leave a comment where you're listening
+to this or send us an email we always
+love to hear from you and we love
+digging into this stuff we just can't
+help it if you're looking for more
+resources that dig into the details
+check the show notes there'll be a link
+to our agency profitability toolkit
+which will help you learn more about the
+broader framework that utilization fits
+into and we'll have some of the other
+resources that I mentioned in the
+episode as well with all of that I want
+to thank you for tuning in I hope you
+enjoyed the episode and I'll see you in
+the next
+one

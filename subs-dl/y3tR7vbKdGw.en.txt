@@ -1,0 +1,217 @@
+I'm going to ask chat gbt to write me a
+professional personalized first line for
+a cold email campaign I'm just going to
+type it in and it's going to give me
+this line the innovative solutions and
+commitment to sustainability for ver
+technology website truly call my ey
+right and it goes through this website
+and it looks for all the information so
+it actually personalizes the message to
+the lead you're sending and then you can
+basically go ahead and do these for
+every single lead and it's going to
+generate all these personalized first
+lines for your cold email campaign so
+that you can get more money and that you
+can make more sales okay so I'm going to
+show you how to set this up so that you
+can do this yourself okay I'm going to
+try and do this quickly because I want
+to save your time so what we're going to
+do here is the number one thing that we
+have to to do first right is basically
+add the extension to GPT for Sheets okay
+because it's not going to be
+automatically installed on your computer
+so what you're going to do is you're
+going to go to add-ons you're going to
+go to get add-ons and then what you're
+going to do is you're going to search um
+not search search right you're going to
+go to gbt p sheets and this is going to
+essentially allow you to download um
+it's going to be this one right here
+this is essentially going to let GPT
+like chat gbt write all your
+personalized first lines for your cold
+email campaign or your cold DM campaign
+or whatever the case may be right so
+you're just going to go to install I've
+already installed this obviously and
+then you're going to have access to it
+now there's one more thing that you need
+to know before you're actually able to
+do this is you need to install an API
+key that basically allows chat GPT to
+communicate with this GPT for sheets
+extension so what you are going to have
+to do is you're going to have to go to
+um you're going to have to go to this
+link okay I'm going to put this in the
+description it's platform. openen ai.com
+API keys so you're going to search this
+up right and basically this is going to
+allow you to get an API key which is
+basically going to allow you to connect
+Chad TBT to your Google Sheets so that
+you can write all these personalized
+lines so what you're going to do is
+you're going to create secret key and
+then you're going to call it something
+right it doesn't really matter whatever
+you want and you want this be set to all
+okay then you're going to create the
+secret key I already have one so I'm not
+going to do it but you're just going to
+go create this and then you need to make
+sure that you copy it so that you can
+put it into your GPT for Sheets okay so
+once you've created this and once you've
+copied it then you're going to go into
+here and you're going to go to
+extensions and you're going to go to gbt
+for sheets and then you're going to
+click open this okay so once you open
+that you're going to have a section in
+here when this first loads up to put
+your API key in now I'm not sure if this
+is going to show up for me because I
+already have have mine installed but
+essentially what you're going to do
+right is this is not going to look like
+this for you because it's going to be
+first setting up right but what you're
+going to have to do is basically paste
+um your your uh your key right that you
+just copied there's going to be a
+session in there for you to essentially
+paste that so you can essentially just
+connect the two right so once you've
+done that we want to actually ask GPT to
+go through all these websites so that
+they can write the personalized first
+lines for us right I was truly impressed
+by the commitment to Innovation by
+customer Centric approach approach
+showcased in AOW Tech website right like
+these are the kind of lines that you can
+generate automatically this would
+normally cost you a VA to do for like
+three bucks an hour which when you're
+trying to do at Mass right if you want
+to do like a hundred of these it's
+probably going to take them like an hour
+to write like 10 right so to do like
+even like to do 100 leads it's going to
+be like 30 bucks right but with this
+right with GPT is super cheap and it's
+only going to charge you like 10 cents
+for a thousand lines which is really
+really really good right so you just go
+to API right and then you'd set up your
+um your billing right which is going to
+be in your in your settings here okay so
+that's basically how that works right so
+now we need to give GPT an actual prompt
+to work with so it knows what to say
+okay so this is the one that I am using
+right now and it's working really good
+and you can just use this for yourself
+completely for free right well not
+completely for free you have to pay 10
+cents to chat gbt but I'm sure you can
+do that right so basically I'm also
+going to leave this um in the
+description right you can just copy this
+um and use it for yourself for your for
+your cold Outreach campaigns right so I
+just tell GPT um you want to do equals
+GPT and then go in Brackets and then put
+the quotation mark you are a
+professional you are professional
+personalized cold email first line
+copywriter you want to go into the
+following website right this website
+here and write a first line that
+compliments or like and compliment or
+say what stood out to you the most about
+the vision mission or the about section
+of this website okay and then you're
+going to close the quotation you're
+going to put a comma and then you're
+going to select the cell okay so
+basically what this looks like right uh
+is I'm going to give you this prompt
+here okay I'm going to put this in the
+description so that you can just copy
+and paste it making it super easy for
+you you're just going to go equals gbt
+and then you're going to put this thing
+here then you're going to put the
+quotation copy this put the quotation
+and put the comma and then you're going
+to link to their website and then you're
+going to close the
+bracket okay then you're going to click
+enter and then it's going to write your
+personalized line now you don't want to
+write this for every single one just
+have to copy and paste through all of
+these so what you can do right again
+like impressed by your commitment to the
+financial inclusion empowerment blah
+blah blah blah blah right like this is
+something that is said in here so like
+like this is something that would take
+you five minutes to do and when you're
+trying to do this at scale it takes a
+lot of time so this is going to save you
+a lot of time then you're going to drag
+this cell throughout every single thing
+in the sheet right so this is just an
+example sheet I only have seven here but
+you're just going to drag these
+throughout the entire list here and it's
+basically going to generate all of these
+first lines for you like instantly right
+this is like an hour of time that I just
+like appeared out of thin air for me
+right so basically what I can do now is
+I can just pin this to the first line of
+my cold email campaign which is going to
+get me more responses it's going to get
+me more appointments it's going to make
+me more money it's going to sign me more
+clients okay and you can also like if
+you want more specific things you can
+edit this script a little bit um I like
+to keep it vague it works fine um but if
+you want to like test out like new
+scripts that you can use for your first
+lines it will improve with that okay you
+can also um if you want to say like I
+want you to save this person's website
+right and you can just like link the
+person's website so you can just go like
+here right and then this is the person's
+uh sorry the the person's company name
+right you can ask them to mention the
+person's name right and then you can
+just like put this and then you can
+close it right um I'm not going to do
+that it's just simply um it's easier
+with the website right so we'll just do
+it like that and GPT is going to create
+all these first lines and then when
+you're going to actually send these
+emails all you have to do is just copy
+this first line put it into your email
+copy and then send it or you can just
+attach these as a uh if you're using
+instantly or something like that to
+automate it you can just make it a
+custom field um when you're exporting
+this list okay and it's as easy as that
+does not get any simpler and that's
+pretty much it bye

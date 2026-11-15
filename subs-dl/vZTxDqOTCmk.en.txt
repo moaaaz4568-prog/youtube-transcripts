@@ -1,0 +1,1662 @@
+What if your AI
+agent could make other
+agents
+?    What if
+you could sell agents made like that to business
+owners for
+$5,000 a month
+?
+That's exactly what
+our guest is going to show us this week
+.
+His
+personal AI
+agent, Dewey,
+is creating agents for paying customers
+, adding them
+to Slack
+, and even
+handling customer support, all without
+him having to do a thing
+A lot of people are talking about AI
+agents right now
+, but they are
+limited to just chatbots
+.  However, our
+guest this week,
+Nick, is
+three steps
+ahead of that.
+He's talking about agents
+making other agents
+, and
+by doing so,
+making five thousand dollars a month from each client
+.  He is the
+co-founder of the platform behind it, Orgo, and just
+this week he
+signed another client for five thousand dollars a month
+.  And today,
+he's going
+to explain to us how Dewey, his personal agent, builds, deploys, and manages these agents from scratch
+.  If you
+watch until the end,
+he also explains his full
+tool
+stack
+We
+provide you with the exact tools you need to build your own AI employee and sell them to clients.
+So, I hope you enjoy this
+episode
+.  Okay, Nick is back on
+our
+podcast
+Last time we
+did a great episode about managed agents, how people deploy agents for clients, and how to make money with them.
+Today
+we are doing another episode as a continuation of that episode.
+Nick, what are
+the viewers
+going to learn at the end of this episode
+I'm here to
+say that the biggest opportunity today is the service layer that deploys these agents in the business, that is, creating an agent for a specific sector, for a specific need
+I'll
+show you why.
+I
+will teach you how to do this effectively and how to provide this service.
+Yes, I am
+very
+excited
+Currently, there are
+creators of the company that built the Hermes Agent
+.  They
+are actually hiring deployment engineers to deploy Hermes Agents at the enterprise level
+.  So, this
+opportunity is very
+great.  Looking at the creators of this
+product
+, it's
+clear that their main focus and revenue is on enterprise-level deployment,
+suggesting that this is a venture-backed company.  This
+company aims to grow into a multi-
+billion
+dollar
+company
+So, when I
+heard that, my
+ears
+perked up and my
+eyes
+widened in awe,
+which means that everything we've been saying about managed
+so far is
+proving to be true
+.  So, yeah,
+I'm really
+excited to go deeper into all of this
+I know we will discuss this thoroughly,
+have seen you make many posts about this on 'X'.  I know about
+your
+personal
+agent, Doovee,
+which means that from my
+understanding,
+Doovee
+takes care of preparing and setting up these agents for your clients.    This
+means that when you sign a client with a $5,000-a-month
+managed
+agent
+contract
+, you're
+not doing much yourself,
+you're not standing back and
+doing the work of turning nuts and pushing buttons.
+Your
+agent Doove is
+doing all that work.  Is that
+true?  And it's
+true.  Are you going
+to show it to us today
+Sure.
+It's
+like magic.
+Obviously
+posted on X,
+I can share my
+screen
+a little bit
+, I
+can show you a video I posted about Doovey,
+which is onboarding
+an
+into Slack for our customer
+You
+can see here, I
+opened my Twitter,
+where I
+mute and
+make this bigger.
+However, if
+you notice here, you
+can see how Doove is using the computer, setting up the
+bot
+token
+and
+all the necessary
+settings to add the agent to Slack via 'app.slack.com'
+.  It is
+doing this work not for itself, but for another agent;  Onboarding that
+agent into a
+shared
+Slack
+channel with our customer
+.  It
+also
+made that agent, and while I
+was recording the video
+, I was surprised to see that it was making the same agent it was going to use
+.  It gathered all the
+resources, all the
+notes,
+information from the emails
+, and built an agent
+on 'Orgo'
+, which
+you can see is the second computer it built.
+This really
+sounds amazing, crazy.
+This video is
+going viral;  You and I
+tweeted about this,
+everyone is talking about it
+.  That is, these are
+customers who pay $5,000 a month, and our
+agents are creating
+their own agents for them
+So it's really valuable to take the time to prepare your
+assistant, your
+executive
+assistant, and
+provide them with all the tools, skill sets, and connectors they need
+,
+because then
+everything becomes much
+easier
+Yes, that's right.
+It literally
+sounds like agent ception.
+Agents are creating more
+, and no one knows where this will
+lead
+.  Okay, let's
+dig deeper
+, let's talk about
+how anyone can actually do this
+.  How can they make money with this
+How are you making money with this
+?  What opportunities are currently available in this
+sector
+Yes, in
+short
+this is the company that makes Hermes Agent,
+News
+Research.  I want
+to show this
+because
+I think it would be great.  This
+is currently behind the most popular harness, which is
+even
+more
+popular than Open Cloud
+are hiring four deployed engineers
+.  What is the responsibility of these four
+deployed
+engineers
+Introducing Hermes Agent to enterprise organizations in the cloud
+.  Do you understand?    That
+means integrating APIs
+connecting with tools,
+working with customers to
+implement
+improve solutions, and
+increasing observability.
+That means they are
+clearly
+focusing on enterprise usage
+.  So, they are
+targeting Fortune 500 companies with the help of these FDEs
+.  Imagine
+how big the market underneath is
+, mid-
+market
+and small,
+medium-sized
+businesses (SMBs).
+I mean,
+it's ready for
+anyone to grab right now
+It depends on people with business acumen and the intelligence to put these tools together and take the initiative to introduce agents into businesses
+So, yes,
+Dooey, that means once you
+work this hard,
+then Dooey will deploy agents for me
+That's why I'm
+currently using a tool
+called 'Orca'
+In case you
+don't know,
+this is a type of
+coding
+development
+tool.  But
+there's a nice feature in this,
+I'll show you how to start a
+project
+, I'll
+show you how to start a project from scratch.
+And
+basically, all
+you
+start with is
+a
+terminal
+.  What I
+do is,
+I go into
+my Orgo
+computer via SSH
+now I
+'m on the Dewey terminal computer, and
+then I set up all the tabs here and
+set up my workspace
+.  There's a Dewey computer up here
+Below is his
+terminal to talk to
+, and on the right
+is Grok, who is connected to the entire Orgo stack via MCP.
+This is my workspace that I've been using recently for my operations
+layer
+So, what I
+do is, I
+come here and
+tell Dewey, I change that
+model
+change him,
+know?  Let's
+keep Grok.
+keep Grok.  I
+'ll say, "Prepare a new Hermes agent in your brand agency workspace and I'm just showing a demo to the audience here."
+That is, I am
+telling Dewey, "Prepare this agent for us."
+He will
+do it.
+go into Orgo here and go into this
+workspace
+view
+You can see
+computer
+being built here soon
+.  While he
+was doing that
+, I wanted to show you
+one
+, see this message with Dewey
+Yes.  Yes,
+I see.
+So, I have
+Dewey on
+iMessage
+, which is
+natural.  I
+like to text him via iMessage.  It's very
+casual
+nice.
+I gave him the
+ability to make thumbnails and short shorts for YouTube videos through Hexfield
+.  He
+does everything, my
+friend.  He is
+doing everything now.
+Look here,
+he's creating a
+Hermes demo
+computer in Orgo
+.    Are
+asking if it came out of nothing because he built it
+Yes, you
+said it right.  He is
+building it
+.  He is preparing it from a
+template
+We have
+made it very easy to prepare these agents.
+We have many templates in Orgo
+.  You
+can choose Hermes Agent, Open Cloud Agent, Cloud Code Agent, whatever you like.
+But he's
+making one here
+it's
+getting ready,
+this
+whole
+Hermes
+customer
+setup on the right was done by him for our
+brand
+design
+agency
+You know that's a $5,000 a month customer.
+He
+built an agent and
+added it to Slack.
+He will complete
+all the
+skills,
+integrations
+and the rest today
+Yes,
+it's agent
+ception, just like you said.
+Taking this one step further,
+I'm explaining this
+, which really
+speaks to the amazing work ethic
+.  In the past,
+you had to hire people
+, but
+now
+agents do this
+work
+Um, here it is
+show you.
+take one, I'll take this one
+here
+.  So,
+Dewey is
+talking to customers
+.  This is an iMessage
+group chat.
+He's actually
+talking to customers and solving their problems in iMessage
+group
+chats
+.  He's messaging them in the group
+chat
+tidying things up,
+saying everything's ready, you can go.
+So now
+he's
+not only making agents, but he's also providing
+customer support for them
+.  And he is
+fixing them,
+upgrading them, and managing the agents
+without my involvement
+You know, right?
+Um, that's
+crazy.
+Unusual.
+This is very
+strange,
+because all this would not have been possible until 9 months
+ago
+.  This is all
+very new
+.  So, I want
+to clarify one thing for the audience as well
+, okay?
+Because we have
+mentioned many different types of tools
+.  So, you
+said Orca, you
+said Orgo.  We
+also talked about Dewey
+.  So, just
+for clarity,
+that's it?  I want you to
+explain
+, so, apparently
+you're the
+co-founder of Orgo, right?
+So, take a 20 seconds
+.  Give us that
+elevator pitch
+I can also speak to our
+experience
+me and my
+business
+partner
+Nick, we
+build,
+deploy, and
+manage agents for ourselves and our clients
+.  We have
+seven
+in Slack for our own company
+which we
+built and
+deployed in Orgo.  That's it,
+we'll
+make them right there
+.  It's
+very simple.
+want you to tell the audience
+, I'll give them that
+pitch,
+okay?  Why build
+there rather than VPS
+?  How is that
+different?
+Because
+again, I
+know its value, but
+others may not
+Mmm.
+think this is very useful,
+because that
+question keeps coming up
+So, Orgo is a
+platform specifically designed to deploy computers in the cloud,
+which provides a secure environment for these agents
+We don't
+just give them a
+sandbox
+or some
+headless
+VPS where they don't know what's going on
+.  We
+provide them with a full-fledged desktop computer.
+That's very
+important,
+here on Dewey's
+computer,
+you can see him using the computer to sign up for Higgsfield.
+An
+interesting
+thing is that
+I didn't sign up at Higgsfield for Dooey
+.  I
+told him to sign up at Higgsfield.  He had
+card, an
+agent card
+, and he
+used it to make payments for his
+own account
+.  He also used a
+strange
+username
+.  Oh, dooey ya, he
+put something like Green Beluga 1607 on it
+.  I don't
+remember exactly.
+creates accounts for himself.
+He is a very funny
+man, he
+makes his own accounts for himself.
+So, he's
+using a computer, and what
+I'm
+noticing with these new GPT 5.6 models
+is that they're using the
+much more naturally than other tools
+That is,
+instead of using MCP or Connector via Composio, my
+agent Dooey is
+using the computer more.
+Because these AIs are
+trained based on human behavior
+.  They are just like
+us, they
+love using computers just as much as we
+love using them.
+The way agents are going to work with software and computers is
+by assigning them their own computer.  Now,
+managing these is
+very easy with Orgo.
+You can create
+a workspace for a client
+put their computer agents, Hermes agents in that workspace, and manage the entire fleet like Dooey
+did
+yes,
+we've made it
+much easier to start a computer
+can easily launch a computer.  Once it
+launches,
+you can
+jump into it.
+You can install Hermes
+Agent, OpenClaw
+Agent,
+or
+any agent of your choice and
+connect it to your agent
+This is a very
+easy
+way to build these for businesses.  So,
+and you're
+shaping Argo as a platform
+, it's useful for those who want to
+offer and
+manage agents as a service
+.  You are
+putting yourself in that category
+.  "If you're
+selling agents as a service,
+Argo is the right
+platform."
+This is what I understand.  I think this is a
+wise
+decision
+now let's
+go into detail on how to set this up.
+How do we do this from the beginning?
+How is Dooey
+helping with this
+?  If anyone
+hears this and
+wants to sign up for Argo
+we have a
+great
+discount
+offer for my audience.  I think I'm the
+only one who
+understands
+, but Nick,
+correct me if I'm wrong,
+Orgo is free for the first 3 days and
+then there's a
+20% discount for the first 3 months
+give the link in the description.  If you
+use the link and the Corey code,
+you get that
+but you have to
+use both.
+So, let's
+take a deeper look
+and see
+how it works in full
+Yes, so
+it is, and that is
+correct.  The deal
+is, if you use
+the code Corey you
+get the first 3 days free, and then the
+first 3 months get 20%
+off
+So, building these agents in Orgo is
+a lot of fun
+and easy
+.  And as
+showed earlier,
+you can launch a computer right here from the Hermes
+, with
+Hermes pre-
+installed
+Now, if you're on a
+scale plan in Orgo
+, you
+can actually use
+- I can give you the GitHub
+link
+again
+you can use my NYX stack here
+, which (I
+haven't updated it in a while, but)
+creates a template that pre-configures and installs everything I use for my Hermes agents
+.  And as you
+can see, it
+comes pre-installed with Obsidian.
+It comes with all the tools in stock that I use, such as the agent
+phone, agent
+card, with the
+added
+benefit of having
+it all
+available
+So, I do
+n't even need to configure anything.  It will
+immediately
+prepare this computer,
+take a snapshot, and
+be ready to use with my entire stack.  And that's
+really
+powerful
+We give that GitHub
+...so
+they can
+basically
+download that template from GitHub
+, import it into Orgo
+deploy an agent with all those capabilities with one click,
+is that what you're saying?
+Yes, you just need to give that
+GitHub repo
+link to your Claude
+Code, Code X,
+or Grok
+you just need to
+give that link and say, "Okay, make
+me
+a template in Orgo for this repo
+."
+And it will be in your
+account
+, it
+will work immediately.
+Yes, we'll
+put it in the description and in the show notes
+so
+people can download it for
+free and
+get started
+.  That's
+great.
+Yes, this is very
+good.
+Whether you want to be a marketing agent
+, a sales agent
+, or a customer
+success
+, we're making it easy for you to build the stock that agent
+needs
+.  You can come to the templates here and
+create a new template and say, "
+I want a G Stock
+or G Brain
+pre-
+configured
+Agent."    If
+you tell the Argo
+Configurator to
+build this computer for you
+, it will generate these
+specs
+.  You can
+publish it,
+build it
+, and then
+can reuse that template forever
+.  So do you
+understand how you can productize these agents?
+Everyone talks about selling productized services, without inventing something new every time, without doing custom work every time
+.  Because
+can't scale if you're constantly doing only custom tasks.
+So, this is a way of saying, "Okay,
+we can build this
+agent the
+way we want it
+once
+copy and
+paste it for clients
+,"
+right?
+You can prepare the ideal stack with just one
+click
+So, something we don't do as much because we're at the
+platform
+level
+, if I were
+to start an agency today,
+I would make an agent that's specialized just for the
+insurance
+sector and
+create a template on Argo.
+I will first
+implement it in businesses through a service layer,
+then productize it
+, and finally
+turn it into an insurance perplexity computer web app.
+Here you
+builds the entire system
+, once it is
+approved
+can build and publish the template.
+Our
+goal is to build an ideal stack, turn it into a template, and make it easy for you to use as many times as you want.
+also have the ability to clone a computer here.
+So I just
+made this Nick Stack computer.
+I can clone this and have
+another Nick
+stock
+ready
+So, here
+we are providing you with all the ways you need to build
+.  When it comes to things like setting up tools and
+connectors
+it's pretty easy.    As
+said in my tweet about the future of software,
+happening today:
+you do
+n't need to know how to install or use tools.
+I have no
+idea how to use the Higgs field.
+know that the Higgs field is a creative generator AI tool, and it has a good reputation.  That's why, I
+told Dewey to sign up for the Higgs Field for all the creative work we do.
+So, what's
+happening now is that
+people
+are using more software than ever before
+.  Some people say, "Oh, the
+software is
+out of work."    Not at all
+.    Not at all
+Software
+sells more now than ever before
+.  You just need to tell your
+agent what
+software to
+use
+—that is,
+Compozio for Higgs Field or Connectors,
+or use the agent's phone to text my
+tell it what you want and it
+configures itself,
+it's that easy.
+I want to show you
+.  I have
+this Telegram
+chat with Dewi.  Did he just
+send me some videos?
+Maybe he
+sent me some videos
+will download it.  I
+really am a
+meme.
+Yes.  He
+made a video, which
+can watch here.  He
+just made an
+explainer
+video
+I have a
+YouTube
+channel.
+I made a video on how to make an AI employee who does everything.
+For example,
+it
+explains how I built Dewey.
+I showed him that
+channel
+.  After
+watching that video, I
+asked him to make a short video about it to post on YouTube.  It looks like he
+made an explainer video here using the Higgs field
+.    It may
+also include audio.
+muted it.
+He did this
+completely on his own
+can show you.
+He's making all these thumb nails for me
+uses VidIQ, a
+YouTube tool that helps him find videos that are going viral in his niche.
+He recognizes thumb nails that work well
+And he
+makes thumb nails with my face that fit that niche, so that they click well on YouTube
+.  This is
+truly
+amazing.
+So, this is
+just an
+example
+, I don't
+know anything, I
+mean
+I don't even
+know how to use it.
+Anything like that.  I know these
+devices
+exist
+This is an example of how to use them
+.  I'll
+direct Dewey towards them.
+uses them.
+get the result.  This
+sounds crazy.    The
+level at which we truly
+exist is limited
+only by our imagination
+.    It's
+important to know what an agent should do,
+because it
+can do almost anything.  That is,
+it comes back to the
+principle of focus
+.    It's like
+telling an agent what to focus on
+.  The insight
+I gained from this
+is that while it's
+easy to get work done, it's
+important to know what to focus on and what to prioritize.
+Now, I
+think we should change the subject
+, because you
+tweeted today or yesterday that
+got a $5,000-a-month managed agent client.  It's
+weird
+, because
+after the first video we did, I had
+a lot of people
+say to me, "Oh,
+who
+would pay five thousand dollars a month for an agent,
+right? That
+seems like a scam.
+They could pay 20 dollars a month
+for Claude and
+get the same result."
+So,
+strong
+opinion
+and answer on this
+, but I also understand that it's
+a reasonable
+question
+why are you
+paying five thousand dollars a month
+?  What is so special about the agent you
+are creating that
+they are paying so much for it
+?  Now, would you
+go deeper and tell me what it does
+and how you set it up
+for this client
+Yes.  The
+key point here
+is that this is
+not an obvious insight, but
+something I have learned many times working for businesses.
+That is, your
+customer wants
+to make money at a basic level
+.  If we're selling them an
+AI employee
+, if it doesn't make them
+money
+forget about it.  How to make money for a business through an AI
+employee
+One of the ways that works well for us is that we package an AI employee designed for them, for their industry, for their needs, for their end customers.  For example,
+this design
+agency, which is creating a Dooey agent,
+needs an agent who can create design templates and brand assets for their clients.
+So, we're
+building this for them
+, which means we'll equip that agent to be able to build
+these assets
+internally for their customers
+.  But
+their ultimate
+goal
+is: they want to turn
+this agent we created into
+product and
+sell it to their customers to make money
+.  This is happening with some of our
+customers
+it's called B to B to B.    When
+customers rely on you
+for their income
+, they never
+leave;
+They are making money through us
+, as well as relying on
+our infrastructure
+expertise in setting up these agents
+.  So, the
+important
+thing is to
+make sure that the AI ​​employee is not just a disposable employee, but better than that.
+We want to turn this into a
+package it, and
+offer it to their customers
+.  This is crucial
+for scaling and
+retaining customers
+That makes a lot of
+sense
+, because the
+first thing
+is, I agree with you that if an
+agent doesn't make money directly
+no one is going to pay five
+thousand dollars a month
+.  So my
+thinking is,
+that agent should
+definitely
+bring in revenue,
+right?  Again, according to my
+limited thinking
+, I thought it must be
+some kind of sales
+.    It should be
+directly linked to
+revenue, whether it's generating leads, providing quotes, or following up
+you took this
+one step
+further and
+said it doesn't have to directly make money.  It would be
+enough if they could just repackage it and sell it to their clients.
+That's the way they make money
+a whole
+new angle on looking at this.
+It may not be as
+clear as you say
+once you
+understand it, you can
+never forget it again.
+That seems like a very
+smart
+idea to me
+that's a
+very good
+insight in my opinion.
+Okay,
+continue.
+I just wanted
+to mention a little bit about it
+Yes, that's exactly
+it.  They all
+rely on us,
+as well as on you as a
+service
+.    It will be
+your responsibility to manage the deployment, take care of the infrastructure, make sure everything runs smoothly, and onboard their customers
+.  This used to be a
+task that required a lot of people to scale,
+but with Dewey, which I
+showed you earlier, you can
+provide customer support using agents.
+You can also
+make sure that your agents help you set up their agents.
+So, in short
+we
+go into a business and create
+an AI employee for them
+They use that
+which is tailored to their
+industry
+and their
+.  Now we
+will turn it into a product.  We
+package it as a template in Orgo and
+distribute it to their end customers by deploying those templates in Orgo.  We
+then onboard those customers
+through us or our
+agent and
+deliver to them.  It
+still resides in the service
+it is a
+productized
+service layer.
+But the
+next
+additional step
+is, "Can
+turn this into a web application or software that works with one click?"
+Thinking that.  Can
+I also build a
+Perplexity
+computer for that purpose
+?  And can
+people come directly to
+, sign
+up, pay 500 a month
+get this more easily accessible product?  This is that
+spectrum.
+This shows how you can scale from one-to-one to one-to-many, to one-to-many,
+and then one-to-
+many using these
+yes, the
+most
+thing I know is that
+you take the time to sit down and
+set up your own agent
+connect the right tools to it,
+and equip it with everything it needs to get the job
+done
+.  Then it's about
+believing it can work, and
+seeing it help you build agents, answer customer emails, collect leads, get leads using the Apify connector, and refine those leads through MCP for Clay.  You
+should be familiar with these tools,
+put them all together and
+invest time
+, and you will have
+a co-founder who will help you run your business
+True.
+Knowing where we are valuable as humans means
+knowing which tool to use for which task.
+Knowing how to use a tool
+isn't that important, is
+it?
+That's the main gist I'm getting from you.    As
+said,
+I don't know how to use the
+Higgs field
+, I don't know
+how to use Clay
+know how to use Amplify, but I know that's the tool we need to use for this
+specific
+task or this
+need
+So, I'll tell that
+agent to figure out
+how to do that job
+, right
+?  Once I use that agent to solve a problem that is valuable to a
+particular
+, I can turn that
+solution into
+sell it to that business.  Together with that
+business,
+can correct its shortcomings
+After correcting the errors, we can ask
+that
+business, which is our customer, to
+resell it to their customers
+, as if
+it were our own
+.  Then, once
+set up properly,
+we can also offer it as a SaaS
+solution, as you mentioned
+Now, can
+go back to the graph you showed us earlier?  I think that's
+very important
+talked about knowing the right tool for the job,
+think that an agent should know what tools they have access to to do their job.
+Is this a full-
+fledged tech
+stack?
+think these are the main parts
+.  I'm probably just
+80/20.
+This is the 80/20.  I can
+literally
+tell you what tools I'm using,
+problem saying that.    To
+briefly
+talk about them,
+these are just the ones I
+.    To
+be clear, there
+are other alternatives,
+but
+this is my stock for now.
+So, you
+have an AI agent like Open Claw or Hermes.  That's the
+harness.
+It needs to be powered
+by a model
+to overcome this
+, here is a
+harness.    Let
+say that
+.  Harness like Open Claw
+or Hermes
+Agent
+Harness
+is a framework for how your
+agent uses your AI
+tools
+how it
+collects memories,
+and what its
+personality looks like
+like plumbing, right?
+Yes, that's
+plumbing, that's
+architecture,
+that's
+like the backbone of how it works.  But
+the engine and
+the intelligence,
+its brain, are
+all models.
+So I have
+Open
+Claw or
+which one gives them power?
+Grok or
+GPT 5.6 or
+any model of your choice.
+Okay, now I need a place for this
+agent to
+stay
+needs its own computer that is on 24/7 so
+it can click
+do things and
+have its own secure environment.
+That's why you
+use things like Orgo.
+Okay, I need to give my
+an email of my own
+.  I'm
+not telling you to connect it to my email.
+do that, but
+needs its own email so that
+it can sign up on tools
+platforms
+.  You saw it
+signing up for Higgsfield
+.  He did it with his
+own
+email
+So, okay,
+I use
+Agent Mail
+Well, it
+needs its own phone number.
+Fortunately,
+there is a company called Agent Phone.  It has
+its own
+Mafia.    To be
+honest
+good friends with them
+will meet at Agent Card.
+You actually
+can
+think they have
+, we can all be a
+part of this,
+they have something called "
+agentbundle.com"
+sure
+, oh,
+they
+took it off?
+I think it's called "theagentbundle.com"
+.  There it is
+go there and get an agent
+card, agent
+mail, agent
+phone
+and you'll
+even have an Argo computer
+We are going
+to integrate Argo as the runtime for all of this
+.  And
+how does that get you,
+you know, 20 dollars a month?
+That is a very
+smart thing to do.
+Yes.  So, this is the
+Agent Bundle,
+created by Agent Mafia
+.  Um, while
+you're
+saying this,
+I'm sending
+a message to Nick
+.  To be honest
+, that
+message is just
+theagentbundle.com
+theagentbundle.com.  And
+Nick is Corey
+'s co-
+founder.  We
+mean this is Nick
+Squared
+.  There
+are two Nicks in the room.
+Yes.
+And I
+use Obsidian for my agent's knowledge base.
+Mm and I
+use this tool called Honcho Dot Dev,
+which is a
+cloud
+platform that provides memory to the agent.
+So, whether I
+talk to my agent on Telegram or Slack,
+wherever I
+talk,
+it remembers that memory
+and context
+I do
+n't need to remind it of things.
+And finally, the
+80/20 tool in this stack is
+Compozio.
+So, Compozio
+connects your agent to other tools,
+for example, if you want to
+connect it to your Gmail, calendar
+allows you to read and write across all the platforms you use,
+it's free.
+Now, this is
+great,
+I think this is what people are really interested in
+, what's really deep down
+?  What exactly are those
+tools?
+How are we setting this up
+So, to clarify
+for my understanding
+, is that about that client you
+closed yesterday
+?  So
+, they're a design
+agency,
+$5,000 a month,
+closed, they paid the first
+invoice
+Now we need to
+physically
+set up their new agent.
+So what does that look like
+how do you
+go from when the invoice is paid to when their agent is ready to talk to them?
+I'm sorry, I
+hear a siren
+.  I'm in San
+Francisco
+, where there's
+always something going on
+.  Hmm,
+so I
+always
+make a discovery call first.
+So, the
+first call I make is
+not a sales call.  I
+, I don't know.    I
+think it makes business fun in many ways
+.  I don't have the right
+funnel.
+I don't have proper
+cold
+outreach
+.  In many
+ways I
+do business my way, but
+this is what I do
+and this is what
+works.
+So, the first
+call is a discovery
+call.  We said, "Okay,
+what's the real problem?"  Let
+'s talk about that
+.  So what are we
+trying to solve here
+?  What is the use of this
+Is this correct?  Is this
+really the
+ideal
+customer we want?  Should we
+actually
+work with them?
+Can they afford our service?
+Will they leave our service next month?
+And what you
+will notice
+is that
+generally an
+ICP is a
+company that does at least 1 to 2 million in business per year.
+Believe it or
+not,
+I prefer working with SMBs and mid-sized companies over software or AI companies
+because they
+pay you more,
+ask fewer questions, and have
+fewer requirements
+.    Did
+you get the result or not?
+So, yes or
+no, you
+know.
+Sure,
+sure.
+Here in
+Silicon
+Valley,
+everyone
+is trying to sell to startups
+trying to sell to startups and achieve 100 million ARR,
+but it's like hell
+startups do
+n't have money.  But
+you can sell to real
+businesses
+who will be
+eager to pay you
+So this is
+really a
+great opportunity, as
+I said at the beginning it's really
+good to sell to SMBs and midsize companies.
+So that was the
+first call.    On the
+second call,
+I usually close the deal
+, meaning
+here's the
+proposal,
+this is what we're going to do, these are the problems we're going to
+solve
+.  Then
+immediately start a
+Trello
+board
+.  I will onboard them into it
+say, "Look, here's a list of things we talked about."
+Here's what we're working on right now.
+Here's what to work on next and what we can do together
+four
+columns
+.  They are the
+backlog, what
+is currently being done, what needs
+to be done,
+and what needs to be done together on the call
+Those are the four
+columns.
+After that, I
+always onboard them into a
+.  And then
+I start building their
+, or I get an agent built
+through Dewey
+, add that agent to a
+, and configure it with the stack by the next
+day, the
+second day with the customer
+.    The
+first day was
+yesterday, I prepared an agent with 80/20
+stack and
+Today, we build
+automations,
+and other
+tasks that the customer wants to do with that agent
+.  It all
+happens today.
+And the
+thing you can do is, like
+I did yesterday
+, to give the customer the same day they
+send you money
+need to offer them something immediately.    I will never
+forget an experience at a design company I worked for.
+We are their
+paid 5 thousand per month.    On the
+same day we paid,
+a task was
+prepared for us.
+speed of delivering value is
+very, very
+important.
+The process after that
+depends on the customer
+usually
+there is a weekly call.    In
+it, we discuss what we
+use it for
+, what
+upgrades we
+need to make next, what's
+working, and
+what's
+not
+And they should be kept informed about everything that happens in between
+.    If you have a
+problem with an agent,
+add them to your group chat to fix it immediately.
+Things
+get broken,
+so you need to be able
+to fix them quickly.
+Oh no, I forgot to mention another
+amazing
+its name is
+Latitude (.so).
+They provide the facility to observe agent
+performance
+So, if
+a customer is
+impatient when something doesn't work,
+you'll get an immediate
+notification
+.  That is,
+meaning related to intention and behavior.
+said it right.
+For that, I
+use latitude.
+can see all the things behind this.  This is
+not a $20 per month cloud subscription.  It's like
+we're creating a
+co-founder for many businesses
+.  As
+said on Twitter,
+I also
+felt like you should charge more for this.
+I think you're right.
+so, my
+next point
+is, that's
+right?  So, it seems clear that Dewey is the one who prepares that
+Where I think you'll get the
+involved is
+where I was
+a little confused at first
+That is, this stock
+is made like a product.
+But
+what is the part that varies depending on the customer?
+Assuming you're not working with the same type of specialized department every time, isn't that the
+point of skills?
+So, let's say we just
+onboarded a new customer
+.  They're a
+design company,
+right?  Well,
+for example, the skills
+we need to
+build for these people may be
+completely
+different than the skills we build for an insurance customer
+So, how do you
+go about building skills
+?  I think I heard you say at one point
+, in that discovery
+call or a
+follow-up
+call with a client, you're
+talking to them about use cases
+, and then you're presenting that
+granola
+transcript to
+Dewey
+, and Dewey is turning that
+transcript into
+skills
+That...I mean, could it
+be that simple?  I think that's what I'm
+asking
+.    That's exactly what's
+happening
+this is the basic
+stage.
+granola note from a call with a customer
+, where they were explaining their
+workflow
+, their
+use case
+.  When I onboard them on
+I see the information they sent me,
+I just ask them to do a
+context
+dump
+.  Context dump
+all the assets you have,
+all the past materials you've created for clients
+Give me everything.
+I feed them all
+...which means
+n't have to feed myself.
+It's all in
+has access to Slack,
+so it can download all those
+assets
+Then it
+looks at all of that, and from that
+reference
+material
+build the skills, everything they need.
+our job today is
+not to build.
+Building has
+become a common process.  That's it.
+Building is
+not that skill.
+In fact, a job today is about
+asking the right questions,
+being aware of it, and knowing
+what tools to
+use to solve these problems
+, which may
+seem very strange.
+A lot of it is
+very close to your audit
+.  An audit
+is literally
+telling the customer, "You have to use these."
+You're not building anything for them
+.  You're just
+saying, "These are the tools you need to use."
+Then assign that responsibility to your agent to build an agent, keeping in mind
+which tools to
+use to solve which problem.
+This is the world we live in today.
+I am living that
+life
+.  That means it feels
+unreal
+, like a
+dream.  It's crazy to see
+customers messaging in the
+chat when I go for a walk
+their problems getting
+solved while I'm walking
+Through my agent, anyway.
+Through my agent in 2026.  I
+really thought AGI would be a
+few more
+years away
+not exaggerating,
+this is truly what I mean
+.    In
+my opinion,
+this is AGI.  This is the
+freedom it promised.
+It
+promised abundance.
+So I
+agree
+.  I mean, I'm
+not disagreeing with you at all.  I think what you
+said is
+true
+That's why I highly encourage this
+audit or
+assessment
+, whatever you
+call it
+, as an initial
+offering
+.  We have completed two paid assessments in the last 3
+days
+and have charged
+more than ever before
+This is
+a lot of fun because a good assessment is all about asking the right questions
+.  After an hour of
+peppering them with questions and letting them
+vent everything that's on their minds
+amazing to see how much the client's trust in us grows.
+in their mind they think, "Okay, this
+guy asked me
+40 different questions for an hour
+Now
+he understands my
+So, who better to build
+these
+or build a knowledge
+base
+or take the next
+step than the person I shared all my stuff with for an hour
+can apply this to
+, you know, there are
+many types of assessments you can do
+.  We've
+already
+done some,
+but I like your model
+works with ours,
+we've started some of the things you're
+doing
+, and I think you're
+doing ours too
+I really
+like what you're doing.  I
+like Orgo.  As we
+friends, the
+code for Orgo
+is in the description and show notes.  You have to use both that
+link and the
+code "Corey"
+then you
+get,
+what did we think?    The
+first 3 days are
+then 20% off your first 3
+months
+.    Again
+I can
+say this with confidence because we use Orgo every day.
+'ve built seven agents on the platform so far,
+and it's been
+Nick, thank you
+very much for your time,
+friend.  This is
+very good.
+Where can people
+follow
+, find,
+or interact with you
+just search for my name Nick Vasilescu on Twitter and YouTube.  The
+last two
+letters of my name 'CU' may not
+be on YouTube and Twitter,
+but you can find me if you
+type my name
+I will be making content on
+how to build these agents and
+how to implement them in businesses
+.  Since I am the
+co-founder of 'Argo'
+, I want
+to explain to everyone how to use the platform and benefit from it
+.  Okay,
+thanks
+Corey.  It's
+always a
+pleasure
+my friend, I'm so excited to see
+what everyone does
+.    Of course
+We are very
+happy to see you again.
+I know this won't be the last time
+friends
+follow Nick, watch '
+Argo'
+, we'll be back
+soon
+Thank you for watching.
+Thank you all.

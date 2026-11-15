@@ -1,0 +1,233 @@
+hello everybody welcome to ask a fund
+manager
+in this video is the second part of our
+series analyzing option greeks
+option greeks are the mathematical
+functions of the
+price to drivers of put and call options
+contracts
+in the first part we covered delta gamma
+and theta which are the change
+in price underlying price that changes
+with a change in stock price the change
+in the delta with the change
+in stock price and the change in in
+the value option with time or time decay
+as part two we're going to go into
+volatility and a few other the more
+obscure
+greeks including a more custom one that
+i use for my own research process
+the first one we're going to talk about
+to get straight to the point
+is vega which is
+the change in value
+with the change in volatility volatility
+is calculated as a derivation
+of the black scholes formula which gives
+all the
+components of the option of what price
+is an option i'm not going to get into
+the whole
+details and derive all the black trolls
+here in this video i don't think it's of
+interest to most the viewers
+anyway but the bottom line is is that
+since we have all the other variables
+and we have what it's trading at in the
+market in terms of price
+already we can derive what volatility is
+in the basic systems of equation that
+will
+tell us well based on what all the other
+variables are
+the chunk left over is what the implied
+volatility is
+and volatility is basically a measure of
+standard deviation
+of price action or anticipated standard
+deviation so say for example of a
+company
+that you're long of call there's a lot
+of takeover rumors
+it's going to have a lot more implied
+volatility going on because there's the
+possibility the company gets bought out
+or that the buyout deal fails and
+there's some premium priced in and it
+goes down
+it's going to have a lot more volatility
+than say like
+a giant stock in a boring industry that
+there's not any corporate action
+or if the economy is on the rocks you're
+going to get higher volatility than if
+it's a smooth sailing economy
+so vix is the measurement that a lot of
+people talk about that's revolt that's a
+a measurement of what volatility is
+within the s p 500
+but volatility is not the same for every
+stock because of idiosyncratic events
+sector differences and other systemic
+risks
+and that make different companies have
+different implied volatilities
+with such beta and leverage and a
+variety other factors so
+every company has a different implied
+volatility
+and so this is how a lot of the
+professional also
+options traders make their money because
+volatility tends
+unlike delta a stock price
+tends to be mean reverting it's it's
+very rare for
+volatility to stay consistently high for
+a long period of time
+historically it reverts back down to
+what is like the
+it's safe to come on the water levels
+for investors
+which historically is somewhere between
+vix
+10 to vix 15ish
+and so therefore the historical average
+revolve is
+vixx at 16 because the tails are much
+wider
+they all can go as high as over as over
+100 like the record is 85
+during the coveted crisis whereas the
+record low is in the sixth handle
+so like there's a floor of volatility
+which is something
+doesn't move at all to be zero and but
+the ceiling is 100
+plus moves a day like in stocks such as
+tesla that has crazy high volatility
+because of a lot of the
+emotions around that name and a lot of
+the controversy surrounding it
+but the point here is that
+you've been that's how like volatility
+is the way that
+if you want to just bet on whether you
+think that
+certain catalyst is going to come out of
+the way involves going down
+or that the fear and greed of human
+emotion
+is often dictated through balls so if
+you think fear is going to go down
+you sell ball or up you buy it etc
+that's just a kind of summary about and
+then the vomit which i mentioned
+is the volatility of volatility if you
+want to know more about the volatility
+of volatility i did a whole another
+video about that which i'll have in the
+end screen
+that you guys can watch so i'm not going
+to get too much into here
+but it's usually often a leading
+indicator for whatever
+future volatility regime there is
+and so the next thing we're going to
+talk about is row
+well even though it's greek symbol is
+kind of like a capital p it's the change
+in price
+with interest rates
+basically and if there is a cost to
+capital
+and so therefore at higher interest
+rates
+the price of a put tends to go down
+and the price of a call
+goes up because you don't have to hold
+that cash i mean i'm not really an
+expert in row it's one of the especially
+the interest rates slow as they are
+it doesn't have as big of an impact as
+some of
+the other greeks and then the last one
+i'm going to talk about i call it phi
+but
+it's basically a fair value for options
+after fundamental considerations
+this is a proprietary indicator so i'm
+not going to go into exactly how i
+derive this but essentially how at least
+with my
+creating and if you want to know more
+about this you can
+look into davos platinum research for my
+institutional viewers
+is how i calculate
+what the fair value of an option would
+be as if a
+non vol based trader
+would pay for it like what
+what is the option cheaper than me just
+buying this the underlying
+and putting a stop on it a trailing stop
+or a hard stop
+if the answer is yes and it's cheaper by
+more than a considerable amount
+even if the implied vol is high from
+like the perspective of a vault trader
+i would still buy that option anyway
+or if it's even if it makes no sense
+from a standard black shoal
+sense and it's the other way around too
+like if the vol is
+cheap statistically
+but it's from a fundamental perspective
+i it would be too much risk for me to
+hold a position that big
+i may have a stop at a tighter level and
+therefore i would not want to pay that
+option i'd rather just buy the
+underlying
+so that that's kind of what i
+i just use fee because it's one of the
+few greeks that's not really used in
+option terminology to kind of define
+this
+that's kind of how i figure out from a
+more fundamental or directional or macro
+perspective
+what options may make sense for more
+directional traders
+that do not make sense for volatility
+traders and vice versa
+so that's my summary of my proprietary
+greek
+thank you everybody for watching this if
+you like this two-part series on the
+greeks
+feel free to write like this video
+subscribe
+and join the comments let me know if you
+have any questions in particular about
+option markets option greeks or really
+anything going on the marketplace you
+can either write them in the comment
+section of this video
+or you can email us at ask a fund
+manager at gmail.com
+thank you for watching and enjoy the
+rest of your day and good luck there on
+the markets
+the one thing i do have to do as a
+disclaimer which i do in the writing of
+these show notes but i'm going to start
+doing them within the videos too now
+is that nothing i say in these videos is
+investment advice
+please contact your investment advisor
+and do your own research before making
+any trades
+thanks for watching

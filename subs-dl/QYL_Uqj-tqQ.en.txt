@@ -1,0 +1,526 @@
+If you find yourself repeating the same
+exact instructions to Claude Code over
+and over again and you find that the
+output just still isn't good enough,
+well, this video is for you cuz it's
+actually a feature in Claude Code that
+99% of beginners don't even know it
+exists. And it's called Claude Code
+Skills. And honestly, it makes working
+with Claude 10 times easier and takes
+the output and the results to the next
+level. And so in this video, I'm going
+to show you exactly what cloth code
+skills are, how you can use them, why
+they're important, and how you can set
+them up step by step so you can make
+your agent workflows 10 times more
+powerful. And in case it's your first
+time here, my name is Mik and I've
+scaled my own AI agency to six figures,
+working with over 50 businesses to
+implement AI and automations and
+teaching over 20,000 people in the
+process. All starting with zero
+technical knowledge. With that being
+said, let's dive in. All right. So, claw
+code has a claw brain and the claw brain
+pairing it up with skills gives you
+superclad, right? Supercloud is
+basically claude code on steroids cuz
+now it has all these different skills
+that it can use to be able to give us
+the best version of whatever it is that
+we want. Now, in a very easy way, skills
+are instruction manuals that cloud code
+reads before doing a task. [music] So,
+before it does something, it reads the
+skill to then be able to give us a
+better output. And it's very similar to
+a recipe card. The same way that a chef
+is given an instruction manual for
+making cake or making whatever plate he
+has to make, he knows a step-by-step
+instructions. In this case, for cloth
+code, we have cloth skills, right? The
+skill is a recipe card. It's a list of
+instructions. In this case, it could be,
+you know, handling PDFs or creating
+websites or creating agent workflows.
+[music] And by having those skills, it's
+now able to give us a better result
+because it has instructions as to how to
+do that thing. So for example, if you
+give it a task and the task can be make
+me a website, Claude J agent would then
+use its skill of website making [music]
+to be able to give us a perfect result.
+Because previously without a skill,
+Claude would guess and if AI guesses
+that means we [music] have inconsistent
+results. It's not deterministic. Then
+deterministic just means that whatever I
+tell it to do, maybe one time it does a
+good job, but the other time it doesn't
+do a good job. And that isn't the best
+when we have to deploy these agenda
+workflows because we always want to have
+consistent results. We want to predict
+whatever we get as an outcome. Now with
+skills in this case because it follows
+very very strict instructions. I mean
+they're pretty laid out. It gives us a
+much better output because of the rules
+in place that we have. So where do you
+actually find clical skills? You can go
+to aitmpl.com.
+I'm going to leave the link down below
+as well in case you want to check it
+out. And here you'll be able to see that
+you have skills. As of now we have 670
+skills, but I'm sure that with time
+we'll have more and more and more. And
+as you can see here now we have skills,
+all skills and we have categories of
+skills. So we have skills with AI
+research. So let's say we need the some
+sort of a magenta workflow to do
+research. Then we can use let's say the
+agents autog then we can use these
+skills to be able to actually help it to
+do its thing. [music] We also have
+analytics. So Google Analytics in case
+you're using Google Analytics in your
+workflow, business marketing, creative
+design which is one that we're going to
+use today. Database development,
+document processing, enterprise media
+productivity and railway and so on. And
+so all these things are like skills in
+the back pocket that you can give cloud
+code when it needs to make the actual
+thing. So let me give you an example
+actually. Let's go to creative design
+and we can look at canvas design cuz
+we're going to use this later. Now
+canvas design is something that we can
+use when we're making some sort of
+design with claw code. So let's say
+we're making a presentation or some sort
+of poster. We now want the design to be
+to be good. Of course the information is
+there from cloud code, but now what
+about the design of the actual
+presentation? And so right here I can
+press on the actual thing and we can see
+that we have a command. It's like the
+thing that you get claw code saying,
+"Hey, here's a command based on this
+command. Install this skill." Now, why
+is this good for us is because we don't
+have to actually do anything. All we
+have to do is copy and paste the skill
+to claw code and cloud code will do
+everything that he needs to do to
+install the skill. So, aside from the
+command, we have the view details and
+after stack obviously because it's like
+600 and I mean more than thousands of
+skills here. If you then don't want to
+go back through and search which one you
+were looking for, you can just add it to
+a stack to a list that you can then go
+back to. And then here we can press view
+details. So when I press view details,
+it'll take me to this page. [music] So
+here I have the name of the skill. We
+have the overview. And overview will
+give us an overview of what the skill
+actually does. So in this case it says
+create beautiful visual art inputs
+using design philosophy. You should use
+the skill when the user asks to create a
+poster, piece of art, design or other
+static pieces. Create original visual
+designs. Never copying existing artist
+work to avoid copyright violations. We
+do also have comments in case you want
+to write a comment about this skill
+itself, but it's not something we do.
+[music] And the most important thing is
+actually the code. Now the code is the
+actual [music]
+prompt which is the skill is a thing
+that could code uses when making the
+design. So right here we have the canvas
+design skill, right? The description and
+we have a full prompt from the start
+until the end. Now the prompt if you go
+through it basically says when you're
+creating a design complete them in two
+steps. The first one is a design
+philosophy creation and then we have the
+second step which is expressed by
+creating it in your own canvas. So it
+goes through the design philosophy what
+it means and basically it goes through a
+step-by-step instructions as to how it
+should think about design and how it
+should go through actually building the
+design itself uh for the thing that
+we're doing. And so really skills are
+just prompts. They're just a list of
+instructions until the end that we
+didn't feed into cloud code to be able
+to make the design. And bear in mind
+that because a skill is a list of
+instructions, it's a prompt. And it's
+very easy to make a skill, but then you
+want the prompt to also be good cuz if
+the prompt is then obviously the
+skill is not going to be good. And so a
+lot of this is just testing skills. But
+of course, if I go here and I go to
+create a design and I see this here,
+then obviously because it's one of the
+first ones that I see, then it is a very
+good skill. So here I have an agent that
+I made, which is a YouTube strategist
+system. You can check out the whole
+buildup here, but essentially it makes
+us a presentation every single week with
+our analytics of our YouTube channel.
+Now here we actually have to make a
+presentation. And so I can say here,
+hey, can you make the presentation uh
+with everything that I want you to to do
+and give me the link of the presentation
+that I can look at. So now I'm telling
+it to do the actual thing that it needs
+to do to show you what the presentation
+looks like before skill and then after
+skill cuz right now we don't have the
+skill actually downloaded here. There's
+no skill which just means that the
+design of the presentation will purely
+be based off Claude's brain. Not Claude
+skills, just [music] Claude's brain. All
+right. So Claude could just finished
+doing a presentation. I can copy the
+link here and I can paste it on the
+browser. And now we can see here that we
+have a slideshow going through the
+weekly analytics report right here. You
+can see the slideshow is very
+minimalistic. So we get the benchmark
+results with my competitors with other
+people in the same space. We have key
+insights. We have idea number one. These
+are all suggested titles. And here are
+two different hooks with the target
+audience but also why this works. And
+you can see that the formatting itself,
+the way that it's all laid out is not
+the best. And we have five different
+ideas pretty much all with the same kind
+of layout. And then finally we have the
+next steps as well. Now, as you can see,
+is this the best presentation that you
+want to have on a weekly basis? Probably
+not. You want to change the design, make
+it better, make it more aesthetic, and
+change the structure of how the slides
+are laid out. And so, all I have to do
+here is I have to go to the design
+skill, go to overview, I can copy the
+actual command, I can go back to cloud
+code, I can clear the conversation, I
+can put it in plan mode so I can see all
+the steps it needs to do when actually
+downloading the skill. And I can say,
+download this skill. And then we paste
+[music] the command and I press go. It
+says this is a simple command task. Let
+me write a quick plan for you and get it
+approved to execute it. So I can press
+yes auto accept. And what you should see
+here is on the left hand side and
+outside it is installed. You should see
+the claude folder and it has a skill. In
+this case we have the canvas design
+skill. And the canvas design skill has
+the canvas fonts. So all the different
+fonts that you need to use when making
+designs. And then license.txt which is
+just a legal document going through the
+license of the actual skill. And then we
+have skill.md. Now if you remember if I
+go to the skill here and I go to code,
+we have this right here. This right here
+is a full prompt which is the exact same
+one that we have downloaded here. The
+only difference is that I didn't have to
+copy paste. I just had to paste the
+command. So with that said, now we have
+the claude skill here. I can clear the
+conversation
+and I can say okay can you please make
+the weekly YouTube report and can you
+look now at the claude skill that I have
+downloaded uh which is a canvas design
+skill when making the actual
+presentation make sure the design is all
+good and give me the URL of the
+presentation. Okay, so now the prompt is
+pretty much the same. The only
+difference is that I'm telling it to
+look at the cloth skill when giving me
+the output. Now the reality is that most
+times you won't have to tell it to look
+at the skill. It would already have the
+skill. So it would already know that it
+needs to use what it has. But I just
+wanted to be sure just to show you once
+the output. All right. So now I just
+finished making the new presentation. I
+can copy the link. If I go here, I can
+paste it and I get this one right here.
+As you can see, the design is different,
+right? It has color now. The layout is
+much better. The way that it looks and
+feels much better. The formatting is
+much better than the one that I had
+before, right? For idea one, two, three,
+four, and five. And each idea has title
+options, hook one, and hook two, why it
+works, target audience, and also next
+steps as well. So you see how just by
+adding that specific skill for the
+canvas design to make better
+presentations and better designs, they
+now made a complete makeover when it
+comes to the presentation itself because
+the information in the presentation from
+one to another from here to here it's
+all pretty much the same. The only thing
+that we changed here is the actual
+layout of the presentation. As you can
+see this is all white the table itself
+here compared to this table one and two.
+And it just makes it much better as well
+when it comes to the layout and the
+final design of the presentation itself.
+Also bear in mind that if you're not
+happy with the design itself, then all
+you have to do here is go to claude
+skill.mmd and you can just edit this. I
+mean this is a prompt, right? So or just
+like someone else made the prompt, you
+can simply go here and edit it. So if
+you don't like the canvas creation, then
+you can change this part as well, right?
+Or you can fit into AI say, "Hey, this
+is the cloud skill. I don't like this
+part about it. Can you change it this
+way?" And it will do it. And now Claude
+will use the newly updated skill that it
+has, which is actually the beauty of
+skills because it's so uh it's very
+flexible with the way that you can use
+it. Now that we looked at how the clot
+skill can be applied when it comes to
+making presentations, let's now look at
+websites. So how can it impact your
+ability to make websites with claw code?
+All right. So right here I have claw
+code and I asked it to make me a
+website. I never actually give it any
+instructions as to how to make a website
+any sort of skills on how to make a
+website. All I told it is can you make a
+website and call it jam solutions. Just
+make the website and give me the local
+host link so I can open it and see it
+for myself. Include services, include
+the about section m and just give it the
+overall layout. Okay. And after a few
+minutes, it came up with this website
+right here. We grow brands that matter.
+So, Jam Solutions, marketing the Agency,
+and very, very simple services, about
+section, contact, and get started, which
+doesn't even work. With that said, of
+course, this isn't the ideal website,
+right? Cuz it the layout isn't as nice
+as we want it to be. It looks very AI,
+and I personally want to have this up on
+the web. So, with that said, let's go to
+the Clark templates, create a design,
+and now we can start to think about the
+kind of skill that we want to give
+Claude. Ideally, we want to give it
+something called front-end design, which
+helps with the way that it looks on a
+front end. Front end is just like the
+interface for the user, right, for a
+website. [music] So, we can use this,
+but also what we can do is we can do 3D
+web experience. [music] So, we can try
+group up two different skills in the
+same project, which is totally fine. We
+do it all the time. So, let's do it. So,
+I'm going to copy the command for this.
+I'm going to go back, clear
+conversation, and I'm going to say,
+okay, I want you to install these two
+skills step by step. Then, we have skill
+one.
+And we have skill two.
+Go back here. Go up to 3D web
+experience. And then I can copy the
+command and [music] so on. Because a lot
+of the times you don't want to just use
+one skill. You want to be using multiple
+skills depending on what you're doing.
+And I'm going to press go. And now it's
+going to start thinking about how to
+structure and also how to install these
+two different skills. I can press yes,
+auto accept. And as you can see, it's
+doing the pretty much the exact same
+thing as we were doing before. The only
+thing now is that it's downloading it
+for two skills, not just one. You can
+see here the folder claude is downloaded
+and we have skills. The first skill is
+front end design and then now we have 3D
+web experience as well. Skill MD here
+and we have the skill MD here. Now I
+know that this can get very confusing
+especially with the skill.md py files.
+It looks very techy but just know that
+this is just prompts. Skill.md is the
+prompt for the the skill and skill.md
+here again is a prompt for the 3D web
+experience. And these are the prompts
+that cloud code is going to use when
+actually making the website. So what I
+can do now is clear the conversation and
+I can say uh hey clode I want you to
+make me a website uh for JM solutions
+which is an AI automation agency. We
+help people with CRM designs we help
+people with backend delivery system
+specifically for marketing agencies.
+Yeah. Yeah. So, make me a website,
+include the service, a bot section, uh,
+and so on. And make sure to use the
+skills that are given to you to be able
+to do this. And give me the local host
+link so I can actually open the website
+and see for myself. And I can press go.
+Now, to be fair with you, for something
+like a website, I would be using
+anti-gravity over claw code just because
+it is better overall at making websites.
+Uh, but you will see just the difference
+in what we'll be able to do here with
+the skill available. All right. So, I
+just made an implementation plan. This
+is phase one until phase believe five to
+be able to make the website. And it also
+made tasks that it has to go through
+step by step. [music] This right here
+wasn't something that we had before
+because now it uses a skill to say okay
+when we have to make a website we have
+to go through XYZ step by step. And so
+in this way we're also being more
+structured and it's going to follow a
+different framework [music] to be able
+to actually build the website itself.
+All right. So cloud code just finished
+making the website and if I go here I
+can see the newly updated website with a
+different feel to it. So now it has kind
+of 3D uh boxes here, has more of a look
+to it, and obviously it upgraded from
+the previous website here. So just by
+adding this exact scale, we're now able
+to see a full revamp on the website.
+Very similar layout as before, but you
+can see the overall design being a lot
+better than the one we had before.
+Obviously, can you make this better?
+100%. You can improve the thing. You can
+actually have a cursor that goes on here
+that you can move around. You can make
+this more 3D. You can have this buttons
+press and so on. You can have these
+numbers actually appear once you scroll
+down. You can do a lot more stuff with
+this. But just the fact that we added
+these actual skills, it made the quality
+two times better here rather than the
+website that we had before. So now you
+saw how skills can actually improve the
+quality of your agentic workflow or
+actual system or website using cloud
+code. Now an important thing is that we
+only use creative design, but you can
+also use document processing. So for
+example, if I'm processing PDFs, I can
+use the PDF processing skill. If I'm
+doing invoicing, I can go to invoice
+organizer and you can use the skill to
+be able to organize your invoices on
+your computer. Obviously, this doesn't
+have all the skills that you can think
+of, but it has most of them. I mean, 670
+and it keeps growing day by day. So, it
+all depends on what it is that you want
+to build. If you want something more
+creative, then you create a design. If
+it's something more web development
+based, then you do web development. If
+it's something more scientific, then you
+use if it's something within documents
+and you use document processing. And if
+you want a full guide on how clock code
+skills work in a written format, then
+check out the second link down below in
+my free school community. You can go to
+the classroom section. You can go down
+to the templates vault and then you can
+go to the vibe coding and you'll be able
+to see a new video up here which is
+going to be the cloud code skills and
+you'll be able to press this button and
+get the actual guide itself. Disclaimer
+is that not everybody gets in. So please
+put some thoughts into your answers when
+you apply. So now you understand the
+main fundamentals of cloud code skills
+that you can start applying right away
+to be able to make your gentic workflows
+10 times more powerful. I highly
+recommend you use these whenever you're
+making anything really and just take a
+look at what you know they have in place
+so that you can actually increase the
+quality without having to use your own
+prompting to do it. There's someone out
+there who's done the hard work, might as
+well just use his. And if you want to
+work with me onetoone to be able to
+start and scale your own AI agency, then
+left the first thing down below to a
+one-toone mentorship program. And if you
+want to dive deeper into cloud code,
+then check out this video up here where
+I show you eight insane cloud code use
+cases that you can start using to be
+able to sell to businesses right away.
+With that being said, I hope you found
+value from this video and I'll see you
+in the next one.

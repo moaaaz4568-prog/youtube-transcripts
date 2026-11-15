@@ -1,0 +1,306 @@
+Hello, this is how we are serving
+one of our clients, Alliance.
+They have more than 14 brands and, since April
+, our B2B system has identified
+more than 40,000 web visitors.  This is
+how we segment all those
+visitors across your 14 websites in
+real time using AI and Clay,
+fully integrated into your entire system.  This
+video will be quite detailed.
+Actually, it's a follow-up to the
+post I made last week.
+If you're just looking for a quick summary,
+you can certainly check out that
+post if you want.  But
+basically I'll walk you through one of their
+websites, how we put it together, and how we
+designed it.  The main goal is that,
+when you look at Alliance, right?  They
+target individuals, of a B2B type, but they do
+n't necessarily try to focus on
+someone from a specific company.
+They try to talk to every person who
+works, for example, for this brand,
+anyone who works on a product or
+something similar, right?  This is the
+brand we'll be looking at today, right?
+They came to us in June and Rich
+asked us to build this whole system.
+I think it's probably the
+most complicated, deep, and
+complete B2B system I've ever seen.  It will be great to
+go into more detail and show you the
+technical aspects of how the board works,
+right?  Here's a summary of all
+the complex things that happen, and
+we'll look at the table line by line in
+a moment.  Basically, we receive
+all the data through our
+B2B, right?  They provide us with
+excellent data about who the individual is
+and what page they visited, and we do a lot
+with that information.  What city or
+location are you from, what is your
+email address, and
+all that kind of stuff.  We take a lot
+of that data, direct it, and
+enrich it with various elements, such as
+their job title or which URL they visited.  In addition, we need to know
+which website the potential customer came from
+, what industry they work in, and
+who they sell to;  We're writing
+a lot of AI lines based on that,
+right?  And we are also carrying out
+several checks to find out how to
+distribute it for this single brand across
+more than 17 different campaigns.
+So, let's jump to Clay's table
+here, shall we?  And well, you can
+see here that basically our B2B
+is giving us all this kind of data
+here.  And we can extract all of that and
+then dump it here.
+We are doing some
+basic tasks such as normalizing websites
+.  Another thing we're doing here
+is normalizing the captured URL.  The
+captured URL is very important because
+through this field we can know if
+they are viewing an event, or if they are
+viewing an entry for an event.
+We can see if they are simply on
+an educational page, so perhaps they are
+looking to buy a certification.  And
+there are many interesting things about that.
+In addition, we have this integrated with the
+Alliance HubSpot account.  They
+have targeted business accounts
+that they are trying to close and that their
+sales team is working on.
+They have sponsors they would like to
+attract to certain events.  And in
+real time, as we identify
+these people, we can say, "Hey,
+this person is a potential
+business customer."  So we can, you
+know, give them higher priority to be
+contacted in real time.
+OK?  So, anyway,
+we're normalizing some of that.  It's just
+formalities and things like that.  The
+next thing we do here is this:
+we have another table that we have created and
+that syncs with HubSpot.  In other words
+, if they are sponsors, they will be on
+that list.  And what this does is
+ask: "Is this person or this
+company on that list?"  And if
+so, we'll send them a
+certain way, okay?  Then
+we extract their job titles and, if they don't have a
+natural job title, we check their
+LinkedIn account to see what it is, and
+merge all the job titles here.  The
+next thing we do is offer something
+different to people if they are at a
+director level or higher, or if they
+are below that level, right?  And we're also
+going to normalize his position.  Because if
+I said, "Hey Joe, you're the
+senior product marketing manager, D2C."    It
+looks very strange.  So we just
+want to normalize it so that it looks like
+normal spoken language.  Just like
+this, right?  Head of
+Product Marketing and Campaign Strategy,
+Adobe Stock, right?  We're just going to
+say, "Hi, you're the head of
+product marketing, right?"  And here,
+basically, whether they are A or B, this is
+only if they are director level or higher,
+if I remember correctly.  Let's see.  Ch, ch, ch,
+ch, ch.  Oh, no, no.  For this
+particular filter, it's whether they have something to do
+with marketing or product.  So
+potential customers A have something
+to do with that, and B go to a
+separate campaign.  Because our
+logic here is that I think people
+are too strict with their
+B2B flows when creating them.  Because the way I
+see it, if someone visits the website,
+that's a
+high enough intention that I don't
+care where I work, right?  And
+especially for your
+particular product, right?  It could be
+someone who is studying and
+learning this, or whose
+current job is something similar to product development,
+right?  So it won't hurt to
+send them an email;  In the worst-
+case scenario, it would simply be: "Hi Joe, I saw you on
+the website. Did you have any questions
+about what you were viewing?"  Even just
+saying that can generate an incredible amount of business for a company.  So, do they have
+anything to do with the product?  Then
+we cleared his position because we
+will mention it in the text.  And something
+we do for some of these segments
+is use AI to research the
+target company and tell us, "Who are they
+selling to?"  So we can insert phrases
+like: "Hey, so you can take one of
+our courses and be better
+prepared to sell to individuals,
+families and members, or to engineers,
+architects and project managers, or
+mental health personnel,
+childcare providers and
+family resource managers," right?  So it
+makes it super specific for
+them, right?  The next thing we
+were going to do, and I don't know if we actually
+activated it, was to say: "If someone
+works at this company and has this
+position, how could they use the Product
+Marketing Summit, which is an event that will take place
+, to sell to their
+ideal customer profiles?"  And we're
+inserting the answer here.  And
+we're saying, "Go to the website, um,
+and understand that, and also, this is what
+the Product Marketing Summit does,
+okay? And this is a
+somewhat generalized version. So we can
+say specifically, "Hey, Sally, um
+, this Product Marketing Summit could
+help you specifically to sell to, you
+know, mothers, fathers, or whoever
+your ICP is, in this, this, and this way, and
+it's able to make that inference,
+again, in real time."  All of this
+happens programmatically and, uh,
+automatically, right?  Um, the next thing
+is, um, if they're sponsors, right
+?  What we can do here is, um,
+we're basically doing the same thing
+as them, but it's specifically
+for the sponsor's path because
+this isn't about a, uh,
+summit, right?  So, um, you can
+see it here, which is good.  Um, and
+then, finally, um, you know,
+what category, uh, does the
+sponsor fit into?  And finally, here's
+that seniority classification: if
+they're at a management level or higher, or
+lower, they're in group A or
+group B, okay?  And from there,
+what we did was build a bunch
+of formulas that, basically,
+based on everything we had to
+find out about people, all
+these "if this,
+then that" statements, correctly direct them
+to the campaign, right?
+So, this one says that if the
+captured URL contains "world" or includes "/
+register" and these others, uh, as a
+check of the
+sponsor landscape, then we want to
+make sure they're not
+sponsors, right?  If all those
+things are true, then they're going to
+enter this campaign, right?  And what
+we're doing here is that almost
+all campaigns have three
+sub-segments within them, where they are at the
+executive level or higher, senior.  If
+they are below, then they go to this
+campaign.  And then here, if they're not an
+ICP, so that first filter we
+had where, you know, do they work
+in product marketing or something like that?,
+if the answer is no, then
+they'll receive a slightly
+different variant of this campaign.  And then
+all of these are being charged to the
+wrong account.  All of these are being
+uploaded to your smart
+lead account in real time, right?  And so, it's
+simply generating them at full
+speed.  And then, what
+we've also done for them, in addition to these
+Clay setups, is create and
+maintain over 363 email accounts
+, which is about 200 domains
+in total that we manage internally
+for them in real time.  This way, they don't have to
+worry about
+deliverability, or about splitting a
+bunch of domains or managing
+multiple administration panels.
+We take care of all that,
+because our specialty is
+precisely
+email deliverability.  So, here's
+the next branch: if they
+also visited a
+ticket page, and then the subgroups there.
+If they are on the event's sponsor list
+, then they go here.  If
+you visited the certification page,
+then you are receiving this campaign.
+Saying something like, "Hey, if you got
+the certification, I could help you in
+such and such a way."  And so
+on, right?  If they visited
+the mentoring page, or if they visited
+the teams page.  Here we do
+another check to say: "
+Are they on our company's target accounts list
+?"  This one is
+, so they'll receive an
+email there.  And then, the
+default alternative is something we
+use if they don't meet the requirements
+of any other option, to have a
+backup answer.  And here I would say "
+false" if they did not enter any
+campaign.  This is just for us,
+to make sure everyone is being
+directed correctly and there are no
+conflicts.  This formula
+verifies that, to ensure that everyone
+is well taken care of.  Is each
+person going to just one campaign and not
+several? And do they have a place where
+they fit in? Do they have a campaign to
+go to?  This whole structure and the way
+we've organized it has been a lot of
+fun to build.  And beyond
+that, we are now talking to them
+to help them get a
+Clay Enterprise account.  We will help you
+train a large part of your staff
+in the use of Clay.  My team and I are going to train
+between eight and ten of your employees on
+how to use Clay.
+That way, they will be able to do their
+work in the future without
+us needing to be present.  And once
+again, this is just one of their 14
+brands, uh, that they have, right?  Uh, we
+also help them to, uh, negotiate and
+get a good deal on our
+B2B premium for the whole year, since
+we also handle all our
+B2B shipments, right?  So, uh,
+this is just to say: here's what we
+'re doing, what we're
+working on, and hopefully, if it can be
+of help to you, then great for what
+you guys do.  So, have
+a great day.  Bye bye.

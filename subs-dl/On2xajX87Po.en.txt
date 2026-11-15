@@ -1,0 +1,613 @@
+Hey Ken, welcome to the show.
+>> Hi, nice to have me.
+>> Yeah, I'm excited to have you on. Tell
+us who you are, what you do.
+>> Yeah, so my name is Ken Mloud. I'm the
+father of three young kids and we live
+up in the mountains in New Hampshire.
+Uh, in terms of what I do for work,
+you've probably noticed that a lot of
+agency owners realize that AI is
+changing the game right now, but they
+struggle with where best to employ it in
+their agency. So, this is where I come
+in. I help find the best kind of high
+leverage opportunities for employing AI
+and then I build out tools that increase
+revenue and profit without also
+increasing headcap. I love it. I love
+it. Yeah. I mean, you know, AI has been
+around for a while. Um, but I think more
+and more people are paying attention to
+it, realizing that, you know, I think
+when years ago people were like, "Ah,
+it's going to replace my job." And I
+always look at it as like no, it's the
+people that use AI will replace your job
+if if you're kind of that lagger. I kind
+of look at it as when the internet
+started being widely used, right? Like
+people are like, I don't need a website.
+I don't need to put my stuff on there
+and that kind of stuff. And I kind of
+look at it kind of history repeating
+itself. So I want to start off with
+because I think a lot of people struggle
+with this.
+Where
+should I implement AI or not implement
+in my agency?
+>> Yeah, this is kind of the big question,
+right? So, the most important thing to
+do is to avoid the solution in search of
+a problem syndrome, right? Which is
+really tempting to do. I've
+unfortunately been involved with a
+couple of these where it's like the the
+owner or one of the founders goes
+looking for we've got to find somewhere
+where we can use AI and they see some
+task that they think is a good fit for
+AI you know based on usually their use
+with chat GBT or something like that
+uh and then they go there that's the
+project go build it out that can be AI a
+lot of times without a lot of strategic
+thought about the project or with
+talking without talking to the people
+actually doing the task dayto-day. And
+this is a recipe for winding up with a
+tool that either isn't that valuable to
+the business or maybe doesn't get used
+because it's meeting some resistance
+from the people who actually do that
+task every day.
+>> Yeah. The the real way to look at it is
+to start from the business side and then
+find the place to apply AI. So, I like
+to use the theory of constraints here
+where you start with thinking, is my
+agency supply constrained or demand
+constrained? And you probably know that
+already off the top of your head. But if
+you don't, a good rule of thumb is if a
+fairy godmother came through the door
+and waved her magic wand and doubled
+your number of customers today, would
+that be a good thing or would that go,
+"Holy crap, something broke."
+>> Right? So if that's a good thing, then
+really you're uh demand constrainted and
+you need to generate more demand. If if
+that fairy godmother waving her wand uh
+would break something, then you're
+supply constraint and that thing that
+would break is a perfect opportunity for
+what your project ought to be because
+that's telling you right where the
+bottleneck is in your operations. So, if
+you can loosen up that bottleneck,
+increase the size of the pipe there, now
+you can flow more water and therefore
+money through the pipe.
+>> I like how you broke that out because
+Yeah, I remember I mean you remember
+kind of the dot bomb error, right? Like
+you put a.com on it, right? Same thing
+happening with AI right now.
+>> Yes. So, great analogy,
+>> right? And then I mean that's how Nate
+really came up with the ask quick,
+right? Because and for people that don't
+know Nate or the old agency dad, he was
+a fractional CFO working with a ton of
+clients
+and trying to get them answers and he
+came up with idea of what if I create
+this AI CFO. Tell us the story a little
+bit about that because wanted to do an
+NAD integration.
+>> Yep. Right.
+>> Yeah. Know, this is an interesting one.
+So, uh, like you said, Nate's got a
+bunch of experience, uh, acting as a CFO
+for marketing agencies. He's actually
+also a college professor, teaches
+classes in this kind of financial
+accounting stuff.
+uh and he started trying to build out an
+NADN automation to connect to his
+clients QuickBooks accounts in order to
+do kind of some of the uh the kind of
+number crunching work that he typically
+does
+>> client clients. Yep. And uh that got to
+the point as like these NAND projects
+often do where it got kind of overly
+complicated and needed to break out of
+there. And that's where he started
+working with me. So what we wound up
+doing there was building a chatbot like
+interface like you're used to seeing in
+uh chat GPT or Gemini or any of these
+tools. But there's a couple important
+differences there. The first one being
+it's been loaded up with essentially a
+textbook that Nate has written
+specifically about how to manage the
+finances for marketing agencies based on
+his experience he's had with a bunch of
+of agencies across the world. And then
+the other thing we've done is we've
+built tools for that AI to hook into
+your QuickBooks account so that it's not
+just giving generic advice about how
+agencies ought to be managed. It can
+actually look at your numbers, your
+revenue and profit and uh costs and
+expenses per account and give you
+specific advice of, hey, you know, this
+client's actually losing you money or
+perhaps we ought to restructure comp in
+this way. You know, the financial
+stuff's over my head, but that's
+>> mine, too. I I remember when when Nate
+came to me, he's like, "Hey, I want to
+sponsor the podcast for this." I was
+like, "Tell me more about it." And I
+started looking at the marketing. I was
+like, "Oh my god, this marketing is
+horrible." You're But that that's why it
+works because he's so good with the
+numbers. I was like, "You got to rebrand
+this into askquick.ai and and we'll I'll
+help you with this." A huge portion of
+that work was getting like just enough
+of that financial data out of Nate's
+head and into mine so that I could wire
+everything up correctly.
+>> Yeah, it's it's a it was a good team. So
+for for everyone, go check out
+askquick.ai. But that this is not why we
+we jumped on here. So let's let's talk
+about two because now let's say we have
+we don't have the capacity like we're
+we're maxed out, right? the business is
+double like it would basically take us
+down. So a lot of people look at tools
+and I've I use tools like naden and we I
+make.com and zapier which everyone knows
+which does a really bad job at any AI
+stuff. How do you separate the
+difference between doing it there or
+having someone like yourself custom
+programming it?
+>> Yeah. Um, so all of those noode, low
+code tools like nadn and make.com are
+really cool, powerful tools. Uh, the
+thing is that it's still really a
+technical skill. Like they like to pitch
+it as though uh like anybody who's never
+touched a computer before can just walk
+in and build this crazy agent
+blocks around.
+>> Yeah. cuz you know I I have a bunch of
+workflows on edit edit in and they keep
+breaking and it's annoying the out
+of me. Like I literally want to punch
+them in the face.
+So it's there is a sweet spot for those
+kind of workflows and it's simple tasks.
+And I mean I don't mean simple in a
+technical sense but like you could write
+out what it's doing in one or two
+sentences, right? the sort of thing like
+when this web hook fires I want to send
+that email this and you know maybe
+that's a feature that's not built into
+the tool that you're using well you can
+kind of add a feature like that using a
+simple nadn or make.com workflow and
+that kind of stuff is where it's perfect
+like you don't need a lot of technical
+skill to make that work you can get it
+done really fast and since that's going
+to be like two maybe three nodes in
+there that's going to be about as
+reliable as these things at the the
+stuff where people wind up shooting
+themselves in the foot. And it's okay
+because you usually don't have a huge
+investment in these things. But where is
+the number of nodes starts growing and
+it gets more and more complex and like
+you're saying it's it's breaking
+constantly or you're spending hours
+researching how to try to get it to do
+this one thing connecting with your
+email provider. Uh, and a lot of times
+when I see that I get I've when I've
+worked with these systems before, I get
+super frustrated because I know if I
+could just write the code, I can do that
+in like one line or two lines, this
+would be over in 30 seconds.
+>> Yeah.
+>> So, it's not at all that there's no use
+for those tools. And basically, if if
+you're sitting there thinking, I think I
+know how to build this in N8N, I could
+just do that. then you probably should.
+You know, it's where you go like, "Yeah,
+I have no clue how to build this out in
+NAND or uh you know, you got to go on a
+a two-hour long Google and YouTube
+adventure to figure out how to do it."
+Then that should start putting your
+radar up that maybe this is a better
+solution for custom code.
+>> Yeah. Because there's I mean I've fallen
+trap to this. Like I'll go on YouTube
+and I'll see a video and the video will
+be like a whole complete sales agent
+>> on any 800 nodes on the in the YouTube
+>> and this this guy that's doing this is
+probably like 18 years old and you know
+he'll you know it's just I'll leave it
+at that and he just makes it look so
+simple. Right. It's kind of like when I
+came up to you with the the idea for the
+agency grader, right? Where it basically
+you ask, you know, the the grater asks
+you maybe five or six questions about
+your role in the agency as an owner and
+then it puts you compare it to the top
+1% of agencies and then gives you some
+suggestions based on AI and a it gives
+you a grade and it's really pretty cool.
+Well, if you guys want to check it out,
+go to jasonwank.com/
+agencygraater and you can check that
+out. But like walk us through that a
+little bit of of kind of your thinking
+because I think that'll help people out
+as well.
+>> So that's a good example of where uh
+it's simple enough what it's doing. Like
+you can put blocks in N8 in order to
+make calls out to LLM uh and do that
+sort of thing. Uh, but you want to be
+able to have the flexibility to adjust
+that prompt, adjust those questions, uh,
+design the page you want to have the the
+way you want to have the page designed.
+And I'm sure you could build something
+like that in N8N, but we've just got so
+much more fine grained control. You
+know, it's like a a standard
+transmission versus an automatic
+transmission. We've got a lot more fine
+grain control over what the engine's
+doing here.
+>> Yeah. Yeah. It's uh it just makes it a
+lot easier. I I just,
+you know, where do you think a lot of
+this AI is actually going on a
+programming side? Not for getting people
+ranked in AI, but where do you think
+this is all going?
+So, I see
+kind of the right way to think about
+this stuff is like we were talking about
+earlier, giving your team superpowers. I
+think in the in the intro you first
+brought this up. So the most effective
+way to do this is rather than thinking
+about it in terms of you know robots
+taking people's jobs, it's how can I
+take my current team and grow with that
+team by giving this team superpowers
+using tools like this. So you can take
+all of the monotonous, repetitive work
+off of their plates and delegate it to a
+tool like this that maybe just needs to
+be occasionally supervised and then you
+free them up to spend their whole time
+on their highest value work. And when
+you're doing it that way, people usually
+prefer to do the high value work
+>> and they'd rather not be doing the
+monotonous stuff. So rather than having
+push back from the team, people are
+excited to roll out those kind of
+systems.
+>> Give us a couple other kind of stories
+about things that you've
+worked on because if I think a lot of
+people are like me, I got to hear
+something like a use case and be like,
+"Oh, okay." Like I can kind of
+>> No, this is super common when I have a
+first call with people. Uh, so one
+that's probably a good example here is
+I'm working with an agency out of
+Australia that's in the medical industry
+to not give too many specifics away. Uh,
+and they've got good examples of picking
+the right project to do and one where we
+probably could have done better on
+picking the project.
+>> So the first one where they definitely
+did it right is they do a lot of content
+marketing around medical stuff. So it's
+there's a lot of long form highly
+technical content being written for
+stuff like emails, blog posts, uh long
+form social media and videos.
+Uh and they also have uh a repository of
+uh what's the right way to say this? A
+repository of past content, speeches and
+this sort of thing, talks that doctors
+have given in this field. uh that's kind
+of their internal knowledge base. So the
+first project that we did which was a
+huge success was we built them one of
+these chatbot type interfaces that has
+access to that huge knowledge base of
+theirs around this specific medical
+topic. So now when they're writing uh
+marketing emails or writing blog posts,
+long form scripts, they can go and work
+with that bot back and forth to pull
+interesting facts out of the database,
+stats, studies, this kind of stuff, and
+help them refine the copy just like you
+would in chat GPT except now it's also
+got access to their whole database of
+this kind of proprietary medical stuff
+that they're working with. Uh in
+addition to that, they can also upload
+individual documents into the chat. So
+if they've got a particular uh piece of
+content that they kind of want to
+emulate or some new bit of information
+that isn't in the database yet, they can
+throw that in.
+>> Nice.
+>> And they've got a pretty big team
+writing this content and have absolutely
+loved that tool. That was a big win.
+>> Awesome. Gib's another example.
+>> Yep. So the followup I would say is less
+of a big win and is one of these
+examples of a solution in search of a
+problem. So the owner there was rather
+enamored with the feature in chat GPT
+that lets you organize your um your
+chats into folders over on the left
+sidebar there. And so he wanted this big
+grandiose
+uh version of that where you would
+create a folder structure for all the
+topics that these people were
+discussing. There's a lot of very
+specific medical stuff and then maybe
+some more folders uh to cover specific
+types of content. You know, one for
+marketing emails, one for long form
+video scripts, this kind of stuff. And
+then as each chat evolved,
+the AI would look at it and drop it into
+this nested folder structure in the
+correct place, you know, and it's not
+just one level of categories. It's like
+a file system in a computer. Like you
+can have subfolders, subfolders, and
+subfolders.
+>> So, you're starting to see how
+complicated an system got. Uh and so
+then his thinking is if you want to find
+uh a previous chat with some information
+on topic XYZ, you could just drill down
+folder X, folder Y, folder Z and go see
+the chats like that.
+So, this system has been rolled out for
+over a month now, and I recently went in
+there to uh to change something else and
+looked at the folder system, and nobody
+on the team, including the owner, has
+made any folders in there yet.
+>> Really,
+>> the the test setup worked, but then we
+cleared out the test setup.
+And when I talked to them about it, it
+was like, "Yeah, well, it generates new
+responses really quick." So if you want
+to know about topic XYZ,
+just hit new chat topic XYZ and it gives
+you what you're looking for. So like
+why? It's not worth spending the time
+categorizing everything in this
+intricate
+>> uh folder structure. So, it's a great
+example of
+had a solution in mind when looking for
+a problem for it versus attacking. You
+know, if we would have gone and talked
+to the copywriters, not one of them
+would have said something like, "What I
+really need is organization for these
+chats."
+>> Yeah. Yeah. It's uh
+Yeah. It's kind of what I saw in the
+very beginning as well, right? Like
+people are like, "I got to use it."
+Especially if I'm trying to build, you
+know, my business up and sell it one
+day. Like if I can put tech to it or AI
+to it, it's going to increase my
+multiple.
+>> Yeah. We'll trick them into thinking
+it's a software company. Uhuh.
+>> Yeah. Yeah. No, it's not. So, um, is
+there any other examples that you think
+would be good for the audience to listen
+in, be like, maybe get some ideas?
+>> Yeah. So, there's another great one. I'm
+seeing this overall trend and actually
+your uh your agency survey here is
+another good example of this where it's
+the sort of thing that a few years ago
+we might have done with code. You know,
+we might have said if they if they gave
+this sequence of answers then show them
+this report. If they gave that sequence
+of answers, show them that report. You
+know, you can imagine hard coding out a
+bunch of if statements to do that. Uh
+and there's a lot of business logic like
+that obviously. But now there's a lot of
+situations where we can replace that big
+chunk of nasty code with an AI prompt.
+And there's a trade-off here because the
+AI prompt is certainly less reliable
+than
+>> control then statements.
+>> We don't want to do something like this
+when we're like moving bank account
+statements around. Mhm.
+>> Uh but if it's a situation where it's
+low risk enough that we can do that,
+this means that if it's the sort of
+thing that's going to change regularly,
+then it can be changed without having to
+employ a developer because you don't
+need to go in and change code. You just
+change the prompt as though there was a
+human teammate doing this and you're
+writing them an email to hey we used to
+do XYZ now let's do it ABC and just in
+English and then the system starts
+behaving that way.
+>> Yeah. So, there's another group that I
+worked with down in Tennessee who uh
+their play, again, not to get too
+specific here, it's essentially an
+arbitrage play where they get a high
+volume of deals coming through and they
+know certain ones will be profitable for
+them to grab and others won't be.
+Uh, and we're on the order of like
+hundreds a day.
+So, previously they had people sitting
+there
+>> looking at these deals coming through
+and trying to grab the ones that looked
+like they were going to be profitable
+and that was working okay, but this is
+the sort of thing where speed to lead
+matters and if you don't move on it
+quick enough, the opportunity is gone.
+>> Yeah. So essentially they were having a
+lot of stuff, a lot of profitable
+opportunities fall off the side of the
+plate because that human system wasn't
+reacting to them fast enough.
+>> Yeah. I mean Yeah.
+>> Yeah. I mean you got to speed is
+everything.
+>> And also you know when we were coming up
+with agency greater you know my thing
+was
+and I think this is for a lot of
+agencies and probably a lot of
+businesses that agencies are helping
+out. No one wants to jump into a course
+anymore. No one wants to watch a video
+of someone talking for 40 minutes with
+like five minutes of actual good content
+if that. And so when I came to you with
+the agency greater I was like look here
+are the most important questions. And
+that's what I really like that you did
+was you credited dynamically so I can
+change the questions later on. I said,
+"Here are the questions and here are
+kind of the the different options I want
+them to select from and then let's put
+this in an open a model based on like
+our methodology of the top 1% of agency
+owners and give them a grade, but then
+also give them what they need to go do
+like and having that as an opt-in. It
+goes back to you know what HubSpot did
+many years ago with the website grader.
+How popular was that? That was huge.
+Yeah, definitely. Uh that whole
+the idea like none of us even Google
+search anymore, right? Practically I I
+saw a stat the other day that worldwide
+Google traffic was down 40%.
+It's because like I know I'm going to
+have to click through three or four
+listicles and get through somebody's
+blog post before I get the answer that I
+want. And if you just go to a good AI
+and phrase your question decently,
+you'll get the answer you're looking for
+in a single sentence.
+>> Yeah. I I I literally had this happen
+this morning. I My wife was like, "The
+hot water is not working." So, I went
+out to the water heater, took a picture
+of it, said, "What's going on with
+this?" It said, "Oh, is the pilot light
+on? Not on." like it walked me through
+everything rather than going to
+someone's stupid blog article that an
+agency wrote for this, you know,
+whatever to call them all. Like it
+literally skipped the steps and I got
+>> 45 minute long YouTube video.
+>> Yes, I know this drive me crazy, right?
+Like
+but awesome. Well, this has been a lot
+of fun. Ken, is there anything I didn't
+ask you that you think would benefit the
+listeners listening in?
+Let me think about that for a second.
+No, I think we got through all the big
+topics on my hit list there.
+>> Cool. Awesome. Uh well, if people want
+to chat with you, where can they where
+can they uh reach reach you?
+>> Yeah, the right place to get me is
+laconic.com/aggency.
+>> Spell that out for us slowly for those
+dyslexic people listening.
+>> Yeah, it's not a very podcast friendly
+URL. So that's l a c o n i c
+teec.com/aggency.
+Awesome. Well, everyone, I I highly
+recommend Ken. Uh he does amazing work.
+He helped us build the AskQu
+um which is amazing. And then the agency
+Graater, which we'll have all links to
+Ken's website to go check it out,
+especially for dyslexic people like me.
+and then uh you can check out his
+handywork on all the other stuff that we
+have. So uh thanks so much Ken for
+coming on the show and until next time,
+have a swank day.
+[Music]
+I hope you enjoyed this content. If you
+want more content like this, make sure
+you click on the link on the screen or
+check out your most popular podcast
+platform where the full episode is
+there. And until next time, have a swank
+day.
+What are you doing? Go check it out.
+Click on the link.
+I'll see you soon.

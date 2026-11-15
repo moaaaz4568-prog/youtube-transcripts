@@ -1,0 +1,943 @@
+Most people who send
+cold emails do it completely wrong
+.  They have only one email account.
+They send 30 emails a day and
+wonder why no one responds.  The
+reason is not that cold mailing doesn't
+work.  The reason is that they never
+built the infrastructure to
+support that volume.  In this video,
+I will guide you through the exact
+step-by-step process of how to send 5,000
+emails a day without being flagged as spam.
+We'll talk about everything related to
+the infrastructure, the real strategy
+behind it, how to send these
+cold emails, the writing, and
+most importantly, how to handle the
+responses when you finally
+receive them.  This is exactly the same
+system I use at Velocity Flow to
+run campaigns for our
+clients.  Everything I'm about to
+show you is what we're
+currently doing.  So, let's dive right
+into the video.  Here's
+exactly what we'll cover, so
+you can jump to the parts you
+need.  Number one, for whom does
+this strategy work?  Number two,
+the mail infrastructure.  Number
+three, the actual campaign strategy.
+Number four, how to find and
+obtain the data.  Number five,
+validation.  Number six,
+writing the script.  Number seven,
+how to schedule appointments.  Number eight
+, a complete breakdown of tools
+so you can implement it yourself
+.  There will also be a
+supplementary document in the description below
+if you want to follow along as I explain
+this.  Before we begin, I want to be
+direct with you.  5,000 emails a
+day may sound like a lot, and for
+most beginners, it is.    You
+don't need to start there.  But the
+same system I'm about to show you
+works from 200 emails a day
+up to 1,000.  The infrastructure is
+exactly the same, only a little
+smaller.  Most of the
+clients we bring on board here at
+Velocity Flow start around the
+1,000-a-day mark, and once
+we figure out what works, we simply
+double down and scale
+volume based on that.  Define
+your offer clearly.  Discover which segments are
+really working and redouble your efforts
+, because jumping to 5,000 emails a day
+without knowing what works is costly and
+slow to correct.  I teach this with
+5,000 emails a day because that's where
+the numbers start to get really
+interesting for most
+B2B businesses.  But you must understand and
+know your own situation well before
+jumping straight to a number
+like this.  The results
+you get from this will also
+vary.  The suitability of your product
+to the market matters, your segmentation
+matters, and how long you conduct
+tests matters—it all matters.  But it's a
+system that gets stronger over time as you
+build it.  TRUE?    That
+said, let's move on and turn
+to the screen here.  The first thing we're
+going to talk about is who
+this is for.  And this system is basically
+designed for B2B companies.  So
+basically, if you're selling to another
+business and not to a consumer, this is
+the strategy for you.  If you sell to
+consumers, this is not the strategy
+for you.  And I'll explain why.
+Number one, consumer data
+is much harder to obtain
+cleanly.  And number two, in many
+jurisdictions, cold mailing
+has many things you have to get around
+because it's illegal to send it to most
+consumers.  So if you're
+a consumer-facing business,
+this video probably isn't for you.
+But if you're a B2B company, this
+works for a huge variety of
+industries.
+Marketing agencies, recruitment and
+hiring firms, SaaS companies, IT;  This
+essentially works for any
+business you sell your services to.
+And then, the other thing you need is a
+sufficiently large total addressable market.  Because if
+you send 5,000 emails a day, over
+time, you'll start to exhaust your
+contacts very quickly.  So at
+that volume of 5,000 emails per day, you
+probably need between 50,000 and
+100,000 potential contacts.  So
+basically, if your total market is
+5,000 people, you probably don't
+want to send 5,000 emails a day
+because you'll be contacting the
+same people week after week after
+week.  So make sure you meet
+both requirements: that you are a
+B2B company and that you have a
+sufficiently large total addressable market
+.  And if both are true,
+then everything I'm about to
+show you will apply directly to you
+.  Number two will be
+why volume is important.  Because
+at any given time, only 3% of
+your market is likely to be
+actively looking to buy.  But
+cold mailing will simply be a
+numbers game.  Not because quality doesn't
+matter, but because mathematics
+demands it on a large scale.  And that's
+exactly why
+cold mailing is fundamentally a
+mathematical game.  It's not just about sending
+emails to everyone.  Obviously,
+you'll end up in spam if you do that.  But
+in the reality of sales, at the end
+of the day, it's simply a
+volume game.  So, let's do the
+calculations together.  If you want 10
+meetings per month, which is a
+reasonable starting goal, and your
+response-to-meeting conversion rate
+is 20%, you basically need 50
+interested responses.  If your
+positive response rate on cold emails
+is 2%, which is basically the
+industry average, you'll probably
+need 125 per day, which is
+about 2500 per month just to
+get 50 interested responses.  If
+you want 30 meetings per month, you need
+375 per day.  If you want 100 meetings
+per month, you need to contact approximately
+1,300 to 1,500 people each day.
+Mathematics, obviously, scales
+linearly.  So, the more
+volume you send, the more responses you'll
+get.  And that's precisely why
+5,000 emails a day is a great
+target that all B2B companies
+aim to reach, because with that volume
+you'll get an absurd number of
+meetings in your funnel every month on a
+consistent basis.  Now, the question
+is, how do you send so many emails without
+ending up in spam and destroying
+your domain's reputation in the process
+?  That's the infrastructure problem
+, and that's what we're going to solve
+next.  The reason
+most people fail when
+trying to scale cold emailing is
+that they try to do it from a single
+email account.  And obviously, you can't
+do that.  Google and Microsoft aren't
+going to publish strict sending limits
+, but they run
+complex algorithms in the background that
+basically flag accounts
+sending large volumes to people
+who haven't yet given their consent.
+So, the more you overload an
+account, the faster it will be flagged.  And
+once marked, your emails
+basically end up in spam
+immediately.  And once they end up
+in spam and people report you,
+your domain's reputation obviously
+plummets.  And when your
+domain reputation drops, it doesn't just affect your
+cold emails; it literally affects
+every email you send, including those
+sent to customers and prospects you
+actually want to communicate with on a
+daily basis.  So the solution here is
+basically something called
+horizontal scaling.  Instead of a single
+account trying to send everything,
+you distribute the volume across multiple
+accounts and multiple domains.  You can
+think of it as a speed limit.
+If you're going 100 miles per hour,
+the police will probably stop you.
+But if you have 50 cars going 20
+miles per hour, nobody will be stopped.
+And that is, essentially, the
+central concept.  So, let's proceed to do
+the calculations.  The safe sending limit
+per account is probably
+20 to 25 cold emails per day.  And
+that's a number we've verified
+works consistently without
+triggering spam algorithms.  And this
+could change over time, as
+these things vary, but this is the
+benchmark we
+currently use.  So, for 5,000
+emails a day, you need to divide 5,000
+by 25. And now you have
+at least 200 accounts.  Obviously, we want to
+have some leeway.  So, I would aim to
+build around 250 to 300 accounts.
+That way, you comfortably stay
+below the speed limit at all
+times.  And for domains, what we
+'ve seen that works is
+probably one to three
+email accounts per domain at most.  More
+than that, you're probably
+concentrating too much risk in a
+single domain.  And if that domain is
+flagged, you basically lose several
+accounts at once.  And with two accounts per
+domain for 250 accounts, you need
+approximately 125 domains.  And I
+would buy 150 just to give you a little
+margin.  In addition to a rotation in
+a backup domain in case something
+needs to be taken offline and you still have
+rotations in the backup.  Here are
+basically all the calculations from the
+document.  The cost of this is much
+lower than most people think.  In
+fact, domains cost from $3
+to $10 each.  And Google Workspace
+or Microsoft probably cost about
+$6 per account per month.  So let's do
+a simple calculation here.  If you use 250
+accounts at $6 each, that's
+probably about $1,500 a month.  But
+when you compare that to what
+everything else would cost in advertising to
+generate the same number of meetings,
+cold emails at scale are one
+of the
+most cost-effective lead generation channels in the B2B sector.  So
+, to simplify this, I made an
+example here.  My primary domain is
+velocityflow.co.  I have no emails
+linked to it, except my
+main business email which I use to send
+messages to clients.  What you want to
+do is create a bunch of
+subdomains and email accounts like
+get velocity flow, try velocity flow,
+flow velocity flow, use velocity flow, you
+get the idea.  You basically want to create
+a bunch of subdomains
+and email accounts from your
+main domain.  And to achieve that, what
+I would do is copy this into
+ChatGPT and tell it to create a bunch
+of subdomains.  And simply
+exchange ideas with him until
+you get the ones you really want.    You
+also need to check the
+availability of those.  So
+make sure you do that too.  And
+obviously, .com domains are going to be more
+expensive.  I like using .info.
+They cost about $3 each.  Once you
+have your list of domains to
+buy, you can go to GoDaddy, Namecheap
+, Porkbun, or Squarespace domains.
+In addition, you must remember the rules of
+the domains as well.  So
+you'll want one to three accounts per
+domain at most.  And then redirect
+all sending domains to the
+main site.  And that's basically a
+super simple process.  Then you should
+let your domains age before
+sending.  And never send from the
+main domain, because that's how you
+end up in spam and ruin your entire
+domain.  And when you set up your
+email accounts, something I like to
+do is split 50/50 between Google
+Workspace and Microsoft.  So there are two
+important things to do after buying
+the domains.  One of them is to redirect
+all your sending domains to your
+main domain.  So, if
+someone receives your email and types the
+domain into their browser, they should be
+taken to your actual website.  This,
+obviously, keeps your brand
+consistent and builds trust with
+prospects.  Number two, you should let
+your domains age before submitting,
+because older domains have a
+better reputation.  Ideally, you want
+a few weeks, probably
+around 14 days, to warm them all up
+before launching a cold mail campaign
+.  So make sure you
+plan ahead when
+you build the system.  So,
+once you have your domains, you need to
+set up all the actual email accounts
+under them.  Although
+private servers can work,
+the quality varies greatly depending on the
+provider and they require much more
+technical management.  It's really not worth
+the headache when you're just
+starting out.  What we've seen in
+our campaigns is basically
+a 50/50 split between Google
+and Microsoft.  And, obviously,
+diversifying like this protects you if a
+provider has a bad month or tightens
+its algorithms.  Basically, it helps by
+simplifying that and making sure you
+still have a backup plan.
+You stop Microsoft accounts
+when Google isn't working, or vice versa.
+And just to remind you, they want one
+to three accounts per domain, and I
+usually do two.  It's simply
+clean and keeps all the risk
+distributed.  And when you go to Google
+Workspace or Microsoft to set up
+your accounts, the platforms will
+guide you through the entire setup process.  It's not
+complicated at all.  It's super
+easy.  Just make sure you configure
+your DNS records, and that's exactly what we'll
+cover next.  There are
+three DNS records you must have on
+each domain before sending
+anything.  The first one is called SPF.  This
+basically means sender policy
+framework.  This basically tells
+receiving servers which
+servers are authorized to
+send emails from your domain, and without
+this, your emails look suspicious
+by default.  Next is DKIM, which
+stands for DomainKeys Identified Mail.
+This essentially attaches a
+digital signature to your emails that
+receiving servers can
+verify.  The next one is DMARC.    It
+basically means Domain-based
+Message Authentication.  It will tell
+receiving servers what to do if an
+email fails SPF
+or DKIM checks, and it also gives you
+visibility in the reports.
+Basically, all three are configured
+through your domain registration in the
+DNS settings.  Once
+you set up your email accounts
+through Google Workspace or Microsoft
+, they will guide you through the entire
+process.  All you have to do
+is follow the steps one by one and not
+skip anything.  And if you're missing
+DNS records, it's probably one of the
+fastest ways to ruin your
+deliverability before you even send your
+first cold email.  There are also
+some additional
+deliverability tips, such as adding a photo to
+all your Google accounts.  That way,
+obviously, you seem more human.  With
+a photo of you.  You also want to
+redirect all sending domains
+to your main website.  And then,
+as I mentioned before, let your
+domains mature for about 14 days before sending
+cold emails.  And keep your emails
+relevant because they'll report you as
+spam and that will obviously kill your
+deliverability.  Moving on,
+step number five is to connect to a
+sending tool.  Now, if
+you already have your domains, accounts, and
+all your DNS records set up,
+the next step is to connect everything to
+a cold email sending tool
+.  The two tools I
+recommend using are Smartlead or
+Instantly.  Both are
+specifically designed to scale
+cold mail.  They allow you to connect hundreds
+of sending accounts and sequence them
+to manage your campaigns from a
+single dashboard, and they have a
+built-in warm-up network to automatically warm up
+your accounts.  In
+Velocity Flow, I personally use
+Smartlead.  Instantly is equally
+solid, just choose the one with
+comparable features and that is easier
+for you to use;  In the end, both do a
+good job.  Something you should note
+is that both platforms can
+help you automate much of the
+domain and email account process
+.  So, once you're on the
+platform, just explore those
+features.  This could probably
+save you a lot of time so you don't
+have to do large-scale manual labor
+.  Step number six will be the
+warm-up.  And the warm-up is
+probably one of the steps that
+most people skip, and it's the
+main reason why
+most campaigns don't work
+well.  When you create a new email account
+, it basically has no history.
+And obviously, from
+Google and Microsoft's perspective, it could be a
+spam bot that was just created to
+send junk mail.  It literally
+has no reputation or history, and if
+you start sending cold emails
+from it immediately, the algorithm will
+probably flag it as quickly
+as possible.  So warming up your
+email accounts obviously solves
+this.  Warm-up tools
+basically work by
+automatically sending emails across
+a large network of accounts.  So your
+account sends emails to other accounts
+on the network.  Then they open those accounts
+.  They respond.  They mark them as not
+spam.  And then, over time, this
+basically builds a
+legitimate sending history and trains the algorithm
+to make your account behave like a
+real human communicating normally.
+And keep in mind that both Smart Lead
+and Instantly already have this built in
+.  So all you have to do
+is activate it in the settings and
+then it works automatically in the
+background.  Basically, there are three
+main rules when it comes to the
+heating process.  The
+number one rule is to warm up each account
+for at least 14 days before
+launching any campaign.
+Probably a minimum of two weeks
+.  Some people do 21 days, but
+obviously the more the better.  Rule
+number two is that you basically want to
+keep your
+warm-up email to cold email ratio at 1:
+1. So, just to give you an example
+, if you're sending 20
+cold emails a day from an account,
+make sure it's also
+sending 20 warm-up emails a
+day.  This basically keeps the
+proportions of your outgoing mail
+looking natural.  And rule number
+three is that you should never turn off
+warming, even when your
+accounts are set up.  This
+basically extends the lifespan of
+your accounts and keeps them
+healthier over time.  If you do
+these three things, your deliverability
+will be drastically better than that of
+90% of people who try to send
+cold emails.  Now, number
+four will basically be the
+campaign strategy.  Now that you have the
+infrastructure to send these
+quantities of emails, let's talk about
+who you're actually going to contact and
+why.  There are going to be two terms that
+you need to understand.  One will be your TAM,
+which is your total addressable market,
+and the other will be your ICP, which simply
+means your ideal customer profile.
+Now, your TAM is basically
+anyone you could sell something to
+.  That is, any company or
+decision-maker that could theoretically
+become a customer.  Your ICP is
+basically just one segment within
+the market.  In other words, the companies
+most likely to buy,
+stay longer, and get
+better results with what you offer.
+I like to think of it this way: your TAM is the
+entire ocean and your ICP is the
+specific type of fish you are trying to catch
+.  Most try to send emails to
+their entire addressable market with
+the exact same message.  It's like using
+the same bait to catch any
+fish in the ocean.  But when you reduce your
+ICP and segment it, everything else
+changes.  Most try to send
+emails to their entire
+addressable market with the same message,
+such as: "I help businesses grow."    Do
+you want to talk?  That's obviously
+too broad, generic, and doesn't
+work.  However, when you take a
+piece of the pie, i.e., your ICP, and
+segment it, everything changes because you can
+write emails that demonstrate that
+you know their business, because you actually
+do, and you are targeting them
+specifically.  Basically, to
+define your ICP, look at your best
+customers, perhaps the last 10 who
+paid you, or even those who
+stayed the longest or had the best
+results.  And basically, that profile
+is your ICP.  Then, note down the industry
+, company size, job title,
+geographic location, and any
+other filters that describe those
+people.  If you're just starting out and don't
+have any clients yet, start with the TAM (Total Average Meter),
+try everything, and then filter out those you don't
+consider suitable.  Let the
+data tell you who is
+really responding, and that will be your ICP.  Now,
+once you have your ICP, you need to
+divide it even further into smaller parts
+, or smaller segments.  This is
+probably where the biggest advantage
+of cold mailing lies.  And this is
+exactly why segmentation
+is important.  If you send the same
+message to all law firms, you
+'re basically writing for an
+average.  But if you send emails to
+commercial litigation firms
+separately from divorce firms, you can
+write a message that really addresses
+the specific situation of each
+one.  Obviously, the more
+specific your message is, the more it
+will resonate and the higher your response rate will be
+.  So there are multiple
+ways to segment your market.  You can
+do it by industry or sub-industry,
+by geography, by age, by
+pain points, or by
+triggering events.  There are a lot of
+different ways, but this is the
+balance you basically need to
+find.  Segments that are
+specific enough to
+write targeted copy, but
+large enough to provide volume to
+work with.  So if your
+segment basically only has 200
+people, it's probably a
+two-day campaign, and that's obviously
+not scalable.  When you divide your ICP
+into smaller segments, you're
+basically looking for between 2,000
+and 20,000 people.  And the more
+specific, obviously the better.  This way
+you can write targeted messages, and if it
+'s large enough to sustain
+long-term campaigns, then it's
+perfect.  You should keep in mind that the
+goal is not to make the list as
+granular as possible.  The goal is
+basically to find the sweet spot
+where you can send precise messages and
+then scale that to a
+truly scalable number by searching the data
+.  And before you start extracting data,
+you need to calculate how many leads
+you actually need.  So this is
+basically the complete formula.    You take
+the daily volume of emails by
+the working days in the month and that
+equals the monthly shipping volume.
+But then you take the monthly
+sending volume divided by the number of
+emails in your sequence and that
+obviously equals the leads
+needed per month.  An example of this
+would be 1,000 emails per day for 20
+business days, and that obviously
+equates to 20,000 emails sent per
+month.  But if your sequence is four
+emails, you probably need
+around 5,000 new contacts per
+month.  And if it's for two emails, you need
+10,000.  And at 5,000 emails a day,
+you do 5,000 times 20. And that obviously
+equates to 100,000 emails a month,
+which is 25,000 new contacts each
+month.  But if you have a sequence of
+two emails, then it will be 50,000.  And
+this calculation basically tells you how
+big your lead generation operation needs to be
+before you
+commit to a
+volume target.  You want to do the numbers
+first and not build a list for
+5,000 a day.  If you can only get
+3,000 contacts per month, then
+obviously you'll run out of people to
+email.  So, there are
+many categories of data sources,
+but basically you can use LinkedIn
+if you're looking for office-based B2B such as agencies,
+SaaS, finance, or
+professional services.  There are tons of them out there
+.  And you can filter it quite easily
+when it comes to LinkedIn to
+find their job titles.  And they also have
+very high accuracy for
+email references
+.  This is probably the
+best for B2B prospecting.  And for
+service businesses, such as
+physical businesses like heating and air conditioning,
+plumbers, gyms, restaurants, or
+salons, you probably don't want to use
+LinkedIn because many of these people don't
+have LinkedIn, but they do appear on
+Google.  So, basically you want to
+use Google Maps, depending on where you
+'re focusing.  And obviously you use
+data extractors for each segment
+.  And well, this is obviously good
+for most
+local businesses.  And these are essentially
+all the tools that I basically
+use.  So, obviously Apollo,
+this is basically the Swiss Army knife
+of cold mail.  Then you have
+LinkedIn Sales Navigator.  That's
+within LinkedIn.  I think it
+probably costs around 160 a month.
+Correct me if I'm wrong.  Um, Prospio
+.  This one is a bit more expensive too,
+but it has very high data accuracy
+.  And it's updated every day.  And
+then you have Outscraper, you have Clay,
+you have Crunchbase, you have Amplify, and
+you have Pandamatch.  For
+local businesses, Outscraper is basically what we
+use.  It's easy to clean the data
+.  It's easy to use.  And the extraction
+is super fast.  And I wouldn't use Clay
+to go and extract leads directly.
+Clay basically sits on top of everything
+else as a workflow layer
+.  It's super powerful, but it has
+a learning curve.  So if you're
+just starting out, don't even touch
+Clay until you really have your
+basic system up and running first.    You
+can always go back to it once
+you're sophisticated enough
+with AI customizations,
+multi-source workflows, and things like that
+.  There is also a
+four-step lead generation process.
+First, you need to search for the accounts,
+find the decision-makers
+, get their contact details, and
+then you have to validate the data.
+Now we're going to talk about number six,
+which is validation.  So, once
+you have your lead, you need to
+validate it.  And if you skip this, you're
+basically sending emails to
+addresses that don't exist.  Then
+those emails bounce back.  You have a high
+bounce rate that obviously triggers
+spam filters.  And once you
+activate spam filters, they
+destroy your domain's reputation.
+And once your
+domain reputation drops, basically your
+deliverability is affected across the board.
+And not just because of bounced emails,
+literally all
+information validation is basically
+cheap insurance.  So there are many
+different tools you can use
+for this.  My two
+favorites are Million Verifier and List
+Kit. Million Verifier is a
+pretty solid and affordable option.
+Basically, you just have to upload your
+list.  Verify which emails are real
+and, obviously, you only want to send
+messages to the clean ones.  The only
+limitation of Million Verifier is that it
+cannot verify
+"catch-all" type email addresses.  Basically,
+they accept any email sent to a
+domain without confirming that the
+specific address exists.  But with
+"catch-all" emails, List Kit
+takes care of them all.  It's obviously
+more expensive, but it allows you to validate a
+higher percentage of your list and gives you
+more contacts you can reach
+without burning out your domain.  A golden rule
+you should follow: if an email is
+marked as risky or unknown,
+obviously don't send anything to it.  The
+potential rebound is not worth the
+long-term deliverability risk.  Now,
+once you've validated everything,
+step seven is to write your script.  This
+is probably one of the most
+important parts, in addition to
+infrastructure and validation.  The
+text is basically where you win or
+lose the entire campaign.  The most
+important thing I can tell you about
+writing cold emails is to
+keep them short.  You must remember that
+people are busy and a wall of
+text from someone they don't even
+know will be deleted immediately.  I
+like to aim for a range of between 75 and
+100 words.  Each sentence must
+earn its place.  You don't want to put
+any filler inside the emails.
+When it comes to the actual structure
+of the email, I like to divide it into
+four parts.  Obviously, you have your
+line of inquiry.  This isn't really
+that important.  It only gets the
+prospect to open it, but it's not going to make
+a big difference.  So I wouldn't
+spend 20 minutes trying to
+find the perfect subject line.
+Basically, you just want it to have
+six words or less.  The goal
+here is simply to be clear, not
+clever.  The goal is simply to get them to
+open it.  You want to be brief,
+specific, and direct.  Something like "
+quick question about your company", a
+mutual pain point, or, for example, if
+you contact a staffing agency.
+You could put something like "question
+about hiring?"  with a
+question mark.  Basically, it just
+adds curiosity to get them to open the
+email.  You don't have to spend too much
+time on this.  Now, the
+opening line and customization are one
+of the most important parts.  You want
+like one or two sentences that make it
+clear that you actually analyzed their
+business, not just a "I love what they do
+at XYZ Company".  It's obviously
+generic.  And then you want something
+specific like "I noticed they're
+expanding into X" or "I saw they
+recently hired a VP of
+sales."  Just something that makes you feel like
+you did thorough research.  Or
+even keep it super simple.
+You can, you know, obviously use a
+bunch of different workflows
+in Clay to add
+relevant touchpoints.  But this is probably
+one of the most important parts.
+Now, your value proposition.  You want to
+make this as simple as possible.
+You want it to be like a single
+sentence.  You basically want to tell them
+what you do and who you do it for.  And
+you want to keep it very focused on
+results, not something like "we offer
+comprehensive lead generation services
+".  Basically, you just want to
+say something like "we help them
+achieve a result," very focused on
+results using a method or something
+like that, or you can also make
+an initial offer.  Basically,
+offering something for free.  But those are the
+two frameworks I follow when
+I'm creating my value proposition.
+Now, the last thing here is going to be the
+call to action.  Basically,
+you just want a clear request and you want to
+make it as frictionless as
+possible.  So, if you have an
+initial offer, like: "Hey, I built this
+for you."  "Can I send it to you?"
+Basically, you just want to get a
+response and make it as
+easy as possible for them to say yes,
+so you can start the
+conversation and lead them to your
+main offer.  So, this is
+essentially the
+tracking sequence we use in Velocity Flow
+.  I really don't send more than two
+emails now.  But
+basically you have your initial email.
+You want the complete email with the
+opening, the value proposition, and the
+call to action.  And then,
+probably about 2 days later,
+you want to send a follow-up email
+.  I don't really send more than maybe
+a follow-up email.  I would never send
+three or four again.  It used to
+work back then.  Now, it just
+annoys people.  But I
+usually just send the
+initial email with the full message, the
+call to action.  And then, once
+I send a follow-up email, I
+basically try a
+completely different approach.  Perhaps even
+add a case study.  And don't just say
+"I'm following up."
+You want to choose a completely
+different angle and change it completely.
+When it comes to A/B testing,
+you basically want to test one
+variable at a time.  You know, like
+issue versus issue, or call to
+action versus call to
+action, opening line versus
+opening line.  And one number to keep in
+mind is that you need at least 500
+to 1,000 emails per variant to
+obtain meaningful data and
+compare them with each other.  You don't want to
+try two things at once or you'll never
+know what really
+worked.  Now, number eight is
+to set up the actual appointment.
+So, when the answers arrive,
+obviously speed matters.
+Studies consistently show that
+a response time of a few minutes
+dramatically increases the conversion to
+a booked call.  The prospect
+is in their inbox,
+wondering what to do, and that's the
+exact moment.  You don't want to wait 6,
+24, or 48 hours for a response, because
+by then they'll probably have
+moved on to something else.  To make it as
+easy as possible, you can categorize
+each answer.  You can categorize a
+response as interested, neutral,
+negative, or out of office.
+Things like that.  Something to keep in mind is
+that you should keep your answers as
+short, fluid, and professional as
+possible.  Basically, you should suggest
+specific times like: "Are you
+free on Tuesday at 2:00 p.m. or
+10:00 a.m.?"  Alternatively, here
+'s a link to my calendar.
+You can book at a time that
+works best for you.  You just want it to be as
+uncomplicated as possible.  Reduce all
+friction and make it as
+easy as possible for them to book the
+meeting.  And obviously, once
+you reach scale, sending perhaps 5 to
+10 thousand emails a day with
+consistent response rates, you'll want to
+hire someone to manage
+appointments or a virtual assistant.  This is so
+you can respond to people as
+quickly as possible without leaving business
+on the table because you're too
+busy.  And number nine, this will
+basically be a cheat sheet of
+tools that I prepared for you.
+Basically, I'm showing them all
+the infrastructure that I use myself
+.  So we have the
+sending infrastructure here, like Smartlead,
+Instantly, domain buying platforms
+, you have the lead data
+, the validation and all that,
+and that's basically the whole system
+when it comes to the infrastructure,
+the strategy behind it, the copy, the
+data and the scheduling of all the
+appointments.  That is literally the entire
+system.  At the end of the day,
+the people who are actually
+getting results with
+cold mailing aren't doing anything magical.
+If you found this helpful, please click
+subscribe.  Basically, I'm going to
+publish content every week about
+how I build campaigns in Velocity
+Flow.  The next video I'm going to make
+is about how to write
+cold email copy that actually
+converts.  And I'm going to break down
+real-world examples of campaigns so you
+can basically copy them and make them
+work for yourselves.  If
+you want us to build and manage
+a campaign like this for your business,
+the link is in the description
+below.  You can schedule a
+free call.  Without any
+obligation.  The worst thing that can happen is
+that you leave with practical ideas that
+you can use to scale your business.    I'll
+see you at the next one.

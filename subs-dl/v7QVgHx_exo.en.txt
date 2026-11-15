@@ -1,0 +1,956 @@
+well welcome to a special edition of
+good business I'm your host Clay Vaughn
+and I'm dropping this episode outside of
+our normal schedule just because of the
+urgency of the topic at hand so the
+reason for this special edition is that
+AI is developing at an unprecedented
+rate and it's imperative that leaders
+from every organization and business are
+aware of its benefits and risks in light
+of the recent letter from over a
+thousand Tech Elites from around the
+world including Steve Wozniak Apple's
+co-founder and Elon Musk calling for a
+six-month pause on AI development this
+episode is more critical than ever
+before the impact on AI on the workforce
+and censorship is one that literally
+cannot be ignored it's essential that we
+understand ai's current state frankly
+what it is its potential and its
+limitations that's why I'm excited to
+have Peter Vos with us today the founder
+of
+aigo.ai also known as iGo a company that
+focuses on creating intelligent
+conversational agents that can learn
+reason and Converse like humans with
+Decades of experience in the field Peter
+is a recognized expert in artificial
+intelligence and his company's
+conversational agents are changing the
+Way businesses interact with their
+customers so Peter's views on the
+current state of AI development and
+where it's headed are sure to give us
+some valuable insights into this rapidly
+evolving field and who is behind that
+development guys you all do not want to
+miss this so it appears there may
+already be a chat bot more powerful than
+chat GPT that simply has not made it to
+the full market yet today so without
+further Ado let's dive in and explore
+the future of AI with Peter Voss
+well I'm your host Clay Vaughn and I'm
+best known as the CEO of good agency a
+full service marketing agency and
+production company that helps you Market
+your business and share your story now
+before we get going with this week's
+episode I want to drop a quick note to
+any business owners listening in our
+show is sponsored by rocket fuel CRM and
+you should head right over to
+www.rocketfuel.software so you can learn
+about the CRM I'm recommending to every
+small and medium size business as of
+2020 there were well over 10 000 web
+tools and apps designed for businesses
+like yours and the problem is you can't
+afford to spend the time and money
+learning each one Rocket Fuel CRM
+combines nearly every marketing tool out
+there into one unique system so check it
+out at
+www.rocketfuel.software you can try it
+risk-free with a 30-day money-back
+guarantee today alrighty let's Dive
+Right on into this week's episode of
+good business
+all right well welcome back I've got
+Peter Voss today and many of you may not
+know who Peter is but after this podcast
+you're going to be saying why did I not
+know who Peter Voss was so Peter thank
+you so much for joining us today I'm
+excited for this conversation
+yeah thanks for having me
+absolutely absolutely well Peter as I
+mentioned to you before we got rolling
+today I had a chance to to dig into your
+background and and obviously AI is one
+of the biggest hot button topics to talk
+about in the modern era
+um even just two weeks ago one of um one
+of my guests was talking about AI but we
+were talking about it more in the
+concept of of marketing and application
+um but but Peter you've got so much
+knowledge and history and experience in
+research tied to this I'd love to just
+Dive Right on in and ask you the big
+question which is
+um what is AI
+okay so
+um the term AI was calling some 60 odd
+years ago and it was really about
+building machines that can think learn
+and reason the way humans do
+um Now 60 years ago the people who
+coined the terms thought they could
+solve this problem you know in a year or
+two and of course it turned out to be
+much much harder so what happened over
+the decades
+um the stream sort of really involved
+into something that's better described
+as narrow Ai and what I mean by that is
+instead of trying to build a machine
+that can learn a reason like humans you
+try and pick one problem at a time and
+figure out how the computer can solve
+that so it's a very obvious example is
+playing chess you know somewhere in it
+sometime in the 80s I think IBM came up
+with with deep blue that beat the world
+chess champion
+but that's the only thing you could do
+it couldn't even play checkers you know
+it couldn't do anything else at all so
+that's really been the history of AI
+um that people have figured picked one
+particular thing image recognition or
+speech recognition or container
+optimization or whatever it might be and
+then it's really the human Ingenuity
+that solved the problem in writing a
+program that could you know solve the
+problem so in in a way AI lost its way
+so in 2002 I got together with with a
+few other people who when we felt that
+it was time was right for us to
+go and pursue the original Dream of AI
+to build thinking machines so we coined
+the term artificial general intelligence
+AGI three of us and wrote a book on the
+topic too to basically say that's really
+what we need we don't want to you know
+spend our time just solving one problem
+at a time we want to build a system that
+can learn to do all of these things the
+way a human would
+and that's that's really what you know
+what the term AGI is actually
+um really taken off that a lot of people
+talk about that now and it really means
+you know a human-like ability and was
+you know chat GPT all of the noise we're
+hearing about what it can do people are
+now
+saying wow okay we may actually be
+getting to a point where we have this
+kind of human level reasoning and
+learning ability that we we we're
+getting really close to it
+so you know that's kind of a quick
+history of AI and how it really turned
+into narrower Ai and the term AGI really
+captures the original Dream and and
+vision of AI
+wow well thank you for that background I
+think for everyone tuning in today
+that's really helpful because most
+people when they hear AI they think of
+something out of Hollywood or they think
+of chat GPT there's not really anything
+in between
+um so Peter I'd love to before I dive
+into your background which uh I mean I'm
+just I'm thrilled to hear more about
+um I'd love to to ask you one question
+tied to this which is I think what we're
+all nervously excited about
+um but also a little bit concerned about
+too which is what what is the problem
+that you see after after studying this
+what is the problem that you see that
+needs to be overcome that that you have
+been working towards overcoming when it
+comes to AI
+so the the current
+um approach to AI was Chachi PT and and
+similar
+approaches is that it's inherently a
+statistical approach these uh systems
+are trained with many billions of words
+in fact trillions in some in some cases
+so they have submissive amounts of of
+data that they are fed examples you know
+just basically everything on the
+internet or books and and so on
+now once the model is built it can't
+really learn anything new and that's a
+very fundamental flaw a very fundamental
+limitation
+um I mean it can learn some things but
+not not really you know it really
+requires this massive training effort to
+get it to do these these impressive
+things that that it it does
+and I spent quite a lot of time studying
+just what intelligence is and what
+intelligence entails and I can give a
+very practical example if you hired an
+assistant
+and they couldn't learn new things you
+know they might know a lot of things but
+they couldn't learn new things they
+wouldn't wouldn't be terribly useful you
+know they made me lose new skills that
+they need to acquire or do some research
+and you know do something or you just
+tell them that you know this is the way
+I'd like to have things done and you
+know so being able to learn rapidly
+without massive amounts of you know data
+on and examples is really a key
+requirement of of AI another huge
+problem with these models is that they
+confabulate they make up stuff so they
+are not reliable their knowledge is not
+reliable I mean they can make up stuff
+that sounds totally plausible I mean you
+can try this in GPT and ask for a buyer
+of yourself and it'll probably tell you
+things that are completely wrong about
+you you know there's so many yeah I've
+tried it yeah there's so many examples
+they're basically just makeup stuff and
+it sounds very plausible they can they
+can even give you fake references you
+know I asked them what what articles
+I've written and I I got these very
+authoritative sounding descriptions of
+Articles or written complete with with a
+link
+completely bogus you know wow so
+um
+they don't have the ability to sort of
+really check their own knowledge
+um and you know they they can't think
+about what they're saying they just say
+that so the the
+inability to be able to learn
+interactively and accumulate new
+knowledge
+um the fact that they can't really check
+and think about what they're saying what
+they're doing it's just like they're an
+automatic pilot just spewing out stuff
+that sounds all very plausible and a lot
+of it is true about a lot of it just
+isn't true and they they don't have a
+way of reasoning about so the lack of of
+reasoning I think those are two things
+the third one that's a huge problem is
+that there are black boxes there are
+completely opaque you you can't really
+determine how they came to a certain
+conclusion if you ask them a question
+they give you an answer
+um it's just a black box it's just a
+statistical model and you can't
+determine you know how did they come to
+that conclusion
+and and that's that's quite a problem
+um that if they give you the wrong
+answer
+the only remedy you really have is to
+throw more training data at it until it
+gives you the right answer but then what
+else broke and this is called and
+technically is called catastrophic for
+Getty that these systems are prone to
+that as you teach new things they may
+forget or change in information that
+they used to use that used to be correct
+so they are you know there are these
+very substantial uh problems with them
+that need to be overcome and I firmly
+believe that there's really a
+fundamentally different approach that
+needs to be taken instead of a
+statistical system with massive amounts
+of data you need a cognitive system A
+system that inherently designed to meet
+the requirements of intelligence such as
+Interactive Learning and being able to
+think about things and knowing what you
+think of what the system thinks about
+and that's that's what we've been
+working on you know for the last 20
+years
+wow well that actually is a perfect
+segue into all right Peter what have you
+been working on um what's your what's
+your story and and tell me tell me about
+iGo tell me about what you've got going
+on I'm so excited to hear about this
+yeah certainly so I'll just give a
+little bit of background I started up
+working as an electronics engineer
+started my own company doing
+um industrial electronics and then I
+fell in fell in love with software and
+programming at just just fantastic you
+know it's just so creative and
+stimulating and
+right so my company turned into a
+software company I developed an Erp
+basically an accounting a very
+comprehensive accounting systems and the
+company went very quickly from myself in
+the garage to 400 people we did an IPO
+so that that was super exciting
+this company is I had enough time on my
+hands to say well what big project do I
+want to tackle and to think that struck
+me is that software really is quite dumb
+you know it doesn't have common sense it
+doesn't reason so if the programmer
+doesn't think of something it'll just
+throw an arrow or give you you know
+crazy uh you know crazy answer so how
+can we solve that problem so I took off
+uh five years to study all different
+aspects of intelligence how children
+learn how our intelligence differs from
+animals and you know really even the
+most fundamental questions in a in
+philosophy and epistemology theory of
+knowledge how do we know anything what
+is reality how can we be certain of
+things you know sort of really the the
+the very fundamentals of intelligence
+and knowledge and of course I also
+studied the work that had already been
+done in the field of AI and that
+culminated in me coming up with designed
+for a thinking engine you know an AGI
+engine and so that company I launched in
+2001 we spent quite a number of years
+just building various prototypes doing r
+d and so on with about 10 people and
+then in 2008 we had come to a point we
+had we'd actually developed a product
+um an autom a call automation system
+you know when you call into a company
+and uh you talk to a robot and whenever
+I say that to people they say I hate
+these things you know I always press
+zero zero to get to an operator well I
+just I I say you'll hate hours a lot
+less because they have intelligence
+so they're actually pretty good because
+they they remember what you said earlier
+they can have they have some degree of
+reasoning and so on so that company was
+launched in 2008 and
+um came quite successful about 100
+people now but
+um just due to circumstances with the
+investors I ended up having and so on
+they weren't really Keen for us to put a
+lot of effort into ongoing development
+so um we we sold the company and I went
+back to another round of assembled a
+brand new team and we spent another
+couple of years just increasing the
+intelligence working on the fundamentals
+of the system and then we launched this
+is igo.ai my current company and about
+four years ago we launched a commercial
+product which which is a chat bot with a
+brain so you know the first company was
+focused on voice interaction our current
+company is focused on text interaction
+because that's becoming more more common
+but we also do voice so it's it's really
+automating call centers is the the main
+thrust of it but our product is really
+um application agnostic and Industry
+agnostic so for example you could use
+our conversational AI technology as
+diabetes coach for example you know some
+somebody has diabetes and they want a
+personal culture personal assistant that
+can help them with nutrition and
+lifestyle changes and so on or a
+salesperson who wants an assistant a
+personal assistant to help them you know
+manage all their prospects and so on so
+it can be applied deployed either so at
+the call center level or contact center
+level all for the individual to have
+have an assistant and so that's that's
+what our company is of chatbot with the
+brain
+that's amazing that's amazing so um when
+you say chat bot with a brain I'd love
+to dive in deeper about what that means
+in comparison with just chatbot I mean
+you mentioned child GPT a couple of
+times
+um we all know chat Bots but tell me
+tell me what the difference is right so
+cool down you know hundreds or thousands
+of different chat Bots out there and
+none of them have a brain uh they
+actually are all the you know like Siri
+and Alexa and I'll talk about share GPT
+in a moment but before Chef gfpt
+um basically you have Siri and Alexa and
+and chatbots that your bank may have or
+your insurance company or or whatever
+and they're actually extremely primitive
+they come they consist of two parts the
+first part is an intent identifier so
+it's usually a neural network that's
+been designed there so if you say blah
+blah blah weather then it's a oh you
+want to know the weather you know and if
+you say I hate Uber don't ever give me
+Uber again it'll probably still trigger
+the Uber app because it picked up on the
+word Uber yeah you know and then it'll
+ask and then it goes into some little
+like flowchart program where it says
+well where do you want to go how many
+people are going and do you want Uber X
+you know it's just and if there's
+anything else that you want that wasn't
+pre-designed
+you know that's where why we get so
+frustrated with using using chat robots
+they don't remember what you said
+earlier in the conversation they don't
+reason and so on so
+by us having a brain behind the scenes
+that that really manages the
+conversation you have long-term memory
+it even remembers prior conversations
+that you've had you know so if you call
+you call up your cable company and
+you know the first thing they might say
+Okay reboot your router you know or your
+modem or whatever now iGo will remember
+that so next time you call in it's not
+going to ask you to you know they might
+say did that work you know uh or you
+know might say well try moving your
+router into the kitchen you might get
+better reception so when you call back
+as I did moving into the kitchen help
+you know so it remembers what I said
+earlier in a conversation earlier
+conversation it uses contexts and
+reasons about things so that's by having
+a brain you have a much much more
+capable conversation so it's really
+chalk and cheese that the two approaches
+um you know as I say what Syria and
+Alexa and and Commercial chatbots they
+don't have a brain
+um you know they just have this
+flowchart program now chechi PT uh is
+different it you know with the trillion
+words that it's been uh uh trained on it
+can actually have a conversation a very
+very impressive conversation but the
+problems that I mentioned earlier is it
+just configurated makes up stuff so you
+can't trust itself all uh you know in
+any commercial setting an Enterprise
+setting or so simply can't that's not
+acceptable I mean maybe it's rely on it
+yeah I mean it may be acceptable for
+frequently asked questions maybe you
+know if you can
+constrain a bit but anything that's
+Mission critical you know your legal
+team your marketing team your QA team
+are not going to sign up sign off on
+something that could just go off at a
+tangent and you know say it say whatever
+so so Chachi PT is is very very good for
+uh giving you a draft you know doing
+summaries or giving you a draft or
+giving you ideas brainstorming or even
+coding examples I mean there's so many
+things that it's it's really amazingly
+good at but you always have to have the
+human in the loop to say well is this
+really true does this really work you
+know it can very confidently give you a
+piece of on piano computer code computer
+program which doesn't work but a lot of
+times It'll point you in the right
+direction it'll give you something that
+does work but you know so it it really
+can't be used for robust Enterprise
+applications
+well yeah and I mean that makes a lot of
+sense so with your um development and
+your initiative and trajectory in your
+business
+um where do you see it all going and how
+should Business Leaders respond to that
+and prepare for that
+it things are moving really fast now and
+our own development pass is you know we
+we are we've actually just started an
+initiative because of the success and
+the availability of these large language
+models like chat GPT to see how we can
+accelerate our own development you know
+how can we Leverage The the knowledge
+that's encapsulated in these large
+language models but to use it in a way
+that's robust you know to do basically
+Auto we're working on automated quality
+assurance on how we can use that to
+accelerate our own development to
+increase the IQ of our system and the
+knowledge base of of our system which
+will you'll then have the best of both
+worlds you'll have a system that has a
+broad range of knowledge but also this
+robust and scrutable you can see you
+know you can understand exactly why it's
+giving you the answers giving you and
+and you you know you can be confident
+about it so that that's our own
+trajectory now in terms of really
+anybody in business today
+you really shouldn't be sticking your
+head in the sand you know this is going
+to affect everyone
+um and
+you know I think the best is to to try
+to embrace the technology you know to to
+to use it
+to become aware of what it can do what
+it can't do and as I say it's it's
+moving very very fast so it I think it's
+really important for people to keep up
+to date with the technology but also to
+be sober about when it can and can't do
+you know there's a lot of hype there are
+billions of dollars being thrown at new
+startups to use this technology and
+clearly a lot of them are going to make
+outrageous claims about what you know
+what their product can do and not to get
+sucked into that so you know one one
+needs to be really careful about
+assessing
+um what it can really do you know like
+years ago we heard you know IBM
+with their cognitive Computing with
+Watson you know they said you know with
+within two years it'll replace all
+Radiologists and doctors and so on and
+you know it just
+it didn't it was pure marketing hype you
+know and you know unfortunately there's
+a lot of money going around so you're
+going to have a lot of marketing hype
+um so it's you know just use common
+sense and actually you know try it and
+validate uh things but it's moving fast
+and you just you have to embrace it
+otherwise you're just going to be left
+behind you know we're we're appropriate
+no that's great so when um when you
+think about chat gbt and all of these
+other innovations that have come about
+um where where does where does I go fit
+in the mix there
+and and what what should businesses be
+considering when when they're thinking
+about what you're developing
+well yeah as I said it's quite it's
+quite simple if you want robust
+conversational AI
+these statistical systems these large
+language models just can't provide that
+you know it's it's really as simple as
+that and love it
+you know because of the lack of
+reliability and and the various things
+that I've mentioned and and this is
+where a cognitive approach and I I see
+eventually over years
+people working with these large language
+models will start to you know change the
+designs to incorporate to move towards
+um cognitive models models that really
+have high level thinking that can burn
+into actively that you know can can
+remember
+um robustly remember and and think about
+things so you know right right now
+um our approach
+um and the experience we have for
+example uh 1 800 Flowers and Harry and
+David by using our system for customer
+support where you know it remembers
+previous conversations and uh it's it's
+very very successful in in in those
+kinds of applications so that's you know
+where I go is right now and say we are
+very aggressively working on uh
+constantly improving it we're still a
+long way from Human level capabilities
+but we are significantly above what can
+be done with traditional chatbots that
+don't have a brain yeah yeah yeah so our
+task really is
+um to to move closer and closer to human
+human level understanding and having you
+know broad range of Common Sense
+understanding
+hmm that's great well two more questions
+for you I want to talk about ethics and
+then I want to talk about
+um what what is the successful outcome
+of all of this so first ethics
+um this is obviously something that
+you've you've spent some time studying I
+mean when you're diving into just what
+it does it mean to have intelligence
+what does it mean to have
+um that that uh integrated into
+technology so ethically speaking
+um what are some um what are some areas
+that that Business Leaders should be
+considering like um just for some
+context uh I know just a not even a few
+weeks ago I mean maybe it was within the
+past month or so
+um the USPTO has has issued their
+perspective on copyright tied to
+anything developed through AI saying hey
+look if AI developed it you you cannot
+own the copyright so I mean that's
+that's one thing then you have all of
+this um this content that's just being
+created and regurgitated and and
+um I mean what what do people do with
+that how do people
+um wrestle with the ethics of utilizing
+AI in their business and just in their
+day-to-day life
+thank you
+yeah it's very it's very unfortunate
+that
+we don't have more people talking about
+ethics in a meaningful way you know
+really
+you know there's the whole sort of
+community of AI risk and that talk about
+ethics now departments and companies
+that talk about ethics and yet if you
+ask people
+okay please define ethics for me what
+does it mean and where do you get it
+from and it's usually just you know kind
+of a blank it's just you know a number
+of concrete examples welded if this is
+bad and that is you know but often
+that's informed really more by their
+politics than any anything else so
+that's not terribly helpful
+um I've actually written quite a lot
+about Essex as well and Free Will you
+know can we really choose can we be
+responsible and so on this articles are
+all on medium.com
+easy to find and assets really morality
+in Essex really should all be about
+human flourishing and there are certain
+things that are essential for human
+flourishing or that encouraged human
+foreign promote promote it and one of
+those things is is honesty and you know
+there's it's not a it's not something
+that's actually valued very highly if it
+was more valued
+um you know journalism would be a lot a
+lot cleaner you know people would reject
+automatically reject stuff that's wrong
+but people tend to
+support fault statements just because
+it's part of their tribe you know if
+something somebody in my tribe says
+something that's wrong
+you know I'll accept that because
+they're in my tribe and and that's
+really unfortunate you know I said
+really as basic to the individual and
+it's the same for Business Leaders so
+you know for myself it's
+I I can only hope and recommend that
+more and more people
+will value quality and products and
+honesty
+and in their interactions you know I I
+mean that's I think one of the the the
+questions you you had on the on your
+list was you know
+what makes for a successful business
+there are many things that can make a
+business financially successful but the
+only thing that you know drives me and
+and
+motivates me to run a business is to be
+proud of what I'm doing you know to be
+proud of the product that I have and the
+interactions um the interactions that I
+have with with my customers so I think
+you know that's kind of a long
+explanation about essays but but you
+really have to start at the beginning
+you know what is good for human
+flourishing and you know lies and
+cheating aren't good for human
+flourishing and if more people had that
+attitude
+you know the specifics of copyright some
+of these things are really tricky I mean
+they have good arguments to be said that
+you know once you publish something why
+should people not why should it you've
+given it to the public domain you know
+um but then there's a cost of
+you know novel medication that could
+cost millions of dollars you know should
+that should that be protected it
+certainly it's a complex complex
+situation
+um but the the big thing is that you
+know can we move Humanity forward can we
+have more people flourishing can we
+eliminate
+poverty and and wall and destruction and
+you know illusion and and all of those
+those things and we can if we just focus
+more on being productive and rational
+hmm so so from what I'm hearing from you
+which is super helpful thank you for for
+sharing all that
+you believe that the successful outcome
+or let me rephrase that do you believe
+that the successful outcome of this AI
+movement or AGI movement
+is going to be
+human flourishing you don't see any uh
+any any pitfalls that could stop that
+it's it's very difficult to be sure but
+I'm certainly in the camp of believing
+it's far more likely far far more likely
+that AGI will be a tremendous benefit to
+us and I think the risks that some
+people are talking about
+um are largely overblown and misguided I
+think we're based on
+um yeah misconceptions
+yeah I believe it's it's very very
+likely to be very beneficial but it will
+be very disruptive
+um you know there's no doubt about it
+and and people who really are only
+comfortable with the status quo will
+struggle psychologically you know even
+if they suddenly don't need to work
+anymore because everybody gets paid you
+know Universal basic income or something
+that stalled the change if you've lived
+your whole life in a certain way and
+suddenly things change you know it's
+sort of be careful what you ask for I
+mean almost everybody would say I'd love
+to win the lottery
+you know and and that's kind of where
+we're going to be as as AI fully fully
+develops and
+um you know a lot of people are actually
+don't have a very happy life one so do
+win the lottery so we'll need to become
+a lot better at people
+um finding how how to to have purpose in
+their lives and and have a fulfilled
+life if for example they don't have to
+work anymore now this is looking you
+know obviously further into the future
+when when AI is as fully fully developed
+um so this but I just like to mention
+one other perspective in terms of AI
+risks and lens I'm I'm also of the the
+mind that
+it's very likely that we need AI to save
+ourselves from ourselves
+we are not very good at managing this
+Advanced civilization I mean if you look
+at politics across the world
+you know the kind of people who end up
+being in in positions of power
+these you see the corruption in many
+many parts of the world
+um they're just so many areas in which
+humans don't seem to be really capable
+of very very capable of managing their
+own Affairs and I believe that AI AGI
+can actually substantially help us think
+these things through and come up with
+better Solutions it's like having a very
+wise person to advise you but
+potentially everybody will have that and
+say does this really make sense for us
+to be doing this or does it really make
+sense for us to be doing that
+and so I think AGI will will actually is
+is
+you know it's almost
+necessary for for us so that's that's a
+perspective again you know it's it's
+difficult to
+predict how everything will play out
+um a sort of another perspective
+that's the I appreciate you going deep
+there uh Peter that's uh that that
+certainly is a successful outcome
+um when we're thinking about hey giving
+people some some tools on how to how to
+handle the world
+um and face face the struggles um that
+we all do I I I would just ask
+um if there's any risk of elevating this
+AGI or AI to
+um I mean do we really think that it can
+be better than Humanity I mean Humanity
+uh we all have our different
+perspectives I think we have uh and I
+didn't know we were going to get into
+philosophy uh yeah I'm sure you didn't
+know that either but here we are all
+right uh this is this is really
+impactful but
+um I I believe that
+um outside of outside of
+foreign
+let me walk that back a little bit I
+believe that Humanity does struggle with
+doing good I think that's that's one of
+the things that Humanity does tend to
+fall into is uh a propensity to doing
+bad
+um I think there are a lot of good
+people
+um who try to do good but I think
+inherently just in our bones
+um we're selfish inherently in our bones
+we're proud
+um and uh I mean I'm not sure where you
+fall because I mean we're talking about
+essentially religion here at this point
+in time
+um but I mean on my end I I firmly
+believe that outside of the save the
+Saving Grace of of Jesus uh and the work
+that he's done there's really no there's
+really nothing good that can come out of
+humanity
+um now when we're talking about AGI in
+this evolution of AGI
+um I think there's there's a propensity
+to say well maybe that could be what
+helps us become better and
+um I'd love to I'd love to hear your
+thoughts on that I mean do you think
+that that AGI has the propensity to be a
+uh dare I say God uh little G uh God I
+mean is that something that you're
+I I would I wouldn't no I wouldn't like
+to use that that word
+um yeah you know on the omnipotent and
+uh sure no I wouldn't I wouldn't use
+that but
+you know you I think you you point to
+very to something very important that
+we are maybe not inherently uh designed
+to to do good things and I I would
+maybe disagree with that I think we want
+to do good things
+but
+you know they they we we still have
+these animal instincts for
+survival and reproduction that drive a
+lot of things that are not rational and
+this is where AGI can really help us to
+become more rational and civilization is
+progress people have become more
+rational you know we've become we've got
+institutions of of more and and so on I
+mean life has definitely improved and I
+see AGI helping us to do that even more
+hmm well no that's that's great I really
+appreciate you uh taking that tangent
+with me Peter
+um it's it's a it's a very big unknown
+World ahead of us when it comes to AGI
+um but but I mean when we're talking
+about just how do you run a good
+business this is this is certainly
+um been incredibly helpful and Peter I I
+greatly respect your your input and your
+your your advice today so thank you so
+much
+um so just as we wrap up how do people
+contact you I know you mentioned that
+you've got some articles on media excuse
+me medium uh you got a website I mean
+how can people connect with you yeah
+what do you want them to do yeah
+certainly on my on on our website igo.ai
+aigo dot a I uh they are also actually
+links to those articles but otherwise
+you can also find them just petervoss on
+medium.com uh also easy to find on you
+know Twitter
+um and or you can just email me Peter
+igo.ai so I'm always happy to
+exchange ideas with with people and as
+as you all have noticed I love talking
+about these these things and exploring
+them
+no I love it I love it well thanks so
+much and uh everybody thank you so much
+for tuning in this week I know we went a
+little bit long but man I loved that
+conversation we'll see you guys next
+week on good business
+[Music]
+if you like this podcast Please
+Subscribe now and share with friends
+family and other Business Leaders you
+can learn more about each guest and the
+resources we discussed at
+podcast.clavon.com and if you're a
+business leader looking to Market your
+business and share your story check out
+my company goodagency at
+www.goodagency.com we'll see you next
+time on good business

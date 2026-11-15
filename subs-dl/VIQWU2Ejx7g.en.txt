@@ -1,0 +1,859 @@
+Welcome back to the innovative agency
+everybody. Sharon Tor with you here
+again today. And
+uh we're going to talk about something
+that is actually
+uh a thing I get asked about quite a bit
+when I am out talking to agency groups
+either at conferences or in meetings. Um
+and we are, you know, obviously get
+asked in my life day-to-day owning a law
+firm for agencies about the topic of um
+accessibility.
+And many of you who own or lead agencies
+have questions about accessibility and
+how it interplays with the work that you
+do for your clients. Some of you have
+have had concerns about responsibility
+for accessibility. And we'll talk about
+that today. But I'm really excited to
+talk with today's guest, Mike Barton,
+who leads communications for a firm
+called AudioI,
+um, about the opportunities as well. I
+was just I just said to Mike right
+before we got ready to hit record um
+when he suggested that not only is ADA
+compliance
+um and we'll talk mostly about websites
+because that is really where most of you
+um sort of live and breathe in the ADA
+accessibility space um but there may be
+other examples as well that you know
+cross-hatch into marketing. Um, we all
+understand that there's some there are
+some legal and some compliance aspects
+to all of this, but Mike pointed out and
+I'm so glad that he did that um this is
+a business opportunity for uh for many
+of you and for the brands that you
+represent. So, first of all, Mike, thank
+you for joining me today. I appreciate
+>> Thanks for having me. Um so just to set
+set the table uh tell us a little bit
+about what audio does and then I have so
+many questions for you about
+accessibility and the challenges and the
+opportunities that it raises.
+>> Yeah. I mean simply put um AudioI uh has
+a a product a solution that uh helps
+companies, agencies, businesses uh
+create and maintain digitally accessible
+websites so that they are compliant that
+the you know risk of uh legal action uh
+as part of the ADA is as low as possible
+and as you said as well that we're
+helping companies build those accessible
+sites and follow those best practices so
+that it impacts SEO and that their
+customers can have that the ideal
+customer experience.
+So, let's get the sort of um the
+non-sexy part of this out of the way,
+which is the part that that my firm
+usually gets contacted about, which is
+sort of the responsibility and or the
+potential liability as you're putting
+together a website or a digital product
+um around accessibility and compliance
+with accessibility rules and laws. Um I
+guess let's just first start with
+um my point of view if you don't mind
+that
+>> it's hard for folks who build and
+maintain these products to really know
+what sort of rules and restrictions
+they've got to play to. It reminds me a
+lot of data privacy where there's lots
+of different rules um in different
+states and there's no commonality. Um in
+the disability and ADA compliance space
+for websites there are standards, right?
+Um most of the agencies listening here
+have clients that are private and in
+industry. They're not necessarily
+government agencies or facilities. So
+let's let's get a common understanding
+if you don't mind about what should they
+be what rules do they need to be most
+paying attention to when they're
+thinking about accessibility as they
+build out websites etc.
+>> Yeah. So there's a standard a set of
+standards called the web content
+accessibility guidelines. Uh so you'll
+see WCAG for short uh in a lot of
+digital accessibility uh content and
+those are a globally recognized set of
+standards that um if followed will
+create an accessible website and they
+cover the whole gamut uh across uh
+principles like is the content
+perceivable, is it operable um and
+things of that nature. And so kind of at
+the tactical level where that manifests
+itself as an example is do all of your
+images have the appropriate level of alt
+text so that a person who might have a
+visual impairment who might be blind is
+using a screen reader which literally
+reads the the code to you and the page
+via the code that the screen reader is
+reading. um if that image doesn't have
+clear alt text associated with it, you
+know, they'll just get image one, image
+two as they're going to that page and
+they're not able to if you're selling uh
+shirts as an example, they're not able
+to understand what the product is,
+they're not able to buy. And so those
+types of barriers are the types of
+things that uh a person with a
+disability when they encounter them,
+when they're not able to shop on your
+site, when they're not able to contact
+you because they want to use your
+services or contact you to tell you
+something's inaccessible, those can all
+turn into lawsuits. And those are the
+types of things that we see um on a
+regular basis. And um those principles
+are not difficult per se, but like you
+said, most designers, most developers
+don't learn any of that in school. They
+don't learn much of it, you know,
+naturally uh in the agency world or the
+business world. And you know, I lived
+that myself. I was a marketer in
+communication in digital properties for
+20 years. And uh unfortunately, I never
+thought about is this PDF accessible? Is
+this video accessible? Are these social
+media um posts that we're creating? Are
+those accessible? And so once you start
+to think about all the digital assets on
+your site, the links, the images, the
+forms, and start to realize that one
+little accessibility barrier can break
+it down. Um I think you you start to
+kind of be illuminating of like, oh, my
+site is probably much more inaccessible
+than I might have initially thought it
+was.
+>> Okay. So, a lot of the digital tools
+that we all use in business every day,
+including the agencies listening, um,
+have accessibility
+sort of what I'll call accessibility
+helpers built into them. You know,
+Microsoft has it in its products. Adobe
+has it in a lot of its products.
+um how much can we really rely upon
+those sort of retail level tools in our
+day-to-day creation of um anything
+that's going to end up on our website
+and and and what do we need to be
+looking out for um in terms of being
+able to rely on that stuff versus
+knowing when we've got to um you know
+bring in
+>> bring in bigger guns if you will to make
+sure we're being compliant. Yeah. So
+what I think is interesting that I think
+answers your question from a a data
+perspective um we do something every
+year that we started a couple years ago
+called our a digital accessibility index
+where we go out and we scan thousands of
+site from the biggest enterprise down to
+you know small mom and pop websites and
+we compile all that we analyze it. uh we
+found just last year that the average
+web page so not the average website
+every page on the website had an average
+of 297 errors. So the fact that you know
+you asked about you know the big
+companies who have accessibility built
+in all I'm sure a number of these
+websites use various tools that had
+accessibility built in yet we still see
+up to 300 issues per page. Uh web aim
+does a yearly study as well just of the
+homepages and over the last 6 years um
+they've seen like very minimal progress
+in the accessibility of homepages even
+and so I think that kind of points uh
+out that just having maybe a tools
+that's kind of included as part of a
+larger package that you're building with
+um without internal expertise of
+accessibility it's not going to get you
+uh where you need to be. Um, and we've
+continued to see that lawsuits uh
+doubled last year since 2020. You know,
+the number of lawsuits are continuing to
+creep up as well. So, you asked what's
+common. Um, in that same report, we
+looked at what are the common issues
+across all these sites and across all
+these pages. The first I talked about
+earlier, images. Most images are,
+especially with the speed of websites
+and the speed of creativity and the
+speed of uh and the frequency of
+updating websites, that's the type of
+stuff that's very easy to not get
+specific on to not, you know, fill in.
+And so images are like one of the top
+things that as again a screen reader is
+going through, it's really hard to know
+what is actually uh in the image, what
+you might be clicking through. Uh second
+is forms. So again, checkout flows,
+contact us, um you know, fill out this
+to get more information. When those are
+read off to somebody using an assist of
+technology, instead of us being able to
+see, okay, first name, last name, uh
+email, if it just says field one, field
+two, field three, they don't know what
+to put, right? And so again, that's a
+barrier that keeps them uh from
+completing something. And then the third
+is links. And you know, it's that's kind
+of the sim similar principle. the images
+that you know you can often as somebody
+who's cited see the words of the link.
+Uh but if that text behind it just says
+click here or learn more, they don't
+know where they're clicking. And so they
+just add steps where they have to click
+through, find out it's not the right
+page, come back, you know, and go
+deeper. And so at the end of the day,
+uh, it can be extremely frustrating
+because they're spending much more time
+on simple tasks that, you know, people
+who don't have a disability can do very
+easily because it's not coded correctly.
+And oftent times that leads to a bad
+experience that leads to them leaving
+and never coming back. So there's that
+business impact. But also, if you that
+happens enough, you start to have raise
+the chances of you getting a lawsuit or
+a demand letter brought against you.
+>> Right. So, I mean, let let's talk about
+the risk management from um for a second
+before we get into um the opportunities
+and the sunshine part of our
+conversation.
+So,
+as someone who councils agencies, what
+we're what where we usually step in is
+either we are helping agencies create
+um fair contracts with their brand
+clients so that the responsibility for
+ADA website compliance and accessibility
+uh is spelled out and is fair. And of
+course, we advocate for the agencies
+because those are our clients. Um do you
+have a point of view sort of on who
+should be assuming responsibility um as
+websites are being developed, built,
+deployed um for building the
+accessibility in um that I'll stop
+there. That's my first question. And
+maybe you don't have a strong point of
+view because you're sort of a third
+party to all of this all these
+conversations, but I'd love to hear it
+if you do.
+Yeah, there's probably the perfect world
+response and then there's the world we
+live in response. So the perfect world I
+think would be
+>> every developer, every designer,
+everybody who's creating a website or
+who's who's creating content, uh
+anything that's digital
+>> in a perfect world, they all understand
+accessibility best practices. They're
+thinking about that as part of the
+development process and the development
+cycle. They're thinking about tables and
+images. Now, that's the perfect world
+where we build and code very accessible
+sites where on the flip side, as users
+begin to engage, there's actually very
+few errors that we need to resolve. The
+fact is we're probably never going to
+get to the point where everybody has
+that foundational understanding of
+accessibility. Um just because that's
+the reality of investments and growth
+and you know limited resources inside
+companies. And so what we found and
+where what part of the reason audioi
+exists is that in these companies that
+don't have that expertise that don't
+have the you know resources to go out
+and train everybody don't have the
+resources to um even prioritize
+accessibility over some of the other
+business priorities that they have. We
+provide tools and human expertise to
+once the site is built um put our layer
+of technology on that site and
+complement that with humans doing audits
+uh experts in the field and then we work
+with that company to find an approach
+that works for them. Whether that's
+giving them fixes that their developers
+can implement at the source code level
+or using the technology on their site to
+essentially fix those issues so that as
+I go and visit their web page um while
+the underlying code might be
+inaccessible the code that I'm getting
+in my browser is accessible. So using a
+screen reader you'd get the accessible
+content uh that is there. I think that's
+the the way that the accessibility
+scales in the future. Uh especially as
+the internet is exploding. As I said,
+sites are getting more complex, more
+dynamic. Um so you've really got to look
+at that approach of using technology uh
+mixed with human expertise to really get
+that solution the scales. And do you
+usually see the breakdown
+occur in the iterations of these sites
+as they're updated or expanded or is it
+usually like an origin story problem
+where they're launched in the first
+place without a you know a minimum basis
+of accessibility?
+>> It's it's more so the latter that yeah
+it just gets launched. Um and
+of course it come becomes really hard to
+go back and fix all that. Um, part of
+the reason that, again, going back to
+the dynamic nature of the web, is if we
+were to have a human go through and
+audit all the pages or the key pages uh
+on your site or some of our listener
+sites, um, they get that. Hopefully,
+they provide fix recommendations also,
+not just a list of what's wrong. That's
+where sometimes things go south also is
+people or developers with no expertise
+get a list of problems, but they don't
+know then what to do with them or how to
+fix them. Uh, but by the time they get
+those, understand the fix and go in to
+actually work that into their next
+sprint cycle, those pages could have
+changed again. And so all that
+information that you have that needs to
+be fixed, some of it might still be
+relevant, but you're kind of in this
+cycle of, right, constant catchup
+because those sites are so dynamic and
+ongoing. So, um, it's almost a
+treadmill, right, that you feel like
+you're doing all this work. You're
+you're you're you are doing things, you
+are trying, but you step off and you
+realize I haven't gone anywhere. I've
+done a lot of work, but I'm still in the
+same place I was.
+>> Right. Exactly. So, all right. So, I
+mean, what I'm what I'm translating from
+everything you just said is that really
+this is a party everybody needs to be
+attending and that the responsibility
+and probably the liability should be
+shared between uh whoever's launching
+the site, you know, the brand and then
+whatever um agency or developer is
+involved in the creation. It's a team
+effort. Um it's what I'm extracting from
+what you said. All right. So then let's
+talk about the the sunshine part of this
+which is the business and financial
+opportunities and upsides of building
+compliance into your
+standard operating procedures as you um
+get websites out there and deploy them
+and update them. So, I'd love to hear
+your perspective on on paying attention
+to this as a money maker for for a
+business versus just a compliance
+headache.
+>> Yeah, I love the idea and I probably
+overuse it when I talk to people of the
+idea that a rising tide lifts all boats.
+I think accessibility
+uh is a rising tide that lifts all
+boats. So, let me talk about uh what
+some of those boats are in this
+situation. So one the customer
+experience that's like the buzzword
+among uh probably many of your uh
+listeners uh and rightly so among SAS
+and tech companies. You want to have the
+most uh uh easy to use, the clearest um
+in many cases uh kind of the most
+beautiful combined with all that so that
+your customers feel like there's uh a
+connection with that brand, right? and
+they also want to be able to experience
+your brand whether that's a product, a
+service, um content consumption uh as
+easily as possible and they want to
+consume it in a way that is personalized
+to them. Uh what we found is that the
+principles of accessibility where you're
+building your site more cleanly uh
+you're, you know, looking at your H1s
+and your H2s, you're looking at the
+navigation, you're looking at the page
+structure. Um, when you build a site so
+that it works well for a person with a
+screen reader or so that it works well
+with somebody who might not be able to
+use a mouse, uh, so they can only use
+their keyboard to tab around,
+>> that makes the experience that much
+better for everybody else as well
+because you're just cleaning up a lot of
+the kind of the unspoken friction uh,
+that exists on those pages. So that's
+the first one is customer experience. as
+you're looking at business growth, SEO,
+um when you build a site accessibly as
+well, uh as you're putting in the key
+detail of those images, the key calls to
+action and the key links, um having all
+that content there, uh we found that
+that impacts SEO and more and more as we
+move into an AI first world where people
+are moving from their search engines to
+uh Claude or Chad GPT and asking
+questions there. uh or even starting to
+get really into the future, they're
+creating agents who go out and do the
+work for them. These AI systems are
+crawling that same content. And so
+again, the more accessible it is, the
+easier it is for that AI system to crawl
+it, to understand it, and then get that
+information cleanly back uh to the user.
+>> Okay.
+>> So that's a second. Go ahead. Yeah. No.
+So, it's enhancing the findability of a
+of a brand and both whether it's AEO or
+GEO or whatever EO you like think about.
+Um, it's the things you need to do to be
+accessible are the some of the same
+things you need to do to improve your
+chances of being found via an AI
+platform is what
+>> that was perfectly and what much better
+summarized than what I just said. So,
+thank you. Um, no. I mean, I think that
+the bottom line is we're looking for the
+silver linings here in terms of how we
+can help put more money in our brand's
+pockets, right, as an agency in addition
+to keeping them out of the legal trouble
+that cost them money, right?
+>> Totally.
+>> Yeah. And I would say the third boat
+too, which you know, t talking about
+money here as you just did. Um what
+companies are also I think especially in
+today's economy and environment which I
+I feel like I say every year. So right
+it's like that's a common thread. Um you
+want to either get more customers for
+your same budget as last year or reduce
+budget or you want to get more out of
+the customers that you already have. And
+what we see with um people with
+disabilities, one of the common
+misconceptions is the idea that they're
+a small minority. It's a small group of
+people um on the internet when the
+reality is in the US one out of four
+people have a disability of some sort.
+Globally it's about 15 to 20% again
+across you know auditory, vision,
+cognitive, mobility. Um there's just a
+lot more people than I think a lot of
+businesses uh assume. So let's talk
+about the spending power because that's
+again turn it back to the money in the
+US alone. the discretionary spending
+power of people with disabilities is
+almost $500 billion. as we expand that
+out to uh the global uh space and then I
+like to also expand it out to not just
+people with disabilities but their
+friends and family that becomes a 13
+trillion dollar uh market there and we
+find very uh quickly that people with
+disabilities because there's so much
+inaccessibility out there when they find
+an accessible site when they find an
+accessible going back to the t-shirt
+example clothing store online, they you
+know they are going back because they
+that means they don't have to deal with
+all that frustration they'll get
+anywhere else. And what do they do? They
+tell their friends about it. They tell
+their family about it. And those friends
+and family very often want to support
+the same businesses that their person
+with a disability, you know, has found
+success with. And so that's where you
+not only find loyalty with the people
+with disabilities who are able to now
+navigate your site and you know complete
+actions but that opens it up to friends
+and family as well. So you have a much
+more loyal customer base. And uh the
+example we like to use is when you have
+an inaccessible website it's the
+equivalent of having your physical door
+uh at your brickandmortar store closed
+and locked. So, they're coming, they're
+trying to enter, they're trying to
+engage with you,
+>> but they're just not able to. And so,
+what do they do? They're going to go
+down the road to their competitor uh who
+does have that digital door open,
+>> right? Do you see what's the trend you
+see in
+um web accessibility compliance? Um
+let's just talk about the US if you
+know. Um is is are we getting better as
+a country? um or are we have we leveled
+out or do you see accessibility efforts
+sort of waning?
+>> So um accessibility efforts at the
+company level um I'll speak to the kind
+of legal that we've seen and then I'll
+transition that to the company. U we're
+seeing federal suits kind of uh even out
+and they're still a good amount but
+they're not really increasing. But at
+the state level, we're starting to see
+um those are increasing year-over-year
+quite a bit. Um and that's actually
+where a good chunk of the growth in ADA
+uh web accessibility lawsuits comes
+from. And the reason there is because in
+a lot of these states, um you don't have
+to be based there as a business to be
+sued in that state, right? As long as
+you have a customer who's buying
+something from you. uh California I
+think kind of kicked us off with the
+UNRA act um 20 or so years ago uh that
+essentially said that right that uh you
+don't have to be based as a business in
+the state of California for action to
+come against you uh and so we see more
+and more of that uh and states are
+becoming uh uh aware of that um just in
+of two months now in April uh the uh
+title 2 uh is enforcing where uh
+government uh municipalities
+need to have their sites be compliant as
+well. Uh and that's uh going to be kind
+of launching uh in April of of this year
+2026. So from a business perspective,
+how is that impacting the way businesses
+are thinking about it? We are seeing
+more and more businesses become aware of
+it. In the past, maybe 3 to 5 years ago,
+it was a lot of hey, I've been sued.
+What do I do now? Right? coming to
+someone like you and say, "Where do I
+even go for something like this?" But
+people are becoming more aware. That's
+partly why I'm coming on podcasts like
+this to, you know, spread that awareness
+and hope that businesses uh say, "Hey,
+let's protect oursel from this risk and
+the cost there, but also let's do it
+because there's a, you know, a business
+impact that we can have that can help us
+be more efficient in our spend and in
+our uh with our customers." And we
+haven't even talked about probably the
+most important but that often uh doesn't
+quite make its way into a business
+presentation is just the right thing to
+do right I think once business
+>> I was going to ask you yeah about the
+moral imperative here I mean if you take
+the if you take the regulatory risks and
+the litigation risks and put them aside
+for a minute and that was very helpful
+context about federal versus state
+activity there but that aside are I
+guess what I'm curious about is do we
+know whether
+private enterprises, companies, whether
+big or small, are voluntarily
+getting better at building their
+websites to be more compliant. Is this
+something that that businesses are
+embracing at a higher level of of
+frequency than they used to say 10 years
+ago? What do you think about that?
+>> I think it's definitely trending in that
+direction.
+That being said, I think it's still a
+very small subset of businesses who are
+prioritizing it uh who have for example
+a chief accessibility officer who sits
+you know as part of their seauite who is
+building uh accessibility maturity
+programs uh across their company. Again
+that we've just been talking about
+digital accessibility. there's
+accessibility that HR needs to be
+thinking about in terms of how they find
+new talent, how they find diverse
+talent, make sure that they're
+interviewing people with disabilities.
+Um that the the forms and the interview
+process and all those are accessible as
+well. Um pre procurement uh it really
+does the more you think about it start
+to kind of manifest throughout the
+organization. So more and more we are
+seeing that. I think the pattern I've
+noticed is
+company gets sued and this is kind of
+the previous pattern where company gets
+sued, they tackle accessibility because
+they have to. They then start to see the
+ancillary benefits that come with it.
+Then they also start to see, hey, this
+isn't just good for the business. Like I
+should have been doing this the whole
+time. So I think it kind of leads to the
+the moral thing. I do think more and
+more as things are evolving, I think the
+lawsuit, while it continues to be a
+driver, I don't think that's the primary
+driver anymore. I think people are
+starting to, especially as so many
+products and services become monetized.
+>> Uh companies or people want to work with
+companies that have more of a purpose,
+right? They want uh purpose- driven
+brands. And so I think companies also
+are starting to see that's a way that
+not only can they differentiate
+themselves from competitors, but by
+doing a good thing and doing something
+they should do, that's something they
+can lean into also and make that part of
+their marketing, make that part of their
+brand that, you know, we think
+inclusively, we build accessibly and
+things like that,
+>> right?
+Well said. So, let's say you're
+a web development agency or you're a
+marketing agency that offers web
+development, web design services, and
+you and your brand clients, you want to
+do the right thing. I mean, not only do
+you want to avoid having legal issues,
+but you want all the upsides that you
+were talking about earlier. You want you
+want customer stickiness. You want
+return business. You want the customer
+experience to be wellreceived. All of
+that. Um, but maybe you don't have as
+many technical chops um as you might
+need uh to build the thing in a
+compliant manner or you don't really
+know how to make sure you're putting
+your best foot forward when it comes to
+Um,
+>> I know this is one of the reasons your
+company exists, but what are some things
+agency leaders, owners, developers,
+um, can do some lowhanging fruit? Um,
+whether it's questions they can ask
+their clients or whether it's tools that
+they can use, what are some of, um, the
+most widely available things and methods
+that that these agencies can employ to
+do better when it comes to digital
+accessibility? Yeah. Um I would say we
+look at like a three-pronged approach
+that I think works for most companies.
+Um the first is having an automation
+tool that is on your site that is just
+constantly running and when those
+inaccessible
+um code uh snippets kind of do make it
+through um that automation is able to
+recognize that put a fix in place and
+serve the accessible experience to that
+end user. Now automation uh only covers
+of those wake criteria that we talked
+about earlier. It can only identify
+about 50% realistically. So there have
+been some companies in the past who have
+said hey use our tool and you'll get
+fully compliant. That's caused a host of
+issues as well and lawsuits there
+because the reality is because
+accessibility is so contextual, it is so
+complex, uh no tool alone will do
+everything. So I say start there though
+like if you can get 50% uh automated and
+fixed then you're headed in the right
+direction. We then like to say the
+second prong is complement that with
+human expertise. So, uh, find your key
+hightraffic pages, find your, um, common
+templates, have somebody go through and
+audit that and find out what are the
+issues that you have, and then that
+person can identify those, hopefully
+have the expertise to write a fix and
+hand that to your development team. So,
+they know very clearly, here's what I
+need to do uh, to make those fixes. Or
+what we do, which is a little bit
+different, we take those fixes that the
+humans found and put those into the
+automation layer. So automation is
+serving at that point, you know, a vast
+majority of your fixes. So that's kind
+of the hey, I just want to on the post
+development side keep it all accessible.
+I think that's the the approach we've
+seen works the best. Uh and then we also
+do uh offer uh an SDK tool where if
+companies really have that gumption and
+they want to build accessible from the
+start um that same automation uh and
+those same sets of rules can be infused
+into the development cycle so that
+developers can test their site before it
+goes live. uh catch those issues, catch
+those bugs, uh get them fixed, send out
+a much more accessible site, and then
+that same automation, right, as things
+do slip through and go in and fix those.
+So, it is a combination. Um it might
+sound complex like I as I share it for a
+minute or two, but at the end of the
+day, um it it's it's something that
+scales uh and it is something that again
+uh helps to minimize the risk. And there
+are ways that you can do it that
+definitely allow your business to keep
+doing the things it's good at and the
+things that it's always done.
+>> Well, I mean to your point a minute ago,
+just even regularly using the automation
+tool is going to get you 50% of the way
+there. So the margin of improvement from
+doing nothing to doing that is
+>> hugely significant. And then just adding
+the human in the loop of the whole thing
+gets you even farther. So, and those are
+those are solutions that can scale from
+the smallest of agencies to the largest
+of them, right? Which I always love
+offering. Um
+>> I love offering tools and solutions that
+any size of an agency um could can adopt
+at some level or another. Um, this has
+been really helpful and also educational
+for me. I, you know, my firm deals with
+this from a riskmanagement perspective.
+So, we're creating contract language on
+this point and we're, you know, taking
+the calls from the occasional agency
+whose client has gotten one of these
+lawsuits, but the actual technical
+um,
+you know, basis for making your site
+compliant and as well as the financial
+upsides that can be achieved are not
+somewhere where I live and play every
+day. And so, this has been a learning
+for me as well. one. So, Mike, I want to
+thank you for sharing um some of your
+wisdom with us. And I'd love it if you
+would tell agencies listening how they
+can learn more about AudioI and how to
+get in touch with you if they'd like to
+do that.
+>> Yeah, I think the best way um as I
+stated at the beginning, I think most
+companies under guess how many how
+inaccessible their site is. So, I would
+head over to audio.com. At the top
+there, you'll see a button to scan your
+site. you can put in your URL and it
+will our automation will go out scan
+your site and tell you how many errors
+we found. It'll also break it down and
+tell you like uh how many were severe uh
+versus non- severe i.e. which ones could
+get get you sued.
+>> Um and and again that's only about 50%
+of what automation so whatever high
+number you see there the reality is if
+we then audited with a human or a person
+with disability they'd find uh more as
+well. And often the types of things they
+find are the types of things that that
+get you sued. So I think start there.
+Start with awareness, right? Start with
+an understanding of where your site is
+at. And then from there, um, we have
+learning courses that teach best
+practices, uh, the basics of web
+accessibility. I think, uh, from there
+it's, you know, depending on your
+business and what your needs are, um,
+you know, we can, uh, go with you from
+there. So,
+>> okay. Amazing. Mike Barton, audio I
+thank you so much for joining us today
+on Innovative Agency. I learned a lot. I
+think everybody else listening um will
+as well. And so I appreciate your time
+today.
+>> Yeah, thank you.
+>> My pleasure. And thanks everyone for
+joining us. down until we all meet again
+on the next episode.

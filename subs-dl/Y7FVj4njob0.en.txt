@@ -1,0 +1,1404 @@
+10 clients at 5 grand a month, one
+person running the entire thing with a
+team of AI agents. That's $50,000 a
+month in recurring revenue at 90%
+margins, and we're going to hand you the
+entire blueprint in this episode. I
+brought on Nick Vasiljesku, who's a
+co-founder of Orgo.ai, and we built out
+the entire business model live on
+screen. Everything from the offer to how
+you find clients, how you onboard them,
+and then how you deploy managed agents
+without touching a single line of code
+yourself. I even watched Nick deploy a
+Hermes agent from scratch in 26 seconds
+on screen in this episode. So, if you
+want a business that you can start this
+week with the skills that you already
+have, this is the episode for you.
+All right, Nick. So, who are you and
+what is someone going to take away if
+they listen to the end of this episode?
+>> Man, I'm telling you, the best
+opportunity today is to set up agents
+for businesses, and you can do it on
+Orgo. I'm the co-founder of Orgo. We
+give you the computers and the
+environments that you need to set up
+these agents. And what's interesting is
+you could set up Hermes agent, you could
+set up Openclaw, but you could also set
+up Codex and Claude Code and Claude
+Desktop for your customers on a Windows
+computer in Orgo, manage fleets of them
+in workspaces. And we're giving you this
+all out of the box, business in a box.
+You could set this up in a day, have all
+of your customers have their own
+workspace in Orgo, and yeah, I just
+think that this entire stack from the
+offer to how to get customers, how to
+onboard them, how to build these agents
+out. We walk through all of this for
+you.
+And so, at the end of this video, you
+should be able to have everything you
+need to get started, to start making
+money with the skill that you have
+today, which is setting up agents. Um
+So, I'm super excited to see what people
+build.
+>> Me too. So, yeah, so to kind of
+summarize at least my take on it and
+your your title of the the diagram here
+sums it up nicely. Like we're going to
+be handing you guys in the audience
+the blueprint for building a 5K a month
+per client that is, 5K per client per
+month, one person AI agent managed agent
+business blueprint. Like
+you can take the diagram that we have
+here. We're going to put it in the
+description. Take the diagram, hand it
+to Claude, hand it to Hermes, hand it to
+your agent and have it build you out
+this entire business plan.
+Um and that's exactly what we're going
+to give you all today. So, I'm excited
+to dive in.
+>> Let's do it.
+Like the biggest arbitrage here is
+a few things. A.
+Everyone in tech Twitter or on AI
+YouTube, like we think that the rest of
+the world is like us and that they
+everyone can set up Claude code,
+everyone can set up Hermes agent,
+everyone already knows how to do that.
+But the reality is 99% of people,
+especially businesses, they don't know.
+They they're still asking ChatGPT what
+the weather is. Um and the value that
+they can get, like the magical wow, like
+time like that that first wow moment is
+very it hooks a lot of business owners
+and then their
+their creativity just goes through the
+roof of like all the different problems
+they can solve with AI.
+Um so, yeah, like a lot of this comes
+down to
+you know, I'll walk through kind of how
+to think about what problems to solve
+here, you know, the highest value
+problems that require the least effort,
+cost, and time. Um and then and just
+solving those first and having it
+infiltrate the business and then
+everything else that gets solved along
+the way, it's like
+it's easily valuable of a you know, the
+the the range of 5K a month, 4K a month,
+6K a month.
+Um
+and yeah, I think like not enough people
+are doing this. Um and we're seeing a
+great amazing pull in the market for
+this. So, um
+yeah.
+Shall we just dive right in?
+>> 100%. Yeah, let's get into the model.
+I'm I'm excited, so let's dive in.
+>> Cool. So, essentially, what we want to
+do in terms of our offer is that we want
+to once again remove all of the
+complexity.
+These business owners, they don't
+understand, okay, what is token usage?
+What is infrastructure? What is
+security? Like, what is Hermes agent
+versus OpenClaw? What's a harness? They
+don't know. They don't care. They want
+their problems solved. And so, we have
+to keep that in mind and we have to
+create as much simplicity and clarity in
+our offer as possible. So, what I like
+to do is I like to say, "Look,
+we'll handle unlimited tokens, unlimited
+agents, unlimited
+infrastructure, computers, whatever you
+need, we'll handle it. You don't have to
+worry." Like, that's at the end of the
+day, like, that's what you have to do as
+a company. You come in to reduce the
+friction, get rid of all the the the
+friction in in in terms of setting
+something up. You're You're doing a
+managed service for them. Uh so, keep it
+that way. Keep it simple. And then go in
+and and offer, you know, kind of
+abundance. And with that, a lot of
+people are like, "Well, how how how do
+you ever um you know, make money if it's
+unlimited agents? What if they want 100
+agents?"
+I have customers they they think they
+want 400 agents.
+Really, what they think is what really
+what they want is just, you know, they
+have like maybe a few different
+automations in mind and they think it's
+going to take 400 agents. But, that's
+where you need to really come in and
+just be like that domain expert and say,
+"No, okay, like, it's really like maybe
+it's one to three agents." Um so, yeah,
+I I think like
+there's no need to be kind of like
+worried about, "Oh, I'm going to get
+screwed over." Like, a lot of customers
+are very reasonable. If they genuinely
+need 20 agents, like, they will be happy
+to pay for that and you can clearly like
+communicate that. Um but, yeah, I I like
+to just keep it very simple and do the
+do the 5K a month offer. I I see that
+work really well.
+I don't know about you, Corey, but the
+industries that work really well for us
+are agencies like marketing agencies,
+brand design agencies, law firms,
+insurance agencies, even insurance
+companies like software companies in
+insurance is really good.
+Manufacturing, wholesale, real estate.
+We try to avoid health care and finance
+because there's just a lot of red tape
+in these industries. But if you're
+already a domain expert in health care
+and finance, then go for it. Like at the
+end of the day when it comes to picking
+a niche,
+you really just want to pick either A,
+what you know,
+or B,
+wherever the market is pulling you. And
+I would avoid trying to like guess on
+like, oh, I'm going to go into
+I don't know, like like telehealth. I
+remember when I first started in online
+business like doing a marketing agency
+like several years back. Like I started
+in telehealth. It's like terrible
+decision. I didn't know
+anything about telehealth. I was just
+like, oh, it sounded like a good idea.
+So, don't do that. Just
+try try a bunch of different industries,
+see where you get pulled into the most,
+and double down on that. Uh
+>> And and real quick on that topic, I
+think that's really good advice. So,
+that's something that like people ask me
+all the time. It's like, oh, should I go
+niche or should I go broad to start? And
+my answer is kind of like you said. It's
+like if you have really specific domain
+expertise, like if you're a lawyer by
+trade, then
+serve law firms from the start, right?
+You already have an edge there. But if
+you don't have any specific like super
+deep industry expertise, do not go niche
+from the start. Say yes to just about
+any client, and then like you said, the
+market is going to kind of you're kind
+of going to find your niche from doing
+that. Like I know when we were doing
+when we started off doing our AI
+assessments,
+we were obviously doing them for anyone
+that wanted them, and we were like, oh,
+like hey, we're actually a lot of like
+realtors are are asking us for these,
+right? And that's not to say that we
+specialize in realtors now, but like we
+could if we wanted to, you know, and
+that'd probably be a lot easier for us
+to do because we've already validated
+that market. So, that's I think that's
+really good advice on your end and
+that's just a reminder for the audience.
+>> Yeah, exactly.
+And I don't know like
+I think it's a like kind of a noob
+mistake in business when you get started
+out of like
+putting something off because it doesn't
+sound scalable. So, it's like Right. Oh,
+I'm not going to do this because I'm
+never going to scale and it'll never
+like be repeatable enough that like when
+you're starting out you you just need to
+make money. Like you need that. So, like
+however you're going to get that, you
+got to get it. So, like if it's doing an
+audit or if it's doing something that's
+a little different like from a customer
+to customer like
+the the whole the whole point of when
+you get started is not necessarily to be
+scalable from the beginning, it's to
+like
+actually learn, get in the trenches and
+learn, you know, what works, what
+doesn't work and
+>> Right.
+>> So,
+I think a lot of people live a little
+too much in theory and so I guess like
+the big my biggest piece of advice here
+is like just get out there and start
+selling and building and you will kind
+of like this is how I learned all of
+this is like it's not like I, you know,
+kind of wrote wrote it down one day and
+philosophized about it. Um so,
+um yeah, I guess as far as next up in
+terms of getting customers, this is
+another thing that's, you know, kind of
+from personal experience the best way
+that I found to get customers is
+obviously content. Um just to have
+customers jump on a call with you. Like
+every you could have nothing
+that's
+uh you know, you could have a terrible
+funnel
+you could have like no uh lead
+qualification
+but if you just had a booking link and
+an audience that knew what you do and
+they knew who you were and what you sell
+you could have a thriving B2B offer.
+Um so, like content is king
+people want to know who you are, they
+want to see that they can trust you.
+And going going into a call, they feel
+like they already know you. Like that's
+the biggest, you know, strategic
+advantage. Um if you don't do content,
+I love I love Upwork. I I just love I
+don't know if you've I don't know if
+you've looked at like Upwork. You could
+like you just go to Upwork, type in
+Hermes agents or Open Claw agents. Like
+people are literally willing to pay
+thousands of dollars to help you set up
+Hermes agents. And in in this video, I'm
+going to show you how to get set up
+really quickly on Orgo. Um but yeah,
+like Upwork is another great place to
+get started.
+And also, I don't know, did you ever do
+anything like free in the beginning?
+[snorts] Because when I started
+doing like computer use AI agents back
+in November for businesses,
+I like the first five of them that I did
+were actually free. And it was just for
+the case case studies.
+>> Uh 100%. I mean, when we when I first
+started in AI, again, around the similar
+time, we were doing AI assessments. Like
+that was the first offer that I that I
+ran, and we're still doing them. But the
+first, I think, two or three we did were
+completely free. And that was because
+one, we wanted to work out the kinks in
+the process. And And two, like you said,
+we wanted those case studies. And we
+wanted that feedback from the client on
+what we could do better.
+>> Exactly.
+Yeah. And like they'll always give you a
+referral when you do that, too. And so
+then it's just a snowball. So um
+Yeah, we still I still have like actual
+Technically, I still have people's like
+agents that I manage today that they
+were free. Um but they're you know,
+you're the free people in the beginning
+that in a way, they kind of
+they even though if even if they don't
+give you money at first, they still
+believe in you enough to like spend time
+with you, let you solve their problems,
+and trust you in that way. And so um
+And so then it's kind of funny cuz I
+know in your So Corey just had a video
+go viral about audits and
+what And what you said one of the parts
+of that video was how in a call with a
+customer you have like an AI voice
+recorder like Grainola and you give it
+to Claude and then Claude just comes up
+with the whole like solution for the
+workflow or tool for the to solve their
+problem and that's exactly what I do as
+well in terms of onboarding clients. The
+first call
+I don't even try to actually sell on the
+first call. I really just try and get
+the pain points understood really well
+and like what is the workflow
+specifically? And then either the result
+of that is they close on that call
+immediately or they close on the second
+call. But the whole point here being
+we want to identify their problems, have
+an AI voice recorder and then we want to
+map the whole workflow like tip to tail
+of what that might look like in terms of
+an AI agent that solves and automates
+that problem
+through and through.
+So and if you do that with not just
+like one workflow or automation, if you
+have like several of them. So here's a
+graph. It's a simple practice is like a
+design thinking's practice on how to
+know what problems to solve. You can
+imagine these are all like sticky notes
+and you're like, "Okay, like this one
+here is a customer support workflow. I
+don't know. This one over here is like
+another I want to
+invoice agent workflow so on and so
+forth and you just want to map them in
+terms of okay, what is the one that has
+the most value
+and takes the least effort, cost and
+time and that's your that's your golden
+area and you want to start there.
+and so that first call you're trying to
+get all these cards. You're trying to
+figure out what are all the different
+things we could automate. Maybe this is
+your audit in your case
+and okay, then once you figure out what
+the things are to automate
+I mean that's they literally just told
+you their problem. They just told you
+they want to automate this thing.
+It's like such an easy sell at that
+point. Um
+And so yeah.
+>> To kind of add to that, too. Sorry to
+cut you off, but to add to that, right?
+You can So, I mean, what you're
+explaining, the audit, like that's
+literally what we charge for. Like,
+people have paid us a thousand dollars
+for that exact call many times. And I
+think to even take it a step further is
+you sell the audit as kind of like a
+foot in the door offer, cuz it's a lot
+easier for someone for you to be like,
+"Hey, you know, basically pay me a
+thousand dollars one-time fee, and I
+will show you all of the AI agent or
+automation opportunities that exist
+inside your business."
+>> And then, when you're delivering the
+audit to them on a follow-up call,
+you're upselling the five grand a month
+managed service, but the the kicker is
+you credit the thousand dollars they
+paid you for the audit towards the first
+month's managed service.
+>> So, it's like, "Hey,
+>> Yeah, it's like, "Hey, the audit is
+complete like you already paid me a
+thousand. I'll make it free. I'll
+basically refund it to you if you go
+with our managed service offering."
+Right? So, that's a really good way for
+them to be like, "Oh, yeah, no-brainer."
+>> And honestly, like
+I think I'm going to adopt that 100% now
+that you say that, because it's like
+that is in and of itself a really good
+way to qualify leads is if
+>> Yep.
+>> if they're willing to pay money up front
+for an audit and not waste your time,
+then like
+yeah, like that that's actually like one
+of the best things you could do and just
+in terms of just protecting yourself and
+and making sure you're not wasting time
+with anybody.
+>> 100%.
+>> The audit's an easy sell, and then you
+even do a you can do a mini audit,
+right? Uncover one pain point, show them
+one opportunity. That's free. Full
+audit, you know, is five to seven or
+more pain points. That's a thousand
+bucks, and then managed service is like
+the money maker offer, and then we just
+credit the audit, the thousand dollar
+audit towards that service.
+>> Nice.
+>> That's kind of how I would structure it.
+>> Yeah. Oh, that's brilliant. So, for
+everyone watching this video, steal this
+steal this offer, steal this kind of
+like flow.
+Paid audit into a managed service agent.
+yeah, that's like
+that's some sauce right there.
+>> And Nick, can we can we put the
+Excalidraw drawing that you're showing
+here? Like can we put this diagram in
+the description so somebody could lit
+like somebody could literally if Nick's
+cool with it, they could take the
+Excalidraw that we'll put in the
+description in the show notes. They can
+give it to Claude or their Hermes agent
+or their open Claude or whoever and have
+it build out the full infrastructure.
+Like everything from the SOPs to the
+onboarding to the skills to like
+everything and then here in a couple of
+minutes we'll show you guys how to
+actually set up your first manage agent
+on Orgo, Nick's product and that that's
+kind of the whole thing A to Z. So like
+this video is literally
+will be a $5,000 a month managed agent
+business in a box, right?
+>> Exactly. Yeah, we'll definitely include
+the Excalidraw for sure.
+Yeah. So yeah, I mean when you when you
+solve when you find all the work
+workflow automations that you could
+solve and you pick the ones to solve and
+you do those first, it's kind of like
+the first hit, that's the first magic
+moment. Um and the reality is
+Open Claude, Hermes agent, these two
+tools, they're some of the stickiest
+products of all time. They grew so fast,
+they went so viral.
+Like you'd be silly to not try and get
+this in the hands of business owners and
+get them addicted to it because it's
+the the retention problem for for those
+being like a product market fit
+solution, like that's already solved.
+Like you just need to get it out there.
+So um you need to be the implementer. So
+the term in terms of the stack, right?
+We can kind of dive in on like how to
+build these agents, but essentially
+there's a few tools I love to use. One
+is actually uh Compozio. So let me see
+I'll I'll I'll pull up uh composio.dev
+and let me just go into my account and
+then I'll pull it into the main screen
+here.
+But this this company
+they allow you to
+um connect all of your different apps in
+one connector so that you can give it to
+your agent. So you you see here I'm
+connected to my Gmail, I'm connected to
+my Superbase. I've all these connectors.
+And I literally can just go here to
+install. I'm not going to go there right
+now cuz it'll show my API key. You click
+the install, you give this to your
+agent, and now your agent has access to
+all of these different connectors with
+just one tool. The reason this is so
+important I want to I wanted to make a
+big point on this is because
+the the the fulfillment process for
+building managed agents for employee for
+companies the one of the biggest slowest
+painful like bottlenecks in doing this
+is getting all of their passwords and
+getting all the connections set up.
+Like it used to be a pain in the ass,
+but this tool just makes it so easy. You
+just have your customer go here, make
+sure they're on the for you over here uh
+not on the platform.
+They go here, they connect everything,
+and then they go to the install, and
+they'll give you their API key, and you
+just give that to the Hermes agent or
+the OpenGlot agent, and now it's
+connected to all their tools for them.
+It's like I love this company. Big shout
+out to them.
+>> And yeah, just to I'll I'll kind of put
+in a vouch for Compositio as well, and
+we're not like affiliated or sponsored
+in any way, but I I mean I have I think
+seven or eight different Hermes profiles
+like an hour ago before we sat down to
+record I was setting up Compositio with
+these new Hermes. And yeah, it's that
+simple. Like there's if somebody's
+capable of like, you know, people are
+going to think like, "Oh, well, I don't
+want to have to ask my client to do more
+than they need to or like what if they
+get stuck here trying to authenticate
+their tools?" It's literally the most
+brain dead like anybody if you if you
+have a business, you can set up
+Compositio. Like if you're competent
+enough to set up a business, you can one
+click to connect any of your tools to
+Compozio and and it's done. So
+I I know we're going to hear that
+objection and it's it's truly the
+easiest, most user-friendly process,
+even if you're not technical at all. So
+I just wanted to throw that out there.
+>> For sure. Yeah. Yeah, I'm a big fan of
+this product. Um
+I remember hearing about them early on
+and not knowing like for sure like
+what's the use case of this? And then
+there's a lot of companies that are like
+that. Like oh oh what's the use case of
+this product? Like what is this tool for
+agents? I don't get it. And then agents
+became a big thing with open claw and
+Hermes and it's like
+holy there's so many there's a
+whole new software stack that you can
+build for agents. Um
+Anyways, one of those is being the
+computers for the agents. And so I guess
+this is a good segue into kind of Orgo,
+our product, what we do, and what we
+what you can do with Orgo. So
+here is like the playground interface
+for inside of Orgo when you spin up a
+computer, I can call this Hermes agent
+test. Um and I can spin up a new
+computer and you can go here and see
+it's already spun up. Hermes agent test,
+brand new, and this is like a full
+proper Linux desktop. And what this
+serves for is for your agent to be
+installed inside of this so that it can
+live in here 24/7, operate the computer,
+run scheduled tasks. It has its own
+home. It has its own environment.
+And the way we built Orgo was to be so
+that you can manage fleets of these
+agents because you're going to have lots
+of workspaces. Each workspace it's is
+its own client. And inside of each
+workspace you can see here like we have
+like 50 computers in this one workspace
+So yeah, this is like
+the best way definitely to
+to manage fleets of agents is with Orgo.
+And of course I'm a little biased, but
+um you can see here we have this
+templates button.
+Templates is super exciting because we
+take out all of the difficulty with
+setting up Hermes open cloud cloud code.
+You just go to templates, you launch
+this computer.
+I'll say Hermes agent, I'll call it like
+Corey.
+And we'll launch this computer.
+And you can see here like I can also
+stop these computers when I'm not using
+them if I want to like save on resources
+or what have you.
+And then here in my workspace, the
+Hermes agent will be spun up. It'll take
+about a minute.
+And then we can just dive right into
+getting it all set up.
+But
+any questions so far?
+>> Yeah, I was going to say let me ask a
+clarifying question. So
+so with Orgo, right? So like you said
+it's in the top left we can kind of
+toggle between our different workspaces.
+And so the idea is that each client we
+have, so everybody each client that's
+paying us say five grand a month has
+their own workspace.
+And let's say we onboard a new client.
+Let's say it's like a law firm, right?
+So we would simply go to the top left
+spin up a new work workspace, call it
+client XYZ.
+And let's say this particular client
+we're setting them up with a Hermes
+agent. So all we're having to do is go
+to templates, one click to set up a
+Hermes agent and then it deploys a brand
+new virtual computer with a Hermes agent
+already installed on it. So then from
+there we can just dive right into step
+three in your Excalidraw which is the
+onboarding, right? Simply mapping like I
+assume sitting down with the client and
+having a conversation to kind of map out
+those initial workflows. And then where
+do we go from there? Like once we have
+an idea of like okay
+we we know the effort versus impact for
+this client, we know that these are the
+maybe the first two workflows that we're
+going to hand off to Hermes. How do we
+physically give those tasks to Hermes?
+And then the set the follow-up question
+is
+is the client ever having to to get into
+Orgo themselves or is this something
+that we're just handling end to end for
+them?
+>> Yeah, great question. So,
+I'll I'll answer it so the last question
+first. So, the in terms of what the
+client sees, the client almost never is
+actually inside of Orgo. Orgo is like
+your operator layer. It's like your
+>> That's what That's the one like thing I
+was unclear on. I'm like, I really hope
+the client never has to jump in here.
+Obviously not because it's a bad
+product, it's great, but because feel
+like as soon as you start talking to
+your non-technical client about like,
+"Hey, you've got to, you know, spin up a
+a Linux machine and then click that."
+Like, their eyes start to glaze over and
+that's when you lose them. So, the fact
+that they're not having to do that I
+think is like that's what they're paying
+you for.
+>> Exactly. Yeah, like that This is meant
+to be like your operator layer where
+you're going to manage their their
+fleets of computers or the fleets of
+computers that you manage for just all
+your clients. And you If you want to
+invite like other people into your
+workspace, you can invite here and you
+can actually just like collaborate on,
+you know, workspaces and computers
+together.
+Um we also have this like connect an
+agent feature here. So, obviously we
+have an MCP and CLIs and skills so that
+I can actually like this is really cool
+like I'll be on a walk and I'll get a
+message from a a customer like, "Hey,
+like my my my agent's not responding.
+Something happened." This used to be a a
+lot more common back back in the day
+when OpenClaw was like Um it was
+pre-Hermes. You just used OpenClaw and
+OpenClaw was super unreliable uh and the
+gateway would always go down so I'd
+always have to fix it. And now and what
+I would do I'd be on a walk and and the
+gateway would go down and get a a
+client, you know, "Hey, my OpenClaw's
+not responding." And I would just tell
+my agent who had the Orgo MCP connector
+say, "Hey, Mark's Mark's agent went
+down. Can you like get the gateway back
+up?" And it would do it because it has
+the Orgo MCP and it could talk to the
+computers, go inside the computers, fix
+the Hermes agent, get the gateway back
+up, and do it all for me. So,
+um yeah, that's that's this connector
+button here. You can essentially connect
+your cloud code to
+manage the fleet of Orgo computers. And
+I'll just show that real quick because I
+think it's like
+pretty cool. Um
+So, let me
+>> Yeah, being able to essentially being
+able to troubleshoot a client agent
+deployment from your phone from anywhere
+at any given time is insane. Like I know
+like you said like early open cloud days
+is like you literally spent just as much
+time troubleshooting it as you did
+actually using it,
+but I think this really solves that pain
+point. And like I guess
+that's really only possible with Orgo,
+right? Like unless you had some super
+complex setup
+like whether locally or whether on like
+a VPS that would probably take a ton of
+time and know how to configure. Like
+Orgo
+is kind of what makes that possible. Is
+that right?
+>> Exactly. Like
+Yeah, that's exactly right. Like you you
+could set up, you know, these Hermes
+agent on a on a VPS or on a on a
+you know, another
+virtual cloud computer, but like no one
+has really made it super easy to manage
+like fleets of these agents. Um so
+>> case. Like that's that's what Orgo's
+built for is like if you're if you're
+deploying agents as a service, then
+it makes sense to do it on Orgo. Like if
+you just if you just wanted like your
+own standalone like single Hermes agent,
+probably not the tool for you. Like is
+that is that fair to say?
+>> Yeah, like if you want to set up a
+single Hermes agent, like you could use
+Orgo, but it's really meant to be for
+like teams and agencies and like
+software companies. Like let's say you
+want to
+let's say you want to make an app for
+one-click Hermes for solar the solar
+industry. You could literally do it all
+with Orgo. We have all of our APIs, all
+of the docs and everything so that
+everything that's a functionality within
+Orgo in terms of spinning up a computer,
+installing Hermes via the template, or
+anything, controlling the computer, you
+can do all of that, access all of that
+through our APIs, and you can literally
+build an app so it's like one-click
+solar panel Hermes agent for, you know,
+solar panel industry.
+Um And you can just go take that, sell
+that as a product-ized just app, really.
+Um and yeah, I like to call it like the
+you can create your own Perplexity
+computer for your own industry, you
+know? So, if you're familiar with
+Perplexity computer, it's like it's a
+super easy kind of out of the box open
+claw in a way.
+It's not exactly like open claw. It's
+like 60% there, but you can do that for
+industry, and that's the valuable part
+because it's like
+the more the riches are in the niches.
+The more specific of a workflow and and
+problems that you can solve
+um out of the box, I think that's just
+like that's the opportunity. So, um
+Yeah, you can see here I have my Claude
+code managing my Orgo workspace in that
+computer we just spun up Hermes agent
+for Corey. It's running and it's it's
+all it's ready to go. So.
+Uh and then
+>> Yeah. And then like you said, so in this
+case, right? My Claude code is connected
+to all of my connectors. It has Compozio
+as well.
+And if we were in a call right now and
+you're explaining to me your workflow
+and your your you know, problems that
+you need solved,
+and this call was over and I'd have it
+in my granola, I could literally just
+ask my Claude code, "Hey, I just got
+done with this call with Corey. I need
+to build out this automation, this
+workflow, and I want it I want I need to
+build it into a skill for his Corey
+Hermes agent computer. And I from here,
+from Claude code, I could just do that."
+And
+it's like done for you, you know? It's
+like it's insane. Um
+>> Cuz it's taking the transcript, like
+it's basically taking the client's own
+words from the transcript and saying
+like, "Okay, this is a pain point. This
+is how they're currently doing the
+process end to end. Great, I have that
+context. Let me turn it into a skill,
+and then using the Orgo MCP, they can
+basically port that skill over to the
+Hermes agent that's on the Orgo
+computer, and then now like I mean
+theoretically within
+10 minutes of you wrapping up that that
+audit call with your client, you could
+have the V1 of the skill
+created, handed to Hermes already, and
+ready to test.
+Yeah.
+>> That's insane. So, and one one more
+thing too I want to mention for the
+audience. So, obviously we're talking
+about Orgo, Nick is a co-founder at
+Orgo. He's put together a Is it a
+discount code? Is it a What do we have
+for the audience if they want to go try
+out Orgo themselves?
+>> So, everyone can get started. You can
+use code Corey. It's just uh Corey's
+name, c o r e y, and you'll get your
+first 3 days for free. Uh at checkout,
+you just type in the code Corey, you'll
+get the first 3 days for free, you'll
+get 20% off the first 3 months, and you
+can try out Orgo, give it a shot, get
+your first customers on there, start
+making money, um
+and yeah, we're just excited to see like
+what everyone builds on top of it. Um
+you know, we just launched as well. So,
+I don't Have you ever heard Corey when
+people say, "Oh, like Open Claw is going
+to um or Claude is going to destroy Open
+Claw, and and Claude's going to destroy
+Hermes, and no one's going to use these
+anymore." Have you ever heard that
+argument?
+>> Yeah.
+So, what's interesting is
+with Orgo, you don't really care how you
+solve the problem. You see here, this is
+a Windows computer I have right here.
+You can see I was talking to the agent
+over here. It's like kind of like we
+have our own like Manas. And in this
+Windows computer, I can install my
+client's Codex. I can install my
+client's Claude code. And even managing
+their Codex for them and setting up
+skills for them because the customer
+these these businesses you think that
+they know what a MCP is and what a skill
+is. They don't know. They don't have
+time to set that up. So even if you just
+manage that for them and you use the
+Orgo Windows computers to do that
+because you can download the desktop app
+for Claude or you can download the
+desktop app for Codex and set up the
+connectors for them and set up the
+skills for them. And then on their
+account once when they open up their
+computer and they open up their Codex,
+it syncs to the cloud because the
+connectors and skills they do that. Like
+if you just do that for them, that's
+that's huge. Like they love that. So
+I think that's like a that's like
+another thing that's unique with Orgo is
+okay, it's one thing to get set up, you
+know, with Codex or Claude code on your
+own computer. The beauty of Hermes and
+Open Claude is like, oh, now you can do
+this for other people via VPS, but even
+beyond that, setting up Claude code and
+opening eyes Codex for other people used
+to not be able to really do it cuz it
+required to be on their computer and now
+you can do it by just setting it up on
+an Orgo computer. So
+>> That's and that solves a big pain point
+my business partner was talking about
+last week. We're like, we've had to turn
+down
+like we've had people come to us like
+you said and they want us to they want
+us to literally install Claude co-work
+end to end for them, onboard it for
+them,
+put in a couple of skills, etc.
+And it's like we've done that before on
+a call with the client like walking them
+through it, but that's a pain in the ass
+and you always run into roadblocks and
+it takes
+>> five times longer than you expected to.
+And he was like, well, for us to do it
+for them, like they would literally have
+to set up TeamViewer on their computer
+and we'd have to go in like that would
+be a pain, but again, Orgo pretty much
+solves that pain point and makes it to
+where we can you you can offer done for
+you
+co-work installations or done for you
+Claude code installations or done for
+you Codex installations. So that's a
+little different than
+like a managed Hermes or a managed Open
+claw, but it's the same concept and you
+could easily charge you know, a 5 to 10k
+setup fee for for that. And and a
+monthly
+retainer to either, you know, build X
+amount of new skills per month or to
+maintain it for them or to just be on
+call to troubleshoot it if they run into
+any issues. Like that's almost like a
+hybrid of our AI concierge offer where
+it's like, hey, for, you know, X amount
+of money per month, I will set up your
+Codex or your Claude code or your
+co-work and I will be there to basically
+walk you through anything related to it
+on a, you know, six business hour SLA
+via my my Orgo computer. So, it just
+there's so many so many directions you
+can go with this.
+>> Yeah, it's like your creativity is, you
+know, it's it's the limit of your
+creativity, honestly. Like over here, I
+wanted to show this, too. When you spin
+up a Hermes template in Orgo and you
+type in Hermes model here in the
+terminal, by the way, you can SSH into
+this computer. So, like I can run from
+my own computer, I can just connect to
+this computer. So, if I want to use my
+own terminal, I can do that. I don't
+have to be over here in the web app.
+But, I'll go ahead, I'll set this up.
+So, I'll do the the news research
+portal. This is the company that makes
+Hermes agent. I'll just copy this link
+real quick. I'll go here, paste it in,
+I'll authorize it. And I just wanted to
+show how once I have these credentials
+and off connected to this agent,
+obviously, it'll Okay, login successful,
+cool. And then I can go here, I can
+select my model. I always use GPT 5.5. I
+think it's pretty efficient for
+open claw and Hermes. And so, now that's
+set up. And so, if I type in Hermes
+here,
+it's all set up. It's going to get
+connected. Okay, say, hey.
+And we're off to the races. And so,
+that was like super quick and easy. And
+what we can do
+>> Hermes installation. I I literally
+counted it, and so I think Yeah, that's
+that in and of itself is value.
+>> It's insane. Like
+this used to take forever. This used to
+actually take forever. Like, okay, I got
+to get a VPS, spin it up, takes a few
+minutes, and you can
+install the agent, get it all connected
+to all the connectors, compose your
+solves at. So, now it's super easy, and
+here's the cool part. If I made a
+templated snapshot, like, okay, I'm
+going to set up Corey's Hermes agent.
+I'm going to set up set it up to be kind
+of uh
+general in the sense of all the skills I
+give it, it's going to solve problems
+for like well, I don't know. Let me use
+all um law firms as an example. We're
+going to solve uh matrimonial law firms
+and their problems, and we're going to
+give skills to do that. Okay, we need
+bait stamping, we need demand letter
+skill generation, so on and so forth.
+And then, once I have that golden
+snapshot set up without any kind of
+customer-specific details so that I can
+kind of templatize it, I can clone this
+computer,
+and guess what? I clone this computer,
+everything comes over exactly
+one-for-one,
+perfect replica,
+and even the everything as far as even
+like the auth. So, you saw like I
+connected to my Hermes account, so it
+would use my LLM's credits for that.
+When I type Hermes in here,
+Hermes is is still installed. This is a
+brand new computer, it's a clone,
+and it has my account still connected to
+it. So, it's like
+if you made the perfect snapshot for
+like a Hermes agent, you could
+essentially productize it and just make
+infinite clones of it. Uh and look, now
+it's it's already connected. Hey.
+And this is not the same computer as the
+first one. So, we just cloned the first
+one, and it's already set up and ready
+to go.
+>> That that's definitely how you'd
+productize that, right? And
+>> you know, you talk about kind of going
+back to the audit, like that for let's
+say you do
+let's say you do want to use that
+example like matrimonial law firms. Like
+we we have managed agents for
+matrimonial law firms. We have a good
+understanding of what the vast majority
+of them do. So we've got like these 10
+or 15 skills that all of them can make
+use of. Well, to to build those 10 or 15
+skills the first time around, you do
+that audit, which would probably be a
+pretty in-depth audit with like an a
+lawyer from one of those firms for
+example.
+But you could have a voice agent that
+does the audit. Like you could spin up a
+voice agent I assume on an Orgo or just
+in general that
+is trained to just ask the right
+questions and ask deep questions for
+those for that that ICP, right? And go
+and pull out all those pain points.
+>> from there it's like the the voice agent
+is the one doing the audit. Like that's
+what we have a voice agent that does our
+audits. But the same concept can apply
+here as being the first step for the for
+the paid managed agent as well.
+>> Exactly. Oh, that's such a good point
+actually. Like you just gave me an idea
+of I should really just make uh kind of
+scheduled tasks that every time I get
+off a call with a customer and they
+obviously they're going to tell me what
+they want. What am I doing? I should
+just have my cloud code on scheduled
+task like be auto implementing these
+upgrades to these agents in the fleet.
+>> It's like you can actually do that.
+>> um
+Yeah. Uh
+So that's that's in terms of getting set
+up like
+that's that's pretty much the stack.
+Hermes agent
+uh Composio, Orgo. I like Agent Mail.
+Have you used Agent Mail?
+>> I have I'm familiar with it. I haven't
+used it. And that's it's what
+agentmail.com
+or
+>> .co
+>> Yeah, and that just it gives your AI
+agent their own email inbox. Is that
+right?
+>> Yeah, and that's nice because there's
+it's something nice to be said about
+having your agent have its own email.
+It's just it feels right. It's the same
+way it has its own computer. It's like
+it has its own email.
+and then I actually do use agent phone.
+>> [laughter]
+>> And now there's agent card. I'm going to
+get set up with agent cards. Okay, going
+to do all that.
+so that's kind of the stack and then I
+guess as far as the last step, so
+guys, it's so important, you know, I
+don't know about you, Corey, when you
+set these things up, but
+when it does go when it like it used to
+be a really big problem. It would go
+down a lot in the early days of Open
+Claw. Uh
+these days it's it's nowhere near that
+level of inconsistencies.
+Um and be a lot of a lot of that comes
+down to we have watchdogs in place. So
+whenever a customer has a cron job that
+especially is a very important cron job
+or scheduled task that they need to rely
+on, you should have a watchdog set up in
+place to make sure that whenever that
+goes down for whatever reason or
+whenever something that is bound to
+potentially break, like maybe they run
+out of credits.
+any kind of thing that could go wrong,
+you want a watchdog in place so that you
+get emailed about it before it happens
+so your customer doesn't have to tell
+you about it because
+you just want to make sure like once
+again, you're managing this agent for
+them.
+They shouldn't be the ones to tell you
+when things break. You should be alerted
+before them. And then you should go in
+and fix it. And you can use the Orgo
+agent to go in and and and solve the
+problem for you or use Cloud Code to do
+it.
+Um so that's just a really big point I
+wanted to make is always implement
+watchdogs on the very important
+uh like reliability tasks that your your
+customer will have.
+And then
+>> And you look so good. You look so good
+when you tell them about their problem
+before they even notice it. Like, "Hey,
+by the way, you know, your agent went
+went down for 10 minutes, but we were on
+top of it. We already fixed it. This is
+just an FYI. They're going to be like,
+"Wow, I didn't even realize." Like that
+Okay, yeah, that's what I'm paying them
+five grand a month for. Like that's kind
+of reiterates their decision to to keep
+paying you.
+>> I don't know if you if you've also had
+this too, Corey, of like
+um like a lot of these business
+customers B2B is also like really fun
+because like I've I've I've flown out a
+lot of our customers are in New York and
+I've flown out to New York to meet meet
+them in person even.
+And like
+a lot of this AI managed service kind of
+opportunity, if you're good with people,
+they will they will they will trust you
+so much. They will will just want to
+work with you because you're the guy
+you're their guy. Like and I think that
+no one talks about this, but like if you
+could just be
+Okay, you're good at AI, you're a good
+communicator, and you get along with
+your customers, like I don't know. I
+just That just came to mind just now in
+terms of like I think that's super
+important.
+Um and so I in terms of like churn risk
+or anything like that, you really are
+becoming a part of the team when you
+implement these agents for these
+companies and these businesses and they
+really start to depend on you a lot and
+you start to drive a lot of outcomes in
+their business even maybe more so than a
+lot of their own employees because you
+have so much leverage from the agents
+and they associate the agents with you
+and it's like
+it's kind of incredible. So, I just say
+that.
+>> Completely agree, 100%.
+>> Yeah, I think it's it's a it's a cool
+feeling and I guess one thing in terms
+of setting up these managed agent token
+usage-wise,
+I use a Codex subscription now. I give
+each customer their own 200 a month
+plan. I don't really run out of it,
+honestly.
+Um if I I I see one customer potentially
+might, I'll just get them another Codex
+plan. Have two. Um so
+yeah, I think that's like the way to do
+And then yeah, I guess as far as last
+other things
+um
+I mean that's really pretty much the
+whole stack. So
+>> And and just to go back to the math real
+quick, right? So you have that last box
+like 10 clients equals 50k MRR which is
+run entirely by one person and agents,
+right? And some people might look at
+that and be like, you know, oh that's an
+exaggeration. Like that's that's not
+realistic. And if anything I think it's
+incredibly realistic, right? I mean you
+talk about
+>> Definitely.
+>> 10 10 clients, right? Obviously this is
+a higher ticket service so you don't
+need hundreds of clients to make this
+work.
+And if you are doing the things that you
+mentioned in the like how to find
+clients box up there if you're posting
+content, if you're talking to people, if
+you're you know, posting client wins,
+you're getting testimonials, you're
+getting case studies, you're asking for
+referrals, if you're just doing all the
+basic sales motions required to sell a
+service
+then 10 like 10 clients in a year,
+you're talking about what? One every 6
+weeks? Like literally one client one new
+client every 6 weeks on average. I mean,
+when you break it down like that, that's
+not unrealistic. So within a year of
+getting one client every 6 weeks you're
+going to be at 600 grand a year in in
+ARR, right? And
+your margins, I mean you have in the box
+there like 85% gross margins. Probably
+even higher than that. Like probably 90%
+gross margins. So you know, I say all
+that to say is like is this easy? Well,
+no because if it was everybody would be
+doing it. Is it a simple business model
+at its core that any realistically
+competent person with drive could
+execute? Sure. But I mean most people
+watching this unfortunately to say still
+won't take action or they won't take
+action long enough and consistently
+enough to make it work. But that's
+that's a competitive advantage for the
+people like me and you who like see this
+opportunity, we're locked in, we're
+we're posting content, we're you know,
+we're we're grinding every day and
+that's that's the opportunity.
+>> So true, dude. Like
+honestly, even when when we first
+started running this offer, it was a
+little bit like risky. I And I'm I'm
+saying this to kind of emphasize the
+point of you have to be willing to A,
+think long-term. Right now, what what we
+were thinking when when we launched the
+offer of like unlimited tokens,
+unlimited agents, all this, it sounded
+crazy at the time, especially cuz
+OpenClaw when it first came out was like
+super expensive to run Opus for
+OpenClaw, which was like the only model
+that was really good at it. And yeah, we
+didn't make money that first month of
+like total cost of tokens
+and then like even charging 5K a month,
+like we still didn't make money cuz it
+was that expensive. It was that
+expensive, but we knew that the models
+would get cheaper and the cost of
+intelligence would go to zero and then
+we would just capture the whole spread.
+And so like right now when it comes to
+margin, like I don't have any problem
+paying if if and we don't you don't even
+have This problem's already practically
+solved with the whole Codex subscription
+plan. So it was actually quicker than I
+thought. But
+uh I wouldn't have a problem paying more
+for tokens or more for the cost of doing
+business for this sort of business
+model, even if it even if I had to pay
+more. I wouldn't have a problem with it
+because
+the cost of everything is going is going
+to zero. And so
+yeah, I I I just say all that to say
+think long-term. Think about going
+and how to like take advantage of that.
+So yeah.
+>> 100%. Well, Nick, this was awesome. And
+this is something that like we said in
+the beginning, somebody could take the
+Excalidraw diagram, which we'll put in
+the description in the show notes below.
+They could take that, they could hand it
+to their Hermes agent or their OpenClaw
+or Claude code and have it in a couple
+of hours running autonomously, build out
+the entire business plan, the whole
+infrastructure, build you a website,
+build you offer, build your marketing
+material, everything. So, yeah, this has
+been I think really tactical stuff that
+people can implement right away.
+And then guys, just another reminder, if
+you want to test out Orgo, which is what
+me and my business partner Nick are
+using for our managed agents and what
+we're using as the infrastructure for
+how we build this business, cuz this is
+exactly what we're doing. We're focusing
+on a five grand a month lead gen,
+basically managed agent lead gen offer.
+That's what we're building right now.
+We're doing it on top of Orgo. So, guys,
+use the code Corey and that's we'll have
+a direct link to Orgo with the code in
+the description as well, but that'll get
+you I think you said what? Three your
+first three days free and then your
+first three months at 20% off.
+>> Yep, exactly.
+>> Okay, yeah, so that's a steal. So, go
+use that and guys, hit Nick up on
+social. Nick, where do you want people
+to to follow you or where do you want to
+point people aside from
+>> Yeah, I'm pretty active on I try and
+post cool demos on on Twitter. It's just
+my name
+and then also yeah, YouTube. I'm going
+to start posting more content on this
+sort of kind of opportunity around the
+business, but also just how to set up
+these agents and how to do cool things
+with them. So,
+yeah, feel free to give me a follow
+there. Corey, thank you. This has been
+great
+and I'm excited to see what your
+audience what everyone does with setting
+these things up and combining it with
+the audits. I think the audits are
+brilliant. I'm going to start doing the
+audits.
+Um, so, yeah, thanks for having me, man.
+>> Yeah, thanks for coming on and guys,
+we'll put links to all of Nick's socials
+and his profiles in the description and
+then the show notes. So, thanks for
+watching and we will be back in a couple
+of days.
+>> Cool. Cheers.

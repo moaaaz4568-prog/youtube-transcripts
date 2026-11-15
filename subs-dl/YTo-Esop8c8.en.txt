@@ -1,0 +1,1070 @@
+In this video, I'm going to show you
+exactly how I built a full AI content
+repurposing system inside of Nitn that
+I've personally sold to multiple
+businesses anywhere from 2K to 4K. And
+the way it works is that we take a
+YouTube podcast link, we drop it into a
+dashboard, and by the press of a button,
+we're now able to extract the transcript
+from that podcast and generate 10
+compelling ideas, which we then turn
+into Instagram, LinkedIn, and Twitter
+posts. And we also make an image, which
+will then be checked, scheduled, and
+posted automatically. And in case it's
+your first time here, my name is Mikuel
+and I've helped over 50 businesses
+across multiple industries [music] to
+implement AI and automations and taught
+over 20,000 people in the process. All
+starting with zero technical knowledge.
+So, I'm going to show you the whole
+system step by step. And if you stick
+around until the end, I'll even show you
+how you can get the whole system for
+free. With that being said, let's dive
+in.
+All right. So, this right here is called
+the input sheet, and it's exactly where
+everything starts. You're going to be
+putting the link of the YouTube URL
+podcast that you have, and then you're
+going to be pressing the button. So, I'm
+going to go here to YouTube. I'm going
+to copy this. This right here is just a
+recent podcast that I made, one
+mentorship clients, and we talk about
+results, who it was before the program.
+There's a lot of topics that we cover,
+which is why I think it's pretty good as
+an example. I can paste this here, and
+then I can press start. Okay. Now, right
+now, we don't have this published. So,
+we go here to the automation. I can then
+go to the first step, which is where we
+trigger everything. So, in this case,
+when we press start, this should trigger
+the automation. This should run every
+minute, but in this case, I can run it
+manually. So, execute workflow. What
+this will do is that it will check for
+topics here where the status is start.
+Then we go to update the status. So now
+it's working. So the client realizes
+that the client knows it's updated um
+when the actual thing is is running or
+if it's running. Then we use a scraper
+on API to be able to extract the
+transcript of the actual video. Then
+what we do is we take the prompts
+[music] which are right here which is a
+strategy that a lot of people don't use
+when it comes to content systems but is
+very very good. Uh so we have all the
+prompts stored here. So, we take the
+prompts and then step three is we
+generate 10 ideas from the podcast.
+Okay? So, we received the podcast, we
+took the transcript, uh we then took the
+prompts as resources for the next steps
+and now we're using AI to generate 10
+ideas. In this case, I put a limit of
+two ideas just to show you the example.
+And now we're using Claude to be able to
+make Instagram post, LinkedIn post, and
+Twitter post using the prompts that we
+have here for Instagram, LinkedIn, and
+Twitter. We then do a bit of formatting
+here to make sure that everything is
+clean and we have no problems in terms
+of formatting or the way that you know
+the actual variables look and I'll
+explain exactly what that means. So it
+just made the Instagram post, the
+LinkedIn post and now it just made the
+Twitter post before going to step four
+which is where we use Nana Banana to be
+able to make an image and once it makes
+the image it finally adds everything to
+the content sheet right here where we
+have the input URL which is the one
+here. We then have the paragraph
+transcription which is the summary of
+the actual segment that it took. And we
+have the Instagram, Twitter, LinkedIn
+post and image URL. But before I show
+you that, it is now running through the
+second idea. As I mentioned, we have a
+limit of two ideas just because I put in
+now to show you an example. So it's now
+making another LinkedIn post, Instagram
+post. And now it's going to make a
+Twitter post before making another image
+for that specific idea. As I mentioned,
+there's 10 ideas in a podcast. In this
+case, we're just using two. So we're
+running through two different ideas.
+We're adding it to the Google sheet. And
+finally, we're going to be marking
+everything as done in the input sheet.
+So, two ideas have been gone through. If
+I go to the input sheet, I can see the
+status is done. So, I know that the
+automation finished cuz that's really
+the way I like to build systems in terms
+of content. Uh cuz the client wouldn't
+see the 10 automation. They would just
+see this. So, now we have the summary of
+the actual segment. So, in this case,
+Anthony transitioned from being a US
+Navy submarine officer and defense
+contractor to building an AI agency for
+the freedom it offered, especially to
+balance family life uh with work from
+anywhere flexibility. And here we have
+the Instagram post. 89 calls booked, 25K
+closed, 33K in pipeline. Anthony joined
+the program while working full-time job.
+So it now wrote the Instagram post. And
+then the Twitter post, which is shorter,
+of course, that's how we prompted.
+Former submarine officer built a 25K AI
+agency in months. No tag background
+needed. He wasted time on five social
+media platforms. Chase certifications,
+got nowhere, and then he focused on one
+thing, talking to clients. I actually
+like this quite a lot. And then LinkedIn
+post, it should be a bit longer as I
+prompted it to be a bit longer. I wasted
+months posting on fast social media
+platforms before I landed my first a
+automation client. Here's what actually
+worked. That's a very good hook. Uh and
+then we go to explaining exactly what it
+works. And we have a list. We have all
+the things that are pretty good for a
+LinkedIn post. And then finally, we have
+the image which is looking like this,
+right? And we can change it. Obviously,
+the prompt can change. And we also have
+the second idea which is taking a
+different angle from the podcast which
+is basically him trying different things
+out but not having a strategy. Um and
+then it made the Instagram post again,
+the Twitter post and the LinkedIn post
+and then another image. So different
+kind of image which is interesting. And
+finally we get to the posting part. So
+in this case the client will then see
+generated. What they can do is they can
+schedule. So here we have a date on
+Google sheet and the way it works is
+that if they press schedule here then we
+go to the second automation [music]
+which works like this. Now, I don't have
+my accounts on Twitter, Facebook, and
+LinkedIn connected. So, I can't show you
+the actual platform we're posting, but
+we [music] then run this daily at uh 4
+p.m. every day. And let's say this is
+today. So, today will be the 26th.
+26. There we go. It should send only one
+through because the status is scheduled
+and the date is today. I just
+disconnected these as they're not
+connected. So, I can press execute
+workflow. This will now check the sheet
+and it will check is the status schedule
+and is scheduled today. As you can see,
+only one item went through and that is
+the item of row number two, which is row
+number two here. And the other one
+didn't go through because even though
+the date might have been today, the
+status is still not scheduled. And so
+this way we are not able to schedule all
+the posts whether it's in a week in
+advance and so on because we have a
+daily automation that postes it to
+Twitter, Facebook and LinkedIn and then
+updates the status to post it using this
+one right here. If I just connect this
+directly to this, I can [music] turn
+this back to schedule. I can go here. I
+can exit workflow. And now this should
+turn the status over to posted. Okay. To
+make sure that we only run the ones that
+are scheduled. All right. So before I
+walk you through how I built it. Let's
+talk about the use case. So I had a
+client that came to me a while back and
+she's a relatively successful person, a
+big voice in the finance industry in the
+US and she ran a successful podcast,
+right? So she did podcast and she had a
+lot of guests coming up and I think it
+was weekly weekly podcast with people
+and the problem that she had was she
+wanted to repurpose the sound of the
+podcast so the actual link right that
+she posted on YouTube into different
+posts on Instagram uh LinkedIn and
+Twitter as well. Okay. But the problem
+is that she had no time to do it. Like
+she had tried with AI, she had tried
+with different tools, but it was just
+too timeconuming and it was really
+really hard to manage all these things
+and she just wanted a place where AI
+could make the content. She would check
+it and it will schedule everything out
+and it will post it automatically.
+That's exactly where I came up with this
+idea or this kind of framework of how I
+built it and so on.
+So here's exactly how we structured the
+system and thought through it. The first
+thing is the dashboard where we managed
+all the content. We do everything that
+we need to do and the other part is the
+automations. So one is client facing
+right because a client wouldn't want to
+see any end. And the other one is
+automation. Okay. So the first thing is
+the input hub. This is the first sheet
+[music]
+inside our master content database.
+Right? This is where we put the input
+YouTube URL and we put the status of
+start. Again this can be a video that
+you're making on YouTube. For example, I
+had a video that I made with one of my
+friends. It was 2 hours long and we had
+a ton of conversations about different
+topics but it was all throughout of
+course making a voice agent agency. We
+had offer, pricing, lead generation,
+sales process, delivery. You can check
+it out up here. Very good video. But
+essentially, if you want to take this,
+right, and repurpose that into different
+post, you would just go here. You would
+copy the link and [music] you would put
+it in the input sheet. Okay? You put it
+here and you press start. And that leads
+to us to the first automation, which is
+generate content. And so this exact
+automation, what it does is that it
+checks every minute. So we call it a
+polling trigger. So it checks whether
+the status is called start and it checks
+whether the link is available. And then
+we give it to API which is a platform
+that we'll walk you through. Uh that
+basically takes the link of the YouTube
+video and then extracts all the
+transcript from that video that we're
+then giving to AI to be able to generate
+10 ideas from that podcast which will
+then be repurposed into an Instagram
+post, a LinkedIn post, a Twitter post.
+We then make one image per idea, right?
+So each of these posts for each idea
+will have one image and then we add
+everything back to the content database
+in a simple way. This is exactly how it
+works, right? We basically make content
+based on the podcast and we make an
+image as well. And the content will then
+lead us to the second sheet in our
+Google sheet database which is a content
+dashboard. This is where we have the
+input YouTube URL. We have the summary
+of the idea you can call it. We have the
+Instagram post for that idea, the
+Twitter post, the LinkedIn post, the
+image URL, right? And the status which
+will be turned to generated. Once the
+status is changed to generated, we are
+now able to schedule the post. Okay,
+what does that mean? That means that we
+have another column here which is
+schedule date. You can put the date as a
+date that you want to schedule the post.
+Uh so let's say we made the post today.
+I checked over it. It's all good. Now I
+want to schedule it. What I do is I turn
+the status of schedule and [music] I
+turn the date to the date where I want
+to schedule the post which in this case
+would be tomorrow. So when the status is
+scheduled and the date is today, we
+trigger the next automation which is the
+post content automation. What does that
+do? It triggers every day at 4 p.m. It
+checks the two last columns. So it
+checks whether the status is scheduled
+and whether the day is today right
+because obviously that's the day where
+we were posted and if it is then we post
+on Instagram we post on LinkedIn we post
+on Twitter and we update the content
+database with the status posted which is
+this one posted. Okay. So now not only
+are you able to make the content not
+only are you able to schedule the
+content but you're also notified when it
+posts the content because sometimes
+automations don't work as planned. So we
+want to make sure that the client knows
+that hey if after a minute it hasn't
+turned to posted something is wrong
+right and we can then check uh what went
+wrong with the actual system. One more
+thing that we have is called a prompt
+hub. So all the prompts that we use that
+we feed into the nodes in any 10 whether
+it's for the Instagram post LinkedIn
+post the Twitter post the prompt to make
+the ideas we are storing everything in
+the same Google sheet. Okay. Why do we
+do this? It's so that if the client
+wants to change a specific thing or even
+we want to change a specific thing, I
+don't have to go to the automation and
+mess around with all the notes and kind
+of break something if we do break it, I
+can just simply go here to the prompt
+and I can change it here which
+automatically updates the automation in
+any. Now, this is a new concept to a lot
+of you making these sort of systems, but
+it's something that I implemented and it
+works really, really well, especially
+when you're making this kind of system.
+With that said, here is the Google
+sheet. We have the input sheet, content
+sheet, and prompt up. Okay, so input
+sheet will be this right here. We put
+the link, we put start and then we start
+the automation here. Okay. Now the
+automation is consisted of 1, two,
+three, four, five and six. First step is
+the client going to YouTube is then
+picking out the link of the actual
+podcast that they have. We then put in
+the Google sheet and then we put the
+status to start. Okay. What this will do
+is it will then trigger the automation
+which is the first step. Okay. So we
+have six steps in the automation. The
+first one is the user adding the YouTube
+URL. We use the row update module. You
+want to connect to your account of
+course using sign in with Google. And
+then it asks you for the poll times.
+What does a pull time mean? The poll
+time is says, "Hey, how often do you
+want me to check the Google sheet,
+right?" Because it's not instantaneous.
+It's not like a web hook. A web hook
+just like automatically notifies as soon
+as you actually change the status. In
+this case, we don't have that privilege,
+I would say, um, with Google Sheets, but
+we have a polling trigger, which means
+that we can check every minute, which is
+good enough to be honest uh, for us to
+use it. So, it checks every minute. It
+checks whether this actual column is
+changed and if it changes to start, then
+this is triggered. And we can see that
+the document is podcast repurposed. The
+name is right here. the input sheet,
+which is the name of the sheet, the one
+right here. And then we have the row
+updated because we're looking for the
+row updated. We don't want to trigger it
+when the row adds, but when it updates,
+we want to leave this as new version.
+And then the column to watch are going
+to be start status. So I don't want to
+watch this column. I want to watch this
+column because that tells me exactly
+that I want to start the automation.
+Okay? Cuz we could also have a,000 links
+here, but I don't want to trigger the
+automation a thousand times. I want to
+have 1 th00and links here. And then if I
+want to press start, I can press start
+and that automatically starts the
+automation there. Okay, that is the
+first step. So once this is done, we can
+see that we get the output which is the
+link of the YouTube video and the status
+which is start. But in this case, this
+triggers whenever this column changes,
+which is why we have the filter which is
+a second step which takes in the input
+URL and says, hey, is this empty? In
+this case, if it's not empty, then we
+send it through. And the status, which
+is this one right here, put it here, is
+the one that needs to be start. If those
+two things are both true, then we go to
+the next step, which is going to be
+updating the status. So, one thing I do
+like when you have content systems is
+the ability for us to get notified when
+the content is made, when everything
+starts because then the client is aware,
+right? He's kept in the loop without
+waiting 3 hours for the automation to
+run. And so now what we do is we turn
+the status to working. So there's a
+status update. That's where we use the
+update sheet connection podcast
+repurpose input sheet. Uh we're matching
+the column on the input URL, which is a
+link. saying, "Hey, check the column
+that has input URL and change the status
+to working." So, you can see we're
+changing the status to working. And the
+next step is step two, which is
+transcribing deep YouTube podcast. So,
+we use API. And if you're new to APify,
+I actually made a full tutorial. You can
+check it up here. But what it is, it's
+the Amazon for scrapers. So, you can
+think of Amazon as a place where you go
+to get products. And scraping just means
+that you go inside a website like this.
+You inspect and you extract all the
+details from that website. In this case,
+we have a YouTube video. So, the YouTube
+video, we would go inside the YouTube
+video itself. Let's say this one. And
+right here, what it would do is it will
+show the transcript. It will then copy
+the transcript right here, which is the
+text of the actual video, and it will
+extract all of that, which will then be
+used for the next steps. Okay. Now, the
+actual actor that we're using, I left
+the link here, but the name is this one
+right here. I'm not going to try to read
+it out cuz I'm going to get it wrong.
+Um, and the pricing is $20 a month plus
+the additional fee that you have to pay
+on that. But I'm using a trial. So, I
+have a trial, I believe, for 2 days or 3
+days. Uh if you find this is a bit more
+expensive, you can simply go to the API
+store. You can go to YouTube video
+transcript.
+There you go. And you'll find a lot of
+them as well. Okay. You can find this
+one here that you can simply use, which
+is $5 for,000 credits. At least you
+don't have a subscription that you have
+to pay, which is better than the other
+one, I believe. And you also get $5 of
+free credits from API, which means that
+this is basically free. So if you run
+this, you get a thousand videos
+transcribed for free every single month,
+which is I believe more than enough than
+any of you are making podcast on. So I
+think that should be good. But overall,
+pretty much all the scrapers on YouTube
+are the same. The input has to be the
+URL of the actual YouTube [music] video.
+Um, so when we go inside the node, which
+is run an actor and get data set items,
+we're connecting our account by getting
+the API key, which you can find in the
+settings. You can get [music] API
+integration, and you'll be able to see
+an API key here.
+And then you want to choose the right
+scraper. So Topass Sharing YouTube
+transcript scraper and then we're giving
+it a JSON. For those of you who are new
+to API, the way that this works is that
+you can actually run the scraper on the
+platform itself. So that's manually
+using the form or you can use the JSON.
+And what I did is I just copied this and
+I went back and I pasted it here. Okay,
+when you paste it here, you have
+something looks like this. But I don't
+want to transcribe this exact video
+every single time. I want to change it
+dynamically, which is why we pull the
+input URL and we replace it with the
+video that we had before. So that we're
+transcribing a new video every single
+time. Once this runs, we get the video
+URL, we get the video ID, the video
+title, the channel name, the views, the
+subscribers, and also the text, which is
+going to be the transcript of the whole
+video, right? Which is perfect for us.
+Once this is done, then we get the
+prompt for the ideas. So basically what
+we're doing is we're using a read sheet
+sheet within document get rows podcast
+repurpose prompt hub which is going to
+be this one right here prompt hub and
+we're getting this row right here but
+specifically I want to use this prompt
+because that will be the one that we
+feed into open AAI to make the actual
+ideas. So we get the row and you can see
+that row is number two. We have this
+prompt. We have this prompt. This prompt
+and this prompt right and get the
+thought process behind this because if I
+want to change the prompt I have to go
+inside the automation. But in this case
+we can just simply go to the Google
+sheet. And so once I have the prompt
+here I can then go to the next step
+which is the generate ideas. So this is
+an openi node which means that we're
+using chat gbt. You can connect your
+account by putting the API key which you
+can find on platform theopeni.com.
+You can log in. You can go to dashboard
+here. Make sure you go to API keys and
+you can make a key right here that you
+then bring back to N10 [music] and you
+paste right here. Now once that's done,
+you want to do text message and model
+GPT 4.1 mini is fine. The system prompt
+is you are a helpful intelligent content
+writing assistant that works with
+transcripts. Now I added the system
+prompt here, but you could also in
+theory add the system prompt inside the
+Google sheet. So everything is dynamic.
+But once the system prompt is added,
+which is manual, then I have the user
+prompt. As you can see, the user prompt
+isn't in text. It's as a variable, which
+is this one right here. Right? We add
+the initial prompt. And if I change it
+here, so if I change some sort of
+sentence here, then it automatically
+changes the prompt here. And this for
+here will be you're given a long
+unstructured transcript. You're given a
+long transcript that may wander across
+many ideas. Your task is to extract 10
+most compelling insightful moments from
+it, which is the exact same prompt as
+this. So we basically ask it to extract
+10 different moments or main key ideas
+from that podcast and give it to us in
+this format right here in a JSON format.
+The reason why we ask the AI to give it
+to us in a JSON format is because that
+is the best way for us to structure
+information as we're passing through as
+we're passing them through the
+automation. Then we have the text. So we
+give the system prompt which is the
+role. Say hey you are this person. You
+have to do this. And finally here's the
+input that you have to work with to be
+able to make that thing. Okay. In this
+case, the input will be from the API
+node will be the video title which you
+can find here title and the transcript
+on text [music] right here. Simplify
+output so everything's good. And make
+sure you put the output format as JSON
+object because then it gives it to you
+like this. In terms of output, we have
+output zero for content. And this is the
+one that we care about. We care about
+the 10 ideas which is section 0 1 2 3 4
+5 6 7 8 9 which are the 10 different
+ideas. And each idea has a number. has a
+summary of that specific section idea
+explanation image description for each
+um sort of idea. Once this is done, then
+we're using a split out. Why do we use a
+split out? So split out is used when we
+have an array. An array is basically
+something that has uh 10 items, right?
+So we have this is an array right here.
+This is an array. [music] You know this
+because of this symbol right here. But
+this symbol right here has 10 items. And
+so in this case, we want to take this
+array and we want to split out each item
+individually. So we want to take section
+zero and run it through the whole
+automation. Come back and get section
+one. Come back and get section two until
+all the 10 ideas are executed
+individually. Which is why we feed the
+um this right here which is going to be
+sections. Right? We just put the name
+there. Let me delete this. And now we
+can see that from here that we get one
+item, right? So from one item which has
+all the ideas, we get 10 items which are
+the actual ideas. And these ones are the
+ones that are here. So now we have 10
+items. Now, with 10 items, then we can
+start actually building out the
+automation to make the post. Now, I did
+add a limit of two, something that you
+don't have to do, but just because of
+the sake of the video, I wasn't going to
+wait for 10 ideas to be generated
+because it would take a bit of time, but
+in reality, you would do that, right?
+So, forget about this. Then, we have the
+loop over items. In this case, the loop
+over items is used as we're running 10
+ideas through the whole automation from
+here to here, right? Which is making the
+content and generating the image, which
+is done once for every kind of idea. And
+so what we're saying is let one idea
+through every single time, right? And
+then come back once it is finished to
+get the second idea here and then come
+back again when is the third idea until
+the amount of ideas that are given to
+you. Okay, in this case it will be 10.
+And so once we have this, we'll run
+through the first idea. It will firstly
+go to number four, which is content
+creation. So it will take the prompt
+again from here. It will use the
+Instagram user prompt. It will then feed
+it to claude which you can connect using
+your API key as well. And the model will
+be clonet sonnet 4.4. for the prompt
+will be the one that you extract right
+here from the prompt database. Then the
+input will be the same. So transcript
+and also deep explanation of what the
+actual idea is and we also give it a
+system message that we give it here
+which is basically telling it to give us
+the output in a specific format. And we
+get the output that looks like this
+which is unforatted right because that's
+how cloud works. It doesn't actually
+give you JSON the way that OpenAI does
+which is a shame. Uh which is why we
+used the next node which is code. Um,
+and by the way, I'm not a coder, so I
+actually did not build this, but I used
+AI to build this. And what it does is
+that it takes this, which is very
+unstructured, and basically extracts the
+post because right now the post consists
+of the dot dot. JSON with squirty
+brackets and all that stuff that I don't
+want, and [music] I want to turn it into
+something that's actually readable,
+which looks like this, the Instagram
+post copy. Then we wait about 2 seconds,
+and then we make a variable, which is
+called IG post, which is the one that
+we're going to use for the next [music]
+steps. And we do the exact same for the
+LinkedIn. We take the prompt, give it to
+the actual AI, give it the exact system
+message and make the LinkedIn post and
+then we use code again to be able to do
+the exact same thing and then wait, put
+the variable, bring it back, get the
+prompt, make the Twitter post which
+looks like this, same exact format. So
+we again we take the prompt from here
+and each prompt is used individually,
+right? I don't use the Twitter prompt
+for the LinkedIn post and so we feed in
+the prompt to the actual AI to make the
+post. We use the code node to be able to
+extract the post from that specific
+output. We make the actual variable
+right here which is Twitter. And the
+reason why I do that is because then I
+can merge them. So I can merge these
+two. So combine them. And then combine
+this one here with the other two. So I
+get an output that looks like this. So I
+have a schema which has one item with
+three different variables. Okay. Now
+this right here is something that
+conceptually in N10 is more advanced
+with combines and merges and all that
+stuff. Something I didn't really
+understand to start. But what it is is
+this. So if we're making three different
+kinds of post, IG, LinkedIn, and
+Twitter, because the next step is making
+an image, I only want to make an image
+per idea, not per post. And so how do we
+make it so that as you can see here,
+look at the diagram, right? How do we
+make it so we make the ideas? We run
+through one idea and we make all the
+three posts and also one image, right?
+And go back another idea, three posts
+and one image. How do we do that? Well,
+we have to use a merge because you can
+see here that this is merging together,
+right? These three are coming through.
+One, two, and three. and we merge them
+together. So we have one item so we can
+make one image and we can add one row.
+Okay, that's why this right here is the
+merge. Okay, and the way that this works
+is that we take two inputs cuz that is
+the max amount of inputs that we can do.
+Uh in this case will be all possible
+combinations and we take the LinkedIn,
+we take the Instagram and we put them
+all into the same exact item. On the
+other hand, because the max is two, let
+me take these items. We take this right
+here. We take this item. We then take
+this item and we merge it. So we have
+one item with three different posts. So
+I hope that made sense. But it's
+basically a way for us to then go to the
+next step to Nana Banana. And that is
+Google Gemini image model. And the way
+that this works is that we are actually
+using a setup where we basically send a
+request to the server saying, "Hey, can
+you make an image based on the image
+description that the AI made in the
+previous step?" We then wait about I
+believe it's 10 seconds to then ask the
+server, hey, are you done with the
+image? So if it's successful, then we go
+to the next step. If not, then we wait
+another I believe 10 seconds and we ask
+the server again. So we say, hey, make
+the image. Are you done? Are you done?
+Are you done? If it's done, goes here.
+If it's not done, we're going to wait 10
+seconds and then ask it again. And the
+reason why we use this method is because
+we mitigate errors because it's going to
+be an error. So if you ask the actual
+server, hey, are you done? And it's not
+done, it will be an error, right? which
+could lead to a number of different
+things. So to mitigate that error, we
+can use the continue on fail. So we
+continue to this step and then bring it
+back here, okay, until it's finished.
+And it works really well. So how do we
+make the image? We go to file.ai. If
+you're familiar with open router, it's
+pretty much the same thing, but the only
+difference between open router and this
+because open router is a server that
+contains chbt, contains cloud, it
+contains all the different like hundreds
+of LLMs. Whilst this is a server that
+contains image models, video models and
+things of that matter, more creative
+design kind of stuff. And so make sure
+you go to the file AI not a banana. And
+you do this by going here to home. You
+want to make sure that you put credits
+in your account. I believe that when you
+make an account, you will get $5 of free
+credits. So make sure you use them
+wisely. But we want to go to um nano
+banana. There we go. You can choose text
+to image because we're using a text
+which is a prompt to make an image. We
+can go here. We then want to go to the
+API and we can see that we have two
+different types of requests. The first
+one is submit a request which is saying
+hey can you please make the image it's
+just a request to like let's say an
+employee you give an employee a task. So
+now it makes a task. So we're using this
+exact curl which you can paste in a HTTP
+module just here for curl paste it. Make
+sure you put your API key and the prompt
+will be the prompt that we get from I
+believe we get it from the loop or
+items. Yes, which is an image
+description because it's taking each
+item. So each idea has a paragraph
+transcript, it has an explanation and it
+has an image description and the image
+description is the one that we want to
+put here. And once you send the request
+here using the link, using the method,
+using all these things using the actual
+curl that we get here, make sure that
+you use this. And by the way, if you
+don't know what's going on here, um,
+just paste it, right? Just make sure you
+have the link, which is this one. Make
+sure you have the method, which is post,
+authorization, API key, content type,
+application, JSON, and the prompt. And
+then once you send a request, you should
+be able to see a status which is in Q
+and you also get a request ID. So the
+status in Q means that you have now put
+a request onto the server to say hey
+make the image. So it's in Q is
+processing. And the request ID is that
+unique ID code for that specific task
+that you give the server in this case
+file.AI AI the model which is why when
+something is processing we want to put a
+wait module sorry a node which is going
+to be a wait 10 seconds to wait before
+we use the next step to the other
+request which is going to be I believe
+fetch request status there we go oh
+sorry get the result so once the request
+is completed you can fetch the result
+you can copy this you can go back here
+you can import curl and you can paste
+this so that you then get something that
+looks like this all you have to do here
+is actually much more simple You want to
+press get because you're getting
+something. You want to put the URL here
+which is going to be the same for you.
+And make sure that this last part here
+is a request ID from the task that we
+got in the previous step. Nano banana
+here. Request ID. We put it here. So
+that it fetches the request ID every
+single time it's a new one. It's
+dynamic. And it gives us the URL of the
+image which looks like this. So now we
+have an image which is in a cartoon kind
+of character style image uh that we can
+use for the actual post. Okay. Now bear
+in mind that now because we got the
+image is successful. There are times
+where the server didn't have enough time
+to make the image. Usually that happens
+if it's a sophisticated image. If the
+prompt is really long or if you're
+making a video out of a text um or an
+image then it takes a bit longer which
+is why you see here the status will not
+be success. It will be error if it
+didn't make the image yet. if it didn't
+finish making the image, which is why
+you want to go here. You want to go to
+settings and you want to make sure that
+the on error route is continue using
+error output, which then goes to the
+wait. So, you wait another 10 seconds
+before bringing it all back here to ask
+the server again, hey, are you done? Are
+you done? Are you done? If everything is
+finished, then we add everything back to
+the Google sheet database, which is this
+one right here. But in this case, it
+wouldn't be input sheet, it wouldn't be
+prompt hub, but it would be content
+sheet. We get the input URL. So we know
+exactly, hey, this kind of line, this
+line and this post came from this uh
+podcast, the transcript, so the summary,
+the Instagram post, the Twitter post,
+the LinkedIn post, the image URL, which
+is this one right here, right? And the
+status as well. Okay, let me put these
+rows just a bit. There we go. Think
+looks better now. But now that we have
+the content here, which is the first
+part of the actual automation. So once
+this idea is finished, we bring this
+back all the way back here. So we go
+through the item. So the way to think
+about this is that everything from here
+to here is basically what each idea has
+to go through. It has to make the post
+on Instagram, LinkedIn, and Twitter.
+Then it makes the image and then it goes
+back to another idea until it finishes
+all the ideas. Now, I know that was a
+long conversation, but I wanted to go
+through everything in depth. So you make
+sure you understand exactly what this is
+cuz in hand side it does look a bit
+complex and it is uh somewhat complex
+compared to other systems that we built
+as well but it is something that a lot
+of businesses are asking for in terms of
+content systems and so on. Now once you
+have this right here what's the next
+step? Well I believe in the idea in the
+notion that when you make content you
+don't make the content and post it
+automatically straight away. You need
+some sort of human review process which
+is why the human would put the input it
+would put start. Then we can see that
+the status is turned to done when
+everything is done. And you can see that
+when the loop is done, you marked
+everything as done. Here we return the
+status to done. Once this is done, we
+can then go to the content sheet and we
+can start looking at the post. Say, hey,
+I don't like this or I like this. It's
+all good. You can start changing it up.
+You can start replacing different
+things. So you have the ability to
+customize the post. We can now put
+schedule. We can choose a date to
+schedule in. We have a nice calendar
+feature here. We can put 27, 28,
+whatever date is. And if you want to
+schedule all of them, you can just go
+here in case you have all the posts here
+and you can also put schedule and you
+can go put down here. So you can easily
+schedule all the post all together for
+different days. But in this case, let me
+just keep it simple. Which will then go
+to the automation 2 where we have the
+first step which is run daily at 4 p.m.
+So you can find this at schedule trigger
+which will look like this. So you want
+to put days 1 day uh 400 p.m. it starts
+and then what it does is that it goes
+inside here and it reads these two
+columns and it looks at whether the
+schedule date is today's date in this
+format right which is this form right
+here and it checks whether the status is
+schedule. So if I put the schedule date
+as today and I put the status as not
+scheduled then it wouldn't go through.
+It has to be scheduled and the date has
+to be here. And once this is done, it
+sends the item through to Twitter,
+Facebook, and LinkedIn, which by the
+way, I don't have connected, which is
+why I kind of show you the actual
+platform. But you would go here, you
+create a new credential, you would then
+talk to the AI to walk you through
+exactly uh what to do here. It has a
+whole step-by-step process for each
+platform, whether that be Twitter,
+whether that be Facebook with a graph
+API, but also LinkedIn before posting it
+all and then updating the status here to
+post it. So, I also know that it's
+posted right now. The reason why that is
+and the reason why I put this at the end
+is because the status wouldn't be turned
+to posted if this hasn't been posted
+because the way that this works is that
+we go here to this platform then we try
+this platform not try but we actually go
+to post in Facebook then we go to post
+on LinkedIn and then if all three are uh
+correct if all three are successful then
+we update the status but if after 30
+seconds to 40 seconds I see that the
+status is not changed I know that
+something went wrong so I can check my
+Twitter, Facebook or LinkedIn but And if
+it turns to posted, I know that it can
+only be turned to posted if all of these
+three are successful, which is why I
+have a status update at the end. So that
+right there is exact system that we sold
+to multiple companies cuz content
+creation automation with one of the
+biggest systems that we've been asked to
+do just because a lot of companies are
+posting content, they don't have the
+time to post content. They use AI
+anyways to post content, so they make it
+So let's just make it better with
+AI, more efficient with AI and they can
+schedule things automatically and save
+them a lot of time and money as well.
+Now, I'm going to leave the resource to
+this mirrorboard right here, this
+automation, and also this automation
+right here. And by the way, this
+automation has the notes you can always
+see. So, you can go to the dashboard
+that I made. So, you also get access to
+this and you can make a copy of it. You
+have the transcript, you have the actual
+scraper here, and you also have the
+file.ai API doc telling you exactly
+where you should go to find the API and
+all the steps in between. You can find
+it all in the second link down below, my
+free school community. You can go to the
+classroom section. You can go to the
+templates vault and you'll be able to
+see a new video under the Nitan
+templates and you'll be able to see a
+link right here which will say
+templates. You can just press this and
+download it for your own. So, if you got
+this far into the video, congrats. I'm
+making it through. I know it was a long
+one, but it was necessary to show you
+all the steps in between of everything
+that we went through to be able to make
+this kind of system cuz it is a bit more
+complicated than the simple systems of
+content that you usually see out there
+just because this is an actual client
+system, an actual project that we worked
+with. Uh, I wanted to show you how that
+looks like. But now you have an idea
+what's possible to build when you have
+an interface on Google Sheets and you
+have the automation on N10 and how they
+both talk together so that you make it
+as easy as possible for the client but
+also as not as complex but as
+sophisticated and very very strong back
+end on N10. And if you want to start and
+scale your own AI agency then check the
+first link down below which is a
+onetoone mentorship program. It goes
+through all the details. You can go
+through the video and if it sounds like
+a good fit for you then feel free to
+apply. And now that you have the system
+to sell the next question should be how
+do I sell it? which is why you should
+watch this video up here where I walk
+you through the exact road map that I
+went through to go from zero to six
+figures in 14 months step by step. With
+that being said, I hope you found value
+from this video and I'll see you in the
+next

@@ -1,0 +1,379 @@
+After sending over a million
+cold emails,
+I can safely say that the text
+of your emails is one of the
+most important parts of the campaign.  You can
+literally have the best
+infrastructure in the world, the best
+list, but if your copy doesn't address the
+potential customer's problem, it won't
+convert.  And that's why in this
+video I'm going to break down the
+three-part framework I use in
+each of the campaigns I run.
+And the best part is that it will be
+fully automated with Claude
+AI.  If you don't know me, my name is
+Jaiden Lee Lua.  I am the founder of
+Velocity Flow, where we create, operate,
+and manage revenue growth systems
+for B2B companies in many
+different industries.  And as I said,
+after sending over a million
+of your email is extremely important.  And I'm
+not going to hold anything back.  I'll guide you
+through my entire process, how I use
+Claude AI to basically do the
+research for me, detect the
+prospect's problem, really understand it,
+and then put it all into the
+cold email.  So this video will
+have absolutely no filler.
+Very good.  Now, before we even
+think about writing anything on paper, or in
+this case typing anything, we need to
+understand what the potential customer wants
+, okay?  Assuming you
+'re probably watching this so
+you can create cold emails for
+yourself, I hope you have a good
+understanding of your offer, okay
+?  That you fully understand your offer and know
+how it works.  Assuming you already have
+all that ready.  If you don't have it, go
+watch my other video on how to create an
+offer for yourself.  But assuming you
+already have a good offer created,
+now we need to understand the prospect
+and the pain points they face,
+okay?  You might target
+different niches, or maybe just one
+type of customer, but either
+way, the process will be exactly the
+same.  So, first, to understand
+our prospect's pain points
+, we'll use
+our demand mining on Reddit,
+okay?  The first step will
+basically be to do some
+in-depth research on Reddit.  So what we
+want to do is insert this same
+prompt into Claude, and I'll show you
+exactly the model you should use.
+We're going to want to use Sauna, because Sauna
+is the best writing right now
+.  Well, as you can see here, it basically
+says that you are a B2B market strategist
+.  I will give you a broad market consultation
+and an industry or ICP.
+Turn it into a
+search structure.  I need you to extract
+demand signals from Reddit and Hacker
+News.  Very good.  What this is going to do
+now is return a bunch of
+keywords, pain point phrases
+, subreddits, and lead magnet signal phrases
+.  And then I'll
+show you exactly the next step
+in how all of this relates.
+OK.  But as I said, what we're going to
+do is simply copy this, then we'll
+go to Claude and paste it.  Okay
+, all set.  I'm now in my terminal
+here, make sure to pause the
+screen so you can get the
+prompt.  But as you can see here, that's
+strange.  I'd never seen that before.
+Deleted.  Anyway, ignore that.
+But we'll want to give you our
+market inquiry, or our ICP.
+Good.  So, just for this example,
+I'm going to use another example.  I'm going to use, uh
+, HVAC workers, for example, that's
+fine.  The industry or ICP I will be
+facing will be
+HVAC construction workers.  Okay, we just
+entered the prompt and it says that before
+running this, your Reddit SOP
+states that tech and
+trades subs are not buyers.  So
+basically these aren't buyers
+specifically for me, so he's
+trying to contradict me or something
+.  But I'm going to say that I'm
+recording a video just to show the
+capabilities of this skill.  And then I
+should cancel it.  Yes, but
+basically he's telling me that the
+reason I did this is because I
+personally don't aim for these kinds of
+jobs.  These are specifically
+better in another area, I just don't
+list them.  So he's trying to
+contradict me.  But anyway, for some
+reason my Claude was literally
+answering me.  I
+literally had to tell her, "Okay, stop
+trying to tell me what to do."  But if your
+Claude does that, he shouldn't;
+it's only because he has so much context
+about me and my business that he was trying
+to reject it.  But as you can see here, I'm
+telling you, you know, just for the sake of
+this video, do what I tell you,
+okay?  Okay, but as you can see
+here, he's basically going to do all
+the research we asked him to do, and
+then I'll come back when I have the
+complete demand consultation.  Okay, as you can
+see here, it says that it basically just
+finished right now.  He said the
+raw data is being stored
+in the HVAC demand output, so I
+'m basically asking him to
+open it for me.  Okay, as
+you can see here, there are basically
+five distinct pain points right here
+.  One of them is the cheapest offer
+, losing a bid to the
+cheapest type, budgeting the
+replacement of a compressor, what you gain
+as a residential installer by returning to
+a new construction, and this was not
+complete either.  So basically, what
+this does is bring up a lot of
+pain points and what people
+were talking about.  And then, it will
+basically select the most common ones.  But
+it seems that the issue of the cheapest option is what
+people complain about, about it being
+cheaper;  So perhaps we can use it
+in the text.  So we just want to
+keep that in mind.  As the
+low-cost contractor who took the money, the
+customer cannot contact the
+people who installed the new unit
+.  So these are several
+different things we can actually use
+to target our
+potential customer and reach their
+pain points.  But now, step two, what we're going
+to do is define the problem we're
+going to solve, okay?
+To do this, we'll basically give this
+to Claude, go back to Claude, and
+basically paste this here,
+and then say, "Use the research you
+just got and use this notice
+here," okay?  Use the
+Reddit research you just
+obtained, and then use this notice to
+identify the pain points we're
+going to address, okay?  I'm just
+going to paste that and press enter, and
+we'll let Claude do his thing;  In
+the next step, I'll show you
+exactly what we're going to do and how it
+all connects in the end.  Quickly, if
+you want us to build, run, and
+manage a revenue growth system
+specifically for your
+business, you can click the first
+link in the description below and
+book a free call.  And if
+you want to learn one-on-one directly
+with me, you can click on the
+second link in the description below
+and join Outbound Room.  Okay, as
+you can see here, it just loaded and
+we have around six
+different queries here.  So, as you can see,
+I'm in the business and it's falling
+apart while I'm live,
+trapped in a ruthless market where
+the cheapest wins; one bad offer and
+I'm ruined. There are no good
+technicians left.  Okay, so we have
+several pain points we can use
+, right?  Now, Claude gave a
+recommendation and said, "Start with
+EDP 2 if you're selling
+business opportunities."  OK?  So,
+in this specific case, um,
+I'll just say that we're selling
+business opportunities, okay
+?  So, we're selling
+business opportunities
+specifically for this.  It says that
+EDP 1 is the most intense pain point, but if you're
+going to sell scheduled meetings or
+new business, EDP 2 is the one
+your offer actually solves.  As you can
+see here, I'm stuck competing
+on price with 17 other guys,
+okay?  That's a huge pain point
+that, as you said, several people
+on Reddit are literally
+commenting on, okay?  And
+also look at the language they are
+using.  So, now step three,
+what we're going to do is basically
+turn those problems into an offer,
+okay?  So, we're going to
+run the demand synthesis on
+the whole thing and then
+we're just going to copy this.  As I said, pause
+the screen to see the prompts, and
+then we'll simply paste this here
+and create the offer using these
+pain points.  The copy, sorry.
+Well, as you can see here, it just finished
+right now.  So, he basically
+made a version of exactly the
+same thing.  So, Reddit's lawsuit
+originally stated that it ended without
+any errors.  It analyzed 400 Reddit items
+and then logged all of that
+in the output.  Although the disk was
+almost full, paying customers and
+previous magnets still
+only came from the first 192
+items.  Once you free up some
+disk space, I can
+run the synthesis again on 543 elements.
+But in this case, we have enough
+basic information to be able to choose
+which one we want.  So he gave us a
+lot of different options, as
+you can see.  That looks like five
+different options, okay?  One is: I don't
+know if I'm being paid enough.
+A bad offer will kill me, okay?
+This is the evidence, the pain.  The
+desired outcome is that they want
+to know their numbers, so that each
+job they get actually brings them
+money.  So if your offer
+connects with that, boom!, that's a
+pain point you could use.  Number two
+, I'm stuck in the countryside, so
+calls and money are slipping away.  Now,
+this is the one I would personally use
+because I think: well, you're stuck
+in the field.  Um, so when
+people call you, maybe you have an AI,
+maybe you have an AI-powered automation
+, for example, right?
+You can literally use this pain point: "Hey,
+[name], when you're out on the field,
+you miss calls and the money
+just slips through your fingers."  If I can
+guarantee that won't happen again,
+would it be worth having a
+quick conversation, okay?  So
+these are just some different things you
+can, um, think about.
+Ruthless market, I'm one of 17 budgets.
+I'm going to stick with number two
+here.  Now, the key to
+good copywriting is to use Claude Sonnet,
+okay?  That is literally the key
+to creating good copy.  And I was
+trying to use Fable 5, I was
+trying to use Opus 5.5.  Nothing
+compares to Sonnet.  Simpler models
+will always be better for
+writing.  For whatever reason, I don't know
+why.  Even if you look at
+Claude's website, um, it basically says
+that Sonnet is the best to write with,
+okay?  So that's what we're going
+to use.  So the number
+one key is to make sure you switch to Sonnet 5
+.  And then, basically, we're just going to
+capture this or copy this and
+then go down and say to use this
+here.  Okay, let's paste that and then we'll
+say that I created a copy to
+contact HVAC owners.  Good.
+Now, I specifically have a
+cold email copywriting skill
+that basically has all my POE and
+literally has everything for, you
+know, deal building.  She's
+trained on millions of
+cold emails, so I basically
+give that to Sonnet, to the skill I
+have in Claude, and she basically
+helps me link those pain points
+to create copy to test.  Um, if
+you want that skill, it will be in the
+outbound room, like I said, if you
+really want to join and learn
+directly from me to build the
+system yourselves.  And boom, as you can see
+here, he came up with three
+different pain points.  I was about to
+say C for a reason, for some reason.
+Structure A, structure B, structure
+C. And the reason this is so
+important is because we honestly don't
+know what works, right?  Well,
+the market has become really
+sophisticated.  So the first
+option will always be just a
+clear offer, without addressing pain points.
+Good.  For example, if you could prevent
+missed calls on "
+the company's behalf" every week without having to
+hire anyone, would it be
+worth looking into?  That's an
+incredible offer for the problem they
+'re experiencing.  Good.  Number two,
+structure B. This will consist of a
+question about the pain point and
+then the offer.  Okay, so
+how many calls go to voicemail
+on the day you're buried in an
+attic?  Good.  As I said, that guy on
+Reddit, several people were saying that they are in the
+field working and are literally
+burning through money.  So it literally
+says that it targets their pain points
+very precisely.  It's as if they're going to
+feel like you've basically
+cornered them.  They'll feel that
+you understand their world, and if you master
+this, you'll never have trouble
+writing
+cold emails again.  And then, structure C is just
+using the same pain point, but in
+three different variations,
+okay?  So, that's exactly
+my process for how I create
+cold email copy that
+actually works.  As I said, I've
+sent millions of
+cold emails.  I've scheduled
+thousands of sales calls, not just
+for myself, but also for my
+clients.  When I hire a
+new client, if I'm unfamiliar with the field, Claude
+AI literally does most of
+the research for me using
+Reddit demand mining.  Then
+I use Claude Sonnet to
+basically write the cold email
+for me, and that way I get a
+winning text that always works.  It's a
+repeatable process that you can take and
+copy.  But, if you enjoyed this video
+, now you know how to write good
+texts for
+cold emails.  Watch this video here to
+learn how to send 10,000
+cold emails per day.  And if
+you enjoyed this video or videos like
+this in general, please click
+subscribe and I'll see you in the next one.
+Peace.

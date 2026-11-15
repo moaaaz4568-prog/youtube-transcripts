@@ -1,0 +1,451 @@
+Building full stack application used to
+require us to have a full development
+team plus years and years of coding
+experience. But with anti-gravity,
+you're now able to build full production
+ready applications with authentication
+and databases without writing a single
+line of code. And so in this video, I'm
+going to show you exactly step by step
+what anti-gravity is, how you can use
+it, and the step-by-step framework that
+we use to be able to make a full stack
+application from an idea to the actual
+deployment. And in case it's your first
+time here, my name is Mikuel and I've
+scaled my own AI agency to six figures,
+helping over 50 businesses to implement
+AI solutions and taught over 20,000
+people in the process. All starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+to download anti-gravity, you have to go
+to antgravity.google/d
+download and then you can choose your
+device right here. Once you've logged in
+to gravity, all you have to do is
+connect your Google account and you can
+then get on this page right here. On the
+left hand side, we have the explorer. On
+the middle we have the actual folders
+and then on the right hand side we have
+the chat. Now all of these here I
+already covered in my actual tutorial
+showing you how to use it as a beginner.
+You can check it out up here. So every
+single time that we're building
+applications or uh anything with
+anti-gravity we're building it inside a
+project. And a project equals a folder
+in our desktop in our computer right and
+so that's why here it says open folder.
+So when I press on this now what I have
+to do is I'm going to go to my cloud
+code folder that I store the antgravity
+and I can press new folder. So,
+anti-gravity
+2. And now what will happen is that when
+I press open, every single thing that we
+will build for the next application will
+be stored in that folder. Why? Well,
+it's because whenever I want to build a
+new application, we can simply just open
+a new folder. And so, you can always
+store your things in your MacBook or
+your computer and then always bring it
+back if you want. If you want to close a
+folder, you can go to close folder here.
+Close folder. And then you can simply
+open folder as well. Uh, if you want to.
+Now, as we're building the application,
+you'll be able to see what happens in
+the middle. I'd rather show you than
+tell you. And on the right hand side, we
+have the chat feature. The chat feature
+is sort of like a chatbot that you can
+speak to and it's the one that we're
+going to be talking to when actually
+building it. Now, one important thing
+here is that we have planning and we
+have fast and we have the model itself.
+Gemini 3 Pro or Gemini is better at
+making uh nicel looking websites whereas
+Cloud Opus 4.5 is better at integrating
+different tools together. All right. So,
+to build today's application, we're
+going to be using the framework
+planning, testing, and deploying
+step-by-step process. The first one is
+framework. So, what does a framework
+actually mean? framework means that
+we're going to give anti-gravity
+instructions as to how it should think
+when building the application because
+just like a developer if you tell him
+build an application he'll build it in
+his own way and the next time he might
+build it a different way to avoid that
+we give it a framework a step-by-step
+process that it has to go through every
+single time when building these
+applications. So all I have to do here
+is press new file and I can call this
+claude.md.
+I'm going to go here to the classroom
+section templates vault and then I
+should be able to see the prompt under
+vibe coding which is this one right
+here. I'm then going to copy this whole
+prompt here. Bring it back and then
+paste it and then I can save the file.
+Okay. Now what did we do? We now gave
+anti-gravity something that we call a
+three layer architecture which is the
+way that you know it would build the
+actual software. Layer one is directives
+which tells it exactly where it should
+store all the different files that it
+builds. Layer two is orchestration which
+is basically giving it instructions as
+to how it should think. And then we have
+layer three which is execution more uh
+instructions towards what it should do
+when it's making the actual software.
+Now this is something that I do every
+single time that I work with
+anti-gravity because the actual quality
+of work it's so much higher when you
+have this architecture because now it
+follows a simple framework that actually
+works and it's very very structured. So
+once we have this in place all we have
+to do is paste this right here.
+Initialize this project based on the
+claw.m file. I'm going to choose
+planning because now I get to see all
+the different steps that it does. And
+I'm going to choose Claude Opus 4.5
+because it's the best when it comes to
+reasoning. I'm going to press enter. And
+now what it should do is it should start
+making all the different folders right
+here. So that when we actually build the
+application, then we know exactly where
+everything is going to be stored. So as
+you can see, I'm not actually building
+the application yet. Setting up the
+structure, setting up the foundation so
+that when we do build it is going to be
+much better. All right. So it just said
+project initialized successfully, which
+means that now we basically have the
+structure of folders here, right?
+Nothing's inside. So the software is not
+made but we made the structure as to
+like hey the back end is going to be
+stored here the directives is going to
+be stored here the execution is going to
+be stored here and then the front end is
+going to be stored here right and if
+you're a bit confused at this point just
+understand the fundamental that we are
+telling anti-gravity hey when you build
+the app you have to store these files in
+these different folders so then it
+becomes much more structured when it
+gets to the implementation right all
+right so the next part of the framework
+is called planning so I'm going to paste
+this prompt right here which is a prompt
+to build the app so we say build a
+simple habit tracker app we're Users can
+create daily or weekly habits and mark
+them as completed. The app should track
+streaks, show the current and longest
+streak and clearly indicate when a
+streak is broken. Data must persist so
+habits and progress are saved between
+sessions. The UI should be minimal and
+focused on making it obvious what needs
+to be done today. Now, the thing about
+building softwares with anti-gravity is
+that when it comes to the look of the
+software, it's pretty much going to
+decide it on its own. And I don't really
+like that. I like to be very, very
+descriptive and give it as much detail
+as possible so it can make the actual
+software as close as to what I want it
+to make. Now, to be able to make the
+actual app look nice, I have to give it
+some example what I want the the picture
+of the UI to look like. So, what I'm
+going to do is you go back here and go
+to dribble. And dribble is a place where
+you can basically get uh different image
+designs that you can paste into
+anti-gravity. I can go to here. I can
+put habit tracker. All right. So, once
+we put habit tracker, we get in this
+page right here where we get to see
+different kind of dashboards that we can
+use. Um, I do like this one. So, I can
+use this one. All I have to do is copy
+image and then here I can simply paste
+it. And I'm also going to say make sure
+to look at the reference image which is
+the one that I attached here when making
+the design of the [music] habit tracker.
+I'm actually going to turn this to
+Gemini 3 Pro High because in this case
+the AI just has to make the actual
+software and it doesn't require a lot of
+complex thinking. [music] I can press
+run. So as you can see here,
+Antiggravity is now building the actual
+software. I can see the brand guidelines
+that I have here which we'll use when
+making the actual um habit tracker. All
+right. So, Anti-Agravity just started
+planning how it's going to build the
+actual software and it made something
+called a task list. And what this is,
+it's a list of tasks that anti-gravity
+has to do to be able to make the
+software. And it's great for us because
+we get to see exactly how it's
+structuring, how it's thinking through
+what it needs to build. And we also get
+an implementation plan, which is a full
+plan that anti-gravity has to follow
+whenever making the actual application.
+All right. So now I just made the actual
+software and it's actually going inside
+the software to test the different
+functionalities of the thing which is
+one of the things that anti-gravity does
+which works really really well because
+I'm not touching anything. It goes it
+tests right as you can see now it failed
+to load habits um and it shows that
+there's an error which means that now
+anti-gravity will go back and actually
+fix the software. All right so I just
+finished testing the app. We can see
+that we have the local host link which I
+can press and it will take me to the
+actual application itself and I can see
+that it has different days and we can
+add the habits here by pressing plus
+read 10 pages. So the writing is in
+white so I'm going to have to change
+that. I can press create habit and if I
+press completed now I should say that I
+have one day streak which is great. So
+pretty simple interface. Of course we
+can make it a lot better and I'm going
+to change the writing but also I'm going
+to add one more feature as well. So this
+is where we get to step three which is
+testing. So part of testing is changing
+the actual app and making sure we have
+different features. And I told the
+firstly to change the text to make it
+black so I can see it. And the second
+thing I want the app to have some sort
+of login because then everybody will be
+using the exact same thing. And I want
+someone to have to put their email and
+password first or sign in with Google
+like a normal software before being able
+to uh go and use the software. And to do
+this I'm going to use a server called
+Firebase which makes it able for us to
+host and to deploy the actual automation
+but also to change and add different
+features. So the first thing we have to
+do here is go to the three dots above
+and go to MCP servers. And this is the
+way that we're now able to use all these
+different softwares and connect them all
+to our app in anti-gravity. And if this
+is the first time that you hear about
+MTP, it stands for model context
+protocol. Very fancy word to say that
+hey, we have this software here and
+which is I mean in this case we have
+this application and we want this
+application to have authentication which
+means that the the place where people
+can put their email and password. But we
+can't do that unless we're using a
+software called Firebase. And so the MCP
+allows us to take this software
+anti-gravity and this software and
+connect them to each other
+automatically. And so here I can look
+for Firebase
+and I can see that I have the Firebase
+here MCP. I can press on this and you
+can press install. And when you see
+enabled, make sure to go to the manage
+MCP service and you should be able to
+see the Firebase MCP here. So what we're
+doing here now is we're saying hey you
+have access to my Firebase login you
+have access to my Firebase logout get
+projects list apps list projects config
+create project create apps all these
+different actions that we can do within
+our software Firebase and to gravity can
+basically do them now I can go back to
+the agent and I can press go and what it
+should do now it should use the MCP of
+Firebase it should first change the
+actual text here in its own files and it
+should ask us to authenticate our
+Firebase as well because I didn't log
+into Firebase yet as you can see now it
+also added the authentication Firebase
+which is the feature And it consists of
+Firebase setup front end off and also
+back and off. And these are all things
+that you fundamentally need to
+understand the structure but not how the
+code actually works. As you can see now
+to be able to add the authentication in
+Firebase, it's going to use the MCP tool
+which is the MCP server of Firebase. So
+the connection to Firebase. All right.
+So as you can see here now it's asking
+me to log into Firebase. So I can press
+the Firebase login link. I can press
+open. Now it's going to add me to this
+page. Choose your account. You can press
+continue. Allow. I can press yes. I run
+this command. Yes. my session ID. I can
+copy this code right here. I can bring
+it back to here and I can say here's my
+code. All right. So, the next thing we
+have to do is add a project in our
+Firebase console. So, I can press this
+link right here or you can simply go to
+console.firebase.google.com.
+I can press get started by setting up a
+Firebase project. I can name this
+habits tracker. Accept.
+Continue. Continue.
+Continue again.
+create project. Now we're going to
+create the project here so that we're
+able to then modify the actual app with
+the authentication. And here we have the
+project which is habit tracker. Then it
+says name it anti-gravity habit tracker.
+Okay. So I forgot to name it
+anti-gravity habit tracker. I can rename
+this. I believe I can go to settings and
+I general I can rename this to
+antgravity habit tracker. Save. There we
+go. Then once I created the project, go
+to project settings, gear icon, project
+settings and get the project ID here,
+general. So I can just copy the project
+ID or you can go on the URL here and
+it's also from habit here. So from
+project to settings and go back and say
+here's
+my ID. I can paste it. And now I can
+press run. All right. So I just finished
+adding the actual feature. I'm going to
+go to the link right here. I can then
+press send in with Google. It should
+bring me back to this page. So, it
+actually did nothing, which is
+interesting. And it also doesn't allow
+us to log in with email and password,
+which is a problem. I'm going to try
+again. Nothing here. So, here I'm saying
+I'm trying to press sign in with Google,
+but nothing's happening. It doesn't lead
+me anywhere. And also, I don't have the
+option to like add the option to sign in
+with email and password only, not with
+Google. So, either or. And this is part
+of working with anti-gravity is telling
+it exactly what you don't like, what you
+like, what it needs to change, what's
+not working. Cuz it's not perfect. This
+is not perfect. It's amazing, but the
+better instructions you give it, the
+better structure, the better prompts,
+the better frameworks you use, then the
+better the app will be. So, it's telling
+me that I actually need to enable
+authentication providers. I can go to my
+Firebase console. So, I have to go to my
+console under build. I can see that I
+have authentication. Right here, I can
+press get started and then for email and
+password, I can press enable save. And I
+can also then enable here Google enable
+this. I can choose my email save. And
+what I'm doing here is I'm telling
+anti-gravity, hey, you're not able to
+use Google and email and password as
+authentication methods. So, let me go
+back and say, okay, I just did it. Uh,
+keep going and finish the app. All
+right, so now it's testing the new
+feature that it just updated. As you can
+see, it's going here, signing up, making
+an account, and it works whether we have
+Google or whether we have the normal
+email and password. All right, so it
+just finished implementing the feature.
+As you can see, all the completed tasks
+are finished. If I go here to a guest
+tab, I can paste this. And now I have
+the welcome sign into your track habits.
+I have the email and password, but I
+also have the Google option here. I'm
+going to press sign up. I'm going to put
+my name
+and my [music] email and then my
+password. When I press sign up, and now
+it will make an account just for me. I
+can then start using the app. So I can
+put read 10 pages. There we go. And now
+it works perfectly fine. So now you have
+an authorization layer between you and
+the software. And now we get to the last
+step which is deployment. So what I'm
+going to say here is hey can you please
+deploy the app now and use the MCP of
+Firebase. Um and yeah just host it on
+the Firebase hosting so I can see it
+there. I can then press go. All right.
+So after a few minutes we can see that
+it deployed the app. I can then use this
+link right here. I can paste it. And now
+I can see that I have the signup screen
+and I can press sign up here. I can put
+my name, my email
+and then a password. And now it will log
+me into the actual app itself. I can
+start adding habits. So read 10 pages,
+create a habit, and then I can press
+completed as well. So now you know
+exactly how you can take an idea of a
+full stack application and turn it into
+a real deployment. And if you want to
+work with me onetoone to be able to take
+these skills and turn them into an
+actual business, then check out the
+first thing down below. And if you like
+this video, then you're going to love
+this video up here where I show you how
+you can use claw code better than 99% of
+beginners. With that being said, I
+really hope you found value from this
+video and I'll see you in the next

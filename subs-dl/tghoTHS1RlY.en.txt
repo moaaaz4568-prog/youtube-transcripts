@@ -1,0 +1,603 @@
+I totally get why people don't want a
+data center in their backyard. Sam
+Alman,
+>> data centers have been all over the news
+lately. Um, they have had a surge in
+opposition that both Republicans and
+Democrats on the median do not like data
+centers and are concerned about their
+environmental consequences, the effect
+on electric utility costs, and a variety
+of issues. And there's been a boom in
+building data centers all over the
+country. They're most popular in
+Northern Virginia. Like Lowden County is
+known as like data center alley
+essentially. But now with the intense
+demand of data centers for generative AI
+and a lot of other new recent
+technologies.
+Um we need a lot more data centers to
+function in the new postAI economy. So,
+they're being built all over the place
+in Arizona, in Ireland, in Michigan, in
+Canada, in rural Texas, and in small
+towns all across the United States and
+internationally, too.
+And these buildings once they're
+constructed have very little employees.
+They consume a lot of power, and at
+least at the beginning, they consume a
+lot of water. But there are um ways to
+build these that you can just
+perpetually cycle a lot of the same
+water. So once the water use is there,
+it's a little bit more established. But
+the general point is there are some
+economic and resource costs and you have
+a large portion of the population that
+doesn't want them there anymore. And
+it's portrayed to me as like the people
+standing up against big tech and
+restoring their communities. And
+however,
+in practice, it's one of the most
+economically self-defeating things that
+people can do in America. Um, and most
+of the complaints that are driving it,
+whether it's noise, whether it's utility
+costs, whether it's water or energy
+consumption,
+can be solved through practical um,
+adjustments.
+Um, and I think the noise problem is a
+real problem. The energy consumption
+problem and the water problems are real
+problems, but they're not insolvable.
+They're solvable problems. And I think
+that data centers are a net positive for
+the economy. Um, and not just for the
+companies that build them, but for
+everybody and for technical progress and
+the growth of entrepreneurship.
+Like
+without the data centers, we won't be
+able to use a lot of the productivity
+gains that we've gotten from generative
+AI. Um, and would you want to go back to
+the tech stack of 2015
+in exchange of getting rid of the data
+centers? That is the big kind of trade
+that we had to think about when I go
+through this analysis.
+[music]
+Let me first start with the basics. A
+data center is basically a warehouse for
+computation and they're rows of servers
+connected by fiber and cooled some way.
+Whether it's conventional air
+conditioning, whether it's more piping
+cold water into it, just like the ways
+that computers are cooled on a much
+larger scale. Um, and what are these
+data centers used for? Well, I mean
+everything. First, it was the cloud like
+anything that you have stored in terms
+of like emails or pictures or videos in
+the cloud that is being run by a data
+center. But we didn't need this many
+data centers just for that. The AI
+consumes a lot more data than all that
+other stuff combined. every chat GPT
+query you have or every claude request,
+every Gemini response, every AI medical
+diagnosis, every fraud detection
+algorithm, every trading algorithm
+that's using some sort of AI or advanced
+coding. All of these run through data
+centers. Um, if you want to make that
+funny picture of frogs bodybuilding, it
+runs through a data center. AI data
+centers are a step change from
+traditional server farms. They use a lot
+more advanced chips such as Nvidia H100s
+and they run serious war AI workloads
+and they draw a lot of electricity
+continuously and this is new in scale
+and largely unprecedented.
+You have$1 trillion dollars in US data
+center planned investments
+between now and 2030. Microsoft alone
+has committed 80 billion in 2025. This
+is the single largest peacetime capital
+deployment in American history. And that
+shows you just how big the scale is what
+we're doing here. So what is the problem
+with data centers? Why do people not
+like them? First of all, they don't
+create jobs. But I don't think that
+their intention was to create jobs. Like
+was building all the fiber optic cables
+that create the internet. Did that
+create a lot of jobs? Not directly. Like
+they don't need that many people to
+supervise all the cables that are
+circumventing the world. Um other
+example would be building railroads.
+Like the railroads had a lot of jobs
+constructing them and the trains that
+ran on the railroads created like a lot
+of economic growth and development but
+maintaining the actual railroad an empty
+track there was not that much jobs
+involved in that. Um or like so it's
+infrastructure like we're building like
+a power plant or building not really a
+power plant the better example is
+building electrical wires like telephone
+poles to connect all of the houses
+across the country to electricity. They
+create a few jobs of engineers and
+maintenance staff to repair them but
+they're not not nearly they're not
+really a job dense thing. Now I think
+the idea of creating jobs for the sake
+of jobs especially is if populations
+aren't growing and quality of jobs
+are more important than quality of and
+quality of jobs more important than
+quantity of jobs is not really the right
+metric. But in general you don't build a
+highway based on how many people are
+employed to repair the highway. You
+don't build power lines based on how
+many people are employed needed to
+repair the power line. You don't build a
+water pipe system or a septic plant
+based on how many people it's going to
+employ. You build it because you need
+basic infrastructure to have a
+functioning society. And these data
+centers are an extension of that. And
+every company that uses cloud, every AI
+startup, any business that's not AI that
+uses AI to become more efficient relies
+on this. But we don't every company has
+to build their own server farms in their
+offices to function. The data centers
+are a more efficient way to consolidate
+the demand for compute power. Um and the
+examples like the agricultural
+revolution eliminate farm jobs. The
+response wasn't banning tractors. The
+next thing is they strain the power
+grid. This is a very legitimate
+complaint. Electricity has been scarce
+because of these and you are seeing
+because of bad energy policy certain
+parts of the country have blackouts and
+brownouts. California most notably.
+However, the main problem is just
+capacity not catching up. It's not that
+we structurally can't build more energy
+generation sources. we can build more
+power plants whether that's nuclear
+plants whether that's natural gas plants
+and in places where it actually makes
+economic sense solar farms um there will
+be a lag and that lag and the cost of
+building this increased capacity can
+result in some higher electricity bills
+that is the real cost of data centers
+however is the cost of electricity bills
+increasing in the short run worth
+destroying the golden goose boost as the
+growth of our economy. Like this is the
+future of our economy
+and the grid never grew because electric
+electronics and electrical um equipment
+and just in general things that consume
+electricity got more efficient over the
+last 25 years and those efficiency gains
+were faster than population growth. So
+we didn't need to build new capacity but
+now we have to build new capacity
+because there's just more absolute
+demand. And the same argument could set
+about EVs. Should we ban electric
+vehicles because they had increased
+demand for grid and create more strain
+on all utilities and lead to possible
+rate increases. There probably some of
+you say yes, we should have ban EVs, but
+that's like another kind of comparison.
+And the capacity growth is there. There
+are a lot of companies that are
+investing in expanding power and it's
+not just conventional utilities. Google
+has signed contracts with utilities to
+build power plants. Amazon acquired a
+data center campus adjacent to
+Pennsylvania's Suscuana nuclear plant.
+These companies are helping funding the
+electricity infrastructure and America's
+been underfunded on this for decades
+because of lack of need of it to be
+quite honest. And so it's just I think
+the problem is just it's going to take
+time for capacity to catch up. We can
+expand capacity to meet this new demand.
+Um it's just that
+we've there's a friction and that lag is
+going to create some problems in the
+short run. The other complaint is water.
+Data centers use too much water and
+cooling is real. However, what's also
+real, this is an engineering problem
+that can be solved. The industry is
+actively moving towards alternatives
+that are not a strain on freshwater
+supplies. Um, first the data centers can
+be relocated to cooler climates. Like if
+it's a place that's naturally cold or
+doesn't get too hot in the summer, it's
+bone chilling cold in the winter. You
+don't need as much cooling because it's
+naturally a cold place and nature is
+helping you with that. Also, there's
+technology to be seater for data centers
+because you can there are ways you can
+use cooling that does not have to be
+fresh water. It can be salt water and
+also sea water especially down below the
+first few feet is naturally consistently
+cold. There might be other environmental
+concerns with that like with
+desalination
+but I think it's less risk because
+you're not really taking anything out of
+the water. You're just extracting water
+and using it to cool and then
+recirculating it. So cold coastal places
+like New Finland and Labrador or Alaska
+or the far north of British Columbia
+could be data center hubs in the future
+because they have cold water that is
+cold and cold weather that can help
+reduce those costs. And there are
+probably other creative engineering
+ways. And there's also these chips will
+not always be as electrically
+inefficient as they are now. Like you
+could have Nvidia or other chip
+developers make more electric efficient
+chips that or the software can be
+patched and improved over time so that
+the need to compute can be done in a
+more energyefficient ways. Technology
+naturally often solves these problems.
+You might not notice it in six months or
+12 months, but in the long run, you
+could see efficiency gains over time
+that often um counteract like the doom
+and gloom fear of water use. The main
+only counter-argument this is that if
+the demand goes up at a more exponential
+pace than the ability to become more
+efficient. But that's again I think this
+is more of an engineering problem and a
+capacity problem than an absolute
+scarcity problem. We're not going to run
+out of water especially if we find ways
+to use salt water for data centers for
+data centers. A lot of these data
+centers they just shuffle in the same
+water in and out too. The other thing is
+public subsidies of this kind of thing
+and a lot of people just don't like the
+idea of using state money to subsidize.
+I don't really like it either. And state
+tax incentives are a legitimate policy
+base and they probably are too generous.
+But I think there'll be place if the
+demand for AI is real, you could find
+places to build these data centers that
+is economically efficient regardless of
+whether you have subsidies or not. And I
+think that's an entire I don't think
+it's a reason to ban data centers
+because you don't like governments
+giving tax breaks to data centers. Just
+campaign against giving tax breaks to
+data centers. Quick break here. I have
+exciting announcement for 2027. We are
+going to have an analyzing finance with
+[music] Nick international tour and it's
+going to be built on the facts of your
+[music] input. I need your votes to
+decide where I'm going to go and what
+[music] kind of event I'm going to host.
+So, if you're interested in having a
+private dinner or a speaking event in
+your city or your country, please fill
+out the voting form and or please buy a
+pre-sale [music] ticket for some of the
+destinations where I think we're likely
+going to have an audience. Some examples
+that of places [music] we know we're
+going for sure include Buenosiris
+Argentina, Punda Dele in [music]
+Uruguay, Zurich in Switzerland, and
+London in the UK, but we are going to
+expand that depending on [music] how
+many you guys pre-order tickets via the
+Eventbrite in various cities. You can
+follow my Substack Nick's present value
+if you want to have updates for [music]
+final dates for events when they are
+confirmed as well as just [music]
+general updates about our channel. Thank
+you guys all for watching. I look
+forward to seeing all the international
+audience or Americans who just want to
+go on vacation. Join me for the
+international tour next year. But let's
+get back to the main content. Let the
+market decide where's the willingness to
+place it. Um and you can or you can do
+is you can tie hey look if these data
+centers
+are generating a lot of property tax
+revenue in your community. You can
+deduct
+homeowners property taxes
+proportionately by the additional
+revenue gained from the data centers so
+that the community feels like they are
+directly benefiting from this. I mean
+there are creative solutions on the
+financing of this and the tax policy
+this a way to make it so that the
+community and the individual taxpayer is
+not getting screwed by the development
+of data centers than just outright
+banning data centers. Then there's also
+the conspiracy element to this because
+I've been reading seeing a lot of
+content and reading a lot of stuff about
+there are certain arguments that there's
+the data centers are just a front for
+something deeper and like chatbt doesn't
+really need that much computing power
+and there's something else going on.
+Some argue that they're secret
+surveillance hubs or that they're ways
+to store like toxic health things that
+can't be put into the mainstream
+community. Others think that there are
+ways to deliberately sabotage
+infrastructure
+or that they're used to keep data on
+every American to blackmail them in the
+future. I don't know. I've seen so many
+crazy conspiracy theories when I'm doing
+my research here on data centers, but
+none of this really actually survives
+any ev evidence. Like there's a lot of
+companies that are publicly traded that
+disclose why they're building these data
+centers, what they're doing with it. And
+there's a lot of small businesses that
+are involved in servicing these data
+centers or providing products or their
+tech companies who lease the data, the
+compute power from these data centers.
+and or on the smaller end and you can
+just probably ask them directly. There's
+probably one guy in your city who has to
+deal with a data center as part of their
+business and it's probably walked inside
+one and could tell you that there's not
+some secret conspiracy involved with
+data centers and there's no evidence of
+foreign governments or secret
+intelligence agencies funding data
+centers. Um, like what's interesting is
+that basically conspiracies often
+develop from legitimate grievances like
+we've talked about before and it just
+becomes a uniting narrative of why the
+time is now to get rid of these things.
+But overall, the main thing that a lot
+of the critics of data centers are
+missing is that a lot of the problems of
+data centers are temporary friction. But
+in general, any type of infrastructure
+development has come with resistance.
+Whether it's typical nimism not in my
+backyard or whether it's concerns of
+resource strain based on the level of
+expense needed to build the
+infrastructure or to run it or concerns
+about increased traffic or a variety of
+other things that in the short term
+provide real strain. But the real risk
+in the long term is underinvesting in
+this stuff. Like look example at cities
+that never expand that onelane highway
+that has become a major artery in town
+versus the ones that grow their
+infrastructure ahead of time. Like the
+example like Irvine, California versus
+Atlanta, Georgia. Like Irvine or Austin,
+Texas on the other side. Irvine was a
+planned city that grew its
+infrastructure capacity before the
+population grew with it. So even as the
+population has grown a lot there like a
+lot of the strains from being
+under um served with key infrastructure
+such as traffic on roads being too
+narrow or electricity problems or water
+shortages or other issues never really
+happened like the growth was absorbed
+easily and properly. Whereas say like in
+a community like again I use it a lot of
+these rapidly growing cities in the
+south that the population grew faster
+than the infrastructure came to match
+it. They have some of the worst traffic
+in the United States. Like I think South
+Florida is a good example of this.
+Atlanta is a good example of this. They
+built all the they all these tax
+policies to incentivize businesses to
+come there and therefore more people
+moved there and more jobs moved there
+and there's a variety of other reasons
+too. It wasn't just tax credits, but you
+generally had a flood of people move
+there and the infrastructure wasn't able
+to handle it. And so it caused a lot of
+strain and the level of friction you
+have is how proactive you are of
+building the infrastructure. And so by
+slowing this down through a lot of bands
+and regulatory hurdles, you're just
+going to create a bigger problem in the
+future than you are now. And I'm not
+denying that the grid strain is real.
+I'm not denying the water consumption
+risk is real. and the tax debate are
+real problems, but they're real problems
+that can be solved with practical
+solutions and not like inevitable things
+that the only way to fix it is to
+basically block progress
+and from a national security
+perspective, we need to be ahead on the
+AI and technological development term.
+Otherwise, if our geopolitical rivals
+do, that creates other possible security
+problems. But even if there isn't a a
+geopolitical problem, like our economy
+will not be able to grow at maximum
+potential. And if you want to have
+solutions to other problems in our
+society such as the cost of living
+crisis or millennials and Gen Z having a
+better chance of having higher quality
+of life than their parents or if you
+want to stimulate entrepreneurship,
+then we need to use the technologies
+that will be deflationary on a cost
+basis. Like the advent of AI and
+robotics is going to lower the cost of
+everything across the board if
+implemented properly. And I think these
+are some other key kind of components
+like and countries that have been slow
+or resistant to adapt this have been the
+ones that have been the most left behind
+and it's also part of the reason why
+like Europe particularly has been left
+behind. There's a lot of other reasons
+and I've dived into that in other videos
+on this channel, but in general, I think
+that if we do the data centers in a
+smart way and they're places and they're
+put in geographic areas like I mentioned
+before like that have favorable climates
+and space and are location flexible that
+you can do this in a way that
+gives us the capacity with need without
+interfering with people's lives like the
+noise pollution and the space in bigger
+cities and the water and electricity use
+are real. So, you got to put them more
+remote areas that have naturally colder
+climates
+that
+um are connected enough to the grid to
+make it viable. Like, we have plenty of
+room. There are markets that make sense
+to have data centers that
+don't have direct negative externalities
+to people. And even if the job count is
+low and even if these concerns are real,
+the long-term economic development
+makes an easy case that we need to keep
+progressing with data centers. So, I
+know you're probably going to think I'm
+some shill for big tech for doing this
+video, but I've been just want to get
+down to really the truth of data centers
+and whether this is a really a problem
+or not. But there is one other
+implication is that I think that the
+data centers are going to bring I think
+it's a a a visible s symbol of a broader
+anti-technology movement among a certain
+portion of American society. But a lot
+of younger people in general who miss
+the analog world, who didn't really grow
+up in the analog world, so they don't
+know the difficulties and the hardships
+of it, but they have this houseion idea
+that the world from 1990 to say 2005,
+like basically before social media,
+before AI, before modern web 2.0 and
+automation technologies eliminated a lot
+of like white collar jobs. They want to
+go back to that world. But there was a
+lot of other frictions that you didn't
+realize of the back in that world that
+we take for granted today.
+And I think that anti-technology develop
+technological development will merge
+with environmentalism to a certain
+degree and other anti- business
+sentiments. A lot of young people are
+afraid of losing their jobs to AI and
+they can't say I just don't like the AI
+or the robot taking my job. The way to
+the more smart intellectual way and the
+less alarmist way to say that is like
+let's just stop the data centers. Like
+if there's less data centers for these
+legitimate reasons, then it'll be harder
+for AI to develop quick enough to
+replace my job or to question my
+personal and financial security. So I
+think a lot of this debate is actually
+deep down an attack on the power of AI
+and also the power of big technology.
+Like a lot of people don't like that
+these big seven companies and I don't
+like it either are such a big proportion
+of the economy and they have so much
+control over your day-to-day life. Like
+the algorithms
+show what content you see, how your
+relationships are maintained and a lot
+of other things. It's like your data
+life is often controlled by these things
+and AI and data centers is just like a
+visible expression. The resistance to
+that is kind of indirectly expressed
+through resistance to data centers. But
+I think it's a misplaced
+way of letting out that um resentment
+and I wanted to kind of wrap this all
+together. Thank you guys all for
+watching. Let me know what you think
+about data centers. Am I too optimistic
+about data centers? Am I not worried
+enough about the negative externalities?
+If you think so, feel free to leave the
+comments. And also, what's your favorite
+data center conspiracy? I find them
+entertaining. Um, and yeah, maybe if you
+have enough evidence, you might be able
+to convince me that yours is true. Thank
+you for watching.

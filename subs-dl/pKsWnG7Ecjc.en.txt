@@ -1,0 +1,595 @@
+Most AI agency owners are terrified when
+it comes to cold calling. And look, even
+me when I was starting out, but the
+thing that they don't realize is that it
+is reported that 55% of high growth
+companies still use it as one of their
+main acquisition channels because it is
+the most direct form of outreach and one
+of the most effective if you know how to
+do it right. And so in this video, I'm
+going to go through the full cold
+calling framework that's helping AI
+agencies to book qualified prospects and
+close up to two to 10K automation deals,
+even if you've never made a cold call
+before. And in case you don't know who I
+am, my name is Mikuel and I've scaled my
+own AI automation agency to six figures
+in 14 months. I've worked with over 50
+businesses to implement AI and
+automations and taught over 20,000
+people in the process. All starting with
+zero technical or business knowledge.
+With that being said, let's dive in. All
+right, so cold calling. everyone's worst
+enemy, including mine when I was
+starting out my agency. Um, now the
+reason why cold calling works and it
+works very well is because it is very
+direct when it comes to outreach. Things
+like cold emails, things like content,
+things like, you know, Loom outreach
+campaigns on LinkedIn, they work well,
+don't get me wrong, but we have to wait
+for the person to reply back. In this
+case, cold calling is so direct that you
+just talk to the person itself. So, you
+get them live in the moment, right? And
+you can handle objections, pivot, and
+connect instantly. Why is that good for
+us? Because then we're able to get a
+faster feedback loop, right? So, we
+iterate, we call, we obviously get
+responses, we fail on the spot, and we
+fail much faster than if we were to send
+emails or, you know, videos or make
+content in general. And so, the main
+thing here is that you're talking to the
+actual business owners directly without
+having to send an email waiting for a
+response. Now, one thing that is very
+misunderstood when it comes to cold
+calling is that 20% of cold calling is
+what you say. 80% is how you say it.
+Okay? So 20% is what you [music] say.
+80% is how you say it. So most of it is
+not even what you're saying in the cold
+call script or what you have in a
+script. But it's mainly your tonality,
+how you annunciate words. Do you stop?
+What kind of questions you ask and how
+do you ask them, right? Because at the
+end of the day, the person doesn't see
+you. All they hear is your voice. And so
+the most important thing is how or the
+emotion that transmits through the voice
+from one phone to another. So let's say
+we have a wall here. On the one hand,
+you have someone listening in and on the
+other hand, you also have someone
+listening in and they don't see each
+other. So the only thing that they can
+hear is the voice. And so transmitting
+that emotion, making sure that you ask
+them in a certain way, and I'll walk you
+through exactly what I mean by that, uh,
+is very, very important. Okay? So if
+you're wondering why isn't cold calling
+working for me, maybe it's not so much
+the script, maybe it's how you say it.
+Now, what is the offer that we're going
+to be selling? Well, we're going to be
+servicing inbound receptionist for
+roofers, [music] and that's going to be
+your offer. So, if you don't know what
+an inbound receptionist is, bear in mind
+every business has a receptionist that
+picks up the phone. [music] So, let's
+say I have my roof that's breaking or
+that I need some repairs. I can just
+call the company saying, "Hey, I need
+someone to help me with my roof." And
+someone will come, I will pay them and
+then that's it. Now, the problem is is
+that a lot of businesses don't reply to
+the phone after hours. And so, the
+inbound receptionist basically gives the
+idea to the business like, "Hey, you can
+have an agent that can reply to the
+calls 24/7 and book appointments, cut
+miss calls, which leads to increased
+revenue." And so that's a clear ROI for
+the business. And you can apply roofers,
+you can also apply it to landscapers, to
+med spas, to dental clinics, to pretty
+much any phone or that has a
+receptionist on the phone that has a
+transactional sort of thing with
+clients, right? That has a service to
+provide in exchange for money. Now,
+here's a step-by-step process that we go
+through. So, the first [music] step is
+building out the list. So, use this link
+right here, which will take you to the
+API scraper. Now, API is like the Amazon
+for scrapers. you basically have
+different uh scrapers, different actors
+that allow us to be able to extract
+information from the internet. And so
+what we're doing here is we're searching
+up roofers. So let's say roofers in
+North Carolina. There we go. And we go
+to the Google Maps. And what it does is
+that it goes automatically and scrapes
+all these businesses here with the four
+numbers. So we don't have to do it
+manually. And all we have to do is put
+roofers, put North Carolina, United
+States, 10 [music] results. And we get
+an output that looks like this. where we
+have the place name, city, state,
+website, and phone number. And what you
+want to do is you want to export to a
+CSV. You can download it. You have it
+here. You then go to sheets new, import
+it into a Google sheet here, import,
+upload, and bring it here. I can put
+replace current sheet, import data. And
+now you have this here. Of course, I
+only did 10 just to show you that how
+the scraper actually works and the
+results here. But you would obviously
+have a limit here. Here you can see that
+you have to pay $4 for 1,000 results and
+you get $5 of free credits every single
+month which means that you can do
+roughly about 1,200 uh results every
+single month. And by result I mean a
+business is a result. Like one row here
+is a result. And now that you have a
+list of 1,000 results, we go to step
+two. We have this here. Now what we want
+to do is you want to press this link
+which takes you to the spreadsheet. By
+the way, if you're looking for the
+mirrorboard and the Google sheet that
+I'm showing you here, you can check it
+down in the second link down below. I
+left everything there um so you can use
+it as a resource. And you would paste
+everything here. So you would go back to
+the sheet. I would go here. I would
+delete this. Delete columns. Actually,
+let me put the phone number next [music]
+to this and put city next to this. And I
+would copy this and I would bring it
+back to this calling sheet and I would
+paste it here. So now we have the name,
+phone number, and location. Okay. You
+could also [music] instead of putting
+city, you can put state like this. There
+you go. And now we have the Google sheet
+that we're going to use to be able to
+track the cold [music] calls. Now, does
+this track the exact numbers of the cold
+calls? No. But it will give you a good
+enough foundation for you to uh
+basically structure how you're going to
+do the cold calls for each client. This
+is where we get to the tactical part and
+the part where bit of thinking comes in.
+Uh but essentially, when we think about
+an inbound receptionist, what problem
+does it solve? It solves a problem that
+businesses don't reply after hours. And
+so, how do we know if a business has a
+problem that we can solve? Well, if you
+call them after hours and they don't
+reply, then possibly it could be someone
+that's missing out on leads and someone
+that we could potentially help, right?
+And so what we do here is we have the
+first column which is a column that we
+touch only for the initial screening.
+Now the screening is basically when you
+will call each number to see if they
+pick up after hours. So after hours you
+call the business and if they pick up
+then you put answer. If they don't pick
+up then you put no answer. Why do we do
+this? Well, if someone answers, by the
+way, hang up the phone. You just want to
+see if they answered. Um but if they
+answer, put no answer here. And if
+someone didn't answer, then you consider
+them qualified for the actual cold call.
+Okay? And so basically, what approach
+are we taking here? Well, this isn't
+some random cold call. It's
+contextualized. We're saying, "Hey, we
+called you after hours or I called you
+after hours and no one [music] picked
+up." So, we're stating with that kind of
+problem in the actual cold call, which
+is why we call this a loaded call, not
+just a random cold call. And so, the
+first column is going to be for the uh
+initial [music] screening. So, you just
+call them, you see who answers, you see
+who doesn't answer, make sure to call
+them after hours. And then, we are then
+going to the cold calling part. When you
+cold call them, you put called. And then
+you want to put the status. So, DQ is
+disqualified, no answer. when they
+didn't answer, not interested, when
+they're not interested, uh, and booked.
+Okay, if you booked a call with them.
+And now that you have the sheet and you
+have the first column done, so you
+called all the leads and you make sure
+that you know exactly who didn't answer,
+who answered, you then want to make sure
+that you are so sorting [music] them Z
+to A to make sure that, you know, you
+have all the ones that didn't answer
+here. And you can simply hide these
+columns because the ones that you're
+going to cold call are going to be the
+ones that didn't answer. So hope now
+you're starting to see the the logic
+behind the cold call itself. So we've
+called them, we screened them, and now
+we get to the actual cold call. So after
+hours inbound receptionist. [music]
+So you called them after hours they did
+answer then maybe tomorrow or the next
+day you can now cold call them right but
+make sure to call them to cold call them
+when they do answer which is in [music]
+hours in office hours. And the cold call
+is the script right here. And we also
+have some objections that I wanted to
+run you through because of course a cold
+call doesn't go always as planned.
+There's always some you know some things
+that could come up. So we start with hey
+is this business name? So is this JM
+solutions? Is this roofing company's
+XYZ? Uh yes it is. Hey, it's just me
+here. Um, I'm wondering if you could uh
+possibly help me out for a moment. Okay,
+so you see how I sound confused,
+confused, humble, like you [music] need
+their help. Why do we do this? Well, we
+want to spark curiosity from the person
+[music] or from us, right? Again, it's
+how you say it, not what you say really.
+And instead of pitching up front, we are
+taking a different approach, [music]
+which is being curious and asking them a
+question. And when they say, "Sure, how
+can I help?" You say, "Well, I'm I'm not
+quite sure if you're the right person I
+should be talking to." I actually tried
+to call you guys a couple times last
+week after hours and I think it was
+around 7 p.m. And when nobody answers, I
+called to see who would be responsible
+for looking at any possible gaps in your
+after hours call coverage. Uh that could
+be possibly causing you guys to miss
+emergency roofing jobs every month. So
+you see how I'm just asking a question
+and emphasizing on the possible gaps in
+emergency roofing jobs. Why do I do
+that? Well, it's because if you
+emphasize words, people will remember
+them more than the others. Okay? Okay.
+So, if you emphasize possible gaps and
+emergency roofing jobs, then the person
+on the other side of the phone, of
+course, they can't see you from that
+whole sentence that you said or two
+sentences, they will remember those
+words more firmly. And then you ask, who
+should I be talking to about that? Okay,
+why do we do that? Is because we're
+stating a problem and we don't tell
+them, hey, here's the pitch. Say, who
+should I be talking to about that? Why
+do we say that? Is because we [music]
+want the person um that's responsible
+for that specific thing, right? And
+ideally if they say and if they say
+that's me then obviously you talk to
+them. If not then a lot of times what
+happens is that they say no it's not me
+it's the owner. And what you would ask
+is is the owner with you by any chance?
+If they say yes then transfer to the
+owner and then you go to the next step.
+If not then you can obviously talk to
+them directly. And if they say that's me
+or you talk to the owner itself then you
+can go to the next part. Oh okay great.
+Um well I'm not even sure if this really
+makes sense for us to talk but um I
+represent a group that helps roofing
+companies to capture every single call
+24/7 automatically. Um, and since my
+calls went unanswered, I just called to
+see if you'd be opposed to having maybe
+a brief conversation about that. Why do
+we say this when we say this? So, you
+see how my tone changes like this is me
+and then this is me on the call. So, a
+few things. So, we say, well, I'm not
+even sure if this really makes sense for
+us to talk. That's something that
+catches them off guard, right? And
+basically makes them interested, makes
+them curious for the conversation
+itself, but I represent a group that
+helps roofing companies capture every
+call 24/7 automatically. So, we say I
+represent a group. And why do we say
+represent a group is because people love
+to talk to people who are in power. You
+basically have more authority if you say
+that you represent a group like you
+would talk in wei, right? We as a
+company, we as a group. Even though you
+might be alone, you can still say that
+you represent a group. I used to do that
+all the time on calls. Um because it
+puts you in a position of authority.
+You're the CEO, you're the business
+owner and so on. And then you want to be
+specific about who you're helping
+because you're talking to them in
+specific. So roofing companies, you can
+also say roofing companies in North
+Carolina to [music] be even more
+specific. And the reason why you say I
+called to see if you'd be opposed to
+having maybe a brief conversation about
+that. Maybe opposed. Well, the reason
+why we say opposed and we ask that
+question is because people love to say
+no on cold calls. They love to say no.
+And so if you ask them a question where
+saying no is actually positive for us,
+they're more likely to say these things.
+Okay? But bear in mind that these tips
+and tricks are only as good as your
+tonality, right? Your tonality is
+basically how [music] you say things.
+So, okay, great. Well, I'm not even sure
+if this really makes sense for us to
+talk, but I represent a group that helps
+roofing companies capture every single
+call 24/7 automatically. And since my
+calls went unanswered, I called to see
+if you'd be opposed to having maybe a
+brief conversation about that. So,
+you're downplaying using a post instead
+of interested. And then you say this
+because you might actually have
+something that could help you never miss
+another emergency roofing call again.
+And then you pause and then now you see
+if they if they show interest. If they
+say no, not interested, we go through
+the objections as well. But if they show
+interest like, "Okay, I want to hear
+more." Like, "What do you have to say?
+What do you mean?" "Sure, yes, keep
+going." And so on, [music] then we go
+with the next thing, which is the pitch.
+So, we say, "So, to be clear, here's
+what we do. We set up a 24/7 AI
+receptionist that answers every call
+when you can't. It captures all
+emergencies, repair information, and
+books appointments directly onto your
+calendar." Does that make sense? Okay.
+Wait for confirmation. If it makes sense
+for them, uh, if they ask any question,
+obviously, you can explain to them.
+[music]
+If it makes sense for them, then you
+ask. And just out of curiosity, what do
+you guys currently do when when calls
+come in after hours or when you're up on
+a roof? So you ask those questions to
+then basically understand the current
+process [music] to finally go for the
+close, which is asking, is that
+something that you potentially be
+opposed to having a conversation about?
+So if they say no, right, they wouldn't
+be opposed to, then you [music] say,
+"Cool. Does sometime Tuesday or Thursday
+work for you at 3 p.m.?" You get their
+email and then you book for a demo call,
+a discovery call. But you could also
+say, "Is that something that you think
+can maybe help you capture more
+emergency roofing jobs?" If they say
+yes, then they think you would help them
+and then you go for the would you be
+opposed to having a quick call about
+that? In this case, instead of
+conversation, it's a call and you would
+book the call getting their email and
+offering a few times I work for them.
+Okay. So, overall, this is the script
+that we use. So, we go from the start.
+Then, we basically shoot with context.
+So, I called you guys 7 p.m. No one
+picked up. So, I call to see who will be
+responsible for managing XYZ problem.
+And there's a whole step-by-step layout
+that we go through to be able to then
+get to the close uh by having understood
+exactly if they're the authority, if
+they have a problem, and if they'd be
+interested in what we have to say to
+solve that problem. Now, objections,
+which is something that will come up
+mostly guaranteed on a cold call [music]
+because people hate sales people. So,
+they'll always have objections cuz
+objections are just walls that people
+put between themselves and you to get
+out the call. I'm going to go through
+four different examples, but if they
+say, "We already have voicemail." Then
+you say, "Oh, that's great that you have
+voicemail set up. I'm just curious
+though, when someone has a roof
+emergency at 800 p.m. and they call you
+versus a let's say a competitor and you
+have voicemail, but the competitor
+answers live, who do you think that the
+homeowner is more likely to book with?
+Okay, so let them answer, right? Pause
+and let them answer. Don't don't go to
+the next thing. And they would say,
+well, obviously the person who answers
+live. And then you go, right, probably
+the one who answered. So I guess my
+question is, how many potential
+customers do you think choose the
+company that answers over the one that
+goes to voicemail? You basically handle
+that objection uh of them having
+voicemail. So you basically reframe what
+they said. So we have voicemail and he
+basically asked them a question for them
+to think through exactly what they said.
+Obviously we have voicemail is it's
+obviously not not logistically doesn't
+make sense to say that cuz because if I
+have an emergency in my roof I don't
+care if they have voicemail. I'm going
+to talk to the other person who has a
+who can call who can answer the phone.
+Then we have we don't get many calls
+after hours. See that's interesting. And
+just out of curiosity how would you even
+know if you're not answering them? Like
+when I when I called you guys last night
+at 7:00 p.m. did that show up anywhere
+in your system as a missed opportunity?
+Because here's what I'm curious about.
+Like if someone calls five roofing
+companies after a storm and four go to
+voicemail, but a one answer is live.
+Which one gets the job? Again, reframing
+taking what they said and sharing a
+perspective on what you think about that
+certain thing that they said. Then we
+have we call people back the next day.
+Well, that's great that you follow up.
+I'm just curious though, by the time
+that you called them back the next day,
+how many other roofing companies do you
+think that they already talked to? And
+if one of those companies answered their
+call live the night before, what are the
+chances they're still available when you
+call them back? So again, taking what
+they say, reframing them, sharing their
+perspective, asking a question for them
+to think through exactly what they said
+and the fact that it doesn't really make
+sense. And then finally, not interested.
+Probably one of the most common ones.
+No, thank you. I'm all right. Okay. And
+you say, "I totally understand and I
+appreciate your honesty. Uh, can I ask
+you just one quick question before you
+drop off?" Say yes. If I told you there
+was a way to capture every single
+emergency roofing call that comes in
+after hours and it could potentially add
+an extra 20 to 30k per month to your
+business, would you at least be curious
+to see how that works? If they say no,
+obviously end the call. But if they say
+yes, then you say, "Okay." Would you be
+opposed then to having a quick call
+sometime in the next, you know, Tuesday
+or Thursday at 3 p.m. where we can
+actually show you how this works for
+your business? If they say yes, book
+them in. If not, then obviously you lose
+them. All right. And if you want the
+full mirrorboard of today, then you can
+go to the second link down below in my
+free school community. You can go to the
+classroom section. It will be under the
+templates vault and then you'll be able
+to see the business content right here.
+And the mirror will be right here. you
+can just press on it [music] and you
+have the whole thing laid out that you
+can start using right away. So that
+right there is a full cold calling
+script that you can use [music] to start
+generating leads and closing deals for
+your AI agency. And in this case we use
+roofers as a niche but you can apply
+that again to landscapers to med [music]
+spas to dental clinics and so on just
+obviously using the different kinds of
+problems that they have but overall the
+same exact concept. And if there's three
+pieces of advice that I would give you
+if you are cold calling is that first of
+[music] all 80% is how you say it 20% is
+what you say. So you can have the best
+cold calling script, but if you sound
+like if there's no tonality, if
+there's no curiosity, if there's no
+pauses like you would for a
+conversation, then it wouldn't work.
+Okay, very important. The second thing
+is you'll be rejected a lot, okay? A
+lot. So that's exactly what you should
+expect. Don't go into a cold call
+expecting that you'll close them, okay?
+Because then if you have such high
+expectations and you don't hit them,
+then there will be a mismatch in
+expectations and that's where you'll get
+pissed. You get demotivated and you
+think, "Hey, this is not working. This
+is not for me." And so it's a numbers
+game. to hit 20 to 40 to 50
+conversations a day to then be able to
+start seeing noticeable results. And the
+last thing is never end the sentence
+without asking a question. Always sound
+curious and always sound like you're
+actually um curious in what they have to
+say. Okay? Ask the question, share
+perspectives in the cold call, but make
+sure to actually follow the framework
+step by step. And if you're looking to
+start and scale your own AI agency,
+there's a first link down below which
+goes through a full one-to-one
+mentorship program. Check out the video.
+If it sounds like a good fit, then feel
+free to apply. [music] and check out
+this video up here where I show you
+exactly how cold calling compares to all
+the other methods of getting clients for
+your AI agency in a full tier list. With
+that being said, I hope you found value
+from this video and I'll see you in the
+next

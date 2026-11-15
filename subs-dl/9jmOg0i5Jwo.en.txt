@@ -1,0 +1,872 @@
+Brand presentations.  What is this
+really?  At
+what stage of working with a
+client do they
+appear?  And how
+to create a document that
+visually competes with
+the works of the world's largest
+design
+agencies?  First
+of all, my name is
+Jack Watson.  I am a brand
+designer from the
+UK.  Two years
+ago, I created an Instagram
+account to
+help
+aspiring designers who, like
+me, may not have
+graduated from design
+school.  Since then, I have
+collaborated with
+global
+corporations such as Zara,
+Formula 1, and Adobe.  I have also
+amassed over 300,000
+followers across
+various
+social media platforms.
+Last month I
+transitioned from freelancing
+to a design agency, and I've
+been documenting
+the process ever since.  In
+today's video,
+I'll show you exactly what I
+include in my
+brand presentation, how
+I create it in Adobe
+Illustrator, and also
+demonstrate a
+real-life example from
+my new agency.
+As a thank you for
+viewing, if you
+liked
+today's template
+and would like to
+purchase it,
+use the code Jack
+to get
+20% off.  This document
+appears after
+all the preparatory
+work.  The strategy,
+moodboards, and
+concept development are already
+complete.  At this
+point, the
+brand strategy is already
+established, and
+the identity is completely
+ready.  The client, however, has
+not yet seen the
+final
+result.  Therefore, this
+document serves as the
+first official
+presentation of the new
+identity.  I designed
+this presentation in a
+specific order to
+take the client
+through the entire story.
+Introduction.  We start by
+outlining
+what the brand is trying to achieve
+.  This defines
+the goals, purpose, and
+problem the
+client's brand solves.
+Brand review.  Before
+moving on to
+the visuals, we explain the
+identity strategy,
+why this brand exists,
+and who it serves.  This
+creates context for
+the customer, helping them
+understand how each
+decision reflects the
+brand’s mission.  Analysis of
+the logo and
+text sign.
+Once the client understands the
+brand idea, we
+introduce
+the most important
+element of visual
+identity—the logo
+and text mark.
+But we don't just
+show them.  We
+analyze
+each element in detail,
+explaining why a
+particular
+design decision was made
+.  This keeps
+the client's attention on the content of
+the design, not just
+its aesthetic
+perception.  Color and
+typography.  Once
+the logo is clear,
+we move on to
+colors and fonts.
+Here I explain how these
+choices align
+with brand personality.
+For example, colors
+evoke energy, and
+fonts emphasize
+confidence.  We
+emphasize how these
+elements work
+together to create a
+cohesive
+brand story.  Brand in action.
+Finally, we
+demonstrate real-world
+examples of
+brand application.
+This includes its
+appearance on packaging,
+in advertising, or on
+social media.
+This is extremely
+important when we
+present a brand to
+a client, because now
+they can
+visualize how the
+brand will look in the
+real world.
+The documents are designed
+to
+ensure a smooth
+and impressive
+brand launch.  They not only
+showcase the new
+identity, but also
+guide the client
+through each decision,
+explaining the logic of the
+design.  The advantage is
+that it builds
+trust, minimizes
+objections, and
+reduces
+unnecessary edits.  So
+how do we create this?  We
+could do this in
+InDesign.  And if you are
+familiar with this
+program, I
+definitely
+recommend it.  However, I
+will create this in Adobe
+Illustrator, as I am
+proficient with
+all the
+hotkeys.  So,
+let's begin.  First,
+we will create 30
+artboards of size
+1920x1080.  Go to
+the file, click "
+new", set
+the width to 1920, height to 1080.
+Make sure that
+landscape orientation is selected
+.  Change
+the number of
+artboards to 30. Next,
+create a grid.  To do
+this, you need to
+create a rectangle the
+size of our
+area—1920x1080.
+fill is turned off.
+Go to the
+Transform panel and
+subtract 120
+pixels from the top and
+bottom.  It is desirable that
+nothing goes beyond
+this area.
+Now press Command
++ C, Command + F to
+duplicate it in the
+same place.
+Go to "Object
+", "Path", "
+Divide into Grid",
+create six
+lines with an indent of
+30 pixels.
+Press Command + G
+to group them.
+For the other
+rectangle,
+we also select "Object", "
+Outline", "Divide
+into grid".  We create
+12 columns with a
+30
+pixel indent.  Now, if
+we group everything
+together, press Command
++ C, select the desired
+area, and press
+Command + F, we will paste
+the grid into place.  If
+you don't want to
+do this, you can simply
+align the grid to
+the center and middle of the
+artboard.
+Then we'll copy
+and paste this onto
+each
+artboard.  That's all.
+Everything works.  Now
+let's add another
+area on the side in
+case we
+need it later.
+Now, if we
+select all of our
+artboards and press
+Command 5, it will turn
+them into guides.  And by
+pressing Command and a
+semicolon, we
+can hide or
+show them.  If this is
+already taking too
+long and you
+need the template quickly,
+you can go to
+the timecode on the screen
+now and use the
+code Jack to get
+20% off this
+template.  So, first
+we need to add the
+elements that will be
+on each page.  I'll
+start with the font for the
+main text—it will be
+Satoshi, and we'll
+leave the size at 12
+points.  I will place the
+agency name in the
+upper left
+corner.  Top Left
+Corner—This is the top left
+corner of the grid.  I will add
+our logos at
+the top right of the
+document.  I'll
+place a slightly
+larger wordmark in the
+lower left corner.
+And I'll also copy this
+text to the bottom right
+corner and change it to the
+page number, which will be
+01. We'll make sure
+it's
+right-aligned.
+Typically, to
+determine
+font size, I start with the
+smallest in the
+document, which in
+this case
+is 12 points.
+And then to
+determine the remainder, I
+just multiply them by 1.618
+each time, which you
+can do in this
+window.  This number is the
+golden ratio.  If
+we continue
+to multiply by 1.618, we
+get the range of
+font sizes for
+our document.  I
+will use
+two fonts.  This is a
+secondary font.
+For the main font,
+I'll be
+using a
+typeface called
+Mucale Madno, I think.  Here
+she is.  I also want to have a
+color palette
+at hand.  So I'm
+just going to put
+these three images here
+that we can
+use for the
+palette.  And now
+you can create a
+title page.
+I think I'll change the
+text color to this beige
+.  And we will create a black
+background for this template
+.  We're just going to increase
+it until it's
+1080 by 1920. If
+you want to be
+as precise as possible,
+you can change the numbers
+here.  And
+we make sure
+we align it in the
+center.  Otherwise, a thin white line
+may appear on top when exporting
+.  And then
+we'll move it to the
+background.  I
+press Command, Shift, and the
+opening parenthesis.
+Using the
+main font, I
+will type "
+brand presentation".
+And as a guide for
+indentation, I'll create a
+square this
+size.  And we will
+use it
+as a guide.
+I'll move it here.
+I will also add
+a subtitle that
+says "initial
+brand identity."
+Add the date there too,
+using the
+same font size.
+And finally, let's add
+some small
+text at the bottom.  So,
+it looks good.  This
+will be the cover of
+our page, and
+it will likely
+be repeated
+every time we
+start a
+new chapter.  Next,
+we need an introductory
+page, and I don't want
+it to have a black
+background.  So we'll copy
+these smaller elements
+and change them to
+black.  And for the
+second page we
+will choose the main
+color.  And for the text,
+we will write “welcome to
+the presentation of the
+Non-stop brand.”  This presentation
+was created to
+help breathe
+life into the Non-stop brand.
+Of course, you will
+specify
+your client's brand name here.
+I'll copy these smaller
+elements again.  And then,
+same font size
+as the
+presentation title, we'll change
+the caption to "table of contents."  This
+font has different
+spellings.
+So I need to
+change them quickly.  I'll
+align it the same way I did
+on the title
+page.  As you can see, the
+first four
+pages
+summarize
+the strategy.  The next
+seven pages
+the logo and text
+portion in detail.  The next
+five pages
+are devoted to
+the use of color
+, followed by four
+pages about fonts.
+Finally, the rest of
+the pages
+showcase the brand in
+action through
+mockups.  So,
+in keeping with the content,
+let's copy this
+cover for the
+Non-stop brand by simply
+selecting the first
+page, pressing
+Command C, and then Command F. I'll
+tweak it a little
+to make it
+fit better.  I
+like the way it
+looks.  On the next
+page, I'll copy the
+introduction, make it
+white, but also
+add a
+small title at the top.
+Again,
+we'll make sure
+the text looks
+consistent.  We
+divided this by 1.618.
+The goal is to summarize what
+we are trying to
+achieve with the
+brand identity.    The
+next page
+will summarize
+the strategy, which I have
+narrowed down to six
+headings.  If you
+want to check
+them out, you can
+pause the video
+right now.  And
+for the final
+page in the first
+section, I want
+to show a preview of
+the identity.  Now I'll
+show you how to
+create this
+split grid effect.
+First you need to
+create a rectangle
+in the right place.
+To do this, I stretched
+the rectangle to this
+line.  Next, go
+to the Object menu,
+Path, Split
+to Grid and divide
+it into two rows and
+three columns.  And to
+make an
+uneven effect
+like I just did, we'll
+use the
+Shape Builder tool, which
+is here.
+Simply drag
+the cursor where you
+want to merge
+the cells.  If you're
+wondering how to create a
+clipping
+mask effect with
+these rectangles,
+wait until the end and
+I'll show you all the
+effective ways to
+use this
+template.  As for the other
+covers, I
+know exactly where they'll
+go.  So I'll just
+copy this style and
+change them to suit the
+content.  For
+the text logo,
+we will use this
+template as a base by
+copying and
+pasting it.  And we
+changed the name to our
+text logo.
+I also added
+an explanation here.  Let's copy
+this again to the next
+slide.  But this time
+with a small change:
+we removed the white
+block on the left.  We removed
+the text and instead
+added these arrows
+pointing to the logo,
+which will ultimately explain the
+solution.  If you
+decide to download
+this template and
+go to Window >
+Layers, you can
+click this
+toggle and see
+exactly what I did for a
+real client.
+previous template, we
+will insert it into the
+next slide.
+This time we will add
+logo variations and
+make sure to
+take into account the free
+space.  Now
+let's repeat the first two
+slides, but this
+time for the logo.
+After these, we will create a
+"Logo in Action" slide
+, which will have the
+same layout as the
+visual overview.
+So, we'll copy that
+and paste it here below
+.  As you can see, I changed
+the text to “Logo in
+Action” and also added a
+short description.  Okay
+, we're officially
+halfway there.
+I hope you're
+awake, because now we're
+going to create
+slides with colors
+that are a little
+different.  But
+first, let me
+tell you about Framer.
+If you haven't
+heard of Framer before, it's a
+popular
+no-code web development tool with an
+interface similar
+to Figma.  The advantage is
+that you can
+publish your
+designs directly as a
+website without the need for
+code.  As you can see, if
+you look at
+the program, the interface is
+very similar to Figma.
+I am currently working on
+creating my own
+brandbook,
+hosted on Framer.
+Our goal is to create a
+template for you that
+provides
+real-time updates,
+easy access, and
+interactive features
+, such as
+uploading
+logos, quickly
+copying HEX codes,
+and downloading
+fonts without having to
+open a
+separate file each time.  If you've
+been following my
+video series, you
+know that I'm currently
+working on a few
+client
+projects for my
+new agency,
+Non-Stop, and I'll be using
+Framer to create the
+Save Our
+Species Alliance identity site.  But if you
+want to start working
+with Framer today and
+get a 35% discount for the
+first 3 months,
+be sure to
+use the code
+Jack.  So, for the
+color section, it all
+depends on
+the number of colors in
+our palette, but I'll
+as an initial
+guideline.  Here's what we
+got as a result.
+To do this, I
+used the
+grid function.
+Initially it was one
+big rectangle, like this
+.  And
+going to "Objects
+", "Outline", "
+Divide into grid".
+I divided it into
+several rows and three
+columns.  And then,
+Shape Builder tool, I
+combined some of them
+to get this
+beautiful effect.
+I created the distance between these elements
+using
+a rectangle,
+dragging it
+between the guides—it
+turned out to be about 30
+pixels, which is quite
+logical, because this is exactly the
+indentation we
+made for the columns.
+I also made sure to
+keep the same
+distance between the bottom of
+the text and the
+bottom of the rectangle.  I did
+n't forget to add the HEX code
+, RGB, and CMYK.  On the left, I
+added some text
+to explain the
+color choices.  However, if
+your brand
+requires packaging,
+you will need one
+of these—a Pantone color.
+So this page is
+simply necessary for
+selecting a Pantone that is as
+close as possible to
+your chosen
+palette.  And the next
+page demonstrates
+this in action using examples of
+layouts you
+may have already created.
+need to show
+packaging in action.  We will
+simply copy
+the page with the logo
+in action and change
+the title.  If you
+download my
+template, you'll see
+that the descriptions are ready—all you
+have to do is
+replace the data in
+parentheses.  So,
+fonts, it all depends
+on how many of them are
+actually in your
+corporate identity.  I
+only have two of them.  So
+let's create a
+quick template for
+this.  Here you see
+that we have the main
+font and the explanation
+on the left.  And then we have the
+main headset, which is the
+Mono Museo.  And for an
+additional font, we have
+Satoshi.  So we'll
+copy that and just
+change the
+font names.  If
+you watch until the end,
+I'll show you how to change
+this in just a few
+clicks.  And to
+conclude the topic of
+fonts, I also like to
+add examples of their
+use.    I'll
+move on to my
+digital
+usage pattern.  This is a
+template I will be releasing in the
+coming weeks.
+It has many different
+examples for
+social media where you can
+simply use a
+clipping mask.
+Change everything you
+need.  It
+took a lot of time to create this.  So
+let me know if you
+need this template.
+And I'm happy with
+this result for
+our template.  Here's
+what came of it.  This is a
+real-life example from a
+branding development project.  So you
+see exactly how this
+can be used.  And
+if you download
+the template, you'll get
+access to
+this entire PDF file.  To
+finish, we'll just
+divide this into a grid
+of four images.
+And I'll copy and
+paste that into the remaining
+five slides, which will be the
+actual
+branding work.  If
+we look at a real
+presentation for
+a client, we will see that
+it is filled with
+mockups.  This is the
+final template
+that will be available
+on my website.  Now
+I'll show you some
+hotkeys that
+will save you time when
+editing.
+We've already
+mentioned the first one—it's Command +
+semicolon to
+show or
+hide guides.
+But what if we want to
+change the main
+font?  Instead of
+going through each
+slide, let's just
+go to "Font", "
+Find and Replace Font
+", and here we will see a
+list of
+fonts used.  We know that
+our main font is
+Museo.  And we can
+replace it,
+for example, with Helvetica Bold
+.  We'll make sure the
+bold version has also been changed.
+Let's change it to Helvetica.
+And as you can see, all
+the fonts changed with
+one click of a
+button.  OK.  So, the
+next problem
+we may
+encounter is the
+need
+to update the
+document colors every time.  Now there is a
+way to speed up
+this process.  I
+usually highlight the
+entire document.    I
+go to help
+and type "
+recolor".
+I click "Recolor
+Artwork".  Now,
+if we want to
+change them to the exact
+colors, we can simply
+enter the
+hexadecimal codes we need.
+Or, alternatively, we
+can change them
+within the scale.  Another
+problem we
+may face
+is the risk of using
+another
+client's name in a document, especially
+if we are constantly
+updating the
+same document
+to reflect a new
+brand identity.
+The way to avoid
+this is to simply
+go to the "Edit" menu
+, "Find and
+Replace".  If we
+enter the text we
+want to replace and
+click “
+Find,” the program
+will find it in all
+points of contact.  We
+can easily change
+them all at once by entering
+text in the “Replace with” field
+and
+clicking “
+Replace all”.  As
+you can see,
+eight changes were made.  And finally,
+having these blocks is
+good.  But how do
+you create a
+clipping mask from them?
+The quickest way
+to do this is to simply
+bring the image
+into Adobe Illustrator and
+reduce its size
+so that it
+covers the
+rectangle area.  Now
+send it to the
+background
+by pressing the
+Command and opening
+parenthesis keys.  Or Command + Shift +
+Make sure
+the object is selected.
+Hold down the Shift key and
+click on
+the area you
+want to create a
+clipping mask from.  And
+press Command and 7.
+Now we just
+delete the text.  That's
+all.  I hope this
+video helped
+clarify any
+questions you may have about
+brand presentations
+and the technical
+difficulties that may
+arise when
+creating them.
+Next week, I will
+delve into
+my unique
+framework for
+creating effective
+strategies for my
+clients, which
+guides not
+only branding but also
+business decisions.  See
+you later.

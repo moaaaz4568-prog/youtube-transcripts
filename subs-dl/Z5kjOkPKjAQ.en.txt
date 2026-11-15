@@ -1,0 +1,226 @@
+today I've got a list of tips for you
+guys on non-destructive workflow when
+working in adobe illustrator but also
+working and adobe Photoshop well what is
+that people welcome back to Satori
+graphics the home of graphic design
+content right here on YouTube
+so in today's video we're going to be
+looking at tips and techniques for you
+guys how to conduct a non-destructive
+workflow
+in Adobe Photoshop and illustrator in
+today's video we're going to be
+alternating between Photoshop and
+illustrator on a single point so stay
+tuned I'll learn how to conduct
+non-destructive workflow in the debut
+software so like I said we're going to
+cover one illustrator a non-destructive
+tip or technique and then we're gonna
+look at one in Photoshop going back and
+forth throughout this entire video today
+so first in until you build a straighter
+we make a mistake we want to step back
+and then do a move we press command or
+control Z like so you may press this
+multiple times over and realize that you
+don't have unlimited amounts of undo
+steps you go into this traitor
+preferences in the performance section
+you can edit the amount of steps you
+have if you do choose 200 there's a
+warning flagged that says it might
+affect your performance due to take-up
+of memory if you want to have more
+opportunities to move back after making
+a mistake in Illustrator
+this is one way you can do it there is
+actually a way that you can go into the
+program files themselves and edit the
+steps manually for more than 200 but I
+haven't done that yet we're now going to
+hop over to photoshop and if you look in
+the Preferences window here you are
+finding the same areas illustrator that
+you can change the amount of undo steps
+as well however here you have more scope
+for choice I personally like to set it
+to around 100 or 200 but anyway the
+first Photoshop technique that you need
+to know for non-destructive graphic
+design workflow is layer masks if you
+don't already use layer masks and
+Photoshop now it's a great time to start
+doing so
+I've got an image here of a model and
+below is a textured background that I
+want the model to be placed over without
+the beige color some designers would
+just grab the eraser tool and take their
+time to remove it however this is
+destructive workflow as those pixels
+would never return again and what's
+gonna happen later if you realize they'd
+cut too much of the girls hair or skin
+away so to conduct non-destructive
+workflow it's best to add a layer mask
+you would then need black and white as
+the two color palette choices and then
+take the brush tool with black be in the
+foreground color when you paint it with
+a layer you're going to erase it
+however it's not actually being erased
+you're just masking it I'm quickly going
+to show you but of course if you're
+doing this for yourself you'd want to
+take the time on the care to cut away
+the areas properly you can also take the
+soft brush and go in closer to the skin
+so if you do make a mistake you can
+switch to white sand painting the areas
+like so
+so this is the first way to work in
+Photoshop that is not distract your
+workflow the next illustrator
+non-destructive workflow tip is a quick
+one when we're using a pathfinder to cut
+away or create new shapes from other
+shapes we place them together and use
+the Pathfinder functions
+but if you do not know already the shape
+that you want to create precisely we can
+lower the opacity of the shapes so we
+can see the sections cut out
+this will speed up your graphic design
+workflow when working with the
+Pathfinder tool in this way
+so back to photoshop now one golden rule
+when working on photo manipulation or
+graphics in general is to duplicate the
+original layer with command or control J
+this means that you can make edits and
+changes to your design and if you decide
+later that you don't like the results
+will you make a mistake the original one
+is still there at the bottom
+in Illustrated as a similar technique to
+this for a non-destructive workflow and
+it's really simple yet essential make a
+copy of the vector shape that you're
+working on so if we example this V here
+I may end up making thousands of changes
+to this letter and before I know it I've
+ruined the flow of the lettering and I
+cannot step back enough under your moves
+so make a copy with the alt/option key
+and keep on with non-destructive graphic
+design workflow in Photoshop when we're
+conducting photo manipulation you might
+need to use a Dodge and burn tools to
+enhance highlights and shadows we could
+just directly use these tools onto the
+image itself but instead create a
+foreground color of CMYK values of zero
+zero zero and fifty then make a new
+layer and press the alt option key and
+press backspace when you keyboard at the
+same time then go ahead and change the
+blend mode to overlay now you can use
+the Dodge and burn effects on the new
+layer and they will appear on your
+design overall
+to raise the Eddy sleeve just made
+choose the brush tool and the same gray
+color that we just used and then brush
+straight with the areas that you don't
+one so as you can see here when I hide
+the layer there's a slight change in the
+grading highlights of the car this next
+tip or technique for non-destructive
+gratefull design workflow is a simple
+one
+yeah it's vastly important you can save
+a copy of your design so that you have
+the original design and then a design
+that you have advanced upon or you can
+save multiple designs as you can see
+here instead of saving it with the
+original design again and again and
+again now you can refer back to various
+saved documents if you want specific
+sections of a specific design in
+Photoshop it's always a good idea to
+compare objects to smart objects when
+you scale a small object up or down
+rotate it will do whatever else to it it
+should retain its quality unlike with
+the pixel graphic you'll find that if
+you scale it down to a really small size
+and then enlarge it again it's gonna
+become blurred and pixelated so using
+small objects is a good non-destructive
+workflow technique that you need to be
+using a Photoshop
+the last tip for non-destructive
+workflow today is one that mentioned
+already in a past video but it's so
+crucial and important I need to add in
+today's list
+he relates to not having to outline text
+in Illustrator the issue we can have
+when saving a PDF or print in
+Illustrator is that the fonts we use we
+either did not have a license for more
+importantly when we send them to the
+printer the computer that is used for
+printing will not recognize the font so
+we often outline all the text and save
+it as a PDF problem again for this is
+that you cannot edit the wording of your
+text after outlining err
+and also if I open up the PDF in Acrobat
+and access the font section in the
+Preferences the font is listed here if
+the printer does not have this font
+there's gonna be a big problem in
+printing your design there is a way
+around this which I'm going to show you
+now in Illustrator go up to edit and
+transparency flattener preferences click
+new here and then drag the raster vector
+balance all of the way up you also need
+to check the outline option oh and also
+I forgot to say you need to add a
+relevant name something like outline or
+something like that so now your text is
+still going to be editable as we haven't
+actually outlined the text itself but if
+you now go ahead and save the PDF you
+must use the Acrobat for PDF option and
+then in the advanced window choose the
+preference that you saved just now when
+you explore the PDF you're not gonna
+have any flagged warnings and the PDF
+would not have funds that another
+computer will not recognize so
+essentially we outline the text without
+actually outlining it
+so that was today's video a
+non-destructive workflow in Adobe
+Photoshop and the day of the illustrator
+let me know what you guys thought to
+this video down in the comment section
+below I always love hearing feedback
+from you guys
+and I want to improve my channel my
+videos on a day to day basis so let me
+know what you want to see on this
+channel here etcetera graphics if you
+haven't done already go ahead and
+subscribe to my channel for weekly
+graphic design content just like today's
+video also share on social media if you
+do find it really useful and of course
+until next time design your future today
+peace

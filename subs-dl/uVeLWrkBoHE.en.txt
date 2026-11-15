@@ -1,0 +1,737 @@
+Two months ago, a 19-year-old kid sold
+his app to MyFitnessPal for over $100
+million. The app is called Cal AI. You
+might have heard of it. You basically
+take a picture of your food, the AI
+tells you how many calories are in it,
+and that's the entire business. 30 to 40
+million dollars a year in revenue, and
+he does not have a team of 55 engineers.
+No, he didn't go to Stanford for
+computer science. In fact, he didn't go
+to college at all. He's 19 years old,
+and he built an app that just got
+acquired for nine figures. But here's
+the part that no one's talking about.
+Two years ago, we would have had to
+spend years learning how to code in
+order to build this. Today, you don't
+anymore. And I'm going to spend the next
+15 minutes showing you exactly how to
+build an app like Cal AI. A real working
+mobile app, login system, onboarding
+flow, photo-based food scanner,
+subscription paywall, the whole thing,
+without writing a single line of code.
+Meaning, you don't need any coding
+experience, you don't need any
+developers, you don't need a $100,000
+budget. And if you can type a sentence
+in basic plain English, you can build
+this. So, let's go. Before we get into
+it, I want to be straight with you about
+who this video is for and who it's not
+for. Listen, if you're here to be
+entertained, this isn't that. This is a
+build. You're going to watch me build a
+real app from scratch in real time. And
+by the end of this video, you're going
+to know exactly how to do this yourself.
+And if you stick with me to the end, I
+got a free gift for you. I'm going to
+give you the exact AI prompts that I
+used to build this app. Literally, every
+single one of them, word for word, for
+free, no strings attached. But more on
+that later. Now, quick context on me, I
+spent the last seven years selling
+digital products online. I've done a
+little over $32
+million of my students start their own
+digital product businesses from scratch.
+Some of them completely faceless, no
+personal brands. Some of them with their
+faces, with niches that I could have
+never imagined myself. And the pattern
+with all of them is the same. The people
+that win are not the smartest. They're
+not the most technical. They're the ones
+who move first when a new tool shows up.
+And right now, that new tool is AI app
+builders. Cal AI is a proof. The
+19-year-old is a proof. And the question
+I want you to ask yourself in the next
+few minutes is, if this 19-year-old can
+do this, then what's stopping me? Okay,
+so step one. Before we touch any app
+builder, we're going to do something
+that 99% of people skip. We're going to
+do the research. Most people building
+apps right now are guessing. They have
+an idea, they build it, and then they're
+confused when nobody actually downloads
+and buys it. We're not going to do that.
+We're going to find out exactly what
+people are raving for, what they truly
+want, and then we build that. The tool
+that we're going to use for this is
+Claude. It's the AI language model, it's
+completely free to use, very similar to
+ChatGPT, but a little better. Think of
+this like a really smart assistant
+that's read most of the internet and can
+pull patterns out of huge amounts of
+data way faster than a human ever could.
+And I'm using Claude specifically for
+this step because it's the best one out
+there specifically for reading through a
+lot of information and finding the
+signal in the noise, which is exactly
+what we need right now. So, here's what
+I'm doing. I'm going to ask Claude to
+research Cal AI, find what users love,
+find what they hate, find what they're
+asking for that doesn't exist yet. Find
+the biggest gap in the market. We're
+basically asking the internet, "What's
+wrong with a $100 million a year app?"
+for free. Now, while Claude is working,
+here's what's happening on the screen.
+It's reading through real reviews of Cal
+AI from the App Store, Google Play,
+Reddit, Twitter, anywhere people have
+written about the app, and it's looking
+for real patterns. What do people love?
+What they hate? What they wish existed?
+This is the same kind of research that a
+venture capital firm would pay an
+analyst $50,000 to do just a couple
+months back, and we're getting it for
+free in just about 2 minutes. Now, look
+at what Claude pulled back. Three things
+that people love about Cal AI. The
+speed, 3 seconds to log a meal instead
+of 15 minutes. The clean aesthetic, it
+doesn't feel like a clinical diary, it
+feels like a wellness app. And the
+flexibility, the barcode, the scan, the
+photo, the manual entry, all options on
+the table. Now, let's look at the
+complaints. The number one isn't what
+you'd actually guess, it's accuracy. The
+app gets it wrong all the time on real
+meals. Independent testing found Cal AI
+undercounts a salad by up to 400
+calories because it can't see the oil
+and the dressing hidden in the dish. And
+Reddit users complain about the same
+thing, always undercounted on anything
+that's home cooked. And that's a really
+big deal because anything home cooked is
+exactly what you need when you're using
+a calorie tracker the most. The second
+complaint, deceptive billing. People say
+that the cancellation flow is rigged.
+They get charged after their trial, but
+then support doesn't respond. And number
+three, bugs. Subscriptions stop working,
+daily streaks reset. And here's the part
+I really want you to pay attention to.
+Look at the features that people are
+begging for that don't yet exist. Water
+tracking with reminders, better workout
+logging, personalized coaching. These
+are real paying customers that are
+asking for specific features, and the
+company is just flat-out ignoring them.
+And the app is still doing 30 to 40
+million a year. Stop and think about
+that for a second. Cal AI has problems.
+They don't fix the accuracy, they don't
+fix the billing, and they don't ship the
+features that people actually want. And
+they still print money. Two to three
+million a month, and that tells you
+everything about how this business
+works. You don't need to be perfect. You
+need to solve the main friction point.
+Logging food is annoying, and then build
+a better experience around it. So, now
+we know the gap. We know what Cal AI
+does well, and we know what it does
+badly. We know what's missing. The next
+step now is we have to actually have to
+build something to fill in that hole.
+And to do that, we're going to use Base
+44, a custom app AI builder, where you
+don't need any coding experience. And
+we're going to give it really detailed
+instructions. Now, real quick, we're
+actually trying to hit 100,000
+subscribers by the end of July. And so,
+if you're getting a lot of value, I
+appreciate if you hit that subscribe
+button. It genuinely helps more than you
+know. Now, here's a secret that almost
+nobody talks about. The quality of the
+app you build with AI comes down
+entirely to the quality of the
+instructions that you give it. And most
+people give really bad instructions.
+They type something like, "Build me a
+fitness app." That's not specific
+enough. The AI doesn't know what you
+mean, and so it'll build you something
+generic. Remember this. You put good in,
+you get good out. You put bad in, you
+get bad out. So, we're going to do it
+differently. We're going to use Claude
+one more time, not for research, but as
+an architect. So, let's give Claude a
+quick brief instruction. The high-level
+vision plus what we learned from the
+research, and Claude will write us a
+detailed engineering spec that we can
+paste directly into Base 44. This is a
+the system. Claude is the architect,
+Base 44 is the construction crew. The
+architect designs, the crew builds. Skip
+the architect and you get a really bad
+building. So, I'm telling Claude, take
+what you just learned, write me a
+detailed build prompt for Base44
+including all the core Cal AI features,
+and explicitly add three things that Cal
+AI does badly: clarifying questions,
+water reminders, easy cancellation. Now,
+look at what Claude wrote. It took my
+brief and it turned it into a detailed
+engineering spec. It picked a name,
+Nourish Snap. That's pretty cool. It
+picked a color palette, dark theme with
+coral accents. Which by the way, you can
+change to any color you like. And it
+specified the exact onboarding flow. It
+even wrote logic for how the app should
+handle simple meals versus complex
+meals. This is what working with Claude
+as an architect looks like. You give it
+the brief, it gives you the blueprint.
+And now I'm going to take this entire
+thing and paste it into Base44. This is
+Base44. It's an app builder, and the way
+it works is you type what you want and
+Base44 builds it. You don't see any
+code. You don't touch any servers. You
+don't have to deal with any technical
+setup. So, if you're a tech idiot like
+me that never went to school and doesn't
+have any technical background, you can
+do this. You simply describe what you
+want and the app gets built in front of
+your eyes live real time. And by the
+way, this tool you're going to need if
+you're going to build an AI app like
+this. I'll put a special link in the
+description, I'll get you 30% off annual
+plans. And a couple cool bonuses coming
+up in a few minutes. For now, let's go
+ahead and build. I'm pasting the Nourish
+Snap prompt that Claude just wrote into
+Base44, and then I'm going to hit enter.
+Now, quick context while Base44 works. A
+few years ago, this exact build would
+have taken a developer somewhere between
+two and six months to build out. And it
+would have cost you minimum 50,000 to up
+to 200,000 dollars to build. And
+honestly, it would have required at
+least three different people: a
+designer, a front-end developer, and a
+back-end developer. We're watching this
+happen in about three minutes with no
+humans involved. And there it is, look
+at this. Base44 built Nourish Snap. Dark
+theme, coral accent color, four tab
+bottom navigation, home, log, history,
+settings. Let me show you what it just
+built. Here's the home dashboard. Big
+progress ring in the center for
+calories, three smaller rings for
+protein, carbs, and fat, and a water
+intake tracker with eight little drop
+icons, and a reminder bell next to the
+water section. A big log a meal button
+in the accent color. The log a meal
+screen, three options, take a photo,
+describe your meal in text, or add it in
+manually. The first option is the killer
+feature we built specifically to compete
+with Cal AI. Meal history, three tabs,
+today, this week, this month. Each meal
+shows a calorie count and a colored bar
+for the macro breakdown. Settings,
+profile, water reminder, subscription,
+and log out. This is a complete working
+mobile app built in 3 minutes from one
+prompt. Now, I want to show you the
+feature that makes this app way better
+than Cal AI. Watch this. I tap take a
+photo. I upload a picture of a chicken
+rice bowl with vegetables, the kind of
+home cooked meal that Cal AI gets wrong
+all the time. Base 44 analyzes the
+image, and here's the key part. Because
+this is a complex meal, multiple
+ingredients, possibly some hidden oil,
+it doesn't just spit out a number, it
+asks me a clarifying question. What was
+the chicken cooked in? I tell it olive
+oil. It refines the estimate, 600
+calories, 40 g of protein, 70 g of
+carbs, 25 g of fat. That number is
+actually accurate. Cal AI would have
+guessed 400 to 500 because it can't see
+the oil. We just solved the number one
+complaint about a hundred million dollar
+app in 30 seconds. Now, I want to be
+real with you about something, because
+if I don't tell you something you're
+going to shoot yourself in the foot and
+panic. The first build of any AI app is
+rarely perfect. Watch the onboarding
+flow. See that? The app suggested a
+daily calorie goal of 149,000 calories.
+That's obviously wrong. Base 44 fumbled
+the math. This is going to happen to
+you, and I'm just setting proper
+expectations. AI tools are powerful, but
+they're not perfect, especially not on
+the first pass. And the reason most
+people fail with AI app builders isn't
+that the tools don't work, it's that
+they panic the first time when something
+goes wrong, and then they give up.
+Remember this, operators do not panic,
+operators fix them. Watch how I fix
+this. Base 44 has a feature called the
+discuss mode. It's the most underrated
+feature in the entire tool, because
+instead of telling the AI to make a
+change, discuss mode lets you
+demonstrate a problem and then the AI
+comes back with a plan of action before
+actually makes any adjustments in the
+code. So, you read the plan and if you
+approve, then the AI will implement it
+into the tool. This is how you avoid AI
+tools making things worse when you try
+to fix them. So, I'm going to click
+discuss and I'm telling Base 44 what's
+wrong. Three things. The calorie math is
+broken, the onboarding doesn't redirect
+to the dashboard after the sign up, and
+the settings page is missing the
+subscription section. Now, look at this.
+I didn't tell Base 44 how to fix
+anything. I just told it what was wrong
+and it came back with the actual files
+it needs to touch, the actual formula it
+needs to correct. It even flagged that
+it needs to know the user's age and sex
+to make the calorie math accurate, which
+by the way, I forgot to ask for in the
+original onboarding. And then it asked
+me a question back, "How do you want me
+to handle the subscription data?" This
+is what Base 44 actually feels like.
+It's not magic, it's not a black box,
+just a really, really fast, smart
+developer that shows you its work before
+it changes anything. And I'm going to
+simply approve the plan and tell Base 44
+to also add on an age and gender field
+and it's done. Now the onboarding asks
+for its age, it asks for the gender, the
+settings page has a subscription
+section, the redirect to the dashboard
+works. Now, I want to be honest with you
+about something else. When I went back
+through onboarding after the fix, the
+calorie math was still a little bit off.
+Not insane like before, but still not
+perfect. So, I did the thing that nobody
+tells you to do. I just typed in my
+actual calorie target manually and I
+moved on. This is the thing that nobody
+tells you about building with AI. You're
+going to hit rough edges. The right move
+isn't to obsess over fixing every single
+one. The right move is to know when to
+course correct manually and keep
+building. You're just shipping an app,
+you're not running NASA and sending
+rockets to the moon. So, adjust and keep
+moving. So, now the app works, the photo
+scan works, the clarifying questions
+work, the settings page is complete, and
+the onboarding lands users where they
+need to be. Now we have to talk about
+the part that turns this from a project
+into a real money-making business. You
+have to make money. Now, there's two
+ways to monetize an app like this. The
+first one is a one-time payment. The
+user pays once to download, almost
+nobody does this anymore. And the second
+is a subscription. The user gets free
+access for short trial, and then pays
+monthly to keep using the app. This is
+the modern model, and this is how Cal AI
+does it. It's basically how almost every
+successful app you've ever used in the
+last 5 years does it, because recurring
+revenue, month after month, is way more
+valuable than a one-time revenue. And
+we're going to set up a 7-day free
+trial, so people can give it a shot
+before they pay anything. And then,
+$9.99 per month after that. Now, here's
+the best part. Base 44 has its own
+built-in payment system. You don't have
+to set up Stripe, you don't have to deal
+with webhooks or API keys or any
+technical complicated stuff. The whole
+thing happens inside the platform.
+Watch. I'm telling Base 44 to add a
+paywall. 7-day trial, $9.99 a month, use
+the built-in payment system, no external
+setup, and make a cancellation flow in
+one tap. And it's done. Look at the
+settings page now. My plan shows free
+trial, 7 days remaining. There's a big
+upgrade to premium button in the accent
+color. I tap it, and I get a real
+working checkout page. Order summary,
+Nurse That Premium, $9.99 per month,
+auto renew until canceled, 7-day free
+trial, pay now $0, after free trial,
+$9.99. A real subscription product with
+a real trial, with real billing. And we
+did this with one prompt. There's no
+Stripe, there's no webhooks, there's no
+API keys, no technical steps at all.
+Now, I want to point out something about
+that cancel button. A lot of people
+building the first app skip this. They
+think, "Well, I want people to keep
+their subscriptions. Why would I make it
+easy for them to cancel?" That's wrong.
+Making cancellation hard is the fastest
+way to get chargebacks, bad reviews, and
+a bad reputation. And all of a sudden,
+your app gets banned from all the app
+marketplaces. Apple and Google both
+require it, and more importantly, your
+customers deserve it. Make it easy to
+cancel. If you have high cancellations,
+it just means that your product isn't
+good enough, and you have to make it
+better. That's fantastic learning for
+you to help you make a better product.
+The right kind of customer will stay on
+anyway. And remember the Cal AI
+research? The number two complaint was
+deceptive billing. People said that they
+could not cancel. We just built the
+opposite of that into our app. One tap,
+one confirmation, done. That's a
+feature. Okay, so now we have a working
+app. We have a working subscription, and
+we have a working cancellation flow. The
+last step is we actually have to put
+this app in people's hands, and we have
+to publish it. There are two ways to
+publish a Base44 app. The first is the
+traditional app store route. Submit to
+Apple or Google, pay a fee on the
+platform, and wait a couple weeks for a
+review. That works, but it's slow and
+expensive. The second way is way faster.
+Base44 lets you publish your app as a
+web app. One click, users open the link
+on their phone, they tap share, and they
+add it to their home screen, and the app
+icon appears on their phone just like
+any other app. They tap it, it opens up
+full screen, and it works just like an
+ordinary normal app. And for almost
+everyone watching this, the web app
+route is the right call because there's
+no Apple developer fee. That's $100 a
+year. There's no review process. Apple
+can take weeks. And there's no risk of
+getting pulled. You control everything.
+Let me show you. I click publish. I make
+sure the required login access is
+toggled on because we have user data and
+subscriptions, and I publish. And Base44
+gives me a link. Quick note, that URL is
+pretty ugly. That's just the default
+link that Base44 gives you. If you want
+a real domain, something like
+nurshsnap.app, you can buy one inside of
+Base44 in one click. They partner with
+Wix for it. 15 bucks a year. I'm
+skipping that here cuz there's a lot to
+cover, but that's basically where you
+would go to buy a real URL domain. Now
+watch this. I'm taking that link and
+opening it up in Safari on my phone. The
+app loads. I tap the share icon. I
+scroll down. I tap add to home screen. I
+name it Nursh App, and I tap add. And
+there's the app icon right on my home
+screen. I tap it, the app opens full
+screen, no browser interface, just my
+app. This is a real working deployable
+mobile app built in under 30 minutes by
+me with AI, no code, no employees. I
+want you to think about what we just
+did. Three years ago, this exact app
+would have cost between $50,000
+to build. It would have taken three to
+six months minimum, and it would have
+required a team of at least three to
+five engineers to build it. We built
+this in less than 30 minutes. By
+ourselves, using tools that didn't even
+exist 18 months ago. You remember the
+chicken bowl moment? The app asking us
+what the chicken was cooked in before
+estimating the calories? That one single
+feature, the clarifying question on
+complex meals, is what would set a new
+app apart and better than 100 million
+competitor today. And we built it with
+one line in a single prompt. That's the
+leverage that you have right now. This
+is the biggest opportunity I've seen in
+the last 7 years of doing this and
+selling digital products. And it's only
+going to get bigger. The people who win
+in the next 3 years aren't going to be
+the ones with the best ideas. They're
+going to be the ones who move fast when
+AI app builders like Base 44 showed up.
+The same way that people move fast on
+Shopify in 2015 ended up building
+nine-figure e-commerce brands. The same
+way that people moved fast on YouTube in
+2010, built media empires from their
+bedrooms. This is the moment for apps.
+The only question is whether you're
+going to be one of those who actually
+move fast. I told you at the start of
+this video that if you stuck with me to
+the end, I'd give you the exact
+word-for-word prompts I used to build
+this app. I'm actually going to do
+better than that. There are two links in
+the description below. The first link
+below is the actual prompt vault. Every
+prompt that I use in this video,
+word-for-word. The Claude research
+prompt, the Claude prompt that wrote the
+Base 44 prompt, and every prompt that I
+gave to Base 44. The initial build, the
+discuss moment refinement, the payment
+integration, all of them on a single
+Google Doc. You can click link one, get
+the doc, no email required, no sign up,
+no strings attached, nothing. That's my
+gift to you, which by the way, I
+button. Copy the prompts, paste them
+into Claude and Base 44, and build this
+exact app yourself in less than the next
+20 minutes. That's my gift. It's yours,
+no matter what you do next. In the
+second link down below is where it gets
+interesting, because link two is
+actually my special partnership with
+Base 44 that I helped you guys get
+simply because you support this channel.
+Two things will happen when you click
+it. First, when you click that special
+link below, you're going to get 30% off
+any of the Base 44 annual plans. The
+cheapest one is like 16 bucks a month.
+It's super affordable. And by the way,
+you need Base 44 to build this app,
+otherwise you can't build it. So, grab
+that discount while it's still there.
+So, step one, all you got to do is click
+the first link down in the description,
+and that's going to take you over to the
+Base 44 page. Now, all you got to do is
+click on the sign up option. It really
+doesn't matter which one of these you
+pick because at the end of the day,
+you're going to be building your own
+apps or using our done-for-you app
+templates once you're actually inside
+and have a paid subscription. So, go
+ahead and sign up with your email. If
+you don't have an account with Base 44
+yet, you're going to have to click on
+that little sign up button. Then, it's
+going to ask you to verify your email,
+so check your email and grab the code
+that sends you. And then, once you're in
+and you verify, go to the top right
+corner to actually claim your big
+discounts. Now, this discount is only
+available because you're actually coming
+through my special link, which is again
+the first link down below this video.
+Now, remember, when you sign up for one
+of the paid plans, any of the paid
+plans, you're going to get a $4.99
+course for completely free. All you need
+to do is sign up for the first month.
+And don't worry, you're like, "I can't
+afford this for the next 12 months." You
+don't need to worry about that because
+as long as you just sign up for the
+first month, you're going to get the
+full course for free. So, you can see
+that there's this builder option, which
+is the one that I recommend. It's 50
+bucks a month. The cheapest one, biggest
+discount is if you sign up for the
+annual plan, which I'd recommend. But,
+if you only want to try out for the
+first month, feel free to use that. And
+if you still can't afford this, no
+problem, go to the starter light version
+as you can see here. And this one here
+actually is only 20 bucks a month. For
+less than a fast food meal for two
+people, you get access to Base 44, an
+incredible AI software, and on top of
+that, $4.99 course for free. And to make
+this very clear, if you sign up for Base
+44 literally just the first month, which
+costs you $20, and you don't like it,
+that's fine. Cancel the subscription,
+and you still get the free Den of
+Thieves Assassin $4.99 course for free,
+and you get to keep that for lifetime.
+Now, once you've actually clicked on the
+button down below and you choose a plan,
+it's going to take you over to the
+payment page right here. Just put in
+your details and sign up, but pay
+attention because in order to get the
+course, you got to follow step two. Step
+two is go to the second link below this
+video, and you click on that link, it's
+actually going to take you to this page
+here, where you got to put in the same
+email that you used to sign up for Base
+44. This is to verify that you actually
+signed up for one of the paid plans,
+which base 44 sends us all the
+information of the customers sign up.
+And once that's done, if you use the
+same email and you actually bought base
+44 for the first month subscription, you
+will automatically receive in your email
+inbox course for free within 90 minutes.
+Now, why is there a delay? Because right
+now, if you can see right below, you
+actually have a VIP ticket for free to
+the AI masterclass that's going to be
+starting soon in the next few minutes.
+This is a masterclass where I break down
+before your eyes step-by-step how to
+build a 200 $300 per day business using
+AI with just a laptop or your phone. And
+on this masterclass, I even bring on
+guest speakers of top students of mine
+that have done anywhere from 10,000,
+20,000, and even a one student that
+scaled to over $85,000 per month. Plus,
+we do a Q&A to answer all of your
+questions. So, when you sign up for base
+44 and then you get to the next page,
+make sure that you register and show up
+to this masterclass. Why is base 44
+sponsoring your tuition? Because they
+want more people building real apps on
+the platform. They obviously make more
+money because they're trying to grow
+base 44 to a billion-dollar company. And
+so, a couple weeks ago, when I was
+speaking at one of the largest online
+marketing conferences in North America,
+base 44 reached out to me cuz they saw
+me at the event and they said, "Yo, we
+want to partner with you because we know
+how good of a job you do and the impact
+that you've had on teaching students how
+to build digital product businesses."
+So, we built a partnership where if you
+sign up for base 44, you pay me nothing.
+You pay base 44 16 bucks a month. When
+you sign up for any of the plans, I give
+you for free our $500 course, that is my
+gift to you. So, here are your next
+steps. The first thing below are going
+to be the prompts, that's a free. But,
+if you just have the prompts, but you
+don't have base 44, it's useless. So,
+the second thing that you got to do
+immediately is sign up for base 44 with
+that special link below. It's got to be
+that link, otherwise, you're not going
+to get the free course. When you click
+on that second link and sign up for base
+44, you are going to get the freedom
+profit system for free. And then, don't
+go anywhere. Make sure you turn on the
+onboarding kickoff masterclass I'm
+hosting later this week, where I'm going
+to build live in front of your eyes an
+AI business and bring on my top student
+guest speakers. So, go ahead and tap on
+the first link and make sure you go
+through that second link and sign up for
+Base 44. Look, I've been watching people
+build wealth off of new technological
+shifts for the last 7 years. The Shopify
+wave, the YouTube wave, the Instagram
+wave, and the one thing that all the
+winners ever had in common was speed.
+They did not wait until they understood
+it perfectly. They started before
+everyone else. They figured it out as
+they went and then they figured out
+along the way. You watch me build this
+entire app in less time than it takes to
+watch a movie. The hard part, knowing if
+it can be done is no longer the
+obstacle. The only thing left is whether
+you actually take action. The links are
+down below the video. So, go ahead and
+tap the second link below to sign up for
+Base 44 and then register with the link
+below to actually attend the masterclass
+I'm going to be hosting starting later
+this week. Show up on time and get ready
+to learn because I'm going to walk you
+through how to build a 10 to 100 grand a
+month business before your eyes
+step-by-step. So, take action on those
+things right now and I'll see you on the
+other side.

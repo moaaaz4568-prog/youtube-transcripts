@@ -1,0 +1,850 @@
+Hello, today you
+will learn interesting
+tips for designing
+apps and websites
+that users really
+like
+.
+At the risk of getting hungry
+, let's start by
+reviewing
+food delivery apps.
+Look at these
+four versions of the same
+screen—the one where you
+decide what to
+eat.  They have the
+same photos,
+the same dishes and
+information, but
+different
+user experiences.  One
+was developed by a junior,
+another by a middle, a third by a
+senior, and the fourth by a
+staff designer.
+Which one do you think has the
+best UX and UI
+?  A, B, C or D?  Stop
+the video and make a choice
+.  Write in
+the comments which
+option you chose and
+why.  So, let's start with C
+, a screen that a
+junior could develop.    There
+is one right
+decision here and four
+places where things went
+wrong.  The correct answer is
+photographs.  You
+were shown the food, not the
+restaurant logo.
+The logo says who
+sells.  The photo says what
+you're eating, and that's exactly what
+you came for.
+Next is size.  These photos are
+56
+pixels in size.  The image
+in the list can
+identify or
+whet your appetite.
+Appetite needs
+real space.  At
+56 pixels, you can see
+that it's a bowl of something,
+but it doesn't make you
+want to eat it.  And
+why is it so
+small?  Because at
+this size, six restaurants
+fit on the screen
+Juniors and
+marketers usually
+want to cram
+as much as possible into the field of
+view.  This is the first
+mistake, and it is still
+taught as something
+good.  Now everyone
+knows how to scroll through the
+feed.  What matters is whether what
+the person sees
+first is worth
+continuing,
+not how much you
+fit into the slice.  We
+analyze this in detail
+on our
+UX Peak Plus platform, because there are
+nuances here.  Second mistake
+: Filters and
+sorting are hidden
+in two drop-down
+lists with 17 options
+that you will never
+know about.  Third, there
+is no hierarchy in the card
+.  The title is 13
+pixels, everything else
+below it is 11.5, all in
+one gray line, the
+same size and
+color.  If you can't
+tell which
+element should be
+read first,
+the user won't be
+able to either.  And fourth,
+each corner here has
+four pixels, whereas the
+category images are circles.
+Two different form languages
+on one screen.
+Now A, the version of
+the middle.  The same six
+restaurants, but
+four shifts.  The photos
+change from
+a square to a
+rectangle, become
+three times wider, and
+become the main
+element of the card.
+The corners have become
+more rounded, and this
+same rounding
+is applied across the
+entire screen.  The screen
+looks much
+cleaner.  The intervals are
+better, there is more
+free space, and
+the colors are chosen
+much more carefully.  And
+a hierarchy emerged,
+which is more important than anything else
+.  The title
+stands out, the rating
+gets a star and weight
+, and everything else fades
+into the background.  This
+allows you to browse
+the list instead of
+reading it.  And
+the filters are now visible.
+Eight chips on
+the screen that you can
+click on.  What the
+junior designer
+hid is now easy
+to find.  Next up is D,
+senior designer.
+Photos become even
+larger, taking up the
+entire width of the card.    The
+category bar
+no longer
+consists of photos, but
+becomes a set of
+custom icons.  This
+produces two results.
+This gives the app
+a personality
+that stock photos don't have
+, and keeps the six
+food photos from competing
+with the other six below
+them.  So the dishes themselves
+stand out better.    The
+quick filters
+remain, and a filter
+button has appeared next to it
+,
+clicking on which
+you can see
+more options that
+can be applied
+along with a
+sort button next to it.
+That's where Zomato, Swiggy, and
+Glovo place theirs.  And
+now there is a counter: 640
+establishments.  You know
+the amount of choice that
+changes the approach to
+searching.  And also a
+layout switch:
+cards or
+compact list.
+Large photos
+whet your appetite,
+the list allows for
+quick comparisons, and
+some may
+prefer it.
+So, instead of
+choosing for everyone, the
+senior designer gives the
+right to choose.  When
+there is no one
+right option
+for everyone, give
+people control.
+What remains is B, the
+staff screen, which
+develops all of this further.    The
+search placeholder
+indicates what you can
+search for: establishments,
+dishes, or cuisines.
+The icons and their backgrounds are
+cleaner and
+more subtle, so
+the line doesn't distract
+from your food.  The top
+card is labeled "
+best match" based on
+user data.  And
+most importantly: the name and
+numbers are placed
+outside the photo, which means
+that the card
+will look the same
+, regardless of
+which photo
+the restaurant uploads.  Uber Eats builds
+its cards the same way:
+photos on top, details
+on the bottom.  A small
+remark.  None of
+them are complete.
+With more time,
+each of them can be improved, including the
+staff screen.
+We can't cover
+all the details in one
+video, but on our
+UX Peak Plus platform, we take a
+deep dive into
+each of these solutions:
+why they were
+made, what
+the advantages and disadvantages of
+each option are, and we
+also break down
+real-world applications
+to show how they
+solve similar
+problems.  We're
+taking a
+closer look at the staff level screen than we are
+here, so you can
+see what the
+next stage of
+improvements really looks like.  Because
+copying the screen
+you like
+only gives you that one
+screen.  Understanding
+why a senior or
+lead designer
+made a particular choice is something
+you can
+apply anywhere.
+This is what advances
+careers, and it's how you
+ultimately build
+apps and sites
+that people actually
+love.  Link in
+the description.  So tell
+us in the comments what
+you chose and whether
+anything you
+heard here changed your
+mind.  Let's move on to
+another great
+tip.  It's 8 pm now
+.  You are sitting on
+the couch looking for a
+new home.  You
+open
+the app, and there are
+over 1,500 homes for
+sale in Portland.
+Of course, you won't be
+viewing them all.
+You already have a
+rough idea
+of ​​what you want:
+something within your budget,
+at least three
+bedrooms and two
+bathrooms.  Luckily,
+there is a filter button right at the top
+.  You
+open it,
+choose the parameters you want
+, and within
+a minute, out of those 1,500
+homes,
+only 41 remain. It sounds
+simple enough, but this is where
+filters
+get interesting, because
+these requirements are usually not
+as strict as they
+seem.  Maybe you
+want three bedrooms,
+but if that doesn't yield much
+, you'll
+probably consider a
+two-bedroom option.
+You may have a
+budget in mind, but
+if an extra 50,000
+suddenly opens up
+much better
+options, you may be
+willing to
+increase it.  So,
+the job of a filter is not to
+simply ask
+the user for a bunch of
+values ​​and hide
+anything that doesn't match.
+It should help them
+narrow down the huge
+set of options while
+they are still
+figuring out for themselves what they
+really want.  And
+this problem is everywhere.
+Shopping, plane tickets,
+work, food delivery.
+You start with hundreds of
+thousands of options, and the
+interface should
+somehow
+help you get
+to the few
+that are truly worth
+your time.  This is what
+makes filters
+surprisingly difficult to
+design.  And when
+you're designing something
+like this, a very
+useful starting
+point is to
+look at how strong
+products already
+solve the same
+problem.  Whether
+you're designing
+filters, an
+onboarding process, a
+settings page, or a
+homepage,
+having good
+examples can
+take the
+guesswork out of it.  This is
+one of the reasons why we
+use Mobbin.
+This gives you a huge
+library of real
+screens and streams from
+products that have already
+hit the market.  So,
+how different companies
+approach similar
+design
+tasks.  And now Mobbin
+has taken a step forward with the
+Mobbin MCP, which is a
+game-changer.
+You can connect
+Mobbin directly to
+tools
+like Claude Code, Cursor, or CodeX
+and actually make
+all this research
+part of your
+workflow.  So
+instead of
+manually reviewing
+hundreds of screens,
+collecting screenshots, and
+trying to
+compare everything yourself
+, you can ask
+Claude: "Using
+Mobbin, show me how
+leading developer tools
+implement onboarding
+."  "Find the most
+relevant examples,
+identify common
+patterns, compare
+different approaches, and
+create a
+visual report for me."  It
+can independently
+search screens, flows,
+and sections in Mobbin,
+collect relevant
+links, and
+help you
+understand where
+products
+use
+the same patterns and
+where they make different
+choices.  It
+can even turn this
+research into a
+visual report with
+real
+links to Mobbin
+so you don't have to
+compile everything manually.
+We partnered with Mobbin
+for this video and you
+can get
+20% off Mobbin with
+our link
+below.  So, now you
+click the
+filter icon.  What would you
+really like
+to see?  Option A,
+option B, option C or
+option D?  All four
+were designed for the same
+application and the same
+user.  The only
+difference is the level of
+the designer who
+created them.  One
+was developed by a junior
+designer, another by a middle
+designer, a third by a
+senior designer, and the
+fourth by a staff
+designer.  Before we
+break them down,
+write in
+the comments which one
+you like the
+most and why.
+Version A looks
+neat, but much of
+this
+simplicity is achieved
+by moving the
+work elsewhere.    The
+tries to keep
+everything simple and
+concise.
+Instead of putting
+all the
+controls on one
+screen, each filter
+gets its own
+page.  So, you
+have the price, bedrooms,
+bathrooms, and housing type,
+and you work with them
+in turn.  At first
+glance, this seems like a
+pretty smart
+way to reduce
+visual noise, but
+once you
+start
+using it, you
+see the problem.
+Let's say I want
+bedrooms.  I click on "
+bedrooms," select three
+, and then go back
+.  Now I
+need two
+bathrooms.  I open the
+"bathrooms",
+choose two and
+go back again.
+Then I finally
+click "show
+accommodation".  That's seven
+clicks just to
+set
+two basic filters.
+But pressing is not the
+main
+problem.  The bigger
+problem is what
+happens every
+time you
+navigate to another
+page.  When I
+choose bathrooms,
+I don't see the
+bedroom choices I just
+made.  I don't
+see my price
+range either.  So, I
+make each
+decision separately, even though
+these decisions are actually
+related.  I may
+want three bedrooms, but
+if that gives me
+almost no choice,
+I'll happily take
+two.  Maybe another 50,000
+suddenly discover
+homes.  This is the same
+tradeoff you
+want to understand during
+filtering, not
+after completion.  And the
+full-page
+approach also
+makes it more difficult.  As
+soon as I open
+the filter, the homes I was
+just viewing
+completely disappear.    There
+is also no
+feedback
+on the main action.
+The button simply says "
+show homes".
+I might have 41 matches,
+maybe four, or
+none.  I only find out
+about it after I
+click on
+it.  So, the junior
+designer focused
+on making
+the interface simpler
+by showing us less
+content at a time.
+But there's an important difference
+between making an
+interface
+look simpler and making it
+easier to make
+decisions.  And that's something the
+next designer
+starts to improve.
+Version B fixes
+the biggest problem of
+version A. It re-
+unifies the solutions.
+The filter no longer
+takes up the entire screen.
+Instead, it
+opens as a
+sheet on top of
+the results.  So
+you still have an idea
+of ​​the page
+you came from and what you are
+filtering.  And instead of
+hiding
+bedrooms and
+bathrooms on separate
+pages, everything is now
+in one
+scroll.  This makes it
+much easier
+to balance the choices
+between each other.  Maybe I'll
+start with three bedrooms
+and then adjust the
+budget.  Or I'll
+downsize to two
+bedrooms and see
+better options.  The price is
+also easier
+to adjust.  Instead of
+relying
+solely on manual
+input, we now
+have a slider.
+The slider is useful
+when you want to quickly
+go through
+a range and get an
+approximate result
+without having to enter a new
+number each time.  And if
+you already know your
+exact budget, manual
+entry is still
+available.  So you
+get both
+options.  Quick
+research
+with a slider and
+precision when
+you need it.  However, there is
+one choice I would
+not make.  Step switches are used for
+bedrooms and bathrooms
+Plus and minus
+work well when you're
+adjusting a number you
+already have, such as
+the number in the basket
+or the temperature on the
+thermostat.  But if
+I already know I want
+three bedrooms,
+forcing me
+to click through to three is
+slower, and it
+hides
+other options from me.  And
+finally, the button is
+much more useful.
+Instead of
+just saying "
+show homes,"
+it
+tells me exactly what
+my
+current filters will return.
+Show 41 homes.
+So, even before I
+apply anything, I already
+know whether I've
+narrowed my search too much
+or not enough.
+Version C doesn't just
+make the filter more
+user-friendly.  She
+starts helping
+you make a
+decision.  The first thing you'll
+notice is the price
+filter.  We
+still have the slider
+and manual input, as in the
+previous version,
+but now a histogram
+has appeared behind the slider
+.  This
+histogram shows
+the distribution of affordable
+homes at different
+price points.  So it used to
+be $700,000 and
+$750,000—just two
+numbers in the range.
+Now I can clearly
+see whether
+the majority of homes are centered
+around that price, whether
+I'm already at the edge of the market,
+or whether a small
+increase in budget will
+suddenly open up
+a lot more
+options.  So,
+blindly moving the
+slider and waiting for the
+result, I can
+understand the market while
+setting it up.
+The control
+no longer just
+asks me for a price.
+It shows me what
+is really there, so I
+can make more
+informed choices.  Next
+we move on to
+the bedrooms and
+bathrooms.  The
+toggles are gone, and
+now all the options
+are visible at once.  So
+if I need
+three bedrooms, I can
+just click "
+three plus" instead of having to
+gradually
+switch to
+that value.  And this
+plus sign is important.
+We said at the very
+beginning that we wanted
+bedrooms.  So choosing
+the number three should not
+accidentally exclude
+all
+four-bedroom
+houses from the results.  If I
+really want exactly
+three, I can still
+choose that separately.  It's a
+small detail, but
+it fits with how
+people actually
+think during
+such a search.  The
+housing type also received a
+slight visual
+update.  Instead of
+text-only options, each
+property type now
+has an icon, making it
+easier
+to recognize and
+review.  Version D doesn't
+just show you
+the market.  It starts
+to connect that market
+to your search and
+your own
+budget.  You can
+see this right away in the
+pricing section.  We
+still have
+the histogram from the
+but now there is
+even more context around it.
+If I select three
+plus bedrooms, I see
+that I'm looking at homes
+with three or more
+bedrooms, their
+median price, and
+on the right, that 459 of the 1,557
+homes currently
+match my
+filters.  So, I
+no longer look at
+price in isolation.  I
+can instantly
+understand what
+part of the market
+actually meets
+my needs.  And there's a
+bigger change below.
+Because when someone
+asks, "What's your
+maximum price?"  you
+may
+not actually know it.
+Instead, you might
+know, "I have
+$65,000 down
+and I'm willing to spend
+about $5,000
+a month."  So,
+instead of having to
+convert these
+numbers into a house price myself
+, the product does the
+work for me.  I
+enter the amount of the first
+payment, a
+monthly payment that is comfortable for me,
+and an interest
+rate.  And he
+roughly calculates
+what price I can
+expect.  Then
+he puts this limit
+directly on the histogram.
+Now I see the market, the
+housing that fits
+my filters, and where
+my own budget
+intersects with
+it all in one place.  This is
+much more useful
+than asking
+the user to guess the
+maximum price and
+then finding out if
+it was
+realistic.  Next we
+move on to
+bathrooms, and there is
+another important change here.
+Each option now
+shows how many
+houses I will get,
+even before I
+choose it.  Maybe three
+bedrooms would leave
+me with 459 options, and
+four would leave me with 229.  So I can
+see what a stricter filter
+will cost me
+before I make a
+decision.  Instead of having to
+select something,
+see what happened,
+go back and
+try something else, the
+interface provides this
+information immediately.  And
+we can take
+bedroom customization one
+step further.  So far,
+we've assumed that
+if I choose three
+bedrooms, I
+mean three or more.
+But maybe I really
+want a home with
+two to four bedrooms.
+This version lets
+me select two,
+then four, and
+creates a range between
+them.  This gives us
+more flexibility and
+more control.
+The trade-off is that
+all this
+extra content
+makes the interface
+cluttered.  So,
+the challenge is to
+understand
+what information
+really helps you
+make a decision and
+what just creates noise.
+And that's all for
+today's video.
+Let us know which
+version you
+liked better,
+what you would have done
+differently, or what you
+completely disagree with.  We
+want to hear everything.  Oh,
+and one last
+question.  Unfortunately, I
+caught a cold in the middle of
+recording this video.
+So sorry if you
+noticed that.  I should be
+back to normal
+by the end of the month.
+I hope you
+enjoyed this video,
+and I'll see you in the
+next one.

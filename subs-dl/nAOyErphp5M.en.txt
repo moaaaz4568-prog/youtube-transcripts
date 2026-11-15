@@ -1,0 +1,362 @@
+So, Anthropic just released Claude
+managed agents about 48 hours ago and
+everybody's freaking out about it, but
+they don't really know what it is or
+what it can do or at least they don't
+fully understand it. So, I brought on
+Nick Speezack to go over what is Claude
+managed agents, what does it do, who is
+it for and who is it not for. So, we're
+going to clearly explain it in detail in
+this video. So, Nick, let's go ahead and
+dive in. What is Claude managed agents?
+Yeah, so Claude just released the
+capability to have no infrastructure and
+to package your existing agents directly
+on their platform to be able to get your
+first custom agent done today. And as we
+kind of cut through this, the biggest
+thing here with Claude managed agents is
+they're going to be broken into this
+concept of this nice little picture we
+have here on the left-hand side
+where you have your existing agent
+harness, which is commonly known as
+Claude code, and you take your tools,
+your sessions, your orchestration, your
+sandbox, and they're totally decoupled.
+So, now you have your hands and your
+intelligence are broken into two and
+they're something that are completely
+throwawayable and portable to be able to
+reuse.
+Awesome. So, let's get into
+who managed agents is for because it's
+it's my understanding that, you know,
+certain people that are more technical
+it might not be the best option for them
+and people who are totally non-technical
+that also might not be the best option
+for them. So, let's talk about who it's
+for and and who it's not for.
+Yep, so we broke this down into really
+four different types of personas. So,
+the personas that we have here is if
+you're the type of user that likes to
+use either chat GPT chat or Claude chat
+or you're in co-work environment, this
+is really specifically just for you.
+What do you care about? You care about
+results. So, the best way to do that is
+this platform is perfect for the
+individuals, the non-technical users,
+the business owners that are really just
+looking for the ability to have results
+right out of the box, something you can
+put out there and it's ready to go same
+day.
+The second persona is your is your
+typical Claude code user. They're
+looking for flexibility, speed, and
+reuse. Yes, every one of these personas
+cares about results, but they also care
+about those specific things. And they're
+going to be the type of users that are
+going to be much more familiar with the
+command line and one of the benefits of
+Claude managed agent is they have a
+command line interface known as Anth,
+what is the abbreviation for Anthropic,
+and it allows you to do everything that
+you do in the platform portal that a
+co-work persona would typically do, but
+now you have the ability to be able to
+take your existing files, your skills,
+your MCP servers, and all the rest of
+the plumbing that you would normally do,
+and you can deploy that through the
+command line.
+The third persona. This is someone that
+is already familiar with the agent SDK
+or software development kit. This is
+your power user. They've already seen
+the light in terms of wanting to use
+agents, and the main difference for them
+is they already have their own
+infrastructure. So, this is the big
+divider line where a Claude managed
+agent runs on Anthropic's cloud, on
+their stack, and a agent SDK persona
+still uses the agent persona, but
+they're doing it on their
+infrastructure. So, they care about all
+the same things that the other personas
+of the stack do, but it's it's an extra
+point where they want that ultimate
+flexibility. This type of user is going
+to be using Python or TypeScript. So,
+we're talking programming languages for
+this. And finally, is the AI tinker.
+The AI tinker is someone that's is
+potentially a solopreneur. They're
+curious about AI. They're always
+up-to-date on the latest trends. They're
+going to care more about curiosity and
+cost. And for this user, ultimately at
+the end of the day, at least right now,
+this is not the best platform for them
+because they ultimately care about the
+cost and the and those aspects, this
+managed platform is expensive to run. It
+runs on a token as a service model,
+whereas this type of persona generally
+is going to be better equipped for using
+the Claude code subscription.
+Got it. Okay. And then so, for the folks
+watching this too, what Nick has put
+together is a pretty lengthy Google Doc
+that you can literally hand to Claude
+code or to your AI agent in Codex or
+wherever you're you've got a coding
+agent and it will build and deploy your
+first Claude managed agent in 60 seconds
+literally just by handing it the Google
+Doc. So, if you guys are watching on
+YouTube, you can get it for free at the
+link in the description. If you're watch
+if you're listening on the podcast, you
+can grab it in the show notes. But just
+grab that Google Doc, hand it to Claude
+code or Codex, and let it build your
+first managed agent and just try it out
+for yourself.
+But Nick, so what you're saying here if
+if I understand correctly that managed
+agents is for
+the Claude user or the AI user that is
+kind of one step above Claude chat and
+Claude co-work, but, you know, also kind
+of in that Claude code range where, you
+know, they're used to these more
+sophisticated tools.
+They're they're kind of past the point
+of just using regular chat like Claude
+or or Claude co-work, but they're not
+quite to the level of like using an
+agent SDK. They don't want to build
+their own infrastructure, so they'd
+rather do it on Anthropic's. Am I
+understanding that correctly? Yep, this
+is a classic platform as a service model
+that you'll see in the industry across.
+This is an opportunity for those type of
+users to focus on business value as
+opposed to focusing on maintaining the
+infrastructure stack.
+Got it. Okay. So, it's probably going to
+be more expensive than running something
+on like an agent SDK because they're
+they're you're you're paying for their
+infrastructure as a service. Agent SDK
+is going to be a little cheaper, same
+results, but you've got to maintain your
+own infrastructure. Is that right?
+>> Exactly. Yep, you still pay for the
+token cost through the API, but in
+addition to that, there are minutes that
+you're paying for for being able to run
+the agent on Anthropic stack.
+Got it. Okay. So, that's that's much
+clearer. Now, let's get into what it
+looks like. So, I know you've got some
+screenshots uh of
+managed agents under the hood and I know
+we're going to pop into the actual
+console and kind of take a look at what
+that looks like, but why don't you show
+us? Yep, so what we're going to do here
+is I'm going to show these quick three
+screenshots and then we're going to pop
+directly into the console. So, it's
+really to answer three questions. What
+does this actually look like in action?
+So, what we're going to do is I'm going
+to briefly show you guys just how we
+utilize the agent SDK and more
+specifically here, the Claude managed
+agents with our AI tools assessment.
+We'll briefly give you a quick look at
+at how much the total usage was for
+running an AI assessment and then how
+much it cost to run those. So, when you
+come over into the platform, it's
+literally platform.claude.com
+and you'll be dropped into a workspace
+here on the left-hand side. So, this is
+the experience or for the persona of
+someone that is is accustomed to chat or
+co-work and they'll be spending the
+majority of their time in the work
+workbench section and in the quick
+start. So, what we have here is we
+already have an agent that is deployed.
+We've deployed ours with the Anth CLI
+and we have a session here of a recent
+run. And essentially what this does is
+it gives you the visibility into the
+full transcript of what we actually had
+the the agent run step by step by its
+tool calls and its agent calls. And then
+on the right-hand side is the actual
+finished report of an AI tools
+assessment for Kate that we had here as
+the main item. And as a deliverable, it
+spits out the document that we're then
+able to use for the rest of the process
+that we work with with the client. So,
+this is a quick rundown of how we're
+able to package it. We have a session,
+which gives us the visibility into what
+the agent was able to do, and at the end
+of the day, we're then able to create or
+add any of the files that we need for
+this. So, this is, even though it's
+still in beta form, is a very
+comprehensive solution for our first
+version of how you'll be able to use
+this service effectively.
+Okay. So, when you click into sessions,
+like what we're looking at here is an
+actual session and essentially on the
+left-hand side is what's going on under
+the hood, all the tool calls, all the
+scripts that it's running, all the
+skills that it's calling, and then on
+the right-hand side is the output. Is
+that the right way to look at it? That's
+exactly it.
+Yeah. So, then what what we do is you'll
+also have an analytics dashboard for
+these. So, in the analytics, you can see
+here this is the usage that we've done
+to date in the month of April. And when
+that comes up, it'll show a breakdown of
+the
+the amount of tokens that were used both
+in and out. So, you can see here this is
+just from at running our our assessments
+a couple of times and then you'll see a
+cost breakdown, which is ultimately what
+people care about, right? So, we run it
+on on the managed stack for Anthropic.
+This cost us $2.58
+to be able to use the token as a
+service. And now, we can cut a a
+realized amount of expense that we're
+doing for this. So, for anyone that is
+operating with a business,
+doesn't want to manage their
+infrastructure for some of these
+products where in the case of our our
+assessments where we will actually
+charge $1,000 for these working with
+clients, this is a very minimal fee to
+be able to factor into have all of the
+the technical details be completely
+figured out.
+Right. That's kind of what I was where I
+was going to go with this. It's like
+one, how much does this cost and you've
+kind of broken that down, but two, it
+really comes down to the use case that
+you're using a managed agent for, right?
+Like if you're like if you're if you
+built a managed agent to just do things
+like for yourself or within your
+business internally,
+it's probably going to be pretty
+expensive and you better make sure that
+what it's doing inside your business is
+producing real ROI, whether it be you're
+making more money, you're saving a ton
+of time, or you're increasing the
+quality of your product, because it's
+probably going to be pretty expensive to
+run at scale. Now,
+on the other hand, if you if you've got
+a Claude managed agent that you're using
+to fulfill a service or to fulfill a
+product in your business, and like you
+said with our AI tools assessment, we're
+charging a thousand dollars for that
+deliverable, and it's costing us,
+according to the screenshot, $2.58
+to have a managed agent fulfill that
+process end to end, I mean, that's
+obviously worth it for us. So, I think
+just for the audience, it's like managed
+agents is great,
+but it's expensive, and depending on
+what you're using it for, it might be a
+good fit for that workflow, and it might
+not be a good fit. You might be better
+off going and using the Claude agent
+SDK, running something on your own
+infrastructure to do something that's
+going to be, you know, very compute
+intensive, because that's going to end
+up saving you a lot of money over time,
+right? Or even something like, Nick, I
+would assume, like an open Claude agent
+that you're running on a a much cheaper
+model to do some just internal
+housekeeping stuff in your business is
+probably going to be a much more
+cost-efficient option than, you know,
+using a Claude managed agent for stuff
+like that. Is Is that kind of looking at
+it the right way?
+It is, and it really it it gets us right
+into
+the next steps for these, right? So, we
+we gave you the clearly explained
+version. There's more that we can do
+with this, right? So, if you're
+interested in Claude man- Claude managed
+agents and want to learn more, both
+Corey and I both have articles out on X
+that go into the introduction of it and
+how you can deploy your first agent, and
+both of those will have the the actual
+Google Doc that shows you how to get
+started. So, go ahead and play with it a
+little bit. I think that's the biggest
+thing is you can do a lot of this
+testing, especially if you're using the
+CLI to to be able to set everything up
+locally first, and then when you deploy
+it is when you're going to start
+incurring the credits or the the API
+costs that are associated with the
+service.
+Right. Yeah, and you did a great job
+explaining it very clearly, which was
+the goal of this video. So, for the
+folks in the audience, again, grab that
+Google Doc, link in description or link
+in the show notes if you're listening on
+podcast platforms. Literally, download
+the Doc, hand it to Claude coder code X,
+and it will build and deploy your first
+managed agent for you to, at the very
+least, see what it can do and take it
+for a test drive. And then we will also
+link both my article and Nick's article
+uh that we wrote and published on X
+going into a much deeper detail. We'll
+put those in the description and in the
+show notes as well, so that people can
+dive deeper if they like. So, Nick,
+thanks so much for your time, and for
+everybody in the audience, we'll be back
+next week.

@@ -1,0 +1,273 @@
+in today's video I'm gonna show you how
+to take a normal and a static logo from
+adobe illustrator and then animate it
+using Adobe After Effects After Effects
+allows you to import ai files directly
+into your projects now it's a good
+practice to organize your illustrator
+files first and foremost and that means
+labeling the layers with relevant names
+it's a good idea to have the text layers
+in one folder and then the other
+elements into a different folder so like
+in any other Adobe software we need a
+document and this is effectively what
+you see when you do open After Effects
+we want to set up the specifications for
+our edits and this will be your personal
+preference in the most part but 1080p is
+a good size and 25 frames per second is
+pretty ideal and of course full
+resolution now these are my setup
+numbers that I'm going to be using for
+today's logo animation then it's just a
+case of dragging and dropping the logo
+file right into you after X comp so make
+sure you select import as footage for
+this kind of project directly ai file
+onto your comp so that we can see what's
+going on properly and then right click
+and then select create convert to
+layered comp this turns the alliterative
+file into its own pre comp so now we can
+go inside the pre comp and click on the
+logo and right click create to create
+shapes from vector layer this is going
+to turn the vector into a path which
+means we can now animate this very logo
+in After Effects this new path layer
+that we created is called logo outlines
+copy and paste that into your main comp
+with command or control C and command or
+control V so we need to line it up into
+the 1080p composition and to do this we
+can use the grid to be properly precise
+and we can also toggle the grid on or
+off throughout the entire logo animation
+and the shortcut is command or control +
+' on your keyboard also of course it's
+here in the drop down menu
+so in today's video we're just going to
+add some subtle animation and also some
+shape more things so the logo ends up in
+the resting and finished position and so
+as you can see on screen we do have a
+few different paths that make up the
+logo there are the main shapes each of
+the eyes the horn on the ball and of
+course also the text objects it's
+important to know the difference between
+these different shapes when you start
+animating a lot of the workflow in
+after-effects works the same as an
+illustrator and you can drag and move
+around points and paths as you would do
+in AI and this is one of the up shots of
+using a DB Creative Suite or you know
+any kind of Adobe software because the
+workflow is pretty much the same
+throughout
+now keyframes are essential to animating
+anything and you're going to be using
+them a whole lot we create a keyframe
+that acts as the be a position and this
+is going to be the final leg of shape
+position at the end of the animation
+and then we move back in the timeline by
+dragging the playhead to position a with
+a different keyframe here is the button
+you press to add them and you can easily
+move between keyframes and to do that
+you click the arrows next to the diamond
+this offers better precision and is good
+for dealing with multiple different
+keyframes the clock watch icon is where
+you add the first ones and this simply
+means that we are allowing this property
+to be animated using keyframes clicking
+this also creates the first keyframe
+when the clock watch is blue that means
+the key framing is activated and you
+should see the keyframe on the timeline
+so we use a diamonds to add the second
+keyframe for each path and we would do
+this to add subsequent keyframes if we
+were to add more when animating and
+editing of specific parts we work on a
+linear line right here and whatever the
+path is we were animates and work
+specific parts of the logo if position B
+is the last keyframe and where the logo
+finishes I'm dragging in the timeline
+back to the first keyframe to
+the edits to the animation and to edit
+we need to use the arrow tool found here
+remember the playhead in the timeline
+needs to be on the relevant keyframe or
+an additional keyframe automatically be
+added when you start moving points
+around this is where using these small
+arrows by the keyframe diamonds are
+useful to ensure you are in the correct
+keyframe and therefore the correct frame
+so now it's just a case of making edits
+to the logo and dragging the playhead
+between the keyframes to see how the
+animation operates when you animate a
+logo is a good idea to understand the
+background of the client and their
+industry and so for example this logo is
+for a stock market trading company and
+so we can add some movement in the bull
+and the bear figures but also we can
+have the rising bars actually rising you
+want to make the animations relevant to
+the logo as what I'm trying to say and
+it is going to take some getting used to
+like with any kind of software out there
+and this is the case of playing around
+with things until you have the animation
+correct in your opinion the animation on
+the heads of the animals is done in a
+way so that they're pushing outwards
+from the main shape as well as both of
+the eyes and the movements are quite
+subtle but yet effective
+a neat trick in After Effects is to
+quickly show all the keyframes affecting
+one layer and to do this you hit you
+with that layer selected this gives some
+more organization to the panel and it
+makes it more clean and just easier to
+manage highlighting the relevant
+keyframes will now go to animation
+keyframe assistant and easy ease what
+this does is it creates a nice ease out
+between keyframes as opposed to having
+everything moving at a constant speed
+think about it in real life everything
+accelerates and D accelerates so you
+want things to not come to an abrupt
+stop so you can click this graph icon to
+see what has been done and you see that
+each keyframe has these handles dragging
+them inwards and we can create an even
+stronger easing or ease our effects so
+the best thing to do with the graph
+editor is to play around and see what it
+can do to your animation a lot of it can
+be trial and error and over time this
+will become more natural but well time
+movements between keyframes can really
+elevate the finished product so with
+that simple motion finished we can then
+move on to some of the text as we're
+only going to be adding a very simple
+motion to the text we're going to
+convert these to shapes as we do with
+the logo and then copy them into our
+composition so I'm going to show you how
+to animate one letter without having to
+show you every single letter select the
+correct letter and then set up the
+keyframes and the timeline I'm going to
+then adjust the position on the y-axis
+here so the letter starts at lower than
+usual dragging the playhead or pressing
+spacebar shows how the Edit works then I
+can lower the opacity at the start of
+the animation so the tanks fades in
+again working with keyframes this will
+become more natural with time and I
+think I should make an entire video for
+beginners actually playing back the
+animation it's starting to look pretty
+decent and we're going to add some more
+smoothing effects later but now once add
+a fade up on the bottom logotype so
+again make sure to select the right to
+layer in this case the lower
+text and then set up the keyframes I
+want the end result to be 100% opacity
+and then to start at 0% opacity and to
+make sure this affects every letter on
+the logo type below I'm going to add
+keyframes like so to each letter so it
+looks pretty good and we are getting
+there
+but let's add some effects that will
+really set off the animation we're going
+to want to have the main logo on its own
+pre comp and you do this by right
+clicking and then going to pre compose
+this then allows us to add additional
+animation properties to this already
+animated logo we're going to be having
+this shape full and rotate downwards
+into place and we're doing this by
+keyframing the scale and rotation
+properties in the pre comp again we will
+use the graphs to really refine the
+movements of this animation and also
+we're going to keyframe the opacity of
+the pre comp so that it does fade in
+lots of fades and lots of easing in in
+this local animation but it does does
+look effective we also again want to
+make use of the easy ease effect that
+makes everything that much more fluid
+and smooth and to add a bit of scope to
+our motion let's check this wireframe
+cube on the pre comp layer this allows
+us to move the layer in 3d spaces as
+opposed to just X on Y axis and we're
+going to use this to add some rotation
+towards the camera
+this basically allows animation to
+function in a 3d space more so than
+usual we're coming close to the finished
+products but next we're going to search
+in the effects panel and add a cc
+twister and again this will add more
+three-dimensional attributes to the logo
+we can add keyframes to the effects
+completion to see the effect fully you
+will see this gives the logo a kind of
+ripple effect as it comes in and lands
+in the final position
+so remember do let me know if you want a
+begin as a basic style video as this
+might be too heavy for some of you
+and the final effects we shall add a CC
+light sweep line sweeps are used a lot
+in logo animations as it's a good way to
+drool the I've to the form of the logo
+now you might want to play around with a
+few settings to get there light effects
+that we want and then animate the center
+parameter so that moves across the logo
+this is quite a cliche effect but I
+think is something you need to be aware
+of and so I'm throwing into this
+animation and so finally it's time to
+add a motion blur to the logo animation
+and we can do that by toggling this
+button here with the three disks motion
+blurs can be a real easy way to add some
+professionalism to animations after
+effects motion blurs are actually pretty
+great for search and automated tool and
+of course we can change the background
+to whatever we'd like in the composition
+settings and that's pretty much it
+you're ready to export your logo
+animation that was something a bit
+different today and I hope you did learn
+something new about animating logos or
+pretty much anything in After Effects if
+you want to see more creative tutorials
+or just graphic design videos in general
+do click one on screen right now and of
+course subscribe for future graphic
+design content and it's next time guys
+design your future today peace

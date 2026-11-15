@@ -1,0 +1,1222 @@
+Here are seven AI services
+that are disrupting the market right now
+and that
+boomer companies need.  I
+sold each of them myself:
+from a thousand dollars for an
+AI audit to a thousand
+dollars per hour for an
+AI concierge service,
+plus five additional
+offerings that can be
+sold for three to ten
+thousand dollars or
+more.  I'm going to
+take apart all seven.  I'll
+show you why they're
+bought, how to create
+each one, what price
+to set;  and if
+you watch until the end,
+I'll show you a complete
+implementation proposal at
+the top of the hierarchy, as
+well as a subscription model where
+customers
+pay you
+monthly.  So
+enjoy, and we're
+getting started right
+now.  The first
+offer in our
+arsenal is an AI audit.
+There are several reasons why
+this is the best
+offer to
+start with.  This is kind of the
+foundation for everything
+else we'll
+look at, for several
+reasons.  First, you
+don't need experience or
+expertise to
+sell AI auditing, because
+all we do is
+tell them what to
+do.  We
+don't create anything
+during an AI audit, we don't
+implement anything, we don't
+automate anything—we
+just identify
+opportunities.  So we'll
+go through the "what", "
+why", "how to create",
+and "cost" for each
+of them.  As for AI audit,
+the “what” is paid
+diagnostics.  We will
+conduct a 45-minute
+interview with the
+business owner to identify
+their bottlenecks.  We'll
+just ask
+specific questions:
+what do they do
+manually, where is the
+work piling up
+, and where artificial
+intelligence can
+help.
+The result in this
+case is a comprehensive report
+that shows three out
+-of-the-box AI
+tools
+they can
+implement immediately
+to save time or
+money.  Do you understand?
+So, this is the “what”—after
+all, it’s a
+diagnostic
+call and a
+prepared report.  I have
+made available the
+report template that I
+myself use to
+conduct these
+audits.  We'll add a
+link in the description and
+release notes
+, or you can
+go to audittemplate.ai and
+download this
+template for free.
+This is the exact template
+I use
+to conduct
+$1,000 audits
+.  So, the “why”—why
+should anyone pay for this
+?  Because
+think about how many
+business owners are
+stuck in the
+mundane business of
+their company right now.  They
+work 50, 60, 80
+hours a week.
+They don't have time
+to figure out which
+AI tools are right
+for
+their business and
+industry.  So this report
+aims to cut through the
+noise and clearly
+identify where they
+can apply
+AI, as well as
+quantify the return on
+investment from these
+tools.  And that's
+before they
+spend a single
+dollar on the
+tools themselves or their
+implementation, right?
+So, we're just giving
+them a roadmap.  It's
+like we're writing them a
+prescription, almost like a
+doctor.  So about
+creation: how do we
+shape this
+proposal and how do we
+implement it?  During a
+45-minute call
+with a business owner,
+we have an AI
+note-taker present,
+transcribing the conversation
+.  I like to
+use an AI
+notepad called
+Fathom.  So once we
+finish the call,
+we take that
+transcription,
+upload it to Claude
+, and then Claude identifies the
+specific problems
+that the
+business owner mentioned and
+then searches the
+internet for
+tools that are
+ideally suited
+to solve those
+problems.  After that,
+we create a report using a
+tool like Gamma
+or Claude Design.  Claude Design
+is what I am currently
+using to
+create this
+report.  And then we
+do a 30-
+minute review
+call with the
+business owner, where
+we just
+show the screen
+with the report and
+go line by
+line, saying, "Hey,
+here's the problem we
+found. And here's the
+tool that can
+fix it."  And it's
+really that simple.
+And then we ask,
+"Do you want us to
+help you
+implement what we've
+discovered?"  This leads to
+all the other six
+services we'll
+look at today.
+As for the
+pricing,
+I initially priced it at
+$499, just to
+get in the door and
+get some initial
+feedback.  Today we are
+selling this same
+grade for $999.
+And the beauty of this assessment, the
+reason we
+look at it
+first, is
+that 50, 60%, sometimes
+more customers
+move into the
+implementation phase, which is
+part of the offerings
+that we'll look at
+next.  I remind you again:
+get the
+report template at audittemplate.ai or
+from the link in the description
+if you want to
+get the exact one
+to provide these
+reports.  It is ready
+to use,
+very easy to
+implement.  OK.
+Next, we have our
+AI
+concierge offering.  And this is my
+favorite suggestion.    In fact
+, this is where
+I
+currently earn
+most of my
+personal income.
+So, what is an AI
+concierge?  AI Concierge
+is a monthly
+subscription or
+retainer based on the
+“let’s do it
+together” principle, where we sit
+side by side with the
+business owner on
+Zoom, of course, and work with
+them to implement AI into
+their company.
+Right?  We
+show them where to
+click, what to write
+in queries, how to
+implement AI, and 99% of
+our work is
+helping them
+use Claude, Claude
+Co-work, and turning
+their manual
+processes into
+Claude skills.  If you want
+me to make a detailed
+video on how we
+build
+Claude skills for
+business owners, write "
+skills" in
+the comments, because I've
+received such
+requests before.  If
+people want to see
+exactly how we build
+these skills, write "
+the comments and I'll
+do an in-depth
+review, because that's the
+foundation of our
+collaboration.  We
+study their manual
+processes and
+turn them into
+Claude skills.  But why are
+people willing to pay for it
+?  Because these
+small
+business owners aren't
+big enough to have a
+full-time
+AI expert or a dedicated
+employee on the
+team.  So, you
+become their
+de facto
+AI expert, helping
+to set up
+tools,
+automate
+workflows, and
+teach them how to
+use Claude
+Co-work.  And the whole
+appeal of this
+cooperation is that
+the value grows every month
+.  So, even though we
+charge them $1,000 to
+$2,000 a
+month for this service,
+they do
+n't just benefit
+once.  What we build
+in the first month
+complements what we
+do in the second,
+third, and so on.    The
+creation process
+begins with a questionnaire,
+which we develop in
+Jotform.  We take this
+questionnaire, and we have a
+Claude skill that
+reads it and
+converts
+the information into six
+context files,
+which we then add
+to a separate Claude project
+for that client.
+So, whenever
+we do
+any work for
+this client, we
+do it within the scope of
+their specific
+project at Claude.    This gives
+Claude
+full context of everything the
+client does, everything about
+their business, and everything
+we work on
+together.  So, this
+registration form, a skill
+that converts the
+registration form into
+project files, and
+three additional
+skills that
+automate the entire
+administrative side of the
+AI ​​concierge process
+so that all we have to do is
+come in for two
+45-minute calls
+each month with the client.
+We include all these skills, registration forms, templates, etc. in
+our community and
+school, AI Operator Academy.  So,
+get this AI
+concierge and
+turnkey AI assessment business
+with all the skills and
+results,
+join us at
+AI Operator Academy.  The link
+will be in the description or
+release notes,
+or you can go
+to aoa.community and
+join us
+there.  We have
+a lot of people in our community who are
+achieving great
+success selling
+AI assessment
+and AI concierge services
+because we give them
+this whole business “turnkey”
+.  So, the
+construction process is quite
+simple.  During
+the calls, as I
+said, we simply
+convert their
+manual processes into
+Claude skills, and we do
+it in two 45-minute
+calls per month.
+So we're pricing it, I'm
+currently
+pricing it at $2,000 a
+month.  I have
+clients who
+pay that much.  This means
+that if I do
+two 45-minute
+calls a month, I
+make over
+$1,000 per hour.
+When people first
+start working as
+AI concierges, they
+usually charge
+$1,000.  So their
+effective hourly
+rate is
+approximately $750
+per hour.  When you
+take 1500 a month,
+you make 1000
+dollars an hour,
+right?  If you take 2000
+a month, then you
+earn approximately
+, I think, 1250 dollars
+an hour.  And the reason
+we can
+set such a high
+price is because
+we are not
+tied to
+the hours of our work.
+It doesn't matter.  We
+commit to the
+number of hours
+we save for
+the client.  A great
+example of this: one
+of my clients, he's the
+CEO of a
+large fintech
+company.  We created the
+Claude skill during
+our collaboration with the AI
+concierge, which
+automates the process of
+sending reminders
+to the entire company.
+She does all the
+research work
+for him, so all he has to do is
+check the quality of
+the memo, make
+a few edits, and
+hit "send
+."  This process used to
+take him 2
+hours a week, but
+we reduced it
+to about 10–15
+minutes.  So this is a
+person whose time
+is worth thousands of
+dollars an hour.
+So, we actually
+saved him
+thousands of dollars a
+week on an ongoing
+basis by implementing
+this during our
+collaboration.  So he's
+more than happy to
+pay me
+$2,000 a month to
+find such
+opportunities.  This is what an
+AI concierge does, and this is what
+we teach
+people at the AI ​​Operator Academy.
+We help them
+start their
+AI concierge business.
+So the next
+process or the next
+proposition that we
+can sell—I've
+sold it myself—is
+process redesign.  Is
+n't that right?  Now it's very
+simple in its essence
+.  This actually has
+nothing to do with
+artificial intelligence.
+This has nothing to do
+with
+automation, but
+it fuels the AI ​​stage
+or the
+automation stage.  Because
+this proposal is
+literally just a
+fix for a
+broken process.  Is
+n't that right?  We simply
+reflect the
+broken
+workflow, remove the
+excess, and
+rework it
+around AI.  A good
+example of this, and this is one that
+sold myself, was a business
+owner who approached us
+.  He was an
+e-commerce seller
+.  He sold
+mostly through Amazon.
+And he had a
+workflow that took
+about 10 hours a
+week, which was the
+process of analyzing his
+advertising spend
+through Amazon.  So, when
+it came to us, it
+was an extremely
+manual process.  This
+took him 10
+hours a week.  It
+involved, you know, a bunch of
+different steps, like
+looking at different
+pulling data
+from here, copying and
+pasting into different
+tools.  And so, it would be
+bad on
+our part to just
+automate this
+process, because it was a
+broken process.
+Why would we
+automate a
+broken process that will
+only accelerate
+inefficiency?  So
+instead, we sold
+him a complete
+process redesign first for
+$3,500, saying,
+"Hey, we'll
+fix this process first,
+and the fix itself
+costs $3,500."  We
+will not
+automate anything.  We
+will not be adding
+any AI.  We'll just
+take your
+25-step manual process and
+reduce it to 10.
+Right?  And it
+cost $3,500,
+and he paid for it
+because there was value in it
+.  So, we
+were able to reduce this
+manual process from 10
+hours a week to
+about one
+hour a week, which
+then paved
+the way for the second
+phase—actually
+automating this
+process, which is a separate
+phase of the collaboration.
+So, again,
+think about
+customer onboarding processes, or creating
+sales
+proposals, or all these
+different workflows
+that a lot of
+companies have that are
+incredibly manual.  And
+before we can truly
+automate them, we
+need to fix the
+process itself, eliminate
+waste, and make
+it ready to be
+driven by AI.  And that's
+exactly what we're
+doing here.  So what's
+great about process redesign is that
+when we do an
+AI assessment, it becomes a
+really good way to
+upsell the
+process redesign.  The assessment can
+reveal a process
+that is taking up a
+lot of time and that cannot
+necessarily be
+easily fixed with an off-the-shelf AI
+tool
+.  So we can
+offer
+process redesign as an
+upsell after
+the assessment, where, you know,
+fixing just
+one process
+will pay off the entire
+collaboration.  This is a kind of
+ROI that we are
+targeting.  So the
+development process for a
+redesign is
+interviewing the
+process owner, finding out
+how they're
+doing the process
+today,
+documenting the
+current state, and
+then designing the
+future state,
+right?  What does
+the ideal future
+state look like with
+losses eliminated?  And then
+the result in this
+case is a map of the
+current state of
+the process, a map of
+the future state, and a
+development plan for
+how we automate
+this with AI.
+So, essentially, the
+result is an
+automation plan, and if
+they want to hire
+us to implement it
+, that's a separate
+collaboration.  We previously
+estimated
+process redesigns in the range of
+$3,000 to $5,000.  This is a
+fixed price project.  We
+limit it to one
+specific process.
+And if they have multiple
+processes to
+fix, then it
+will be multiple different
+projects, and therefore
+multiple different payments.
+The fourth thing we
+can create and
+sell is just
+simple automation
+, right?  When you
+automation,
+think of
+tools like Zapier
+or make.com.  These
+tools have been around for
+over 10 years.
+They are still relevant.
+They are still great
+when
+the process has a very
+specific input and a
+very specific
+output.  This
+will happen the
+same way every
+time.  This is where
+workflow automation tools like
+Zapier and make.com
+work really well.
+And also when the process
+includes ready-made
+tools that
+easily connect
+to Zapier or Make.com.
+A great example of
+this that
+we've sold in the
+past is a
+wedding planning business.
+They had an
+onboarding process for new
+customers.  When a new
+client joined
+or paid
+an invoice, their
+project manager
+had to go into Asana, a
+project management tool
+, and manually duplicate
+a bunch of templates and
+assign
+responsibilities for
+each process, even though the
+input and
+output were the
+same every time.
+She did the same
+duplication job for
+every new
+client.  They were
+getting, I think,
+three to five
+new clients a
+month, and it took
+her about 30 minutes
+per client.  So, it
+was a two to
+four hour a
+month process, about 1
+hour a week,
+but this is an employee
+who was paid,
+say, 80 or 100
+thousand dollars a year.
+And as
+their business scaled,
+the amount of work required was bound
+to grow as well.  So we
+sold them this simple
+process automation for, I think
+, about $1,500.
+This completely
+relieved their
+of this
+workflow,
+automating it
+100%.  So in a year,
+when they have,
+say, 10, 15, or 20
+month, it won't
+take up any more of the
+project manager's time, in fact it
+won't take up any of her
+time at all.  So,
+again, the
+input was simple and
+straightforward, the
+output was
+simple and straightforward, the
+process was the same every time
+.  It's a quick
+and noticeable win
+when you get
+free hours in the
+first week, and
+no
+behavioral changes are required from the team.  This is an
+example of simple
+workflow automation.  We
+define the scope and
+build it like this:
+we take the main manual
+task from the
+assessment we conducted.
+First, we did
+an assessment for them, then we
+just created a
+workflow in Zapier,
+recorded
+a video tutorial, and
+prepared a
+reference document
+to explain, "Here's how
+it works."  Here's how the
+process works if
+something goes wrong in
+the future.  Then we
+hand it over to them, and from
+that point on, they're
+ready to go,
+right?  So, regarding
+pricing:
+we can usually
+set a price between
+$1k and $3k
+if it's a fairly
+simple
+workflow.  If it's a more
+complex
+workflow with many
+steps, you can of course
+set a
+higher price.  But
+it's usually a deal worth
+between $1,000 and
+$3,000.  This is the
+easiest level
+to sell to, aside from
+valuation, and the best
+entry point if you are
+new to AI
+or automation.    The
+next proposition
+is what we
+call a
+knowledge system, right?  This is either a
+custom GPT or a
+project in Claude
+trained on
+client content or data for a
+specific task
+.  A good example:
+we have a business
+broker client who, when
+putting his business up
+for sale, received
+400-500 emails from
+buyers asking the same
+questions.  He
+spent an hour or
+two every day simply
+answering these
+questions
+using template
+letters.  So we
+decided to create a
+custom GPT
+trained on the
+marketing
+materials of this
+property so that buyers
+would communicate with it instead of
+writing to our
+client.  After
+testing, instead of 500
+emails, he received
+only 10, and both
+parties noted
+the service as the best
+because they could
+receive replies 24/7
+via GPT.  This is an
+example of a
+knowledge system.  The reason for
+the implementation
+is obvious: if you are
+constantly asked the same
+questions, like our
+broker, it is easier
+to create a system where
+clients can
+find the answers
+themselves, without distracting
+the owner.  Creating
+such a system was
+relatively simple.  We
+simply collected all the
+broker's marketing documents.
+Also all his
+transcripts of conversations
+with the seller.  We
+structured them into
+context files and
+loaded them into a
+custom GPT.  The same
+can be done in the
+Claude project.  The next step is to
+teach
+stakeholders, in
+this case
+potential buyers
+, that they should
+contact the
+custom GPT with any questions.  Instead of
+writing to my client
+Ron in the mail.  It's
+very simple.
+We charged
+him $3,000 for this work.  This is the
+base price for such a
+knowledge system,
+as it is
+extremely
+effective and its
+benefits grow over
+time.  Do you understand?
+You might save
+the client two hours in the
+first month, but you'll
+save them
+time in the second,
+third month, and so
+on.  And as
+his needs
+grow, it
+will save him more and
+more time.
+So, 3 thousand is a kind of
+base
+amount that I would take for a
+system of knowledge.
+Next will be any
+individual
+workflow.  It
+could be, you know,
+custom queries,
+templates, or, well, by
+2026, it's usually something like a
+specialized
+skill.  A Claude
+or Codex skill that turns a
+manual process into a
+one-click operation.
+This is ideal
+clients who have a
+process where there is no
+direct input and
+output to
+set up
+automation through
+Zapier or make.com.  This is for
+those workflows
+that are
+business-specific,
+unique, and
+may require
+some judgment.  This is where
+creating
+Claude's skills is a really
+good solution.  This is
+really ideal for
+customers who are already
+using AI to some extent.
+They already
+use Claude or
+ChatGPT.  And this is a proposal
+that will take them from
+amateur
+use of AI to
+true
+systematicity.  They will
+be able to get
+consistent results
+from any team member
+using
+skills built
+on their
+processes.  A good
+example is one of
+my clients: we
+created
+a skill for her called Claude, which
+automates the podcast
+creation workflow
+.  For example,
+before creating
+this skill, every time she
+recorded a
+podcast, she
+would go to ChatGPT,
+paste the transcript,
+and request a
+post for LinkedIn.  Then
+she would take the same
+transcript, start a
+new chat, and ask me
+to write a letter for the
+newsletter.  In fact,
+she took the
+same transcript and
+performed
+four or five
+different tasks on it in ChatGPT,
+one after the other.  And although
+she used
+AI, the entire process
+took her 30 to
+45 minutes per episode
+to get the
+desired result.
+We took this process and
+turned it into not
+one, but several
+different Claude skills, and
+then created the so-
+called
+orchestrator skill: now she
+only needs to run it, and Claude
+sequentially executes
+all the sub-skills,
+giving the desired
+result in about
+5 minutes.  So, if
+she does one
+podcast a week, which she
+does, then this
+workflow
+saves her about
+45 minutes every week
+for the duration of her
+podcast.  This is an example
+of what I call a
+custom
+workflow—something that is highly
+valued by a client
+who is already
+using AI, but
+now we
+are turning their
+use of AI into a
+much more
+systematic
+process.  How we
+build it: We
+audit
+how they
+use AI
+today and look for
+opportunities where they are,
+say,
+using the
+same prompt
+or performing the
+same
+workflow within AI
+but haven't yet turned
+it into a skill.  And then
+we just take that
+process and
+turn it into a
+skill, right?  And
+after we
+create a skill, we
+train the team on how
+to run that skill,
+when to do it, and how to
+edit it.  So
+if something changes in the future
+, they won't
+have to
+contact me
+to fix
+the skill;  we can
+give them the ability to
+easily edit it
+and adapt it to
+any changes in their
+workflow in the
+future.  So, for a
+workflow, we charge a price of
+$3,000 to $5,000.  This is more of a
+fixed price opportunity.  And
+here we estimate
+the cost depending on the
+workflow library itself, right
+?  So if we
+create, for example,
+different skills for my client, the price
+is set
+for those skills,
+right?  We don't
+set a price per
+prompt, we don't
+hour, we
+charge for a fixed
+result.  And in this
+case, it will usually
+be one skill or
+set of skills.  And
+finally—full
+It's kind of a complete
+package, which I
+think consists of
+everything we've
+talked about so far, like a
+kind of
+constructor,
+right?  There are clients who
+may need three
+skills for Claude, a
+knowledge system, and
+a few
+workflow automations in
+Zapier.  Or maybe they
+need, say,
+two months of AI
+concierge, a few
+skills for Claude, and a
+knowledge system.  The point is
+that a full
+implementation is a
+combination of any of the
+suggestions
+we mentioned earlier.
+And for this we can
+charge 5, 10 thousand or
+more for a full
+range of work.  And this is where
+we really
+get into the
+details of what
+they actually
+need, determine
+the scope of work and the
+corresponding price, which is why there is
+such a wide
+range.  Why is this
+important?  This is a
+great proposition for an
+AI-focused business owner who
+wants most
+operational processes
+to happen without their
+direct
+involvement, or at least
+without the need to
+approve every
+step.  So, this will be probably the
+biggest
+transformation and the
+biggest return on
+investment, so you
+can demand the
+most payment for it.  This is
+an option for a
+business owner who wants to
+have something like an
+AI-based operating system for certain
+departments of their
+company.  The
+development process here
+usually does
+not start with full
+implementation.    This is
+usually something
+we gradually
+move towards.  So
+if you are new to
+selling these services, I
+wouldn't recommend starting with a
+full
+implementation offer.  I would
+recommend
+only proposing a full implementation
+after you
+have completed 5-10 smaller
+projects, and it is always a good idea
+to determine the
+scope of work based on an
+estimate.  So, valuation
+is always the foundation,
+so I say:
+start with valuation, and
+it will tell you what
+to sell next.  Once
+we have done the evaluation and have
+already sold 5-10 smaller
+projects, we have
+some experience, we know
+what we are doing, and we can
+build agents,
+AI-based operating systems, or complete
+workflows for
+businesses, selling it
+for five to ten thousand
+dollars and more.  With
+full implementation,
+we not only charge
+five to ten thousand
+dollars or more for
+development, but also
+want to receive a
+monthly
+subscription fee for
+system support.
+Usually this is 10% of the
+development cost as a
+monthly payment.  That's
+about $500 to
+$1,500 a month
+just to
+keep the system
+running
+smoothly and be
+ready to quickly
+fix anything if
+they arise so the
+business owner is
+happy and
+continues to pay
+you every month.  So,
+to summarize: full
+implementation is
+simply a combination of
+discussed so
+far.  Every business
+has its own unique
+needs, but this is, so
+to speak, the highest
+rung for which we
+can ask for the
+highest payment and,
+accordingly,
+earn the most from it.  So,
+I hope this video
+was helpful to you
+.  Again, if you
+want to learn
+exactly how to sell AI
+audits and AI
+concierge services, which I
+believe are not only the
+easiest to
+sell, but also the
+execute due to
+their standardization
+, I invite you
+to join the AI ​​Operator
+Academy.  Here we
+help you get your
+first client for an AI
+audit or AI concierge in
+less than 90 days, and
+if you don't succeed,
+we'll refund every
+dollar spent on
+joining our
+community.  You can
+join via the
+link in the video description or
+notes,
+or head over to
+aoa.community to become
+part of the AI ​​Operator Academy.
+Thanks for watching, and
+see you
+soon.

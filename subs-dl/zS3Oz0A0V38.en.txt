@@ -1,0 +1,518 @@
+You're in the right place if you're
+finally ready to build your AI-powered
+second brain because in this episode,
+I'm going to be showing you how to build
+a compounding knowledge base that
+actually gets smarter over time.
+Specifically, I'm going to be showing
+you how to use an AI agent called
+Hermes, which is an open-source AI
+agent, which is kind of like Open Claw
+but a lot smarter and a lot easier to
+set up. So, in this video, we are going
+to be breaking down the why behind using
+Hermes and not other popular tools like
+Claude Code, Obsidian, how to quickly
+and securely set up Hermes with zero
+code required, how to set up your second
+brain with Hermes, and then how to test
+it to make sure it works. So, by the end
+of this episode, you are going to have a
+fully functional AI-powered second brain
+giving you and your business a massive
+advantage against your competitors. So,
+let's get started. So, why are we using
+Hermes versus a Claude Code or an
+Obsidian? Those are the two most popular
+tools that everybody talks about when it
+comes to building a second brain, and
+there's a couple of reasons. So, first
+and foremost, Hermes has a built-in
+skill that comes off the shelf called
+the LLM Wiki skill, which is literally
+the second brain function built into
+Hermes. So, let's talk about what that
+looks like. So, first and foremost, with
+this skill, there's a division of labor
+between you as the human and the Hermes
+agent. So, you as the human, your job is
+to curate the sources. Your job is to go
+out and find the data and the references
+that you want inside of your second
+brain. Now, the Hermes agent's job is to
+summarize and file that away for future
+you. So, what does it look like uh as
+far as the core operations of the Hermes
+agent and filing those away? So,
+the first thing it's going to do when
+you give it a new reference file, let's
+say we give it a tweet or an article or
+a website, it's going to ingest that
+that document and add it as a source to
+your wiki. So, it does that
+automatically based on the built-in
+skill.
+The next thing that it's going to do is
+when you ask the Hermes agent a specific
+question, it is going to query your
+wiki. It's going to look at anything
+that you've given it as a source,
+anything that it's ingested, and give
+you your answer based on the query that
+it did to your knowledge base. And then
+lastly, the third core operation is
+what's called lint, which is an audit
+{slash} health check of the wiki. So,
+you can run the lint command. Uh best
+practices to do this once a month. And
+what that's going to do is the Hermes
+agent is going to look at your entire
+knowledge base, your entire second
+brain, and it is going to determine do
+we have any uh sources that are
+contradictory? Do we have any sources
+that are more than 90 days old that are
+likely out of date? Do we have any
+sources that are too long? If there are
+sources over, I believe it's 200 lines
+or or maybe it's 200 pages, Hermes will
+flag that automatically as uh a source
+that can potentially be split into
+multiple individual sources, which will
+make the querying function of those
+sources a lot more accurate. And then,
+as far as the three layers of the
+knowledge base, uh when it looks If you
+were to look at it under the hood,
+there's only three layers, right? So,
+there's layer one, which is the raw
+sources. This is what you as the human
+are giving it to ingest. So, these files
+are read-only. The Hermes agent does not
+touch the raw sources. It simply ingests
+them, right? The second layer is the
+actual wiki itself. This is the
+agent-owned, essentially, web of
+different markdown files. So, the Hermes
+agent is going to take the files that it
+ingests that are sitting in layer one,
+and then it's going to organize them
+into a wiki.
+So, then layer three is the actual
+schema, the structure and the tags that
+the Hermes agent builds out in order to
+make the querying operation easy and low
+friction. So, it's going to apply
+certain tags, it's going to create an
+internal structure to make the querying
+a lot easier. Now,
+again, why are we using Hermes versus
+Claude code or something like Open Claw
+or Obsidian? Now, the only reason you
+would really need to use Obsidian for
+your second brain or for your knowledge
+base is if you as the user plan to look
+at the files or edit those files
+yourself. Right? Me personally, I have
+no desire to ever edit my knowledge base
+files by hand or even read them by hand.
+If I want to ask a question or I want an
+answer, I'm going to just ask my Hermes
+agent. So, the only reason you would use
+Obsidian is if you want to look at those
+files yourself, but it's a lot easier
+just to go through your agent. Now,
+Hermes as an agent has a self-improving
+built-in learning loop installed in the
+agent out of the box. So, Open Claw is
+notorious for forgetting things and for
+going off track and not and losing
+context. Hermes has a built-in learning
+loop where it will literally proactively
+create skills that it thinks you need
+and log learnings over time to where it
+actually gets smarter the more you use
+it. It's got a built-in scheduler for
+recurring tasks that actually works,
+whereas Open Claw is notorious for the
+recurring tasks, otherwise known as cron
+jobs, to forget to fire or not work
+properly.
+Just like Open Claw, Hermes has
+multi-platform support so you can set it
+up on Discord, Slack, Telegram,
+WhatsApp, Signal, email, etc. Just like
+Open Claw, it will deploy sub-agents for
+complex tasks. It has uh multi-model
+support. You can set it up via Open
+Router or via Anthropic or Open AI, and
+we're going to go into exactly how to do
+that here shortly.
+And it has persistent memory and it can
+search through past conversations to
+know exactly what you talked about. The
+biggest differentiator is the
+self-improving built-in learning loop
+where it creates and refines its skills
+over time. So, next we're going to go
+into exactly how we set Hermes up and
+deploy it on a virtual private server
+inside Hostinger.
+We're going to learn how to quickly and
+securely deploy the Hermes agent on a
+Hostinger virtual private server. But,
+before we jump in, you can grab the full
+Hermes deployment checklist that's step
+step-by-step, super easy to follow in
+the description of the show notes. So,
+that way you don't need to go back and
+rewatch the whole video. Now, why do we
+choose a VPS over hosting it locally on,
+say, our Mac or our Windows PC? And the
+reason for that is when you host it on a
+VPS, it's very easy. It's a one-click
+install and setup. You don't need to
+jump into the terminal. You don't need
+to know how to code. And it's cheaper at
+the end of the day than hosting it on a
+Mac mini, which is going to cost you six
+or seven hundred dollars. Your data is
+private and the availability is always
+on. You don't need to worry about your
+computer turning off and your agent
+turning off with it. So, what we do is
+we come to this link here, and we're
+going to put this link in the
+description. It takes us to the Hermes
+agent deployment page on Hostinger. Now,
+as far as which plan we choose, the KVM
+2 plan is going to be what you need
+here. It gives you enough bandwidth to
+where you can deploy multiple agents if
+you so choose. And you can see here that
+they also have a one-click Open Claw
+deployment. So, we could theoretically
+deploy multiple Hermes agents and
+multiple Open Claw agents on the same
+VPS with this plan here. It gives us
+enough bandwidth. So, what we're going
+to do is we're going to click deploy.
+Now, it's going to give us a couple of
+different pricing options here. So,
+obviously, the best bang for your buck
+is going to be if you do the 24-month
+plan, which brings it down to $8.99 a
+month. Uh you could use my coupon code,
+which in this case is Corey 10, and
+that's going to give you 10% off, uh
+bringing it down to less than
+essentially less than well, $8.09 a
+month, right? You also get a free domain
+with it. So, I think that's a pretty
+good deal overall. Click continue, and
+then what we'll do is we will jump into
+the portal and show you how to set it up
+once you buy your virtual private
+server.
+All right, so once you've signed up for
+your server, what you're going to do is
+you're going to be brought to the
+dashboard here in Hostinger. So, you're
+going to come over here to VPS. You're
+going to find your private server here.
+It might take a couple of minutes to
+actually spin up and be fully running.
+So, make sure the status is the green
+check mark and running first. Once it's
+running, you're going to click manage.
+Then you're going to come over here on
+the left and click Docker Manager. And
+then we're going to click compose right
+here. And then we're going to click on
+one click deploy. Now, there are so 388
+different tools and agents and software
+products that you can deploy on your
+virtual private server at the time of
+recording. But all we're going to do is
+we're going to search Hermes Agent.
+We're going to select. And this is where
+you're going to want to set an admin
+username. So, this is essentially how
+you log in to your Hermes Agent to make
+changes in the future. So, in this case,
+you can just leave the username as is.
+I'm going to set
+a password that I know is secure and
+that I won't forget.
+And then we're going to click deploy.
+So, once we click deploy, you see it's
+showing created, status is created.
+We're going to give it about 30 to 90
+seconds for that to change to a green
+check mark and show running. So, I'll
+come back once it's running and then
+we'll dive into the actual setup.
+All right, so about 2 minutes later,
+you're going to see it's now running. It
+says product project deployed there at
+the bottom. So, to set it up, we're
+going to click the open here.
+Now, that's going to bring us to the
+sign-in. So, this is where we're going
+to enter the credentials that we set
+earlier when we deployed our server, and
+then we're going to sign in that way.
+And first thing it's going to ask us is
+how would we like to set up Hermes? So,
+we want do the quick setup. We're just
+going to click the space bar.
+And in this case, I'm going to choose to
+set it up with the Open AI models
+because most people watching this
+probably have a chat GPT subscription.
+It's probably the easiest to set up. So,
+we're going to do Open AI Codex.
+And in this case, it's telling us, "Hey,
+to set this up, you go to this URL in
+your browser, you enter this code, and
+as soon as you do that, it will have
+connected your Open AI account." So,
+I'll be back as soon as that's done.
+All right. So, all I did was enter this
+code in the tab that popped up when I
+clicked this link, and it said login
+successful. Now, it's going to ask me
+what default model that I want to use.
+Uh 5.5 is the newest model. It's also
+the most expensive. So, in this case,
+let's do 5.4.
+And now, it's going to ask us if we want
+to set up messaging, which I highly
+encourage you do during this phase. So,
+we're going to set up Telegram, uh which
+is going to be the easiest way to
+communicate with your Hermes agent. So,
+let's do set up now recommended. And in
+this case, let's do Telegram.
+And now, it's going to ask us for our
+Telegram bot token. So, I'll show you
+exactly how to get that.
+So, what you're going to do is you're
+going to pull Telegram up, and then
+you're going to search for @BotFather.
+And then, he's going to show up right
+here. We click open.
+And it's going to ask us, uh
+if we want to create a new bot. So,
+we're going to click create a new bot.
+In this case, the name, we're just going
+to call it Corey
+Hermes.
+Uh
+the address we give it, let's just give
+it Corey
+And it's got to end in bot. So, we'll do
+Corey Hermes bot. Create bot.
+Right there, it is giving us our uh bot
+token. So, we're going to copy that,
+paste it into Hermes, click enter, and
+now it says Telegram token saved. So, in
+this case, it's asking if we want to
+give a specific user ID in order to lock
+it down to where only one person at a
+time can talk to our bot. Uh in this
+case, we're just going to leave it empty
+for open access because this is just a
+test.
+Now, it's saying what is the channel ID?
+So, we're going to go and get that.
+Now, we don't actually have to set a
+home channel ID for now. If we leave
+that empty, we can set it later just by
+doing {slash} command set home in the DM
+with our bot, which essentially sets
+your DM conversation with your bot as
+the home channel, and that's probably
+the easiest way to go about it. So, we
+simply click enter, and our setup is
+complete. So, now let's pull up our
+Telegram bot and chat with our Hermes
+agent there.
+All right. So, now that we've got our
+Hermes agent set up in Telegram, let's
+ask it. It should have the LLM Wiki
+skill installed out of the box. So,
+let's just ask it, "Do you have
+the LLM Wiki skill currently installed?"
+All right. So, now it's saying yes, it's
+currently installed and available as the
+LLM Wiki skill under the research
+category. I'm going to say, "Great.
+Let's set up our Wiki. What do you need
+from me to start?"
+Now, I'm assuming it's going to tell us
+it needs a data source or a raw file so
+that it can start to essentially create
+it and file that away. So, I will show
+you guys exactly what we do to quickly
+and easily
+pull files from the internet, whether
+those are tweets or articles or websites
+or whatever, and easily hand them
+directly to our Hermes agent. So, it's
+saying that it doesn't find an existing
+Hermes config or Wiki directory, which
+is perfect. That's true because we This
+is a brand new agent and it shouldn't
+have one.
+All right. So, I asked it. I said, "If I
+can hand you a file, can you begin
+creating our Wiki?" And it said, "If you
+send me a file, I can use it as the
+first source and begin creating the Wiki
+from it." But, it still needs the Wiki's
+domain and purpose and the storage path
+unless you want it to use the default,
+which in this case we'll just have it
+use the default. So, I'm going to show
+you guys the best way to find or
+basically put files into a markdown
+format so that you can easily give them
+to your bot. So, you're going to come to
+the Chrome Web Store and we're going to
+search for Mark Download. Now, it's this
+one here at the top. This is the logo.
+I've already got it installed. But, what
+this does is it acts as a web clipper.
+So, let's just say for example we go to
+X and let's say we want to pull
+one of my articles
+and give that as a wiki source. So, in
+this case we're we come to the article,
+we just click the Mark Download Chrome
+extension and then we can literally
+click download markdown. And what that's
+going to do is that's going to turn the
+content on the page into a markdown
+file.
+So, now let's pull our Telegram back up
+and let's give it that markdown file.
+So, I'm going to do that real quick.
+Pull it in here. So, I gave it the
+markdown file. That's going to be the
+first source inside of our wiki.
+And let's see what Hermes has to say
+about that. Most likely next it's going
+to ask the wiki's domain and purpose and
+then we're going to clarify that the
+storage path is the default that we want
+to use.
+So, after about a minute it says that it
+has seeded the wiki structure. Now, it's
+going to ingest our file as the first
+raw source and then create the first
+knowledge pages from it. So, once it is
+done that, we are going to test it
+by asking it something along the lines
+of like, "Hey, let's query the knowledge
+base and give me a decision matrix any
+sort of decision matrix in the knowledge
+base." And so, theoretically it should
+pull this specific prompt here that we
+gave it from the raw file. And if it can
+query that and give us just that answer,
+then that's how we know it's working
+All right. So, what I did is I asked it.
+I said, "Hey, can I query the knowledge
+base now based on that initial file?"
+And the answer that it gave me, this is
+something important to keep in mind. It
+says, "Yes, it can we can query it now,
+but right now the knowledge base
+literally only contains that one file.
+So, the answers are going to be limited
+to what was in that file."
+Uh and it looks like it created seven
+summary {slash} concept pages based on
+that initial file. So, this is important
+to keep in mind that this knowledge base
+is going to be the dumbest it's ever
+going to be on day one, but if you
+continue feeding it, if you continue
+giving it um
+you know,
+knowledge base files and reference files
+and information over time, it's going to
+get smarter. This is a compounding asset
+that on day one is useful, but on day 90
+is incredibly useful. So, let's just say
+query the knowledge base
+to give me a decision matrix that it
+contains. Right? So, again, we're the
+goal here is to see if it's going to
+pull this specific decision matrix that
+we know was in the reference file, and
+if it can do that correctly, then it is
+set up properly, and we know that we can
+just start feeding it all of our any
+information that we come across, and
+it's going to start to build it out into
+a wiki style knowledge base. It's going
+to automatically synthesize what we give
+it, tag it properly,
+organize it properly, and retrieve it as
+needed. So, in the future, if we have a
+question about anything,
+we can ask the knowledge base, and the
+Hermes agent is going to know uh exactly
+what we're looking for, and it's going
+to be able to go find us an answer based
+on any references or any information
+we've given it up to that point.
+All right, so it looks like it passed
+the test. So, I asked it to give me a
+decision matrix that it contains. I I
+purposely kept it a little vague to see
+what it would give us, and it looks like
+it pulled the exact prompt from the
+reference file correctly. So, it says,
+"The knowledge base contains this
+decision matrix prompt from the raw
+source the raw source and it reflected
+it in this wiki page that it created
+here, right? And then it gives us the
+exact prompt that it pulled from the
+source. And then it takes it a step
+further and says, "Well, hey, if you
+want, I can also turn this into a
+filled-in matrix for a real decision
+you're facing. I can extract all 35
+prompts from the reference file into
+individual query-able pages or I can
+create a cleaner prompt library section
+in the wiki." So, it's doing exactly
+what we set it up to do. The only thing
+we need to do from here on out is
+continue to feed it those reference
+files using the mark download Chrome
+extension that I showed you guys
+earlier. Literally all you do is you
+download it a source as a markdown, drag
+and drop it into your Hermes chat in
+Telegram, tell it to add it to the wiki.
+That is all you have to do. So,
+based on what we learned here, if you
+guys want to quickly and securely deploy
+your own Hermes agent, be sure to use my
+link. We're going to put that in the
+description and in the show notes, but
+you must use the code Corey10, which
+will give you 10% off any of the Hermes
+agent VPS plans. So, hope you guys
+enjoyed it and also be sure to grab the
+LLM wiki setup cheat sheet, also in the
+description or the show notes, which
+will walk you through very quickly
+step-by-step how to do everything that
+we did in this video. Thanks for
+watching and I'll be back soon.

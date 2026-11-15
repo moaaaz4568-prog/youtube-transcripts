@@ -1,0 +1,3174 @@
+I genuinely think if you're a beginner
+or you're just kind of starting out
+programming, Claude Code, it is probably
+the most humanlike AI coding tool that
+I've ever experienced and it produces
+the best results compared to any other
+tool that I've used. He said, "I've been
+working on this." Talking about
+Subscription Monster casually for 3 days
+and we already have a brand, a working
+prototype, and a really rough business
+plan.
+>> Here's the landing page for Subscription
+Monster. So, it's a very simple landing
+page, but this is a real screenshot from
+the product I ended up doing in those
+three days. This can probably be as a
+solo developer with just AI, a $50,000 a
+month business. I think if you really
+push it, maybe this can get to a h
+100,000$150,000
+solo.
+Okay, so today's guest is Chris Ro. And
+let me say this, a week before we
+recorded this episode, I got on the
+phone with him and he said something
+that stuck with me. He goes, "When I
+made my first app, I didn't charge a
+dollar for it for 2 years. Literally,
+thousands of people were using it, but I
+didn't think I was allowed to make money
+from something that I built." And so,
+the moment that Chris built up the
+confidence to create a paid version of
+his app, everything changed. And Chris
+has built multiple profitable apps since
+then. And the cool thing is is that he
+did that with no background in coding or
+computer science. He literally studied
+economics at college. That's why this
+episode matters because we're in this
+rare moment of time, this golden era
+where if you're a builder with ideas and
+inspiration, you can build full apps
+completely solo. And so in this episode,
+Chris shares the full blueprint he uses
+from coming up with the idea and the
+brand to actually starting to build it
+on Claude code. He leaves nothing off
+the table. One more thing before we get
+into it. This is the most ambitious AI
+build that we've ever filmed. To help
+you follow along, we also created a
+supporting document that goes step by
+step through the Claude code section of
+this video. You can download it in the
+description below. But anyway, let's
+just get into this. Welcome to the
+Callum Johnson show. You're an
+entrepreneur who's self-taught. You
+didn't have like a background in coding
+or as a software engineer. And despite
+that, you've built several like
+profitable apps using AI. And so, it's
+not even just the fact that you've built
+them. You literally show people like
+every part of the process as you're
+doing it. And so here's where I wanted
+to begin for the person that's sitting
+at home and they want to build something
+whether it's an app or product whatever
+the thing is and the thing that's
+holding them back is this belief that
+you know I'm not a coder I don't have
+this experience like this just isn't
+possible for me
+for that human being what is the value
+to them of listening to the conversation
+you and I are about to have
+>> yeah I I think that And that is the
+exact person that I want to be able to
+speak to. It's that you definitely can.
+Um it's very possible and honestly now
+more than ever. I I used to say that it
+was possible like years ago cuz again I
+did not have a coding background. I was
+supposed to go into economics and
+finance. If I can do this, you can do
+it. Now because of AI, because of this
+year, I truly believe that statement is
+even more true. um there's going to be a
+lot more builders and I think after
+watching the episode you will hopefully
+come to that same conclusion as well.
+>> Nice. That's awesome. You know what I
+want to I want to make it tangible for
+people and and really help them
+understand kind of what you've been able
+to build coming from a place where like
+you said you literally studied economics
+in university. You didn't study computer
+science.
+If people
+take this episode in and they're able to
+kind of integrate some of the lessons
+and the value that you give, can you
+kind of how does this show up in their
+life? Like what's the what is the impact
+been? What has the impact been to you of
+learning some of these things, some of
+these AI tools that you're now using?
+>> Yeah. I I think it just opens up a whole
+new world because at the end of the day,
+I feel like what I do and what a lot of
+entrepreneurs do and what a lot of
+startup builders do is they're they just
+solve problems. That's what they do. I
+feel like if you open up your mind to
+what's possible with AI tooling um and
+what you can do with AI tooling, it
+really opens up almost this other
+dimension where you're going to go about
+your day and you're probably going to
+identify problems and you're probably
+going to be just thinking to yourself,
+okay, I could build something to solve
+that or like, wow, I should start a
+company about that. I think after you
+watch this video and if you apply some
+of the stuff that I'm talking about,
+you're probably just not going to see
+the world the same way. You're not going
+to see your job the same way. you're not
+going to see just like just your
+day-to-day routine. You will probably
+visualize it in a different way. And cuz
+that's that's the way I visualize my
+entire life now. I'm just constantly
+being exposed to these pain points where
+I'm like, "Oh, I think I can solve this
+or like this this could be um you know,
+this could lead to some I should do an
+experiment when I get home. Like I
+should try to solve something." That's
+that's what I hope people get out of.
+And I think it's it's impossible not to
+when you go down this path.
+>> Yeah. No, it's so cool. You know, we we
+had um context with people. But we had a
+conversation before this and uh one of
+the things that you said as soon as you
+said it I actually wrote it down. I
+wanted to bring it back to you. You said
+I know exactly where a lot of people are
+right now. They feel like they can't
+make things and then also make money
+from doing it. Like why would anyone do
+that? And they have this imposttor
+syndrome. I want people to see that they
+can just build things and come to that
+realization
+way faster than I did. Can you can you
+just take us down kind of memory lane
+for a second? Like tell me that moment
+when you realized you're like not only
+are we kind of in this golden era where
+you can just build things even if you're
+non-technical but it can also make money
+from the things that you're building.
+>> Yeah. Th this is probably the story that
+you're talking about is um when I made
+my first real dollar on the internet
+from one of my products and it's a
+product that I made for free. I just it
+was again to solve my own painoint. Um
+for people who aren't familiar, it's
+called a personal CRM. Um basically it's
+just a way better version of a contacts
+app on your phone. But I needed it cuz I
+was doing a lot of networking. I was
+going to go into finance. So that's the
+first app, the first serious app that I
+built. But I did not monetize that for
+maybe like 2 years. And I think that was
+because I had this sort of imposttor
+syndrome where I kind of thought, you
+know what, no one's going to pay for
+this. And I just felt bad charging for
+it. That by far is the number one lesson
+that has stuck with me probably over the
+last few years. Like I that is the most
+memorable thing because once I did
+charge for it, like there was just this
+moment in my head where I was exposed to
+all these entrepreneurs online where
+they were making money. And I was like,
+"Okay, maybe maybe I can try to do
+this." But it was really hard. The
+minute I did it, it just opened up it
+just opened up my mind that I had been
+wrong this entire time or like why have
+I not been charging for this? And it
+really made me start valuing my work
+again. But it's also the number one
+issue that I keep seeing with builders
+who I'm talking to is they're just not
+valuing the work that they do and
+they're very scar scared to charge for
+it. And I completely get it because when
+you build something, you put it online,
+you're you're kind of almost embarrassed
+to charge for it because you're like,
+"Okay, anyone could have built this."
+Like that's the feeling you get when you
+build something. You're always like,
+"Oh, of course anyone can do this." But
+in reality, that's not the case. Like
+not everyone can do what you did and not
+everyone did do what you did, so you
+should be able to charge for it. But
+that that's been such a big lesson for
+me. And and every time I launch an app
+and I do it, I really get more confident
+about myself and I get more confident in
+charging. And it's not even really about
+making money to be honest. It's more of
+just kind of really proving to yourself
+that you are creating value for the
+world and for other people. But by far
+the number one lesson I learned.
+>> Yeah. No, you're right. It's special.
+You know, before before we get into the
+actual AI stuff since that moment, so
+since that moment of you turning on and
+like starting to charge, can you share
+some of the things that you've built
+like the most notable apps that you've
+built? Can you kind of just give people
+even if you want you could share your
+screen like can you show people kind of
+some of these different things that
+you've done?
+>> Yeah, definitely. Um here let me pull
+some up here. Let me share my screen. Um
+so here here are the top three apps that
+I have. I'm I'm working on another one
+which is still in still kind of being
+worked on and then we have another one
+that is probably coming because of this
+podcast. But uh the number one app that
+I have the most notable one notable one
+is called Ellie. So, this is a daily
+planning app and it really stem from
+this pain point of I just needed
+something better than um Google calendar
+to time box my day because I was
+literally just using Google calendar. Um
+I was just I mean everyone has probably
+gone through this. They've used some
+sort like a bunch of different systems
+as a coder as someone who can do this. I
+was like okay I think I think it's time
+for me to just build something myself.
+Um so this is number one. This is
+probably the one most people know me
+for. I think it has around um 3 to 4,000
+people use this thing every single day
+and like 5 to 10,000 people use it every
+single month. And it's got like over
+50,000 people have like signed up to try
+this thing. It's got over a thousand
+paying users. Um, but this is the one
+I'm I'm probably the most proud of
+because the emails that I get from
+people, the impact is just so tangible
+where people have told me, "Hey, I have
+ADHD and this really impacted the way
+that I go about my day." Or a family who
+contacts me and says, "This has really
+helped me and my kids manage our time
+and our schedules." So, this one is um
+this one is really great because I just
+I get so much from all the the I get so
+much from seeing the impact that it's
+had from the user emails. Um another one
+is this budgeting app, Luna. So, this I
+mean I mean the number one reason I'm
+proud of this one is cuz I named it
+after my dog. And we'll get into mascots
+and stuff, but this is a in my opinion a
+very beautiful way to do manual
+budgeting. So, on purpose, there's no
+automation, there's no banking
+integrations because I just needed
+something to really curb my spending.
+And I needed something that would
+actually change my habits. And this is
+another app that I'm honestly wasn't
+sure if a lot of people would use
+because manual budgeting is pretty
+painful. But I've been also surprised by
+a lot of the emails where people have
+said, "This is actually the only thing
+that has clicked with me so far. This is
+the only app that I've been able to
+consistently use to actually keep track
+of my spending and really get it down.
+So, this is another app I'm really proud
+of. I'm also very proud of the design.
+This was a project for me to really push
+myself as a designer. So, I really
+worked on the complex interactions, the
+animations, all that stuff. Very proud
+of how polished this ended up turning.
+And then the other app, which I was
+talking about earlier, Mogul. This is
+the first serious app. I built it years
+and years ago. Um, I the design has not
+changed for maybe like five or six
+years. I'm still surprised that it it
+still has kind of held up a little bit
+here. But this one is very I'm I'm proud
+of it cuz it's the first one that's made
+it made its first dollar. There's still
+hundreds of people that use this every
+single day. I'm very surprised cuz I
+don't do much marketing or anything, but
+people still use this one. These are the
+three major apps. And obviously I have
+some other ones, but I also want to show
+this to kind of give people a sense of
+when people think of AI apps, when they
+think of vibe coding, they kind of just
+think of the term I keep hearing is AI
+slop where they're like, "Oh, these are
+just, you know, coded apps that were
+thrown together in 24 hours and don't
+really contribute anything to the world
+or they all look the same." Now I'm
+using AI. Like I think Luna, this is the
+first one that is fully AI coded. And I
+really want people to see that just
+because you're using AI does not mean
+it's just this useful or this useless
+toy that was produced in 48 hours and
+doesn't do anything. You can build some
+very serious apps. And I think Ellie is
+another testament to it has an an iOS
+app. It has a React app. I did start
+coding it before I even got into the AI
+stuff, but now I think 20% of the code
+base is now just fully AI generated and
+and all the future code that I'm doing
+for Ellie. All the future features, it's
+all AI generated. So, this is another
+testament I think to how far you can
+push with this stuff. It doesn't have to
+be the stereotypical, okay, AI slop that
+you see out there. So, those are the
+those are the main apps.
+>> Yeah. you know, we're going to uh get
+into it because we're going to show
+people literally how you can go from
+nothing, like not even an idea to like
+building your first prototype of an app
+uh using clawed code. And and and one of
+the things and even it just came through
+as you explained it and you went through
+that is I love that process of how you
+even went from like a personal problem.
+So like a personal pain point that you
+were having in your life to then
+actually building a solution to that
+that now thousands of people are using.
+Like I just think that that process is
+so cool. And so, you know what? Before
+we get into uh how people can actually
+do it themselves,
+one of the I was actually I was looking
+through your YouTube this morning. The
+most popular video on your YouTube is
+titled I was wrong about Claude Code.
+And so,
+like overund over 260,000 people have
+watched that video. And so to begin like
+when you say you were wrong about claude
+code let's start right in the beginning
+first of all what even is claude code
+and then what were you wrong about?
+Yeah. So claude code is at the time it
+was one of the newest AI coding tools
+out there. The number one at least at
+the time of recording was cursor and
+that was the one I was using. That's the
+one most people know about. There's a
+bunch of AI coding tools, but Claude
+Code, in my opinion, at least at the
+time of we're recording this, is in my
+opinion the number one tool. It is
+probably the most
+humanlike AI coding tool that I've ever
+experienced, and it produces the best
+results compared to any other tool that
+I've used. But it it is it's kind of
+complicated to explain what it is to
+people who are non-technical, but really
+it is a terminal based tool which means
+you access it in the terminal which that
+that alone just threw so many people off
+and that was another reason I dismissed
+it to be honest. But you go in the
+terminal, you just type in commands like
+whatever you want and it just goes and
+executes things. This went against the
+paradigm that a lot of people have about
+coding tools because you don't see the
+code. Like you just tell it to do
+something and you don't get to actually
+I mean you I guess you can kind of see
+the code but there's no code editor.
+Like you're not supposed to edit the
+code when you're in cloud code. Um and I
+think that threw people off but it's
+this it's in my opinion also one of the
+first real agentic coding solutions
+because again most coding sol most AI
+coding solutions are you go tell it to
+do something and it'll go write the code
+for you. who you review and you kind of
+have to go back and forth. Cloud code is
+the closest thing where it's a true
+agent where and I give it a couple more
+like a year or two where you can
+literally get away just not seeing the
+code which is a very bold statement but
+it is that this is the tool that has
+gotten this close where it's literally
+almost like the human programmer and I
+think a lot of technical people who have
+used it and understand will probably
+agree with me too.
+>> Okay, you know what? I'm gonna I'm going
+to be that person. I'm going to ask the
+uh the stupid question and um when I say
+the stupid question, it's because I have
+never coded and so I'm going to I'm
+going to represent that viewpoint and
+ask it to you when you say um and I can
+feel the significance of you saying it
+of like it's a tool that you can use and
+you'll never see the code. Give us the
+context like why is that such a big
+thing? And even when you say it's like
+human like the most humanlike coding
+tool, like what is the significance of
+that?
+Okay, quick break. I just want to give
+you guys some value. So when I first
+started experimenting with AI tools, my
+biggest challenge wasn't building. It
+was figuring out what to build. And so
+in the beginning, I found the toughest
+part was actually landing on that final
+idea that I could then go all in on. And
+from reading the comments, I know that
+I'm not the only person that's had this
+problem. I partnered with HubSpot to
+bring you this AI app builder kit. It's
+completely free. I've been so excited to
+share it with you guys. And so, let me
+just share a bit more. It's basically a
+playbook of done for you prompts that
+you can drop straight into chat GPT or
+Claude or whatever is your favorite AI
+tool and it will help you as you build
+your AI business. And so what you'll
+find inside, it has these different
+prompts that can help you with anything
+from generating app ideas that people
+will actually buy. It can also write a
+full technical spec that AI can then
+code and it can create a launch plan
+that gets you your first users. It's
+honestly a gamecher. And so for me, my
+favorite part of the kit is the chat GPT
+guideline template. It took me less than
+5 minutes to fill it out. And then you
+drop it into chat GPT and it will make
+sure that every response directly
+matches your brand voice. Honestly, it's
+helped me draft and publish content way
+faster. And the good news is this kit is
+completely free. So all you're going to
+do is you're just going to go to the
+link in the description. You're going to
+download the free resource and you're
+going to get started. So thank you to
+HubSpot for partnering with me to create
+this. Let's get back to the episode.
+Okay, so we're going to get back to the
+video in 60 seconds, but first today's
+sponsor is going to help make sure that
+your finances stay on track. Introducing
+our friends at Rocket Money. Let me know
+if you can relate to this. You decide
+that this is the year that you're
+finally going to get your finances
+right. You set out all of these clear
+financial goals. You build a spreadsheet
+with your budget on it. And then 2 weeks
+later, you have already lost track of
+your spending. And so at the start of
+this year, I made a change and I started
+using Rocket Money. Rocket Money is a
+personal finance app that lets you
+manage subscriptions, lower bills,
+create a custom budget, and grow your
+savings all in one place. And so, first
+of all, I linked all of my accounts. And
+so, it pulled up every subscription that
+I was paying for. And so, with just a
+few taps, I canceled the ones that I
+didn't need. But the big win was
+actually the budgeting tools. I can now
+see every expense in real time. I can
+get alerts before charges hit and
+actually stay on track with my spending.
+Plus, its goals feature automates
+deposits towards whatever I'm saving
+for. Members who actually use all of
+Rocket Money's premium features save up
+to $740 a year. And so, if you want to
+give it a try, go to
+rocketmoney.com/calum
+johnson. That's
+rocketmoney.com/calumjson.
+You can also just go to the link in the
+description of this video and get
+started using Rocket Money today. Thank
+me later and let's get back to the
+episode. I think the significance is
+it is the first th this is the first
+time that I think a lot of programmers
+who are or just in general not even
+programmers a lot of people who are like
+who who say oh to use these tools you
+need to know how to code like you
+actually need to know how to do this
+this is the first time where I'm
+starting to see that that might not be
+true anymore like you actually might not
+need to know how to code to truly use
+this stuff. Although, I will say it does
+help a lot. It really helps so much if
+you know how to code. But I think you
+can get away because again, you don't
+need to review it. They don't even want
+they don't even care if you review the
+code. Like you can you can go ahead and
+just just let it do its thing. That
+really unlocks this whole again the
+whole world we were talking about
+before. This really unlocks that whole
+thing for for people. Um, so it it's
+going to have a huge impact and both
+positive and negative. I think to some a
+lot of developers, yes, this might
+actually really impact the job market
+quite a bit if this continues, if more
+tools like claude code continue. But I
+think this does open up a huge door for
+a lot of nontechnical people who are
+just getting into it. A lot of
+industries where there's not a lot of
+software engineers, it's going to be
+such a huge shift, I think, when this
+type of AI tooling gets even better.
+>> Yeah. You know, one one of the things
+we're going to talk about is the the
+newest app that you're building. You're
+literally building it right now. Um,
+subscription monster. So, I one of the
+things that I even heard you say in in
+the video, um, I was wrong about clawed
+code. You mentioned obviously that you
+used to use cursor, but basically since
+you started using clawed code, you've
+kind of you haven't really looked back
+since then. So in building like the new
+apps that you're currently doing like
+subscription monster that's primarily
+being done on claude code
+>> correct yeah only exclusively on cloud
+code now.
+>> Yeah. You know you know let's just get
+into it because I think one of the
+things I enjoy about your content and I
+said this to you even before is that not
+only do you build the thing and you're
+the person that's actually doing it like
+the non the non-coder who's actually
+doing it. You also show every little
+piece of the process. And so right now
+you're building an app called
+Subscription Monster and you've
+literally shown people how you're going
+from like coming up with the idea to
+actually building the product. And one
+of the things that you said in your
+videos, you said, "I've been working on
+this casually for 3 days and we already
+have a brand, a working prototype and a
+really rough business plan." And so
+that's actually where I wanted to begin
+is like even coming up with the idea
+like even just sitting down and thinking
+to yourself, okay, I'm going to start
+I'm going to build a new app.
+what in your process what in your mind
+was the step one like where did it
+begin?
+So the the number one the number one
+step for me when I build any new app now
+is okay what is what's the purpose and I
+thought you know what there's been this
+pain point in the back of my mind
+recently
+I had to answer the question how much
+are we paying in software subscriptions
+for my other business the answer is in
+the thousands of dollars but I I I just
+hated that I couldn't answer that
+accurately we do have some software like
+some of our credit card stuff. We have
+QuickBooks like it can kind of answer
+the question but not well. And so I
+thought, you know what, maybe this is
+actually a good enough problem because
+I I really feel like I across like
+multiple business bank accounts, I just
+I can't answer this, but it feels like
+this should be a really simple thing to
+do. And then I did some quick Googling,
+did some quick searching, and confirmed,
+yeah, nothing really exists like this,
+or at least the way that I'm envisioning
+it. Okay, there's a signal that this
+should be done. Although I did have to
+do a little bit more research so we can
+talk about cool how did I confirm that
+this is the right thing but that's how I
+got the initial idea. Again it's just
+why can't I answer this question like
+again a couple weeks ago I had to answer
+this question myself. I I couldn't even
+answer like how do we list the business
+subscriptions. The way I did it was I
+had to go physically print out every
+single bank statement and go line by
+line and try to figure it out. I even
+tried feeding this into chatbt and some
+other things and it just wasn't doing it
+well enough. So I had to just I just had
+to go in and just kind of manually go
+through the PDFs, have it extract
+things, and then write it literally in
+an Excel sheet. And so it's like a
+Google sheet that I have. So that's how
+the problem that's how I identified the
+problem. Again, seems small enough
+because I'm like, how is this not I
+mean, we have AI, we have all these
+things. How is this not how is this not
+solved right now? Um and then I did the
+process of figuring out, okay, number
+one, why why does this not exist? Um and
+then what what's my game plan? like if
+I'm gonna do it is the and does the game
+plan fit in what like for this show like
+for for the constraint I have and my
+time constraint was this show and some
+people's time constraint is I have a
+full-time job or I only have 3 months to
+make money. So the constraint is
+actually not like that's something a lot
+of people don't factor in but I think it
+should be factor in because if you don't
+have that constraint you might
+accidentally be building something for
+years and not releasing it or you might
+be building something way too small and
+it's just not ambitious enough or it's
+not going to get the financial outcome
+that you want. So, putting the problem
+and the constraint together, that's
+usually the first step. That was a huge
+long-winded answer for that, but
+hopefully that helps.
+>> No, that's actually really important.
+The part about the constraint is really
+important cuz I've spoken and and I used
+to be like this, but I've spoken to so
+many friends that like and sometimes
+it's not even that they're building
+something. It's like they're creative,
+but there's no constraint to it. So,
+they never release like that. That was
+literally the problem that I had with
+the first two businesses that I had is
+like there was no there was no deadline.
+there was no time when like okay this is
+going to hit and so it just went on and
+on and on until you lose momentum and
+then it dies there. And so I guess my my
+question for you is like do you kind of
+actually have a process of like tracking
+pain points and like uh almost like
+problem areas in your work life that can
+then almost be spun into these AI app
+ideas or does it just spontaneously kind
+of come?
+Okay, so give me 60 seconds. I don't
+usually do this, but I want to take you
+guys inside my apartment for just a
+second because there's one service that
+is now a core part of my daily routine.
+That is the new Alexa Plus from Amazon.
+So, let me say this. A couple nights
+ago, I'm winding down in my living room.
+I've just finished work. I'm trying to
+get organized for the next day. Instead
+of reaching for my phone or my laptop, I
+just say to my Echo Show 15, "Alexa,
+what's on my calendar tomorrow?" Next
+thing I know, done. It tells me what's
+coming up tomorrow. I then ask it to
+play music from my playlist and book a
+dinner reservation for the weekend. Done
+and done again. And so when I tell you
+this has quickly become the one-stop
+shop for everything that I need. I use
+it to manage my dayto-day. Order
+groceries, book Ubers, play music, and
+the craziest part, it actually remembers
+what matters to me, how I talk, and
+handles multiple things in one go.
+That's because Alexa Plus is actually
+powered by generative AI. In other
+words, it's smart. It's more
+conversational, and it can actually
+follow your train of thought without
+missing anything. It's like having a
+calm, capable assistant in the room with
+you. I kind of think about it like
+Jarvis from the Iron Man. And so,
+anyway, if you want to try it, Alexa
+Plus is now rolling out for free through
+early access. And after early access, it
+will still be free for Prime members.
+So, go to the link in the description to
+request access. That's the link in the
+description to start using Alexa Plus
+today. Thank me later. And let's get
+back to the episode. It it's now it's
+definitely more spontaneous. So, I don't
+track it, but it it's almost impossible
+now for me not to kind of store them in
+my head because I just see some things
+enough. So, for example, off the top of
+my head, the number one pain point I
+also have ever since doing content
+creation is I hate doing the rough cut
+of the edit cuz I have four hours of
+footage. it needs to be condensed down
+into 20 minutes or something. And I'm so
+confident that AI can go extract a
+really good script from the transcript
+and do it. Caput has kind of a little
+feature for it, but it's just not good
+enough. And like this, but the friction
+happens to me every single week as I
+create content. Every time I encounter
+some sort of pain point like the
+business, like asking business
+subscriptions, what are we paying
+monthly for? Every time it happens, it
+like carves something in my head where
+I'm like, man, I I got to do something
+here. And then eventually some of those
+actually do kind of pop where it's like,
+okay, this painoint is too great. I need
+to do this. To be honest, the budgeting
+one was one of those as well. It just
+was grinding at me that I know I need to
+be manually logging this. Like I know I
+need to have something where when I go
+get coffee or something, like I need an
+app to just remind me that I cannot
+afford to go do this. And that pain
+point just weighed down on me enough
+where it kind of went from just living
+in my head to being like, "Okay, it's
+it's there's so much pressure here. I
+need to go do this now." So that's kind
+of what my mental model is. It's I kind
+of just store it. 100% though, I think
+people should write these things down.
+And I know a lot of people do have some
+idea log or something and then just
+maybe make a note of, okay, how many
+times has this happened or how many
+times have I been upset by this? And
+then once it's enough, you kind that
+should signal, okay, you should probably
+go deal with this. like you should go
+build something to kind of try to solve
+this.
+>> Yeah. You know, I I I want to for the
+person that's sitting at home, cuz I'm
+sure even as they're listening to you
+and I speak, there's like the ideas of
+different things that they can build are
+like firing off and certain people never
+get past that point, right? Like it's
+just all ideas on the page. when it
+comes to like actually prioritizing
+ideas and thinking through like this is
+the one that I'm going to action on. Are
+there certain types of pain points or
+problems that it's actually like they're
+perfectly ideal for you to build the
+solution using AI? Like are there like
+for you are there certain times when you
+hear a problem and you're like oh that's
+the perfect not only is it a valid
+problem it's the perfect thing for me to
+now go and build using a clawed code.
+Yes I think it's yeah I actually do keep
+like this is one of those mental things
+that I think about when evaluating ideas
+that just kind of happens in my head.
+Actually maybe there's a little tangible
+step here. It's I always try to think
+why does this not exist right now? Why
+is there no business around? Usually
+there's a very good answer to that. Even
+was we'll get into the subscription
+monster thing because I did some
+research. I actually had Claude do the
+research for me and analyze why does
+this not exist? And it came up with some
+really good answers to why it doesn't
+exist. But once you get the answer to
+that, and usually it's there's not
+enough money in the market or it does,
+but it's a small feature of this bigger
+thing as an upsell feature for another
+business. There's usually some answer of
+why it doesn't exist. If I don't like
+the answer where I'm like that's not
+good enough. This should still exist.
+Then I'll go pursue it. That's also a
+good signal too with AI which is how
+quickly can I get to the MVP here. How
+quickly can I build this with cloud code
+now that I know how fast I can move?
+Like I can genuinely build something
+very substantial in a week or two. that
+scope that is a really big thing that I
+do look at cuz if it is like massive
+where it's like we're going to go we're
+going to go you know try to solve
+something to find new something with DNA
+and trying to discover new drugs okay I
+don't think I can do that with cloud
+code like that one might be a little bit
+I mean actually you probably could but
+it would be a longer term period I would
+probably need to pull in a lot of
+experts to figure this out and it's
+probably way more than just a coding
+problem so if the problem is confined to
+okay I can build a really quick
+prototype type to really test is this
+going to solve this for me in two weeks
+maybe a month that is perfect for AI
+that is perfect for AI coding and then
+another layer too which is kind of meta
+is can AI itself solve this problem
+that's another thing that I've been
+recently adding to my checklist is as a
+why does this not exist right now and is
+it because of an AI problem to be honest
+this problem that I'm bringing to this
+podcast the subscription monster like
+why can't I answer what subscription Do
+I have one of the things when I was
+researching is that's apparently a very
+hard problem to solve because let's say
+you have thousands of financial
+transactions sometimes the banks and the
+credit card companies they label it very
+differently or it's like just a little
+bit off that is a perfect problem where
+you before I'm sure a lot of companies
+they would have to either make custom AI
+models or they would have to build all
+of these rules around categorizing
+Amazon transactions the Spotify
+transactions that is perfect for AI Now,
+I think like those ideas where you're
+like, does this not exist because it's
+super tedious or just not financially
+like it's just really hard for a company
+to build this without a lot of money to
+make a custom model. Those are perfect
+problems because the current AI
+technologies are just looking for
+solution or just they're looking for
+problems like that. So, that's another
+that is another thing that I look at
+when I'm determining whether to use AI
+or whether to literally use AI in the
+product. Those are some things I look
+at.
+>> Yeah. Okay. You know what? Let's let's
+do this. Uh because I'm getting excited.
+Is um can you actually first of all like
+pull up the landing page for
+subscription monster which is like what
+you're building right now so people can
+see that. And then you spoke about
+actually you use claude. So I guess the
+distinction is there's claude which is
+like the language model. It's almost
+like chatgpt and then you have like
+clawude code which is the uh it's the
+agent that it uses to actually like code
+things. You were using claude to
+actually figure out is this a problem
+that's worth solving and like why hasn't
+it been solved? Could you show us as
+well like what does some of those
+prompts look like, sound like that
+you're using to like validate is this
+idea actually worth building something
+for?
+Yeah. Let let me show you. So, and let
+me pull up
+Yeah, this will be really fun because a
+lot of people don't don't do this. Um,
+first here here's the landing page for
+Subscription Monster. So, it's a very
+simple landing page, but this is a real
+screenshot from the product I ended up
+doing in those three days. And it's just
+a weight list page. So, it's just a way
+for me to collect weight list. I only
+put it in a single tweet that I tweeted
+at like 1:00 a.m. in the morning. And
+from that tweet though, 25 people did
+sign up. So, that's pretty cool. I think
+once I promote it, I'm very interested
+to see. But, this is the weight list
+page. This is uh it's very simple. Um,
+now to talk about how did I use Claude
+to do research. So here I am referring
+to literally Claude, like Claude
+desktop, Claude the language model. Um,
+so here's the chat where I started it
+and I actually said, is there a reason
+there isn't a subscription finder like
+Rocket Money for business? Because it
+does exist for consumers. There's
+hundreds of these. Let me go help you
+find subscriptions and cancel them, but
+there really isn't any for businesses.
+And I basically was just asking it, why
+does someone why does this not exist?
+The distinction though is I'm using
+something called Claude Research, which
+when you're using Claude, you actually
+turn on this research mode. It is going
+to go through hundreds of different
+sources to try to answer your question
+and do research. It's not going to
+respond directly to your question, but
+what it's going to output is basically
+this giant list of, okay, here's my
+analysis. And so, and it what's really
+cool is it also asks some follow-up
+questions because it I asked it, why
+does this not exist? And it said, "Let
+me make sure I'm answering this relevant
+to you. What What are you a solo
+entrepreneur? Are you a small business
+owner?" Which is this is so cool that it
+asked these follow-up questions because
+I would expect a really good research
+analyst to also ask a bunch of follow-up
+questions. So, this signals that great,
+this is going to be a very tailored
+response. Um, it made this report, I'll
+be honest, I was too lazy to read this
+entire report. So, I just told it, can
+you summarize what the reasons are? And
+it actually listed out some really,
+really good reasons. like you know
+payment methods like are very complex
+especially when it's international. Some
+people use credit cards, some people do
+literal manual invoices. So it's going
+to be kind of hard to see in the bank in
+the bank account. Um there's also some
+regulations why this might be kind of
+challenging and then really there's no
+API. The one that was really interesting
+to me though was not the technical
+challenges. I wanted to hear about the
+economic and the the real business
+challenges here. And the two things that
+really stood out to me really were at
+the end of the day, this is a product
+that a lot of like to acquire a business
+for this might be really expensive. Um,
+it might be really hard and there might
+not be enough businesses willing to pay
+for something like this where maybe you
+can get to a $10,000 a month business or
+a $20,000 a month business, but $20,000
+a month is amazing for an individual,
+amazing for a solo app developer. That
+can barely cover payroll for a lot of
+companies. So, that is probably why no
+one has really raised money for this
+problem. That's probably why there's no
+standalone products that exist. That's
+probably why it's just usually a subset
+of of a larger product. So, Mercury the
+bank or Brex the credit card, they all
+have this feature where they can look
+for subscriptions within their product.
+But I think that's why it's not a
+standalone thing. It's just the market
+isn't big enough for a real serious
+business to exist. But again, we're
+looking at my constraints here, which is
+my constraint is I just need something
+for the show and you know, maybe I'll
+they'll throw something in there. I'll
+learn some new technologies. Like those
+are my constraints. So none of those
+really apply to me. If my constraint was
+financial where I have a family, I have
+to go do this or I need to go raise
+money, I need investors and get a return
+for them. Okay, this business might not
+make sense for those constraints. But I
+I was using um Claude here and something
+else I was asking about cuz I I think I
+misread this. I didn't know that it said
+plaid. I thought I think I just didn't
+read that line at the time. I asked it
+why can't I use plaid and it was like oh
+you can. So, I basically just went back
+and forth to ask it, you know, what what
+does it like why does it think it
+doesn't exist? In my opinion, this is
+kind of like the market research I would
+typically do, which is I would probably
+literally go, you know, try to network
+around or probably try to ask other
+business owners, why don't you use this?
+Would you pay for this? Like, what's
+going on here? Um, obviously do a lot of
+Googling and try to figure it out. But
+these are the kind of questions that I'm
+asking. Claude research is so incredible
+just to get a sanity check because a lot
+of entrepreneurs, you know, when they do
+this, they're just like, "Oh, it doesn't
+exist because no one's smart enough to
+do it." No, there's usually a reason.
+And this thing will be smart enough and
+unbiased to tell you the truth of why it
+doesn't exist.
+>> Yeah. you know, the the sanity check.
+And and that's the thing I think a lot
+of times as entrepreneurs, especially if
+you're like a soloreneur, you're
+building something by yourself. It's
+like you're kind of in this um vacuum
+where it's difficult to get feedback or
+like have like that uh interaction with
+someone to kind of validate or like you
+said like a sanity check. And it's cool
+because I do the same thing with AI
+where you it's almost like you get in
+this conversation and you kind of voice
+to the AI what are your kind of like
+doubts or the things that you're unsure
+about and it just helps like illuminate
+and like get clarity on exactly where
+you have to go. I think the other thing
+that you mentioned
+um which I really like is having clarity
+on like what the constraint is and so
+it's actually a really smart way to
+think about like which idea should I use
+AI to go and build is well it doesn't
+there's like this intersection of ideas
+that it doesn't make sense for like a a
+huge business with hundreds of employees
+to go and build it because to your
+the market opportunity is probably just
+not enough. But for like a solo person
+who's using AI and could build it over
+the span, I don't know, a few days or
+like a week, you could build like a
+pretty profitable $20,000 a month
+business solving a problem like this
+that you used AI to go and build. And
+it's like it's actually I think that
+intersection is actually pretty perfect
+in terms of validating an idea. Um,
+okay. Here's where I wanted to go next.
+And I wanted to go back to that that
+quote that you had. You said, "I've been
+working on this," talking about
+subscription monster casually for 3
+days, and we already have a brand, a
+working prototype, and a really rough
+business plan. So, we kind of went over
+like the idea. when it comes to the
+really rough business plan, I'm curious
+like what is happening there? Uh like
+what are you putting together? Are you
+using AI to do that? Like give us the
+context of that business plan and why
+it's even valuable.
+>> Yeah, I think um sometimes I do use AI
+to kind of dig a little harder. In this
+case, since again, this was such a small
+effort, such a small constraint. It's we
+just need this for this podcast. Um, I
+just thought about the business plan.
+There really only two things that I
+cared about cuz business plan can have
+thousands of things, but the the only
+two things I cared about were cool, what
+is what is the plan to go get the first
+dollar. Um, what is the ceiling of
+revenue I can probably get by myself in
+this constraint that I have? And then
+also, how am I going to market and how
+am I going to actually try to acquire
+new businesses? And then and then the
+last one is yes, it is built off of this
+very small feature, this small pain
+point. Where am I going to take it next?
+Like how can I expand this if I choose
+to do it? Those are the four things that
+I really looked at. We can talk a little
+bit about kind of the okay, what's the
+ceiling? We kind of discussed this a
+little bit. Um this was more of just me
+kind of researching the market when I
+discovered that there is literally only
+one standalone product that does this
+and it doesn't even it's pure manual.
+Like you have to just log what your
+transa what your subscriptions are
+yourself. like it doesn't scan anything,
+it doesn't do anything. When I figured
+this out, it really signaled to me
+there's probably no money here, but how
+much money is there?
+This is just me doing normal research,
+looking at other businesses, just cuz
+I've really like done this a lot in from
+a bunch of different industries. But I
+really think comfortably the conclusion
+I came to is this can probably be like
+as a solo developer with just AI a
+$50,000 a month business. I think if you
+really push it, really push it, really
+dial up the marketing, do this stuff,
+maybe this can get to 100,000, 150,000
+solo, past that, we're going to need to
+add a lot more features. Um, so that's
+to answer the question of what's the
+ceiling here? What can I do? Um, then
+the next thing is, okay, what is going
+to be the marketing strategy? Like how
+would I start acquiring users to do
+this? Um, obviously social media is
+there. So, I kind of know, great, I can
+probably acquire some people by doing
+this build in public thing that I
+normally do. But I wanted to also figure
+out, okay, if I had no choice, this is
+the only app I had. This is this is my
+primary income source. How am I going to
+do this? Um, after doing some research,
+like some combination of AI, like I have
+some other chats where I was talking to
+to Claude about this. Um, it's most
+likely going to be a combo of SEO
+because really no one is doing this. I
+will say though that it does suck
+because you know uh Rocket Money and all
+these guys are competing for SEO there,
+but there really isn't many for
+businesses. So, I do think there's an
+SEO opportunity. It's going to take a
+long time, but that actually is probably
+going to be one of the biggest channels.
+Lots of Reddit because Reddit, I think
+there's a lot of people I've noticed who
+are also searching for this that they're
+like, why does this like how do you do
+this for business? The answer most
+people say is just go sign up for Rocket
+Money as a business and just go link
+your credit cards and don't use any of
+the other features. That's the number
+one thing I'm seeing. So Reddit and word
+of mouth are going to be massive. Last
+thing which I will do if it comes down
+to it is I am probably going to do a lot
+of cold emailing. Um and that's probably
+very surprising to people because no one
+talks about that after I talked to some
+businesses like we we even talked about
+it. I have been so surprised by the
+number of businesses that have told me,
+"Wait, I can't answer that question." Or
+like, "Wait, I don't know what we're
+spending on. You're right." and they're
+like, "Wait, I I'd probably spend like
+20 bucks like one time just to solve
+this problem." Like, like what what? So,
+that really makes me think that, you
+know what? I think I can craft some
+really interesting cold emails or do
+some manual effort. Like, I probably
+literally can go down the street and go
+talk to some businesses and be like,
+"Hey, I'm I'm not even going to charge a
+subscription. How about I do a quick
+audit? Give me like 50 bucks. Let's just
+link your account and if you want to
+keep it, you can keep doing it." Like I
+I think there's actually a really good
+cold outreach for this one just because
+of how like visceral the reactions have
+been when I show business owners this
+thing where they're like I would use it.
+I have not seen that for a lot of
+products. Like this is a very
+interesting one. Um but that that's
+that's kind of my pseudo that's why I
+said it's kind of like not a great
+business plan but it's like a very rough
+one which is cool. I have the marketing
+strategy. I I know I'm going to acquire
+the users. I already spun up the weight
+list so I can start capturing this. And
+that means I have my initial beta users.
+I already have the MVP done. I already
+kind of know what the feature road map's
+going to look like like for the next
+month or two. The last piece which is I
+think number four was um what's the
+feature road map set? After doing
+research, it's so clear to me there are
+infinite ways to take this. The fact
+that like Mercury and Brex and all these
+guys, they have subscription analysis as
+a standalone feature means they're using
+this to upsell a product or they're
+using this to cross-ell other parts of
+their products. I can definitely do the
+same if I choose to do it. So, I can
+probably hook people into subscription
+analysis. And if I want to make a
+business budgeting app or if I want to
+make an AI app that lets you ask
+questions about your financials for a
+business, there's so many ways to take
+this. Just knowing that alone made me
+stop there where I was like, I have
+enough now. Like, I have enough. I'm not
+going to get ahead of myself. Let me now
+start building. Let me start working on
+the actual product now.
+>> Yeah. You know, it's so But I think also
+like a a secret that I just heard from
+from listening to you speak is we live
+in a world now where like everyone wants
+to do stuff on like social media or now
+the new thing is obviously AI but almost
+going the old-fashioned way and talking
+to users or talking to your ideal user
+will give you like almost like a like a
+secret insight into how you should
+actually go and build the business. And
+that's what you had with Subscription
+Monster is like when you spoke to people
+about what you were going to build the
+actual target user, it was like great
+validation. Um, you know what? Here's
+where I want to go cuz obviously I think
+you're you do a great job at like
+building on Claude code and we're going
+to show people how to do that, but I
+also think another one of your
+superpowers is in the branding and
+design. And so I want to start right in
+the beginning there. Even when it comes
+to the name subscription monster or like
+Ellie and Lily and like all of these
+things that you've built,
+talk to us. I know that there's like AI
+that's involved in that process. Talk to
+me about how you come up with the name.
+Yeah, th this has been one of the things
+that I've been surprised that people ask
+me about. Um because to be honest, for a
+lot of the apps, I was so bad at naming
+apps that I decided, you know what, I'm
+just going to name them after my pets.
+So like Ellie and Ellie and Luna are
+specifically named after my hamster and
+my dog, which is why the mascot looks
+this way. Um and I thought to myself,
+I'm going to change it. Like I'll change
+it once. Like these are just placeholder
+names, but they always stick every time
+I do that. Um so but Subscription
+Monster was extremely conscious. like
+this was a very conscious one. Mogul
+networking mogul is was also extremely
+conscious. I think the original name was
+actually Karen and then years later
+that's not the greatest word anymore. So
+I was like you know what I don't know I
+named after the computer from Spongebob
+named Karen. I was like super
+intelligent computer. That was a
+horrible idea. So then I named it to
+Mogul and thank god that one actually
+stuck. But for subscription monster in
+these apps the only thing I know for
+certain is that I know when the name
+does not sound good to myself. Like I
+would not be proud of it. And so I can
+actually show you what the process is
+for how I named subscription monster. If
+I had another pet, I would have just
+named it after my other pet, but I ran
+out of pets. So I was like, well, now we
+got to actually come up with a real
+name. Um, so we can actually go look
+really briefly. I can show you what this
+looked like. I actually did initially
+start by using the same Claude
+conversation that we were that we were
+using for the business plan. And I asked
+it um I asked it, can you come up with a
+name for this? Like a business name,
+preferably one that has a.com. To be
+honest, I don't think I didn't think it
+could actually do the domain search for
+me, but it did a bunch of research and
+it came up with some business names. And
+to be honest, these were absolutely
+horrible business names. But that's okay
+because I wasn't trying to get Claude to
+actually come up with a business name. I
+was just trying to get the creativity
+going because I at least I know when I
+hate something. Like it's hard for me to
+come up with it's hard for a lot of
+people to come up with stuff. It's
+really easy for people to reject things
+because they know it sounds bad. So
+that's what I was doing here. And it was
+interesting because I remember reading
+some of these and I was like, "Wow,
+these just sound so generic." Biscribe,
+Expense Radar, Subsley, like a lot of
+these things sounded like generic tech
+companies. And um I was kind of like,
+"Okay, this isn't really this isn't
+really good." I had another Claude
+conversation where I was like, "You know
+what? Maybe I'll just like start a new
+one so it's a little more creative."
+Where I said, can you come up with some
+sort of mascot? Like what is a good
+mascot for this? And it actually came up
+with a mircat, which a mircat is just
+this animal that I guess it does a lot
+of searching and it's always like
+peeking its head and looking for things.
+So that's why Claude was like, you
+should do this because it'll go look for
+subscriptions. And I thought, okay,
+that's that's actually not a bad idea.
+Um, so then I continued in this chat and
+I said, can you come up with names where
+the mascot is a mircat? And it started
+coming up with things like watch cat,
+alert cat, warn cat, like a bunch of
+these things. Sub um uh I think mere
+money was another one. The only thing I
+hated to be honest, like I was kind of
+close with some of these is I think if I
+named it something cat,
+the cat is a K. And I think it would
+have really caused some conflict cuz
+people would probably use cat with a C.
+And a lot of people don't even know what
+a mircat looks like or what it what it
+is. So, I was really worried that it
+would it would get confused. So, I kind
+of stopped right there. Um, so then I
+thought maybe I can name name the
+Mircat. Maybe the Mircat can just become
+a mascot instead and I'll just come up
+with a name. So, it actually came up
+with some cool names like Max. I think
+Milo was another name I really like. So,
+I was like, maybe I can call it like
+Milo money, Milo something. Um, once I
+started getting down this rabbit hole
+though of being like like it's going to
+be the name plus something. like Luna,
+the domain is lunabudgeting.com,
+ellipplanner.com, moguletworking.com.
+I realized, oh, you know what? I I
+should probably have a word there. What
+is that word? It's probably going to
+have to be subscription cuz I was
+thinking maybe I can get away with
+something money like Milo money or Milo
+finance, but I think it's too generic.
+And if I'm if SEO is going to be one of
+my plays, I do need the word
+subscription in there. And so I actually
+asked it, okay, can you come up with
+something else? And this was a whole
+other conversation where I in Claude
+where I said, what are some other
+subscription X? Like come up with
+subscription X. And I told it what my
+plan was, what I was trying to build.
+And it came up with so many different
+like subscription wolf, subscription
+hound, subscription owl. One of the
+terms was subscription monster. And
+again, it's one of those things where I
+if I see it, I'm like, "Oh, there's
+something there." When I read that, I
+was like, that one actually sounds kind
+of cool because it's a very memorable
+because it it's just you don't hear
+stuff like this in the finance business
+world. Like subscription monster just
+like sounds so hardcore. It just sounds
+so different. So that one jumped out at
+me. And then as I was thinking, you
+know, what's a little more I was like,
+you know what? Subscriptions are kind of
+like this monster that no one thinks
+about that's in the back of the business
+owner's head where they're like, I know
+I got to deal with this, but I I'm just
+like too scared to even look. like I
+don't even want to know what
+subscriptions we're paying for. And so I
+thought, yeah, this okay, this could
+actually be a really good one. So to
+summarize it all though, I really just
+went back and forth with AI. And the
+important thing was I just I didn't stop
+until I was fully happy with the name
+and and kind of now I guess the mascot.
+So inadvertently by going this route, I
+knew that this the mascot had to be a
+monster. Um so that's actually how we
+came up with the name. And then we can
+go into the branding um and and how I
+got the logo and everything if you want
+to, but I don't know if you have any
+questions.
+>> Yeah. You know, so so listening to you,
+there's two things that stand out. It's
+like and cuz I I think it's a valid
+question of and and I've done this
+before when I've tried to start
+businesses. You come up with all of
+these names and then you're like you a
+lot of the times you even have to ask
+other people. You're like which one do
+you like? Cuz it's hard to make that
+decision. they they all start to kind of
+fall into like a jumbled category
+together and it's hard to make that
+final decision of like okay this is the
+one I'm going to go with and so there
+was two things that stood out one is
+there's almost like a gut feeling to it
+like you just read a certain name and
+you're like okay this is the one but
+then the second thing and this is
+something actually I wouldn't have
+thought about is actually just like the
+the clarity of it of even when people go
+and search it because obviously that's
+an important part of marketing. It's
+like the SEO is is it easy to go and
+search for? So the fact that like mircat
+the way that cat is spelled is actually
+like with a K and not a C that would
+have lost you traffic like that part the
+simplicity and like the clarity. I
+wouldn't have thought about that. It
+makes complete sense but I wouldn't have
+thought about that in deciding the final
+name. But to your point, it's key. Um,
+and so even that strategy of literally
+putting what your business does in the
+name like subscription monster is it's
+memorable, it's clear, and it like you
+say, it kind of it sounds good as well.
+Um, okay. Here's where I wanted to go
+next, cuz I think a key part of the
+uh a key part of your branding, and it's
+something that stood out, and you spoke
+about it, it's the mascot.
+Why? And and maybe you can even show
+some of the examples like the mascots
+for Ellie and Luna and all of the like
+why is the mascot that's almost like a
+key it's like a staple of how you build
+things. Why is that?
+Yeah, it it honestly originally I I
+there wasn't much thought about the
+mascot, but I did it specifically with
+Luna budgeting because to be honest, I
+it was really meant to be a placeholder.
+Like I made the app icon a photo of my
+dog, like a placeholder image, like an
+illustration of my dog, just almost as a
+joke. Like just as like a, oh, this will
+be this is great. Like I have nothing to
+lose. It doesn't matter. Like let me
+just go do that. Inadvertently what
+ended up happening was I noticed people
+got so attached to this to the dog and I
+kind of thought more about other
+businesses and other just like other
+industries and I realized you know what
+for a lot of places or even you can even
+look at sports teams the mascot is a
+really memorable thing like people
+aren't going to remember what the logo
+of you know I don't know if they're not
+going to remember the logo of a sports
+team but they will probably remember the
+mascot or they'll remember like the
+character like those are really
+memorable and I think the same thing
+applies here to businesses. I understand
+why a lot of businesses don't do it
+because it's very hard to get right like
+if you get it wrong you really get it
+wrong. It could really turn people off
+even especially for something like B2B
+products. Something I had to be really
+careful with was if I'm too cartoonish
+and I'm too playful that could really
+mess things up because some businesses
+won't trust that anymore versus also if
+I go a little too B2B where the logo and
+the mascot are just too generic. I won't
+stand out and I'm really worried about
+that. So, mascots do this interesting
+thing where it really does set the tone
+for the product and like how playful
+it's going to be. And it was really cool
+with the budgeting app because again, it
+wasn't on purpose, but I did notice
+people kept bringing this up. They were
+like, "Oh, I love how like playful this
+is compared to the other budgeting
+apps." Or like, "I love how it feels
+like way more personal." And they always
+like I've gotten so many emails where
+people now like they end the email
+saying, "Oh, say hi to your dog. Say hi
+to Luna for me by the way." They know
+that like it almost also adds this
+dimension where they know the person who
+built it because when you also sign up
+for Luna, I literally throw a photo of
+my dog in the welcome email saying Chris
+and Luna says thank you. It just adds
+this like touch of personality to the
+app and it's so incredibly powerful that
+I was like I got to do this for every
+single app that I do now. Um, same thing
+with um this other app, which I didn't
+mention here that hasn't been released
+yet, but there's this transcription app
+and I made this um I made this character
+called Lily the Ghost. That one actually
+had a couple of in my in my world like
+pretty viral tweets because of the
+mascot. People were like, "That ghost
+mascot looks so cool." It actually got
+to the point where so many people
+reached out when Amazon launched their
+Kira um code editor like a week ago
+saying, "Amazon, check your logo." I
+think I had 20 people reach out about
+that just because they remembered that
+mascot. Um, and so that's that's why I
+care so much about it. Another little
+third third thing that's kind of a
+benefit is when you have a bunch of
+placeholders or these empty states in
+your app, I notice that if you put the
+mascot there, it just adds this element
+of like playfulness and just this extra
+layer of, wow, this is a really good
+app. Because not a lot of apps do that.
+They just usually have like a search
+icon or something in the app, but when
+you see the mascot holding the search
+icon, you you remember those experiences
+in the app. Like even if it you might
+you think users don't, they really do
+add up and it really adds that that
+personality. It adds the personality. So
+that's why I do it. That's why I care.
+>> Yeah. No, it's so good. You know what?
+Can you can you actually um can you put
+up uh just so like people can see what
+some of these mascots look like? I think
+it it'll make it real for people. And
+and just as you're doing that,
+>> um, one of the comments that we get the
+most on these videos, because obviously
+we we've gone through like how to build
+certain things is people are curious of
+like how to do the marketing or the
+branding, how do I get people to use the
+product or like the product? And it's
+like when I saw the way that you
+approached approached it with mascots, I
+was like, it's such a unique thing and
+it's simple, but it makes sense why it
+works. like it adds this like very
+personal touch to the whole experience
+and to the branding. And so I heard you
+say this in one of your videos. You go,
+"My typical process for coming up with
+the mascot is to take handdrawn
+illustrations,
+feed it into AI, and try to come up with
+a bunch of illustrations until I get to
+something I'm really happy with." Can
+you kind of just just take us behind the
+scenes for a second? like show us that
+process of actually you start out just
+drawing something feed that into AI and
+that's how you come up with the final
+design like like show me that.
+>> Yeah, this is probably now the number
+one question that I've been getting that
+I have not answered in any videos. So,
+let me let me first also show you what
+some of the mascots look like as well
+just so you guys can see this. So, for
+uh Luna the budgeting app, this is what
+the mascot looks like. So, this is my
+dog Luna. This is who the app's named
+after. Then we have Lily the Ghost. This
+is the one that everyone just really
+remembered. Um, and they were like, I'm
+just so surprised how how memorable this
+mascot is to people and they really
+loved it. And then Subscription Monster,
+this is the new mascot for subscription
+monster as well. So, I'll take you guys
+through the process of what this looks
+like. I actually have some of the
+chatypt conversations and chatt is the
+way that I am creating these. It is the
+way that I'm doing it. But like you
+said, my current workflow is I take a
+hand-drawn illustration and then I go
+and I feed it into AI to make
+variations. I am very bad at drawing,
+but luckily my girlfriend's very good at
+drawing. And so I actually pulled in a
+favor and asked her to go and and and do
+these for me. And so let me go show you
+guys what this looks like actually. Um
+and so first let me let me show you guys
+what I'm talking about handdrawn
+illustrations. So, I will say for Luna,
+this one's actually it was so good that
+that one I actually didn't even use AI
+for. Like the drawing she gave me, I was
+like, we we got to we just got to go use
+this. Like, it's it's so good. So, this
+is a handdrawn illustration. However,
+what I did was I took this handdrawn
+illustration, threw it into Chachi BT,
+and that is how I came up with Lily the
+Ghost. So, you can actually see some
+elements of the draw of the style like
+the shadows. You can kind of see it a
+little bit in uh in the mascot. and she
+actually has given me a lot more
+illustration. So again, these are
+handdrawn, but you can kind of tell um
+that they're almost a little bit of the
+similar style with the shadowing and
+stuff. But that's been really important.
+Let me show you exactly how I got the
+subscription monster logo, though. Um
+because what I did was I took the Lily
+the Ghost logo and then I tried doing
+some variations of that. And so the
+first thing I did was I guess you can't
+see it here, but I literally uploaded
+the Lily mascot here and I just said,
+"Can you create a mascot of a monster in
+this style?" So again, the issue is a
+lot of people, they kind of just try
+this once and they're like, "Wow, this
+looks horrible. I'm kind of done." Um,
+what I have to do is keep tweaking it
+and I keep modifying it. So, and again,
+it's kind of like the way way I treat
+Cloud Research. It's just a starting
+point and I know what I don't like. So,
+that's the important part. So, I saw
+these and I I tried kind of remixing
+this and I said, "Can you do another one
+where it's the same style, but just make
+it look totally different? Like, I don't
+even know." And then it came up with
+this where I guess it just added like
+one tooth and change the color. And I
+said, "Okay, can you make the give it
+two eyes, make the horns smaller? Okay,
+this is looking a little too
+cartoonish." So, I just kept remixing
+this. And I kind of got to the point
+where I was like, "Okay, this all of
+this is horrible. Like, none of this is
+good." So, I started a new chat, exact
+same uh logo. So again, I just uploaded
+Lily, but I kind of knew, you know what,
+maybe I was too general here where I
+said, make it a monster. Let me be more
+specific. And so I tried thinking, you
+know, what I'm kind of going for is this
+abominable snowman. And so I told it,
+can you make it look like the abominable
+snowman? When this came up, I
+immediately was like, this is exactly
+the direction that I want to take this.
+Like, this is perfect. And you can tell
+it really does take a lot of inspiration
+from Lily the Ghost, which is why I
+think it's important to take some sort
+of illustration, either an existing
+logo, preferably one that you got
+handdrawn by an artist, which shockingly
+is not going to be that expensive for a
+lot of people, like just reach out to a
+local artist. Go ask them, even if you
+ask them, can you just draw this on a
+piece of paper or something for me, feed
+that into ChachiPT and then have it riff
+off of it. That's how you get more
+original art styles when you do that.
+So, but when this came out, I was like,
+"This is great. can you do a version
+where it's on the computer? Really,
+really good. Um, I realized that, you
+know, it does still look a little too
+cartoonish for a business app. And I was
+kind of just trying to think maybe it's
+the mouth. The mouth does make it seem a
+little too a little too happy. Um, so I
+took the mouth off and I realized, okay,
+this is getting a little bit more
+neutral, which again is very important
+for this type of product, like a
+business product. It can't be too too
+cartoonish or else people won't trust
+it. Um, and then so I Oh, I guess this
+is glitched. But I was really happy with
+this direction like this monster with
+this with this computer. So what I did
+was I actually fed in another chat where
+I said, "Cool, we have this monster."
+And I uploaded the one um or I actually
+uploaded the this base one to start off.
+And the reason I do new chats is I
+realized that for chatpt image, it does
+use the pass images pretty heavily. So
+I'm constantly making new chats. And
+I'll show you another example of why.
+But in this version, I said, "Can you
+remove the mouth?" Let's just start with
+this as the base. Like, I really
+actually like this version. It's more
+neutral. Now, can you give it glasses?
+Can you make them wired glasses? Okay.
+Can you have it looking at a receipt?
+Cuz I think it's going to be looking at
+receipts and trans and and uh
+subscriptions and all these bank
+statements. Can you remove the glasses?
+Right here is when I when I saw this, I
+was like, "This is the mascot." Like I
+would be so excited getting this on a
+t-shirt or a hat or something like this
+is just such a cool mascot. I still kept
+trying to like riff on it a little bit
+and see can you give it magnifying
+glass? Can you have it go through a pile
+of subscriptions? Can you have it
+holding a calculator? Um you can see
+here it like added some feed. So
+sometimes it does add random things
+which is why you start a new chat. But
+after a couple of variations I was like
+you know what I'm I'm going to settle on
+this. This is actually this is a really
+good one. Um so that's actually how we
+came up with this logo. And then I just
+picked a I just went on Canva and then I
+got I just used one of their fonts and
+then put it next to the monster. So this
+is the current logo. So I might tweak
+this more. But this is how I come up
+with mascots. Um I'll show you really
+quickly um another version another
+variant that I did because
+um people probably want to see me do
+this. So I took another one of uh
+another illustration that my girlfriend
+hand drew. So this is handdrawn. And I
+decided, you know what? I'm going to let
+me try to make another version of this.
+And this this one's actually interesting
+because I think it showcases what a lot
+of people get wrong, too. Yeah, this is
+it. So, I fed in this starting image and
+I said, instead of a dog, can you make
+this a cat with white grayish brown
+hair? And you can see it really did copy
+a lot of the style. Even got the rubber
+duck. It got all this stuff. And I was
+like, this is a great starting point. I
+then asked it to make a bunch of
+changes. And this is going to be my my
+tip for everyone because everyone does
+this. They say, "Oh, I love it, but can
+you put her in a coffee shop?" And
+instead of iced coffee, a mug and a
+laptop and now it looks like this. This
+is like the notorious chat PT style
+image that everyone keeps generating. I
+have found when you give it too much to
+do, it's just going to almost create it
+from scratch and barely reference the
+original image. So my tip is when you
+have a variation you really like, I
+really like this cat. What you can do
+is you can actually start a new chat and
+this time I all I did was I fed in this
+starting image and I told I started
+making small modifications and what I
+mean by small is can you modify it. So
+instead of iced coffee there's a mug. So
+if you look at the original one there's
+iced coffee and this time we have now a
+mug of tea. Then I told it instead of a
+laptop or instead of a keyboard, can you
+use a laptop instead? Great. Can you
+remove the table and the duck? Great. So
+now we literally went from having this
+handdrawn illustration to this new
+potential mascot for another app cuz I
+do plan on getting a cat very soon. So,
+but that's literally how you can take
+these handdrawn illustrations and riff
+off of them. In another world, what I
+probably would have done is take this
+illustration, work with the
+illustrationist, and then just have them
+kind of make a bunch of different
+variations until I'm happy, which I'm
+honestly okay doing, too. But the
+problem is I feel kind of bad when I do
+that because I know that I probably only
+have two or three iterations with them
+before they'll start getting mad at me.
+And what I love about AI and what I love
+about chatbt is you almost have
+unlimited variations. But again, the
+really important part is I think using a
+handdrawn illustration and handdrawn
+because I've noticed that when you just
+give it random references to things,
+which number one can be really bad if
+you don't own the copyright to that or
+something. The other thing is it's for
+some reason it comes up with very
+non-original things. When you do
+something handdrawn here, I know that
+there's only one variation that exists
+of this image because it was
+commissioned. It was handdrawn. So, but
+that's that is the process and that's
+what I've been doing. That's how I got
+Lily the ghost. That's how I got or it's
+not how I got Luna, but that that is how
+I'm going to get all the mascots. And
+again, the beautiful part is now I can
+use this as empty states. So, when I'm
+processing your transactions, imagine if
+you have an animation of the
+subscription monster going through this
+or if you're conducting a search as
+looking through your subscriptions, you
+can have this as the as the um the
+placeholder logo logo while that's
+running. So again, when you have um
+Chachi BT and you can make unlimited
+versions, you can almost make every
+single placeholder you can conceive of
+and put them in your app, which does
+really elevate it, I think.
+>> Yeah. So that's the process.
+>> You know what it first of all, it's so
+good. Thank you for sharing that. I
+think the the other piece of it and you
+know, when we first started doing uh
+these master classes, especially on AI,
+this was like a a mindset switch for me.
+And so what I mean to give context is we
+did an episode a few weeks ago with uh
+Riley Brown and one of the things he
+said to me before we even recorded the
+episode, he said, "The way that you have
+to think about building things with AI
+is fundamentally different than the way
+that we previously used to do things."
+And the thing that he said next, he
+goes, "It's all about speed. It's all
+about speed and iteration." And so what
+you just demonstrated with like the
+interaction that you have with chat GPT
+where essentially you give it something,
+you ask it to make like one change, you
+give it a single piece of feedback and
+you kind of go back and forth sometimes
+to like new chats. It's like this very
+quick iterative process that will take
+you to the final thing. And for me that
+was like um that was a light bulb moment
+because I think in the way that things
+used to be it was always like try and
+get it as perfect as possible what
+you're building. Take a bunch of time
+doing that and then release. Now it's
+like all about speed. It's like give it
+this give it a feedback point. It's
+going to give you an output. Go again
+and again and again and again until you
+get to that perfect thing. Um, I think
+it's so good. You know what though? So,
+and I and I given this quote a few times
+where you said, "I've been working on
+this casually for three days talking
+about subscription monster and we
+already have a brand, a working
+plan." So, you and I have covered the
+really rough business plan. We just went
+over the branding piece and the mascot.
+I think it's time we get into the
+prototype.
+Um,
+yeah, maybe you can open Clawude Code
+and kind of just show us around and we
+can jam a little bit.
+>> So, let me show you guys what the what
+the prototype looks like. And I'll be
+honest, I was messing with it a little
+bit um before and I think I might have
+broken something, but um that's just
+also how it is. So, let me show you guys
+though what this prototype looks like.
+Um so, let me show my screen.
+So, this is the actual app. Um, it is
+also
+actually hooked up to my actual one of
+the bank accounts that I have for the
+business. And it does show the upcoming
+subscriptions like what we're going to
+be charged for. Um, and I'm able to do
+all this filtering. But the really cool
+part is when I was going through this, I
+started identifying like I actually did
+identify that I was paying for two
+cursor accounts without realizing. So,
+and and cuz I I just have so many
+different of these accounts, it's
+impossible to keep track of, but it
+actually does function. It pulls in all
+of the transactions. Um, I'm able to go
+through, there's like hundreds, like
+it's pulled in, I think, 1,400 of my
+transactions. So, it's the last two
+years worth for these specific accounts.
+And it is actually very it's like an
+actual useful prototype. And the big
+thing that it allows me to do is I mean
+it does answer my question, but now what
+I'm going to start doing is giving it to
+other businesses and seeing and I want
+to see if I get that same magic moment
+where when I discovered wait why are we
+paying for this? Like I thought I
+canceled all the all of these
+subscriptions. Um I want to see if I can
+get to that same point. So this is the
+prototype. This was really built in I
+think very casually. I got to roughly
+90% of this in like 3 days. What I ended
+up also doing too was um to really prove
+that this is actually not like like
+there's really nothing magical here.
+These are all of the prompts that I use
+with cloud code and I categorize them so
+you can even see what kind of prompt
+like am I dealing with an error? Am I
+trying to make a new um am I iterating
+on it? Am I adding some new features? Or
+am I doing some design work with cloud
+code? There was aboutund7 I think 116.
+There's 116. I think one of these is
+just like a a note for me. 116 prompts
+to get it to this point. It has plaid
+linked in so it's able to actually hook
+up to bank accounts. The syncing does
+work. So it does actually sync. It uses
+AI to actually go categorize trans uh
+transactions and everything and being
+able to figure out what are the
+subscriptions that we have. So all of
+this stuff does work. Some stuff is a
+little broken right now cuz I did break
+it like an hour ago, but it actually
+does function and it does work and it's
+it's uh 116 prompts to get here. So, we
+can go through some of these prompts,
+too. What we can also do um because I
+will say like you can even see here when
+I this was the first prompt. I said, can
+you create, you know, can you can you go
+do this? And I actually pasted in um the
+features that I want because I told I
+had another cloud instance where I said
+can you just make a list of of
+everything that's needed here like what
+are all the core features I need and
+that's how we started this but there was
+a lot of errors like like I think cuz I
+asked it a little too much. That's
+actually not what I advised to do. I was
+just I was kind of reckless with this
+one. I was moving very quickly. Um a lot
+of errors. So a lot of it was like me
+just trying to figure it out. So, we
+probably shouldn't go through it from
+scratch because it's kind of it is kind
+of rough. But, um, another thing I did
+want to showcase here too though is kind
+of the breakdown here. Of the 116
+prompts, um, 31, like 25% of the prompts
+were really just me making modifications
+to it. I did a lot of design stuff to
+get to this point. So, 44 prompts were
+to really work on the design of this.
+And so, it was just a lot of little
+things like this card right here was
+very conscious. I was like really
+playing around with the design. Um, and
+then the error rate was actually very
+surprising. Only 14 prompts were to deal
+with errors. A lot of them were at the
+beginning because again I don't think I
+did it right. And then I did ask it a
+lot of questions which we can kind of
+get into what these questions are. Um,
+so but this was all done through cloud
+code. And the way that it really works
+is let me just pull up let me pull up
+cloud code right here. Um,
+so this is um I'm running it in a
+terminal called warp. Um, this is like
+my favorite terminal but and you can run
+it inside cursor. You can run it
+anywhere. But the way that I do this is,
+let me see.
+>> When you say it's run inside warp or run
+inside like cuz I'm not going to lie,
+this is the first time that I'm even
+seeing someone go through clawed code.
+What does that mean that you're you're
+running it inside warp or running it
+inside cursor.
+>> Okay, perfect. So, so what it means is
+to access Cloud Code, you have to use
+some sort of terminal. And a terminal is
+just a way for you to interact with the
+files on your computer without a folder.
+So typically when you're, you know,
+trying to go through your files, you
+pull up Finder, you start moving around,
+and that's how you navigate. In a
+terminal, you can interact with the
+computer just by typing, just through
+text. All computers come with a
+terminal. So if you just go on your Mac,
+you type terminal, you got one. You have
+to access cloud code this way, which is
+very confusing for a lot of people. So
+what I've done is I've opened up the
+terminal, and what I have to do is I
+have to go navigate. So, let me just go
+back here. I opened up my terminal. You
+have to navigate and go into the folder
+of the project to be able to use this
+thing. And so, this the commands that
+I'm typing here might be confusing. All
+you have to do, all you have to know is
+CD just means change directory. That's
+just the equivalent of me going in
+Finder and saying go to mascot basis
+folder and just go in there. So, I'm
+just going into the subscription monster
+folder. And so, now here we are in this
+folder. So, if I type this, you can see
+these are all the files that we have for
+subscription monster. It's the same
+thing that you would it's the same thing
+that you would see here. Um, like it's
+literally just the same stuff you would
+see here, but this is the starting
+point. This is where you would even
+begin to access Cloud Code. So, now what
+I can do is I type in the cloud command
+in the folder in the project that you
+want. And now I'm running Claude Code.
+And so now I have this chat window and I
+can just start asking it questions. So
+let me while this is running, we can
+maybe have a discussion and you can ask
+any questions. Let me show you just what
+this looks like. So again, I've already
+built out this project, but let's say
+you're in a new codebase and I just want
+to ask it something. So we're not going
+to ask it to build any new features, but
+maybe I ask it, can you explain this
+codebase to me? Oops, I even misspelled
+it. But it's really smart. So I realize
+you can even just you can type in it
+understands misspellings. You don't have
+to be perfect with this. What it's going
+to do is it's going to start thinking
+and it's going to start trying to
+analyze the codebase. What I found is
+that cloud code takes a very long time
+to run things like 30 minutes to up to 4
+to 5 minutes every time I ask it to do
+something. And it's because it's really
+thinking through the problem. And I do
+think that is a big reason why it is
+more humanlike because unlike a lot of
+coding tools where you tell it to do
+something and it's just going to go
+execute it immediately. This thing
+spends a lot of time reading and
+thinking which I think a lot of if
+you're a good if you're really good at
+what you're doing as a human, you will
+probably do the same thing. So that's
+that's kind of that's kind of uh how
+this works is you just you have this
+chat window. You can ask it things. And
+so now it just answered my question. It
+said subscription monster helps users
+track and manage recurring
+subscriptions. Here's the architecture.
+We're using Remix. We're using Clerk.
+We're using Convex as a database. We're
+using Plaid for the banking. It's able
+to it's able to answer all of these
+different questions. Um and then
+obviously I can then chat in here and
+ask it to go make some modifications. So
+let me just also show you what this
+modification looks like.
+>> So let's say one sorry one quick thing
+Chris. So the the initial kind of code
+base that you were asking it to kind of
+break down and explain, where did that
+come from?
+>> So this was generated using cloud code.
+So, what I did and and if you want, we
+can actually just go through and just
+make a really quick test project if you
+want to see me go through it.
+>> Um, I'm just thinking the the basics of
+like someone is literally they're
+watching this video and they're opening
+this for the first time and they're
+like, how do I just get set up here and
+get started?
+How about How about How about I just go
+do that? I can just go ahead and just
+start. Um, we can just go through and
+make a we can make like a a mini version
+of subscription monster from scratch.
+Um, do you want to should we just go
+ahead and do that?
+>> Yeah, we can do like a quick one and
+we'll do it like almost the the roughest
+prototype cuz I think my belief is I
+just think momentum is so important. And
+so even people being able to just like
+get started and build like a rough
+thing, there's like value in that and
+then you can iterate from there.
+>> Okay, then let's let's go let's go do
+that then. Um, so here, let me go spin
+this up. So, and and I ideally I would
+have loved to like spin up subscription
+monster and done this from scratch here,
+but again, it takes like 5 minutes for
+each of these messages with cloud code
+and I did 117 of them for this, so it
+would take a long time, but we can do
+something really small here. Um, so this
+is just from scratch, nothing. So, right
+now we're just in the developer folder
+of my computer. So, this one has Yeah,
+this one has all of these files. Um, so
+let's say I want to make a new project.
+I will create a new folder here in
+Finder. And we're just going to call
+this mini monster in Finder. You could
+you could do this. You could do this um
+uh through terminal 2, but I'll just do
+it here just cuz I think a lot of people
+do it that way. And then if we look
+here, we can see cool. There is a folder
+called Mini Monster. Now, I'm going to
+go into that folder. So, now we're in
+it. It's just a blank folder. There's
+nothing in this. Um, what I'm going to
+do is start Claude Code inside of this
+folder. And so, just like you saw
+before, now I can start asking it things
+about the codebase, everything. But
+there's nothing in this. There's
+literally nothing. So, what I'm going to
+do is I'm actually going to say, can you
+create a new app for me? Let's use I'm
+actually just going to dictate this
+React for the front end. keep it very
+simple and just have it say hello world.
+You are already in the directory I want
+it to be built in. So don't make a new
+directory.
+So all I'm doing here is I told I'm just
+telling it let's just spin up a new app.
+Don't make it do anything. Let's just
+let's just do this. This is a very
+common thing that I see from people is
+and again I I was guilty of it. That's
+how I spun up subscription monster. But
+that's also why when I did it, I have
+like all half of the errors of the
+project were after me after my initial
+prompt. My advice is to go through cloud
+code and start with a very basic project
+to make sure it's running and start
+iterating from there quickly. So I just
+asked it just spin up a quick React app,
+a hello world, and it doesn't even have
+to be React. You can just tell it spin
+up an app and it could recommend you a
+programming language. But in my head, I
+know that I want this to be React app.
+And so that's why I told it to do this.
+I also told it specifically do it in
+this directory. That's just a thing that
+that I'm aware of that sometimes as I've
+done cloud code projects and I from
+scratch it'll spin up a new directory. I
+don't want that. Um so but what it did
+was now it said cool I'm going to go
+ahead and spin up a simple React app
+that just says hello world. Can I go
+create like here are all the things I'm
+about to do and we're on this one. We're
+going to create this project. Um, what
+it's going to do is if is it's going to
+tell you every time it's going to create
+a file or just make any sort of moves
+here. You can actually tell it like yes,
+cool. This sounds good. And then you can
+keep reviewing that over and over again.
+Or if you see here, option two is you
+can tell it, yeah, do it, but don't ask
+my permission again. Just start just
+keep doing this. This is such a simple
+thing that I feel comfortable enough
+telling it all good. keep doing it and
+you don't have to ask me anything to be
+honest and I'm might get some heat for
+saying this like it is so good that I
+would feel comfortable for non-technical
+people to actually just auto accept a
+lot of this stuff and then just put this
+in the code base. But the caveat is what
+I think needs to happen is as you're
+building before you go to production or
+before you ship anything, review
+everything at the end or have a coder
+review it or something. But I actually
+have gotten to the point where if you
+ask it things correctly, I do trust it.
+But that that's what's going on here is
+it's trying to set up the project. And
+all you have to know is this is just an
+initial starting file that just defines
+cool what technology are we using? You
+know, how are we going to run this
+thing? What is it? And so I'm just going
+to accept it. And now it's going to
+start actually making this React app for
+us. And again, this could take a few
+seconds, but so maybe you want to we can
+we can chat while we let this run.
+>> So So that's your so that's your kind of
+your starting point. Like that's the
+foundation of like you're you're getting
+into clawed code. You want to start
+building something. What you just
+explained is kind of like the foundation
+like the first step of that.
+>> Exactly. Exactly. This is the
+foundation. This is the foundation.
+>> Okay. Um
+>> Oh yeah. Sorry. Go ahead. And then the
+other thing I was going to say quickly
+is you you specified that it's a React
+app. I guess why why is that? What does
+that mean? Like I said, this is going to
+for some people that are listening, this
+is going to sound rudimentary, but I'm
+like for the for the complete beginner,
+why did you choose React and specify
+Yeah, to be honest, um it it's only
+because I've built other React apps, but
+so that I know to do this. If you're a
+complete beginner though, what I would
+do is I would actually I mean to to be
+honest, for most apps, um I would I
+would either go ask Claude or go Google
+it or go try to figure out what
+technology should I use or honestly you
+could just let Claude just default to
+whatever it wants. Just say I'm going to
+try to build this app. But I actually
+would try to pick a technology first and
+do a little bit of research. Um, but my
+default for most apps that I would
+recommend to people is just do a React
+app. If you're doing iOS, do a React
+Native app or do a Swift app. So there
+are some of these almost like standards
+that a lot of apps use. And I think most
+people who are nontechnical can get away
+just using React or using these things.
+Um, but the reason I specifically
+specified here, it it is a technical
+thing. It's just cuz I know that's it's
+it's just a really good base. It's just
+a really good one. And most of the
+vibecoded apps are using some form of
+React. So if you use Lovable, if you use
+Replet, I think if you use Vzero, they
+will be some flavor of React apps. I
+think for them they specifically use
+something called Nex.js. But so there
+are these standard things that most apps
+do use. React is one of them. But the
+reason I knew is because I've done it
+before. But if you don't know, we can
+actually see um if you go through here
+um here I actually let's do this
+instead. Um I'm actually going to delete
+what it did. And instead what I'll say
+is actually I'm going to clear this. So
+let's just pretend here. Let's actually
+just spin cloud code up again. So let's
+say we're in this directory again. We're
+in the mini monster directory you made.
+I'm going to spin up Claude. If you
+don't know where to start, you could
+actually just tell it, can you build me
+a simple hello world app?
+but I don't know what technology to use.
+Can you make some recommendations?
+You could actually just ask it this
+initially and it's actually going to
+think through what you need and then
+similar to cloud desktop it's going to
+think through and it's going to actually
+help you choose. So if you say cool I'll
+help you make this let's look at some
+recommendations. So actually the first
+thing it recommended is react another
+option is nex.js JS, another is view.
+And then if it's mobile, it's going to
+be React Native. If it's desktop, so you
+if you're not sure where to begin as a
+beginner, you could actually just ask
+cloud code itself, what does it
+recommend? And then you can say great um
+you can even ask it follow-up questions
+like why would I choose Nex.js over
+React? What are pros and cons? Um and
+this is something I haven't actually
+seen a lot of people do with vibe coding
+tools is just have a conversation with
+it. typically they're just using it to
+build. But what I found is cloud code is
+so it's pretty good and it's very smart
+that I I constantly am asking its
+opinion or having it double check my
+work. So then it says here next.js
+here's the pros, here's some cons, plain
+react simplicity, which is what we're
+going for here. That's actually why I
+physically chose it as a programmer was
+we need simplicity. Like we don't need
+half of the things that are in Nex.js.
+Um and so I can even ask it what would
+you choose? This is just a demo thing.
+So we'll see if it comes to the same
+conclusion I as a programmer came up
+with just from this conversation.
+So it says it wants to use okay it wants
+to use something called vit which is a
+it's a type of react and it's uh
+actually I guess I guess it is react it
+is literally react and it is like a very
+simple thing to just build very simple
+apps and it's it doesn't have all the
+stuff that next.js has so then I could
+just tell it yes let's do it. Can you
+Yeah, actually let's just do it.
+So, this is kind of the same process
+that we just went through where I said,
+"Can you spin up this React app that
+says hello world. Now, instead, it's
+it's just we we kind of just went
+through that process as a total
+beginner." And we told it, "Hey, I don't
+know what I'm doing. Can you give me the
+recommendations?" And now it's just
+going to go through and it's going to
+follow these steps. It's making a It's
+making another folder in here, but
+that's okay. We'll just let it do that.
+And so now what I'm doing is I'm just
+letting it set up the project. Um I will
+say that claude code there is a little
+bit of this curve where when you're
+working in a terminal or it's asking
+you, hey, are you sure you should run
+these commands? It's very daunting to
+beginners. Like this is probably very
+confusing for people, but it is
+extremely similar to what's going on in
+cursor. Honestly, I think it's like I
+would say that the learning curve just
+because of this interface is it feels
+like the learning curve is higher. The
+actual learning curve is substantially
+easier with cloud code, I believe, than
+than most of the other coding tools. I
+think this is honestly closer in terms
+of learning curve to lovable than it is
+to cursor. Um, and and it's even closer
+to it's like closer to those tools even
+though it looks like this. I think this
+thing is really scaring people. And the
+fact that it's like I'm going to make
+I'm going to edit this file. are you
+sure you want me to do this? It is very
+daunting. Again, it's one of these
+things where I'm just going to accept
+what it's going to tell me. And we're
+just going to see what happens when I
+accept it, but I do trust it enough
+where you can just keep hitting accept
+most of the time and it should work. I'm
+going to get some heat for saying that,
+but I really do think it is. And that's
+the way that I do it. I usually just
+almost accept everything until I get to
+the end and then I really review
+everything pretty thoroughly. But I just
+I just trust this thing so much at this
+point just because I've I used to
+manually review every single thing it
+did. But then I noticed that I was just
+accepting like 99% of everything anyway.
+So I think it's okay. Okay. Now
+>> I think to I think to your point as well
+because watching it and like listening
+to you as a beginner it is like
+intimidating when you see this like it
+looks very technical but I think what
+you actually just went through and
+explained is really valuable to the
+beginner where like you can actually ask
+it questions and get in a conversation
+and through that process of like asking
+like how would you program this like
+which how would you go about doing this,
+not only is it like are you getting to
+the answer, you're also starting to
+learn, you're almost becoming technical.
+Like you're starting to learn uh some of
+these things. And so that process as
+well is actually really important of
+actually learning some of the
+technicalities of how to do this.
+Yes, I I genuinely think if you're a
+beginner or you're just kind of starting
+out programming, Claude Code and just
+most of the coding tools, it is the
+greatest way to learn programming. And I
+I really sucks cuz I hear a lot of
+people saying, "Don't use it. You're
+going to get dumb. It's not going to be
+good." Yes, that's very true. But I
+really think that if you use it
+correctly, you will literally become
+such a good programmer. Again, if you
+don't rely on it too much because you
+it's so patient. You can just ask it. I
+can ask it I don't understand like a
+million times and it's not gonna get mad
+at me like a senior programmer would if
+I ask them the same question a million
+times. So it is a really good tool. Um
+so it's done it just spun up. It says
+that it just spun up this app and so
+it's actually telling me um like okay I
+spun it up. Go to your browser and go go
+look here so we can see it. When I click
+it it's not working like it's not
+running. Um so it looks like it's down.
+I kind of knew that this would happen,
+but I basically if I say it's not
+running, how do I run it again? It
+actually did tell me right here if you
+want to start it, run these commands.
+But um I'm just going to ask it like I'm
+just going to ask it um like how can I
+run this? And it says to run your React
+app, run this command. So what I'm going
+to do is I'm going to copy this command.
+I'm going to open up another window. And
+again, we're just we're just in the
+folder again. We're just in this mini
+monster folder we created. And I'm going
+to go run the command it told me to run.
+And now I see the reason that it didn't
+work. And I just know this as a program
+is because it said, "Oh, I'm running
+your app, but it's not cuz like we're
+talking to it right now. It's it's not
+actually actively running it." So it was
+running it at one point, but then it
+stopped to then have the conversation
+with us. That's just a thing that I'm
+aware of. And so but I did ask it, "Hey,
+I don't think it's running. What do I do
+again?" And it says to run it. To be
+honest, if I was a super beginner, you
+can ask it like you can literally tell
+it like I'm a beginner. I don't
+understand.
+How do I run this? Again, it's just this
+patient senior developer over here who
+will answer your question. So, you can
+ask it. Um, and it will literally tell
+you like or I guess now in this case,
+>> let's see.
+>> It's like coaching you through the
+process.
+>> So, not only is it building it for you,
+it's also coaching you and in the same
+time.
+>> Exactly. Exactly. So if I ask it here,
+um, well, it's a live demo, but I'll
+I'll I'll see that. Oh, yeah. So, it's
+Oh, I think I messed up because I was
+already run I am running it on the
+right. So, now it's like
+>> Oh, it's confused. Let me just It's
+confused.
+>> It's a little confused. So, if I But if
+I tell it um here, I shouldn't have I
+shouldn't have had it running on the
+right when I asked it. It's not running.
+Um cuz now it's trying to It's trying to
+figure out why it's not. So, it's like
+it's like it just it just killed the one
+on the right side to then try to to
+>> figure out why it didn't work before.
+>> Yeah. So, let me just here let me just
+stop it. You can hit stop by hitting
+escape. So, you can tell it you can just
+stop it. Um, so I'll just I'll try that
+again, but this time I'm not actually
+running it on the right.
+Let me help you step by step. So, I see
+it's it's it's still trying to run it.
+So, it's not telling me like how to run
+it. It's just it's just it itself is
+still trying to run it. So, what I'll
+actually do is I'll tell it
+I'm a beginner. How do I run this?
+I want to do it myself in the terminal.
+So let's see if it gets it this time.
+Like I just want I just want some
+instructions. And so any Yeah. So it
+says here, okay, open your terminal. We
+have it open.
+Type this command in, which is what we
+did. And then you're going to see
+something like localhost. Click that
+link. And now it should be working. So
+again, we're here. We open the terminal.
+We're in this folder. We hit Oops. We
+hit npm rundev, which it told us to do.
+And just like it said, you know, you're
+going to see this link localhost. And
+then now when you click it, Whoops.
+What is that? I think I know what's
+going on. I shouldn't have named it
+that. Oh, I know what's going on. Um,
+sorry. we are in.
+>> See, I like this cuz I feel like people
+can see and we we spoke about this
+before like I think it's good for people
+to see how messy this process is
+>> cuz then when you're coming across the
+problem you're not like oh great I
+messed up and give up. It's like this is
+actually what everyone experiences.
+Yeah.
+>> Even like someone who's been doing it
+for a long time, an expert at doing it.
+>> Yeah. Yeah. Yeah. No, no, there is it is
+still especially in this in this
+environment, it is also like just extra
+daunting. But I think the reason is cuz
+I I I'm I'm running this in the wrong
+folder again. Um I think it's again this
+is just because I was trying to run this
+before the podcast. So I think I like
+messed something up here. But um let me
+see if I go to mini monster. Okay. Oh, I
+see. Okay. So what I need to do is it it
+it did this thing which um I I could go
+try to correct this, but it actually
+made another folder inside of Mini
+Monster called Hello World app. That was
+what I was trying to avoid in the
+beginning when I told it that one
+command where I said um hey can you can
+you do it but don't make a new folder
+you're already in the folder. That was
+what I was trying to avoid with this
+just because that's that's something
+that I've noticed as doing this which is
+as if you're a beginner that's going to
+be confusing. You're going to probably
+make this folder and you're going to be
+like why did you make a new folder in
+here? So, what I'm going to do is I'll
+just say I'm just going to I'm just
+going to go into this folder now and
+we'll we'll just work in this folder cuz
+it it it already did it. Um, but so now
+we're we are in we are in the hello
+world app folder now. We're in here.
+This is where the project is. So, in
+here I can run npm rundev. And then now
+we have the URL. And then when we go
+here we can see hello world. So we
+actually have our app running now. Um,
+so
+I have the I have the server I have the
+app running on the right and again we
+just we really just followed Claude's
+instructions. It's just I I wish like I
+think what would have happened if I'm a
+beginner and I'm like it's still not
+running. What is going on here? You
+could tell it that and be like hey it's
+still not running. I'm getting this
+error and eventually it will tell you
+you're in the wrong folder like like or
+it'll ask you like what folder are you
+in? Like it's probably going to go
+through some of these steps that a
+senior programmer would to try to
+troubleshoot with you. It is that smart
+to be able to do that. But that's
+typically like what I do whenever I spin
+up a new project and something's going
+weird. I just kind of have a
+conversation with it. But so let's say
+that we we now have at least this very
+basic like very basic hello world app
+running. Um it again it generated all of
+this code in this hello world app
+folder. It's just in here. This is the
+base of a React app. Just like as a
+programmer that's what this is. Again, I
+really don't think you need to look at
+the code here like to to get a working
+app. Preface, look at the code before
+you like you ship this and look at
+definitely still review the code at the
+end, but you don't have to. Like this is
+most likely very good code cuz it's a
+very simple thing once you get into
+complex things. Maybe things maybe maybe
+you will need to start looking while
+it's doing it. But for something simple,
+we can just keep going and asking it to
+start building things. So now that we at
+least know that this is running, the
+next step is I'm going to tell it,
+can you create a simple application for
+me from this
+codebase that you've made? Let's just
+make an app where I can drag in a PDF
+and it's going to analyze the bank
+statements and identify subscriptions,
+but just hardcode everything. I just
+want the interface. So, what I'm asking
+it to do is actually modify this Hello
+World app and build me this app where I
+can drag in a PDF and it'll analyze
+transcriptions. The important thing to
+note that I did here though was I told
+it to hardcode everything and I just
+want the interface. That's it. This is a
+really important technique that I have
+and I really recommend beginners do
+this. A lot of beginners try to oneshot
+um a bunch of like like the entire app
+in one shot, which you can get lucky,
+but in my experience, I really think
+kind of like generating the logos and
+the mascots, it's much better to just do
+this piece by piece and do it slowly so
+you have a little bit more control over
+it. But also, I think it the AI has a
+lot easier time being able to follow
+your instructions when it's just small,
+manageable pieces. And what I always do
+for all the applications is I always
+especially when it's complex, I always
+ask it do the UI first. So just the
+interface, no functionality. I don't
+want anything to work. Then when I'm
+very confident with the interface where
+I'm like this is exactly how I envision
+it. I love where the buttons are. I love
+all that stuff. Then I tell it, okay,
+let's start implementing functionality.
+Can you start adding the database? Can
+you hook it up to the internet? Can you
+do all of this stuff? And then I feel
+like it has an easier chance at doing
+first interface than that versus try to
+do it all in one go. So what I'm going
+to do is actually see, okay, can it make
+this interface here? And that's also
+just like a product technique because
+usually when I'm building apps and I see
+it for the first time, I know what I
+hate. And now we'll we can do that in
+this example, too. But let's say I see
+this and I'm like, oh, I want to change
+the buttons. I want to do this stuff.
+It's so much easier to tell it, hey, can
+you move this stuff around when there
+isn't a bunch of code for the back end
+or there isn't all this other stuff.
+It's just it's just a a prototype with
+hard-coded data. So much easier to
+prototype and work with it while it's in
+that form. So that's just another tip.
+That is the that is the steps that I
+take when I'm working on features and
+new apps. It's interface first, then I
+go for backend design. Um, so it says
+here that it made it. So now what we do
+is we just have to run npm rundev. Um, I
+actually think it's going to just update
+for us. Actually, I think I don't have
+to rerun it. I think I can just look at
+the website. Um, so, and then now we
+actually have it. So, we actually have
+this interface. And it's just an
+interface. That's all it is. And what
+I'm going to do is I actually do have a
+a sample PDF. I'm just going to upload
+the bank statement. And we can see that
+it identified these things. Again, it's
+it's fake data. It's all hardcoded cuz I
+told it it shouldn't function. But it's
+kind of cool that it actually like
+whatever. I'm pretty sure whatever file
+I throw in here, it's going to show all
+this stuff. But the the beautiful part
+is that I can start modifying this. So
+now if I say, you know what, I don't
+like the design. I don't like how it's
+like kind of centered to the left. Um,
+what I'm going to do is I'll go back to
+Claw Code and I'll tell it some
+corrections. This looks great, but can
+you actually make it where it's
+centered? I don't know why it's left
+aligned. It almost looks like it was
+made for mobile for some reason. Can you
+make it look more like a website and
+make the design a little bit more
+modern?
+Um, so if you notice, I also just kind
+of talked to it like a human and
+dictated. So that's another thing too is
+that Claude Code is pretty smart enough
+to deduce this stuff, like it's going to
+really think about what you said and
+break it down. So unlike some other
+coding tools where I think you have to
+be very direct with it like that, you
+can get away with this in cloud code.
+Um, and so I and again, we're just
+working on the interface. There's no
+functionality. It's not actually
+processing the bank statement, but I
+just like don't like what I saw. And we
+can see it's already working. Like um so
+the server is already running, so we
+don't have to restart this. Like it's
+just going to start making modifications
+here. But the important part though is
+like I'm doing this step here before I
+hook up the data because also cloud code
+will have an easier time executing it if
+it doesn't have to think about all the
+other stuff. It's just thinking about
+the interface.
+>> Yeah.
+>> Um so let's see.
+>> I don't know if you have any questions
+while this is running.
+>> Yeah, Chris. So, one I'm thinking just
+just in the um in the interest of time
+because we're we're nearly we're nearly
+up. I think so so two things. So, the
+first thing is you're actually and this
+is even how we got inspired to create
+this. You're actually showing all of the
+steps and like covering all of the steps
+of how you're building subscription
+monster. And so for the person that's
+listening at home, like they can take
+this episode that of this conversation
+that you and I have just had as like the
+basis, but then actually see some of the
+steps and also the exact prompts you
+used on uh Claude Code to build the
+final app. That's correct, right?
+>> Yeah, that's correct. Yeah, I'm going to
+document the entire thing. I'll be
+sharing all the prompts that I use. You
+can see the 116 prompts to get here.
+Yeah, I'm going to try to make this as
+transparent as possible.
+>> Cool. And I think the other thing that's
+that's really cool that you kind of and
+it's like a central principle is
+actually you start with the interface
+like you start with how it looks and
+like interacts with the user like how it
+feels, where the buttons are, all of
+that stuff. And then you uh after that
+step and after that's perfect, then you
+start to figure out all the backend
+stuff that makes it work like the actual
+functionality.
+>> Correct. Yep. Exactly.
+>> Sweet. I guess to cuz I I have two
+things before we before we finish off
+in that process like even when you're
+speaking to beginners or even for
+yourself in the beginning.
+What do you find is the mistake that
+people especially beginners make that
+like
+it kind of gets them disillusioned with
+the whole thing. like it stops them
+getting to that point that we're just
+that where they actually have something
+tangible in front of them and now they
+can make the modifications. Like what do
+you find as someone's doing this is the
+thing that they should be aware of of
+like don't do this because this is going
+to kind of get you into the troubled
+waters.
+Number one for sure is trying to do too
+much in one go. It's the same thing with
+the logo. Like when we were making the
+logo, you ask ChatgPT to make all these
+modifications. Just like a human, you
+give them a hundred instructions,
+they're gonna they're going to fumble
+that. Give them one instruction, way
+higher chance of figuring it out. Same
+thing with cloud code. When you break
+things down into smaller chunks, it
+really has a higher chance of getting
+it. And the second thing is to really
+try to ask the right questions when
+you're working with it because it is
+like a lot of people, they kind of just
+ask to literally talking to a human.
+When you ask someone an open-ended and a
+vague question, of course, you're going
+to get probably not the best response.
+Ask very specific things. So, if you
+notice when I said, "Hey, it's not
+working." It didn't it was like, "Oh,
+yeah, it's not working. Let me try to do
+it." Versus if I said, "Hey, it's not
+working. I want to do it myself. Can you
+explain it?" We got two different
+answers. Like, it then gave me the
+instructions. So, how depending on how
+you ask the questions or you phrase
+things is extremely important. But
+really think of this as a human like you
+would a human. You've never met a human.
+you don't know the the competency of you
+don't know how well they can interpret
+things, you will probably go slower and
+you will probably really break things
+down to make sure they understand. Treat
+cloud code like that. Those are the two
+big big tips.
+>> Yeah. One of the questions that we get
+the most is always like, well, how do
+you get your first users? And
+interestingly, like you have the join
+weight list. So, it's not actually live
+yet, but you're already building a
+weight list.
+give give me the why do you do things
+like that?
+>> Yeah. Um so I do I do this because
+number one to gauge interest like so
+while I'm in the process of building I
+always put up a weight list. I have a
+whole video on this like why I do this
+but you get you get to gauge interest
+because truly I put out one tweet I
+expected one or two signups and I
+expected it to just be curious people
+who are like I just want to see what's
+going on. There's already been 25 people
+which signals to me this is kind of
+interesting. I've also more importantly
+got a lot of comments and people saying
+hey my girlfriend owns a business like I
+think she would actually use this. Let
+me know when it's live. So the weight
+list really signals to people. It just
+gives them a way to to be able to show
+hey I'm interested in this. Which
+shockingly it sounds so intuitive but a
+lot of people don't do that. They just
+kind of build privately and then they
+they don't even have a way for people to
+do this. Um that's really important. The
+second thing is um is if I have this
+initial set of users, it is so critical
+for me to pull from that pool to then
+beta test and to be able to to to to
+check because if I didn't have this list
+of 25 people and I'm like, man, I really
+want to test if subscription monster
+works, you know, in another country,
+it's going to be really hard because
+then I have to go out and go find
+people. these 25 people have expressed
+interest that they're that they hope
+hopefully they own a business. Hopefully
+they have something where they can
+actually test it. It it's just it's just
+a no-brainer to do stuff like this. But
+and it's also the the path to get the
+first user because let's say I have 10
+of these people help me beta test. The
+next 15 people who signed up or those
+other 15 people are pro possibly going
+to be paying user number one. So it's
+just like it's just like a like building
+momentum before the products even
+launched. I think it's really important
+to do this.
+>> Yeah. It's almost like the the step zero
+of like your marketing. Like before the
+thing's even live, you've already got
+momentum.
+>> Um,
+>> exactly.
+>> You know what, Chris, here's here's
+where I wanted to end. I think one of
+the reasons and it was even why I was so
+excited to get you as a guest is because
+not only have you built the thing,
+you've also been the person that in the
+beginning had like wasn't the coder,
+wasn't the software engineer, had all of
+the imposttor syndrome that comes with
+not having that skill set already, but
+still wanting to build things and make
+money from it. And so my question for
+you almost if we had to like rewind in
+time and the Chris that's speaking to me
+now had to have a conversation with
+someone like the Chris of the past who's
+watching this video and is like inspired
+to go and build something but is facing
+all of that imposter syndrome, the
+limiting beliefs, the self-doubt.
+I'm just curious with everything that
+you've built and the success of it and
+the thousands of users and the revenue,
+what would be the one thing that you
+would almost tell that old version of
+Chris that when he's having that peak
+moment of self-doubt,
+it could just get him through. I'm I'm
+just curious, what would your message
+be?
+>> I think I think the message because
+that's really tough. I wish I could give
+myself three or four messages, but um I
+think I would tell myself um not like I
+I'll cheat. I'll say one long sentence.
+It's like it's
+what you like it is it is possible. It
+is very possible to do all of these
+things that you're probably envisioning
+or that you don't think you can. It is
+it is more than possible. And then the
+second thing which I'll append as a
+sentence is um don't give up because it
+compounds very quickly very quickly. Um
+it's one and now let me explain. So this
+is not part of the sentence but I'll
+explain what I mean by that and I think
+my past self will understand is um
+people don't understand that when you're
+building and when you're learning all of
+these skills the beginning is really the
+hardest part. it exponentially gets
+easier, I think, and you exponentially
+pick up these skills where you get
+faster and faster and faster and you
+start picking things up. Like I didn't
+do the weight list page until my second
+app because I I learned my lesson. I
+didn't start monetizing 2 years late,
+but after I learned that lesson, I was
+like, I'm never making that mistake
+again. Immediately the the payment stuff
+is already integrated day one. you pick
+up all these things that you don't you
+know you you're going to start not even
+realizing you're doing these things like
+coming up with a logo second nature to
+me coming up with the name second nature
+to me like I can do this I did all of
+this stuff a week in preparation for the
+podcast which probably would have taken
+most people and my past self 3 or 4
+months to do but as you do this more and
+you practice it gets so much easier and
+more importantly you get better at it so
+it does compound um being able to
+acquire users you'll do it faster being
+able to build insanely good products,
+you will start doing it faster. Do not
+give up. Keep let like let that
+compounding happen. So, it is possible
+and it compounds very heavily. Those are
+the two that's the one compounded
+sentence I would I would give myself.
+>> Yeah, I like that. And and I think it's
+also something I I would have told
+myself as well is also just how fun in
+that beginning stage. Like it's crazy
+that we can even do this. And I think
+sometimes we put so much pressure on
+having this like perfect output right
+from the beginning that we're like
+trying to rush the process. We're trying
+to rush getting to that point and just
+having fun in that like that messy kind
+of all over the place beginning stage.
+Um Chris, thank you so much for coming
+on the show, man. It's been a pleasure.
+>> Yeah, thanks so much for having me,
+Colum. Really appreciate it. Okay. So,
+if you enjoyed this episode, you're
+going to absolutely love what we did
+with this one right here. Click here.

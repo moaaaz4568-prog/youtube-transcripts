@@ -1,0 +1,889 @@
+Last week on the Marketing Strategy
+Show, I created three products live
+almost within the space of 1 hour. And
+the output we got from one of them, the
+Excuse Post Playbook,
+is some what we're going to be using
+today to build a sales page on Claude.
+And we're going to do that really
+quickly and really simply by just
+following the formula that I'm going to
+walk through with you and do together
+with you in this video. So, get your
+Claude, get the products you want to use
+Claude to create a sales page for. We
+are going to create three pages. We're
+going to create a sales page, a Stripe
+cart page, and a product delivery page.
+So, without further ado, let's jump in
+and get cracking. First thing I'm just
+going to quickly do is open up Claude.
+We're going to do Claude in desktop.
+We're just going to use the Claude chat
+today. We're not going to use co-work um
+or code. We're just going to use chat
+because it's good enough for what it is
+that we need to do. So, let me share my
+screen. So, here we are in Claude. And
+we're going to let Claude know that your
+job for today, Claude, is you are going
+to help me create a sales page and a
+delivery page. And then I'm going to
+create a cart page on Stripe for the
+Excuse Post Playbook, which is a product
+that we made last week and we're ready
+to sell it. The price point of this
+product is going to be 9.99, and we need
+to go through a process to create first
+the structure, second the substance,
+third we will add my voice to that page.
+I'm also going to give you my brand
+aesthetic guide and my voice prompt as
+well. Really important that we slow AI
+down. It will If If I don't say that, if
+I don't say start with structure, do not
+build the page. Otherwise, it's going to
+try and start creating a HTML document
+with the page all looking beautiful. And
+what I find is that when you get AI to
+build without giving it a framework to
+build on, the output is not as good as
+it could be. So, you want to first get
+it to create the structured outline. So,
+we're going to go through that process.
+I am going to give it the exclusive post
+playbook. We're also going to give it
+the branding guidelines I've got here. I
+have created these branding guidelines
+already, and I'm not going to walk
+through and explain how to do that here
+on this episode because you guys are
+going to all be in different places in
+terms of where you are at with your
+brand aesthetic guide. I want you to go
+to my channel and look at the video how
+to create images with Gemini. In order
+to get on brand images with Gemini, we
+need to create a brand aesthetic guide,
+and I walk you through how to do that.
+You will see it on the card in the top
+right-hand corner that I will pop there
+now. And then, giving that to Claude,
+I've given him the new branding.
+Um and then also, I'm going to give him
+the voice prompts later, giving you
+voice guidelines
+later.
+So, a good sales page is going to have
+at a glance clarity in the in the first
+fold, which means before you've scrolled
+anywhere, which is obviously longer on
+mobile than it is on desktop. Before
+you've done any scrolling, that is the
+first fold, what you can see on the
+page. And on that first fold, we want at
+a glance clarity that this product is
+going to solve a problem that your
+audience know they have. That's really
+important. We want them to see that and
+be like, "Oh, you've been looking for
+that. Need that." And if we can get them
+pinging like that when they see it,
+they'll be like, "Oh, yeah, I need to
+get that." and they'll buy it. That is
+the intention. We want to make sure that
+we are super, super clear on not what it
+is, but what problem it solves, so that
+we can put that at a glance clarity in
+the first fold. We then want to enable
+them to get a visual like understand
+what it is. Okay? So you're like, "Okay,
+this solves the problem, but how does it
+solve the problem? What is this? How
+will this help me solve my problem?" So
+essentially, it's going to be a case
+where we've got outlining the problem
+that they've got, positioning this as
+the solution, and then explaining how
+this will solve, and then leading it
+into a call to action where they can buy
+it. Couple of other things that we'll
+add in is a little about section about
+me so that they know who I am. If they
+didn't know who I am, it might just be
+helpful. Who Who is the person that
+created the excuse post? And you know,
+do I trust her? Do I like her? Do I want
+to buy her methodology? So we'll have
+that in there. FAQ is a really good
+thing to have because it just gives a
+little bit of detail in a nice bullet
+point way that's easy for people to
+digest. But yeah, so the sales page
+doesn't need to be massively long. It
+just needs to paint a clear picture of
+what this is, what they're going to get
+out of grabbing it, who you are, a bit
+of an FAQ section, and a big call to
+action that tells them to go and get it.
+There are obviously so many things that
+you can add into a sales page. They can
+get as long as your legs, longer. They
+can get super long. Um
+as long as both your legs taken off and
+put together. Really long. But they
+don't It doesn't It It It depends on
+what it is that you're selling and how
+much work you need to do before someone
+gets to the page versus, you know, how
+warm and cold the audience is. Man,
+there is a lot of variables and
+considerations that we could make this
+super confusing with. So just to
+simplify, I have a put together a little
+list um of the things that we want to
+make sure we nail down. Okay, let's just
+see what Oh, it's It's done it for me
+already here. So proposed structure.
+Hero. So the hero, which my husband
+calls the superhero cuz he is a legend,
+um the hero is that first fold piece at
+the top. It's that first banner. We want
+to make sure that that the promise is in
+one breath. Yeah, something orbiting
+sell a new offer in a day, not 43. We'll
+come back to whether we think that's a
+good thing to have for this product in a
+second. Then it's going to expand on the
+problem. So this is the 43-day problem
+and the flip. This is the bridge. And
+then this is, I imagine, the solution.
+And then expanding on details. So what's
+inside the playbook, who it's for, and
+then how much it is, memo to self pull
+quote,
+um well I don't really like that. About
+Cordelia, FAQ, and then a final CTA. So
+now I can basically go through and tell
+Claude what I think is good and what I
+think is bad. So what I'm going to do is
+I'm going to say, "Can you go through
+the playbook and extract the core value
+of what this playbook is going to
+deliver to an audience? Let's be
+specific about who the audience are.
+They are business owners who run an
+online business and they're wanting to
+build up a client base of people that
+they are getting from social media and
+also perhaps their email list. They are
+experts, so coaches, consultants,
+mentors, tutors, trainers, authors, etc.
+They are business owners in the experts
+industry. And then that's going to pull
+the value through from the book. Because
+what it's saying right now is that the
+the promise is sell a new offer in a
+day, not 43. But that's because when I
+was on stage and which is the original
+transcript that it's got this um
+playbook from and written this playbook
+from, when I was on stage I used an
+example of if you were going to
+pre-build something and you were going
+to sell it via a webinar, you're going
+to make the product and then create the
+webinar materials and record the webinar
+and then promote the webinar and da da
+da. And we added it all up how long
+everything takes and we calculated that
+it takes 43 days and often people spend
+way too much time building something
+before getting proof of concept. So the
+idea with this is that we do it rough,
+ready, quick. We get proof of concept
+really fast. We can build it and sell it
+in a day and see if anyone bloody wants
+the thing. If they do, we can then
+double down on it and we can go, "Okay,
+how can I make this more fantastic, sell
+it even more, expand on it, create
+webinars for it, etc." because people
+definitely want it. So, that was what
+the 43-day problem is. I think it gets
+lost a little bit without context and
+that's why I think it needs to figure
+out what the value is and then expand on
+that. So, the value is this part is
+definitely sell a new offer in a day,
+but also get proof of concept quick
+without spending way too much time
+building something you don't even know
+anybody wants, basically. So, I'll tell
+it that if it doesn't come up with that
+in a minute. In fact, let's see what
+it's come up with. Okay, so who I'm
+selling to has been sharpened. The core
+value of the playbook, a way to get paid
+clients in 48 hours instead of 6 weeks,
+permission to stop building before
+selling, a fill-in-the-blank template, a
+seasonal excuse bank that they never run
+out of reasons to post, a method that
+works without a big audience, a worked
+example they can model, a visibility
+boost play, a debrief framework for when
+it flops, the transformation in one line
+from I've been building this thing for
+months and I haven't sold any of it yet
+to I posted a thing on Monday and have
+three buyers by Wednesday. And then
+because I've got Claude set up to
+challenge everything I say all the time.
+However, if you want to know what that
+setting is, I'm so happy to show it to
+you. Um,
+come in here and you come to your
+general settings and under instructions
+for Claude,
+um, I think we're on this one. Okay,
+cool. So, what is it pushing back on
+things worth pushing back on? The
+audience is broader than the playbook's
+strongest fit. Yeah, drop authors. Okay,
+authors, you're getting dropped.
+Yeah, authors is is ridiculous. I mean,
+experts just tend to write books anyway,
+so whatever. That's fine.
+Um the email list framing is doing the
+work the playbook doesn't quite back up.
+The playbook leans hard on social
+posting. Yeah, that's true. It's because
+a lot of the people that I've I work
+with haven't got email lists yet in that
+what back then when I was doing that
+kind of work. Do do do do do. Want me to
+move to substance? Yeah, let's go
+substance. I think that's all fine. And
+you know, we are live and I am doing
+this with you right here right now. So
+I'm not going to make you watch me do a
+ton of surgical edits to really refine
+this and hone this in.
+Okay, so let's have a look.
+Hero. The point of this section to stop
+the scroll, make the promise, contrast
+with the alternative. Um okay, what goes
+in here? I'm a bit confused. It's
+telling me what goes in rather than
+giving me the copy. And maybe it's just
+expanding on the structure. What's it
+say at the end? So it's basically just
+expanded on this rather than give me the
+actual copy. No, this is still
+structure. You need to now write the
+copy onto the structure. That is what we
+call substance. Then we will add style
+which is my voice. I'll give you a voice
+prompt. Now, whilst it is doing that,
+let me just show you where you can find
+Okay, so this is the strategy lab. So if
+you come into the classroom, you will
+see that we have a load of accompanying
+playbooks that go with the videos that I
+create for my YouTube channel. And
+inside these playbooks, you have all the
+AI prompts and all the steps laid out in
+a really simple and easy to follow way.
+Reason being, it's a very good way for
+you to be able to just grab the prompts
+rather than recreate them and also have
+the steps laid out rather than going
+back and watching the video again or
+trying to reread your notes. If you come
+come into this one, it's got all of them
+in cheat sheets, templates, and
+step-by-step. And then you want to come
+to this first one Well, it's using
+Claude's to create your brand voice and
+you've got the prompt in here. If you
+click on this post, there is a brand
+voice prompt there for you to steal. And
+what that's going to do is analyze your
+voice and create a voice prompt. We also
+have the one about how to create
+on-brand AI images, which is this one.
+And again, if you come down here, just
+click on it like so, and it's going to
+open up the actual prompt that I use and
+the whole step-by-step process to create
+your own brand aesthetic guide. I am
+going to be popping those into Claude
+here today. And so, having those is just
+going to speed up this process. Okay, so
+what is Claude created for us now? We
+have "Sell a new offer in a day, not 43.
+One post your existing network, no sales
+page, no webinar, no funnel, no email
+sequence, no ads, no 6 weeks of building
+in spare bedroom hoping someone wants
+the thing." The excuse post playbook,
+$9.99 instant download. Perfect. At a
+glance clarity of what they're going to
+get, I think. We might need to just
+explain that I teach you the process of
+how to create a new product and how to
+sell it in a day. "One post your
+existing network, no sell Sell a new
+offer." Okay, let's change it to create
+and sell a new offer. Make it clearer
+that I show them how to create and sell.
+Okay. I was going to write in the hero,
+but never mind. I think it will get it.
+"Sell a new offer in a day, not 43. I'll
+show you how to create and sell a brand
+new offer to your existing Perfect.
+That's a bit more clarity that I wanted.
+Okay, and again, as I say, you want to
+go through this, you want to have voice
+record turned on, you want to speak all
+the changes that you would make, mumble,
+ramble, it doesn't matter. It's only AI,
+it's not going to get annoyed with you.
+And then, once you've done that, you're
+like, "Great, I'm really happy with it.
+I think it's brilliant." What we're
+we're to do next is we're going to get
+Cuddly Kate's profile that I made
+earlier, drop that in here, and then go
+ready for style. Once it has generated
+this, the next thing that we're going to
+do is get it to generate the HTML
+document. Whilst it's doing that, we are
+going to create the cart page in Stripe,
+and the HTML document is going to be
+basically the code for the page.
+Essentially, every webpage is just code.
+So, we need to get it to create the
+code, and it's going to be custom CSS,
+and it's going to be HTML, and it's
+going to be JavaScript, it's going to be
+anything that we want it to be, but it's
+going to create it in a piece of code.
+Now, what we then going to do is copy
+that code and go and paste it into a
+webpage builder. The one that I use is
+GoHighLevel, and I'm going to show you
+how you then get a Claude built page
+displaying inside GoHighLevel. However,
+if you don't have GoHighLevel, you don't
+need it for this. You just need a place
+where you can have um a code box, which
+is any page builder out there, ever,
+even WordPress, right? Especially
+WordPress. You can you can build this
+anywhere. You just need to be able to
+host it on a page builder that is your
+website that you've already got, or you
+know,
+um
+just get a page builder, and that's what
+we're going to use. So,
+what have we got here?
+Let's have a look at the output. Now, uh
+what I'm going through here is thinking,
+does it sound like me?
+Is it me enough? Do I need to me-ify it
+a little bit more?
+And that's one thing that I might add in
+is silly analogies.
+And again, I'm going to go through this,
+and I'm going to read it, and I'm going
+to make sure it sounds like me. Um a few
+summers back, the chatter in the
+coaching world was the summer dead
+season, nobody buys in August, everyone
+Yeah, okay. I mean, just glancing at
+this, it looks okay. As per the whole of
+this training, I'm not going through it
+with a fine-tooth comb. I'm just showing
+you what I would do, and I would put the
+voice thing on, and I would now go and
+say, "Oh, actually, uh say it was like,
+you know, like this or use this analogy
+or compare marketing to turnips, you
+know, or something like that. Called
+bollocks on it. That's me. That's very
+good. Nice. Okay, cool. So, you have the
+brand guidelines, build the HTML file.
+Okay, now that is going to do the thing.
+So, I am going to use Stripe. And inside
+Stripe, all I've done is hit the plus
+button and then opened up create a
+payment link. It basically builds a cart
+page for you, which is really handy. It
+never used to do this years ago. And
+when this finally came out, I was like,
+yes, this was such a simple thing they
+added that's actually life-changing.
+Reason being, we don't really want to
+build our own cart pages cuz often when
+we do that, they don't look as secure as
+they are. And so, you could in Go
+HighLevel use their cart pages and build
+them on there, but it's like, um,
+they just don't look very secure. Go
+HighLevel invoices don't look very
+secure. And if things don't look secure,
+people do not trust them. And they do
+not want to put their credit card
+details in them. And your
+conversion rate goes through the floor.
+So, what's nice about the Stripe page is
+that we know it, it looks legit, it is
+legit, and it's just a good thing to to
+use instead of reinventing the wheel,
+just use this instead. So, we are going
+to select the type. It's going to be
+products or subscriptions. And I'm going
+to, um,
+add a new product and we're going to
+call it the excuse post playbook.
+Pricing, $9.99, one-off. And then, what
+we want to do is add an after payment.
+On the after payment page, we want to
+add a link that takes them to the
+delivery page. And and I'm just we're
+going to just make up what that's link
+that's going to be on and then just put
+it on that link later. Redirect
+customers to your website. This one. And
+so, it's going to be https
+cordeliakate.com
+{slash} excuse post {slash} delivered. I
+am going to copy that so might actually
+remember what page we selected and then
+that is it. We're going to create the
+link. Here is the link. I'm going to
+copy that cuz we are going to use that
+and we're going to come back into Claude
+and we're going to see how we're getting
+on. Sell a new offer in a day, not 43.
+Now, the what I would say is missing in
+that hero is an image. Something visual.
+It's very texty, isn't it? Straight off
+the bat, we can add in an image, but
+let's have a look. Again, I'm just going
+to put voice mode on. I'm going to
+record myself as I go through and just
+basically make any surgical edits that I
+want to make. I would as well tell it to
+probably take this put this in normal
+normal text, not italic. The whole thing
+is in italics. Very difficult to read.
+If things are difficult to read, people
+will disappear. They'll get put off.
+They will leave and they will not bother
+reading it. So, this is much better. You
+see we've got a little bit of italic and
+then we've got some straight plain text.
+Nice. Much better.
+Um also, what is this?
+Not a huge fan of that. Oh, here we go.
+Can't see that. There's too many things
+for me to ignore. I can't handle it. Let
+me put on voice mode. I'll show you how
+I would verbally edit this.
+Okay, just having a look at this. So, I
+want you to get rid of the top
+line. It is distracting. We do not want
+sales pages to be distracting. We want
+the eyes to be drawn to the thing that
+we are selling. Um we want to get rid of
+the second eyebrow. Second eyebrow. Too
+much italicized text. More visual.
+Okay. So, we're going to go through and
+edit it and we're going to pretend that
+that is edited enough. And I would also
+tell it that I can't see this. And
+again, we're going to go through and we
+are going to tell it everything it needs
+to change. There's quite a few things it
+needs to change. I like that. That's
+very clear, very nice. We might Then,
+the other thing that we might do is give
+it some actual images. And the way that
+we do that, come into Go HighLevel with
+me. So, here is inside my Go HighLevel
+and you can see down here we've got
+media storage. Um I would just basically
+grab some images that I want on that
+page or upload some images I want to
+add. And we're going to do that by I'm
+going to go grab Let's get that image at
+the top, this one here. I'm going to get
+the link of that. And that link is
+the hosting link. So, if I paste that
+link into Chrome
+and show you on share this tab instead,
+you can see that it has basically just
+loaded that image, okay? So, what I want
+to do is I want to come into Claude
+and I want to say, "Here is an image of
+me to add to the page." And then it
+can't Claude cannot create images. It's
+not like ChatGPT or Gemini. It hasn't
+got the image generation tools. It can
+generate HTML and it can draw charts and
+stuff, but it's very limited on what it
+can create in terms of visuals. So, you
+need to go and create the visuals and
+then give them to Claude. But you can't
+upload them in here and then it displays
+it on the HTML because that file needs
+to live somewhere in order for it to
+display it. So, I've given it a link of
+where that file lives on the internet.
+If any of you guys clicked on that link
+and opened it, you could display it on
+your computer because it's it's stored
+in an accessible place on the internet
+so it can be displayed anywhere. And so,
+I'm I've given it that link. So, you
+can't put things into Google Drive and
+give Google Drive links. It has to be
+hosted on your website a place where you
+can host things that are accessible to
+places is the internet. Okay, it's just
+going to check a couple of things. I'm
+just going to say yes to all.
+Haven't read it. Haven't got time. But
+we'll just pretend we have. Oh, no, that
+doesn't work. Oh, Claude, I don't Yeah,
+right, it's doing it anyway, rebuilding.
+Cool. Okay, so coming back into
+GoHighLevel then for a minute, any
+images that I wanted to display on the
+page, I'm going to grab the links of and
+then I'm going to give it to Claude and
+it's going to then host those images on
+the HTML. Um and it'll build that into
+the code so that they can be hosted on
+the final page. What we're going to do
+is come to sites and then come to
+funnels and then add a new funnel, start
+from blank. Oh, we need to name it. Um
+excuse post. Create. And then, add a new
+step. We're going to call it excuse
+post. We could call it landing page. So
+we've got {forward slash} excuse post
+and the delivery page is going to be
+{forward slash} delivered. So we'll do
+{forward slash} excuse post. Do I need
+to give it a {forward slash}? I don't
+know, we'll find out. I think it's fine.
+And here we have, we're going to create
+from blank and then we're going to
+delete everything. Oh, there isn't
+anything to delete, so that's fine.
+We're going to add an element and the
+element we're going to look for is code.
+There we go. Code, right. And then we're
+going to delete all the padding around
+these boxes. So if you see there is this
+thing here called layers, you can select
+you can open all the layers and the
+reason why we're going to open this is
+because some of them are going to be a
+bit inaccessible once we've started
+removing the padding. So I'm clicking on
+this settings bar and I'm going to come
+to styles and I'm going to make sure
+okay, that one's got no padding. Next
+one. This one we want to make zero,
+zero. And the reason why we're doing
+this is because we're going to put a
+code box on here which we want to fill
+the whole page. We do not want a white
+border all the way around because the
+code itself is going to have the spacing
+it needs in order to look fabulous. So
+we want to get rid of all the spacing
+that's going to be around the code box.
+We don't need any margins or anything
+like that.
+Otherwise, it's just going to look a bit
+odd. And there we have it. I think
+that's all of the boxes now brought down
+to zero. So, now we've got that, we're
+going to hit this, go to general, open
+the code editor, and we're going to
+paste our code that Claude gives us in
+here. So, let's come back to Claude.
+It's still rebuilding the sales page,
+but that's fine. We're going to pretend
+that this is finished and that we're
+happy with it.
+Um and then we're going to just press
+copy. Now, you can see here, you can
+view This is This is displaying what it
+looks like, but this is what it actually
+is. This is what Claude has actually
+built. It's just built all of that code.
+And then you can It just shows you what
+it looks like. So, if you were to
+download that as a file, you're just
+downloading a file of code. Um So, if we
+press the copy button, it's just going
+to copy that code. Then I'm going to
+come back to GoHighLevel, paste our code
+here, press save. Now, this kind of bit
+annoying cuz it does mean we can't edit
+it on the page. You know, like any edits
+that you need to do have to go through
+Claude again. You have to go back to
+Claude and be like, "Oh, actually, I've
+decided I want this section swapped
+out." And then you come back in here and
+reinsert the code and press save and
+publish again. Um but let me show you
+what it looks like. There's two ways to
+see it. You can press this um preview
+custom codes button, and that's going to
+show you a what a washed-out version for
+some reason of what the page looks like.
+Or when you actually go and look at it
+properly and you hit this view button
+here,
+it's going to show you a proper version
+of the page that isn't washed out. I
+don't know why the code preview is
+washed out. Obviously, there are massive
+problems with this page because we can't
+see the text in places, but that's fine.
+I would have gone on through and
+surgically edited that, as you know. So,
+we're we're happy. Here's the page in
+preview mode. Obviously, there are There
+are problems with it. Like it's got
+white on white, so you can't see some of
+the stuff. All things that I would have
+gone through and edited before putting
+it into GoHighLevel, but just for the
+for the process of time. Another thing
+that I would do as well that we haven't
+spoken about is get some testimonials on
+the page, some real testimonials. And I
+have got some fantastic testimonials for
+the excuse post, and people that have
+got many, many clients from it. So, I'd
+get those images onto the page as well,
+so that people can see the kind of they
+might expect from implementing this
+strategy. But yeah, so I would get some
+get some testimonials on there as well,
+which would definitely be a good thing
+to do. So, I'm going to stop him because
+obviously we we're going to move on now.
+We've got the sales page done. We've got
+the cart page done. What we need to do
+is link the buttons, and so we'll ask
+Claude, "Can you please put this link?"
+And it's the Stripe payment page that we
+created. We've got this page this Stripe
+page. If we click on that, it will open
+the payment page that we just made. And
+so, we want to make sure that we put
+that link behind the buttons on the
+sales page. So, on that call to action
+where it's like buy now, they click on
+it, it takes them to the Stripe page.
+The next thing we need is the delivery
+page. Pretend the sales page is done.
+Let's move on. I am going to get you the
+direct link to the downloadable the
+excuse post document. I want you to
+create a page that says,
+"Congratulations, you have bought this.
+Here it is. Jump in. Enjoy." And gives
+them the link to the page. Okay, we're
+going to ignore the spelling mistakes
+because it doesn't matter. And then
+we're going to come to go and go high
+level. Now, what we need to do is we
+need to put that excuse post document
+somewhere where people can grab it. And
+you could just stick it in Google Drive,
+but I've got a more professional way for
+you to do that if you are using Go
+HighLevel, then all we need to do is
+come to media storage. We're going to
+upload, and we're going to upload the
+excuse me, and then we're going to grab
+the link to it, and that is the link
+that we're going to use. If you click on
+that link, like if I put that in this
+tab at the top, and then press enter,
+you can't see the bar, can you? It's
+basically going to just take me to that
+playbook. So, what will happen is when
+they click the button, it will open up
+the playbook that they have just bought.
+And of course, you can set up automated
+emails that deliver the playbook to them
+via email as well, and this is the link
+that you will share in the emails for
+them to go grab it from. So, really,
+really simple, much more
+professional-looking than sharing a
+Google Drive folder with them. Okay, so
+it's just asking me some questions.
+Propose structure, congratulations, the
+big download button, what to do next,
+strategy gigs upsell block. Yeah, just
+let's just go with these three to keep
+it simple. Keep it simple, just these
+three. And it's just going to go through
+the same process. It's going to create
+the structure because it now knows how
+we want to work. We've already trained
+it on what we want it to do. It's now
+creating the substance already. It's
+already adding the voice. Brilliant. And
+so, then what it's going to do, we're
+going to say, "Go." And it's now going
+to create the HTML file for us as it's
+doing right now. Okay, and here it is.
+We have got the delivery page. So, it's
+given us the excuse post the excuse post
+playbook is yours. Payment went through,
+the playbook is right there below, go
+grab it, and then the button there to
+download the playbook. And obviously, I
+haven't actually given it the right
+link, so it's not going to have the
+right link, but you would tell it, "Oh,
+here's the link to put behind the
+button." And then it will go ahead.
+Okay, so back in GoHighLevel then, we
+want to go back to sites and then
+funnels. Excuse post, and then inside
+excuse post, we are going to now clone
+this step. And the reason being is I
+don't want to go through the rigmarole
+of deleting all the spacing again when
+we've already done it once. So we're
+just going to clone it, clone step in
+this funnel, and edit it, open up code
+box,
+delete that, paste the new one that
+we've got in there, press save,
+publish it.
+And we want to go codelilykate.com. We
+didn't do this on the last one, did we?
+Codelilykate.com. Maybe we did. Excuse
+post page. So this is going to be excuse
+post {slash} delivered. But what we need
+to do is come back out here and then we
+can change that path. So hit the
+settings wheel. There are, by the way,
+two links in every GoHighLevel section.
+Um, there is this link here and then
+there is the link of the actual page.
+And I was so confused by that at first.
+I didn't know why. It's because of split
+testing. You have a root link that takes
+you to either this one or this one if
+you're split testing. And then you have
+a specific page specific one that takes
+you directly to that page so that you
+can override the split test if you're
+split testing. If you don't understand
+what any of that means, do not worry. It
+is all good.
+Okay, excuse post delivered and then
+we're going to go excuse post {slash}
+delivered, update step, and there we
+have it. Our excuse post funnel is done.
+We've got our excuse post delivered
+page. We also need to link that up to
+Yep, we've got Let's just quickly get
+rid of that weird bit on the end.
+It might not let us because I might have
+done it specifically on the page. Let's
+just have a look. No, it does. And here
+we've got That's fine. So we have the
+excuse post sales page. And if it was
+wired wired up correctly, would have
+this button taking people to
+the Stripe cart page that we've created
+when they put their payment details in
+and then press submit, it's then going
+to load back end page that we've created
+which was excuse post {forward slash}
+delivered which is this page here and
+then again, if it was wired up correctly
+which I haven't wired it up because of
+time
+uh but we would just tell Claude to have
+wire it up and then click that and it's
+going to download that playbook. Please
+remember guys, always make sure you test
+your funnels before you promote them. So
+make sure you go into um those pages
+that you've created and
+test that every button works, that you
+actually load the thing that you've
+downloaded like just make sure it all
+works. Go through as a customer and then
+you can refund yourself or just pay
+yourself back through your Stripe
+account
+whichever one you want, but um
+refunding's probably the better option
+cuz you won't have the Stripe fees to
+pay. And just make sure it is tested and
+it works and when it does, now you just
+got to go out and sell it. You got to
+tell people it's here.
+You got to tell people that it's ready
+and you can do that by going through and
+using the sales copy process that I
+taught here on this show just a couple
+of weeks ago. We used it to create an
+email series, exactly the same process.
+You can follow that process and create
+to promote your excuse post page now you
+have created it. But there we have it.
+And um also just to let you know
+instead of
+going back over your notes, going back
+through this video, rewatching it and
+scrabbling to try and find all the bits
+and pieces to recreate this if you
+haven't done it as we've gone along here
+on this session, um just hop into the
+strategy lab on a free trial
+usually $4 a month and soon to be
+renamed, by the way. Uh pop in there and
+you will find that there is a full
+downloadable with all the step-by-step
+processes of how to execute this. There
+is the sales page structure, there is
+all the prompts that I used, and the
+whole process there for you to just copy
+and paste and use for yourself. Um and
+there we have it. My name's Kudinakate,
+and if you love this video, please share
+it with your fellow businessy friends to
+just to help me grow this channel. Leave
+a comment, share your thoughts, share
+any tips or advice. So, please do come
+and subscribe to the channel if you want
+more videos like this. Come and join us
+inside the strategy lab, soon to be
+renamed, if you want more strategies
+like this. There are loads of them in
+there. Have a wonderful rest of your
+day, and I will speak to you very soon.
+Bye.

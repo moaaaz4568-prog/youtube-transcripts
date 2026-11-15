@@ -1,0 +1,616 @@
+Welcome to another YouTube video. As
+promised, guys, I'm going to document as
+much as I can instead of creating
+content. And today, I want to show you
+guys one system that I've been working
+on in the last few days that I think is
+really sick. So, as we go into these
+markets and as we focus more so on
+building and releasing AI growth
+infrastructures, AI growth solutions and
+playbooks for specific verticals and
+niches, the biggest bonic that a lot of
+our clients have is being able to close
+deals. Okay? being able to convey not
+just the value of the AI solutions but
+also understand how sophisticated
+markets are closed. Okay, if you don't
+have years of closing and sales
+experience, if you haven't been rejected
+a 100 times, unfortunately there there
+wasn't an any other path to avoid this
+bottleneck of not being good at sales
+other and you know the other option
+would be to hire a closer but
+unfortunately even closers are
+incompetent. Okay. So, before we used to
+have this idea of like, hey, we'll just
+place a closer on your in your on your
+account. But there isn't that many good
+closers out there. So, what did we
+decide to do is I was like, well, I know
+how to sell, right? I know where to find
+the answers and how to allow someone to
+be able to know how to sell. So, what if
+I could create an entire system, a GPT,
+a custom AI assistant that allows to go
+into markets? The first thing that you
+need to be able to do is understand the
+level of sophistication of that market.
+Understand what they're numb to, what
+they're tired of being sold. Okay,
+that's step number one, right? Like
+that's literally what I wrote here.
+Because you cannot go to even if you're
+going after easy market like local
+service providers, right? In this
+example, I'm going to show you guys a
+company that we're building or at least
+an offer we're building in the pressure
+washing niche. Um, so you cannot go to
+pressure washing businesses and say,
+"Hey, I'm going to get you more leads."
+It's just not going to work. even if the
+lead genen is done through AI. Does that
+make sense? Because they're already numb
+to that offer. So, the first thing you
+need to understand is how do you pull
+the right insights about that market?
+Okay. In the previous video, I showed
+you guys the category OS and positioning
+uh category architect and positioning OS
+that I've built and you guys can go
+through it. I'm going to get my team to
+leave the link below so you can guys can
+see how we do that. So then my next goal
+was okay since I've already solved that
+process of acquiring insights in markets
+that I may not have insights in. I've
+already solved that with this GPT. Then
+is can I take that and then fill it into
+this new system. Then then we solve the
+problem of not knowing what the market
+wants and what that market is numb to.
+Then step two is what sales framework
+are you going to use? You have to
+understand that just because there are a
+lot of sales trainers out there doesn't
+mean that their way of closing works for
+your offer. If you're selling AI, you
+have to understand that you have to use
+a different approach to selling. It
+cannot be just about emotions, right? I
+think a lot of people whose framework
+uses a lot of emotion is Horoszi, right?
+He uses the closer framework, right? And
+also Samvin's way of consultative
+approach of selling. those wouldn't work
+too well in the discovery phase of a
+sales call, right? So, I needed to
+discover a new framework to that I can
+give to clients, right? Or at least
+someone who's built a framework for
+selling new models of new paths, new
+technology in a market that, you know,
+is just super sophisticated, right? And
+I found this guy called Andy Raskin. Uh
+he's helped Salesforce. He's built, I
+believe, he's been in the Salesforce
+kind of like um sales kind of like
+playbook. He's built that out. I believe
+but he has a pretty good framework
+around selling technology. So what I did
+was structured this
+um this system right so now we're I'm
+starting first to test these out on GPT
+right so as you guys can see here like I
+built a bunch of prompts based on all
+these different models of selling okay
+and then what I decided to do is okay
+perfect can then I can I now put that as
+a second layer so now we have the
+insights part now we have the right
+framework now the way that I did the
+frameworks is I actually combined three
+different sales frameworks
+the first one on how to sell technology,
+then the second part on objection
+handling. I dabbled a little bit with
+Hormos's framework and I also took a
+little bit of Sam Oven's frameworks into
+uh the the the kind of like the the
+discovery phase. Okay. So, I combined
+three different sales frameworks into
+one. Okay. So, as you guys as clients
+start using this sales system, they're
+going to have their entire sales script
+built by from these three frameworks.
+Okay. Then the next part is objection
+handling. I relied heavily on Hermosis
+closer framework. So these are the three
+stages. You give the the system
+insights. Then you let it leverage three
+different sales frameworks to build your
+sales script and your objection handling
+phase. Okay. And the last part is I
+wanted to figure out just because
+someone has the right sales script, just
+because someone has the right objection
+handling doesn't mean that they can
+necessarily close, right? You're not yet
+ready. You need reps. you need a lot of
+role play. So, what did I decide to do?
+Well, I decided to build it so that you
+can role play with it. So, and actually
+I want to show you guys how it's uh
+working out. So, uh I kind of like asked
+it to give me uh so this the way that it
+works is as it's going through the whole
+entire playbook, it will actually just
+be trained on the market that you're
+going after. And then once it's created
+the sales script, once it's built the
+objection handling playbook, then it
+will actually go into a role-play
+process. And that's what I'm about to go
+through. So this prospect or at least
+this simulated buyer profile. Her name
+is Lisa. She owns two trucks. She does
+residential and commercial pressure
+washing team in Florida. Okay. Uh she's
+main strategy is Google reviews, some
+Yelp leads, no form of rebooking or
+quoting system. Uh frustration is, you
+know, high season is chaotic, offseason,
+blah blah blah blah blah. Right? But
+we're actually going to go through this
+entire process on uh a role play, right?
+So, let's get started now. Please don't
+mind. I'm not a salesperson. I may not
+be perfect, but check this out. Let's
+go.
+Can we get started? Absolutely. We're
+live. Hey, thanks for making time. I
+just want to be upfront. We're doing
+okay with jobs right now, especially
+this season. So, I'm not looking for
+more leads, but I am interested if
+there's a way to make things run
+smoother. What exactly is it that you
+do? Your turn. Hit me with your opening
+frame. Awesome. So, one of the things
+that we hear when we're take talking to
+a lot of pressure washing businesses is
+the fact that they're still relying on,
+you know, a bunch of lead vendors, uh,
+doing manual follow-ups and, you know,
+just stuck in the operations and having
+their backend be the reason why they
+can't scale. Right now, before I kind of
+like go over our process, I don't want
+to say assume anything. Can you
+currently walk me through what is your u
+biggest bottleneck? How are you
+currently going about getting jobs? And
+uh I know you said that getting leads
+and appointments and clients isn't your
+biggest bottleneck. Then uh what is your
+biggest bottleneck right now? Yeah,
+totally. Leads aren't our problem. We've
+got good Google reviews and Yelp keeps
+us busy, too. Honestly, the biggest
+headache is everything after someone
+says yes. I'm still doing most of the
+quoting myself, usually late at night.
+We miss follow-ups all the time. And I
+know we're leaving money on the table
+with recans, but we just don't have the
+time to keep up with
+it. So, yeah, smoother backend, less
+chaos, more repeat work. That's what I
+want. You've got the real pain. Want to
+move into gap amplification or pivot
+straight into the pitch?
+Awesome. How long have you been dealing
+with uh this um issue of your backend
+and operations not necessarily being
+scalable? things like having to always
+manually quote uh every lead and
+potential customer coming through.
+Honestly, since year two, we've been in
+business for six years now. First year
+was scrappy. Year two, we started
+growing and ever since then, it's been
+this recurring thing. We get busy, then
+we drown in admin. Every offseason, I
+say, "Let's build better systems." And
+then the season hits again and we're
+back to reactive mode. It's frustrating
+because I know we could be more
+efficient. I just haven't found the
+right fix. She's opened the door wide.
+Want to amplify the gap and move into
+your route control pitch. Interesting.
+And if you were able to solve that
+problem and essentially automate the
+entire flow, maybe even leverage AI to
+solve that entire kind of like
+bottleneck, like where would your
+business end up revenue-wise? If we
+actually had something like that, I
+think we could easily add another 10,
+maybe 15 grand a month just by not
+missing out on follow-ups, upsells, and
+neighbor jobs we're ignoring now. and I
+could finally step out of quoting every
+single job myself. That alone would free
+me up to actually run the business
+instead of chasing it.
+So yeah, I see the upside. I just
+haven't seen anything that felt real or
+doable. She's mentally halfway there.
+Want to drop into your full solution
+walkthrough?
+Interesting. So over the in So you've
+been in business uh you've had this
+issue since uh you were in business in
+year two and it's been four years since
+that. So that means that you've probably
+lost over almost over half a million
+dollars in just uh potential income that
+could have been earned without you
+needing to spend any extra dime on
+acquisition. Correct. Wow. Yeah. When
+you say it like that, it hits hard. I
+mean, I've never done the math, but
+yeah, it's probably close to that. All
+those jobs we missed, the people who
+never booked again, the neighbors we
+never followed up with. Yeah, that
+stings. So, what exactly are you
+offering? How would this fix all that?
+Perfect Q. Roll out your route control
+system pitch now. Start with the first
+layer. Perfect. So, here is what we do.
+We help pressure washing businesses stop
+chasing leads and start owning routes.
+FYI, I'm reading. We do it by installing
+something we call the route control
+system. an AI powered infrastructure
+that targets the best neighborhoods,
+autoquits and books jobs 247 and rebooks
+every client at the right time and turns
+each job into five more in the same
+block. You don't need to learn AI, run
+ads, and manage a CRM. Can I walk you
+through exactly how we go about doing
+this? Yeah, that actually sounds really
+aligned with what we need. I like that
+it's focused on operations, not more
+marketing. Go ahead, walk me through it.
+How does it actually work? Perfect. So,
+first step is she's ready. Go ahead and
+take her through the four layers of the
+route control system. Perfect. So, first
+step is we help you target the best
+neighborhoods, HOAs, high income blocks,
+and spots where route density actually
+ma matters. Instead of random leads
+across town, we build hyper local demand
+where you want it. Sounds good so far.
+Totally. That's one of our biggest time
+wasters. bouncing between jobs on
+opposite sides of town. If we could
+concentrate roads, that'd save us a ton
+on gas and labor. What's next? Roll into
+autoquote and book. That's where the
+magic hits. Second is we install an AI
+powered booking AI powered quoting and
+booking system. Someone sees let's say
+your flyer, your postcard or your ad.
+They scan a QR code and the system
+autocalculates the code based on their
+home data, shows the price instantly and
+lets them book on your calendar.
+Actually, the AI books your uh lead into
+the calendar automatically without you
+lifting a finger. And the way we're able
+to do this is through leveraging Zillow,
+the data from Zillow. We're actually to
+pull data. So, if someone comes into
+your funnel, they'll be able to input
+their address. And as soon as we get
+their address, we go on Zillow, find the
+data around their home, their driveway,
+and all the square foot that we need to
+know. And then you have your formula
+around how you price things. Okay? And
+then based on that pricing and the data
+around the home, it auto calculates the
+actual provides the quote automatically.
+And then uh if the prospect is
+interested after getting the quote,
+that's the moment where the actual
+second layer of the AI solution or the
+AI system, the AI agent will actually
+book them into the calendar. So you're
+not chasing leads, you're waking up to
+jobs already booked without you having
+to do anything. Okay, that's impressive.
+I've never heard it broken down like
+that. We spend so much time quoting jobs
+that don't even convert. If this does
+that for us, especially with real-time
+pricing from Zillow data, that's a
+massive
+timesaver. And I like that it's still
+based on our pricing model. So, what
+happens after the job? She's totally
+bought into the quoting layer. Go ahead
+and roll into smart rebook. So, every
+time you finish a job, the systems
+triggers something we call the smart
+rebook flow. Based on the job type,
+property, and time of year, it sends
+perfectly timed messages that get the
+client back on your calendar before they
+even think to look elsewhere. It's like
+having a full-time retention team
+running in the background. And finally,
+we turn that one job into five more.
+What with what we call the neighbor
+chain expansion. Right after the job, we
+hit surrounding homes with a
+testimonial, a picture, and a
+personalized quote uh link saying, "Hey,
+we just cleaned Sergio's place. He's
+been working full-time, not sleeping,
+doesn't even clean his Porsche, but
+we've been able to come in and clean out
+his entire property, and here's what the
+here's what it cost him, but and here's
+what yours would be." Boom. New leads,
+same block, zero extra effort. So
+instead of chasing gigs, you're building
+a system that compounds more reookbooks,
+more neighbors, more route control. It's
+not about adding more tools. It's about
+installing a machine that makes the work
+flow to you. Okay. Wow. That is exactly
+what we've needed but didn't know how to
+pull off. I love that it's not just
+about getting new clients. It's about
+compounding the ones we already worked
+hard to get and making that kind of
+followup happen without me touching it.
+That's huge.
+So, what does this cost and how do we
+get started? She's fully in. Time to
+drop your price framing and close it
+down. So, here's how it works on our
+end. Uh, the way we work is we have a
+90-day program. Uh, we have a four-week
+setup. And, uh, the setup fee costs
+around
+$8,500. It's a onetime fee. And then
+after that, you pay us $500 a month for
+ongoing optimization and support. That
+includes the full setup, local
+targeting, onboarding, and also tuning
+and dialing in the system that we
+implement into your business. Okay,
+that's definitely an investment, but if
+it actually frees me up and keeps jobs
+coming in without me chasing people, I
+can see how that pays for itself fast.
+But let me ask, how do I know this will
+really work for my area? Like, we've got
+some older neighborhoods and some tech
+resistant folks here. She's giving you a
+soft objection. want to drop your risk
+reversal or offer incentive logic.
+Well, before I go over kind of like the
+guarantee that we provide, just to put
+into perspective, most of our clients
+recover the setup costs in four to six
+weeks. So, before we even talk about
+what happens if it doesn't work, I want
+to just let you know that based on the
+data that we have, most of our clients
+recoup back their uh they get an ROI by
+the next payday, right?
+All right, that helps. If it's really
+performing that fast for others, I can
+definitely justify
+it. But I'm still feeling a little on
+the edge just because I've been burned
+before with stuff that sounded good on
+paper but didn't deliver. You mentioned
+a guarantee. She's almost there. Ready
+to drop your 90-day ROI guarantee and
+incentive based close.
+So, we have a 90-day guarantee where
+after 90 days of after we implement the
+system and after eight weeks of
+optimizing this entire system, if you're
+not able to get an ROI, if you're not
+ROI positive after 90 days, we will we'd
+be happy to refund you. And the reason
+why we're capable of offering such a
+guarantee is because we believe in our
+system and based on the data that we
+have from all of our clients, it should
+only take us four to six weeks for us to
+provide you a guarantee. And on top of
+that, I want to do something even
+special. I understand that you're making
+a big investment. You've already been
+scammed. Your pressure washing niche is
+one of the industries that have been
+burned by marketing agencies so much,
+especially lead genen agency, and we
+hate them so much. Okay? So, what I'm
+able to do is if you're willing to
+decide and make the investment today in
+in less than 24 hours, I'm happy to give
+you a 30% discount and we get started at
+$6,000500 if you pay in full everything
+up front. And on top of that, as a
+bonus, if you sign up today, we're going
+to throw in the seasonal boo booster
+pack, a pre-built campaign for spring,
+summer, and holiday push periods, which
+based on some of the campaigns that
+we've run before, that alone adds about
+15% more rebooks over time. How does
+that sound? All right, that's actually
+really fair. Between the guarantee and
+the bonus campaigns, it feels like
+you're really backing what you're
+selling, not just throwing tech at me.
+Yeah, let's do it. Send over the invoice
+and whatever onboarding stuff you need.
+I'm ready. You closed it. Confident,
+high authority, belief led close with a
+rockolid stack, urgency, proof, risk
+reversal, and empathy for past buyer
+scars. Want me to break this one down
+into a win loss analysis? Save it to
+your training vault or prep a
+re-engagement version for other leads
+who ghosted.
+No, thank you.
+Bye. All right, guys. Sorry for the
+light. Something went off. But as you
+guys saw, I know nothing about the
+pressure washing industry. Like, when I
+say nothing, I mean zero.
+Okay, I leverage my way of trading doing
+research about different markets that
+we're going into with the category OS
+and positioning kind of category
+architect and positioning OS um system
+that we built. Then I took that data
+well first of all I got I learned what
+this market is dealing with. Then I took
+that market then I put it into the sales
+OS then it went into structuring the
+sales script. Right? So, as I was going
+through this, I was actually catching up
+and actually looking at the script that
+this built, right? And then the next
+step is um objection handle, right? And
+have the actual system build cuz I
+didn't know that pressure washing
+businesses care about owning rock routes
+and the actual the fact that it's
+inefficient for them to get a job here
+in this neighborhood and have to go 50
+miles to another job, right? So what we
+were able to see is that these
+businesses, these business owners care
+about density. They care about owning a
+route, right? So the system that we're
+going to be selling to these businesses,
+it's not about legion. It's about can we
+control and own an entire block. Right?
+Now, if I was someone who doesn't have a
+lot of experience around sales or who
+doesn't have a lot of insights about
+this market, I could have jumped on a
+sales call and said, "Oh, we're going to
+sell you an appointment setting bot or
+hey, we're going to sell you more
+leads." But these people don't care
+anything about leads. And if someone you
+get on a on a sales call and this like
+you heard the AI agent literally said,
+"Oh, I don't want more jobs." Well, if
+you're a growth firm that sells just
+more clients, you're not going to be
+able to know how to handle this call.
+But
+because the system that we built, even
+though it gets them more client, it
+doesn't get them more client from front
+end, it gets them more client from
+getting more out of what they already
+have. And this business would be a
+typical of course this AI was a little
+easier and it was easy close but of
+course it would be harder but when you
+go to markets and you actually show them
+that it can make more from what they
+already um are doing and spending on ads
+then it's easier to sell. So uh now
+we're doing this in all the verticals.
+The idea is I want my clients to be able
+to role play and understand every market
+without wasting
+acquisition spend, marketing spend,
+right? We're we're launching so many
+campaigns for clients every single
+month. We're spending a lot of money on
+advertising. We're booking a lot of
+appointments in experts health wellness
+in local service businesses, online
+services, software, ecom, so many
+different verticals. And I want people
+to eventually not have to wait for a
+booked call for them to become amazing
+at sales, right? As you guys saw, it you
+it goes into the whole playbook. Then it
+can also give you feedback on what you
+did wrong. Or if you already have sales
+call, you can just take the transcript
+and put it in there and it will actually
+role play based on the things that
+you're not good at. Okay, so uh this is
+the type of stuff that I'm working on.
+Thank god AI exists because do you know
+how hard it would have been to be able
+to just this simple roleplay about
+pressure washing? I personally would
+have never been able to do a role play
+with a client because one I don't know
+anything about pressure washing right
+and even if I knew great it was even if
+I was great at sales how am I going to
+do role play with 30 40 50 new clients a
+month it's impossible right but AI this
+technology makes it so that I can take
+the perfect sales playbook at least to
+our to the things that we're selling and
+hand it to someone and have them not
+wait in front of a course looking at
+hours and hours of content. And it's
+just like this. As I told you guys, the
+world of info products is
+shifting. The way that you provide value
+to your customers, the way you provide
+the way we we're going to be delivering
+insights and knowledge is not going to
+be through information, through content.
+It is actually going to be through these
+systems, these agents that have your
+frameworks and your way of thinking and
+someone essentially just borrows borrows
+your way of thinking. And I cannot wait
+for you guys to try out all these
+systems that we're building. Um, after
+we've validated it, this then we're
+actually going to be plugging and
+playing it with the data that we have,
+all the data that we have from
+acquisition calls and everything like
+that. We're going to be dumping it in
+together. And then now this this
+assistant these frameworks are going to
+now be connected with the data. So then
+it can actually pull in real time from
+things from closed deals so that it's
+not just woowoo stuff based on sales
+process and sales training. Okay. Um and
+this is why it's cool what we're working
+on. Okay. Love y'all. Sorry for this
+light. Okay. Bye-bye. Take care.

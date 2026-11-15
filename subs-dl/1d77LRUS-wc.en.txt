@@ -1,0 +1,321 @@
+The single biggest question that I've
+been asked over the past few weeks is
+n8n worth learning ahead of 2026. And
+when I look at the AI automation space,
+well, I can see why people are asking
+this. Cuz it seems like everybody who's
+building AI automations is moving from
+n8n to Cloud Code. And this massive
+shift is happening right now. And so, in
+this video, I'm going to break down
+exactly what this shift actually means,
+why it's happening, but most
+importantly, what you have to do to
+prepare for [music] the next 12 to 18
+months to stay ahead of everybody
+getting into the AI automation space.
+And in case it's the first time here, my
+name is Mikaiah, and I've scaled my own
+AI agency to six figures in 14 months.
+I've worked with over 40 businesses to
+implement AI and automations, and taught
+over 20,000 people in the process. All
+starting with zero
+>> [music]
+>> technical knowledge. With that being
+said, let's dive in. So, before I give
+you any of my takes when it comes to
+whether n8n is worth learning ahead of
+2026, let me show you exactly what's
+happening in the AI automation space
+right now. [music]
+Cuz there are very, very strong opinions
+on both sides of this debate. First,
+let's talk about what everybody else is
+saying. Cuz if you have been following
+the AI automation space on YouTube, you
+probably noticed that some of the
+creators who were making exclusively n8n
+content are now making more and
+exclusively just Cloud Code content.
+But, there's a reason for this. You see,
+the search interest for Cloud Code has
+been completely surpassing n8n over the
+past few months. But, the interesting
+thing is that this doesn't necessarily
+tell us that n8n is dead. It only tells
+us that the automation space is evolving
+extremely fast. And in case you haven't
+noticed, well, we're witnessing the
+three distinct phases of the automation
+evolution over time. Cuz phase one was
+manual coding. From the 1950s to 2011,
+everything required actual programming
+language. Then we go to phase two, which
+was visual workflow builders. Starting
+in 2011 with tools like Zapier, then
+n8n, then make.com, which allowed us to
+be able to drag and drop automations
+without writing a single line of code.
+And now, we're entering the phase three,
+which is agentic workflows. Using
+platforms like Cloud Code, where you can
+actually describe what you want in plain
+English, and it builds, tests, [music]
+and debugs the entire system with
+minimal human input. And that's exactly
+why people think that n8n is becoming
+dead. Because something that used to
+take hours using n8n building
+automations can now take minutes just by
+putting a single prompt inside Cloud
+Code and that makes you think that
+visual workflow builders are now
+becoming obsolete. So, let me break this
+down from the main arguments from people
+who think that N8N is finished. The
+first argument is commoditization. Some
+experts are saying that the automation
+skill is following the same pattern that
+we've seen before cuz in the 1980s being
+a computer operator was an actual job,
+which is basically knowing exactly how
+to turn on a computer but also how to
+run programs. And by the early 2000s,
+well, that job did not exist anymore
+because everyone had gained those exact
+basic skills. Cuz in the 1990s, web
+developers hand coded everything.
+Knowing how to write HTML was basically
+like having superpowers. Then what
+happened is that Wix and Squarespace
+came into the space and now everybody
+can build a website. Well, the argument
+here is that the exact same thing is
+happening with automation experts right
+now cuz when platforms like N8N release
+features like build with AI where you
+can describe exactly what you want and
+the platform itself builds it, suddenly
+a 10-year-old can build something which
+used to take us months to learn. The
+second argument is about efficiency. Cuz
+I personally used to take weekends to
+build N8N automations or N8N AI agents
+depending on the complexity and now
+there are tools like Cloud Code and
+Antigravity or even the Gemini models
+which allow us to be able to build N8N
+AI agents or workflows in a matter of
+minutes just by describing exactly what
+you want using a single prompt. And the
+third argument is around real world
+application. Cuz some creators are
+pointing out that a lot of these viral
+N8N AI agents or workflows actually
+provide no business value. They were
+great for YouTube demos, you know, the
+ones where you actually talk to AI or
+talk to Telegram and it books emails or
+appointments. But the problem is that
+they don't solve any problems. And the
+last argument is around complexity. So,
+people are saying that N8N workflows
+become very, very hard to manage
+especially when they debug or there's
+errors and sometimes it causes a real
+headache and you need deep technical
+expertise to fix the errors. Whilst in
+Cloud Code, well, you can simply just
+talk to it and give it the error and it
+fixes it right away. Now, all these
+arguments make sense but then there's
+the other side of this debate which is
+equally as compelling. First of all,
+there's the fundamental argument cuz if
+there's one thing I learned after
+building dozens of systems using Claude
+code, is that to be able to build with
+Claude code effectively, you need to
+understand the fundamentals of APIs, how
+softwares talk to each other, but also
+how systems run together. And the best
+way to learn the fundamentals or the
+foundations for all these things is to
+use workflow automation tools like n8n.
+I mean, think about it this way. If you
+don't know exactly what a webhook is,
+how APIs work, or basic automation
+logic, how can you effectively prompt
+Claude code to build complex systems?
+Cuz you might get something that works
+off the bat, but when something breaks
+or needs customization, well, that's
+when you become stuck. Second, there's
+the control argument. Cuz with n8n, you
+can see exactly what's happening at
+every step of the way. You can debug
+issues, you understand the flow of each
+step of the automation, but most
+importantly, you feel like you're in
+complete control. With Claude code,
+everything is packaged in Python files
+that nobody really understands. And when
+something goes wrong, well, you don't
+actually feel like you're in control,
+you feel like Claude code is in control,
+and you're pretty much stuck if the AI
+can't help you to fix it. Third, there's
+the deployment and reliability argument.
+n8n already has mature hosting options.
+They have clear execution logs, but also
+predictable behavior. With Claude code,
+even though it's very, very powerful, it
+still has deployment frictions, and it
+can be harder to maintain over time. And
+the last argument here is around tool
+selection, cuz different tools serve
+different purposes. Cuz if you can build
+something in n8n that takes you 10
+minutes, why overcomplicate it using
+Claude code? In the same way around, if
+you want to build something that has a
+custom application with a nice
+interface, well, Claude code might be
+the better choice. So, with everything
+that I mentioned so far, what's actually
+happening here? Let me give you my
+perspective based on what I've seen
+after building automations and agents
+for over 50 businesses across multiple
+industries. Cuz for example, in 2022 to
+2023, if you wanted to build
+automations, you had limited amount of
+tools that you could use. Tools like
+Zapier for simple stuff, or even learn
+n8n or make.com uh for more complex
+stuff. But that was pretty much it. Now
+in 2026, well, we have multiple layer of
+automation tools. Layer one is
+template-based solutions like Lindy AI,
+where you can browse and deploy
+pre-built automation systems with just a
+few clicks. Layer two is more visual
+workflow builders like n8n, which are
+still incredibly powerful and have
+gotten so much better with the AI
+assistance. And layer three is agentive
+workflow platforms like Cloud Code,
+where you can build custom applications
+and complex systems through natural
+language. So, each layer serves
+different needs at different skill
+levels. A beginner might start with
+Lindy AI with the templates, then learn
+the fundamentals with n8n, and then
+graduate to Cloud Code for more complex
+automation systems. So, the biggest
+mistake people are doing is that they're
+thinking that this is an either-or
+solution. Well, it's not. It's about
+using the right tool for the right job.
+So, here's my take on whether n8n is
+dead and what I think will probably
+happen within the next 12 to 18 months.
+n8n is absolutely not dead, but the way
+that we approach learning n8n has to
+change. Cuz if you're just starting out
+and you're getting into the automation
+space, I would still highly recommend
+learning n8n because n8n will give you
+the fundamentals of automations, which
+is APIs, so software speaking to
+softwares, but also the workflow logic.
+And if you learn these two fundamentals
+early on, you'll be infinitely better
+when you have to use Cloud Code compared
+to people who jump into Cloud Code
+without having learned the fundamentals
+of automation, and it will take 10 times
+longer to learn everything off the bat.
+Now, the approach changes because you
+don't have to try to become an n8n
+expert in the traditional sense. Learn
+enough to understand how automations
+work, how APIs, you know, actually talk
+to each other, and how to think when you
+have to build an automation workflow.
+Then you can expand your toolkit when it
+comes to building more complex systems
+using Cloud Code. So, over the next 12
+to 18 months, here's four things that I
+think will happen within the next 12 to
+18 months. First is that I think that
+n8n will continue to improve its
+AI-assisted building features, which is
+the build with AI, which allows us to be
+able to build automations and workflow
+and AI agents all by using a single
+prompt. Second is that I think Cloud
+Code will become more accessible and
+more easy to use over time. Right now,
+there's still some issues with hosting
+and maintaining Cloud Code, but I think
+that will improve over time. Third, I
+think we'll see more of hybrid
+approaches when actually using n8n for
+certain types of automations and other
+approaches when it comes to Cloud Code,
+depending on the complexity of the
+actual system. And the fourth is that
+the real differentiator, the real value
+over time won't be which tool to use cuz
+the technical implementation, the need
+to become technical will lower
+dramatically. All you'll really need is
+to understand the fundamentals of
+automation. The people who will stand
+out are the people who will understand
+the business problems that they can
+actually help, they can solve using
+these automation tools. So, if you're a
+beginner in the space, start with n8n,
+learn the fundamentals, you don't have
+to become an expert, and then only then,
+if you want to build something more
+complex, then only start using cloud
+code. If you're an intermediate, well,
+you can expand your toolkit. So, you can
+start with n8n for quick and simple
+automations, and then use cloud code for
+more of a complex application that you
+can build. And if you're advanced, just
+focus on being tool agnostic, which
+means that whatever tool you have to
+use, that doesn't matter. What matters
+is more so applying the problem that the
+business has to the tool that you can
+use to solve that problem. And
+regardless of your level, remember this,
+businesses don't care whether you're
+using n8n or cloud code or Lindy AI or
+ChatGPT or Claude or Antigravity. They
+just care if you can solve the problem
+that they have. So, is n8n dead? Well,
+absolutely not, cuz the future belongs
+to the automation architects who
+understand business problems first, and
+then choose their tools second. I can
+tell you the future looks very, very
+exciting. So, I hope this video did a
+good job in answering the question, is
+n8n worth learning in ahead of 2026?
+[music] And if you're looking to start
+your own AI agency, then I left the
+first link down below, which is a link
+to a one-to-one mentorship program. You
+can watch that video, if it sounds like
+a good fit, then feel free to apply.
+With that being said, I really hope you
+found value through this video, and I'll
+see you in the next one.

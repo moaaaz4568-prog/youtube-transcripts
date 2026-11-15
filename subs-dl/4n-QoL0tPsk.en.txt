@@ -1,0 +1,313 @@
+what's up so this is a test we're
+running this week to send about 50,000
+emails over the next 10 days purely so
+we can test uh deliverability because
+deliverability in the cold email space
+has seemed to change a lot in the last
+two to three weeks and I don't see
+anyone talking about it for some reason
+and so uh this is just something where
+we're doing this internally figure I
+would share all the results that we get
+from this test and at least let you know
+that we're uh doing this test right so
+the weird things that we've been seeing
+recently is that our Gmail inboxes when
+emailing to other Gmail uh inboxes just
+aren't getting delivered right and so uh
+that caused me to be okay we need to
+look into um email service provider
+matching right now and
+so we're running a pretty in-depth test
+uh to figure that out uh we're doing it
+with our bdb's infrastructure cuz they
+have a massive Tam they have the best
+results of I think anybody I've ever
+heard of honestly when it comes to uh AI
+scaled uh outbound right I mean our best
+performing campaign for every like eight
+emails we sent we get one sign up uh
+their uh best like average campaign we
+send 50 emails to get one sign up and
+then just general Universe non ICP
+nonideal customer fit uh for every 200
+emails we sign somebody up right so they
+have a bunch of those metrics that we
+just know and they have a massive Tam
+and I was like you know what so like
+let's use their infrastructure and let's
+do a massive massive test and so what
+you're seeing here is we're going to be
+there's a few different criteria of
+segmentation that we're doing and these
+are all multiplicative to create about
+uh 28 campaigns uh that we're going to
+be running right now to test everything
+we can to have good data on it right uh
+so the very first segment is between uh
+smart lead which we've been using for
+years and a new tool we've been using
+the last 3 months called sasma This is
+an internal tool that we have that we
+have hired a developer to fully build
+out for us it's a uh it's an isolated
+sequencer what's really great about it
+is that it allows us to uh control our
+sending IP uh smart lead's great we
+freaking love them but back in June
+there was an issue where their sending
+IP was causing us to get like 2% reply
+rates and so we were signing up like 100
+people a week for RB Tob and all of a
+sudden it was like five people a week
+and I was like okay I didn't figure this
+out so we decided to diversify our
+infastructure and now we're using uh SAS
+mail um and we decided to build a couple
+things on top of that so we can use both
+at will depending on what is delivering
+better and so uh the way that this test
+is going to be uh
+done is uh uh we have it split up
+between both of these providers right
+and then inside of that what we're
+looking at is the inboxes that we are
+using of which we have four different
+providers that we are using and testing
+out right now we have regular Gmail
+inboxes we have um uh mail Reef inboxes
+which are a custom SMTP provider you get
+your own IP address and so your
+reputation is yours for which a high
+intent Center like us where we're
+sending 3 to four million emails uh per
+month uh for all of our clients and
+everybody we provide infrastructure for
+um uh us having our own IP when we're
+sending or uh on the email level is
+actually advantageous because our emails
+every single one has multiple AI lines
+they look handwritten and they're very
+effective uh so people don't hit spam um
+as often with our emails and so Mel reef
+is great for that the second segment
+that looking at is uh we're looking at
+two they're technically competitors to
+each other uh we're looking at a tool
+called scaled mail and we're looking at
+another tool called hyper tide okay both
+of these use a custom um custom Outlook
+setup to be able to deliver emails
+better and so we have two sequencers in
+conjunction with four email service
+providers that we was using to send
+emails and then the last thing that
+we're doing is we're evaluating the
+inboxes that we are sending these emails
+to and there's four of those there's
+recipients who are using Gmail there's
+recipients that are using Outlook there
+are recipients that are using custom
+email service providers um so they just
+have a custom uh uh setup um and then
+the last one is Enterprise esps so these
+is pretty much everybody else is what
+we're calling it these are people who
+use proofo uh Barracuda spam hos these
+are the ones that have the guards up to
+prevent emails from getting into uh
+their servers right and so we're testing
+all of those at scale to be able to
+figure out what's actually delivering
+the best right right now uh we started
+on Sunday just to do a quick batch we
+only sent 50 emails so do not read into
+any of these stats whatsoever we sent 50
+emails per segment on a Sunday so these
+are not uh uh at all but I wanted to
+give you an overview of kind of what
+we're what we're thinking of and what
+we're doing uh when it comes to uh when
+it comes to this data right and so what
+we're going to be able to do is pull in
+all of the data for every single
+campaign that we're running across of
+both sequencers right and what I'll be
+able to compare when this is all said
+and done um and once again I'll share
+those results um the second that we have
+those just transparently I don't really
+have I don't have a horse in this race
+at all I don't care what tool does the
+best I just want to know which one's the
+best so we can use it for all of our
+customers and advise them properly right
+and so overall we can we'll be able to
+segment between okay which sequencer is
+performing better we'll be able to look
+at um uh which uh which one of our inbox
+infrastructures are performing better
+right um we'll be able to look at which
+uh recipients um are performing better
+um but additionally with any of these
+other segments we'll be able to look at
+these and so I could break this down and
+look at it okay per smart lead per SAS
+mail I can also look at it uh based on
+um uh if I wanted to look at it with the
+ESP that we're using as well so I'll be
+able to splice the data in any way I can
+and so I'm I'm super interested to hear
+like what what what what data here is
+like important for you to understand am
+I thinking about this correctly or is
+there like other stuff that you guys
+would like to see as you're looking at
+this because we'll be running this for
+10 days and then we'll publish um
+everything that we found once again just
+in a transparent uh manner right and so
+um a couple things um I'll kind of
+finish this with my thoughts just kind
+of what I'm seeing in the marketplace
+when it comes to cold email
+infrastructure and some hypothesis that
+I have that could totally end up being
+incorrect um but we've been doing email
+deliverability in this game uh for a
+while now so we have some we have some
+opinions right um uh I do the very first
+thing I think is that diversifying
+sequencers is going to become important
+because there are times when in ly is
+just not doing anything good then
+there's times when smart lead isn't
+doing anything good and then there's
+times when um even sasal isn't doing
+that good which caused one of the other
+reasons uh that caused us to switch to
+sasil is I did an initial test uh back
+in July and this is what we had right um
+we tested four different clients and for
+one of them we had a 2X multiplier on
+results and for three of our clients we
+had a 5x multiplier on results and this
+was after smart lead fixed the header
+stuff right and so we've been using it
+since then because it just delivers
+better but once again we're going to
+look at the data and see what it is but
+even if it comes back and it's not that
+good I'm still going to keep sasma um or
+use both I should say because um uh the
+ability for us to be able to control our
+sending IP at any point in time which we
+do not have control of for when we're on
+uh smart lead is uh is super important
+for us to be able to uh to do that right
+um so anyways a couple things uh
+hypotheses things that I'm seeing is
+that um I think that because we're going
+to use multiple sequencers what we're
+building is we're building a system that
+sits above the sequencer that is able to
+plug in any sequencer we want so with
+one click of a button we can publish a
+campaign and it will go to we can
+distribute leads um based on what's
+working right now which kind of leads me
+into my next point is
+that segmenting
+campaigns based off of the targets email
+service provider and matching your
+inboxes with theirs
+is going to be super key right and uh
+one one of the things with that is you
+might be wondering like how the heck are
+we figuring that out um I recently
+stubbled on a email guard it is sick um
+it's it's it allows you to do inbox
+placement tests inside of campaigns um
+and uh it also um allows us to be able
+to
+um uh uh forward uh domains as well and
+so something else that's going on is
+that someone can look up your and be
+like hey this guy's
+forwarding 200 domains to the single
+domain all those other domains must be
+used for cold email let's suppress them
+right and so what this does is it adds a
+uh domain forwarding where's it at yeah
+hosted uh domain redirects you can have
+that in there so that way you can uh
+forward domains at scale and it's uh
+camouflaged and so I think that's
+something that could become important
+we're also doing another test completely
+on that right now that I'm uh I might or
+might not publish uh but it's basically
+a test where we're looking at getting
+where getting your domains from doesn't
+matter if you get them from cloud flare
+pork bun and then also doesn't matter if
+you host the uh domain redirects and so
+we'll some some data on that too to
+answer some of those theories um email
+guard is really great you can also use
+uh a code to get like 5% off uh called
+email guard 5 um we've been loving them
+and they've been giving us really good
+data um but then we also we're using
+their API endpoint to check the email
+service provider of the people that were
+sending the emails to right and so we
+have these tables that are pushing
+through about 50,000 leads we have
+another table that's feeding into this
+and we're able to use uh this point
+right here and it tells us what is the
+email service provider of the recipient
+that we're doing with there also
+something else that I learned inside of
+clay just as a quick tip in Clay is that
+uh if you um if you're like Hey how do I
+uh how can I split up campaigns without
+like uh getting too crazy basically uh
+what I did is I just add a randomizer
+formula in here so output something one
+through four and basically if it's a one
+then it's going to go to a Gmail
+campaign if it's two it's going to go to
+mry if it's a three if it's going to go
+to that and then you just build formulas
+uh on the second page P or whatever that
+then route all of the campaigns uh each
+lead to all the different campaigns
+based on that randomization so now we're
+evenly Distributing leads and we are
+having to go through the headache of
+like building out like 28 different
+Pathways we just create one Dynamic
+formula um I thought that was pretty
+cool something something I figured out
+uh today um this is a message that we're
+sending people um and so anyways so this
+is what we're doing um we love to hear
+your feedback on uh if there's anything
+you guys like would like to see as we're
+doing this test uh publicly but really
+it's just a just an effort to I don't
+see anybody doing public email
+deliverability tests right now in fact I
+see a lot of people in the cold email
+space being kind of quiet about results
+right now because I think um a lot of
+people are maybe secretly being affected
+by deliverability and maybe not talking
+about it I'm not sure it's just a theory
+um but uh uh but yeah we just wanted to
+share this uh with everybody out here so
+if you have any questions let us know
+look forward to the results and have a
+great day bye

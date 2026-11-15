@@ -1,0 +1,872 @@
+Welcome to Agency Bites, a podcast for
+agency owners, hosted by agency veteran
+and coach Steve Gooberman. Agency Bites
+is a podcast focused on delivering
+actionable [music] agency information
+from agency experts in about 25 minutes.
+Why 25 minutes? Because who has the
+attention span for much more these days?
+And you can squeeze in a listen between
+meetings with time for a bathroom break
+or coffee refill before your next
+meeting.
+This episode of Agency Bites is
+sponsored by Ignition. From proposals to
+payments, Ignition gives agencies the
+tools to work smarter and get paid
+faster. 91% of payments through Ignition
+are collected automatically for
+predictable cash flow. Simplify billing
+and get paid faster at ignitionapp.com.
+Use code outsight 25 to save 50% off on
+monthly pro or pro plus plans. Welcome
+to Agency Bites. I'm your host Steve
+Gverman from Agency Outsight where I
+coach agency owners to build the
+business of their dreams. This week on
+Agency Bites, I'm joined by Jordan
+Snyder, co-founder and CTO of Token
+Creative Services. Jordan's that rare
+blend of full stack engineer, creative
+problem solver, and he's used that mix
+to turn token into a more streamlined,
+scalable agency. A big part of that
+shift has come from their work with
+Ignition, our sponsor this week and this
+quarter. uh using it to overhaul
+proposals, automate billing, and bring
+real clarity to how they scope and
+onboard clients. Today, we're going to
+dig into how those changes reshaped
+tokens operations and freed the team up
+to focus on higher impact work. Real h
+happy to have you here today, Jordan.
+>> Hey, Steve. Pleasure to be here, man. Um
+love the podcast. Love some of the
+guests that you guys have done recently.
+Uh and honestly, it's a privilege to be
+here with you.
+>> Appreciate it. Uh I did not pay Jordan
+to say that, so there's a bonus. So give
+the backstory token. You and a buddy
+said, "Hey, let's launch an agency." And
+you still have a full head of hair. So
+how's it like what's what's the
+backstory on the agency?
+>> Yeah, I mean I guess we are sort of, you
+know, two two co-founders. Uh Mosen um
+is my co-founder. You know, two guys
+just doing what they love trying to make
+a business out of it and trying to help
+some of their friends and family around
+them in the process. You know, um I've
+always been, as you said, sort of like a
+developer, technical marketing guy. Uh
+Mosen, my co-founder, is brilliant in
+the work that he does for, you know, all
+things design, photography, videography.
+Um, and we sort of both found ourselves
+doing these independent skills and sort
+of had a Eureka moment where we were
+like, oh my god, like why don't we work
+together and sort of make this a thing.
+Uh, and you know, we've kind of just had
+some fun with it along the way. You
+know, bootstrapping as we go, working
+out of his garage for the first year or
+so before we, you know, ever had offices
+employees. You know, I think a lot of
+the creative people around us uh
+struggled with, you know, marketing
+themselves. You know, the designers and
+the developers that we worked with um
+were were great people. They just had
+hard times finding jobs. And so, you
+know, one of the biggest things that we
+loved with our agency is that we could
+take these really skilled, awesome
+people around us and help them find
+purpose to their talent. And so, you
+know, I would say on the whole, our
+agency was really just about helping
+people. you know, whether that be the
+employees that we would eventually come
+to have or the hundreds of clients that
+we've had the chance to work with.
+>> Love it. And so, you went along figuring
+it out as we all did. I mean, we worked
+in my basement for the first year. It
+was me and an intern and I think I had a
+graphic designer. I like squeezed in
+tight. So, you went along figuring out
+at what point did you say this isn't
+working? We need a better solution. Um,
+was there like a pivotal point, a
+breaking point? What was that all about?
+Yeah, I mean like as as a as some guys
+who are just kind of figuring things out
+as they go, we were never necessarily
+business-minded and you know, our
+strategy was really brute force, you
+know, um you know, be really organized
+but do everything yourself and so that
+put I guess myself into a position where
+you know we were tracking ins and outs
+and things with spreadsheets, you know,
+accounts receivable, you know, we were
+streamlined as possible. We weren't
+really looking to buy tools and
+integrations to help us save time. At
+the end of the day, we really just try
+to keep it bare bones. And I would say
+the turning point for us in a lot of our
+solutioning for our agency came to the
+point where we had like within a year
+almost $40,000 in accounts receivable um
+mainly from one really bad client. And
+you know, as I said, we were always
+about helping people. And I think that
+we kind of got taken advantage of in a
+lot of ways from our clients. um you
+know we would be really generous and
+they would just kind of abuse and abuse
+that and so I think that was it for us
+when we realized you know we're doing
+good work we have these great clients
+you know we've got awesome people
+surrounding us but you know there was
+something still missing and you know you
+know there's a problem when your clients
+are asking questions about being
+confused for seeing multiple versions of
+proposals signing this there's a
+contract over here um came down to the
+point where we were mature enough of
+business to understand and that like
+we're not really doing something right.
+And I think that like our AR aging AR
+summaries were sort of that that impetus
+to us to say, okay, yeah, there's
+definitely something wrong here.
+>> Yeah. AR and a especially aging is the
+amount of time that agency owners spend
+chasing invoices and aging AR and like
+there's so many better things to do with
+your time. Um or just not do those
+things and have free time back back into
+your life. Um so it wasn't really a
+moment. It was more like, "All right,
+we're looking at this aging AR. We need
+to build in some automations." Um, talk
+about some of like what automation
+really did for you guys. How how did it
+fix your painoint? Um, and kind of what
+how was it received by clients when you
+started to free up your team or your
+headsp space with some of these
+automations?
+>> Yeah. So, our workflows honestly from
+like the first touch with the client
+was, you know, was really disjointed. So
+we you meet with them on discovery call
+you know we might send them like a nicel
+looking Canva proposal then we might
+send them a more you know technical
+specific proposal then they have to sign
+our you know various agreement provide
+their payment method um it was it was
+just a bit of a mess and I think like
+the key for us was finding a tool or you
+know tools that specifically sought to
+integrate these different kinds of
+things. Um, and at the time it was like
+a a novel concept like, "Wow, we can
+send you a proposal, have you accept our
+agreement, and provide your payment
+method all in one go?" Like, that's
+unheard of. Um, because the literal
+opposite of what we were doing, um, was,
+you know, if we needed to collect a
+credit card over the phone, process
+things more manually, follow up with
+everything. And so, you know, you get
+that workflow with three or four open
+opportunities and you are effectively a
+part-time project manager at that point
+just trying to keep track of everything.
+And I think what made the difference for
+us is when our clients were just so
+receptive to, you know, the
+implementation specifically of Ignition.
+Um, because we got complaints about how
+many different things that they were
+accepting and, you know, the security
+practices around stuff. And you know
+when we hit a tool like ignition, it was
+like it was a gamecher and we literally
+got positive feedback from our clients
+to say, "Wow, like that was really easy.
+That was much nicer than what you guys
+used to do before." Um because you get a
+you get a client that sticks with you
+for a few years. They kind of see you
+going through the growing pains and um
+there was one client in particular was
+like, "Wow, like well done, boys." And
+we kind of patted ourselves in the back
+for it.
+>> They were like, "Oh, you guys are
+growing up a little right in front of
+our eyes." Yeah. And a little Yeah.
+>> Exactly.
+>> Was there Did did that change your close
+rate or like what was the impact to the
+new business pipeline in this transition
+for you?
+>> It was it was a lot of little things. So
+I found that like just in terms of like
+the tools, you know, the the desperate
+tools that we had saved us on some
+software licenses, but then it was it
+was also just in like the sales
+conversations that we were having. So,
+you know, generally speaking, I found
+that there was much less resistance on
+that closing period of your sales cycle
+where there was just, you know, you
+didn't really miss the client on
+anything there too much. Um, we found
+that renewals and upsells were just a
+lot easier to handle. Um, and it's the
+scope creep that did a big one for us.
+like you you know better than anybody
+that you know the agency life can be
+really tough because you have some very
+complex billing rules, deposits, on
+completions, you know, just variable
+rates like say like an ad spend or
+retainer fees related to influencers. Um
+and it was the upsells and uh just
+handling of scope creep that that made a
+big difference. Not necessarily because
+we were trying any harder than we were
+used to. Um it was just that like the
+process was easier. you had the tools to
+actually manage that. Um, and if you
+don't really need to bother the client
+with too much, if you get there okay
+and, you know, obvious confirmation,
+then it's as simple as a couple button
+clicks as opposed to uh just the mess
+that you get yourselves into trying to
+reissue amendments and get new
+signatures all over again.
+>> What are what's the nature of most of
+your engagements? Is it retainers with a
+lot of out of scope stuff? Is it project
+based, hourly based? Like how are you
+typically engaging? I would say for sure
+today we live in a place of um
+retainers. Uh depending on the nature of
+the work it might be project based for
+websites and things like that but you
+know for the most part we like retainers
+um only because as a as a true full
+suite creative agency you know we really
+do do a little bit of everything. And so
+my ideal client is somebody that comes
+to us and says Jordan you know I I don't
+have anything or like I really need help
+with a lot of different stuff. Um, and
+we love that because if we can help you
+with your branding, your website, your
+marketing, like your tone and voice,
+your you know, everything about your
+brand guidelines, there's like a there's
+a level that you achieve in your
+marketing and your brand awareness when
+things are consistent and professionally
+uh when these people all work together
+being us uh talking to each other. Um,
+the retainer sort of gives us that
+ability and the freedom to not only help
+a client with a lot of stuff, but do it
+in a way that is very uh tactful uh and
+and cohesive.
+>> Yeah, love that. So, walk through walk
+me through kind of what the biggest
+financial impact was and you probably
+didn't realize it right away, but maybe
+within that first year, where did you
+actually recapture revenue, faster
+payments, reduced write offs, fewer
+unbuild hours, things like that?
+>> Yeah, so I I would say it's probably two
+things. It is it is the representation
+of things that were previously unbuild.
+So you know I I can easily give you a
+variable line item now that says hey
+client you know you might spend this
+much in at spend this much. You know we
+might be doing some dev time for you.
+Maybe at the onset of the month we don't
+really know how much that's going to be.
+So we kind of keep it as a zero number
+for now but you know at the end of the
+month we'll regroup and see where we
+landed. Um, and it just purely in the
+operationalization of that, of being
+able to have a fast and easy way to
+track those hours and then just kind of
+issue a bill based off that. That was
+the biggest one for us. I think accounts
+receivable again though I would mention
+only because you know before we were
+using Quickbooks, we were sending you
+know manual email reminders, we were
+emailing invoices manually and you know
+we we were just never a really big fan
+of that software. Um, so the ability to
+actually see things more easily in terms
+of what's owed, know that automatic
+payment reminders are going out, uh, and
+then have it linked to a payment method,
+like that was a huge difference for us.
+Like whether that client remembers to
+pay us on time or not might be
+different. But, you know, if you've got
+that securely stored and we can charge
+that as we need to per whatever is
+agreed on, uh, then that was a game
+changer, too, because um, ignition kind
+of nearly entirely eliminated our
+accounts receivables, right? that, you
+know, the tools made it so that we were
+seeing it as it happened and had a
+quicker intervention.
+>> That's amazing. And I will say, I mean,
+coaching so many agencies, one of the
+biggest lo profit losses is not tracking
+or not billing for out of scope work and
+being able to recapture that those like
+unbuild time is massive. And I've seen
+that like the impact that that has on
+agencies topline and bottom line is just
+so massive. And so being able to capture
+all that is really awesome. Talk to me
+about forecasting because I get so many
+agencies either posting in Slack or
+reaching out like, "Hey, we other than a
+spreadsheet, what can we do for
+forecasting? How do we see what we're
+looking at down the road? What were you
+blind to before and what can you see now
+that change, you know, now that the
+changes uh kind of how you make
+decisions as a business owner based on
+what you can see in your reporting?"
+It's sort of funny to say, but you know,
+when you log into Ignition and you just
+sort of see that dashboard page, there
+there's a few metrics there that you
+know, you just see that might have taken
+some work with a spreadsheet that maybe
+we just never spent the time to do um
+that we see and we're like, whoa, that
+is amazing. Like it it is more than just
+like your pipeline, right? Because we
+would use, you know, HubSpot or whatever
+it was out there to actually track that
+sort of thing. And I mean, it always
+sucks when it's in a different system
+than most of your sales. Um, but it was
+being able to see specifically what was
+in open proposals actively, what we knew
+was coming for renewals based off of
+that. And then even just the metric to
+see like given that like where we would
+land this year in terms of total, you
+know, annual contract value or or the
+growth of that year-over-year. Um, I'm a
+bit like I like I like a goal. I like to
+know that I'm working towards something,
+especially if it's big and lofty. Um,
+and so for us being able to see the
+trajectory of what we think we might
+grow over the course of the year
+compared to last year, uh, was great
+because if I see a red negative number
+that we're down 20%, you know, all hands
+on deck. If you see that number green,
+then you feel a lot better about the
+work you're doing.
+>> Yeah. And are there different metrics
+that you can more easily track now than
+having to figure out reporting in QVO
+or, you know, different things that
+you're able to kind of be attuned into?
+really as simple I think for us as
+proposal win rates uh and the time to
+close for a lot of that stuff. Um we've
+done a little bit of work to focus on um
+the new deals product that comes with
+Ignition and I think that for us kind of
+changed the way we analyze our pipeline.
+So whether we've got stuff in early
+sales conversations or things really
+close to closing uh the key for us was
+knowing like exactly where things sat in
+the pipeline.
+>> Every hour you spend chasing signatures
+or overdue invoices is time you're not
+growing your agency. That's why over
+8,000 customers trust Ignition to
+automate agreements and payments, saving
+up to 18 hours a week. Improve cash flow
+without awkward follow-ups with Ignition
+at ignitionapp.com.
+monthly pro or pro plus plans.
+>> Love that. Yeah. What about your tech
+stack? Like you you mentioned you were
+in QBO, you were in HubSpot. Were you
+able to dwindle things down from X
+number of platforms to X fewer
+platforms?
+>> Yes, for sure. Like I remember when we
+were just, you know, trying to make
+QuickBooks work. We were I don't even
+remember what they were called, but they
+were like apps [clears throat] that
+connected with QuickBooks that we were
+trying to use. And oh man, we we tried
+so many different ones and you know, I
+don't know why, but they were all
+terrible. Um, and I remember like we
+were using like Zapier to take
+information from HubSpot and put it into
+a sauna. Then we tracked it in a
+spreadsheet. Um, and then we had to
+disseminate that through Slack to our
+team. So, don't get me wrong, like I
+love integrations with like technical
+stuff off the shelf, whatever. So, you
+know, we did what we had to do to make
+sure that like this win notification
+went to these teams and the info went
+over here. But, you know, as I've
+described, it's like four or five
+different places and and and now, you
+know, the simplicity that it affords us
+is simply keeping all of that
+information in one place. And ignition's
+got anything we need like it connects to
+Zappier like great. If there's anything
+else I need that self-s serve, I can
+figure that out. Um, and we play with it
+purely for workflow automations and fun.
+Uh but you know saving on not only the
+software cost but like the complexity of
+like oh that thing failed and now I have
+to go see why this integration isn't
+working anymore
+wasn't worth our time.
+>> I also love middleares and I love it
+reminds me like when I make a zap and it
+like it works. It's the same as when I
+first learned HTML and I hit refresh in
+a browser and I saw like oh my god the
+thing that I just coded three lines is
+now in a browser. It's the same like um
+like stimulus for me. Endorphin rush. I
+also love that you say zapier very very
+like French Canadian like zapier sounds
+fancier. [laughter]
+>> I don't know which is right but I like
+your way.
+>> Talk about
+>> that sounds fancier.
+>> Yeah. Talk about team impact. Like what
+was some of the manual things that you
+were doing that disappeared? What did
+your team suddenly have time to do like
+that moved that helped move your
+business forward now that you were kind
+of streamlining things?
+Yeah, I think it was just the fact of a
+representation uh of a contractor that
+they would have on the team of of sales
+operations like literally somebody who
+would simply support the day-to-day
+stuff of sales that would be you know
+actioning stuff in our CRM you know
+recording revenues just kind of keeping
+the systems in place um I mean case in
+point if we needed a sales operations
+manager it was probably overly complex
+uh and and it muddied things a lot so uh
+the fact that we had a better system
+really meant that we could just
+streamline the team um and Instead of
+having people supporting sales, it was
+sales and the right tools to do the job.
+>> Yeah. What about um as far as like
+ignition helping force clarity both
+internally and externally whether it was
+scope or productization, service tiers,
+pricing, what were some of the things
+that you were not enforcing before that
+you're now enforcing as you know with
+clarity?
+>> Yeah, I think like the the scope is a
+big one. Uh because it's one thing to
+send a big document to somebody like a
+like a master services agreement and say
+sign this 13page document and you know I
+hope you get the gist. um you know
+versus you know more structured you know
+still very legally technical proposal
+but you know one that actually broke
+down line by line like the scope of what
+everything meant and um you know the
+representation of when do things happen
+even right like it's really hard to get
+a sense of a marketing strategy for a
+word document especially you know as m
+as much as you try to break it down and
+you know represent things on a calendar
+um it's hard to get for our clients
+especially who don't really understand
+the kinds of things that we might be
+talking about. And so I found that
+ignition provided a level of clarity to
+our customers that said I just like I
+know what I am getting. I know when
+things are going to happen and I know
+how much they cost both at a minimum
+scale and at maximum scale depending on
+additional costs or variable things like
+ad spend.
+>> Yeah, I love that. Again, that's missed
+so many times. Too many agencies don't
+enforce out of scope. Their scopes of
+work are like jargon out the wazoo. And
+so what does a client really understand
+that they're getting? Um do you leverage
+I guess you probably at this point have
+you built your own templates? Do you
+leverage the library of templates for
+proposals?
+>> Yeah. Uh so we we were all like
+do-it-yourself kind of guys. And I mean
+we've we've been with Ignition for
+probably four years or so, maybe more,
+you know, and at the time it was called
+Practice Ignition. It was very focused
+on bookkeepers and accountants and
+stuff. Um, and so at the time, you know,
+there weren't really too much that we
+would have to work with, but you know,
+we knew Ignition was the solution. Um,
+because when it was actually recommended
+to us by our own accountant and I was
+like, "Wow, like this is amazing
+because, you know, the the level of
+complexity and the billing rules and
+frequencies were effectively as as
+complex as that of an accountant."
+And so, you know, I think at the end of
+the day when, you know, when we found
+that tool, uh, we knew that it was going
+to do like a lot more for our business
+than just help us like issue proposals.
+>> Yeah, that's great. From a growth
+standpoint, what can you guys do at
+token now that maybe would have been
+impossible for years ago before
+integrating?
+You know, I think it is just it is just
+in the process and speed at which we can
+work with. Um, you know, I I as an
+individual like I I like to think that
+I'm I can be like a high performer. I
+work really quickly. I can be really
+organized and and I'd like to think that
+that is representative our agency as a
+whole. I'm only as effective as the
+tools and the things that I've got. And
+you know, I'm I'm a newish dad and so I
+don't have a lot of time in the day. And
+and it is simply that like you know, for
+the eight hours that I get to sit down
+at this desk and work, I can do that
+much more. I it'd be hard to put a
+number on it, but like when it comes to
+sales, operations, anything like that,
+like I I would dare to say that I'm
+probably 30% more effective than I used
+to be simply because I'm not wasting my
+time. Things are easier, more
+streamlined, and um we can literally
+focus on selling more instead of
+spending hours making proposals and
+following up.
+>> 30% is a massive shift in an owner's
+time. Like the value that you bring as
+the owner, that's huge, huge impact. Um
+yeah, knowing that that this was advised
+from your accountant, so you had the
+support of your accountant. Um what was
+were there parts of adopting Ignition
+that was like painful, but you knew all
+right, I've got to power through it and
+on the back side or you know on the
+other side of it, it was worth it.
+>> I think it was sort of as I said just
+that like the frame of their ideal
+client at the time was accountants and
+you know the proposal templates all of
+the language was very specific to that.
+Um I've I've worked in technology uh for
+like a long time and in a past life I
+used to be a product manager. So I get
+the idea that you have a core customer
+and a demographic and that you know the
+language and the workflows in the
+product it needs to speak to their
+values and their pain points. Um but
+being that end user on the other side of
+the fence and I remember just you know
+kind of thinking it's weird when
+everything is about bookkeeping and
+you're an agency. Um, but I but I I
+guess we were all on to something
+because you know you know case in point
+Ignition has been doing so so much
+specifically for agencies and it was
+like a Eureka moment for us and I was
+like oh my gosh yes like they're they're
+finally capitalizing on this opportunity
+that you know we have sort of had had to
+ourselves up until now and we didn't
+really use any of the proposals that
+they had at the time but you know I
+think when you know we all sort of saw
+the opportunity itself we actually
+started making uh proposals which
+Ignition now offers outside of their
+plat or inside of their platform. So,
+you know, if you're a marketing agency,
+you can open up a proposal and and see
+the literal items that we were working
+with as a template.
+>> Yeah, I love that. Now, you've got a
+tech background. You're very
+techoriented. A lot of, I guess, agency
+folks might be on the more creative side
+of the brain. And how do you think the
+integration or adoption of Ignition
+works for somebody that's less techsavvy
+than you?
+You know, I I remember thinking that it
+was a really daunting, scary thing only
+because you open up Ignition and you
+build a proposal there that you you
+immediately get the sense of um like the
+capabilities of complexity um because of
+like the billing rules, the frequency,
+you know, how often you do it. Do you
+skip this month? Is it variable? Is it a
+fixed rate? I think at first glance you
+see you're like, "Oh my gosh, like
+there's so many options. I don't know
+what to do." And you know, I I I think
+some people on my team today probably
+still feel that way. Um, but it is so
+much easier and so much more powerful
+than you think. Um, you know, because I
+I always used to say I was uh the
+technical guy. I was the organizer guy
+for my agency. And you know, back in the
+team back in the day, the team would
+always make fun of me. Uh, because I was
+I was organizing creative people, which
+was sort of counterintuitive to a lot of
+them. Uh, and I always jokingly said
+that like organization was my creative
+skill. Um, and you know, you kind of
+learn to be more creative with the stuff
+that you do. And I think that now, uh,
+the use of ignition can be won very
+creatively. Like somebody can send me a
+really complex proposal, like a one-year
+retainer with all of these breakdowns
+and fees, and I can sort of use what I
+know to make that perfectly adapted into
+something that will, you know, follow
+through building for a full year without
+anybody having to do anything at all.
+>> Yeah. Procurements departments love that
+also. So yeah,
+>> I'm uh a huge nerd for positioning,
+productization, simplicity, and I feel
+like you guys have really moved into the
+productization space um at least parts
+of your offerings and maybe it was
+impacted by this proc process of
+bringing on Ignition. How did this push
+you toward like real packaging and
+systemization?
+>> I would say it comes down to the
+enablement of what it allows us to do.
+um you know because before I think by
+nature of what we were doing we would
+charge hourly because it was just the
+easiest way to do things. We didn't even
+know how to price ourselves effectively
+and still we started, you know, learning
+and and being a part of different, you
+know, agency partnership programs. And I
+think for us, you know, when we went
+through the motions and had different
+tools available, it sort of allowed us
+to change the way we think about pricing
+and packaging as a whole simply because
+we knew that we had the the the ability,
+the flexibility um to do all of these
+things that we knew other agencies did.
+Like we knew of retainers, didn't know
+how to implement it, didn't know how
+that would be structured, didn't know
+how to build for it or anything. And I
+think, you know, when we when we use
+Ignition and we actually have the tools
+to follow through on these different
+strategies, it allows us to revisit our
+pricing entirely um to one that was more
+valuedriven, you know, both for us and
+for our clients. So, it was it was kind
+of a win-win that way.
+>> Yeah. Again, another massive shift. I
+think that's really awesome that they
+were able to kind of capitalize on that.
+Kind of final final question around this
+is what advice would you give to the
+agency that thinks I don't have time for
+it. This is such a massive o you know
+undertaking to overhaul my proposals, my
+billing or onboarding and they stay
+stuck doing the Microsoft Word or Adobe
+Inesign proposal QBO hackathon like what
+what guidance would you give there? Oh,
+I I would say to that person directly,
+you will regret that. Like it might not
+be now. It might not be in a few weeks,
+months, but I promise there is going to
+be a point in time in your life where
+you would say, "Oh my god, why did I not
+do this sooner?" Because you might want
+to do it proactively, but you know, a
+time might come where you might be
+forced to or where there is a need to
+have to do that. So, be proactive and
+don't be scared of change because I
+promise that the movement will afford
+your agency time, cost savings, and
+growth in revenue. So, you know, do
+yourself the favor because if this is
+your agency and you're thinking about
+this for yourself, you know, do yourself
+that service and take some time to even
+think about it. Um, it's not necessarily
+about completely upheav.
+Ignition can sit nicely into existing
+workflows and processes you have. Uh,
+but there is some level of cost savings
+and there is a way for you to make more
+money out of a tool like this.
+>> I love that. That's such sage advice. I
+will say often when I'm talking to a
+founder and they're like, "Yeah, I
+invest in my team. I invest in our
+infrastructure. I invest in all this."
+But they don't invest in themselves. And
+so I'm like, "Coaching is a gift for
+yourself. Like why would you not?" And
+it's the same thing with something like
+this. Like this is a gift to alleviate
+process, alle, you know, alleviate
+stress of process, uh, simplify things.
+And so, you know, especially like this
+podcast is coming out right around the
+holidays. And so, sure, we're trying to
+close the last minute business. We're
+trying to get projects done, but there's
+often a lot of downtime to work on the
+agency and work on process improvement.
+It's a great time to jump in and kick
+the tires and check it out. Um, Jordan,
+I really am grateful for like the
+experience that you've had and how
+integrating Ignition has truly impacted
+token. I want to wrap up random rapid
+fire questions. Um,
+>> go for it.
+>> First one is, what's one piece of tech
+that you can't live without personally
+or professionally?
+Uh, I would say project management tool.
+I use Asauna. I use it for like my
+agency, past jobs, myself personally.
+Um, I'm a pretty forgetful guy. So, a
+good organizational tool is mission
+critical.
+>> Love that. What if you could uh
+instantly master any creative skill that
+you don't currently have, what would it
+be?
+>> I would say illustration. There there's
+something really special about being
+able to take an idea and actually
+breathe life into it. Um, I know I know
+that sort of muddied with AI a little
+bit, but I think the idea of of human
+created content sort of lives at a
+premium these days. And I was always the
+least creative person I know. So, the
+idea of being able to do illustration
+skills would would be something I've
+always dreamed of.
+>> Love that. I believe everybody's
+creative. There are 30-day drawing
+challenges and things like that that can
+kind of ignite that for you.
+>> Uh, what's a small daily habit that
+genuinely makes or breaks your day?
+Oo. Um, I would say actually taking
+lunch. I, uh, I'm really bad for it. You
+push through. You're busy. You just kind
+of just go about your day not thinking
+about it. Um, I was really really bad
+for never taking lunches, not eating.
+Um, and and that shows in in your
+mentality, your work, even the way you
+talk to people. So, take your breaks.
+>> Love that. Yeah. Jordan, thank you so
+much again for your time, your
+experience, walking us through the
+impact that Ignition has had on Token.
+Uh folks, if you're listening, grab the
+link to Ignition App in the in the show
+notes. There's a coupon code. Save uh
+it's uh outside 25 and it'll save you
+50% off on adop adopting Ignition into
+your agency. So, uh thank you very much,
+Jordan.
+>> Thanks, Steve.
+[music]
+>> Thanks again for tuning in to Agency
+Bites. If you know someone with expert
+knowledge on a topic that agency owners
+would love to hear about, [music] go to
+agencysite.com/mpodcast-
+guest and nominate them.

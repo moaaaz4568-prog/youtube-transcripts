@@ -1,0 +1,242 @@
+oh boy
+there are some truly annoying things in
+adobe illustrator but i'm going to help
+you with some of these workarounds in
+today's video and that starts right here
+with text and deselecting off of it now
+typically we would actually press v to
+select away from things but you cannot
+do that with text because it just gives
+you a v so instead just simply hold down
+command on a mac or control on a pc and
+then just click away from your text you
+can then hit v or whatever you want to
+use in terms of tools for me this just
+feels a lot easier and a lot quicker
+than coming over to the toolbar itself
+now the next issue is something i'm sure
+you have experienced before in your
+graphic design workflows so that problem
+i'm sure you've experienced goes a
+little something like this you make a
+new shape in illustrator and then blammo
+the transform window just opens up this
+happens every single time you make a new
+shape and it's highly highly annoying
+to solve this problem simply come into
+the menu here and uncheck the show on
+shape creation button
+so now whenever you make a new shape you
+won't have the headache of having to
+close this window over and over again
+and as a designer that feels pretty damn
+good learn more about the awesome
+workflow tool miller note later in
+today's video and also how to sign up
+for free with a no time limit period
+attached now again i have some text
+right here and let's say on this design
+i want my text to be the exact same size
+as this circle
+we could outline the text or whatever
+else but to remain non-destructive let's
+first head into the properties panel for
+this circle and we're going to copy the
+height with command or control c
+great
+now we need to press command or control
+t to open up the characters panel and
+navigate over to the corner menu we want
+to open up the height settings panel
+and as you can see in the drop down menu
+we have several different options open
+to us
+now the a on my astro is an uppercase
+letter so i'm going to use the select
+cap height option
+we can then paste in the measurements
+excluding the letters of course and hit
+enter
+so now my a will actually be the exact
+same size as my shape now you might
+notice that some of the letters won't be
+the exact same height but most of them
+will be also of course we cannot forget
+about entering into the preferences
+settings menu with command or control k
+and then make sure our glyph smart
+guides are in fact activated and by
+default these things are green but what
+they do is they allow you to align
+objects with typography even though your
+typography isn't outlined
+instead of illustrator trying to match
+an object to the letter bounding box i
+can actually align things to the
+character itself without outlining it
+this can help us match anything to our
+text size as well and that helps those
+who don't want to mess around with
+numbers and copying and paste like we
+just saw here's a super annoying problem
+that's pretty easy to fix but guess what
+it hasn't been fixed in illustrator if
+you want to play around with the
+transparency settings on a design you
+have to come into the menu and then just
+click one by one to see how it's going
+to look on your artwork
+this takes time and it's quite annoying
+to be honest
+but if we move over to photoshop and as
+i'm probably sure you're all too aware
+of we can actually just hop into the
+layers panel and scroll through the
+blend modes with ease i really don't
+understand why adobe hasn't added
+something similar into illustrator but i
+will actually forgive adobe due to the
+next thing in today's video let's say
+i'm just happily working away on my
+design right here and at some point i
+want to head back in time to revisit a
+specific part of the process or simply
+to undo something i did incorrectly
+command or control z right not anymore
+with the newest illustrator update
+we now have a handy history panel which
+we can literally scroll over and jump to
+any point in my design process that's
+within reason though of course we can
+change how many steps we track backwards
+up to a cap of 250.
+this is a huge improvement because i
+don't have to keep smashing that command
+z key 200 times a minute
+now here's something i'm sure has bugged
+you even a wee little bit
+so you're working away in adobe
+illustrator and you come over to the
+toolbar to select something maybe even
+you just want to hold down a selection
+on a tool but what keeps happening is
+these tips appear all over the place
+you think to yourself hey i'm not a
+beginner anymore so why is adobe
+suggesting these things to me well it's
+because you have a certain setting
+activated press a command or control k
+and that's going to bring up the
+illustrator preferences window and then
+head into the general section here we
+want to turn off the rich tool tips
+now you might want to keep these
+standard tooltips activated because they
+can be helpful and they're not as
+invasive as the rich tool tips
+the next example makes use of some
+random logo type thrown together and
+it's not an actual design just so you
+know
+but it does show a problem that you
+might encounter with your logo design
+workflow
+this text box is so large that it takes
+over the entire logo type from the
+bottom i can't select it because it's
+just in the way and overcrowding it
+but if i come into the illustrator
+preference settings we can click the
+option where we only select text by the
+baseline
+and this means that we can navigate our
+design so much easier just by selecting
+the baseline of the logo type and some
+people for whatever reason find their
+center points have disappeared and it's
+often because this setting has been
+changed somewhere along the lines
+so on the design i have two center
+points one for the large square and
+another one for the center of the
+smaller shape at the bottom where it was
+originally a square before i cut it out
+and the bottom left segment is in fact
+cut into the larger square
+so let's head into the outline mode with
+command or control y and we can make use
+of these center points
+so again i'm going to use the group
+selection tool and i can actually click
+the smaller shape of the compound path
+and then press
+r for the rotate tool notice how it
+snaps to that center point and this
+means i can actually hold down the alt
+option key and then click the center
+allowing me to perform precise rotations
+now a huge part of logo designing in my
+opinion is being precise and very neat
+i'm working in the way i'm demonstrating
+today in this video really does help
+with that
+so i can also rotate the smaller shape
+in relation to the larger square and
+remember this is actually a compound
+so yeah i could actually just rotate the
+entire design to gain the same outcome
+here
+but i'm just demonstrating to show you
+the kind of things possible with
+rotation within a compound shape
+here's something else that photoshop
+does really correctly and yet
+illustrator is still playing catch up
+in photoshop if we're working on
+something and we want to shift the
+canvas around kind of like if you're
+sketching on paper in real life and you
+want to turn the paper to change your
+perspective we can either take the crop
+tool and literally just turn the cameras
+around like so or we can actually grab
+the aptly named rotate view tool and
+this does exactly what you think it
+would do it rotates your view
+but then if we come back into
+illustrator we literally cannot do
+anything like this correct me if i'm
+wrong in the comments down below but if
+you're someone who works on digital art
+for example and you use brushes and
+other things in ai it might be highly
+useful if you can actually flip the
+canvas around or the artboard around so
+today's video is sponsored by miller
+notes now i've been a firm advocate of
+millennial for three years and if you've
+been subscribed to my channel for a
+while you will know that miller note is
+a bit different to traditional software
+now it's more like working on the wall
+so to speak in a creative studio
+it allows you to map out your projects
+collect all of your ideas and
+inspiration in one convenient place and
+it also allows you to collaborate with
+your colleagues or your clients in real
+time so i've been using millinote for
+the past three years to keep my creative
+projects organized and this awesome tool
+is available for free with no time limit
+so if you haven't done already sign up
+for free using the link in the
+description box below and start to
+streamline your graphic design workflow
+today
+but hey if you want to learn more useful
+things about the illustrator just click
+a video on screen and until next time
+guys design your future today peace
+[Music]
+you

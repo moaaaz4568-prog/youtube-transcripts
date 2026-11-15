@@ -1,0 +1,695 @@
+Claude is we're going to get Claude to
+analyze your branding and we're going to
+get it to come up with a brand aesthetic
+prompt and then we're going to use that
+brand aesthetic prompt to create some
+stuff. Now Claude is a bit limited when
+it comes to creating visuals. It can
+create HTML and CSS and what that means
+it can do websites and it can do PDFs
+and it can brand gorgeous like documents
+and things like that. However, it cannot
+generate images. Like, it can't go and
+create a a PN a PNG. It can create a
+PNG, but it can't draw like it can't
+create an AI graphic. There is a term
+for this. I do not know what it is. I am
+a homegrown girl. I am not I wasn't born
+with a techy spoon in my mouth. I
+learned this stuff on the go. But
+essentially it cannot create beautiful
+images in the same way that chat GPT,
+Sora, Gemini, these are image creation
+tools that can create beautiful images.
+Nano Banana, if you've heard of that,
+we'll we'll use it in a little while.
+I'll show you. But what Claude can do is
+it can create websites and stuff like
+that. What it can't do is create the
+pictures that go on the websites. you
+have to go create them somewhere else or
+give it pictures that you already have
+and then it will add those into the
+website it's creating but it can't
+generate pictures but what it can do is
+create prompts and analyze things really
+beautifully and so what we're going to
+do then I've got permission from one of
+my friends Jason um he has got a company
+called connecting pieces here it is and
+he's about to do a rebrand so this
+unfortunately is not massively helpful
+for him and this website is Jason's
+website. And what we're going to do is
+create a brand aesthetic guide for this
+site. And I think it's the perfect site
+to use because it's fairly simple. There
+isn't loads and loads of branding stuff
+already done. It's a very simple,
+straightforward brand. It's not like
+there is loads and loads of layers to
+it. If you have a look on Instagram, for
+instance, you know, we've got a few
+branded pieces like text on a plain
+background, but it's pretty
+straightforward. And I imagine that
+there are some people that are are
+wanting to create a brand aesthetic
+guide that have something similar. Maybe
+you've got a website, you've got an
+Instagram account, you haven't spent
+half your life in Canva yet because that
+just is something you haven't had time
+to do. You're too busy working with your
+clients and doing the doing rather than
+working on the business making
+everything look like it was created by a
+graphic designer. And so, you know,
+branding is something that perhaps
+you've done and it's a oneandone or
+perhaps you want to revisit it like
+Jason does or perhaps it's something
+that's inconsistent. Like sometimes
+you're using this font, sometimes you're
+using that font, sometimes it's this
+shade of red, sometimes it's that shade
+of red. And you know, fair enough. Like
+that's just how it is. We just need to
+put stuff out and we haven't decided on
+what that consistent brand is. So, this
+is going to be perfect for you today to
+help you start figuring that out. But
+we're going to go from this place having
+your brand color and your brand vibe on
+something so that we can analyze it.
+It's a really good starting point. If
+you don't have that, if you don't have a
+website, if you haven't got an Instagram
+grid, if there is nothing that you have
+created for your business at all, you
+need to start from the beginning, which
+is to come up with what you want that to
+look like. And I have just done that.
+I've just rebranded. By the way, my
+website, cordelate.com, I have built it
+all with Claude. And I say I've done it
+myself. Claude has done it with a lot of
+my instructions and it's off the back of
+first what we did is came up with a new
+brand aesthetic guide and built it from
+scratch. And if anybody wants me to do a
+live show episode on how to do that then
+I would be happy to. And for the purpose
+of this we're using connecting pieces.
+So what I'm going to do is I'm going to
+come into Claude. Okay. So the prompt is
+I want you to describe the aesthetic of
+this brand in the form of a prompt. Do
+not describe the people, only the vibe,
+the tone, the style, and keep it as
+brief as possible, refraining from
+adding attention to detail on specific
+images or words. We just want to
+encapsulate the overall style, tone, and
+vibe. And the reason why that is
+important, by the way, is because what
+we find is that number one, when we
+asking for an analysis, AI loves detail.
+It wants to go into all the minute
+detail. It will describe so many things
+that aren't actually part of the brand
+that's not the brand aesthetic. And for
+instance, it might be like, oh, you
+know, we have to have a red writing with
+a with a gear sign. Let's come back into
+the website a minute. We've got this
+we've got this gear here, right? We've
+got this gear thing for the zero for for
+the O. And and it might get too specific
+about saying that that needs to be
+there. Once you've generated 50 images,
+you're like, why is everything got gears
+in it? like every every single thing we
+produce has got gears in it. This is
+overkill. This is too much. And so we
+don't want it to get too detailed on
+specific things or it might just have to
+reproduce that in every single image
+forever more. So anyway, let's give it
+something to go with this then. So we're
+going to go to the website and we are
+just going to screen grab it. Drop that
+in here. Right. Scroll down. We want to
+get basically anything that's got some
+visuals on it. A screenshot of anything
+that's got visuals. the text, the plain
+text. No point grabbing that. So, I
+don't want to grab this part because
+this is not the branding. This is not
+connecting pieces branding. This is
+screen grabs of social media. This part
+would be all right because that is
+connecting pieces branding. Let's have a
+look through the other pages. What else
+have we got? So, we've got an about
+page. Is there any kind of brandy stuff
+on here? I say there's nothing really
+new imagery wise. We've got podcast.
+Have we got a nice podcast cover? Oh,
+yes. We've got some new imagery here.
+Nice. Let's grab that. I like that.
+Let's grab this. I think that might be
+everything that we've got. And then on
+Instagram, we've not gonna get the
+pictures of Jason's face. As as lovely
+as it is, it's not really the point. I'm
+going to get these. There we go. We got
+them. And so, you want to go through
+anywhere that you've really got a bit of
+a picture of your brand and what it
+looks like and any any imagery that
+you've created. Another place that you
+could have a look is in your Canva. I
+mean, if I open up my Canva, I've got
+loads of bits and bobs in here that I
+could just get a, you know, a page up
+like that perhaps and screenshot that.
+Instagram's a good place. Maybe your
+business page. You just want to think
+anywhere that you've got images, your
+YouTube channel could be a good place.
+If you've got any brand images anywhere,
+anything that you've got anyway that is
+imagery that we can analyze and it is
+going to start creating a brand
+aesthetic guide for us. We're going to
+generate some images. So, we are going
+to go over to Gemini and chat GPT. We're
+going to have an AI off in a sec and see
+the images that we create, like what
+kind of images that we we can come up
+with. But first, let's just have a look
+at this. A high contrast bold direct
+response aesthetic, heavy black
+backgrounds with punchy red accents and
+crisp white text. Chunky condensed all
+cap sand serif headlines paired with
+occasional handwritten script for
+emphasis. Gritty textured paper
+backdrops with distressed off-white
+lettering on the social tiles. Urgent,
+energetic, nononsense, slightly
+aggressive marketing tone. Jason's gonna
+love that. Maximalist and loud. Built to
+grab attention and convert. One thing
+worth flagging. This aesthetic is the
+opposite of your own brand direction.
+Yes. Okay. No, no worries on that. We'll
+say this is for a client. With that
+worry aside, can you please recreate the
+brand aesthetic prompt? I love what
+you've got there, but you need to add in
+hex codes for colors and fonts and any
+details that are going to help us to use
+this as an insert into any graphic
+generation prompting that we do in the
+future. Okay, so now we've got the block
+that we're going to add into the prompt.
+So, brand aesthetic, high contrast,
+bold, direct response, style, color.
+We've got colors here. We'll find out if
+they are right when we when we create
+something. Distressed title text,
+warm-off, white, cream, subtle warm
+ember orange glow on dark red
+backgrounds. Typography headlines chunky
+condensed all cap sand serif heavyweight
+eg Anton bbbass new tight letter spacing
+large scale high impact emphasis accents
+occasional flowing handwritten script
+body clean medium weight sand serif
+texture and treatment gritty crumpled
+paper. Now here's where we need to be
+careful because when you have details
+like gritty crumpled paper what can
+happen is that you get 50 images in and
+you're like why is everything got bloody
+paper on it? like we need a bit of
+variety. So, one thing I'm going to come
+into here, do not be too detailed in a
+way that is going to skew the prompt and
+cause it to be producing the same thing
+over and over again in terms of
+background textures or objects or
+anything that is too specific. I want
+you to focus on creating a brand
+aesthetic guide that is going to enable
+the AI to creatively think about how to
+specifically represent that within the
+parameters of what the look and feel and
+vibe should be. The only specific
+parameters that you definitely need to
+include are colors and fonts and overall
+aesthetic. But do not get too specific
+in terms of background textures,
+objects, otherwise it will want to put
+those in every image it creates. Quickly
+copy this. Let me pop that in there.
+Press enter. Okay, let's come into this
+and go. And here are the specific fonts.
+Save. Okay, cool beans. We're going to
+open up two image generation tools. The
+first one is Gemini. If you have Google
+for your business, you may not realize
+that you have Gemini included in that.
+And then the other one we're going to
+come to is chat GPT. I only keep it for
+images because it's great for images.
+Okay. So, we have the brand aesthetic
+guide. We are going to just now assume
+that that's wonderful because really we
+don't know how it is until we test it.
+So, what we're going to ask for is, can
+you create me a poster to promote an
+upcoming event called Funnels? Let's
+call it how to build a funnel. That's a
+great name for a training. Upcoming is
+Thursday, 25th, June, 100 p.m. UK time.
+Use this brand aesthetic guide. Okay.
+We're going to copy that same text and
+we're going to come into chat GBT. I'm
+going to post the same thing. Another
+thing that we can do is come back into
+image idea generator. I've got this
+really cool image idea generator that
+relies on you having a bit of copy
+already. Oh, hello. Can we get this out
+of dark mode? Light. That's better.
+Okay. It's very It's very large, very
+tall. It's very full of words, isn't it?
+Okay. What did Chat GBT do? Wow. Gemini
+was faster than Chat GPT. Interesting.
+Interesting. Okay. We're going to come
+into Claude and we're going to drop this
+prompt I've got in here. I'm going to
+give it to you guys in the playbook, but
+basically what it's doing is it's you've
+got a we've got the brand aesthetic
+guide that we're going to copy and paste
+into this placeholder. And then on the
+other placeholder we've got, we're going
+to paste a bit of copy and we're going
+to grab that bit of copy from one of
+Jason's Instagram. Oh no, there's no
+copy on there. Any copy on here? There
+we go. So wondering what to like come up
+with in terms of images for social media
+posts. It's a big pain in the butt,
+right? So this prompt is really cool
+because now you've got your brand
+aesthetic guide. We're going to put the
+copy that we want to use there. And
+we've got the aesthetic guide here. And
+we've got with reference to the
+following brand aesthetic guide. I want
+you to come up with an idea for a square
+image to accompany the following copy to
+post on social media. The priorities are
+to match the brand, grab attention, and
+stop someone who would be perfect for
+this post in the scroll. Aspect ratio
+square brand aesthetic guide is here. So
+we're going to drop that in. And Claude
+is now going to come up with image ideas
+for us that we're then going to drop
+into Gemini and ChatgPT in a minute. But
+yeah, so this is the one that Chat GPT
+created. I don't No, sorry. Gemini
+created. I don't like it. It's hurting
+my eyes. It's focusing way too much on
+words. Oh, this is better. This is much
+better because we've got a bit of
+imagery there. It's not just like loud
+text. So that's nice. Attract, engage,
+nurture, convert, turn strangers into
+paying customers. Okay, cool. So, what
+do you reckon, guys? I reckon Chat GBT
+won that round over Gemini. Most
+definitely. Absolutely. For the win.
+Okay, now we have a new concept to go
+with this copy. Now, the the the post
+that I've grabbed from Jason's
+Instagram. You already have people out
+there who would gladly follow your lead
+if you could just if they could just see
+you. Most coaches forget that visibility
+isn't a bonus. It's part of the work.
+One post, one comment, one message can
+shift everything. So, what's the one
+simple thing that you can do today to
+move yourself into someone's awareness.
+It doesn't need to be fancy. It just
+needs to happen. Show up for the people
+who are already hoping someone like you
+exists. Nice. Love that. So, what it's
+come up with the visual hook, a phrase
+that stops the scroll. Naming the
+problem out loud. Black background. The
+headline dominates the top twothirds.
+They're already looking for you. They
+just can't see you. Nice. Okay, the only
+thing is let me just edit this prompt a
+bit because I think it's it's coming up
+with something that it's capable of
+creating. I've just added in this image
+will be created by chat GBT or nano
+banana. So full AI image generation
+capabilities are present. Reason being
+is I think Claude was thinking it would
+be producing the image and therefore is
+doing a prompt that would just be some
+basic text on background CSS styling
+HTML type thing. So now it knows what
+it's creating this idea for. It should
+hopefully come up with something a
+little bit more creative and something
+that will be a bit more challenging. And
+it has. Core idea. The invisible coach
+made literal. The image is a dense, dark
+crowd of faceless silhouettes. The
+audience already out there, all subtly
+turned and looking in one direction
+towards a single empty, spotlight space
+where a figure should be standing but
+isn't. Okay. Interesting. Here's the
+generation prompt. Let's grab this. Do
+we need to give it the I don't think we
+need to give it the brand aesthetic
+guide. I think it's included that in the
+prompt, but let's see. We'll do one with
+and one without and see what happens.
+Why? Why wouldn't we? Why would we do
+anything else? Um, so let's do that. And
+then let's go duplicate tab. Let's just
+hit new one just in case we're going to
+break something. And then I'm going to
+go brand aesthetic guide. And then we're
+going to paste that brand aesthetic
+guide. Oh, spoiler alert. We'll come
+back and have a look at that in a
+minute. And then I'm going to copy this
+prompt. And we're going to go chat GPT
+new chat. Going to do the one without
+the brand aesthetic guide first. Why is
+Ednard working? Okay, it's fine. Can I
+go open in a new tab? Yes, I can. Happy
+days. And then we're going to do the one
+with the brand aesthetic prompt second.
+So, we've now got four tests. Let's see
+what we get. So, number one is in.
+They're already looking. Where are you?
+Visibility isn't a bonus. It's the work.
+All right. Don't love it to be honest
+straight off the bat. I mean, the
+concept of the silhouettes looking at a
+spotlight with no one in it is cool.
+It's just not for me. It's like it's all
+right. We've got the same thing with the
+aesthetic guide except for No, we've got
+exactly the same thing, haven't we?
+Although it does look a bit better. Like
+just in terms of my absolute obsession
+with spacing and fonts and all the rest
+of it, I would say that looks slightly
+better than this. But it's a spacing
+thing. It's nothing else. This is track
+number one. I actually prefer that. It's
+a bit more eye grabbing than that. And
+then number two with the prompt is Oh,
+there we go. So, interestingly, adding
+the brand aesthetic guide has done
+nothing at all, which is great because
+it means that we can come up with an
+idea. We can give the brand aesthetic
+guide to the idea generator and not need
+to include it. So, that's a nice bit of
+thing that we found. But what we can
+tell because we've got four that are
+basically exactly the same, the prompt
+is so detailed, it is calling for
+exactly reproducing what it's asking in
+terms of like what the prompt is. Now,
+that can be a good thing or it can be a
+bad thing. There are pros and cons to
+that. The good thing is you're going to
+get consistency from using that prompt.
+The bad thing is if you don't like it,
+you need to change the prompt. Like,
+there's nothing that you can really do
+about it once you don't like it. So, we
+could go, okay, don't like that image.
+Give me a few to play with. Fine,
+whatever. And we've got a few. Okay. So,
+we've got the empty chair. Phone screen
+is the whole frame. Pure bold typography
+matches the example tiles and then we've
+got the open door lights spilling out.
+Let's just go to town. Do you know what
+I'm gonna say? I'm getting rid of
+Gemini. Goodbye Gemini. We're going to
+stick with chat because as per usual,
+it's for me it wins in terms of
+producing great images. I prefer it.
+Every time I do both, I always end up
+preferring chat. It's image generation
+is great. So, we're going to try that
+one and then we're going to come back
+and get the next one. And it really is
+just at this point more than anything
+else about rigorously testing your
+aesthetic prompt. Is it producing what
+you like? Is it producing your brand how
+you want it to be? Because once you've
+done that test and you're like, "Yeah,
+okay. I like it. It's it's producing
+stuff that is on brand, that looks like
+us, that feels like us." Then that
+prompt is something that you can use for
+everything. Are you creating a
+downloadable PDF? add that brand
+aesthetic guide to the end result and
+get it to redo it in your branding. Are
+you creating a poster, a YouTube banner,
+YouTube title, you know, all the rest of
+it? And once you've got that down, you
+can essentially use it for absolutely
+everything. Step into the light,
+someone's looking for you. I like that.
+This is a bit squashed at the bottom.
+It's not your best work. Chat GPT, you
+know, obviously you can say what I just
+said. Bit squashed, not your best work.
+Who out there is excited to be my
+employee? This is nice. Nice. I like
+this. One post can change everything. I
+really like this because the image is
+overlapping with the text, but it's not
+taking away from the text. It's that
+it's works. And I really like that.
+That's my favorite so far. That's a bit
+boring, isn't it? The seat is yours. So,
+we've got one, two, three being
+recreated, and four. My favorite's
+definitely two. I really like that. And
+so, create a brand aesthetic guide. And
+now, once it's there and it's done and
+you're like, "Okay, great." You want to
+save it somewhere and then reuse it for
+stuff. Anything that you're creating,
+your website, your PDFs, your worksheets
+for clients, just anything and
+everything that has a visual stamp on
+it, then you can No, it's not it's not
+getting the memo on that, is it? Well,
+that's fine. Never mind. I could have
+been more specific in my reply to be
+honest, but I'm not going to bother. I
+prefer the other one that we have. So,
+there we have it. Your brand aesthetic
+guide. Once you've created it, you can
+then either use the ID image generator
+for you got your copy and you need an
+image to go with that post that you've
+written. You can use your image
+generator to come up with ideas and post
+it with that or of course you can use it
+to brand things and make things look
+good. And there's all sorts of stuff you
+can use it for. There's images in here,
+but then there's also stuff like I don't
+know if you've heard of Notebook LM, but
+Notebook LM is really cool. And it's
+essentially a thing that you can put
+sources in and get it to create slide
+decks, mind maps, etc. rebellious
+business playbook. Now, Notebook LM has
+made me a video about about the
+rebellious business playbook, but that's
+not my branding at all. So, what I could
+do is create a new one. Yeah, let's go
+slide deck. What I can also click on
+that and I can edit it and I can say,
+okay, make this on brand. Here's my
+brand aesthetic guide. And I've popped
+the brand aesthetic guide in there. I
+can hit generate. And it is going to
+take quite a few minutes to create this
+because it's based on 63 sources and
+it's going through everything and it's
+going to create it. But there's there's,
+you know, loads and loads of slide deck
+generation systems. Even in Canva,
+you've got AI stuff in Canva now where
+you can get Canva to create stuff that
+is on brand. And you know, I haven't
+really played with it that much, but
+you've got this new thing called code
+inside Canva, which I think works a
+little bit like base 44 and you like
+generate a fun quiz. We can click on
+that and we can put here is my brand
+aesthetic guide and pop that in there.
+And whatever it creates is going to be
+on brand with that brand aesthetic
+guide. Now, one thing I would say is
+make sure that the imagery part is the
+last thing you do because you want to
+get the structure and then the substance
+and then the style last. That is your
+process. Structure, substance, style.
+And AI is often trying to squeeze
+everything all into one job. Like if you
+went to Claude and you said, "Oh, I need
+to create a downloadable to walk my
+clients through the five steps of how to
+increase your conversions by going live
+on Facebook." Then it's going to create
+the structure, write the copy, and wrap
+it in a beautiful document all in one
+go. And then what happens is that the
+actual substance suffers because you
+crammed too many jobs into one thing and
+it doesn't have a structure to build the
+substance on. So, you want to get it to
+map out the structure first, then fill
+in the substance. And when you're happy
+with the substance, you then style it
+with your voice and also with your
+visuals. By the way, if you want to know
+how to get a voice prompt to get AI to
+sound like you as well as look like you,
+I have a whole video on that and I will
+link it up in the top rightand corner on
+a card. So, you can go and watch that
+now if you want to create your voice
+prompt. So anyway, you can see here that
+it has created, you know, red and black
+quiz. So that's good. We've got we've
+got version one. And you know, obviously
+you'd spend a bit of time making your
+quiz with Canva, but that's fun. We come
+back into
+Notebook LM. It is it's still making
+that slide deck. It's a real shame. It's
+going to take a while, but it is
+amazing. The video was a pretty cool
+example. And then we've got what's this?
+This is a I think this might be an
+infographic. There we go. So, meet
+Cordelia, the rebellious entrepreneur.
+It's made this infographic about me. If
+I gave it my brand aesthetic guide, that
+would be pink and charcoal and, you
+know, all the different colors of the
+rebellious brand. Or if I gave it the
+new branding, it would be all those
+colors. So, yeah, there's there's it's
+really fun. Like, once you have that
+brand aesthetic guide, there's so much
+that you can do with it. I also did a
+video recently on how to create landing
+pages and how to create I built a whole
+funnel with Claude. I'll link you into
+that. And again, you need your brand
+aesthetic guide in order to do that well
+so it looks like you. But of course, as
+I showed you, this website has all been
+built via me having a brand aesthetic
+guide. And actually, once you've got
+that, you can build a whole design
+system in Claude Design, which is really
+fun. Claude design is basically a level
+up on you having a brand aesthetic
+guide. It creates a whole brand
+aesthetic system. So you've got your
+type faces and and how they look, how
+they look in CTAs, how they look on
+headers, how they look everywhere. And
+so, you know, you take that branding and
+you take it to a whole new level by
+giving it to Claude Design and it it
+basically producing what your brand
+looks like in different scenarios, the
+color palette on different backgrounds,
+on dark, on light, on pink. And then
+we've got, you know, spacing and what
+the spacing should look like. And then
+once you've set this up, you can of
+course get Claude Design to create
+things for you. So, a load of things
+that Claude Design has created for me is
+we've got like for instance some social
+posts, a downloadable document, a
+branding guidelines document so that I
+can hand this off to other AI and other
+people like maybe a photographer and
+give them, you know, this is my branding
+and this is how it looks and this is how
+it feels and and all the rest of it. So,
+you can go even further and create all
+of this stuff. But even just having that
+prompt, it is going to be absolutely
+colossal colossal for making your images
+look so on brand and so on point so that
+everywhere you go, you're leaving your
+fingerprints on all the stuff that
+you're creating. The worst thing that
+you can do is leave people guessing. Is
+that you? Is this is this her brand? Is
+this not? You want to create that
+consistency. And the reason being is not
+because you're just going to lose people
+because they don't know if it's you. is
+because consistency creates trust. If
+you have something that's consistent and
+it's always the same, you look like
+you've got your together and you
+look like someone who is reliable. It is
+a like a subconscious signal for
+reliability. This person is always the
+same, always shows up in the same way is
+always here. They are consistent. They
+are reliable. And what that does is it
+builds trust. That's why you want to
+have your brand aesthetic sorted so that
+everywhere you go, you can demonstrate
+consistency. And in doing so, you will
+build more trust with your audience. I
+hope that has been helpful. Well, that's
+all from me. Thank you for being here. I
+will see you again next week for another
+episode. Let me know if there's anything
+you want me to cover. Just drop it in
+the comments. But yeah, have a wonderful
+rest of your day. Lots of love. Speak
+soon. Bye.

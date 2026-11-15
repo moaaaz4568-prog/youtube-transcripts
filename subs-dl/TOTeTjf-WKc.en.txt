@@ -1,0 +1,1241 @@
+hello everybody Welcome to analyzing
+Finance with Nick I have a special guest
+here he's a former colleague of mine one
+of the brightest Minds in options and
+Market making and how that matters to
+people who aren't in the world of
+options and Market making I'd like to
+introduce Chris Adam Chris can you tell
+people about yourself and your
+background sure Nick it's a pleasure to
+talk to you again right now we used to
+talk on a very regular basis so it's fun
+to be back here so yeah I I I mean I was
+an options Trader professionally for
+over 20 years I started at Sig back in
+2000 I grew up on the east coast in New
+Jersey and went to Sig right out of
+college went right to the American Stock
+Exchange traded Equity options down
+there and then after a few years of
+trading Equity options I traded ETFs a
+little bit on the New York Stock
+Exchange and then that was when my
+career really changed I went over to
+Commodities in late 2004 I went to the
+NX to trade oil options that was a brand
+new business for Sig and I stayed there
+for a little over three years and then
+went off on my own with a backer traded
+commodity options for with a mainly
+focused on natural gas but then went
+into gold silver coffee cotton all that
+stuff did that for about three and a
+half years and then I ended up at
+Parallax and I was at Parallax for
+almost a decade and that's where you and
+I cross paths so I I ran commodity
+commodity relative value options trading
+at parallx and then I left sorry left
+Parallax in 3 years ago I have been
+writing for since early 2019 on the
+internet and the writing is kind of it's
+gotten a lot of traction over the last
+few years so these days I'm focused on
+that and then earlier in March I lost it
+I launched an options analytic software
+called Moontower doai so between the
+writing and the software that's pretty
+much how I spend my time today yeah and
+the first question really is given your
+background in VA Trading and more my
+background as a directional investor
+what do you think is the main differen
+is in the approach between directional
+trading and VA trading yeah so so here
+well I would say first of all let's just
+to back up for a second the difference
+the first thing is like the first
+difference between them is like the
+instrument that you're actually trading
+if you if you're a directional Trader
+you're trading an underlying asset
+you're trading whether it's a stock or a
+commodity you know a corporation versus
+if you're trading VA you're trading
+options all trading is options trading
+so and options are derivatives so the
+value of the option is derived from the
+way the underlying sort of behaves so
+you know unlike a stock options have
+they have Arbitrage boundaries they have
+expirations so the way you can think
+about an option is its value is derived
+from the cost it would take to replicate
+the same the exact same option so of all
+Traders you can think of a vault Trader
+as somebody that says this option most
+of the inputs that go into that
+replication are fairly welln the one
+that's not very well known is the
+volatility because we don't know how
+much a stock is going to move around in
+the future so what an option Trader
+might do is sell an option that they
+think is expensive and then they would
+hedge that that's called Delta hedging
+and in that process they're trying to
+replicate the payoff of that short
+option by basically creating a long
+option so and if they are right about
+the price of that option being too high
+compared to how much the underlying
+moves there will be a differential that
+ends up being their profit so in short
+like the way I like to think about it is
+that a directional Trader is somebody
+who has a opinion about what's going to
+happen to an asset whether it's going to
+go up or down um sometimes directional
+Traders use options and often times they
+don't necessarily have an opinion about
+the volatility that's not their
+expertise their expertise is in
+understanding if this asset is over
+underpriced a vault Trader is in the
+exact opposite situation they believe
+that the underlying is fairly priced
+they don't have a view on the underlying
+but they might have a view that the
+option is mispriced and the volatility
+is either too cheap or too expensive and
+what they can do is by Delta hedging
+they are sterilizing that position
+against the movements in the underlying
+and trying to isolate the thing that
+they have a view on which is the
+volatility so that's the main difference
+between a directional Trader and a vault
+Trader like one has an opinion about the
+underlying one has opinion about the
+fall and do you think there's more Edge
+in trading for the fall versus the
+underlying I've learned this the hard
+way because I only did like one options
+trade before I joined Parallax and that
+was buying Twitter puts for six months
+out and the implied Vol was so high that
+those puts were worth 20%
+of the whole company and the stock went
+about about 19% in those six months so I
+didn't make any money even though it
+pretty much moved the way I expected it
+to because I lost on the fall trade is
+it because people are less informed
+about this element there is more of an
+edge in Vault trading or is it kind of
+an even game between directional Vault
+trading in terms of actual alpha or Edge
+it's a this this is a it's kind of an
+abstract question it's very interesting
+so one of the one of my I'll just tell
+you sort of like my feeling about it
+which is that I think that options
+trading is easier than I think it's
+easier than having an opinion on what's
+going to happen to a stock actually in
+the Quant world there's a good reason
+for this it's that it's almost
+impossible to predict asset returns it's
+much the easiest thing you can do if
+there's if we think about the three like
+biggest elements from Quant Finance
+there's volatility there's returns and
+there's correlations and volatility is
+the EAS easiest thing to predict it's
+not easy but it's the easiest of the
+three asset returns is by far the
+hardest and pretty much impossible to
+predict and then correlations kind of
+live somewhere in the middle so
+volatility is easier to predict the the
+problem is like this is a game so the
+fact that it's easier to predict doesn't
+mean you're going to make more money
+trading options because it's also more
+competitive there's less because there's
+a little bit less uncertainty about what
+this option could be worth and you have
+a lot of very smart firms chasing this
+and it's a zero some game and it's a
+small part of the overall Market which
+needs to allocate Capital the
+derivatives Market is just a fraction of
+that world all of those things add up to
+it being incredibly it's incredibly
+competitive I mean a friend of my have a
+friend of mine Augustin LeBron who wrote
+a fantastic book called laws of trading
+and he you know I think he's the one
+that's got a saying that's like there's
+more houses in the Hamptons built on
+investing than on trading derivatives
+and I think that there's a lot of Truth
+to that it's just way more competitive
+to trade derivatives in a much smaller
+market and how does the mean reversion
+nature of va affect this and why does va
+mean revert yeah so we can think about
+it a little bit in a theoretical way
+which is where the short answer would be
+like because it can't not mean revert
+and the reason why is because you could
+not if you took the volatility of an
+asset to Infinity it would it would that
+means it would touch zero very soon if
+it just bounces around at infinite fall
+and zero you know zero is game over it's
+an absorbing barrier so if V were to go
+to Infinity that would end the game so
+we know that the V must come down from
+very very high levels and it makes sense
+that that would also happen because at
+any asset at a low enough price
+presuming it's not a fraud an asset
+that's at a low enough price there's
+some bid for it there's some price that
+makes sense so at some point the
+cheapness of the asset itself will will
+bring about its own liquidity at some
+point there's a bond holder that will
+just take the stock over so there's like
+cryptocurrency though that may not apply
+because it has no intrinsic value the
+what I would say there it may not have
+an intrinsic value in the Ben Graham
+sense of the word but it has a value in
+terms of what somebody is willing to pay
+or not pay for or sell it for right like
+everything has a value that's based on
+that bid ask when you pull it up and so
+there's some price at which some
+somebody will bid it and that that fact
+alone is enough to kind of force the
+idea that volatility does find some
+meaner version it eventually you
+basically find some long if you look at
+a long-term average of its volatility
+they're fairly well behaved it's not
+enough of a it's not it's not true
+enough that that's useful to necessarily
+trade around it's too low res to make
+money off of that fact but it's enough
+of a resolution for you to be able to
+see that volatility does mean revert
+yeah and so then on the other side why
+why does V come up then from the ultra
+low levels and mean revert higher like
+it's like vix a stor is like 15 but you
+see some regimes where it's 9 to 12 but
+they usually ends up moving back to the
+14 to 16 level when it's all said and
+done yeah so I I would say the The Vault
+comes back up because that just comes I
+think it comes back to first of all
+there's always uncertainty so because we
+don't know what the future holds and the
+distribution of events that's in the
+future is you know you're sort of
+bounded at total quietness on one side
+but you know a bomb can fall somewhere
+and so there's always this possibility
+that an extreme stress event can happen
+that's always possible that you know I
+always like to say like the the the
+biggest disaster is always in the future
+we we just we haven't seen it so the
+fact that the future always holds some
+possibility of there being something
+very surprising sort of guarantee that
+the volatility should not get too cheap
+the implied volatility cannot get too
+cheap even when you see cases where the
+realized volatility or the way that the
+asset has been moving that can drop to
+really low numbers you can see the S&P
+get them to like four five all over very
+short time periods but you never see the
+implied V get that low because if it
+gets that low everybody sort of says
+like well yeah but I don't expect the
+future to be 5% ball so there's that
+mean reversion also happens because
+we know that when a time is quiet we
+know it's going to pick up again at some
+point yeah and this kind of goes into
+what my thoughts on this from a more
+directional perspective some of the
+lessons I learned on AOL desk is that
+you you kind of use this to your
+advantage like if you're going to try to
+I don't to to magnify your returns
+through buying options instead of stock
+they call this a stock replacement where
+you sell a stock or you just add to a
+position via a call or a put instead of
+just adding or increasing to your long
+or short and the underlying is when
+these is below the historical mean you
+it actually makes sense to do that
+whereas on the other side when VA is
+extremely high you're better off often
+times just selling the puts versus
+buying the underlying and collecting
+that premium and because if it goes any
+low another standard deviation lower
+that's like the deal of the century
+assuming you've done your fundamentals
+right and if it doesn't you collect a
+nice premium to wait through the chaos
+and and other than like that's the most
+notable example I think in terms of how
+more directional Traders can use this
+and they should be aware of the level of
+the Vault because you don't want to
+overpay for a volatility like I did back
+when I was a rookie options Trader on
+the long side and on the short side you
+don't want to underpay for it because
+the payouts or the options are mostly
+Zero Sum like more times you're not the
+seller is going to win but when the
+buyer wins the gains make up for all the
+times that the sellers did it so what
+are your thoughts on how directional
+Traders can UTI utilize this type of
+perspective to help them be more smart
+with how they s use options yeah so I
+would say that so this is actually this
+is in a large in a large way this is the
+problem we're trying to solve with the
+software is that we're what we're trying
+to do is give people a the volatility
+lens like I said earlier most
+directional Traders usually don't have
+an opinion about the volatility because
+that's not that's not their expertise so
+they are coming to the market they have
+a bias they they want to go long or
+short the underlying and so what they do
+is they look at they look at options as
+these just little directional bets it's
+like there's a back when I was a long
+time ago back when I was like 21 22
+years old I had a friend I was a new I
+was a trainee at Sig or whatever and I
+had a friend that was he was in a
+residency to be a doctor and so we would
+go out on you know Friday night or
+whatever and he knew that I was doing
+that work and I know he was trying to
+get to his residency and he would joke
+around with us like how's it going over
+there with you guys in your puts and
+it's it I always laugh at that even
+today because it is actually how most
+people think of options they just think
+about them as calls means go up put
+means go down and they just think about
+them directionally and what you really
+and what we're trying to show people is
+that options are fundamentally and
+always about volatility so it does not
+you don't you can divorce direction from
+volatility if the options price is high
+and you're bullish you can do lots of
+things you can sell calls and buy the
+stock which is the equivalent of selling
+a put and you can pick where on the
+surface you want to do that if you think
+the option is cheap and you're bearish
+you can buy puts if the option is cheap
+and you're bullish you can buy calls but
+no matter what the option Market gives
+you there is something to do like as as
+long as if you have an opinion on the
+option and you have an opinion on
+direction there's always something to do
+and that's what we try to show people is
+that you don't want to come to the
+market with this like monolithic point
+of view like I only sell calls I only
+sell puts like that's all I ever do it's
+more of the option Market is presenting
+opportunities to you and you can marry
+that with your directional bias to find
+the right trade so what we're trying to
+do is make a directional Trader be Vol
+aware and be like hey you have this bias
+fine now we can just walk through a
+flowchart and say okay I'm bullish the
+ball is high okay can sell calls and buy
+the stock yeah that's kind of how I try
+to do with my own process it's I I use
+options for my my clients in selective
+circumstances mainly for hedging but for
+more speculative ones sometimes on the
+directional area but I always want to be
+VA aware because if you overpay for VA
+it greatly affects your risk reward
+payout totally and then the next thing I
+want to speak about let's go to this
+example and just as a disclaimer I have
+to say like nothing we're talking about
+is investment advice please do your own
+research or retain
+an advisor to help you with your
+specific investment needs and if you
+have any specific questions about your
+own finances and portfolios instead of
+commenting them here just reach out to
+me directly through email or my website
+as for an example though let's talk
+about covered calls I did a video
+criticizing covered calls last year in
+December and I kept I keep getting asked
+a lot of things about like jeppy and
+these similar type covered call ETFs and
+a lot of people just perceive them as
+like a free 8% return like buying like a
+high yield bond without the default risk
+whereas I don't think the real payout is
+that great and I'd like and you're
+better at explains me because reading
+your post is what inspired me to make
+that video what is your thoughts on the
+the covered call risk reward payout and
+why isn't as great as it is commonly
+perceived by retail Traders yeah so this
+has been a bit of a a little bit of a
+hobby horse of mine I've written
+multiple posts about this topic trying
+to kind of peel the orange from a few
+different angles to try to make it clear
+let me give this a shot here so so first
+of all the whole covered calls things is
+incredibly popular and I think that
+there is there's a large incentive to
+promote them because you know whether
+your person is trying to sell
+subscriptions or whether a a brokerage
+or whatever is trying to get you to
+churn option contracts 12 times a year
+by selling these calls over and over
+again whatever it is there is an
+incentive to promote people to do this
+and the incentive comes from the fact
+that when you sell an option you usually
+win
+and which says nothing as you know like
+about the expectancy of the trade it's
+just that you happen to
+probabilistically you're probably going
+to win so you can kind of if you are
+devising let's say we're being very
+cynical and says if you were devising a
+grift you would always start with
+something that won most of the time
+because that's the easiest place for the
+Griff to hide so there's this big
+incentive to push selling calls and this
+whole framing as you're selling this
+option for income this is what really
+sort of irks me because to call it
+income I think is really disingenuous I
+I'll give an example of why it's
+disingenuous like let's just take a a
+special situation stock we'll say it's
+$100 because it has a 10% chance of
+being worth a thousand and it has a 90%
+chance of being worth zero so the expect
+so the the stock is fairly valued at 100
+and maybe it's a biotech stock that has
+an FDA ruling coming out has this crazy
+looking coin flip of it could be a,
+could be uh zero if I if somebody said
+what's the value of the 500 call well
+the 500 call has a 10% chance of being
+$500 in the money so the 500 call is
+worth 50 bucks if I go and I sell that
+call for 40 bucks have I made any income
+and I would say in a pure cash flow
+accounting sense it looks like income
+because money comes into my account but
+I destroyed value by selling something
+that's worth $50 for $40 and that's
+obvious because if you play if you did
+this 10 times over you would see that
+the expectancy was negative if you
+played that game 10 times and the stock
+hit a thousand on one of them you would
+be net p&l negative on the entire
+strategy so if you sell something just
+because you collected premium upfront
+doesn't mean it's income the point is
+it's only income if you sell it for more
+than it's actually worth so and that
+really kind of goes back to a point that
+I think is important which is like with
+Trading in general you really need to
+think about these things as sort of like
+a repeated game if somebody goes out
+there and they sell a 25 Delta call
+every month that is pretty similar to
+just selling 25% of your stockholding
+every month it's just that the shape of
+the payoff looks different and you can
+tell that your short you can actually
+understand this idea of being short V or
+longv from that counter example where
+you say if I would have just sold 25% of
+my shares and the stock would have went
+to zero I would have been better off
+than if I was long 100% of my shares and
+just sold a call option if the stock
+price doubled I would have been better
+off to only have sold 25% of it and rode
+the other 75 up 2x rather than selling
+the call so on Extreme move I would have
+been better off to sell a portion of my
+Holdings rather than sell the option so
+you can see that in either direction
+you're short fall yeah so the covered
+call World sort of hides behind like oh
+if you go up you're going to be happy
+anyway if the stock gets called away
+well if you do this on a repeated basis
+and you keep cutting all your Longs
+you're going to be sad because nothing
+is cutting your short nothing is helping
+you when you lose all your money like
+nothing is saving you in that case yeah
+because I've ran the numbers on this and
+I I I'll have linked to the video in the
+description but basically if you did
+this on the SNP 500 most and your
+average yield was like 7% on covered
+calls you would most the most up years
+in the market were double digits so
+you're always giving up something and
+the reason why the market average yeah
+the market average is say 7% over the
+last 20 years and the reason is because
+it goes up double digits every up year
+and then the down year goes down 25 to
+30 so you're still going to gain you're
+GNA take Mo eat most of the loss but
+you're going to be giving up most of the
+upside 100% I I I I always kind of think
+it's a strange choice because the reason
+the stocks are in your portfolio is
+because they have this really large
+upside as a matter of fact I think if
+you go back like look at the history of
+stocks like you know the average life of
+a stock is not like forever most stocks
+actually go to zero eventually like
+that's it's that's the other thing is
+the distribution like if you're going to
+do this you should sell the call to buy
+a put and to just lower the cost of
+hedging if you if if if you have like
+cost basis or other reasons why you need
+to do that yeah I it's it's kind for for
+me it's like my my I'm often I guess I
+just this is I guess what I wish people
+would do when it came to covered calls
+it's to just get rid of the framing that
+this is I'm selling these calls for
+income because that's that's just an
+illusion it's not income and instead FOC
+if you want to sell calls it's okay
+let's just understand why one would sell
+calls and if the thesis is this option
+is priced that's a totally fine reason
+to sell a call but that's not really
+what the dis where the discourse is
+people are trying to be like oh no it's
+like free money it's like no there's an
+exchange of value going on here this
+option is worth something and just
+because you sell it for some positive
+amount of money doesn't mean you
+actually made a profit yeah it's kind of
+like in the mid-20s like I was in the
+hedge fund Capital raising world and
+they would always have the funds that
+always have the best Sharps and the best
+Soros were these VA selling strategies
+they would sell VA and they would have
+very smooth returns and they never
+didn't really have any real draw downs
+and they looked perfect for allocators
+but then whenever you had like a giant
+Spike involed all these firms would go
+bankrupt at the same time like I
+remember in 2018 during Von like in
+February there was like everybody like
+they were getting rich bying XIV if you
+remember that ETF and then one day it
+just didn't the volatility went up for
+some random reason up 50% since it's
+double short you're everybody got taken
+to the to the ambulance it was done and
+like that's like it seems like that a
+lot of institutional alligators have
+wisened up since and don't really buy
+those things but that seems to be like
+the same play on the institutional level
+are these sell type alternative funds
+yeah I mean it we see it I mean it this
+this this kind of you know sort of like
+carry hogging yield hogging idea I mean
+it exists in other markets not just
+purely an options I mean even if we look
+at like you know these 15 20% yields on
+Yi like the yield for stuff in crypto I
+mean it's all a variation of the same
+theme you are taking you are getting
+paid handsomely to take a very skewed
+bet that's essentially what's going on
+there and so I I I don't it's just that
+the covered call discourse does not look
+at it that way and it's not as it's not
+as as extreme it's not obviously as
+extreme but it's it it does mask what's
+actually happening which is you're just
+doing a vault trade yeah if you really
+look at it and this is gonna kind of
+we're GNA zoom out to the macro now that
+kind of every trade in the market is a
+wall trade and even beyond that every
+like life decision is essentially a
+volid decision I remember back when I
+worked on the desk with you I read this
+article from Chris Co Nam volatility and
+the prisoners dilemma and it's about
+this idea that basically every decision
+you're making is either a longv trade or
+a sell VA trade like you're either
+paying a small amount that you're likely
+going to lose but you get a big payout
+in the event you're right or you're
+getting a small piece of gratification
+now and you lose big in the event that
+the tail event happens like a good
+example of this for the longfall would
+be like if you're a single guy and you
+ask a woman out on a date out at an
+event like 95% of the time you're going
+to get told no but the cost is a little
+bit of your dignity but then there's
+maybe a 1% chance that you meet your
+future wife and it pays for all the the
+rejections and then the opposite side is
+like driving without a seat belt yeah
+it's more comfortable maybe to drive the
+car without a seat Bel and you'll be
+fine 99.5% of the time but then the one
+time you get in a car accident or hit
+the break too hard you're flying out the
+windshield and you're dead so the loss
+from that is worth more than all the
+minor joys of being able to drive
+without a seat Bel your entire life and
+it doesn't just apply to these two
+examples like every decision that most
+people make fits into one of these two
+Frameworks and I was wondering what you
+think about this concept that basically
+every decision you make is a all
+decision yeah let so here's what I'll do
+with that one it's a I'm going to piggy
+back off of some of my training so you
+know I I started at Sig famously or
+infamously or your at least in our
+little world like Jeff Yas has um uh he
+said that you cannot be a Sound Decision
+Maker without understanding option
+Theory this is I I'll say that's a
+heavy-handed way of saying that but I do
+think that what he's really pointing to
+when he when he says that is that
+decision making is a practice that has
+inputs into it so for example like what
+you just described you talked about the
+understanding the asymmetry or the risk
+reward of a choice so an option Trader
+would call that skew so you could so
+like that's an input into your decision
+it's like I'm looking at this decision
+what's the risk reward that's one
+component of it that's the what's the
+skew of this decision a second thing you
+could say is accounting for the
+opportunity cost so if you if you look
+at in options Theory we have this idea
+of like in in Arbitrage pricing we think
+about the cost to replicate so for
+example if for actually think about a
+Futures Contract you go out to buy a
+Futures Contract if you tell me that
+there's a Futures Contract if I go buy
+an S&P future and I don't have to put
+any money down or just a small deposit
+down to own this future well then if I
+buy that future and I don't have to put
+any money down then I could have taken
+the money I would have put into the S&P
+500 and I could go earn interest on that
+money plus have the exposure to the S&P
+future so if that's the case then if I'm
+just comparing buying stocks I'm
+thinking wow my opportunity cost is
+really high it's the interest that I
+could have earned if I would have just
+bought the future instead but because of
+that the future trades at a premium to
+the spot so there's no Arbitrage there
+but the the entire pricing framework was
+aware of the opportunity cost so if you
+think of so options Theory very formally
+incorporates the opportunity cost to how
+to think about the value of anything
+another thing that comes out that that's
+very important in decision-making a
+third component is appreciating second
+order effects I I had read this it's one
+of these things that I don't know if
+it's true or not but like I read this
+thing called a cobra effect and
+apparently like an India or something
+they had there was a big problem with SN
+like this sounds like a fake story but
+like it sounds like there was a big
+problem with snakes
+and so they put a bounty on the snake's
+heads and said if you turn in the snake
+we'll pay you you know this many rot be
+or whatever so the first order effect is
+to say oh if we impose this bounty we're
+going to catch a lot of these snakes but
+the second order effect is people just
+start breeding the snakes and then
+killing them so you end up with more
+snakes than you started with so it's
+like appreciating that second order
+effect and like in options what is the
+second order effect it's Greeks it's
+just gamma is the second order effect of
+Greeks so all these things that you have
+to think about when you make a choice
+the risk reward the opportunity cost the
+second order effects all of those
+components they're so formalized in
+option theory that you can kind of see
+how thinking about options helps you be
+a better decision maker you and I both
+have a a presence on the internet you
+have a YouTube channel I have a substack
+if if you think about having something
+like a substack the decision to pay wall
+or not pay pay wall is a options
+decision if I pay wall I make more money
+today but if I but my reach is going to
+be smaller because I've pay walled so
+the question is is is the second order
+effect of the fact that my stuff gets
+shared more because it's free that some
+inbound that I may get because the the
+reach was further a bigger payoff than
+what I can Harvest today from putting a
+pay wall on there I don't I pay I write
+a lot I pay wall a tiny fra action of
+the amount that I publish and it's
+basically right out of this options
+thinking I think the reach is more
+valuable than like the coupon I can clip
+today yeah I mean this also reminds me
+of Howard marks wrote a book I think the
+most important thing which it's all
+about second order effects and I think
+the biggest flaw really in modern
+society particularly in the United
+States is people don't see second order
+effects very well like yeah I've often
+thought about like it's like one of the
+like joking kind of ways of kind of
+characterized like
+the you know I was say like the right
+thinks everything is a slippery slope
+and the left thinks that and the left
+and the left ignores second second a
+second order effects I mean it's kind of
+like if I like put a label on both sides
+that's often how I felt about the that's
+actually a great way of putting it and I
+think that second order effects really
+I've really built this entire channel on
+analyzing second order effects that's
+not all I do but it's at least like half
+the videos I either directly or
+indirectly bring up second order effects
+of things going on in the markets and
+the economy and what they mean for the
+broader culture like I think the biggest
+second order effect that nobody really
+anticipated was tarp like in the first
+order effect the banks actually made the
+government a profit they paid back very
+high interest rates all the money that
+they lent but you set the second or
+effective precedent is that look even if
+these most big irresponsible Banks who
+made bad bets on the mortgage Market
+they're going to get bailed out and even
+they're the most well capitalized people
+in the world why shouldn't I get a
+bailout and we literally have a
+political culture a social culture all
+built really basically from tarp to
+present that everybody should get a bail
+out nobody should be accountable for
+their nurse fortunes whether I mean the
+GFC is there's a direct line from the
+GFC to Satoshi right so it's it's it's
+100% like I completely agree with you I
+think that the the artifacts of the GFC
+were so they're still really being felt
+today I mean I think it kind of altered
+the course of economic history here so I
+I would totally agree with you on that
+and speaking that kind of leads to the
+next point I want to make is that a lot
+of the impact of the second of the GFC
+and the loose monetary policy that we've
+had for most of that point since then
+has created like this culture of
+financial nihilism I don't know if
+you're familiar with Thomas King's paper
+about this I'm not okay it's the idea
+that a lot of younger people
+particularly like 35 and under they feel
+like they can't save enough money
+working hard the honest way or investing
+because value valuations are too high
+for both stocks and real estate and if
+they ever want to be able to afford a
+house or to afford retirement or to
+afford to have a family what they think
+that they need to find something that's
+going to get them more juice like the
+th% plus return this explains like the
+mindset towards crypto the mindset
+towards like parlays and sports betting
+or zero DT options it's like look I need
+these returns I don't care if I lose
+2500 bucks betting on this because if
+I'm right I can make a million and it
+will actually change my life whereas if
+I put that $2,500 in index fund and it's
+worth $55,000 10 years from now that
+doesn't really move the needle for my
+longterm Fortune y yeah I was gonna say
+this is what's what's it's not amusing
+but it's I I find this kind of resonant
+because I think you one of the things
+that I I feel like when I look around
+it's it's almost like being serious
+trying to do good work being humble
+things that are basically things that
+date me as because I think that these
+are virtuous things it feels like if you
+if if these things matter to you you're
+a sucker how I feel like when I think
+it's very hard to look at you know
+somebody that the whether it's the spaxs
+and the guys that pumped the spaxs or
+whether it was this the the was the Haw
+Tua girl I don't even know how to say
+this I don't want to get go there but
+you know she launches the coin and of
+course this is not an investment it's
+just a pure gambling token and and but
+you know if it enriched her and you're
+kind of I think people look at this and
+they say what's the point of like
+working really hard if this is what
+we're rewarding just it's Comm gen Z
+circles that like they think that the
+market is just a game of random chance
+and so like that's why also you have
+quiet quitting and people doing the
+minimum because it's like you're not
+getting rewarded to advance and then
+this starts to age me too because I feel
+like at least living a life of Integrity
+even if it takes me longer to get ahead
+at least I could sleep at night and know
+that I'm actually doing my best to be a
+net benefit to society yeah I so I yeah
+I would say like I If I had to like
+think about my view here it's really I'm
+I'm sympath this kind of falls into like
+I'm sympathetic to this nihilistic view
+because I do see the same things you're
+looking out there and you're saying like
+my god do we just live in an age of
+unserious grip and then you about the
+tech unicorns up in s San Francisco for
+most of the 2010s where these companies
+are getting just for being a Dropout
+Stanford you raised 10 million bucks for
+a venture that has nothing but Vapor
+yeah but even then I mean you know there
+was the joke like this is another Zer
+phenomenon and and all that but then you
+know we have a real interest rate the
+last couple years and it does not and
+this year you know the insanity of 2021
+feels like it's it's kind of it's
+reemerged and our interest rates are
+much higher it's not I think this is
+goes deeper than zerp it's it's it's a
+it's cultural in some way I I think what
+I would push back on like and this is
+just me maybe this is me being a dad bad
+but like pushing back on this um that
+Financial nihilism I I I I'm sympathetic
+to why people might feel that way but I
+think it's I think it's a bit of
+helplessness to adopt the Viewpoint to
+think that you have to gamble your way
+into into a better station in life
+because at the same time you know
+there's less gatekeeping you're you know
+you've got a YouTube channel it took you
+three years to get to where you are
+today on that it's growing nobody could
+stop you from making the YouTube channel
+yeah so this is I do think that there's
+a lot of opportunity out there nothing's
+easy nothing was ever easy and it's not
+there's not it's going to be competitive
+the whole way but there is for somebody
+that wants to work hard and do well I
+think that you have way more opportunity
+things are are very democratized in that
+regard relative to the way I think
+people like to look back and think like
+oh it was there was like some Housey on
+time where like it was easier or
+something well yeah I actually think for
+your kids generation and whenever I have
+kids my future kids generation this that
+will be the easy time just because the
+nihilism is creating low birth rates and
+less competition but like I know like
+when I graduated from college during the
+GFC those most of the big investment
+Banks and hedge funds and long only Le
+mutual funds they only wanted to hire
+people from like 10 I like select
+schools like the iys plus like Stanford
+and University Chicago and I went to a
+quote unquote non-target at
+UCSB and I was just told you're not
+smart enough to be here and like I found
+my Niche the options firms were more
+Merit based they just wanted more just
+like talent and deviant thinking and so
+even in the and so like today I see
+these same big prestigious white shoe
+investment Banks and hedge funds and
+mutual funds they're recruiting from the
+ucbs and the UCLA and Notre Dams of the
+world they're not just going after the
+Ivy Leagues it's a lot more I think
+meritocratic just that's just one
+example is the fin the buy side in the
+financial services industry I don't know
+if you've seen that Trend among hiring
+in our industry but I've definitely seen
+the case I I think it's well I think one
+of the things that's happened it
+probably I actually would say that's
+probably less true in the prop firms
+it's different the prop there's been a
+lot of consolidation in in the prop
+firms over the last 20 years so you know
+Sig Citadel and Jane make up a a very
+large part portion of like the market
+share say like in options and they're
+all competing for the same kinds of
+people that an AI company is competing
+for it's like they're they're going to
+Princeton and saying give me your top
+mathematician that's and they'll pay
+them a ton of money at 21 years old and
+the you know in a sense these firms are
+basically looking for X-Men and x- women
+today they're looking for super
+accomplished people now that that said I
+think that the antidote to this even if
+if if if we were to say that there was a
+bunch of credentialism that felt
+insurmountable that was creating more
+nihilism I would push back against that
+and say well we live in the show your
+work era you can just go on the internet
+and show your work and if you build a
+following and if you do good work you
+you you can create quality I'm very
+active on on X and I've watched it
+repeatedly people that have kind of come
+out of nowhere gotten demonstrated that
+they were very smart and very
+hardworking built up a following an X
+and parlayed their virtual status to
+great jobs and great positions so yeah I
+kind of did that withing in a way what's
+that I Leed at seeking I wrote for
+Seeking Alpha when I was first out of
+school before I broke into the industry
+and that's how I got a lot of my
+original breaks as people saw me there
+yeah I so it's it's I think you just
+have to remember like just nobody's
+going to hand you anything so if if if
+this road you know if this road feels
+blocked you got to Route around it and I
+just think that there's more ways to
+Route around it today in 1985 there was
+less ways to Route around it and for
+people that kind of romanticize those
+times I I don't I think that's I think
+that's an illusion I don't think that it
+was better I I I grew up in a place in a
+very like insular town in in central New
+Jersey I was very underexposed to what
+was in the world it wasn't like I could
+go on the internet and expand my
+horizons and I think that and I've like
+actually I think in some way I felt it
+as an adult like I like being an adult
+way more than I like being a kid and I
+think it's because I felt a bit trapped
+when I was younger the world felt small
+and I felt like I didn't necessarily
+belong where I was and so that's my
+counter to all this you know all this
+nihilism is like you choose what to
+focus on your attention is under your
+own control and every resource is out
+there often times for free today but you
+need to you need to be resourceful you
+need to like you know have a strong
+sense of personal agency and this is a
+great time for you yeah and that leads
+to the question I was originally getting
+to but this was a great tangent was has
+the financial nihilistic attitude in
+people's higher propensity to gamble
+quote unquote if affected the how
+options are priced and how people are
+managing risk I think well so we learned
+some new things so in 20121 we learned
+just how how screaming High calls can go
+as there was all this lotto ticket type
+driven purchasing and then we saw the
+ability for Wall Street bets to
+essentially organize in in a digital
+forum and create its own momentum and
+that I I would say on the first leg up
+on of all of that and the first leg up
+on gme and all those things obviously I
+don't know for sure but I would be
+shocked if the market makers did in a
+pretty substantial hickey on the first
+leg now the trading firms are their
+whole MO is survival they know how to
+manage risk they know how to adapt and
+they know how to size things so if they
+took it and then they learned and this
+becomes part of their pattern library
+and say oh some times people are going
+to band together and try to do this so
+what they might do is they might raise
+the Vault aggressively when they first
+see the first signature of that kind of
+order flow and if you raise the Vault
+aggressively you will the Vault will
+just be too high the options will have
+less gamma mechanically because the
+vault is so high and that trade won't
+work anymore so what what happens is
+like I always say you can beat a market
+maker once but you can't beat them twice
+because they've seen the pattern and so
+I would say that the the way that single
+stock calls were priced they they they
+caught a new bid people probably be less
+wary or more wary about being short them
+because of what's happened over the last
+few years overall I think this is a
+bonanza for the prop options trading
+firms because you have a bunch of no
+essentially noise Traders coming in
+there and punting and you can kind of
+see it I think I saw that Jane Street
+has made $14 billion through the first
+N9 months of this year after the last
+two years being being a $9 billion years
+each and those was those were records
+and now they're 14 billion in 9 months I
+think that the prop trading firms are
+probably crushing it so I think all this
+activity has been good for them and the
+but all the ways in which options have
+to have been repriced based upon the way
+retails behaving I think does get
+incorporated into the market very
+quickly so like I said call call options
+are are they're going to be actually
+it's a good argument maybe to be selling
+covered calls now because they are they
+might be more expensive on average than
+they have been through historical
+periods I I wouldn't take that as advice
+and I'd go study this rather than you
+know I'm just guessing overall I think
+that my hope is that you know you've get
+a bunch of people that came here for the
+Gamble and some of those people a small
+subset will peel off and be like they'll
+you know people probably lose money
+because they didn't know what they were
+doing but some group of those people
+will be curious and say you know what I
+actually like to learn more about how
+this works and some set of the people
+that came over just to gamble will
+become dedicated Learners and I think
+will will find that options investing
+options trading it's a very cool
+discipline it's very cool thing to try
+it's very interesting it's a bicycle for
+the mind it's a great way to express a
+very surgical view on something I don't
+think that option I don't think most
+people should be trading options though
+I just I think like the people that have
+seen it and have decided you know what I
+actually want to get good at this or I
+actually want to try to get smart at
+this um you know there's there's never
+been more resources available for free
+on the internet to learn um all the
+stuff that's exists about options today
+the fact that people even know what a
+Vana what Vana is or what gamma is
+that's more common to know that today
+speaks a lot about how the knowledge has
+been democratized over the last 15 years
+yeah I mean there it's easier now and
+ever to learn about anything really in
+the financial markets this channel is
+just one example of many like free
+Outlets where you have that um I just
+still think options are best use
+sparingly even by professionals on the
+directional side because given how we've
+discussed before it's it's a it's most
+of the time it's a pretty efficient
+market like I would argue the fall
+market might arguably be in some ways
+more efficient than the directional
+Market just because of the mean
+reverting nature of it yeah I think that
+there's there's probably less
+opportunity for it to be displaced
+versus like I said yeah mostly because
+it's a smaller market and there's a lot
+of competition in that smaller Market
+but the it still gets because it's a
+smaller Market the liquidity like you do
+get more sort of like Vacuums in
+liquidity yeah and that's those
+displacements and liquidity is where the
+sort of opportunities arise whether it's
+correct for somebody to go seeking that
+really you know you really need to have
+a framework you have to have an approach
+for for for doing that and you have to
+understand how to manage the risk around
+those kinds of Trades but that's that is
+sort of the flip side is like the LI I
+mean the options not being as liquid as
+an underlying a double-edged sword it's
+both danger and opportunity and then
+before we wrap things up do you have any
+final comments that you'd like to say to
+the viewers about fall options markets
+anything I would say that I'll just kind
+of reiterate my view on options which is
+that that that they are surgical tools
+they're priced for specificity meaning
+that if you have a view on a stock and a
+time frame with that view an options
+price is highly levered to that that
+outcome but that also means that if
+you're very wishy-washy about what your
+views are you probably just want a blunt
+implementation of your trade which is
+probably the just trade the underlying
+rather than the situation where you're
+bearish on a stock but you're really
+wishy-washy on your you don't know what
+the end point is basically ex end points
+to suce you don't want to buy you know
+the worst thing that happens is like you
+buy and out of the money put you overpay
+for the VA you're completely right on
+the stock going down and then you still
+manage to lose money yeah and then how
+can people find you if they want to read
+more of your work or learn more about
+your AI software or really anything else
+you're doing yeah the two if if you want
+to go right to the software it's
+Moontower doai the great thing about
+that is the learning materials for that
+are all free so so there's a lot of
+Education that's available there and
+then and then the main place where I I
+really live is the substack so moont
+tower. substack and from there you can
+find all my writing you can find my
+social media all that stuff but moont
+tower. substack is a great place to
+start yeah for those who like my
+substack I think he would like Chris's
+it's one of the few substacks that I
+regularly read myself and he's all about
+options and also about using that option
+shares mindset to understand the second
+order effects in other parts of both
+markets investing and life so I
+recommend checking it out and thank you
+Chris for joining us and yeah we'll be
+back with more of these interviews in
+the future thanks for watching

@@ -1,0 +1,967 @@
+Agentic workflows have now completely
+changed the way that we're now able to
+build AI automations and AI agents. Cuz
+just a few weeks ago, we were only able
+to build automations by drag and
+dropping nodes or modules in platforms
+like Any 10 or make.com, which would
+have taken us hours or even days. Plus
+now we're able to build all these
+systems at 10 times the speed without
+writing a single line of code. And the
+problem is that most people getting into
+agentic workflows, they end up watching
+tutorial after tutorial and end up
+confusing themselves. And it's only
+because they don't really understand the
+baseline fundamentals of how it all
+works. Which is why in this video, I'm
+going to be breaking down exactly how
+agentic workflows actually work in the
+simplest way possible. Then building one
+live using a platform called
+Antigravity. And then finally, I'm going
+to show you how you can apply these
+concepts to building any kind of
+automation and system that you want. And
+in case it's your first time here, my
+name is Michele and I've scaled my own
+AI agency to six figures working with
+over 50 businesses to implement AI
+solutions and teaching over 20,000
+people in the process, all starting with
+zero technical knowledge. With that
+being said, let's dive in.
+All right, so right here I have the old
+way and I have the new way of how
+automations actually work. Now, as you
+may know, an automation is a series of
+steps that leads to an outcome. Whether
+that be making a full presentation or
+sending emails or creating any Google
+document. There's an input and there's
+an output and there's a series of steps
+that happen in between. Now, the way
+that we were used to building these is
+using platforms like Any 10, which are
+automation tools. And [music] these are
+building it yourself. As in, you go
+inside Any 10 and you start putting a
+node, so square, so action after action
+after action after action and after
+action. So, you create the input, you
+create the output and you create each
+step manually in between the input and
+the output to then build your whole
+automation. And what this means is that
+you have to drag each box, you have to
+make sure they're all connected, and you
+have to make sure that every single
+thing inside that step of the automation
+is configured correctly. So, let's say
+we have an automation that starts every
+5 minutes. This is the first step of the
+automation. Once this happens,
+>> [music]
+>> then we want to get all the emails from
+our Gmail. Right? Gmail is a software
+that we use to get emails, and inside
+here we have to set up Gmail. So, we
+have to connect our Gmail, we have to go
+inside manually, we have to make sure
+that all the settings are configured
+correctly. Then we have if. So, if the
+word invoice is in the subject line of
+the email, then we send it through.
+[music] So, in this case, we would have
+to set up the node, so the step of the
+if, which is a condition. Right, so
+we're saying, "Okay, every 5 minutes we
+get the emails, and if the subject line
+contains invoice, then we add the row to
+the Google Sheet, so to a database that
+we have, and finally we send a message
+to Slack, which is a platform where we
+send messages, sort of like WhatsApp or
+Telegram. And so, with this said, we are
+manually making all these steps. We're
+manually configuring, we call it the
+API, right, the way that we're
+connecting one software to one software
+together, we're doing it ourselves. And
+so, the problem with this is that So,
+when you're looking to build these kind
+of workflows that are five steps, it's
+completely fine. It's easier to do. But
+when you start building more complex
+systems that require, I guess, 20 steps,
+maybe one step here, one step there, and
+you know, make it sort of like a flow
+chart, then it is very time-consuming.
+But it's not because it takes time to
+build the actual automation in an N is
+because a lot of the times you have to
+make sure that you research, let's say
+Gmail. Let's say you didn't know how
+Gmail was connected. You have to
+research the documentation or the sort
+of list of criteria that says, "Hey,
+here's how Gmail works in the
+automation. Here's how to set it up."
+And so, you spend half an hour, 1 hour,
+2 days, I spend weeks making sure the
+automations are properly set up, making
+sure that all the softwares actually
+talk to each other in the correct way,
+which takes time. And so, with this
+said, this is the old way, or you can
+say the build-it-yourself way, right,
+where you actually go in there and build
+it yourself. Now, the difference is that
+we now have tools like Antigravity,
+which is the one that we're going to be
+talking about today, where you tell it
+what you want, and it basically starts
+doing everything that you would have
+done with a workflow. So, let's say you
+type in the workflow, or you give the
+agent, or you can call it agent, "When I
+get a client email, log it into sheets,
+and ping me on Slack." That is the
+input, the prompt of what we tell the
+actual agent to do, right? And so, when
+we give it this prompt right here, the
+agent reads the prompt and then it
+starts building the actual automation.
+It starts building Gmail, it starts
+building the filter, it starts building
+the Google Sheets and Slack, which are
+all the steps that previously we would
+have to make manually. [music]
+And so, in this case, the flow is just
+giving it an input, the agent reading
+it, it building it, and then asking you
+questions along the way if it does not
+understand what it is that you're trying
+to accomplish. And so, in this case,
+you're just describing what you want in
+plain English, the AI agent figures out
+the platforms and builds the workflows
+for you. Now, this is great and it saves
+us a lot of time just because a lot of
+the times the workflows here, like I
+mentioned, they're not as easy as Gmail
+or Google Sheets or Slack, right? It
+does take time to read through exactly
+how to set them up. And so, in this
+case, we're not doing it, the AI agent
+is doing it because it is smart enough
+to go inside what we call the again like
+the documentation of how everything
+works with that software, and setting
+things up automatically. And all you
+have to do is make sure that you give it
+the right instructions, which then goes
+to the emphasis on making sure that your
+prompts are set up correctly because if
+you can't communicate what you want,
+then you can't expect the AI agent to
+give you what you want. You have to make
+sure that you're specific and detailed
+about what it is that you're looking to
+build to then get the desired output.
+So, that's essentially the difference
+between the old way and the new way. Up
+here, we have the way of you building
+the automation yourself, making sure all
+the steps are set up manually yourself.
+Whilst here, you're just basically
+offloading everything to the AI agent,
+which is then going to configure all the
+steps automatically on its own. Now, to
+build the "Inject to Workflow" today,
+we're going to be using a software
+called Google's Antigravity. Now, this
+right here is an IDE. As a complete
+beginner, as a 5-year-old getting into
+the space, you won't even know what IDE
+is. I didn't know when I started, but
+essentially IDE stands for Integrated
+Development Environment. It's a software
+application that provides a very
+comprehensive, just all-in-one workspace
+where you can basically uh code, you can
+test, you can build things all together
+in one place. And it's good for us
+because we don't want to go to all all
+different places to figure everything
+out. We want everything in one place.
+So, all you have to do is go to
+antigravity.google. You then want to
+download for Mac OS, or you can press
+download here.
+And you can download in case you have
+Windows or Linux right here. So, I'm
+going to press download for Apple
+Silicon.
+You'll then get the file right here.
+Just press this.
+Just drag this across here.
+And once you have it downloaded, you can
+open it up, and the dashboard will look
+like this. Now, I've made a full video
+showing you exactly how you can use
+Antigravity to build full stack
+applications or websites, and showing
+you the fundamentals of how the platform
+works. You can check it out up here. But
+in today's video, we're taking a
+different angle and looking at the agent
+workflow of the platform itself. So, the
+first thing you want to do is press open
+folder. Because when you're working with
+Antigravity or even Clockwork, when you
+are building something, you want to
+build it in a folder in some sort of
+place. So, that when you close it, and
+then you want to open it back up, you
+have everything stored in that folder,
+right? So, you want to press open
+folder. I can just go to my desktop, and
+I can just press new folder here. And
+name it Antigravity.
+Great.
+And in this folder, we're going to store
+all the the Python codes and all the
+fancy stuff that the agent is going to
+build for us. We can press open. You can
+press yes, I trust the authors.
+And now you have the folder opened. And
+this is where everything starts. So, on
+the left-hand side, we have the
+resources and the documents that we get
+to feed into Antigravity, but also the
+code that it writes over time. Uh which
+is basically the automation. In the
+middle, I get to see exactly how
+Antigravity is thinking through things,
+the implementation plan, the tasks,
+basically the plan that it gives itself
+to be able to build the thing that you
+wanted to build. And then on the
+right-hand side, we have the chatbot.
+The chatbot is basically where we can
+text it and start the conversation. Now,
+believe it or not, to build agent
+workflows inside of Antigravity, we
+don't just randomly do it, right? We
+have a framework. And the framework is
+called the SBDT
+framework. S stands for structure, B
+stands for build, T stands [music] for
+testing, and D is deployment. Now, to
+not overcomplicate things, I'm not going
+to actually deploy the workflow. But if
+you want a full video on how that works,
+you can let me know in the comments down
+below. So, the first pillar [music] is
+the structure. So, before we actually
+start building anything with
+Anti-Gravity, right before we jump into
+prompting it to say, "Hey, can you build
+me this agent or that agent?" We want to
+have set up the structure for the actual
+project. And so, what we do here is we
+press new file. We can name this
+Claude.md.
+MD stands for markdown. It's just a way
+that we write things with code, uh
+giving it titles and so on. And I'm
+going to paste this prompt right here.
+Okay, so this right here is what we call
+a three-layer architecture that we give
+Anti-Gravity whenever it has to build
+some sort of system. Now, the reason we
+do this is because
+when it builds things, it's going to
+store code. It's going to make folders
+and it's going to store different
+information everywhere. Now, because I
+don't want Anti-Gravity to store it
+randomly, I'm going to give it a
+structure saying, "Hey, layer one is
+going to be directive, which is what to
+do. You're going to make a folder called
+directives, and these are defining the
+objectives, the inputs, the tool scripts
+to use, outputs, and edge cases for the
+specific agent to work for that I want
+to build." Layer two is orchestration,
+which is how to make decisions. So,
+you're basically giving it instructions
+as to how it should think about doing
+things. And finally, we have executions,
+which is doing the task. So, all the
+different Python scripts, Python is the
+programming language. Don't get
+overwhelmed by it, but basically
+everything that Anti-Gravity builds is
+going to be in Python.
+We don't really care cuz we're not
+building it in Python. But essentially,
+all those files are going to be stored
+in the execution folders. And we're also
+telling Anti-Gravity that to store all
+the API tokens, all the passwords and
+credentials, all the security stuff, it
+needs to store it in a file called .env.
+And then we give it some other rules
+that it needs to follow as well. Now,
+I'm going to leave the full prompt in
+the second link down below at my free
+school community. You can go to the
+classroom section and the templates
+vault and you'll find it there. Make
+sure when you paste this, you press
+save, so command S or you can go up here
+and press file, save.
+And now, I can start speaking to
+Anti-Gravity. And here I can say, "Hey,
+I left a Claude.md file in the folder in
+our project. Can you please initialize
+the project and start everything, uh
+making sure we have the whole foundation
+and architecture done before that we
+actually start building anything?" So,
+there's a prompt. I'm going to leave
+this as planning. So, we have two
+different types. We have planning and we
+have fast. Planning is when you want the
+actual agent to plan things step-by-step
+as it's building something. I always
+usually like to have a planning, but I
+also do like using fast for tasks that
+are quicker. They don't require a lot of
+decision-making or a lot of brainpower
+or in this case system power, I use
+fast. But in this case, we're going to
+use planning. And then we have different
+models. So, these right here are the
+different types of brains. Some brains
+require more energy. Some brains require
+less energy. Some brains are better for
+more complex thinking and some brains
+are better for more creative thinking,
+right? In this case, Gemini 3 for high
+is high in creative and high energy.
+Whilst Claude Opus 4.6,
+>> it's lower in creativity, but very, very
+high in the logical thinking. I'm going
+to use Claude Sonnet 4.6 because as far
+as I know, Claude Sonnet 4.5 is not
+available. I can use Sonnet 4.6. I can
+press go. And now the agent should start
+actually building things step-by-step.
+So, the first thing it tells us is,
+"Hey, I'm going to start reading
+Claude.md." It's going to start reading
+this. And then it's going to start
+building folders. So, the different kind
+of Google Drive folders, you can call
+it, where he's going to store all the
+different files accordingly. And to make
+this even more practical for you, you
+can think of this as a chef and we tell
+the chef, "Hey, go to the groceries and
+then bring back the groceries." And the
+chef has meat, it has fruits, it has
+vegetables, it has, you know, sweets,
+has all these different categories of
+food. And so, what we're saying is like
+each folder will be a basket. So, we
+have one basket for fruits, one basket
+for meat, one basket for sweets, and one
+basket for the vegetables. So, we make
+sure that we separate different things
+accordingly and to make it more
+structured when he starts cooking the
+food. That's what it is. I hope that
+makes sense. So, after a few minutes, it
+should start adding the folders here and
+you can press accept all
+to make sure that you accept the plan of
+implementation that Antigravity is going
+to do. And just to show you how this led
+to this, we tell it, "Hey, all the SOPs
+written in markdown have to live in a
+folder called directives." So, what it
+did here is it created a folder called
+directives and it made the how to add a
+directive, the template.id, the
+basically SOPs that it needs to follow.
+Don't worry too much about what's in
+here, just understand that this is the
+main folder for that specific thing. Let
+me tell you that the execution, so the
+Python scripts, should be stored in
+execution. If I go here, you can start
+to see that we have the Python scripts.
+So, the Python scripts is a thing that
+actually make the automation. When we
+say we want to run code, we're running
+Python, right? Python is the language
+that we use to be able to write code to
+be able to build the automations. But,
+of course, we're not doing it,
+Antigravity is. All right, so now that
+we're done with step one, which is
+structure, we can go to step two, which
+is building. Now that we have to start
+building the Agenta workflow, I'm not
+going to build it here. I'm actually
+going to press on open agent manager,
+and it's going to take [music] me to
+this page that looks like this.
+Now, this and this are both the same
+exact application. So, both are
+Antigravity. The only difference is that
+this agent manager allows us to be able
+to run simultaneous agents, so run
+basically different assistants for the
+same project. So, in this case, we have
+Antigravity right here, which is the
+main folder, right? The same one that we
+have here.
+And we're saying, "Okay, what if I want
+to have two different people doing two
+different things at the same time,
+working under the same project, right?"
+Well, we have to go here because right
+here we can only run one person.
+Whilst here we can run two people. Now,
+the idea behind agent manager is that
+you have the same project, and then you
+have multiple assistants working under
+the same project all at the same time.
+So, you save time, you don't have to
+spend hours and hours there. You can
+have different tasks done all at the
+same time using these agents. And
+there's only one problem here. And the
+problem is that although the idea of
+running different agents simultaneously
+at the same time is great, if one agent
+depends on the other, then it's not so
+great because if one agent depends on
+the other and the other is still
+running, then we're going to have
+problems actually testing and building
+the actual workflow. With that said, you
+want to make sure that each assistant or
+agent that you're running under the same
+project are working on different tasks
+that don't depend on each other. So,
+then you can get the output of this
+assistant, the output of this assistant,
+and put them all together. Now, for the
+example of today, I want to build an
+Agenta workflow that can scrape my
+competitors and then find their emails.
+And so, we're going to have two
+different agents running. The first
+agent is going to be receiving a link of
+a website.
+>> It will then do research on that
+website, scraping the product. Then it
+will tell me the main competitors for
+the website and different details like
+revenue, pricing, and other KPIs. And
+then I want to put everything into a
+Google Sheet. And then the second agent
+we're going to have running is going to
+be an agent that receives a specific
+niche and then finds 20 people in that
+niche including the company names, the
+contact emails, and the website and then
+puts them all into a Google Sheet. Now,
+the idea behind this is that we have two
+different agents working on two
+different tasks. And then we put them
+all together to build a full agent
+workflow that can scrape competitors.
+And finally, we end up with a list of
+leads into a Google Sheet with the
+emails and websites and so on. So, first
+things first, I'm going to go here to
+plus and I'm going to paste this prompt
+right here which says, "I want an AI
+agent that receives a link as an input.
+Inside that link there will be a product
+page. And I want this agent to perform
+an in-depth competitor analysis of that
+product. I want you to tell me who the
+main competitors are, what pricing they
+use, and what revenue they generate, and
+other KPIs you consider relevant. I want
+to brainstorm with you what additional
+outputs we can include after this
+competitor analysis. I also want ideas
+on what text stack to use. Specifically,
+I know I want the output in a Google
+Sheet, but I'm not sure what software to
+use to perform the competitor analysis."
+As you can see, I'm not telling it go
+out and build something. I'm planning
+things before I start to build to make
+sure that it's more structured. The same
+way that you would have a project, you
+talk to your friend and say, "Okay,
+before we start the project, let's talk
+about the best way to go around building
+this out, right?" I'm going to keep
+using Claude 3.6. Let's find planning
+because I wanted to plan. And I'm going
+to press go, send. And this right here
+is the first agent. Then I have the
+second agent right here where I'm going
+to paste this prompt right here which
+says, "I want to create an agent and a
+workflow where the input is a specific
+niche and it finds 20 leads in that
+niche including the company name,
+contact emails, and website. But first,
+I want you to recommend the best
+approach for finding company names,
+websites, and contact emails for
+businesses in that niche. So first,
+let's brainstorm before building the
+workflow." And I can press go as well.
+And And I go up here to Inbox Manager, I
+can see that we have two different
+agents running. The first one is this
+one and the second one is this one. As
+you can see here, we can go to the first
+agent. And if I go up here, it's going
+to give me the breakdown of how it
+should think about building this out.
+Competitor name, website, pricing, and
+revenue, I think that's fine. Market
+positions, recommended additional KPIs,
+funding and investors, I don't think we
+need any of these. Yeah, I think unique
+differentiators is good.
+It's fine. I don't think I want any of
+these. Okay. Now, it's going to tell me
+exactly what we could use. It says we
+option A is using Any Ten plus AI agent
+plus Google Sheets. Option B is Python
+scripts and option C is Perplexity plus
+XAI plus make.com plus Google Sheets.
+Um I don't think I like any of them. I
+would rather just use Perplexity, which
+I know is like Claude or ChatGPT, but
+it's very, very good for research. Uh
+so, what I'm going to say here is this.
+I'll say, "Okay. So, I think I want to
+find the competitor name, the website,
+the pricing, and the revenue. That's
+okay. I also want you to find the unique
+differentiators.
+And then, I don't really like any
+options.
+I'm more swayed towards option C,
+but can we just use Perplexity to do the
+research and that's it? And then, you
+can use Google Sheets to then store the
+information. So, make sure that the
+columns in Google Sheets are the ones of
+the variables that we want to find. So,
+the core metrics. Yeah, just use
+Perplexity to be able to do research and
+that's it. Let me know if you have any
+questions or if you need anything
+[music] from me. I'm going to press run.
+And we have this here, and I can go to
+the other one. And now, it's going to go
+through the actual brainstorming of how
+it's thinking about doing [music] it.
+So, the core challenge the lead
+generation requires two pieces of data,
+company name, website, and contact
+email. The difficulty is that these
+really come from a single source. So,
+the best approach chains multiple
+methods together. [music] The first one
+is using Google Search plus web
+scraping, best free approach, okay. I
+like that. Apollo.io API,
+we could use this, but it is paid. So, I
+want to show you a free version.
+Hunter.io, it is paid. [music] It is
+very good as well. LinkedIn, I probably
+would not want to use LinkedIn. And we
+also have Google Maps. I like Google
+Maps or SerpApi.
+Basically, it's telling us, "Hey, to be
+able for us to to scrape, so to actually
+extract the the emails of people, we can
+basically go down all the different
+options. We have these different roads
+that we can go down. I think they're
+equally as good. Okay, so I do like all
+of them. One thing I'm going to do, I
+think I'm going to use Google Maps. I
+know there's a software called Apify,
+which allows us to be able to use
+scrapers, like some sort of thing that
+people build, to be able to go inside
+Google Maps and extract information
+about businesses. So, I'm going to say
+here, I like number five, can we scrape
+using Google Maps? Uh let me know the
+best way to go around that and let me
+know what API keys you need or any
+passwords or any software that we have
+to use to be able to scrape Google Maps.
+Uh let me know. Okay. While this is
+running, I can go back to Agent one
+and I can see here that it's asking me,
+"Great, the plan is clear. Let me
+confirm what we're building. Python
+script to be able to use Perplexity API
+and then Google Sheet. The columns in
+the Google Sheet will be competitor
+name, website, pricing, revenue, unique
+differentiators. Before I start
+building, can I have
+Perplexity API key?" I can give you the
+Perplexity API key, that's fine. And
+then the Google Sheets. How do you want
+to authenticate? The best approach is
+using Google service accounts. Do you
+already have one set up or should I walk
+you through creating one? Since it needs
+a Perplexity API key, I can go to
+Perplexity,
+perplexity.ai.
+And right here you want to log in with
+Google. I can use this email right here.
+I can then go to my account. I can go to
+API, I believe, and then API billing.
+Let me check if I have money in here. I
+do have $10. So, make sure you have
+money here because it's going to be
+using credits to be able to use uh
+Perplexity. And if I go to API keys, I
+can then accept terms and generate API
+key. I can name it antigravity.
+I can create a key. I can then copy the
+key.
+I can then bring it back here and say,
+"Perplexity API key."
+Then I'm going to say, "For Google
+Sheets, I don't have it set up. Can I
+Can you walk me through how to create
+one? I don't really know." And you
+should set the script live. Yeah, you
+decide. You decide what works better for
+you. I don't really know. You just do
+it. And I'm going to press go. While
+this is creating this, I can go back to
+the other. And now it's telling me,
+"Hey, can I store the API key that you
+just gave me in a file called ENV?" I
+can press allow this conversation. And
+usually a lot of the times, you don't
+you're not really going to know exactly
+what it's going to ask you. I know
+because I've already done it, so that's
+why I can explain it. But essentially,
+all the passwords and stuff, it's
+something that you want secure. So,
+ideally, you don't want it to be shared
+with everyone. Uh so, you want to make
+sure that it's all in one place. I can
+press X in case you're getting
+overwhelmed. But as this is generating,
+I can go back to the lead generation
+workflow. And now it's telling me what I
+should be using to scrape Google Maps.
+So, it's telling me I can use Google
+Places API. I can use
+Playwright, Selenium. I don't know what
+that is. Outscraper. I'm going to say
+What about using Apify? Can we just use
+Apify and use the Google Maps Scraper? I
+can give you the API key for Apify and
+you just figure it out. Does that work?
+I'm going to press go. And this right
+here is a conversation, right? Um as you
+can see, I'm not building anything. I'm
+just telling it how I should think about
+doing things and so on. And now it's
+saying yes, [music] absolutely, Apify is
+actually an excellent choice.
+Great. Perfect. All I need to give it is
+the
+API token, okay? So, I can go back here.
+I can go to apify.com.
+And by the way, if you don't know Apify,
+I have I made a full tutorial on how it
+works. Check it out here. But I'm going
+to go to go to console.
+And if I go here, I can see that we have
+a list of scrapers. So, these are
+basically uh things that Apify built or
+someone else built that allow us to be
+able to scrape, so extract information
+from different sites. So, this is
+Facebook, this is Instagram, YouTube,
+Instagram, websites, tweets, and
+TikToks. But if I go to home, I can see
+that I have the Google Maps Scraper,
+which is the one that everybody uses,
+right here. And we have to give it the
+roofers, which is the niche, and the
+location, and how many places we want to
+scrape, which is fine. And we only have
+to pay $4 for 1,000 results. So, I'm
+going to go here to the settings, to the
+API integration, and I'm going to copy.
+I'm going to go back and say, "Here's my
+API key for Apify
+and use the regular Google Maps
+Scraper."
+I'm going to press go. So, as this is
+doing this, I can go back to the other
+agent. I can see that this is still
+generating the actual thing. And now
+it's telling me exactly what I have to
+do to be able to give it what I have to
+give it. My password for Google Sheets,
+cuz it has to access my Google Sheets.
+So, if at this point you're a bit
+confused because of the way it looks,
+basically we're just asking it, "Hey,
+we're building this agent, we're
+building this other agent. What do we
+need to make these things happen?"
+Typically, we need your password for
+Google Sheets, typically we need your
+password for Perplexity, or your
+password for Apify. And so, we're giving
+it all these passwords so that it's able
+to actually build the thing that we want
+it to build. [music] So, in this case,
+we have to go through everything step by
+step. So, for us to be able to use
+Google Sheets, we have to go to Google
+Cloud Console.
+So, there we go. Google Cloud Platform
+Console. Go to my console.
+And you want to go up here, and you want
+to press new project. I can't add a new
+project because I'm maxed out with all
+my projects. Uh but once you have a
+project right here, you want to go to
+API and services, and you then want to
+go to enable API and services, and look
+for something called Google Sheets.
+Google Sheets. Press on this, and you
+can press enable.
+You know it's enabled when it says
+disabled right here. And then, you also
+want to go to uh I think it's Google
+Drive.
+Cuz Google Sheets is in Google Drive, so
+that's fine. Google Drive API.
+And you want to press enable. I already
+have this, so it says manage, but you
+would press enable, and you'll basically
+wait uh 1 minute, or a few seconds
+actually, for it to connect. Once that's
+done, you can go to API and services
+credentials, go up to create
+credentials, go to OAuth client ID, put
+this as desktop app, just fine, name
+this whatever you want. In this case,
+anti-gravity
+tutorial. Create.
+And here you will see your client ID and
+client secret. You could also download
+the JSON here, which is just a file
+version of these passwords, and then
+upload it there. I'm just going to copy
+this and paste it here. So, client ID,
+client secret. Spelling is a bit off.
+You know what it is.
+And I'm going to press run. There we go.
+[music] So, now I've given my passwords.
+It's telling me that these are not the
+credentials that it asked me for, but it
+can still work. And going back to the
+inbox again, I can see that these two
+agents are still running simultaneously.
+Now, this is great for us because we can
+now run different agents at the same
+time and we can be much more efficient.
+There's only one thing here and that is
+that when you are using a lot of brain
+power from anti-gravity, it might stop,
+right? Because on a free plan, right
+here I can show you that. So on the
+individual plan, $0 a month, it says
+generous rate limits. And the thing is
+nobody knows what generous means.
+There's no tangible number. Even if it's
+developer plan, it says more generous.
+And then team plan, [music] it says more
+generous.
+So it's saying to say you have a
+generous amount of brain power that we
+can use, but we're not going to tell you
+how much brain power, right? So you kind
+of they're just guessing. And but the
+way to minimize risk is for you to be
+using uh models like Claude Sonnet 4.6
+to be able to [music] to ensure that
+you're not using all the brain power
+that anti-gravity has. Cuz if you're
+using Claude Opus 4.6 or Gemini 3 Pro
+High, they do require a lot of brain
+thinking because they're very good
+models. So make sure you keep that in
+mind when you are kind of building this
+up. All right, so the first agent
+actually finished and I actually told it
+to test with one competitor. I give it
+getsnooze.com.
+So this here is unpaid marketing, we
+call it. Uh but it's basically where I
+show you a product. I believe it's a way
+for you to sleep better. Link down
+below. I'm just kidding. I was not paid
+to do this. I just searched up products
+online and I came up with this. So
+essentially it should go in here, it
+should look at the product, it should
+then get competitors. And if I go all
+the way down here, it then gave me the
+Google Sheet which I found right here.
+So we have the competitor name, the
+website, the pricing. There was no
+revenue in this case cuz they can't
+always find it.
+>> And then we have unique differentiators.
+And it did it all in a matter of seconds
+without needing me at all, right? It
+just used the workflow that we give it,
+used instructions, and used Perplexity
+in the way, and it gave us the full
+Google Sheet as well. And I also tested
+the second agent right here to be able
+to scrape the emails from the
+competitors. And I got this Google Sheet
+right here. This looks like this
+where we have, let me just put the
+writing as white, company name, website,
+email, and description. Now I didn't
+find the emails for all of them, but it
+did a pretty decent job as well at
+finding the websites and also the other
+competitors. All right, so now that
+we've built both agents right here, we
+can start to see that the folders are
+now consisted of more files because of
+the fact that when the agents are
+working, they're adding all the files
+here in the corresponding folders. So,
+for executions, we have competitor
+analysis, and this right here is
+basically the Python script that allows
+us to be able to use the Perplexity and
+get the competitor name, website,
+pricing, revenue, unique
+differentiation. I personally don't
+recode, but I can start to see that it
+adds comments for me to understand
+step-by-step what it is doing, and
+[music] I can also go to directives, and
+I can see the competitor analysis MD,
+which is a page that tells us exactly,
+"Hey, here's exactly how you have to do
+competitor analysis." So, that when we
+do run the whole thing all together, it
+has context. It starts reading to all
+the documents right here as instructions
+to then give us the output. So, now to
+put it all together, we can say, "All
+right, so now I want you to do the
+analysis of a competitor for this
+product." And I'm going to give it the
+exact same product as before. And I'm
+going to say, uh "Give me three to four
+competitors, and then I want you to
+research, uh just 10 leads in that
+specific sector of sleeping products."
+There we go. Now, we're going to use the
+functionalities of both agents that we
+built together to make the full agent
+workflow. So, I can press run.
+And as you can see here, it already
+realized that the task has two parts.
+First part is identifying three to four
+competitors, and second part is
+researching 10 leads in the sleeping
+products sector. So, the good thing
+about this is that because it has
+context, it will start doing one first
+and then the other, and then we get the
+output at the end. All right, so it just
+finished the actual workflow. It scraped
+the competitors of Snooz. Is that how
+you say it? Snooz? We'll see.
+Uh and then it made a Google Sheet here
+that I can press here,
+and then we get to this page right here,
+very similar to the one that we had
+before. We have the company names here,
+and then we have the websites, we have
+the emails, all the ones that we found,
+and we have the description as well.
+Now, for the ones where we didn't find
+the emails, we can now use an external
+server as well, an external software, uh
+to be able to use it. Because we're just
+using Google Maps, it's not going to be
+super accurate. So, it really depends on
+what software you're tapping your
+workflow into, uh but there's a lot that
+can be done here. I'm just showing you
+the easiest way just to get up and
+running with this. So, congrats on
+making it to the end of the video.
+You've now learned exactly what an agent
+workflow actually is, why it's
+important, how you can use it, but most
+importantly, how you can build one step
+by step. And if you're someone who's
+asking themselves, "Well, I mean, I
+already built this. How do I actually
+make money with this?" Well, I left the
+first thing down below, which is a link
+to a one-to-one mentorship program,
+where you get to work with me one-to-one
+to be able to turn all these skills and
+monetize them to actually build a full
+AI business. If you want more info, you
+can check out the first thing down
+below. And if you're interested in
+diving deeper into agent workflows and
+how they work, then check out this video
+up here, where I show you exactly eight
+insane Claude Could use cases, where
+we're building agent workflow for
+businesses. With that being said, I hope
+you found value from this video, and
+I'll see you in the next one.

@@ -1,0 +1,1280 @@
+Perplexity computer is insane, and in
+this video we're going to bring you a
+true beginner's masterclass on how to
+use Perplexity computer to replace hours
+of manual work with a few simple
+prompts. No code required, no expensive
+tools. So, sit back, relax, and learn
+how to use this incredibly powerful
+tool.
+Elliot, what are we building today?
+We are going to be building some low
+Well, SEO and local SEO machines using
+Perplexity computer to just automate
+everything to do with your website SEO.
+Awesome. And so, what kind of gives you
+the credibility to do that? Like, what's
+your background? What have you done at
+to this point? Well, I've been so for 5
+10 just over 10 years now I've been
+doing SEO, um content marketing, and
+then ranking stuff at the top of Google.
+And uh
+just been
+deep in the AI world now. I do a lot of
+AI coaching as well on top of mixed in
+with the SEO stuff now. So, basically my
+whole day is working out how to do SEO
+faster, better with AI, which is what
+we're going to do today.
+Awesome. Well, kind of give us a rundown
+like what is Perplexity computer uh
+before you jump in your screen? Maybe
+explain that for people who haven't
+heard of it or maybe don't know how it
+differs from other tools.
+Perplexity computer is almost
+another evolution from things like
+Claude co-work in
+that it just You tell it what you want.
+You tell it your outcome, and it goes
+and starts delivering, but it almost
+goes a step further than a lot of the
+other tools in the It runs in the cloud,
+so you don't have to run it locally on
+your desktop. Plus, it can run It has 19
+LLM agents under the hood, so it can run
+multiple AI agents simultaneously in
+parallel off different LLM models. So,
+we're basically getting the power of
+everything in one cloud container, which
+I'll show you why it's so powerful.
+Yeah, let's see it. So, let's go ahead
+and jump into your screen.
+Let me jump on the screen share here
+then.
+Right.
+Okay. So, Perplexity computer is kind of
+This is the normal homepage to
+Perplexity, right? Looks like any other
+LLM model, but in here now we have this
+computer button, and this changes the
+game in here because it gives you access
+to all those sorts of things I just
+talked about. And it runs virtual
+computers on the back end.
+Now, to give you an idea of almost
+yesterday when I started testing this
+stuff more in depth, I was pretty
+shocked at the stuff that came out
+because within a few minutes I was able
+to build a local SEO machine that had
+not just built me a dashboard like this.
+Like, we can build dashboards in any
+platform, but this is actually a live
+dashboard that scans everything I need
+to all the data and stays updated for
+this client. Plus, it was able to
+actually uh give me
+some real deliverables here. So, it was
+able to go and run several different
+modules of an AI uh an SEO technical
+audit, a Google business profile audit,
+an on-page audit to give me this
+insanely detailed outcome, which would
+have taken me hours to do to either set
+up an any 10 workflow or manage manually
+with different SEO tools. It even went
+and did a technical audit, wrote all the
+schema markup code, everything that goes
+behind the website. It produced audit
+reports, and that's amazing, right?
+Like, to be able to audit a website just
+conversationally is cool. But, what
+really blew my mind is it took that
+information
+and actually actioned the deliverables
+from this piece of software essentially
+that I built in Perplexity computer and
+actually started from its audit
+doing the work. So, this is potentially
+weeks and months of SEO work for a
+client, but it's just actioned
+automatically for me based off
+this automation.
+Does that So, you're saying you're So,
+you're saying that you you basically had
+it do like a full SEO audit on sounds
+like a maybe a client's website of
+yours, and then it didn't just stop
+there. Like, it actually went into the
+back end. Again, I'm not super familiar
+with how SEO works, but like it went in
+and like implemented the findings of the
+audit. Is that what you're saying? It
+did the audit,
+and this is a a repeatable almost
+machine
+that's built into Perplexity computer
+now for me to run the same thing every
+time. Did the audit, and then wrote all
+of the deliverables, all the code, all
+the page updates, everything I needed.
+And then I've just found before we got
+on here that I can actually connect it
+to my WordPress and tell it go and
+actually make those changes, please. So,
+yeah, it can do the full sweep [snorts]
+of work for us, which is
+>> Wow.
+is wild.
+Yeah, that is wild. Okay, awesome. Yeah,
+let's let's keep digging deeper. This is
+cool.
+>> It literally like my heart stopped
+beating for about 3 seconds cuz I was
+like
+Wait, what? This is my whole This is
+This was my whole job. This is insane.
+Um
+and I'll give you a little preview of
+how it sets up actually, shall I, before
+we get into like the behind the scenes
+of it? So, now anytime I want to run
+an SEO audit, for example, all I have to
+do is Let's see if I can
+say uh load my SEO
+load my audit load my local SEO audit,
+please.
+Or load my
+Sorry. Let me try that again cuz I'm not
+quite getting the phrasing right there.
+Run my local SEO machine. See, I'm still
+not used to prompting this and just like
+loading up my machine. So, we just
+dropped that into the Perplexity
+computer box there.
+And now you see on my screen that it's
+actually loading up
+this
+essentially what is akin to a piece of
+software that I built. Um and it's
+asking me for just the key bits of
+information.
+So, all I have to give it is
+Let's um Have you got a website, Corey?
+Yeah, so you can use return mytime.com.
+And I know it's terrible from an SEO
+perspective, so I'm sure it's going to
+rip it to shreds. So, this will be
+really uh beneficial for us. Might take
+a little while to get the audit done,
+but we can jump into some other stuff.
+Uh Do you have a Google business
+profile? No, we don't.
+No profile? That might not run so good.
+Uh Do you have any particular keywords
+that you might think you might want to
+rank for?
+Yeah, so like AI tools.
+Like AI community
+>> AI audit. Like, we we do
+like AI audit could be one, and then AI
+assessment could be another one.
+And then something that we talked about
+implementing is doing a bunch of like
+blog posts or just like programmatic SEO
+around AI tools for XYZ profession.
+Okay.
+>> maybe we could even say like AI tools
+for solopreneurs.
+So, that I know that's pretty specific,
+but No, we love I love specific. It's
+easier to rank for specific stuff than
+wide stuff. Um
+This might not work perfectly cuz it's
+for local SEO, but we'll see how we get
+on. Um do you have any competitors that
+you like websites that you look at at
+all?
+Um so, there's none that really come to
+mind. I'm I'm Of course, we have
+competitors, and I'm sure there's plenty
+out there, but
+>> Let's just Should we just throw mine in
+there for now just to give you a
+>> Yeah, sure. Yeah, let's do that.
+My AI one.
+So,
+though these are the only deliver the
+only bits of information that I
+put in here,
+and it's actually going to adapt the
+audit cuz it's got this AI intelligence
+built into it. So, it's going to adapt
+its process a little bit, but that's all
+I have to give it, and it's going to go
+off and run my AI audit now. I don't
+have to pay $200 a month for Semrush or
+Ahrefs. I don't really know how to have
+to navigate an SEO tool.
+I just give it the information, and it
+gives me back what I need, which
+is
+crazy when you actually zoom out and
+think about that's a whole person's week
+doing an audit for someone and creating
+these deliverables. That is the job.
+And now that that local SEO machine, so
+that's a skill that you wrote, right?
+Like, that doesn't just come off the
+shelf with Perplexity computer.
+No, I I initiated it and built it, but
+there are skills and underlying things
+that are off the shelf, but I actually
+didn't do like I haven't fine-tuned
+this.
+All that stuff that I showed you coming
+up before
+was
+just what it thought was best to do. So,
+yeah, I could go and improve and tune
+what it can actually output for me,
+but it did a really good job just off
+the shelf doing these deliverables. I
+could teach it more tone and how I want
+it to write my pages based on the
+business and stuff like that. Sure. But,
+you can see here this is the key bit
+that I wanted to show you is now we've
+got the three modules. So, when you talk
+about skills in like Claude, you're
+like, "Oh, cute. It does one
+set of custom instructions." We've
+actually now got three modules running
+here.
+Module one is our technical audit.
+>> three skills at a time in parallel,
+you're saying?
+Uh like I haven't had enough time to
+investigate under the hood, but you can
+see it's just going way deeper than just
+running a quick skill. It's actually
+analyzing HTML elements on a
+on a webpage. It's doing a competitive
+profile audit on other people's business
+profiles. It's doing an on-page analysis
+of all the text, all the pages on our
+website, and comparing that to Google
+search results. And it's using different
+It's actually using Claude Sonnet for
+all of these, but it could be using
+other It could be using Google Gemini if
+it chose that as a a better source. So,
+it's doing all of this at once.
+Whereas when you're doing something I
+think in like Cohere,
+you see the plan box and it's doing step
+one, step two, step three and it's kind
+of going things through one thing at a
+time.
+This is just
+doing
+three
+not even three things, like 300 things
+at once.
+Under three modules there.
+Um And now, so I know you said you
+haven't had time to get under the hood
+and honestly I haven't either even
+though I've been using computer quite a
+bit. But do you know if there's a way to
+almost like export your skills from
+Claude and like import them into
+computer because the only thing stopping
+me from just using computer exclusively
+is that all of my skills currently live
+in like the Claude ecosystem. Do you
+know if there's like an easy way to do
+that? I mean
+So, for anyone who's not used computer,
+you can hit this sidebar on the left
+here and go to skills and you'll see all
+the in-built skills in here.
+You can see my local SEO machine skill
+that's in there. Um
+So, it looks like we can upload an an MD
+file.
+So, actually we could try live now,
+couldn't we? And say like
+Yeah, maybe while it's working, let's
+let's maybe look at that cuz it's still
+working, right? Like obviously it takes
+some time and So, it's just running in
+the cloud, not on my computer or
+anything. So, you can run So, with
+Cohere, you can run
+um
+uh what do you would call it? Scheduled
+tasks, right? But Cohere has actually be
+running and your desktop has to be on to
+actually make them work. With Perplexity
+computer, it runs in the cloud, so you
+don't need to do
+any of that.
+Uh
+What have we got here?
+Let's just pick my brand.
+Um my brand skill. So, this
+automatically applies branding to
+anything I output in Claude.
+All my logos and everything, which is a
+massive time saver and uh you know,
+keeps things consistent across company.
+So, Perplexity computer, to find your
+task you or your chat, you go tasks
+and you can load up the conversation
+you're in.
+But we were in skills, we can hit create
+skill,
+upload a skill.
+See how we go. Uh
+Now I've got to find where I downloaded
+it.
+Let me just see where I downloaded that
+to. Sorry, this is not
+desktop Elliot skill.
+Right, let's try that again.
+Uh it doesn't look like it wants to
+Well, you can drag it straight from your
+downloads folder uh in Chrome, right? On
+my desktop, wasn't it? Elliot's brand,
+right?
+I'm struggling to find it. Why am I
+struggling to find it?
+You see what I mean? You can click the
+like downloads at the top.
+>> Oh yeah, my downloads folder? Yeah, and
+just literally drag it right in.
+Yeah, there you go.
+Oh, so only wants
+.md or zip files.
+So, no, it doesn't look like it's going
+to
+uh
+allow me to do that.
+Yeah, and see that's what's frustrating
+about skills in general is that like I
+feel like nobody has really solved a way
+to just kind of have like a centralized
+skills repository where you can just
+kind of move them between all your
+different uh elements.
+Yeah, I mean I would imagine we can just
+go tell Cohere to like, "Can you turn
+this into a zip
+.md file or something?"
+Um but it might take playing with.
+So, But I can't say like I get the
+concept though, but yeah, I just was
+curious if that was possible.
+But we could wrap it up in a in a
+different way to actually make this
+happen. Now,
+so I show you how I built this
+this audit machine while it runs cuz it
+will take a little while to obviously do
+quite a lot of work there. Yeah,
+absolutely. I'll show
+show people how easy it is to actually
+do this, which is why I haven't looked
+under the hood because
+I just it just sort of happened by
+accident when I started playing with
+this stuff.
+You can see the way I started this
+conversation. I just said, "What
+non-obvious SEO use cases are there for
+Perplexity computer? What would feel
+magic and just not a research or
+dashboard?" Cuz a lot of people who I
+saw using Perplexity computer, they're
+like, "I built a dashboard." I was like,
+"Okay, cool, but like what's the what
+what does this actually do?"
+And it gave me a list of
+ser you know, search engine results
+monitoring,
+content decay ana- analysis, technical
+audits and a list of pretty cool ideas.
+So, I just said,
+"Can you
+build all of them for me?"
+And it went ahead
+and just built it for me.
+Like I didn't do anything special here
+except for maybe give it a bit of a
+steer
+and it went and just created this
+essentially
+deep skill bordering on a piece of
+software for me. So,
+we could probably go and show you
+let's say like
+Let's go down here.
+We could take another of the ideas here,
+which was a topical SEO thing. So, you
+know you're talking about blog posts and
+stuff like that. Mhm.
+You want to become a an expert the topic
+expert on
+AI audits, for example.
+This is what this
+idea would do.
+It would do all your keyword research
+for you, find every piece of information
+that you need to write content on for
+your SEO to actually become an expert
+and rank top for all your search terms.
+So, I could say I could take that idea
+and say um
+"Can you Can you turn this idea into our
+next SEO topical authority machine?"
+>> [music]
+>> And we should
+be able to run that
+task.
+And you can see I've got uh scheduled
+tasks in these machines that I've been
+building coming up to run every week. Um
+or as and when I want them for different
+clients as well, so I don't even need to
+think about half this stuff.
+And so, Perplexity computer, because
+it's in the cloud,
+it your computer doesn't need to be on
+for these scheduled tasks to run, right?
+Like kind of like what you were saying
+earlier with Cohere, it ha- it has the
+same ability, but your computer
+physically needs to be on because it
+only runs in your local machine. Like is
+that kind of the difference in
+Got it.
+>> this is this is not using anything on my
+machine except for my web browser.
+Uh so,
+what what are we talking about? What's
+key see what what's your keyword for
+this demo?
+I just want a repeatable system that I
+can then put any keyword into to start
+with.
+Do you want a one-off deploy tool or
+I want this package as a reusa- reusable
+machine or skill like our local SEO
+machine and we can even say because
+we've got visual mapping and stuff in
+here, we can actually get it to build
+out anything visual, videos, video
+walkthroughs, all that sort of thing.
+So, I've got my local SEO stuff as well,
+recording a transcribed and voiceover
+walkthrough of the SEO strategy.
+Usually in the past I would have made a
+loom walking the client through things.
+I probably still will cuz actually
+touch, but if the client wants
+you know, if I wanted to I could send
+them an automated run-through or I could
+hand it off to my assistant VA and just
+give them a run-through audibly of like
+what this all means, basically.
+And could you even do something where
+like you clone your voice with 11 Labs
+and then it's like you record the
+the actual screen share video of the
+tool once and then have a an automation
+set up with 11 Labs like, "Hey, anytime
+I get a new client, you're going to
+clone my voice and then demo this
+walkthrough using their name and their
+business name so that it is
+personalized, but obviously it's not you
+a physically recording it. It's it's
+just the AI clone of your voice." Sure,
+if you go The other thing that is that
+blew my mind as well was just the sheer
+volume of connectors in here.
+Claude has or ChatGPT, they may have
+50 connectors? Would you say something
+like that?
+Yeah, I think maybe even like 150 or so
+inside Claude now kind of off the shelf,
+but this is
+Yeah, this is crazy. It's like
+thousands. So, I was building something
+before we got on this call. I was like,
+"Wouldn't it be cool if I could have a
+LinkedIn machine that goes through my
+messages, finds hot leads, writes a
+draft replies?"
+Nothing crazy that you maybe couldn't do
+in N8N, but it would take you a while to
+set up in N8N and get right.
+So, I was just like, "Oh, I wonder if
+there's a LinkedIn connector?"
+And there is. So, it can hook straight
+into my LinkedIn.
+Yeah,
+>> [laughter]
+>> that's what I said.
+>> cuz LinkedIn's like notoriously hard to
+get any sort of like automated access
+to. I figured that you were going to
+show this and be like, "Oh, and it's not
+possible." But this is crazy. I'm I'm
+going to have to test this out myself
+Yeah, and and like digging through these
+I can show you that little thing that I
+built in a second, but even now I just
+found another one. I'm I'm "Oh, it's got
+this rapid URL indexer."
+So, any new pages that it builds for my
+SEO website,
+it can then also link to this rapid URL
+indexer, and I don't even have to go and
+submit and do any of that stuff. It will
+just
+do it. It will just submit it to Google
+and all the the AI tools and the the
+search engines.
+there's so much in here that it's hard
+to comprehend
+what
+it can do. Like, being able to hook into
+the LinkedIn and WordPress for me,
+Google Search Console, Google Analytics,
+all in one
+LLM automated procedure is
+I can't even describe what that means.
+>> It's almost like it's more beneficial to
+figure out what it can't do because I
+feel like it can do
+98% of things, and then there's maybe
+like 2% of things where either like
+maybe it has the capability, but like
+the connector is not yet built in. And
+like that's the only reason you can't do
+it. Like, is that fair to say?
+>> Yeah.
+Yeah, but I mean, you could get it to
+work with APIs. It could read API
+documentation. So,
+this I mean, those two processes look
+like they're still running cuz
+they're actually coding and doing stuff.
+Yes, so it's still auditing your
+website, but that's a pretty hefty
+process. So, I've got this link
+>> so many
+so many gaps. It's probably going to
+come back and just just eviscerate us.
+But what I'm saying is like I'm a bit
+frustrated cuz I'm like, "It's taken 5
+minutes. This is
+dozens of hours of work traditionally to
+do all of this or a lot of money paying
+a lot of SEO tools to expedite the
+process."
+So, this is the LinkedIn machine that I
+built
+literally just before we got on the
+call,
+and I've masked
+some live data, but um
+the
+machine like I gave it API information
+and stuff, which maybe I probably
+shouldn't do, but I just wanted to see
+if it worked, and it was able to read
+all the documentation. It was actually
+coding stuff up in the background to
+build
+what I needed. So,
+see my login token that I'll have to
+reauthorize all these tokens now. So,
+tell me So, tell me about this just like
+start with the actual connector itself.
+So, like that connector that you showed
+us that can essentially connect to
+LinkedIn via API, like what does that
+allow you to do? Does that allow you to
+scrape data in LinkedIn? Can you comment
+on like what can you do?
+So, this is Link Up API.
+So, it can search, retrieve
+LinkedIn profiles and company
+information. So, it can read, which is
+fine like it can
+navigate profiles.
+It has read and write capabilities for
+LinkedIn automation, send messages, and
+manage conversation threads. So,
+yeah.
+Exactly. So, we can start doing all of
+this stuff in our computer Perplexity
+computer workflows. I didn't think that
+was possible with LinkedIn.
+Neither did I until I
+stumbled across this today. So, it it
+connects to
+Be careful not to show my API keys
+again.
+I'm going to add it to my Perplexity
+right now like as you're as we're saying
+Yeah, so this platform is like
+the API that gives it
+connection into LinkedIn. The connector
+runs into this system, which then links
+it into LinkedIn.
+And it it it does some stuff really
+well. Like, the documentation in here
+Perplexity went in and read all the
+documentation about how this API works.
+So, I didn't even need to
+give it this. It went and found it cuz
+it was struggling.
+So, it's got the LinkedIn engagement API
+that it's like, "Okay, messaging. How do
+I send messages?" And it went and found
+all of the information in here
+to then build into our
+well, into our app that we were
+building.
+like when I say I haven't looked under
+the hood, I haven't really had much to
+do except put connectors in place and
+then tell it what I wanted to do,
+and it goes and
+and is like building this whole uh
+interactive dashboard. Like, I could see
+it coding the APIs together and all the
+different functions, and I said,
+you know,
+it can
+read my buyer signals,
+read This is dummy data cuz I didn't
+want to share private messages on there.
+and then actually draft a reply for us.
+Again,
+feels way deeper than a Claude skill.
+Mhm. Like, all of this is way deeper,
+but we can then pair it with those
+lighter skills that are my tone of voice
+or
+how I like to write, how I like to talk
+on LinkedIn. We can pair all of that to
+actually give it all of that fine-tuning
+down the line
+just conversationally through chat,
+giving it references, all this sort of
+thing.
+And then it's got built in the send via
+LinkedIn thing once we've
+addressed the
+you know, tweak the message or make sure
+we're happy with it.
+Uh link to comments about some recent
+comments that I've been having.
+And that will scan every morning for me
+now and just update this like dashboard
+of
+people who might be interested in my
+services basically, and I don't have to
+like dig through messages and be like,
+"Who should I be contacting?" or
+"What do I need to say to that person?"
+or what, you know, keeping track of
+comments. So, So, if I understand this
+correctly, like that LinkedIn lead
+machine essentially web app that you
+built with Perplexity computer,
+it sounds like you'd probably be way
+more efficient just managing all of your
+LinkedIn comments and DMs through that
+web that versus LinkedIn itself because
+looks like that web app
+essentially uses AI to identify like
+which comments and which DMs are from
+real people, like not just AI-generated,
+and which ones actually look like warm
+or hot leads.
+So, like that dashboard even said like
+hot leads, there's two of them. So,
+instead of logging into LinkedIn and
+being like, "Oh, I've got 15 DMs I need
+to respond to." you would just log into
+that dashboard and say like, "Oh, well,
+there's two hot leads, so obviously I'm
+going to respond to those first." And
+then it kind of helps you like
+prioritize, right?
+It's more of like I'll still go into
+LinkedIn and use it, but this is the
+place where I go when I'm like, "What is
+the important stuff?
+What do I need to filter out from like
+I've got 20 notifications.
+Mhm. I don't want to see everything. I
+just want to see the core things that
+are going to drive
+revenue or good conversations for my
+business. Right. what this is meant to
+do, like intelligence.
+And then I'm like, when I'm
+conversationally building, I'm like,
+"Can you make it reply?" And see, I'm
+just testing, but I have an idea. Tell
+it the outcome I want, and
+at the moment,
+80% of the time,
+if you've got the right connectors in
+place, it can issue this stuff and go
+and start building for you. Um
+So, like So, when I say you don't have
+to be technical to do any of this stuff,
+you really don't.
+And
+most
+business owners and professionals are
+probably still stuck. Like, 99.7%
+of the world is still
+on ChatGPT free using it to draft
+emails. Yeah.
+And I think that's a big opportunity for
+people like me and you is that like we
+have gone deeper into this stuff, and we
+know that there's so much more it can
+do, and there's
+people if they just knew what it could
+do, they would start using it, but a lot
+of people just kind of are limited by
+their imagination or limited by their
+current experience, right?
+I think the blank canvas problem on
+these sorts of tools is really real. And
+you go in and you saw the first thing I
+did. I was like, "What do you do? Like,
+what can you do?" That's
+you know, I don't know what these
+platforms can do cuz you see all the
+flashy advertising and you're like,
+"Okay, great. It's a new computer
+thingamajob."
+>> [snorts]
+>> Um So, I I went in and I just said,
+"What stun me. Like, create some magic.
+Do what what can you do that nothing
+else can do?" And it comes up with
+these.
+And then I tell it to go and do it, and
+every so often, well, pretty much every
+week now, there's a new there's a new
+platform that
+actually is delivering on the promise of
+what AI is in
+just conversationally
+achieving, you know, putting your tasks
+out there and conversationally and and
+it's doing all the
+work under the hood, and you're sat
+there as the ideas person, the
+strategist, the refiner, the human front
+end. And AI is taking care of everything
+underneath that's sapping energy from
+your day, you know, uh so I've got to go
+through all these LinkedIn posts and
+comments and try and work out what's
+going on or
+whatever it is in your business, you can
+focus on what's the important stuff that
+actually needs my attention
+rather than getting bogged down by
+Slack and everything, and you don't get
+round to the work you actually want to
+be doing until like 2:00 p.m. in the
+afternoon and you're already exhausted
+and you're distracted. Right. We can get
+rid of layers of this stuff in our
+businesses now.
+No, and that's exactly what it's I think
+best used for. You mean, you pretty much
+summed it up perfectly. Now, is the I
+think we just got a ping that the SEO
+audit is done. Is that right? Two things
+and we've got two things built while
+we're doing this. I think it's run up
+our like our topical mapping system, but
+we've actually got the initial audit
+that we started
+um with just tons of stuff in here. So,
+So, got our
+live war room.
+Oh, sometimes it does it still error cuz
+this is new stuff when I try and load a
+full page app.
+So, it's still like a bit hiccuppy.
+But, essentially, we've got your me
+versus you in our SEO war room. I'm sure
+you're killing us.
+I don't think either of us are doing too
+well here because none of us have got
+any keywords
+that are all those particular keywords
+ranked for. Uh
+you've got way more content than I have.
+Apparently, I've got more social proof.
+The terminal platform, I think.
+You've got Apparently, your 197 prompts
+beat beat my AI vault.
+and then it's got your untapped
+competitive edge.
+you know, you're not lever- leveraging
+SEO or trust signals across some of
+these
+areas compared to other sites and some
+competitors.
+You've got content gap analysis. So,
+AI audit, you don't have any position on
+here, but it's a high uncontested niche
+from its research. Um
+So, and AI tools for solopreneurs, high
+best ranking opportunity. So, it was a
+good selection for you to actually go
+after. Um and then it's actually found
+some other long-tail keywords for you to
+go after.
+You know, AI workflow audit,
+very low competition, potentially
+>> the competition is so low. Like, the
+fact that even above it said like AI
+audit as a keyword is is low
+competition.
+>> I will tailor I will tailor this in that
+I haven't given it
+a ton of feedback
+as to what
+I haven't fine-tuned this. I only built
+it yesterday as testing it. So, I
+haven't actually
+There are connectors that I could put in
+that are to dedicated SEO APIs that
+could actually pull up competitor data
+on this. So, it is very much using just
+it hasn't been trained on what makes a
+low or high competition keyword.
+But,
+you can see the potential of where
+this is going from a like sloppy set of
+three prompts
+to be able to get this.
+is pretty incredible. This piece is
+insane.
+Um and then we've got like
+the dashboard is cute. That's like what
+I can show to
+a client, you know, if I'm presenting
+back. It looks cool. Like, I can draw
+comparisons and stuff. But, where the
+the real stuff comes for me as a as a
+SEO specialist is stuff like this.
+This
+technical audit that is
+is a boring spreadsheet, but it's where
+all the good stuff
+>> lies. And it's actually these technical
+audits I've been looking at and are
+they're pretty bang on.
+Like, some of the schema markup that's
+missing like FAQ page scheme on the FAQ
+schema on the homepage. Just some code
+behind it to bring out rich results in
+search results.
+Mhm. Some stuff on the sitemap.
+All of these things are just fundamental
+things that need underpinning in your
+your site and, you know, some meta
+titles are too long and things.
+These are actually pretty accurate
+because it's not relying on
+interpretation. These are
+key signals that are missing from your
+site.
+And then,
+because it's seeing all these, we've got
+the action deliverables that again, I
+haven't trained this. Like, I haven't
+got it
+Oh, sorry. I'll try and load that up
+again. See what we can see on the page
+I haven't I haven't trained it to like
+my exact processes. But, that's not to
+say I can't just go and get all my
+templates,
+a few of my YouTube videos about how I
+like to do local SEO, and I'd be able to
+train it in minutes, you know, a
+transcript of my
+full SEO local SEO process that I have
+on YouTube. I can just plug that
+transcript in and there's all my
+knowledge for it to work to build
+to [clears throat] fine-tune off.
+But, for example, you know, it's gone
+and built you
+Again, sorry. It's gone and built our
+AI tools for solopreneurs pillar page
+copy. So,
+we can see it's actually gone and
+written our page copy with SEO intent in
+mind. So, what headers should be, where
+the CTAs should be,
+you know, other keywords, H
+second header, what is an AI SEO what's
+an AI tools audit, for example. Um
+Dude, this is so good. Like, and it's
+it's so clear that I mean, my business
+side, right? Like, obviously, we have so
+much work to do on the SEO front and
+there's so much low-hanging fruit.
+But, I mean, I would assume 99% of
+businesses are probably in the same boat
+that we are, especially
+like you said, local business. Like, I
+know this kind of your niche. Like,
+local businesses that have
+been in business for 5, 10, 30 years,
+and their website was built 15 years
+ago, and they've never updated it. Like,
+and I know I mean, I know that's what
+you do. Like, you just got flown out to
+Japan because you implemented some of
+these fixes for uh you know, a company
+in relatively easy fixes, and you blew
+them up like overnight. And this this
+stuff is is powerful. And I actually ran
+that That was my first test for the guys
+that that company who are just crushing
+it now. In fairness, they had a fresh
+website for me to work on a new branch.
+So, it was it was pretty fun to have a
+freshie, which is rare.
+Um and I ran this
+audit straight away. I was like, this is
+my
+first site I'm going to test cuz it's
+one of my top performers. And it came up
+with some like pretty valid points
+of trying to find it here for I don't
+know where it's gone.
+No, it wasn't that one. Um
+It came up with some really valid points
+about it read their Google Business
+Profile, compared it direct to their
+best competitor, and gave me the
+like, unbiased cuz I'm biased when I'm
+looking at this stuff. I'm like, well,
+I've done the work, so it must be pretty
+good. Um
+It gave me the unbiased side-by-side
+snapshot of of what was going on there.
+to like, for me as a a
+you know, an SEO person,
+it gave me the
+immediate next steps and the immediate
+next strategy when the owner's like,
+well, what do we do next? Sorry, I'm
+trying to find the audit here.
+But, you kind of you kind of saw what
+they they came out looking like cuz the
+I remember you showed it earlier. It was
+like a side-by-side essentially almost
+like infographic-looking comparison of
+like, hey, here's your Google Business
+page and
+Yeah, exactly.
+This is actually my mom's old business
+that I use as a
+It's closed now, but I used it again. I
+was like, let's run a side-by-side
+comparison of Again, this is SEO tools
+can do this, sort of, but they cost a
+lot of money, and
+I don't know, they just lack the
+flexibility to build them how you want.
+So, you can see like, where are we
+losing here? We've not got many photos
+with
+our service areas are only
+some you know, Cranleigh and nearby
+versus actually naming the exact towns
+we service, you know. So, it's like
+giving [clears throat] us a win and a
+lose. So, now as me, I'm like, okay, all
+I need to do is make sure these are all
+wins.
+Because those are all the wins.
+>> dominate their competitor, right? I
+would assume in the Google search
+results if that's the case.
+In
+In theory, yeah. Right.
+>> Does it usually work? 90% of the time
+that's how it works. Um you know,
+there's
+a logarithms are out of my control.
+you know, it's
+it's even got like, then I was like, oh,
+I can plug Google Search Console in
+here?
+Hold up.
+Now, I'm getting live data from my
+website into
+LLM. I've got Google Analytics pointing
+in there as well.
+And as I said,
+in theory,
+I hooked up WordPress.
+So, let we can try live actually
+jumping around so many tasks here.
+cuz I hooked up the wordpress.org
+connector, which
+I've never seen that in any
+LLM platform. So, we could say,
+can you issue the changes direct to the
+website you've got the wordpress.org
+connector set up for Smithbrook Tuition?
+So, because we had the deliverables
+running
+and in a document pre-written, the pages
+we need to create, some of the meta
+titles, I'm hoping that actually
+we'll just be able to push that live.
+which I wouldn't suggest anyone does
+without checking this stuff and making
+sure they're happy with
+how this stuff is going out. But,
+this is a sort of
+>> It's a good exercise to know what's
+possible, right? It's like, if this is
+possible, which it looks like it is,
+then
+Because if it was actually let let's get
+a page drafted up and written and SEO
+optimized,
+let's get it drafted up and pump it into
+WordPress.
+It's like,
+the bulk of it's done. Then we as the
+final step, we can go and do those final
+touches and be like, let's just tweak
+those words, make that tone better, move
+that section, add this, you know, rather
+than starting from
+blank page.
+It is going to see if it can run the
+connector.
+But, in theory, it should do because it
+is connected up. But,
+this is the sort of stuff that I think
+people need to have with AI is not treat
+it as a tool and say
+I tried to do one thing and it didn't
+work. Bad tool, it doesn't work. You
+know, if
+the mindset often is
+take a washing machine.
+>> You get your dirty clothes, you put them
+in the washing machine
+and if they come out dirty,
+you're like, that is a bad washing
+machine, it doesn't work.
+If you take that mindset to AI,
+you're not going to get very far because
+if something comes back and it's not
+right, you don't abandon the AI platform
+or the tool you're using. You need to
+treat it more like
+a person or an employee and say give it
+feedback, give it some more
+resources, more
+information to
+actually a context and so I like to say
+that
+AI is a whip smart intern.
+Yeah, it's freshly graduated, it's got
+all the knowledge in the world, but it
+has no real world experience. So, if you
+take
+a freshly graduated A-grade student and
+put them in your business and just say
+go to work,
+they're probably not they're not going
+to do the work the way you want it. It
+may be you know,
+technic
+what's the word like Wikipedia correct,
+but
+going to miss all context of business
+and how it fits in with the rest of your
+team and your staff or whatever you're
+running. That's how I like to approach
+AI is in
+refine, always improving, always getting
+better, testing, seeing what it can and
+can't do. You know, disconnects it might
+not work. It might only be able to be
+only be only only be able to do certain
+things.
+So, here we go. So, what what can I do
+right now? Create a new blog post.
+So, yeah, it can push new content on the
+correct URL structure
+into our website. So, it can do some
+stuff.
+Um but it needs me to
+put in the passwords and stuff and the
+logins for the website in the connector,
+I think, to actually make that work. So,
+we're pretty close.
+Like yeah, I mean again, just a little
+bit of extra setup and it would be
+doable. And and to your point about like
+I love that analogy about treating AI
+like an employee. I mean, it's it's no
+different and and usually if the output
+is bad, it's because the input was bad.
+Like AI can do
+pretty much anything these days and so
+if it's not doing what you want it to
+do, it's your fault. Either you didn't
+give it the correct information or you
+didn't give it enough information. Uh
+so, yeah, I think you pretty much nailed
+it when you said that.
+Yeah, it's
+it once you
+start understanding how
+to move move forward with this and how
+to build the the base layers and the
+knowledge behind this stuff,
+things just exponentially grow. Like
+I've got all the information I need to
+actually turn this local SEO order into
+a fully functioning thing that would do
+a good job rather than being like, it's
+pretty good. Actually, it does most of
+the work, but I still need to weigh it
+in a lot. I could get it I could get it
+there with another day's like here's all
+my frameworks, here's all my knowledge,
+here's all my context about my SEO
+business and how I like to communicate
+and the important things to me. Those
+can all be hard coded into the rules of
+what's being delivered.
+Like better than any better than an
+employee because you have an employee
+and they go and do things the way they
+want to do it.
+>> Right. You have AI rules into the rules.
+Exactly. Now, and that's this has been a
+great breakdown. I mean, are there any
+other kind of final tips or any other
+tricks you want to share when it comes
+to Perplexity computer specifically?
+Only in just some of the setup tips here
+of if we go back to our
+uh let's start a new task here.
+You've got all the normal functions in
+here of dictation and voice mode, so you
+can talk back and forth with it to like
+craft your ideas or even you could
+probably build some sort of voice
+machine in there. I think you said about
+11 Labs, I'm sure there's a connector to
+actually get your own voice or your own
+AI avatars in there because it can
+generate video. The other button here,
+the plus button,
+it's got all the upload files and
+everything, add from cloud, connectors,
+and sources. It has all those cool
+connect sources that Perplexity has, so
+you can search through
+just social, so you can just tune it to
+be like, I just want you to draw
+information from Reddit,
+academic papers as well.
+But the real interesting thing and the
+big thing about Perplexity at the moment
+you can switch between different models.
+So, your main overarching orchestra, the
+you're the the conductor of the
+orchestra and you've got a sub conductor
+which is your Claude Opus, GPT-5, or
+Claude Sonnet. So, you can pick
+whichever one you want to be your lead
+AI
+and then it goes off and
+selects its other
+out of 19 LLMs which it which it wants
+to use underneath. So, those are the two
+real big things to take away. It runs in
+the cloud, so you're not got any
+security problems of co-work or
+something similar running on your laptop
+and having to download files, which is a
+pain sometimes. Two, you're working with
+all of the LLMs at your fingertips, not
+just one. So, you don't have to choose
+between, you've just got them all there.
+That's those are the two key things I
+think to keep in mind.
+I love it and those are such good tips
+and this is a fantastic breakdown, too,
+especially for anybody that is looking
+to get deeper into the SEO space. So,
+Elliot, before I let you go, where can
+people follow you or find out more about
+you or connect with you?
+You can find me on YouTube, Elliot
+Prince, just search that up and you'll
+find me talking about all these sorts of
+things and trying to just give helpful
+information on that.
+Um yeah, you just search my name up on
+on LinkedIn or Google, Elliot Prince,
+and you'll find you'll find the right
+place for me. And uh I do try I do try
+and be human front end. So, I my email
+when I reply to emails, that is still
+me.
+I do reply me being LinkedIn, it is me
+on YouTube because I said I want human
+facing front end and I think AI is the
+under the hood,
+you know, driver cutting out all the
+boring stuff, surfacing the right stuff
+at the right time for you.
+Absolutely. Yeah, and we'll have Elliot
+as a collaborator on this video, too, so
+you guys can literally just scroll down
+if you're watching on YouTube and
+subscribe to him directly from this
+video. So, Elliot, thank you so much for
+the time, man. This was awesome. And for
+everybody else that's watching, we'll be
+back soon.
+So good. Thanks for having me, Corey.

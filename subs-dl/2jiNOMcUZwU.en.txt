@@ -1,0 +1,392 @@
+If you're using Clockwork right now,
+without this one feature, you're most
+likely working twice as hard as you need
+to be. Cuz you see, most people, they
+open up Clockwork, they give it a task,
+and they babysit it, which means that
+they check if they formatted the code
+right, they're reminded not to touch
+certain files, they wait for it to
+finish so they can run their test, and
+they do this every single session, every
+single day, and they think it's normal.
+Because after using Clockwork for dozens
+of client projects, I realized that the
+people who are making the most out of it
+are not the ones writing better prompts.
+They're automating Clockwork itself. And
+it takes less than 15 minutes to set up.
+So in this video, I'm going to show you
+step-by-step how you can do that, so by
+the end, you'll have Clockwork set up
+doing things automatically that you used
+to do by hand every single time. With
+that being said, let's dive in. All
+right, now, the one feature that I'm
+talking about is, of course, Clockwork
+hooks. If you've never heard of
+Clockwork hooks, they are a bit more on
+the technical side, but they're actually
+very, very easy and very powerful when
+you understand how to use them. So what
+they are is automatic actions that run
+at specific moments, like every time X
+happens, automatically do Y. And it's
+almost like setting rules that your
+assistant always follows. Now, the only
+difference between Clockwork hooks and
+Clockwork skills is that hooks are
+things that Clockwork uses regardless of
+whether you call them or not. They're on
+the organization level, right? So you
+set a rule that every single time
+Clockwork runs, it always uses these
+hooks, okay? And they're automatic
+things that I'll walk you through what
+they what they actually are. For
+example, let's say you give Clockwork a
+task, you ask Clockwork, Clockwork does
+the work, and it uses these hooks,
+right? Whenever it does the work. For
+example, we have pre-tool use, so we
+have hooks that we have to use before
+the tool runs. Post-tool [music] use,
+which are hooks that we have to use
+after the code is written. Stop, when
+Clockwork finishes, or notification when
+Clockwork needs you. So these are the
+four different types of hooks that you
+can have, and they're just examples of
+what it could look like, right? So you
+have a hook that runs every single time
+the workflow finishes, or Clockwork
+starts, or when it stops, or when it
+needs notifications. And they're almost
+like triggers, what starts the actual
+hook itself. Now, I'm here on the
+YouTube workspace, and if I go to my
+.clockwork folder, which is where the
+hooks are going to be stored, there's a
+file called settings.json. If I press on
+settings.json, you'll be able to see the
+full code. Now, the code itself is
+actually very, very easy to understand,
+right? Now, don't worry about the code
+too much, cuz I'll explain exactly what
+what it is, but essentially, it's stored
+in a file called settings.json. And so
+here I am on a new project, I can go to
+new folder here, I can name it
+.clockwork, and by the way, .clockwork
+is also the folder that we use to store
+skills, to store commands, to store
+different things of Clockwork. And
+inside .clockwork, we want to add a new
+file called settings.json.
+Now, a few things. First of [music] all,
+that whenever we're making a hook, a
+hook is sort of like automation or some
+sort of plugin, we are all making it
+under the same exact file. So this is
+not like a skill where you would need to
+add a new file for every single hook. We
+use settings.json as the main file to
+store all the different hooks that we
+have across our organization, okay?
+Second [music] thing is that when we are
+installing hooks in settings.json, you
+will be able to use this hook across
+different projects. This will make more
+sense when I show you, but essentially,
+understand those two rules. First thing,
+you will be able to write all the hooks
+here, and then second thing, just as if
+you were able to to write all the skills
+in one file without you having to make
+different folders, but in this [music]
+case, skills are different. And then,
+you need to understand that this is on a
+organization level, not on a project
+level. With this said, let's go to here,
+and the way to actually use hooks is you
+can either press {slash} hooks,
+which you will be able to only to do
+using a terminal,
+>> [music]
+>> as you can see
+right here.
+Terminal.
+Let me go here to terminal, new
+terminal, and I can press Claude. So
+here we are on a terminal view using
+Claude, and I can put {slash} hooks,
+view hook configuration for tool events,
+I can go enter,
+and here we have zero hooks configured.
+[music] So we have zero hooks that are
+configured right now in our
+organization, okay?
+And here, we have a read-only menu to
+add or modify hooks, okay? And so in the
+easiest way, what this is is you being
+able to say, okay, I want to run some
+sort of notification before the tool
+execution. And so these are all
+triggers, right? When I say trigger, I
+mean this is a trigger before the tool
+execution. This is a trigger after the
+tool executes. This is a trigger
+post-tool use failure, so when the tool
+fails. So let's say you want to send
+yourself an email whenever a tool fails,
+use that. Permission denied, after auto
+mode classifier denies a tool call, then
+you use the hook. Then you can make a
+hook there. And so you have different
+options that you can work with whenever
+you have these kind of statuses inside
+of Clockwork. Quick note, before we keep
+going, I'm hosting a live workshop on
+the 12th of April on Sunday at 1:00 p.m.
+EST for 9:00 to 5:00 working
+professionals who want to get their
+first AI automation agency client within
+30 days. So if you're interested, check
+out the second link down below. I'm
+going to be hosting it in my free
+private school community, you can check
+it out, and I'll see you there. Now,
+let's get back to the video. So let's
+say I go to notification,
+press enter,
+it says, we currently have no hooks
+configured. To add a hook, you either
+need to edit
+settings.json directly, or you need to
+ask Claude. And now, let's go to the
+normal view,
+and let's talk to Clockwork. Say, okay.
+Hey, I want to make a hook.
+So here it's asking me, what kind of
+hook do you want to do? Here are some
+common hook events, and I have running
+before the tool is called, run after the
+tool completes, run when Claude sends a
+notification, run when Claude finishes a
+response, or run when the generation
+finishes. Let's do this, let's run a
+hook where when Claude finishes a
+response, it sends me a notification.
+Okay, so that's going to be the hook
+that we're going to make. So when Claude
+finishes doing something, it actually
+gives me a notification. I can press
+yes. As you can see, now it's is running
+the hook. And by the way, when you see
+something like this, always in
+Clockwork, it just means that this is
+the previous version, this is the
+updated version, and it's saying, do you
+agree that we can change this exact
+file? And I can say yes. And now it's
+going to add the hook inside of
+settings.json here. And it says that the
+hook is live. Every time I finish a
+response, you'll get a macOS
+notification saying that Claude has
+finished responding with the title
+Clockwork. And I can review or edit
+anytime via hooks. So in theory now,
+what we made is a hook that alerts me
+every single time Clockwork finishes
+doing something, so that I'm able to
+then do whatever I want, work on
+different things simultaneously, and
+I'll know when I have to go back to
+Clockwork to see the output. So here I
+can say, what's the capital of Italy?
+And I will get a notification when it
+finishes running. Now, this is the exact
+notification that I just got. The reason
+why I'm showing you here is because I'm
+using my my monitor, so it doesn't
+actually show you the notification on
+the monitor as well. But essentially,
+what would happen is that you would be
+talking to Clockwork, at the same time,
+you can be doing something else, and you
+will know whenever you have to go back
+to Clockwork because of this
+notification right here. And there there
+is a hook, right? And this will [music]
+run every single time that you talk to
+Clockwork. Regardless of whether you
+have all these documents in your
+project, it will always run, right?
+These are rules that will always run
+regardless of X, Y, and [snorts] Z. So
+in this case, when Clockwork finishes,
+then we get a notification. All right,
+so another example here could be that,
+let's say we had a .env document. So
+this .env document is full of API keys
+for OpenAI, Anthropic, Stripe, all these
+things, and by the way, they're fake, so
+don't try to copy them. Fake API keys,
+let me just put API keys, none of these
+are real. And what I want is that
+whenever I talk to Clockwork, maybe I
+could be doing a complete custom code
+full-stack project, or maybe I'm doing a
+full website, or maybe I'm building some
+some automations, right? Ideally, we
+wouldn't want Clockwork to impact the
+.env document. Because once this is
+impacted, let's say it deletes
+everything by mistake, we have to
+reconfigure everything, and all the
+automations break because they're all
+reliant on these passwords, right? To
+access the softwares for the
+automations. So what we can do here is I
+can say, I want to make a hook.
+So in this case, [music] we want to tell
+Clockwork, hey, don't edit the .env at
+all, right? And so in this case, it
+would be a pre-tool hook, so we would
+say, yeah, so this is a pre-tool hook.
+Essentially, what we want is
+>> I want to tell Clockwork to not touch
+the .env document. So don't ever touch
+the .env document regardless of what it
+is that we're doing. So if you have to
+edit the .env, then you can't do it
+because you have to stop yourself, cuz
+it's sensitive information. So now we're
+making another hook, I can press yes,
+let me go to bypass permissions,
+so I can let it create the own hook.
+There we go. So now it added the
+pre-tool use onto our settings.json. So
+if I go here, I can see now that I have
+the stop hook, which means that whenever
+the Clockwork stops, it gives us a
+notification. So we get a notification
+here when Claude has finished
+responding. And then, we also have the
+write edit one, which is the one that
+allows us to block .env. And then we
+have the pre-tool use hook, which is the
+one that we used to be able to not let
+Clockwork touch our .env document.
+Because, of course, it has all the
+passwords. So now here I can say, create
+a .env file with API key test123. And
+you can see that it says, I can't do
+that, your settings.json has a hook that
+blocks me from writing to the .env files
+since they contain sensitive
+information. You can create it yourself
+by running echo this this this, right?
+And so this is extremely important,
+right? I wish I knew this sooner because
+there are many, many times where I told
+Clockwork to do something, and it
+deleted something from here, or it added
+something from here, which messed up my
+whole project. And so in this case, what
+we're saying is, whatever happens, don't
+edit this, right? What I would recommend
+is you add all the API keys that you
+have, all the passwords that you have
+that Clockwork needs to access to
+whenever it needs to run a specific
+automation. And then, once you have
+those, put this hook here, make sure
+that now Clockwork is not able to edit
+the .env to be able to make sure that
+you're safe whenever you're building the
+project. And last example, let's say I
+am building a project for a client. At
+the end of every session, I want to know
+exactly what files Clockwork touched and
+when, which is an audit trail. And so
+what I want is a log of all the kind of
+edits of different files that it made
+with the timestamps of when it actually
+touched them. So here I can say, add a
+post-tool use hook because post-tool is
+going to be the trigger. After Clockwork
+finishes, it logs every file Clockwork
+edits or writes to a file called
+cloud/log.txt
+with a timestamp. And we can press go.
+And this is great because a lot of the
+times that I'm building with Clockwork,
+I am making stuff and then I'm
+forgetting which files I edited. And
+sometimes things just get deleted. And
+so this allows me to know exactly what
+got edited and what got deleted or what
+timestamp. All right, so it just
+finished running. It said the post tool
+use hook is now configured. I can see
+here that I have the right edit type
+command and I have the status login file
+change to. All of this [music] makes no
+sense to me. It should log everything to
+a cloud/log.txt
+document, okay? So now if I go here, I
+say, "Can you make a new [music]
+markdown format document and name it
+YouTube title generation."
+As you can see now,
+it's getting the task, but it's also
+updating the cloud/log.txt. [music]
+If I go here, you can see that 17:44:09,
+we wrote
+YouTube title generation.md. Let's say I
+wanted to say, "Can you also make
+another document or another five
+documents naming them
+hook number one, hook number two, three,
+four, five." So essentially it's
+whatever change you make, it will log it
+here. So as you can see, it made five
+different documents. If I go here, I can
+see that we now have five different
+logs. So one, two, three, four, five.
+It'll be hook one, hook two, hook three,
+hook four, hook [music] five. That way
+you can have a log of all the edits that
+you've made so you can always come back
+to them in case it went wrong in some
+way. Now I'm going to leave all the
+resources in the second link down below
+in my free school community. You can go
+to the classroom section and you can go
+to the templates vault. Bear in mind
+that not everybody gets in, so please
+put some thoughts into your answers when
+you apply. So that right there is a full
+guide on how to use custom hooks inside
+of Clockwork. Yes, it can [music] be a
+bit more overwhelming because it uses
+code and it's a bit more technical. But
+once you start to understand how to
+actually use them, you can save a lot of
+time and make your work in Clockwork a
+lot faster. And if you want to work with
+me one-to-one to be able to start and
+scale your own AI automation agency in
+90 days, then check out the first link
+down below. It's a full video. You can
+go through it and if it sounds like a
+good fit, then feel free to apply. And
+if you liked this video, then check out
+this video on the screen where I show
+you everything you have to know about
+using Clockwork skills in 2026. [music]
+With that being said, I really hope you
+found value from this video and I'll see
+you in the next one.

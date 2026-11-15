@@ -1,0 +1,1127 @@
+So, a friend of mine runs one AI
+automation that is simply so boring, I'm
+almost embarrassed to describe it, and I
+can tell you that it makes more money
+than half of the flashy AI agents that
+you've probably seen on YouTube right
+now. All it does is that it takes a
+spreadsheet of unpaid invoices and it
+sends the polite follow-up email when
+one goes overdue. That's the whole
+thing. Which means that the AI services
+that actually pay are not the ones that
+are exciting or even fancy. And I can
+tell you, it took me a long time to to
+believe this and to actually understand.
+They are the boring, repetitive, no one
+wants to do a jobs that businesses are
+already paying a human to handle. And I
+can tell you this because just over 24
+months ago, I was studying to become an
+investment banker, which was a career
+that honestly I didn't want. Which led
+me to going all in into building my own
+AI agency. And for the first 5 months, I
+had made a total of zero because I was
+chasing the next tool, the next fancy
+system that honestly wasn't going to
+make any money whatsoever. And it was
+only until I started to actually start
+selling and building these systems that
+were so boring that actually solved a a
+real reoccurring problem that I actually
+got my [music] first paying client. So
+in this video, I'm going to give you the
+nine boring AI automations you can
+actually sell. Rank from good to great.
+I'll show you what the math actually
+looks like and I will be straight with
+you about it. But of course, remember
+that the results that you get really
+depend on you and the clients that you
+get. So with that said, let's count them
+down. Starting with number nine, which
+is the inbox triage and email sorting.
+Now, this would mainly be a simple uh
+foot in the door kind of offer for
+businesses that you can charge a couple
+hundred bucks a month a sort of a
+retainer, but there are mainly systems
+that you build for for other businesses
+to build trust and actually be able to
+then upsell to different systems that
+you can charge more money for. And it's
+also a very good system as well because
+this is a problem that a lot of founders
+actually manage and have at a certain
+point in their business. And a lot of
+the ones that we have actually sold to
+multiple clients for multiple thousands
+of dollars. All right, so this right
+here is the uh automation that we built
+inside of N10. We have three different
+parts. The first one here is watch
+[music] and classifying the email. So it
+receives new emails, it classifies them
+um based on different criterias that
+obviously we tell AI to do. Then we have
+the second part which is writing a draft
+and also labeling the email which is now
+sorting the email for the founder
+itself. And the last part is that it
+creates a draft but if it's an urgent
+email then we actually send a telegram
+message. So uh let's get straight into
+it. Let me show you how it works. I'm
+going to go to the email. So this right
+here is going to be my receiving email
+and this is going to be my sending
+email. All right. So let's say the email
+says, "Urrent campaign tracking is down.
+Hi James, our client paid campaign
+tracking appears to have stopped working
+and we're currently enabled to attribute
+conversions from Google Met Ads." This
+is a very realistic email that let's say
+in a marketing agency for example would
+be sent. [music] This would be sent to
+the founder. So we can just press send.
+So let's refresh here. We can see that
+we have the email here. I'm back on the
+automation here. I can press execute
+workflow. This now received the email.
+It's now classifying it. It should do
+the high-end priority right here. should
+be labeling it. It used the [music] AI
+agent to uh actually create a message
+that then we get on Telegram. So if I go
+here, I can see that we have the high
+urgent email [music] and this would be
+the actual message that we get from our
+AI agent uh to the founder if it's
+[music] a higher urgent email. And by
+the way, we do this because we don't
+want to generate a draft when it's
+something that's serious and something
+that requires the founder's attention.
+Um instead of generating a draft, let's
+just, you know, text the founder and he
+can figure it out from there. But you
+can also add the step of creating a
+draft for that email. All right. And as
+you can see here, the email that we just
+received is also labeled as priority,
+which means that we can go here and we
+can see that we have [music] priority as
+well. So, um, we're basically labeling
+the email as well. That way, the founder
+goes inside the inbox and saves time and
+not having to filter each email [music]
+because, uh, sometimes they can get
+hundreds of emails per day. All right.
+So, now let's say that the email that
+we're receiving is a promotional email.
+But, you know, these marketing agencies,
+they sometimes do want to receive
+marketing emails because, um, they
+either partner or they, you know, do
+something with the business itself. So
+they received the email. We can press
+send. All right. So we just received the
+email here. 30% off. If I go to the
+agent, I can press execute workflow
+again. Again, you can also publish this
+and it will run every single minute. You
+can choose the trigger. Uh but we're
+just testing it out. As you can see, it
+labelled this as promotion. The AI agent
+um made a draft and it drafted the
+email. If I go here, I can refresh. We
+should now be able to see the email that
+was drafted. There we go. Right here.
+Hey, the growth marketing team, thank
+you for reaching out. [music] uh the 30%
+discount on digital marketing packages
+sounds like a great opportunity. I will
+read this offer with our team and get
+back to you if you're interested in
+booking a strategy call before Friday.
+And also, if you go to the promotion uh
+labeling, we can see that it was added
+here as well. Now, that right there was
+the warm-up. Let's go to the next one,
+which [music] actually points at money,
+which is number eight, automatic invoice
+and payment follow-up. So, this
+automation watches a list of send
+invoices. It sees which ones have gone
+overdue and fires off a polite
+escalating follow-up email at seven
+days, 14, 21 until it gets paid. When it
+comes to who we target, well, it's
+basically any business that runs on
+invoices, which can be agencies,
+contractor, wholesalers, and it would be
+a huge slice of every local market
+that's out there. And the reason this
+works very well is because the system
+pays for itself, meaning that you can
+charge anywhere from $1 to $3,000 cuz
+you're directly pointing the system at
+how much money the business can save and
+actually recover from these unpaid
+invoices. And almost every B2B business,
+especially service- based with a ton of
+clients, is experiencing this exact
+problem with having a lot of invoices
+that are unpaid, clients not paying, and
+actually you being able to follow up
+with them and you forgetting and then
+you doing the whole thing over and over
+again. So definitely worth a problem to
+solve for businesses, which can also be
+a foot in the door offer to build that
+trust. And bear in mind that with the
+fact that you can connect this
+automation into their existing system,
+you pretty much don't have to make them
+do any extra work and just have the
+additional step of following up with
+invoices which is very high leverage for
+a business to have. All right, so this
+system all starts with a Google sheet
+full of payments that we are due. So we
+have the invoice, company name, uh first
+name, last name, email address, amount
+due, status, due date, days overdue,
+payment terms and department. And so
+this system uh is actually divided into
+two different automations. The first
+automation is looking at the new
+payments coming in from Stripe. We have
+the make.com automation here which
+allows us to get all the Stripe
+payments, filter them, get the customer
+name from the actual payment and then
+search the customer in the Google sheet
+and update the status to paid. So it
+goes from overdue to paid here. The next
+thing is actually following up with
+invoices and following up with payments
+for clients, which is where the second
+automation comes in because every single
+day or you can run this every 15
+minutes. I mean I recommend once a day.
+You run the automation, it looks at the
+status and the ones that are overdue. If
+it's overdue by seven days, it sends
+them this email which is, "Hey, hope
+you're doing well. Just wanted to check
+in to see um the invoice I sent over
+last week. Let me know if you have any
+questions." It does the exact same thing
+for 14 days, 21 days, 28 days, 35, and
+42 as well. That way, you have a whole
+follow-up system in terms of invoices.
+You don't have to chase clients up. This
+is a problem that we had internally uh
+in our business funny enough where
+[music] we had a ton of clients and
+because we had not a very systemized
+process, [music] we had payments going
+all over and we missed payments.
+Sometimes clients forgot to pay and it
+was all over the place. And so it was
+only until we started implementing this
+that [music] we started to to have
+everything efficiently. So um two
+different automations separated, one
+main dashboard with all the invoices and
+so on. And you have the status and you
+[music] also have the names and all the
+information of the payments. So the next
+up is not only an automation that helps
+[music] them to make more money but also
+save more hours which leads me to
+automation number seven content
+repurposing engine. So this automation
+takes one long thing a podcast a webinar
+a YouTube video transcribes it and pulls
+the best moments and turns them into a
+stacked of ready to post social captions
+for Facebook, LinkedIn and Instagram.
+The people that would essentially pay
+for this would be anywhere from coaches,
+agencies, founders, essentially anyone
+who wants to post on social media. They
+know that it is powerful and it can be a
+very good lead acquisition method for
+them. but they simply don't have the
+time. And by the way, this is the exact
+same offer that Anthony was able to sell
+for 1K as a foot in the door offer as
+his first, you know, paying client, but
+also the one that we personally used to
+sell to businesses anywhere from 2K to
+5K, really depending on the actual how
+many accounts you're managing for them.
+All right, so here we have the full
+automation inside of N10. Uh, and if
+you're looking to actually build this,
+uh, then I actually left a video up here
+where you can see the whole build step
+by step. This right here is the
+dashboard. We have the input, which is
+where you would add the YouTube URL. you
+change the status [music] to start. Um,
+and then you have the content that you
+put here. So, let's do it. Let's go here
+to my YouTube. I can go to my one of my
+most recent videos of one of our
+students who went from zero to 15K
+[music] a month. I think it's very
+interesting. We can some good content
+about that. I can go back to the sheet.
+I can paste this in and I can press
+[music] start. Now, in this case again,
+we would have to manually do it, but you
+would just publish the automation and it
+[music] will check the actual trigger
+itself and when it starts and you can do
+it like every single minute. So, we can
+press execute [music] workflow. What it
+does now is it catches the status
+changing to start. It updates the status
+to working which we'll see. Uh and then
+now [music] it's using API again a
+platform to to get the words. Then what
+it's doing essentially is um is getting
+the prompts that we added to our
+database. Then it used AI to make uh 10
+different ideas which we then use some
+fancy little uh steps in the automation
+to go through each idea once at a time
+and create the Instagram post right here
+using claude LinkedIn post Twitter post
+as well. And then what it's doing is
+it's going to step five which is
+generating the image using Nana Banana.
+It finished making the image and it
+added everything to the dashboard and
+now it's going to go through idea by
+idea. So, if I go back to the dashboard
+here, I can see that this is uh still
+working cuz it's still making the ideas.
+And now we have the first piece of
+content. So, [music] paragraph
+transcription. So, here is where we uh
+we get a little specific part of the
+video. We have the Instagram post right
+here. We have the Twitter post. We have
+the LinkedIn post. And then we also have
+the image URL. Now, of course, for this
+specific thing, I probably wouldn't put
+um an AI image that looks like this,
+which all depends on the prompting. I
+would put a picture of me and Matteo
+together. And also we have the prompt
+hub which is a a very unique way of
+creating the system because instead of
+adding the prompts inside the steps in
+the automation we add it here so that we
+can change it here and it automatically
+changes the automation without us having
+to go to an attempt. So it's a very
+small change but it's one of the the
+biggest levers that we've done um
+whenever we implemented this in our
+clients. As you can see it now made the
+second idea as well the biggest obstacle
+that held them back made the image as
+well. And so it will do that for a few
+ideas, but essentially we also have the
+status here generated. And now what
+happens is that you have a human in the
+loop. So a human that will look at this
+dashboard, say, "Okay, this is great."
+They can set the schedule date of when
+they want the post to go out uh for each
+one. Uh and they can press schedule. And
+then you could have another automation
+set up where it goes through, you know,
+the actual dashboard every half an hour.
+It looks at the status u whether it's
+scheduled. If it's the same day, then we
+can pretty much post it automatically.
+Okay. So um and if you go back here we
+have the status to done which means that
+this idea uh we we finished it and as
+you saw in the demo it is very high
+leverage to not make the whole thing
+automated but to have the human in the
+loop element where you know maybe the
+founder or someone from their team can
+overlook have the second opinion on the
+post maybe they can you know redo it if
+they don't like it and make sure that
+they can fire off the posting
+automation. Hey guys, quick one here
+before we get to the next automation. If
+you're someone who has been wondering
+how you can take all these AS skills and
+turn them into a real business and
+actually start selling these boring
+offers that actually make revenue, then
+that's exactly what I work with my
+students one-on-one with. So, if you're
+interested, check out the first thing
+down below. It goes through a full video
+on how we do that step by step. With
+that said, let's get back to the video.
+And now that we're done with this one,
+we can go to the next automation, which
+is something that every single business
+wants and needs, which is more
+customers, and that is the automation 6
+AI [music] personalized cold email
+system. The automation will build a list
+of businesses that fit a specific
+target. It researches each person and
+writes a personal opening line for every
+single one and then loads them into an
+outreach sequence that sends it [music]
+on its own. The people that you would
+tend to target for this would be
+anywhere from sales teams, recruiters,
+and marketing agencies. Basically,
+anyone whose job is to be able to
+actually source lists [music] and send
+outreach messages to get more customers
+for the business. All right. So, this
+right here is the automation that we
+have inside of N10, which is connected
+to our dashboard. Right here you can put
+meta location New York
+uh United [music] States.
+How many results do you want? Let's say
+we want uh I don't know 50 emails.
+[music] I can change the status to run.
+I can go back here. I can press execute
+workflow. This is now using API to
+[music] scrape from Google Maps, meaning
+extracting metspas in New York from
+Google Maps. And then it's looking at
+whether their website exists right here
+because we can only get emails of people
+[music] who have companies that have a
+website that's public. which is where
+you see the filter here. All right. So,
+out of 50 um companies, it found 49 that
+have websites. [music] Now, it's using a
+software which I really like called any
+Mail Finder. So, you can pretty much
+find any emails of decision makers in
+these companies that you're looking to
+target. And not only that, but they only
+charge you per verified email. So, uh
+meaning that you know your account won't
+get blocked because all these emails are
+pretty healthy. All right. Once that's
+done, it looks at whether their email is
+valid. Out of 49 emails uh went through,
+only eight were valid. uh you scrape the
+website. So we extract the text from the
+website and then it's using AI to create
+a personalized icebreaker based on what
+it's finding from the person but also in
+the website and it's adding everything
+to our Google sheet database. As you can
+see the workflow just executed
+everything successfully. If you go back
+to the actual database and you can see
+the status is done and if I go to emails
+I can see that we have uh eight emails.
+So we have the name, email, company
+name, type, and we have the full
+icebreaker that we can use to then cold
+email or we can even look for the
+LinkedIn profile if we had that setting
+in the animal finder as well. Hey
+Raquel, notice Essence of Beauty
+Metspa's focus on combining advanced
+skincare tech with personalized care.
+Also a fan of your seasonal facial
+treatments. Want to throw something by
+you. I hope you'll forgive me, but I
+creep on your site quite a bit. And I
+know that personalized client
+experiences are important to you guys or
+at least I'm assuming this given the
+fact that you guys have a focus in
+targeted skin therapies blah blah blah
+right it's very very specific to them um
+and it also adds a bit of you know the
+human spark to it now is this perfect of
+course not right but the good thing
+about this is that you can always change
+the prompt and make it better optimize
+it based on who you're targeting and
+based on how personalized you want it to
+be now there's a couple of different
+ways as to how we can structure the AI
+cold email system you can either do the
+setup fee which is you know the fee
+which can range anywhere from 1k even
+10k K as well depending on the
+complexity and the size of the business
+and have a monthly retainer or if you're
+starting out you can also have the pay
+on performance basis model which is
+where they pay you per booked
+appointment and to calculate the amount
+of money that you would charge per
+booked appointment is you would take how
+much money the customer typically spends
+for the business which is also known as
+AOV average order value and you would
+take 10 to 20% off that and that's what
+you would charge the business per every
+single booked appointment that you give
+them. Now, the reason this works very
+well is because this solves a problem
+that every single business needs, which
+is more leads, right? And so, this turns
+a list [music] into book calls and more
+money for the business. So, there's a
+ton of different ways as to how you can
+structure this, but really with this
+specific offer, you can target almost
+any kind of business because at the end
+of the day, they all want customers. And
+one important thing here is to spend
+effort on the first personalized line
+because like we all know our reach has
+gotten harder because it's very very
+easy now with AI to blast thousands of
+emails every single day to these
+businesses. So we don't want to come
+across as hey I want to sell you
+something but more you know different
+angles that could actually work for
+these businesses. And now that we have
+cold email out of the way the next one
+is going to be catching existing leads
+that are coming to our website which
+leads me to number five AI lead
+generation agent. This would be an AI
+chat agent that lives on your client's
+website. It greets every visitor, asks a
+few qualifying question, whether that be
+budget, timeline, what they need. It
+captures their details and pushes the
+qualified ones straight into a CRM or
+books a [music] call. And for this
+specific offer, you want to target
+specific kind of businesses like
+coaches, SAS companies, agencies, and
+service businesses with a website.
+Essentially, anyone either running paid
+traffic to a website or maybe even a
+organic traffic [music] to a website
+would be great for this because it
+catches existing leads and converts them
+and basically makes the business more
+money. In terms of the pricing structure
+for this specific system, it would
+typically be around how many visitors
+they get right now. But you would have
+an implementation fee which can be
+anywhere from [music] 1K to 5K and you
+can have a monthly retainer which can
+also be anywhere from 1 to 3K a month.
+And this works very well because it is
+one of the small things that a business
+can implement but can yield very very
+high results for them. All right. So
+this next automation is actually built
+on a website. So let's say you have a
+website like this [music] and it's Tory
+gym very very AI slop website but let's
+say this is the website of the gym. um
+on the bottom right. This right here
+would be the agent that would capture
+new leads. So, hi, welcome to how can I
+help you today? I want to know what
+classes [music]
+I can do. And we can obviously change
+the name of the agent, the the font, all
+that stuff, the the theme of the [music]
+agent. You would most likely do that for
+each business. So, that's that.
+Says to classes take place in our group
+uh fitness studio [music]
+class availability and schedules vary.
+Uh would you like help with where to go
+for class when you arrive or are you
+looking for membership options? Let's
+say uh what is the location of the gym
+opening hours.
+So to gym is located in Silver Peak
+Plaza. Use the main entrance with the to
+gym signage. Reception is directly
+inside. Opening hours are this.
+Obviously we can have a whole
+conversation with this but it does
+different things. Now in the back end of
+the actual agent we're using a voice
+flow. So we have the main prompt here uh
+which is again to gym virtual assistant
+uh with tone of voice response rules and
+guardrails. And then we have playbooks.
+Now playbooks are essentially things
+that the agent is able to do. So it's
+able to give you information about the
+gym membership uh options. [music] It's
+able to give you uh information about
+personal trainers. It's able to just
+give you the main support. So this is
+all built here. Um and you can always
+customize it. You can always put more
+stuff and connect the actual agent to
+through MCP to Google sheet your CRM.
+Maybe it's a live database that you can
+pull data from, but it's super super
+easy. Um, and then you also have
+knowledge base in case you want to add
+documents or maybe even websites. Uh,
+which is great. Um, and so and then to
+be able to actually deploy this, you
+would use a widget and you would copy
+this code. Um, I use claw code to
+actually build a website. So I just
+told, hey, use this code, put the widget
+inside the website and make it work. So,
+super super easy. And then we have the
+chat widget right here, which is able to
+capture all these clients who in the
+first place wouldn't have all the
+information on the website, uh, but
+would have it if they had someone to
+talk to. And this exact system is the
+one that Jessic used [music] to close
+his first two deals with his agency. And
+so, this right here captures leads that
+are already going on the website. But
+the next automation actually solves one
+of the biggest pain points in the sales
+industry, which leads me to automation
+number four, which is a speed tole
+agent. So this speed to lead AI agent
+all starts when a lead fills out a form,
+clicks a Facebook ad or opts in into a
+landing page. This AI agent calls them
+back within 60 seconds. It qualifies
+them on the spot and books the
+appointment. Now the businesses that we
+would look to target for this specific
+offer would be anywhere from home
+service, solar, real estate, insurance,
+medas, and coaches. Essentially anyone
+who is running Facebook ads and the more
+money they spend then the better it is
+for us because we would charge based on
+the value of the system, not so much how
+long it takes us to build the thing
+itself. Now in terms of how much we
+charge, I already established that we
+charge based on the value. But what does
+that actually mean? Well, we have the
+software which runs on pennies per
+minute really which is retail AI and
+then we have N10 which you can self-host
+on your own account. But to price based
+on the value, you want to ask them
+questions as to how many leads do they
+get right now? What's the current
+conversion? How many misleads do they
+have right now? And what's the current
+ticket, which is how much they charge.
+And based on those numbers, you can
+charge serious money, which can be
+anywhere from 1K to 10K for this setup.
+And then you can charge anywhere from,
+you know, 10 to 20% of the
+implementation fee. And I like this
+offer because, you know, in business, we
+all make datadriven decisions. And
+there's a data point that proves that
+this exact offers crushes, which is the
+fact that responding to lead within 5
+minutes makes you 21 times more likely
+to qualify them versus 30 minutes. And a
+2026 benchmark across 939 companies
+found a 32% close rate when responding
+under 5 minutes versus a 12% at 24 plus
+hours. And yet the average B2B lead
+response time is 47 hours, which means
+that it's an easy system to build, but
+such high leverage and it creates so
+much more revenue for these businesses
+out there. And that's exactly how one of
+our students, Matteo, sold his first
+speed agent for over $4,500. And also
+how Luca closed his first paying client
+for his agency as well. And that's how
+Danielle and Lucano were able to close
+their first AI paying clients for their
+AI agencies. All right. So this agent
+right here is actually built instead of
+retail AI which is where we have the
+prompt all the instructions that it has
+to do and then through something that we
+call functions we're able to then book
+appointments. We're able to check the
+availability and then we have the
+backend which is N10 which is allowing
+us to fill out a form obviously whether
+that be from ads or from the website and
+then what happens when a person fills
+out a form is that it automatically
+waits 1 minute and then it makes the
+call to the person to qualify them and
+then convert them into a booked call. So
+here's our form for example. I can put
+James Michael james@gmail.com.
+I put my number. I can press submit. All
+right. So it just triggered the
+automation here. And as we can see here,
+I'm getting a call from the agent.
+Hello.
+>> Hi there. You recently asked about solar
+through a Facebook ad. Is now a good
+time to chat for a couple minutes?
+>> Sure. Yeah. What's up?
+>> Thanks for taking the call. You recently
+asked about solar for your home, so I
+just have a few quick questions to see
+if a consultation makes sense. Are you
+the homeowner?
+>> Yes, I am.
+>> Great. Thanks for confirming. Can you
+tell me about your average monthly
+electric bill?
+>> Uh 2,000 per month.
+>> Thanks for sharing that. What got you
+interested in looking into solar?
+>> Um my wife, she's all about the the
+environment.
+>> Got it. So environmental reasons are a
+big factor for you both. Are you looking
+to make the switch to solar soon or just
+exploring your options right now?
+>> Yeah, like next week ideally.
+>> Thanks for letting me know you're
+looking at next week. Before we book,
+can I confirm your full name and email
+for the appointment?
+>> Uh, James Michael.
+>> Thanks, James. Can I get your email
+address to set up the appointment?
+>> James.com.
+Thanks for clarifying your email, James.
+Let me check what appointment times we
+have available for next week. Here are
+some available times for next week.
+[music]
+Tuesday from 9 to 11:30 a.m. or
+Wednesday through Friday, either 9 to
+11:30 a.m. or 3:00 to 5:00 p.m. Is there
+a day and time that works best for you?
+>> Whatever slot, whatever first slot you
+have, let's do it.
+>> I'll book you for Tuesday at 9:00 a.m.
+One moment while I confirm your
+appointment.
+You're all set for a solar consultation
+on Tuesday at 9:00 a.m. A solar
+specialist will call you then to go over
+your energy needs and answer any
+questions. Thanks for your time, James.
+Have a great day.
+>> But there you go. So, if I go to my
+calendar, you can see that we have the
+soda consultation again, 9 um a.m. my
+time. And there it is. Now, while a
+speed tole AI agent catches the leads
+that are newer from ads, the next
+automation catches the leads that
+businesses already paid for. Which leads
+me to automation number three, which is
+lead reactivation. So, this right here
+is an AI agent built typically on retail
+AI that calls through a database of old,
+cold, or unworked leads, has a natural
+conversation, re-qualifies them, and
+books the interested ones back into the
+sales calendar. [music] And it works
+through hundreds of contacts in a day
+without a human dialing a single number.
+In terms of who we would target, it
+would be any team with an actual sales
+team. This can be dental practices, home
+service, real estate agents, insurance,
+and coaches. And the reason why this
+offer works very well is because
+businesses don't have to have an
+additional cost in acquiring leads.
+We're already using the ones that they
+have, right? And we're making [music]
+the most out of what they have in the
+business right now. And it was also
+studied that multi- channelannel
+reactivation campaigns run in the few
+hundred range to set up and operate.
+while published 2026 benchmarks show
+that reactivation rates of 18 to 50% and
+ROI of 400 to 800%. And in terms of
+pricing, the way that I recommend it as
+a beginner is you can charge an
+implementation fee which can be anywhere
+from 1K to 5K USD and then you can
+charge a per booked appointment for the
+business [music] which can either be 10
+to 20% of the amount of money that the
+business would typically get from the
+customer on average. All right, so the
+lead reactivation agent is very similar
+to the speed to lead. pretty much the
+same setup just a different trigger
+meaning the a different way of starting
+the automation. So [music] we have the
+agent here which has rules and
+guidelines as to what it has to do. Then
+we have the automation inside of N10
+that basically goes through this Google
+sheet which is going to be full of
+contacts. I mean this is just one
+contact but you would have hundred maybe
+even thousands of contacts for each
+company and we would uh run the
+automation. It would then go through the
+contacts and it would then make the call
+itself which we would receive to our
+phone number. Um, and then obviously
+book us in for a consultation. As you
+can see, I'm just [music] getting the
+number
+>> talking to Michelle.
+>> Yes.
+>> Thanks, Michelle. You recently asked
+about Facebook ad. Is now a good time to
+chat for a couple of minutes?
+>> Yes. Yes.
+>> Great. Thanks for your time. Are you the
+homeowner at your property?
+Thanks for confirming. About how much is
+your average monthly electric bill?
+>> Uh 2,000 bucks. Um I got my interest in
+solar because my wife wants to help the
+environment and I'm looking to implement
+solar [music]
+uh tomorrow.
+>> That's really helpful. Thanks. So you're
+looking to move forward with solar as
+soon as possible, right?
+>> Yes. Correct.
+>> Perfect. Thanks for sharing all that.
+Before we book your consultation, can I
+confirm your full name as it should
+appear on the appointment?
+>> Thanks, James Michael. And what's the
+best email address for your appointment
+confirmation?
+>> Uh, jamesgmail.com.
+>> Let me check our availability for a
+solar consultation this week. We have
+openings for a solar consultation this
+week, including tomorrow from 9:30 to
+11:30 a.m.
+>> Yeah, I think tomorrow would work at
+9:30. Yeah, that's fine. I'll book you
+in for tomorrow at 9:30 a.m. for your
+solar consultation.
+Looks like there was an issue booking
+that time. Either you already have a
+booking or it's not available. Would you
+like to try a different time tomorrow or
+would another day this week work better?
+>> No, I think you already booked it, so
+it's fine. Successful. Just say thank
+you and then you know.
+>> Thanks, James. Your solar consultation
+is all set. A specialist will meet with
+you to review your energy needs and
+answer your questions. If you need to
+reschedule, just let us know. Have a
+great day.
+>> All right. Thank you. So, as you could
+see, it's very similar [music] for the
+speed to lead agent. The only difference
+would be the trigger again uh that it
+would call from the list of leads, not
+so much from people who come from
+Facebook ads. Now that all the old leads
+are recovered, we can go to the next
+automation which makes sure that no call
+is ever missed in the business. [music]
+Which leads me to automation number two,
+which is an AI receptionist voice agent.
+So, this right here is an AI voice agent
+that answers the phone, replies in a
+natural voice, answers the common
+questions, books the appointments,
+cancels and reschedules, and also
+transfers to a real human if needed. The
+best niches to target for this would be
+companies in the home service space,
+dental practices, and also aesthetic
+clinics. Essentially, any business that
+has a high volume of inbound calls, but
+we wouldn't target companies like
+e-commerce or maybe even restaurants or
+barber shops because each customer for
+that business is worth a lot less than
+someone like a roofer. And so we want to
+make sure that we're very careful about
+who we target because we charge based on
+how much money we're making them or
+saving them. Now, in terms of how much
+you price the business, it really
+depends on the value. So you can go
+anywhere from 1K to 15K for the
+implementation, which is the fee that
+they pay you to set everything up. And
+then you can charge a 20% monthly
+retainer to maintain the system,
+optimize, listen back to the calls, and
+just make the AI agent better over time.
+And this automation specifically solves
+one of the biggest pain points in the
+home service, dental, and actually the
+MedSpot industry because of the fact
+that they receive so many calls. They
+might have a receptionist on the phone.
+But when it comes to after hours, they
+have no one on the phone, which means
+that they're missing calls. And a missed
+call is a mislead. A mislead is
+misrevenue. And revenue is just money
+for the business that is completely lost
+because no one is there. All right. So
+here we have the inbound receptionist
+again with the rules and guidelines uh
+for the food prompt right here. And it
+has the function to book an appointment
+as well. I'm going to call the number
+that we actually set up inside of Retail
+AI. We have a number here that I can
+simply call that I connected to my in
+receptionist. I like Retail AI because
+it's super super easy to to actually do
+everything. Um I'm going to go ahead and
+call it and then we'll have the
+conversation. So as you can see the
+number going to call it
+and here
+>> thank you for calling Tory Law Estate.
+My name is Grace. I'm a digital
+assistant here. This call is being
+recorded for quality purposes. How can I
+help you today?
+>> Um, well, my wife wants a divorce. She
+wants to take all the kids. Um, and I'm
+not going to let that happen.
+>> I'm sorry you're dealing with this.
+[music] What should the lawyers know
+about your situation?
+>> That she wants to take custody of all
+the kids, the house that I even bought
+her. Um, [music] yeah, and the car.
+>> Thanks for sharing that. What location
+or jurisdiction is this matter in?
+>> Uh, New York.
+>> Okay. Thanks. Just to confirm, [music]
+how many children are involved?
+>> Uh, three.
+>> Thank you. Let me get you scheduled for
+a 30inut consultation with one of our
+attorneys. We have availability on
+Tuesday the 25th at 10:00 a.m. or
+Thursday the 27th at 2 p.m. Would either
+of those work for you?
+>> Yeah, 25th is okay.
+>> Great. Can you spell out your full name
+for me?
+>> James Michael.
+>> Thanks, James. Can you please spell your
+first and last name for me?
+J A M E S space Michael like Michael
+Jackson.
+>> Thanks for clarifying. Just to confirm,
+is your full name James Michael Jackson?
+>> If so, can you spell it out for me?
+First and last name.
+>> No, Michael Jackson. James, first name,
+Michael, second name. That's it.
+>> Got it. Thank you. So, your full name is
+James Michael spelled J A M E S M I C H
+A E L. Is [music] that correct?
+>> Yeah, correct.
+>> Great. Let me lock that in for you.
+Looks like I need a contact method to
+finish booking either your email address
+or phone number. Which would you prefer
+to use?
+>> Uh, we can use an email. So, my email is
+jamesgmail.com.
+>> Thanks, James. Just to confirm, your
+email is jamesgmail.com
+spelled j a mg [music]
+a i l. O, right.
+>> Yes, correct.
+>> Perfect. Let me finish booking your
+appointment now. It looks like that time
+is no longer available or there's
+already a booking for you at that slot.
+Would you like to try Thursday the 27th
+at 2 p.m. instead? [music]
+>> Yeah, sure.
+>> Thanks. Let me book you in for Thursday
+the 27th at 2 p.m. [music]
+One moment. You're all set, James. Your
+consultation is booked for [music]
+Thursday the 27th at 2 p.m. Is there
+anything else I can help you with today?
+>> No.
+>> Thanks for calling, James. Take care and
+we'll see you Thursday. [music]
+>> Bye. All right, as you can see here, uh,
+the lawyer consultation just came in
+with james@gmail.com.
+Now, I'm not going to lie, there's some
+stuff that we can definitely do on the
+prompt itself cuz the the agent wasn't
+perfect, but it's uh it's good enough to
+get started and there's a lot of stuff
+that um that we can add and remove and
+really the the limits with these agents
+is endless. You can always connect it to
+softwares and you can do a bunch of
+stuff that right now a receptionist or
+maybe even the founder is doing as well.
+And one important thing with these
+agents is that you can either make a new
+number on Twilio and then give that
+number to the business itself or you can
+use the number that they already have
+and then connect it to the platform so
+that when someone calls their number it
+automatically transfers to the agent
+number. Okay, it's a very important
+thing. Um but yeah, that's the build.
+And now that we're done with handling
+missed calls, the next one is the most
+boring one which leads me to automation
+number one, the fully systemized lead
+engine. So this system right here is not
+one trick. It's the whole what I like to
+call the boring machine because it takes
+everything that we've spoken about so
+far in terms of making the business
+money and saving the money. It puts it
+all together. You would have the AI lead
+generation agent on the website
+capturing and qualifying every visitor.
+The cold email system running outbound
+to fill the top of the funnel. The speed
+to lead agent calling back every new
+optin within 60 seconds. The AI
+receptionist answering every inbound
+call day and night and lead reactivation
+working through the old database in the
+background mining fund revenue. and
+stitch together they are a full sales
+engine that runs a business growth
+without the business owner touching it.
+The people that we would target for this
+would be any business that wants
+predictable new revenue and wants to
+optimize their sales processes and is
+looking to scale. Now when it comes to
+pricing there's a couple of different
+ways as to how you can structure this.
+Typically we would have a foot in the
+door kind of offer something that's you
+know easy to build and builds a [music]
+trust and then you would keep upselling
+them and selling them these new systems
+and actually charging thousands of
+dollars for the implementation and then
+you would have a monthly retainer. So
+for the whole system combined, you can
+charge anywhere from 5K to 20K for the
+implementation and an overall 1 to 5K a
+month retainer because you're part of
+the business. You're part of the sales
+process and you're allowing [music] the
+business to increase conversions by a
+margin, make them a lot more money, and
+essentially grow their business overall.
+and understand that the most boring
+system really directly relates to how
+much money you can save the business or
+make the business and has different
+services, different offers all combined
+into one fully systemized lead engine
+that allows the business to scale
+efficiently with AI. And to give you
+just one thing here as well, with the
+fact that these are all AI agents,
+whether it's chat or voice, you can
+simply demo these to the business. So,
+it's a very easy to sell offer because
+they can see it working before they even
+buy the thing itself. So, those right
+there were the nine automations you can
+start selling to businesses today. But I
+want you to notice the pattern, which is
+that every single one is a job that a
+business already pays a human to do.
+We're not reinventing any wheel. We're
+not creating some sort of fancy system.
+We're just directly taking the thing
+that businesses want, which is more
+money, and putting that into an actual
+service that we can craft for these
+clients. And then, fundamentally, you
+want to have focus. You want to pick one
+thing, just one, because the biggest
+mistake I made early on was trying to do
+everything at once and trying all these
+different offers all together and and
+trying to sell it to everyone and trying
+everything. But really, if you're
+everything to everyone, you're nothing
+to no one. And if you're someone who's
+serious about taking all these skills
+and turning them into a real business
+and make money, then you can check out
+the first link down below, which goes
+through a full video on how you can do
+that by working with me onetoone. But if
+that's not you, then you can check out
+this next video on the screen where I
+build a 10K a month AI agency for a
+stranger in 30 minutes. With that being
+said, I really hope you guys found value
+from this video.

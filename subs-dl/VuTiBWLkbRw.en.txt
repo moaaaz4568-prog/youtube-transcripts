@@ -1,0 +1,3144 @@
+Every time you see a SaaS, every time
+you see software in general, there's a
+hundred-million-dollar idea in there.  That's
+because it's now so easy to create
+software to validate an idea,
+build an MVP, and develop a
+product that might be used by thousands of people
+and generate tens of thousands of dollars
+a month for you.  You can simply use Replit.
+A good example is the use of
+links in biographies.  You can
+build that in Replit in about 5
+minutes.  Now you can go directly
+from idea to application without
+needing to program.
+Alright, today's guest is Matt
+Palmer.  Matt is our
+Replit expert, and before we begin, let me
+tell you what inspired this
+conversation.  A few weeks ago,
+we recorded an episode with Alan Hamilton
+where he showed us how he used Replit
+to create landing pages for
+his companies in just a few hours.  From
+that moment on, I started seeing more and
+more people online creating
+profitable products in a weekend
+using AI tools like Replit.
+My curiosity began to grow and I
+realized that there are many people, maybe
+even you who are watching this
+at home right now, who have ideas they
+want to build but feel
+excluded or blocked because they are not
+programmers or software engineers
+.  That was my situation, and that's why
+we brought Matt onto the show.  He is the
+expert in "vibe coding".  He works at
+Replit and in this episode he shows us
+step by step all the secrets to
+building your first successful product on
+Replit in just a few hours.  Even I think it
+sounds crazy to say that.  But anyway
+, let's get straight to the
+conversation.  You're listening to the
+Callum Johnson show.  As I was preparing
+for this episode, I started to get really
+excited, and there were two quotes or
+things I heard that triggered it,
+so I wanted to read them to you.  The first one
+was actually from the founder of Replit,
+Amjad.  He said this is one of those
+rare examples where creation has
+truly been democratized.
+Anyone with an idea can now
+create software.  So that was the
+first one.  Then I heard you say this
+on a podcast.  You said that some of
+these apps used to make me say, "
+Oh, that'll take weeks to build."  "
+Today you can build an application in
+a morning or even in an hour."
+When I heard both of those things, I slowly
+began to realize that
+we are truly in a golden age
+for building things and for
+people who just have ideas and
+want to create something meaningful with
+them.  So, for that person, who
+is not a technician, who is not a programmer,
+who is not a software engineer.
+What value will that
+person derive from listening to the conversation
+you and I are about to have?    That's right
+, that's very accurate, my friend.  And, you know
+, I think that's one of the reasons why
+I'm so excited about my
+job: helping people create with
+AI and learn what's possible
+today.  And for those who
+are ambitious or who simply
+love to delve into the details of
+their ideas or explore what they can
+create, they no longer need to know how to program.
+So, by watching this episode today, I
+think you'll be able to understand how to
+turn the ideas you have in your
+head, all that ambition and those things
+that come to you or that you think about
+late at night, into something tangible,
+into something you can use, that you can
+share with others, and that one
+day could become a business.
+Yes. And that's great, because we were talking
+earlier about how we're going to go into
+a sort of four-step framework
+on how someone can build their
+first product, their first app
+on Replit, but you just said something
+interesting for that ambitious person.    They
+may not be technical experts, but they've always
+had ideas in their heads that
+they want to develop.  The funny thing is
+, that's actually your story.  So I
+just wanted to read this quote and then
+we can get a little more
+context about you.  You said, "At one
+point, I was
+constantly entering numbers into
+Excel spreadsheets and I thought, a computer could
+do this."  "Like, I shouldn't be
+doing this."  "An application or
+script should be doing this."  "
+And so I want to dedicate my time to
+building and expressing my creativity."
+But when I mentioned
+automating it to my bosses at the
+time, the idea was
+completely rejected;  I think it's a moment that
+people can relate to.
+Can you take us back there?  Give us
+the context, give us the scenario of that
+moment.
+Absolutely.  And it's really fun to
+talk about this, but, you know,
+I studied physics and economics at
+university.  I have always been a
+very motivated person.  I never really knew
+what I wanted to do, so I
+just thought, "Hey, after
+college I'll go into
+finance; that'll be a challenge,
+right?"  I mean, everyone was
+telling me that this was, uh, something for
+people who wanted to achieve things, right?
+That's how I perceived it.  But,
+perhaps after a year or two, I
+quickly realized that I was
+doing boring and repetitive things,
+and that was simply accepted by the
+people around me, wasn't it?  I looked at the
+group I was part of, the team; they
+were all great people, but they
+were all content with these
+processes that I looked
+around at and thought, "This?" "I have
+better ways to invest my time, do
+n't I?"  I'm capable of more
+than this.  Uh, and I think it can be
+really hard to sit with
+yourself and accept that fact, right?  That
+cognitive dissonance of thinking, "This is what
+I'm doing, but I shouldn't be
+doing it."  And you know, when I
+tried to think about how to take my
+life to a place where I do things I
+'m capable of... where I'm
+pushing my limits or improving, that just
+shut down completely, didn't it?  And as a
+student who had just made the
+transition to that kind of
+working life, so to speak, being my
+first job, I began to ask myself: "
+Is this life?" Is this what
+life is all about? No?  I wake up
+, maybe I have time to
+exercise or do something in the morning.    I'm
+going to work.  I work a lot, don't I?
+I'm the type of person who enjoys
+working, but I'm going to this job.    I do
+n't really enjoy it.  I don't feel like he's putting any
+demands on me.  And then I go back
+home, right? Is that all
+life has to offer?  So I really had to
+sit with that and that discomfort.
+I'm curious because I think there are
+many people who have had that
+moment, that realization of: "Okay, this
+isn't really what I want to do
+long-term."  Going from that moment to
+making the actual decision to build
+something or learn that new skill that will
+take you to the next level is a
+completely different story.  So I'm
+curious about your story, what
+prompted you to take the final step
+where you said, "Okay, I'm going to take action right now
+, I can't be in this
+environment, I'm going to move somewhere else, to
+take a different direction"?
+Yes, sure.  And to give a little more
+context, this was 5 years ago,
+right?  So AI didn't really
+exist.  And what that meant was
+that when I suggested, "Hey, I want to
+automate this."  Well, I had to
+figure out how to install languages ​​on
+my computer.  I had to learn how to
+write code.  I had to sort out
+all these things and, sitting there,
+I was thinking: this is going to take months, isn't it?
+This is going to take a long time.  Now,
+as we will see, there are
+tools available today.  I'm going to
+show you some of them.  But it
+simply meant that it was much
+harder for me to
+finally decide that enough was enough,
+right?  I remember one day we were
+entering these numbers and there was a
+process that was assigned to me every
+day at 4 p.m.; I had to go to this
+computer, basically a
+special terminal.  It was a Bloomberg terminal
+for those who know it, finding this
+number, this rate of the day.  Take it
+back to an
+Excel spreadsheet, put it there, update a
+formula, and do a bunch of
+manual stuff.  Sometimes I was wrong.  It
+took me 20 or 30 minutes.  And every
+day I knew that at this time it would
+interrupt my workflow.    It
+would interrupt whatever I
+was doing.  And I just thought
+that a human being shouldn't have to
+do this every day.  And I'm the
+kind of person that
+just drives me crazy.  I think it was
+at that moment, looking around
+and realizing that there were many
+processes like these.  There were a lot of people
+who had to do these
+manual tasks, and that took away their ability
+to create things that were unique or
+innovative, right?  I said, "Okay,
+I'll buy a
+Python textbook."  "I'm going to buy an
+SQL textbook."  "I'm going to sit down."  "I'm going
+to learn these tools to
+hopefully automate some of the
+things I'm doing."  And then
+I learned that this is what it means to
+work in technology.  That's what
+led me down the path I'm on
+today.
+Yes. Yes. You know, you said something when
+we spoke earlier, and it was a very
+relatable moment, because I've also
+experienced it in my career, when I left my
+consulting job.  And you said, at
+some point, you wake up and say,
+"What's the outcome if I work
+here for the next 5 years?" And
+then you look at the people who have
+been there for 5 years, and you say,
+"I don't want that."  "If I'm really
+on a path where in five years I won't
+be doing what I want, that's
+the scariest thing that could happen to me."
+Can you, can you talk about that, that,
+that realization?  And I understand what you
+mean because sometimes it's very
+vivid when you can see the person
+who is three levels above you and
+what their life is like.
+Yes, definitely.  And it's funny, I laugh
+because when I hear you read these things it
+just evokes that emotion,
+right?  Like when I'm
+thinking about these kinds of things.  Um, and
+I think, you know, from very early on, I
+was talking with some friends and
+we were talking about what's the
+scariest thing, what scares you the most
+? Right?  This is a
+very deep and visceral question.  It's hard to
+answer that honestly in front of
+people, I sat down and thought about it, and I think
+my answer was that my biggest fear
+is being the same as everyone else,
+right?  I don't really want to be a
+background character, do I?  Like,
+I have my things, you have
+yours.  Everyone listening here
+has something unique that makes them
+completely different from any
+other human being on the planet.  And I think
+about that in the context of what I do,
+the way I spend my time
+showing up and doing something for 10
+hours a day, right?  That's a long
+time.  It's really valuable.  That
+accumulates over a year, five
+years, 10 years.  And if not, if you're not
+really paying attention to what you're doing or
+where you're going, right?  You could
+take the wrong path.  And I really
+have this constant pressure that,
+hey, what if I take the
+wrong path, or I just spend my
+time so focused on my work
+that I don't think about where I'm going, and
+then I wake up in 5 years and look
+back and think I could be
+in a completely different place?    I
+might be achieving something I didn't
+achieve before.  I could be doing these
+things about myself that are unique and
+using them to add value to
+people or make a difference in
+something bigger than myself.  Um, and that's
+where that quote came from and how I think
+about things.  Um, you know, is it good to
+be worried about this all the time
+?  No. But I do think a
+healthy concern is about who you are
+, what makes you different, what you are
+capable of, the person you could be if
+you applied intentional effort every
+day.  I think all of this is very
+important, and I think many people,
+probably many of your
+viewers, are thinking the same thing.
+I agree.  I agree.   Did
+you know?  You know, it's funny even
+as I listen to you, because you talk about
+not wanting to be like an NPC, and for you,
+at that time, if we went back five
+years, it's like you were just
+entering numbers into a
+spreadsheet.  For me, it was five years ago,
+because I was a consultant.  I was
+aligning columns in presentations, and
+that was my version of the NPC.  But
+you know what?  You said something interesting.
+You said that at that moment you had to
+go and learn Python or some
+programming language in order to build
+something.  Now it's different.  Can you
+talk a little bit about your experience
+finding Replit,
+creative programming, and even how you learned
+about that whole world?
+Absolutely.  So, kind of like what
+you said, right?  Back in the day,
+five years ago, even a year ago,
+the thing about that heavy work is
+that someone had to do it,
+right?  It was as if we weren't where it
+could be automated.  Someone had to
+align the columns in the
+PowerPoint, and if it wasn't you, it was going to be
+the person hired after you.
+One of the things I realized is
+that if I'm not entering the
+numbers into the spreadsheet, the
+next junior person they hire
+after me, I'm going to ask them to
+do it.  I don't even feel good about
+it because I think it's silly,
+right?  But today, you can do it with
+AI, right?  There are tools
+available to automate these things,
+even if you're not a developer.  And
+then, honestly, my journey to
+Replit began, about a year and a
+half ago.  I joined simply because I was, you
+know, in development, and Replit was a
+tool at the time that made it
+very easy to deploy or
+build applications.  You still had to
+know how to program, right?  Many of
+the tools we'll be talking about
+today are completely new.  Uh,
+Replit has only been doing what we
+do for, like, a year, but it
+was a really simple and easy place
+to go from idea to code to
+application.  Now, with the launch
+of many of these newer AI models
+, we've incorporated AI on top of the
+Replit workspace.  Today I'll
+show you how that works.  And now
+you can go directly from idea to
+application without needing code
+.  So it was a really fortuitous position that I found myself in,
+working on a large platform.
+All these AI models are coming out and I
+think: we need to show
+people how to build with AI on the
+platform.  And you know, our leadership
+at Replit turned towards the AI ​​wave and
+we developed a lot of
+very robust functionality to do just that
+.
+Yes. You know, okay, because we're going to get down
+to business, and I read the quote from
+Amjad, the founder of Replit, at the
+beginning, saying that anyone with
+an idea can now create software,
+which is crazy.  So, before
+going into the steps and helping
+someone build their first product
+on Replit, I did some research
+and was watching podcasts before this one,
+and some of the statistics about
+Replit and the growth they've
+experienced in the last 6 months
+are mind-blowing.  Only if I read this.  So
+the company, Amjad, really had
+the idea a long time ago.  The company
+was formally founded in 2016. By the
+end of 2024, the company had generated
+$10 million in ARR.  And then
+they released Replit Agent.  Since then,
+the business grew from $10 million to over
+$100 million in 5.5
+months.  From your point of view, when
+you see something take off like that,
+right? What do you think is happening?
+Why Replit Agent and what
+you have built? Why has it
+resonated with people to such an extent
+?  Okay, quick pause.  If
+you're looking to build something, this segment is
+for you.  I remember when I started my
+first business, I spent more time
+figuring out how to get started than doing
+the actual work.  And I was using all
+these different website builders
+, plugins, and
+paid tools.  I felt like I needed five
+platforms just to sell one thing.
+Then Shopify, the sponsor of
+today's episode, changed the
+game.  Shopify is a powerful set
+of tools that helps you start
+and run your business.  Whether you
+sell t-shirts, candles,
+coaching services, or anything else, it
+offers you everything in one place.  One
+great feature they
+recently added is Sidekick.  It's your own
+personalized artificial intelligence assistant.  You can ask them to
+help you set up your store, write
+product descriptions, adjust your
+homepage, and even run
+marketing campaigns.  And the best part is
+that it doesn't just follow commands.  Reason
+through multi-step tasks.  It's
+literally like having an
+AI business partner, which is very helpful
+in the early stages of
+building.  So if you have an
+idea in mind right now and you're
+ready to make it a reality, go to
+shopify.com/calum johnson to get started
+today.  That's shopify.com/calum johnson.
+Thank me later and let's get back to the
+episode.
+Absolutely.  And you know, I think this
+largely comes back to what
+we discussed in the tutorial portion of
+this video, which is that
+anyone with initiative, anyone
+with an idea, can see it
+realized in about 15 or 30 minutes.  And it
+may not be perfect.  There may
+be things you need to adjust or
+polish, but you can take something that's
+in your head and have a
+working prototype in a morning.  This is something
+for which, first, you had to
+learn to program on your own.
+You had to learn to build in that
+language.  And then you had to spend a
+week, two weeks, or a month
+building something just to understand if
+your idea would work.  So that
+dopamine rush of "wow, I had this
+idea and now it's real."  Now it's on
+my computer screen in front of
+me and I can interact with it; it's
+super powerful.  And I know it personally, I mean
+, it has changed my life.  It has
+changed the lives of many other
+people, whether they were able to create an
+app for their family, for their
+business, all those things.  And everyone sees
+that, and that's why we've seen the
+growth we have.
+Yes. You know, I want to get down to business
+because I think a big part of the
+reason I'm so excited about
+these conversations is, as you rightly
+say, that the first barrier to
+entry when it came to creating software was
+: you had to know how to program or have a
+lot of capital to pay someone
+who did.  And that used to prevent
+many people from creating things,
+even if they were creative or had
+great ideas.  But with tools
+like Replit and some other things we
+'re seeing with AI, anyone
+can do it.  So, before we
+begin, I'm curious to know if
+there are everyday examples of people you've
+seen creating things on Replit
+, where if we went back a few years,
+this person would never have been able to
+build that.  But thanks to this
+agent, they have now been able to build something
+meaningful in their lives.  Perhaps
+you can show us some of that.
+Yes of course.  There are many examples.
+I think Billy Howell is a great
+example.  He is an entrepreneur.  He
+develops his ideas for his clients.    He
+simply goes out and proposes
+app ideas to various clients, and
+they respond, "Yes, I need that."  "
+Or that would really help our
+business."  Then he goes to Replit,
+builds it very quickly, and sells it.
+It has a business based essentially
+on selling these applications.  So it
+'s a great example.  Amjad
+was also recently with Joe Rogan.
+He discusses many of those examples in that
+podcast.  Just today, someone posted a
+tweet.  In fact, I'm going to share my
+screen for a moment.  We're going to do a
+lot of this today, but they just
+surpassed $10,000 in
+monthly recurring revenue using only
+Replit to develop their app.    It
+took them one month to create a
+minimum viable product to sell to
+customers, and it's been 3.5 months since
+we started.  Our growth has
+tripled since last month and we are
+a team of two.  Thank you for your
+service.  Obviously, the thanks
+go to the whole team, but these are
+examples of someone who has an idea.
+They are on a small team.  They lack
+the development resources.  They don't have
+the capital, as you mentioned, to get
+started.  And they can use Replit to
+leverage that, right?  It's technology.
+They are using technology to
+enhance their ideas.  And now it's
+much more about the ideas you have and your
+ability to bring them to fruition than about
+writing code.  And something I
+talk about from time to time is that
+software development used to require a
+lot of capital, right?  Like saying, "
+This is why you need
+venture capital backing."
+You need to raise a lot of money and
+hire a lot of
+software engineers.  You have to pay them a lot of
+money so that they then create something.  And
+I think at one end of the spectrum that's
+still true, right?  If
+you want something like Uber, if you want an
+app that serves hundreds of
+millions of people, you need
+really good software engineering talent
+to build it.  But to
+validate an idea, create an MVP,
+build a product now that might be
+used by thousands of people and could
+generate tens of thousands of dollars
+a month, you can simply use Replit
+or another AI tool.  And that
+means the investment cost
+to create a functional application has been
+reduced almost entirely to time and
+really good ideas.  I just want to get down to
+business.  If we were to start from
+the beginning for that person who has
+an idea in mind or who perhaps doesn't
+even have an idea yet.
+Let's start even further back, when they
+know they want to build something.  They
+feel inspired by this
+conversation and by other things they
+are hearing.  They want to build
+something this week, this weekend.
+What is the first step?    Of course
+.  So, what I'm going to do
+here is go through a
+four-step process.  But before I
+do that, I'm going to take a step back for
+the person who has no ideas,
+okay?  Because I think if they put you in a
+tight spot, you know?  If you
+asked me right now what my
+favorite movie is, I don't know.  I'd be
+a little stuck, right?
+Then I understand.  Um, and ideas
+can be difficult.  But, you know,
+going back to the story I described
+earlier, and it seems you were in a
+similar position, for those
+people who feel they are capable of
+more, who feel they are always
+thinking of new and ingenious ways
+of doing things, they don't have to
+try too hard.  The ideas will
+come.  I promise.  And the simplest way
+I find to do that
+is simply to live life and be
+observant.  Like going to the store, you
+know, just go about your
+normal life.  Go to the gym.  And along the way,
+you'll notice things that are inefficient or
+that you would probably do
+differently.  Perhaps you record your
+workouts in a
+Google spreadsheet and think, "I feel like I
+could do better."  This doesn't
+describe my training exactly
+as I want it to be.  Or maybe you're recording your
+workout in a
+notes app that isn't ideal.  Or your
+to-do app doesn't organize your
+shopping the way you'd like
+.  Or you'd like to receive notifications
+when something specific happens,
+right?  And that forms the basis of a
+product, right?  That's having a
+good product vision.  It's
+simply observing the things
+around you and thinking about how they could be
+improved.  And you know, I think there's an
+old quote from Steve Jobs.  Steve Jobs
+said that your perspective on life
+truly changes when you realize
+that life is something you can
+shape and achieve results with, you know?    It's
+as if life isn't something stagnant.
+You can change the things in your life that you do
+n't like.  That starts with the
+product and the software, because you do
+n't actually have to build anything
+physical with the software.  You have a
+computer, you have Replit, as
+we'll see today.  You can simply create
+ideas.  So start seeing life
+as something malleable that you can change and
+observe all the characteristics of
+your life that you would modify.  Because if
+you have an opinion, if you believe something
+should be different, I bet
+others think so too.  And if you're going to go out there
+like I did and say,
+"Hey, I'm different."  "I am not an
+NPC."  "I have all these
+creative ideas."  Well, you need to be able to
+back that up with real ideas.
+So, this is something deeper, but
+while you're thinking about what you do,
+reflect on what you would do differently
+and write those ideas down somewhere.  And
+then on the weekend, or after
+work when you're motivated, think:
+"I have 15 minutes or an hour."  I have
+an hour or two, sit down at Replit and
+create a prototype.  That's exactly what I
+do.  So that would be my
+idea for generating new proposals.
+I'm curious to know if you have
+any insight into how you come up with
+ideas for things you want to
+build.  Yes, just to...because I think it
+'s a very good point, just to
+add something to what you were saying...because I actually
+heard it from Dan Martell
+and spent a week doing it, which is:
+you simply take a notebook and write down
+how you spend your time.  And you do this,
+as if you were having these checks once or
+twice an hour, on how you're
+spending your time, and what you'll start
+to notice, and to your point, is that we have to
+force ourselves to be observant,
+because we go through life and take
+things for granted.  There are so many things we
+do that we aren't even
+fully aware of.
+We're simply on
+autopilot.  And then you do this
+process of simply noting how you
+spend your time.  What very
+quickly becomes evident is
+where you're wasting time or
+where you had a problem or there was
+friction.  And that's how, in those
+gaps, it's as if ideas begin
+to emerge.  And it was funny, actually.
+On the topic of
+problems, we did an episode with Greg
+Eisenberg a few weeks ago.  And
+he has this idea that: "Every time you
+use software and see an
+export button, there's a multi-million dollar idea
+associated with just that
+export button."  He said, "I have a thesis that
+when you're in a SaaS software and
+you see an export button, every time you
+see it, there's a $
+100 million-a-year artificial intelligence business that
+could replace that button."  So
+I guess those would be my two.
+Uh, yes.
+No, I love that.  And I think it's
+important to understand what you do and
+reflect on your life, because
+especially for people like me, and
+probably for people like you, we
+'re all busy, right?  And
+when you're super busy, you have a
+lot of things to do.  You're
+excited about what you do, you don't always
+take a step back to separate yourself and
+evaluate why you're doing what you're doing
+.  And that's how it can be easy to get
+into this flow where you don't think about
+things, you just do them.  I think it's
+difficult, but sitting around
+doing nothing, with the silence, or
+simply going for a walk without
+trying to think about anything, makes
+ideas emerge.  I think it's a
+combination of what you say:
+reflecting, working hard,
+getting involved in the issues, but
+also disconnecting from time to time
+to give yourself space to create.  I
+would say that, even more than what
+Greg said, every time you see a SaaS or
+any software, there's a
+hundred-million-dollar idea in there.  And I think that's
+because it's so easy
+to create software now.  You know, a good
+example is the link apps
+in your bio, right?  That's just
+a website.  You can
+build it in Replit in about five
+minutes.  Today I'll show you an example
+of how to create an application in
+Replit in a little over five minutes
+, but that's because we're
+having fun, not because we can't
+do it in five.  And by expanding on this and
+combining it with the idea that the world
+is malleable, you can make things, and
+there is all this software created by
+people who, frankly, are no
+better than those who watch this podcast.
+Ordinary people
+built everything that exists around
+us.  You too can
+build great things.  And that's the
+mindset you should have when you start.
+In other words: I can do this.  We'll talk
+a little bit today about what that means
+and what failure means.  Because
+that's important too.  But it all
+starts with the mindset of "I can
+create this" and, even if I encounter an
+obstacle, I will keep trying.  I'm going
+to persevere and we're going to accomplish
+something.
+Yes ok.  You know, I love it because
+here's my little prediction.  If
+we say that step zero is to be more
+aware, to be more attentive and
+open to having ideas thanks to that
+awareness.  My prediction is that if
+people who listen at home spend
+a few days doing that, or maybe a
+week, they'll have a list of
+potential ideas.  How do you do it?  I'm
+curious about you personally. When
+you have that list of ideas, what's your
+thought process like?
+Like, okay, there are 20 ideas here. Is this the one I
+'m going to execute and actually
+build? What's that transition like
+for you?
+Yes, that's a great question and I would say,
+well, I think I am...I'm a
+perfectionist.  Let's take a step back.
+I want to do it all.  I want to do it
+perfectly and it has to be excellent
+.  That's the kind of person I am.
+So tell me, hey, the first step
+is really just becoming more
+aware.  I would say that's
+ridiculous.  I need to do something.  But I
+believe that the opposite of that is
+consistency and realism.  TRUE?
+So, if you have a
+full-time job, if you have a family,
+if you have all those things in your life,
+that first step could be perfect.  And
+above all else we discuss,
+perseverance overcomes everything.  So, if
+you work one hour a day for 10 years,
+that's going to be much more impactful and
+cumulative than working 10 hours one
+day and then burning out because it was
+too much and not finishing anything,
+getting discouraged and quitting, right?  So
+everything I say will be
+conditioned under that mindset of
+consistency and that mindset of
+deliberate practice.  So, let's just say I
+have a lot of ideas.  I always
+have a lot of ideas all the
+time.  I have a to-do list with
+about 30 things.  I'm not going to finish everything
+today, but I will acknowledge that.  I'm going to
+say that I'm going to work very hard today and
+that I'll continue tomorrow.  That's the
+first thing.  And then, secondly
+, I think we simply prioritize
+action above all else.  So, it does
+n't really matter what the idea is.  Let's say I
+want to learn how to use Replit.  So,
+which of the ideas excites me the most
+?  I'm going to choose that one.  I will sit down on a
+Saturday.  I'll see if I can build it.  And
+then, if I can build it, I'll
+share it with people.  And if I can
+share it with people, I'll see if
+I can turn it into a business.
+TRUE?  I would say that starting is the most
+important thing.  It's really more about
+consistency than choosing the
+perfect idea.
+Yes. Yes. You know what's funny?
+In a way, that's the most
+important thing.  In other words, if you only take away
+one thing from this conversation,
+I hope there are many more, but if you
+only take one, let it be that
+inclination towards action and.  It's funny
+, because I was having dinner with some friends over the
+weekend and one of them has this
+job.  He's been working on it, just
+like he has on music.  He's been
+working in production for years, and one of my
+other friends asked him, "Have you
+released any of the songs or
+anything you've done?"  And he
+replied, "No, no, no."  "I'm just
+waiting to get a little better."  "
+I'm working on this style right now
+."  And years have passed.  It's
+one of those things.  I even had to
+reflect on this during my
+career: many dreams die in
+perfectionism, in analysis, in
+wanting to improve a little more, but
+in private, without anyone having
+heard it.  It has not been shared.  It has not been
+released.  Uh... You know what?  Let's
+... I want to get down to business.  I know
+you...let's start using the whiteboard.  Okay
+, let's start building things.    Let
+'s do it, friend.
+Okay, a short break.  It's been 4
+months since I started using the Eight
+Sleep Pod, and I'm not going to lie to you.  I
+love this.  It's the middle of a
+humid summer in New York, and
+that usually means tossing and turning and
+sweating all night.  But with Eight
+Sleep, the Pod actively cools my bed
+during the night, so I
+sleep better and more peacefully.  And they've just
+launched their latest model, the Pod 5.
+It's a smart mattress cover
+that uses
+precise temperature regulation to control each
+side of the bed separately.  It may
+be cold to me and warm to
+someone else.  But it's much more than just
+a heating pad.
+It tracks your heart rate,
+breathing, and sleep stages
+without the need for
+wearable devices.  It detects snoring and
+even subtly raises the bed to
+stop it.  It has built-in speakers
+for white noise and
+guided meditations.  Every morning I wake up to
+a personalized report about my
+sleep.  It's literally like having a
+personalized sleep coach,
+thermostat, and health monitor, all
+in one.  And its new automatic health monitor will
+even flag
+trends in your
+heart rate variability and
+breathing changes so you can catch
+problems early.  The Pod is
+clinically proven to improve
+sleep quality by up to one hour
+each night.  So, if you're ready
+to improve your sleep, go to the link in
+the description to get $350
+off your very own Pod 5;  You have 30
+days to try it at home.  For
+any reason, if you are not
+satisfied or if you want to return it,
+you can do so.  Okay, a quick break
+.  I want to take you backstage for
+a second.  24 months ago, my
+workflow was chaotic.  Documents on
+Google Drive, notes on my phone,
+random PDFs buried somewhere on
+my laptop.  I was wasting a lot of
+time trying to find things and
+that was ruining my
+concentration.  Then, another
+entrepreneur I knew told me
+how he ran his business at Notion, the
+sponsor of today's episode.  And
+honestly, everything has changed.  Everything I
+do, from planning this
+program to managing my team and
+building projects, goes through Notion.  And
+even that has been taken to another
+level with Notion AI.  It's your
+all-in-one AI tool that learns from your
+work and puts everything in one place.    It
+automatically captures
+meeting notes, instantly finds the
+exact content you need, drafts
+documents for you, and is very convenient
+because it has the best AI models
+like ChatGPT or Claude integrated.
+Lately, I've started using your
+AI meeting notes.  Whether it's a
+team call, a
+guest interview, or even a
+personal brainstorming session, it captures every
+idea, every decision, and every next
+step.  It's not a bot, there are no
+complications, just clean and
+organized notes that I can act on
+immediately.  So, if you want to
+stop wasting time and actually make
+progress on your work, head over to
+notion.com/calum johnson.  All in
+lowercase.  So, once again, it's
+notion.com/calum johnson and explore the
+most powerful AI tool for your
+work.  You'll thank me later;
+Let's get back to the program.
+The way I like to do it, if
+you know, this tutorial assumes, right?,
+that the people on this call are a
+little new to this AI building thing
+;  Maybe you haven't built anything
+before, that's totally fine.
+I think about this in these four steps.
+First, let's plan what we
+want to build.  This is really
+important, isn't it?  Because maybe we don't
+have that idea yet.  We need
+to figure out what we want to
+build.  And I can guarantee you that
+when you sit down to write what you
+want to build, it will be more
+complicated than you think.  And many
+people fail at building with AI
+because they say, "Oh, well, I just want, you
+know, an app that tracks
+my workouts."  "And then they type
+the command: "Build me an
+application that tracks my
+workouts."  AI is like you're
+explaining instructions to
+someone who doesn't know anything about what you
+want.  You're not going to get what
+you want if you just write that.  And it's very
+likely you'll get something that breaks
+.  So the first thing I like to
+do, especially for new ones,
+is plan.  Let's do that together
+.  Then I like to ask, right?  So
+let's think about our plan and
+translate it into Spanish.  We don't need to
+get into how AI models work
+.  We can talk about that a little,
+but the important thing is that you take your
+ideas and be incredibly
+specific about what you want and
+how you want to achieve it.  From
+there, we will refine or polish what we
+asked for.  This is also
+important.  We'll talk a little more about
+this later in our
+tutorial.  But AI is not perfect.
+We still have a long way to go
+before it's perfect.  Despite what the
+internet or people on the
+internet say, there are mistakes.  You will fail.  You will run
+into problems.  The funny thing
+is, that's exactly what
+engineering is.  Perhaps the engineers don't
+tell you these things.  But most
+of doing difficult things is just
+dealing with problems and solving them.  And I bet
+everyone listening,
+if you have a job or a family,
+something in your life is probably
+imperfect.  And at some point, you have to
+do difficult things to overcome
+that.  Engineering is no different from
+that.  Building is no different from that.
+Building with AI is no different from that
+.  And what that means is that you have to
+have a little determination.  You can't just
+give up as soon as
+something difficult happens.  I bet
+everyone who watches this show has
+overcome difficult things at some
+point in their lives.  They might
+sit and think, "How can I do
+more difficult things to practice
+that? How can I improve? How can I
+be more resilient or have more
+determination?"  Developing software and
+creating applications is a great
+way to practice, because
+problems arise and you have to sit down and
+analyze them and think, "Okay, I need to
+overcome this."  Then, finally, we're going
+to publish our application.  Replit
+makes this quite easy and
+straightforward.  This is actually the
+simplest part: taking what we built and
+putting it on the internet so other
+people can access it.  Now,
+there are some follow-up steps, such as
+ensuring everything is secure,
+etc., which we will discuss, but they
+require a little more time.  So that
+'s important too.  But
+let's follow these four steps.  And if
+you're someone who thinks, "Wow, I don't
+even know where to start," and
+you want to do it on your own after watching
+the video.  Follow these steps.  Follow what we're
+doing.  I think
+you'll understand what we're trying to say.
+So I'm going to share an idea.
+I was thinking about this a moment ago
+.  Actually, it's about meditation,
+and I bet many of its
+viewers are perhaps interested
+in meditation or in following
+it.  I was thinking of an application
+that might have three pages.  So I
+made a sketch.  So we have
+our Zen meditation app.
+Perhaps there will be guided exercises,
+maybe boxed breathing, which is a
+meditation practice, 4-7-8,
+simply a timed session, or
+perhaps other things I'm not even
+aware of that could be integrated into a
+timer where we can add
+background noise or interval chimes.
+And then, maybe we'll get some kind
+of usage statistics or tracking
+from that, right?  I bet many
+of you have used a
+similar app before.  Perhaps they've used an
+interval timer and
+probably looked at it and thought, "
+I could improve this."  I could do
+something that brings it closer to what I
+want, to what I want to build.
+Now, this is what I was
+talking about earlier, right?  In
+planning, what is it that we
+want?  The essence of everything
+we talk about regarding AI is to facilitate the
+expression of your ideas, but if you don't
+understand what your ideas are in the
+first place, how are you going to translate them
+into AI?  So, what are we
+building?  We are creating a
+meditation web application with
+customizable sounds,
+interval bells, and session tracking;
+We want to be able to save sessions,
+timers, and goals.  Now, I'm going
+to quickly explain what this
+means, and then I'll pause to
+make sure we're all on the
+same page.  But you could look at that
+and say, "Great. I'm going to type that in
+the text box."  I think this is
+a very important step in the
+planning.  We need to break down
+what that means, right?  Like,
+think of it like, you know,
+Lego pieces, right?  We are assembling
+all the pieces.  We need to figure out
+what the pieces are to build
+this.  And I talk a lot about the difficulty
+of building with AI.  It's actually
+more than just being a developer,
+because you're planning the entire
+product.  You're being a director.
+You're like the CEO, the developer, the
+salesperson, and all those things at the same time.
+You're running your own small
+team here.  Okay, for our
+application, if we want to save
+sessions and access them later,
+right?  Like our
+meditation sessions, we need a place to
+put that data, which means something
+called a database.  You really don't have to
+worry about that.
+We'll talk about it later.  But
+you need a place to store the
+data.  And many tools, in
+reality, don't have a way to do
+that.  You need a way for
+people to save those sessions in the first
+place.  So, a
+user interface, like a web page, is a
+way for users to log
+in.  That is, in reality, a
+complicated problem in itself.
+You need sounds, right?  Like
+our little meditation bell
+or our background music.  Where are
+we going to get that from?  And maybe we want it to be
+compatible with
+mobile devices.  There is something called a
+progressive web app.
+You don't need to know about that either, but it's what
+allows for good
+mobile compatibility on the iPhone.  Other things you
+might want are tools to
+secure your app or a way to
+sell it, especially if you want to
+make money.  These are all the things
+that distinguish Replit from other
+tools that exist.  Now,
+why am I mentioning this?  I mention this because
+people hear terms like
+database, progressive web application,
+user authentication,
+session management, etc., and feel overwhelmed.
+They say, "Hey, I'm not a
+software developer."  This is very common.  However
+, those things don't matter.  It doesn't
+matter because the whole essence of
+building with AI is simply
+understanding the puzzle pieces you
+have to fit together.  These aren't
+really Lego pieces, are they?    It's
+not about understanding the nuances and
+complexities of how
+these things would actually be implemented
+.  It's about understanding perhaps just the
+concept or the idea of ​​what it is, right
+?  If you notice something is wrong with your
+car and you know enough about cars
+to say, "Oh, the
+battery is probably dead," you'll save yourself a
+lot of money by going out and buying a new
+battery and replacing it, which might
+not be the hardest thing to do, as
+opposed to going to a dealership and having them
+analyze your entire car and
+all those other problems, right?
+So it's about understanding the
+concepts and things at a
+high enough level so that you can
+then refine them on your own.    Does
+that make sense?
+Yes. And you know what?  I'm going to...give you some
+context, Matt.  I'm going to
+chime in even while you're going over
+this, and I'm going to be like that
+total beginner asking questions.  And one of the
+things, in fact, while you were explaining it
+, you used some terms like being
+almost the director of building
+your product and understanding all these
+different components and how they fit together.
+And you even outlined some of them.
+And it's interesting because I have no
+experience as a product manager, nor do
+I know what it takes to build
+something, and many of the things you
+mentioned I would have taken for granted
+, I wouldn't have even
+thought about them.  So I'm curious,
+even as I think about that person
+who, up to this point in their life, has
+been a consumer of apps.  It wasn't
+the person behind the scenes
+building them.  How do you figure out
+exactly what you need to
+plan before building, instead
+of just deploying first and
+iterating later? What's the bare minimum
+someone needs to have ready before
+starting to build?
+Yes. Well, that's great, that's a great
+question, and I appreciate you
+interrupting me because otherwise I'll just be
+talking and that's boring, and
+we need some live feedback
+.  So, you know what I mean?
+The exercise I'm doing is
+simply conceptualizing my idea, and I wouldn't get
+too hung up on the
+specific technologies, because
+Replit takes care of a lot of that for
+you.  But, really, the exercise is
+just to understand if this is possible,
+right?  So, for example, here's
+an example I get a lot:
+someone asks, "Hey, how do
+I build an iOS app in
+Replit?" That's possible, and I have
+tutorials on how to
+prototype an iOS app,
+but it's hard. Why is it hard
+? It's really hard because
+to put an app on the App
+Store, you have to pay Apple
+$100, go through a bunch of
+hassles, then your app
+has to be reviewed, and there's a lot of back and
+forth. So, if you understand from the
+beginning that that's really hard
+, maybe you can refine it down
+to an MVP or something
+simpler, or you just try to
+build the MVP again; you said the "
+minimal adorable product." I would
+call it a minimum viable product. Um,
+so you have 30 projects. You don't pick
+one and get 5% ahead, but it's
+such a gigantic project that you end up
+abandoning it. So, when I think
+about this planning stage, what I do
+is think: how do I express the
+simplest possible version of this
+app, and how do I break it down to
+understand if  Is it worth it, or how
+long will it take me, right? So, what we're
+talking about here when I say
+MVP, maybe I'm saying, "Hey, you know what?"
+Actually, this is a little too
+difficult right now. We only have 30
+minutes. Let's just focus on a
+in, some sounds, and making it
+mobile-friendly, right? So,
+when I think about this, I just think:
+what's that quick win I can
+get that will get me excited enough to
+really focus? Because
+then, when I really focus
+, I'm going to want to see this through to the end or I'm going to
+want to put more hours into
+this, instead of saying, "Hey,
+actually, from day one..."    "
+Actually, we have to build
+the whole product." That brings us back
+to the consistency part.
+Yes. You know what? You know what?
+Actually, while I was thinking about this, I'm
+interested to hear your thoughts, Matt,
+because I think one of the things I
+like to do is have a kind of
+frame of reference; have another
+similar product to focus on and
+break down. And I like the idea of
+eliminating a lot of features and
+concentrating on just one, because there are
+so many meditation apps out there
+, right? You could
+focus on one key feature
+or one main improvement and say, "Okay, I
+just want that to be present in
+my app." And as you rightly point out,
+that's your first win. Figuring out
+how to express that to the Replit agent
+so it can build it. What do
+you think about that? Am I completely
+wrong?
+Exactly. Exactly. That's exactly what I was
+getting at. And I think that was going to
+be the next step, actually:
+okay, we've got this now, right? How do I
+turn this into a little prompt? This
+is kind of like the basic course of
+Prompt creation. So we were
+planning, and now we're moving on to
+prompt creation, right? To
+tie it all together, maybe, like you said, the
+agent probably knows what a
+meditation app is. How do
+we make it different? How do we make it
+stand out? Right? Maybe, hey
+, there wasn't an app with
+square breathing. I like to
+exercise. Maybe it's an
+interval timer. I've had a hard time
+finding
+interval timers with
+customizable timings that
+exactly match what I like to do.
+Maybe you have a
+special meditation practice, and you think, "Hey,
+other people need to know about this
+." I'm going to create a meditation app like
+any other, and then
+I'm going to modify it. I'm going to improvise
+on it. That's one of the
+most powerful things for generating ideas, and we don't
+talk about this: pick something, copy it,
+and improve it. I think now is a
+great time to be able to do
+things like that. And if you really say, "Wow
+, I'm stuck," I'll say you
+can just use other
+AI tools. So go to
+Claude and say,  "Hey, help me think
+about how to create a
+meditation app." Claude is going to write
+something for you. We don't want to just
+copy and paste this verbatim. I think
+this is important with AI.
+We'll go into this a little more detail.
+You shouldn't just dump things
+into the AI ​​without thinking and then copy and
+paste. You should really think about what
+you want, but I would approach
+creating this app
+by defining the core
+user experience. What did we just do?
+We defined the core
+user experience. Then, build the
+technical foundation and the content strategy.
+And that's how you can start
+learning to think from first
+principles, right? Outline from
+first principles what I would need to
+do. There are no more excuses because
+this is Claude's free plan.
+You can go to Claude and have him guide you
+on how to think about all these things
+. And so, you know, I'm sure
+your podcast listeners are already
+getting a lot of information just from
+watching, but whatever problem you
+have in your life, you can go and say, "
+Help me address this in a way that..."  "
+Logic." Help me break this down
+because it's a really big goal.
+Like, I want to create an app so
+I can quit my job and focus
+on developing it full-time. That
+'s a huge goal. And, you know, we see a
+lot of people succeeding with Replit, but I don't
+want you to think it happens
+overnight. It doesn't happen
+overnight. It happens by working and
+learning how to do these things. And it
+can happen a lot faster
+thanks to today's AI. But it's still about
+learning the skills.
+However, you can use AI to
+learn skills.
+Yes. You know, I really love the
+point of going to other
+AI tools and almost asking—whether it's
+ChatGPT, Claude, Gemini, or whatever—
+asking it questions and letting it help
+guide you through the process, because I
+think a lot of times (and I've
+felt this), when you're building something,
+especially for the first time, you
+obviously get to a point where
+you're like, "I really don't know what to do
+next." And it's not that you actually don't
+know what to do next. It's that there are
+some questions that, if  If they
+asked you those questions, you'd probably have an
+answer, and then you'd just
+follow that answer. And so, it
+'s actually a very useful process to let
+AI ask you questions or guide you
+through the process. That will clarify your
+thinking, and then you can bring that
+clarity to Replit.
+Exactly. And I want to encourage that. There are so
+many tools out there. There are so
+many things. Use all those
+tools to develop a plan. And
+then we'll look step-by-step at how to
+build something in Replit. Um, but
+people get stuck and say, "Matt, I don't
+even know where to start." And I tell them:
+Google it, ask ChatGPT,
+Gemini, Claude, do whatever it
+takes to get the information.
+These are things that used to
+require reading a book, going to a
+library, or doing a
+Google search. Now you can do them in 15
+seconds. We'll talk more about that today
+in the context of building this
+app. But this is the prompt
+that I drafted from our plan, and it just came to me
+. I thought, how do
+I instruct the AI? Let's break it down.  This.
+Help me create a
+meditation app. It needs to include different
+meditation presets,
+like boxed breathing or
+timed practices. I'm giving
+an example. Hey, I want different
+presets. What's a
+preset? Well, I know
+boxed breathing. Um, and then,
+in the next sentence: research
+popular meditation techniques to
+incorporate into our app.
+Now, this is a
+Replit-exclusive feature. It can do
+web searches. So it's
+really going to go out and do the
+research for us. So,
+we're at a point where you can
+start relying on AI for some
+of these concepts, right? I talked about
+breaking down our ideas, but
+you can also ask Replit: look up those
+ideas for me. Um, then the next
+part of this prompt: the
+timer needs to be the centerpiece
+of the functionality. So,
+research techniques for adding a
+timer to a browser, right?
+Like when I say, "I'm Matt." I don't know
+how all this works. I just want you to
+figure out the best way to
+do it.  Um, and I want you to do it in a
+way that the user can interact
+with it for longer periods of time
+, right? Because if
+we have a timer running in the
+browser for 50 minutes, I don't want it to
+stop while I'm meditating
+. You know, I get too zen.
+I meditate for two hours and I'm like,
+what happened? You know, I need it to
+keep going and draw me back in
+. And I say, hey, make the app
+hyper-minimalist so it's not distracting
+and it's zen. So, we're being very
+descriptive about what we want to
+build here. Um, and from that
+description, now we're going to get into
+Replit, right? So now I'm just
+sharing Replit
+super fast. No, no, because I do
+want to get into Replit and really
+make the magic happen. Um, but
+first I had to ask this, and I
+had to ask it because I was
+that overthinker and that person who would get
+stuck in the
+planning phase of a business. And so I
+just want to address it directly,
+um, for that human being. Is there a
+point in  The planning process
+where you know you're truly ready
+to take the idea to Replit? Because my
+concern is that people will keep
+planning and talking to Claude or chatting in
+GPT and it's like, either researching or
+any form of procrastination
+instead of just building.
+So, what's your sign
+that you're ready to
+just go and build the thing?
+Yes. No, I mean, that's a great
+question, right? Um, I have a
+concrete idea. I know something I want, and
+I know the pieces of that idea, and I can
+write them down in, what's this, like 10
+sentences? One, two, three, four, five
+sentences. You can if you can write it in
+five sentences. I'm just saying, go for it.
+And you know what? The cost of computing is
+so cheap. The cost of AI these
+days, you know, you have to pay for
+these things. It's not free,
+unfortunately. But it's so little that
+to validate this idea, it
+probably would have taken me like
+a morning, at least four hours or
+something, to create an app
+that did this. Today, it can
+take 15  minutes. So, if you think
+an idea is even
+remotely ready, just go to Replit and
+click start and just see what
+happens, see what comes out of it. I do that
+all the time. Sometimes I open a couple
+of tabs and launch a couple of
+different prompts just to see what I get.
+And because AI is doing the
+work, and you know, we have Replit on
+desktop, we also have it on
+your phone. You can do everything we're going to do
+today in the browser on your
+phone. Don't worry about that. I
+definitely prefer to take action. I'm
+doing the planning so you
+understand how to get a good
+result most of the time.
+I can explain that more
+conceptually. I have a, uh, a little
+slide prepared. Uh, but don't just sit
+there planning too much,
+right? If you're watching this video, the
+first night you do it, you can
+follow along step by step. By the end of the
+video, you'll have an app. If
+you're thinking, "I have an hour," you should
+have a minimum viable product.
+Maybe it will work 10% of the time.
+Maybe  Learn what doesn't
+work.
+And the way I learn is by doing
+these things. And figuring out what doesn't
+work is sometimes much harder
+than figuring out what does. And the
+only way to learn that is
+by trying.
+Yeah. You, you know, you said it so
+well, and it reminded me of something Riley said
+when we recorded the episode with him,
+Riley Brown, and when he said it like that, it
+really clicked for me. He
+was saying that the process I'm going to
+show you isn't, uh, it's steps, but it's not
+a linear, step-by-step process where
+you do step one, two, three,
+four. It's like you can get to
+step three and suddenly go back to step
+one. Like, you can try to
+implement something and say, "Actually,
+no," and then go back to the
+planning phase and then back to
+implementation. And it's like this shift
+in mindset when using AI, where
+moving between these different steps is
+much more fluid. So we've
+completed step one, which is
+planning; step two, requesting; and then
+step three is refining. Come on,
+maybe we can, we can shoot  This,
+and let's see, see what we get.
+Amazing. Uh, so I have some
+ideas. Let's, let's launch this. I don't
+want people waiting too long,
+and then we'll come back to some concepts
+that relate to what you just
+said, because it's very important. It's not
+linear. You're going to fail. Maybe the best
+course of action is to start from scratch.
+Uh, and we'll talk about that too. So I
+had this prompt. I set it up a
+bit. We didn't spend too much time
+waiting. The first thing the
+Replit agent will do is create a plan. So we
+sent it. This is the first
+screen you'll see, and the agent will say, "
+Hi, I'll help you create a plan for
+this app we're planning." Now
+we're giving the agent a plan.
+These are the
+implementation details for our app.
+And now, what you'll see down here is
+that it's searching the web. So
+the agent is going to search the web. It's going to come up with
+a plan for us and then
+show it to us. That usually takes a
+minute or two. So while this is
+happening, we'll come back and see everything
+that  It's happening. I'm not going to skip
+any steps. I want to talk about what you
+just said. Everything, most
+of the things you've done in your life,
+right? Maybe you go to school, you go
+to a job, and there are steps you take in
+order, and if you follow those steps, you get
+a result. For example, maybe
+you press buttons and something happens, and
+you learn, "Hey, if I do this, if I do X
+, then I get Y." AI isn't like
+that, is it? So, if there are
+people here who took statistics
+or know what a distribution is or
+what it means for things to be
+random, AI is kind of random.
+That's pretty crazy, isn't it? And
+what I'm explaining here is: hey, think about
+the quality of the results. There's a
+certain probability that you'll get an
+application of a certain quality.
+And we can mark this up a bit, right
+? Maybe most of the
+applications you get are here,
+right? Like, there's a high
+probability that the quality will be
+average
+from a given prompt, but
+there's a certain probability because
+the  AI is a bit random. Obviously
+at Replit, we try to make these
+results the best they can be.
+Some of your apps might
+be really great. Some of your
+apps might not be so good
+, and that could simply be because
+AI makes mistakes sometimes. And I've
+done this live on podcasts before.
+I try to build something, it breaks, and it's
+really embarrassing. So what I'm
+trying to emphasize is that the same
+prompt will give you different results.
+Some of them might not work.
+Some of them might work really
+well. And there are things we can do
+to increase the quality and the
+probability of success. And that's what I
+explain in this video. But that doesn't
+mean you won't fail sometimes,
+right? This is like sports. If
+you ever played a sport, you played
+baseball. I played baseball. If you bat
+.300, that just means you
+literally fail 70% of the time,
+and you're still a great
+baseball player. Think of it that way, right
+? Like, not everything is going to work. It's not
+going to work all the time.  I'm not
+saying you're going to fail more than you
+succeed, but what I am
+saying is that you could fail. And the
+implication of that is that we can't
+be afraid to fail, right? We can't
+be afraid to start over.
+And the secret to being an engineer is, in
+fact, failing a lot. And there's this
+concept of variance, which just
+means there's a probability
+associated with these events. Um, and that's
+the mindset I want to bring to
+building with Replit. That we're going to
+fail, and things might look
+different sometimes because AI is
+just random, right? Like,
+the prompt I gave Claude
+might be different every time I
+send it. I'm
+just going to quickly say that it's
+funny you mention that. Um, I was
+using ChatGPT this morning and I was
+having that exact thought—
+sometimes I wake up and use ChatGPT or
+other AI tools, and it seems like
+the answers it gives me are so
+perfect and great, and other times I
+wake up and use it, and it's like it's
+completely off.
+And as for your point, it's like
+we have  We have to get used to the idea—and it
+was even an adjustment for me—that there's
+no perfect way to use these
+tools. There's no such thing as a
+perfect prompt, and they're unpredictable. So
+sometimes it works well, and sometimes it doesn't.
+And then, the important thing is, can you
+fix it? Can you almost, like, right the course,
+as you were saying? And obviously,
+we're going to get into how people can
+do that.
+Yes. And that's perfect. So, if there are
+people here using ChatGPT, it's all
+about context. When I say
+context, I mean the information you
+give the application. In our
+case, it was a prompt, right? Like,
+this is the context the AI ​​has.
+Sometimes it might be a link, as
+we'll see later in this episode.
+Sometimes it might be an image. It's
+about the context we give the AI
+. So, I want to break down exactly
+what's happening here, and then
+we're going to jump
+into the build. So, the agent
+said, "I'm going to help you create this," and
+then it searched the web for
+meditation techniques.  Right? So now it's
+learning about meditation and it's
+going to integrate it into our app,
+and based on the research, it
+gathered information about the
+app and created a
+visual preview of what it might look like. So
+, this isn't really a
+working app, but it's a preview, and it
+tells us exactly what
+the app will include: a
+robust timer system,
+meditation presets, customizable timer durations
+, visual breathing guides
+, pause, resume,
+session end,
+progress tracking. That's perfect. It's a lot of
+what I wanted. And this looks
+good. So, when I click
+approve plan, we'll go into the
+workspace. An agent will start
+working. You see this little message
+down here? And what it's going to do
+is basically build this
+visual preview, because this is just a
+preview. It won't look exactly
+like this. But agents use this, and
+when I say agent, I mean
+our automated developer.
+You can think of it as a
+junior software developer or something that can
+build apps. It's going to use this
+preview for what it's
+building. And conceptually, I want to
+talk about what's going on because
+this can  It can be confusing for a lot of people
+. I've noticed that a lot of people don't understand
+how cool this is or why it
+might be different. I'm on
+replet.com here. I didn't install anything on
+my computer. I didn't have to install
+Python. I didn't have to, you know, learn
+what Python is. I didn't have to install
+JavaScript or any of these other
+things you hear about. And I
+just created a workspace,
+and now I have this
+freelance developer writing
+files to build something that looks like what I
+have on my right. So
+this is a pretty easy-to-
+use screen. I'd like to think it's
+pretty easy to use. You know, it
+can always be improved. But under the
+hood, if I click "open files,"
+there's code being written here. And that
+'s important for several reasons.
+Because at some point, let's say
+you have an
+incredibly successful application, maybe you
+hire a team of
+developers. Well, you need to
+give them the code, or maybe you want to
+learn more about how to write the
+code. You can ask the agent or
+assistant, another tool in the
+workspace, "Explain to me what
+this is, right? Explain to me how
+this application works."  Tell me
+what you're building. And you can
+break it down. I actually talked about being a
+software developer. I learned
+backend engineering in Python. It's
+very different from
+frontend engineering, building these applications
+. But I learned it through AI, like,
+"Okay, I'm going to build this, then I'll
+open it up, go in, and just look at
+the files." And after months and years,
+you understand what they do and end up
+writing that code yourself.
+So, if you want to learn, if
+you want to go down that rabbit hole, this
+is really important for
+learning. Um, if you don't want to learn
+and you just want to build generic stuff...  ials
+, that's the main goal of this
+episode: that you can simply
+build cool things.  But, just like
+when I talked about how
+a car works, starting to understand how
+things are organized can be
+very helpful.  And that will also be one of
+the main topics of this video.
+Yes. You know what?  And this is why
+I was so excited to
+invite you, because we've had
+guests on the show who take us around
+Replit and show us certain things
+.  Um, what's great about you is that you
+work at Replit and you're part of
+building all of this.
+Therefore, your knowledge of the agent and
+the platform is on another level.  I have
+this idea that what separates a
+beginner from an expert is that the
+expert has so much experience that he is
+aware of certain functions that,
+for a beginner like me or someone
+listening to us, we wouldn't even
+consider.  So, what
+are some of the features or aspects
+of Replit that people often
+completely ignore, but which
+would be tremendously valuable if they took them into account
+, even when
+building their first product?
+100%.  This thing, this environment we
+'re in right now, is like a
+computer.  Think of it like a
+computer.  It runs in the cloud.
+We are accessing it through our
+browser.  But it's like opening your
+laptop and installing a bunch of stuff
+.  Which means this is going to get
+a little technical, right?  But there is
+a terminal.  For example, if I want to go
+here and type in the terminal, this
+is the command to list files.
+I have a file system.  So,
+under the hood, this platform has
+access to everything a developer
+could do.  What I'm
+showing you now are things that a
+developer would do.  They might want to
+install languages.  They might want to
+configure that environment.  Our agent
+is doing all those things.  And
+people take this for granted, right?  If
+you're building something like Claude,
+you can create an artifact or any
+other tool.  What you don't
+realize is that that's not actually an
+environment.  It's not how a developer
+would build an application.  And that's why it's
+so difficult to make that
+work.  If you've ever tried to
+build something, you have to figure out
+how to set it all up on your own
+computer.  You need to figure out how to
+add a data source.  I'm going to
+show you exactly how to add a
+data source.  You need to figure out
+how to do all these things.  All
+these things that Replit offers for
+free because it is built on the
+platform.  And the platform is what
+'s truly powerful.  I think a lot of
+people get confused when they get here and
+see Replit, because they don't understand that
+we actually built all the
+tools a
+developer would use.  We built all this
+really complex infrastructure and
+then we just gave it access to
+AI.  Other platforms don't have access
+to all the different tools,
+right?  And that's a very
+big differentiator: what it means to deploy something
+or add a database.  These are things
+that people sometimes take for granted.
+What running a project
+on Replit means is that I can
+take this and open my phone.
+We'll see if this works right now.    I
+'m almost certain I logged in
+.  And if I go to my apps on
+my phone, I refresh and open what
+we're building.
+They can probably, maybe, see this.  This is
+actually the same workspace
+that's running on my phone
+.  So, in real time, I can see
+what I'm building because it's
+in the cloud, right?  So, if
+I had to leave, I just pick up my
+phone and I can continue giving
+instructions, continue building, and
+see what's happening.  So you can
+build in real time in a
+completely isolated environment.  You can take it
+with you wherever you go.  And it has access to
+all the same tools that a
+developer would have, which, as
+we build this application
+, you'll see allows for some pretty
+powerful things.
+Yes. Okay.  You know, I want to continue for
+the audience and go into a little more detail
+.  If someone gives you a kind of
+plan of what they're going to build, and
+while you're evaluating the plan (because I'm
+thinking of the person at home doing
+this right now and reviewing it,
+saying, "Okay, it sounds good"), at
+what point do you hit execute? What makes you
+hesitate? What makes you start over
+from scratch instead of
+saying, "Okay, I'm going to execute it and see
+what happens"?
+Yes, no, I mean, basically I send it;
+Most of the time I just take
+a quick look to make sure he does
+n't do anything crazy, you know?    I
+just want to make sure there's
+nothing in the plan that's too
+complicated.  In fact, I think about
+simplicity.  I wonder if this plan
+is simple enough, because
+I want something that works the first time.
+So I really wonder if it's
+simple enough.  Basically,
+I'm looking for things I'd like to remove, not
+necessarily add.  So
+most of the time I just
+send the plan, to be honest.
+What would be an example of something that, if
+you saw it, would be a warning sign?
+Something you'd say to, "Okay, I
+really want to get rid of that."
+Yes. I think about the complexity.  I think
+one general theme that I hope you take away
+from this example is simplicity above
+all.  I already talked about consistency.
+Simplicity and consistency above all.
+If I see that he's trying to build
+something, you know?  If I'm trying to
+build Uber and I'm thinking, "How do I get
+a million people to use my
+app? That's going to be really
+complicated. I just want a
+working timer. That's what we're
+going to get to. So that would be
+my example, right? If you start looking at
+really complicated architectures,
+things you don't understand or that don't
+relate to your vision, start with
+an MVP. Strip it down to the simplest thing
+you can create and then start moving
+toward that step by step because, again,
+the goal here is to get to something that
+works. The way I see it is
+as tinkering with things. It's a lot
+easier to tinker if you have something
+that works. So we want to get
+to the simplest thing that works and then
+iterate to build something great. It's
+like, "Look, if I want to understand how
+a clock works, I can just
+take one off the wall." You know, like
+one of those
+old-school analog clocks, right? It's easier to
+open something up, open an
+electronic device, open a mechanical clock
+and look at it and see, like, "Oh, I can see
+how those pieces fit together," and I can
+think  What I would like to add,
+instead of spending all this time
+planning, spending all this time
+building from scratch, building
+a completely new clock because you're
+only interested in being very complex,
+you know? I think if we can start with
+simple pieces, that's the best bet
+. Yeah, it's almost like, "Okay, what's
+the main function?" And then
+making sure that core works
+And once you're confident in that, it's like,
+we're ready to go. Okay.
+So, what if we press
+deploy, not deploy, if
+we press start,
+and then we can talk about step
+three, which is perfect.
+Of course. Yeah. No, let's
+dig into that. Okay. So, you
+know, the agent executed this. It took
+about—we were talking about it the whole
+time—it took a couple of minutes,
+I'd say. You know, the first thing is, it's
+a timer. So, if
+I press play on timer
+number one, this doesn't seem to work.
+So, you're going to see in real time,
+right, that we're building something
+here. This is—uh,
+this is what we want.
+This is different.
+Yeah.
+Okay. So, we have  The design. It
+tells us to inhale and hold, it
+seems, every four seconds.
+Exhale. Okay. That's
+square breathing. So if you don't know
+square breathing, it's inhale four
+, hold four, exhale four,
+hold four. That's the pattern,
+right? So that's actually
+working. So it's keeping
+track of time, but it doesn't seem to
+actually be updating the
+state. This might sound pedantic.
+This is important, right? Because
+what we're going to talk about now is
+actually the debugging process. And
+that's a really
+important skill in
+intuitive programming, uh, in building your ideas.
+Um, so I'm going to switch to a
+different tab. What is
+debugging? What do I mean when
+I say, excuse me?
+And just quickly, because you said you
+had a great quote about this, I just
+wanted to read it before you go into it
+. You said, uh, you test something, it breaks,
+but now AI helps you fix it.
+That moment when you debug with AI is
+the moment you start to believe you
+can  Build anything.
+Totally agree. Totally
+agree. You know, and actually, more than
+before, I'll switch back to the agent, um
+, and say something like, "The timer is
+n't working." Uh, that's not really
+descriptive enough. The
+timer isn't counting
+down, but I see the
+breathing box, um, like the wizard is
+moving. I'm being very descriptive
+about what's going on, and, uh,
+can you fix it? So, the
+important thing about the agent is that it has
+access to this whole environment. So
+behind the scenes, what happens is
+you can look at the console and see that the
+console is just a place that shows you
+what the application's database server is doing
+, right? Um,
+then there's an interface console
+as well. And what you'll see is the
+agent says, "I need to fix the
+timer countdown problem. I can see there's an
+LSP error in the
+storage layer." I don't even know what the
+heck that is. I'm not too worried about it
+. But it's going to analyze it and
+start fixing things. Now  It
+says I need to examine that
+timer logic a little more closely.
+I think it could be this or that.
+So you can learn about the
+implementation and what's going on.
+Again, all of this is a little
+complicated. You don't have to worry
+too much about it. But now you can
+see that the agent is checking these
+things out. It's testing them to
+make sure they work
+correctly, seeing some
+React bugs, and it's really doing the
+debugging work for me,
+right? It's doing a lot of the
+heavy lifting for me. How do I connect
+this to what I was going to say earlier?
+Debugging is a process of
+observation. You know, we're
+finding bugs in the application and
+then we're eliminating them. And in the
+simplest way, right? Maybe you have
+a lamp that isn't working. The
+first thing you ask, the question you
+ask, is, "Is the lamp plugged in
+?" Now, with AI, or without it—let's
+talk about without AI—you would have to go and
+see if the lamp is plugged in.
+Now, with AI, you can ask, "Is
+the lamp plugged in?" The AI ​​will
+figure it out for you.  Because the agent
+has access to that environment, right?
+So I sent that command. It's like it
+'s reviewing and basically
+debugging the application for me. But
+what I had to do—we already talked about
+context—was provide context.
+I had to visually inspect my
+application and say, "What's not
+working?" And I had to break it down
+logically. Hey, this part of the
+application isn't working, but this other part is
+, and I'm going to give that information to
+the AI ​​to get to the root of the
+problem, right? And tell the LLM,
+tell the system what's failing
+. And that, in a way, brings us to
+context, doesn't it? Context can be
+the message we give the AI, but it
+can also be images,
+documentation, bugs, or other
+details about the application that the AI ​​is
+unaware of. So, all we're
+doing is giving the AI ​​context to
+help it debug. And, you know, we're
+building this application. This is another
+great example because I built this
+application before this podcast.
+Obviously, I want to make sure it
+works, and it worked the first time. And
+now, because  Sure, I do it live and it does
+n't work, but that's part of it,
+right? So we're
+having fun together. I mentioned that the
+countdown timer wasn't
+working. I click it and now it works,
+right?
+Yes.
+And this is simple, it's like maybe you're
+saying, "Hey, Matt, that should have
+worked the first time anyway.
+" You're probably right.
+I'll take this back to the team. But
+these are the basics of what I
+want to talk about because you're going to build
+apps and you'll ask yourself, "
+Why isn't this working? Why is
+this other thing working?" I don't know, do
+I? For example, does the
+pause button work? Yes. Does the
+stop button work? Yes, it works. It
+resets. And when I press start
+now, I get this
+nice little countdown. Did we break
+anything else? Right? Maybe you're
+wondering, can I start practicing
+square breathing? The
+square breathing timer
+works. Hold. Two. Three. Breathe out.
+Good. So now this  It's
+working. Now we have a little
+timer that keeps up with our pace.
+Perfect. I really
+like this, actually. It seems to be
+working for the most part. The tricky part,
+of course, is how do we track these
+sessions? How do we make it so that
+anyone can log in? This
+is one of those things you wanted to know
+, what sets Replit apart. Why
+should people use Replit? To have
+all these tools available.
+So what I'm going to say here is to add,
+um, user login,
+also known as authentication, you
+know, some might call it
+that, uh, with Replit Auth, um, and
+store user session data
+, um, so that I can
+view it in my account. I'm going to
+submit that. This is almost like if
+someone said, "I have an
+application, and instead of, you know,
+every time you log in it being a
+new session, someone can actually create
+an account where their data is recorded
+and tracked over time." That's
+essentially what you're
+building right now.
+Yes. So, sure, if I log
+into Replit, I have my account...  Replit, and
+I can see my apps. If you have
+an account, if you have an app
+that you want to share with people,
+then they need to be able to personalize
+that app. They need to be able to
+save information. That's actually
+called user authentication or
+login, right?
+Basically, you log in with your
+Replit account, or your users
+would create a Replit account to log
+in. It looks like they're
+logging into your app.
+Yeah. You know, it's really cool, and I think it's
+a really interesting part of the
+experience. It's kind of what I said
+before: for 99% of us,
+we're just used to using
+apps as consumers. And I think
+we come back to that point of why it's
+so important to get started, move fast
+, deploy, and publish, because as you
+go through this process, it
+actually teaches you some of the
+fundamental elements of building
+something with software.
+I think that's exactly right. And
+there are things, um, that I sometimes forget or that I
+'ve learned just from building. So I
+want to highlight a few things.
+First, if you're looking at what I'm
+building and you're wondering, "How did
+Matt know how to do that?" Well,  It's
+really like
+pattern recognition, because as you
+get good at building things,
+you'll be able to identify, like, "Oh, I
+'ve seen this before." I know how to
+solve this problem as a human being. You
+'ll be able to do it. I promise you.
+"Um, and two, knowing what's out there
+."  And that's also learned
+by doing.  And that's why, you know, the
+way I usually talk about this is
+through frameworks.  So,
+this is as if React were just a
+framework for writing a certain type of
+code.  You don't have to worry about
+that.  The important thing you should be
+concerned about is that you don't know what you do
+n't know.  Exact.  That's right, exactly what you just
+said.  If you think, "Oh, it'll be
+a breeze to add
+user login," and then end up wasting
+two hours on a complicated problem
+trying to do it, you're going to learn your
+lesson and waste time, right?
+So my favorite part of the job
+is showing people what they can
+do and how to overcome all the things
+I struggled with.  Don't do
+that.  Do it the simple way.
+Right? How do I do what I want to
+do? What frameworks
+allow me to achieve this? What frameworks has
+someone else created that I can
+simply integrate into my application,
+or do I need to develop what
+works best with LLMs?  If you don't know,
+you can simply ask the LLMs
+or, as you said, start building.  And
+that's a super important lesson, is
+n't it?  It's like learning to know what you do
+n't know.  That's a really difficult part
+of life, actually.  So, I don't
+want to trivialize that.  It's difficult and, you
+know, it's something we'll have to
+work on.
+Yes. And you know, I think I even wanted to
+reread it when you said that the
+moment you debug with AI is the
+moment you start believing
+you can build anything.  And I
+like it...it really caught my
+attention, because I think a lot of people
+get discouraged, and I can even imagine
+myself getting discouraged if I saw
+a video like this, you run, you try to
+build something and, suddenly, it seems like
+something that should be simple doesn't
+work.  And it's actually that
+descriptive process you outlined, where
+you explain what went wrong to the agent and
+then the agent corrects it.  That really
+gives you momentum.  It's going back to what you said,
+you'll start to believe you can build
+anything.  When
+things break,
+you should kind of look at it with optimism, because that's
+how the process goes, that's
+how it should be.  Hm, yes, I wanted to
+clarify that point for everyone.
+Thank you.  I love that.  And I think about
+this every day, you know, because
+apart from being Matt from Replit,
+I'm also Matt, a human being.  I think we all
+see these things in life.  And I want to
+relate this a little to life,
+right?  Because, you know, I'm sure
+that our viewers all
+have a life.  And I'm sure, well,
+no, I know for sure.  Everyone, at
+some point, goes through something that's
+awful, or difficult, or
+a burden, or sets you back, or
+feels unfair, and you
+feel resentful towards the world for what
+happens to you, right?  And maybe
+you want to feel like a victim,
+like "poor me," thinking that you can't
+do anything about it.  You can
+gain momentum by doing difficult things
+, or even not so difficult things, just by
+building things;  It may be
+difficult or easy.  You get momentum
+by running, waking up and saying, "
+I'm going to go to the gym, then to work, I'll do
+a good job, then I'll go
+home and do right by my family
+," right?  And all of this is very
+important, right?  So I don't
+want to relate it just to "hey,
+now you can use Replit".  But to
+build these things, Replit is a
+platform for you to build your
+ideas.  And right off the bat, we saw a problem.
+We saw a mistake.  I could have
+simply given up.  And I probably would have
+thought, "Damn, I came to this podcast and
+failed."  Sometimes you're going to fail.  That
+'s part of life.  But just one
+message observing things and, oh,
+now it feels a little easier,
+the pressure has gone down.  Now I think that if
+I encounter a problem, I can actually
+solve it by being resourceful, working
+hard, or trying things out.  So, to
+connect that with my main point,
+right?  It's like you build momentum,
+just like you said, in your life by seeing
+challenges, facing them, and, you know
+, basically becoming a better
+person.  And, and that's very important, and,
+and you can do those things by creating with
+AI, and that's the point I'm trying
+to emphasize.
+Yes. No, I think, I think it's
+brilliant.  Okay, you know, if
+we wanted to move quickly,
+let's assume we're ready to
+implement.  So, we've passed
+the refinement phase,
+followed the steps, debugged, made
+sure it works, and we're
+ready to implement.  I think one
+of the great things about Replit, when I
+saw it, is that it's very easy to implement
+something.  Could you prove it?
+Absolutely.  Um, assuming
+we have a minute, let's see if this
+worked because we tried to implement
+our login here.  So
+if I click start, let's see
+what happens.  Um, let's log in
+.  A pop-up window appears
+.  You probably can't see
+this, but I'm logged in with
+my Replit account.  And now we have
+our app.  Top right
+.  That's my profile picture.  So
+something worked.  Our app is
+still working, I hope, as
+we expected.  So I can start my
+meditation countdown.  But
+now I've logged into my
+app and it should be tracking
+sessions.  So, if I pause this, or let's say stop it
+, let's see what happened.
+Um, we'll update to see if anything
+updates.  Um, we didn't get our
+session.  I just want to summarize what we've
+come up with, but we do have a
+database.  And if I click on view my data,
+I have meditation sessions.  I have
+users.  If I click on user, I
+should see myself.  My
+email address will probably appear.
+So we won't do that right now.
+But we have all the
+basics to be able to log in and
+create user accounts, right?  Uh,
+we have all the basics
+there.  And now it would literally be a
+follow-up message saying, um, you
+know, implement
+session tracking for my user, and we would have
+exactly what we described at the
+beginning.  Now, I think that's
+amazing, going back to what you said.
+What does "implement" mean,
+right?  Everything we just
+built is in its own little
+environment.  So I said to think of
+this as a computer.  And what does
+that mean?  Well, that means
+if it's running on this
+computer and we take a snapshot
+of that and deploy it, well,
+then it will run in the cloud.  And that's what's so
+amazing about Replit.  So
+, if I click on deploy,
+some settings appear.  This
+can be confusing.  We're not going to
+worry about that right now.
+Most of the time, you can only
+click approve.  We're going to call
+this the Zen timer.  Um, we'll call it, yes,
+zen timer uh.replit.app.  Um, and we're going to scroll down
+here and click on implement
+.  Other notes: you could run a
+security scan to make sure
+this is secure and there are no
+vulnerabilities.  You could, um, link a
+custom implementation, like your
+own custom URL, like
+mattpalmer.com or something like that, right?
+Um, so I can go to a real website.
+But what we're doing is taking
+a snapshot of this environment and
+uploading it to the internet.  Now, that part of
+the snapshot is very important
+because many times people build
+things and they break.  So, another thing I
+want to mention is that when
+we're building this application, it
+gets a little slow.  Um, the agent
+is taking snapshots or making
+checkpoints of our
+applications like in a video game.
+So, here we have a
+checkpoint that was set up 24 minutes ago
+while we were talking.  It is after
+building the main interface and at
+any time I can preview
+how it looks, I can return to that
+checkpoint.  So we can revert
+the files, the agent, in fact
+our entire database, all our
+data as well.  And we can know that
+we are completely safe.  And the
+amazing thing about Replit is that you don't have to
+configure any of this.  You don't have to
+worry about losing your job.    It
+also means you don't have to
+worry about failing, right?
+Because if I went a little crazy and
+started implementing a bunch of
+experimental things like we're
+doing right now and it broke, that's
+okay because I can just
+go back to the last checkpoint and
+keep building.  And then, what we
+were talking about earlier, right?
+This mindset of not being afraid to
+fail, of the randomness of it all
+, well, your work is actually always
+saved.  So you can be
+more, um, adventurous.  You can, you can
+take risks and not worry about
+messing anything up.  And, to relate it
+to that, right?, I talked, I spent a couple
+of minutes talking, a couple of minutes
+chatting.  We have our application
+implemented.  Uh, I'm going to switch to that
+app.  We get exactly what
+we had before.  I'm going to click
+on start.  And this is the
+login screen I was talking about
+earlier.  I'm going to log in.  Now I
+have my timer.  Uh, it works
+exactly as we wanted.  They can't
+see it, but it's on
+zen-timer.replet.app.  I can leave this
+open for your viewers.  They can
+play with him.  Um, now we have a
+countdown.  I just asked you to
+implement our
+session tracking.  So maybe if I pause or
+stop.  So, does anything work or
+will we have to...is this something for
+the future?  That could be a
+future effort.  Tracking sessions
+can be quite difficult.  Um, but
+the basic structure of our
+application, we built it, we took
+an idea, turned it into reality and
+deployed it live on your own
+website.
+Good.  So this is real, people
+can go and see it, it's actually
+live on the internet right now.  This is
+Zen Timer.  Zen-timer.  We'll be back here
+.  Uh.reuplet.app.  So, if you
+'re seeing, um, oh, I'm on the
+wrong tab.  So, if you
+'re watching and you want to, you know,
+scan this QR code, we could
+put it there.  I will leave this application
+open for your viewers to
+review.
+Yes. And, just briefly because
+I want to spend a few minutes talking about,
+um, I think what creators are
+sometimes afraid of, which is marketing
+, getting people to actually use it or
+getting your first users.  Um,
+but before we get into all that,
+because I can imagine that for me, if I
+had launched it and it was already live
+on the internet, the first thing I would
+think about is almost the design,
+how it looks.  Is there a way to
+say that there are certain websites whose
+design I really like?  I could
+go back to Replit and say, "Okay,
+I really love how
+Apple's page is designed, or Nike's,
+or WB Park's, or any brand's, Airbnb's. Is
+there a way I can almost
+design this page to make it look
+a little more aesthetically pleasing, to make it look
+more like something I might see
+from other, bigger brands?"
+Absolutely. And, um, you know, I think
+we could have... I would have
+loved to delve into this a little
+earlier. There were other features I
+was planning to develop, but one thing
+I want to emphasize is that you can give
+the agent all kinds of context.
+So, you know, we see a
+timer that we really like.
+Hey, look, here's one; maybe
+I want my timer to look more like this
+. I just took a
+screenshot of that page, and I'm going to go back
+to Replit. I'm going to paste that screenshot and
+say, make it look like this. Or
+even a step further? What
+if we just have the URL matttimer.com?
+You type in the URL, click take a
+screenshot, and you get an image of the
+application. So you can take
+screenshots  and provide them as
+context. You can just type in
+a URL and provide it as context.
+Some apps, right? If the
+app or the URL doesn't exist, that would
+fail. You can do a couple
+more things, right? I was thinking:
+maybe I want to add white noise to this
+app. Well, I found a site
+that has white noise. I download the
+audio and add it to our app
+. I can paste that URL. I click on
+get text content. It's going to
+pull the information from that page.
+It's going to import the MP3 and add
+white noise to our app just
+because I found it. Another thing,
+specifically for those who love
+designing: we also have a
+Figma import. I have
+separate videos on how to cover that.
+You can design something in Figma and
+import it. You can build with other
+tools, import it, and continue
+building with the agent. These are all
+great ways to start
+building.
+You know, what just came to mind
+as you were explaining it. It's almost like
+having a teammate. Like if
+I had a business and had a
+web designer on my team, and I saw
+something on the site they launched. I'd
+actually say:  I want it to look
+more like this. The way
+you talk to the agent is like you're talking to
+a teammate,
+telling them what you want.
+Exactly. Exactly. Think of it
+like you have a
+junior developer. Think of it like you have a
+team, and you're the manager of your
+teammates, helping them figure out
+what to build. Like I'm
+baking a cake for
+a friend's birthday. I'm actually
+hiring someone to make a
+cake, right? So, you get
+someone on your team, and they say, "What kind of
+cake do you want me to make?" "Well, you have
+to think about what your
+friend likes." You have to think about all
+these things. How do I make this
+perfect? ​​And how do I explain that in
+simple language to an employee to
+help them create what I want? And what
+we're doing with AI is
+using it like an employee or a
+coworker. Hey, I really
+want you to build this, and I have to
+be very descriptive to get what I
+want. And I have to be very precise,
+understand the language, and grasp it from
+the very beginning.  principles of what's
+really happening in my application. And
+these are exactly the skills I
+'m using to build this
+application. And then I'll mention one more
+thing. It turns out our
+session tracking did work. We
+just had to wait for
+the session to end. So,
+basically, from start to finish. In
+fact, I think we achieved a lot more
+here than I expected, with the
+ability to log sessions and
+save accounts.
+Some of those things you included,
+like even the screenshot.
+Could we actually see that applied
+? I don't know. I'm just curious
+to see what it actually ends up being.
+How closely it's able to replicate it.
+Uh,
+so that's another thing. We'll talk
+a little bit about this. When you think about
+giving AI a screenshot,
+what does that mean? Like, the AI ​​is going
+to see an image. What are the
+limitations? Let's think from
+first principles here. What
+are the limitations of giving AI
+an image? Well, it probably won't
+know the source, right? It won't know
+exactly what text was used, unless
+, maybe in a year, the models
+are super good. It
+will probably match the  Colors. It can
+match colors pretty well. It won't
+have the image resources, it won't
+have all these other things. So I
+'m giving you reasons why
+this might not work. Because
+doing it live and then rebuilding
+the whole application often doesn't produce
+great results.
+Great results. We can do it.
+But if you think about it from the perspective
+of whether I can figure out what font it's
+using. Can I figure out where
+those images are? And if you can find
+the resources, I mean, if you can
+find all these things, you're going to be
+able to get a lot closer. Or if
+you figure out how to build it in Figma, or
+if you find, you know,
+clever ways of giving the AI ​​what it
+needs, right? If I said to you, um, you
+know, "Hey, clone this website," and I
+only gave you an image, what
+would you do? You'd go out and try to figure out
+what font the site used,
+you'd try to figure out where to find
+the images, you'd try to see how to
+use the text, and all these things are
+difficult for AI. So, from my
+perspective, if you try to clone something, it's still
+one of those tasks. I don't
+want the  People might think I'm just going to
+send it a screenshot of
+Nike and have my own
+shoe store.
+Actually, you know, it'll be able to do
+web research. So, if you
+tell it to do web research to
+understand what fonts were used, to
+find similar images and all that,
+the AI ​​could get us closer to that. Um
+, but along with the screenshot
+, I'm doing exactly what I just
+told you, a human's job
+. So, if I were to add the
+screenshot, I'd say something like, um, I want
+my app to look more like this.
+Research to understand where you can
+find a good... Now, here's
+where some of that prior knowledge comes in
+. In this app, there's what's
+called a serif font. How,
+Matt, how do you know what a serif font is
+? Because I'm a huge nerd. That's
+how I know. Um, but these are the kind
+of terms. You don't know what you don't know,
+right? A good serif font, and the
+AI ​​knows what that is. Um, put the
+app in dark mode and look for
+similar free resources online
+that we can...  Use that for our
+timer. So, we could
+send—we could, sorry.
+Basically, the more detailed
+you are, the better it will be able to replicate the
+thing accurately. I guess if you
+just want it to be close to
+looking like the app or website you
+had in mind, then yeah, I guess
+sharing the screenshot is a good
+starting point. But if you really want it to
+look very similar, it's like you need to
+give it as much detail as possible.
+100%. And this is where we get into
+our fidelity levels and
+how we think about just
+quickly cloning something, or pushing ourselves to the
+limit and saying, "Okay, now I know what I
+want," right? And what I've found out
+from working with AI—a
+controversial opinion here—is that it will be very
+difficult for me to
+drastically change the functionality of this
+app. If I wanted to rebuild
+this entire app and send that to
+a prompt agent, it could take a
+very long time. It's really hard
+for AI. It gets confused when
+projects start to get bigger and it's
+building the structure. That
+could be a point. I do this a
+lot. I build something and then I say, "
+Okay, this is great."  "Right?" Like
+we had our app.
+It says, you know, like we have
+ocean sounds or something.
+Okay, I don't know if you heard that. It's
+white noise. It's not an ocean.
+Well, we were close. Uh, but I want to
+change the whole structure. And along the
+way, throughout the
+building process, I learned
+what the structure should look like. This
+is huge, isn't it? Because if we take that
+MVP approach, that
+prototyping approach of building,
+being observant, you're going to build and
+then say, "Man, I wish I had
+done this differently."  I wish
+I had done it differently.
+I wish I hadn't made this mistake.
+I wish I had changed my prompt at the
+beginning to do this other thing." And
+you can do that now, right? So maybe instead
+of saying change
+the whole app, which I could
+do, I could go to replet.com and
+say, "Hey, you know, I have
+this app and I want a
+meditation app that looks like this." So do
+n't be afraid to start over
+, to start again with new
+information, right? Don't be afraid
+to say, "Hey, I learned this while
+building with this app and now
+I want to take it to a new one." I've
+done that like four or five times where I
+built something;  It was a bit of a hack,
+but then, what I built, I said, '
+I'm going to extract all the knowledge
+I learned from this and take it to my
+next app.'
+Yeah, I love that. And that brings us to the
+point we were making at the beginning: it's
+not a linear process. Sometimes you get all the way to the
+end
+only to go right back to step one. And, in
+fact, that's how it should be. You know
+, before we wrap up, I wanted to talk about
+this because you've seen a lot of products;
+there are hundreds of thousands of apps
+built on Replit. Some are
+incredibly successful and have raised
+funds. Others, you know, don't get
+anywhere. If you take those two
+extreme cases, the people who tend to
+get users, real adoption, and
+whose project moves forward and gains
+traction, what have you discovered in
+terms of getting users? What have you
+found to be beneficial?
+Especially when it comes to those
+first users, right? Because
+those are the hardest to
+get. It's like your project
+isn't fully validated yet. You don't
+have a lot of money to develop it.
+What have you seen that works for
+people to get those first
+users?
+Yeah.  Um, you know, it's hard.
+So I don't want to say it's easy. It's
+hard to build something that improves
+people's lives. It's hard to
+build something that
+people care about. A lot of times you're going to get that
+rejection. I think the worst kind of
+rejection is just being ignored, you
+know? Like building something and nobody
+says, "Hey, Matt, this looks bad." They
+just ignore what you're
+building. That, man, that's
+hard to accept, right? So
+building and launching is a matter of
+consistency. It's a number. It's
+simplicity. It's thinking about what you do
+and doing it over and over again, right?
+I think some people see the
+creative acts; they see that the act of creating a
+company is creative in nature, is
+n't it? Like, the idea you have, you have to
+pick an idea that resonates with
+people and then execute it. And just like
+I talked about the results, it might be
+luck, right? I mean, maybe you have
+the perfect idea and you fail, then
+someone else does it the next year and it
+succeeds. Or, like Amjad, right?
+He had the  The idea of ​​integrating AI into
+Replit. He tried to implement it around
+2020 or 2021, more or less, and it failed,
+but two years later it worked,
+you know? What does that mean? Well, it
+means there's some luck
+involved. It means there's
+definitely skill and
+there's definitely creativity, but it
+means you can try something,
+fail, and then try it again and it
+might work. And that's why I think
+the things I talked about, right?
+Consistency, simplicity—you're going to get
+really good at it. You know,
+maybe you won't get users right
+away, but eventually you will
+. You know, you, I, you, you're famous on
+YouTube. You're way more famous on
+YouTube than I am, right? I mean, I'm
+sure that the first videos
+you made, getting users isn't any
+different than getting views on a
+video, right? You have to grab
+people's attention. This is where
+product marketing comes in,
+right? I have to solve a problem
+that you care about. And the solution has to be
+important enough that you
+say, "That way..."  The way I've done
+things for 10 years, I'm
+done with that. That way
+I've done things my whole life, I want to
+try this new product. And that's it, it
+'s really hard to get
+people to do it because most
+just want to do things the
+same way. Your idea and your
+execution have to make
+people say, "I want to try this, and this
+is better than the way I did
+things before." Right? And it's the same
+with a YouTube video in a
+very micro context. "This video is worth my time."
+Right? And that's like, you know,
+most people, they
+value their time. Um, and so
+, I'm sure the first
+videos I made, nobody watched them, nobody
+said anything about them. But you do it again
+and again, and you watch it, and you
+refine your craft, and you make the
+product better, and you make your
+process better, and you make the way you
+share it better with
+people, and you make it more engaging, and you
+make it more informative and more educational
+, and  Then, finally, you wake up and
+say, "Wow, people want to see my
+stuff." "They want to use my product."
+So it's all about consistency,
+simplicity, execution. You know,
+you said something, you mentioned it, you
+'ve mentioned it several times. It's been
+like a recurring theme of, um, not just
+building, but really sharing it
+with others. And it's really interesting,
+because I've been paying attention to
+a lot of the people who have been
+doing "vibe coding" and building
+products, and who have been successful
+doing it with AI. And there's a part of
+their marketing strategy that I
+love, which is that they build in
+public. And so, as they're
+building the thing and they run into
+bugs or problems, or they spend two or three
+hours using a replicator and get to
+a point where they're stuck. It's like they
+document the whole process and then
+share updates with
+people on Twitter. And it's a really
+effective way of doing this subtle marketing,
+where as you're building the rocket, you
+tell people, "Yeah, this just
+crashed, the rocket exploded, the engine did
+n't work." And you go  Building that
+base little by little, and when you finally
+launch, you already have a group of
+people who have followed the whole journey and
+are ready to be those first
+users you need. It's a
+very organic and authentic marketing approach
+Yes. And, you know, if we're talking about how
+this relates to marketing,
+right? It's about building a brand
+because we're all different human beings
+. And people ask me, "Oh
+, I had this idea for content and I
+just didn't start." This brings us
+back to the
+perfectionist mindset. Oh, well, I had this
+idea for a conversation or a video.
+A great friend of mine said, "Hey,
+let's have a conversation." And
+we had the conversation. It was an
+amazing conversation. And she said,
+"Yeah, I've always wanted to start a
+podcast." And I said, "Just put
+people in front of you and do the same thing you just did
+with me now, because
+that's great, right?" So,
+when you think about building a
+personal brand, you just go out there
+and I'm myself on Twitter. If you
+follow me on Twitter or YouTube, I hope that comes across
+.  It's simply
+who I am. And it turns out people
+like people a lot more than
+faceless, nameless brands,
+right? So, if you can be
+yourself, you're going to find other people
+. Maybe it's not about technical stuff
+or nerdy stuff. That's who I am. But
+maybe you love sports,
+basketball, or, I don't know,
+hiking, whatever. If you can
+express that, you're going to attract other
+people who like the same things and
+who want to be around you because
+you give off good energy. That's my
+approach to marketing. You know,
+there's a lot of stuff written about how to
+sell to different types of people
+. But at the end of the day, it's just about
+being authentic. And building an
+audience is very powerful because you go out there,
+show what you do, and fail. Now
+, the important part, right?, is
+learning from your mistakes. Every time I
+fail, it's actually a
+content opportunity because I think, "Oh,
+my app crashed."  I'm going to show
+people how they can avoid this
+same process. And this is what I
+like to do: how do I make one thing that can
+be used for many other things? Well, I'm going to
+build something. I'm going to fail along the
+way. I am failing, but
+I'm also learning. And not only am I
+learning, but I'm creating
+something to help others. So,
+you create things, you learn, and you share it
+with others, which helps them,
+builds your personal brand, and
+technically, it's marketing. Wow, that
+'s pretty cool.
+Yeah. It's kind of ironic with this
+content and marketing thing, because at
+first—and this was the case for me—you come in
+thinking it's all about being
+flawless. And the reason
+you think that is because you're
+used to seeing
+other huge content creators
+who have been doing it for a long time;
+you know, Mr. Beast has been doing it since he
+was 12. So you see
+people who are experts at their craft,
+and you think, "Okay, I'll try to be like
+them." And you don't get any momentum.
+But if you keep doing it long
+enough, you'll get to the point where you
+feel comfortable, and  Whether it's in front of the
+camera, you've done so many takes
+that you feel
+comfortable enough to be yourself. And at
+that moment when you're able to be
+yourself, from what I've seen on my own
+journey and others', that's when your
+content takes off because people can
+see themselves reflected in you. It's the irony of
+content creation: once you stop
+trying to be perfect and show the
+ideal path where everything went smoothly and
+your story was a perfectly straight line
+, when you stop trying to
+do that, that's precisely when it
+works. Um, you know what?
+Quickly, before we wrap up, I'm thinking
+about what you shared at the beginning,
+about that job in finance where you were
+just entering numbers into a
+spreadsheet. And I want to do a little
+thought experiment with you: if the Matt
+standing in front of me today could
+travel back in time and talk to the
+Matt there entering numbers
+at his desk, and let's say Replit
+and all the AI ​​tools—well, it
+'s 2025 and everything is available—
+if you could give that Matt a
+moment, maybe stop him for a second
+from entering those numbers. If you could
+Give him a challenge, something to do this
+weekend, that if you start doing it
+, you won't have an
+amazing business overnight,
+but at least you'll have some momentum,
+something; you'll have a win under your
+belt, something you built yourself.
+What challenge would you give that
+version of Matt?
+Absolutely. Uh, yeah. No, I think
+this is simple. I would say go and
+build an app on Replit.
+Take your idea, turn it into something, and
+show that you can change the way
+things exist in the world,
+right? And you know, an
+app might not seem like it accomplishes that,
+but that's what you're doing.
+You're creating something. So take that
+idea, do what we just did,
+plan it, break it down, build it, and
+what's the next step after
+you build it? Well, we just talked
+about building in public. It's
+sharing it. So I say, go on
+social media, go on Twitter, and share
+what you built with someone. Uh, and
+you know, I think we'll share some
+Links to make it easier for them to do
+just that. But practice the
+habit, the muscle of having an idea, making
+something work, and sharing it with
+people. I think that's the first step.
+Yeah, I love it. I love it. And you know
+what? Just to add to that, I think
+I'll put our Twitter handles in
+the description. If people
+tag us and link to what they
+build, we can retweet some,
+and maybe even—I don't know, I'll have to
+check with you, Matt—but maybe
+we could get the
+Replit account to retweet some too.
+I, I, maybe...maybe I have access
+to that account. I'm not going to, anyone, you know
+, say anything for sure. And you know what
+'s better than getting the
+Replit account to retweet something? It's getting him to
+retweet it, and you know, he retweets
+really good apps, so he
+built something really...Tag me,
+tag, uh, tag this program,
+right? And then we can get
+a retweet from Replit. Maybe Amjad will
+see it. That would be pretty big.
+Let's do it.  I love it, Matt. So,
+thank you so much, man. It's been a
+pleasure.
+Honestly, the pleasure was all mine.
+I love talking about this kind of stuff
+, not just building, but what we
+really delve into, that
+human experience,
+especially being someone who's frustrated,
+who believes they're capable of more, who
+wakes up every day and says, "I can be
+better." But then you have to grapple with the
+reality that says, "
+What have you done that proves you're
+better?" And now you can go out and do
+things that prove that to yourself,
+that help you take the next step, and
+that eventually get you to where
+you want to be. So all of that really
+excites me. Thank you so much for
+having me. It's
+been awesome, man. Good, man.
+This is good. Good. So if
+you enjoyed this episode, you're going to
+love what we did with this one right
+here. Click here.

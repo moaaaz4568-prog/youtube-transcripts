@@ -1,0 +1,128 @@
+hey what's up everyone so just doing a
+quick public test uh going to be
+starting this tomorrow this week and
+it's really going to be between PanAm
+match and ocean iio the reason that we
+had this idea is that for RB Tob uh we
+think it would uh make sense to where if
+rbb identifies somebody on our website
+to do a lookalike on that person and to
+kind of multiply our outbound right uh
+because the intent signal is a semi-
+intent signal and there's a hypothesis
+there that if somebody is visiting our
+website that maybe other people in their
+industry might be visiting the website
+and so let's do a lookalike audience uh
+build and just look at like the top 5 to
+10 context and so when we were looking
+at that we're like okay well obviously
+ocean has been around for a while and
+maybe we could use their data to do this
+but then also there's a new player on
+the market called pandam match that I've
+been hearing uh really really good
+things about and so figured let's just
+do a test see what the differences are
+and the data is really interesting um
+and so when you're looking at p and
+you're looking at ocean uh their pricing
+is is pretty different um for panda 99
+bucks a month allows you to export up to
+2500 uh Records uh per month where on
+Ocean you pay $129 a month and you only
+get 2,000 right uh which is uh quite uh
+significant right so hopping into what
+this test looks like basically what we
+did is we grabbed 5,000 of our b2bs
+customers and uh we looked at okay how
+many of these people uh can you find and
+so out of the 5,000 Panda was able to
+find uh 40 about just over 4500 where
+ocean was only able to find about 3700
+uh from that they provided us almost
+23,000 lookalikes versus 19,000
+lookalikes from Ocean after we do
+duplicated them we ended up with about
+18,000 uh new leads to or targets to go
+after companies to go after and then
+ocean only gave us uh just over 10K
+right and then percent duplication was
+21 versus 44 and then we went to go in
+enrich all of those contacts doing um
+Apollo LinkedIn and Clay sourcing to see
+if we could get as much as possible from
+that we had 8400 contacts versus oceans
+4200 uh then we validated them uh
+through lead magic and then did
+waterfall finding past that point to end
+up with a final number of valid contacts
+of 7200 versus 3600 okay then what we
+did is half of our infrastructure cuz
+this is what we're doing now for
+deliverability is that if a lead is on
+Gmail then we're going to use our Gmail
+infrastructure on smart lead and if that
+doesn't work then we have hyper tide as
+a backup and then if they are any other
+ESP including Outlook we've seen Outlook
+deliverability go up quite a bit when
+using scaled mail and so we're starting
+to deliver to Outlook again if it's any
+other then we're using scaled mail on uh
+SAS mail which SAS mail is our own uh
+private email sequencer that we've built
+uh inhouse uh with uh with a really cool
+developer that we've had a been able to
+build a really great relationship with
+and this has allows us to have much more
+control over us and it has better
+deliverability ility except for when it
+comes to Google at least this week uh
+the data is kind of changing quite
+significantly when we look at it right
+and so we'll be running uh all of those
+campaigns and uh of that I think it's
+just kind of interesting to look at that
+um of those contacts uh here 25% of them
+were already on our block list so that
+means that maybe we knew about 25% of
+the list already which they would be on
+the block list if they were already
+uploaded into our sequencer uh before so
+like that's a net gain of you know
+basically out of all those contacts
+about 75 % uplift on new contacts where
+here it was about you know 70% uplift on
+new contacts so Panda slightly beat it
+there too and we have like a lesser
+amount so if we're looking at like the
+total amount of like new leads that we
+have we almost got 2x from Panda versus
+ocean but then again we'll wait for the
+results to see what uh you know if
+there's a high bounce rate if these are
+legit businesses we got we got to figure
+all that out right and then people who
+are already customers this one
+identified 141 uh contacts while osen uh
+already identified we already three 361
+of those contacts right so very very uh
+interesting right uh and just so you
+know we're targeting Founders
+co-founders C revops growth and CMOS as
+for the copy we haven't changed this
+copy like all year and every time we
+this is the best copy our first draft
+happened to be the best draft and and uh
+it's uh it's pretty cool and so we're
+pretty much just saying hey uh you can
+you can pause and read it if you want so
+anyways that's what the test is looking
+like um it'll take us uh I'm going to
+give it a whole week so we have a whole
+week's worth of data on all this stuff
+so expect to post next week sometime
+with some of the results but just
+sharing what we're doing so anyways have
+a great day bye

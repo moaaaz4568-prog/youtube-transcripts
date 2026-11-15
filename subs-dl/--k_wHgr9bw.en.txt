@@ -1,0 +1,418 @@
+Over the past 2 years, we generated more
+than $1 million through our organic
+content and we tested every possible
+strategy to convert viewers into
+high-paying clients for our business.
+Last week, we created our first
+AI-powered lead magnet. And when I tell
+you that this is the most amount of
+qualified leads we've ever seen, I'm not
+exaggerating. Now, most of you still use
+standard lead magnets where someone
+fills in their name and email and they
+get a nice little PDF with some
+information. And that's cool, but what
+if that PDF could be custom-made
+specifically for that person, their pain
+points, and their desires? [music] Now,
+this does two things. Number one, it
+increases exponentially the perceived
+value of your free stuff because now
+it's not just a copy and paste strategy,
+it's something made to the measure for
+every single lead. And more important,
+number two, it allows you to pre-qualify
+people so much more compared to a
+standard lead magnet. Think about it. To
+generate a custom strategy for someone,
+you need to get their information.
+That's the whole point of something
+that's customized. But that information
+already tells you if they are qualified
+or not to buy your services. This means
+you can collect leads, provide more
+value than any of your competitors,
+and then reach out to the most qualified
+leads possible. And as a consequence,
+easily close high-ticket clients just
+like we do. So, in this video, I'm going
+to break down exactly how you can do
+this for your business. And by the way,
+if you want our help in creating your
+content strategy, just check the first
+link in the description to book a call
+directly with us. And with that being
+said, let's get straight into it. So, as
+you can see right here, I have an
+example of the lead magnet that we
+personally created. We are in the world
+of personal branding and content
+creation, and so we help business owners
+get clarity on what kind of content they
+should create. And so, in this case,
+specifically we wanted to focus on the
+pain point of them not knowing the exact
+difference between who their ideal
+client is and trying to talk to that
+client with their content and who their
+dream follower is. So, who they should
+actually talk to with their content to
+reach enough people and actually grow a
+personal brand, but at the same time
+attract paying clients. In this case, we
+basically just asked them a series of
+information, a series of questions
+related to their offer and what they do.
+And I will just like quickly brush
+through this and fill them out and then
+show you what the actual final results
+is from this. Now, before finishing
+filling out the form, so here it just
+asked me for a few information about who
+my ICP is, what my offer is like, then I
+will also have this last part, which in
+my opinion is the genius aspect of it,
+which is for us specifically we're
+focused on Instagram. And so, what we do
+is that we ask them for their Instagram
+handle, so that from there we are able
+to open a conversation with them and
+potentially get them on a call to then
+sell them our services. Now, the
+interesting part here is the nuance of
+how we leverage this. If you think about
+it, the big advantage of having
+something that's customized is that you
+create it on purpose for that specific
+person, right? And so, in this case we
+play with this by saying, "We'll send
+you the final document that we create in
+the Instagram that you provide." And so,
+this gives them an incentive to actually
+give the correct Instagram. So, it's the
+same way that you would approach it for
+an email. So, for example, if you
+actually leveraged more email marketing,
+then you could go in that direction. For
+us, our main channel of communication
+and the main way that we close people is
+from Instagram, and so we ask them to
+insert their Instagram. So, I will just
+write test in this case. I will not
+actually put any Instagram handle cuz
+it's not really relevant. And then from
+here I will just click on submit. And
+look at what happens. Now, here I just
+created a hypothetical
+resource
+in in the space of finance. So, let's
+say that I'm a client that comes in and
+I'm like, "Hey, I'm an expert in
+finance. I help, let's say,
+professionals." In this case, this is
+what I describe, professionals that want
+to make a second source of income and
+they want to start investing. And here's
+what this does. Look at this. This is
+the power of this lead magnet.
+This is not a generalized strategy. This
+is something that's prompted in the back
+end and I will show you how everything
+works on this and how to actually set it
+up. But as you can see, it's customized
+to the specific information that the
+person put in there. And not only that,
+all of the information that they
+provided there is incredibly useful for
+us because now we know how to reach out
+to them. We know we have their contact
+information, but we also have all of
+their information and we know if they're
+qualified. So, potentially you can even
+get this if you have a dialer, so
+someone that calls them, you can even
+just collect their phone number and send
+them there this report that you create.
+And at the same time also call them up
+and, you know, start calling these leads
+and getting them on a call with you.
+Look at this. Like this is generally
+something that looks like a customer
+strategy. It is a customer strategy.
+Like people would probably even pay
+money for this. And as you can see,
+high-earning professionals. So this is
+the description of the dream follower in
+the specific case of this lead magnet.
+But obviously you can adapt the lead
+magnet. You can create whatever lead
+magnet you can think of fundamentally.
+This is the workflow that I would run
+you through. And it describes exactly
+their pains, their beliefs, what they
+want to achieve, what they are trying.
+And it gives you 10 topics to attract
+your dream follower. Do you see how
+powerful this is? Like at this point,
+I'm not giving you a generalized
+strategy and just telling you some
+content advice, some generic content
+advice, for example, or, you know,
+whatever the offer is that you do.
+You're not providing just some generic
+information about how they could solve
+this problem. You're giving them
+tactical and actionable steps that they
+can take to get crystal clear on what
+exactly they are supposed to be doing,
+okay? Not only that, we can also get
+them to book a call with us directly
+here. So this is actually something else
+that I implemented in the prompt. So you
+can basically just have this nice little
+button coded here and this will bring
+people to actually book a call with us a
+strategy call. Think about it. How much
+more likely are they to do this next
+step if this is just what they got for
+free? Incredibly, incredibly powerful. I
+cannot stress this enough. With that
+being said, I'll show you the behind the
+scene of this how this actually works
+and I will run you step-by-step on how
+you can build the same. This is actually
+relatively simple. There is some
+technical parts to it involved, but we
+will use Claude mostly to be able to put
+this together. This is also what I did.
+You don't need any coding experience
+whatsoever. I don't know how to code. I
+just use Claude and leverage all of
+these tools that we have nowadays with
+AI to be able to create this. How this
+works is very simple. So in the
+structure, it's two simple web pages and
+one is a form. In this case, in our
+specific case, we built it ahead So you
+will see that this is actually our back
+end what it looks like. You can ideally
+create it with anything that you prefer.
+You use WordPress, you use Webflow, you
+use whatever other tool that allows you
+to just create a landing page and a
+website and some sort of form or survey
+that people can fill out, you can use
+it. And then again, we're going to use
+AI to know how exactly to plug it in
+into the system to make it work. And
+fundamentally, you will just have two
+different things. One will be a form
+where you collect all of the information
+that you need from this person and
+another one will be the landing page
+where it actually loads all of this
+information. Now, these are the two core
+elements that the user on the other side
+will see. On the back end, how does it
+actually work? We have, first of all, an
+AI model that we will need. So, you will
+need them either an account and API
+access to, for example, the Claude or
+OpenAI, whatever that might be, so
+Anthropic or OpenAI APIs to be able to
+actually plug in an AI model or my
+preferred way to do this, which is also
+how this whole system is coded, is by
+using something like OpenRouter. Again,
+I don't want to confuse you. It's
+nothing crazy or technical, but
+basically what this does is just one
+single website where you get one API
+key, which is basically how you make
+this whole flow work. And then you can
+decide what model you want to use. This
+is really important because one thing to
+keep into account is that these
+generations cost money to run, to be
+able to have something that's reliable
+and that obviously creates something
+customized. They cost money to run.
+Mine, it's extremely cheap, especially
+if you select the right models and can
+still give incredible results. As you've
+just seen, what I created right now
+probably cost me about 1 cent. Okay? So,
+if you think about it in perspective,
+being able to generate literally 100
+leads for $1 of people that are highly
+qualified that went through this entire
+process, that you vetted and you have
+all of this information about, to me
+it's 100% worth it. And then again, you
+can play a little bit with the models,
+decide which ones are the best based on
+specifically what you want to create for
+this lead magnet, what output you want
+to give, and also just testing them out
+and figuring out which one you prefer.
+And so, basically, the power of this
+open router this website is that you
+have access to basically every every AI
+model on the planet, and you can just
+select whichever one you want. How is
+all of this powered? Obviously, not just
+by this AI model, but we'll need the
+website to communicate with this AI
+model, and this comes in the form of an
+automation. Now, my preferred way of
+doing this is Anytime because, in my
+opinion, it's the most flexible one. If
+you prefer to use any other sort of
+automation software, then you can go
+with that. In my opinion, Anytime is the
+most flexible and most adaptable one,
+which is the reason why I built it here.
+Now, again, this whole process will be
+then customized depending on your
+specific situation, the lead magnet you
+want to create. To be able to do this
+and not make it extremely technical
+because I don't want so want to bore you
+with the details and create a
+50-minute-long video, I created a custom
+skill with Claude that you can simply
+download and import inside of your
+Claude that will guide you step by step
+in all of this process. So, let me just
+show you real quick how this works. I
+have this already loaded right here, and
+you will find a link of this in the
+description, okay? So, once you're in
+your Claude, everything of this is based
+on Claude because, in my opinion, it's
+the best option to be able to create
+something like this without having to
+know how to code at all. Again, I I
+don't know how to code at all. I
+literally just create all of this
+through Claude. You want to download
+that skill and then just click on
+customize here at the top, click on
+skills, and then make sure that you
+import it. So, click on plus, and you
+can just click on create skill upload,
+as you can see right here, and you will
+be able to just bring in the skill,
+which is this one right here that I was
+showing, which is called Lead Magnet
+Builder. So, in this case, I'm just
+literally going to show you how simple
+this process will look like. So, just
+going to select it, and I'm just going
+to press enter. I'm not going to do
+literally anything else, and now Claude
+is going to start by reading this series
+of instruction that I created for it.
+It's the same instructions that are
+based on how I built this lead magnet
+for ourselves, and it's going to
+describe to me exactly what are the
+steps that we need to follow and exactly
+what information it needs. And so, as
+you can see right here, it also has a
+little bit of context, obviously, on who
+we are, what we do, some of our clients,
+and things like that. It just asked me
+which client this is for or is it that
+just a new one? What does the visitor
+walk away with? So, kind of like what
+we're trying to build. What are the
+things that we're going to ask them?
+Okay, so the information that we
+actually need to collect. Where is this
+going to be hosted? The automation tool
+that we're going to use. And so, in this
+case, obviously, as you can see, it it
+identifies that AnyTime is my favorite
+one, and so it goes with that
+immediately. And the AI provider. Again,
+for all of this, I gave you my
+recommendations. I recommend GoHighLevel
+when it comes to the landing pages. In
+my opinion, it's the most flexible one.
+You can use it for everything. We use it
+as a CRM. We use it for our Instagram DM
+automation. We literally use it for
+everything. So, in my opinion, it's the
+best all-in-one tool. And for that, I'm
+also most likely going to leave some
+pre-made templates in the description,
+so you can just like download them
+directly from there. Now,
+not just that, then you will need the
+automation tool. So, as I said, what
+actually powers this whole thing, which
+in my opinion, AnyTime is the best
+option. It's also not that expensive to
+be able to run it. And if you're really
+a nerd and you want to dive deep into
+this, you can also look into how to
+self-host AnyTime, which is what we're
+currently doing, which makes it very,
+very cheap to run. It's literally a few
+bucks a month to be able to run any
+automation that you want for your
+business. And then Open Router, which is
+completely free. You just set it up, and
+then you pay depending and you load some
+credits in it, and you'd pay depending
+on what model you prefer to use. And
+then, last but not least, as you can
+see, it will ask you for your booking
+link. And so, in the structure that I
+prepared, it basically ends up having,
+at the end of the lead magnet, as you
+can see, the option for people to book a
+call. And so, it will obviously need the
+link to be able to direct them towards
+that. This is pretty much it, honestly.
+I'm not going to fill out every single
+step because it would be very, very
+long. It's also the reason why I wanted
+to give you this close skill to be able
+to then go through the process yourself.
+Keep in mind, if there's anything that's
+not working whatever reason, or any
+doubt that you have, ask Claude. I built
+this entire thing with Claude. It has
+all of the instructions to be able to do
+it. You've seen how powerful this is, so
+I highly recommend that you just follow
+these instructions. And then, again, if
+you have any question or any
+troubleshooting that you need to do,
+anything that you can't figure out, ask
+Claude directly. It's an incredibly
+powerful tool. Honestly, I haven't seen
+anyone talking about these AI-powered
+magnets. In my opinion, it's definitely
+something that's not being talked about
+enough. You see how powerful this is,
+what kind of first impression it
+creates, and most importantly, what kind
+of leads it can attract for you. So, I
+highly recommend you try it out. And if
+you want our help when it comes to
+building a customized strategy for your
+content and your personal brand, you can
+just check the first link in the
+description. We help coaches,
+entrepreneurs, and business owners do
+just that. We have dozens and dozens of
+people that we helped hitting 100,000 to
+200,000 followers, build massive
+personal brands. You can check also all
+of the case studies there. I hope we
+will get to talk soon on a call. And
+with that being said, I'll see you in
+the next video.

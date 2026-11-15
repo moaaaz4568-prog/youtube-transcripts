@@ -1,0 +1,404 @@
+So, if you're sending cold emails today
+and you're buying garbage data from
+Apollo or any other vendors, you aren't
+validating or you're just trusting Clay
+to do its thing in Waterfall, your
+campaigns are dead before they even
+start. And we know this cuz we're
+currently sending over 12 million cold
+emails every single month on behalf of
+all of our clients. And while everyone
+else is struggling with data quality and
+getting maybe 30% valid emails, we built
+a system that lets us generate millions
+of verified leads every single month,
+tens of millions of leads and emails and
+validations, allowing us to reach our
+clients total addressable market. In
+this video, I'm going to break down our
+entire lead generation process from how
+we scrape data at scale to how we
+validate and how we enrich every single
+lead before it ever gets loaded into a
+campaign. Plus, I'm going to go over
+some really advanced stuff we do with AI
+to really take this to another level.
+This is cutting edge stuff that is
+really just hitting the market. So,
+let's get into it. Here's the problem
+with how most people get leads. Here's
+what 99% of companies do wrong. They buy
+data from Apollo, uh, Zoom Info, or
+whatever vendor. They trust the emails
+that come from that vendor. They load it
+straight into their sequencer and start
+sending. and then they wonder why their
+bounce rate is 30% and their campaigns
+aren't working. The reality is every
+single data vendor, and I mean every
+single one gives you about 70% garbage.
+It doesn't matter how premium the vendor
+is or how much you're paying. The emails
+are outdated, the contacts have changed
+jobs or the data was never accurate uh
+to begin with. And this messes
+everything up. You're burning domains,
+sending to bad emails, you're tanking
+your sending reputation, you're bouncing
+like crazy, you're wasting money on
+infrastructure that's just going to get
+flagged as spam. And worst of all,
+you're missing out on actual revenue
+because your good emails aren't even
+making it to the inbox. Now, let me
+break down how we build highquality lead
+lists. But before I do that, if you want
+us to build your entire system for your
+company, map your TAM, set up your
+infrastructure, and start generating
+pipeline within a week from cold email,
+then click the first link in the
+description and book a free intro call
+with us. Now here is how we build lead
+lists. So step one starting with the raw
+data. Everything starts with an Apollo
+export or data from other vendors or
+other search portals that we work with.
+This can be very dependent on where you
+want to get the data from. Right? So if
+we're going to reach out to SAS, we have
+a private database that we've worked
+with. So for example, you could use
+Sassy DB. They are really good and
+they've really enriched our uh SAS
+targeting. But if you're trying to
+target local business, then having an
+excellent Google business scraper is
+going to be uh great for those types of
+capabilities. But the other thing that's
+really huge is to be able to have our
+own private database that we have built
+up over the years. I mean, we have a
+private database that has almost 50
+million leads inside of it. And most of
+the time, we don't even have to go buy
+new data. We only need to go fetch the
+new stuff, the new people that are in
+the marketplace. And the other thing is
+that we're pretty tight with the Lead
+Magic guys. We really like their data
+and their API is just cracked. They're
+the best on the market. And we also
+really like the Wizard guys. We found
+that those are the two top ones uh when
+trying to find like premium data
+sources, right? But even then, we do not
+trust any email that comes from any
+vendor, including them. So, it doesn't
+matter who it is. And so, this is where
+step two, you need to validate
+everything that you're doing. Most
+people will call this waterfall. This is
+fairly common place. All right. So, here
+is one of our clay tables. And uh this
+one's a really good example because this
+isn't just a normal Apollo export,
+right? Like if you do an Apollo export,
+great. If you do a Zoom info export,
+great. You can kind of start with
+anything. Just whatever allows you to
+search. There's a lot of good vendors
+out there. There's Waterfall.io, there's
+Avito, there's a bunch of ones out there
+where you can start there. But no matter
+what you're going to have like, cool,
+here are the leads that we need to talk
+through. What is the process that we
+need to go through? And so the very
+first thing that we do, we do the normal
+stuff. You want to normalize the company
+name. You want to normalize the domain
+of the company. And this one is a Google
+scrape, for example. So we scraped
+Google for accountants um all across the
+uh United States. And so what we do
+first is we then took that Google
+scrape, took it to Apollo and said,
+"Hey, can you give us all of the emails?
+What do you guys think with that?" And
+so first what we like to do is we like
+to run uh this uh a validation through
+uh lead magic. And then they tell us if
+it's valid or not. And then we like to
+check our own back-end database. And
+this one's a really good example. All
+these error out just means that it
+wasn't able to find it or we didn't
+already have that lead's email. But for
+this person, we did, right? We can see
+the data status is risky. That means
+that we have not personally validated it
+within the last 30 days. And so then
+we're going to run it through here. And
+so what we do is we run it through lead
+magic, we go, is it valid or not? And
+then if it's a catch-all, which it ended
+up being that, then we send it to
+Bounceban. And for Bounceban, you have
+to send it to them. And you have to do
+another request in order to get it back.
+And then if it's valid, it pops up
+inside of here. Then what we do is we
+take it to Wiza next, as you can see
+here. And uh we do the same thing. We
+verify cool. If it's a non-catch, then
+we use lead magic to validate it. If it
+was a catch all, then we would run it
+through bounce band. Lastly, what we do
+is we run it through lead magic and we
+go, "Cool. Um, we didn't have the email.
+Apollo didn't have the email. Wizard
+didn't have the email. Lead magic, do
+you have the email?" And then we run it
+through them and they say yes or no. And
+if it comes back, Lead Magic's also nice
+in their finder because they validate it
+when you do that. And so here we can see
+Lead Magic did not have an email for
+those leads, so it didn't continue
+through. And so then we have the true
+emails for everybody here. The next
+thing that we do, and this one's a
+pretty pro tip, is that you can get an
+account with uh email guard. And what we
+do is here you can see that uh we do a
+hostname lookup. And so we go cool, like
+what is the email service provider of
+this inbox. So this one's Google. Let's
+see if we can find an example for you.
+There's Outlook. What I want to show you
+is um like a proof point or something
+like that, which these are like local
+accountants, so they probably aren't
+going to be that. And so the ones that
+you really want to look out for are
+things like Proof Point, Mcast, Brabis,
+uh things like that. Uh because these
+ones are going to be really hard to
+inbox to and they can actually really
+hurt your deliverability if you email to
+them. They're called ESGs, email
+security gateways or something like
+that. And uh so you don't want to email
+those people. Next, what we do is we
+upload the validated lead to our backend
+database. So that way in the future we
+don't have to double pay for any leads
+and then we upload them into campaigns.
+So the powerful part is with our own
+internal database before we spend money
+finding new emails. We check our own
+database and we have private SAS lists,
+we have private AI lists that we've
+developed, which is a really cool new
+vertical that's appearing of just AI
+companies. We have ad spenders, we have
+funded companies to name just a few of
+the special proprietary lists that we
+have. And we've been building this
+database for years with tens of millions
+of validated contacts. And we've
+revalidate these emails pretty much
+monthly to make sure that they're fresh
+and to make sure it's accurate. And if
+we find the email here and it's still
+valid, we use it. The thing is, our
+private database, we're actually
+thinking about giving this database to
+the public for free. Add your email to
+the wait list in the description if you
+want to be the first to hear about it.
+What this looks like is it wouldn't be
+us selling data. I have no interest in
+selling data. But I might release
+something that would allow agencies to
+have their own database so they don't
+waste a ton of money rebbying data over
+and over again. For us personally, I
+used to spend an average about 15 grand
+a month just on data. And it's lowered
+my bill by over 10 grand a month by not
+having to just reby data that I already
+bought. it was already ours. The third
+check is Wiza. Wiza does real-time
+checks and cross references with
+LinkedIn. It's slower than other tools,
+but it's incredibly accurate. And even
+then, we still validate every email that
+comes through with Wiza first. If it
+returns a catch all, then we run it
+through bounce span. The fourth check is
+with Lead Magic. This is our most
+expensive check, which is why we do it
+last. We try to find the email through
+Lead Magic's enrichment, and the same
+process. If it's a catch-all, we
+validate through Bounceban. Lastly, we
+do an ESP lookup. We look at the email
+service provider for every single lead
+and is this person on Gmail, Outlook, a
+custom SMTP, enterprise infrastructure
+like proof point and this determines
+which campaign they will go into, which
+infrastructure sends to them and
+sometimes even which sequencer we will
+use. The last thing is we propagate our
+own database. Every single lead and
+company gets loaded back into our
+database. This builds our assets over
+time. Our database gets stronger with
+every campaign we run. And the next time
+we need to reach that specific person or
+someone at their company, we already
+have validated data. The other really
+cool workflow that I'll show you,
+there's a lot of really cool things that
+you can be doing with AI. And so, for
+example, here's one that I wanted to put
+together for you. And this is something
+where James on my team, he's taken a
+bunch of courses from Jordan Crawford.
+Jordan Crawford's the man. Uh, this is
+something that like he's put together.
+And so, this is something where it will
+scrape the entire internet to be able to
+find leads for these companies. And
+you'll notice we wanted to run it for
+every company where like we didn't get
+information from Apollo. there wasn't
+any sort of match from our initial
+extraction from Apollo. Then we said,
+"Cool. Can we find it on the internet?"
+And every single one of these green ones
+means that it was very confident that we
+found somebody. So, for example, here we
+found three different people uh that we
+could talk to. And we found uh their
+LinkedIn profiles. What is this reasons
+for Oh, yeah. This is just justifying
+like is this a good lead or not? And we
+have multiple people like that. And then
+all we need to do with this data is we
+take this LinkedIn profile URL and we go
+cool. Can you find me the email? And we
+go through right through the waterfall
+process again. And so, uh, this really
+gives a massive uplift on our campaigns
+where it's like, okay, we weren't able
+to find somebody through typical means
+through here. Can we do an AI scraper?
+And here is what is insane about this
+method is that we found three leads for
+this company. And here's the crazy thing
+is that this entire thing cost a fifth
+of a penny to find three leads. Using AI
+to be able to do this kind of stuff is
+really, really cool. I'd show you kind
+of the secret sauce, but honestly, check
+out Jordan Crawford. He has some really
+cool ass on how to do this stuff
+properly. The next thing that I'll show
+you is some cursor stuff that we're
+developing. And this is super super
+proprietary, super cutting edge, and
+we've been learning some really really
+cool stuff. And so what we're able to
+do, this is a couple screenshots that
+James sent me on my team. He's my
+right-hand dude. We've been best friends
+for like 10 years. I was in his wedding,
+he was in my wedding. He was in an
+inbound sales job, and then he was going
+to an outbound sales job. He hit me up
+cuz he knew that I figured out how to
+automate uh my entire sales job, which
+is how I even started sales automation
+systems. And as you can tell, I'm really
+good at naming companies. I just name it
+what it is. He was like, "Hey dude, can
+you teach me how to automate my job like
+you did?" And I was like, "Yeah, for
+sure." And so I taught him Clay. I
+taught him go to market, all of that
+kind of stuff. He was my first
+consulting client, funnily enough. He
+paid for all the training. So anyways,
+I've taught him like everything he
+knows. He's like one of the best dudes
+in the world. And it's why we're able to
+be, you know, basically a twoperson
+company doing uh just over $2 million a
+year in annual revenue. And he's
+definitely worth a million bucks. That's
+for sure. Anyways, what we're doing here
+is that you can see in his terminal what
+he's doing is he's built a it's just a
+surface level scraper right now. And
+what it's doing is he's just going state
+by state. He's only doing the first page
+of each one, but each page has over a
+100 results. And so he could basically
+do it all. The the real trick is uh to
+actually do it by zip code. So you can
+actually get every single result for one
+of those. And this is just something he
+built in cursor. He had to finagle with
+it for like 3 4 hours. But now he has
+like a super good just money printer for
+Google scrapes at scale just using
+cursor. So cursor is like a really big
+tool. I actually just bought licenses
+for my entire team as small as they are.
+uh my personal executive assistant. I
+got her one cuz I'm like, I want you to
+be able to process CSVs that much
+better, right? It's like the best dollar
+you could possibly spend. And so those
+are the top things that we look at. It's
+not the most complicated thing in the
+world, nor does it have to be, but it
+wants to be systematic and we've tested
+out like we've tried every data provider
+in the entire world. And this is the
+ones where we found the most bang for
+our buck. If you run an AI, SAS, or B2B
+service business, and you want to reach
+100% of your total dust market every 30
+to 60 days with cold email, then click
+the first link in the description and
+book an intro call with us. We've helped
+SAS companies like RB2B scale to $4
+million in ARR where 42% of their
+revenue came from our cold emails alone.
+We've helped AI companies like Fixer AI
+where we built a machine that generated
+$4.3 million like closed pipeline
+revenue for them. And if we would have
+hit their total adjustment market cuz it
+takes time to ramp up. We would have had
+a machine that was generating $32
+million a year in annual reoccurring
+revenue for them with cold email. for
+B2B service agencies like Directive
+Consulting. We just helped them close
+484 grand in annual reoccurring revenue
+just in Q3 of this year. And that's
+close. That's 484 grand of annual
+reoccurring revenue closed in just one
+quarter of working with them. And we're
+still growing those now. And so, book
+your free call with us in the
+description below. And if you want to
+see how I personalize millions of cold
+emails with AI in seconds, then watch
+this video next.

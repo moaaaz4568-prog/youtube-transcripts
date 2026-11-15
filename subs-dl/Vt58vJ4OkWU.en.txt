@@ -1,0 +1,515 @@
+Base 44 changes everything about
+building real apps. Most ways of
+building apps require you to either be
+highly technical or know how to code.
+And in this video, I'm going to show you
+how Base 44 makes this way easier and
+way faster [music] than ever before. So,
+you can avoid all the constant mistakes,
+save tens of thousands of dollars on
+hiring developers, and launch a working
+app or digital product without needing a
+full engineering team. And I know this
+firsthand because I've spent hundreds of
+thousands of dollars on my own developer
+payroll and building my own software
+companies over $500,000
+a month. And what took my team months
+and a full engineering budget, this tool
+does for you in minutes. If this is the
+first time we're meeting, my name is
+Richard and I've done over 30 million
+online with digital product sales in
+software tools. I've helped over 3,000
+students build their own thriving online
+businesses. So, that aside, get
+comfortable and let's dive straight in.
+The first thing you want to do is open
+Base 44. I've added a special link for
+Base 44. It's the first link down below,
+which actually gives you 30% off the
+tool. So, feel free to check that out
+once you're done with this video. This
+is the tool that's going to build our
+entire app today. So, make sure you
+check that out. Now, when you open Base
+44, this is going to take you to this
+page. This is what you'll see. And
+honestly, this is kind of insane.
+[music] This is where you tell the AI
+what to build. And on this side here,
+you actually have your live preview.
+This is where your app actually appears
+in real time as it's being built. You do
+not need to install anything. You don't
+need to download anything. You do not
+even need to know what a single line of
+code looks like, like me. I studied
+biology in university. I don't have a
+single technical background. You simply
+just describe what you want and Base 44
+builds the entire thing for you. So,
+here's what we're going to build today.
+We're going to make a fully functional
+habit tracking app. And I chose a habit
+tracker for a very specific reason.
+Habit tracking apps are a $15 billion
+market right now. Apps like Habitify
+have over 3 million users and make
+hundreds of thousands a month. And what
+makes this so powerful as a business is
+that a habit tracker works in literally
+every niche that you can think of.
+Whether someone is tracking their
+morning prayer routine, their gym
+consistency, how are they doing on sales
+calls if they're a sales professional,
+or their kids reading habits, this one
+app concept basically works for any
+human alive. And we're not just going to
+build it. I'm going to show you how you
+can add a paywall so you can actually
+collect payments, set your pricing, and
+get this thing to actually sell all
+inside of Base 44 within the next 10
+minutes. So, let's get into it. Now,
+here's the key. Most people would rather
+just type, [music] "Build me a habit
+tracker." And then they wonder why the
+output looks so generic. But the more
+specific you are with AI, the better
+your output is going to be. So, watch
+what happens when I give it real detail.
+So, I'm going to type in my prompt. And
+here's exactly what I'm telling it.
+"Build me a habit tracker app. Make it
+mobile responsive with a clean modern
+design using a calm motivational color
+scheme. Soft greens, blues, or purples.
+The app should let users create custom
+habits with a name, icon, and category.
+For example, health, productivity,
+faith, or finance. Set habit frequency,
+daily, specific days of the [music]
+week, or weekly. Check off habits as
+complete each day with a single tap.
+View a streak counter for each habit
+showing consecutive days completed. See
+a daily progress [music] dashboard
+showing how many habits are done versus
+remaining. Displayed as a visual
+progress ring or bar. View a 7-day
+history grid showing completed versus
+missed days for each habit. View a
+weekly summary with completion
+percentage. Include five preloaded
+example habits. Morning workout, read 20
+pages, drink eight glasses of water,
+journal for 10 minutes, and no social
+media before noon. Make the interface
+intuitive enough that someone could
+start tracking immediately without a
+tutorial." That is the entire prompt.
+Now, watch what happens here. In just a
+few minutes, Base 44 just built an
+entire habit tracking app from one
+prompt. Now, let me walk you through
+what it just created. First, look at
+this dashboard. Right at the top, you
+have a greeting. It says, "Good
+afternoon." with today's date. Below
+that, there's a progress ring showing
+your completion percentage. 0% right now
+because we haven't checked off anything
+yet. It says zero out of five done. And
+then below that, you see today's habits.
+Look at this. All five preloaded habits
+are here. Morning workout tagged as
+health, read 20 pages tagged as
+learning, drink eight glasses of water
+also health, journal for 10 minutes
+under wellness, and no social media
+before noon under productivity. Each
+habit [music] has its own card with a
+category tag and a 7-day history grid.
+At the very bottom, you have a weekly
+summary section showing your completion
+percentage for the week with the
+progress bar. Right now, it says 0%.
+Zero out of five habit check-ins
+completed this week. Now, here's the
+thing. I did not have to code any of
+this. I didn't design any of this. The
+AI just did it for me. This looks like
+something that you would download from
+the App Store and actually use every
+day. And Base 44 just built the entire
+thing from one simple prompt. Now, if
+you're watching this right now and
+you're thinking, "Wait, that actually
+sounds like a real app." That's the
+entire point because it is a real app.
+It works. It tracks habits, accounts
+streaks, it visualizes progress, and we
+built it in minutes with zero technical
+knowledge. But here's the thing. Right
+now, this is just an app. It's not a
+business yet. And this is where most
+people stop. They build something that
+looks cool, and then they show it to
+their friends. And maybe they post about
+it on social media. And then, it just
+sits there. Nobody pays for it. Nothing
+happens. And if you've ever felt like
+you have the skills to build something,
+but you don't know how to turn it into
+actual income, this next part is for
+you. Because the whole point of building
+apps with AI is not just to have a cool
+project. [music] It's to make money. And
+I'm about to show you right now how to
+turn this habit tracker into a product
+that people [music] pay every single
+month. And we're going to do this with
+one more prompt inside of Base 44. So,
+I'm going back to Base 44 and I'm typing
+in a second prompt. Here's exactly what
+I'm going to tell it. Add a freemium
+monetization layer to this app. Free
+plan includes up to three habits, basic
+streak tracking, and daily check-offs.
+The pro plan includes unlimited habits,
+all categories, weekly and monthly
+analytics with charts, habit reminders,
+and a 7-day history grid. When a free
+user tries to access a pro feature, show
+it clean upgrade pop-up that explains
+the pro benefits, displays $9.99 pricing
+with a $79.99 option, show the yearly
+savings, and has a subscribe now button.
+For now, make the subscribe button show
+a confirmation message that says,
+"Connect your Stripe account in Base44
+settings to start accepting payments."
+Also, add a plan page in the navigation
+where users can see the current plan.
+Free or pro with both plans options
+displayed side-by-side showing all
+features included in each. And look at
+what I just built. First, look at the
+dashboard. The progress ring now says
+zero out of three done instead of zero
+out of five. That's because we're now on
+the free plan, and the free plan only
+lets you track three habits. The paywall
+is already working. Now, let me go to
+the My Habits page. Look at this. At the
+very top, there's this yellow banner
+that says free plan. You've reached the
+three habit limit with an upgrade link
+right there. All five habits are still
+listed, and each one has edit and delete
+buttons. So, a free user can manage the
+habits, but they cannot add more than
+three. And watch this. Look at what
+happens when I click the edit button on
+one of these habits. A full [music] edit
+panel opens up. You can change the habit
+name, pick a different icon from this
+whole set of options, change the
+category, change the frequency. This is
+a level of customization that makes this
+feel like a premium product. And again,
+I didn't build any of this manually.
+Now, let me show you the real magic
+here. Let me try to access a pro
+feature. And there it is. Look at this
+pop-up. At the top, it says pro with
+unlimited habits badge. [music] The
+headline says, "Unlock everything. Build
+better habits with powerful tools."
+There's a toggle now between monthly and
+yearly, and the yearly option has a
+green badge that says minus 33%. So,
+it's already [music] showing the
+discount. On the yearly plan, it shows
+$6.67 per month, but that's $79.99 per
+year with a green text that says, "Saves
+you $39.89." And below that, it lists
+every pro feature with checkmarks.
+Unlimited [music] habits, all
+categories, 7-day history grid, weekly
+and monthly analytics with charts, and
+habit reminders and priority support as
+well. And at the bottom, there's a big
+purple subscribe now button and a line
+that says cancel anytime, no hidden
+fees. Now, this looks like a real SaaS
+pricing [music] page. This is what most
+people see when they open Spotify or
+Headspace or any app that you're
+familiar with that has a subscription.
+And Base44 built this entire thing for
+us. Now, let me show you one more thing.
+Let me go over to the plan page. This is
+your plan page. At the top, it says,
+>> [music]
+>> "You're currently on the free plan." And
+below that, you have both plans
+displayed side by side. On the left, the
+free plan, $0 forever free. It shows
+what's included with check marks, up to
+three habits, basic streak tracking, and
+daily check-offs. And then, it shows
+what's not included with X marks grayed
+out, 7-day history grid, all categories,
+unlimited habits, weekly and monthly
+analytics, and habit reminders. On the
+[music] right, the pro plan with a
+popular badge, $6.67 per month, billed
+at $79.99. Every single feature checked
+off. Two prompts, no code, new
+designers, new developers, and we have a
+fully functional app with a professional
+paywall and pricing page ready to accept
+payments. Now, the subscribe button
+right now is a placeholder, and that's
+intentional. All you need to do is
+connect your Stripe account inside
+Base44 settings. Stripe handles all the
+billing, the current charges, the
+cancellations, everything. You connect
+it, and that button becomes a live
+payment [music] link. That's it. You do
+not need to understand payment
+processing. You don't need to figure out
+webhooks or APIs or any of that. Base44
+and Stripe handle [music] everything
+behind the scenes. And your job is just
+to build the app and drive traffic to
+it. The tech is solved. And the last
+step here, simply publishing it. With
+Base44, you literally just hit publish.
+Watch this. I'm clicking publish right
+now. And just like that, this app is
+live. Base44 gives you a link. This is
+the link that you would actually send to
+potential customers. This is the link
+that you would put in your Instagram
+bio. This is the link that you would
+drop in your YouTube description. And
+anyone who taps on this link can access
+your app, hit the paywall, and pay you
+money. That's it. Your app is now live
+on the internet ready to accept paying
+subscribers and you did not have to set
+up a single server yourself. So, let me
+recap what we've actually done here.
+We've built a fully functional habit
+tracking app with a clean dashboard,
+street tracking, progress visualization,
+and custom categories. We added a
+professional freemium paywall with
+monthly and yearly pricing and we set up
+a plan page with a side-by-side
+step-by-step comparison that looks like
+something that you'd see on a real
+subscription app. It would connect the
+payments, we published the whole thing
+live. Two prompts, no code, no
+engineering team, no designers, and we
+have a published live monetized app.
+Now, I want to zoom out here for a
+second because what I just showed you is
+not about habit trackers. That was just
+one example. Think about what you could
+build with this exact same process. You
+like [music] fitness? Build a workout
+tracker. You're into productivity? Build
+a time blocking app. You're in the faith
+space? Build a daily devotional app.
+Cooking? Build a meal planning app.
+Finance? Build a budgeting tool. Every
+single one of those can charge $9.99,
+$14.99, even $19.99 a month and every
+single one of them can be built in Base
+44 with the exact same process that I
+just showed you. Now, here's what I
+really want you to understand. Because
+of the shift that most people have
+missed, if you've been in the digital
+product space for some time or you've
+been watching my content, you already
+know how to pick a niche. You already
+know how to make content that drives
+traffic. You already understand how to
+identify [music]
+what people want and get it in front of
+them. Those skills do not go away. What
+simply changes is the product and this
+is the key. When you sell a $27 ebook,
+someone buys it one time and that's it.
+You need another sale tomorrow from a
+new customer just to stay at the same
+level. You're always on this treadmill
+running to chase after the next sale.
+But, what happens when you sell a $9.99
+per month app? That customer pays you
+this month, next month, and the month
+after that and you build it once and the
+revenue begins to stack and compound.
+That's the difference between a one-time
+income and recurring revenue and it
+changes everything about how your
+business grows. And then, let's acquire
+100 users. Well, that's a $1,000 every
+single month in monthly recurring
+revenue from one app. And to be clear,
+sure some people will cancel, but when
+you make a good product, people stick
+and they stay on. By the way, that's
+just one app that you build in an
+afternoon. What if you get to 500
+subscribers? [music] That's under 5,000
+a month. That's money that's coming
+every single month whether you post
+content that day or not. And here's
+where it gets really powerful. You can
+build more than one app. Same process,
+different niche, stack them. A habit
+tracker for the faith community, a
+workout tracker for busy moms, a
+budgeting tool for college students,
+each one generating its own stream of
+recurring revenue. If you want to start
+building apps like this, [music] the
+first thing you'll need to do is sign up
+for Base 44. I've added a special link
+in the description down below that's
+going to give you 13% [music] off. By
+the way, this is the exact tool that
+I've been using this entire video. So,
+go ahead and click on that first link
+down below right now, get your 13%
+discount, [music] and start building.
+And when you do that, I actually have a
+free step-by-step course I want to get
+in your hands right now. This is a
+step-by-step masterclass that shows you
+how I scale from zero to over 10,000 a
+month selling digital products and apps.
+And this course is valued over 499.
+I'm going to give this to you for
+completely free. So, step one, all you
+got to do is click the first link down
+in the description, and that's going to
+take you over to the Base 44 page. Now,
+all you got to do is click on the sign
+up option. It really doesn't matter
+which one of these you pick because at
+the end of the day, you're going to be
+building your own apps or using our
+done-for-you app templates once you're
+actually inside and have a paid
+subscription. So, go ahead and sign up
+with your email. If you don't have an
+account with Base 44 yet, you're going
+to have to click on that little sign up
+button. Then it's going to ask you to
+verify your email, so check your email
+and grab the code that sends you. And
+then, once you're in and you verify, go
+to the top right corner to actually
+claim your big discounts. Now, this
+discount is only available because
+you're actually coming through my
+special link, which is again the first
+link down below this video. Now,
+remember, when you sign up for one of
+the paid plans, any of the paid plans,
+you're going to get a 499 course for
+completely free. All you need to do is
+sign up for the first month. And don't
+worry, you're like, "I can't afford this
+for the next couple months." You don't
+need to worry about that because as long
+as you you sign up for the first month,
+you're going to get the full course for
+free. So, you can see that there's this
+builder option, which is the one that I
+recommend. It's 50 bucks a month. The
+cheapest one, biggest discount is if you
+sign up for the annual plan, which I'd
+recommend. But, if you only want to try
+out for the first month, feel free to
+use that. And, if you still can't afford
+this, no problem. Go to the starter
+light version, as you can see here. And,
+this one here actually is only 20 bucks
+a month. For less than a fast food meal
+for two people, you get access to Base
+44, an incredible AI software. And, on
+top of that, 499 course for free. And,
+to make this very clear, if you sign up
+for Base 44 literally just the first
+month, which costs you $20, and you
+don't like it, that's fine. Cancel the
+subscription, and you still get the
+Freedom Prophets System 499 course for
+free, and you get to keep that for
+lifetime. Now, once you've actually
+clicked on the button down below, and
+you choose a plan, it's going to take
+you over to the payment page right here.
+Just put in your details and sign up.
+But, pay attention, because in order to
+get the course, you got to follow step
+two. Step two is go to the second link
+below this video, and you click on that
+link, it's actually going to take you to
+this page here, where you got to put in
+the same email that you used to sign up
+for Base 44. This is to verify that you
+actually signed up for one of the paid
+plans, which Base 44 sends us all the
+information of the customers that sign
+up. And, once that's done, if you use
+the same email, and you actually bought
+Base 44 for the first month
+subscription, you will automatically
+receive in your email inbox course for
+free [music] within 90 minutes. Now, why
+is there a delay? Because right now, if
+you can see right below, you actually
+have a VIP ticket for free to the AI
+masterclass that's going to be starting
+soon in the next few minutes. This is
+the masterclass where I break down
+before your eyes step-by-step how to
+build a $200 or $300 per day business
+using AI with just a laptop or your
+phone. And, on this masterclass, I even
+bring on guest speakers of top students
+of mine that have done anywhere from
+10,000, 20,000, and even a one student
+that scaled to over $85,000 per month.
+Plus, we do a Q&A to answer all of your
+questions. So, again, to recap, step
+number one, use the first special link
+down below to get 30% off, and actually
+sign up for Base 44 right now. And when
+you do that, you will immediately
+qualify for the four minute men course
+for completely free. And to get that
+course, sign up for base and then click
+on the second description and actually
+register for the masterclass starting
+[music] soon. Because the moment you do
+that, you will automatically be emailed
+the $499 course for completely free. So,
+these two simple steps, step number one,
+grab base 44 down below and step number
+two, sign up for the free masterclass
+down below. That's the second link. So,
+go ahead take action on that right now
+and I will see you on the other side.

@@ -1,0 +1,570 @@
+I tried sending 62,000 cold emails
+in 5 days to see if
+cold emailing is really dead.  So,
+this will either prove that cold mailing
+is dead or it will completely flood my
+calendar.  And I'm going to explain
+the whole process to you step by step.  Set up the
+infrastructure, create the
+prospect list, devise an offer that
+people really want, use it to
+write the message, and convert
+responses into scheduled calls as
+quickly as possible.  If you don't know me yet
+, my name is Jayden Lee Lua.
+I am the founder of Velocity Flow, where
+we build, run, and manage
+cold mail campaigns and
+revenue growth systems for
+B2B companies across various industries.  And
+the number one question I get asked
+over and over again is whether cold mailing
+is dead.  But if you've been watching me for a
+while, you probably already
+know the answer.  So I made this
+video to test whether cold emailing
+is dead or if it's still the best source of
+customer acquisition right now
+in 2026. Step one, before
+sending a single email, this is
+probably one of the most
+important parts: setting up the
+infrastructure so you can send
+that volume without it going to the spam folder
+.  So, if we do a
+quick calculation, if we want to send 62,000
+emails in 5 days, we need about
+12,400 emails per day.  So we're going to
+send five emails per
+inbox per domain.  That will mean
+around 2,480 inboxes.
+And we're going to use 99 Azure accounts per
+domain.  Therefore, we will need
+approximately 26 domains,
+giving us a total of 12,900 per day.  Now,
+for this, we will use Pecker AI, which
+basically offers
+self-healing inboxes for cold mail to
+maximize deliverability.  If your
+email never reaches the
+main inbox, it's literally useless
+.  So this is the
+part we need to secure as
+quickly as possible.  If you go to the
+pricing page here, you can see what they
+actually charge.  Um, if we go down,
+they charge around $2.80 per tray,
+$3 for this other one, and $3.50 depending
+on the plan you choose.  And this is what
+the control panel looks like here.
+You can basically monitor the health
+of your inboxes.
+Literally, Pecker AI has
+probably been one of the best things
+for sending high-volume cold emails
+.  You can view your
+workspace, capacity, and
+storage deliverability.  There are
+a lot of additional features that
+I'll cover in another video, but this is
+probably one of the best
+places on the market today to buy
+your infrastructure, and the support is
+excellent.  If you want a discount on
+your infrastructure, use the code
+velocityflow.  So, the first thing we're going to
+do is click on buy
+inboxes, and right here,
+we can basically plan
+how much daily volume we need to
+send.  As I said before, we need
+approximately 12,400 to
+reach our goal of 62,000.  And
+all of these will be
+Microsoft Azure inboxes.  As you can see here,
+we are creating 99 inboxes
+per domain.  We want approximately
+12,400 per day, so we will need
+approximately 26 domains.  So
+let's get that and then we'll
+click next in the bottom
+right.  Then he'll take us to the place
+to actually buy the domain.
+You have one of two options.  You can use
+Porkbun to buy the domains, or
+you can buy them on Peeker.  You get
+a lot of advantages that they basically
+give you if you buy your domains here.    So I would
+simply recommend
+doing that.  It's much less complicated and they
+basically take care of everything when
+configuring things like DNS, SPF, etc.
+But first, we need to come up with 26
+similar domains.  So, to
+do that, I'm going to jump into Claude and
+basically give him a command like this
+.  I need you to create a bunch of
+similar domain variations for
+my main domain.  My
+primary domain is velocityflow.co.
+Make sure they are
+professional and real similar domains, and that they
+really look like legitimate domains.
+26 of them, and make sure they
+are all .co domains.  So I'm just going to
+press enter and let Claude do
+his job.  Okay, it's finished now, and
+as you can see here, he gave me a list like
+this.  Basically, I asked him to
+put it in comma format for me,
+just so I could copy and paste it.
+So I'm going to copy that and go back to
+Peeker.  I'll click on buy domains
+and then on the bulk search option
+.  And then I just stick those
+babies there.  Press enter.  As
+you can see here, it's basically
+checking the availability of all
+these domains.  Now, specifically
+in my case, I have purchased so many domains
+that, at this point, many
+will not be available, as you can see
+here.  So basically what we'll do
+is, if that happens to you
+—although I doubt it will—
+just take those, copy all the ones
+that say "unavailable" and
+ask Cloud Code to help you
+generate more, and keep going like that
+.  Okay, as you can see here
+, we basically found our 26
+domains.  I clicked on select all
+, and now they're here on the right.
+They cost around 11.49 per year.
+So, after defining our
+domains, we now just want to
+click on continue to setup.
+Okay, this is basically where
+they put their redirect domain.
+Mine will basically be
+velocityflow.co.  They want to put their
+redirect domain there.  The reason
+is that when someone clicks on your
+email, it will essentially redirect them from
+that domain to your primary domain, and
+your deliverability or your
+primary domain will not be affected at
+all.  And below this, is where
+they will choose their shipping personality.
+Many people get obsessed with this and
+say, "Oh, use generated female names
+or just use your first name."    It does
+n't really matter.  I have more
+success using my first name, because
+if someone writes to me or if I
+write to someone and they search for my name,
+they can get to this YouTube channel,
+for example.  But, after deciding
+where they're going to click, they'll click on
+confirm
+velocityflow workspace.  Oh, let me make sure you
+can see that at the
+bottom, and then click
+next.  And as you can see here, everything is
+purchased, so it should look something like this
+on your control panel.  And as I
+said, there are many
+additional features with this platform.  You can
+see basically all the
+healthy domains, and down here, these
+indicate that they are already depleted.  So it's
+good to be able to visualize everything to
+know what to really change and get
+the best deliverability.  Honestly,
+they can buy their inboxes
+anywhere.  That's just the
+place I recommend.  The most
+important part of their infrastructure is to
+warm it up for 2 weeks to
+basically give reputation to that
+domain.  So, in my case, I've already
+done this.  I've had my domains
+warming up for 2 weeks now.  And
+you can use the best
+email sequencer of your choice.  There's Email
+Bison, Smart Lead, Instantly, and Plus 5.
+There are tons of them out there.  If you have
+an advanced level, I would use Email
+Bison.  If you're just starting out,
+I would use something like Plus 5. Now that
+we have our infrastructure
+built, the second step will be to create
+the list for the answers.
+Most people think you need to
+pull a list of 50,000 people and
+just throw them into a campaign.
+That doesn't really help, because you can't
+address their
+specific problem.  So, for this
+example, we're going to work with
+manufacturing, okay?  Let's say
+this is manufacturing here, or let's say
+this is manufacturing in its entirety
+.  Within this
+manufacturing circle, there will be different
+slices of the pie that we will
+segment.  So, let's say we're going to
+make 50,000 prospects;  Basically
+we can make 10 segments of 5,000, or
+we can make five segments of 10,000
+.  Basically, there is perhaps
+industrial manufacturing,
+automotive manufacturing.  There are a lot of
+different portions that we're going to work with.  But,
+as I said, we will work with manufacturing
+for the list of prospects that we are going
+to contact.  That's extracting a
+list of prospects.  It's amazing what
+you can do with Claude Code these
+days.  Previously, you had to go into
+Apollo and manually extract a list
+of prospects, and half of it would be
+noise, but now you can use Claude
+Code to extract prospects.  So we're going
+to use Get Leads.  It's basically
+unlimited, verified B2B contact data for your AI.  You simply
+tell Claude what you want, and he
+will go and get it for you.  I have
+tons of videos about getting leads.  It's
+super easy.  Just create an account,
+and basically the founder recorded a
+video explaining how to set it up
+with the AI ​​of your choice.  It doesn't have to
+be Claude.  It could be ChatGPT, Astra,
+etc.  Assuming you already have that
+set up, what you'll want to do
+is give Claude a prompt like this.
+Use my Get Leads pipeline to
+extract 50,000
+manufacturing leads.  I want to create five
+campaigns with 10,000 prospects per
+campaign, segmented by the
+specific industry they are in, the
+specific manufacturing industry they are in
+.  For
+decision-makers, I want
+founders, owners, CEOs,
+anyone who can make the decision
+during the call.  And I want them to have
+between 10 and 50 employees, all in the United
+States.  So we can give him
+a prompt like this, press enter, and
+again, let Claude do his
+job.  Now, if you had done it
+manually, as I said, it would literally
+take hours going back and forth with all
+those complex Clay tables.
+Everyone raves about it, but it
+literally doesn't matter.  The quality of
+the list that Get Leads will give you just
+by basically telling it what you want
+.  It will give you exactly what you're looking for, and
+you can always ask it to track down more
+prospects if needed, in case
+the market is somewhat limited.
+But, in my case, I got 80,000
+leads from that search.  Now that we've
+built the list, I
+'m not specifically very, you know
+, connected to the manufacturing sector
+.  So the next step will be to
+create an offer.  If you already know me
+regarding offers, I like to include
+these four mechanisms in every offer I
+write.  But, as I said, since
+I'm not very involved in the
+manufacturing sector, I literally don't know
+what their pain point might be,
+so I'll use this three-
+step Reddit demand mining method
+that I apply to every offer I create.
+So, basically it's just this
+prompt right here.  You can put it in
+Claude, and what it will do is
+basically give him your
+ideal customer profile (ICP), okay?  And
+then it will return keywords,
+pain phrases they use to describe a
+problem, subreddits, and signal phrases
+for lead magnets.  Then,
+once you have all the data,
+step two is to define the problem you are going
+to solve.  This basically summarizes
+all the information and helps you
+identify the
+most common pain points that everyone
+talks about.  As I said, it will return their pain,
+the intensity from 1 to 10 of how
+severe it is, the exact language and terms they
+used, a
+provocative question, and a couple of
+cold mail hooks we can use.
+Next, step three will be to introduce
+this prompt into Claude, and it will basically
+turn those exact problems into
+an offer you can use to
+solve them.  It will classify it by
+different groups, the terminology
+used, the key phrases to attract
+potential customers, etc.  When it comes
+to creating offers, you probably wo
+n't get it right the first time.  Maybe you'll get
+lucky, but I recommend trying
+different offers.  So what I
+like to do is think of a bunch of
+different pain points, maybe
+different approaches for each offer, and
+then I basically send 1,000
+emails a day per offer.  And
+then, whoever has the highest
+response rate, out of those three or
+four with the highest rate, moves on to the
+second phase, and so on
+until a winning offer is found.
+Quickly, if you want a
+cold mailing system created directly
+for your business, you can click on
+the first link in the description
+below and book a free call.
+As you can see here, demand mining
+on Reddit has just
+basically finished finding all its
+pain points.  And as you can see
+here, it gave me five different pain points
+that many people in the
+manufacturing industry are
+feeling right now.  For example:
+we have lived off the same customers
+for 20 years.  That would be an example
+of them basically relying on
+references, so that's an approach we'll
+probably take.  I think it's
+the best and most common of
+all, that's why it's number one.
+So now what we're going to do,
+since we've found the pain point and
+the problem we're going to solve and the
+approach we're going to take to solve it,
+is basically use this
+for the offer.  But now that
+we have found the problem we are going to
+solve, let's write the text.  And
+whether you've followed my channel, or whether you
+know me at all, or even if you don't, the
+text of cold emails is
+literally 80% an offer.  So,
+once you find the
+pain point they have and that you're trying to solve, it
+makes writing the text 10 times
+easier.  And I'll show you how I'm going to
+write the text with Claude's codes right now
+.  So
+basically I'm going to go to Claude and
+change this to Sonnet 5 here, because it's
+the best for writing
+cold emails right now.  And then I'm going to
+say use the backslash cold email
+copy.  Well, this is basically a
+skill I have with all my
+internal POEs; he's analyzed millions of
+cold emails, so he has so much
+context about how I like to write.
+And he comes up with a lot of
+different variations.  So I'm going to say it, and
+by the way, if you want this, it will be in
+the second or third link in the
+description to join the
+outbound room, basically my
+school community where I teach you how to
+set this up for your business if you don't
+want us to handle it for
+you.  But I'm just going to say that I used
+cold email writing to
+create copy for pain point
+number one.  And then we'll let
+Claude do his thing.  As you can see here,
+this was the text that came to him.
+So he gave me three different scripts I
+could use.  So, let's
+review them.  Obviously, the
+subject line doesn't matter too much.  Um,
+you guys can't even see the
+subject line.  Here it is.
+Ob-Obviously, the line of the subject doesn't
+matter too much.  But the
+first script: "Name, most
+workshops your size are still
+living off the same customers they
+got a year ago."  TRUE?
+We used the exact same pain
+they described that they were going through
+and used it as a first line of defense
+.  Alright?  That basically
+tells them, "This person understands what
+I'm going through. I've been living off the same
+references for 20 years."  Alright
+?  And then we add a line right here
+.  It says: "Parts
+are running out faster. They're
+being replaced, and sales
+were never really the focus.
+We set up calls with engineers and
+buyers who need
+manufactured parts. Nothing extra, all of that's a
+bit redundant right here. So,
+obviously, we can change this. But
+I really like this text, don't you
+? Because if you read the first line,
+they'll think to themselves, 'Okay, this is
+actually relevant to me.'"  "
+This guy seems to understand my world."
+Okay? Number two will be: "Name,
+I notice that the company name
+works mainly with
+repeat business."  "Again, going with the
+angle of the references."  That
+works well until one of those
+long-standing clients closes down or
+moves the work in-house, and the
+sales flow goes silent.
+If I could get you three to five
+engineers or buyers on a call
+with you this quarter, directly, without
+intermediaries.  "Look, all of this is
+kind of extra right here. That's
+where you can see AI coming into
+play. So, obviously, fine-tune it.
+But I also really like this text
+. And then number three will be:"
+Name, are you interested in some
+additional meetings with buyers
+who need parts manufactured?"  "And
+again, all this additional content
+here."  So I would adjust them a
+little.  But the reason I
+like that it comes with three
+different scripts is because you need to
+figure out what works.  I
+could choose this one.  It might seem like
+, you know, I think in my head that
+this could be a really good script,
+but I'll never know until the
+market tells me it's a good script.
+So I have to try it from several
+different angles and figure out what
+really works.  And if you're going to look at
+the real pain points here, maybe
+this is the wrong pain point
+to target, okay?  You may
+need to test all of these
+pain points before finding a
+winning text.  Now that we've set up our
+infrastructure, created a
+prospect list, found an offer that
+directly addresses their pain points,
+and drafted the cold email
+, the final part will be the
+back-end, which is handling
+responses.  Now, your job at this
+stage is basically to remove
+friction for the prospect, and I'll
+walk you through a framework
+of exactly how I do that,
+but in a perfect world, this is how it
+would work.  The response arrives and you
+will respond within 3 to 5
+minutes of its arrival.  You're going to
+rate them and then schedule the
+call, okay?  Now, a lot of
+people, you know, this is if they just
+say yes, is that okay?  Some
+skeptical buyers will ask a
+lot of different questions.  Now,
+if you want to maximize your
+booking rate, you're going to use this framework called the
+ACA framework, or this is the framework I
+use, okay?  What this
+means is to acknowledge, provide context, and
+then ask a question, okay?
+Then you'll recognize his question.
+Let's say they asked how much it costs.
+You're going to say, you know, great question.    It
+really depends, doesn't it?  Provide
+context about what you're really looking for,
+what volume you handle, etc.  And then you're going
+to ask a question, okay?  And
+then you basically want to follow that
+structure until you get straight to the
+point, which is, you know, making a
+call, okay?  So the
+main thing when it comes to
+managing responses is really that
+if you simply did that, respond
+within 1 to 5 minutes, or even
+call them back within that same timeframe upon
+receiving the response, your
+booking rate would increase by 80%.  The reason
+for this is that when a
+potential customer replies to your email, it
+tells us that it's in their
+inbox at that precise moment.  That's why
+we want to respond as quickly as
+possible so you can see it as soon as possible
+.  We don't want you to reply, step
+away from your computer, go get
+a coffee or something, or do other
+things that might distract you and make you
+forget about it.  Okay, so
+that's literally the whole
+response management process, how to maximize
+bookings.  Now, regarding the
+results of sending 62,000 emails,
+we ended up booking 62
+discovery calls.  We received around
+300 interested responses.  Now,
+this is a system I built with
+Claude, so obviously these
+parts aren't exact.  We
+probably sent out 11 proposals this week
+, and like I said, we probably had about
+55 people who actually booked or
+attended the call.  So the
+question is, is cold mail dead
+?  Obviously, he hasn't died.
+I literally booked 62 calls in
+a single week, literally 5 days of
+sending cold emails.  If you book
+62 calls and even if you have a
+10% closing rate, you would still be
+closing five to six deals each
+month.  You would be taking 10 to 11
+calls each day.  So, as I said
+, is cold mail dead?    He is
+absolutely not dead.  It's one of
+the things with the highest return on
+investment; you could get the
+lowest cost per customer, even more than with
+ads.  You're not going to waste your time
+making cold calls.
+Cold emailing is one of the best ways
+to literally double your income
+by 2026. So, that's literally the
+whole process, from setting up the
+infrastructure to creating the offer,
+building the list of
+potential clients, preparing the
+cold email copy, and handling the
+responses.  And if you enjoyed this
+content about cold mailing,
+click subscribe and we'll see you in the
+next video.  Peace.

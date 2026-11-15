@@ -1,0 +1,1918 @@
+If you are like me, um, when I was
+getting started, you hear the word
+terminal or IDE and you're like, what
+the hell even is that? Claude is so good
+when it comes to building these out for
+you that you don't need to be like a
+prompt engineer anymore to get really
+good outputs. These right here are
+Instagram carousels that I have created
+using, um, just Claude co-work actually.
+It's got about like 2,500 likes. This
+took 30 seconds of my time to generate
+these and my whole goal is to just make
+it as dead simple for the majority of
+non-technical people.
+>> What is the step one?
+>> Sure, 100%. Let me, let me share my
+screen. We're going to go through five
+different phases here so you guys can
+get set up with Claude co-work and begin
+using this.
+>> Okay, so it looks like the whole world
+at the moment is switching over to
+Claude. We even switched over to Claude
+and we've been using it for the last few
+weeks to what I thought was great
+effect. Then we brought Brock on the
+show. So to give you the context, I call
+Brock the Claude co-work expert. He has
+successfully mastered how to use Claude
+in his life and it literally runs his
+entire business and the crazy thing is
+Brock is non-technical. He's not a
+software engineer, he's not a tech
+expert, but he has successfully built
+out these workflows and he's going to
+show you exactly how he did it in this
+conversation. And so if you're listening
+to this episode, my hope is very simple.
+We are going to show you some new
+concepts and use cases for how you can
+use Claude and Claude co-work in your
+business, in your content and in your
+daily life. And then what's going to
+happen is is that this weekend or
+whenever you have some free time, you're
+going to open Claude co-work, you're
+going to set up some of these ideas and
+it's literally going to save you hours
+and hours every single week. That's my
+hope. It's so simple. And you know what,
+before we get into the conversation,
+make sure that you stay to watch the
+demo around Claude live artifacts. It's
+a complete game-changer. So, you know
+what? I'm not going to say anything
+more. Let's just get into the
+conversation. You're listening to The
+Callum Johnson Show. We're in a very
+interesting time
+where it feels like every week Anthropic
+is releasing a new feature, a new
+plugin, some new tool that you can use
+with Claude.
+And I think it's simultaneously
+incredibly exciting,
+but also overwhelming. Like it's it's I
+felt this, it's difficult to know where
+to get started.
+And so, if someone is sitting at home
+watching this with that feeling of
+overwhelm,
+what is going to be the value that they
+will get from this conversation if they
+watch till the end?
+>> Yeah, 100% and I want to make a preface
+here. This is my full-time job to use
+Claude, teach thousands of people how to
+use it, and I still feel overwhelmed.
+So, first of all, I would say don't feel
+bad that you're overwhelmed, or don't
+get overwhelmed because you are
+overwhelmed. Um but I will say in this
+episode, we're just going to break down
+um Claude and specifically Claude
+co-work because I've used every tool
+under the sun. And um to give a little
+background on myself, I teach
+non-technical people how to use AI. And
+in this video, we're just going to going
+to condense where I would where I think
+they should be focusing if they're just
+getting started.
+>> Yeah. You know what, Brooke? Before we
+get into uh the Claude co-work piece of
+it all,
+and it's mentioned in your channel name,
+you just mentioned it now, which is uh
+you create specifically for
+And even when we you and I spoke before
+this, you made a point of that, and it
+felt like personal when I heard you talk
+about it.
+Why is it so important to you
+to serve specifically non-technical
+people?
+>> Yeah, so it's important to me because
+that's exactly who I was and who I still
+identify as, to be completely honest.
+So, when I was getting started in AI, I
+had zero background whatsoever. This was
+about 2 and 1/2 years ago. I've always
+been an entrepreneur, but I have no
+coding or technical skills at all. And I
+personally uh used to feel a lot of
+overwhelm, and I'd feel kind of shame
+for not being technical for some reason.
+And then I met up with a bunch of my
+friends that are deep in the AI space
+and also AI creators. And they were
+like, "Brock, you being non-technical is
+kind of your superpower. You're able to
+connect with people and understand the
+actual things people are going through."
+So,
+I think a lot of people in the AI space
+really overcomplicate things, and my
+whole goal is to just make it as dead
+simple for the non
+you know, the majority of non-technical
+people um to begin getting started and
+actually
+take all this information that's out
+there,
+um
+understand it to a fundamental level,
+and then start implementing it to not
+only their business, but their personal
+life. And basically, um you know, ways
+to make them feel more productive and
+buy back their time, essentially.
+>> Yeah. You know, the the the moment that
+we're in with AI from like a consumer
+standpoint for for a non-technical
+person, and I identify with that as
+well, I felt like about 12 to 18 months
+ago we found out about like ChatGPT and
+started using that for the first time. I
+would really say in the last 6 months, 6
+to 9 months,
+Claude and Anthropic kind of came into
+the conversation in a major way. They're
+releasing new features all of the time.
+Can you kind of take us back?
+When was that first like lightbulb
+moment that you had with Claude
+specifically? Because and and also
+sharing this context with people,
+you large parts of your business you run
+through Claude. And so I'm curious to
+get to like the inspiration, the
+starting point, the the light bulb
+moment of that.
+>> Yeah, for sure. I don't have a singular
+light bulb moment, but this to give you
+a little bit of context, this might be
+even more valuable for your audience.
+So, I just like probably a lot of the
+people watching this right now, heard so
+many different things about Claude and
+how Claude code was changing everything.
+And this was probably about four, maybe
+five months ago. So, the Claude train
+was going for maybe like two, three
+months before that. And I have a really
+good friend Mark, and him and I actually
+did a podcast together. And on that
+podcast, I was like, all right Mark, I'm
+completely non-technical. I want you to
+um explain to me how to use Claude. And
+I'm not joking, this is a perfect full
+circle moment because he kind of that
+was that was the spark for me. It was
+like, okay, I understand how powerful
+this is now after spending months of
+like not wanting to learn it because I
+was, you know, trying out so many other
+AI tools and I didn't want to have to
+try out another one. I was like, this is
+a waste of my time, it's a distraction.
+But on that podcast, I really
+started to understand what was capable
+with it. Um so I think the reason I want
+to make that point is because you might
+be in that same uh in the same shoes
+that I was of being overwhelmed with
+finally learning how to use ChatGPT or
+Perplexity or one of these tools, and
+you don't want to switch to Claude, but
+I can almost guarantee it to you that
+like for me that was the biggest um
+change that I ever made when it comes to
+AIs, adopting Claude and figuring out
+how to use it. So, um hopefully like
+some of the audience is like uh you
+know, feeling that a little bit, too.
+>> Yeah. You know what, you you mentioned
+it's the the biggest shift uh
+impact in your business is like learning
+how to use Claude and adopting Claude. I
+heard you say on a video uh that you've
+been using Claude co-work every day for
+the last 3 months, and it's helping you
+run your business.
+Can you kind of take people behind the
+scenes for a second in part in what you
+do, and then specifically at a high
+level, how does Claude CoWork contribute
+to that?
+>> Yeah, for sure. So, to give a little of
+a breakdown, basically my full-time
+business is educating people on how to
+use AI. So, I'm using um Claude a lot
+for content creation. So, should you
+want me to share my screen real quick to
+show a couple of examples of how I'm
+using this?
+>> Yeah, let's do that.
+>> That might be helpful for the audience.
+All right, so to give you guys just like
+a quick example, Column, I want to show
+you guys this. So, these right here are
+using um just Claude CoWork actually.
+So, you could see I have um a couple of
+different images here. This is one set
+of carousels. This is another set of
+carousels here generated. Um here's
+another. So, I have a bunch of different
+images. And to give you guys a bit of
+context, this took maybe like um 30
+seconds of my time to generate these. I
+don't have to give a super comprehensive
+prompt. And to show you what I mean, um
+let me um
+show you the input that I gave to Claude
+it. So, I came to Claude CoWork and I
+just said
+/IG carousel, and I gave it a link to
+this Google document right here, which I
+actually had Claude create for me. So, I
+had it go and scrape um five different
+GitHub repos with a bunch of different
+Claude skills. I just want you guys to
+realize that this is the context I gave
+it. Um basically, I didn't have to give
+it super long prompt. And these are the
+results of the carousels that were
+generated. And to show you um exactly
+this in practice, here's my Instagram.
+So, these are actually performing pretty
+well. Um and these are basically just
+lead magnets that I'm, you know, having
+uh ManyChat automatically sent to
+everybody commenting on these. Um
+as you could see, this one
+right here, this one like crushed. It's
+got about like 2,500 likes. Um it's got
+about 3,000 comments here. So, not only
+are we generating like some cool um
+Instagram carousels, but they're
+actually performing um and helping me
+drive um leads for my business. Um okay,
+so here's another example as well. So,
+this one's super simple, but um from a
+lot of people in my community, this is
+one that they've really gotten value
+from. So, I have been automatically
+generating these PDF documents that I've
+been using as lead magnets. So, again,
+on Instagram, like I'll say, "Comment X,
+and I'll send you the full guide." And
+this right here was generated entirely
+with Claude. Um again, I didn't have to
+give it a long prompt. I just typed in
+the command, "PDF guide," um and it was
+able to generate this on autopilot with
+like, you know, these cool graphics
+here. Um it breaks down everything step
+by step. So, these are a couple of
+practical things that I've been using,
+um and they're pretty simple to build
+directly inside of Claude.
+>> That's awesome. So, even the to be
+clear, so both the the content of it and
+then also the design has been generated
+by Claude.
+>> Exactly. And so, since this is a skill
+that I have created, and again, we're
+going to dive into exactly what it what
+a skill is here shortly.
+Um it knows the exact design and the
+exact layout I want every single time.
+So, to show you an example, um another
+example, right here.
+So, this is like what the actual PDF
+looks like, and it's in the exact same
+style with the exact same like graphics
+right here as the one that you're seeing
+on screen right here. And that's because
+I refined a skill, and basically, we
+could run this workflow whenever we
+want, and it'll always look um basically
+the exact same every single time.
+>> Yeah.
+And And how if you had to estimate,
+Brock, how long does it take you to
+generate one of these?
+Like how much time do you spend?
+>> Yeah, so now that I have a skill
+created, I just literally have to type
+in PDF guide, give it a short little
+sentence on what I want that guide to be
+about, and it does all of the resource
+crafting, it does all of the scraping
+for the information, and generating of
+the graphics. So, it takes me maybe 15
+seconds.
+>> That's pretty incredible. Would you say
+from from the people that you know, or
+even people that you speak with, would
+you say the the level that you've
+refined your kind of Claude system to,
+is that pretty unique?
+Like is there is there kind of like a
+a secret or something that you
+understand that has allowed you to get
+that level of output? Because honestly,
+when I see a lot of people create with
+AI, it looks like slop. Like it doesn't
+look in the way that you just showed.
+>> Yeah, for sure. So, to give you an
+example of that PDF guide, and again,
+this is a super simple example that I
+just think some people could implement
+into their business immediately. You
+could use that for SOPs for an employee
+or something. I I don't know if
+anybody's read the book uh the Almanac
+of Naval Ravikant.
+>> I love that book, yeah.
+>> I really love the way that looks. So, I
+took a screenshot, I gave it to Claude,
+and I said, "I want the output to look
+similar to this." Cuz it's just so
+aesthetically pleasing. So, to answer
+your question, no, I don't really have
+these crazy skills personally to build
+out, you know, these workflows. Really,
+it's just going back and forth with
+Claude. And Claude is so good when it
+comes to building these out for you that
+you don't need to be like a prompt
+engineer anymore to get really good
+outputs.
+No, that's so cool. That's so cool. You
+know what? Cuz I think there's some
+people that are going to um see that.
+And I was also watching one of your
+other videos because it's yes, you're
+using Claude Co-work for design and
+content creation, also just being
+productive. Like I saw workflows where
+you're talking about uh the morning
+brief or how you use it for background
+research or the weekly roundup. Can you
+just like things that are actually just
+making you more productive? Like you can
+you can have more output.
+Can you just describe those for people?
+Cuz I thought that was pretty cool when
+I saw it.
+>> Yeah, why describe it when I could just
+show you? Let's do it. Okay, real quick.
+So, after this episode, Brock showed me
+a Claude hack that I just had to come on
+here and share with you guys because I
+think that you'll find it extremely
+valuable in the same way that I found it
+extremely valuable. And so, what
+happened is is that after this
+conversation, I wanted to connect
+Beehiiv, which is where we host our
+newsletter, The New Era. I wanted to
+connect it to Claude CoWork so that I
+could chat with Claude about some simple
+ways that we can improve our newsletter.
+And so, what I had done is I went to the
+connectors tab, exactly how they tell
+you to connect Beehiiv to Claude, but I
+couldn't find it anywhere. And it was
+this super frustrating experience
+because I didn't know any other way to
+make this connection happen. But then
+Brock showed me a way that I could make
+this connection from Beehiiv to CoWork
+using something called the Zapier MCP.
+And so, what happened is is that all I
+had to do was go to Zapier MCP. I search
+up Claude CoWork, I click on it, I then
+click on add apps, and I search for
+Beehiiv. I then click on that, and I go
+to select all tools, I hit connect once,
+then I hit it again, I then put in my
+API key here, and then once Beehiiv is
+connected, I simply click connect, you
+can see it right here.
+And I follow this simple two-step
+process to connect Zapier to CoWork. And
+so, after that process is complete, I
+can then come back in here and tell
+CoWork that it's connected to Beehiiv
+through the Zapier MCP, and I can ask it
+some really simple questions that got me
+some really good output. And so, if you
+ever run into the same issue where
+you're trying to connect an app to
+Claude CoWork, and you just can't figure
+it out, you can just use the Zapier MCP
+in exactly the same way that I did, and
+you can get your app connected super
+easily. And so, if you want to try this,
+just go to the link in the description,
+and you can start using Zapier with your
+Claude right now. Thank you to Zapier
+for sponsoring this episode. Let's get
+back to it. Okay, real quick, what
+you're seeing on the screen right now is
+a 20-slide presentation that I created
+with Gamma. And I used this presentation
+for an in-person seminar that I did on
+how to build an audience in the age of
+AI. Now, usually it would have taken me
+at least 3 days, probably more, probably
+more like a week, to create a version of
+this 20-slide presentation. But with
+Gamma, I was able to create this in
+under 2 hours.
+I created this presentation the day
+before I delivered it. And it was also
+super fun to build because of Gamma's
+agent. And so to take you behind the
+scenes for a second, I put in a prompt
+into Gamma so that it could create an
+initial version of the presentation. I
+didn't have to make any of those changes
+and updates myself. I then just went
+back and forth with the agent until I
+was happy with the output. And I did
+that slide by slide. And honestly, the
+most mind-blowing part of this whole
+experience was that Gamma actually
+created these custom diagrams, like this
+Venn diagram that you see, that
+perfectly illustrated one of the core
+exercises of my seminar. And that was
+based off the initial prompt that I put
+into the agent. And so next time that
+you have to create a presentation for
+something, I highly recommend that you
+use Gamma. It was a game-changer for me,
+and I think it will be the same for you.
+So if you want to try it, go to the link
+in the description, and you can start
+using Gamma today. Thank you to Gamma
+back to it. All right, cool. So we're
+inside of Claude Co-work right now, and
+this is something that's been incredibly
+uh helpful for me. So I built out this
+um operating system. So let me pull this
+up. Uh this is called a live artifact,
+which we'll talk about later again in
+this video when we break down kind of
+all these fundamentals inside of Co-work
+and how to begin using them. But to give
+you just a quick breakdown of this, this
+is like a unified dashboard that that
+combines all the different apps I use on
+a day-to-day basis and pulls information
+from them. So, to give you just a quick
+rundown on the on this in the structure
+of this,
+this right here is my
+top three signals for the day. So, I
+don't know if your audience has heard of
+signal to noise framework that Steve
+Jobs like perfected. Basically, what it
+is is like knowing what are the top
+three things every single day that are
+signals that will drive my business
+forward and everything else is noise.
+So, I really love that framework. So, I
+was like, "You know what, Claude, I want
+you to actually break down my top three
+things I need to focus on for the day."
+So, for example, this one right here
+says, "Film the Claude Co-work Operating
+System video." Number two, "Make school
+post." Um number three, "Confirm email
+marketing sequence is good to go." So,
+it has context on what's going on inside
+of my business and I'm able to create
+this dashboard that is always living
+directly inside of Claude that not only
+has these three tasks here, but it also
+pulls up
+everything that I did um today inside of
+Claude. Um it also shows me my goals
+based on revenue. So, it's able to pull
+from my Stripe account and my QuickBooks
+to actually see where I'm at in terms of
+my revenue goals.
+I could see
+uh the top emails that I need to reply
+to every single day as well as my Google
+Calendar events. As you can see, I don't
+have any on here aside from this amazing
+podcast is um obviously. But, yeah, so
+right here you can see all the emails
+that I need to reply to. So, this is
+like probably one of the most practical
+things that I think um by the end of
+this video, if you're watching this, you
+can build out an operating system like
+this directly inside of Claude so you
+could kind of get a snapshot of what's
+going on across your entire business.
+And this has been the one thing for me
+that's really um been game-changing and
+it cuz it really is just a fundamental
+shift in how we're using um technology
+and specifically um AI in our
+applications.
+You know what, how much of it are you
+actively
+uh like writing these things down or
+like having to prompt Claude to get this
+versus it's just generating like the
+morning brief or the the signal to noise
+ratio. It's just generating that
+autonomously from seeing your meetings
+and your notes and whatnot.
+>> Yeah, exactly. So,
+this is called a live artifact inside of
+Claude. This is something you can see on
+the left-hand side right here. It's
+called live artifact in this little blue
+box. Um this is something that they just
+released recently. Um and this basically
+allows you to build dashboards that pull
+information from the apps you use,
+whether it's Gmail, Stripe, um Slack, uh
+all these different tools. And it pulls
+in real time. So, it's able to uh
+basically update you with what's going
+on across your entire business um in
+real time. So, to answer your question,
+you don't really need to give it an
+input to generate this every single time
+you want to look at it and refresh it.
+It'll automatically re- refresh based on
+the data from those apps that you're
+connecting it to.
+>> So, so, so, as an example then, Brooks,
+that's that's really cool.
+You wake up in the morning and you turn
+on your your computer or whatever, you
+sit at your desk, and that kind of the
+three signals for your day
+would just be there.
+>> Yep. Yeah, exactly. That's the the power
+of live artifacts, yeah.
+>> Yeah. Wow.
+>> That's one of the key points here is
+needing to like explain to um Claude a
+little bit and be like, all right,
+here's the things that I'm working on um
+in total. And then you could have like
+for example inside of this, Claude
+automatically categorizes what the top
+three are. But I do need to give a
+little bit of input of like, all right,
+what am I working on? What are the
+things um that I need to do to drive my
+business forward? And then it'll it'll
+automatically um populate this based on
+rules that we give it. Um so, it could
+understand where my goals are and so it
+will then formulate these three signal
+tasks based on those goals that I set
+inside of Claude.
+>> Yeah. You know what? I I I I I to get to
+uh how someone can actually start
+building it and showing them in like a
+an easy way, a way that's not as you
+mentioned in the beginning, it's not
+overly complicated for the sake of it,
+and they can actually create workflows
+in Coda that are productive.
+>> What what is the step one for people?
+>> So, first of all, we have the
+foundation, and this is honestly the
+basic step majority of people skip.
+So, first of all, the thing that we want
+to focus on is our workspace. So, the
+key thing with Coda is instead of it
+just functioning inside of a browser, we
+are able to work inside of folders on
+our computer, and this is really the
+thing that unlocks like the
+full capabilities of Coda because if
+you're coming to, you know, Coda.ai
+and you're just
+and you're just chatting with it right
+here, there's really only only so much
+it could do. You could have it answer
+questions, and it basically functions
+like ChatGPT, but this is just
+scratching the surface of what you could
+do. And the reason for that is because
+Coda is working inside of specific files
+and folders on our computer. So, the
+first thing that you need to do to
+download this and get this set up is you
+need to make sure you have the Coda
+desktop app downloaded cuz you can't do
+this on the web interface right here.
+So, make sure just to download this for
+Mac or for Windows, and then once you
+have that
+you will then see this interface
+right here. So, again, this is chat
+mode. We don't want to focus on this.
+What we want to focus on is Coda, and
+where we find that, if you could see my
+blue rectangle up here, there are three
+separate sections. We got chat mode, we
+have Coda mode right here, and then we
+have Coda code. So, let's click the
+middle one. This is where we're going to
+focus on
+in this video.
+>> Can you for people, just so they can
+understand the differences,
+what is kind of the use case of Coda
+Coda versus Coda code? How do you decide
+if I should be using Coda Coda or Coda
+code? Like, how did you make that
+decision?
+>> Yeah, this is a super good question and
+there's kind of a lot that goes into it.
+Um, I think the TLDR that I want to get
+at is Claude Chat mode's great, it's
+really easy to use, anybody can use it.
+Claude Co-work is a next step up from
+that. Claude Code is another level above
+that. But, the thing is, inside of
+Claude Co-work, you I would say, and I
+tell, you know, people my community and
+a lot of the people I do education for,
+Claude Co-work gets you like 90% of the
+way that Code does and it is much
+simpler to use for non-technical people.
+Um, Claude Code, uh, you use it inside
+of a terminal or an IDE like Cursor or
+VS Code. If you're like me, um, when I
+was getting started, you hear the word
+terminal or IDE and you're like, "What
+the hell even is that?" So, like, I tell
+most people, Co-work is where you should
+start. And then, you could always
+upgrade from there, but I think Co-work
+gets you 90% of the way that Code does
+and it's just a lot less complex for
+people.
+>> Okay, awesome. Awesome. You know what?
+You've kind of, um, and I'm and I'm sure
+you're going to go deeper into it. Let
+Let's talk about like the the context,
+this workspace that you set up.
+>> Yeah, for sure. So, not only talking
+about like the workspace I set up, let's
+go ahead and show people how they could
+set up a workspace right now. So, what
+we're going to do is we're going to
+click right here where it says work in a
+project. Um, we're just going to select
+this and we could use any of the folders
+we have on our computer. I'm just going
+to create a new or I'm going to choose a
+different folder here. Um, I could
+select anything I want right here, but
+I'm just going to select new folder cuz
+that's what people are going to do uh,
+if they're watching this video. Let's
+just call this one column. Um, I'm going
+to click on open. Um, I'm going to
+select allow so we could share these
+different files into this folder. Um,
+now that we have our workspace set up
+inside of Claude, we now want to focus
+on something called a Claude MD. If you
+don't know what in a markdown file is,
+this is basically a file that is
+formatted in a specific way for Claude
+to read and understand. And specifically
+what this file is, this basically just
+tells Claude who you are, lays out your
+different projects and goals, and sets
+the rules on how it's going to, you
+know, interface with you and chat with
+you. So, basically this is like the
+brain of our entire system.
+So, first of all what I would do if you
+are just getting started, and I actually
+have a skill that is called
+um set up co-work which we could share
+with the audience as well. This will
+take them through a step-by-step guide
+on how to populate this. So, I'm just
+going to like type this in here.
+And this is going to load this skill and
+it's going to ask us a couple of
+questions about who we are, what our
+business is, how we want to interact
+with Claude in order to craft this
+Claude MD that I just told you about um
+couple of seconds ago.
+>> Yeah. You know what, Brooke? I'm curious
+because
+I think uh and and and even in my
+experience, I got extremely excited
+about AI agents and
+uh doing autonomous tasks in my
+repetitive tasks in my business. And so
+I set up Claude co-work uh and I spent
+like hours kind of setting up this
+workflow. And then
+what it returns to me is kind of like
+this mediocre output. Um and then I
+never I never end up using it and then I
+don't go to it again and it kind of felt
+like this
+uh like I'd wasted time. And I think a
+lot of it was because of the context and
+how I set up things in the beginning.
+And so
+can you speak to
+how much time are you even spending
+setting up this MD file? And why is it
+so important when it comes to that end
+result of like wanting to have a
+productive workflow?
+>> Yeah, for sure. So, for an MD file, um
+really to get it set up is really
+simple. You can just come to Claude and
+say, "Hey, I want you to create this
+Claude MD." Um and give it a brain dump
+on yourself and your business, how you
+want it to operate. But, the main thing
+is kind of pruning it over time, I would
+say. So, if I click on mine, um this one
+is obviously not populated because this
+is inside of a new workspace. But, if I
+come over to a different working folder,
+So, for example, this right here is my
+Claude MD file um for this specific
+project, and it's pruned down quite a
+bit. And I had to, over time, basically
+say, uh you know, "Hey, I want you to um
+remember this about me." Or maybe I may,
+you know, started this new business that
+you need to um understand now, etc. So,
+I think over time you need to be really
+diligent about making sure to update
+this. Otherwise, it could be really
+outdated, and then that's when you're
+going to get those, uh you know, poor
+outputs like you were talking about. Cuz
+so many people have that problem, like
+it it all sounds good, it's all fancy,
+but like practically, it's, you know,
+could just be over overly complicated.
+Okay, perfect. So, if we if we go to um
+if we go to the skill that you were
+setting up in the new workspace. So,
+you're going through and you're doing a
+first pass of like answering these
+questions. But, then you also mentioned
+that over time you're like pruning it,
+so that it's actually it's improving.
+And the to be clear, the way that you're
+improving it is you're explicitly saying
+to Claude, "Can you remember this
+detail?" Or "Can you add this detail to
+the MD file?" Is that correct?
+>> Yeah, exactly. Or just having Claude
+audit it itself and say, "Hey, listen,
+uh based on all my previous
+conversations in the last week, what do
+you think inside of the Claude MD file
+is unnecessary, and what do you think
+that we need to add?" And literally just
+giving it a prompt like that will be
+extremely um helpful, and will go and
+prune it itself. So, you don't need to
+like physically come in here and like
+write out specific things or go and
+delete things. Um Claude will be smart
+enough to like understand what it needs
+to actually store there.
+So so your your mentality and your focus
+is just get it done first, like build
+out that initial version, and then
+really where you're spending time is
+iterating and like improving it over
+time, that MD file.
+>> 100%. Yeah, because there's only so much
+context you can give it just speaking
+with it. It's really just going to learn
+the more and more you use it. Um you can
+always just say, "Hey, save that
+information about me." and it'll go and
+do that automatically.
+Um so that's kind of the Claude MD file.
+I think next up we should talk about
+projects a little bit. So this is a way
+This is one of the things that I really
+love about um Claude CoWork
+specifically. So inside of Claude
+CoWork, and you don't get this inside of
+code, we have something called projects.
+So let me pull up my YouTube's video
+project. So anything YouTube video
+related, I come inside of this right
+here, and basically it has a separate um
+Claude MD memory thing on me. So it
+understands everything about my YouTube
+channel, who my audience is, what type
+of content I make, uh my content style,
+all of that stuff. And I could see all
+the different outputs from my YouTube
+videos. So for example, here is my
+competitor Intel um HTML dashboard that
+I create. So this automatically will
+scan competitors in the space and then
+create this dashboard for me. So the
+reason I want to talk about projects now
+is because it's just a way to simplify
+um the interface and just makes it uh
+really easy to access all this stuff
+directly in one space. Because if you've
+ever used AI, you might be using um one
+single AI for your business, your
+personal life, your finances. Um using
+projects, it's really easy to separate
+those.
+>> So it's just like organizing. It helps
+organize so that you get the most
+productivity. You know, I want to I want
+to go um
+deep into this cuz selfishly I actually
+think some of these workflows that
+you've built would be really useful in
+my own business. So, you set up your you
+set up your workspace, you have that
+like local folder on your computer, you
+put in that Claude MD file, and you fill
+in all those responses, you iterate with
+it over time. You're setting up
+projects.
+What do When it comes to like setting up
+projects, back to that point of it
+actually giving a useful output on a
+recurring basis,
+what's important
+What are the important steps for people
+to understand?
+>> Mhm. I think this would be a good time
+to transition to talking about skills,
+because I This is a way where you can
+perfect a workflow, like going back to
+the PDF that I showed you. I I like the
+way that output looks, and now whenever
+I want a PDF created, it looks that
+exact same way, and we're able to do
+that with skills. So, to talk about
+skills real quickly, basically you've
+probably heard me talk about this quite
+a bit in the video already, and it might
+be going over your head.
+They're not that complex. Basically, a
+skill is a pre-built workflow that you
+could just trigger directly inside of
+Claude. So, for example, slideshow
+generator. This slideshow you're seeing
+right now is crafted from a skill that I
+created inside of Claude. You could
+create a receipt scanner skill, an
+invoice generator skill, a meeting prep
+skill, or even like the morning briefing
+thing that I showed you earlier on in
+this video. So, this is in a in a very
+basic sense, it's just a workflow you
+could have Claude spin up on autopilot.
+So, in order to show you what skills are
+and how you can begin crafting them
+inside of Co-work, we're going to see
+this little customize button right here
+on the left-hand side. If you click on
+customize, this is where our skills
+live. So, I personally have quite a few
+here. Um I think I have like probably
+over like a hundred at this point that I
+use inside of my business.
+Um and what these are is Think of these
+as like really detailed prompts that
+Claude loads whenever you want to do a
+specific task. So, for example, if I
+ever want to create an Instagram
+carousel that I showed you earlier on in
+the video, I don't need to give it an
+example of what I want it to look like
+every single time. This file here, it's
+markdown file basically explaining these
+instructions, is super detailed
+explaining exactly how this should look
+every single time. So,
+and you're probably asking like, "Brock,
+how did you craft this skill?" And
+honestly, how I crafted it is I came to
+Claude, um and I basically was like,
+"Hey, you know, I want to create
+Instagram carousels. Here are some
+examples of the ones that I want to
+replicate." Um pasted in those
+screenshots, and it was able to craft
+that um for me. And then now, in order
+to access it, I just come here, just
+click on Instagram carousel, and then I
+can, you know, give it a specific um you
+know, something I wanted to create uh
+images about, and it'll go off and pull
+up that exact same set of instructions
+that I crafted earlier on.
+Um and then to show you, I'll show you
+another one. Let's just do morning
+briefing cuz this is a super practical
+one for people. So, I'll just type this
+in. Um this will automatically scour my
+email, my Google calendar, um even my
+Slack account, and then auto-populate
+not only a text response to me, but
+it'll generate a dashboard um that'll
+actually show this in kind of like a
+beautiful, like really easy-to-read
+interface as opposed to just like
+getting a text response. All right, and
+to show you a quick example, this is a
+morning briefing that I um had crafted
+for this morning. Um so again, it just
+shows everything on my calendar, shows
+the emails I need to reply to,
+um all these different things. And
+again, like this is a skill I created,
+so every single time I run this, it's
+going to give me this exact output here
+in this specific style.
+>> Can you can you take us
+because here's the thing that I've
+experienced,
+and I think other people will have the
+same experience, which is why I think
+it's important to touch on,
+is
+you will speak to Claude. You might use
+something like whisper flow. You'll
+speak to Claude. You'll have it
+developed this skill. Can you talk
+through that process of actually
+creating
+useful skills, not just having like a
+bunch of them, but they don't actually
+produce great outputs.
+>> Yeah, 100%. And like kind of a perfect
+example, hopefully, is um basically like
+the design for that exam- for that
+morning briefing that I just showed you.
+Uh it looks really good and that's
+because I wanted to replicate the way
+that like Apple design. I know a lot of
+people just use Apple Swiss design um in
+the AI space and that's just cuz it
+looks really good. So, what I did is I
+literally when I crafted this skill, I
+said, "Hey, want you to create this
+morning briefing that pulls my Gmail, my
+calendar, etc. And I want you to always
+output it in Apple Swiss style design."
+So, I don't know if that really answers
+your question, but like I was able to
+give it a vague enough um input on how I
+wanted to look. Um like literally, I
+just said Apple Swiss design and it was
+able to come up with something. So, like
+there's this isn't necessarily anything
+absolutely insane when it comes to
+interface-wise, but it this is Apple
+style design. It's just something that I
+personally like. So, I think
+there's not necessarily like a
+framework, I would say, that I use to
+create skills. Um if we're wanting to
+create like a dashboard like this, a lot
+of the times I'll just take a screenshot
+of something that I like and I say,
+"Hey, I want you to create it in this
+style, but, you know, change the colors
+a little bit or something like that." Um
+I'm pretty pretty fluid with how I
+instruct it.
+>> Yeah. You know what's interesting cuz I
+had a a conversation uh with Razmik um
+about a week ago, another AI creator,
+and we were talking about skills
+uh and how do you actually make valuable
+skills? And his process is slightly
+different from yours, but the thinking
+is exactly the same, which is he said
+the mistake that people make is they go
+straight to the AI to create the skill
+without showing the AI first what a good
+skill like what a good output looks
+like. And he likened it to having like
+an employee. Like if you are onboarding
+a new employee into your organization,
+you would have to show them how to do
+the task well first before you then
+allow them to keep doing the task. And
+it's similar to what you've just done
+there, right? Which is you said, "I want
+an Apple-style design." Like you've been
+very specific with what the output
+should look like. And then it's like as
+soon as you have that good output, then
+it's okay, save this as a skill and you
+can use it on a reoccurring basis. But
+it's like if you miss out that part in
+the beginning
+with actually showing it what good is,
+then it falls apart.
+>> Yeah, 100%. I think
+I think yes and no because I'm I'm think
+I think I'm naturally the type of person
+where it's like, all right, I'm just
+going to figure it out. So, I don't
+necessarily have a perfect idea of what
+I want it to look like, but over time
+I'll be able to refine it. You know, if
+if I like a specific color that it uses
+or typography, I'm like, "Man, this is
+great. Keep using this." But if I really
+hate it, I'm like, "All right, I know I
+need to give it some specific
+instruction now."
+Um
+yeah, I think letting it output
+something first for me gives me
+inspiration and like ideas personally.
+Um that's very interesting cuz it is
+funny how people operate differently um
+with how they use AI cuz some people are
+a lot more framework focused. Um whereas
+me, I'm the more non-technical person,
+so maybe I'm not looking at it as an
+engineer perspective, whereas maybe Ross
+Mike is like seeing it from a developer
+um standpoint.
+>> Yeah. You know what? I think I think
+this will be um
+I think this will be valuable for people
+listening at home because when I looked
+at your list, you have like a ton of
+skills.
+>> Right.
+>> And so if you just had to kind of take
+people behind the scenes,
+which ones would you say are the most
+have been the most valuable to you and
+even when you're talking with people
+let's say like in your community or in
+videos that are just getting started.
+It's like this is what you should start
+building these skills first for
+yourself.
+>> Mhm.
+Yeah, I think first one is obviously the
+morning briefing. That one is just super
+simple. I know it's slightly cliche, but
+it's because everybody you know, needs
+to have a morning briefing. They have
+emails, they need to see what's on their
+calendar, stuff like that. It's really
+practical.
+>> Yeah, I think where I'm
+interested is you've shown uh
+projects. So you've shown getting set up
+on Claude co-work with the MD files.
+You've shown uh projects, you've shown
+skills. I guess I'm kind of curious how
+you tie all of these together into like
+a system that you're using on a
+recurring basis and then where does the
+autonomous
+component of this
+come in?
+>> All right, so the next topic that I want
+to talk about Column. Um and I think
+this is like going to take everything
+that we've shown in this video so far
+and kind of turn it into kind of a a
+system that can actually work for us on
+autopilot bit and that is scheduled
+tasks. So if you've ever used something
+like Zapier or any day and or make.com,
+these are automation platforms where you
+set up
+uh you know, workflows that get
+triggered every single day at a certain
+time or when you get a new email, it
+automatically does XYZ and you have to
+set those up. You have to set up a bunch
+of different nodes and it's a pain to do
+it. Well, directly inside of Claude, you
+could use scheduled tasks that could
+automatically run the skills that you
+have um created. So to show you exactly
+what I mean, if we're inside of co-work,
+we're going to find these right here. Um
+scheduled tasks. And I have a couple of
+different ones that are running myself.
+Obviously have my morning briefing. I
+have a daily wrap up that runs every
+single day at 6:00 p.m. So for example,
+if I pull this up, uh it shows the
+outputs of what Claude CoWork did for me
+that day. Um so, this is a great way for
+us to take the skills that either we've
+created or that we've like uploaded in
+the Claude and begin running these on
+autopilot. So,
+to show you exactly how we can do this,
+let's just come here, click create with
+Claude. Yeah, 1 sec. It's going to ask
+us a couple questions, and then, you
+know, we could uh start running the
+scheduled task.
+>> You know what, just as it's doing that,
+Brooke, can you just talk through for
+people like the sequencing
+of how they should do things? Because
+and
+is it for you that you you set up the
+Claude MD file, then you're kind of
+going to projects and skills. It looks
+like you're doing that simultaneously.
+And then, once you've got skills that
+are working and like projects that are
+actually producing good outputs, is that
+when you're starting to create the
+scheduled tasks? Like, is it actually
+like a sequence flow like that?
+>> Yeah, 100%. Having the Claude MD setup
+is first thing you need to do um along
+with the workspace folder. The skills,
+I would say yes and no, because
+scheduled tasks, you could um
+have it go off and do anything on a
+schedule, but it's a lot easier when you
+refine your skills and you have
+workflows perfected with the skills. And
+so, that way, um you know, the the
+output's going to be a bit more
+consistent. So, I would say if you want
+to do it like 100% perfectly, yes, you
+want to kind of go in that sequence, I
+would say.
+>> Okay. That's valuable.
+>> So, yeah, let me just come here and I'm
+just going to say,
+all right, Claude, I want you to run a
+scheduled task where every single
+morning at 7:00 a.m., you're
+automatically going to scrape my email
+inbox. You're going to scrape my Google
+calendar, and then you're going to tell
+me the main things I need to focus on
+for the day. So, again, I'm just using
+WhisperFlow there.
+Uh let me just send this off now. And
+so, there's a couple of different skills
+directly inside of this prompt that I
+gave. So,
+basically
+uh my morning briefing skill. So, it
+already knows how to create the morning
+briefs for me with that exact output.
+And now, it's going to create the
+schedule task to chain those different
+skills together to run it every day at
+7:00 a.m. So, this is kind of a perfect
+example of like what you were saying of
+having those um like the natural
+progression, setting these things up,
+and then turning those into schedule
+tasks. That way, um the output the
+output could be a bit more perfected.
+>> Yeah. Now, that that's really valuable.
+And you can see how the system is like
+building on top of itself. Just one
+thing, Brock, as this is generating, cuz
+you asked it to kind of like it's
+referring to your emails and your
+calendar and all that. Can you just show
+people how cuz this is something that
+wasn't immediately intuitive to me. How
+are you connecting
+Co-work so that it has access to email,
+to calendar, to like can you kind of
+just show people that how that is even
+done high-level?
+>> Um so, yeah, if we come over to
+customize again like where we found our
+skills, we're going to see this inside
+of here. It says connectors right under
+Um and I have a couple of different, you
+know, apps connected. I have Bitly in
+order to track my links, Canva, ClickUp,
+um Gmail, calendar. All these different
+tools I'm personally using inside of
+Claude. And it's as simple as clicking
+on this plus button, clicking browse
+connectors, and Anthropic like
+to put it in perspective for your for
+your audience, a couple of like maybe 2
+months ago, there was only maybe like 15
+of these different apps. Now, if you
+scroll down, there are countless amounts
+of apps that integrate directly with
+Claude. So, odds are if you want to
+connect an app, it is probably going to
+be inside of here. So, for example, like
+one that I've been using that's been
+pretty cool is QuickBooks. So,
+if you're a business owner and you
+um you know, basically want to see a
+TLDR of what's going on financially
+inside of your business, You want to see
+cash flow, invoices that are owed.
+QuickBooks is amazing when you're using
+it inside of Claude
+because, you know, you could connect it
+and then you could actually see like,
+for example, this is obviously specific
+to QuickBooks, you can see an entire
+profit and loss statement um directly
+inside of here instead of needing to go
+into QuickBooks. So, to show you like
+exactly how to connect it, it's super
+simple. You just come here. Um let's
+come to Figma for example.
+>> And to be to be clear uh Brooke, cuz
+even like security concerns and all of
+this,
+this is the company itself. So, Figma or
+QuickBooks as an example has actually
+built these integrations specifically
+for Claude.
+>> Yeah, yeah, 100% and that's a great
+question uh or a great point. So, you to
+show you it is connected to Figma now.
+It was that simple. Just literally
+connected my account. Um but yes, these
+right here are connections that are
+created by these companies. If you are
+inside of Claude, you click on browse
+connectors. All of these are, you know,
+super safe to use and whatnot. Um when
+you want to create your own
+um connections, that's where it could
+get a bit tricky. So, you could come
+here, click add custom connector. Um and
+you could add specific MCP servers.
+That's a little over people's heads, a
+little technical.
+Um so, I wouldn't focus on that now. But
+yes, if you see it in the list here,
+then it's all set and good to go. Just
+the one thing that we need to preface is
+that if we select um
+always allow right here,
+um you know, basically this is a
+permissions list. Now, Claude can do all
+these different things inside of Figma.
+So, it could generate a diagram. It
+could get screenshots, get design
+context. So, if you want to be um
+specific about kind of the permissions
+that you want it want it to um have
+access to, I would probably come here um
+and click on needs approval.
+It might get a little annoying cuz
+Claude's always going to ask if it could
+do
+Um I personally am a little bit more
+gungho and say always allow, but then
+that means that it could kind of go and
+you know, do maybe some things you don't
+want to do inside of those apps.
+>> Yeah, that's a really good point though
+cuz you can start you can start with the
+needs approval and over time you can
+switch it to always allow if if that's
+the case. I guess
+for you cuz this this is valuable.
+What were the connections that you would
+say that you're using the most or that
+someone should start with as they're
+kind of like building this system? Like
+what did you start with?
+>> Yeah, so I started with the very simple
+the simple ones and honestly I'm very
+much along lines of just like keep it
+simple honestly especially when you're
+getting started. I would definitely
+experiment with Gmail, um Google
+Calendar. Um if you're using Google
+Drive a lot like the Google tools are
+the main ones that I've been using.
+QuickBooks just because I do run a
+business. Um usually my accountant is
+the one inside of QuickBooks creating
+these uh you know, profit and loss
+statements for me. Now I'm just doing it
+directly with Claude. Um another one I
+could see a lot of people finding use in
+is Canva. Um you know, cuz a lot of
+people are using Canva for social media
+design. Well, now you could as you could
+see right here you could generate
+designs um
+with Canva inside of Claude. So, those
+are some of the ones um for me
+personally uh just to touch on like a
+actual example that I use every single
+day um Bitly. So, this is a tool where I
+could see um basically how many people
+are clicking on these links on specific
+videos.
+Which is super helpful for me to be able
+to track conversions to school, but
+before I would have to come to
+bitly.com
+and I would have to look at this
+terrible interface that I just really
+don't like using. Like I would have to
+click on this see how many people um
+clicked on this individual link right
+here. Well, now I could just see this um
+inside of Claude whenever I want and
+it's always living
+um right here on the left-hand side. My
+Bitly dashboard artifact is just always
+there. Um so that's one for me that was
+just like probably pretty niche but has
+been honestly a game-changer for me
+personally.
+>> Yeah. No, that's awesome. Let Let's go
+back to um the scheduled
+task. I'm kind of curious to see what
+what came out of that.
+>> All right. So now,
+if I come over to scheduled tasks at the
+very bottom, you can see I now have this
+new one. Here is the instructions here.
+Um Claude crafted these instructions
+itself. I didn't do this, but it says
+it's the daily 7:00 a.m. morning run for
+Brock. Produce a complete morning
+package in one pass. It does my email
+inbox scan. We have our calendar scan,
+um today's focus,
+and then on top of that, um it shows
+dashboard dashboard output.
+Uh so it's going to actually create a
+dashboard. And this is an interesting
+point here. Um it's using the dashboard
+style skill that I created. So you've
+probably noticed for all these operating
+systems or the Bitly dashboards I show,
+it has kind of this Claude-like style.
+And that's because I created a task for
+it to or I
+I created a skill for it to always look
+in this style.
+So anyways, now what I can do, I can
+click on this. This is active now, so it
+will run tomorrow at 7:00 a.m. But if I
+want to test it out, I can just click on
+run now.
+And it will run through this task. I can
+click on it and you can see that it's,
+you know, running the scheduled task.
+And we can wait a little bit to see what
+the output will be, but that's a general
+idea. You know, we can always find them
+um on the left-hand side bar where it
+says scheduled and we can run them
+either at a specific cadence that we set
+or just on autopilot whenever we want to
+um or or we can run them manually
+whenever we want to, you know, trigger
+that.
+>> Yeah. You know, as I'm as I'm just like
+watching you go through this, it comes
+to my mind that
+the skills that you have set up seem
+like such a key component in you
+actually getting good stuff, like
+getting a good output at the end.
+And so, my my question is
+are you specifically you set up these
+skills
+are you specifically instructing
+Co-work or even in like the schedule
+task
+are you instructing it to use these
+skills or it's just automatically
+pulling and understanding like oh Brock
+likes
+his claw to look like the outputs to
+look like this or I have to use the
+visualization or like how does that
+work?
+>> That's a great question, honestly. And
+the answer is Claude knows how to do it
+on autopilot. So, there's a couple of
+ways we could trigger skills. You could
+come and click forward slash and then
+select one. Like let's say we want to
+use the
+um classroom resource skill and then it
+automatically will use this or if you
+just come to Claude and say, "Hey, I'm
+creating a classroom or I I want to
+create a resource for my classroom
+inside of school. Can you go ahead and
+do that for me?" It automatically will
+be able to understand, "Oh, Brock wants
+to do this. Let me trigger this skill."
+So, does that answer your question a
+little bit?
+So, we can actually it can almost
+interpret that it needs to use the skill
+based on the context and the prompt that
+you've given it.
+>> 100% Yeah, and you could be pretty vague
+about it too. For example, anytime I say
+Instagram, it'll always know to use the
+Instagram carousel skill you whether or
+not I spell it out for it or not. That's
+kind of the beauty of this cuz once you
+do build these like workflows or skills,
+then you know, Claude could just use
+them
+um and interpret it like when they
+should be using them.
+And I guess in the in the beginning cuz
+I think that's uh when you're starting
+out
+focus and like not getting overwhelmed
+by everything is so important. So, in
+the beginning you would
+like where would you recommend in terms
+of features people should like spend
+their
+time? Would it be project skills Claude
+and then I guess artifacts?
+>> Yeah, 100%. I think projects, skills,
+those are the main things.
+Scheduled tasks, if you know you have
+tasks that you want to automate on a
+certain, you know, cadence. And then
+live artifacts, those are those are the
+main things that I would focus on for
+sure.
+But yeah, if you're just getting
+started, honestly, I would build out a
+live artifact
+that is like your operating system. I'd
+just come and just say, "Hey, listen. I
+want you to show me the things in my
+email inbox. I want you to show me the
+things on my calendar." I mean,
+literally just start with that and go
+and, you know, connect those apps like I
+showed. Come here, click on connectors,
+Gmail, etc.
+No, that's that's really cool.
+Brooke, I'm wondering if this would be
+uh
+possible cuz I think this would be
+valuable for people.
+>> Some of these skills that you're using,
+it's possible for someone to download
+this and then use it in their own Claude
+like workspace? And would you even
+recommend doing that? Cuz I know people
+have different opinions on that.
+>> Yes, I'd be careful about that.
+Definitely that's something where people
+are really opinionated
+where they're like, "Man, don't download
+any skills." I think if you were getting
+your skills from somebody trusted, if
+it's a, you know, creator you've been
+watching for months or something and you
+you really do have a level of trust
+there, then downloading them is probably
+fine. If it's a random GitHub repository
+from somebody that doesn't have their
+public, you know, their face isn't out
+there on the internet, then maybe that's
+probably not the way to go. But a great
+way to start, honestly, is to just use
+the skills that Anthropic has built into
+to Claude, honestly.
+So, to show you kind of what I I could
+show you real quickly how people could,
+you know, start using that and that's
+completely risk-free.
+>> Okay, yeah, let's do that. Let's quickly
+show that.
+>> Okay, so we're going to come into
+customize and what we're going to focus
+on is these plugins right here. So, if I
+click on browse plugins,
+quick TLDR plugin is just a basically a
+bundle of skills that have been um piled
+together by a specific company or, you
+know, somebody on your team, for
+example. These right here are
+um plugins that Anthropic themselves has
+created. So, they have a plugin for
+productivity, they have one for design,
+they have one for marketing, legal,
+basically all of these different um
+you know, kind of uh like aspects of
+your business, they have them for. So,
+let's say you want to start using skills
+for productivity,
+you could just go ahead, I already have
+these installed. Let me uninstall them
+and show you how you can begin
+installing them. You just click install,
+and then now you have access to these
+four different skills um that Anthropic
+created for you. So, you have memory
+management uh memory management, you
+have a start skill, task management, and
+in order to see what each of these
+entails, we could just click on them.
+And so, for example, this one says tasks
+are tracked in a simple markdown uh in a
+simple task MD file. Um basically
+explains where it lives.
+It breaks down um how to run this.
+Has a specific output of how it's going
+to look. So, this is probably something
+that maybe you're not going to use, but
+this is an example of how you could go
+and download these plugins that
+Anthropic has created for these
+different use cases. So, if you're into
+design and you want to see um you know,
+basically how Claude could help with
+design and you don't want to craft your
+own skills to start, you could just
+download these plugins by Anthropic and
+it honestly it's a really good starting
+point for people to see what's capable
+without having to create them right off
+the bat.
+>> So, so Brooke, let's just focus or talk
+about the ones that you actually use and
+are useful.
+Will you use those plugins and those
+skills as is? Or is it even possible
+that you can kind of take what Anthropic
+has and make edits to it so it's more
+suited? So, it's almost like you're
+using them as like the foundation, but
+then you're building on top of it in
+your own way. Is that something that's
+even possible?
+>> This is why you're a good podcaster cuz
+you ask great questions. That yeah,
+great question and that's 100% possible.
+I'm in a really good starting point for
+people. So, right here is like a review
+contract
+skill from this Anthropic plugin they
+created. I could just come here, click
+on edit, click customize with Claude,
+and you could see it has this pre
+preloaded prompt, and then I could just
+come here and be like, "Hey, that review
+contract skill you have, um I don't like
+the way that it's formatted. I want you
+to highlight it a little bit
+differently. Instead of using yellow
+highlight, I want you to use a red
+highlight. aside from that, I want you
+to keep it exactly the same."
+So, it's as simple as just like giving
+it that prompt.
+it's obviously going to use the review
+contract skill. it's going to show the
+changes that we made to that skill. But
+yes, you could use those as a starting
+point um and craft them to your specific
+liking cuz everybody's different, you
+know.
+>> Yeah. Now, this is so good. I'm there's
+like uh as I'm listening to you, there's
+certain things that I have to adjust in
+my own system cuz I'm like, "Okay, cool.
+This is This is valuable." Um
+Okay, Brooke, there's one more thing
+before we get out of here that I wanted
+to go through. And that's live
+artifacts. And to give
+context,
+you and I had a conversation a few days
+ago, and you showed me live artifacts
+for the first time. It was It was the
+first time that I'd seen it. And I kind
+of had this mind-blowing moment with it.
+Can you just show people um first of
+all, you know, you've kind of throughout
+the conversation shown different
+dashboards. If someone's looking to get
+started, and even like the first
+dashboard that you built with live
+artifacts, could you show that and then
+kind of what the steps, those first
+steps were, in order to get it built?
+>> Yeah, for sure. We'll make this super
+simple, cuz honestly, simple skills, if
+you're getting started, let's just make
+this as simple as possible. So, you're
+just going to come over right here, says
+live artifacts, um click on this. From
+here, you're just going to click on new
+artifact, click on create with Claude,
+and it's going to take you to a chat
+mode, actually. So, you don't even
+necessarily need to click on live
+artifacts, you could just tell Claude,
+"Hey, create a live artifact for me."
+and it'll know how to do it. So, the
+first thing that I would say is just
+create one for your email. Like, the
+fact that I could wake up in the
+morning, see what's going on in my email
+inbox from, you know, just literally
+looking at it for 30 seconds is so
+helpful. So, I would come here and just
+simply say,
+"Hey, I want you to use the Gmail
+connector and show me the 10 emails in
+my inbox that I need to reply to every
+morning.
+Um and then I want you to categorize
+those by what's probably the most
+important um for me to reply to today."
+So, I'm just going to simply give it
+that prompt, and
+if you've gone this far in this video,
+you've seen how you could use connectors
+and set those up. So, I would just go,
+make sure to set up the Gmail connector.
+It's really simple if you already have a
+Gmail account. Um and then
+yeah, then it'll go off and craft this.
+It's asking me some of these questions
+to refine it. I'm just going to click
+skip, cuz I simply just want this to be
+for my emails to make it as simple as
+possible.
+So, we'll let it do its thing, and it'll
+spit out a live artifact here.
+>> As it's kind of generating this bro,
+were there any mistakes, I guess, that
+you made, cuz you're you're pretty
+experienced in using it now? Were there
+any mistakes, kind of pitfalls, that you
+made specifically with live artifacts
+that led to
+like mediocre outputs?
+I think
+Mhm. I mean, honestly, live artifacts
+are so easy to use that it's kind of
+hard to fail. Um I will say when I first
+started, it will give pretty generic
+output outputs of like how the interface
+looks. And I'm kind of a nerd when it
+comes to like my user interfaces. I like
+them to look cool. Um
+at least like what I think looks cool.
+So, personally, I set up something a
+skill and just said, "Hey, listen, I
+want all of my live artifacts to look
+this specific way." So, I wouldn't
+really call that a pitfall or anything,
+but that's one thing for me that was
+like kind of annoying. I was like, "Man,
+why do these all look stale and boring?"
+Um and the user or the person watching
+this video might have that same um
+kind of uh experience as well. So,
+that's something that I ran into, but
+it's from a
+like practical respective, it's really
+easy to begin building things um as long
+as you have the right, you know,
+connections to these apps. Um and it'll
+just generate the dashboard for you.
+>> Yeah, that's interesting though. So, you
+have a skill specifically
+for just how your live artifacts will
+look.
+>> Yeah, for sure. And so, Claude actually
+knows cuz it's in not to get too deep
+into the weeds here. Inside of my Claude
+MD, um I specify and say, "Hey, listen,
+whenever I generate a dashboard or a
+live artifact, always use this style.
+So, that way I don't need to like
+explicitly tell it that every time."
+>> Okay, that's interesting. And I'm
+assuming just knowing knowing you and
+having spoken to you, that was probably
+part of that self-learning process that
+that ended up in your MD file.
+>> 100%. Yeah, I I didn't know I wanted
+that when I crafted my MD file like 4
+months ago, but over time, I was like,
+"Man, I do like this style. Maybe I
+should just add that to the Claude MD."
+So, it's definitely over time I decided
+to add to it.
+>> It's a work in progress. No, that's good
+to know.
+>> Every everything with this is a work in
+progress, to be honest.
+>> Okay, so now it's literally just asking,
+"Can it create this? So, I'm going to
+click create and now
+we have this um dashboard pulled up. All
+right. So, after just like a little bit
+of back and forth, we got this uh
+artifact now that has my morning inbox.
+And again, this is like the first thing
+you guys should do if you are using
+artifacts. It's super simple. Create one
+for your morning um you know, inbox to
+see what's going on inside of there. So,
+it just basically shows the uh basically
+emails that I need to reply to today. Um
+and I can even just click open in Gmail.
+It'll automatically take me there. Let's
+say you don't like the way this looks
+and you want to change it. Literally,
+just come over to Claude and be like,
+"Hey, I don't like the way this looks.
+Let's change the background. I want it
+to be black instead of white." Um and
+basically, where it says white, I want
+that to be in highlighted yellow instead
+of red.
+So, literally even a simple prompt like
+that, you know, will be be more than
+enough to begin making iterations. But,
+like I said, keep it simple. Start with
+this. Um and then over time, you could
+begin getting more complicated with it.
+>> Yeah. So, it says you're you're giving
+that feedback directly to the AI and
+then it will make the the changes in
+lifetime to the artifact that you've
+created.
+>> 100%. Super simple.
+>> Brooke, here's where I wanted to end
+because we've shown people different
+features within Claude, right? From
+co-work and then within that, projects
+and skills and live artifacts and how
+you're using all of them. And I'm so
+conscious of what we said in the
+beginning,
+which is like people get overwhelmed
+when you see all of these features.
+And so, if someone has just listened
+and watched this video
+and they're going into the weekend, so
+they have like a a free Saturday morning
+or a Sunday afternoon, you know, they
+have a few hours.
+What would you say
+What would you say they should do
+immediately after listening to this
+conversation so they can get started and
+actually start using Claude Cowork in a
+productive way.
+>> 100% I'll make it super simple. I would
+download the Claude desktop app so you
+could use Cowork. I would set up that
+workspace folder. Just give it a simple
+name. Call it like Cowork or something
+very, very simple.
+From there, I would download maybe one
+or two of the Anthropic plugins that
+they have just so you could see what
+skills are and how to actually run them.
+I would test out one or two of them just
+to see how they work. Um and then from
+there, I would build out projects for
+your personal life, your business, or
+your work life. So, then you have
+separate areas that you could use Cowork
+for. Um so, it's not all inside of the
+same system. Um and then I think from
+there, I'd probably move on to artifacts
+and build out a little mini um morning
+briefing dashboard where you could see
+uh what's going on inside of your email
+inbox.
+No, that's really good. That's really
+good.
+>> I hope this didn't uh
+you know, overwhelm people even more cuz
+I'm telling you if you play around with
+this for just a couple of hours, um and
+you ask it questions, you're going to
+get really far with it. Um but, you
+know, all these different concepts that
+we're talking about just might sound uh
+a little bit complex to you, but they're
+really not when you start using it.
+>> Yeah. And and and one more thing,
+Brooke. If people do what you just
+described, those steps, which is really
+simple how you broke it down,
+what is the impact that they're going to
+see, I guess, with their business, with
+their life, with just with their time?
+>> For sure.
+I think just like
+organized mentally. For me, since using
+this, I just feel so much more organized
+when it comes to my business um because
+I don't need to be working across all of
+my apps. I can just use a live artifact
+to see what's going on across all of
+these different applications. So, I
+think just like
+I don't know if peace of mind is the
+right word, but I think uh just a little
+bit more um clarity, I guess.
+>> Yeah. And I think it's important and I
+know even from our prior conversations,
+that level of clarity that you have has
+allowed you to build a really profitable
+business
+with like
+few employees. I don't actually know if
+you have any employees, but like
+a a relatively small head count given
+revenue that you're generating.
+>> Yeah, my only employee right now is my
+video editor. So, everything else is all
+AI or me. Like for example, I had a
+thumbnail editor multiple at at one
+time. I just use the AI to generate
+thumbnails now with Claude Cowart. So,
+yeah, it's just me and a YouTube editor.
+That's that's basically all.
+Brooke, this has been awesome, man.
+Thank you so much.
+>> Yeah, Colm, thanks for having me on,
+man. This has been this has been amazing
+and I hope it was valuable to the
+audience.
+>> So, if you enjoyed this conversation and
+you want to hear even more stories like
+this, then just click here. And also, my
+team is going to put some more videos
+that you can watch here. Thank you.

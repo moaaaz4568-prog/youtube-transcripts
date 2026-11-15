@@ -1,0 +1,678 @@
+is there any underrated metric in studio
+that you think most people don't know
+about the most underrated one that I'd
+identify is are there any plans for ab
+title testing imagine analytics that are
+supported by AI what are your thoughts
+on giving any sort of control to
+creators over who their Impressions go
+out to that's really one of the biggest
+questions is YouTube working on anything
+to help smaller creators get discovered
+so it is intentionally meant for
+emerging creators I wonder if that will
+become a new CTA like subscribe
+today I'm talking with YouTube's VP of
+Creator products amjed hanif he's the
+man behind YouTube analytics AB
+thumbnail tests retention graphs and
+everything else within YouTube studio in
+this conversation we covered your most
+asked questions about AB testing how to
+make the most out of your YouTube
+analytics how small creators can get
+discovered and so much more here's the
+conversation with amjid so I'm going to
+start by asking you the most asked
+question I received when preparing for
+this conversation
+which is you know we've had AB thumbnail
+testing for a while but it's often said
+that titles and thumbnails are a package
+to tell the story of the video so are
+there any plans for ab title testing in
+the future well we're working on it um
+folks have asked for it quite a bit and
+sometimes the request is actually can we
+just help them come up with better
+titles so we're thinking about title
+suggestions but we're also thinking
+about ways to test it um I definitely
+know that creators spent a lot of time
+word smithing oh those few words because
+they mean so mean a lot yeah 100%
+especially because sometimes if you have
+different thumbnail Concepts you might
+have a different title in mind for each
+of those Concepts if they're different
+enough makes sense those words are the
+ones that they folks see when they're
+making a choice um you know from the way
+we think about it in our team we want to
+make sure we create tools that will save
+creators time and so that's definitely a
+Time Saver we just haven't figured out
+quite how we're going to do it well hey
+it's excited that it's somewhere maybe
+in the road map coming the future that
+we can look forward to let's talk about
+what we do have which is AB thumbnail
+testing so I know that it was in the
+works in development for years and now
+it's finally out we finally have access
+to it and now that it's been out for
+some time kind of from your side how has
+it been going are you happy with the
+results so far yeah I'm I'm personally
+really happy with it um but the best
+judge of that are the creators and
+creators have been really happy for two
+reasons one it helps them make smarter
+decisions about the thumbnails they
+choose but also save them a lot of time
+and guess work from trying to pick which
+thumbnail is going to work with their
+audience let's talk downsides potential
+pitfalls of a thumbnail testing because
+I know that there was some worry going
+in that it would be more useful for
+larger creators versus smaller
+creators um I've heard creators say that
+um I've actually always thought the
+opposite and I and I'll tell you why um
+the larger creators have a team of
+designers they have a team of analysts
+and they actually have a good system
+already for figuring figuring out what's
+working and what's not and for a smaller
+Creator they really do need the
+analytics that come with something like
+this to figure it out because they don't
+actually have a team trying to figure
+that out for them um now it is true that
+you do need to have a decent sized
+audience in order to have statistically
+significant results but beyond that I
+actually think it's a bigger win for the
+smaller creators and the larger ones
+there's a lot of curiosity when it comes
+to the that statistically significant
+piece um kind of what percentage
+difference would you say is enough so a
+Creator looking at it you know it's like
+33.1%
+33.5% you know at what point is it
+enough to be able to definitively say
+this thumbnail is the better one it's a
+great question um we will tell you in
+the test results if we think it's
+statistically significant um then we'll
+also tell you if we think it's close but
+not quite significant and so it'll be
+really clear you don't need to remember
+a certain number or do some guess work
+because at the end of the test will tell
+you if we think the results are
+significant part of that though is one
+of the things we've learned is sometimes
+creators test things that are really
+similar um if you just have like
+different shades of blue in three
+different thumbnails you're not really
+going to see a difference and so our
+best advice for creators is to try
+things that are pretty different and
+you're more likely to get uh
+statistically significant results from
+something that is a dramatic difference
+than something that's very subtle if
+it's very subtle most viewers are not
+going to um really show you a direction
+100% so for anyone out there do not just
+change the T-shirt color and call it a
+day uh good
+advice going more into this with the
+results so there's a lot of curiosity as
+to the specific metric that was chosen
+to be shown for test and compare I was
+wondering if you could give some some
+more insight into why watch time share
+and is there any plans to show other
+metrics in the future like click through
+rate for instance
+yeah it's probably the number one
+request that we get is
+to um change the decision criteria to be
+based on click-through rate and we
+didn't allow that for a very specific
+reason because you know to be successful
+with your content it's really about the
+watch time and it's really about the the
+promise that thumbnail has and whether
+that translates into the watch time uh
+and and it Con effectively conveys what
+the viewer is going to see and you can
+get a really high click through rate but
+it may not actually translate to watch
+time and so we didn't want creators to
+focus on that number because that's not
+really success for your content um so
+the tool is based on watch time and the
+winner is chosen based on uh the total
+watch time difference and that's really
+what my best advice is for creators to
+focus on versus the click-through rate
+it's really easy to get a really high
+click-through rate that doesn't actually
+translate into something sustainable
+okay so for now we'll just just keep an
+eye on the watch time share yeah keep an
+eye on the watch time share and maybe
+the other thing to say that we've
+learned from creators over the last year
+is is that um creators will often see a
+thumbnail perform really well in the
+first few weeks and then things change a
+bit as your fans have seen it and viewed
+it and then uh now you're attracting new
+fans and different thumbnails may play
+better for different audiences and so
+that's actually something to keep in
+mind that the one that wins in that
+first month may not actually be the one
+that wins a few months later to that
+point so we have retention now broken up
+between new and returning viewers is
+that something that's intended to be
+shown for things like clickthrough rate
+in the future yeah it's something that I
+know is really important for creators to
+understand is these different cohorts of
+viewers and so we do plan to invest a
+lot over the next year in showing
+creators different cuts of the data
+based on cohorts from your brand new
+users to your original fans to folks in
+between 100% that's super exciting so I
+know that there's a lot of thought about
+you know now raw subscriber count is
+starting to mean less and less over the
+you know over time and there's a lot of
+uh you know thought about is there a way
+to gauge what your own like you know
+loyal fans or true fans what that number
+is like within the larger subscriber
+count yeah that's I think as the
+creative economy has grown and as the
+number of formats have grown um and
+creators have been around now for years
+that's really one of the biggest
+questions is you've got folks that love
+your podcast but never watch anything
+else viewers that discovered you in
+short and are exploring your long form
+catalog and we want to create a set of
+metrics in studio that allows you to
+understand these different elements of
+your audience I think years ago it was
+just sort of one audience but as you can
+tell now it's emerged into like multiple
+audiences and I think creators need to
+understand those better to be able to
+Target them better with their content
+are there any ways that the segmentation
+is like we can start to see in studio I
+heard maybe in the briefing something's
+coming to the comments Tab and kind of
+where we can see that so comments tab
+has a bunch of new improvements um it'll
+be for for the for starters it's going
+to be the community Tab and it's really
+going to represent your community as a
+whole we'll have a set of metrics that
+help you understand what's happening in
+your community a way to see some of the
+top comments that have come recently an
+easy way to reply to comments um for for
+creators that have thousands of
+followers it's sometimes hard to keep up
+with all those comments there's also a
+community Spotlight to see some of the
+most active members of your community I
+love that I think that's going to be
+super useful as you can start to know as
+opposed to remembering like oh yeah I
+think I saw this name in the last video
+yeah it's it's one of the hardest things
+once you've built that audience and that
+Community trying to keep up and engage
+with them and creators all want to do it
+and so you know our responsibility as a
+part of the studio team is to build the
+tools to make that so much easier for
+creators to do on the concept of
+audience and Community I'm going to ask
+you a I guess trickier question
+uh which is a lot of creators have the
+desire to be to influence in some way
+who their videos are shown to especially
+if they look into their audience
+demographics and say oh this is
+different from the target audience that
+I have in mind especially when they're
+newer what are your thoughts on giving
+any sort of control to creators over who
+their Impressions go out to I think it's
+a really tricky concept to do in
+practice I mean you know YouTube like
+our our mission is really connecting the
+globe and and sharing your voice not
+just with those folks that You' selected
+but an audience of billions of people
+and I think there's no real way to
+create control to creators that allows
+them to segment certain demographics I
+fear that if we were to create a control
+like that we'd actually end up creating
+control that hurts creators in the long
+run some of the most interesting things
+I've seen as creators discovering new
+audiences they never would have guessed
+either new markets and new Reg
+um new demographics based on the content
+they've created and I think that's the
+beauty of YouTube is this ability for
+people all across the globe to discover
+the content and so I don't imagine a
+control like that um that would be in
+the best interest of creators or viewers
+yeah I I think that I also agree with
+you on that sense I think that it it can
+be frustrating for especially like newer
+smaller creators that they just have a
+couple of videos out and you're like why
+is this going to this body of people
+when in my head it should goes go to
+this body of people but I do think that
+you know over time YouTube is very good
+at what it does and you know even if you
+know you're quote unquote seeing the
+wrong audience in the beginning it might
+switch later on as you make more and
+more videos yeah I mean you bring up a
+really good point and it's especially
+true for creators earlier in their
+career understanding the analytics that
+are in studio understanding um the
+demographic sections and to really get a
+sense of who's watching and and how long
+they're watching for and what kinds of
+content like that's uh so critical to
+understanding where your content is
+performing well and where you think you
+have opportunities um sometimes it's a
+little intimidating there's a lot of
+numbers there and a lot of charts and as
+a team we want to make that much more
+accessible and we're working on ways to
+do that um but that's gold when it comes
+to a new Creator trying to find Their
+audience and connect with a group of
+people let's dig into that more
+specifically because you're so spoton
+that you know there's so much data
+available to you which on one side thank
+you there's so much more here versus
+like on Tik Tok or Instagram or anything
+else but as a newerk Creator you might
+go into that and think holy cow there's
+so much here so you know what are kind
+of the main key metrics or data points
+that you would advise people to look at
+maybe when they're early on or even when
+they're more advanced to help inform
+actual action yeah I mean what I always
+tell folks is the first screen when you
+go into analytics it's all about these
+key metrics around the views and the
+watch time and your subs it's very at
+it's way at the top in the overview
+section and those are sort of your
+Baseline your core Health metrics of
+your channel and you want to look at
+those how they're performing in the
+recent past but there's an easy way to
+look at the past year and you want to
+make sure that it's moving in the
+direction that you'd expect it to which
+is to be growing um the next area that I
+um I personally spend a lot of time on
+is in the demographics because
+understanding who's watching where
+they're coming from um what kinds of
+content they're they're interacting with
+gives you a sense of the folks that are
+your loyal audience and are coming back
+and helps you shape the content that you
+will produce over the next few months is
+there any underrated metric or piece of
+data in studio that you think most
+people don't know about maybe I'd say
+the UN the most underrated one that I'd
+identify is the there's a card around
+the demographics or country or or
+regions that your viewers are coming
+from um a lot of folks focus a lot on
+their their country of origin or where
+they're based out of but there's amazing
+opportunity to grow your audience in the
+next five markets where you have a
+following and maybe that means you need
+to do translations in a different
+language maybe part of your content
+strategy is visiting a few of those
+markets and doing something within
+Market to grow that audience but
+sometimes I think folks just miss out
+that opportunity in an adjacent country
+or a country where you have a large
+following that you may be surprised by
+translations in another language I know
+that it's been like a very hot topic
+moving forward is that something that
+creators can expect to get access to
+yeah one of the features we're excited
+to announce at the event is autod
+dubbing and um with very little effort
+it's a setting that you you adjust
+inside Studio you'll be able to get
+automatic dubbing for your fure future
+uploads in multiple languages and it'll
+work really naturally within YouTube so
+that your viewers who are in these other
+countries are able to seamlessly see
+your content um and what I love about it
+is for very little effort a Creator is
+able to expand Their audience and reach
+a new set of viewers um and build their
+business in a way that you know you
+couldn't have imagined three four years
+ago yeah I think that that's going to be
+a really big one for a lot of creators
+because yes there are like third party
+tools that can do this but they they're
+often expensive or just like a lot to
+keep track of versus something that
+might not have 100% accuracy but be good
+enough to have some sort of tangible
+impact I think that that's going to be
+huge yeah what I also like about it is
+and part of the way we've built this
+from the very start is is it's both
+English into these other languages but
+you can also go in the other direction
+as well and so I think the opportunity
+for creators in some of these other
+markets that didn't have access to
+English-speaking viewers because of a
+language barrier will now be able to
+take advantage of that too okay let's
+switch gears to talk about one of the
+most I'd say critical aspects of video
+creation which is coming up with ideas
+that not only apply to and satisfy your
+existing audience but can also have some
+sort of appeal to a broad potentially
+new audience and one place in which
+creators can start to get these ideas is
+the inspiration Tab and I was really
+curious as to where the ideas an
+inspiration tab come from like where
+where does YouTube get those ideas what
+are they based off of good question um
+inspiration tab is something we talked
+about a year ago we're excited today to
+announce a bunch of new improvements to
+it um that data comes from everything we
+know about the viewers on YouTube and
+the things that they search for and so
+we'll recommend ideas where there's a
+lot of search volume where maybe there
+isn't a lot of content that's part of
+those ideas that we surface in
+Inspiration um and then part of our
+announcement is we will go a step
+further and help you come up with a
+title and help you come up with a
+thumbnail help you come up with an
+outline and some starters to the script
+so you can get out of that blank sheet
+of paper and start thinking about what
+your next creation is why the emphasis
+on what your audience is searching for
+versus kind of like what else they are
+watching that they don't search for
+especially when it comes to creators who
+maybe don't have educational channels so
+maybe Their audience isn't really
+searching for things so much as landing
+on YouTube and clicking something that
+appears on their homepage it's a mix of
+both of those actually um it's both
+things that people are looking for but
+it's also that intersection between your
+own audience and the things that they're
+most interested in and something that
+surprise creators a lot of time is that
+they have their audience that they've
+built has these other interests that are
+very adjacent um and it's a great way
+for you to tap into a shared set of
+interests that may not be necessarily
+your primary interests and create
+content that Taps into that uh that
+viewer base that's the idea behind the
+inspiration tab it's sort of your
+creative partner that helps you think
+outside of your core Focus area and come
+up with new things to work on that's
+awesome I'm really excited to check out
+the new inspiration Tab and poke around
+around that we are really excited about
+it too um probably the most interesting
+thing about it is this ability to just
+Riff on ideas rely on Gemini to be that
+creative partner and to be able to have
+a backlog of ideas so for that moment
+when you're ready to go into production
+you've got a set of ideas saved up
+you've already worked out an outline and
+some creative starters and you can just
+go right into production so it sounds
+like a lot of this is starting to be
+more based on AI right um I'm curious
+I'm sure you know AI has kind of been
+like the buzzword for a while and I'm
+sure that you get pitched so many AI use
+cases how do you decide which projects
+are you know worth pursuing and bringing
+into reality um we do get pitched on a
+lot of ideas and there's a lot of
+excitement in AI for my team and for
+where I'm focused I am really trying to
+build tools that help creators with
+their existing workflow on creation and
+so if we can develop tools that save
+them time so more of that time goes into
+their passion and their creativity and
+the content then I think that's a win
+for the ecosystem it's a win for viewers
+creators as well as YouTube um and so
+that's where the inspiration tab comes
+in if we can save that time in that
+ideation phase then more of that time
+goes in to actually creating that
+amazing content that's where our
+thinking around autod dubing comes in if
+we can make it easy for you with a few
+clicks to get it translated in multiple
+languages then you're not spending all
+that time messing with a third party or
+doing manual dubbing it just happens
+automatically in the viewers benefit
+creators in the ecosystem as well I
+think that's huge because there's a lot
+of fear around Ai and that you know fear
+for creators AR like AI is going to come
+in and it'll you know we have to make
+videos with AI and where does our
+creative voice go and our Creative
+Vision I think that what you're saying
+is a really great way to still lead with
+your own vision and voice and style but
+have ai come in and help with that yeah
+creators are always going to be the
+center of YouTube um and that content
+and that passion that goes into what
+they produce is what viewers are coming
+for viewers haven't written to us saying
+hey we want more AI they really want the
+storytelling The Narrative like that
+amazing entertainment and educational
+content and it'll just be easier to do
+that with AI you'll get the support in
+the workflow that you need imagine
+analytics that are based uh or supported
+by AI where we can tell you what's
+happening it'll make your job as a
+Creator easier so more that energy goes
+into stuff that viewers love I'm really
+excited to hear you say that because
+that's another thing that I was asked so
+much in preparing for this conversation
+was well AI exists can we at some point
+expect you know there's so much
+available in studio AI insights to come
+in and help us parse what takeaways we
+can get from Studio yeah it's a great
+idea um and we'd love to develop
+something like that um the thing we
+always there's probably two things that
+are um in the back of our mind as we
+build uh products like that is one we
+want it to be easy for folks to use um
+but more importantly we want it to be
+accurate like you can get a model and uh
+an AI system to generate conclusions and
+give you ideas but they actually have to
+be um accurate and so that's the quality
+bar that we also have in mind but keep
+an eye out for for exciting things to
+come oh my gosh that's very exciting to
+hear uh kind of keeping within studio
+there's this concept of much of the
+YouTube algorithm can be distilled into
+kind of the click with CTR watch time AV
+but also this kind of mystery metric
+called satisfaction um which is the one
+that at least within studio we have the
+least visibility into uh is there any
+plans on getting some sort of visible
+metric of satisfaction into Studio there
+aren't any plans um I think what makes
+it hard sometimes is is satisfaction is
+a tricky number like it'd be great to to
+have one number that answers everything
+but across multiple formats um multiple
+age groups and Graphics I think it's
+tough to really come up with a single
+metric that gives you a sense of
+satisfaction with the content um where
+our energy is going into is really
+helping you slice the different groups
+maybe once we've done that and given you
+different demographics and cohorts
+there's a way to identify satisfaction
+amongst those different cohorts that
+makes sense I think the the the slicing
+is the part that I personally am most
+excited for um just like so exciting to
+go into studio and be like okay you
+actually have control over seeing each
+of these metrics because you know to
+your point it's someone you know who's
+aged 18 might feel differently about a
+video versus someone who's 55 male or
+female you know what where in the world
+they are all of these things newer
+returning viewer they can all view a
+piece of content differently yeah and
+you may try out a new content strategy
+and you'll want to know how some of your
+original fans react to it um you know in
+most creators careers there's this
+moment where they want to shift their
+content strategy but and bring their
+audience along and sometimes it's hard
+to tell if you're able to to do that
+without the right metrics so that's kind
+of the thinking behind that let's talk
+about new creators um one of the I guess
+biggest complaints that I often hear
+about the platform is that man it's
+super hard to gain traction as a brand
+new Creator who doesn't have the benefit
+of an ex massive existing audience or
+someone who maybe has been creating
+videos for a while and they're making
+good enough videos they still haven't
+quote unquote hit the algorithm yet so
+is YouTube working on anything to help
+smaller creators get discovered yeah
+well I should say first off um smaller
+creators get discovered every day and
+YouTube is amazing and the viewers keep
+coming back because there's always fresh
+interesting content and new creators to
+be discovered um and so that's something
+that we always keep in the back of our
+mind but one of the new products that we
+announced today is um a way to Hype some
+of the most interesting creators you've
+discovered we realize that anytime you
+know something you've discovered
+something whether it's it's a restaurant
+or a new song and you're excited about
+it you want to share that with everyone
+and you want to let other folks know
+about this amazing find you've had and
+that's kind of the thinking behind hype
+it's a way to um add hype points to
+creators you've discovered in order to
+get those points um those creators have
+to be under 500,000 Subs so it is
+intentionally meant for emerging
+creators and there's a leaderboard to
+see all the creators that have been
+hyped um I think we were live in three
+markets for about four weeks um in
+Brazil turkey and Taiwan just a few
+weeks back and just in those four weeks
+we had 5 million Hypes so there's a lot
+of excitement around bringing visibility
+to merging creators have you seen a lot
+of uh yeah like what what the results of
+that hype has been like it has the have
+the creators with the most hype seen a
+large I guess increase in views it's
+it's too early to tell it's literally a
+few weeks ago um I can tell you the
+creators that have gotten those Hypes
+are really excited and feel like this is
+an opportunity for them to get
+discovered and so they're encouraging
+their fans to continue hyping and
+sharing the word I wonder if that will
+become a new CTA like subscribe and hype
+yeah and smash the Bell
+[Music]

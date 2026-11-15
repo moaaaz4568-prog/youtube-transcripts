@@ -1,0 +1,690 @@
+Cloud code has completely changed the
+way that we're able to build agenda
+workflows forever. But the problem is
+that most people are using it just like
+they're using chat GBT putting one
+prompt at a time and then they're
+wondering why their agenda workflow is
+breaking. Which is why in this video I'm
+going to walk you through the eight
+clock hacks that will help you build
+production ready agent workflows 10
+times faster and make them way more
+scalable. And in case you don't know who
+I am, my name is Mikuel and I've scaled
+my own AI agency to six figures, working
+with over 50 businesses to implement AI
+solutions and teaching over 20,000
+people in the process. all starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+we're going to divide these hacks into
+three different types of hacks. We have
+system design hacks, then we have
+execution and performance hacks, and
+then we have control and optimization
+hacks. All right, so the first hack is
+actually setting up the folders for your
+project. All right, so here we have claw
+code. And the mistake that people make
+when starting out to build is that they
+go straight to building, right? But the
+problem is that right here on the left
+hand side where we store all the folders
+and the files and all these things. We
+have to structure claw code in a way
+where it knows where to store all the
+different folders and the files which is
+where we go to the three-layer agent
+architecture which is a way for us to be
+able to structure the AI agent to be way
+more reliable. The way that we do this
+is dropping a file inside of cloud code
+which is called the claude.md file. This
+right here, I can think of it as a
+blueprint that you get to claw code and
+it contains a three layer architecture,
+a three- layer structure that cloud code
+needs to use to be able to then build
+these things and store all the files in
+the same place. The first layer is the
+directives. So this is what to do. So we
+give it SOPs. We define objectives. We
+list the inputs and the outputs. We
+specify which tools do we have to use
+and we cover all the edge cases of the
+workflow. It's like a brief that you
+give to someone working in your company.
+Then we have layer two which is the
+orchestration and this is for the
+decisions. So the actual LLM lives
+inside this folder. So this is good when
+giving it instructions as to where to
+store the right scripts, right? How to
+handle errors, how to ask questions when
+it's stuck. It's self-healing, right?
+That's what we call cloud code because
+when something breaks, it knows exactly
+what's broken and then it goes back and
+fixes it so you don't have to. And this
+is the glue between what you want to
+build and what's actually built. And
+then layer three is the execution. This
+is doing the work. So this includes the
+Python scripts, the API calls, all the
+data that's going within the automation,
+all the files, all the databases, all
+the techy stuff that it needs to do to
+actually do the thing. And this is all
+code, right? Of course, cloud code is
+just building code um that we use. Now,
+instead of doing this, why don't we let
+the LLM do everything and structure
+everything is because LLMs are about 90%
+accurate per step, right? It sounds good
+until you realize that when you put step
+over step, you have 0.9 to the^ 5, which
+is 59% success rate. and it's simply not
+good enough at all if you have anything
+below a 99% Rexit, which is simply not
+good enough when we're building agent
+workflows. And so the solution is to
+give it more frameworks, more guardrails
+in cloud code to be able for it to
+understand how to structure things when
+it's building. Okay. Now, if that didn't
+make too much sense for you, I'll show
+you what it means. So right here, I have
+the cloud MD file that I just mentioned.
+I'm going to copy this. And by the way,
+if you want access to this full prompt,
+second link down below in my community.
+You can find it in the classroom
+section. So we go here and we can make a
+file and name this claude.m MD. And then
+you can paste this whole prompt, right?
+Which again is just a verbal explanation
+of what I just said. So layer 1, layer
+2, and layer 3. And then you want to
+press file and save. And then you can
+say initialize this project based on the
+claude.md file that I just put in the
+project or in the files. There we go.
+And I put plan mode. And then I press
+run. Okay. So now what it's going to do
+is it's going to go inside the cloud. MD
+file. It's going to read it. And then
+it's going to start structuring all the
+different folders of what it needs to
+do. All right. So I just made a plan
+here. Plan to initialize project
+structure from cloudd the context the
+changes. So if you see this right here,
+don't get too intimidated. What this
+means is the structure of all the
+folders here. Right? So this is the
+project root, we have directives, we
+have execution, we have tmp and we have
+and then we have uh git ignore. Right?
+These are all different things that are
+part of the actual structure that you
+would need to do. You can just press yes
+in order to accept. Now we'll have tasks
+and then on the left hand side here you
+can see that it's adding the different
+files and folders that it's going to use
+when we're going to be able to make the
+actual workflow to make things more
+structured. Okay, there we go. It just
+finished. So all the folders are here.
+We have directives. We have readme.md
+which is a basically a file that
+explains exactly what this folder is. So
+this folder contains marked on SOP
+standard operating procedures that
+define objectives inputs tool and
+scripts outputs and edge cases. Now in
+the easiest way possible in this way
+it's like an architect going to build a
+house right either he goes to build a
+house and starts building immediately as
+soon as he goes on site or what he does
+is that he sits down he basically makes
+a road map or a blueprint as to how he's
+going to build the house and then we get
+to the building part which is exactly
+what this is this is the structure and
+the blueprint that we're going to use
+well the clock is going to use [music]
+when we have to make all these things to
+give you a practical use case I actually
+built this YouTube strategy system for
+myself and I made a full video as well
+you can check it out here uh but
+essentially We have the claw.md file
+that we propped which is the exact same
+one that we did for the other one and
+then it started making all the folders
+and if you go to directives we get to
+see all the different kind of SOPs right
+explaining the different automations. So
+for example, this right here, analytics
+tracking. So it's an MD file. So it's
+markdown file. Markdown because we have
+hashtags. It's just a way of writing uh
+so AI or computers can understand
+better. [snorts] But it's a markdown
+file that tells the actual cloud code
+exactly what to do. The SOPs, this is
+what the objective of this thing is.
+This is the objective of what it is that
+we want to do. What is the input and
+what is the output, right? The input is
+the channel ID and the output is
+performance dashboard data. So a
+dashboard with all the data and all the
+different things. Now, to be fair, it
+might seem a bit intimidating when
+you're starting out and you're
+wondering, still wondering why is it
+like this and why is it like that? But
+just understand that this is the way
+that we structure all the different
+folders and files. The second hack is
+using Claude Code skills. Now, I've made
+a full video breaking Cloud Code skills
+down in much more detail, but
+essentially what they are is instruction
+manuals that Claude reads before doing a
+task, right? So, the same way that you
+give instructions to a chef to make some
+sort of food, you give Claw Code the
+skills to then make better PDFs, better
+websites, better presentations, and so
+on. And so, for example, let's say you
+give Clockwood a task to make a website.
+claw code which is the agent will look
+at its own skill that we just added to
+build effective websites and it will
+give us a much better result rather than
+us not giving it a skill right because
+without a skill cloud guesses and it's
+inconsistent in the results whilst with
+a skill it follows a pattern and it
+follows instructions and it gives us a
+much better output now you can find
+these skills at a tmpl.com I'm going to
+leave the link down below in case you
+want to check it out and here we have
+over 683 skills and there's more added
+every single day and these skills like
+senior backend web app testing senior
+architect protect code reviewer git
+commit helper are the attachments or the
+things that we can add to clock code for
+it to be able to do a better job at the
+thing that it needs to do. So I'm going
+to be working with this agent workflow
+that I just mentioned which gives me a
+full presentation of all the competitors
+the analytics and everything like that.
+And so I'm going to be using this tool
+right here which is canvas design which
+allows me to be able to give claw code
+the extra skill of making better
+presentations and better PDFs and
+visuals for any kind of thing that we're
+doing. So I actually already added the
+skill. I'm just going to go ahead and
+delete it. I'm going to delete the
+folder as well because then you can see
+the output before and after. I'm going
+to say, can you please make the
+presentation and give me back the result
+analyzing my competitors and the
+analytics and everything like that. I'm
+going to press go. And now it's going to
+start to do what it needs to do. And
+I'll catch you when it gives me the
+output. All right. So, I just finished
+making the presentation with no scale.
+And as you can see, it's very plain and
+simple. No effects, no colors. And it's
+all right. The actual structure of it is
+a bit bit off, but nothing crazy, right?
+And so ideally, we want something that's
+branded, that's better in terms of
+structure. I feel like I want some
+effects here. I want some colors to make
+it easier on the eyes, but also to make
+it appear better when I'm using it uh
+with my team and so on. So, ideally, we
+want something that's a bit more
+professional that has colors, structure,
+uh, and the layout looks a bit better.
+So, what we're going to do here is go
+back to the Clark templates. I'm going
+to scroll down to the canvas design. And
+by the way, if you're looking for a PDF
+or for MCP builder, which I use all the
+time, uh, and for other things, you can
+just simply search it here and you'll
+find it. You can for example we can look
+for a website web design reviewer Google
+analytics SEO optimizer web experience a
+lot more things that are there. So I can
+look for Canva design canvas design and
+if I go to view details I will get to
+this page right here find out that the
+skill is actually a prompt. So every
+skill is a prompt and the prompt is very
+detailed which allows claw code to be
+able to build better representations
+based on this full prompt that we have
+here which someone made. Now I would
+recommend looking at the amount of
+downloads because if it has good
+downloads then obviously it's good. Not
+all the skills are great right depends
+on the prompt and prompting depends on
+the person. So all we have to do here is
+copy this code. I can go back to cloud
+code. I can clear conversation and I can
+say install this skill here
+and I can press go. And now what this
+will do is it will start adding the
+skill inside of cloud code here. We just
+have to approve a few things. And as you
+can see it's saying that the canvas
+design skill has been installed
+successfully. I can go to cloud. I can
+go to skills and here we have canvas
+design and if I go to skill.md here we
+have the full prompt that we had here
+under code. Let's run it again. So let
+me go to clear conversation and I can
+say okay can you now make the
+presentation for the analytics comparing
+me and my results and my competitors and
+give me back the full presentation on
+the slideshow. I'll press plan mode. It
+will now start working on the
+presentation. All right. And after a few
+minutes it made this full presentation
+right here with colors and designs. And
+it looks a lot more cleaner than the one
+that we had before. We have colors. We
+have different types of colors. We have
+a better structure now, better way that
+we can look at things. We have headers,
+which is a lot cleaner than the one we
+had before. I can see there's a few
+mistakes though on the top as well, but
+it's something that we can fix just by
+prompting it uh to do a better job in
+those specific areas. And we have until
+the end. Now, claw code skills are by
+far one of the most important things
+that you need to know when it comes to
+claw code because claw code is great,
+but it's even better when you add
+enhancements. It's sort of like the
+arroman suit, which is amazing, but it's
+even better if it has the controller, if
+it has the laser, if it has all these
+things that make it 10 times more
+powerful, and it makes you build things
+at 10 times the speed instead of you
+having to go back and forth and
+prompting it saying, "Hey, it's wrong.
+It's not wrong. Make it better." And
+things like that. The next hack is using
+the spec, to-do, and code workflow.
+Okay, so now that we added all the
+structure of the files, do we go
+straight to building? Well, no. we have
+to plan even more if you want to build
+something that's actually scalable and
+that's more structured because yes you
+will spend more time now but it will
+save you a lot more time later on when
+you want it to actually work and the
+problem with most people using cloud
+code is that they paste a prompt like
+this which is claude build me a family
+activity finder app AI is great right
+but if you're not specific about what
+you want then it's not going to do a
+good job and so [music] we replace this
+prompt with something that looks like
+this which is asking it to make a spec
+for a family activity finder app we have
+the requirements which is parents enter
+city, kids ages, availability, distance,
+willing to travel. The app returns five
+activities with title, description, and
+emojis. The text tag that we're going to
+use is simple HTML, CSS, and JavaScript.
+And we have milestone one, which is
+building the UI with dummy data. And
+milestone 2, which is connect to real
+activity API. Now, the reason why we do
+this is because we want a detailed
+blueprint with requirements, tech
+choices, and clear milestones as to what
+it needs to do to be able to build this
+thing before we even start building
+anything. And so, I'm going [music] to
+press go. And as you can see here, the
+spec.md is sort of like an SOP. And we
+told previously to cloud code that all
+the SOPs should be stored under the
+directives. Now it's going to ask me to
+accept this plan. I'm just going to
+press out just because I don't want it
+to do anything. And if I go to the
+directives, I should be able to now to
+see a spec.md file which is a full file.
+Let me zoom out a little bit. That tells
+us the overview of the exact app that
+we're going to use. Right? So we have
+the overview text stack, user inputs,
+output, UI layout, milestones, and we
+have demo data examples, milestone 2,
+and so on. This gives a lot more clarity
+and structure to cloud code later on
+when you are building something because
+bear in mind that when you talk to cloud
+code you're talking here. Then when you
+leave cloud code and you come back this
+will be empty and so it will need some
+sort of memory to understand exactly
+what you were doing in the first place.
+And so you always want to make sure that
+you were structured as possible when
+building the actual thing. Now we're
+done with step one which is creating a
+detailed spec. Now we're going to go to
+step two which is generating to-do
+lists. And so now I can say create a
+to-do list for milestone one based on
+the spec. and we'll be able to go
+through milestone by milestone to make
+sure that everything is all right and
+everything is structured and it doesn't
+build a full thing and then we're like
+hey man not the thing that we wanted.
+It's going to make to-dos uh for that
+specific milestone. Now it has made all
+the to-dos for the first milestone in
+specific. And I can see here that it
+says here's the milestone one to-do list
+create project directory build index
+html. It can do xyz and it gives us all
+the steps in specific because we right
+now are acting as a supervisor for the
+actual developer that's building the
+thing. And now I can say build milestone
+one using the to-do list. I'm not going
+to press enter cuz I don't want to build
+anything. But I can tell you that once
+it finishes milestone one, you can then
+go and say okay, can you not build a
+to-do list for milestone 2 and milestone
+3 and milestone 4 until you're finished?
+And yes, you've taken a bit more time
+and to structure things, but you've made
+the output 10 times better just because
+you've been more structured. Remember
+that clock code is only as good as your
+input and the prompts that you give it.
+This is a developer, but a developer is
+good at coding, but it might not be the
+best to understand the context behind
+the code and what it is that you
+actually want, which is why we want to
+be as structured and explicit as
+possible when building these agenda
+workflows or apps. All right, so now we
+get to the execution and performance
+hacks. The first one being permission
+mode settings. So down here when we're
+talking about clock code we can actually
+change the mode or the settings of the
+permissions that we're giving clock
+code. You can either press and change or
+you can simply go shift and tab and it
+will change automatically. So the main
+ones is bypass permissions and then we
+have the plan mode. Bypass permissions
+is used when you're making a very simple
+task. This is what we call the yolo mode
+which is telling cloud code hey you do
+everything. Don't ask me any questions.
+Don't plan just like go at it. This is
+great for something very very simple.
+While plan mode lets you collaborate
+with cloud code to explore solutions and
+create detailed structures without
+wasting tokens of going back and forth.
+What we usually say is a minute of
+planning saves you 10 minutes of
+building. The next hack is using sub
+agents for parallel processing. [music]
+So what this means in a very non- techy
+way for beginners is that when you talk
+to clock code here, you're talking to
+the main agent, but what you can also do
+is talk to the main agent and then have
+other agents working in parallel as all
+these ones, [music] which means that you
+can do four times the work at the same
+amount of time. All right, so here I
+have my partnerships email inbox. Let's
+say I want to process all of these
+emails together. Of course, I only have
+about 84 right now, but just let's say I
+had a thousand or 2,000 or whatever it
+is, because most people do have that.
+Then instead of having one agent trying
+to process all of them, you can split
+the work between agents. And so what you
+could do is you can split the task
+across these four agents. So you can say
+to this agent, hey, can you label emails
+from 1 to 200, this one from 200 to 400,
+and then 400 to 500 and so on, right?
+And so when you split the task, they all
+work simultaneously at the same time and
+it'll be so much faster. Here's my
+client ID and client secret. uh I want
+to create a email classifier system
+where it goes through my Gmail and it
+basically classifies the emails on
+whether there it's it's a full caps so
+editor request or software partnership.
+So I'm going to give my client ID client
+secret so you can use that and then
+authorize my Gmail like ask me to
+authorize my Gmail. I'll let you in and
+then you can we can start the task. All
+right. And these four agents just
+finished running. I can see here that
+they've all been labeled either a
+software partnership other or editor
+request as well. Now, the example I
+showed you, because it's 80 emails, it
+wouldn't be realistic. But if you have
+thousands and thousands of emails, then
+it would work really well because you
+have these agents running at the same
+time doing the exact same things. And
+all you have to do is make sure that
+you're there to be able to conduct them
+and answer any questions if you need to
+answer. All right, the next hacks are
+going to be the control and optimization
+hacks. The first one is mastering
+context management. So, think of
+Claude's brain like a notebook with only
+200,000 pages, right? Every time you
+chat to it with Claude, it writes down
+your message, his response, all the
+files it reads, every tool he uses. As
+the notebook fills up, Claude gets
+dumber. It gets more stupid, right?
+Because it's trying to remember too much
+at once from a conversation and files.
+And so, if we keep having a chat with
+this agent right here, it becomes very
+sluggish because you've used up 50,000
+plus tokens just on conversation
+history. The solution to this is using
+the smart reset, right? The smart reset
+is when you put slash.compact,
+right? And this compresses your
+conversation into a summary, but it
+keeps the most important stuff, right?
+And you use this when your chat is
+getting way too long, but you want to
+keep working on the same project and
+it's compacting the conversation that we
+had here. Of course, most of this is
+just cloud code just working on its own.
+But let's say you were to have a
+conversation. It would extract all the
+summary points of this and then it would
+give us the summary which we'll then use
+to be able to go to the next steps. As
+you can see here, it says the session
+has been continued from a previous
+conversation that ran out of context.
+The summary below covers the earlier
+portion of the conversation. And so this
+right here summarizes the conversation
+that we had to then be able to then keep
+going with the conversation. And once
+you keep talking to it, now you have
+used about 180,000 tokens free again,
+but Claude still remembers what you were
+working on. And the next command is
+actually something that you've seen me
+used over time and time again, which is
+the /clear conversation. Cuz when I want
+to have a new conversation with cloud
+code, instead of having to spin up a new
+agent, I want to have the sync
+conversation here, but the conversation
+will be cleared and you can start from
+zero. And one more thing you can do
+within the context management is check
+your context usage. So if you're worried
+about how much context you're using
+within a conversation, you can simply
+press /context here. So I actually have
+to say, hey, can you give me the context
+usage/context? And here it says, hey,
+here's your current context usage. Model
+is cloud opus 4.6. The tokens is
+55.5,000 out of 200,000. We're using
+about 28%. Again, 200,000 is the max
+amount of tokens that you can use within
+one conversation. And it tells us the
+system prompt, the system tools, the
+memory files, the skills, the messages,
+the free space. Basically giving us an
+overview of how much we can use more
+than what we're using right now. This
+context hack is important because it
+allows you to be able to understand
+exactly how much more you have left, how
+much runway you have left and also how
+much you've used so far. And the last
+hack here is using the pixel agent
+extension. So there are some of you here
+including myself when I was starting out
+that look at this and think that is very
+intimidating and it looks very very
+complex. And there is actually a way to
+view your agent workflows or your cloud
+workspace in a much more visual way. We
+can go here to extensions. We can look
+for pixel agents and then you'll choose
+this one here. You can press install and
+now this will be installed in your
+workspace that we're able to view our
+workspace in this manner right here.
+It's sort of like different emojis or
+Lego blocks um that show us all the
+different agents working simultaneously
+which is actually really really cool.
+And the way to find it is to go to
+command shiftp. I can look for pixel
+agent show panel. There we go. And on
+the right hand side we can see here that
+we have a visual representation of our
+workspace. And if I press new agent on
+the bottom you can now see that this
+person just appeared and he is idle
+because we haven't given him any task to
+do. And I can press more more agents
+which will add more and more people
+here. And these are the different agents
+that we can use to be able to run up and
+spin up different things. So maybe the
+first agent will be, hey, can you
+research the web on the top AI tools uh
+out there in 2026? And then the second
+agent will be, hey, can you research the
+best workflow automation tool past 10
+years? Hey, can you do extensive
+research on human psychology and tell me
+the top 10 trends that you see over
+time, right? And now using agent needs
+approval. So I can see exactly when
+something needs approval and I can go
+back to the agent itself, right? And
+just give them approval on what they
+need. But all in all, you're now able to
+visually see your workspace and the
+agents working at the same time all
+simultaneously through a very very
+visual representation. I do love this
+because it also makes it fun for me to
+work with cloud code and I can see
+different things and also in addition to
+that I can go to the layout and I can
+start moving things around. I can put
+the plan here or I can put the boxes
+here or I can put the desk here or the
+computer and so on in case you're bored
+and you want to change things around for
+no reason. But you have some you have
+some options. Uh you can also choose a
+floor and you can basically create your
+own game and then work with clock code
+at the same time. And if you want all
+the resources and the prompts of this
+video, then check the second link down
+below in my free school community. You
+can go to the classroom section. You can
+go to the templates vault and then
+you'll be able to see the clock code
+resources and there'll be a clock code
+video right here of today. Bear in mind
+that not everybody gets in, so please
+put some thoughts into your answers when
+you reply. So those are there were eight
+hacks to build better agent workflows
+using cloud code. And if you want to
+work with me oneonone to be able to
+start and scale your own AI agency, then
+check the first link down below, which
+is a one-to-one mentorship program. And
+if you like this video, then you're
+going to love this video up here where I
+show you eight insane cloud code use
+cases that you can start using right
+away. With that being said, I hope you
+found value from this video and I'll see
+you in the next

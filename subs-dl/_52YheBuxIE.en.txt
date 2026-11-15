@@ -1,0 +1,107 @@
+when we try to make gradients often they print out
+with horrible results or they have kind of dodgy
+rgb outputs today's video will give you insights
+on how to make perfect gradients that you maybe
+have never heard before one of the first tips that
+can help you make better more attractive gradients
+is to opt for radial gradients over linear
+gradients now adobe illustrator is my go-to
+choice for most graphics but due to it being
+a vector-based program gradients can be tricky
+to get right having the center of your gradient
+towards one corner really does help to add depths
+and a new level of smoothness to the outputs often
+the radial gradients will also have less banding
+compared to linear gradients which is obviously
+optimal for prints now taking that a step further
+the freeform gradient tool in illustrator is a
+super smooth option using this tool you can have
+a far deeper level of control over the mood and
+also the layout of your gradient you can pick and
+choose where the notes go and you can really make
+some stunning results with this tool but the best
+is yet to come and as we move through the tips
+in today's video you will see why now let's ask
+this question what if we still have banding on our
+gradients there are various different things that
+we can actually do but the first one is something
+you can try in illustrator that likely will help
+this problem and yes i know how much of a headache
+it can be when having banding on gradients
+but you head up to effect texture and
+then we're going to add some grain
+we want to add a very small amount of grain to
+the gradient so something between one and four
+is normally a wise choice and then play with
+the contrast to something that best suits your
+project and your gradients the grain should help
+to smoothen out the banding issues when printing
+so give it a test print and see how it compares
+to the original printouts before we look at more
+ways to deal with banding there is one really
+cool thing we can do with grain on gradients
+so take a shape and then copy it to the command
+or ctrl c paste a duplicate exactly over the top
+with command or ctrl f for this new shape we
+want a linear gradient with one side totally
+black and the opposite side totally white however
+the white side should have a zero percent opacity
+we're going to need to adjust the
+slider so that we have the dark side
+only covering the shadow aspects of our gradients
+and by that i mean the gradient based layer
+then add a grain to this layer and experiment
+with it until you're happy with the end results
+we're going to change the transparency
+blend mode to multiply and then lower
+the overall opacity of the layer now we can do
+the same to the lighter sides of the gradient
+but in complete reverse so the black side has
+zero percent opacity and the white is set to 100
+also the blend mode of this one
+should be something like overlay
+but you can experiment with blend modes and
+see what works best for your specific design
+these shadow and highlight texture gradients are
+really good for illustrations and digital arts
+and they're just fun to play with and just
+a quick bonus tip did you know that you can
+take texts and overlay it on gradients in
+illustrator and even if you have multiple
+layers like we've just worked with you can still
+select everything and then apply a clipping mask
+you will still be able to edit your text
+and i just think that's a pretty cool tip
+but anyway addressing that banding
+once more the more colors you use
+the better the gradient will typically look
+when printed so take this example here that's
+made up of just two gradient nodes or two
+colors instead of comprising our grading of
+just two colors instead we can take two end
+colors and then use two more middle colors
+we then press w for the blend tool and blend
+the three colors together it now has more depth
+more character and it's likely going to print
+out as a better quality than the original one
+as a general rule the more colors you apply to a
+gradient the less banding you probably will have
+now it should be noted that photoshop often
+supplies better and smoother gradients
+more easily but sometimes we have to
+use illustrator for specific projects
+and so it's handy to know how to make
+smooth gradients for vector-based graphics
+photoshop relies on pixels instead of vectors
+and actually comes up trumps in this instance
+but if we are working illustrator work in a
+document raster effects of 72 ppi but then when
+it comes to printing change this to 300 ppi for
+the output this will help ensure that your docker
+master effect settings are printed at high quality
+and i hope that will help you print out and design
+more fluid smoother and more cool gradients
+if you want to learn something else about
+graphic design do click a video on screen until
+next time guys design your future today peace
+you

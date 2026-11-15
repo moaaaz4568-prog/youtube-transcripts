@@ -1,0 +1,260 @@
+Hello everyone.
+Welcome back to our
+channel.  Today we have a
+unique
+Figma tutorial for you.  We
+will create a circular
+slider for the
+hero section of the website.  So get your
+Figma file ready, and
+let's get started.  Here we already have a
+basic layout set up
+for the
+hero section.  Below you
+will see some
+images of smoothie
+bowls and fruits
+ready to
+use.  The first
+step is to create a circle
+that will serve as the
+base for our
+rotating smoothie bowl carousel
+.  Now
+let's copy
+all the smoothie
+bowl images into our circle.
+Make sure you
+distribute them evenly around the
+circle so we can
+create a nice
+flow for our
+slider.  Once
+we have
+all our
+bowls neatly placed in a circle, we will
+select all of these
+images along with the
+circle itself and
+create a group.  Now
+move this group
+into the hero section frame
+.  Carefully position
+it so that we can
+only see the pink
+bowl in the foreground
+.  Next, we'll give
+our circle some
+color.  Let's
+take bright
+pink.  Now
+let's get back to our
+collection of
+smoothie bowl images.  Let's copy
+them all and make them a little
+smaller.
+We will then place these
+images immediately
+below the paragraph.  They
+will serve as
+convenient selectors
+for switching between
+bowls.  To help
+our viewers know
+which bowl is currently in
+focus, we'll
+add a white
+rectangle just
+below the pink bowl.
+Finally, we will add
+shadows to all the
+bowl images.  This
+will add
+more 3D
+effect and
+interactivity to our design.
+Now we are going to
+duplicate the frame.
+Select the circle with all
+the bowls and rotate
+it enough so that
+you can see the
+next bowl, which
+is to the right
+of the currently
+displayed bowl.
+You may
+have to
+play around with
+the placement a bit to
+get it
+right.  But here's a
+little trick.
+Let's also
+return the separate
+bowl.  This will create
+the effect as if the bowl is
+also rotating
+as it
+moves into
+view.  Now we're
+going to
+tweak the colors
+and visuals a bit
+to bring everything
+together.  First,
+let's adjust
+the colors of our
+page to
+match the new smoothie
+bowl.  This can
+really bring
+the design together and create a
+cohesive look.  Next,
+we'll play around with shadows a bit
+.  We
+will also change the paragraph color.
+With our light background,
+we want to
+make sure
+the text has enough
+contrast for
+easy readability
+.  For the final
+touch, let's
+replace the fruit in the
+background.  We'll replace them with
+these mango pieces to
+match our
+smoothie.  Change the
+passthrough property to
+20% so that the fruit doesn't
+obscure the text.
+Moving on,
+duplicate the frame
+we just
+created.  Select the
+circle that contains all the
+bowls and
+rotate it again
+enough so that the
+next bowl on the
+right is in
+view.  Now let's
+match the
+page colors to this new
+bowl and
+move
+the rectangle
+indicating the selected
+bowl under the next
+bowl.
+Adjust the shadows a little to
+new color changes.
+Finally, replace
+the fruit in the background to
+smoothie bowl currently
+displayed
+.
+Now repeat the entire
+process for the
+last frame with the
+blue smoothie bowl
+.  Don't forget
+to adjust the colors of
+the shadows and fruits in
+the background accordingly.
+Fantastically.  To
+make our design even more
+vibrant, let's
+apply a shadow to
+all the bowls that are currently
+visible.  This will create a
+nice 3D effect.
+Now let's move on to
+our final and
+most interesting part
+, where we will create
+interaction between
+frames.  This is where we will
+truly
+bring our design to
+life.  Go to the
+prototype tab.  In the
+first frame,
+select the second bowl,
+click on the
+plus sign, and drag
+it to connect to the
+second frame.
+Select "on
+click" as the trigger, "
+smart animation" for the
+animation, "shrink"
+for the smooth
+transition, and
+set
+the duration to 600
+milliseconds.  Let's
+our users
+can also
+go back to the
+previous bowl,
+not just forward.
+Use the same
+parts as before
+so that our design can
+move in both
+directions.  Let's
+continue by
+creating an interaction
+between the second and third
+frames.  Keep the
+interaction details the
+same as before.
+And for our final
+interaction, let's
+combine the third and
+last frames in the same
+way.  Now
+let's review
+our prototype and
+see how it
+works.  Smoothie bowls
+spin great
+when we move
+forward, but not when we
+turn back.
+But we can
+easily fix that.
+The secret is to
+adjust
+the position of the bowls in
+subsequent frames.
+For example, if we
+want the pink
+bowl to rotate
+when turning back,
+we need to
+rotate it a little in this
+frame.  Now that we're
+revisiting
+the prototype, it's working
+properly.
+Repeat this process
+for all bowls to
+ensure smooth
+rotation in both
+directions.  With
+this last
+tweak, we
+created a beautiful,
+immersive animation
+that will really bring
+your designs to life.  Don't
+forget to subscribe
+to our channel for
+more
+creative content
+and inspiring
+design ideas.

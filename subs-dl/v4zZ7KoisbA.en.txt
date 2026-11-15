@@ -1,0 +1,1219 @@
+Honestly, AI is
+generally pretty
+bad at creating
+content because it doesn't
+understand what
+quality content looks like.  If
+you ask him
+to come up with an idea or
+write a viral
+post, you should
+understand: there are hundreds of
+thousands, if not a
+million, ways to
+write content.
+So unless you
+tell Claude or ChatGPT
+how to do it, unless you
+provide context or
+structure, it will just
+guess.  He will
+choose one of a
+million options, and most likely
+he
+will not be very successful.
+Even in
+cases like the new GPT-6
+Astra, which is essentially an AGI,
+it still can't
+write a good
+post for social media.
+Why?  Because he doesn't
+see social
+media, and his
+training data is
+months out of date.
+He doesn't know what's trending right now
+, and that
+brings us to
+one of Eden's most
+underrated features
+—MCP.  But, as I've
+noticed, the term MCP
+still scares many,
+making them think that you
+need a
+computer science degree to
+use it.    To
+explain it
+as simply as possible,
+consider MCP as a regular
+integration.  This allows
+Claude, ChatGPT, or
+any other AI
+tool to
+connect to
+another application, such as
+Eden, and perform actions
+available in that
+application.  Why is this
+important?  Claude or ChatGPT
+do not see posts on
+social media.  They don't
+know what's
+popular right now.  If you
+asked him
+to look at the best
+productivity posts on Twitter
+to give you
+ideas, he wouldn't be able to
+do it.  If
+you asked him to take the
+generated ideas and
+schedule them as
+posts, he wouldn't be able to
+you asked Claude or
+ChatGPT to search through
+your ideas,
+book quotes, past
+newsletters, notes, and
+everything you've
+written, that's where the
+most valuable
+thoughts lie.  This is what will
+help
+you grow on
+social media the most, but he
+won't be able to do that
+if you're not working on an
+app he
+has access to.  And yes, ChatGPT
+and Claude can
+use a
+browser or a computer
+for such tasks,
+but what happens when your
+computer is turned off?
+He won't be able to
+do it.  So more
+advanced
+users who have already
+tried creating
+content with
+AI will ask: "Ca
+n't I just
+parse
+authors' posts through other
+services, like Apify?"
+Sure, you can
+collect posts from a
+specific author, or
+maybe two or three
+authors, before you
+start spending
+crazy money on
+parsing costs,
+but you won't be able to
+look for trends across
+all authors across all
+platforms and across your
+own accounts to
+compare them against each
+other.  And you probably
+won't be building a
+vector database or
+paying to
+sync
+millions of posts
+every day.  This will cost
+you tens of thousands of
+dollars a month, and that's why
+you pay
+us or Eden a small
+monthly fee of
+$29 to access
+all of this so that you
+don't have to do
+it yourself, because
+it's a full-time job.
+You want to
+focus on
+creating content.
+So, when you
+connect Claude or
+ChatGPT to Eden, it
+opens up the following
+possibilities.  It's like
+giving Claude or ChatGPT
+tools
+they didn't have before.
+So, by pasting a
+link to TikTok,
+Instagram, or YouTube,
+you can now get
+transcriptions, and that's
+just at a basic
+level.  You can also
+do this on a large
+scale and search for
+any
+keyword, topic, or
+niche to find
+the most popular
+posts.  So I'm going to show
+you why this is important
+so that you can actually
+create quality
+content based on
+your ideas with
+AI and have a
+useful
+AI workflow.  Because,
+frankly,
+most
+YouTube videos are just hype and
+gimmicks that
+don't actually give you anything or
+provide
+consistent
+results.  So I'll
+show you three
+examples that I
+did here in Codex with GPT-6
+Astra at its maximum, but
+you can do this
+in Claude, in Claude code, in Cursor,
+or in any
+other AI
+tool that
+plugs into MCP.
+Now for those who are
+still a little afraid of
+Codex or Claude code because
+they think it's only for
+developers: I would
+actually
+recommend you
+switch to
+them completely.  Don't just
+use ChatGPT
+or Claude,
+use only
+Codex or Claude code.  You don't
+need to worry
+about anything else, just
+start chatting
+and you'll
+figure it all out.  It's
+literally no
+different, except
+that it can
+access
+files and folders on
+your computer, and in
+my opinion, it does everything
+a little better.  So if
+you're still
+using
+regular Claude or
+ChatGPT, come on,
+grow up,
+stop acting
+like a child.  Jokes aside,
+how do we actually
+connect the MCP?    The
+traditional way
+is to go into Eden,
+open
+the settings,
+click on MCP, and
+then simply
+follow
+the instructions
+provided here.  So,
+you can connect
+Claude or follow the
+setup steps
+for ChatGPT, but we've
+simplified it a bit for you,
+so you can go
+to eden.so/mcp.  This will bring
+you here.  Here
+are a few
+things you can
+do, and all you
+need to do is
+copy this query.
+It's just one sentence.
+You say, connect
+me to Eden, get this
+URL where our
+instructions are, and then
+ChatGPT reads it and is
+like, "Oh, okay. I
+need to do this."
+After that, it
+will open a
+connection link or
+provide a
+registration link if
+you haven't already
+, you just
+click "
+connect Eden" and
+you will probably be
+asked to
+restart Codex,
+ChatGPT, Claude, etc.  And everything is
+ready.  But if you
+scroll down a little
+, you'll see that
+we have ready-made
+workflows.  So, if you
+need a weekly
+content strategist, you
+can just
+click here and
+install it.  Or,
+if you want to
+create a
+content management center
+, you can
+do that here as well.  It's
+really that simple.
+So now I want
+to show you what
+Eden can really do
+when you're connected to it
+.  The first
+request I
+sent here says, “I
+want you to
+browse my
+Eden library for
+new
+productivity ideas,
+and then explore
+Substack’s best
+productivity notes.  You'll
+take the
+post structure and principles of
+Substack's best notes, and then put
+my ideas in there."  This is
+important because everyone is
+just trying
+to copy everyone else.
+They're just
+trying to
+automate the whole
+process with
+AI, and frankly
+, I don't think it's going to
+work.  You still
+need your own
+unique ideas that
+you like.  You
+still need your
+own brand.  Otherwise,
+you will just end up
+copying everyone
+else, copying
+trends, and becoming no
+different
+from everyone else.  It doesn't
+matter how much
+content you
+publish, you
+will never stand out.
+So the way I
+like to generate
+ideas is just by taking a
+walk.  I
+literally treat it
+as
+part of my job.
+I walk for about 30
+minutes twice a day.
+I open a
+mobile app
+that looks like this
+, where I have all my
+spreadsheets, documents,
+ideas, etc.  Then I
+just hit this
+capture button, and I
+usually
+use
+voice
+transcription, but you
+type out an idea,
+any idea that
+comes to mind.  So,
+I turn on an audiobook,
+YouTube video, or
+podcast and just
+let it
+stimulate new
+ideas.  I'm not
+necessarily
+trying to borrow
+an idea from a book or a
+podcast, but if you've
+ever listened to
+something while
+walking, you
+understand that even
+one sentence you hear
+can trigger a thought,
+which triggers another
+thought, and that another thought.  And
+then, if you
+keep it in your
+library—like we
+do at Eden—that
+library becomes a
+place where you can
+dump any ideas you want
+without worrying about
+organizing them.  This
+is the main problem with
+many
+note-taking apps: you
+jot down an idea and
+it disappears forever,
+even if you
+organize it into folders
+.  So we automatically
+add tags,
+link ideas
+together, and embed
+them, which essentially means
+adding a set of
+numerical values ​​that
+allow you to search by
+content, not just
+keywords,
+i.e. search by
+connections.  So when
+you ask AI to search
+your Eden library
+, it can find
+new connections and ideas.
+He can find
+anything for you, so
+nothing gets lost.
+Today, my
+content creation process
+looks like this: I
+just go for
+a walk, collect
+a bunch of ideas, and then
+do exactly what
+happened here at ChatGPT
+or Codex—turn
+them into drafts,
+add them to my planner,
+edit, and publish.
+Another feature of
+Eden is integration with
+your
+Kindle highlights, RSS feeds,
+X bookmarks, Substack,
+saved
+Instagram posts, or Readwise.  So,
+anything you save
+anywhere goes into
+so you can later
+find it and
+turn it into
+content ideas.  Or you
+can simply
+use Eden
+as your true "
+second brain," because that's what it
+is.  It
+creates connections and
+neurons, you could
+say.  Okay,
+again, I
+asked him to look through
+my
+library for
+productivity ideas.
+So basically, take
+my ideas about
+productivity,
+research the best
+notes on Substack about
+productivity to
+get a sense of what a
+quality
+post should look like, and then
+use the
+structure and
+principles of those posts
+to inject
+my own ideas into them.  So
+what he did, if
+you want to read: he
+found five
+useful approaches to
+productivity in
+my library and
+highlighted the strongest
+of them: rest as
+part of the creative
+process, learning that
+postpones action, and
+automation that
+precedes understanding
+.  He then
+searched Substack and
+found 75
+results on
+the topics of
+focus, and creative
+work over the past
+year.  So we have
+a post that
+got 90,000
+likes, 56,000 from
+our friend Craig
+Perry, 26,000, 24,000, and 11,000.
+And these are absolutely
+viral posts.  If
+you know what a
+viral post is on
+Substack, you can
+click on them to
+go to the
+post itself.  And in addition to
+what we're doing here, I
+could say, "Hey,
+create a new board in
+Eden and save all
+these notes there."  Because in
+Eden you write newsletters
+and create collections of
+materials right
+inside the boards.
+For example, a
+YouTube playlist is a place where I
+save videos that
+inspire me and from
+which I want to
+draw ideas later.  I can
+just chat
+with this board or
+ask ChatGPT, now
+that he has access
+to MCP, to watch my
+YouTube selection for
+inspiration.  We'll
+touch on this a little in the
+third example,
+but you'll get the
+point when we get to it
+.  So now
+he took those five
+best posts and
+my five approaches
+that he found in
+drafted five
+potential posts.
+So the first one says, "You
+can become very
+aware of a life
+that you never
+begin to live."
+Pretty good
+hook, in my opinion.
+Writing tips
+saved, business
+podcasts listened to,
+courses highlighted,
+notes organized
+,
+another person's morning routine memorized.
+Every day you get
+better at preparing,
+but you still haven't released
+anything into the world that
+could point out
+your mistakes.  That's
+pretty good.
+Ultimately, you have to
+publish the post,
+make an offer,
+create the first
+version.  Until then,
+you're just
+preparing for the exam you
+keep
+refusing
+to take.  This is just
+incredibly cool.
+Try asking
+ChatGPT to create a
+viral post and it
+won't even
+come close to that
+result.
+Absolutely not
+.  And if he does
+get close, will he be able to
+do it
+consistently?  No.  If you are a
+creative
+content creator,
+using Eden as your MCP
+is like a foundation.
+Now the next idea.
+Give your ideas
+a few days to
+become interesting.  I
+already like it
+because it's my idea.
+This is from my library.
+This resonates with
+me because I've heard it
+before.  It's just not what
+comes to mind
+when I sit down to write on a
+blank page.
+Start a plan before you
+need it.
+Write down the obvious
+points.  Identify
+a question that
+you cannot
+answer yet.  And then
+live it.
+This variant seems
+to follow the same
+structure as the
+previous one.  So I
+wonder if the two
+of them have a very similar
+structure.  Apparently, these are the
+two from the friend who
+runs this account.
+It's okay
+if they're not perfect
+, although that's still
+very good.  You can
+ask to have it
+redone.  Oh, it
+actually borrowed
+Craig
+Perry's structure with the format:
+recommendation,
+practice, outcome.
+So, they were friends.
+This is interesting.  Okay,
+third.  Give
+your day a rhythm.
+Create something
+before checking how
+others are doing.
+Book time for the
+work you
+keep putting off
+.  Complete one
+meaningful task.
+Let the day feed
+your curiosity,
+explore a question,
+gather an idea,
+wrap up before
+dinner, spend an
+evening with loved
+ones, let the day
+come to an end,
+create a routine that
+you would like to
+live in even after you
+become
+successful.  This...this is
+good, right?  It's
+just, oh my god, it's going to be
+successful.  I think
+you've caught the essence of
+what we're doing here: we're
+taking our own ideas
+that we've accumulated over
+time and inserting
+them into something that already works,
+into a structure that already
+works.  The same is true
+for
+YouTube titles, which is what
+we'll talk about here
+, and it's like the
+Eden cycle.  This is the
+Eden system.  Because
+inside Eden you
+can go to the
+“Discover” tab and
+see
+the most popular threads
+and notes on Substack, and
+you can
+filter all of
+that here.  You can
+look at
+YouTube videos and LinkedIn posts,
+and I recommend doing
+that instead of
+just turning to AI
+, because it's helpful
+to just see if
+any of it inspires you and
+then save it to
+your idea pipeline.    It's
+actually funny, I
+can see it right now.
+This is a direct copy of another
+viral post.
+So, don't do that.  Don't
+be Diggy.  This is a
+direct copy of
+Goldie's tweet.  I
+remember this from
+years past.  This
+post went
+super viral, and this is an
+exact copy of it.  So
+let's move on to the
+next example.
+I said, “
+Use Eden
+to find new
+writers in the
+productivity niche,
+then analyze why
+their best
+post was so
+successful.”  What is their
+strategy?  Then I
+want you to help
+me carve out a
+unique niche so that I
+benefit from their
+growth but
+stand out.  And then it
+started working here
+and asked me
+a question because it said it
+found my
+connected accounts.
+You can connect
+your Eden accounts
+schedule content
+or just see
+your analytics.  And
+so I said, "
+Use my
+personal account, because
+I also have an
+Eden account connected
+."  And then he
+looked at my
+said, "Your
+strongest position
+is the next step
+after productivity
+: turning your
+focus back to the
+original work
+and life you
+lead."  These creators
+attract people
+who want
+to focus,
+stop
+scrolling, and become
+disciplined.  You
+can satisfy
+the same demand and
+then direct
+it in a certain direction.
+Read, write, create
+something of your own that
+corresponds to your
+current direction of the
+"Second Renaissance
+".  May Eden
+benefit through your
+process.  So he cares
+about me because he knows I
+want to promote Eden,
+so he also
+throws in ideas that are
+suitable for that as well
+.  And then he said
+that I was looking for smaller productivity creators in Eden,
+not
+big
+celebrities, because
+I needed those who were
+on the rise right now.
+I want to know what works
+now, not for someone
+who already has an
+audience where everything
+will work for
+them.  So he gave
+me a list of creators to look out for
+.  So,
+Dan Zacharias, Daniel
+Burruss, my good
+friend Emmy—I don't know
+who it is, Leo, Justin
+Sky Sack.  I think I've
+seen these two before
+, but I can add more
+—I can say Codex
+or Claude to add all of
+these creators to the list.
+So, inside Eden you
+can create
+lists and then
+reference them in
+Claude or ChatGPT when you
+need to.  Essentially, it's
+just a way to
+group creators together
+so you can see their
+posts in one place
+and filter by
+newness, number of
+likes, views,
+etc.  This is another
+way to get
+inspiration or
+see what works.  And
+then he goes
+into the analysis, and it's
+quite long, so I'll
+read the first
+point: Dan Zacharias
+makes the discipline
+look like a holistic
+system that can be
+learned.  So,
+remember, we
+asked to do what
+works, but we
+want to stand out.  We
+want to be
+unique.  We
+want to outperform
+our competitors.  And
+he says, "His
+biggest video
+combines an emotional
+issue—wasting one's
+life—with a concrete
+outcome: a full
+protocol."  The introduction
+lists
+recognizable
+alternatives
+to scrolling, then
+moves on to
+explanation, consequences,
+practical steps, and
+identity.  Such a
+structure offers
+both understanding and
+solutions to the problem.
+Viewers receive
+an explanation of their
+difficulties and a
+sequence of actions.
+His strategy
+is consistent: focus,
+discipline,
+identity.  This
+sounds very familiar
+to me.  With
+coaching and a
+community
+providing
+implementation support, the topic
+remains
+relevant.  His
+video on
+self-acceptance
+has received 116,000
+views, 7
+times more than your
+introduction.  So what can I
+do differently?
+Show what exactly
+this discipline should be directed towards
+.  For me,
+that would mean
+directing
+the discipline here, because that's an
+idea I would have
+talked about anyway.
+Do what works,
+but help
+direct it towards
+reading, writing,
+habits.  I'll let you
+review the rest,
+but there's something else you
+can do.
+Actually, that's my entire
+position.  He did a
+complete analysis of
+how to benefit
+from their development,
+publish the
+next chapter of
+their popular
+topic.  This is very smart.
+Create related
+materials that
+you want to share.  This is
+really very good.
+Essentially, I would do
+something like, "Hey, I want
+you to save all of this in a
+document in Eden so I
+can refer to
+it later."  This is
+saved in your
+library so you
+can find it later.
+Now, a third example:
+I said read
+my newsletter "You
+Have to Be
+Delusional If
+You Want to
+Succeed" in Eden.  I just
+wrote and
+published this
+newsletter on Substack and X,
+and I'm going to
+turn it into a
+script for YouTube.  So
+I said, "I'm going to
+turn this into a
+script for YouTube.
+Break it down into
+the biggest,
+most compelling ideas
+. Then use Eden
+to research the top
+YouTube videos on that
+topic. Look at the
+titles and understand
+why they're
+popular. Then
+use the structures
+and patterns from those
+titles to
+come up with 10 video titles
+for my newsletter."
+Traditionally, you or a
+content strategist would
+go into Discover or
+another
+analytics tool,
+filter through
+videos on YouTube,
+see what
+headlines are working, and
+save them to a file,
+like I showed earlier
+on the board.  This is great,
+but the chat could be
+more flexible.  He
+can search wide and
+deep.  He can
+interpret.  He
+obviously has a certain
+level of intelligence.  So
+he said the
+strongest
+pitch in my
+newsletter is "your
+realistic goals
+are holding you back
+."  It gives viewers a
+reason to
+question the advice
+they've been following their entire
+lives.  Being in illusions
+becomes an intriguing
+solution.  He
+read the entire
+newsletter and said, "
+Here are the main
+ideas."  You can
+pause and
+read if you
+want.  He said: “
+For the video, I’ll start with the
+first two.  Explain
+the mechanism of attention, and
+then outline your
+three-step process."
+And then he looked at
+videos like the one he
+had received earlier from
+Dan Zakaria: "Your
+Life Won't Change
+Until Your
+Self-Esteem Changes,
+Psychocybernetics."  I
+actually talk
+about Psychocybernetics
+in the newsletter.  And he
+said, "The structure
+that can
+be used, and the
+likely
+appeal, is '
+your life won't
+change until something
+inside changes.'"
+So, we
+could use
+that.  Another one here: "
+Build a
+mind so strong it
+scares people."  So,
+build something
+so high-quality that
+it has dramatic
+consequences.  Yes?  This is what
+YouTubers want.
+I spoke to a YouTube
+strategist about what
+he would want when analyzing
+or brainstorming
+YouTube headlines, and
+this is exactly it.  It's like
+playing Mad Libs, and
+then you can get
+creative once you have a
+draft.  He even
+took one of my
+videos: How to Change
+Your Life So Fast
+It Seems
+Illegal.  So how do you
+make
+a transformation
+so fast that
+it feels like a "
+transgressive
+adjective."  And so
+he listed 10
+headline ideas
+right here.  Set a
+goal so big that
+it forces you
+to become someone else.
+That's pretty good.
+You have to admit, that's
+pretty good.  Your
+life won't change
+until
+your goals change.  This is
+normal.  How to change
+your life so quickly
+that it seems like an
+illusion.  Eh, that's
+normal.  This one
+impossible goal is worth
+more than 100
+realistic ones.  This is
+normal.  Your dreams are
+less impossible than
+you think.
+Steve Jobs' idea that
+will change your view of
+the future.  Set a
+it makes
+distractions
+meaningless.  I
+like it because
+it's true.  Your life
+won't change until
+standards change.  Not bad.
+Your discipline is not
+broken.  That's why you
+still feel
+stuck.  I've seen
+this video
+work well here and there.  So,
+this might work.
+But personally, I
+like the first one the most.  And
+he said my
+first choice is number
+one.  So here it is.  You
+can ask for 50 more
+titles if
+you want, based on 50
+other successful
+YouTube videos, and then
+choose from those.  I think
+you get the point.
+Essentially, connecting
+ChatGPT or Claude to Eden gives
+them superpowers because
+they can finally
+work well with
+social media
+.  They can
+all your
+content.  They can
+content from any
+author.  They can
+see which posts are
+effective and successful
+across all platforms.  Oh,
+and one more thing I
+forgot to mention.
+Let's get back
+to the post ideas,
+where he actually
+created them.  In Eden you
+can plan
+content for all
+platforms.  You
+can also view
+your analytics, but
+here I can schedule
+posts for X, Substack, and
+Threads.  These are the platforms
+where I do everything
+the same way and then
+take those posts and
+put them on LinkedIn and
+Instagram.  On our
+channel, we have already
+created videos on
+how to write viral
+posts for these
+platforms and how to develop on them
+, if
+you want to watch them
+next.  But then
+, inside Codex, I give
+the command to add them to
+drafts so I can
+review,
+edit, and
+automatically
+schedule them.  If
+you want to just
+ask him
+to plan everything for
+you, you like the
+way they look,
+or you asked him
+to tweak them a bit
+and you like the
+result—
+please do as you
+wish.  So I'll just
+say add all of these
+to my
+planner drafts and we'll
+see how they
+show up here.  So,
+he added it to my
+drafts, and now I
+can open them and
+edit them to
+my liking, because that's how
+I personally
+like to do it
+—it's
+kind of a content
+creation workflow
+, right?
+Store ideas in the
+Eden library without
+worrying about
+organization.
+Have the chat
+look at my
+other people's best posts to
+get a sense of what an
+effective
+structure looks like, find
+different approaches, and
+then move those
+variations into drafts
+so I can just
+go in the morning,
+edit them, and...
+Sometimes I end up
+editing the whole thing
+because I want it to
+sound different, then I
+just hit "
+schedule," pick a
+time—and boom, it's done
+, it's published, and
+I can turn on
+auto-retweet if I want it to go up
+every two or three hours,
+and so on.  And another
+thing you can of course
+do in Codex,
+Claude, or even Eden is
+ask
+to turn a task
+into a routine or
+scheduled task
+.  So, if you want the
+workflow we described to
+happen after
+you've done all this
+in chat,
+like: "Hey,
+search my
+library for fresh
+ideas, check out
+popular posts on
+Substack, X, YouTube, or wherever
+, and then add them to
+my schedule or
+edit them
+in the morning."  Just
+ask him, “Hey,
+I want you to
+make this a
+routine that you
+do every morning,” and
+then every morning you’ll
+wake up with
+new drafts
+ready to
+edit,
+refine, and
+plan.  So, this is the
+process of creating
+content inside
+Claude or ChatGPT.
+I hope you
+enjoyed it.
+I hope this was
+helpful.  You can
+check out Eden via the
+link in the description
+or connect to
+MCP and start
+creating
+today.

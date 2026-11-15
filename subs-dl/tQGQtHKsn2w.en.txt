@@ -1,0 +1,555 @@
+Last year, this app made 348 million.
+Headspace, the mindful app. You've
+probably seen it. Millions of people pay
+10 bucks a month to listen to someone
+telling them to breathe. No, that's not
+a joke. That's literally the business.
+Short audio content delivered daily
+behind a checkout [music] page where you
+got to pay money for. And this made 348
+million in a single year. And right now,
+I'm going to reverse engineer exactly
+why that works. Find the gaps that their
+users are complaining about, and then
+build a better version from complete
+scratch before your eyes in the next 7
+minutes using AI. No coding, no
+developers, and no technical experience
+needed. And here's the thing that most
+people miss. What I'm about to show you
+is not just an app. It's a digital
+product. The same type of product that's
+made me over 30 million, and I've helped
+over 3,000 students build real thriving
+AI online businesses. The only
+difference is the packaging. So, let me
+show you how this works. Let's break
+down why Headspace prints [music] money
+right now. This entire app is built on
+one insight. People want to feel better,
+but they don't want to figure it out on
+their own. So, Headspace [music] gives
+them short guided sessions every day. 5
+minutes, 10 minutes, you press play, you
+follow along, and you're done. There's
+no complexity, there's no learning
+curve. You just open the app, do the
+thing, and you feel a little better. And
+they charge $69.99 a year or $12.99 a
+month. Millions of people pay it because
+[music] they're not really paying for
+content. They're paying for the
+structure, a daily habit that they don't
+have to think about. Now, here's what I
+want you to understand because this is
+the pattern that really matters. Every
+successful digital app that I've studied
+follows the same formula. Find a daily
+friction point, remove it, and charge a
+small recurring fee. That's it. That's
+the model. And what makes this moment
+different from even just 2 years ago is
+that you no longer need to know how to
+code to build one of these. AI has
+completely collapsed that barrier. You
+just need to know what to build, and I'm
+about to show you how to figure that out
+right now. Now, I already know what some
+of you are thinking. Richard, that's
+cool, but I'm not a developer. I don't
+have $100,000 to hire an engineering
+team. I get it. I've actually built my
+own AI software over the last 18 months
+with a full engineering team over the
+last 12 months, and it cost hundreds of
+thousands in order to do that. So, I
+understand exactly how expensive and
+complex building software can be. But,
+what I'm about to show you completely
+changes the equation completely. There's
+a new tool called Base44. I'll leave the
+first link in the description with a 30%
+off discount, so you can get a special
+link to sign up. And it lets you build a
+fully functional app by describing what
+you want in plain English. No code, no
+developers, no technical skills. But,
+here's the key. The tool is just the
+builder. The advantage is knowing what
+to build, and that starts with the
+research. You see, most people skip this
+step entirely. They build something they
+think is cool, and then they wonder why
+nobody downloads it. We're going to do
+the complete opposite. We're going to
+find out what people already want, what
+they're already paying for, and what
+they're not getting that's currently
+missing on the market. And then,
+>> [music]
+>> we're going to build that. All right.
+So, I'm going to open up ChatGPT right
+now. You can use Cloud, ChatGPT,
+whatever simple free tool here. And you
+can use any AI language model for this.
+I'm just going to give it a very
+specific prompt. Here's what I'm telling
+it. Research Headspace app reviews from
+the App [music] Store and Google Play.
+Find what users love the most, the
+biggest complaints, and features that
+they're requesting but they're not
+getting. [music] Wait, enter. I'm going
+to let this run. Now, look at what comes
+back. Let's get through this piece by
+piece because this is where the money
+actually is. First, what do users love?
+People love how simple the app feels.
+You open it, you press play, you follow
+along, 5 minutes, done. The barrier to
+entry is basically zero, and that's why
+people keep coming back. Simplicity is
+the number one thing that users mention.
+Now, let's look at the problems. This is
+where it gets very interesting. [music]
+Price is the biggest complaint. $69.99 a
+year or $12.99 a month for what a lot of
+users feel is barely basic content.
+People say [music] it's overpriced for
+what you get, especially when there free
+alternatives that exist on YouTube. The
+second complaint here is that the
+content is too generic. Users want
+sessions tailored to specific
+situations, not just general meditation,
+but specific content [music] for anxiety
+at work, or focus during studying, or
+confidence before a job interview. They
+wanted to feel personal, not like a
+one-size-fits-all library. And third,
+limited customization. Users can't save
+[music] their favorite sessions easily.
+They cannot build their own routines,
+and the app doesn't adapt to the
+preferences over time. Now, here's the
+part that should change how you even
+think about this. Even with all of these
+complaints, the price complaints, the
+content complaints, the customization
+complaints, Headspace still made 348
+million last year. That's almost a
+million dollars a day. That tells you
+something critical about this market.
+When you solve a simple daily emotional
+need, people will pay even if the
+solution is not perfect. Imagine what
+happens if you can solve it even better.
+And now we know exactly what better
+looks like because the users literally
+just told us. So, let me ask the AI one
+more thing. Based on this research, I
+wanted to generate app ideas in the
+mindset and personal development space
+that solves similar daily friction
+problems, but specifically addresses the
+gaps that Headspace users are
+complaining about. Now, look at these
+ideas. A focused affirmation app with
+category-specific content, a daily
+mindset coach with streak tracking
+[music] and personalization, a
+micro-journaling app for daily
+reflection. I'm going with the daily
+mindset affirmation app. [music] Here's
+why. It hits the exact gaps that we
+found. It can deliver niche-specific
+content, not generic meditation, and
+categories like productivity,
+confidence, and stress relief. It's
+simpler than Headspace, which means it's
+faster to build. And the content inside
+the app is essentially a digital
+product, short written content delivered
+daily, which is exactly what I've been
+teaching my students to sell for years.
+The only difference now is that instead
+of selling it as an ebook or a course,
+you're just simply packaging as an app
+with a monthly subscription. And that
+reframe is really important, because if
+you ever thought about selling digital
+products, this is the next evolution.
+The same new delivery method. Now, watch
+this. I'm not going to code anything.
+I'm not going to design anything. I'm
+opening up Base 44 and describing what I
+want in plain English. Here's exactly
+what I'm going to type in. Build me a
+mobile-friendly web app called Mindlift.
+[music] Just came up with that name. A
+daily mindset and affirmation app.
+Here's what it needs. A clean home
+screen that displays one affirmation at
+a time [music] with a swipe or a tap to
+see the next one. A category selector so
+users can choose what type of
+affirmation that they want. Can be
+productivity, confidence, stress relief,
+morning motivation, and gratitude. A
+daily streak tracker that [music]
+counts consecutive days the user has
+opened the app. A notification reminder
+setting where users can choose what time
+they want their daily affirmation
+delivered. A simple progress dashboard
+showing the current streak, total
+affirmations viewed, and favorite
+category. The design should be clean,
+minimal, and calming. Light color
+palette with soft blues and whites. The
+app should feel premium and simple, not
+cluttered. That's it. Now, I'm going to
+enter and I let it build. I'm not going
+to touch anything and the AI is now
+generating the front end, setting up the
+logic, connecting all of the features.
+Just watch. And it's done. Guys, look at
+this. Mindlift is officially live. Now,
+let me walk you through what it [music]
+just built. Here's the home screen.
+Super clean layout. Says good afternoon
+greeting at the top and Mindlift
+branding and right there in the corner,
+a streak counter. Day one, that's your
+daily habit tracker built in. Now, look
+at these category pills across the top.
+All productivity, confidence, stress
+relief, and if I scroll, morning
+motivation, and gratitude. Remember what
+Headspace users complain about at the
+constant stress through generic? Well,
+this solves that. Users can pick the
+exact category that they need right now.
+And here's the affirmation card. One
+quote, centered, clean, no clutter, a
+heart icon to save it, a refresh button
+for the next one, and a share button.
+Now, let me tap over to the progress
+tab. Four stats right here. Current
+streak, longest streak, affirmations
+viewed, and favorite category. And below
+that, a full category breakdown. This is
+the kind of data that keeps users is
+back because they can see their own
+consistency. And in the settings, daily
+reminders with an enable talk, users
+choose the reminder time. This is how
+you build retention into the product. A
+daily push notification uh brings people
+back every morning. And remember, I
+didn't code any of this. I did not
+design any of this. I just simply
+described what I wanted in one prompt,
+and Base44 built a working product. But,
+let's make it a little better. Because
+if I were actually using this app every
+day, there's one feature that I want,
+saving my favorite affirmations. Because
+when you read something that hits, you
+want to keep it, right? Right And right
+now, you don't have to screenshot it
+like some type of animal. So, let's fix
+that. I type one prompt into Base44, add
+a save to favorite feature. Every
+affirmation card should have a small
+heart icon. When the user taps it, the
+affirmation gets saved to a my favorite
+section that they can access at any
+time. The favorites page should display
+all saved affirmations in a clean list
+view with the category label next to
+each one. Users should be able to remove
+favorites by tapping the heart icon, and
+that's it. I let it rebuild, and look,
+it's done. Now, there's a favorites tab
+in the bottom navigation right between
+home and prayers. I tap the heart on an
+affirmation from the home screen. I go
+to favorites. It's right there, saved
+with a category label right next to it.
+Over time, this becomes your personal
+collection. The affirmations that
+actually mean something to you all in
+one place. And I added this with a
+single prompt in under a minute. And
+here's where most people stop. The app
+works. The features are solid, but it
+doesn't look premium yet. And the
+perception really matters, because if
+your app looks basic, people assume that
+it's basic, even if the functionality is
+actually really good. So, let's fix the
+design. I'll give it one more prompt
+here. Redesign the app with a premium
+dark mode theme. Use a dark background
+with soft gold or warm amber accents.
+Clean typography, the street tracker
+should have a subtle glow effect. The
+overall feeling should be luxurious and
+calm, like a high-end wellness app. Keep
+the layout minimal and spacious. Same
+features, just elevated design. Now,
+watch what happens. Look at this. Same
+app, same features, but tang, now this
+feels expensive. [music] Dark
+background, gold accents on the category
+pills, the street counter, the
+navigation icons, the affirmation card
+has this warm glow around it. The
+progress dashboard looks polished. Even
+the settings page feels premium. The
+reminder time picker, the gold toggle
+switch. This is the same exact product.
+No change in functionality, but the
+experience of using it looks completely
+different now. It looks like something
+that people would happily pay $9.99 a
+month for. Three prompts, that's all it
+took. One to build, one to add a
+feature, and one to make it look like a
+real premium product. And we went from
+nothing to a working app that's now
+ready for users. Now, let's bring this
+back to the business side, because
+building the app is only half the
+equation. Question is now, how does this
+actually make money? Well, let's do the
+math. If you charged $9.99 a month and
+you get 200 subscribers, that's just
+about $2,000 a month in recurring
+revenue. But, here's what makes this
+different from selling a one-time
+product. The subscribers [music] keep
+paying every single month as long as
+they're still using the app. You're not
+chasing new sales constantly. You're
+building a base that will compound. Now,
+think about what's inside this app. It's
+not complex technology. It's content.
+[music] It's affirmations. It's mindset
+prompts, daily reminders. That's a
+digital product, right? It's the same
+type of information that my students and
+I are already selling as ebooks,
+courses, coaching programs. The only
+difference is the delivery method. You
+see, Lila was a 21-year-old college
+student who made 7,000 in 30 days
+selling a time management digital
+product. Sean sold a digital product
+teaching people how to improve their
+romantic relationships, and he did
+105,000 in 4 months. None of these
+people were experts. None of them had
+any technical skills. They just simply
+packaged what they knew into a simple
+digital product, and then they just
+found people who needed that. Now,
+imagine taking that same type of content
+that they did, productivity tips,
+confidence frameworks, how to improve in
+their relationship with their
+significant other, but then package it
+into a monthly recurring product that
+charges $9.99 a month instead of just a
+one-time $27 ebook. Same knowledge,
+recurring revenue, though. That's the
+shift. And the best part is, you don't
+have to choose one or the other. You can
+actually do both. You can sell digital
+products and build apps. They're the
+same skill set. Finding what people
+need, packaging it into a solution. AI
+just gave you a complete new way to
+package it. So, where do you go from
+here? With Base44, you can take this app
+and deploy it as a web app immediately.
+Users can [music] access this from any
+browser device. If you want it on the
+App Store or Google Play, you take the
+code that Base44 generates and you
+submit it through your developer
+account. The hard part, building the
+product, is already done for you. You
+did that in three prompts. What used to
+require a full engineering team, months
+of development, and tens of thousands of
+dollars, you did in under 30 minutes by
+describing what you wanted in plain
+English. So, let me bring this all
+together for you. I showed you a $348
+million app. I showed you exactly what
+their users love and what they're
+complaining about. I showed you how to
+use AI, find those gaps, and then I
+built a working app from scratch in
+three prompts that solves the exact
+problems that the users are asking for.
+This is the framework. Find what's
+already working. Find what's broken
+about it. Build the fix. That's how real
+businesses get built. Not by inventing
+something that no one wants or asked
+for. By listening to what the market is
+already telling you, and then simply
+giving them a better version. And if you
+want to start building apps just like
+this, first thing you got to do is
+actually grab Base44 and sign up. So,
+I've added a special link in the
+description down below that's going to
+give you 30% off. You're not going to
+find this anywhere else. This is the
+exact tool I've used this entire video.
+So, click on the first link down below,
+get your 30% discount, and start
+building today. And when you do that, I
+also have a free gift I'm going to give
+you. I have a full step-by-step course
+that shows exactly how I scaled from
+zero over $10,000 a month selling
+digital products and apps. Normally,
+this course is $499, about 500 bucks. I
+want to get this course to you for free,
+completely free. The only thing I ask
+you to do is sign up for Base44, because
+one, you're going to need it regardless
+of what you do. But, secondly, when you
+sign up for Base44 with the first link
+down below, that $500 course is my gift
+to you. So, step one, all you got to do
+is click the first link down in the
+description, and that's going to take
+you over to the Base44 page. Now, all
+you got to do is click on the sign up
+option. It really doesn't matter which
+one of these you pick because at the end
+of the day, you're going to be building
+your own apps once you're actually
+inside and have a paid subscription. So,
+go ahead and sign up with your email. If
+you don't have an account with Base 44
+yet, you're going to have to click on
+that little sign up button. Then, it's
+going to ask you to verify your email.
+So, check your email and grab the code
+it sends you. And then, once you're in
+and you verify, go to the top right
+corner to actually claim your big
+discounts. Now, this discount is only
+available because you're actually coming
+through my special link, which is again
+the first link down below this video.
+Now, remember, when you sign up for one
+of the paid plans, any of the paid
+plans, you're going to get a full $997
+course for absolutely free. All you need
+to do is sign up for the first month.
+And don't worry, you're like, "I can't
+afford this for the next 12 months." You
+don't need to worry about that because
+as long as you just sign up for the
+first month, you're going to get the
+full course for free. So, you can see
+that there's this builder option, which
+is the one that I recommend. It's 50
+bucks a month, the cheapest one, biggest
+discount you sign up for the annual
+plan, which I'd recommend. But, if you
+only want to try out for the first
+month, feel free to use that. And if you
+still can't afford this, no problem. Go
+to the starter light version as you can
+see here. And this one here actually is
+only 20 bucks a month. For less than a
+fast food meal for two people, you get
+access to Base 44, an incredible AI
+software, and on top of that, a $997
+course for free. And to make this very
+clear, if you sign up for Base 44
+literally just the first month, which
+costs you $20, and you don't like it,
+that's fine. Cancel the subscription and
+you still get the Freedom Shortcut
+System for free and you get to keep that
+for lifetime. Now, once you've actually
+clicked on the button down below and you
+choose a plan, it's going to take you
+over to the payment page right here.
+Just put in your details and sign up.
+But, pay attention because in order to
+get the course, you got to follow step
+two. Step two is go to the second link
+below this video and you click on that
+link, it's actually going to take you to
+this page here where you got to put in
+the same email that you used to sign up
+for Base 44. This is to verify that you
+actually signed up for one of the paid
+plans, which Base 44 sends us all the
+information of the customers that up.
+And once that's done, if you use the
+same email and you actually bought base
+44 for the first month subscription, you
+will automatically receive in your email
+inbox course for free [music] within 90
+minutes. Now, why is there a delay?
+Because right now, if you can see right
+below, you actually have a VIP ticket
+for free to the AI masterclass that's
+going to be starting soon in the next
+few minutes. This is a masterclass where
+I break down before your eyes
+step-by-step how to build a $200 or $300
+per day business using AI with just a
+laptop or your phone. And on this
+masterclass, I even bring on guest
+speakers of top students of mine that
+have done anywhere from 10,000, 20,000,
+and even a one student that scaled to
+over $85,000 per month. Plus, we do a
+Q&A to answer all of your questions. So,
+sign up with the first link down below
+and then head to the second link in the
+description and click on that to
+register for the AI masterclass that's
+coming soon because that will be your
+onboarding kickoff workshop that will
+show you how to scale with digital
+products and base 44. [music] But, pay
+close attention. You will not get the
+$500 course for free if you do not first
+sign up for base 44. So, first, again,
+step one, click on the first link down
+below. It's a special link to sign up
+for base 44 and you're going to get 30%
+off when you use that link as well. And
+when you do step one, only then can you
+go to step two, which is tap on the
+second link in the description and
+register for the masterclass that's
+starting soon. And when you do these
+first two steps, step one and two,
+you're automatically going to be emailed
+the free course. And if you got value
+from all this, drop me a comment down
+below and let me know. Are you planning
+on building an app first? Doing digital
+products? And what do you want to see me
+cover in the next few videos? I read
+every single comment, so drop your
+thoughts down below. Take action on the
+two steps I just told you. Those are the
+first and second link in the description
+and I look forward to seeing you on the
+other side.

@@ -1,0 +1,848 @@
+[Music]
+Welcome to Agency Bites, a podcast for
+agency owners, hosted by agency veteran
+and coach Steve Gooberman. Agency Bites
+is a podcast focused on delivering
+actionable agency information from
+agency experts in about 25 minutes. Why
+25 minutes? Because who has the
+attention span for much more these days?
+And you can squeeze in a listen between
+meetings with time for a bathroom break
+or coffee refill before your next
+meeting. Welcome to Agency Bites, a
+podcast dedicated to helping creative
+entrepreneurs thrive. I'm Steve
+Gooberman from Agency Outsight where I
+coach agency owners to build the agency
+of their dreams. This week, my guest is
+Sean Johnston from Forge and Smith. Uh
+after running into the usual delivery
+bottlenecks that a lot of agencies
+experience, including burnout cycles at
+his agency, uh they built Refoundry.
+It's a low code WordPress platform that
+cut build times by 70% and helped his
+team scale without sacrificing quality.
+Now he's on a mission to help other
+agencies streamline delivery, boost
+margins, and build systems that actually
+work. And I'm excited to get into it.
+Sean, thanks for joining me.
+>> Uh, thanks for having me, Steve. I
+really appreciate it.
+>> Yeah. So, give me uh kind of the
+backstory on on uh the agency and you
+launched it and kind of what some of
+those uh hurdles that you experienced
+were early on. Yeah, we uh so we we For
+just grew out of my freelance career. So
+um I started freelancing about 16 uh
+years ago. Um and then uh it just sort
+of emerged from that. Not not by
+accident, but kind of organically. So uh
+so yeah, we've we've been building
+WordPress websites now for for 13 years
+in counting. Um and um you know, back
+when we started, WordPress development
+was all theme- based. everything had to
+be done in there and then advanced
+custom fields came out and that kind of
+changed the game. Um and then sort of
+things evolved from there but some
+somewhere along the way uh with the
+launch of things like Squarespace and
+Wix um customer expectations on the
+other side in terms of flexibility
+started to shift. um uh project budgets
+kept falling, costs kept going up and it
+started getting harder uh to turn a
+profit and and uh yeah about five or six
+years ago we started this process of
+productizing our offering and trying to
+find a way to spend less time with while
+creating sort of better results. Um and
+so yeah, the the end result was we
+needed to find a different way to do
+development and and I think we've I
+think we've done it. So yeah,
+>> along the way was your team delivering
+in a profitable way? Was were project
+deliveries
+uh you know like you mentioned
+bottlenecked and and log jammed and and
+frustrating or was like hey this is good
+enough but because the world is changing
+we've also got to change.
+>> Yeah. I mean the the first eight years
+um kind of sort of um uh you know we
+thought or at least I thought that the
+model here was um burn until you scale
+and then profit will come um and you
+know got ourselves in some in some some
+debt. Um I read a book that was actually
+super formative uh called profit first.
+Um, and that was sort of started this
+whole idea of like if I have to start
+from a profit first mentality and I
+created a limit on what my overhead can
+actually be, like how do I work within
+that? Like and and it really just came
+down to um, you know, spending less time
+doing repetitive stuff so that we could
+spend more time doing the the the actual
+strategy, what we're actually being paid
+for. Um, and so you know that started
+with systemizing our UX library. So
+starting with a consistent component
+library and then harmonizing those
+components with our build systems. And
+that that created some traction and
+proof and pro profitability. and that it
+was just it was just leaning harder and
+harder into that uh until we got to
+where we are now, which is, you know,
+being able to deliver projects in 70%
+less time than we used to from a from a
+development perspective and 30% less
+time overall. Um, and that has really
+moved us into a place of actual uh
+profitability. Um, which was which has
+been, you know, revolutionary for for us
+anyways.
+>> Yeah, that's a huge cut back 70%. uh I
+work with a lot of agencies who struggle
+to deliver websites whether it's
+Squarespace or uh Web Flow or WordPress
+or you know anything in a really
+profitable manner but like those are big
+margins that you've carved out and you
+reverse engineered it thanks to Mike
+Mallowitz profit first huge fan
+>> yeah love that but but it sounds like
+you're super like devout to it like
+let's start with the profit in mind a
+lot of a lot of firms will say all right
+profit first means I'm charging 30
+brand, I've got to put, you know, x%
+aside. And they're not really reverse
+engineering their scopes and budgets
+based on what they want to carve out for
+profit first.
+>> Yeah.
+>> That's that's like a a really clean way
+of doing it.
+>> Yeah. We found that actually we're we're
+charging enough. I mean, a lot of times
+we end up sort of charging what the
+market can bear, and that's based off of
+who we're talking to, what we're
+offering, you know, what the what type
+of leads we get within that spectrum of
+of um of pricing. Um, so a a lot of
+times you're you're charging enough. You
+don't you don't have a a cost problem or
+a pricing problem. A lot of people have
+a have a delivery problem or a systems
+problem. Um and that's that's something
+that we've um really dialed into over
+the last five years and and just you
+know iteratively improved um all of
+those friction points until we have
+something that is um you know there's no
+point in the process where we're we're
+reworking anything from a from a
+previous step. Um, you mentioned Web
+Flow. Um, that was that was when we
+really started taking a hard look at low
+code. Um, and you know, being a
+WordPress shop, WordPress is still the
+most popular CMS, runs 43% of the
+internet. We weren't we weren't ready to
+give up on it. But um we really saw what
+Web Flow is doing and what type of uh
+enablement that creates not only for the
+customers or customers and being able to
+do what they want but our our external
+team so that more people could get
+involved to remove developers from the
+bottleneck issue uh and from resourcing
+uh projects effectively. And that was
+really the the the uh the brainchild or
+the impetus point for what became
+refoundary was could we bring low code
+implementation like web flow into the
+the WordPress um world and uh we saw
+Gutenberg being an opportunity for that
+and and and that's that's sort of what
+we did. So yeah, if we always joked
+internally if if if
+uh if Web Flow and Figma could have a
+WordPress baby, it would be it would be
+Refoundry.
+>> It's an interesting vision. So why not
+what was other than WordPress owns, you
+know, a massive part of the internet and
+I think something like more than 60% of
+the top 100 visited websites are built
+on WordPress or like so they've got a
+massive foothold other than that and and
+ecosystem that's involved. Why not just
+jump to a web flow? Like what was the
+mindset behind building out your own low
+code product?
+>> Yeah, I mean I mean to some degree we
+had built a really strong reputation
+reputation in in uh in our area for
+being WordPress. Um and so you know a
+lot of our our leads and and referrals
+were there because of WordPress. Um so
+that was part of it. Um, I think the I
+mean the primary reason why we've always
+focused on WordPress is that it's it's
+trusted. It's understood. I'm not I'm
+not presenting a CMS to a potential
+client that they've never heard of. Um,
+and then trying to overcome that hurdle
+to convince them it's the right thing
+for them to do. Like, is WordPress the
+greatest CMS on the planet? Not really.
+Um, but I don't have to work very hard
+to to sort of present it to a client as
+a viable option. In a lot of cases, it's
+the only one they want to work with. So,
+um, so yeah, you're comfortable with it.
+It was just a question of like how can
+we leverage this trust and and and gain
+the opportunities that that low code and
+themeless oper uh implementations would
+create for us in a way that will allow
+us to focus on what people are actually
+there for, which is the strategy. the
+the design implementation of something
+they can that they can evolve and own on
+their own in in an empowered state. Um
+that that was why.
+>> Yeah. And I love that you you put the
+emphasis on let's spend more time on the
+things that are quote unquote more
+valuable like strategy and content and
+and conversion and not you know custom
+hacking away at some special feature
+that we can do on a low code version.
+Yeah.
+>> Yeah. Yeah. Like if if you look at an
+average project that we were spending
+maybe 250 300 hours on and you remove
+just the repetitive
+um development and sort of designing
+from a white screen um just unnecessary.
+There's only so many ways to structure
+content on the internet. We we all do it
+in similar ways. Um so just removing
+that we were able to cut you know easily
+100 to 150 hours of just repetitive work
+from each project. Um, so rather than
+just take that as profit and keep
+delivering the same way, what we did is
+we we reached that 25 30% profit margin
+we were looking for and then took the
+rest of that time and turned it into
+more content strategy up front, more
+copyrightiting to provide some support,
+more um emphasis on interactions or you
+know special um sort of design pieces or
+functionality that we didn't always have
+time to do profitably before. So, we
+were able to sort of take some of that
+profit and turn it to like a 20 or 30%
+increase in the overall quality of the
+product itself and the process that
+customers went through. And that's led
+to, you know, significant improvements
+in retention, um, referrals and reviews.
+Um, um, happier clients are better for
+everybody.
+>> Yeah. Yeah. Keep them longer. Are you
+guys niched in any industry or is it
+you're known for WordPress and that's
+kind of where you play? Yeah, WordPress
+in particular. Um, we're just sort of a
+well-known agency that focuses on that.
+Um, as far as industries, we've always
+been pretty agnostic. Um, it's a little
+boring to do the same sort of work all
+the time. So, um, we always say that
+good user experience is universal. So,
+we're really just interested in helping
+people understand the audience, tell a
+story, move people through that content,
+ultimately get them to convert. So we do
+we do a lot of nonprofit work. We do
+quite a bit of sort of professional
+service work. We um do a lot of work in
+education or research. Um some retail.
+>> Okay. Um the argument in you know that I
+get from a lot of agencies in the
+process of niching down is yeah we'll
+get bored if we just do higher ed or
+fintech or whatever. And that kind of
+same argument crossed my mind when it
+came to developers using low code. Was
+there any push back from your team as
+far as no, we love custom coding
+everything even though it shits all over
+the profits or
+>> Yeah,
+>> it it wasn't Yeah, it wasn't without its
+push back. I mean,
+>> and there's two sides to that question.
+There's like our own internal learning
+on a tool that we were building for
+ourselves and potentially for others. So
+there was some some pride mixed into
+that. Um but we're also working with
+other agencies on board Refoundry as as
+their um their build tool. So we we
+launched Refoundry as an official
+product in January and have have been
+onboarding
+agencies to sort of take the same
+journey that forged it. Um, and there is
+oftent times um, developer push back.
+And I think the the the message that we
+sort of delivered internally and and the
+message that seems to really resonate
+with agency owners that we're talking to
+is build tools aren't for developers,
+they're for your customers. Um,
+>> how you want to craft your CSS just
+doesn't matter. The market's moved on
+from from that sort of thing. you know,
+we have to really focus on ultimately
+how the product performs, how fast it
+loads, how much Google likes it, how
+well it tells the story, but ultimately
+uh how it empowers the customers to own
+that website going forward. They don't
+want to have to go through you. They
+want they like the option of being able
+to work with you to evolve things, but
+if they want to add a section to a page
+or change the colors of some buttons or
+update their typography, they they
+really don't want to have to go through
+you. Um, and if a low code
+implementation gives gives the customer
+that type of power, I will sacrifice
+what developers want every single day.
+Um, like we we want everyone to be happy
+and be a part of the same process. But
+ultimately agency success and client
+happiness is is really the main piece.
+>> And they go hand in hand. So if you're
+making your clients happy, the agency is
+successful.
+>> Yeah. Um yeah,
+>> but that leads me to wonder when you
+started implementing refoundry and
+cutting your delivery time by massive
+margins, did you let go of people like
+what happened to your team?
+>> Yeah, there there was a bit of churn. Um
+it was uh um you know, we were able to
+um we were able to deliver
+uh more projects with fewer people and
+less and less intermediate, more junior.
+Um and so uh some of the original
+intermediate level development team that
+was doing sort of the all that hand
+coding some some we moved to our
+engineering team to continue pushing our
+foundry forward. Um and some others just
+didn't want to build that way and and
+sort of moved on with our with our
+blessing. Um and you know it was just a
+natural part of the the evolution of the
+of the agency and how we how we deliver
+our work. So um so yeah there is you
+know if you're just looking at sort of
+the practical realities or the practical
+opportunities of running an agency um
+you know we're we we deliver on average
+maybe 45 to 50 websites a year um and
+that used to take a team of four
+intermediate developers and and that now
+takes a team of two uh junior front-end
+developers and a and uh it's just some
+engineering out output for some uh
+advanced stuff from time to time.
+>> Yeah. When you started to build out
+Refoundry or like I had the idea of it
+and mapping it out and building it and
+testing it and all iterating and things
+like that, was the idea of productizing
+it for other agencies there yet or was
+that down the road after like, hey,
+we've got something here. Maybe other
+people would want to use it. I mean, the
+original plan to some degree had been
+I've always taken a ton of inspiration
+about what 37 Signals did with Base Camp
+in particular. Um, was that the plan for
+the agency all along? Not really. But
+when when we sort of hatched this
+brainchild of of replicating what Web
+Flow was doing within the Gutenberg
+framework of WordPress, uh, and we were
+able to apply for and receive some some
+government funding to try that out. But
+once we reached a point where it's like
+this is actually going to work even
+better we thought it would um yeah then
+then the then the goal at that point was
+it was a path to productization and and
+launching uh SAS and sort of launching
+this product out of out of our service
+agency which hasn't been the easiest
+journey but it's it's been a lot of fun.
+So yeah it wasn't necessarily the
+original idea but it was like not not an
+idea either.
+>> Mhm. Yeah.
+>> Yeah. I think what uh 37 signals did
+with base camp inspired a lot of shops
+to be like hey there's thing that we
+want to build or there's a thing that we
+can't find a solution for let's build it
+>> right and that's kind of what what their
+their I guess methodology was but they
+got completely out of the service space
+and focused on building software
+>> yeah they did yeah that's right yeah
+>> so is is that the path forward for you
+or are you going to stay in the you know
+client service space as well
+>> uh I mean yeah time Time will tell. Um I
+think uh I mean for me personally, I've
+been doing service work now for 16 17
+years. Like I I would enjoy a change of
+pace, but um you know, Forges Smith is
+it's my baby. I've I've poured my heart
+and soul into that thing for a long
+time. So no, I would I don't I don't
+think I'd ever be happy with it just
+disappearing. Um, I' I'd love to be able
+to um have that continue to to live on
+uh under team leadership. That's a part
+of what we've been doing for the last
+year and a half is just slowly
+transitioning day-to-day operations uh
+and leadership to the team and and away
+from from me. And that's that's been a
+very cool process allowing uh me to take
+up less space so others can can take up
+more space and and learn together. So
+yeah, ultimately I'd be pretty sad if it
+disappeared entirely. Yeah, I love that
+from just like a leadership point of
+view of like how can I back out so that
+there's a void that other people can
+kind of fill into and it doesn't need to
+be all about me as the head of the spear
+or you know leader of whatever and and
+let other people take the charge and act
+in a creative role or elevate them to
+you know CEO or whatever at some point.
+>> Yeah. I mean we've got a a really good
+leadership team. I've worked with some
+of them for 10 11 years. Um and so they
+were they were sort of ready to take on
+um more and be a part of larger
+discussions. It was daunting at times.
+Um
+>> sure,
+>> you know, doing it as long as I have,
+you know, I'm a source of easy answers.
+So, um you know, sort of weaning them
+off of easy answers and and and
+encouraging everybody to work with each
+other to come up with their own answers.
+um has been
+been a lot of coaching, a lot of
+mentoring, um a lot of reviews. We're
+actually very focused on a lot of touch
+bases, a lot of uh conversation, a lot
+of reviews, a lot of that kind of
+collaboration and and it's yeah, it's
+been
+>> it's been it's been an interesting
+process and it's been ultimately quite
+quite successful. Um yeah and and that
+that has a lot to do with uh sort of
+this unknown or unexpected uh
+improvement that low code has sort of
+provided our internal agency is that it
+moving a project along now can go
+through several streams. It doesn't all
+have to go through one technical stream.
+And so that really opens up multi-team
+collaboration through a process even
+late stage processes or even being much
+more receptive and and and open to late
+stage changes because you know you can
+create large change within a project
+without a ton of effort um and it
+doesn't all have to go through through
+technical uh individuals. So that that
+itself had already started a lot of
+multi-team collaboration. So this sort
+of transition was a natural extension of
+that.
+Does does your team still go through
+like the Figma design wireframing
+process or are you doing it all in a
+browser or how do how does your how has
+your process uh and your internal
+systems you know kind of changed and
+refined other than just like here's a
+new way to to build out?
+>> Yeah, I mean I think you're always
+limited by the expectations of of the
+customer and uh and their ability to
+sort of understand what they're looking
+at. Um, as much as I absolutely love the
+idea of doing things in browser, it's a
+slightly messier and much more sort of
+sprintbased iterative way. And I imagine
+there would be a way for that to work.
+The types of people we tend to work with
+um are a lot of in-house teams, uh,
+marketers,
+um, those sorts of people. They're not
+high tech, so it's harder for them to
+um, visualize and and the executive
+decision makers or sponsors behind them
+find it even harder. So, so yeah, we're
+still delivering um sort of highfidelity
+in browser mockups through Figma. I
+think I think everybody at this point's
+using Figma. Um brilliant tool. Um so,
+so yeah, what we have is um a UX library
+of components, very kind of Tailwind
+style. Um and those components actually
+pre-exist in Refoundry as well. So,
+we're working with the same modularity.
+Um uh and then design freedom is is
+encouraged. So uh the UI expression of a
+brand is is not really um structural.
+It's just space, content, and color. Um
+you can you can adjust those levers all
+you want without gen, you know, greatly
+affecting the framework underneath it.
+And so creating sort of a flexible
+framework that allows us to move through
+content strategy into UX into design and
+to build. Um it's that underlying
+acceptance across all teams that we're
+working with common language and common
+structures because we all believe that
+these are the best these are the best or
+most effective strategies. But having
+enough flexibility for that to be
+presented or expressed in a way that
+gets customers uh or our clients
+excited. So, it's it's finding a way to
+do both things uh without assuming that
+the way to do that is starting
+everything from from scratch cuz that's
+that's just unnecessary.
+>> And the fact that you you know your
+client base so well that you know this
+is how they receive information that
+they're they can't visualize. A lot of
+designers think, oh, they'll they'll be
+able to, you know, see what this is
+going to look like. No, you've got to
+actually show them and you guys kind of
+figure that out. Yeah. Um, was that part
+of your process of how do we refine time
+to for delivery is knowing really what
+the clients need to receive this as?
+>> Yeah. And actually um augmenting that or
+expanding the time we spend on that. Uh
+it was one of the areas that we were
+able to a lot more time to because we
+spend less time on stuff happening in
+the back the clients don't see. Um, so
+we now mock up all of the pages so they
+can see everything and we allow for a
+level of customization across different
+stories. So like you know there's
+there's sometimes just because you have
+to that in like secondary or tertiary
+pages get quite templated. Um, this
+allows us the freedom to to spend a
+little bit more time giving things a bit
+of uniqueness. Um, and then uh extra
+layers like like actual homepage mockups
+or or sorry mobile mockups. um where
+they can really see at least their
+homepage at a phone view so they can
+have a little bit of preview of that and
+then interaction guides actually being
+able to animate in Figma the way buttons
+should work or how different things
+should work. So you can kind of get
+those layers of polish that you're able
+to solve up front up front through um
+interactions with the client rather than
+later in the process when they're
+looking at a built site and and that
+stuff's harder to affect change with. So
+yeah, so expanding the design and
+strategy documentation was one of the
+one of the big wins because now now
+we're just executing something they've
+seen in its com completeness rather than
+over relying on the need to um visualize
+what a final product should look like
+and then having them be unhappy with
+that final product.
+>> Yeah. I listen I I got to give huge
+props to you, your team for taking this
+leap because it's an investment of time
+and sure you got some some I think
+federal grant funding you said or
+payback funding or something like that
+but agencies that are nimble enough that
+can commit to how are we going to see
+things changing whether it's you know
+low code through what you guys are doing
+and and seeing the impact of the web
+flows of the industry to now what AI is
+doing if you're not doing something like
+you guys are doing at Smith and Forge to
+stand out, to make it easier for
+clients, to to grow client retention, to
+increase profitability, chopping blocks
+are inevitable. And especially like in
+the next year or two, so many agencies
+are just going to
+>> they're just going to get cut down. And
+so you found a way to optimize delivery,
+optimize team performance, and increase
+profitability. And those are some of the
+biggest challenges that agencies face.
+>> Well, and it's it's increased our
+flexibility as well to continue to
+adapt. Um, and I think that that that
+right there is the part that I'm most
+excited about is that like even right
+now we're looking at ways of sort of
+integrating AI to sort of help deliver
+content delivery or content faster.
+We're working on a new tool that allow
+us to ingest a a client's content and
+sanitize it and structure it to speed up
+our own um information architecture
+process by by removing this pain and
+staking process of taking a lot of
+content from where it is and refactoring
+it for where you need it. So um you know
+you wouldn't you wouldn't be able to
+sort of try things and and implement new
+to new new tools and continue to evolve
+if you are still sort of in a structured
+overly hard-coded space of doing things
+in these time inensive ways. There was a
+an experience I had early in my career.
+Uh so I started in print. You remember
+when PDFs were invented?
+>> Sure.
+>> Um it was the early 2000s. Uh, so at the
+time I was working at a national
+retailer, electronics retailer here in
+Canada. Um, they were called, uh, Future
+Shop. Uh, Best Buy bought them. You guys
+know Best Buy. Um, and, uh, I was
+working in the flyer department. And so,
+uh, we we'd sort of create all of the,
+uh, the flyer layouts and application
+called Cork Express, if you remember
+that one. Um,
+>> loved Cork Express.
+>> Set that off to uh, pre-processing. So,
+at the at the print shops, they'd have
+this elaborate pro pre-processing
+process they would go through where
+everything would have to get split into
+film and then burned onto plates and
+then it was just this whole thing. PDFs
+allowed overnight um directto plate
+printing. Um and so the print shops that
+had bought the right equipment to adapt
+to this change in technology continued
+on. The ones that said, "No, we're going
+to stay with this way. We enjoy the
+craftsmanship." They didn't make it a
+year. Um, and for me that was like a
+really formative experience of seeing
+all these people that I had been working
+with just lose their jobs in a span of
+months. How fast technology can
+sometimes change things and you really
+have to pay attention to where the wind
+is blowing and and and sort of move with
+it because you're you're not going to be
+able to change it. You just the best
+thing you can do is is to try to evolve
+with it and and and stay ahead
+>> and and the key to that I think is being
+nimble, right? So print shops and I
+remember that I was you know in the
+print space at the time you know they
+needed to have you know the foresight to
+say all right yeah direct to plate is
+going to be the way to go and then and
+then direct to digital is going to be
+the next way to go and so how do we put
+the infrastructure in place that allows
+us to change and um you know get rid of
+the dark rooms. Yeah.
+>> Yeah. And there were sort of like two
+primary things that I learned through
+the process. One is just not being
+afraid of change. Like just trying
+something like change doesn't have to be
+a scary thing. As long as you manage
+that change, you stay transparent. You
+kind of get everybody bought in. Um but
+being okay with the fact that not
+everybody's going to like it and and
+that's okay, right? The the needs of the
+business and the greater part of the
+team and how you deliver to the
+customers and how how much runway you
+can give yourself to continue doing the
+work you love doing, that's what
+matters. And there are going to be some
+people that say, "I don't agree." Um,
+and and that's okay. They're going to go
+on their separate way. Um, and and the
+ones that that that that get it with you
+are going to be that much more uh
+engaged with with taking those next
+steps. And those types of team members
+as you're making these changes are the
+ones that you want to focus on and and
+the ones that um want to take a
+different path is it it's totally fine.
+But but just being okay with the fact
+that uh you you just can't make
+everybody happy all of the time.
+>> Yeah. Poignant lessons. Uh it sounds
+like you learned them early on and you
+kind of kept them dear to your heart.
+>> Uh folks, check out ref reoundry.io.
+Um there's a demo video there. I mean,
+you know, you guys have launched a ton
+of websites. So your Forge and Smith
+portfolio is primarily built upon
+Refoundry now. So
+>> yeah, we're launching our 100th website
+on Refoundry this month actually. So,
+um,
+>> super exciting.
+>> Very cool. All right, let's wrap it up
+with a couple of, uh, random rapid fire
+questions that my robot delivered to us.
+The first is, if you could instantly
+master any nonwork skill, what would it
+be and why?
+>> Nonwork skill. Oh my god, work is my
+special interest. Um,
+pottery. I have always loved the idea of
+learning how to pot. Um, it just seems
+like such a neat skill to have, but you
+you just Yeah, pottery. Yeah,
+definitely.
+>> Yeah. Fun. My fiance's been doing
+pottery classes at a local studio.
+>> Oh, fun. One day.
+>> one day.
+>> Do it. There you go. One day. Uh, what's
+a lesson you learned the hard way that
+still shapes how you show up today?
+Um, yeah, it's
+I think that the the hardest lesson I
+learned is that um sometimes when things
+aren't working out the way you want,
+you're the problem, not other people.
+Um, and really learning
+learning the ways that that I as a
+neurodiverse people uh person um receive
+information, understand that
+information, and then convey it back to
+other people. um uh just slowing down
+decision-m and responses to thing to
+give your time to yourself time to sort
+of process it um is often a lot better
+than reacting and answering too quickly
+and regretting it. So um yeah, that was
+definitely like if you really need to
+respond to that email right now, just
+leave it in draft, come back to it
+tomorrow. I promise me I promise you
+you're going to feel differently about
+it.
+>> Yeah, I love that. This last one is uh
+indicated that the robots are listening.
+So uh when did you realize you had to
+productize or systematize part of your
+agency and what shifted after you did?
+And I mean you've already talked through
+that but if there's a way to sum that
+up.
+>> I did. Yeah. The key the the first time
+was when when I had we had a a a bonfire
+of a project um at the time when custom
+meant locked in and I had uh two team
+marketing group uh in-house marketing
+team uh two ladies and they were just
+beside themselves with this we spent 30
+grand on a website and you're telling me
+I can't do whatever I want. I can do
+whatever I want on this Squarespace
+site. And I was like, "What the hell is
+Squarespace?" Um, it was in that moment
+I was like, "Something is changing out
+there and I need to understand so that
+we don't get don't get lost in this." So
+that that's when I knew that that uh
+custom had to mean had to mean more
+flexible, not less flexible. Yeah.
+>> And and they can coexist and you've
+proven that. So I love that
+>> they're not mutually exclusive. That's
+right. Any any well ststructured system
+can scale to anything. And that's we've
+we've used your foundry to build 15 page
+websites and 50 posts 50,000 post
+behemoths. Like it's any any any system
+can scale if it's if it's built for
+>> Awesome. Sean, appreciate you joining us
+sharing your trials, tribulations,
+successes, challenges, things that
+you've overcome. Uh folks, again, check
+out Smith and Forge, check out
+refree.io.
+Um reach out to Sean and book a demo.
+So, thank you for joining me, man.
+>> Excellent. Thanks, Steve.
+Thanks again for tuning in to Agency
+Bites. If you know someone with expert
+knowledge on a topic that agency owners
+would love to hear about, go to
+agencyoutsite.com/mpodcast-est
+and nominate them.

@@ -1,0 +1,353 @@
+today learn how to make hyper realistic
+fur in under 15 minutes
+and trust me when i say it's a whole lot
+easier than you think
+and sponsoring today's video is
+skillshare the place to learn a new
+skill set
+heading into 2020 with classes on music
+photography design freelancing and much
+much more
+it's bound to be something there to
+trigger your creativity and something
+that can provide
+vital skills learn more about how to
+grab a skillshare premium membership
+later in today's video now next week i
+have a video coming out about the future
+of graphic design
+and in that video one huge part of the
+future in this industry is going to be
+3d design
+so blend is free to download and with my
+step-by-step method
+you will learn something awesome in
+today's video
+so let's get cracking and in blender
+press shift and a
+which is the command to add something
+and let's grab a uv
+sphere now turn on the shortcut vui
+and don't worry about these icons here
+your screen should probably only have
+around about three
+but for now come into the renders
+properties menu here
+and make sure you are in the cycles
+render engine
+now the cycles engine is going to be
+more simple for this kind of 3d
+realistic fur today
+although however the cycles render might
+slow down your machine
+so let's move the render down to 12 and
+also the viewpoint to 1.
+you could max them out to around 24 and
+12 but for the example today let's just
+stick with this
+so with the sphere selected come down to
+where it says particles
+and we're going to add a new particle
+system like so
+so this is my particle system and yours
+will probably have a different value
+attached to it
+but just be concerned about coming down
+here and pressing hair
+and this is going to offer us a really
+basic starting point with the fur
+or the hair for our design
+so from here check the advanced box and
+then come down to where it says
+source and then we want to emit from
+volume
+here in this box on the right
+this is going to add some more
+randomness to the length of the hair as
+you can see here
+you can also do something like turning
+off the even distribution
+but i think it's probably gonna look
+better if you keep that check today
+we can also come down to the velocity
+menu and make things a bit more random
+by cycling the randomizer here
+this is going to be subjective to your
+style and your design of course
+so now look down to physics forces and
+in the brownian menu
+and this is gonna let us twist our hair
+a little bit and it's gonna make things
+look unruly or kind of unkept
+if you're talking about a hairstyle but
+let's go ahead and give it a slight
+modest twist and again this is going to
+add some interest to our design
+also up here in the admissions menu we
+can change the length of the hair itself
+again this is totally going to be
+subjective
+so now come down to viewpoint display
+and also to these strand steps
+the more steps you add the more kind of
+kinks and curves that will be in each
+strand of hair
+and if you do jack this number up it's
+going to slow your computer even more so
+so just be aware of that
+so for today's fur design come down to
+children and we're going to use the
+interpolated
+option and this is really going to fill
+out our hair
+so we've kind of got a snow white sphere
+of hair at the moment but we want to add
+some color
+the actual style of the hair is far from
+finished but let's just add some color
+at this point in the tutorial
+and to add color we need to come down to
+the material properties menu
+here and we're going to add a new
+material and give it a name relevant
+something like
+hair color
+so now come up to the shader workspace
+and let's turn off our viewpoint
+all i did there was change my viewport
+shading to be material preview
+you can navigate out of the camera by
+clicking this button here
+or you can use a middle mouse button if
+you do have one
+so to add the color come down to the ui
+here and kind of hover your mouse around
+in the left hand side
+and then press that shift a command to
+add something and we're going to add a
+texture which is going to drive
+two colors into our design so give a
+search of muzz
+grave and you should just type in mus
+and it should appear up in the box
+so drag the height value into the base
+color and that should give you a kind of
+black and white look
+as of now now the contrast between the
+black and white is too stuck
+for my liking so we can bring down the
+detail which will
+smoothen out the contrast between those
+two colors again this is going to be
+subjective to your design
+but i like to have it just above zero to
+be honest
+and of course you can play with these
+other settings too for your design
+but now press shift a again and give a
+search for a color
+ramp
+and with a click held down on your mouse
+drag this color ramp around
+until you see this white line illuminate
+brightly and then release the click
+and so now you should have some more
+control over the colors of the fur
+seen up here
+for your design you want to pick two
+colors that you think will work well
+together and will have a kind of
+interesting blend
+and if you see the movie monsters inc
+i'm kind of going for something
+similar to sully in a way and you could
+use more than two colors of course but
+we're just gonna use two for now
+so for my design i'm gonna go for a kind
+of pinky purpley kind of
+approach the aim of the game in this
+section of the video is to kind of
+balance your colors and spend time
+really finding that nice contrast
+between everything going on
+you can also come over back to the
+detail section and you know reset things
+a little bit if it's
+not showing up properly in terms of the
+contrast
+what we need to do next is to position
+the camera that will resemble
+or give focus to the final render so
+grab the camera and then go into the
+camera mode
+and then press n on your keyboard and
+come into view
+we're going to want to lock the camera
+to the view and then you can just zoom
+in or out as you would with the mouse
+button
+once you're happy with the view and do
+make sure you're happy with it
+uncheck the camera view lock button
+remember you can also use this button
+over here to come out of the camera view
+we are not finished yet of course but
+let's give this a test render very
+quickly
+oh another thing i should note is that
+under the denoising menu
+you want to check the render denoise
+so let's press f12 and let's give this a
+render
+and you can see the progress bar down
+here in the bottom right
+let's check the render progress up here
+and we are getting a pretty nice render
+actually
+we have two different colors going on
+and we've got some detail in the kind of
+strands of the fair
+but we can enhance this further i'm
+going to do that by playing with
+lighting values
+lighting values are very crucial for 3d
+design and especially for things like 3d
+fair
+so let's come back to the layer first
+we already have a sun lamp right here
+but let's remove that
+press shift a again for that command to
+add something and then navigate to light
+and then let's grab a sun
+yeah raise it up a little bit and then
+move it around says pointing towards the
+object
+if you want to see the true result of
+the lighting you have to come up to
+viewport shading and that's going to
+show you the result of the lighting
+another way you can change the lighting
+in blender for this design would be
+coming over to the
+environment texture and we can change
+the
+world color here this is going to add a
+bit of ambience to the whole scene
+and i'm going to add a little bit of
+blue light
+so with the light selected i can come
+into the data properties here
+and i'm going to choose a bit of an
+orange hue which is kind of
+complementary to the
+blue world color and that will add some
+interest to your final render
+so let's jump into the camera view and
+see what it's looking like and of course
+on screen
+this isn't the proper render and how
+it's going to finally look
+we can increase the like strength here
+and i'm going to do that by a factor of
+25.
+25 is pretty over the top so let's drag
+it down to something like five
+and there you go that's looking really
+nice and crisp around the edges
+especially
+again this is something you probably
+want to play around with in your own
+time and it's
+something that can really make or break
+your design
+what i can actually do again is
+duplicate this sun and that's with shift
+and d
+and then i'm going to use the move tool
+to actually move it to a different
+position
+yes the real world doesn't have two suns
+but i want to get a kind of backlight
+which is going to
+you know illuminate different parts of
+my design in more interesting ways
+i'm going to point this new duplicated
+sun kind of into the camera itself
+and to add some more contrast in the
+lighting let's you know reduce the
+strength of this one down to about one
+or something around there
+also changing the color ever so slightly
+will help as well with the final effect
+but let's go ahead and add a third light
+and that's going to be a
+point light and use that keyboard
+shortcut of shift a
+point lights are really good for adding
+a kind of focal point
+or highlight onto an object
+i'm going to jack up the power here to
+about a thousand which will ever blow it
+then i could change the radius which
+will soften that light
+you also want to play around with the
+positioning of this point light as well
+if we change the color of the point
+lights the hair is going to pick up
+that color in kind of interesting ways
+so let's go for a bit of a blue tone
+today
+so you can press function 12 to render
+or you could just come up here at the
+top
+and now that render is looking a lot
+more complex more interesting and also
+more detailed
+so like i said graphic design is moving
+into interesting areas
+and in the next two five ten years 3d
+design
+and 3d animation as well is going to be
+a huge part of
+what makes up this industry if we fail
+to adapt
+we're not going to succeed in this
+career and yes 2d design
+is still going to be relevant but i
+think if you can learn the 3d design
+you've got another skill set
+under your belt making today's video
+possible is skillshare it's the online
+learning community where millions of
+creatives come together to learn new
+skills
+and to excel their careers or their
+hobbies into 2020. i'm actually learning
+how to
+create 3d and 4d animations through
+skillshare so it's really easy to
+integrate skillshare
+into your day-to-day life and you guys
+will probably see some tutorials around
+three or forty
+animations on this channel when i do
+perfect and master those skills
+it's something i've wanted to learn for
+a long time but i've never really had
+the time to do it now you can grab a
+premium membership to skillshare for a
+limited time as a free trial
+and that's going to lead you to learning
+a new skill set in your desired field
+so join skillshare today and learn some
+new essential skills for your career or
+your hobby
+heading into 2020 so i hope you enjoyed
+today's video and i hope you enjoyed
+making
+this 3d fur design let me know if you
+want to see more tutorials in blender
+and what you'd like to see
+but until next time guys design your
+future today peace
+you

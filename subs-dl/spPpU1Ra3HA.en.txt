@@ -1,0 +1,1651 @@
+Steve Roll, welcome to the show, man.
+>> Corey, thanks for having me, man.
+>> Absolutely. Well, Steve, why don't you
+give the folks a background on who you
+are and what it is that you do and then
+I'll go into briefly how you and I got
+connected for the first time.
+>> Yeah. Well, my career got started 10
+years ago and I started off in the
+military. I'm a civil engineering
+graduate, so I understand that world by
+trade. I've never actually used it
+outside of the military. And so after
+the military, five years in, I had
+already started my journey of
+entrepreneurship from a recruiting
+startup to getting involved in Amazon
+very early on. The Amazon business took
+off, not the one I thought was going to.
+And that propelled me into a career in
+soap of all things, selling hospitality
+soap. Thank little soaps and shampoos
+for hotel rooms. I spent the last seven
+years of my life dedicated to
+hospitality soap. as boring of an
+industry as it is, but I found a lot of
+excitement in that and building a
+business inside of that. It was all
+e-commerce up until 2022. And then my
+company was acquired and merged with our
+supplier. And then I served as CEO of
+that company, serving both the B2B side
+and hotels directly through distributors
+and then still focusing a lot on
+e-commerce for two years. left that to
+go start my management group and
+ultimately have started hotels soap.com
+in about 6 months ago. But the idea has
+been stewing for 18 months for the next
+generation of where my boring soap
+industry is going and then ultimately
+right now getting involved in the
+private equity side of the house. But
+that's been my short 10-year career and
+I got a lot more in front of me. Well, I
+love your background and I love the fact
+and you and I were talking offline
+before we hit record that you went into
+an industry that most people would view
+as not being sexy, right? Hotel soap of
+all things and you're doing a lot of
+cool things to apply AI and apply
+technology on the back end to an
+industry that like we said is pretty old
+school from what I understand. So before
+we talk about how you're implementing AI
+and bringing that industry up to 2026
+and beyond, you and I originally got
+connected, was it through I think we got
+connected through LinkedIn. Is that
+right? Or maybe it was through Twitter.
+>> Through Twitter, one of those two
+probably a year and a half ago,
+something like that.
+>> Yeah. And what really drew uh me to you
+is that so on Amazon Twitter, Amazon
+LinkedIn, which is where we originally
+got connected, there's a lot of people
+on in that world that I don't want to
+say elementary cuz I don't want to sound
+like I'm talking down to anybody, but a
+lot of the people talking in that space,
+they're just they're more casual
+business people, right? They're flipping
+things on the side for quick cash. They
+don't know what a P&L looks like.
+They're they're just newer to business.
+But then you came on the scene and you
+were talking about how you had built
+this huge like I think what $50 million
+in sales soap business and you were
+actually primarily focused on uh Amazon
+B2B as far as I understand. So that's
+how you initially came on my radar and I
+thought it was super interesting and I'm
+glad that we were able to connect for an
+actual interview. So let's talk about
+how are you implementing AI into the
+soap business? Like how do those two
+things are completely opposite ends of
+the spectrum? How do they work together?
+>> Well, there's a lot of elements there
+and I want to unpack a piece of uh the
+background first because if you don't
+understand how the soap industry works,
+it's hard to see where there's benefits
+in incorporating AI into it. So, at a
+base level, the soap industry operates
+from you have manufacturers, you have
+distributors, and then you have end
+users. And so the majority of the soap
+that goes to a hotel to anyone who's
+buying at vacation rental management
+companies is coming from these middlemen
+distributors. And I have long made it my
+mission to eliminate middlemen from the
+system. I think markets get more
+efficient over time and distributors are
+the ones that need to leave when it
+comes to this industry and most of the
+supply industry altogether. That being
+said, that's the way it operates today.
+And so as a manufacturer of that and
+that's where we operated. The question
+is how do we acquire customers? Well, we
+would acquire customers by acquiring
+distributors as customers and then those
+distributors already had enduser
+customers. So Amazon changed the game on
+that fundamentally for us because it was
+the first time that a manufacturer could
+bypass a distributor and have a huge
+ecosystem of customers to go after.
+Right.
+>> And so from 2017 to 2024, I really
+focused heavily on that. And then during
+my time that I was CEO of the business
+and I'm learning this world of the B2B
+side, I would ask these questions of
+okay, so we go and sit at a trade show
+like our marketing budget is trade shows
+and samples and we send those to
+distributors and then we hope that they
+go and grow our business. I would
+frequently ask as I was onboarding into
+the CEO position, hey, how does our
+business grow? And like, well, that's
+not our job. Like, what do you mean it's
+not our job? Manufacturers don't grow
+their own business. Manufacturers work
+with distributors. The distributor goes
+and sells your business. I go, "Oh,
+that's cool. Are we at least exclusive
+with them?" Well, no, we're not
+exclusive with them. They also sell
+other people's stuff that in the same
+category that we sell. And I'm like, how
+does that make any sense at all?
+>> Yeah. when we are the best ones at
+selling the thing that we make to the
+end user, but we never talk to the end
+user and there's a middleman that's
+brokering between five different brands
+and one of them is ours and we hope that
+they go and sell it.
+>> So, you have this really old school
+industry that like I you not,
+there's still fax machines involved in
+this industry.
+>> Orders are happening over email. Orders
+are happening over the phone. Orders are
+happening from the salesperson. Not like
+the salesperson's on an iPad putting the
+order in. the orders coming from a
+customer to a salesperson who then calls
+the office and says, "Hey, can we send
+over 14 cases of this skew over to this
+customer, that's the processes that are
+there in the system today." And this is
+not a one-off. It's how the industry
+operates. So, it's extremely extremely
+old school.
+>> And so, one of the things that I noticed
+is that there was a lot of resistance to
+change inside of that system. you start
+asking well where can you input AI into
+a system like this to make things more
+efficient the easiest one to go to is
+looking at customer acquisition
+>> because when you think about the reason
+we can't go around the distributor to go
+to the end user is because well we don't
+know how to acquire the customers
+because you got to walk into every
+single hotel physically to do that. Yeah
+people know you can send an email out
+but how do you send a targeted email to
+everyone? How do you capture their
+attention in email get them to call you
+back? And so we found ways to use AI for
+customer acquisition. And we can unpack
+that a little bit more. The bigger piece
+of it though is most hotels you go to
+either have some really nice brand of
+soap that you've heard of before or they
+have their logo put onto the soap. So
+you know that there's a thoughtful
+experience coming from someone that
+curated this just for you. Very in tune
+with hospitality. Well, the problem with
+custom is that everybody wants it, but
+no one wants to put up with the minimums
+that the manufacturers, whether it's in
+America or China, are requiring you to
+do. So, if you want a bottle of shampoo
+with your logo on it, you're probably
+talking about ordering at a minimum
+2,500 bottles. Now, there's some big
+hotels in America, but how many of them
+need 2,500 bottles of just shampoo? So
+there's a fundamental problem there to
+meet theQs required for them to go
+custom on their own. And so I started
+asking the questions as I was leaving my
+old company and starting hotel soap.
+What would have to be true for everyone
+who wants something custom to be able to
+do it with the minimum order quantity is
+not 2500 but it's one cuz if you can
+solve it for one then a hotel that needs
+350 a month like we can make that
+happen, right? And it's not just the
+shampoo, it's the lotion and the hand
+soap and the body wash. They're normally
+buying all those together. And theQou
+applies to all of those individually.
+So, it's priced all the small guys out.
+And you look at the Marriotts and the
+Hiltons that have done this across a lot
+of different hotels. Of course, they can
+go and buy in bulk. But what about the
+independent hotel that can't do that? Or
+a market that no one thinks about very
+frequently, the vacation rental
+management company, right? who has a
+hundred doors and they'd love to grow
+their brand and give the consumer
+something more thoughtful as well, but
+they're forced to go to the old school
+industry of well, the manufacturer sold
+stock lines to the distributor and you
+must buy that distributor's stock line
+because they already have cases sitting
+in their warehouse ready to go,
+>> right?
+>> Distributors don't really want to sell
+custom because they want to move and
+turn over the inventory that they have
+in their current warehouse. And so when
+you start thinking about this system of
+making it better for the consumer, where
+does AI play a role in this? Well, it
+starts by us first building a platform,
+having our own software to do a 3D
+design of whether it's a tube or it's a
+bottle so that you can show them what
+it's going to look like and use the
+screenshot of that to capture their
+attention.
+>> Right? So, if you've got your email
+system going out, can every single email
+that goes out have a way to capture
+attention by saying, "Hey, here's your
+logo already put onto a bottle or a
+series of bottles to capture your
+attention and make you want a little bit
+more about what we're doing here and
+then sell you on the back end of that."
+So, we first had to have the software
+built to do that. We ended up
+repurposing t-shirt software to make
+>> I was going to ask, did you did you
+build your own software for that or did
+you use something off the shelf?
+>> Yeah, it's a great question and I'm not
+a tech guy at all. Um, I've got one that
+I work with who's a part of our company,
+but we found it was much easier for us
+to repurpose somebody else's software,
+and there's so much print on demand
+that's already out there, but nobody was
+trying to solve it for a bottle. Like,
+who would think of like, why would that
+make any sense,
+>> So, we repurposed that, made a 3D model
+of all the bottle styles that we have,
+and then input that into our website.
+So, here's where the AI component comes
+in. Of course, everyone thinks about
+doing AI designs and just saying, "Hey,
+here's a company's logo. Design me a
+bottle for this instead." Like, that's
+all well and good. Chat GPT agents is
+where the game changed completely for us
+because now we were able to take the
+chat GPT agent
+>> and put it inside of the software that
+we made on our website and literally
+have it go to a customer's website, grab
+their logo, grab their branding, come
+back on, and then do a design in our
+system. keeping in mind it doesn't have
+to be perfect because I'm not making a
+final design for them. My goal is just
+to capture their attention,
+>> And so the agent is already good enough
+to do that to go and grab a background,
+change the logo, take a screenshot of
+it, then input it into an email that
+goes out to a customer. And that gives
+you I'm I'm abbreviating this, but it
+gives you a full cycle customer
+acquisition process that we already
+know. Emails that come with a screenshot
+embedded that shows the customer's logo
+put onto a bottle perform about 20 times
+better than an email that says, "Hey, we
+sell hotel soap to hotels. Do you need
+some?"
+>> Right?
+>> Cuz now we're putting the thought
+process into it and showing them
+something that they think we put a lot
+of effort into,
+>> but in reality,
+>> we built the system and the team to go
+out and do that and do it perpetually.
+It's not a perfect system, but I promise
+you we're we're going to be near perfect
+system 6, nine months from now as the
+chat GBT agents come back and they have
+persistent memory and they remember
+previous chats and the trainings that we
+given them. If you're doing this piece
+wrong, that's what's coming in the
+future. So, that's kind of a high level
+what we're doing. Happy to dig into any
+of that.
+>> Yeah. And there's so much to unpack
+there. And what I love about what you
+said is you were like, "Well, it act
+like it looks like it took us a lot of
+effort to go pull off the customer's
+design and throw it on a tube and send
+that as part of the email." And well,
+maybe that specific email didn't take a
+lot of effort because it was done by AI.
+This building the system that's able to
+do that is what takes the effort. And I
+think that's a big takeaway that a lot
+of people listening to this should keep
+in mind is that
+these repeatable tasks the they they end
+up costing pennies at a time. They take
+no time. They take no incremental
+effort. But where the bulk of your
+effort should be going is in building
+the system, building the AI system or
+the AI agent that that's that's then
+capable of doing those tasks repeatedly.
+like building the system or building the
+agent might take you hours or days or
+weeks, but once it's done, of course,
+you've got to maintain it and you've got
+to tweak it over time, but then you can
+just kind of let it run and do its
+thing. So, yeah, there's so much to
+unpack there. So, you had mentioned a
+20x higher response rate on emails that
+include that the receivers's branding on
+a mockup or less. Is that is that like a
+legitimate number? Like, I'm sure you
+guys have gone out and tested and seen
+that like, hey, this actually converts
+so much better.
+It's true over email and it's also true
+over LinkedIn when you reach out to
+someone. So when we started this, we
+didn't have any of these tools built.
+And so we thought, hey, we have the
+software built, so why don't we go out
+and tell people, hey, do you want to see
+your logo put onto a bottle? Like, we'd
+love to give you that piece for free.
+And so we're sending out emails that say
+something along the lines of, hey, are
+you the right person to talk to about
+amenities at your hotel? We do custom
+design bottles. I'd love to show you
+what a mockup would look like of your
+logo put onto a bottle and then send you
+one so you can see what it looks like.
+Something along those lines. Maybe a
+little bit better copy than what I just
+spewed out of my mouth.
+>> That response rate that we got from that
+was a pretty normal email response rate.
+>> Probably what 1% half a percent.
+>> Oh half%. I would have been lucky to get
+half a percent. Okay?
+>> You know, like on a on a good day, you
+get half percent response from that.
+It's a good round number to use. And we
+did that over hundreds and hundreds of
+emails. and iterations that we were
+doing with it, trying different copy
+out. Then we got smart one day and said,
+you know,
+>> it's really easy for us to use the
+templates that we have in this design
+software. Why don't we just replace the
+logo, like a normal white bottle with
+all the stuff on there that tells you
+what it is and the ingredients and all
+the things you have to have. If we just
+replace the put your logo here with
+their actual logo,
+>> what kind of response rates are we going
+to get?
+>> We got 4% response rates. So that's
+basically an Yeah. an 8x increase
+instantly.
+>> Yeah. Yeah. And and we weren't at half a
+percent. That's why I say 20 times more
+>> because we weren't getting those
+responses. And I noticed that on
+LinkedIn the exact same thing played
+out.
+>> And you start to realize,
+>> okay, why is that?
+>> People get so many emails a day, so many
+LinkedIn messages a day. Most of them
+don't ever get opened in the first
+place. But the ones that do, you've got
+to find a way to get them to pay
+attention right away. And you don't want
+to use an email attachment because it's
+going to go straight to the spam. And so
+we found that if we included an embedded
+screenshot of it high up in the email
+like it's like,
+>> "Hey Corey, here's the picture." And
+then the body is down here afterward.
+Because at a bare minimum, you open up
+on a mobile phone or on your computer, I
+want you to open up and see like, "Oh
+shoot, that's my logo." Like I basically
+15 seconds from you. Exactly. That's
+100% the hook.
+>> And it gets us 15 seconds for someone to
+say, "Oh, that would be kind of
+interesting." Or, "Oh, I actually use
+tubes. I don't actually use a bottle."
+Like, "Do you guys do that?" Or my
+favorite one is, "Hey, what's the price
+for this?" That's the 50% of the time.
+>> That's when you know you got them on the
+on the hook.
+>> How much does this cost? You know,
+[laughter]
+>> and so you guys have found a way to So,
+correct me if I'm wrong. So hotels.com
+you guys do is it no minimum order at
+all? No minimum order quantity.
+>> So you got noq when the traditional
+industry is like you said could be 2500
+units which equates to
+>> thousands of dollars minimum.
+>> You do is it two-day shipping and made
+in the USA? Like how are you guys able
+to do that and make money?
+>> Yeah, it's it's great questions all
+around. We are noq fully customized made
+in America bottles with your logo on
+them. And we do that primarily for
+hotels and vacation rentals is the big
+markets that we serve the easiest. And
+they're all refillable. They're all
+recyclable. They're good for the
+environment. Uh biodegradable for the
+stuff that's being put onto it, the
+labels. Here's how we found a way around
+it because it was a hard problem to
+solve. It's it was really easy to think,
+oh, so what if we prefill bottles that
+have various scents already in them? Now
+we're not a manufacturer. Now we're just
+a bottle decorator instead.
+>> So you pick from one of the four scents
+that we have and that bottle's sitting
+there in the warehouse and it's just
+blank. It's just a blank white bottle.
+We go out there, we do the decoration on
+it. And so when I initially started it,
+um, and this is great context and you
+think about what comes before the AI can
+have an impact on it.
+>> I initially thought, okay, we're going
+to grab the bottle. In fact, I don't
+even need to touch the bottle. I'm going
+to go hire a 3PL. I'm going to send them
+this software in a label printer.
+They're going to print the label out.
+They're going to apply it with this
+specialized machine onto this bottle.
+They're going to pack it into a box,
+send it off to a customer. I literally
+bought a $4,000 printer, sent it to a
+3PL, and then bought a $1,500 label
+applicator, sent it to them. It was
+sitting there at their location in
+Memphis, Tennessee, and they're going to
+be my distributor because the rates were
+best all around the country coming from
+Memphis.
+>> Memphis. Yeah.
+>> And I'm going to buy a bunch of soap
+made in America, stock it there, and
+they'll take care of all of it.
+>> I couldn't have been more wrong about
+it.
+>> Didn't how it wasn't how it worked. You
+just don't think about a a It's simple
+to put a sticker onto something. And if
+it doesn't have to survive in a shower
+environment, it's pretty easy.
+>> So, you want to make a bag of coffee,
+like sure, but how do you protect it
+from the environment? And how do you get
+that bottle to last as long as the
+printed bottles that were normally
+importing from China or from Malaysia or
+a silkcreen bottle? That's the the most
+foolproof way to do it in a shower. How
+do you compete with that if you are
+doing it with no minimums? So there's no
+plates. How do you make that happen? We
+went through a period of four months of
+trial and error trying to find ways. I
+bought shrink sleeve machines. I bought
+heat tunnels where we were trying to
+find we printed we put it onto the
+bottle and now we're saying how do we
+protect it from the elements where we
+were trying to shrink wrap plastic
+around it but water was still seeping
+in. is actually an effect. I forget what
+it's called where when water gets into a
+crevice, it actually pulls it up inside
+that crevice. And so we were dealing
+with that. And I remember being 5 months
+into the journey.
+>> We're about ready to launch. Like we're
+ready to go after customers. The entire
+infrastructure is now built out and I
+haven't found a way to get a bottle to
+survive in a shower environment for more
+than like two days.
+>> That's a tough position to be in when
+you're about to launch.
+There's nine people's jobs writing on
+this and I thought we would have figured
+it out by now. At this point, we've
+pulled the stuff away from the 3PL that
+was in Memphis, Tennessee because like
+it wasn't going to work. Like the
+bottles literally lasted half a day when
+you did it the way that we were going to
+have them do it.
+>> I'm here in my office right now. There's
+a couch right over there. I was curled
+up on that couch. My chief of staff was
+sitting in the chair across from the
+couch just looking at me.
+>> Yeah.
+>> And I'm I'm depressed, dude. like
+literally [laughter] depressed because
+I've rallied all these people. I've sold
+them on an idea and I told them that no
+customization is possible and that we're
+going to be the ones that figure this
+>> And I'm realizing in that moment there
+is a reason why
+>> people haven't tried to do no minimums
+on a bottle of soap
+>> and sell one at a time cuz it's really
+hard to do.
+>> And I was depressed because I just
+thought I'd figured it out. She came in
+for the day. I gave her a bottle. She
+put it into a shower and the whole thing
+like got soaked almost immediately.
+>> And I'm thinking like I have nothing
+nowhere else to turn to. Like I I didn't
+have a solution. Of course, like all
+problems that you're working on hard,
+any engineering problem that you have,
+you give yourself 24 hours, a new idea
+pops up into your head and you think,
+okay, how where is there another
+industry that has this problem that's
+already solved it that we can apply? And
+Chad GBT was great for that and the
+thought process of it. Yeah.
+>> A few more iterations go through and all
+of a sudden like boom, a month later
+we've cracked the code. Like we're ready
+to go. We can produce it literally one
+bottle at a time. It could be a thousand
+bottles or it could be seven. Like all
+that's [clears throat] the same to us
+>> and we were able to make the capability
+work. But the amount of effort and and
+literal I I would say sweat and tears.
+There was no blood. But the sweat and
+tears that went into that trying it over
+and over and over again and failing and
+taking a bottle home and think I finally
+figured it out this time and failing.
+Like that was the prerequisite to being
+able to scale it up with AI.
+>> And without that process of making zero
+money, paying for a team, going through
+the process of actually making the
+product, like it was a startup, but we
+didn't raise any money for the startup.
+Like it was my money. Like I was putting
+money into it. I'm funding the entire
+thing and it's very expensive.
+>> And I think it's probably one thing to
+burn someone else's money when you're
+supposed to be burning someone else's
+money and you go and raise a bunch of
+startup funds for your tech startup
+>> and like you know you're going to raise
+again. It's different when it's your
+money when you're burning $30,000 a
+month going down the drain and thinking,
+"Okay, I'm burning cash. We don't even
+have a product, dude."
+>> There's no It doesn't work.
+>> All the rest of this stuff is null and
+void if we don't figure that piece out.
+That was a wild ride. And that's the
+piece when this business is super
+successful one day, I'm going to
+remember being curled up on the couch
+with her looking at me being like, "Uh,
+dude, like we all bet on you to figure
+this out." Like, you need to pull
+yourself together.
+>> But you got to have those moments. It's
+it's from
+>> the the willingness to fail a hundred
+times publicly in front of people and
+get people on board to come and ride
+with you. If you don't have that
+willingness to fail and know that the
+failure is leading you to success down
+the road, that's where I believe is the
+biggest difference makers are at in a
+business like this is you have to fail
+and iterate your way to a solution. And
+that all came long before we started
+doing the AI pieces of it as well. So
+today we literally have I call it no
+MOQ, no minimum order quantity
+customization. It'll last in a shower
+environment for six months, which is
+longer than the average hospitality
+bottle needs to last. It can be refilled
+over and over again. It saves people
+money. It's eco-friendly. And because
+we're pre-filling bottles here, and we
+only ship one time from the manufacturer
+to the customer,
+>> now we can beat the price of imports on
+a USAmade product with super fast
+shipping times and basically no
+turnaround. To put it in perspective for
+you, the average turnaround time for
+someone ordering a custom bottle of
+shampoo from China, Malaysia, or
+anywhere else, it's 120 days from order.
+That means you've gun your design and
+you've placed your order. 120 days
+later, you will receive that product.
+You can start to use it. 120 days. Now,
+you've got made in America. You could
+order 12 if you wanted and you get it in
+3 days and you're up and running. There
+was never a way to pilot going custom
+for a hotel when it came to soap and
+shampoo before.
+>> No one no one even tried to figure that
+out because the minimums were way too
+high.
+>> Now I'm offering people, hey, pilot me
+out on one floor. Pilot me out in one
+series of vacation rentals that you have
+because that's possible. Oh, and by the
+way, would you like to explore doing a
+different design for different
+properties?
+>> Talk to a hotel group. Hey, every single
+one of your properties can have its own
+logo on this and it's not going to cost
+you anymore. In fact, you're going to
+save 40% from what you're spending
+today. And when you have that all
+figured out, the sales process is not a
+very difficult sales process because uh
+at the end of the day, you're giving
+them something that wasn't even possible
+before. But it still requires education
+because no one thinks it's doable,
+>> right? You've got to kind of let them
+you got to kind of educate them that,
+hey, this is now possible and here's
+why. Because we've cracked the code and
+this is what it can do for your
+business. And I mean, you're talking
+about 3-day delivery versus 120day
+delivery. I mean, that's what literally
+40 times faster. And most businesses,
+myself included, are willing to pay for
+speed. We're willing to pay a premium
+for speed. And that's extreme speed. So,
+there's a couple of things that you
+mentioned there that I want to unpack.
+one is the the you know the curling up
+in a ball and wondering if is this thing
+gonna work and trying to figure it out
+and having a lot writing on it. I mean I
+feel like that's the entrepreneurial
+right of passage and I feel like
+something that most of us go through not
+just once but multiple times. I mean
+I've been in that position multiple
+times myself and it sucks but it's like
+when you get through the other side it's
+just such a better feeling especially
+once you push through and you've
+iterated to figure it out and it it
+finally clicks. it finally works.
+Another thing you mentioned that I think
+is the highlight of the interview thus
+far, you had talked you I think you had
+said specifically, you're like, "Well,
+actually, we had to fix the underlying
+process before we added AI into the
+equation." And that is literally to a
+tea what I've been preaching on LinkedIn
+specifically for the last two months,
+right? It's I've built a whole framework
+around it, the uh audit, optimize,
+automate framework. It's like you can't
+skip steps in that process. You've got
+to audit first and figure out what are
+the problems we're facing. And then step
+two, which is what you mentioned, is the
+most important step of them all. You've
+got to optimize the process. You've got
+to fix the process. You can't just throw
+AI into the equation and think it's
+going to be the magic solution or the
+silver bullet. I mean, I love that you
+guys went that route because it's
+exactly the right thing to do. you you
+purposely didn't use AI until the
+underlying process was solid, until you
+had product market fit, until you were
+like, "All right, this is the way that
+we're going to do things. Now, let's
+leverage AI to scale it and make it more
+efficient and make it more profitable."
+So, I mean, you're you're preaching to
+the choir here, and I love that you said
+it that way because that's exactly the
+way that I've been saying it. And if
+anything, it it reaffirms my belief in
+what I'm doing and what I'm teaching. I
+think I think it's totally spot on.
+Well, I I love that you call that out
+because [clears throat]
+going back to the first point when
+you're curled up on the couch, like this
+is the part of entrepreneurship that
+nobody ever talks about.
+>> Like you're curled up on the couch and
+that happens multiple times in the same
+business. You go through it when you
+make the product first
+>> and then you're back curled up on the
+couch depressed. Don't know where to go
+when you start selling the product.
+>> Yeah. When you got to sell it. That's
+what I was going to say.
+I know this customer. I know
+exactly what they want. I've been doing
+this for seven years. I've been selling
+to them and wait, I'm having a hard time
+trying to sell this now. And you start
+to go through this like iterative
+process of realizing, hey, this is so
+new. People do have to be educated on
+it. And then if you would just try to
+say, hey, chat GPT, the product's done.
+Go sell it to this ICP.
+Well, it it doesn't know what
+information that prospect needs to go
+through, right,
+>> in order to get to a sale. And so, I
+love what you're doing in your startup
+right now where you're walking these
+steps manually that you can then put
+scale on the back end. We're doing the
+exact same thing. Across from me in this
+room, there's a funnel that goes top of
+funnel. I'm sending you a picture,
+>> a picture of a bottle with your logo on
+it. Okay.
+>> How many stages are there before I get
+you to place that first pilot order?
+We've come up with four stages on it.
+But what information do I need to get
+extract from the customer and what do
+they need to know about us before I can
+truly call them a warm lead? In any
+business when you build the sales
+organization like you're starting like
+from scratch figuring out in this
+particular business at this time of the
+market before you add any AI in any AI
+into the process like what steps does a
+customer have to go through you have to
+define that journey and those are things
+that are very easy to breeze past
+because people think once you build the
+product chat GPT can figure out that
+journey and just go out and do it but it
+it doesn't work if you try to scale with
+AI before you figure that customer
+journey out but you'll end up failing.
+But on the flip side of that, if you
+have a human SDR running people through
+the different stages of that funnel to
+get them to the bottom where they're
+piloting out and they've actually placed
+an order and you understand how that
+works and you're recording the phone
+calls that they're doing to get the
+information and then to convince someone
+to go to the next stage of the product
+and get them the right design and then
+get them to order. Now you have all that
+you need to start the process of saying
+okay the whole thing now let's automate
+it and add automation in and then once
+it's automated you have the building
+blocks put together for AI to come in
+and run that thing continuously. I'll
+give you a case in point on this.
+>> We're building the customer acquisition
+process literally from scratch with
+human labor in every stage of the
+process.
+We have a a company we use called B2B
+Rocket. They send out our emails for us.
+They've got four email sequences and
+different offers that we're running
+through and we basically tell them who
+our ICP is and they're phenomenal. Like
+they open up hundreds of email accounts
+for you. We'll get them warmed up. Send
+one a day, then two a day, then three a
+day.
+>> The challenge is you don't really want
+to send an image in that first email as
+an attachment. Like you want to do the
+embedded screenshot, but at what point
+of the process do you want to do that to
+make sure that you're not going to get
+dinged by Gmail and everyone else for
+sending out spam? So, as you work
+through this process, you say, "Okay,
+we're going to be sending out 160,000
+emails a month with B2B Rocket.
+If I could input a screenshot into every
+single one with an AI derived design and
+a bottle, I know what my response rate
+should be because we've already proven
+that over a couple thousand emails with
+human effort." Obviously, you add scale
+to that, you see what happens to that
+number, but it's still going to perform
+a lot better than emails do without
+having that in there,
+>> Okay. Now, what's my bottleneck? My
+bottleneck is, do I really have an AI
+system that can go out and without a
+human in the loop, go to a website, grab
+a logo, grab a background, make that,
+input it into B2B Rocket. That way,
+every single one of those 160,000 emails
+goes out with our best shot forward
+having that hook right there inside the
+email.
+>> This is the limitation today because
+we're not at a point yet that I'm
+comfortable enough to let that system
+write on its own. But we've added
+automation in multiple layers of that
+process. From the emails being sent out,
+the different email accounts, we have
+automation to help us do the designs and
+a human that's in the loop to make sure
+it's all working out well today. But
+imagine a world where you can send out
+160,000 emails and each one has a unique
+design that if a customer responds to
+it, the AI now knows what to say to them
+next and what information to extract or
+how to get them onto a phone call for
+someone to extract the information. And
+that's a live AI agent. All of this is
+coming and you don't have to build all
+of it because it's coming to you from
+the different AI tools that are being
+built around you. But if you're not
+preparing for that process today by
+going through that sales process
+manually, adding automation for it, when
+the AI does catch up to be able to do
+all of it holistically, you will be left
+behind in the dust from the companies
+that were already making those moves
+today and doing the automation on it.
+And so I love where the world is going.
+I'm excited about our customer
+acquisition that's tied to our
+capability, but none of it means
+anything if we didn't go through and
+define those steps one by one and then
+do it manually and then add automation
+and then the icing on the cake, you put
+the AI on top of that,
+we're going to make gobs and gobs of
+money from this process, right?
+>> We're probably step to get there
+>> 100%. And we're probably 6 to9 months
+away from that being a fully
+autonomously, you know, AI run process,
+right? And and to your point, I mean,
+you're right. It's like there's some
+things today that it doesn't make sense
+to hand it off to AI fully because
+either the quality wouldn't be there or
+well, really because the quality
+wouldn't be there, right? In your case,
+it's like you're just not comfortable
+yet to the to get for that process to be
+at the point where AI could fully handle
+it because maybe you could have AI fully
+handle it, but the quality would be
+terrible and that's going to make your
+that's [clears throat] going to make
+your brand look bad and that's just
+going to hurt the customer experience.
+So, something that I've been talking
+about recently and something that I urge
+people to consider is I think the skill
+when it comes to AI and automation and
+just knowing when to use it is the
+judgment around knowing when to use it,
+but more importantly knowing when not to
+use it. Cuz there's people that are in
+your shoes that I think would be like,
+uh, AI can get 50% of the way there.
+Maybe it does some of the images well
+and other ones not so well. Whatever.
+We'll just let it run. But I think
+that's a huge mistake. And I think like
+I said, having the judgment of knowing
+when not to use AI and when not to
+automate certain things is arguably more
+important than knowing when to use it.
+And I think content creation is a great
+example of that judgment as well because
+I mean Steve, I'm sure you see it. I see
+it all the time. How often are we
+scrolling on LinkedIn or Twitter or I
+mean even the video platforms now and we
+see a piece of content that was just so
+clearly AI generated there's no style to
+it there's no taste it's just slop and
+the person posting that I mean I
+immediately lose respect for that person
+like their credibility level in my mind
+gets completely destroyed so again I
+think that's a great example of knowing
+when not to use AI maybe you could use
+AI to get 60 70% % of the way there,
+which I do, and I'm sure you do too when
+it comes to written content. But having
+that human in the loop and knowing when
+to keep the human involved and at which
+steps, I think, is a critical
+differentiator between the people that
+leverage AI and use it to build their
+credibility versus the people leveraging
+AI and it's actually destroying their
+credibility.
+>> Yeah, I I largely agree with you on that
+and I actually want to throw a question
+back your way on this because you bring
+up the content creation side of AI. What
+I'm seeing at the time of this
+recording, December 30th, 2025,
+across so many of different platforms
+right now, is offers for people to clone
+themselves into an AI to never have to
+sit in front of a camera, make a video
+ever again. And I've seen a couple of
+large creators who are already using
+that where they don't have to sit down
+and create a video. Someone's typing it
+out and boom, it turns into a piece of
+creative and they're running that. I see
+how that makes sense for really large
+creators who already have a huge
+audience because they they're playing
+they know it's going to degrade the
+quality of their content, but they're
+already so monetized from it and growing
+independently that it almost makes less
+sense.
+>> I'm curious where you're at on it on two
+fronts. Number one, should people making
+content who are not Alex Hormosi be
+doing that? And then number two, when
+everyone has access to an AI avatar,
+what's the appetite gonna be for real
+human content? Someone sat down that
+wrote a script and is now delivering
+that script. Where do you fall on that
+debate?
+>> Yeah, and that's a great question. So to
+your your first question is would I
+recommend somebody essentially try to
+clone themselves and use that to create
+video content? Kind of the gist of the
+question, right? Um so I mean I agree
+with what you said. I think that if
+you're starting from any place other
+than already having a large audience,
+which most most of us don't have, I
+think you're shooting yourself in the
+foot, if you're trying to clone yourself
+and use that to grow your audience and
+grow your influence because people, even
+though sometimes this video content
+that's AI, it's indistinguishable from
+human. I think there's something it
+might even be subconscious where we we
+see a video and we're like, that's just
+that's not him. like there there's
+something in our minds I think that can
+somewhat detect when something is
+genuine and when something isn't. So I
+think if you're trying to still in the
+early stages of building that influence
+and building that audience I think it's
+got to be you for for a long time. And I
+mean like you said if you're at like
+Alex Hormosy's level or some of these
+huge creators you already have such a
+big audience and chances are you're
+making you're just making more money the
+more impressions you get. And so if
+cloning yourself allows you to put out
+five times more videos. Yeah. Yeah,
+maybe the quality goes down a little
+bit. Yeah, maybe some people see through
+it and no longer tune in, but your net
+impressions is going to be so much
+higher that it doesn't really matter
+because you're making more money. Like
+those people, I get it. But for me and
+you, I just don't think it makes sense
+to to do that unless you're doing it in
+a strategic way. Maybe you're trying to
+teach people like, "Hey, I'm Cory's AI
+avatar and this is, you know, this is my
+AI avatar explaining this concept or
+explaining this process." being
+transparent about it and teaching about
+how you did it I think is a is a angle
+but overall I don't think it it's a good
+play and then what was the second part
+of the question as well I know I got
+longwinded on the first
+>> what's going to happen in a world where
+they do make it easy for newer creators
+and someone who's like oh I always have
+that like a deer in the headlights look
+when I'm making content I'm not good at
+this so instead of getting good at it
+I'm going to go sit down in someone's
+studio pay them five and they make this
+AI avatar for me and this is my online
+persona,
+>> A lot of people who have even access to
+a little bit of money are now going to
+have the opportunity to do an AI clone
+of themselves where content creation
+becomes very easy.
+>> I'm just curious what you think the
+world looks like when they make it easy
+for people to make content like that.
+So, I mean, I think we're already headed
+that way where I mean, I think it's
+especially prevalent on the short form
+platforms like Instagram and Tik Tok. I
+mean, you've got influencers that have
+hundreds of thousands, sometimes
+millions of followers who are quite
+literally not real people and 99% of
+people following them don't realize
+that. So, I think there's going to be a
+huge explosion in the quantity of
+content. But, I think we'll have to see
+what the market is willing to award and
+pay for. Like if if that part that if
+that type of content starts blowing up
+and it's everywhere and we get to the
+point where 90% of content is, you know,
+AI avatars and AI generated, but people
+are watching it and people are buying
+from those avatars and people are voting
+with their dollars that, hey, this is
+something we're okay with, then that's
+going to be that's just going to be
+table stakes. I think you're just going
+to have to get in line and do it. or
+else you're going to be one of those
+guys like in 2005 who were like uh this
+internet thing like I just I I don't buy
+it. It's like okay well you're gonna not
+make as much money. Like if you're okay
+with that then that's your problem.
+>> So that's kind of my two cents on it.
+But we'll see man. It's I mean I think
+we're I think by you know middle of next
+year majority like 50% plus of content
+at least on the short form uh platforms
+is going to be AI generated. And it's so
+bad now to the point where like I I
+don't believe anything. Like I just
+assume everything is fake unless I mean
+I don't even know how to trust anything
+anymore online. Like if I see a tweet
+well I guess a tweet, right? If it's
+coming from that person's account, but
+like a piece of video content
+specifically, I have no way to verify.
+So I just assume everything is fake.
+Everything nothing is real in my mind
+anymore.
+I saw someone say a month ago, Jesus
+Christ could land in Berlin, Germany,
+ascend from the sky [laughter] and land,
+and you'd have half the world saying
+like, "No, that's AI. AI didn't actually
+happen." And you wouldn't be able to
+find out whether it's true or not.
+>> You know,
+>> that's the world we live in right now
+where you just don't know.
+>> I saw an article yesterday that uh said
+someone's husband had gotten into an ATV
+accident and [snorts] the government was
+involved and yada yada. there was this
+big conspiracy and then I went to
+Twitter to verify it and there was
+nothing on Twitter about it and I'm like
+right
+>> oh my god
+>> that's when you know that that it's
+>> it was like a Facebook link it had the
+in the first comment was the article I
+went to that you used to be able to
+trust it when there was an article there
+>> and now like
+>> what happens when they go the next level
+and say hey we want to get this story
+out and corroborate it on Twitter so if
+somebody comes to check they see that
+it's here
+>> I mean it's going to be a scary world
+that we live in where you just can't
+tell truth from fiction anymore. So my
+question to you on this and I I started
+to ask so many questions. I'm just
+curious where you're at on this.
+>> My question for you is can real humans
+compete with AI content?
+And the second question that goes in
+line with that is, are you and I wasting
+our time making human content the hard
+way in the face of content being easier
+to make right now? Can we compete with
+AI content?
+>> So, I think we can compete right now
+where the industry st or just where the
+the capability stands today because I
+think there's that I think AI can do 90%
+of it better than we can. But there's
+that 10% that's the human taste and tone
+and style that can't quite be replicated
+just yet. But that's not to say that it
+won't be replicated here sooner than
+later. So, I think as of right now, yes.
+And then to answer the second part of
+the question,
+um, you know, was it that we will humans
+or I guess are we wasting our time and
+creating content when eventually it'll
+probably be able to do it better than
+us?
+>> You know, I I don't think so because I
+think that
+>> I think that being on video and writing
+and really I mean creating content comes
+down to you're either writing or you're
+talking on video. And I think those are
+two skills that are just really good
+skills to have because even if five
+years from now 99% of video is AI
+generated and we're not sitting here in
+front of a camera or doing a podcast
+anymore, the practice that we've gotten
+talking and having these conversations
+and talking to a camera. I mean that can
+be directly translated to like getting
+up on a stage and talking in front of a
+group of people at an event or even just
+having another face tof face
+conversation with the human. So I think
+the skills you build from writing and
+being on video are going to be worth it
+no matter how content looks a few years
+from now. But that's not to say that
+yeah the the traditional way of like
+what we're doing now might be completely
+different. The the skill five years from
+now might be
+how do we download as much of our
+thought process and our context to our
+avatar so that our avatar which is a
+perfect speaker and a perfect writer and
+you know all the things that they can in
+the best possible way convey our
+thoughts and our you know our processes
+like that could be what this the skill
+of the future is. Yeah, that's super
+interesting, man. I can get down a deep
+rabbit hole thinking about [laughter]
+where the world is going on that, you
+know?
+>> Yeah, it's just it's there's just so
+many unknowns. Like it is hard to say
+because the stuff's changing so quickly
+and I feel like things it's a
+double-edged sword. Like I think things
+that people thought like, oh, by 2026
+we're going to have this technology and
+realistically it's 10 years away. And on
+the other hand, it's like, oh, I thought
+that we wouldn't be able to do this
+until 2035, and we've been able to do
+that for two years, right? So, it's just
+hard to know. It's like, what's going to
+be the big innovation? Are they two
+years out? Are they 10 years out? Are
+they 5 years out? And just what's coming
+next? It's just it's hard hard to
+follow.
+>> People think about it in layers, too.
+They don't go they don't go far enough
+with it. So, a lot of times right now,
+you see the boomer generation when you
+say things like, "Hey, AI is coming."
+like you got to get prepared for it and
+oh AI is going to replace the sales rep
+and they're like no
+>> Steve
+>> people are always going to buy from
+humans always going to want to buy from
+another human right you you and I are
+hearing the same exact thing
+>> it's like well yeah um two points number
+one um we're finding if you ask
+distributors right now who relationships
+matter to them on both sides vendor and
+the consumer they would say that
+relationships mean less and less every
+year and And then for all the people who
+say people are always going to buy from
+another human, well, you're implying
+that the buying agents are always going
+to be humans,
+>> right? That's a great point.
+>> Isn't that one of the first jobs to go
+inventory management purchasing? Like,
+isn't that the most correlated like a
+rules-based environment
+>> to go and buy supplies for human
+consumption or for human need? Like
+that's not going to be a human in a
+world that you're talking about like AI
+sales reps or real. So isn't it better
+to prepare today for the world where
+it's not a human
+>> making that decision instead of being
+stuck on this idea of oh well you know
+relationships are the most important
+thing you can have in a supply business
+because people are always going to buy
+from a human. I just disagree on that
+fundamentally and it gets me in trouble
+in my industry a lot. But I think the
+world is changing faster than any of us
+are giving it credit for. And those who
+are preparing now for the world of no
+one knows but the world of AI and
+automation and robotics are going to be
+big winners in the future. I just really
+believe that fundamentally.
+>> I believe it as well. And I think the
+old guard in your industry and in a lot
+of industries who do subscribe to the
+belief that oh people are always going
+to buy from people. I would never buy
+from an AI agent. I mean those people
+are going to be retired in 3 five 10
+years and the people like me and you who
+are then going to be you know the
+leaders of those industry we are going
+to be okay with that and we are going to
+push for that and that's just going to
+be how things transition and I mean a
+similar point that I I think is
+interesting talking about relationships
+and it's like oh when when would you
+never think that you could substitute a
+human well think about the dating apps
+right Tinder and Hinge and Bumble and
+all these apps I mean I was listening to
+a podcast recently where they were
+talking out soon enough. And some people
+might think this is crazy, but I think
+that this is inevitable. If you're on
+Tinder, for example, and you want to go
+and match with somebody, your AI avatar
+is going to first go talk to their AI
+avatar. And if they got a connection or
+if they feel like it's a match, then
+you'll match and then you'll talk to
+like the real person, right? So, they're
+almost like acting as the gatekeeper.
+And it sounds crazy and it it kind of
+is, but I mean I think I think you're
+crazy if you don't think that that's
+where that this stuff is headed. And
+that's just one example of many where
+that where the humanto human
+relationship isn't as important or at
+least won't be as as important early on
+in the process as it would be maybe
+later in the process down the road. It's
+such an interesting thought when you
+bring up the dating side of it and the
+relationships because you go a step
+further from that and you ask how many
+people are going to end up being in a
+relationship with a robot that's
+informed by AI that has, you know, chat
+GPT10 as the brain and it's a humanoid
+robot that looks like a human, acts like
+a human, but isn't actually a human. You
+got a lot of lonely men in this world.
+>> Yep. And it's probably already
+happening. I mean, there's numbers on
+it. Like there's tens of thousands of
+people who think that they're like
+dating chat GBT.
+>> Yeah. Yeah.
+>> Scary.
+>> I'll tell you this though. I believe as
+as a father of daughters,
+>> I believe very strongly that the top 20%
+of men are going to want an authentic
+experience.
+>> To be married in a real relationship and
+real human connection. Y
+>> and everyone's going to go try the whole
+AI robot thing. Okay. Go do your thing.
+When it all comes down to it, uh, I
+believe that good men are going to want
+an authentic experience. They want the
+real deal, right?
+>> Not to be dating a robot.
+>> Hopefully, it's more than 20%. But I
+agree with you.
+>> I don't know. The world's crazy. If you
+think about right now, where are the
+markets where um you look at Japan from
+10 years ago, the stories that were
+coming out of all the lonely men there
+and the sex doll industry that was being
+uh propagated in that country because
+there just weren't enough women for the
+men or they didn't want the men that
+were there. So men who have options, I
+think, are probably always going to opt
+for the real experience,
+>> There's a growing number of men who
+don't have options for one reason or
+another. Sometimes self-induced and
+sometimes not. And those are the men who
+don't have options who are going to say,
+"Well, what's the next best thing,
+>> That entire incel community today,
+they're going to have an alternative."
+>> And it's a scary thing to think about,
+but
+I can see a world where we all know
+people who are in relationships with AI.
+And it's going to get to a point that
+we're not sure if they're dating an AI
+>> or whether they're dating a real human.
+We're kind of like great part.
+>> She's too hot for you, dude. Like I
+don't think she is she real? Is she Do
+you plug her in at night time? You know,
+like we'll be asking questions like
+that.
+>> Absolutely. No, the future is it's both
+scary, but it's both exciting at the
+same time. I mean, there's so many
+obviously so many applications and
+potential um just gamechanging
+innovations for business and for
+commerce and for everything that people
+like you and I are working on. And then
+the social applications are a whole
+different side of the coin. But I think
+there's a lot to be excited about, a lot
+to be feel fearful about as well. But I
+tend to be on the optimistic side and
+think that uh humanity will harness this
+power for more good than otherwise. And
+we'll just have to see where the next I
+mean the next three to five year I mean
+come 2030 I think we're going to be in
+an entirely different world and it's
+just going to be very very interesting
+to see. I I feel like this stuff changes
+so quickly. I mean, I try to stay on top
+of it every day, and I feel like if I
+miss a couple of days of listening to my
+favorite AI podcast or just paying
+attention to what's going on in the
+world, I'm like months behind because
+we're making months worth of progress in
+days at this point.
+>> It It's wild to think about. And I
+strongly believe right now that anyone
+who gets involved in business where the
+major cost factors are human capital or
+logistics, you get involved in business
+today that has 20% margins. You let 10
+years go by, you're going to have 45%
+margins in that business because
+logistics costs are going to plummet
+when you remove the driver from it. and
+the human capital cost being replaced by
+a Optimus robot or some other kind of
+robot that cost you $55,000
+that you got to depreciate all in year
+one. By the way, I was going to love
+that piece of it. And it works 24 hours
+a day. It changes its own batteries. And
+if you're a manufacturer or you're
+making goods and then those goods are
+getting sent to a customer, your margins
+will go through the roof in this period.
+I'm not saying there's not going to be
+collateral damage of the people who used
+to have those jobs. But the reason that
+I predict that tax rates are going to go
+to 75% and business owners will be happy
+to pay that is because they're going to
+be making so much more money with so
+much less stress going on because they
+have access now to really cheap
+logistics rates and really cheap human
+capital. And you're going to have these
+businesses of like seven people that are
+doing $250 million a year in sales
+because they can. And that's how we're
+going to fund universal basic income
+from higher tax rates on businesses that
+profited from laying people off. And as
+a business owner, I want to be the one
+who's positioned to be the one buying
+the robot. I don't want to be the person
+that gets laid off because my job got
+replaced by the robot. And so I think
+the next three to five years, everyone
+has a decision to make of where they
+want to position for the long term. And
+I would just strongly caution people to
+look at can you put yourself in a
+situation where you're the one buying
+the robot, not being replaced
+>> by the robot. 5 years is a long time.
+You have time to prepare for this. It's
+not going to happen as fast as we think.
+I don't think
+>> but like how are you positioned? And
+that's always been kind of my pitch on
+any platform I've had on social media is
+like positioning matters. And if you
+position in a model that isn't going to
+be here three years from now, like I
+promise you, you're not going to be in
+that model anymore.
+>> But if you can if you can ideulate far
+enough and think in enough layers to get
+to what's safe if this crazy scenario
+happens where AI takes everyone's jobs
+like well there's going to be companies
+making a shitload of money because of
+that and we have the chance to position
+for those now. So it's just a deep
+exercise that everyone should take some
+time hop on Claude hop on chat GBT and
+just think about hey if this happens in
+the world in the future AI robotics
+automation take over what should I be
+doing today to make sure I'm a necessary
+part of that ecosystem and I'm not
+subject to universal basic income
+the thought and I agree and I think that
+things that people can do to to prepare
+for that are simply get good at using
+these tools practice using AI for 15
+minutes a day that's all it takes
+Start by prompting chat GBT and then
+move up to workflow automation. Start
+building these basic little two
+three-step automations in Zapier. And
+then once you graduate from there, jump
+to level three. Start vibe coding some
+of your own lightweight super simple SAS
+tools inside like a clawed code or a
+lovable tools that are solving some of
+your own problems that you're running
+into inside of your business. You don't
+need to sell these tools. You just need
+to build them and they need to work for
+what you're doing. And then eventually
+you graduate to level four of AI
+mastery, which is the highest level,
+which is when you're the one
+orchestrating teams of agents doing
+individualized tasks for you. And it
+only takes 3 4 months to go from level
+one to level three and then probably
+another 6 to 12 months to go from level
+three to level four. So in about a year
+to a year and a half's time, you could
+be in the top 0.1% of AI knowledge, AI
+competence. So that five years from now
+when the world looks entirely different,
+you will be the one pulling the strings
+in your business. You'll be the one with
+the 45% margins, you know, hiring the
+robots instead of being replaced by the
+robots. So that's uh that's my parting
+thought. Steve, anything else you want
+to share uh before we ask where people
+can find out more about you? No, I love
+where the world is going and I think
+it's all about positioning and then
+doing the building blocks and the hard
+work that comes before the AI. I would
+be remiss if I didn't really really
+emphasize that it's not enough to just
+turn the AI on. You got to prepare the
+business or or however you want to use
+the AI. There's preparation that comes
+first and that's the really hard part of
+>> The AI should be relatively easy to
+implement if you've done the hard parts
+right. 100%. And I've been saying that
+for for months now, and I'm glad that uh
+you reiterated that very nicely. So,
+Steve, where can people go find out more
+about you, whether it's following you or
+checking out your podcast?
+>> Yeah, I appreciate that. I'm Roll with
+Steve wherever you go, the Roll with
+Steve podcast. It's R O L E, my last
+name with Steve, and that's my handle
+for all my socials. I also have a book
+coming out called The Future You Choose
+>> in January of 2026. It's the story of my
+first startup at OneShop where all of
+this came from the soap company and the
+lessons I learned coming from a
+background of poverty. I didn't have
+optionality and deciding to take a
+different future than the one that I was
+born into. I teach the the tactics that
+I used to elevate myself from that
+thought process to free myself of it and
+then furthermore to build a business
+that operated without my involvement in
+on the back end. I teach a very simple
+framework to make that happen inside the
+book. So that's coming out January 2026,
+The Future You Choose. It'll be live on
+Amazon and also on my website.
+>> Awesome. Well, I didn't realize you were
+coming out with the book, so we'll have
+to check that out and and do a little
+book review on it, too. So, Steve, thank
+you so much for your time. And guys, go
+check out his podcast. Uh hopefully I
+can next time I come through Vegas, I'll
+be an in-person guest there on the show
+and and go check that out because it's
+good stuff.
+>> I can't wait to have you on. We'll do it
+right here in the studio.
+>> Awesome. Looking forward to it, Steve.
+Thank you for your time.
+>> Awesome. Thanks for having me on.

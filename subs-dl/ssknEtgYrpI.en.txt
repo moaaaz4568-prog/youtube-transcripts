@@ -1,0 +1,493 @@
+You could have the best unsolicited email copy
+in the world,
+the best list, the best segmentation,
+the best offer, but none of that
+matters if you end up in the spam folder
+.  I've sent hundreds of thousands of
+cold emails, and I'm going to show you the
+exact infrastructure I use to
+reach the main inbox in 2026.
+Now, here's what happens with
+cold email deliverability
+.  Most people think it's just about writing
+good subject lines or avoiding
+spam terms, but that probably represents
+only 1% of the problem.  Now,
+the other 99% is your infrastructure, your
+domains, the time it takes them to
+warm up, reputation,
+DNS records, all that kind of stuff.
+And that's exactly what nobody
+else is talking about.  So what we're going to
+do is analyze this
+together step by step.  At the end of this
+video, you'll have the exact list of
+infrastructure I use to
+ensure my emails
+never end up in spam.  Now, the
+first thing we're going to do is talk
+about domains.  This is the step
+where most people make a mistake before
+even sending a single email.  Now
+, the first step, and I can't
+emphasize this enough, is to never send
+cold emails from your
+main domain.  For example,
+my business's primary domain is
+velocityflow.co.  I would never send
+emails from this
+domain.  And I'll tell you exactly
+why.  Because let's say you send
+main domain.  Let's say you send
+around a thousand emails
+from your main domain.
+Naturally, people who send
+unsolicited messages will start
+reporting you as spam simply because they don't
+like the message you're
+sending them.  TRUE?  So, once
+people start reporting you as
+spam, all that reputation will be
+linked to your main domain.
+Now, what happens is that when you have
+clients, let's say you've just
+signed a client, you communicate
+even with people in your
+organization.  However, once you
+send them invoices or try to
+contact them, everything will go to the
+spam folder because your
+domain has earned that reputation.
+Instead, what you want to do is
+create many different subdomains
+under your main domain.  This is what it looks like
+here.  For example, if my
+main domain is velocityflow.co, I would want to
+create several subdomains from my
+Velocity Flow Marketing, Velocity Flow
+Media, Velocity Flow Systems, etc.    You
+might be wondering: that's a
+lot of domains.  Where can I
+get these domains?  I'll show you
+exactly how to do it.  Now,
+notice that these are .info domains.
+What we've seen in the last 2
+weeks is that .info domains
+are completely damaged.
+We had accounts warming up
+.info domains and they ended up on blacklists
+during the process, so we couldn't
+send any emails.  The reason
+this happened is because they are so
+cheap that many spammers use them,
+spammers and things like that to send spam
+to people.  That's why they were banned.
+So what we did instead was
+switch to .co domains.  The reason
+we use .co domains is because they
+actually look much more
+professional and have exactly the
+same deliverability, and the
+comparison is almost exactly the
+same.  And yes, that's why we switched to .co.
+It's a little more expensive.  But it will be worth it
+because you don't want your
+infrastructure to completely fall apart
+overnight.  The reason
+you want to create a bunch of
+subdomains is because each one of them
+will be connected to a single
+email account.  At Google,
+we have two inboxes per
+domain and these could
+comfortably send around 15 messages
+a day, including warm-up messages.
+Now, let's say that for Microsoft,
+for example, if you want to take a
+big risk, you can even go up to 99 per
+inbox, but we
+recommend that you stay at 49.
+Basically, each email account
+can send five emails
+per day.  To calculate your
+infrastructure, you can use our
+speed flow calculator to
+calculate how many emails
+you want to send per month, your
+conversion rate, etc.  And if you want this, the
+link to calculate your infrastructure will be in the description
+.  But
+let's say this, so you can calculate
+how many contacts you want to reach.
+Basically, you base this on your
+total addressable market.  Let's say we'll only
+do 104,000. Okay, the
+response rate from the contacts is approximately 2%
+.  So we'll
+keep it at 2%.  The
+meeting conversion rate.
+You can even reduce it for more
+comfort, to make sure you
+'re really getting the
+right metrics.  For this example, we will
+keep it at 50%.  And so what
+you want to do is what we've seen
+works best lately.
+Normally, I would recommend a
+50/50 split between Google and Outlook,
+but lately Google has far surpassed
+Outlook.  Therefore, make
+a 50/50 split with Google and
+Outlook, or make a 75 or 70/30 split,
+70% Google and 30% Outlook.  It's going to be much
+more expensive, but your delivery capacity is going to
+be much better.  Therefore,
+you need 174 Google domains.  That
+will be two inboxes per
+domain.  So, whatever 174*2 equals,
+that's the number of
+Google inboxes you'll have.  Then,
+you'll have three Outlook domains.
+This is measured in 99 inboxes
+per Outlook domain.  You can calculate the
+total number of domains.  There are 177 domains.  And
+then the total number of accounts will be
+645 accounts for 104,000 contacts
+reached, 2.80 responses, 104
+positive responses and approximately 52 meetings
+scheduled.  But now
+that you've calculated how much infrastructure
+you need to be able to send the volume you
+want, you'll want to jump into the
+GBT chat to get help creating these 177
+subdomains.  Give him a quick heads-up
+by saying something like this.  I use
+Whisperflow so I can speak instead
+of having to type everything.  I
+highly recommend it.  Hi,
+can you create 177 subdomains from my
+main domain?  My primary domain
+is velocityflow.co.  I need these to
+be domains that an average person
+can see as domains.  They should look
+as professional as possible.  Feel free
+to use LLC, Inc., Co.,
+Incorporations, things like that.  Make sure there are
+no random cities or anything like that
+.  They should look
+as professional as possible.  And you can
+simply approach him and say
+something like that.  Okay.  As you can see here now,
+we have our 177 subdomains.  So
+what we're going to want to do is
+copy all these files and then
+we're going to want to jump into something that's
+, let's see, a pork bun to continue.
+Okay, as you can see here, we're jumping to pork
+bun.  Now, what you want to do is
+click on the bulk search and
+then add the available domains
+to the cart, 100 maximum.  So,
+just paste your domains
+there and then basically
+click search and they'll
+automatically be added to your
+cart.  However, when checking the
+domains, some of them will not be
+available randomly,
+especially since I have purchased many
+domains.  So it's possible that
+many of them may not even be
+available, but if you're just starting out,
+there's a good chance that they will be
+.  .co domains cost about $6 or $9.
+So, make sure you take that
+into account when buying the domain
+.  So, you can do the calculations,
+like saying that everything is worth $8, $8 times
+177, and that's just for domains.  As
+you can see here, these are all the domains
+that are here.  I'm going to blur all of
+this because I don't want you to see my
+subdomains, but these are all the
+domains that are here.  Now,
+once you have your domains, what you'll
+want to do is buy your
+inboxes.  To do this, we can go to
+the premium inboxes.    They
+probably have the best
+delivery capacity right now.  You could use
+Scaled Mail. It's up to you.  I
+recommend
+premium inboxes.  I have a
+referral code if you'd like to join my
+premium inboxes.    I
+highly recommend it.  As you can see
+here, we are now in the
+premium inbox interface.
+Basically, you just need to import
+your domains to the
+premium inboxes and then purchase the
+inboxes.  We'll do it together.  Then
+, the domain forwarding destination URL
+.  This is when you send an
+email to someone.  Your
+email address will light up in
+blue.  When people click on it, that's
+where it will take them.  Basically,
+you want to put your main website
+for these subdomains.  It has nothing
+to do with it; it won't be linked to your
+main domain at all.  That's
+where you want to forward all the traffic
+.  I would recommend that you focus
+solely on your website.  I would
+put my website here,
+velocityflow.co.  And then you'll want to
+choose your domain hosting platform
+.  We use Pork Bun.
+Whether you use GoDaddy, NameCheep, or
+Spaceship, we'll just choose Pork
+Bun because that's exactly what
+we did.  And then you have to give him your
+access here.  Make sure you do it right
+here.  You need to watch the video
+tutorial.  However, it's very simple.
+Simply log into your account and
+make sure you don't have two FAs
+there.  Basically, you're going to put your
+login details here, your
+password.  But obviously, I'm not going to
+do this.  And then what you'll want to
+do is go back to ChatGBT.  Copy all
+these domains here.  Return to
+premium inboxes.  Stick them
+here.  And then go to your sequencer.  And
+then say that you're using Smart Lead
+Instant.  Personally, I use Plus Vibe.
+I would choose Plus Vibe here.  You need to
+enter your login details.
+I know you're wondering: why am I
+entering my login details?  Because
+with premium inboxes, they
+basically take care of everything for you
+.  The support is great.  In other words, they
+enter your domains, take them over,
+enter all the DNS records for
+you, take care of that, buy the
+inboxes, and then upload them to
+your sequencer, all in one.  So you don't have to
+touch anything.  And when they
+upload them to your sequencer, they activate the
+warm-up for you and everything.  Now
+you must choose the total number of
+inboxes you want.
+Make sure that when you're
+up here, we're on Google right now.
+Let's go back to the calculator for Google.
+For Google, we put 174 domains and
+we need approximately, let's do a
+quick calculation.  We
+will need 348 Google inboxes
+because there are two
+inboxes per Google domain.  That's why we
+did it.  We want 348
+Google inboxes.  Number of
+inboxes per domain, you want two
+people.  These will be the names
+your emails are coming from
+, right?  I'll give you an
+example.  My name is Jaden.  It would be
+jadenvelocityflow.co.  I would recommend
+that you put your name.
+You could even use random names.  If
+you click on "Advanced", you could
+add multiple names.  You can tell
+the GBT chat to give you
+random names.  That it automatically generates names
+for you, etc.  Leave
+this blank.  It's not important.  Your
+main inbox.  It will be
+like your regular email.  And
+then additional resources.  Leave notes
+for them like, "I want to do this,
+do that."  I mean, as you can see
+here, it's $1044.  And that's just for
+inboxes.  Now, you want to
+do exactly the same thing for
+Microsoft.  So, just
+change it to Microsoft here.  I believe there were
+three domains for Microsoft.  And
+then, if we do a quick calculation, that
+will be 297
+Microsoft inboxes.  Now, keep in mind that
+this is for tons and tons of
+volume, right?  We are reaching
+100,000 people per month with this
+example.  for you.  If you're doing
+this for your business,
+you probably want to start with something not even
+close to that, right?  This is just
+for the scale we're doing, the
+amount of volume we're
+doing because our total
+adjustable market is huge.  Well, exactly
+the same thing you'll want to do with
+Microsoft accounts.  You enter three,
+you just have to follow the same process
+, Microsoft, enter your credentials
+for your domain hosting platform
+.  The same applies to the sequencer.
+You want to do the total number of
+inboxes, and then it will be
+99. And then the same down here.  The
+same goes for down here.  You're going to leave notes.  And
+then, as you can see here, that comes out to $
+891. Keep in mind, as I said, that
+this is only for the amount of volume we
+are shipping.  It may be
+different for you.  And then you just have to
+click on buy accounts.
+You buy the accounts.  And
+premium inboxes handle the rest.
+Now, what you're going to want to do is
+buy your email accounts
+.  It will probably take about
+24 hours for the funds to be credited to your account.
+I'm going to blur all my accounts once again
+, but I just wanted to
+show you.  Well, this is just a
+workspace we have.  As
+you can see, 1293 accounts, 153 domains
+specifically for Plus Vibe.  It's
+different for each sequencer, but
+just to give you an example,
+right?  This is an inbox
+of, ahem, premium inboxes.  TRUE?
+If they go to the warm-up, it basically
+says 100% arrivals to the
+inbox;  It shows you all these
+metrics here, ahem, but the
+main thing I wanted to show you is
+this configuration.  Therefore, the
+daily heating limit is 25;    It
+will be five at the beginning of the
+daily limit, and then it will increase by three as they
+heat it up.  If they do it
+manually, they can also do it
+this way.  Now, I want to show you one from
+Outlook.  So, we'll go to Outlook and
+see.  The same thing happens here.  These
+will be six
+daily warm-up emails, and then look at the
+settings.  Yes, I suppose it doesn't
+increase.  So, they'll only want to put
+six.  The great thing about Plus 5 is that you can
+go straight in, click on the
+prepare option, and then
+select all your accounts at the same
+time.  Let's say you select all
+these bulk actions, enable "
+Prepare," and it will basically create the best
+preparation configuration tailored
+to you.  If you also want to register
+for Plus 5, I highly recommend it.  The
+links are also in the
+description.  Now that you've activated
+prep emails, what you want to do
+now is prepare them for 2 weeks
+before sending a single
+email, because this will increase
+your domain's reputation.  Therefore
+, once you start sending
+emails, you won't tell Google and
+Microsoft that you're a spammer because
+you have all this reputation behind you
+that proves you're not.  What I would
+recommend is to have two sets
+of email accounts.  So
+you have the 50/50 split or the
+70/30 split of Google and Microsoft,
+right?  So, Microsoft is weird,
+switch to Google, Google is weird, you have
+Microsoft.  I would also
+recommend creating a batch A and a
+batch B. Okay?  These are the
+email sending accounts for the first
+month.  And then you'll change them every month.
+Then, when the 30 days are over, you'll
+change them to these.  This will be the
+new number one.  This will be the new
+B here.  And then you'll want to swap them
+every 30 days while one is
+heating up in the background.  This will
+help you get the most out of
+your investment.  Honestly, it's a bit
+more expensive, but you'll never have
+infrastructure as your only problem.    That's why
+I would recommend doing this: having
+batch A and then batch B
+heating up in the background.
+Always change them every 30 or 60 days,
+and then continue with that rotation.
+You should be fine.  Now, another
+thing you'll want to do every two
+weeks is check if your
+inboxes are reaching your
+main inbox.  You can go to something, I think it's
+called Mail Reef or Serbble or something
+like that, to check the status of your
+domain.  Just check if
+you get to the inbox.  Let's say that
+happens, when you check
+with both brands, no
+emails arrive or only
+a few arrive.  Any value
+below 80% is probably
+faulty.  So, if you check that
+, you could switch to batch B. You might even
+get a new infrastructure
+as well.  The reason this
+works better, and I'll honestly keep
+singing its praises, is because
+infrastructure will never be your
+limiting problem.  Let's
+quickly review these five things.
+Therefore, you should never send from your
+primary domain.  Number one.  Number
+two, you'll want to create several
+subdomains from your main domain.
+Number three, each of these
+domains must have
+separate inboxes and must include
+your company name.  You'll want to
+have different inboxes
+for different domains, right?
+So, for Google, we're going to do
+two.  You could even make three.  For
+Microsoft, we're going to do 49 or 99.
+Number four, we're going to have batch A and
+batch B. And number five, prepare your
+emails for 2 weeks
+.  Now, if you're a business and
+you want this system created for your
+business, managing all
+responses, campaigns,
+sequences,
+lead generation, without you having to touch any of that, and
+then booking calls directly into
+your calendar.  That's exactly what we
+do here at Velocity Flow.
+So, if that interests you, go
+ahead and book a call using the
+link in the description
+below.  But now that you have the
+email infrastructure,
+what you'll want to do next is watch
+this video here that shows you my
+exact process for extracting
+leads and communicating with
+them in a completely
+automated way using Cloud Code.  And if this
+helped you in any way, click
+subscribe and we'll see you next time.

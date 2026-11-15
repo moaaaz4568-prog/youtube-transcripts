@@ -1,0 +1,778 @@
+Clockcode has completely changed the way
+that we're now able to build AI agents
+and AI automations, and it has truly
+changed the way that I'm running my
+business. But, the problem is that most
+people use it like a regular chatbot,
+throwing in vague prompts that make no
+sense, then they wonder why their bot
+break, why their agents don't work, and
+why they're spending hours fixing
+things. Which is why in this video, I'm
+going to show you the top five prompting
+hacks that will make your Clockcode 10
+times more powerful and way more
+reliable. And so, by the end of the
+video, you'll have Clockcode to do what
+you want the first time, every time. And
+in case you don't know who I am, my name
+is Mikedev and I scaled my own AI agency
+to six figures, working with over 50
+businesses to implement AI solutions,
+and teaching over 20,000 people in the
+process. With that being said, let's
+dive in. Okay, so the first hack is
+called splitting prompts. Now, one of
+the biggest mistakes that I see when
+people use Clockcode is them adding huge
+and humongous prompts with a ton of
+information and a ton of tasks all in
+the same prompt, and then expecting
+Clockcode to give them the output that
+they want. An example of this could be
+them saying, "Build me a CRM with off
+database, API, dashboard, emails, and
+deploy it." Which are basically seven
+different tasks, right? Or four
+different tasks within the same kind of
+major thing that they want to build. And
+there's a few problems with this. The
+first one being that there's a lot of
+context or tokens used [music] in that
+same session that we're using Clockcode.
+The second thing is that the output is
+not going to be the best just because
+you're feeding it and you're telling it
+20 different things at once, the same
+way that you tell an employee, "Hey, can
+you build me a full software with this,
+this, this, and that?" Without giving
+the person any clear structure. And the
+issue here, even when I started, was
+that I thought Clockcode would build
+anything, right? You could build
+anything and anything if I give it one
+prompt and that's it. But, it's much
+better to split prompts and take a more
+structured approach. So, instead of
+putting this prompt right here with
+seven different tasks, we split the
+tasks up, right? And we talk to
+Clockcode task by task. So, we look at
+this and we say, "Okay, the first task
+is setting up the project." Then, it
+will set up the project and then we
+review whether it did a good job or not.
+If it did a good job, then we go to the
+next thing. If it didn't do a good job,
+then we go back and fix it. Then we go
+to task two, which is knowledge base,
+and then we review if it worked. If not,
+then we look back. And we do this for
+the other tasks as well. And the reason
+this works a lot better is because when
+we have to fix task four, we don't have
+to fix the whole thing cuz we reviewed
+each one and it worked very very well.
+And so we go task by task making sure
+that everything works until the end.
+Now, is it going to take more time to
+prompt Claude code at the start? Yes,
+but actually you spend more time fixing
+this after it didn't do a good job
+rather than setting things up properly
+from from the start. So to make this
+more practical, I can give you like an
+actual prompt that I built so you can
+see the bad approach and then the good
+approach that we take. So on the one
+hand, we have a prompt that says build
+me a full customer support chatbot with
+Next.js front end and knowledge base
+that uses embeddings, escalation logic
+that routes tickets to Slack, an admin
+dashboard for analytics, user
+authentication with OAuth, and deploy
+the whole thing up to Vercel. Use
+Tailwind for styling and make it
+responsive. Now, I'm not going to run
+this for the sake of not having to wait
+3 hours, but this right here, it will
+overwhelm Claude code with so much
+context and so many things to do that
+the output, don't get me wrong, it will
+be okay, but it won't be as good as if
+you split things up step by step, right?
+And so what we could do here is we have
+the first prompt, which would be this,
+let's say, prompt one. Set up the
+Next.js project with the TypeScript and
+Tailwind. Create the basic folder
+structure with components and we give it
+the first part. So when prompt one is
+finished, it did a good job, then we go
+to prompt two right here. Then once
+prompt two is finished, so this is added
+the knowledge base, it goes to prompt
+three.
+And then we keep going until prompt four
+and prompt five, right? So prompt four
+will be this. So all we did here is took
+this prompt right here, which has
+Next.js front end and knowledge base,
+escalation logic, it has admin
+dashboard, it has OAuth, it has
+deploying, right? So Next.js front end
+will go here, then we had knowledge base
+will go here, then we had escalation
+logic will go here, then we had
+dashboard, which will go here, and then
+finally we would have another one, which
+is deploying the whole thing. And so you
+can see that it's it's kind of like a
+spider web. And the reason why we do
+this is because you take a more
+structured approach, right? And so I
+walked you through how you review it and
+so on, but essentially you would run
+this, right? And don't worry about all
+these terms cuz they don't mean much
+[music] to me either, but it's more the
+structure that we have to understand,
+right? And so you have something simple
+with seven different tasks, you split
+them up into different prompts, prompt
+one, prompt two until prompt seven, you
+review them individually to make sure
+that when you get the output, it's going
+to be correct and you don't have to
+pre-prompt Claude all over again and fix
+it and debug it and spend two, three
+hours asking it why it did the wrong
+thing. The next hack is using plan mode.
+Now, I know plan mode is not something
+revolutionary, but it's a big
+misconception as to what it actually
+does and when it's important. So,
+whenever we have a new task in Claude
+Code, we ask ourselves whether it's hard
+or not hard. If it's hard, so if it
+requires different steps, then we use
+plan mode, then we review the plan, and
+then we approve it, and then we execute
+the actual thing to give us the output
+that we want, right? An example of this
+could be an API with five endpoints, or
+when you're building a full workflow,
+and I'll show you exactly what that
+looks like because it has different
+steps to it, and you want it to plan
+accordingly. Take the time to show it to
+think through how it's going to build it
+before it builds it. On the other hand,
+if you have something very easy, like
+fixing a typo or changing some sort of
+color in a button that it made in a
+software, then you can just execute
+directly without needing the plan mode
+because there's not much planning to it.
+It's just a very, very easy task. All
+right, so here I'm on my main hub in
+Claude Code, which is called the YouTube
+workspace. Um I automate pretty much 30%
+of everything that I do on a day-to-day
+basis with like YouTube. I would even go
+as far as saying like 40%. Now, here
+under dot Claude, and by the way, if
+you're new to Claude Code, if you have
+no idea what I'm talking about, if this
+looks very confusing to you, watch this
+video up here. It will give you a much
+better idea. But, if you understand
+skills, which I'll walk you through in
+the last hack as well, Excalidraw
+diagram. So, that skill right there
+allows me to be able to make these
+diagrams automatically. To break down
+the topic for you guys to understand, I
+typically break it down in a visual way,
+but also make it practical. So, you see
+how I'm showing you the diagram, plus
+also how you can use the actual concept
+here. And so, in this case, let's say I
+wanted to make a video about
+anti-gravity versus Claude Code. By the
+way, if you want the video, let me know
+in the comments down below if you're
+interested. If not, also let me know.
+Haha. But, if I wanted to do a video on
+anti-gravity versus Claude Code, well, I
+would want to basically, first of all,
+explain what anti-gravity is and how
+Claude Code is different from
+anti-gravity. And so, I would want to
+make maybe three diagrams, I would say,
+using Excalidraw, which is this platform
+right here, which allows me to explain
+my concept, the differentiation between
+anti-gravity and Claude Code. Okay. So,
+I told it to research anti-gravity. I
+told it to research Claude Code. I
+wanted to look for the differences. I
+wanted to make three visuals, and then
+give me back the visuals. Okay? So, a
+task like this has a plan, right? And
+so, instead of going bypass permissions,
+which is basically where we go Yolo
+mode, we say, "Hey, take care of it
+yourself. Don't ask me for any help.
+Don't make any plan. Just go after it."
+right? We can go and use plan mode to
+make a plan first before it gives us the
+output. Okay, so now I'm going to press
+run. And you know it's in plan mode when
+it's blue right here. Bypass permissions
+is going to be red. Now, it's saying
+that it's going to research both
+products in parallel to understand what
+we're working with, and then plan the
+diagrams. Okay, so that's how it plans
+through. That's how it thinks through
+actually planning the the whole concept
+here. Okay, there you go. So, after a
+few minutes, it made the plan, which is
+Google's anti-gravity versus claw code
+three visual comparison diagrams. It
+gives you the context. So, we clearly
+want to create XYZ. Research summary, so
+the summary that it made. Three key
+differentiators, so interface, agent
+orchestration, verification and
+feedback. And deliverables, which is the
+three things that we want, right? With
+the color system, the layout, diagram
+one, diagram two, diagram three, diagram
+four, and the implementation steps, and
+the files and verification. One more
+reason why I do also like this in
+specific is because when I use plan
+mode, I can also add comments. So, I can
+say interface paradigm. Paradigm is a
+very strange word. Make it
+beginner-friendly. That was a very
+stupid comment, but let's say you add a
+comment. When we press approve plan,
+then we will approve the plan, but it
+will also take the comments that we add
+in the plan as context to change to
+whatever it is that we told it to
+change. But also, I get to see exactly
+what it came up with. Cuz if I didn't
+like interface paradigm or if I didn't
+like agent orchestration, I could say,
+"Hey, can you find something else?"
+right? And we can go back and forth.
+Now, let's say I I like the plan,
+everything's good. Now, I can press send
+feedback and keep planning. So, send
+feedback because we we added one
+comment, and if you add more comments,
+so if you say here, let's say
+orchestration, you add, "Turn this to
+organization." Turn this word.
+So, we're just playing around with the
+names.
+I can go here and I can send feedback
+and keep planning. Or, actually, now
+that I thought of it, color system, I
+know anti-gravity is not purple, so we
+can do use dark blue.
+Claw code will be not blue, it will be
+uh use orange.
+That's it. Now, I can go back. It will
+say we added four comments. It will take
+these four comments, and we can send
+feedback and keep planning. Okay, so now
+it will take the feedback, it will apply
+the feedback, and then give us back
+another plan with the updated feedback.
+It's a lot of feedback there, but you
+get the point here. It's basically
+crafting the whole plan before it gives
+it to us. All right, so here we have the
+new updated plan. If I go back here, we
+can see that we have dark blue, orange,
+we have interface style, and we have
+agent organization. So these things
+changed. It updated the actual plan. And
+now I can say yes and no to accept. And
+now instead of making it edit
+automatically, I can now put bypass
+permissions because I know that the plan
+is good. I know that it's smart enough
+to be able to do whatever I want it to
+do. And now it's just about doing it.
+All right, so it just finished making
+the three diagrams. Now let's look at
+the output. So I can look at the first
+one. I can go here. I can import scenes.
+So antigravity, I believe this is an
+interface. So let's open it up.
+There we go. Not crazy. Insane. So here
+we have the actual diagram that it made.
+Google antigravity and Cloud Code. This
+is the diagram itself to show the the
+differentiation in the interface. The
+next one is agent organization, which is
+this one right here, which is on the
+left-hand side is antigravity, on the
+right-hand side is Cloud Code, showing
+the difference. And finally, we have the
+agent verification, which is this one
+right here. So the verification in how
+they both work. Now the output was
+significantly better because we took the
+time to plan things ahead. On the other
+side, you could have just used bypass
+permissions, and it would have given you
+something, and I've tried it before, and
+the output just wouldn't be as good as
+you'd want it to be. So if a task
+requires more thinking, if it requires a
+plan, just make sure to use plan mode
+every single time.
+So the difference between a kitchen sink
+versus a clean session is the amount of
+tokens that it uses. So if you didn't
+know, a Cloud Code session, right, one
+session means one kind of conversation
+here. If you go here, I just press this,
+it will compact it. I'll explain what
+that means, but essentially each
+conversation has X amount of tokens. So
+if I go here and I put context,
+we get the context usage, right? So we
+get how many tokens have we used so far.
+So we have a limit of 200,000 tokens,
+and we have used about 83,900 tokens in
+one session. So the whole session that
+we just did, it used about 83,900, which
+is about 42% of each one. And it also
+gives us the the like percentage broken
+down into like what actually takes the
+most amount of tokens. So, the system
+message is 3.8, the system tools is 9.3,
+the MCP is 5.7, the system tools is
+10.8, and so on, right? And so, you have
+>> [music]
+>> all the tools broken down, and you can
+see everything here. My point is that
+your prompts are better if you separate
+them in different sessions, right? So,
+instead of fixing a bug, making a new
+feature, refactoring something, or
+writing a doc, all in the same session,
+right? Even though they have nothing to
+do with each other, you would create a
+session for each one. And when I say
+session, I mean a new session here. So,
+you press plus, this is a session.
+Conversation. You can call it
+conversation, really not a session. So,
+conversation one, conversation two. Cuz
+the more tokens you use in a session,
+the more stupid Claude Code becomes. The
+more it starts to think less, and the
+more it starts to get overwhelmed with
+information. And so, split them up in
+different conversations, and then you
+can start over. Now, I call this prompt
+hack because sometimes you think that
+the problem is your prompt, but really
+it's the session tokens that you're
+using. So, right here, we basically made
+three diagrams for a video that I'm
+planning to make. Now, we're using about
+42% of the actual usage. If I keep going
+with this conversation, we could do
+that, right? But the level of
+intelligence of Claude Code will
+decrease the more you increase the
+tokens in that conversation. So, if I
+wanted to deploy another workflow, let's
+say comment analysis, it goes to my
+competitors, it goes through all their
+comments, see what people want, and it
+gives you back a report. Is it better
+for me to keep going on the session, or
+is it better for me to go to a new
+session and start from there? Well,
+obviously, it's better to go to a new
+session and start from there, because
+you start from scratch, and if I go here
+and I put context,
+then this will now give me the context,
+and we're only using about 9% token
+usage. So, now it has a fresh mind, and
+it can start doing the task that you
+wanted it to do without being
+overwhelmed with all the information
+from the previous conversation that we
+had, which did something completely
+different. The next hack is using
+Claude.md. So, let's say you wanted to
+make an app, some sort of software app,
+okay? And you wanted the app to use
+TypeScript, you wanted all the words to
+follow camel case, you wanted to use
+Tailwind, you wanted to use Superbase,
+and you wanted to use an app router, not
+pages. Now, don't worry if you're not
+really understanding what all these
+words mean, but understand that these
+are all rules, right? And so, these
+rules, you can either tell Claude Code
+every single time to do all these
+things, or you can add them to something
+that we call a Claude.md document where
+you basically build a one-time prompt
+and it will auto-load that prompt every
+single time in cloud so it has context
+and we don't have to repeat everything
+over and over again. So cloud already
+knows, you just ask. So if we had to
+make a PDF document and we wanted the
+color to be blue, we wanted to see the
+letters to be small, we wanted the I
+guess the font to be italic font, right?
+We can either tell it individually every
+single time or we can add it to a prompt
+like this and then it will use that
+every single time without us having to
+repeat ourselves. Now lucky for you, I
+made a skill in cloud code called the
+cloud. md generator. And this includes a
+pull prompt on how to make the best
+cloud.md document plus it gives you the
+example structure of one of them for
+example here, right? So all you have to
+do is download the skill which you can
+find in the second link down below and
+here we can say, "Hey, I want to create
+a cloud.md prompt for my project for
+[music] my app that I'm building. I just
+want you to ask me any questions of what
+you need from me to be able to make this
+document." We can press go. So now what
+it's going to do is it's going to look
+at the skill of all the requirements
+that it needs to be [music] able to make
+the cloud.md document and then we're
+going to start working on it. So as you
+can see here it says, "I have found the
+cloud.md generator skill. Now let's walk
+through the process." So now it's going
+to ask me where it should save the
+cloud.md file. I can press recommended,
+it's fine. And then tell me about your
+project. So what is the project name,
+what does it do and who is it for? I can
+press other and I can start talking to
+it. So let's say here I say, "Okay, so I
+want to build a website." So this is for
+a website and the website needs to be
+for my company JM Solutions.
+We're an AI automation agency that helps
+marketing agencies to be able to build
+their back-end delivery systems and
+yeah, that's what that's what the actual
+thing is for. So you give it context and
+then the tech stack we'll use is I'm not
+too sure. Whatever you think is the best
+for build a website, let's just do that.
+We can submit the answer and now it will
+start thinking about what to put in the
+cloud.md document. Okay, so it's not JM
+Solutions, it's JM. But now when it
+makes the cloud.md document, it will be
+an overview of what it is that we want
+to build. For your JM Solutions website,
+what kind of pages features do [music]
+you want? Landing plus services, keep it
+simple keep it simple. Actually for
+conventions,
+actually let's keep it simple.
+>> And rules is going to be any hard rules
+cloud must always or never do in this
+project. I have specific rules.
+There you go. And now it's most likely
+going to ask me for rules. Because all
+these rules, I don't want to repeat
+myself every single time I use Claude
+Code, I want Claude Code to use the
+Claude MD document when it's actually
+building the thing that I want it to
+build. What are your hard rules? Mobile
+first design, no inline styles. There we
+go. Submit answers. And also other, my
+company name is JM Solutions, not JAM.
+Okay, so here we have a plan to create
+the Claude MD document. We have the
+context, project with the JM Solutions,
+AI automation agency helping marketing
+agencies to build back-end delivery
+systems. [music]
+The tech stack is going to be this,
+pages, conventions, file structure,
+rules, actions, verification, and we're
+good to go. Yes, and now we'll accept.
+All right, so here it made the Claude MD
+document. If I open it up, I can see
+that we have a full prompt, which is the
+one that we had before. So these are
+information, basically a summary of what
+it is that we want to build. And this is
+great for us because every single time
+that we have to go out of Claude Code
+and come back in, we don't have to
+re-explain to Claude Code what we want.
+We can just say, it knows that every
+single time that we start talking to it,
+it will always look at the Claude MD
+document. It will get context, and then
+only it will respond to us. Sort of like
+an employee having context of what it is
+that it has to do every day. I mean,
+imagine you give the AI the task to
+build a website, you give it all the
+different features and what it needs to
+do, then you go and close Claude Code,
+you come back to it later, and then you
+tell it, "Hey, keep going." And then
+it's going to ask you, "Keep going with
+what? What it is you want me to build?"
+And you have to re-explain everything
+again. That's what this prompt is for.
+The last prompt hack is using skills. So
+we call it reusable prompts. So
+initially, we had the manual way, which
+is same effort every time. So we had
+session one where we write a full
+prompt. Session two, we write another
+full prompt. And we keep going, session
+three, session four, and session five.
+And each session will take about five
+minutes, and we take about 25 minutes
+that we wasted writing every single
+prompt manually. The second way is using
+skills. So we write the skill once, and
+we use it forever. So if you remember
+before, I showed you how I made a
+Excalidraw diagram using what we call
+skills. The skills are preset
+instructions that we give Claude Code to
+perform a specific thing. And so all we
+have to do is create a skill one time,
+which will take about 5 to 10 minutes,
+and we also have a skill to create the
+skill, which is which is awesome. And
+so, whenever you want to do a specific
+thing, you can always create a skill and
+then call the skill whenever you want to
+do that specific thing whenever you
+want. And so, let's say we had the
+Excalidraw diagram thing. So, inside
+here, we have a prompt. This is a prompt
+that explains how to make the Excalidraw
+diagrams. So, this is the full prompt.
+Now, I could either copy and paste this
+prompt every single time into Clockwork
+into a new session, or I could always
+just save it here under the skills, and
+it could always read this when it needs
+to make the actual thing. Now, this is
+great for us because it saves me so much
+time whenever I want to make any of
+these, be honest. So, for example, if I
+go back here and I go to command, I can
+see here that I can call the Cloudinary
+generator, I can call the comment
+analysis, I can call the comment
+analysis report, competitor analysis,
+which are all skills which perform
+different things. Now, I've covered
+skills step-by-step in my Clockwork
+tutorial. So, if this is the first time
+that you hear about this, just check out
+this video up here. It'll give you much
+more context. But, if you already know
+what skills are, then let's actually
+build one step-by-step and show you how
+it works. Now, let's say I wanted to go
+on YouTube every day and check the
+amount of views that I have for the
+videos. Now, I could either prompt
+Clockwork to do this every day or
+whenever I want to. And by the way,
+before we build the skills, you can find
+all of them at aitmpel.com.
+These are preset skills where we have
+the skill creator, which is a skill that
+makes skills. We have the senior front
+end. We have the UI design. We have all
+these different skills that do different
+things. But, sometimes I want to make my
+own skill, which is my own custom task.
+And so, here, I can say, "Hey, I want to
+be able to make a skill, and the skill
+needs to be a skill that goes on the
+internet every time, and it finds the
+top news or top features that came out
+about Clockwork. Then, it goes on
+YouTube, and it checks the highest view
+video on Clockwork in the moment, and
+then it gives me content ideas that I
+could be using for my channel for
+Clockwork. Make a plan for it first, and
+then we can
+go ahead and make a skill." So, this is
+the initial thing that we give it. I can
+just press go, and now it will start
+making the plan for the skill that it
+needs to do. All right, so as you can
+see here, it made the plan for the skill
+that it's going to make, and it's going
+to be called Cloud Code Content Ideas.
+What it does is that it searches the
+internet for the latest Cloud Code news,
+features. It searches YouTube for the
+highest viewed recent Cloud Code videos.
+It then generates 10 to 15 ranked
+content ideas cross-referenced against
+Michael's content pillars and then it
+outputs a markdown report plus style PDF
+to outputs. So now it's going to be
+making all the skills for that specific
+thing and then we can see phase one,
+phase two, phase three, phase four,
+phase five, phase six and that's it. So
+from a single prompt it made this full
+plan of execution that we can now simply
+press yes and auto accept and I'm going
+to press bypass permissions so it does
+everything on its own. So as you can see
+here it's going through the to-do's,
+tasks that it needs to make and then
+it's adding the folder called Cloud Code
+Content Ideas, which is a folder where
+it's going to store our scale that we
+can always call when we want to to use
+it. All right, so as you can see here it
+finished making the skill. If I go to
+Cloud Code Content Ideas, I have the
+references. So this will be the report
+in PDF that it needs to give us which is
+the output. Then the scripts which is
+the actual Python scripts, it's kind of
+the the automation that it needs to
+execute, generate PDF and search YouTube
+videos. And then it has the skill.md
+which is the main document that explains
+to it exactly what we want to do. So
+with that said, I can
+go here and I can say /cloud content
+ideas.
+So it also made a command and the
+command allows us to be able to to just
+find it easily. So I can press Cloud
+Code Content Ideas. I can put this in
+plan mode and now it will start looking
+at all the different skills here and it
+will go through each skill.md right here
+and it will know that it needs to use
+the Cloud Code Content Ideas because
+it's associated with that command in
+specific. And so what it will do here is
+it will start calling the Cloud Code
+Content Ideas and it will start
+executing everything that it needs to
+do. It says I have all the content
+needed. Let me write the plan and exit
+plan mode so we can execute. All right,
+it made the plan of what it needs to do,
+all the steps, the key files,
+verification. We can go and press yes
+and auto accept and we can put this on
+bypass permissions. So the idea behind
+this is that whenever now we have to go
+back to Cloud Code, instead of prompting
+it again saying, "Hey, can you go on
+with web? Can you search this? Can you
+search that?" We can simply just press
+slash and call the Cloud Code Content
+Ideas, and it will execute that thing
+that we made previously, which again
+will take us 10 minutes at the start,
+but it will take us 3 seconds to be able
+to set this up or to call the tool
+whenever we have to run it. All right,
+so now it gives us the top five content
+ideas. It finished running the actual
+thing. Agent Teams for Agency
+Operations, Cloud Code HTTP Hooks, Why
+Delete my cloud.md,
+>> Skills Build a Business Command Center,
+and Cloud Code for Non-Coders. And if I
+go to outputs, I can see that it also
+made
+Let's go to here. It also made a report
+in PDF format. And the PDF looks like
+this. So, we have news and updates, the
+loop command which came out in Cloud
+Code, the Cloud API skill, the effort
+levels in Ultra Think, Auto Memory,
+Security, Agent Teams, Enterprise AI
+Agent ROI, and we have the top YouTube
+videos latest by 30 days. So, Next Drive
+is crushing it. Cloud Code work, there
+we go. Dan Martel, he's a legend. Brian
+Cassell, we have the other ones as well.
+And it keeps on going and going and
+going. And we have the patterns
+observed, content ideas, and so on. So,
+it took us like 10 minutes to be able to
+make this whole skill, but now it's
+going to save us a lot more time when we
+have to run it again. Cuz now when I go
+to a new Cloud session, I can simply go
+and press the Cloud Code Content Ideas.
+And when I press this, it runs it over
+and over again. So, instead of running
+the prompt over and over again, we have
+one time and we save ourselves an
+eternity every time we have to run the
+whole thing. So, that's it right there.
+You have the five prompt hacks that I
+use every single day when I want to
+build my Cloud Code Agent Workflows,
+which makes the whole process 10 times
+faster and way more reliable. Now, if
+you want to work with me one-to-one to
+be able to start and scale your own AI
+automation agency, then I left the first
+link down below, which is a one-to-one
+mentorship program. Check out the video.
+If it sounds like a good fit, then feel
+free to apply. Now, I'm going to leave
+all the resources and templates in my
+free school community. You can go to the
+classroom section, and then you can go
+to the templates vault. Bear in mind
+that not everybody gets in, so please
+put some thoughts into your answers. And
+check out this video on the screen where
+I show you the only six skills you need
+to master to be able to build your own
+AI agency in 2026. With that being said,
+I hope you find value from this video,
+and I'll see you in the next one.

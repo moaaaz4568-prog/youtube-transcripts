@@ -1,0 +1,130 @@
+in today's video learn exactly what the
+illustrates offset function is and how
+your projects can incorporate the
+function to make some really cool
+designs but also how to apply it to
+texts really efficiently
+[Music]
+so today I'm going to show you the
+offset of function on both the shape and
+also text in Adobe Illustrator so first
+of all let's generate a standard stroke
+on our design and this is something that
+we're probably all familiar with I'm
+pretty sure so like I said I'm first
+going to show you what the offset
+function actually is and how to modify
+it but then also how to add it to texts
+now the way that I apply the offset
+function is that I come into the
+appearance window so go ahead and open
+up that for yourself I'm working on a
+new shape without a stroke so in the top
+right drop down menu
+click add a new stroke depending on your
+design you might want to drop the stroke
+below the fill layer but in my case
+today it doesn't really matter we can
+quickly increase or decrease the stroke
+away here within the appearance panel
+and then to apply the offset of function
+we need to come down to the effects menu
+here and navigate to path and then
+offset path offset path essentially
+moves a stroke away from the edge of the
+shape or the design leaving a
+transparent gap in between the offset
+number is going to determine how far
+away the stroke is going to move from
+the shape the joins field allows you to
+edit the new paths angles a meter is a
+pointed corner and round is obviously a
+rounded corner and then bevel is a flat
+corner the metre limit is how far the
+points can extend beyond the original
+path so as you can see the stroke moves
+according to the offset measurement with
+the preview box checked to see all
+changes in real time and to prove it
+here you can see the canvas in
+Illustrator through the transparent gap
+in the appearance panel you can edit the
+color of the stroke very easily there
+are actually so many different things
+you can do in the appearance panel as
+you will soon see one of the things that
+you can do to your design is to add an
+effect so for example a Gaussian blur I
+suggest that you do experiment with the
+effects panel because there are really
+so many different possibilities here for
+your designs so here's a really cool
+technique that we can apply to the
+offset function as you can see I have an
+offset ring which is quite a distance
+from the circle itself we can then add a
+gradient overlay right here and then
+from there apply white to both sides of
+the gradient
+then change the angle to 90 degrees and
+lower the opacity of one of the sides of
+this looks really needs and it's another
+technique that you can apply to a vector
+design whilst using the offset function
+but to go even further we can adjust a
+stroke style here in the top menu in
+Illustrator and then experiment in the
+different settings that you can use here
+in the appearance panel alone there are
+a lot of choices for you as a designer
+when used in combination with the offset
+function you can really help to create
+some awesome things when teamed up with
+your creativity
+now finally today I'm going to show you
+how to add an offset path function to
+text properly and efficiently so here we
+have some text with the stroke within
+the appearance panel when we get add the
+offset function to our text what do you
+think is going to happen I'll increase
+the offset measurement here so you can
+now see chaos has ensued simply because
+illustrator has created the offset
+according to every single letter and not
+the design as a whole so the workaround
+here is to take your text and then
+convert it to a compound shape in the
+Pathfinder window once a text is a
+compound shape we can then navigate back
+to the appearance panel and then add a
+new stroke select the color for the
+stroke and then drop it down below all
+layers as before use the offset path
+function and then click the preview box
+to see your changes in real time as
+you'll notice we now have a neat and a
+tidy offset stroke around the text and
+we can adjust the join settings to
+if you have sections of your stroke that
+you don't wish to use you can expand the
+design and remove them in the direct
+selection tool but be mindful that when
+you expand the lettering you're not
+going to be able to change the text
+itself from here on outs
+pressing a would access at the rec
+selection tool and then simply click the
+anchor points and press backspace on
+your keyboard that was today's video on
+using the offset path function and
+debris illustrator do you think you can
+make some cool designs using this
+function let me know and also leave a
+comment if you found today's tutorial
+useful
+like and share my content on social
+media if you want half-out Sartori
+graphics and of course have a great day
+everybody and it's the next time design
+your future today peace

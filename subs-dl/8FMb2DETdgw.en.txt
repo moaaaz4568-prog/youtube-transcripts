@@ -1,0 +1,304 @@
+standing up a website can be tough
+especially for designers that don't
+necessarily have all of the front-end
+experience that they'd like I mean the
+whole process can be overwhelming you
+have the user experience you have the
+visual design process and then you have
+to wade through all of the tools that it
+takes to actually build the website all
+of these challenges that you face are
+amplified when you start working with
+clients and we get it we've been working
+with Hamilton family brewery on a
+rebrand and while the client is amazing
+their budget for web development isn't
+much so we had to get creative there we
+started looking for a solution where the
+designers the designers on our design
+team could actually build the website
+themselves in-house without having to
+ship things to a developer so we decided
+to go initially working with web flow
+was a little bit overwhelming I could
+say the same thing for any new design
+tool but honestly the learning curve
+became much less steep as we started to
+use web flow to build the Hamilton site
+we just fell in love with how
+easy-to-use it was it was super down
+there earthing watching the team learn I
+was very impressed with the way that
+they took a language like CSS and then
+translated that into a visual tool that
+we designers were used to seeing today I
+want to share with you the four best
+things that I picked up while working on
+the Hamilton website and web flow now
+keep in mind I'm not an expert this is
+just the way that I do things but my
+hope here is that you'll be able to take
+these tips and tactics and packs and
+apply them immediately to your work and
+I wholeheartedly recommend that you try
+these things out in web flow number one
+creating responsive columns truly
+responsive columns in Flex box when I
+was first starting out one of the most
+frustrating things was working with
+multiple columns in a single row that
+responded the right way when the screen
+size changed and not to mention trying
+to get a column to just be centered on
+the screen I mean ah right it's so
+frustrating I just like centered already
+right
+what makes this incredibly easy and web
+flow is this CSS module called flat
+and flex has been around for a couple
+years it's not anything new and it's not
+proprietary to web flow however web flow
+is really the only software that you can
+work with flex visually here's an
+example of a multi-column layout that
+uses two columns now before we would
+calculate the parent container width and
+set that in pixels and then calculate
+every child item width and set that in
+pixels but having those set pixel widths
+when you've resized the screen you'd
+have significant problems so to make
+this truly responsive we're just gonna
+set the parent container to flex and
+then we're gonna set the child item
+widths by percentages so now no matter
+what size the screen the containers
+scale to fit obviously at some point
+they're gonna be too you know the
+screens gonna be too small to maintain
+that ratio so we want those containers
+to stack and getting them to stack at
+certain breakpoints with Flex is super
+super easy all you have to do it's as
+simple as changing one setting in the
+Flex submenu oh and bonus centering
+things in Flex is as easy as Photoshop
+it's as easy as illustrator or any of
+those Adobe tools it's literally you
+select the parent container you set it
+to flex and then click the center button
+[Music]
+it's that easy after we were done with
+the Hempton project web flow released an
+update that you know you can now use CSS
+grid and CSS grid is fantastic it's like
+flexbox taken one step further so moving
+forward I would check out CSS grid and
+you can use both flex and grid together
+number two making themed custom content
+types is super easy for the
+hamiltonfamily brewery website we wanted
+to make sure that Josh the founder and
+his team could add an edit and remove
+the beers that they do from the website
+without having to edit every single page
+the way that you would do this in
+WordPress is to create a custom post
+type they're not the easiest things in
+the world
+- do you really need to developer for
+this but luckily in web flow this is
+super simple to do now what flows
+terminology is a little bit different
+they call it a CMS which stands for a
+content management system and we used
+web flow CMS to create the beer section
+on the Hamilton web site so let me show
+you how easy this actually was to do
+first we created a CMS collection now if
+you're doing this at home collections
+can be literally any kind of content
+I mean blog posts portfolio items job
+postings cat videos whatever you want we
+got creative and named ours ears so the
+next step is you have to define the
+fields that you want the website to
+display you want to define that the
+kinds of information that the website
+needs to display for each individual
+beer for us this was things like the
+beer name the alcohol content a short
+description and things like the labeled
+color puppets at this point all of these
+steps are kind of in the back end you're
+creating a custom content management
+system imagine trying to do this in
+WordPress with no development experience
+I mean you need to call NASA to get this
+done once we had placeholder information
+in the actual site the next thing was to
+create the page template so now we need
+to style the page template and luckily
+in web flow styling a template is the
+same way you style any other page and
+it's super easy so all the beador's
+share this template now and even if we
+wanted to make changes at this point
+it's very easy to edit because you can
+actually see the placeholder content in
+the page once we have the look and feel
+where we wanted it we added the rest of
+our beers in the backend and then hit
+publish now josh can edit and remove
+beers at will without having to mess
+with the page design settings of every
+single page
+number three using symbols to hack page
+layouts every website has certain
+elements that we reuse over and over and
+over again and what sucks about most
+page builder type applications is that
+you have to build every single page by
+itself but the cool thing with webflow
+is that you can also create symbols and
+symbols can be reused across many
+different pages and that's a wonderful
+thing and it's really easy to do let me
+show you how so we created our footer
+element and a few of the call to action
+blocks and save them as symbols the
+great thing about these is that if you
+edit a symbol on one page the changes
+carry through to all the other pages
+that the symbol is that it's a beautiful
+thing but let's take symbols one step
+further now fair warning I am quite sure
+that this is not the intended use of
+symbols but it's something that saved me
+time I recognized that I was reusing
+parts and pieces of the the site layout
+even in something as simple as like a
+two column grid and I was having to
+recreate these things individually so
+what I did instead was I used the symbol
+library to kind of build this library of
+parts and pieces that I could pull from
+let me show you how first step is the
+same an element as a symbol and this is
+really easy to do you just select these
+items you right-click and then you just
+save it as a symbol and now I have this
+custom piece saved right there in my
+symbol library now any time I needed
+that same layout or that same type of
+element I just head over to my symbol
+menu and drag it onto my artboard then
+just to make sure that I wasn't editing
+the rest of the site I disassembled
+because every single layout needs its
+own content it needs its own text and
+images so I basically use the symbol
+feature of webflow like a library of
+page design elements and that saved me
+tons of time
+when I was putting together the
+Hamiltons light step for creating
+impressive animations fast how many
+times have you guys headed to awards
+calm and seeing all of those websites
+with the flashy animations and just kind
+of wondered like how that these
+designers even have the time to think
+about that stuff I'm all about being
+functional over being flashy but these
+animations it's a great way to add some
+visual delight to your site it's a great
+way to spice things up and normally
+animations like this take a lot of time
+because you have to engineer them and
+then communicate this to the developer
+it takes a lot of time right not so in
+web flow with web flow it's really
+really easy to get this look without
+having the time and effort that it takes
+normally so currently we have all of our
+animation is pretty finely tuned on the
+Hamilton web site so I'm not going to go
+through every single one for you guys
+but let's just say that we wanted to add
+a slight rotation to this stamp if the
+user hovered over it it's super easy to
+do let's jump in first we're going to
+select our stamp image we're gonna head
+over to the interactions tab or hit H on
+your keyboard then we're gonna add an
+element trigger of mouse hover once we
+add that trigger we can start adding
+interactions and animations so on hover
+we're gonna add a custom animation we're
+gonna name that slight rotation once
+we're in this custom animation we simply
+make sure that it's effecting the right
+trigger we add some easing to make the
+animation look a little bit smoother
+since we're it's just simply adding
+rotation we're just gonna rotate this
+thing around at the z-axis at about 20
+degrees
+that should create a subtle rotation
+effect if we preview the site you can
+see that on the hover it rotates so that
+easy now we just need to add an action
+when user hovers off the Elm that we
+come over here and under on hover out
+again we click start an animation and
+this time since we already did the work
+for the hover in we can just duplicate
+that animation and reset the z-axis to
+zero close out of this preview and as
+you can see on hover the stamp rotates
+and then on hover out the stamp returns
+to normal it's that easy this is the
+final hamiltonfamily brewery website we
+are able to make in just a few days
+and the crazy thing is there were no
+developers involved we didn't have to
+write a single line of code and speaking
+of code if we ever wanted to hand this
+site off to a developer all of the work
+that we did all the front-end work that
+we created would be exported in clean
+code in just a few clicks it's fantastic
+everything was just a breeze to work
+with and to be honest we love working in
+web flows so much that we're actually
+going to be migrating our future website
+from WordPress to web flow it's just
+that easy so let's recap what we learned
+today
+number one creating responsive columns
+with flex box number two making themed
+custom content types
+layouts than before creating impressive
+animations fast using web flow you can
+actually build a website in just a few
+days so I would love for you guys to go
+try it out it's completely free for the
+first few pages so go sign up for an
+account there's a link in the
+description below go try it by signing
+up for web flow you're actually
+supporting the future it's like buying
+us a cup of coffee or a beer so try web
+flow I hope you guys got value out of
+this video and if there's anything
+specific that you want to learn about
+web flow please let me know in the
+comment section below I will be there
+responding to each and every single one
+of you for a day or two anyway guys I
+want you to go out there and crush it
+you got this like subscribe we love you
+we'll see you next time so this is part
+three take 14
+but what I noticed is I noticed a bug

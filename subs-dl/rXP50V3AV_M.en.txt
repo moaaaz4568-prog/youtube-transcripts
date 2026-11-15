@@ -1,0 +1,1209 @@
+What if you had four different AI
+employees all working at the same time
+but working on different tasks and then
+you had a fifth AI employee checking all
+their work all from one simple interface
+and that's actually exactly what Claude
+Co-work allows you to do. So in this
+episode Mark Caship is going to be
+walking us through Claude Co-work Live.
+We're going to be doing a live demo
+auditing my website to come up with SEO
+ideas, design ideas, accessibility
+content, all running in parallel with
+separate AI agents working at the same
+time. Now, Mark has been in this space
+for over a decade, so he's been doing it
+well before it was cool. And what stood
+out to me about this episode is he said
+himself, if you just spend a single
+weekend playing with Claude Co, you're
+going to be in the top 1% of people
+using it. So, we're going to cover how
+to spin up parallel AI agents, when to
+use a quality assurance agent to check
+the work of the other agents, and the
+simplest way to get started, even if
+you're non-technical like me. So, we're
+going to go ahead and dive into this
+week's episode.
+All right, Mark, why don't you tell the
+audience what it is that we're going to
+learn today?
+>> You're going to learn about the
+beautiful world of Claude Co-work.
+>> Awesome. I think Claude Co-work is an
+insane development in the AI space. And
+if you're not using it yet, you've got
+to. And if you have a Windows PC,
+unfortunately, you can't just yet. So,
+if you're a Mac user, you need to jump
+on that. But before we jump in, Mark,
+why should people listen to you? Like,
+what's your background?
+>> Yeah, I know. Great question. Sometimes
+I ask myself the same thing. But, uh,
+yeah, I've been in the AI space for 10
+years. I have a masters of management in
+AI that I got in 2019 where we learned
+about GPT2. I built like transformer
+models before. It was a cool thing.
+That's why I started my own agency in
+2022 called Prompt Advisors where we
+initially helped people learn how to use
+Prompt Engineering in their business.
+That scaled to now us working with
+hundreds of clients, hundreds of
+projects. And uh yeah, I've worked as a
+data scientist in the past at companies
+like Amazon and other startups. So I've
+been around the block a few times. So I
+might have something that the audience
+might want to be able to uh grasp.
+>> I think for sure. And I love that you've
+been doing AI so so far before it was
+cool. So I'm excited to jump in.
+>> Awesome.
+>> So what we're going to talk the the bulk
+of the episode today is Mark's going to
+be sharing his screen and walking us
+through Claude Co-work and showing us
+how that works and and running through a
+couple of live examples. But before we
+get into that, let's just talk for a
+second or two about the difference
+between Claude Code and Claude Co-work.
+So Mark, for the layman who's not
+technical, do you mind just describing
+the difference between those two because
+they can be confusing?
+>> For sure. So Claude code is in a
+terminal and most people, most business
+owners, most non- nerds like myself will
+look at a terminal and run the opposite
+way as fast as possible.
+>> Mhm.
+>> Up until the end of 2025, that was
+totally fair game. But now in 2026, uh
+the terminal has become non-technical
+friendly. Meaning once you set it up,
+you can like interact with it just like
+you would chatbt except it's
+exponentially more powerful, more
+malleable and more flexible. But because
+people are still, you know, setting
+their ways, they've used claude code to
+vibe code, claude co-work to make it
+that much easier on the eyes, that much
+easier on your soul if you don't want to
+go and actually, you know, play around
+with a terminal. So cloud co-work is one
+step above the cloud code. Cloud code is
+as powerful as you can get. So you lose
+a little bit of lose a bit on the
+horsepower, but you still get the
+experience with cloud co-work.
+And it's my understanding, correct me if
+I'm wrong, and you kind of alluded to
+this, but somebody asked Anthropic, who
+is the the makers of Claude and Claude
+Code, I think they said they asked
+somebody high up at the company, how
+long did it take you to build Claude
+Co-work and like how did you guys build
+it? And I'm pretty sure they said we use
+Claude Co. Basically, they vibecoded
+Claude Coowwork with Claude Code in like
+a week, I think, which is absolutely
+insane to me. [laughter]
+>> Yeah. So, if anything, that's really
+proof in the pudding that Claude Code is
+the source and everything else is
+derivative. But for you, if you're
+non-technical, you can get the taste.
+It's basically like a gateway drug to
+getting to the promised land of milk and
+honey of Cloud Code,
+>> right?
+>> Yeah. So, we're going to show that and I
+think it would help your audience if I
+actually show them what it looks like.
+>> Share the screen.
+>> And so, for people listening on podcast
+uh recorders, we are going to kind of
+talk through what Mark's showing us on
+the screen. So, right now he's just
+jumping into Claude Co-work and we're
+going to take it for a spin. I'm I'm
+excited to see this thing in action
+because I have a Windows PC.
+Unfortunately, I don't have a Mac so I
+can't jump into co-work just yet. But I
+do use cloud code in the terminal which
+was a learning curve in and of itself.
+My condolences on the PC. [laughter]
+>> Yeah, I know. That's what I've been
+told.
+>> I'm joking. I've had one for like 20
+years. It's just that this is a recent
+transformation.
+>> But when we hop into the Claude desktop
+app, we have three different tabs. We
+have one that's called chat, and this is
+the OG chat that you'd be aware of if
+you've worked with Claude or Chat GBT.
+Then we have this new claude co-work and
+then we have this dark zone of claude
+code which we won't allude to or refer
+to today. Claude co-work like you can
+see here it makes everything well
+categorized and compartmentalized. So
+you have a progress bar. You have a
+working folder where if there's any
+files in progress you can monitor them
+there. And anything that Claude is using
+in context you can monitor and see here.
+And if you need help with prompt
+engineering and you want to be able to
+control your computer or organize files,
+you can actually click on their
+pre-prompted buttons. It will add the
+prompts for you and all you have to do
+is just add the variables or switch the
+variables for whatever you want. So,
+it's meant to really give you the
+steering wheel and more so the different
+guardrails you need to use the power of
+cloud code without getting too deep in
+the weeds.
+>> Got it. No, that's a great little
+preview there. So again, the difference
+between this and cloud code is that
+you're just getting a little less of the
+I guess the capability using co-work
+than you would like a cloud code. Is
+that kind of the layman's way to put it?
+>> The actual sentence from the designer
+and creator of cloud code is that they
+made cloud code to be fully hackable,
+meaning you can make it whatever you
+want. You can make it do things it
+wasn't even programmed to do because at
+the end of the day you're dealing with
+raw code in a very code friendly
+environment. Claude co-work will
+naturally have some boundaries and
+restrictions and they're the ones who
+are listening to the market to see okay
+what feature do you want to see so we
+don't overwhelm the non-technical user
+>> right perfect that makes a ton of sense
+so then what are we going to be doing
+today inside coowork what are we going
+to be jumping into
+>> so I think that one of the most useful
+things that I could show your audience
+especially if they're non-technical is
+how you can use the concept of agents
+real agents not flimsy ones that you
+might have seen on YouTube where someone
+says I just spun up this 108 node
+workflow with five agents that make me
+dinner and I don't know, high five kids.
+>> Exactly. Exactly. There's a lot of hype
+and BS out there. So, the goal is how
+could I practically show your audience
+how to spin up agents for research
+purposes which would give them enough to
+go deep and really play around with
+themselves.
+>> Awesome. Let's do it.
+>> Right on. So, I need you for the prompt.
+So, what are what am I researching? What
+am I trying to get to the bottom of,
+Corey?
+>> Yeah. So, and again, I'm going to
+selfishly use this as like a consulting
+session for my business. So, uh our
+businesses return my time and we do uh
+we do AI tools assessments for small
+businesses. So, we go out and find
+basically we interview them, uncover
+their pain points, and then prescribe
+off-the-shelf AI tools that they can
+implement immediately to buy back 5 to
+10 hours per week. So, with that context
+in mind, we're trying to really beef up
+our website, return my time.com, uh,
+from an SEO perspective. So, what I'd
+love to do is is use co-work to either
+find keywords that we should be ranking
+for or find some tools that we should be
+using in our SEO efforts. Does that make
+sense?
+>> SEO. And do you want anything on the
+design front? making the copy better,
+making uh the overall experience better,
+or just
+>> Yeah, I'm I'm perfectly I'm perfectly
+open to seeing what uh what a refresh
+design would look like as well. I'm sure
+there's improvements we could be making
+from a design perspective, for sure.
+>> Gotcha. Okay, cool. So, with that, um I
+assume the website is it return my
+time.com?
+>> Yep.
+>> Yep. Okay. So, I'm not going to just
+spin up one task. We're going to start
+off with one task so I don't overwhelm
+your your audience, but we are going to
+add multiple tasks in parallel and see
+if that works. So, just to get started,
+I'm going to ask the following. I'm
+using a dictation software, by the way,
+just for those who don't know. So, I'm
+going to be talking a lot, but I'm not
+talking to Corey. I'm talking to my
+other best friend, Claude. Okay. So, I
+want you just to tell me what kind of
+agents you have access to off the cuff.
+So, I haven't given you anything. I
+haven't told you what agents I want to
+spin up, but what do you come out with,
+you know, factory default settings? So,
+you can do this to get acquainted with
+what you have out of the box because
+sometimes if you want to build a
+planning agent that already comes with
+cloud code. So, this will actually break
+that down. It will tell you there's this
+bash agent. If you don't know if you
+don't know what bash is, if you want to
+do any form of operations on your
+computer, bash will help you. There's a
+generalurpose versatile agent for
+researching complex questions, searching
+code, and executing multi-step tasks.
+So, this one is what you'll be using
+quite a bit if you use co-work. You have
+explore, which is more code oriented, so
+I won't focus on that. You have plan,
+very helpful. And then, if you want to
+ask general questions about claude code,
+there's an agent they've created that
+allows you to interview how this thing
+works. So if you want to go deep in the
+hood, kind of like someone reverse
+engineering how to build a desktop
+computer by breaking up the hardware,
+you can do the same thing. So this is
+what comes out of the box. And the cool
+thing is I'll add also to your audience
+is you can add what are called
+connectors where you can enable this
+thing called clauding chrome where I can
+make it actually not just go to the
+website and scrape your content but go
+invisibly take a look at the website to
+audit it as well which is why I asked
+that.
+>> Awesome. So, I'm going to first ask it,
+can you acquaint yourself
+with this website? And then let me paste
+this. I just want to make sure that
+Claude can see the web page. Sometimes,
+depending on how the web page is
+designed, it can't scrape it as easily.
+So, right now, if we take a peek, it's
+actually opening it in a separate
+browser on my other screen. And I'll
+bring it over here. And it's going to
+navigate. It's going to ask me for
+permission to navigate your website. And
+you can see right there, it's pulling up
+the website autonomously. It's going to
+scroll through and we don't have to
+watch it scroll through, but it will
+just get an idea of what the website is.
+Go through and navigate it. So, we'll
+have all of this in context before we
+even go and execute the next different
+sequences.
+So, you can see right here, it's going
+through.
+And maybe we'll fast forward to when
+it's uh it's completed. And I love that
+you're a Whisper Flow user as well. That
+it's funny when you said that you were
+going to dictate it, I was like, "Oh, I
+know Mark's using Whisper Flow." Anybody
+who's in this space is using it
+religiously, and I I do as well. It's
+It's my most used tool by far. Mainly
+because I probably type more than
+anything else. So, it's natural that you
+would just speak your typing out loud.
+It just makes it so much faster and
+easier.
+>> I would add one more thing since this
+looks like it's going to take a little
+bit more time. When you choose to
+dictate, usually prompt engineering was
+always constrained by your ability as
+the user to give enough detail and
+nuance to the AI for it to do what it
+needs to do. When you are yelling,
+swearing while you're talking to it, you
+can give all these micro instructions of
+everything you're unhappy with or
+everything you're optimizing for, which
+are infinitely more descriptive than if
+you tried to lazily type it yourself.
+Because when we type, we type the 80%
+and a lot of times we leave out the 20%.
+>> When you dictate it, you have less
+friction to not do that.
+>> And I do find the one thing I struggle
+with sometimes when I'm dictating
+though, like a prompt, for example, is I
+find myself repeating myself a lot. So
+it's like, oh, I already said that
+earlier in my dictation. I I don't
+necessarily need to say it again. And
+sometimes I contradict myself, right? I
+say one thing in paragraph one and then
+I say the opposite in paragraph two. So,
+there is uh there certainly can be a
+downside, but overall it makes it so
+much easier just to get your thoughts
+onto the page and especially if you're
+doing a lot of prompting like you and I
+are doing. I mean, it's a complete game
+changer, saving a ton of time.
+>> Yeah. The one little thing that you can
+do to avoid that pain is say, "Hey, I'm
+about to dictate my entire brain on this
+topic. I might have some things that are
+contradictory. Once you go through my
+mind sludge, come back and interview
+with me questions to clarify anything
+that looks like it's conflicting or not.
+So, in a way, you create a purposeful
+and intentional speed bump. So, it asks
+you questions and it gives you a second
+chance before it goes off and actually
+does something. That's really smart. I
+actually never thought to do that. And
+to as kind of like as a variation of
+that, you could say, "Hey, below is my
+brain dump and before you process it, I
+want you to summarize it back to me in
+three to four sentences and make sure
+that I approve it." Right? So, same same
+type of idea because it might think that
+you're saying one thing when you're
+like, "Oh, actually, I meant this a
+little differently." And that could be
+the difference between a good output and
+and a mediocre output.
+>> Yeah. And the last thing I would say is
+sometimes if you don't know what you
+want, usually let's say you're having a
+bad day and someone asks you, "Oh, how
+are you doing, Corey?" And you kind of
+say like, "I'm fine." And they have to
+like keep pulling information out of
+you. They have to have the initiative to
+pull it out of you. So if you can say,
+"Listen, I'm trying to do X. Ask me
+whatever questions you think that we
+need so to get the full picture of how
+to execute X." And that would help it
+help you a lot.
+So, um, it's gone through, it's
+completed its full walkth through. It's
+gotten a full picture of what you guys
+do. They got that little tagline of the
+5 to 10 hours a week, ideal customer
+profile, resources you offer. So, this
+is all good to go. And it asks me, what
+do you want to do with it? Do you want
+to brainstorm improvements, analyze
+competitors, work on content, or
+something else? So, what I'll do now is
+we'll actually spin up a few different
+agents by just telling it that we want
+them.
+Okay, so you touched on it. I don't want
+you to do one thing alone. I actually
+want you to spin up a series of sub
+aents. I want them to all work in
+parallel. One of them, I want you to go
+through all the copy that you've
+accumulated from the website and go and
+search for the latest and greatest
+documentation on AI SEO as of 2026 to
+see what this company can do to improve
+their SEO to rank better. The next thing
+is to have another agent to brainstorm
+general improvements to the site's
+layouts, the way everything's
+structured, and anything that you think
+they're missing. Number three, I want
+you to take a look at the more so the
+color scheme. I want the third one to be
+a design agent where you go through,
+look at the hex codes, see the contrast
+they have, and give anything in terms of
+recommendations on accessibility, on
+making things more engaging and easy to
+work with. And the last one is when it
+comes to content creation, if you think
+there are additional useful prompts or
+blogs they could offer, spin up one more
+agent to do that as well. So, I'll take
+my inhaler as this [snorts] uh
+[laughter] transcribes. Oh, I'm excited
+to see this. I think this is going to be
+really good.
+>> Yeah, fingers crossed. You never know
+with AI. Um, and that's the key thing.
+You have to trial and error. Sometimes
+this works amazingly, sometimes less
+amazingly. So, when it confirms, I'm
+going to spin up four agents in
+parallel. What you want to look out for
+is you're going to see this main
+sentence here that says like a
+researching agent or something or
+working.
+>> And when you unravel that, that's where
+I like to spy and see what's happening.
+So, okay, cool. Step one, we got the SEO
+analysis. I want to see now spinning up
+at the same time the content evaluation.
+There we go. Site layout and UX
+improvements. Then we should have
+the last two, color and accessibility
+analysis. This one will probably use the
+browser again to take a look at it. And
+the last one,
+fingers crossed. There we go. Content
+ideas. So now that all of these are
+initializing,
+now you're going to see them populate
+with different steps. As you see them
+populating with different steps, you can
+click right here. You could see that
+they're running all of these searches in
+parallel if there are searches that are
+needed. Notice how the site layout and
+improvements doesn't need additional
+searches,
+And so Mark with Claude like the
+difference between claude and claude
+code is obviously or not cla code sorry
+claude co-work is spinning up agents to
+do all of these things simultaneously.
+Theoretically you could do this in
+claude itself right but it would have to
+be one action at a time. Is that right?
+Exactly. So you can't spin up parallel
+agents at the same time in the normal
+cloud. Once in a while you can use a
+research agent, but I think one of the
+spoilers that I heard was eventually
+co-work would would actually replace
+chat because it would essentially be
+irrelevant to have a less helpful mode
+and a slightly more helpful mode and
+then the full helpful mode right after.
+>> Right? It's like why would you need chat
+when you have co-work, right? Or if
+you're using that,
+>> why wouldn't you want agents is the
+bigger question, [laughter]
+All right. So, it looks like our little
+individual agents have gone out and done
+their thing. What are we looking at now?
+>> Yes, sir. So, one thing you always want
+to audit is what was done. So, you can
+take a look at the eight steps and you
+can see it did Google AI SEO best
+practices for 2026 algorithm updates.
+It's gone through some guidelines,
+schema markup for SEO, best practices,
+keyword strategy,
+GEO. So that's all with us by the way,
+not mentioning anything. It went and
+looked at local SEO, content marketing,
+blog. So that's on that side. Site
+layout, there's only like one step
+because most of the context of the
+website, it already captured earlier in
+the conversation when it physically went
+on the website. So, didn't have to go
+through too much there. On the
+accessibility, it already has the
+website in context, but it went and
+searched the latest and greatest
+accessibility guidelines,
+colorblindness, everything that you'd
+need to make it more approachable. And
+then content ideas is where you had some
+searching and I would imagine it brought
+everything back. And you can see we have
+a summary at the bottom. So, it says all
+four agents have completed their
+analysis. Let me give you the
+consolidated summary. So SEO analysis,
+it walks through that and what the top
+priorities are.
+UX improvements, it gives you key
+findings. You have competing call to
+actions in the hero which create
+decision paralysis. Big gap between free
+action plan and 999 assessment. Missing
+critical trust pages, top priorities,
+single primary CTA, add founder
+visibility. So Corey, you got to spawn
+more on that page,
+>> Uh restructure uh navigation. Oh, risk
+reversal. Some form of guarantee.
+>> Yep. Then design uh pure white on near
+black can cause hellation. I don't even
+know what that is. Text lead glow for 30
+to 50% of people with a stigmatism.
+>> Card to background contrast may fall
+below the 3:1 minimum for UI components.
+>> Specific recommendations soften primary
+text. So this is giving you UI
+enhancement ideas.
+>> Yep. as well as separation of the cars,
+which is cool because if you just gave
+this to normal Claude that didn't have
+access to this connector to go and
+search it and see it for itself, you
+would have to go and screenshot each and
+every page to then have it audit it. The
+goal is doing the most with the least
+amount of input,
+>> right? Then we have content ideas based
+on what you have and it comes up with
+those. And then blog post ideas, podcast
+ideas, and then it asks me as a
+follow-up, do you want me to compile any
+of these in the deliverable content? So
+just to your audience, I we won't I
+won't have to make us sit through this.
+But step one, I could say, cool, I want
+to be able to store this somewhere else.
+So can you create a markdown file
+denoting everything that you found in a
+lot more detail? Right now, I know
+you're giving me the TLDDR summary of
+it, but can you create a markdown file
+and throw it into our either context or
+our working folder so that I can take
+advantage of this later. So, you could
+do this and it will create a series of
+files, but we could go the next step
+where what I like to do is one thing you
+can do in Claude Co-work is cue your
+next prompt. Meaning, if you're
+>> if you don't want to just have to wait
+and come back and you already you know
+what the next natural step is, you can
+do that. So, I can say, "Cool. Can we
+spin up two more agents? One to create a
+deck, a PowerPoint deck. Nothing too
+fancy. It would be cool if you used our
+color scheme from the website and then
+created a deck on exactly what we'd need
+to do tactically and give examples.
+Right now, you didn't really give me
+examples on the SEO front, like what
+keywords have to change, what sentences
+have to be there. It should be a
+presentation that's comprehensive enough
+that I could read it. I could give it to
+my business partner and then they would
+be able to make the necessary decisions
+from there. And then I want you to spin
+up another agent that will act as the QA
+to look at the first draft of the
+PowerPoint to make sure the colors are
+good, the text are good, the overlay and
+the distribution is good, and everything
+makes logical sense. So while I take
+another inhale, I can cue this up. And
+now you have two things ready to go at
+the same time. So this is running, this
+is running, and it's going to just keep
+going.
+>> Well, that's such a smart idea to have a
+second agent basically to check the work
+of the first agent. I I think that's
+something that most people would never
+think to do, but I mean, it makes sense
+just like you would in a real business.
+And that's where I think a lot of people
+go wrong when thinking about agents is
+an agent is essentially your employee,
+right? Like that's how you need to be
+looking at them. And if you had, let's
+say, employee number one putting
+together this big detailed PowerPoint
+deck of all these SEO tools and
+suggestions and best practices, wouldn't
+you naturally have another employee or
+maybe even you yourself look over it
+before presenting it to the stakeholder
+and making sure that it's correct? And
+so that's exactly what we're doing here.
+It's no different than how this process
+would work with two human employees. The
+only difference is we're using two AI
+employees. So that to me was a really
+interesting thing that you did there.
+And one other question too. So So I know
+with like the initial prompt we told it
+to do four different things and we
+explicitly told it to spin up four
+individual sub aents, one for each of
+those tasks. My question is, if we
+didn't tell it explicitly, hey, use a
+sub agent for this and then use a
+different agent for this, would it have
+done that automatically, or would it
+have tried to do all of four of those
+tasks with one agent and therefore we
+probably would have gotten a less
+quality result?
+>> Yeah, great question. So, it really
+depends on Claude's mood that day and
+how good your prompt is. So it might,
+and I've seen it, autocreate agents on
+your behalf if it can look at your
+prompt and it can actually parse out
+three independent or mutually exclusive
+tasks that could make sense to run in
+parallel. But if you prompt it in a way
+where it's kind of like gobbledegoop and
+they're all somewhat interconnected, it
+might try to oneshot it from the chat
+itself with zero agents,
+>> right? And where you lose out is not
+just on quality, but just to go back
+above while everything's running, each
+one of these agents technically got a
+fresh chat of its own that you can't see
+on screen. So, if your audience doesn't
+know, every language model has this
+denominator of how much context you can
+give it before things start to get into
+the hallucination nation zone that I
+like to call it. So, Claude, as of
+today, has 200,000 tokens. It's not
+necessarily one to one with words, but
+let's for the sake of simplicity call it
+words in the chat. Once you surpass
+100,000, 120,000, that's where Claus
+starts to have amnesia of the beginning
+of the conversation. You start having to
+repeat yourself and not getting the
+results you want. So each one of these
+technically gets a fresh 200,000 context
+window of a separate chat where the
+entire chat is about that one task. So
+when you have agents and you use them
+like this, you zero in on focus versus
+doing a series of 8020s across the
+board,
+>> right? Okay, that makes a ton of sense.
+And now, have you ever given it tasks or
+or been worked on workflows where you
+get close to exhausting the full 200,000
+token context window?
+>> Yeah.
+>> Yes. What it will do is it will do
+what's called autoco compacting. This
+actually didn't used to be the case. So
+up until December of 2020 2025, you had
+to literally take a your chat, summarize
+it elsewhere, like Gemini, and be like,
+can you make me a summary so I could
+continue a new chat? And then they added
+autoco compacting. So once it hits a
+certain threshold for them, that
+threshold is around 90%. Which at that
+point, by the way,
+>> when it autoco compacts to keep the
+conversation going, you don't know as
+the user what it has or has not included
+in that summary,
+So you can still do it, but you don't
+know sometimes if it's continuing the
+context that you need to do what you
+need to do,
+>> right? Because who's to say that it when
+it summarized 90% of the conversation
+that it didn't or that it included all
+all the key points that you needed,
+right? Maybe it kept six out of the
+seven key points and it's missing that
+one really important piece of context.
+So that I could see that being an issue
+potentially.
+>> Exactly. Exactly. So if we go to the
+bottom here, um it said it's created a
+report and this is the markdown file
+that I asked for. So this is a full
+comprehensive report on everything it
+did and it stored it in a working folder
+and it's called it return my time
+analysisdown file. And one thing I
+wanted to show your audience as well is
+we only had one piece of progress here.
+But let's say you didn't feel like
+spinning up agents and you wanted like
+four or five steps. One thing they added
+recently is if you see it going the
+wrong direction or you want to steer it
+back, you can actually intervene with
+ask a question or recommend a change for
+different steps that haven't happened
+yet. So it's cool because co-work gives
+you a command center for either your
+agents or a particular chat.
+So you're saying that like in that for
+that second task that we had queued up
+at one point that we can while it's
+working on task one, it hasn't yet
+started task two, but we could go in and
+say, "Hey, I know I gave you some
+instructions for task two, but let me
+clarify this point. Let me add something
+to it." That's what you're saying.
+>> Exactly. So you get the best of both
+worlds.
+Yeah, that's super slick because I mean,
+how annoying would it be if it's
+starting to work through that big second
+prompt that you gave it and it you spent
+a lot of time putting that together and
+it was super detailed and then you're
+like, "Oh, now I got to start over
+again." And it's got to basically rerun
+that prompt with this new context. So,
+they need to give it, but you're saying
+you can pretty much just inject that
+into the existing uh while it's already
+>> Exactly. And you can also do the
+following where if I spin up a new chat
+and I say, you know what, I want you to
+work in this folder, my downloads
+folder. And you know what? I don't want
+you to use that clawed with Chrome
+thing. I just want you to scrape the
+website. and he say um redesign
+this website and spin up a new version
+that's way
+more modern
+pretty
+with uh tighter copy and I paste this.
+So it should come up with its own to-do
+list of how it's going to do that. So
+now first it's going to fetch the page.
+Looks like it's failing to fetch the
+page. So, it's going to try to find
+information about it. If needed, I'll
+let it do its thing, but I I'm trying to
+make this short and sweet. While this is
+running, we can still execute another
+task, which is go back to here and say,
+um, you forgot about my presentation
+deck about SEO.
+Where's it at? All right. Yeah, because
+what it gave us is like a full report,
+but I guess it didn't actually give us
+the report in slideshow format, which I
+mean, by the way, the report just from
+the quick glance that we looked at,
+there's absolutely things from that
+report that we should be implementing.
+So, that right there in the last what 15
+to 20 minutes or so gave us probably the
+next few weeks of work from an SEO
+perspective to get us significantly
+further along than we would even just
+working inside regular claude.
+>> Correct. And one cool thing is if it
+needs to clarify things, it has this
+thing called ask user input. So it'll
+give you a multiple choice of like okay
+what's the primary audience and purpose
+for the SEO presentation and I'll say uh
+internal and I'll it says okay how many
+slides um concise. So now you have
+steered it on the right direction and
+then you can go and let it do its thing.
+Here's the to-do list it's coming up
+with like I alluded to and then if you
+wanted to switch things up you could.
+You could just click on this and comment
+on it. But now it should go and use what
+is called a skill which I think is
+important for your audience to
+understand. Claude has injected
+capabilities for it to do that it can
+call on when needed. So if you want it
+to make an Excel file, if you want it to
+do your budgeting for you and you have
+this really rinky dink CSV where you
+manage your finances or your inventory
+or your products, it can create Excel
+files. It just has to know that. It will
+invoke the skill basically reread the
+cheat sheet on how to make an Excel file
+and do it for you. So right now it's
+doing the same thing when it comes to
+how do I create a PowerPoint deck. So it
+read its skill. It realized it has to
+use this library called HTML to
+PowerPoint. And now it's going to start
+the process of actually creating the
+first slide. Here's the first slide. And
+this is beautiful because you as the
+user can really keep track of what's
+happening and how. And so you did a good
+job explaining skills there. And that's
+personally what I spend the most time
+doing is just thinking about what skills
+I need to create and actually going in
+and creating those skills and making
+them as detailed and comprehensive as
+possible. And how I've explained skills
+to people is that just think of them as
+a very detailed SOP or standard
+operating procedure for some tasks that
+you do in your business on a regular
+basis, right? And it can be anything. I
+mean, you can have hundreds or even
+thousands of skill files if you want,
+and they can be as granular as you'd
+like. So, one example is I've got, and
+this is actually for my uh AI agent
+assistant. I she has her own set of
+skills, but I have the same skills
+inside of Claude. But one skill that
+I've equipped her with is
+>> the ability to do podcast research for
+very specific types of podcast that we
+then go and basically send them a cold
+pitch to get me to be a guest on the
+podcast. So, she's got two skills
+associated with that. One of them is
+podcast research. So, that's its own
+skill where she goes out and finds the
+podcast that we're looking for that meet
+our criteria. And then skill number two
+is actually crafting the pitch. So it's
+like podcast pitch writer where she then
+listens to the most recent episodes,
+distills that into a very tailored, very
+personalized pitch based on the format
+that we use and then it's ready to be
+sent. So a lot of times, at least the
+way I see it, and I'm I I assume you
+would agree, skills need to be like
+super specific. So, like theoretically,
+I could have a skill that does both of
+those things, like one skill to do
+research and writing the the pitch, but
+it just is a lot cleaner and I think a
+lot more effective to have one skill for
+research, one skill for writing, because
+at the end of the day, they are two
+separate tasks. Would you agree? You did
+an incredible job articulating that. I
+feel like I'm not needed in this
+conversation. Um, if I were to add on to
+that, when it comes to skills, you can
+think of normal life skills and how you
+could be amazing at each individual
+skill. So, let's take the most mundane
+example.
+So, let's say we're talking about
+brushing your teeth. Now, everyone in
+the world knows how to brush your teeth,
+at least hopefully. But what if you
+wanted to brush it in a way where you
+catch the most amount of plaque and it's
+the most effective way that doesn't hurt
+your gums and you want to be dentist
+approved, like top dentist approved.
+Well, it goes from being a general kind
+of thing you know how to do to then
+maybe creating a specialized skill where
+you watch like 10 YouTube videos of like
+the certified best way to brush your
+teeth. And that compressed knowledge and
+succinct concise knowledge along with
+maybe some diagrams of how exactly to
+brush up and down that could be
+collapsed as a skill and then you can
+invoke that skill whenever you're called
+on to brush your teeth. If we take that
+one small example, imagine that applied
+to every part of your life. Budgeting,
+saving money, making money, driving,
+driving in general, all of those are
+skills. And the best part of Skills with
+Claude is you don't have to bloat its
+contacts window with giving it this
+whole user prompt or system prompt that
+says right
+>> this is how you drive. This is how you
+brush your teeth. This is how you make
+money.
+>> It calls on it what's called just in
+time. Meaning when it hears like there's
+something where it makes sense to use
+that skill, it will go read quickly
+about that skill, exactly what's needed
+and go and execute it. And that's where
+it becomes that much more powerful.
+>> Yeah. And that's that's very well said.
+that just in time is the key, right?
+Like it's not going to use the skill
+unless what you're asking it to do needs
+that skill at which point it's going to
+go invoke that like you said. So that's
+that's a great way to explain it now. Uh
+so what are we looking at now? Is it
+done with what it was doing? [laughter]
+Great question. So it did finish quite a
+few slides. I think it's almost done.
+Yeah, it's literally just creating the
+final one. I don't know if I want to
+reveal it before it's done completely,
+but we'll give a preview to your
+audience. So, if you click on any of
+these files, by the way, you can always
+preview them cuz they live on your
+computer.
+>> So, if we take a look at the first one,
+this is an example of like the first
+slide it put together before it went
+through and started organizing them all
+at the same time. It has all 12. It said
+now I've already read the documentation.
+I think it's trying to just finalize
+what the final deck should look like.
+And then it should give us a PPTX file.
+Now, while this is running, we could
+also show an example of a completed
+PowerPoint file if that makes sense.
+>> Yeah, let's take a look.
+>> All right. So, I just have to
+remember which There we go. So, this
+chat has one where I completed it. And
+you would be surprised, especially if
+you're a business owner that's using
+like 10 different AI tools for 10
+different reasons. This PowerPoint skill
+is actually really, really solid. Like,
+take a look at this. This was one shot.
+>> Oh, that looks pretty good.
+>> It is pretty. Comes with
+>> I like those colors. Like I really like
+the the colors on the font and just the
+design of this presentation. It looks
+>> And yeah, just to give your audience an
+idea, I gave zero
+design instructions, zero structure
+examples. It came up with all this on
+its own. It spun up four different sub
+aents to do research. It compiled that
+research. It created the deck. It had a
+QA agent go and look for overlapping
+text. And look at this. It's absolutely
+beautiful. Now, is it perfect? No. I
+want to also point that out, too. You
+can see right here, if you squint,
+there's some overflow of text. This is
+where the QA agent could have been
+improved. Or I could have roasted the QA
+agent to tell it, "No, look, you did a
+good job, but you missed this, this, and
+this. Go back." And here's the thing for
+your audience. Once it goes back and it
+fixes it, I can say, "Cool. Now, after
+we've gone through this back and forth,
+create a solidified skill of how to QA
+PowerPoints and what to look for, now
+that I've corrected you a couple times
+on what you missed. So then, if you do
+something more than twice, it deserves
+to be a skill. And you want to do it the
+same way.
+>> And what's cool about even just this one
+specific workflow right here of creating
+PowerPoints, I mean, there's there's
+probably three or four skills that we
+could chain together to create a really
+good PowerPoint. One would be uh like a
+specific PowerPoint design skill. So
+it's like, hey, we like all of our
+PowerPoints to be formatted and designed
+this way. Could be your colors, your
+branding. That could be part of the
+design skill. Skill number two could be
+the actual copywriting skill. So it's
+like, hey, skill number one was how do
+we design it? Skill number two is this
+is how we actually write copy for
+slides, right? Maybe we use bullet
+points, maybe we use numbers, maybe
+we're concise, maybe we're verbose. And
+then skill number three, like you said,
+could be a QA skill. This is how we
+check our work and make sure that we did
+it the right way. I mean, right there,
+that's that's a three skill combination
+that would make your PowerPoints
+probably 10 times more effective than
+they are currently
+>> and or you could just use something like
+Gamma, which I love. [laughter]
+>> I used gamma. huge on Gamma until I got
+this PowerPoint skill because it's one
+thing to use Gamma and live by their
+rules on how the PowerPoint should be
+made, but if I have a specific thing in
+mind and I finally get to it and I make
+it look like it's a big consulting firm
+style, then I just want to be able to
+crystallize that. So, for me, tailoring
+is more important than just producing.
+>> For sure. Yep. That makes a ton of
+sense. Especially if you're doing a lot
+of these, right, and you want them to be
+really consistent. That's where it makes
+sense to invest the, you know, hour or
+two hours that it might take to put
+those skills together.
+>> Yeah. And now we don't have to look at
+the output of this because I already
+gave your audience a little taste of the
+PowerPoint, but this is cool that it
+popped up. So you could see we now after
+we made the presentation and are trying
+to make updates, we've bloated the
+context window. We've reached the
+logical end. So now it's compacting the
+conversation and then creating a TLDDR
+to continue it. So this point is where
+you want to be careful. like you want to
+really handhold it from here on out to
+make sure it has exactly what it needs,
+>> right? No, this is Go ahead.
+>> This is I was going to say this is
+awesome. Yeah. Any any other points you
+want to add to that?
+>> No, it's more so like this is the this
+is brand new, brand spanking new. So, if
+your audience is watching this and you
+literally spend a weekend, you already
+will be in the top 10% of people that
+use Claude Co-work and it looks like
+something they're really investing in to
+make better and better. So, if you can
+just get used to this world and
+experiment, try to break things, see its
+limits and see what you can do with it,
+you're going to be so far ahead than the
+next few months by just spending just a
+a spaceful of time doing this. And then
+once you're happy with it and you want
+even more power, the good news is it
+exists once you're ready to get there,
+>> right? When and which is jumping into
+cloud code inside the terminal and I use
+I use cursor uh that's where I'll use
+cloud code inside cursor. So that's
+really like the final frontier and it's
+really not even as intimidating as you
+might think. I mean, I have no technical
+expertise, no coding background, no
+development skills and it was very
+intimidating at first and I move very
+slow and I still move pretty slow, but
+uh Claude code is incredibly powerful.
+And it's funny, Mark, you kind of
+alluded to the answer to the last
+question that I was going to ask you
+anyways, which was, so if somebody
+watched this and they're like, this is
+great. I want to use co-work, but what
+is the easiest way for me to get my feet
+wet? you kind of already said it's like
+just spend a weekend messing around with
+it. You don't even need to have a
+specific goal in mind, but is there
+anything you would add to that for that
+person who's like h like how do I get
+started in the simplest way possible?
+>> Yeah, I mean doing the most everyday
+task that would involve research.
+Research is the easiest gateway drug to
+get hooked on this
+>> is let's say you're buying a brand new
+appliance. You're searching for plane
+tickets. go and spin up four or five
+agents each with a particular angle that
+they're looking for or a particular uh
+type of sites they're looking for and go
+and have them execute that research,
+come back to you, report on it, create a
+PDF guide and design of what they found,
+and just that one workflow, however
+mundane that is, would give you enough
+of a preview of what's possible.
+>> 100%. No, I think that's a really good
+plan. And Mark, thank you so much for
+taking the time to educate us today. I
+learned a ton and I'm sure the folks in
+the audience did as well. So with that
+said, Mark, where can people go follow
+you or go find out more about you or
+even work with you directly?
+>> Yeah, first of all, an honor to be here
+and thank you for having me on the
+channel. Really appreciate it and I hope
+your audience actually benefited
+something. And in terms of YouTube, I'm
+also on YouTube. It's Mark_ashiff. I go
+very in the deep end in the wild, but I
+also try to make things as
+comprehensible as possible when it comes
+to AI. And yeah, outside of that, I run
+a big community. So, if you're ever
+interested in jumping into the very deep
+end of AI and really being in a
+community of hundreds of people doing
+the same thing, I run a community called
+Early AI Do Adopters. And that's pretty
+much it. Awesome. And of course, we're
+going to put links to Mark's YouTube
+channel and his community in the
+description if you're if you're watching
+on YouTube or in the show notes if
+you're listening on Apple, Spotify, or
+any of the other podcast platforms. So,
+Mark, thank you so much for your time
+and for everybody in the audience. We'll
+be back next Wednesday as always.
+Cheers.

@@ -1,0 +1,1416 @@
+Claude's code.
+Claude's code.  Can
+Claude really
+replace your entire
+marketing team
+?  Well, I'm going to find out
+.  Because in
+this video, I'm
+going to test
+this by quickly launching a
+full email
+campaign for a
+real brand
+using just
+Claude.  Strategy,
+text, design, everything.  And
+to see if
+this can create a
+high-quality,
+legitimate email
+campaign that a brand
+could actually
+run, I'm going to
+show it to
+my team members without
+telling them it's AI.
+No way.  This is
+crazy, like...
+Oh, this is pretty sick.
+Why are you doing this?
+Why are you making
+such an effort?
+Each of them actively
+conducts email
+marketing for eight-
+and nine-figure
+brands,
+reviewing hundreds of
+email campaigns per
+week.  So, if
+they can't
+sniff out that it's AI,
+it will literally pass
+anyone.  But
+if they notice it's
+AI, I'll consider
+it a failure.  Before
+we get started, I've outlined
+everything we'll
+need to
+give Claude everything he
+needs for the
+best
+email campaign possible.  First
+, we need a brand.
+It needs to be big,
+popular, and one
+that sends good
+email campaigns so that
+when I show it to
+my team, there is a
+fair
+comparison of all the
+benefits.  Then we
+will conduct a
+brand analysis.  We will provide
+Claude with
+product pages, landing
+pages, images,
+and dozens of email
+campaigns that the brand
+has sent out over the past
+few months.  Next
+comes the
+campaign strategy.  We
+will rely on
+Claude as our
+own email strategist
+, who will choose the
+strategy, choose the
+hook, choose the angle
+, literally everything
+.  Then we will ask
+him to write the text.
+Apart from the context
+we give in one
+prompt that I'll
+show you later in the
+video, we won't write a
+single word of text.
+After that, we
+will develop it.  I'll show
+you how we can
+create not only a
+design system, but also an
+email layout framework
+in Claude design, and how
+it will generate the
+entire campaign for us.  Then all that's
+left to do is
+show it to the team.
+I'll meet with two or
+three members of my
+team to see
+if they can
+sniff out what
+Claude did.  After
+that, the first thing I
+need to do is
+choose a brand.  I will
+choose one that is
+similar to the brands
+we work with
+every day so that when I
+show my
+team members the final
+mockup, they will be
+familiar
+with the brand in some way.  So I'll
+choose Heexclad.  If you
+don't know who they are,
+they are one of the fastest
+growing
+cookware brands in the world, better
+known as
+Gordon
+Ramsay's brand of pans.  They are
+bestsellers on Amazon
+and Costco, and they now
+sell over 500
+million per year across
+all channels.  They are
+perfect
+for this because there are
+so many
+images in the world and they are
+known for their
+impressive designs.
+So if Claude can
+replicate what they
+send out regularly
+, that would be crazy.
+Okay, this is the
+Heexclad website, and again,
+if you're not familiar with them
+, they have a
+ton of different
+products related
+to kitchen utensils.
+They have pots,
+pans, knives,
+Hexmells, aprons,
+all sorts of different sets
+and hybrid
+offerings.  And when you
+browse the website, you
+can tell that
+design is central to
+their
+brand.  And luckily
+for us, that means there will be a
+wealth of resources online
+that we can
+draw from to pass on to
+Claude.  Now that we
+know what brand we
+will be
+using, we
+need to start
+gathering context.
+If I miss it,
+Claude will just generate a
+generic
+email
+based on his own
+research.  So
+I need to provide
+him with as many
+images, resources,
+and context as possible so
+no one can
+accuse me of
+throwing
+everything at him.  So,
+let's begin.  Okay, the
+first thing we
+create the Claude project.
+It will be the home for
+everything we provide to
+Claude.  As you can see, I
+named it Heexclad, and
+all we're
+trying to do
+is create the text,
+design, and
+email layout system
+, which we'll
+inevitably hand off to
+Claude design.  And the first thing we're
+going to do
+is provide a full
+context for the
+Heexclad website, because if Claude
+can see how
+Heexclad writes his text,
+it will help us for
+our layout.  So, I
+used a few
+tools to
+gather all the different
+product pages,
+landing pages, and
+blog posts on the
+Heexclad website.  As you can see,
+it's about 35+
+pages, and instead of
+uploading thousands of
+these URLs to
+Claude itself, I took the two or three
+dozen
+most important
+pages and
+converted them into
+markdown files that
+look like this.
+If you're not familiar,
+markdown files are very
+important for LLM
+because they are very small and
+very rich in
+information.  So,
+as I flip through this, you
+can see the
+markdown file for heexclad.com, the
+main page.  You
+can see all the
+different headings, you
+body text, all
+these different sections, and
+it literally just
+gives Claude the whole
+download as if it were a
+human.  So let's
+add them.  What I'm going to do is
+go all the way to the
+bottom, go
+to contacts, and I
+need to upload
+from my computer.  In
+this case, I
+already have a folder with all the
+different MDs.  I'll
+go through them all now and
+download them.  And as
+you can see, Claude is uploading them now
+and currently
+has 60 or 70 of the
+pages on the
+Heexclad website.  Then, another
+important part is
+using the email mockups
+that Heexclad has sent
+over the past 6
+months.  I took 30
+email mockups
+that Heexclad
+has sent out over the
+past few
+months, downloaded
+them, and now they are
+ready to
+upload.  So, in the
+same section, I'll
+upload a few more,
+go to the
+Heexclad emails, and in this
+case, I have
+about 25-30 PNG
+files of recent
+Heexclad emails that they've
+sent.  So
+let me
+add them here.  So
+now Claude has access
+to some of the
+texts written on
+their website and
+some draft
+emails
+they've recently
+sent.  So, I
+created this task
+for Claude
+to analyze all the
+email layouts
+I just
+added and break down everything
+from text style to
+design elements, and
+a lot of the really
+important things that
+make a good email
+strategist good.
+So, I'm going to
+put this task
+in here and just say,
+"Hey, Claude,
+analyze all the
+email examples
+for Hexclad
+using this
+task."  Perfectly.
+Then we'll let him
+work.  And while
+Claude is working,
+just show you exactly
+what was said
+in this invitation
+that I just gave him.
+First, there will be a search for
+text templates.  Everything will be
+covered,
+including hook,
+angles, pain points
+, dream states, all the
+really important
+things like direct
+response that
+will help Claude
+write the text.  Then
+there are the actual visual
+elements, everything from
+text hierarchy to
+colors, angles,
+icons, banners,
+all the things that
+make a good
+email design
+.  And then, at the
+very bottom, we have
+this last section
+where it's kind of a
+little handover.
+So when Claude
+is finished, he
+will have a nice
+rich document
+use to
+then hand over the design to Claude to
+develop the final
+layout.  Good.  So,
+after about 15
+minutes and even
+a few small
+skirmishes to
+continue because I
+provided too much
+context, you can
+see that Claude
+has gone through everything we
+gave him.  He
+analyzed each
+email,
+starting from the objective,
+headlines,
+proposals, calls
+to action, and even the
+overall structure of
+the sections.  As I
+scroll down, he
+even added
+little notes about what
+different types of
+text templates look like, ranging from
+hooks, headlines, and
+even body
+text.  Then,
+continuing to
+descend, he
+delves deeper into
+pain points,
+dream states, fears, and the very
+specifics of the product.  And
+, as I keep scrolling
+, just because I don't
+think you
+need to see all of
+this right now, did
+he leave at least a few
+little comments
+on the design itself,
+as you can see
+here in the
+design report.  And as you
+can see, that's a
+lot of information.
+But these are the steps you
+need to take if
+you want to give it a
+real chance of
+producing a good
+result.  Okay,
+so Claude now has
+all the
+information he needs to
+make the best
+choice.  But before we
+ask it
+to generate anything, we
+need to know the
+campaign strategy.
+So, that's exactly what we're going to
+do next.
+Let's see what he
+comes up with.  So while we're
+still in this chat, I'm going to ask
+Claude to just
+come up with some
+ideas on what
+type of campaign we should
+send.  So, with that in mind
+, I'm just going to ask
+him
+to come up with five ideas
+for a potential email
+campaign promoting
+their knives.  So, it looks like
+he has this whole
+composition.  He is looking for
+different angles for
+this.  He even
+searches the project to
+potentially find a
+blog post, a
+landing page,
+just something with his
+knives to
+get back from the
+main angle.
+Okay, let's see what
+he came up with.  So, the
+first one, Dolan Void.  You
+can see there
+'s a bit of a pun here,
+but this one is trying
+to address
+the objection that
+it might
+not be sharp right
+after installation.
+So, this is the first one.  Next
+comes “Layer Up,” more of an
+editorial newsletter.
+This is simply
+highlighting different
+reviews.  We have "Chop
+Talk."  This is probably
+more like an
+authority base
+using
+a lot of
+celebrities,
+famous people who
+have used knives
+.  Uh, we have "Table Manners"
+.  This is a great option.
+Here,
+the angle is used in a specific
+use case
+that clients may have
+, which in this
+case is an event.  And
+if you go down to the
+Y, it even tells us to
+put the
+steak knives on top of the other
+cutlery, which is
+pretty cool.  And
+the last option is "Two
+of a Kind."  This option is
+more
+price-oriented, offering
+different types of knives as
+options rather than just
+one.  And to be
+honest, all of these
+options could
+make good email
+campaigns, but
+for the sake of this, I'll just
+choose "table Manners"
+because I personally
+like this one
+the most.  And that
+brings us to the
+third step—
+writing copy
+that actually
+sounds like a brand.
+This is the part that
+interests me the most
+for testing, because
+it is usually an
+accurate indicator
+of what AI is and what isn't.
+Mainly because
+most people are
+lazy and just
+say, "Hey,
+write me a
+marketing
+campaign for this
+product."  But this is a
+surefire way
+to get a terrible
+result.  It may
+be 100% correct,
+but it is not 100%
+universal.  This is the
+main reason why
+my team
+can usually spot
+AI text from a mile away.  So I won't just
+ask him
+to write the
+email text.  I'll
+get him to write
+something
+high-converting and
+on-brand by
+giving him two things.
+The first is text from
+their website.  I will
+find dozens of
+different
+pages, and
+blog posts, convert them
+into markdown files, and
+hand them over to Claude so
+he knows exactly how to
+write for Hexclad.  Then
+I'll give him the actual
+mock-ups of the
+emails that Hexclad
+recently sent out.
+This way, it
+will have both a base and the
+domain-specific text we
+need to write.
+So, let's see how
+it goes.  I will highlight
+everything.  I'll click "
+Reply", and now I'll
+tell Claude to write
+all the text for the layout
+.  Write me an entire
+email mockup
+based on this
+concept and
+be sure to clearly
+label each
+piece of text with
+type, i.e.
+headline, body
+text, icon, call
+to action, etc.  Okay,
+here it is.  So, at
+this point, Claude
+came up with a bunch of different
+angles.  We've chosen
+the one we
+need and now
+we ask him
+to write the final
+piece of text and
+then once he
+gives it to us
+we have the basics of the text, the
+basics of the design and the
+final text
+pass it to Claude
+design.  So in the meantime,
+upload these two
+Markdown files so we
+can jump straight
+to Claude design when it's
+done.  Okay,
+now that we have
+the text, all that's left to do is
+design the layout.
+I could cheat and
+just make it a
+regular text
+but that would defeat the
+point of trying to see if
+Claude can actually
+, from strategists to
+designers.  So
+instead, I'm
+going to build an
+entire design system
+around Hex Cloud, a
+wireframe template for
+emails, and
+see what Cloud
+can do in one fell
+swoop.  Let's see how
+it goes.  Good.  So,
+to create your own
+design, you need to
+go to cloud.ai/design and
+you will see a
+user interface that
+looks something like
+this.  At the top you have a
+standard box where
+you can start
+creating different
+designs on the left and
+right, but in this
+case, to get the
+best possible
+result, we
+will create a unique
+design system and
+then a wireframe for the
+email layout
+.  So to
+create a design
+system, we're going to go
+right to this place
+where it says design
+systems, and we're going to
+system here.  We will not
+use Cloud
+Code.  Here you will select "
+create".  Good.
+So here we'll
+set up the design
+system, and in this
+section we
+only need to provide Cloud with three
+different things.  First,
+it is the company name or a
+general description of what the
+design system is intended for.
+Secondly, it is
+downloading files.
+I will provide Cloud with not only
+sample
+email layouts,
+but also pull in 200
+to 300 photos that
+can be
+used for the
+layout, as well as
+supporting graphics.  And
+thirdly, these are notes.
+Here I will inform Cloud
+that the inevitable
+result will be a
+mock
+email to try
+to steer it in the
+right direction
+.  Good.  So,
+first I'll just
+put in this
+little description.
+Essentially, you just
+tell it
+about the company,
+general statistics,
+and what we're
+going to
+use it for.
+Then I'll upload
+some files.  So, in
+this case,
+first I'll add all
+these email layout examples
+from the
+previous one.  Then I'll
+add
+all sorts of images to it.
+I have authoritative,
+social proof,
+blog images,
+logos and branding,
+accurate
+product shots, and that’s what
+Cloud can
+make sure that when
+we get the
+inevitable result,
+it’s
+real images
+from the brand.  So
+right here, the
+Hex Cloud image, I'll open one
+of these files and
+go through each one
+and add them.  And these are
+blog posts.  Next
+come the main shots.
+Then we have
+logos.  And finally,
+we have the main
+product shots.  And
+then we'll add
+notes.  And then,
+before I forget, the two
+quotes we
+need to add to the
+upload file
+are the ones we created
+in the previous
+Claude project for
+text and design.
+So, let me
+continue.  I'll go
+to downloads and
+add these different
+pricing.  That's all.
+Once you have everything
+uploaded to the
+design system, you
+can click the
+“Continue
+Generation” button in the
+top right
+corner.  Then we
+click "
+Generate", and here it
+begins.    It
+usually
+takes about 5 to 10
+minutes to prepare everything, so I'll be
+back in a minute
+and we'll see what
+happens.  Okay, as
+you can see, Claude design
+starts analyzing
+everything we
+uploaded.  Here on
+the left you can
+see them
+actively looking through
+all the different images,
+PNGs, and Markdown files that
+we gave them to
+try to create a
+cohesive
+design system.  Okay, that's it
+.  After about
+20 minutes of Claude
+just going through everything
+we gave them,
+look what they
+came up with.  First, there is the
+email design system.  It has the
+basics of content
+, how to speak in
+text, a little direct
+response, a little
+branding, going into
+naming conventions when you
+use a
+certain type of text for
+some products
+versus others.
+It has visual
+foundations, different types
+of colors, patterns,
+backgrounds, textures.  Do you
+circumcise?  When you
+make a radius view,
+button views.  He
+developed his own
+little
+icon system.  I think
+they borrowed
+some from the website and
+also created
+their own SVG files.  They
+have different
+font replacements depending on
+whether it's an
+evergreen product
+or a promo letter.  Then
+they created a bunch of
+different components that,
+again
+, I didn't ask for.  We had
+n't even started
+doing a real email
+campaign, but they
+already knew from the
+discounts we had collected that we would
+need
+emails,
+so they created an
+editorial template
+like you can
+see here.  At first
+glance it doesn't look
+terrible, quite similar
+to the emails
+they send.
+Then we have a promo
+letter.  Again, you
+can see the different
+use of color
+, it's more of a
+lighter yellow than
+gold, and even the
+formatting is a little
+different.  Then
+as we go down,
+there are a bunch of different
+components that
+obviously when we
+create this email layout that
+we talked about
+earlier for these events,
+it's probably going to be
+pulled from each of these
+resources.  Okay,
+now that we have a
+design system, we
+need to create the
+final
+email layout.
+So what we're going to do
+is click here at the top left
+to
+go back to
+projects.  Okay,
+now we're back
+to the main page of
+cloud design.
+Actually, we're going
+to use this
+chat window
+up here to create the
+final layout.
+First, we will choose a
+design system.  So
+, here I will choose the
+Heexclad email design system.  Then, as a
+template, we will choose the
+wireframe version.  This is
+the most flexible, and
+since we already have a
+design system, it
+simplifies the process a lot.
+And the last thing we
+need to do
+before we
+write the final
+assignment is to
+download an exact
+copy of the
+email we
+created earlier in the
+cloud
+project video.  So, I'll
+attach the file, and as you
+can see here, this is a
+mock-up of an
+email about
+table manners.
+I'll open it, and
+let's ask
+Claude to do it.
+Hi Claude, I
+need you to
+write an email campaign
+and design it
+using the
+table etiquette resource below.    The thing is,
+you
+don't really
+tell Claude about this.  It will be
+intuitive
+just by downloading,
+but sometimes it's good to be
+extra clear.
+So, let's
+send this to Claude.
+So, as you can
+see here on the left,
+it lists all the
+different files, analyzes
+them through the
+design system, looks at
+the copy of the
+email that we just
+downloaded for the
+table manners.  Okay, now that
+we've given Claude
+all this information, as well
+as this hint, you
+can see him
+starting to put together the
+final layout.  He
+took the wireframe, the
+design system, and the email copy
+for the
+table rules, and he
+starts
+building it all in
+real time, as you
+can see.  I'll give
+him a minute.
+Let's see what
+comes of this.  Okay,
+now that Claude
+is done, let's
+continue.  I'm going to zoom out a little bit
+and
+close the sidebar
+so we can just
+check this out.  Here's what the
+email layout looks like.
+We have this beautiful,
+beautiful shot of a
+ribeye from above,
+it says "
+table manners and
+store-bought
+steak knives now."
+Ideally.  Then,
+going down,
+we have the first section,
+which is the main
+text, highlighting the
+knives themselves with a few of
+the advantages of the UTP,
+right?  Have you ever
+given a guest a
+serrated knife and
+watched them
+cut a perfectly
+cooked ribeye into
+ribbons?  Your steak
+deserves better, and so does
+your table.  This doesn't sound
+very much like artificial
+intelligence, in my
+opinion.  Then, right here,
+we have a little
+pre-header, another
+main text.
+Scrolling down, we
+have the same
+transition section again.
+We have a new image
+showcase a
+specific recipe
+it
+pairs well with.  Then,
+it seems, Claude was able to
+get them from the internet, an
+actual plate
+mounted on a
+walnut cutting board.  And
+then, going
+down, we still have the
+same 3-by-3 matrix with
+this
+hybrid technology banner
+, as well as all the
+standard
+icons and badges at
+the bottom that you would
+normally see.  And
+again,
+honestly, at first
+glance, it's pretty
+good.  There are a few
+small things that we
+will edit now
+with the help of Claude.
+Generally speaking, as a
+one-off example,
+it's pretty good.  But,
+to give it a
+fair chance,
+let's move on to
+some comments.
+So, up here, I'm
+comment at the top
+, and I'm just going
+to comment here and
+say, "Make
+the logo bigger here."
+Then when we
+go down, I don't, you
+know, I think it
+looks good, but I
+think we
+can actually
+have icons next to
+each one of them.  So, I
+think what I'm going to
+do is
+comment here and
+say, "Add a
+little icon
+in front of each of the
+benefits here."  Good.
+Let's say, and actually,
+draw right here,
+because another
+nice thing about
+Claude's comments
+is that you
+can draw too.
+Let's say, "Add a
+branded
+HexClad image that
+matches the text
+here, in a
+2:1 aspect ratio."  And it looks like
+when I left that
+comment, he
+was updating another
+section, so we'll
+wait.  Then,
+down here, everything else
+looks pretty
+good.  I think, other than
+that, we'll just
+see what
+comes of it.  Okay,
+let's see.
+So it looks like
+we now have the HexClad logo
+a little larger, and it's
+actually on
+top of the
+hero image.
+Perfectly.  The further down we go, the
+nice
+gold brand badges we have.
+As you can see, they look very
+similar to the hexagonal
+icons that are on
+their website.  In
+this section,
+look at this,
+we have a silent
+compliment, but now
+we actually have
+an image of the brand, and
+Claude pulled it out and
+it's zoomed in to the
+knives themselves.  And if we
+continue
+down,
+nothing else
+has changed here, and this is
+probably the biggest
+change in Claude's design
+.  Please note that
+anything we didn't
+leave comments on
+hasn't changed.  He had a
+constant memory and
+kept everything else
+intact, only
+refining and
+correcting those things
+that I specifically
+commented on.  That's all.
+This is the entire layout.
+Honestly.  If you
+look at all the
+has sent in the last 2
+months and see this
+combined, I don't know
+if you can
+tell the difference.
+Now I'm going to come over here
+to Claude from the side and
+tell him
+to export this to me
+in PNG format.  That
+way I can
+download it.  That's it.
+We are about to begin.
+We will upload this in
+PNG format.  Now
+we have the entire
+email layout in
+image form.
+Now all that's left is to
+get together with my
+team, show them the
+email, and
+see what they
+say.  I actually
+wanted to share
+something with you because I've
+been busy with
+design the last few days, especially
+design team, and I'd
+like to take a look at it
+.  So, one of the
+inspirations I would like to
+give to the team is the
+recent layout of Hexclad
+.  Basically, pretty
+standard.  You have
+something like a
+main photo on
+top.  You have different
+things, you know, and this is the one that
+Heexclad just
+sent the other day.
+Right?  Is there anything that
+stands out to you,
+like different
+templates we
+could take from it, or
+anything different from the
+regular
+Heexclad emails they
+send?
+I've never seen any of
+their other
+letters like this.
+Hmm.  Hmm.
+But it looks pretty
+good.  This one looks like it,
+right?
+Yes.
+What if I told you
+that this whole thing was
+done with
+Claude's involvement?
+No way.
+Not surprisingly,
+everything from
+the angle, to the text, to the
+images, was taken
+from sources.
+So this is all crazy,
+especially when it
+looks like
+the designer intentionally
+designed it.  This is
+crazy, even as a
+bottom.  Did you do this?
+So it basically
+took an hour
+or two to get it
+ready, but
+take a quick look.
+Again, this is for a
+brand that we
+don't even work with, and
+it was all taken from
+the internet, but they
+created an entire
+design system not only for
+evergreen
+angles, but also for
+text, but they
+literally cleaned up
+every landing
+page on their
+website to
+get the text.  Then
+I took a little bit of what
+we do, like
+how angles work,
+and then pulled out the
+content and images.
+No way.  Yes.
+This is madness.  Well, it
+might even be like that,
+I mean it
+might not be very
+effective, but
+for Spears, for example
+, it would be something cool.
+Yes.  No, dude, 100%.
+Dude, that's actually
+a little crazy,
+bro.
+Hello, dude.
+Good.  How are you doing?
+Good.  I want
+to know your opinion
+about something.
+So, this is from a
+recent
+Hex Clad newsletter.  Rather for a
+general perspective.
+It's something like: "
+Hello,
+table manners."
+I'm trying to promote
+steak knives.  What do you think
+about these
+email formats?
+Use this
+because there are different types of
+templates here, right?  You have
+something like a left
+and a right.  There are
+various icons here.  Do you
+think the
+email is good enough
+use it
+as a basis for
+designers?
+Yes, I think so.
+This is a fairly reliable
+option.  So you
+think that, uh, on a
+large scale,
+you need to have
+a few broader
+template designs
+that you can just
+duplicate to
+speed things up.
+I think so.  But
+overall, you said
+this option is
+acceptable?
+Yes, I think so.  And
+then maybe we
+can have one that's
+also, uh,
+focused on a
+specific product
+, if you find
+one that, uh,
+displays
+the product more at the top of the
+page.
+Of course.  What if I
+told you that everything
+from the images to the
+angle,
+copywriting, and
+links was
+done by Claude?
+That was pretty cool.
+I mean, that's
+pretty cool, man.
+Can it be
+edited?
+Yes.  Moreover,
+you can comment on it with your
+voice.  So, the whole
+design system
+took me
+about 2 hours, but
+after I gave
+her the image, I
+explained how we do
+copywriting, everything from
+strategy, like
+the angle before you
+start writing,
+to sections, hierarchy
+, whether it's promo-
+primitives or
+evergreens.  All this
+was done in 2
+hours.
+Bro, that's cool.
+How are you doing?  Not bad.
+Not bad.
+Perfectly.
+How are you?
+Pretty good.  I
+just wanted to
+get your feedback
+on this recent
+email from
+HexClad that I
+came across.  Okay, so
+we have some sort of
+table manners.  This is
+obviously an
+evergreen topic, and
+the goal is to
+push the different
+knives, I guess, right?  Because
+they have different
+steak knives, a lot of
+unique selling
+points, they
+try to demonstrate it a little bit
+and then give a
+little recipe at
+the bottom.  How do you feel when
+you think about
+evergreens, is this a
+good
+email?  What about the different
+types of sections?  What
+are general opinions?
+I think so.
+Just looking at
+it, like, normally,
+if we're talking about
+kitchenware and
+I immediately
+like the food, I think,
+wow, that looks
+amazing.
+Yes, literally,
+right?  Love
+this nice
+headshot.
+Looks great.  I
+don't even read
+most of it, but I'm like
+, I
+look at the knives, and
+then I look at the other
+knives and I'm like, okay, that's like a
+good flow
+, even if I just
+didn't really read it
+.
+Yes, visual
+hierarchy, right?
+Yes, very much.
+that Claude created all of this
+?
+Okay, cool.  Perfectly.
+Yes, it's scary.
+Why are you
+firing us?
+What are we doing?
+No.  Would you be able to
+tell if it was AI or
+not if you just
+saw it in person?
+No, I wouldn't have seen it.  I
+mean, you know
+what?  Some of the text is
+a bit clunky.
+Like text, not the
+text itself, but like that font
+table manners, and then
+another font at the bottom.
+This one catches my
+eye.  He looks
+a little strange.
+So, here it is.  My
+team of
+email marketing experts
+couldn't even figure out
+that it was artificial
+intelligence.  But does that
+mean Claude
+can replace them?  I would
+n't be
+sure about that.  Not
+only do we have the advantage
+because HexClad had hundreds
+and hundreds of different
+images, as well as
+specific
+brand guidance,
+but the only way
+to get such a
+good result
+is with all the hints in the
+systems that we
+initially provided.  I
+still have to
+manually annotate a lot and even do a little
+behind
+the scenes work while waiting for
+everything
+to load.  So,
+unless you really
+have the knowledge of what it
+takes to
+create a
+high-converting
+email as
+well as a holistic
+retention marketing program, I wouldn't
+trust Klaviyo to do
+everything on its own.  But
+can Klaviyo
+make things faster?
+Certainly.  But just
+sending good
+emails is
+n’t enough.  You
+need a strategy
+that will allow you
+to maximize the LTV (
+lifetime value)
+of your customers.  So
+if you want
+to see six
+tactics for
+scaling your
+subscription brand faster
+than anyone else in
+the world, watch this
+video below.
+See you there.

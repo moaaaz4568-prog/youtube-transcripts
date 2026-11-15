@@ -1,0 +1,156 @@
+so today you have a double treat because
+firstly I'm gonna explain why SPG's are
+so important and then I'm going to show
+you some tips and techniques on how to
+use them in native illustrator then
+towards the very end of the video it's
+an actual tutorial on how to make a
+vector circular gradient shape as you
+can see on the screen now so SVG stands
+for scalable vector graphics and we're
+gonna explore this a little bit later
+it's one of the main assets and reasons
+why we designers love SVG so much having
+graphics that are scalable cannot be
+underestimated in this industry it's
+really really crucial and important to
+have the scalability at your disposal
+SVG is actually allow you to edit the
+code of a design changing the design
+itself within the coding as opposed to
+actually working on a visual artwork
+this is hugely powerful and useful for
+programmers and designers in UI or a UX
+design this asset alone is something
+remarkable for SVG's SPG's are best used
+for web-based graphics in case you're
+wondering if they're you know useful for
+print as well so another really needs a
+set for SVG's is that you're gonna see
+later in the video you can actually
+export separate objects from an artboard
+as an SVG so for example i can export a
+single line of text as a SVG without the
+rest of my design being exported when
+working in the daily illustrator we
+sometimes use transparency in blend
+modes and SVG is offer full support and
+usage of these techniques which is handy
+and helpful for web based graphics alone
+it's another reason why the SVG is such
+a powerful file format to utilize and to
+save your artwork in
+one key feature before we get into the
+tutorial is that the SVG is generally
+speaking our smaller file size than JPEG
+PDF and so forth this can be handy for
+various reasons if the quality remains
+high of course you'll want smaller file
+sizes on our workstations and computers
+I'm pretty sure of that so now I'm going
+to show you a real-life example of how
+to use SPG's in a dear illustrator and
+before we get into the actual vector
+circle design tutorial as a quick word
+from today's sponsor which is story
+blocks they're an amazing stock imagery
+footage audio background and After
+Effects a website they even have
+360-degree footage which is something
+pretty rare and it's really really
+awesome these days so let's check that
+out right now so as you can see you've
+got a whole host of 360-degree stock
+footage that you can use for your
+projects on the slide over here you can
+you know refine your search according to
+duration categories and so forth there's
+so many options here on story blocks and
+it really is a great choice for your
+projects in terms of stock footage
+imagery audio and much much much more
+this circular design you can see on the
+screen now I actually have a full
+tutorial on this video at the very end
+so stick around if you want to see that
+but let's learn about exporting SVG's
+now I've added some text off to the side
+and we will see later how you can export
+single objects as SPG's to export an
+entire art board as an SVG come to file
+export and then choose the SVG option a
+window is going to appear and in the SVG
+options choose settings and select
+minify to generate SVG code with minimum
+IDs idents lines and also white spaces
+and that saved my entire design as an
+SVG quite simply however what if I want
+to save just the circular objects that
+you can learn about in just a moment
+well head up to file again but this time
+going to export selection make sure to
+select the object first and foremost
+repeat the same process and the objects
+will be saved as a separate SVG
+so now it's time to learn how to make
+that circular vector design you've seen
+throughout the entire video if you've
+never seen it on my channel before in
+the color picker menu copy the hex color
+code at the bottom with command or ctrl
+C we're going to use this soon but for
+now cover the entire board with the same
+color using the rectangle tool M and B
+in the shortcut on your keyboard
+and then simply lock it down in place
+with command or control to now press L
+for the ellipse tool and then click and
+drag whilst holding down shift to
+generate a perfect circle I choose a
+gradient fill in the bottom left of your
+screen and then click on one side of the
+gradient like so make sure to choose the
+RGB mode in the top right corner so we
+can then paste it in the hex color code
+with command or control V now this is
+just so that this part of the gradient
+matches and blends into the background
+perfectly the other side of the gradient
+needs to be a kind of light gray color
+but of course you can choose whatever
+colors that you want to use as you see
+later I experimented with blues and
+purples now we're going to make use of
+illustrators automated actions for the
+next step in this vector design so go
+ahead and open up the actions panel here
+and then click new action in the top
+right window illustrator is now
+recording your every single move and
+don't freak out it's not the NSA but
+just copy the circle with command or
+control C and then paste a duplicate
+with command or control F you can see in
+the action panel my steps it'd be
+enlisted but then transform the new
+shape by reducing its scale by 75% here
+finally rotate the circle by certain
+degrees like so once you've done that
+hit stop in the actions panel
+you've now saved that action from start
+to finish and what we need to do now is
+to select the new circle and then click
+play illustrators going to repeat every
+single step that we just made over and
+over again that's pretty neat
+of course you can add or use any colors
+that you wish but here is the first
+circle of vector design if you want to
+see more content by myself
+here at Horry graphics make sure to LIKE
+share and subscribe our videos on social
+media and do click that Bell icon if you
+want to keep you up to date with all of
+our videos until next time guys design a
+future today peace
+[Music]

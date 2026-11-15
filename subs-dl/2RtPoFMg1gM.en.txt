@@ -1,0 +1,1090 @@
+Cloud code has completely changed the
+game for building agentic workflows. I
+mean look, I've built hundreds and
+hundreds of automations and AI agents
+across every major platform, but nothing
+and I mean nothing comes close to what
+you can build with claw code. And so in
+this video, I'm going to walk you
+through building a full YouTube
+strategist system, which is a full
+agentic workflow that helped us to be
+able to generate over 30,000 subscribers
+and 1 million views over the past 120
+days. I'm going to walk you through the
+full process step by step from the idea
+to the actual deployment. And in case
+it's your first time here, my name is
+Mikuel and I've scaled my own AI agency
+to six figures in 14 months. I've worked
+with over 50 businesses to implement AI
+and automations and taught over 20,000
+people in the process. All starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+here we have the full YouTube analytics
+system, which is a monthly report that
+we get based on our YouTube channel, but
+also the competitors and also get
+different content ideas with titles and
+hooks prepared for them. So we have the
+analytics for my channels. We have
+subscribers, views, uh videos, and
+engagement all using the YouTube API. We
+have the top performing videos that
+we've done with the engagement rate as
+well. Then we have other guys from the
+AI automation space as well. In this
+case, we have Jack subscribers, views,
+videos, and engagement with top
+performing videos as well. Nick Sarv,
+Nate Herk, Liam Mley, and then we have
+the comparative analysis, which
+basically compares our channel to the
+others and looks at the key trends, but
+also the content gaps and who is a top
+performer, in this case, Jack Roberts,
+with his content, which is awesome. And
+then we also get five different content
+ideas with the main video ID title, but
+also different title variations that we
+could use because in YouTube what we do
+is we actually test different titles
+with different thumbnails. Then we have
+two different hooks right here cuz
+hooks, titles and thumbnails, the
+packaging itself is basically 70% of the
+video. So very very important and we do
+that for every single video, right? And
+we also get the level of potential that
+the AI actually feels that this would do
+and compared to other people in the
+industry uh that are performing very
+well. We have the fifth idea again with
+titles and hooks. And finally, we have
+the key takeaways and next steps. So the
+three different things that we need to
+take away that we can implement in our
+content. For example, reduce publishing
+frequency but focus on high impact
+trending topics like cloudbot versus
+cloud code comparisons. We have to adopt
+a proven master x percentage in y
+minutes title format that consistently
+generates 70k views across competitors
+and bridge technical expertise with
+business applications. Create
+monetization case studies using
+anti-gravity in 9010. So very good ideas
+and very good tips and takeaways that we
+can take on for our content strategy.
+And you might be seeing us use a little
+bit of this, a little bit of that, you
+know, but this right here is essential
+for our business and our content team
+because we are pumping out a lot of
+content. Um, and content is strategy and
+strategy is time, right? And we don't
+have that time or we do, but we have to
+hire more and more people. Uh, but in
+this case, just by having this done
+here, which is pretty simple. We can
+obviously put more stuff into it. Um, it
+helps us a lot when it comes to making
+the videos. And now we get to the actual
+build part, showing you step by step how
+we build it from idea to the actual
+deployment. And we use a fivestep
+framework. The first step is structure.
+Then we have planning. Then we have
+building. Then we have testing. And then
+we have deploying. All right. So I'm
+using VS Code to be able to host Cloud
+Code, which means VS Code is a platform.
+Cloud Code is used inside VS Code. And
+if you don't know how to install it, I
+would watch this video up here. It goes
+through everything step by step. And the
+first step we have to do is open a
+folder because every single app, every
+single Agent workflow, everything that
+we do for every single thing is hosted
+in one folder in our MacBook, right? In
+our computer. And that's what we call a
+project. So open folder. I typically
+like to have a claw code folder here and
+I can put new folder and I can call this
+YouTube strategist system. Great. I can
+open it. So now everything that we do
+with claw code, all the different files
+and all the different prompts that we do
+are going to be stored always here so
+that when I save the file and I want to
+come back to it later, I can just open
+it back up and edit things along the
+way. So the first step we have to go
+through is called structure. So what we
+do is we go here to the top and we add a
+file and we call it claude.md.
+Okay. Now cloud.mmd is going to be a
+file where I'm going to be pasting a
+full prompt which I'm going to go
+through exactly what it is. U but the
+prompt itself is sort of like a way for
+us to tell cloud code the way that it
+should think about building. Okay. And
+so I give it the instructions and I also
+give it a framework which is called DOE.
+First is directive. So what to do
+basically giving it instructions as to
+hey when you host files make sure that
+you create SOPs but you also create
+different folders here right so each
+different file or each you know when it
+creates code or when we have to write
+prompts they're all stored in different
+folders to make it more structured to
+make it easier for the for the AI to
+actually build then we have
+orchestration which is based on
+decisions so we give it a decision-m
+framework as to how it should think
+about building and so on and then
+execution which is actually doing the
+work right doing the app which is
+instructing it as to what it should do
+uh to be able to make the software.
+Okay. And then we also have why it works
+and operating principles um that it
+could use as well. Now, if you want all
+the prompts from this video, you can
+check out the second link down below.
+They're all going to be there. Uh so you
+can follow along again. I can press save
+and go here. And now I can put planning
+mode cuz I want to see it plan
+throughout what it needs to do. And I
+can simply type initialize this project
+based on the claw.md file. Okay. So what
+we're doing here is we're setting the
+structure for the actual system. We
+don't actually build the actual thing
+yet. We're telling Cloud, hey, just
+strategize as to what the structure of
+everything is going to look like in
+terms of like folders and so on. And
+then we can get to the actual build. As
+you can see here, it's saying that this
+project currently only contains the
+cloud.md file. Based on this
+architectural document, I need to
+initialize the foundational project
+structure. Let me create the plan file.
+I've reviewed the cloud.md architecture
+and created a plan for initializing the
+project. The project will be following
+the three layer framework. And now it's
+going to ask us question. So what is the
+primary purpose of this YouTube strategy
+system? It's going to be all of the
+above. Should I initialize a Git
+repository for version control? In this
+case, we can put no. And then, do you
+have specific APIs or services you plan
+to integrate? So, let's do not sure yet,
+right? Let's do not sure yet cuz then we
+can ask the AI questions. And the good
+thing about cloud code is that it's very
+interactive. So, it will talk to you as
+it's building the app, which is great
+because then you get to know exactly
+what's going on. So right here I can see
+the project initialization plan YouTube
+strategy system the overview is a three
+layer structure cloud.md directives
+execution envamples. So basically what
+this is is planning the folders that
+we're going to add here for when we
+actually build so everything is stored
+in the correct order. Step one is create
+core directories create three me
+directories directives execution tmp.
+Then we also have configuration files.
+Sov example. So we're going to have a
+place here where we're just going to
+store the APIs which are I guess
+passwords to different softwares. Create
+documentation. Okay, we can just press
+yes and auto accept. And now you're
+going to start to see all the different
+folders being added. So it's the
+execution directives and tmp. As you can
+see, they're empty. There's nothing
+inside because it hasn't actually built
+anything yet, but it's structuring the
+actual thing. It's kind of like an
+artist painting a or making a painting.
+They don't actually go and paint
+straight away. They have to make sure
+they have the the brushes. They have to
+make sure they have the canvas. They
+have to make sure they have a chair,
+right? All these things that they need
+[music] to be able to build, right? But
+there's no painting yet. The painting
+will be the app that we do in the second
+part. All right. So the last to-do is
+verifying project structure. They just
+finished everything. Project initialized
+successfully. Here's the final
+structure. And we have this here. Next
+step is actually build. So I can go
+clear conversation. And this is where we
+start. All right. So the next step that
+we're going to do is called planning. So
+at this point, we're going to ask Claude
+what it thinks or the best way to build
+something. That's usually something I
+like to do all the time is asking it,
+hey, I want to build XYZ. what are the
+three best ways that we can go around
+building this? I can paste the prompt
+here and basically here I'm telling
+color code, hey, I want to build an
+automation where it takes the analytics
+of my YouTube channel over the past 7
+days. It then looks at five other
+comparable channels. So, five other
+channels of my niche. It then looks at
+their analytics and then based on
+everything, it gives me five different
+content ideas with their own slides. And
+we use a tool called Poppy AI, which is
+awesome at making hooks and titles for
+the YouTube videos. And basically, the
+outcome is a full performance of a
+Google Slides like you saw at the start.
+And I tell it to explore three different
+ways to build this. Starting with the
+easiest one. Don't start building yet. I
+just want to see the options. I'm going
+to press go. And the reason why we do
+this is because I want to see it think
+before it can build, right? And we start
+with the actual ideation of what the
+best way is cuz I want to see what it
+thinks about building something like
+this cuz it could always point something
+out that I didn't even think uh when it
+comes to building cuz claw code notes
+limitation. It knows it strength. So it
+knows exactly, hey, maybe we can build
+it three different ways. Step one is
+like this. Step two is like this or step
+three is like this. choose the best one
+based on the the different things that
+come with it. As you can see now it says
+now I have a clear picture. Let me
+outline the three different approaches
+for you. So option one is nit workflow.
+I'm going to be using option two just
+because it is using my framework cuz I
+don't want to be using any 10 and this
+is I think too much for what I want to
+do. So I'm going to go and say option
+two.
+Let's get this done. Now we get to step
+three which is called building. I'm
+going to press go. So option two it is
+uh Python scripts plus cron. By the way
+if you don't know what cron is you can
+just ask if you don't know what python
+scripts are you can just ask cloud code.
+Uh but it's essentially the different
+things that it does. And to be honest I
+don't know how to read Python. I don't
+know how to read code. So I'm just
+trusting the cloud code to make it on
+its own. And it's very very good uh at
+running code. I mean that's why it's
+called cloud code. But basically with
+Python scripts I'm giving all the
+control to cloud code to be able to make
+everything. If it's something to do with
+n10 I would typically use the net
+builder inside n10 not this one here.
+But also it doesn't give access to to
+all the things that we need here. So, we
+have the implementation overview right
+here. Now, it's going to ask me, do you
+already have an YouTube data API key?
+I'm going to press need guidance. Poppy
+API. How should I integrate with Poppy
+API for title optimization? I have Poppy
+API access. That's fine. I can show you
+guys how to get it. And do you have
+Google off credentials? I can say need
+help setting it up. Okay. All right. So,
+this right here is Poppy AI.
+Fundamentally, one of the most important
+tools when it comes to building the
+system because titles and hooks and the
+actual strategy itself is done mainly by
+Poppy and is the main tool that we use
+when it comes to our strategy for our
+YouTube channel. So definitely recommend
+it. You can just simply get Poppy AI
+here. I did leave a link down below. You
+can use my coupon code Mella to get $50
+off of the actual plans. Very very worth
+it. We use it every single day in our
+agency. Now once you get to the actual
+dashboard, you can press new board here.
+And this is where we start with Poppy
+AI. And the way that we're going to be
+using Poppy AI is we're going to have an
+AI chat right here, which is the way
+that the actual API will talk to Poppy.
+And as you can see here now, we can
+start feeding information to Poppy.
+Let's say I was using this video right
+here and I wanted to uh use this video
+as an input. I can drag this video
+across here and what it will do is it
+will take the transcript of this video
+as input so that when I ask any
+questions, it will always refer back to
+this video here. That's why it's
+awesome. As easy as this is, you can get
+a bit more complex and add as many
+inputs as you want here. As you can see,
+I added uh my brand, I added content to
+model inspiration, so three different
+content pieces that did really well, but
+also YouTube content frameworks for my
+hooks and for my titles, and also some
+outliers in my niche, which are all
+going to be connected to this chat
+input, which we're going to use for the
+API to be able to make the titles and
+hooks. For example, for this video, if I
+said, "Hey, I'm making a video about
+building an agent workflow using cloud
+code, uh, and I'm making a YouTube
+analytics dashboard for my YouTube
+channel, um, which scaled us to a
+million views in 4 months. can you make
+a hook for this? It's not going to be
+using these exact inputs, right, and
+these videos as well, which are really,
+really good, uh, to be able to make
+three different types of hooks. And the
+good thing is that it gives you
+different, uh, kind of ideas cuz most of
+the times when we use AI to make hooks
+for YouTube, they are Like,
+they're not good uh, to use at all. So,
+Poppy was fundamentally the closest
+thing that we could get to a really good
+hook with good quality. Now, if I press
+new conversation here and you get to
+this page to be able to use their API,
+you can press on API up here. You can go
+to post and all we have to do here is
+press copy here. So we can copy the chat
+link. So it uses the conversation sort
+of like a custom GPT that we talked to.
+Um and we have the request body preview
+which you can also copy. And we have the
+API key which you can find on here. You
+can also change the model. I like to use
+this. Um and you can leave these as it
+is. So copy the chat link, copy the
+request body preview and also copy the
+API key here. All right. So coming back
+here we can see that we need the YouTube
+data API v3, YouTube analytics API,
+Google slides and Poppy AI and claude
+API as well because all these softwares
+are going to be used to be able to make
+the actual thing and I can go and accept
+the plan. So yes, auto accept because
+these are the next steps uh for the
+actual build. And now we can see that we
+have update to-dos. Now for those of you
+who don't really understand what these
+actually are, all they are are Python
+scripts. So a Python script um is a
+script, right? It's actually sort of
+writing which is code which activates a
+part of the automation. So fetch all
+channels py will be a python script that
+fetches all the channels that gets all
+the channels. So maybe it uses the
+YouTube API which is some sort of like
+password that we can get inside YouTube
+uh to fetch all the channels for
+analyzing performance. We have another
+script which is another automation which
+is getting the performance of the videos
+or the channel. Then we also have
+generate video ideas which is going to
+be using Poppy AI right to be able to do
+it. And so all these different scripts
+are different automations that we have
+across the actual system that we build.
+And a good thing is that now it's going
+through one by one and these different
+uh kind of automations or the Python
+scripts would have been different
+workflows when we build it in N10,
+right? So this replaces that and makes
+it a lot faster for us and also less
+time just because to be able to build
+something like this in an automation
+platform, there's a lot of APIs and
+there's a lot of structure that we have
+to think about when making something
+like this. So this pretty much does it
+for you. And if I go to directives, you
+can see that more and more things are
+added here. So fetch channels analytics
+this is a Python script that fetches all
+the channels uh which is the automation
+here. All right so it's adding here now
+we have the analyze performance the
+whole script here as long as you can see
+the file here that means you're good and
+if you have any questions throughout the
+way is like hey what is this file what
+is that file you can simply just ask
+cloud code uh cuz it can give you a lot
+of answers cuz it cuz it knows exactly
+what it's building and it can give it to
+you in a way where you actually
+understand because believe it or not
+most of us don't really know what's
+going on inside here. I don't know what
+import JSON datetime path path liib is
+at all. I just know that this right here
+is to analyze performance. So it asked
+me for my API of Poppy and I gave it the
+whole details here and I also gave it
+the API docs of Poppy. So this link
+right here which you can simply copy and
+now it's going to use my password to
+basically go inside my account and talk
+to that chatbot which is connected to
+all the different inputs that we
+mentioned. So all the videos as well. So
+it's saying it's going to create the
+Poppy AI integration script. And
+theoretically, you could actually give
+all the credentials of your Google Cloud
+Console, your API of YouTube Poppy AI as
+well, but I like for CL code to ask me
+first and I can always give it whenever
+it needs cuz sometimes I don't know how
+to get it. So I can tell it, hey, can
+you tell me exactly how to get this API
+key and it will actually tell me step by
+step how to do it. But also one thing
+that we told it in the structure in the
+first thing that we did is to store all
+the passwords in thev.ample.
+So, as you can see here, we have the
+YouTube API key that we need to fill as
+well as the client ID and client secret,
+the anthropic API key, all the Poppy API
+keys as well and all the channels as
+well. So, it's going to ask me different
+questions, but if you wanted to add
+everything yourself, you can just go
+here and press save and it can use that
+automatically. All right, so it just
+says all the scripts are complete. So,
+we made all the scripts which are all
+the different automations as well. So,
+you can see it tells you the actual file
+and the purpose. So, this is to update
+with all dependencies. Uh, this right
+here is to aggregate your channels plus
+five benchmarks. This right here is to
+generate 10 slide Google slides, right?
+So every single file correlates to a
+thing itself. And now it's going to ask
+me to get started. I need to install
+dependencies, which I don't know what it
+means. Uh create your EMV file. I need
+to fill everything out. So instead of
+going here and doing it myself, I'm
+going to say, hey, can you walk me
+through how to get my YouTube API key,
+my channel ID, the benchmark channel
+IDs, the anthropic API key. Yeah, that's
+it. Can you walk me through how to do
+that in detail? Thank you. Now, I
+already have all these things, but I'm
+going through it as if I didn't have
+those. I'm going to paste it here in
+just a second. So, I'm not going to show
+you how to get the YouTube API key, but
+you can simply follow this step by step
+and you will get the API key at the end.
+Um, as well as the YouTube channel ID. I
+already have everything here and also my
+competitors. I would have to get their
+channel IDs as well and the API key for
+cla as well. So, I can actually go here
+and paste everything. So, I have my
+YouTube API key. I have my Google Cloud
+console credentials, client ID and
+client secret and claude API key as
+well. I can paste it all and you will
+see now how everything is going to start
+to fill out here. So, it said I'll set
+up your MV file with these credentials
+now. So, it's going to start filling out
+all the different passwords here. And I
+believe, there you go, EMV. So, instead
+of EMV example, it actually made a EMV
+file. So, here it's saying it still
+needs my channel ID. And it also needs
+my credentials.json, which is weird. I
+want to paste the uh channel IDs. So, I
+have Jack Roberts, I have Nick, Sarai, I
+have Nick Herk, Liam Moly, and Marashev.
+All absolute legends. And here I can
+say, can you just use my clan inclined
+secret without me having to save the
+JSON file? Uh yeah, just just use my
+clan inclined secret. Thank you. And I
+can press go. I'll see if this works. It
+usually doesn't ask me for the JSON
+file, but it's interesting. And I also
+didn't give it the ID of the actual
+channels. I gave him the um the tag
+name. So this is the handle we call it.
+So now it's going to turn the handle
+into IDs as well, which is an extra step
+that we would have to do, but in this
+case, the automation could do. All
+right. So now it's saying it's ready to
+test. It turned all the different
+channels into IDs, which is great. Uh
+would you like me to run the Google off
+step for you now? Yes, please run it.
+So, it just brought me over to this uh
+site right here where I can actually log
+in. So, make sure you use the right
+email. Press continue.
+And now it authorized. Bear in mind that
+if you're doing this with me right now
+and it says blocked, that means you
+haven't done something right in the
+Google Cloud console. So, make sure you
+do that first before going to the next
+step. All right. So, now we get to step
+four of the whole process, which is
+testing. All right. So, everything is
+ready. We have the full report here.
+Would you like me to run the weekly
+report now? This will do all of this. I
+can say yes, please run the full report
+and give me the full slide presentation
+URL that I can simply just press and go
+on to. Thank you very much. Now, I can
+actually plan mode and go. Now, I should
+have probably used a different
+conversation just because I'm at 71%. If
+you're wondering what that means is that
+it comes to a point where it stops
+working just because there's too much
+context. And so you want to make sure
+that you always clear the conversation
+and you go to a new one cuz right here I
+mean this conversation is really really
+long. And we've reached 70% or 77% of
+the maximum sort of context. As you can
+see here now it's running the full
+weekly YouTube analytics report. So it's
+running the full automation. All right
+the report is complete. Uh let me see
+the link. It will lead me to here the
+slideshow. So obviously first things
+first I can see that we have formatting
+issues. I can take this out take this
+out as well and take this out. I will
+have to tell that to the AI. Uh my
+channel performance. So we have the
+subscribers, videos, total views,
+engagement rate. Uh the top video is
+this benchmark comparison compared to
+other people as well. Okay. Then we have
+key insights. Your subscriber count is
+91% below benchmark average. Thank you
+very much. Appreciate that. 7-day views
+ranked six out of six or channels. Okay.
+U obviously cuz I'm using my competitors
+which are which are doing a lot better
+than me. Uh because it's always good to
+to put yourself on that on that level.
+Your engagement rate is 4.80.
+outperforms benchmarks average by 12%.
+You published six videos this week. Then
+we have the video ideas. So this would
+be top of funnel video idea one. I
+tested Clawbot for 30 days. Brutal
+honest review. The hook is everyone's
+talking about Cloudbot, but after 30
+days of real testing, I discovered
+something nobody's telling you. This is
+not a bad hook. Um I do want to make
+some changes though. And it says why
+this will work. Cloudbot dominates
+benchmarks top videos by 500,000
+subscribers combined views. Your honest
+review angle differentiates from
+existing coverage while tapping into
+massive search volume and curiosity.
+tells me target as well uh and other
+things as well. Now there's some
+formatting issues as well which is
+exactly where we go to iterating the
+whole process which is fine. Again you
+shouldn't expect this to be perfect from
+day one but that's fine. Then we have
+video idea 5 and then we have the next
+steps. So the next steps is focusing on
+topics like clawbot and anti-gravity.
+And then you should be considering long
+form content like middle of funnel
+videos to maximize your strong
+engagement metrics. And it tells us to
+create content calendar for the next two
+weeks. Develop scripts using the
+optimized hooks a to test thumbnail
+concept and schedule filming and
+production. Now if you never really play
+around with YouTube or posting on
+YouTube then this might not make the
+most sense but it does give pretty good
+advice. There's only a few issues. The
+first issue is that there were some
+formatting issues here. The second thing
+is that it doesn't look too good. As in
+the information's here, but it doesn't
+look too good. So, we might have to
+clean it up to make it look nicer. And
+then it gives me the idea here, but the
+hook, I want two hooks, and I want the
+whole thing finished. I don't want just
+the the first part. And also for every
+video, I want five different titles that
+I could be using. So, I can go here. And
+the first thing I want to do though is I
+want to make sure that the actual layout
+of things is good. Now, we don't
+actually tell Cloud Code, hey, can you
+make the layout better? We actually use
+something called cloth skills. So, if
+you go to the aictmpl.com/sklls,
+link is going to be down below in case
+you want to check it out. These are
+skills, and there's new ones every
+single day, which allow Claude when it
+does actually make the thing to add
+different additions of skills, right?
+So, in this case, I want Claude to have
+the skill of making nice presentations
+because obviously this is not too nice,
+right? It has the information, but it's
+not too nice. So, that's the first
+thing. So what I would do here is I
+would look at the um the skill. I did
+use the canvas design from my previous
+video. I do believe that is the best one
+when it comes to making presentations.
+So I'm going to go here. I'm going to
+press in the skill. You can view the
+details. And here it gives you an
+overview which is create beautiful
+visual art. PNG and PDF documents using
+design philosophy. You should use the
+skill when the user asked to create a
+poster, piece of art, design or other
+static pieces. Create original visual
+designs never copying existing artist
+their work to avoid copyright
+violations. And here it basically gives
+you the code. This is basically like a
+prompt that is attached to the skill or
+claw to use it when making better
+websites, right? And so the way that you
+can think about this is let's say you
+have the Iron Man suit. The Iron Man
+suit is very strong, but it's even
+stronger if it has a laser thing. It's
+even stronger if it has a thing to fly.
+It's even stronger if it has I don't
+know. I didn't watch too much Iron Man
+back in the days, but you you get what I
+mean. So this is the different parts of
+the actual suit of the body that make it
+better. The enhancements. There you go.
+the enhancements uh to enhance the the
+skill. So all I have to do here is I can
+copy
+this. I can go back to cloud and I can
+say install this skill
+and I can paste this here so that it
+starts creating the skill here. We
+should be able to see a new folder um
+added which is called claude. So that
+when we actually give it the the changes
+it can make the the changes on its own
+and it can use a skill to be able to do
+it. I can press yes auto accept. I can
+press yes. So, as you can see on the top
+here, it created Claude, which has the
+skill.m MD, which is a full code, by the
+way, that we just uh we just saw that I
+walked you through, which is great. So,
+now the skill is available. I can press
+clear conversation, and now I can tell
+it what's wrong with the um automation
+or with the slides. Okay, so I actually
+ran the whole slide, and there was a few
+things that I wanted change. The first
+thing is that I actually get the click
+to add title on top of the first um the
+first slide, which is all unformatted.
+It doesn't look good. The second thing
+is that I want you to use the cloth
+scale that we just installed to be able
+to make the slides better and nicer. And
+then the last thing is that for the
+video ideas, I want to get the full
+hook, not just part of the hook. The
+full hook. And I want two different
+types of hooks. So, two different types
+of hooks covering two different, I
+guess, angles that we could take. But
+give me the full hook. Don't give me
+like part of it. And also, I want five
+different title ideas that I could use
+for that video. Um, and everything else
+can be the same, but make sure you have
+that for each video. So, I can just
+press go. And this is part of the
+iterative process because when you make
+an automation in NSN, it's not always
+perfect at once. You have to keep
+testing it step by step. This is part of
+testing it. The good thing is that this
+is all English. Like the biggest skill
+here is knowing how to speak to the AI
+because if you can make AI do anything,
+right? I mean the the skill is already
+here. A cloud code can pretty much build
+most things out there that I can think
+of. Um so it's all about the prompts and
+things and the ways you go around it and
+the the way that you communicate with
+with the actual AI. All right. All
+right. So, it's asking us whether we
+want to design as a PDF or PNG. I'm
+going to say just keep Google slides and
+that's it. I think it might have been
+because the skill itself tells it to do
+everything in PDF or PNG. All right. So,
+it just made a plan to improve the
+YouTube report slides. I can press yes,
+auto accept. All right. So, after
+iterating the process, it made a new
+presentation here which I can open up.
+It'll take me here. So, much better
+layout right here. As you can see, it
+fixed that part. It looks a lot better
+in terms of like yeah, overall layout of
+the whole slides. Now, it has a table
+that we can see. Exactly. dark scheme,
+which is good, has bullet points, it's a
+good color contrast, it gives all the
+numbers. And by the way, this is mainly
+for the design, not so much for the
+actual information. But now, this is
+where we get to the actual ideas. So,
+five title options. It gives me the full
+title. It gives me the full hook, which
+is amazing, which is very, very good.
+Uh, why this works, but also target
+audience. So, for who it is, this is
+number one. Number two, so there's still
+some formatting issues with the line,
+but not too not too many. Five title
+options. We have two hooks, curiosity,
+and pattern interrupt. I just fired my
+video editor, my graphic designer, and
+my animator all in the same week. Before
+you think I'm a terrible person, let me
+show you exactly what happened when I
+discovered this AI tool that nobody's
+talking about yet. I mean, that is a
+hook that will stop me, man. Then we
+have hook one and hook two. The video
+idea is why AI actually makes you
+dumber. Shocking case study. So, why
+this works? Nick arrives current take on
+AI makes you worse at stuff. Got 6.2%
+engagement, but I believe this is a new
+video. Yeah, we don't really analyze
+videos if they're just uploaded like a
+few hours ago. I think this was uploaded
+a few hours ago. Uh but that's good at
+least it gave us the full hook and on
+both sides and the full titles for idea
+three middle of funnel and idea five
+middle funnel as well. So very very good
+information here and finally we have
+next steps uh which is to focus on
+trending cloud AI tools for content top
+of funnel review video ideas and select
+top priorities create content calendar
+for the next two weeks and it gives us
+the full breakdown that we also got in
+the last slide. Now I can clear the
+conversation here and I can also add uh
+one more thing because when it does make
+the presentation I also wanted to send
+me an email with the actual uh
+presentation link. So I can say, okay,
+so everything is perfect. Um, the whole
+presentation is perfect. The design is
+perfect, apart from a few formatting
+issues, which I would like for you to
+fix as well. Uh, like some lines in
+different places. Make sure everything
+flows together onto the same level in
+the slides. The main change I want you
+to make is whenever it makes a
+presentation, can you then send me an
+email on my email, which I'm going to
+paste here, uh, with the presentation
+link, right? Every single week, uh, when
+this finishes and I'm going to put my
+email here, and I can press go. All
+right. All right. So, it just made the
+plan to implement the email plus some
+formatting issues and it also made
+to-dos as well. As I said, it just made
+the change uh with the actual layout
+plus the email. So, I'm going to say,
+okay, can you now test it uh once again
+with everything included with a whole
+presentation of everything that I
+wanted. We can press go. And now, this
+is where it will start planning
+everything. All right. So, everything
+just finished. And if I go to my email,
+I can see that I received an email here,
+weekly analytics report. This weekly
+YouTube analytics report is ready. I can
+press view presentation and it takes me
+here where I have so here pretty much
+the same as before next steps as well.
+Okay, so pretty good. Still some things
+that we could change on the layout
+itself and you can be more specific. Um
+I definitely think I could have been
+more specific with with where it
+actually change things but overall very
+very good slides that we're now able to
+put into production. So now that we
+finished the testing side of things, we
+can go to step five which is deployment.
+So, how do we get this into an actual
+server where we can actually run it
+every single week without us having to
+actually go to claw code uh and do
+things ourselves? Well, let me clear the
+conversation um and we can go from here.
+So, so the first step here is going to a
+software called modal. Modal is the way
+that we host the automations, right? You
+want to make an account. So, go to
+dashboard and when you make an account,
+you will see that you have $5 for free.
+You also get $30 for free if you put
+your credit card. It will not be
+charged, right? But I just want your
+details so they can then take out the
+money uh once it's done. 30 bucks will
+last you a pretty long time uh for the
+automations. Now when you are here, you
+want to go to the quick start guide that
+you will see up front if you've never
+made an app. And you want to simply copy
+this. Once you copy this, you can bring
+it back to cloud code. And here I can go
+to plan mode and I can say I want to
+install this in modal. I want to host
+this agentic workflow automation in
+modal. Go everything step by step and
+install it. Host it there. There you and
+I can press go. That way I don't have to
+do much myself. I can just give it all
+to cloud code because it knows exactly
+how to use modal and that way it will
+create the app and we can start using it
+right away on the other side. Now it's
+asking me if I have a valid token.json
+file from Google off authentication. I'm
+going to say not sure cuz I'm not sure
+if I do have it. And let's see what it
+tells me. It says I do have it already
+which is great. Yes, auto accept. And by
+the way, modal gives 30 hours a month
+compute for free in the free tier. Uh
+which is great for a 5minute run right
+that we have weekly. More than enough
+for us. it will automatically direct me
+here. I can press authorize and it will
+say API token created. So what that was
+is I authenticated cloud code to go
+inside uh model to install the actual
+app. So as you can see now it's going
+through the different steps to be able
+to deploy it to model. And to be honest
+one thing that I guess anything has over
+cloud code is that for example when I
+press yes to this I don't really know
+what I just press yes to. I just press
+yes because I know that's a process that
+it has to go through each to-do. So in a
+way we're less in control when using
+this because even when debugging when
+something goes wrong I'll show you. we
+don't really know exactly what's going
+on. We're constantly asking AI. Whilst
+in an automation platform, you have more
+control because you know all the steps
+and you know how they're configured
+[music] and when something goes wrong,
+you know why it went wrong and you can
+fix it yourself. All right, so I just
+finished the last step which is
+deploying to Moto. It says everything is
+complete. You can press this link right
+here or you can simply just go to Moto
+yourself. You can refresh and you should
+be able to see the YouTube strategist
+app right here. And each app is sort of
+like their own automation. And if I go
+inside here, I can see the overview of
+the app. So all the different functions
+that it has to do the deployment history
+which is so let's say I wanted to change
+something within the automation I can go
+to cloud code and I can type hey can you
+change XYZ and that will be a new
+version. So this right here is climb
+version 1.3.1 and then we have app logs
+you can think of as the agenda workflow.
+So automation logs you can see all the
+different runs you've had. And now if
+you go to schedule report uh you have to
+wait 11 hours and 56 minutes just
+because that will be the start of the
+actual automation itself. But to show
+you that it does work, I can press run
+now and hopefully it does error. So I
+can show you how to fix the error. But
+as you can see now it's running. I just
+press run now manually. Sort of like you
+would do it as a test, right? You can
+press run and it's actually activating
+the automation. It's doing everything
+that you know it needs to do. And this
+automation here takes about 45 seconds
+to a minute to do everything until it
+sends you the email with the full
+presentation. All right. Well,
+unfortunately for you guys, it was
+successful. Right. So if I go here, I
+can see that everything is good. Yeah,
+everything was successful. So, email
+successfully sent to Mik. I can see that
+we are sent an email, the same one as
+before, which we would get every single
+week right here. And now we have the
+full presentation with all the different
+pieces of information that we would get
+every single week from the automation
+itself. But let's say something went
+wrong, right? Let's say you had an
+error. What you would do is you would go
+inside here and you would copy the error
+and then go back to cloud code and say,
+"Hey, I just had an error in my
+automation workflow. Can you please fix
+this and let me know why it doesn't
+work?" And then here you would paste the
+error and then it will fix the error. It
+will selfheal meaning that it heals
+itself without you having to actually go
+there and do things yourself uh on the
+code. And now you can simply leave this
+here. You have the app running. It's
+running every single day. Uh you have
+this here YouTube strategist. It's all
+good. And you can always come back here
+to see if the errors are here. So for
+example in this automation I had six
+errors. So if I go here for example and
+I go to the logs or in this case I had
+canceled cuz I cancelceled the run but
+you would see the error right and you
+would simply just copy this and then
+paste it into clock code. And if you
+want to change the times of the actual
+runs you can go to clock code and you
+can simply say hey can you change the
+time so it runs every Monday of the of
+the week or every Sunday of the week. So
+it keeps changing it based on what you
+wanted to do. All right and if you want
+all the prompts of today you can check
+it out in the second link down below uh
+in my free school community. You can go
+to the classroom section and you will
+see them all in a templates vault under
+the new folder which is called clock
+code everything here. Bear in mind that
+not everybody gets in. So please put the
+thoughts into your answers when you
+apply. All right. So now you got to see
+exactly the full process from an idea of
+an agentic workflow to an actual
+deployment and all the steps in between
+so you can start implementing and you
+can start building things right away.
+And if you're a nineto-five working
+professional and you want to start and
+scale your own AI agency and actually
+start monetizing all these skills that
+we're talking about on this channel,
+then the first link down below will walk
+you through a full onetoone mentorship
+program where you get to work with me
+one to one to be able to start
+everything properly from day one. You
+can watch it. If it sounds like a good
+fit, feel free to apply. And if you like
+this video, then you're going to love
+this video up here where I show you
+exactly how you can master 80% of
+anti-gravity in just 25 minutes. With
+that being said, I hope you found value
+from this video and I'll see you in the
+next

@@ -1,0 +1,1185 @@
+Well, today we have
+Nick back on the podcast
+, and he's going to tell us
+about Jev.  So, everyone has already
+heard of Jev.  If you
+spend any
+time at all in X, it seems like that's
+all everyone's been
+talking about for the last three or
+four days.  So, Nick
+, why don't you
+tell us what
+the listener will learn
+at the end of this
+episode about Jev?
+So, I think
+the most important thing is this
+new paradigm of the
+model, and everyone
+is asking, "Okay, how is
+this going to change my
+current business with AI
+or the tool that
+I've built
+with AI?"  Does
+this affect me?
+Can this thing
+make me money?
+I'll talk about all of this,
+about practical
+uses for Jev, and is it
+really worth
+paying
+much attention to, or is it
+just a distraction
+from what you're already
+doing?  We'll
+delve into all of this.
+Perfectly.  And before we
+start
+digging deeper,
+can you just
+define Jev for us?
+Think about a
+non-technical
+entrepreneur or
+business owner
+listening to this, who, you
+know, maybe has
+never even heard
+of Jev, maybe doesn't
+sit at X, so they're
+like, "What is Jev?"
+Can you just
+define it for us?
+Yes, Jev—this is, I'm
+improvising a little here,
+I hope it
+suits everyone, but Jev—this is a
+new paradigm
+model, this is not an LLM that
+produces text for
+everything it does.  Jev
+thinks in
+multiple-
+choice categories.  That is, option
+A, option B, option C,
+option D. You
+determine what these
+options are.  And Jev chooses
+them based on the level of
+confidence in each
+answer.  Uh, this is the
+model.  She
+chooses her
+confidence in
+what the answer is.  You
+ask a question,
+provide
+answer options, and she
+answers the
+multiple choice question.
+So, all this leads to the fact
+that it cannot
+generate text.
+She can
+only think in terms of
+tools, within the limits of
+what opportunities
+you give her.  Eh, but
+it still opens up
+a lot of really cool
+use cases.  Uh, the two
+main advantages of Jev
+are that it's
+super fast and
+super cheap.  So we
+can go into
+all of this and what it
+looks like, but is
+it even a little bit clear yet
+?
+This is already clear.
+So, if I
+understand correctly, because it
+took even me
+a few days to
+really understand what
+it even is and how
+it differs
+from ChatGPT or Claude?  So,
+if I
+understand correctly, Jeb is at his best
+as a
+decision maker.  Jeb won't
+sit around and
+help you,
+you know, plan a
+strategy or
+develop a framework for
+your
+app idea or anything
+like that.  But if
+you already have a very
+specific task
+or set of actions that you want the
+AI ​​to perform, you
+can actually
+hand those actions or
+that assignment to Jeb, and it will
+do everything exactly
+as you planned.
+You know, I see it being
+about 200 times
+faster and about 400
+times cheaper.  Is this the
+right way to
+think about it?
+Absolutely.  That's the
+think about it.  And here is a
+very good example.
+When I first started
+creating agents
+to work with a
+computer, it was back
+in November 2025
+.  This was before Openclaw,
+before Claudbot, before all of
+this, you know?
+I had a
+month of financial
+reserve left.  I lived in a
+hacker house.
+That's where I met
+Spencer, my
+current
+co-founder at Orgo.
+He worked on the
+early stages of Orgo, and
+Orgo is a platform where
+you can create
+agents to interact with a
+computer.  You can
+give the agent access
+to your computer, etc.  I was just
+creating the
+first such
+agent for my
+client.  She was a
+distributor of
+promotional products.
+So, she had a
+need because there
+were
+a lot of
+products listed on these sites.  Um, I forgot
+the name of the site, but there
+were a lot of products there,
+and I did this: the agent
+would go to the site, log
+in,
+click on the
+link, find
+each product,
+load the
+information, the price, the
+categories, all these
+tags, and do it
+sequentially.  So, if
+she had 60 products in
+a presentation for
+a client, the agent
+would go
+through each
+product one by one, gathering all the
+information.  Then he would
+store it all in her
+Zoho CRM, and she would make
+this kind of individual
+quote/invoice
+for the client,
+send an
+email,
+add this,
+you know, quote or
+something.  So it
+was a very clear
+process, but we
+used
+computer
+agents for it because there
+was still some
+intellectual
+work involved: finding
+the product, finding
+the information,
+figuring out how to
+label it, and so on.  So
+it used to cost,
+I think, about
+$30 an hour.  For
+each hour of work of
+such an agent, it
+was necessary to pay 30
+dollars.  And sometimes it would take him
+2-3
+hours to
+work through, you know, 60
+products in a
+presentation.
+Today, I don't know,
+this client, she's a
+good girl.  She takes
+care of it herself.  She still
+uses it.  I
+can go back to
+it—and I probably
+will—and redo
+it with Jev,
+because it's a
+semi-deterministic
+workflow.  Jev
+can choose from
+several options.  Oh,
+what color is this
+product?  And he instantly
+knows the answer.  What
+size?  OK.  What is the
+quantity?  And he can
+essentially take that
+task for $30
+an hour and probably
+reduce it to
+less than 10 seconds,
+I would guess.  Um, and
+it will be
+free,
+practically
+free in terms of
+cost.  That's what this
+actually reveals.
+Does this mean you
+should
+start building on
+Jev today?  Well, look at
+my example that I
+just described.  I
+already had a workflow in place
+.
+I already had
+certain processes set up
+.  And then it made sense for
+me to come
+and redo everything with
+Jev's help.  If
+you don't have it yet, don't
+get distracted by it
+right now.  Go and
+create an agent that is
+really good at
+specific
+tasks for
+the client.  Do this
+first.  But when it
+comes to
+implementing Jev, does it
+really matter how
+much work you
+do?  How
+important is time to
+this process?  Is
+this process
+already a long one for your agent
+?  Is this process
+already expensive?  If
+the answer is "no" to
+both questions,
+you probably shouldn't pay
+attention to it right
+now.  This is most likely
+just a
+distraction,
+you know?  Hmm, does that make
+sense?
+This makes perfect
+sense.  Yes, because I
+think, for example, about
+my clients with AI
+concierges.  What I
+help them
+build and what I build
+for them in many
+cases are, you know,
+agents inside Claude
+Co-worker, inside Claude
+Code, that do
+very specific things,
+as you said.  But these are
+not the tasks that
+take up a lot of
+time.  For example,
+we recently
+automated a podcast creation
+workflow for a client
+.  Now she
+does one podcast
+a week, and you know, the
+workflow that
+we automated
+with Claude Co-work
+went from 45 minutes
+a week to about
+5 minutes.  But it's not like
+we went from
+20 hours a week to
+10 seconds, right?  I
+think it all comes down to
+knowing which
+tool to
+use when.  And
+so, from what
+you're saying, for
+most people, the
+best
+tool is
+traditional agency
+tools like
+Claude Co-work or,
+for example, Hermes based on
+Orgo, or something
+like that.  Jev seems to
+perform best
+where
+processing large
+amounts of input
+data and a clearly
+structured
+workflow are required—
+this could be an
+area where people
+can make
+money with Jev.
+Yes.
+I think of it this way:
+imagine a large
+insurance company
+that processes a bunch of
+documents or applications,
+and they are usually
+of the same type.  That is,
+the documents are the same;    it's
+just that they
+deal with hundreds a
+day or thousands a
+week.
+It sounds like an
+opportunity for
+someone who has
+connections with an insurance
+agency to come in and
+create a
+workflow or agent
+based on Jev to cut down on
+the time, as we said,
+even if the AI-
+automated
+version takes 30
+minutes a day, you can
+cut that down to 10
+seconds with
+Jev and do it almost for
+free.
+That's right.    Is
+this a scenario that makes
+sense?    The
+perfect scenario, and
+the key here is that Jev
+is not a model that
+makes you money
+per se, it is a model that
+saves you money
+and time.  And this is a good
+example of how, if
+you build agents,
+it becomes clear why
+when I first started
+charging 5 grand a
+month for a managed
+agent on Open Claw or Hermes
+, or building a computer
+on Argo, people would say, "5
+grand a month? How do you
+charge 5 grand a
+month?"  I would say I would
+provide the client with
+unlimited
+tokens, agents, and
+workflow automations, and
+of course you define
+the volume so that you
+do the work,
+like weekly or
+something like that.  But
+people ask: how do you
+make it
+unlimited?  How do you
+make it unlimited?
+That's very expensive.  But
+I answered: even
+if, and that's how it
+was, in the first or
+second month you
+only come out with zero,
+because they use
+it very actively.  Oh,
+that's great.  They
+actively
+use your
+product or service.  And
+that's very good.  B—
+okay, we're breaking
+even, but
+the cost of the models
+will decrease.  And
+this is a perfect example.
+This means that if you previously
+had 0% or 50% profit
+from some
+AI-based product or service, you
+could increase this
+figure to 90-99%.  That's what
+such a
+breakthrough is all about.  So, if you're
+not making money from
+AI yet, forget it.
+First, solve
+the problem in the
+way you
+know how to do it
+with LLM.  They are
+easier to
+understand intuitively.  When you
+reach a stage where
+scale,
+volume, cost, and time are important, Jev
+is a good place to
+start thinking about how to
+integrate it.
+Of course.  Okay,
+now it's
+much
+clearer to me, and the
+main breakthrough in
+thinking happened when
+you said that Jev is
+not something you're
+going to make
+money from.  With Jev you will
+save money or
+save time.  And
+again, it sounds like
+the advice is,
+"Build with AI the
+traditional way
+."  Build agents the
+.  And when you find
+these agent
+workflows, you find
+customers who have
+large-scale processes that
+cost a lot of
+money in terms of time
+or tokens, that's when
+you can replace
+them with a model like
+Jeb to, again,
+not necessarily
+make them
+more money, but
+save them a
+huge amount of
+time and therefore a
+money in terms of
+token costs.  So that's the
+strategy for
+using Jeb to
+make money.
+That's right.  And we can
+show it here:
+even in my first
+demo video about Jeb, you
+can see it.  You
+can see it
+here on Twitter.  I'm
+showing you how
+to use it there, can you bring
+it a little closer?
+Exit.  Can you see it better?
+Yes.  Yes, that's much
+better.
+So, in this first
+demo
+video I'm showing
+of Jev, I show
+him playing Minecraft.  I didn't
+plan for it to be
+something
+unproductive and
+unprofitable, but it
+shows Jev's nature,
+as the first thing I
+do with him is, of course,
+something that doesn't make
+money.  It kind of
+conveys the mood of the
+model.  It won't make
+you any money.    An
+interesting
+use case might
+involve playing Minecraft,
+right?  But it's still
+really cool.  So
+you see, I
+set up Jev to play
+Minecraft, and I gave him a
+bunch of...basically, I
+directed GPT-6 Astra to
+understand Jev and how to
+use it, and it
+gave Jev a bunch of
+tools and
+choices that
+he could
+use to
+play Minecraft.  And then we
+could set a goal,
+like
+building a house in
+Minecraft, and Jev could achieve
+that goal
+using his
+multiple choice tools.  You
+can see here,
+it's just crazy
+how he uses
+the tools.  It's very
+fast, very
+choppy, and that's
+good, and that's what
+he's good at.  So this is a
+huge breakthrough
+for
+computer usage.  We added
+it to our
+playground
+at Orgo.  We're going to
+build a whole
+computing infrastructure
+around Jev to make it
+run very fast,
+and this is a great breakthrough.
+But, of course, that doesn't
+mean it can
+do anything that an
+LLM can't
+.  He will simply do
+it faster and cheaper.  And
+you see there, it
+cost like six
+cents.
+Six cents to play
+Minecraft using
+a computer.  This is
+incredible.  So,
+another demonstration.
+This is someone who creates
+on Orgo.  They have 16
+computers here, and they
+built a "
+look now" detector with
+the help of Jev.  They have
+a bunch of different
+websites open, and Jev reads
+all of them in
+real time,
+essentially, and notifies
+the user, "Hey,
+this new computer model just came out
+."  Fun
+fact: that one
+uses Jev, and you
+see it
+notifies him of
+four variables here.  These are the
+this creator has identified,
+and Jev says, oh, this
+little thing, this
+model announcement
+meets three of the
+four criteria.    You
+watch it now.  That's
+my
+confidence level.  And
+then it shows it
+as the main screen.
+That is, it keeps
+scanning, keeps
+scanning.  Good.  He
+reads everything, reads
+everything.  And what then?
+Alert: It's worth
+looking here because
+it meets two of
+your four
+criteria.  You know, does that
+make any sense?
+Has.  So yeah, I
+was going to delve
+into this even more.  Both for my
+own understanding and,
+hopefully, for the
+audience.  Let's say,
+for example, "
+watch now".  These are,
+as you said, 16
+different independent
+cloud computers
+running on the
+Orgo platform.  By the way,
+friends, for those of you
+listening, we have a
+promo for anyone who
+wants to try Orgo.
+Nick is a co-founder of
+Orgo.  It seems to be orgo.ai/corey.
+We will
+link to it in the
+description.  This will give you what
+seems to be the first 3 days of
+Orgo free, and
+then 20% off the
+first 3 months.  If
+you want to
+test Jev, or
+Hermes, or, say,
+deploying open claw on an
+Orgo virtual machine—that's what
+we use
+in our business.  But
+here we see that
+someone has launched 16
+different cloud
+computers in Orgo.
+Each of these
+computers has Jev running on it,
+and it looks like each of
+them is just following the
+latest news or
+browsing X to
+figure out, "Okay, what
+new technologies or
+models are coming out
+every day?"  Since
+the creator gave Jev very
+specific criteria,
+it sounds like, "Hey,
+here are four criteria
+by which you evaluate a
+model release, and if
+the release meets
+at least three of them,
+let me know so I can take a
+look."  So because of
+that, because the criteria are
+probably very strict
+and clear, Jev
+only has to say "yes"
+or "no."  This is a
+perfect
+use case for Jev.
+Whereas what if we took,
+for example, GPT-6, or fable
+, or Opus, or GPT-56, and
+made them
+perform this very
+task.  Constantly.
+That would cost a
+lot of money.  Yes,
+it would cost a
+fortune because he would have to
+constantly
+scan the news.    You
+constantly have to,
+you know, make
+conclusions like, "
+Hey, is this appropriate?"
+Or not?  He generates all
+these lines of text to
+demonstrate
+his reasoning and
+train of thought.  So, a day of
+work in this
+mode with GPT-6 Astra,
+for example, would cost
+hundreds of dollars.  And with
+Jev it costs about 5-6
+cents, something like that.
+If not less.  If that much at all
+.  Yes.
+This is simply incredible.
+So,
+this brings me to
+mind, for example,
+intelligence reports.
+Again, I always
+think, how do I make
+money from this?  Of course, with Jev
+it's more about
+saving money than making
+money.  But I
+think it
+opens up opportunities
+for competitive
+intelligence at scale.
+I think it's now quite
+realistic, in terms of
+time and cost,
+to use a
+model like Jev, because
+depending on the industry
+you can have hundreds
+or even thousands of
+competitors.
+Take
+e-commerce, for example.
+If you're in the
+skincare niche, there
+are thousands,
+if not tens of thousands, of
+brands out there that you're
+likely competing with.
+Well, something like Jev
+could literally
+track every
+brand in your
+category for
+vacancies,
+price drops, or out of
+stock.  This is a huge
+amount of data that would
+cost a
+fortune to
+monitor
+using the same leading
+model.  So, that's what
+immediately came to my
+mind.
+Dude, you got the point.
+Whatever talent or gift
+you have, you have it, to
+turn it into
+income,
+because it's a brilliant
+use case
+.  Monitor
+competitor sites for
+e-commerce or, say,
+when there are limited
+supplies of products.  I don't
+know, I'm thinking about
+shoe shopping bots.  Do you remember
+these bots?
+Yes.  I am from this
+field myself.  In fact,
+now that I think about it,
+many of my friends in
+e-com engage in
+arbitrage by buying
+products on websites.  And
+then they resell
+them on Amazon at a
+profit.  Jeff could
+scan, you know, like
+Kohls.com, Dick's Sporting Goods,
+all these sites for
+these kinds of
+opportunities, and it would
+cost a pittance,
+whereas right now, these kinds of
+checks are
+very expensive.    Oh
+my god, this...why...
+yes, this is such a great
+.  Okay, so...there you go.
+So, this is a perfect
+example, you know, and I
+said it at the
+beginning and I still stand by it
+.  If you're not
+making money,
+if you don't have a
+system, if you do
+n't have some kind of
+process yet,
+ignore Jev, it's just a
+distraction.  But if you have it
+, like in
+Corey's example, when
+you buy and
+resell on eBay
+etc., you already have a
+process in place
+and it can be a
+great option
+for Jev, where it used to
+cost a lot
+more.  You can
+try it at Orgo.  We
+added this to our
+sandbox (playground).
+It's in preview mode right now
+because
+when you
+use it
+in Orgo, you're just
+testing the model.  So
+we'll create a convenient
+shell around
+it so you can
+just communicate
+with the chatbot as
+usual, and it
+will perform
+tasks on the
+computer much faster with
+the help of Jev.  It
+will work like this: GPT-6
+will be used
+as the brain, and Jev will be used as
+the executor.  It's kind of the
+balance for
+using something like this
+.  If you're
+interested in building
+something based on it
+and using
+a computer, that's how you
+should think about it.
+I think you can see here
+how I asked him to
+make a few
+chess moves to show
+how
+fast he is.  I'll say, "
+Please continue
+."  Do this for a while.
+Let's see.  And you
+see that he is very
+fast in his
+execution.  He just
+moves really
+fast.  But you see
+he's a little bit
+stupid.  He made
+only one move, and he
+made it very quickly
+, but only one.  So,
+again, you
+have to define
+the criteria.  You have to
+essentially build
+his brain so that he
+can act, let
+him act.  He
+will do it instantly.
+If I say "
+continue" again, it
+You see it yourself.
+Yes.  but this requires a
+certain
+process.  This doesn't
+mean he will be
+reasoning and
+playing on this
+chessboard in real time unless I
+provide him with variables and multiple choice
+questions
+.  So,
+I hope that makes
+sense.  This is definitely, this is
+definitely a good
+help for
+existing models to
+act very quickly.
+Yes, it makes complete sense to me again
+now that we've
+discussed it.  So, my
+final question to
+you, Nick: do
+you see OpenAI or Anthropic
+creating their own
+model similar to Jev
+and integrating it into
+their ecosystem?  Because
+, to me, that would be the
+obvious solution.
+It's like, you know, when
+we need
+real intelligence,
+when we need to
+think things through, when we
+need to reason—
+we already have
+advanced models for that.  But
+if we need, as
+we said before,
+just a level or a "
+workhorse" to
+do the actual
+work or, you know,
+use
+the computer, like in the
+example of
+using
+the computer.  In my opinion
+, this would make a model
+like Jev very
+useful within
+this ecosystem.  Are
+they working on this
+?  Do you know?
+I think they're definitely
+paying attention to that
+, and the architectures are
+fundamentally
+different from,
+you know, LLM, but that's
+really the case.  It would make
+sense for them to
+have their own
+version of this.  I
+immediately saw that it had
+become open
+source.  Someone created a
+version similar to Jev.  And
+they immediately made it
+open source.
+So I think, yes, we
+are kind of at the
+epicenter of an
+explosion.  There will be
+different versions,
+there will be another Jev
+that will look
+completely different than Jev
+and the other LLMs, it will be a
+new kind of intelligence,
+and things like that
+will just keep
+coming up.  And I think,
+yes, the big
+labs are looking to
+combine all of this into a
+product that just
+works.  So, for everyone
+else—create
+on top of this if it
+makes sense.  If not—don't
+be afraid of lost
+opportunities.  This will
+come to you and be
+integrated into your
+existing products.  And
+then it will help you
+use it,
+but, yeah, I think they're
+definitely working on
+something like that to
+integrate into their
+existing models.  Therefore.
+I would think so too.
+So, again,
+to summarize and
+conclude: the
+80/20 rule is that
+if you're not already
+working with
+traditional AI, Jeb
+is probably just a
+distraction for you right now.  He's
+making decisions on a
+large scale,
+quickly and cheaply, but
+he can't reason
+, he won't think
+for you.  Furthermore, it is
+more of a
+money-saving model than a money-
+making one,
+except for some of the
+usage scenarios
+we mentioned earlier.
+So, from an 80/20 perspective, does that
+pretty much
+sum it all up
+?  Is there anything
+I missed to
+summarize for those
+who are stuck with us?
+I think that's quite
+apt.  And so, again
+, if you have
+something that involves
+multiple, you know,
+workflows.
+For example, I
+even have some here.  Um,
+this is a video.  Do you see that
+I can even make
+it a little bigger.
+Let me
+zoom in on this.  So,
+here's what I have.  This is a
+video that Dewey—my
+Hermes agent—created
+for me.  He still
+remains the most
+impressive agent
+I have used.
+I tried Grok Bot, I
+tried Muse, I tried
+everything.  So I said to Dewey,
+"Dewey, come up with
+some
+use cases for
+Corey's audience."  We
+want to practically
+use Jev
+to, you know,
+make money or
+save it.  And Jev
+prepared some here
+...sorry.  Dewey
+has prepared
+some examples of
+Jev usage here,
+showing, "Look,
+I can take all these
+downloaded PDFs,
+sort them,
+organize them, and
+save them into the
+appropriate folders
+almost instantly."  This is what
+Dewey created.  He
+studied Jev's model,
+integrated the API,
+built it, and
+recorded the screen in Orgo.    So that's
+pretty cool.
+Who on your team
+needs an answer?
+So what will
+Jev do?  It will sort through
+all your different channels
+, tickets, and
+emails,
+suggesting who
+needs a response.  "
+Explore this site and,
+you know, spar it,
+etc."  Jev will go to the
+site, look around,
+click on all
+the tabs, save
+a note about it, something like
+that.  So these are just a
+few more examples
+of how you
+can always ask
+your agent to
+help you
+figure things out.
+Ask him if
+you can help
+him, uh,
+adapt, you know,
+implement it into your
+current systems.  And
+yes, that's also a very
+valid way to
+build with Jeff.
+I think this is also a great
+moment.  Back to
+basics—it’s
+like whenever you
+get stuck or if
+you need
+further explanation,
+just ask
+your existing
+agent or existing LLM
+to explain it to you in
+plain language.  And
+often it will give you
+everything you need to
+know, as well as
+help you determine
+when it's the right
+tool for the
+job, compared to
+your more
+traditional
+tools.  So,
+I think that's a great
+review, Nick.  As
+always, it's nice
+to see you on the air.
+If people want to
+contact you
+or, you know,
+learn more about
+you, especially if
+they want to
+check out Orgo,
+where would you direct them?
+Yeah, you can find
+me on X. Uh, I do
+a lot of posts about AI
+agents, you know, and
+also how to
+sell managed
+agent businesses.  Uh,
+my nick@nickvasile.us.  I
+couldn't get the full name,
+someone stole it.  So
+I'm missing the
+last two letters,
+Vasilescu.  You can also
+find me on YouTube.  Uh
+, there's the same nickname
+.  And yes, I
+will continue to
+release content
+on how to create
+agents for business,
+how to make money from
+agents, and any
+new things that
+come out, I
+try
+to cover pretty
+quickly.  So,
+check it out.
+Perfectly.  Well, Nick,
+thank you very much for
+coming back.  And for
+everyone watching this,
+I hope you
+enjoyed it and
+learned a little
+more about Jev, and we'll be
+back soon.
+Thanks, guys.
+Thank you.

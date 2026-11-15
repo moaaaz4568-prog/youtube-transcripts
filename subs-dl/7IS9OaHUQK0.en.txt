@@ -1,0 +1,672 @@
+What if you had an AI employee that
+could answer customer questions, book
+sales demos, and update your CRM all
+while you're asleep? And when you wake
+up, you've got three new qualified leads
+already scheduled on your calendar with
+a full conversation transcript waiting
+for you. Now, that's exactly what my
+guest Ashley Gross has built with an AI
+chatbot called Bella, and she's going to
+show us how to build one ourselves in
+this episode. Now, Ashley's been using
+AI since 2020, way before things like
+chat GBT were mainstream, and she's tied
+her AI implementation efforts to over
+$25 million in converted pipeline at the
+enterprise level. So, in this video,
+we're going to cover how to build a 247
+AI sales agent for your website, how to
+train it on your SOP so it sounds like
+your business, and the exact NAD
+workflow that you can copy and paste to
+get started today. So, we're going to go
+ahead and dive right into this week's
+episode.
+All right, Ashley, why don't you tell us
+what we're going to learn today?
+>> Hey, Corey. Today, we are going to learn
+about how to build an AI agent that can
+hang out on your website so that while
+you're sleeping, anybody that comes to
+your site, asks questions, wants to book
+a demo, can still have their needs met,
+and when you wake up, that lead's going
+to be in your CRM, all of their
+questions answered, and ready to go for
+that next day demo.
+>> Awesome. Well, that's going to be really
+cool because that's something that can
+apply to pretty much every small
+business out there. So, if you're a
+small business owner and you're watching
+this, uh, you're pretty much going to
+get the blueprint for how to implement
+this in your business. So, before Ashley
+shares her screen and starts diving in,
+Ashley, why don't you just tell us about
+your background and why it is that
+people should listen to you?
+>> Sure. I started using AI back in 2020.
+So, before tools like Chat 2D were
+mainstream and it was truly the wild
+west, I was using AI tools to reclaim my
+time. I was spending almost 80 hours per
+week working and I was able to use AI to
+automate a lot of that busy work down to
+15 hours a week which means I was still
+doing the equivalent of 80 hours but in
+15 because a lot of it was frequent work
+that was really dragging out uh and not
+strategic and not a good use of my time.
+So I started automating every process
+that I had to do more than twice a day.
+I've been able to tie AI implementation
+at an enterprise level to revenue
+specifically was able to prove that $25
+million converted in pipeline was
+applicable and possible because we added
+AI implementation into product uh
+customer success, marketing and sales.
+So, you've been doing this before it was
+cool, which I think is really cool
+because a lot of people, I mean, like
+myself, I only started getting into this
+world once ChatGpt really came on the
+scene. So, I'm excited to learn from you
+today because I think you've got more
+knowledge than most people. So, with
+that said, do you want to kind you you
+gave us kind of the brief intro of what
+we're going to be building today, but
+why don't you give us more of a like a
+fleshed out version of like what are we
+building and what does it exactly do?
+>> Sure. So, what we're building is a
+chatbot that can sit on your website.
+So, think freshes, think intercom.
+Anytime you have a little thinking
+bubble that you have a question about
+and you click on it and you're met with
+a a very clinical tone saying, "What's
+your question? Here are categories I can
+help you with." And it just basically
+reroutes your questions over and over
+again. I didn't want that experience for
+my customers, but I also needed to
+sleep. And I found that a lot of the
+time I was getting questions was the
+middle of the night. So I needed to
+figure something out so that I wasn't
+using my sales rep's human time in the
+middle of the night to potentially stay
+up and ask questions or potentially not
+have any questions at all. So I built an
+agent that responds every time the
+button is clicked and someone says they
+want to talk to an agent. It will
+actually come on and answer questions
+for them. And her name is Bella. Do you
+want to see how she works?
+>> Yes, absolutely. I want to see how you
+built her too kind of step by step.
+>> Sure. So this is step by step how I
+built her. So I host my website on
+framer. So there is a web hook and every
+time somebody clicks that button it
+sends a web hook which is the trigger
+for this workflow. And then it takes all
+of the conversational pieces, basically
+every part of the transcript, the name,
+email, phone number, company name, any
+questions and answers so that I can have
+a full transparent look at exactly what
+happened. I'm big on trust and
+authority. So I want to see everything
+that went in that people were asking
+Bella, but also everything that she was
+giving them back because that's equally
+as important. And then once she had an
+exchange with them, her goal was simple.
+It was always to answer their questions
+and then get them booked on our demo
+calendar, which she had our availability
+for. So once she did that, it was really
+just a simple note of checking if we
+already had the email. So like, is this
+somebody that has form filled on a lead
+genen magnet 4, spoken to us? if we
+didn't have their email, then she
+actually went into Active Campaign and
+she created it uh or created and updated
+the contact depending on what
+information we had and then sent us an
+email so that when we woke up, we had
+the demo information, all the questions
+and answers, and then the little blurb
+about her. And this is what she looks
+like. I used Animeai. There's a bunch of
+different avatars you can use, but I
+chose to use Anam. And I won't click
+start because she can talk and we can't
+necessarily hear her, but she can hear
+me if I'm talking. So, she just gets
+really confused basically.
+>> Yeah.
+>> Um, but she was trained off of a secure
+Google Drive. So, every single SOP that
+exists in the company that is safe and
+has uh, you know, a certain level of
+visibility and tiered risk, she has in
+her knowledge. And so the idea is
+>> every time she answers a question uh and
+she doesn't know the answer and I have
+to help her with it, it gets logged into
+her memory so she'll never ask me again.
+So she's truly agentic in that sense.
+>> So that's it's so cool how you have it
+set up that way. And so just to kind of
+summarize what she does. So essentially
+it's a a chatbot that's trained on your
+business's SOPs and the way that you
+guys do things in your business. And
+then it sits on your website. So if
+anybody has questions at any time of
+day, they can chat with this essentially
+chat GPT for your business. And then
+from there, the goal for the bot is to
+get that person on a demo call because I
+assume you guys probably know, oh, for X
+number of people we get on a demo call,
+we close Y. So it just becomes a numbers
+game at that point. So like right then
+and there by being able to book those
+people at 2 in the morning if that's
+when they're chatting with your model
+then you know that's a lead that
+probably wouldn't have booked a demo
+elsewhere. So I could see this directly
+translating to revenue.
+>> Exactly. And I like using Anom because
+you can choose between the different
+large language models. So it's really
+frustrating whenever you become married
+to one and then there's a new feature
+update on another one and it blows it
+out of the park. So, I like the ability
+to switch them out depending on what
+their latest update is and how well
+they're performing. But also, I really
+enjoy having one avatar because I have
+two businesses and they're different.
+And she's trained on both of them. So, I
+don't just have her on one landing page.
+I have her across three. So, that if
+somebody's asking a question and they're
+not a good fit for one business, but
+they are for another, she can handle
+that back and forth transition. Whereas
+I feel like if you had actual humans
+working that middle of the night shift,
+you would have to segment them into
+different areas of the business and in
+separate businesses. And she doesn't
+work like that. So she's truly like a
+big picture thinker of where are they at
+in our life cycle, where they belong,
+and also simultaneously she gives us a
+repository of all the questions so that
+when we create new content, we can
+create content off questions that people
+are actually asking us.
+>> That's super smart. So yeah, so that's
+how you're getting your content ideas,
+too, is just, hey, what are people
+asking our AI agent that sits on our
+website? So I I absolutely love that. I
+like I said, I think that's directly
+applicable to just about any business
+out there that gets inbound leads, which
+I'd say is pretty much any business
+>> if they're doing it right. Yes,
+absolutely.
+>> Yeah. So, do you want to uh kind of dive
+into the inate inflow itself and and
+kind of talk through each module and
+what job it plays uh and potentially how
+someone could swipe this and and really
+set it up for themselves?
+>> Yes, I added the setup. So, it's step by
+step what you have to switch out, but it
+starts just with that web hook. So, all
+the web hook does is actually use the
+trigger of the button being clicked so
+that everybody when they attend that
+specific section of the website and they
+click that button, they understand that
+they're about to voluntarily get on a
+call with an avatar and ask questions,
+they could chat. They're deciding to
+call. So, that call, that click on the
+button is actually what signals the
+trigger to start this workflow.
+>> And the conversation could be 30
+seconds, it could be 5 minutes, it could
+be 10 minutes. So, we didn't want to do
+a timebased interactive node because we
+didn't know how long those segments were
+going to go. And we actually found out
+that when you tell people that they're
+about to talk to an avatar and it's the
+middle of the night, they're pretty
+understanding that you're being
+transparent about it because everyone's
+got to sleep.
+>> So, the conversations are actually
+looking more of an average of 10 to 11
+minutes. Like pretty long conversations.
+>> Long.
+>> I'm actually shocked by that. I figured
+it would be like, oh, most people figure
+out they're talking to an AI agent and
+then they hang up after like 40 seconds.
+But like 10 minutes is a long time to be
+talking to an agent.
+>> Exactly. So that's why we only have one
+node for the processing conversation.
+And you can see that in this
+conversation, these are all the bits and
+pieces of the lines of code that she's
+able to get. So visitor name, the email,
+phone, the company, the actual session
+ID that took place, what page URL she
+the user was on when they asked to talk
+to Bella, um if this person was
+referred, what the full transcript is,
+how many characters were in the message
+count, duration and minutes, start time,
+end time, summary, lead source, so we
+can see truly like where all these
+people are coming from. Yeah, we have
+their digital footprint across the whole
+entire site. And the best part of this
+is they're willingly giving this
+information to us because it makes their
+experience a lot better. As a bootstrap
+founder twice, I can I can't tell you
+enough how expensive tools can get that
+promise you that. and
+>> the fact that you can find a way to keep
+sales human to human but also find
+mindful places for automation when it
+makes sense and also get this level of
+data. I think that that's like the dream
+for any small business owner in my
+opinion.
+>> Yeah. I mean it's truly a win-win like
+you said the customers getting a better
+experience and you as a business owner
+are delivering a better product at a
+with a more efficient cost structure. So
+yeah, absolutely a win-win. And then the
+next node is just checking whether or
+not that person gave an email. And if we
+have that email in Active Campaign. So
+Active Campaign is our CRM. So whenever
+your audience gets this little
+blueprint, all they would need to do is
+switch these two nodes out with their
+CRM of choice. It could be HubSpot,
+Salesforce, Marketing Cloud, whatever
+their nodes are. And then from there, it
+merges the paths. And then after that it
+just sends a message and it just says
+hey there you have a new lead from last
+night's discussion and it actually grabs
+the summary of that uh processing
+conversation data node and gives us the
+summary and the lead source and the
+message. So when we wake up we know
+exactly what happened but also they're
+already booked on our calendar. And the
+best part about this is, let's just say
+hypothetically, they book a demo the
+night before and it's the middle of the
+night and then two days later they want
+to reschedule it. They can actually
+reschedule with Bella. They don't need
+to email us or call us. She's got our
+schedule.
+>> So, we don't have to give out our
+Calendarly links, which I find really
+helpful because sometimes it just gets
+abused naturally when people are super
+busy and we don't like to give them out
+for that reason. So, we haven't had to.
+but Bella has them, so she knows our
+next available and she's able to have
+that kind of an interaction with them
+and still maintain our data privacy. And
+what I love about this flow is like you
+said earlier, you can substitute out the
+different
+like pieces of this automation for
+whatever tools you're using. So like if
+you're using go high level for example
+then you just switch that out where you
+have your active campaign nodes you
+switch that out with go high level and
+then it's kind of plugandplay with how
+you do things and then if you don't want
+to receive an email with your daily
+summary of the people that it talk to
+then maybe you want to receive a
+WhatsApp message or a Slack message or
+even a text message that's all you can
+configure that right so it's kind of
+>> adaptive uh to you as far as how you do
+things which is what I love about these
+kind of like nodebased
+uh automation and and AI agent tools.
+>> Yeah, you hit on a really important
+part. So, it's interesting. I came from
+the enterprise space. So, it it was a
+little bit strange for me leaving the
+enterprise space and having two of my
+own startups because I was conditioned
+already to look at having a lot of
+tools. And when it comes down to it, if
+you have really good communication,
+really clean data, and that's all in one
+place, you don't need Slack. At least I
+found you don't need a lot of those
+tools. So my company operates off of
+notion. That's where we put all of our
+information so that it's visible in one
+place. So even though we're using Active
+Campaign as our CRM and we use Clay and
+a couple other tools for our processes,
+there's always one viewpoint and like
+one master dashboard in Notion for
+everyone to see. So it's been a nice
+little pivot and switch because having
+all these tools and getting constantly
+pinged with all these updates was not
+productive for me. It was actually more
+distracting.
+>> So, do you guys use a messaging tool of
+any kind like a Slack or a WhatsApp or
+you're saying it's all in Notion?
+>> It's all in Notion. Everything has a
+database. It's got back pages. There's
+SOPs, SLAs's, contracts, um everything
+from even uh we have our database for
+who we are sending emails out to and
+then who we're interacting with on
+social media. That's all in one
+database. And that's kind of the beauty
+of having a small business and being
+able to automate this piece by piece and
+then scale it out as operations and
+processes start to make sense. Because
+if you do it this way, even though it's
+a crawl, walk, run method, you're
+actually kind of interrogating every
+process to see if it even makes sense to
+begin with and if it's effective. And
+then once you realize and establish
+clear benchmarks and ROI, you can then
+automate it and it stays and it doesn't
+break later on because you did that work
+up front.
+>> Yeah. You're you're basically forcing
+yourself to optimize that process which
+goes I mean handinhand with the
+framework that I will talk about from
+time to time, our AOA framework. Audit
+then optimize then automate, right? You
+can't go out of order. That's something
+that we've learned the hard way several
+times is a client will come to us and
+say like, "Hey, can you automate XYZ
+task? It's currently taking me five
+hours per week." And we've made the
+mistake of just saying, "Sure, we can do
+that." And then we go into actually
+automate the process and we realize the
+process itself is broken. So then you've
+got to go back and do that process
+optimization work in the first place and
+then go back and automate. So it ends up
+taking twice as long and being twice as
+expensive. So, I like how you kind of
+framed it that way.
+>> Thank you. You have to be married to
+your tech stack. That's the rule I like
+to say.
+>> Yeah, absolutely. Now, so, and I
+understand you've got something that
+you're giving away as part of this kind
+of breakdown here. You want to go into
+that briefly and then I've got a couple
+other questions for you on uh how people
+can kind of go and set this up for
+themselves, like how to plug in their
+data.
+>> Sure. So, I'm giving my blueprint away.
+So, you'll actually be able to just copy
+and paste this and bring it into your
+own N8N environment. And like I said,
+just switch out the node for web hook
+and then the two CRM. If you don't use
+Gmail, you can switch out for anything
+that you'd like. But I'm giving this
+away. I think that this is a really good
+use case and I'm really really
+intentional about sharing and not
+gatekeeping the small business owner
+success stories because it takes a
+village. And so if you can find a way to
+authentically and intentionally use
+technology, I'm all for it. So everyone
+that is tuning into this will get this
+blueprint. It's got this nice little
+setup with five steps, super simple, and
+you'll be able to take this and go
+wherever you want with this. And if you
+like Anom, which I highly recommend
+using, you'll be able to choose between
+Bella or about a dozen other avatars.
+And you can choose uh which large
+language model you use, which avatar
+obviously voice and then how you
+actually train the avatar. So you can
+configure all of this. It really is
+personalized to the the user's uh
+liking. But I just gave her my knowledge
+base in my calendarly and I gave her
+very specific prompts with roles and
+speaking styles and useful context and
+she was amazing. So it's truly a
+plug-and-play solution. Well, that's
+incredibly generous, too, to give away
+for free. So, for those of you
+listening, if you're listening on the
+podcast, we'll have a link to to get
+that for free in the show notes, and if
+you're listening on YouTube, we'll have
+that in the description. And like she
+said, that'll pretty much be a, you
+know, download and then upload straight
+into your NAND version of this
+automation. So, that'll be super useful.
+Now, Ashley, so if somebody's watching
+this and they're like, "Okay, well, I
+want to kind of try to tinker with it
+and hook up some of my own data sources
+to it and really personalize this and
+make it my own." Is it as simple as just
+arming the agent with your SOPs or kind
+of like you said that you did, hooking
+it up to your Google Drive so it has
+access to all your docs and sheets and
+whatnot? I mean, is it really that
+simple or is there something more that
+people need to do?
+>> No, it's really that simple. I would I
+would warn and caution rather that the
+Google Drive originally that you give
+should only have certain pieces of
+documentation in it just so you can see
+what that breadth of knowledge looks
+like once you give the avatar a little
+bit of it and then as trust between the
+humans and AI develops and as your
+comfort level goes up then give it more
+information. This is also just a really
+good skill set for how to pressure test
+agents in general. If you give it access
+to everything, then you don't really
+know what to expect or how to mitigate
+issues. But if you give it layer data
+and add slowly, it's a lot easier to fix
+something and correct something
+proactively.
+>> Well, and I think that's a great point,
+too, is a lot of people just they they
+hear that they need to build a knowledge
+base or they go to build an agent and
+they just kind of data dump everything
+that they have on them. They give them
+all their SOPs and access to all their
+tools and their whole Google Drive and
+the whole nine yards and then they
+realize the output they're getting is
+not that good because they they've got
+context bloat. They've got they've
+basically given it information overload.
+So I think that's a good point is like
+you know really figure out what is the
+the purpose of this agent or the purpose
+of this tool and then giving it only the
+data only the tools that it needs to do
+that job and do that job really well.
+>> Exactly. And then making sure obviously
+that you're reading the documentation
+you give it beforehand so that
+everything is actually accurate and not
+outdated. That can that can get you if
+you're not careful.
+>> Absolutely. No, that's a great point.
+Well, Ashley, is there anything else you
+want to go through as far as this
+particular workflow is concerned? And if
+not, I've kind of got one question for
+you to uh to transition us out.
+>> I'm happy to answer that question. I It
+really is a simple plug-and-play
+solution. So, I think I hit on Bella
+pretty well. And I can't really take any
+credit for her because I didn't create
+the company and she's flawless with her
+execution. So, I don't know what else I
+could say.
+>> I mean, if anything, half of what I'm
+building, too, is I just see I'm like,
+"Oh, this guy built something cool."
+Like, I'm just going to go basically
+practice building that for myself. And I
+feel like that's the best way to do it.
+>> Absolutely. You're not going to waste
+your time that way. Someone already
+started,
+>> right? Absolutely. So, my last question
+for you, so Ashley, let's say I'm a
+small business owner. I'm not technical.
+I'm, you know, pretty heads down in the
+weeds of my business every day, but I
+want to start leveraging AI. I want to
+start automating some stuff in my
+business. What's the one thing that you
+would tell me to do to start?
+>> Focus on revenue. There's a million
+different use cases for AI agents and
+automation in a business, but you have
+to be focused on revenue, bringing more
+of it in, preserving it. So I would say
+think about the use cases that generate
+and you know generate more revenue and
+then go on YouTube. It is a knowledge
+source. I still think it's like the best
+place to go anytime you want to learn
+anything about these agents and start
+looking at videos and tutorials of
+people that are building agents using
+your tools and your tech stack to bring
+in the more revenue for the business. I
+would say don't try to change too many
+things at once. focus on money and then
+focus on agents that connect to the
+tools you already have. Don't try to
+switch them out.
+>> That's very good advice. And I think a
+good example of that is like a speedtole
+agent, which is kind of a variation on
+what you showed us, right? It's just I
+guess for when people do get those
+inbound leads, it's having an agent that
+like yours trained on the SOPs, trained
+on sales, and kind of goes back and
+forth with the goal of booking them on a
+call or a demo just like yours. So, I
+think that's the best place to start. We
+built those for clients. They're they
+are probably the one thing that I can
+think of that most directly translates
+to revenue is how quickly do you respond
+to leads.
+>> Yeah, you can start looking at it
+through funnels. You know, if you start
+by having something that can interact
+and do better than a chatbot in the
+middle of the night to help kind of
+guide the way for your prospects, then
+the next layer on top of that can be
+like enrichment. And you can start to
+play around with tools like Clay and
+actually like enriching those those
+folks so that the bonus part of that is
+you wake up the demo's already booked
+but also you know everything about them
+because of your enrichment tools and you
+don't have to block your calendar. You
+know you can kind of keep it loose in
+terms of like if a demo pops up you're
+not going to be sweating because it's a
+high priority and you have to clear
+everything to go like deep dive and
+research about them. So, it's like this
+nice little layering component where you
+feel comfortable, you get something
+right, you build structure and a
+foundation, and then you go and build on
+top of that.
+>> 100%. Well, Ashley, very good feedback,
+very useful build that you showed us
+today, too. And so, again, for everybody
+watching or listening, you guys can get
+a downloadable copy of that exact
+automation that you can just upload to
+NAD yourself and use right away. We're
+going to put that in the description on
+YouTube or in the show notes on Apple.
+So Ashley, uh, before we go, where can
+people follow you or find out more about
+you?
+>> LinkedIn is my favorite social media
+channel and I am constantly on there.
+>> Awesome. So just Ashley Gross on
+LinkedIn. She has a great follow there.
+Uh, so Ashley, thank you so much for
+your time and for everybody watching.
+We'll be back next week.

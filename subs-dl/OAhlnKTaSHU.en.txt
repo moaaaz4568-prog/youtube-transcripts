@@ -1,0 +1,486 @@
+The new model Claude Fable 5.1 can turn
+one prompt into a website [music] that
+looks impressive in a matter of seconds.
+You see, a paying client will always
+judge everything that the demo cannot
+see, which is whether the message fits
+[music] the business, whether the design
+holds together, whether the mobile page
+actually works, and whether the finished
+product can actually go [music] live
+without any surprises. And so, in this
+video, I'm going to build one complete
+website from a [music] blank folder to a
+live domain. You'll see the brief, the
+concept, the first output, and the final
+deployment, as well. So, by the end, you
+will have a process that you can
+realistically repeat for every single
+[music] client that you work with. And
+I'm also going to include the part that
+most tutorials don't, which is how you
+can now sell this
+>> [music]
+>> for upwards of 10K. And just in case you
+don't know who I am, my name is Michele,
+and I've scaled my own AI agency to
+[music] six figures in 14 months. I've
+worked with over dozens of businesses
+from SMBs to enterprise clients, [music]
+and in the process, I've also helped
+over 50,000 people to do the exact same
+thing. With that being said, let's dive
+in. All right, so first things first,
+how does Fable 5.1 actually compare to
+the other models, or the previous model
+of Fable, which is Fable 5. So, Claude
+recently released Fable 5.1 and Mythos
+5.1, as well, which is a more advanced
+version. But, if I go down here to the
+actual numbers, I can see that in
+scientific research, terminal coding,
+multidisciplinary reasoning, and agentic
+coding, Fable 5.1 completely outperforms
+Fable 5, as well, in both accuracy,
+which is the Y axis, right here, so high
+accuracy, and also cost, as well. So,
+it's more cost-efficient and better
+accuracy, in general. And if I go here,
+I can see the difference between Fable
+5.1, Fable 5, Opus 5, and GPT 5.6. If
+you look pretty much across the board,
+Fable 5.1 outperforms every single one
+of them, right? Which is awesome, and
+you will see this when we build
+websites, in the way that it thinks, in
+the way that uh the speed, the accuracy,
+the cost, as well, which is very
+important, because, again, Claude is
+usually a bit more expensive than the
+other models. Um so, this is going to be
+key for us to use. All right, so for us
+to be able to make the website, we need
+Claude Fable 5.1, which we're going to
+use inside the desktop app of Claude.
+We're going to use Hexfield uh to be
+able to create the content inside the
+website, which is a 3D animations. And
+then we're going to use Hostinger to be
+able to actually host and use a
+one-click deploy connected to Cloud.
+It's super super easy, super simple. So,
+I'll show you how to do that, too. So,
+the first step is actually setting up
+Cloud. All right, so here I am on the
+desktop app of Cloud. We're not going to
+use a chat feature, we're going to use
+Cloud Code. You can also use Cloud Code
+inside of VS Code, which is a IDE, some
+sort of place where you use Cloud Code
+inside, but I find it easier to use it
+here. And also you can plug in all the
+tools that you have in a much faster
+way. So, make sure you have a pro plan
+or a max plan like I do. Go to Cloud
+Code here, and now we have the dashboard
+that we're going to use. Bottom right,
+you'll see that we have the models. So,
+we can press here and make sure to press
+Fable 5.1, which is now my default.
+There's also other models like Fable 5,
+4.8, [music] but for this video we're
+going to stick to this. Up here as well,
+which is pretty cool, you can also see
+the overview of how much usage you're
+doing, the tokens, and also the models
+they're using as well. This is good
+because again, Cloud, depending on the
+plan that you have, can get a bit
+expensive, so you can digitally see here
+how much you have left in terms of usage
+as well. All right, so let me zoom in
+here and let's create our first folder.
+So, the folder is going to be where we
+store the website files and all that
+stuff, and then we'll connect everything
+to Cloud to then be able to get started.
+So, I'm going to go on desktop and just
+put website
+design
+and press create.
+I'm going to press open, trust the
+workspace. Again, this will be a folder
+that's going to be inside your desktop
+in your computer. So, if you go to
+desktop right now, you'll be able to see
+a folder that we just created here. And
+all the files are going to be there,
+which we'll then be able to use to then
+host in Hostinger. All right, so the
+second thing we have to do is connect
+our Cloud Code to Higgsfield and
+Hostinger to be able to use them to then
+be able to make the website and host the
+website. All right, so here we are on
+Hostinger. You can go to
+hostinger.com/mikaela. You can find the
+link down below. Go to get a plan.
+And here, the plan that I would get is
+the unlimited. So, they have a massive
+discount, plus you can use my discount
+code as well. But I would choose this
+plan also because it gives you unlimited
+websites, which means that when you work
+with clients, you can host their website
+on your account and then you can charge
+them a retainer to make more money per
+client over time. Not only that, but you
+also get domains. So this right here is
+the one that I recommend. So you go to
+choose plan.
+Once we get on this page here, you can
+see the different options of months.
+I'll recommend doing the 48 uh months
+because it gives you the the best
+discount. Uh plus, you can also
+use the discount code mikeli to get 10%
+off in case you guys are using
+Hostinger. So instead of 1,000, you only
+pay 171, which is great. And again, this
+is for 48 months. Once everything is
+good, you can just press continue.
+All right, so once you have signed up,
+you will get on the dashboard that looks
+like this. You can go down to websites
+and just check if you have the
+unlimited. Uh if you have this here,
+that means you're all good and you're
+set up. [music] All right, so now that
+we have finished uh making an account on
+Hostinger, we have to connect this to
+Clock Code. So I can go here, I can go
+down to plus connectors, manage
+connectors, and I believe we have to put
+add, browse connectors, [music]
+and let's look for Hostinger.
+Make sure to use the community one
+because the other one is not the same.
+You want to press connect to Cloud. It
+will then bring you to a page that looks
+like this, which is connecting your
+account. Just press allow. Once that's
+done, it will bring you back here and it
+will say connected. Cool. That's the
+first thing. So now, you should be able
+to see Hostinger connector right here.
+Amazing. And if you're wondering what
+you can do inside the software, you can
+just go here, connectors, manage
+connectors, Hostinger, [music]
+and then you should be able to see um
+the different tool permissions. So the
+things that Cloud is able to do.
+>> Read-only tools, the DNS records,
+basically all the things that come with
+a website, which is the DNS, this, this,
+and that, which I really struggled with
+at the start when we didn't have all of
+this. Um it does automatically, which is
+great. All right, the third thing is
+going to be connecting Hicksfield AI to
+Clock Code to generate all the visuals
+and animations for the website. I'm
+going to go here, connectors, manage
+connectors. So really what you have to
+do is go to add
+custom connector. Don't browse
+connectors, just put custom. And then
+now we have to add name, Hixfeld.
+And then,
+we have to create a remote MCP server
+URL. Now, to get the server URL, you can
+just go to hixfeld.ai/mcp
+>> and just press Claude, press MCP here.
+Again, if you're using Grok Bot,
+ChatGPT, Cursor, Claude Code inside of
+VS Code, open Claude Hermes, you can
+just use these ones. But, for our use
+case, it's going to be this. You can
+just go ahead and copy this,
+bring it back,
+paste it here,
+and then press continue. Now, mine says
+a connector with this URL already exists
+in your organization, use the existing
+connector instead of adding it again.
+This is only because I've connected
+Hixfeld before, but for you, it will
+allow you to authenticate your account,
+and you should be good to go. One thing
+you want to do though is you want to
+create an account and sign up. I'm using
+the free plan here, it will give you 10
+credits. Now, I recommend that you do
+add paying credits just because that's
+what it takes to be able to create a
+really good animation. If you use the
+free plan, you'll get a a free
+tier level animation for the website,
+okay? So,
+I'm going to add some credits here as
+well. All right, so right now you have
+the folder, we can go ahead and paste
+the prompt itself, and make sure you
+have Fable 5.1. I chose the effort as
+high,
+>> and here right here you can also see the
+context window, which is the amount of
+space I used so far. And we can press
+go.
+Again, this right here is the whole
+prompt, you can find it in the resource
+down below, uh in my school community.
+We also have other prompts as well, just
+in case [music] you guys want to use
+them.
+As you can see, it's using Hixfeld
+generate video MCP, which is using the
+actual models inside. Now, one more
+thing is that in inside the prompt here,
+I tell it to use the Hixfeld MCP, so I'm
+very clear and specific about what I
+want and what model it needs to use. In
+this case, it's using Sidance 2.0
+uh with the SCD mode, 1080p, 16:9 frame,
+and no audio. And the more more you are
+about what you want, the better the
+output becomes. Again, models are great,
+stable 5.1 is great, better than the one
+before, but they're not great if you
+don't give them the prompts that they
+need to have. All right, so now it's
+starting to generate the video that it's
+going to use um cuz again, all these
+websites that we're going to make are
+going to be frame-by-frame. So, we're
+going to have a whole video that you can
+just scroll past, which just creates a
+premium feel for the brand. All right,
+so it actually just made the first
+version of the website here that I can
+just press open and I'll be able to see
+it on the right.
+Scroll through.
+Okay.
+Nice.
+Nice. One thing I do want to add is the
+ability for us to have a ring
+uh right here. I do believe it's doing
+it right now. It's still in the process
+of of creating it. Or else, we just have
+to tell it, "Hey, can you create a ring?
+Put it here. I want to see like the
+insides of the ring."
+uh as if you're you're going around the
+ring and then seeing the different
+features and so on. So,
+I feel like that'd be cool as well.
+And it looks super clean. So, great.
+Awesome. As Claude Code is working on
+the website, there's one more thing that
+you could use to actually enhance your
+website and make it better. You can go
+to 21st.dev. And essentially, what this
+is, it's a library of interfaces and
+different elements of websites. So, we
+can go here to templates.
+You can basically go ahead and to to one
+template, for example. You would make an
+account, you can download, or you can
+simply just use this code and tell
+Claude, "Hey, can you replicate what you
+see here? Uh the actual style and
+everything." And that is the easiest way
+to actually replicate something that you
+like from the internet. So, I highly
+recommend using this right here. I used
+it for every single time that I made
+websites. Again, if you have something
+like this, you can also copy the prompt.
+You can sign up. It will bring you to
+this page right here. You can just
+simply copy the prompt, and then you can
+go ahead and paste the prompt inside of
+Claude Code right here. Right now, this
+prompt is simply a prompt that tells it,
+"Hey, uh it gives it a whole piece of
+code. It tells it everything. You're
+given a task to integrate an existing
+React component." So, if you want
+different components from different
+places, you can put it all together
+here, uh it's super super simple. Again,
+it's prompting, so Cloud will
+understand. I said actually make the
+video of the Aura Ring that you can see
+here, which is pretty neat. Yeah, it's
+super super clean.
+>> Uh and this will be inside the website
+as we're scrolling through uh the page.
+All right, so I just finished making the
+site right here. Uh if I go to Hostinger
+and I go to websites, I can see that we
+do have a website right here. I can just
+open it, and we have the Aura website.
+Obviously, there's some things you can
+definitely change about the website
+itself,
+>> uh but this is the main thing itself.
+Super clean.
+Super clean. Now, is it perfect? No, of
+course not, right? Um but that's exactly
+where you can go back and forth. And
+this is a one-shot prompt. For a product
+like this,
+it's not bad at all. It's really good.
+You can definitely put this more to the
+right. We can make this a bit more clear
+um because this goes over this. Uh we
+can obviously connect the payment on
+Stripe to this website, uh so we can
+yeah, to collect payment from customers.
+And there's a lot more that we can do
+here as well, like testimonials, videos,
+and stuff. It just depends on the
+business that you're working with and
+what they need. The only thing I told it
+before, by the way, in the prompt is to
+host it on Hostinger, and it was all
+done automatically, which you can see
+here. And you have unlimited amount of
+websites as well, so the more you build,
+the more you can host it here, and it
+will be completely free. Uh well, I
+mean, free in the plan that you have,
+right? Now, let's say I want to make one
+change. Let's say I go here and I say,
+"In the homepage in the main one, uh the
+Aura Ring is actually going over and
+taking over the writing, and I can't see
+the writing properly. I can't see the
+know your body before it tells you. Can
+you put the ring a bit more to the
+right, so it doesn't uh go behind it,
+and I can fully see the writing?" Now,
+you will see that it does take a few
+minutes for the website to build, just
+because the model is on high effort
+mode, and it's also Fable 5.1, which
+takes a bit longer because it needs the
+accuracy to be better. Uh but if you use
+a model like Sonnet 4.5, it'll
+definitely be faster as well, right? It
+just depends on the quality and what
+you're looking to to build. All right,
+so it just finished making the changes.
+I can go ahead and press open here, uh,
+and you should see that the ring is on
+the right, which is great.
+Scroll down.
+Strain, sleep.
+Like the metrics. Again, we can always
+add more testimonials,
+uh, which would be good for for these
+kinds of things
+as well. Great. Awesome. All right,
+cool. We have the Hostinger website
+here, which is deployed. All you have to
+do now when you have to deliver it for
+the client is you want to connect the
+domain. That's fine, change, and connect
+the domain of this website that we built
+to the domain of the company. You do
+have free domains available if you use
+the unlimited plan, uh, which is great.
+That way the whole deployment process is
+super super quick, and the turnaround
+time is very fast as well. Now,
+obviously, I recommend that you can go
+back and forth with AI, ask it any
+questions. If you want to include
+anything from 21st.dev, like the little
+things in the website, you can
+definitely do that uh, to make it
+better. Of course, this is not perfect.
+This wouldn't be 100% what I would
+deliver for the client itself. There are
+still some changes that we can make.
+It's fairly easy, especially with AI, to
+go back and forth. And Fable 5.1 is very
+very accurate as well with the things
+that we ask. And you can always add
+pictures here as well, in case you say,
+"Hey, I don't like whatever."
+Um, you can always just say this, and
+then it will take the picture itself,
+which is great. Uh, it allows us to have
+one more method of input for the AI as
+well. Now, all the resources and
+templates of this video will be left in
+the link down below in my free school
+community. You can go to the classroom
+section, and you can go to the templates
+vault, and you'll find everything there.
+All right, so that right there is how
+you build and deploy websites using the
+new model Fable 5.1. Now, when it comes
+to actually working with these
+businesses, you have a proven process
+that works in this video, uh, but you
+would have to get the brief as to what
+they want, the the colors, the the
+different uh, requirements that they
+want inside the website, which you can
+feed all into Claude Code, and it can
+use Hexfield, and then you will deploy
+it on Hostinger as well. So, the process
+doesn't change, it just depends on the
+business and what they want. In terms of
+the pricing, Fable 5.1 did not
+automatically make the 10K website
+aspect of it cuz it really depends on
+the business. It depends on how many
+leads they get, it depends on how big
+they are, it depends on their pain point
+um because not every business is going
+to be able to afford 10K for a website,
+but there are definitely businesses that
+can, especially when it comes to the
+premium quality of it. And if you want
+to go a level deeper and you want my
+one-to-one help to be able to replace
+your 9-5 and build and scale your own AI
+agency to 10K a month plus, then check
+out the link down below where I go
+through the full video on how you can do
+that step-by-step with me. So, if it
+sounds like a good fit, then feel free
+to apply. So, you now have the complete
+process, which is brief the business,
+choose references with a reason, you
+have build the first version, you have
+corrected the message and design, you
+have deployed it, and you've also
+checked the live result as if a client
+is going to see it. And for another full
+build where AI does the real work inside
+the business, check out this video on
+the screen where I show you how
+Clockwork plus Grok Bot can create a
+$10,000 AI agent. I built the whole
+system from scratch, from the ideation
+all the way to building something that
+the business could actually use. With
+that being said, guys, I really hope you
+found value from this video, and as
+always, I'll see you in the next one.

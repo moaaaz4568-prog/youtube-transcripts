@@ -1,0 +1,681 @@
+Hello, I'm Corinna Kay, and today we're
+going to be building a brain [music]
+bank, which is a system that captures
+your actual thinking so that AI is going
+to polish your words instead of just
+making them up from scratch. And let me
+tell you, this system that I have
+developed for you is going to sort your
+what the hell am I going to post today
+content issue for the next year. This
+strategy is killer, and it's going to
+enable you to use AI to create content
+that is full of your opinions, that is
+so you, that really is just repeating
+the kind of thing that you would
+actually say without you needing to say
+it. So, I'm going to walk you through
+that today, and by the end of this
+video, you're going to have your first
+deposit in the bank, and also a
+repeatable process for every piece of
+content going forwards. The problem with
+AI content is not AI. The problem is
+that most people ask AI to think for
+them instead of feeding it their own
+brain first. And so, what we're going to
+do is create something today that
+enables you to do that in a really lazy
+way. And it what you is just going to be
+is is going to enable you to really tap
+into AI to create this stuff for you,
+but it's going to do that via your own
+brain. So, be honest, you can spot some,
+obviously not all, AI content really
+easily, right? And even in personal
+stories where someone is sharing this
+heartwarming or this heartbreaking a
+highly emotional story of something
+they've experienced, and it's filled
+with m dashes, and it's filled with all
+this stuff. And often, not only is it
+the fact that the structure of the
+sentences makes it seem so AI, but also
+the actual content of what is in the
+post is just generic slop. Like, there's
+not really any opinion. It's kind of
+playing it a bit safe, and it's quite
+honestly something that anybody could
+have written. So, that's what we are
+going to solve today in this episode.
+I'm going to show you how to build a
+brain that is going to actually change
+the game for you. And you know what?
+We're going to do this in Notebook LM.
+Let me know in the comments if you are
+using Notebook LM, if this is new to
+you, or if Notebook LM is something
+you're using all the time and you know
+about it really well. We're going to be
+using this cuz Notebook LM is really
+really cool. We can do a lot with it,
+and we're going to build a brain. So,
+the first thing we're going to do to
+build this brain is we need to know what
+to put in it. Not all your anxieties and
+all your stresses and all the things you
+worry about. We're going to keep that
+out of it. This is going to be a brain
+that is essentially a a bank of your
+opinions and your take on things is
+going to be full of your
+business-related opinions. So, we are
+going to fill it with you speaking about
+certain topics. Now, if you're somebody
+who has got a YouTube channel, or you've
+done a course before, or you've got
+recordings of you talking, delivering
+speeches, anything of you talking about
+anything business-related, then that's
+great. We're going to use that as well.
+If you don't have anything like that, do
+not worry, my friend. We're going to
+start from scratch. I've got a really
+awesome process for you to follow, and
+you are going to build yourself a brain
+bank over the next year that is going to
+serve you for years to come. You're
+going to keep adding to it, and it's
+going to be your AI brain that just
+enables you to build so much really
+high-quality content. Another thing that
+you can put in your brain is like Fathom
+transcripts, or transcripts of Otter AI
+of you on calls, maybe with your
+clients, or if you talking to your team
+members, or in a group program of some
+kind or membership. Those kind of
+transcripts are really helpful as well.
+But again, if you don't have any of
+those, don't worry. Here's essentially
+what we're going to do. So, I have built
+a Yap Pack for you. The Yap Pack is
+essentially 260 questions that you can
+answer, and they're all things that are
+going to involve you giving an
+opinionated answer, because they're
+things like, "What do you hate about
+your industry right now? Tell me one
+thing that's got your back up in the
+last week. If you could sit your ideal
+client down and just have a good
+heart-to-heart with them, what would you
+say?" Stuff like that. You can get the
+Yap Pack, by the way. I will drop you
+the link to it below. The reason why
+there are 260 questions in it is you've
+got one for every weekday of the year.
+And so, step one is that you just pick a
+question. Step two is you're going to
+get voice memos up on your phone or the
+Android equivalent, and hit record. Any
+transcribing tool, and hit record. It
+could be that you just open up ChatGPT
+and and press the transcriber thingy
+there. Anything that's just going to
+transcribe your voice so you can yap
+into your phone. It's a very American
+term, yap. I said this to one of my
+clients the other day, "We're going to
+yap." She said, "Excuse me, I do not
+yap." I was like, "Okay, sorry." Didn't
+realize this was a bit offensive, this
+term. So, sorry if anyone finds the
+yapping offensive. But you're going to
+yap into your phone and just answer that
+question. So, we could build it into the
+daily routine. And maybe you're on the
+commute, maybe you go to the gym every
+day. Is there somewhere that you can fit
+in a 2-minute yap into your phone?
+Absolutely, there is. And you know what?
+When you do this every day, you're going
+to have all of these voice memos that
+are your opinion, you talking about
+things that you care about, that you
+want to change, that you want to have an
+impact on. And all of these questions
+that you answer are then going to start
+to form a really fantastic vault of the
+you-est stuff there is out there,
+because it's your opinions, and that is
+what is missing in a lot of this AI
+flipping slop content that we're seeing
+everywhere. We're missing opinions.
+We're missing that stuff that makes us
+thought leaders in our space, and we're
+just outsourcing that to AI. "Write me a
+post on LinkedIn that gives you the five
+common reasons why people are struggling
+with X." What's going to come out? An
+generic AI post, even if it was written
+by Claude, which is so significantly
+better than ChatGPT, but it doesn't have
+your opinion. So, by recording your
+opinions and building up this bank, your
+daily routine of just yapping into your
+phone for 2 minutes and just sharing
+your thoughts on this, what we're going
+to do is we're going to then give that
+to AI, and we're going to get AI to just
+organize those thoughts and sort them
+out for us, because they will be waffly.
+Especially if I'm doing this, it will be
+waffly as hell. But we're going to get
+those all organized and turned into
+something that is fantastic content,
+because it had a a highly human input is
+the thing that is missing from most
+AI-generated posts out there. And you
+know what? If you start doing this, you
+are going to really separate yourself
+from your competition. Do you know why?
+Because most of your competition are
+using wet ChatGPT-generated posts that
+are a little bit wet, and a little bit
+boring, and a little bit soulless,
+because they're not doing the highly
+human input, because that bit takes
+effort. The easiest thing to do is say,
+"Give me some content ideas. Now, write
+those content ideas. Great, I have
+content ready to post." But the problem
+is anyone can do that. What anyone can't
+do is share your opinion, your stance.
+And that's what your audience want. They
+want to know what your take on that
+subject is. What's your opinion? What
+would you say about this? Because the
+really we want to ask people with
+experience about what they know, not AI
+about what AI thinks. Because even
+though we're all having conversations
+with Claude at the moment and any
+ChatGPT models, there's nothing like
+speaking to a human that has walked the
+walk, talked the talk, been there, done
+it, knows what it's like, has made
+mistakes, has recovered from those
+mistakes, and can guide you. And that's
+what we want. We want experts we can
+rely on who have been there. So, we're
+going to capture all of that, and we're
+going to put it in a brain bank, and
+then we're going to use that to create
+content. Let's get into it. So, first
+things first, we need a phone to record
+some voice memos, and then that voice
+memo can be put into Notebook LM. So,
+I'm going to share my screen. We've got
+Notebook LM, which looks like this.
+Notebook LM is essentially a really cool
+tool that you might use for revising or
+learning something new, because what you
+do is you build a bank of sources, and
+then you can talk with an AI about those
+sources, and I don't mean ketchup and
+mayonnaise, I mean PDFs, files, videos,
+you name it. And then you can generate
+different things off the back of that.
+So, you can generate an audio overview,
+you can generate slides, you can
+generate a video explainer. It's really
+really awesome. I've got so many use
+cases for this. But for today, what
+we're going to do is build a brain bank
+all about what is up here. We're going
+to get it out, and we're going to share
+it. Here we go. So, this is the Yap
+Pack, and like I said, you've got 260
+questions in here. So, one of them, for
+instance, unpopular opinion, what do you
+most business owners get completely
+wrong? What's the biggest mistake you
+see people making in your industry right
+now? Tell me about something that went
+completely wrong in your business and
+what it taught you. If you could sit
+your ideal client down for 5 minutes and
+be brutally honest, what would you say?
+I love this one. So, you can just share
+what's top of mind for you right now. It
+doesn't have to be perfect to be
+accurately right. It has to be opinion.
+It has to be what you're feeling right
+now. It has to be how you feel about
+this topic. And so, you've got like all
+of these spread out into different
+weeks. It will share the link to the app
+pack for you below. I just give you some
+inspiration on all of like different
+different questions you can answer to
+capture your opinions into the app app.
+So, you're going to open up a voice memo
+and you're just going to record yourself
+talking. Or the other thing that you can
+do, what do your best clients or
+customers all have in common? That's a
+great question. I'm going to grab that
+one to use as an example and then I'm
+going to come into Oh, I want ChatGPT.
+Because the reason why I want ChatGPT is
+because it's got this dictate button
+here. Now, you've also got if you're on
+Mac, you can press the control button
+twice and it will start dictating. But
+my recommendation is that you do this on
+the go. You don't have this as a
+sit-down at the computer job. You do
+this on the go in a kind of no extra
+time used way. So, maybe you're on the
+school run, on your way to the gym, on a
+daily walk. Find an area of time in your
+day where it's you could do this and it
+wouldn't be difficult for you to adopt
+as a new habit. And so, what I would do
+then is just hit record and I would just
+start recording my answer to this
+question. Now, I'm not going to do that
+because that's going to bore the life
+out of you. But what we're going to have
+at the end of this is a transcript of me
+talking. Guess what? I have millions of
+those already. And if you're like me and
+you have millions of transcripts of you
+already, you don't need to do this.
+You've already done the hard work. What
+we can do is go back to Notebook LM and
+you are just going to add those sources
+and the great thing is you can just add
+YouTube links into here and it will
+scrape the transcripts from YouTube. So,
+I can go to my YouTube channel, grab the
+link of it. So, if I go to YouTube, go
+to Cordelia Kate and click on my latest
+video, I'm going to paste it there. And
+you'll see what that's doing now is it
+is transcribing
+that video. It's already flipping done
+it. And it's here as a source inside
+Notebook LM. Obviously, now there's only
+one source in here. That's going to be
+quite a biased Notebook LM in terms of
+the brain. It's not very
+multi-dimensional. It's me talking about
+one topic. If we go and add sources, you
+can add you can upload files and you can
+just add an audio file from your
+computer, from Google Drive, or you can
+just paste the transcript in here as
+copied text. And so, when you start to
+add these sources, what's going to
+happen is you're going to get more and
+more and more varied content from you in
+terms of the stuff that you've shared.
+So, it starts to create a more
+multi-dimensional picture of the things
+that you care about, of the things that
+you're opinionated about, of all that
+kind of stuff. So, right now we've got
+one source and that is biased. But let
+me just come back to here and if I click
+on Cordelia Kate, we've got 42 sources
+in here. Let me go. Right, give me five
+LinkedIn post ideas. But that's not the
+best prompt. What it's going to do is
+dig through and think what has Cordelia
+said that could be good in a LinkedIn
+post. It's okay. We could get a lot more
+specific than that and we could ask it
+to give Cordelia's take on a certain
+topic. So, if I said for instance, let's
+say there's a trending topic right now
+which is the fact that there is an AI
+backlash happening right now. I don't
+know if you are aware of it. What would
+Cordelia say about the AI backlash?
+People rebelling against reading AI
+generated content. Now, this is really
+cool because it's giving us a now a kind
+of rich overview of what my take would
+be on that subject. And that is going to
+be a highly human input that we can put
+into AI and ask it to come up with posts
+and write those posts like us. Now, I do
+have another video. I will link you into
+it in the description. It's to walking
+you through how to create a voice prompt
+so that you can actually get AI to write
+in your voice as well, which is kind of
+another stage that you can add in later.
+Well, step one, let's get some actual
+human opinion that's come from you. Some
+opinionated stuff that we can put into
+AI. So, look, we we've got the
+beginnings of something here. Cordelia
+would completely validate and agree with
+the backlash against AI generated
+content. As her entire business
+philosophy revolves around the idea that
+true purpose of marketing is simply
+building relationships and putting the
+human back into business. This is what I
+have spoken about before. It's It's
+citing sources of me actually talking on
+specific videos, yeah? And what that's
+doing is it's referencing what I would
+say. Now, can you imagine how powerful
+this is? If you build a brain bank that
+is full of your opinions, that's full of
+your stance on different topics and you
+can then actually run your AI content
+through this brain so that the output
+that you get is based on what you
+actually believe in, what you care
+about. Because here's the thing, guys.
+Like realistically, this is more time
+now than ever to step into the idea of
+thought leadership. Thought leadership
+is where you don't just show up and
+share your knowledge. You don't just
+show up and share your information so
+that ideal clients can find you and go,
+"Oh, yeah, that's I've you know, that's
+great information." And they can build a
+relationship with you through the fact
+that you are knowledgeable. Now is the
+time for thought leadership, guys. Where
+you share your opinions on that
+information. You start actually leading
+people and sharing with them how to
+think, how to guide them in a world
+where knowledge is worth nothing these
+days. We've experiences, opinion is
+actually having gone through something
+and be able to give your real human
+experience off the back of that, that is
+worth so much. And it is going to be
+easy for people who have no experience
+whatsoever to come and build a business
+based on a niche that they don't even
+know about. I mean, imagine I could
+build a blog site tomorrow on how to
+start Himalayan goat herding. I haven't
+got a flipping clue, but AI would write
+it for me.
+I'm sure I'm sure I could set that blog
+up and it would go wild. But here's the
+thing is that if it's not got my real
+human experience in it, it's not going
+to be really high quality. It's going to
+be able to be copied by absolutely
+anyone. Now, let me show you some really
+cool things that you can do with
+Notebook LM. Because once you started
+building this brain, yeah, you can get
+it to come up with content ideas and
+then you can take this and you can go to
+Claude, go to this and be like, "Write
+this Facebook post for me." And you
+know, the other way of doing this would
+be, "Write a post about this for me
+without my take on the subject." If you
+paste that into AI, Claude or ChatGPT
+and you say, "Write this post for me."
+It's going to come up with a generic way
+of explaining that. It may consult its
+memory and remember sort of what you
+talk about on the subject, but it
+doesn't have all your transcripts in it.
+It's got all the prep for helping you
+create the promotions for the live
+events that you've done or the the the
+previous stuff you've created. It
+doesn't have the end result, which is
+you actually talking about this subject.
+So, for instance, I did this session
+live and and I would have used AI to
+help me create the promotional materials
+for it, prepare for it, etc. But what I
+don't have is the end result saved into
+the memory here in Claude, which is the
+actual hour-long transcript. It's not in
+here. So, it doesn't have that nuance of
+what I would actually say on this topic
+based on what I actually said on this
+topic. It just doesn't have that. It's
+got what it thinks I probably would say
+on this topic, which isn't the same
+thing. So, you're going to get a much
+higher quality output if you put this
+thing here and you say, "Here's my take
+on it." So, it understands that. So,
+that's now going to write me a Facebook
+post that has my opinion
+in this post. And it's much easier to
+have the opinion in the first place than
+get the post and then try and edit your
+opinion into it afterwards. It's the
+difference between baking a cake that is
+got sugar in it or baking a cake and
+then trying to add sugar to it later.
+It's just not going to work. It's not
+going to be the same cake, you know? So,
+think out loud style, punch in directs.
+Give me two options here. Let's see. AI
+should support human connection, not
+replace it. Let me be clear about
+something. I am not anti-AI. I use
+ChatGPT, Claude, and Gemini a lot. They
+save me hours every single week. But
+here's where I draw the line. I use AI
+to support my human connection, not
+replace it. That means Yeah, and I'm Do
+you know what? I'm quite passionate
+about this subject right now because I'm
+seeing people do the opposite of this. I
+am seeing people replace themselves with
+AI. That they are outsourcing their
+content, their brain, and all of it to
+AI without having the highly human input
+there. And what that means is that
+you're basically taking your personality
+and you're running it through a
+personality removing machine and then
+the output is the same as anybody else
+could create. And so, there isn't
+anything that makes you stand out from
+the competition, from your competitors.
+I'm not even like the term compe-
+tition. It's not my favorite thing
+because I think the there is no
+competition when you're building a brand
+that is based on your own personality.
+And the reason being is there's only one
+of you. No one else can really do that
+as well as you can. I think there is
+somebody for everybody and I think that
+we can support each other and people are
+going to work with you based on the fact
+that they like you and they trust you,
+not based on the fact that you do what
+you do. But when we are putting
+everything through the personality
+removing machine and we're stripping out
+our uniqueness from our content, what
+that does is it it removes that thing
+that makes you unique. And it just puts
+you up as fair game alongside all the
+other competition, and you become like I
+was when I was running an Amazon
+business selling products. And the only
+thing that differentiated me from every
+other seller was the price. There was no
+branding. There was nothing that
+separated my product with someone else
+selling exactly the same product. It was
+just price. That was all. You really
+have something here, and it is something
+that nobody else has. And that is the
+way you do things, your experience, your
+opinions. And these things make your
+business and the way you do business
+unique. And you really want to harness
+that and put that on the front of
+everything. Do not start undoing all of
+that work by running everything through
+AI without the highly human input. This
+is the way we solve it is we build that
+brain bank. So, that's just one idea in
+terms of creating posts, but obviously
+you can do blogs, you can come up with
+new ideas for content in terms of new
+videos you can record, new products you
+can create, new courses you can sell.
+There are endless ideas of how you can
+use the brain bank once you've built it.
+But the most important thing is that any
+idea that you have, you want to go to
+the brain bank and say, "Give me
+Cordelia's take on this subject." Well,
+you won't say Cordelia's. So, let's go
+back and let's come up with something
+random and be like, "Give me Cordelia's
+take on how to find clients when you
+have a really small audience." That's
+the kind of thing that I might write a
+post on. And so, it's the give me
+Cordelia's take that's really cool, and
+that's you're going to use all the time.
+When you're coming up with new ideas for
+anything, you can just come and get the
+take on this. So, here's here's one use
+case in which I use this. I have a blog
+on my website cordeliakate.com, and
+every video on my YouTube channel that I
+deliver, like this one right now, it's
+transcribed. And that transcription, it
+doesn't I don't use Notebook LM anymore.
+I actually use an agent inside make.com,
+but I used to use this. And it goes
+inside that agent brain. And then, when
+I'm creating blog posts, the the blog
+post ideas are generated from the video.
+And then, every single idea is run
+through the brain. So, it's like
+there'll be spin-off ideas for blogs.
+Let's say that how to find clients when
+you have a really small audience is a
+video that I recorded. There might be a
+spin-off which is something along the
+lines of how to grow your audience on
+Facebook or how to
+best way to send DMs to potential
+clients without feeling salesy. They're
+kind of related. They're like spin-off
+ideas. Now, because they're spin-off
+ideas, my core philosophy on the subject
+can be linked back. And actually, when
+you then get that spin-off idea and you
+say, "Give me Cordelia's take on this
+subject," it might say, "Cordelia hasn't
+actually spoken about this, but what I
+imagine she would say based on
+everything she said is this." And when
+it's done that and I've read it, I'm
+like, "Yeah, that's right. That's what I
+would say." So, here is like how to find
+clients when you have a really small
+audience, exhaust your existing network.
+This is all stuff that it's taken from
+things that I've said. As you can see,
+it's cited in so many places. It's got
+loads and loads of citations from where
+I've been talking on that subject. And
+so, like this can become one piece of
+content, five pieces of content. There's
+obviously so much that you can do with
+it. And you can say like, "What are my
+core philosophies?" It's got so much
+information on everything that I've
+said, it'll be able to pull those out
+and give them to me. So, back to the Yap
+Pack. On the Yap Pack, you're literally
+going to step one, go for a walk, make
+yourself a cup of tea, open up this Yap
+Pack, and then hit record, talk for a
+couple of minutes. And every single time
+you do this, you then want to save it to
+that Notebook LM. Now, you can get
+Notebook LM on your phone, and you can
+just upload voice memos directly into it
+from your phone. And then, every single
+time you do that, you're going to be
+building that brain bank. And then, on
+top of that, if you want to post your
+transcripts that you've already got,
+then you're just going to be building
+out this really awesome and mega brain
+of all of your opinions, all of your
+knowledge, and all of the things that
+really make you you. And that is going
+to be just such a hugely valuable
+resource for many, many things in your
+business. So, there we have it. And
+look, you know, you've just watched this
+whole walk-through. To make this so easy
+to implement every single week, I create
+an implementation guide step-by-step to
+walk you through absolutely everything,
+and it's going to give you all the
+resources, prompts, and everything you
+need, plus just a step-by-step process
+for you to walk through and start
+building your brain bank. And I'm also
+going to I've got the Yap Pack ready to
+go, 260 questions there, and I'm also a
+resource that gives you loads of content
+ideas and ways in which you can use
+Notebook to populate your social media
+with content ideas as well. And I have
+set up a free trial on that link as
+well, so that you can jump in and then
+get access to this resource, but also
+all of the other resources. You've got
+access to the whole library. They're all
+on the store for like $9
+each, and you can get all of them inside
+the library in the school community. So,
+you can grab those, and if you want to
+stay on and get access to the you know,
+it's a weekly release, a new one every
+single week, it's $4 a month. That's
+like a dollar a week to get access to a
+strategy and the step-by-step process
+that goes with it, which is insane. It's
+absolutely madness. So, yeah, that is
+all inside the Strategy Lab. Well, have
+fun building your brain bank. I hope
+this was helpful, and looking forward to
+seeing you on another video soon. Let me
+know in the comments if you've got any
+questions, any use cases, any thoughts.
+I would love to hear from you.
+Otherwise, I've been Cordelia Kate. This
+has been the Marketing Strategy Show,
+and we have a new episode coming out
+weekly. So, subscribe to the YouTube
+channel so you don't miss the new ones
+[music] as they come out. Lots of love,
+guys. Have a wonderful rest of your day.
+Bye.

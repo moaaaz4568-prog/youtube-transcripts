@@ -1,0 +1,584 @@
+Hey, I'm Cordelia Kate. Today, I'm going
+to help you create polished [music]
+onbrand images in five minutes using
+Gemini. You're going to walk away with a
+simple brand kit that you can reuse over
+and over again so that your visuals look
+instantly recognizable and like they
+belong to your business, and you're
+going to stop losing hours on Canva
+tweaking and second-guessing every
+single post and pixel. It's not about
+being a designer. It's about being
+consistent, fast, having a method,
+having a system. When we have a system
+and we have a process in place, it makes
+everything so much easier to execute.
+And so what I'm going to give you today
+is a system that you can use. And of
+course, you can take notes, you can
+scribble, you can follow along live. But
+if you want a downloadable where you can
+follow every single step of this process
+really simply and easily because it's
+all written down for you in a
+step-by-step way. Come and join the
+strategy lab. grab my chat GBT prompts
+and anything that I'm using, links to
+things, resources that I mentioned,
+they're all inside the strategy lab. I
+love Canva. I love it. I could spend all
+day tweaking and fiddling with things,
+but the problem is I'm so busy. I am
+really got a lot on my plate with four
+kids and two businesses and so many
+clients and teaching sessions. I don't
+have time to be tweaking things. And
+actually, it gets frustrating after a
+while because you create a design and
+you spend ages tweaking it and then
+you're like, "Oh, it still doesn't look
+right." And it can be hours of your day
+gone. Now, that was just life until AI
+promised this image creation. And then
+my life became hours and hours and hours
+of trying to get this thing to produce
+something that was actually on brand.
+Didn't look weird. Didn't have too many
+fingers and toes or it didn't have weird
+words written on it. Okay, we've come
+we've come a way further now. We got all
+the fingers and toes and we've usually
+got the spelling right, which is great.
+The outputs from AI are improving, but
+it's still really difficult to create
+something that doesn't just look like
+generic AI imagery that is just looking
+a bit like stock photos and isn't very
+on brand. And the couple of things that
+I found really difficult about this is
+number one, we either get too specific
+on what our branding looks like in the
+prompt and then now it's always spitting
+out in in my case brick walls with
+graffiti sprayed all over them. Like,
+okay, I mean, that's nice for the odd
+image, but for every single image, I
+think we're taking it a bit too far. We
+don't get the variety. It's just
+spitting up the same thing over and over
+again. So, I have spent a long time
+playing around with building branding
+prompts that I can plug into an image
+creator such as the chat GPT. The new
+image creates great on chat GPT or
+there's um Sora 2. You can do images on
+Sora. There's Gemini Nano Banana. We're
+doing Nano Banana today. I actually
+realized that because we've got a Google
+account for our business email and all
+the rest of it. we just have Gemini as
+well, the the pro version. So, I'm like,
+"Oh, cool. Well, that's a nice little
+perk." So, what I'm going to give you
+today is not just a way in which you can
+create images, but a way in which you
+can create your own branding aesthetic
+guide that you can then plug into every
+single prompt that you use to create
+images so that every single image comes
+out on brand with your branding and your
+business. And by the way, what do I mean
+by on brand? Your business has a
+personality. And if it doesn't yet, we
+need to get it one because every
+business should have a personality. We
+want to personify your business so that
+people can relate to it. So we give it a
+personality. We decide what its values
+are. We decide what its beliefs are,
+what it stands for, what it cares about.
+Nike does this really well. It voices
+its opinion on Black Lives Matter and
+certain things that it feels strongly
+about. It's part of its branding in the
+sense that it's demonstrating its
+personality and beliefs and what makes
+us human are those things. And that's
+what stand us out from each other. If
+you are a gardener, your branding is the
+thing that makes you stand out from
+every other gardener on the internet.
+And so the rebellious business brand is
+all like smoke and graffiti going
+against the grain being bit. You might
+have picture of the odd person the odd
+mohawk you know like [laughter]
+slight bit of anarchy going on but not
+completely. We're not chaining ourselves
+to planes but we're going against the
+grain. We're really being ourselves.
+We're kind of anti-corporate. Right?
+Your brand is basically translation
+the personality of your business. When
+you've defined what the personality of
+your business is, this is where it can
+then take ages on Canva because we're
+creating posts and they've got to be the
+right vibe and the right feel. We also
+want to create uniformity.
+So, you don't create like 100 shades of
+pink or what is it 50 shades of gray.
+You have your shade of gray or your
+shade of pink and that is what you stick
+with so that that brand is recognizable.
+So everywhere you go, it's got the same
+vibe. It's like if I saw you on the
+street, I'd know that you're you and I
+saw you in the supermarket, I know that
+you're you because you are the same
+person. Whereas if you suddenly dyed
+your hair and started wearing a dress, I
+might not recognize you at first glance.
+I'm like, "Oh, is that is that you? God,
+you look so different." We don't want
+people to feel that way about our brand.
+We want instant recognition like, "Oh,
+yeah, that's rebellious business. I
+recognize that." And so you'll find
+every time you see a post from Nike, for
+instance, you got maybe you don't 100%
+know because the Nike tick isn't on
+there, but you're like that looks like
+the kind of thing Nike would post. Then
+you look and you're like, oh yeah, that
+is a Nike post. So we want that brand
+recognition. The way we create that is
+through having the same uniform color
+hex codes. And if you don't know what
+hex code is, it is the code that gives
+you the exact shade of pink or gray or
+blue or whatever your brand color is.
+We're going to take a screenshot of
+somewhere we have got a very good
+representation of what our branding
+looks like and we're going to take that
+screenshot. We're going to plug it in to
+the prompt I'm going to give you and
+that's going to give you your brand
+aesthetic. So think about where have you
+got that representation best? Where have
+you nailed it? For instance, I could
+come here to YouTube. Here is a kind of
+good representation of my branding in
+the sense that there's a baby there. So,
+it shows I'm a mum. There's some pink,
+but there isn't really much else. I
+could come to Instagram
+and you can see, okay, we've got a few
+we've got a couple of posts that could
+be considered on brand. Do I personally
+feel like that is if I was to screenshot
+that, let's zoom out. Do I feel like
+that is a good representation? It's
+okay. I know I've got better, but that's
+okay. like maybe this section here is a
+good representation of my branding. I
+want you to have a think about where do
+you currently represent your brand the
+best online. It could be your Tik Tok
+account. It could be your business page.
+It could be your Instagram profile. It
+could be your website. If I go to the
+rebellious business website, for
+instance, that could be a good place.
+And we could take a screenshot of this
+and we're going to use it to create a
+brand aesthetic guide. So once you've
+identified where you have been visually
+representing the personality of your
+business the best, I want you to come to
+chat GPT and use this command that I'm
+going to give you. I want you to
+describe the aesthetic of this brand in
+the form of a prompt. Do not describe
+the people, only the vibe, the tone, and
+the style. and keep it as brief as
+possible, refraining from adding
+attention to detail on specific images
+or words. We just want to encapsulate
+the overall style, tone, and vibe. This
+is really important because the thing
+that I discovered was holding me back
+from creating really good brand images
+was having too much detail. mentioning
+the smoke or mentioning the bricks or
+mentioning the graffiti or mentioning
+the fact that there was a woman with
+brown hair. It was forcing the output to
+hone in on that detail which caused a
+lack of variety in my image outputs. And
+that's why we want it to be really brief
+and we want to exclude that detail. So,
+I've got a screenshot of the rebellious
+business business page because I feel
+like that one, in fact, I wonder if I
+can open it and show you. Yeah, I feel
+like this gives a real good
+encapsulation. I like that word.
+Encapsulation, darling, of our branding.
+As much as I could get in a screenshot
+with the pinks and just the general vibe
+is what I'm looking for. It's fun. We've
+got silly imagery. We've got all the
+things in here, I reckon. So, I've
+screenshotted that. You could give it a
+few different things. So, I could also
+give it a couple, right? So, you could
+do that. And you want to give it a bit
+of a Pinterest board so that it can get
+a real good overall kind of vibe. You
+cannot just give it one image because
+it's not going to get enough off of one
+image. And when I say one image, if we
+click on this, like if I just gave it
+this one,
+this spotlight launch sold out image or
+not another lecture, it's not got enough
+context to be able to get an overall
+scope of the vibe of this brand. it's
+going to be too specific in terms of it
+being like, oh, you always have to use
+emojis and it's only black and pink and
+white and that's kind of all it's got to
+go off. So, we want to give it as many
+things as we can to give it a good scope
+of what this brand vibe is. And then the
+output it's going to give me is not
+going to be too detailed. It's going to
+be quite brief and that is what we want.
+Now, normally my commands are very long
+and they're very detailed, but when it
+comes to images, you actually want to
+leave a lot of that detail out because
+it is just going to skew your output.
+Okay, so this is what we've got. We are
+going to now use this as an aesthetic
+guide to get it to adjust any kind of
+type of image to make sure it is
+incorporating that brand vibe. We're
+going to insert that into another
+prompt. But my recommendation is keep
+this and save it somewhere and use it
+all the time. This you can just use for
+any image or video that you want. Let's
+go to Pinterest. [snorts] Okay. So,
+let's say we were like,
+"Oh, really, really love this for my
+business. Really love this for my
+business. This is a really great post.
+like I would love to make that on brand
+for me and share it for my social media
+postings or whatever. You could
+screenshot that and then pop that into
+Gemini. It's probably some copyright
+issues here that I'm going to get myself
+into, but I'm just showing you an idea.
+All right. Just make sure that you do
+your due dil I'm not going to use this
+image and you're going to make sure that
+you do your due diligence to ensure that
+every output you create is you have the
+right to use it. Okay? I'm not telling
+you to do this. But this is just an idea
+for how you can get something similar.
+Right here is where I have inputed it.
+This is the caption that I put in. I've
+put take the attached photo and recreate
+it so it's on brand and in alignment
+with the guide given to you below. I
+said bean but it will understand. Um and
+then I've just pasted the brand
+aesthetic guide that we created earlier.
+And here is what it's made.
+[laughter]
+Oh my god. I actually love it. I mean,
+it it's not the kind of thing that we
+would actually post. I think I've
+confused the life out of it because it's
+got anti-corporate AF chaos is good
+because I've picked a recycling image.
+I've completely confused the prompt
+because it's trying to put energetic
+anti-corporate community first into a
+recycling post and it doesn't quite fit
+the bill. So, let's see how this works
+with an actual piece of copy. And that's
+what I'm supposed to be showing you. So,
+[sighs] that's one thing that you can
+do, though, is if you if you see things
+on Pinterest or you see a post is, let's
+say there's something trending on
+Facebook or Instagram and you're like, I
+really want to do this for my my
+business. Instead of getting it into
+Canva and changing the images, you could
+just drop it into Gemini with your guide
+that we've created and it'll reproduce
+it. Let's create a new chat. And I'm
+going to grab a piece of copy that I've
+got here. This is from a post that I put
+out over Christmas about emerging from
+the Twix fog. And it's the purpose of it
+is promotional. So, I'm promoting
+Rebellious Business's NABA client
+challenge. I want to create an image to
+go with this piece of copy. And this is
+really where the value is for you guys.
+Like we have so many promo emails that
+just don't get put out to social media
+because quite honestly I don't have time
+to go and figure out oh god what what
+image could I create on Canva that would
+be good and go with this post. It's just
+a time suck that I would find the time
+for and dedicate to if social media was
+a good place to put that much of my
+attention in terms of posting the
+promotions because the reality is we get
+most of our sales from email anyway. So,
+it's a nice to have to then put them on
+social. We might get one or two over
+from social and that's great, but most
+come from email. So, I can't justify
+prioritizing the time to go and spend
+hours on Canva to create graphics to go
+with this copy that may or may not be
+seen by the right person on socials
+until I got this system and I discovered
+this. So, here is a prompt that I'm
+going to use. And if I paste it here
+with reference to the following brand
+aesthetic guide, I want you to come up
+with an idea for a square image to
+accompany the following copy to post on
+social media. The priorities are to
+match the brand, grab attention, and
+stop someone who would be perfect for
+this post in the scroll. Aspect ratio
+square. Okay. So, then we've got the
+copy is down there. So, I can get rid of
+that placeholder.
+And aesthetic guide. Let's paste that.
+There we are on nano banana and pro.
+Submit. And let's see what that creates.
+Okay. This is great. All right. Now, the
+client starts Monday. One decision, one
+week, one strategy. Get it booked.
+Start. So the the the copy, just to give
+you the nutshell, what the copy was
+saying is that like, are you emerging
+from the Twix fog yet? It's a weird time
+where we we're kind of getting back into
+work mode. Um, and maybe you've had this
+thought like, oh my god, it's January. I
+need clients. What's my plan? Feeling
+that kind of anxiety rising. Then get
+Nab a client in your diary for next
+week. So, Naba client is a challenge
+that we run which was where we teach a
+different client getting strategy every
+month. We do it in the format of a
+fiveday challenge which is really fun,
+high energy and also um means that you
+can as a collective as a group just come
+and get involved with that and tick off
+your money producing activities. So,
+that was the point of the post. If we
+have a look at this, I would say it's
+too busy straight off the bat. There's
+too much going on here. It might stop
+the scroll in the sense that it makes me
+read
+or it could do the opposite and make
+people completely avoid it because it's
+a headache to decode what it's trying to
+say. I've got a way for us to improve
+this. Let me open up chat GPT. This is a
+really important step that makes the
+difference. Okay, share this tab
+instead. What we're going to do is grab
+this prompt here. Then we get the
+aesthetic guide. And then I've got a
+piece of copy that I'm going to paste in
+here about Twixmas and that slump in
+between Christmas and New Year. And what
+that's going to do is write me a prompt.
+So you can just check to see are you
+happy with the idea. So the visual
+concept, a modern minimal posthol brain
+reboot graphic with a playful nod to
+Twixmas, fog, and January. Love that
+it's got hex codes in here for imagery.
+That's great. So, I'm just going to
+pretend I've read that. I'm happy with
+the idea. And really, the best way for
+you to see if you're happy with the idea
+is to just go ahead and plug it in and
+see what the output's like. Hopefully,
+this is going to have be a bit less
+busy. Let's choose Nano Banana and put
+it in Pro and press submit. You know
+what? Let's now chat GBT's got a new
+image creator. Let's also plug it in
+here and see which one we prefer. That
+is creating an image there. And then
+over on Gemini, I've just plugged the
+prompt into Gemini and you can see.
+Okay, that is so much better. Now, I
+prefer the man with the stuff around his
+head. But that is attentiongrabbing and
+isn't giving me a headache because the
+other one, let me just get the other one
+up just so that you can compare. The
+other one was this. I really love the
+vibe of this though. I'm hating the
+cartoon brain melting. Personally, what
+we can do is give it a little bit more
+guidance on what you want it to look
+like. So, if we come back to chat GPT,
+we can add in that I want the image to
+show a man with Christmas related items.
+I cannot spell, but it doesn't matter.
+Christmas related items plus a remote
+control and quality street floating
+around his head as he looks tired and
+seems to be waking up. And that's going
+to give me a different prompt. Okay, so
+I'm back in Gemini. I'm going to pop
+that prompt in here. Click on create
+image and send that in. I am also gonna
+head over into chat GBT. And because we
+are having fun testing Gemini versus
+Chat GPT today, we're going to drop that
+in here and see what that does. I love
+how quick it's got as well. Okay, this
+is lovely. Emerging from the Twix fog.
+That works. Let's see what Chachi's come
+up with. Oh, I prefer this.
+Oh, this is better. Well, chat GPT1
+Gemini nil. So, now I just have the
+image ready to go and I can post that
+post out. And so once you get that down
+and you've got copy and you've got your
+brand aesthetic guide and you've also
+got the prompt to turn the copy and the
+aesthetic guide into an image prompt, it
+gets really easy to just create
+something brilliant. When I first taught
+this, it was actually at the Twixmas
+mockup that we did inside Nab a client
+where I taught people how to create a
+fiveday email campaign that goes out on
+social media. To come up with five days
+of images to go with every single bloody
+bit of copy that you've written, it will
+take a day and at the end of that day,
+the images you've created will quite
+easily look really I know that
+there are great Canva templates and some
+of you are gifted when it comes to
+making things look brilliant and others
+not so gifted at making things look
+brilliant and that's just life man. So
+even if it just gives you an idea of
+something you could create on Canva,
+it's going to cut loads of time out for
+you and then just having image prompts
+so that you can transform the copy
+you're sending out as email posts. It's
+very easy for you then to just turn it
+into something for social media that you
+don't have to spend a whole day or carve
+that time out because the reality is for
+me it just won't happen. Like we'll be
+like, "We've got this great email
+campaign. We could put it out on social
+media, but haven't got time to guide an
+assistant to create stuff. Prioritize it
+because I don't know how fruitful it's
+going to be anyway." Or set a day aside
+to create all the images for all of that
+stuff. So, this is a great way to just
+cut all of that out and make it really,
+really quick. What I would love for you
+to do with this is this becomes part of
+a system. It's like you use the same
+prompt every time that gets you a great
+output and then you don't have to keep
+going into chat and be like, "Oh, what
+did I say last time?" So test it, break
+it in, tweak it, make it produce even
+better results. See what happens if you
+add this word in, if you take this word
+out, what kind of results are you
+getting? And you just have to use it
+over and over again to just see what
+what pattern you're getting from that.
+If is it doing rainbows in every single
+output? Is it making every single output
+have graffiti, smoke, and all the rest
+of it? Please do let me know if you have
+any questions. Pop them in the comments
+box. I would love to answer them. If
+you've got any better ideas, if you came
+up with a prompt that was fantastic and
+you want to share it with the community,
+please do share it. It would be really,
+really awesome to have your contribution
+as well. I'm not sat here pretending to
+be the expert of all these things. I'm
+just sharing what I'm learning as I go
+so that you can get the odd shortcut
+here and there. Some of these things
+have taken me hours to figure out. If
+you want to come and join us inside the
+strategy lab, it would be amazing to
+have you. The lab is free for your first
+week. And if you want to stay on, it's
+just $4 a month. And what I'm doing is
+putting all of the resources from every
+single episode. So, from today's
+episode, for instance, you are going to
+get a step-by-step workflow of how to do
+this strategy alongside the prompts that
+you can copy and paste and use for
+yourself to get that brand aesthetic
+guide and also then convert copy into an
+image prompt with the brand aesthetic
+guide. All of that's going to be there
+step by step for you to grab along with
+all the step-by-step strategy guides
+from the previous episodes that we've
+done and they're building up. We've done
+quite a few now. Every week we're
+building on it and we've got stuff in
+there about social media, marketing,
+creating podcast episodes, repurposing
+stuff, bit of blogging, there's all
+sorts in there and there's loads coming.
+It would be awesome to have you inside
+the community and to yeah have you as
+one of the founding members of this new
+thing and I'm just getting started guys.
+I've got so much I want to share with
+you and I've got loads of ideas for
+people I want to bring in to get them
+sharing great strategies with you too.
+So, please come and join us in the
+strategy lab. It would be amazing to
+have you. I look forward to seeing you
+in there. And let me know how you get on
+with today's image creation. And [music]
+yeah, have a wonderful one. Lots of
+love. Speak to you soon. Adios. Ciao.

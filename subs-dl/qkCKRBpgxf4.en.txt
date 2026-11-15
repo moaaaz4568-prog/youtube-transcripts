@@ -1,0 +1,554 @@
+As usual, we're back with an explanation you won't find on
+any other channel: how to transform
+your scene from a very ordinary scene into a scene that's
+very cinematic and feels very realistic. I won't be
+annoying and make it too long, let's get straight to
+the explanation I'm going to give you. This is one of the
+scenes I explain in the community. I wanted to
+tell you that the first thing we'll get is a solid image. We'll
+put this code on it, and if you do
+n't want to write the code, I made the color the way
+you see it in front of you. It's white
+and yellow, giving me the same effect as if
+the sun came on a white wall. So what happens?   The
+white wall has a slight yellowish tint, so we'll
+lock it so we don't accidentally press on it.
+Now we'll get our main element. You'll find it's
+called Cinema Cut or something like that;
+everyone knows how to use it, it's very easy. The
+PNG files I get are from
+AegPNG, or you can search on Google
+for what you want and type "PNG" next to it. That's it. We'll
+make it 3D. Now pay attention
+to what we're going to do.
+This is a
+flat image with no dimensions at all. If I get it like this, it disappears and doesn't
+look good. So I want to
+make this image 3D, so I'll use
+this script. I'll upload it for you, don't worry. I'll upload
+everything I use because I already uploaded it
+in a video before, but I'll upload it again. I don't
+have any problems, just because the comments keep
+telling me to upload more.  The basics are that there are no options, okay?
+You'll come here and make the dip at 10. Okay, I don't
+want it to be 15. What does 10 mean? What does 15 mean? It's
+simply the number you choose. It
+takes the image you put that number on
+and duplicates it 10 times, placing them one after the
+other. I'll show you now. Look, let's click here. It
+made the image 3D. Look, when I get it like this, the
+image becomes 3D. When you
+zoom in here now and flip it over,
+you'll find it's been duplicated 10 times in a row, so it
+became a 3D image. That's what
+this plugin does. You can do it manually, but of
+course, why bother and stress yourself out?
+Okay, so what do we want to do? Should we
+bring it sideways?
+No, not like that. Let it look upwards
+and bring it
+sideways. We
+don't want to cut it out. There's something good about that.  We
+got to that, that's very good. We got the
+film strip and we'll start by removing the
+white color from it. You'll get the Keylight effect,
+then you'll get this drop and put it on the
+white color. Then you'll come here to any of these
+two colors and put it in the middle. That's it, the
+white color will disappear. Put it in the middle
+where?  You'll make it between white and black. Okay,
+the strip is empty now, but the strip itself is
+empty. I don't want it empty; I want it inside.
+Here, everything inside the squares should be
+black. How do I do that? Let me tell you
+how. Get a rotation to 90 degrees so we can stand still and
+work on it
+properly. Get it in the middle now.
+Get it here so we can see it completely.
+We'll remove the selector from the strip and press
+Rectangle. Then, go to the elephant and press
+Color, then go to the drop and start coloring it with the strip you have.
+Okay, you do that. Get
+this Rectangle and place it
+like this. We'll fill the empty space inside with it. Okay, now it's like this.
+We've filled the empty space
+inside, and it doesn't look
+full in one way or another. Okay, now that we've placed
+Rectangle, it's eating away at the small squares.
+These small squares are the ones that  It will become clear to me that
+this is the film strip, so we'll come here to the
+Rectangle, so it's a Rectangle Path.
+Here you'll find the size; close it, or rather, remove the link
+between them. Then come here and shrink it a little
+so that you can see the rest of the squares and they aren't
+cut off. Now we have it like
+this. When we shrink it from the sides, the squares are aligned. There's nothing cut off; it feels like one continuous piece. Next, we'll separate the two shape layers we put in the middle and the strip itself, precompile them, and call it a strip, for example. Okay, great. Now we have the
+film strip, not split, everything is 100 meters, and
+we precompile it. We'll duplicate it because
+we'll have one on top and one on the bottom. We'll make these
+two strips 3D. Now pay attention
+to the work that...  Now we're going to do this. It's time to
+put them in and arrange them like this.
+But first, we need to go to any one of them
+and start by getting them in the middle. Right here,
+so we don't get confused later in the center of the
+3D. Okay, they're in the middle now. When you
+click here, you'll find the center of the
+3D in the middle. Right, because they were
+here initially, so there's no need for confusion. Okay,
+we'll take them one by one. We'll hide just one of them and
+take the one we didn't hide, the one we have,
+and get its position in front. Okay, so it's
+passed the
+cinema cut, which is the cut that's
+there. It's passed it now.
+[Music]
+600 is suitable. After that, we'll play. All our game is in
+the scale. All I'm doing now is
+framing, framing. I mean, I'm making a
+frame like this from the top and the bottom so that your focus is
+entirely on it.  Our Cinema Cut, I think, is
+suitable now. Let's move on to the second one and do the same
+thing, but we want to create some distance between them. The
+top strip was very close to the
+camera; we want to make the second one a
+little farther away. I'll explain what I'm doing now. Okay, we're done with the first one. Let's
+move on to the second one. We'll do the same
+thing again. We'll set it to 90,
+increase the scale a little, okay? And bring its position closer. The
+same thing again, in the same way,
+but I think 400 is enough. We'll make a difference of
+one: 600. The one above is 600, and the one below
+is 400. Increase their scales.
+Now do a little rotation. Okay, we've finished
+composing our scene. We've done
+our framing so that our focus is on Cinema Cut.
+Okay, we've adjusted the dimensions, even though this isn't actually a video.
+I'm just adjusting the dimensions for you. This is a video; I'm showing you
+how to make your video or scene look
+cinematic, so our focus isn't on the dimensions.  If it's
+not perfect, the important thing is that we can make
+this scene cinematic and give it a cinematic or
+somewhat realistic look. Okay, after we finish
+the composition, we'll move on to the second stage, which is
+adjusting the dimensions from a visual perspective, not
+from the numbers in After
+Effects, but from a visual perspective. Right now,
+these strips are very close to the camera, so I want the eye to
+see that they are really close and large. So
+what do we put on them? We want to make them
+completely out of focus, out of focus. So we'll put a blurring motion on them to
+create the blur, and we'll put an exposure motion
+to reduce the exposure so
+they go completely out of focus. We'll take the strip
+at the top and put a
+blur motion on it, and then an exposure motion. You'll set the
+blur motion to 21
+so you get a blur like this. After that,
+you'll reduce the exposure motion until its color is
+close to black or completely black. Okay, this is it.
+The settings we made, and this is the result we got. They're
+completely out of focus, their color is
+darker now. My focus is directly on Cinema Cut.
+Let's copy these effects
+and put them on the second strip. Now the
+shape is more visible.
+When you look at this scene, you'll immediately see
+that your point of focus is
+Cinema Cut, which is the element in the middle, and
+the frame, which is the strips, with
+Gauss Blur and Exposure applied to them, or their color is darkened and
+Gauss Blur applied to make them stand out of
+our focus. Now we'll start on the part
+closest to my heart, which is making the scene
+look more realistic. In addition to the fact that it already looks
+good, we'll make it look much more realistic.
+Right-click and get Solid Black. Solid
+Black like this. What will you do? We won't do anything right
+now. We'll just apply a mask and...  Regarding the lighting, we
+will increase its scale. You must pay attention
+to this point. Increase the scale, God willing, if it
+reaches 400, it will be very suitable. Why?
+Because you're now going to create a mask within a
+very large area, the mask won't have any problems.
+But now, if the area is set to, say,
+100, look where the problem lies! This is the area where you'll create the
+mask; it won't be comfortable at all.
+You'll find yourself, after creating the mask, enlarging the
+skin. Why not just enlarge the skin from the beginning? So
+we'll set it to 400 like this and start creating
+our mask comfortably. We won't have to look
+outside the image or anything; we'll have
+everything just by looking. You'll create a
+square or rectangular mask like this.
+Then you'll invert it so that it reflects. Open
+the mask and click on the mask path. Okay, and focus very, very on
+this point. You'll
+double-click on any of its sides. Okay,
+we'll invert it like this
+and lengthen it like this. We'll lengthen it from this part and
+lengthen it from this part. Okay, then...  You'll press
+twice on the same mask you pressed before
+and start adjusting it like this. Choose one of them and set
+your angle, the angle of the
+light source you want. It's well
+known that when I'm setting the
+lighting, I like to make the angle at the top, where the
+light source will be coming from,
+very narrow so that I can then widen it. It shouldn't look
+wide from the beginning of the scene to the end. I
+want it to be narrow like this, and
+then you start widening it.
+Our lighting is very sharp like this, so we'll raise
+the shutter speed a little. We can adjust it again later. I
+might leave it temporarily.
+Why did I raise the shutter speed? I haven't adjusted our mask yet.
+When you raise the shutter speed, you'll see
+your mask widen. It was narrow, then it widens. That's
+why I raised the
+shutter speed, so that later...  Let's start adjusting it so there aren't
+any further adjustments. Good,
+I think this is very suitable. In fact, it
+can even be narrowed from here.
+Okay, it's suitable. Let's go back and see.
+I feel it needs to be tilted a little, so we'll go back a bit and
+come to the mask path. We'll double-click on it and
+tilt it slightly like this. I think
+this might be more accurate.
+Okay, now 100. Now, of course, we'll adjust
+the opacity. We definitely won't leave it like this. We can
+lower the opacity slightly, not too much. We
+can also increase the lighting angle.
+I'm just widening it so that
+part of my element isn't dark. I don't want my element to have a
+dark part. Yes, there will be a
+dark part, but it shouldn't be too much, you understand? Now we'll drag the
+management layer we created
+under the bars. Good, it's now.  Our scene is starting to
+progress with lighting directed at the strips. Okay,
+our scene is starting to progress. There's something important I
+want to tell you, and I'll give you steps to follow on
+how to make your scene cinematic. These are
+steps you'll memorize and then you can start implementing them. There are
+about four or five things, so let me
+tell you them, and then we'll see how many there will be
+in the end. Okay? The first thing is to
+consider the dimensions, just like I did.
+I put these strips because they're close to the
+camera and they're large, and they're not
+my main element. So what did I do to them? I put
+blur and exposure on them so they come out of focus.
+So, focus and dimensions are one thing.
+The second thing is lighting. Naturally, if
+you want your scene to be realistic, lighting is
+essential. You're sitting in your real life right now, and
+you can see me because there's light
+directed at me. But if I turned off the lights, it wouldn't be the same.
+You'll see me, so it's essential that
+your scene has lighting, not just any lighting. It
+can be light without
+limits, like this, but the important thing is to consider
+this point: the effect of the light
+falling on the element you're shining it on.
+So now let's go to the scene
+we've created, and this scene is ready now.
+We have light directed at our main element,
+so we want to see the effect of this light on
+our element. So what did I do? First,
+I added a highlight
+where the light falls. Of course, the light is falling
+here and not there. Whether I leave the highlight here or not, it
+won't be noticeable. So I added the highlight here. I add any
+kind of thing to make it realistic and give it a
+nice glow. In addition, now if you
+shine a light on something, what happens? A shadow falls. The
+shadow opens up. So, we've reached
+four or three things.  Okay, so let's complete the picture
+here to make our scenario
+complete. The things I've mentioned
+are like a series of steps I'm organizing for you to follow.
+Each step has its own method and approach, so pay close
+attention to what's coming next.
+Believe me, you won't find this anywhere else. I
+apologize for interrupting your explanation, but I'm here to
+tell you something very important: I've created a
+community where I teach you everything about
+3D videos and reels, like the ones I
+explained, and things at a much higher level—
+higher than the videos I post
+on Instagram and the things I
+explain on YouTube. Besides that, I'll
+teach you how to market yourself on social media, acquire
+clients, deal with clients, and
+price your work. This isn't just a course; it's...  Community
+means a community, meaning you have people who
+share their opinions,
+their work, and their accounts with you. You follow each other, like each other's posts,
+support each other, and so on.
+You're in a community with real editors, people who
+want to improve, and they'll help you improve.
+Besides, I'm available all month long
+for anything you need. Up until the time of
+this video's release, the tutorials inside exceed 18
+hours and are increasing every month. All of this is for a
+monthly subscription under 1000 EGP. I've left the
+link to join the community in the description below. I
+hope you'll be one of us now. Now,
+this lighting—I want to give it a
+sunlight effect, sunlight directed at the element. First, we'll use
+Cinema Cut.
+We want to add a shadow to this Cinema Cut, so we'll add a drop. We'll
+add a drop shadow, okay?
+We'll make its direction there and lower it
+a little.  Okay, let's make
+the direction a little lower. It has a
+softness effect.
+Okay, I think that's right and parallel to
+the lighting. Now, where are we in
+the steps we're following to affect the lighting
+on our element? We did the first thing by
+adding the shadow. Now we want the element itself to be
+affected by this lighting. Okay, and then we'll add a deep glow. Okay,
+you'll see the effect is working perfectly.
+You'll make this layer 3D and place it
+under the lighting we
+created. You'll take this layer underneath it. Okay, you'll get
+this adjustment layer and increase its scale
+because we'll create a mask inside it. You'll click on the
+adjustment layer and name it "Sun," for example. Everyone has their own
+names, but I want to give it an
+effect like there's a sun directed at the element. The sun
+creates a glow effect, so I'll show you how to
+create that effect.  Of course, this isn't the
+final result. Next, you'll click on
+your adjustment layer where you applied the Deep Glue
+and create a circle mask. Press Control,
+go to the middle here, and create a circle like this.
+Okay,
+before we do anything else, pay attention because
+we forgot something here: the layer for the downlight
+needs to be set to 3D as well.
+Let's go back to our adjustment,
+which I named "Sun." Go to the mask like this,
+okay? Increase its feather like this. We
+won't increase the feather too much; we won't skimp on it. We can make it
+50, we can make it 100, and so on. Now let's
+start controlling it. We'll click here on the
+mask path and double-click on it so we can
+move it freely. Okay, I want it to be in this position, for
+example. Now we'll start adjusting
+our Deep Glue, which we'll set to 0.5.  50
+and we keep its redistribution at 500 or 600, it doesn't
+matter, as you can see, the adjustment layer of the sun
+that I'm telling you about, look what I did, see
+this before and this after, I added a glow that feels exactly like the glow of the sun,
+something very realistic. Of course, I don't
+like its appearance, I want to incorporate it into
+our element, so I will stretch it like this and increase
+its scale, or I will increase its size and
+put it here. Now it has a natural glow coming
+from the directed light. How did we do it?
+We did it with the adjustment layer we called "Sun"
+and applied Deep Glow to it. Now I
+want to give it an effect like
+sunlight, and sunlight is naturally a bit yellowish. So
+how do we make the Deep Glow yellowish? Let me tell you how. As you're standing on the
+adjustment layer we called "Sun," you'll get a
+tint, and then...
+we'll call it a tint. We'll get an effect
+called tint. Okay, you go to the white color
+and make it yellow like this. Of course, it's
+gone wrong, and we won't leave it like this, so we'll start
+adjusting. What do we do? Here, near the tint,
+you'll find something called Amount. You'll start by
+reducing it a little, just until you get the very slight
+yellow of sunlight. Good. I set it
+to seven, and so far we've achieved a
+very nice result. I gave you points because
+You implement them and create a cinematic scene, so we're still at the
+same point, which is the effect of lighting on
+our main element. We've
+already applied the lighting effect to the element, making it
+glow slightly with the light. We added the shadows, and now we
+want to add shine to this element. Of course, this isn't
+essential, but I want to add it to make
+our element have a deep glow like this.
+So how did we do it? Let me tell you
+how. Now, the plugin we used
+on Cinema Cut, which made it 3D, when you go
+inside the pre-composite that it
+created for you, you'll find it has created your Cinema Cut
+to make it 3D. As I told you,
+what it does is duplicate it and place them one after the
+other. So I'll take advantage of this. I'll go
+here to the first one, which is number one, and
+duplicate it. I'll add deep glow and CC light sweep, CC light sweep. Okay, we've
+added the effects.  Our
+next step is to place the C-Light Sweep over the Deep Glue and
+slightly conceal the Deep Glue because we'll be putting it back on. You'll find
+the center of the C-Light Sweep and position it exactly in the middle of
+our element. After adjusting the center,
+we'll move to the Direction and align this white line—
+see the white line here on the
+edges?—with the same direction. We'll
+place it at the same angle I set it
+at. Okay, now there's a white line from the C-
+Light Sweep that I want to remove. I just want to keep the
+line on the edges. There's something called
+Sweep Intensity here; we'll set it to zero. It's now
+constant, but we want to
+increase the size of this white line. We'll go to the
+Wids and increase its size, or raise the number. As you
+can see, the line is getting smaller and larger. Okay, we
+want to clarify it further. You'll go to the Edge Intensity and increase it.
+This is exactly the same as Exposure;
+it was light.  Now it's starting to
+get heavy and too white.
+We'll increase the intensity. I think we're 100m now,
+right? We've adjusted the CC Light
+Sweep angle and its settings. Now we just need to do
+something small, so pay close attention. Go
+here to the Add and make it a Cut Out. Now
+it might seem like there's no difference, but
+let's hide all the layers underneath. Look what we have left
+when I made this layer.
+When this layer was Add, it was fine;
+my PNG image was there,
+no problems. But when I cut it out, it
+disappeared, and we're left with just the white line
+we want. Okay? The Cut Out is what does this
+job. All it does is
+remove the image you applied the CC Light
+Sweep to and leave your light only with the line
+you created.  Let's show the rest of
+the layers now and activate the Deep Glow effect. We'll click on
+this option to remove the black screen it
+applied. Set it to 1 at 88 here, and above here,
+we'll set it to 700. Okay, okay, we have this
+shape. This side is
+illuminated. Now let's go back to
+our composition and see the shape we got. It's
+two layers. Okay, we have this shape. Of course, we're not finished yet. As you can see, the shine is only on one edge, but I want the shine to be on the whole thing. How do I do that? And as I told you, to make this image 3D,
+I duplicate it 10 times
+to make it 3D. Right? So,
+because we made one layer glow and applied
+CC Light Sweep to it, we'll apply the same effect to the rest of the
+layers. Right? Right, but you'll encounter some
+problems when you do that.  Something like this,
+meaning what we will do, because if you don't
+understand that we will take the Deep Glue and CC
+Light Sweep to the rest of the layers so that we don't have
+one layer that made the Deep Glue, so
+all the layers are fine, you will face
+problems from this move. What is it? When the Deep Glue is
+duplicated on an act from a copy, you will find the
+Deep Glue with you bursting. The Deep Glue is duplicated, so it bursts and it is corrupted. Besides,
+when you put the Deep Glue on more than one layer in
+your project, an error will appear immediately. So,
+in order to avoid this problem, what will we do?
+We'll take the C Light Sweep Copy. I'm going to make a deliberate mistake to catch you out.
+We took the C Light Sweep Copy and pasted it
+onto the rest of the layers. Now we have
+this effect. But why did this problem appear? Why are all
+our layers corrupted? Simply because the
+C Ladder Sip we pasted onto all the
+layers is set to Cut
+Out. As we said, it leaves
+the effect itself and removes the image. Okay, it
+removes the PNG. So now, if I remove
+Cut Out and make it Add, the image will appear right away. Okay, so
+what do we do now? We'll go back to
+before we pasted and take the C Light Sweep Copy and
+paste it onto the layer below it. Okay, it's
+set to Cut Out. No, we'll set it to Add. Now it's Add with the same
+settings as before, but it
+doesn't remove the PNG.  So now we can copy
+it perfectly and put it on the rest of the layers like
+this. It's now on the rest of the layers, as
+you can see. The
+deep glue didn't come off because we
+didn't duplicate the deep glue act once;
+we just took the CC Light Sweep and
+put the deep glue on one layer only. Now let's go back to
+our project and see the final result
+of the deep glue and the CC Light Sweep we
+applied.
+As you can see, this is the result we got.
+Of course, there's a slight difference; the CC Light Sweep seems too
+long, so we'll fix that now. There are no
+problems, of course. I looked at the
+second project and found that it's the same result, but my
+eye isn't quite right for this look, so I'll start by
+reducing the CC Light Sweep a little. We
+made it too long; we'll shorten it a bit. So let's move on to the
+pre-comb.  Ours is good, let's reduce it a little,
+okay? I think 230 might be good.
+We'll copy it and put it here. Then we'll make this one,
+copy it, and put it on the rest. Now we have a
+short one like this. Let's go back to the explanation. I didn't like it. We'll go back to how we were
+at the beginning. But this is how I
+want it. I liked it this way. When it's short, it does
+n't look nice to me,
+honestly, so I'll leave it as it is. I like it this way.
+We're not finished yet, by the way, but we
+did all our requirements. Number one: dimensions and focus. We
+adjusted the dimensions and did
+our focus. Here it is on the strips. Number two: lighting.
+We adjusted the lighting. Number three: the lighting effect on
+our main element. We put the shadow, we put the Deep Glow,
+which is like sunlight with a
+glow effect, and we put the CC Light
+Sweep, which gave me a shine, like sunlight.   When
+facing it, it must remain glossy. I prefer the shine to
+remain on the other side, but when you come to put it on the
+other side, the back ground is light in color, so the deep gloss does
+not appear at all on me, so
+I put it on this side so that it looks
+more beautiful. Okay, so I will start putting
+my light touches that shift the look of the scene 180
+degrees, which is what it is.  My Adjustment Layers are
+these things, guys. I told them in the
+community that I will not explain them, but I will explain them for the love of you and
+the love of our channel, because I seriously do not
+want to post anything normal. I do not want to post anything
+other than what I posted before me. I want everything to be posted
+on this channel that has not been posted on any channel
+before. So whoever wants to learn it, do not go
+looking for someone else. Search for Fares all the time.
+We'll put our chicken in your mouth, and stay focused
+so I can cook it for you  And let me tell you about the effects
+inside it. These adjustment layers are
+very suitable for my style and the mood
+I want to achieve in my videos, so I
+put them on most of my videos. You could
+blur something like this and apply a mask to it, but it wouldn't
+make any difference to the video because everything is already right, the
+focus is perfect. But
+if you put an adjustment layer with blur on it, it will
+make a difference. Now let's
+talk about the adjustment layer that will make a huge difference
+to the look of the scene. As you can see, it gives a
+completely different look and mood. Let me tell you
+how I did it. First, you get Noise and set it
+to 7, and you turn off Noise Type. Then you use
+CC Vine and set it to these settings. Of course,
+you can use the Vine effect alone, but there are a lot of
+details, and it confuses a
+lot of people, so I use CC Vine.  It's easier for me
+too, then I use curves and do
+very simple things. All I do is add
+shadows, but look, this is before and this is after, this is before and this is
+after. Then I add a poster time effect to 24
+frames. Of course, the poster time effect has nothing to do with the shape; it
+only affects the animation. It's
+actually unnecessary; we can easily remove it. It won't
+affect the scene's appearance at all. This is what the scene looked like
+before the effects and before the steps I
+gave you, and this is what the scene looked like after the steps and
+after the effects I gave you. I think there's a
+180-degree difference in this video. I mean, I
+invented a lot of things, and I swear to God, I've never seen anything like it anywhere
+before. So I'm giving it to you for free. I don't
+want anything in return except for you to like,
+comment, and subscribe. That's all. I don't want
+anything else from you. Peace.

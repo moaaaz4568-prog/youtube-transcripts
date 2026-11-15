@@ -1,0 +1,1350 @@
+Hey guys, how's it going? My name is
+Cordelia and every morning I wake up to
+a [music] message from my AI assistant.
+It's checked my calendar, it's checked
+how much time I've got available today,
+it's read my task list, and it's planned
+my day based on three things. What's
+closest to cash right now, what's been
+sitting there for too long that I've
+been avoiding, and what is the thing
+that's going to move the needle. And
+here's the thing, I can't argue with it.
+And it remembers, it's got memory, and I
+said to it, "This isn't going to work
+today. Actually, I forgot to put in my
+calendar that I've got to go to the
+dentist, or I've got to pick the kids
+up, or I've got some client work that's
+due. Please reshuffle." And it did.
+Look, here's the thing, most people are
+paying for Claude, it's not cheap,
+right? And if you're paying for Claude
+and you're using it like a glorified
+Google, that's leaving about 90% value
+of it on the table. And what I'm going
+to show you today is exactly how I've
+built a system that doesn't only just
+tell me what to do today, it organizes
+me. It sorts my priorities out. It gets
+me doing the difficult stuff. It takes
+the thinking out of my planning, and it
+just delegates to me. And look, this is
+what we loved about being employed,
+right? Having someone say, "This is what
+you need to do." And then report back to
+that person. Now it's possible to create
+your own CEO inside Claude. And I'm
+telling you this is game-changing. This
+has changed the game for me in so many
+different ways. And I'm not saying that
+in a built-up hippy way, it's actually
+true, and it's going to change the game
+for you as well. If you watched the 1.0
+version of this a couple of weeks ago I
+walked you through the thinker, mate,
+this takes it to the next level. If you
+haven't watched that, you don't need to.
+This gives you the next level without
+you needing level one, and it is going
+to be revolutionary for the way you use
+Claude. So let me show you the problem
+that this solves. It's called the
+decision-making trap. We all have it.
+You sit down to work and immediately
+pick the easy task instead of the one
+that's going to drive the sales, or the
+one that's going to move you closer to
+your goals, because entrepreneurship's
+hard. We are doing something
+consistently that goes against the grain
+of human beings and how they work. And
+that is putting ourselves in danger
+because we can get judged, scrutinized,
+we can be ostracized, we can be rejected
+by society, and that is what we are
+consistently putting ourselves through
+as business owners, as entrepreneurs.
+It's a scary place to be, and you are
+not to be blamed for the fact that
+sometimes you just want to play it safe.
+You want to clear your inbox. You want
+to focus on tweaking that landing page
+that isn't even like important right now
+for your current plan, or whatever it
+is. Like put your hand up and own it.
+You focus on stuff that keeps you busy,
+but isn't necessarily moving you closer
+to the big lofty goal that you have. And
+we do it all the time. Maybe we don't do
+it consistently. Maybe there are some
+days where you do get in you're like,
+"Okay, I'm going to do that
+uncomfortable. I'm going to ring the
+people that I need to ring, or I'm going
+to I'm going to promote the webinar that
+I said I was going to do. I'm going to
+press the button and go live." And you
+have that day where you pluck up the
+courage to do it, and you put those
+things on the priority tab, and you're
+like, "That is what I'm focusing on
+today. That is what I'm going to do."
+But all the other days, the days where
+your period started, say your teenagers
+were arguing one morning, your kids are
+sick, you feel unwell, that make you go,
+"Oh, I just want to bury my head in
+making color-coordinated folders in my
+email inbox because it makes me happy,
+okay?" And that's fine. But if you're
+doing that regularly, because you're
+human and because of avoidance is
+normal, then really you're not moving
+close to your goals as you could be if
+you were focusing on at least a
+chunked-down task towards those
+result-producing activities that you
+could be focusing on. So this takes the
+thinking out of it. That's why I call
+this system the thinker. It does the
+thinking, and it tells you what to focus
+on, it tells you what to do. And you've
+then got this list in front of you all
+laid out, and you're like, "Okay, I'll
+do that, and then I'll do that." And you
+get to just tick it off and get the
+dopamine hits as you tick it off. And
+then guess what? Before you know it,
+you're making massive progress.
+You're moving closer towards your goals
+than you ever have done before, and
+you're working on the stuff that brings
+in the cash. Man, this is game-changing
+stuff. So what I'm going to do with you
+is I'm going to walk you through this
+system. I'm going to build this version
+of this system with you here today, so
+you can follow along. And then if you
+want the copy-paste prompts and
+everything that just makes this so much
+easier, because you don't have to build
+it all yourself and refine all the
+prompts and do all the things, then I'm
+going to show you how you can just copy
+and paste everything that I've built
+into your own system so that you can
+have this set up in what, half an hour,
+easy-peasy. And so before we get into
+Claude, couple of things. We're going to
+be using Claude projects today. Now, as
+I said, a lot of people have been using
+Claude. I don't know, I don't have the
+data, but I'm imagining that we're using
+Claude a little bit like we use ChatGPT,
+which is using a little bit like we use
+Google. Having a conversation, asking
+questions. What about this, what about
+this, back and forth, back and forth,
+which is great, but we're going to use
+it slightly differently today. We're
+going to use projects, Claude projects.
+So Claude projects are where we're going
+to give it a load of information as a
+bit of a brain, and then we are going to
+tell that project what it's for, and
+that is going to be where our thinker
+lives. We're going to be using co-work,
+which is where we get it to go and do
+tasks for us, and we're going to be
+scheduling tasks inside co-work, which
+means that co-work is just going to run
+on automatically based on a time prompt.
+But there are some limitations to that,
+and we're going to walk through through
+those as well. So we're going to use
+those three things, scheduled tasks,
+Claude co-work, and we're going to do it
+all inside a project. And so you need a
+Claude account, you need to have your
+priorities written down, and we're also
+going to set up an airtable, because
+airtable is a really beautiful place to
+put all of your ideas and all of your
+tasks and all the things that you need
+to do. And don't worry, you're not going
+to have to run your life from a
+spreadsheet, because man, that would be
+painful, wouldn't it? No need to ever
+look at it again, really, because we're
+going to get Claude to organize it, and
+you're going to be presented with a
+success day, which is everything you
+need to do today in order to have a
+successful day. That is going to be your
+success for the day carved out for you,
+and it's going to be presented in a much
+nicer way than a spreadsheet, so don't
+worry. Okay, so the first thing I want
+to show you is airtable. So we've got
+demo content here in airtable. If you
+have never used airtable before, it is a
+spreadsheet, basically. It'll try and
+get you to build something fancy with
+Omni, which is its AI builder. So what
+I've got here is I've got a spreadsheet.
+Everything is on one table, and then you
+can split things into views if you want
+to. We have on this grid just a
+simplified version just so that I can
+demo this to you. So we've got a list of
+tasks down here, the projects that they
+go with, and then we've got notes just
+to give it context, and also what the
+type of task is. You want to lay this
+out in a way that makes the most sense
+to you, so that when you're organizing
+yourself and looking through these
+things, it just makes sense, and you
+understand the system and it works for
+your business. That's just one way in
+which you could lay it out. What we're
+going to do is we're going to use this
+table with the thinker today, and the
+thinker is going to be going through
+these tasks and deciding for you which
+ones you are going to be using. Now for
+the purpose of this demonstration, our
+name is now officially Alex, and we are
+a business coach. We have a lot of stuff
+to do, and have been focusing on busy
+work, obviously. So I'm going to come
+into Claude, we're going to go to
+co-work, and then we're going to go to
+projects, and we're going to hit new
+project. There are projects inside
+co-work, and there are also projects
+inside chat. Two different places that
+both have projects. Chat and co-work are
+in different sandboxes. They have a
+brick wall between each other, they
+can't see into each other very easily.
+And so you can't have one project for
+both. Claude, if you're listening, that
+would be great. I would really love
+that. But for now, whilst we're still in
+the AI dark ages, it's not been invented
+yet. I'm sure it'll be here next week.
+As you can see, I've already got my
+thinker project built. We're not going
+to be using that one, we're going to be
+building a new one together. It is going
+to be a demo. So we're going to hit new
+project, and we're going to start from
+scratch. We are going to call it the
+thinker, although I'm going to add a
+demo in brackets so that I know the
+difference between this thinker and my
+thinker, otherwise I'm going to get so
+confused. And instructions-wise,
+here is one I've prepared earlier. Okay,
+so this says, just to give you the down
+low, "You are the thinker. You are
+Alex's AI business assistant built
+inside Claude project. You know Alex's
+business inside out from the knowledge
+files loaded here. Your three core jobs,
+idea evaluation. So there's going to be
+basically it's going to evaluate ideas
+that we share. It's also going to
+organize all of our tasks, and it's also
+going to create a success day briefing,
+and then it's going to start the
+briefing with, 'Morning, boss.' That's
+the thinker's signature, obviously. Be
+direct. If Alex is dodging something,
+say so. If the comfortable task is a
+trap, call it out. Your tone, warm but
+honest. You are a sharp PA who wants
+Alex to win, not a therapist. Guys, you
+might want to tone this down. If if you
+if you're worried about like, "Oh my
+god, this is going to this is going to
+cause me stress." Because you've got
+like PTSD from previous boss that talked
+to you like then maybe you want to
+turn it down. I love it. I'm like, "Be
+direct with me. Tell me what to do." But
+anyway, so then we're going to have,
+"When Alex pushes back on a task, adapt
+or reshuffle, but explain your reasoning
+and remember the patterns you notice. If
+Alex always avoids content task, start
+from loading them before Alex can
+negotiate. Going to make sure that we're
+doing the thing that we're supposed to
+be doing. This is Alex's business. You
+serve Alex's thinking. You don't replace
+it. You are the thinker. Okay, so then
+what we're going to do is we're going to
+add files. Now these are TXT files,
+which is just plain text. We've got four
+of them and the first one is current
+priorities. So this is a file that you
+will update on a monthly basis. Mark
+your calendar, come and update this on a
+monthly basis because obviously we don't
+want it going stale. This is Q2 2026
+priority one launch the growth lab.
+Priority number two, keep one-to-one
+pipeline warm. Priority number three,
+fix the email funnel. And then we've got
+not priorities right now here, right? So
+I will basically put on my actual
+priorities list all the things that I'm
+working on at the moment, what my goals
+currently are, and what I need to
+achieve this quarter, you know, those
+kind of things. And then also I've got
+stuff that's cross businesses. So I've
+got rebellious business stuff. I've got
+connection marketing stuff. And then
+I've got client work. I've got launches
+happening. I've got the network stuff.
+I've got loads going on. So I split it
+down into businesses and then under each
+business projects and then like what my
+goals are for each month so that it just
+knows what that is. I would update that
+monthly. And to update it by the way,
+all you could do is take it and go,
+"Claude, based on everything you know
+we're working on right now and based on
+everything that we have been currently
+doing, what do you think I need to
+update this with?" And then have a look
+at what it comes up with and then figure
+out like where are the gaps? What's it
+missing? Cuz it's not going to have
+everything unless you've spoken to it
+about absolutely everything. But that's
+just an easy way to get that updated on
+a monthly basis. Business overview. So
+what is your business? What do you do?
+Your revenue streams, the tools you use.
+Then we've got a separate one for your
+brand positioning, your messaging is,
+your USP is. And then we've got another
+one who audience are. That should
+hopefully not need an explanation. So
+these four files are ones that we're
+putting in here. Now you could add more
+if you want it to have even more
+context. If the more the better really.
+But the great thing about this is this
+is now a project that has memory inside
+this project. So it will remember
+everything that happens inside this
+project and it has these files that it's
+basically are on the computer. The way
+that Cospace work works is that it reads
+files on the computer rather than having
+them uploaded in the system whereas in
+chat, if we come to projects, so if
+we've got Cordelia's brain knowledge
+files, in here these actually live
+inside the system here. Now what you
+need to understand as well is that
+outside of this project it doesn't have
+a memory. So it's not connected to chat.
+It can't go through all your chat
+conversations. If you want that context
+in the thinker, you need to put it in
+the context box here by pressing the
+plus, choosing a folder or adding a link
+and then basically you've got this
+folder here. I think you can now add to.
+So that will show up in finder. You've
+[clears throat] got the thinker demo.
+Anything you add in here will now be
+available inside this Cospace. So we've
+got the instructions. We've got the
+context. We've uploaded the knowledge
+files. The next thing we need to do is
+set up some scheduled tasks. So we're
+going to go back to open the sidebar, go
+back to projects and I'm going to open
+my one a second. So it looks like this.
+And then we've got scheduled tasks down
+here. We're going to start with success
+builder. I'm going backwards today. So
+I'm going to grab this, come into the
+previous project.
+We're going to click on plus for
+scheduled tasks and then we're going to
+create new task. And this one is success
+day. Okay. And then the thing I need to
+just grab a demo airtable. So I'm just
+going to grab the link to it. So just so
+that you understand how this works, this
+airtable link has got three codes in it.
+So the last code here is the actual
+table itself. The second code there is
+the base and I think the first code is
+the workspace. And so those three codes
+it will know what to do with and we're
+basically going to link airtable into
+here. The project is stored here. And
+then I'll just say, "You have all the
+knowledge files as business context."
+What this is doing is this is going to
+be the actual planning assistant that is
+going to get all of the information and
+it's going to create a success day. So
+I'm going to get rid of the key airtable
+references cuz it's got all of that on
+this link here that I've just given it.
+We're going to do this weekdays and it's
+going to be at 5:00 a.m.
+Save. We need to give it a description.
+I normally just copy first part of the
+prompt and pop it in there so it just
+says who who it is and what it does.
+Save. So that is now scheduled to run on
+weekdays at 5:00 a.m. And if I click on
+it, I can click on run now. And what
+that should do is it should go and look
+at the airtable and also look at the
+calendar that I have etc. So what we
+need to do now so that it actually works
+is we need to link it up to the airtable
+and to your calendar. And the way that
+we do that in Claude is if you click on
+your name and you come to settings,
+inside settings you want to come to
+connectors and then you want to browse
+connectors and search for airtable. This
+is going to connect to airtable via MCP
+and you have to set up that link by
+clicking this here, then clicking
+connect. And then what it's going to do
+is open airtable and what I recommend
+you do is just click on add all
+resources. So all current and future
+bases in all current and future
+workspaces on a airtable and click grant
+access. That is then going to connect
+Claude to your airtable and your life
+from here on out will be changed because
+what that's going to enable you to do is
+you're going to be able to get Claude to
+go and read stuff and change stuff and
+do stuff. Like you're going to be able
+to say to it, "Go create me a project
+board to help me launch this here
+thing." And it will just do it on
+airtable for you. The next connector you
+want to add is Google Calendar. If you
+have a different calendar, it will be
+available. I've already connected it but
+you want to essentially have everything
+on one calendar. And if you have
+multiple Google calendars like I do,
+what you want to do is subscribe your
+other Google calendar with your main
+one. So on my
+cordelia@rebelliousbusiness.com
+calendar, I've subscribed to my
+hello@cordeliacake.com
+calendar. So everything shows on one
+calendar because Claude cannot connect
+to more than one calendar at a time. So
+you have to just subscribe to your other
+ones. So once we've got that connected,
+we are good to go. We can now come into
+Cospace and come to our scheduled
+projects and come to success day demo,
+which is the one that we just created.
+And we can either wait until tomorrow.
+And by the way, they're weird times.
+I've set it for 5:00 a.m. It's 5:07 that
+it's going to run. Don't understand why.
+We're going to click run now and we're
+going to just see what it does. Now this
+here is running and you'll see in a
+second what's going to happen is you'll
+see a list of things that it's about to
+do and then you'll see it going through
+that list and ticking everything off
+inside airtable. So I'm just going to
+I'm going to show you the I'm going to
+show you my one rather than the I think
+it's this one actually, the copy one.
+Here we go. So we have this is exactly
+identical to the one that I use and
+inside here we have a list of tasks and
+then we have success day. Now there is
+nothing on the success day apart from
+the briefing from today which Claude is
+about to create. But if you click on
+interfaces, you'll see that you've got a
+success day there ready to go. So you
+can build an interface on airtable by
+just essentially getting a getting the
+data. So if you click on next and then
+it's organizing the data that you've got
+in your main table into however it is
+that you want it to be. So the way I've
+done this one is to have the success day
+so that it shows the briefing up here
+and then it's got my tasks and my ritual
+tasks displayed here. I'm going to go
+get my demo content. I'm going to drop
+it onto this thinker one and then we're
+going to use this instead of that demo
+table. And it will just make it so much
+easier for you to understand. So bear
+with me one sec. Just going to copy all
+of those tasks. Obviously give you
+running commentary whilst I do it
+because it's otherwise very dull. All
+right, let me search for thinker. Copy.
+And here we go. So we've got all these
+tasks here that have just been dumped in
+and then I'm going to come back and I'm
+going to stop this a minute and I'm just
+going to go in and give it that link to
+this airtable instead of the previous
+one. Is it projects? Thinker demo.
+Can I edit it? Yes, I can. That's what I
+need to do. Right, let's pop the new
+airtable here. Ritual tasks table. Okay,
+so it will just know what these are.
+It's going to know what these tables are
+because it's smart. I'm just going to
+give it the main link at the top and
+then it will pull through and grab all
+of those tables just so that it doesn't
+get confused.
+Right, here we go. So this is the
+airtable to use. I'm just going to copy
+it one more time in case I accidentally
+copied something I wasn't supposed to.
+There we go. Right, save and then we're
+going to hit run now again and that's
+going to start again. Okay, now whilst
+that's doing that, let me come into this
+and just show you around. So we have the
+task list which is just basically
+everything that you need to do that you
+can just dump here in a big list.
+Projects are things that would link up
+those tasks. So let's say there was a
+project that was like you want to
+organize your client work tasks into one
+project, then you could have a project
+called client work, and then in tasks,
+send follow-up email to Sarah who
+inquired about coaching, redesign the
+services, post coaching offer in the
+Facebook group. It's a one that's about
+client work. Dear five people book the
+photographer, send the proposal to Joe.
+We could put that there. Let's pretend
+that's client work. It's not sales is
+it? But whatever. Client work, so that's
+then linked to that project. You can
+choose what priority that is. So if
+you're like, okay, that is so important
+I have to get that done. Critical. Due
+date needs to be done today. And then
+when it's done, you press the green
+tick. This board has been filtered by
+done. So when you press tick, it's just
+going to make it disappear, basically,
+like that. But I'm going to undo that
+and there it is. And then to add it to
+your success day, you just tick yes. And
+then what's going to happen is that is
+going to show up on the success day. So
+if you have a look at interfaces and
+then click on success day, this data has
+been show has been has been edited so
+that it only displays when something has
+got success day yes. To get it off of
+the success day, you just basically
+clear it and then it'll disappear. So
+it's like it's a it's only viewing
+things that have had success day marked
+as yes. So that's what this is going to
+be doing. It is literally going through
+all the tasks, deciding what you should
+do today, and then it's going to put on
+this list and tick a lot of things with
+success day to make them live here. So
+coming back into data, where you just
+got the normal table, we've got the
+tasks, which is all of the things that
+you need to do, projects so that you can
+sort of umbrella term them and connect
+them all together. Because honestly, it
+does start to get unmanageable when
+you've got millions of these tasks and
+they're not linked to anything. If you
+link them to projects, then it just
+makes it a little bit more organized.
+And then ritual tasks, these are things
+that happen all the time, every week.
+They they don't get ticked off. And the
+reason why this is important is tasks,
+you're going to tick them off and the
+system is going to treat them as done
+forever. But ritual tasks need to be
+unticked you can do them again. So this
+is stuff like my cash flow forecast. And
+let's say I do my cash flow forecast on
+a Monday, right? I would under
+frequency, I'd select Monday. And then
+in terms of the link, this is just to
+take me straight to the task. Let's say
+if I was update email workflow, I would
+just have the direct link to the email
+workflow here, so that when I come
+around to updating it, I just have to
+click on that link. And that's a Tuesday
+job, right? So then they're getting
+separated out into the days of the week
+and you've got these tasks that like all
+your Monday tasks are here and all your
+Tuesday tasks are there. They're ritual
+tasks, they're the things that you have
+to do every week or maybe even monthly
+or quarterly or yearly, but they have to
+be done on a regular basis and therefore
+they're rituals not one-off tasks that
+contribute towards a project. And then
+your success day, this is just where
+Claude is going to drop that briefing.
+So you've got the briefing here that's
+just happening. I'm going to open up the
+interface and show you what it looks
+like because we've got our first success
+day been given to us by Claude. If we
+just look at co-workers a second, you
+can see that it is completed. It's done
+it. Happy days. And if we come over
+here, we say, "Morning, boss. No ritual
+tasks in the system yet. So today is all
+about the task list. No previous success
+day history either. So we're starting
+fresh. Good. Clean slate energy. There
+we go. Today's the day Joe's proposal is
+due. That's marked critical and it's
+literally today's deadline. So that's
+non-negotiable. But before you dive into
+quick wins, I front-loaded the morning
+with a big one, writing the sales page
+for the Growth Lab. May 19th launch,
+it's six weeks out. The sales page is
+the backbone of everything to let. It's
+quite long, right? But I have this
+WhatsApped to me at 5:00 a.m. so that I
+can lay in bed and have a read. And
+that's really cool because it's
+essentially my assistant telling me what
+my day is going to be. And then what
+happens is you start to mentally prepare
+for the jobs that you have in front of
+you. Whereas if you don't have it laid
+out like that and you have to come and
+sit at your desk and design your day,
+then it's you're left to your own
+devices to kind of choose what you feel
+like doing. Whereas if you're told,
+"You're going to be running a marathon
+next week." You're what's going to
+happen between now and next week? You're
+going to start by being like, "OH MY
+GOD, WHAT? THAT'S INSANE. I can't do
+that." And then what you're going to do
+is start to mentally prepare for that
+marathon. You're going to be like, "I
+need to do some training." All right,
+you get a little training planning. I
+mean next week is not long enough to
+train for a marathon. It's a terrible
+example. But just so that you understand
+what I'm saying, it works for that. You
+start to mentally prepare for stuff
+that's coming up. And so if this is
+dropped to my inbox at 5:00 a.m. and I
+can have a read of what my day is going
+to look like, I am now in mentally
+preparing mode for the day that's ahead.
+Whereas that's that's called being in a
+proactive state. Whereas if you're in a
+reactive state, you're basically just
+reacting to the day that comes at you.
+It's like things are flying at you and
+you're just having to react to them. And
+you haven't mentally prepared for them.
+And you sit down at your desk at 9:00
+a.m. and you're like, "Shit, what do I
+need to do today? Oh yeah. Oh god, I've
+got to do that the sales page for the
+Growth Lab." And you're like, "Oh god.
+Oh well, see if I got in the mood get"
+And you you you've lost like three hours
+of mental preparation. Do you see what I
+mean? Like this is wildly helpful
+because if you can get yourself in the
+zone before you've even started, you're
+10 steps ahead. And it means that you're
+going to be getting the stuff done that
+needs to be done and stop putting it
+off. So there's the briefing and then
+here are the tasks down here. So we've
+actually got the the tasks ready to go.
+We're in edit mode of this by the way.
+If I hit publish,
+we can now sit full screen. And I
+recommend bookmarking this. So I have
+two bookmarked. I have the data, which
+is this one here, and then I have the
+the view that we're looking at right
+now. Then we've got these tasks here. So
+let's say like, "Okay, send a follow-up
+email to Sarah." And then once you've
+done it, you hit tick. And oh, look at
+that. It leaves the board. So
+satisfying. Or if you're like, "Oh no,
+that's nothing. I don't need to do that
+until like next month." Then you can
+just put the due date for like next
+month and then change it to not on
+today's success day. Reply to DM from
+Marcus about the group program. Like
+this is important. Don't put this off.
+Marcus is going to go cold, right? And
+you see you can just tick them off. And
+then what you can do, let's say you get
+through everything, you can come back
+and you can be like, "Hey, all done.
+What next?" Or you can just basically
+have a conversation with it. And if
+you've seen the 1.0 version what I
+taught a few weeks ago, the limitation
+of that was that I built this inside
+make as a make agent. But once it had
+created the success day the success day
+was created. Whereas now I can argue
+with it. I could be like, "Oh, I'm
+really not in the mood to do sales page.
+Can we reshuffle?" And it'll just either
+argue with me. I actually don't know
+what it's going to do. I kind of told it
+to argue with me in the prompt. So it
+might not. It might be like, "No, Alex,
+you must do the sales page." Or it might
+Fair enough, but I'm going to be
+straight with you. The sales page is the
+single biggest blocker of the Growth Lab
+launch and May 19th is six weeks away.
+Today, I'll let it slide. If it's still
+sitting there next week, we're going to
+have a conversation. [laughter]
+See? This is what you need in your life.
+I'm sorry, but this is what you need in
+your life. We all need this. Okay, so
+that's the success day and that's how
+the success day works. But there are
+some other really cool things that I
+want to show you. Basically, inside the
+air table, we can click on view data, we
+have an ideas inbox and we have tasks.
+And those two things are the same
+really, except for we want to always be
+evaluating our ideas because often they
+can be the thing that takes you away
+from your goal. Let's say I suddenly
+have this idea at 5:00 in the morning
+and I'm like, "Oh my god, this is such a
+good idea. I've just decided that I can
+record a new course on how to use Claude
+and give it to people in my membership."
+And that's my idea, right? Had this
+idea. It is down to me generally as the
+sole person in this business to evaluate
+my own ideas and decide whether I should
+do them or not, whether they should be
+parked or whether they should be
+executed. And often, we can really drive
+ourselves away from goals. It is an
+unconscious avoidance tactic to give
+yourself a whole new project that isn't
+taking you towards the thing that you're
+avoiding, which is scary. And so that
+can be a thing. So the next thing that
+we can build is an idea evaluator,
+schedule tasks. Let me go and grab the
+instructions from this one and walk you
+through them. You can see it's very
+lengthy, which is what we want. We want
+detailed prompts. So let's go back into
+that project, the Thinker Demo, and
+we're going to click on a new scheduled
+task. We're going to create new task and
+that is going to be idea evaluator demo.
+And then we're going to drop the
+instructions in here. As I said before,
+going to grab the from there and pop
+that in the description. It's
+duplicated, but it needs something in
+the description. It doesn't matter if
+it's duplicated. Right, and we're going
+to pop the demo air table in here.
+And give it that air table so it knows
+which air table to use. And we can
+change Cordelia to Alex. So let me just
+walk you through this then. So you are
+Alex's strategic research agent. Your
+job is to evaluate business ideas from
+the ideas inbox on air table and provide
+clear, honest, actionable
+recommendations. Workflow. Fetch new
+ideas from this air table. Retrieval
+records where status equals new. Whoops,
+we need to change the status to new or
+it's not going to recognize it. Okay,
+done. Evaluate each idea. For every new
+idea, run the full evaluation described
+below. And it's going to basically score
+it on whether it thinks that we should
+do it or not. So let's hit save. You can
+have your frequency of this. I normally
+have it in the evening or 5:00 p.m. So,
+1,700 hours. Save. And then, what we can
+do is click on that and then hit run
+now. And then, what it's doing is it's
+taking this and it's going to put it in
+the interface that I've created here.
+It's going to come into the morning
+report as an evaluated idea. So, we've
+got the idea will be selectable from
+this drop down. Let me click on this. Is
+it how do I launch? I need the launch
+button. Once you've got your Airtable
+configured, save this launch view as a
+bookmark cuz it's a real pain getting
+back into it. And the reason why this is
+now here is because the status has
+changed to reviewed. So, this is only
+showing me data where the status is
+changed to reviewed. Right. Okay, what's
+it told us? Firstly, it's giving us an
+AI summary because that, you know,
+sometimes you might want to ramble for
+ages and like voice record yourself
+rambling and then it'll just give you a
+quick AI summary of your idea. The AI
+recommendation is bin it. That's a bit
+harsh. Revenue potential is none. The
+effort estimate is multi-day and the
+strategic alignment is one star.
+Conflicts with the human over AI brand
+positioning. No membership product
+currently exists to deliver it through.
+Competes for time focus with the growth
+lab launch. And that was that not a
+current priority is inside the knowledge
+file. The priorities current priorities
+knowledge file, there was a there was a
+section at the bottom which is not a
+current priority list. And then, it's
+yeah, it's basically given us all its
+reasons for why it thinks we shouldn't
+do this. And so, having like that could
+be a shiny object that takes you down a
+rabbit hole and costs you multi-days
+in time that actually is not
+strategically aligned to what it is that
+you're doing right now and could just be
+prolonging your the time it takes you to
+achieve your goals. And so, what you
+want to do here when this is is you then
+go, "Okay, well, I've reviewed it." Then
+we're going to change it to approved,
+parked, or binned or planned. Now, let's
+say we're going to go, "No, you,
+AI. I'm going to do it anyway." We go
+planned. All right, well, the next thing
+that we need to do then is turn this
+idea into a project and some tasks. We
+have another task We have another
+scheduled thing to So, if we come into
+projects, you can now go into your demo
+project. We've got an idea evaluator
+which is we've just used. Proj- Thinker
+project task creation. Right, let me
+just grab this and I'll walk you through
+it like I have for the others. Okay, so
+idea to tasks demo. Let's just copy that
+and pop that in the description. Right,
+and then here's the prompt. So, you are
+Alex's project planning agent. Your task
+is to take an approved business idea and
+convert it into structured actionable
+project plan. We're going to grab the
+Airtable Just go back to data. We're
+going to grab the Airtable from here and
+replace that with this. And it's going
+to retrieve all records where status is
+approved. And then, it's going to
+essentially turn it into a project and
+then chunk it down into as many possible
+tasks as it can and then mark them all
+as critical, high, medium, or low. Give
+them dates if it's got that context. And
+then, essentially give us a huge task
+list. So again, weekdays, you could do
+this It depends how many ideas you're
+having. I mean, you could just do it
+manually so that if you've got a node of
+ideas, then you can come in here and and
+do it manually. But I'd say weekdays at
+10:00 p.m. 10:00 p.m. would be 2,200
+hours. Save. And then, we've got the id-
+idea to idea task. Oh, I didn't do my
+arrow. Never mind. And then, we're going
+to hit run now. So, this is now running
+and it is going to go through that
+process of getting that idea that I
+rebelliously decided to go ahead with
+and turning it into a project and some
+tasks. And then, what that does is it
+adds it into the projects list here and
+the tasks list here, giving your Success
+Day Builder more tasks to look at and
+manage. It's probably not going to
+prioritize them every day over the stuff
+that we've actually got in here because
+it's measuring that against our
+prioritized projects, our prioritized
+goals, our prioritized things that we
+need to focus on. It knows what they are
+and it doesn't think this is important.
+So, it's probably not going to
+prioritize tasks over the ones that
+we've already got. But they're going to
+be here and it's going to be in the mix
+for us to have that. So, that's going to
+come into here as a project and then
+it's going to be linked in. And the nice
+thing about this as well is it will link
+it to the origin idea. So, we've got
+this idea here. It will link it into
+there. That'll just give you the ability
+to just when you've got loads of
+projects, think, "Oh, where did this one
+come from?" And just look through the
+history of them. And so, you're going to
+have all your ideas in here. They're
+going to be organized into whether
+they're planned, binned, parked, or
+whatever. You can set up views so you
+can have a look at your parked ideas all
+in one place. You can set up a view that
+looks at your stuff that's just quick
+and it knows it's quick based on the
+effort estimate. We've got quick win,
+half day, multi-day, or major project.
+And so, you've got your your quick wins
+if you just fancy going to grab a quick
+win. And then, there's the the stuff for
+morning review. And I've got it
+separated out by business because I have
+more than one business. Now, there is
+also money producing activity table. And
+I really recommend, if you want to set
+this system up, you go and watch the
+video that is currently a bit of an
+outlier on my channel right now, how to
+use Claude to make you money in 1 hour.
+This is using this Thinker system and
+having money producing activities
+session with it for an hour a day. That
+is game-changingly killer. But yeah, so
+anyway, the Have we got our project? Not
+yet. It's still working. Oh, why? The
+Airtable query returned no records with
+approved. Let's just double-check this.
+Oh, no, it's cuz I put planned. I need
+to put approved. Okay, approved. Try
+again. Couple of other things to let you
+know whilst this is happening. You've
+now got this project here that you can
+essentially you could brain dump into
+here and say, "I want you to help me
+organize my thoughts. I'm feeling a bit
+overwhelmed. Here's all the things that
+are on my mind." But we'll pretend we've
+got dictation on. And you can just
+basically ramble. And the beauty of
+this, you have this on your phone,
+right? You can also do this from chat.
+So, you can't do co-work from your phone
+because unfortunately Well, you can do
+dispatch, but you don't actually need
+co-work for this. The chat function is
+connected to Airtable as well. You might
+want to just say, "Oh, I've got this
+Airtable. Here's the link to it. I've
+got these things that are on my mind.
+Can you add them to my tasks list? Or
+can you add them to my Success Day?" And
+it's going to basically just organize
+all of that. So, I did a massive brain
+dump. It was so long. It was about this
+long. It was honestly huge. And it just
+went through and it broke it all down
+into projects and tasks and then added
+it all to Airtable for me and marked it
+all as critical, gave it dates, da da
+da, and all the rest of it just from me
+brain dumping into this. Now, if you
+also want to be able to WhatsApp your
+Thinker on the go, I recommend having a
+look at another video that we have
+called on YouTube that is all about the
+Thinker and it's this one that says
+morning boss on it. Okay, so this is now
+worked. We've got the project that's
+been made, build a Claude AI training
+course for membership. And then, in
+terms of the tasks, they're all here.
+So, under that project, it's made them
+all into tasks. And you can see how it's
+chunked it down. We've got define course
+outline with three to four modules
+covering Claude basics, decide
+membership platform or hosting method,
+script module one, script module two,
+script module three, blah blah blah. And
+it's chunked it all down. And then,
+those are all there for you to just go
+through one by one as tasks. The next
+thing that makes this really cool, I've
+just added this to my one and we could
+add under your tasks section one field
+here that says Let's go long. We want
+long text and we want it to be Oh, and
+we also want single select. And this is
+going to be Can Claude help? And then,
+we're going to add option yes, no,
+partially. Great. And then, this one
+here that we just added, this long text,
+let's move that after the Can Claude
+help. And then, we can edit field and we
+can say Claude co-work instructions. And
+then, we can come here and go into that
+project that we were in in co-work and
+say,
+that is now just going to go through
+that. It's already linked to the
+Airtable. He knows what I'm talking
+about. It should be able to see the
+fields that I've just added and it
+should just go through and have a look
+at anything it thinks it can help with
+and add the instructions. The next thing
+that we can add to this then is a long
+text field and we'll call it Claude
+response. And what we're going to do
+then is that once you've got co-work to
+go through and it's got these tasks and
+it's going to figure out what it thinks
+it can help with. This is game-changing,
+right? It's going to figure out what it
+thinks it can help with. It's going to
+put a set of instructions for an agent
+to complete that. Then you can set up
+another session or in this same box, you
+can say, "Great, now go through and do
+all of that." And it doesn't even just
+do it all like it sets multiple agents
+out doing all these things at the same
+time. And so, they're just completing I
+mean, within half an hour, you'll have
+it filled all of that in not even half
+an hour. Like maybe 10 minutes. And it
+may not be great. It may not be high
+quality, obviously. Like you're getting
+it to create a prompt to help itself and
+and and then help itself. I mean, it's
+it's not necessarily going to be the
+most amazing thing ever, but it might
+give you a shortcut and give you
+something to start with. And I have been
+using that inside my one. And what we
+can do then is inside your interface
+when you build that out, you can come
+into your success day and open up this.
+And when you open it up, you can edit
+what you can see. If you click on this,
+you can then add things to it. You can
+add things you already have by seeing
+what's visible. So, you've got five
+visible fields here. We can then add
+Claude's co-work instruction or just
+Claude's response. So, if Claude has
+already started doing something or
+working on this for you, its response
+will be here as you ask it to respond in
+that way. So, if we now publish that,
+that will now be ready and it's got that
+there and it can have that response in
+here. So, if we come back into co-work a
+minute, it's already done load. Let's go
+and see what it's done under tasks. I
+don't think we can't see the cuz it's a
+new field. I haven't added it into this
+interface yet. We've got any
+instructions in there yet? No. Why have
+you not added them? All right, maybe
+it's going to do it at the end. Oh,
+yeah. There we go. It's writing them
+now. Is it? I can't see that you've
+changed any fields in the airtable. So,
+it can it can fully help with 12 things,
+right? And then it's got partially
+helping and then it you need to do what
+you like you need to batch record your
+podcast episodes. Let me just refresh
+this. It's saying it's there. That's a
+different airtable base I was working on
+the demo thing. I see. There we go. So,
+it's done it here somehow. Oh, it's
+actually made the co-work instructions
+and made the
+Okay.
+So, here we go. So, we can see an idea
+of how it's how it's done that. It's
+given quite a lot of context and
+instructions and output a ready to send
+follow-up email to Sarah. So, what we
+can do then is come into here and say,
+whilst it's working on that, okay,
+brilliant. Can you now work through and
+get all of these things completed and
+update me in the new Claude's response
+field. I like to say please. It's just
+who I am. Do you guys say please to AI?
+Let me know in the comments. Let's just
+start a new co-work so I can Let me make
+sure we give it the right airtable base.
+It's not that one. It's this one. And
+let's Can you work through and get all
+of these Okay, so the stuff that's been
+marked yes or partially will now be able
+to be completed by Claude. I'm giving it
+the table just to make sure. Now, you
+can see it's just filling these in. It's
+saying no to some things and it's saying
+yes to other things. And there may just
+be like, you know, some jumps ahead that
+you just wouldn't have got or you
+wouldn't have thought of. You wouldn't
+think, oh, I wouldn't have thought that
+I could have got Claude to help me with
+that. That's great. Like, you know, so
+write the script for module three of the
+Claude course. It's got the whole
+context of the project. It's also got
+the whole context of the idea you
+initially had and it will have, if you
+do it from this project, the context of
+the project with all the knowledge files
+about your business and everything. So,
+what you're doing is you're getting an
+agent to work on stuff that has memory,
+which is really, really awesome because
+if it's got the memory of everything,
+then it's going to be able to produce
+quality without you needing to put a
+huge amount of context in every single
+prompt that you use, which is killer
+because these prompts, they get so big
+and then unfortunately, the output just
+isn't very good because the prompt was
+so big that it got skewed. And so, if
+you can have an agent that just dips in
+and the the difference between agentic
+and just prompts is that agentic decides
+what files to go and get, what context
+or what knowledge it needs, and it will
+dip into there and then come back and
+carry on working and then dip into there
+and come back and carry on working.
+Whereas just a normal kind of AI prompt,
+you have to just have all the context in
+the prompt, which is huge amount of
+context that it needs to then read
+through absolutely everything in order
+to get the full idea of what's going on
+and then go and execute. And it just
+doesn't create the best output. So, this
+is how you can get it doing things
+agentically, which is using Claude
+co-work and giving it a project so that
+it's got all the context. If you're just
+in a normal co-work tab, it's a sandbox.
+So, it is like it doesn't have memory.
+Every new co-work conversation doesn't
+have memory of previous co-work
+conversations unless it's in a project
+and then it does. So, it's just
+absolutely game-changing. Guys, I have
+got all of this laid out for you, all of
+the prompts, all of the templates for
+the knowledge files, all of the steps
+for the thinker part one, which is
+building everything out on make, being
+able to WhatsApp your thinker and having
+it organize all of your thoughts. And
+then part two is getting Claude to
+replace a lot replace the agentic stuff
+that was happening in make that I taught
+in 1.0, but leaving the WhatsApp stuff
+alive. And then that means that it's
+cheaper to run because, you know, you
+just need your Claude subscription
+rather than Claude subscription plus API
+costs. Everything's happening inside
+your Claude subscription. The only
+downside is that you have to have your
+computer on in order for these scheduled
+runs to work. Like at 5:00 a.m., if
+you're on a laptop and that's what you
+use and your laptop goes to sleep, well,
+it's not going to run. So, it requires
+you coming to your computer and pressing
+run. If you want it to be fully
+automated, you need to have it running
+through a an a cloud server like
+make.com, which is what I taught in the
+1.0 version. But, I'll link you to that
+in the description of this video. But,
+the the cloud server then obviously it's
+always on and that's great and then it
+just runs. This doesn't work when your
+computer is asleep. The only way around
+that is to get yourself a Mac mini or a
+a normal computer that is always on. And
+then you can basically just have that on
+and running all the time and have this
+running in the background. But, if you
+want the entire workflow, all of the
+prompts, all of the steps so that you
+can copy and paste and import rather
+than rebuild this entire thing cuz it is
+chunky, it is beefy, it is a bit
+complicated, but it is absolutely
+game-changing once you've got it all set
+up and working, it is going to change
+your life. Then you want to jump to this
+page, the thinker. It's on this QR code.
+Go and have a look. We've got the thing
+By the way, if you are in the school
+community, there is a discount code for
+you to get the thinker half price. But,
+it just gives you absolutely everything
+all in one place so that you've got if
+you want to set up the make.com
+workflows, you can just import them all.
+And if you want to use the 2.0 version,
+you've got the prompts for every single
+element. And if you've already got 1.0,
+2.0 is going to be included in that. So,
+have a refresh of your thinker page and
+it will be on there. And if you haven't
+got either of them, now is the time. Go
+grab it because this is game-changing
+stuff. You can spend days building this.
+Now, you've got the idea and you kind of
+roughly know how it works or you can
+just copy mine and and have it set up in
+half an hour. And I promise you it's
+just flipping life-changing this is. So,
+go grab that. The thinker available for
+you to import into your workflow. Let's
+just go back into screen share a minute.
+So, Claude has now gone and taken the
+instructions and the ones it can help
+with, it's just done the work for us.
+Ready to draft this for you. I need a
+few things first. Okay, that's great.
+So, you can just copy that and that's
+given you a head start already because
+let's say that's on your success day,
+which it is. If we have a look at that
+success day, we'll now see like let's
+say, I think it's this one. We open
+that. We go, okay, well, we've got a
+response from Claude. Claude's already
+started working on this project. We can
+grab this and we can actually take that
+and drop it into either co-work or chat
+and be like, oh, need to work on this.
+Here's what I've got so far. Here are
+the answer to the questions you asked me
+and answer these questions. What does
+the workshop cover? Who is Joe's company
+or team? Proposed duration, your
+pricing, a short bio. And and then
+basically just get it to continue. And
+it's just going to give you a head start
+with these tasks that you need to do.
+So, yes, can help us with these and it's
+asking for stuff first. So, it just
+gives you a step ahead because then you
+can grab that, copy it into Claude and
+then essentially Some of these things it
+may not need any context and it may just
+be able to create the the task for you.
+But, it looks like it's for a lot of
+them it needs a bit more context. And
+that's probably just because I've got
+loads of dummy data in and the dummy
+data isn't enough for it to be able to
+actually go and execute it well. So,
+that's when you know you've prompted
+well is when you've got it coming and
+asking you more questions. So, that is
+the thinker, ladies and gentlemen. And
+as I said, you can grab it here, 1.0 and
+2.0, the full system. If you need any
+help with it, you just email me and I
+will be there like your fairy godmother,
+not like 50 times, but I can come and
+support you if you need any help. So,
+just grab that and then I've had calls
+with people that bought the thinker and
+we've just gone through and done a
+couple of thing unblocked a couple of
+things just to make it straightforward.
+I want this to be game-changing for you.
+I want you to get this installed in your
+life now because it is going to really
+help you and it's going to help you move
+forward through everything into the
+stuff that's actually moving the needle
+and actually changing things for you and
+that's what I really want. Let me know
+if you have any questions, drop them in
+the comments. I will get them answered
+for you. I'm Cordelia Kate. This has
+been the thinker and I really look
+forward to seeing you on another video
+soon. Big love, guys. Have a wonderful
+rest of your day. Speak [music] soon.
+Bye.

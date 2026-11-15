@@ -1,0 +1,403 @@
+There's one file that completely changes
+the way that Claude Code works for you.
+And the majority of people either don't
+know it exists or they do, but they set
+it up completely wrong. And it's called
+the Claude.md file. And without this,
+Claude is just guessing every single
+session. It doesn't know your project,
+it doesn't know your preferences, and it
+does not know how you want things done.
+But when you set this up right, Claude
+Code actually acts like a teammate
+instead of a generic AI, which is why in
+this video, I'm going to show you
+exactly what the Claude.md file actually
+is, two methods to set it up
+step-by-step, and my actual advanced
+Claude.md that I use to run my entire
+business. With that being said, let's
+dive in. All right, so what is the
+Claude.md file? I'm sure you probably
+heard of it, you've seen it somewhere,
+but essentially what it is, it's the
+project instruction manual for Claude
+Code. So, essentially Claude Code,
+whenever we're working with a workspace,
+it needs to have some sort of memory.
+And the memory is where all the files
+are, what the product workspace actually
+is, what is our objective, who we are,
+and all that stuff, right? And so that's
+is. Now, the Claude.md file loads
+automatically, which means that when we
+work with a new workspace, it loads
+automatically in a way that before it
+starts doing anything, it always looks
+at the Claude.md file to get an
+understanding of the whole layout of the
+workspace before it dives in and does
+any single task. The same way that you
+would have an employee coming into a
+company, you give them memory, and every
+single day that he comes back to the
+company to work, he already has the
+memory pre-trained. So in this case,
+whenever we have a new conversation with
+Claude Code, we are saying, "Hey, before
+you do anything, just look at the
+Claude.md file, understand our
+workspace, and then execute the task
+that I want you to do." Now, the actual
+Claude.md file is divided into four
+different kind of steps or or pillars,
+right? The first one is product
+description. So this is what this app
+does. It's not necessarily just an app,
+it's just saying this is what this
+workspace is, right? For example, I have
+a YouTube workspace where I manage all
+my YouTube stuff. So this workspace is
+specifically designed for YouTube
+ideation, content creation, XYZ, right?
+Then we have the tech stack. This is
+looking at what tools and softwares we
+use. Then we have the rules and
+guardrails, which is what Claude must
+and must not do. And rules and
+guardrails can be anywhere from the text
+it should use, the colors it should use,
+the fonts, the step-by-step process it
+should go through to then create
+something, right? And these are all the
+different rules. It's kind of general,
+but you can have like any rules that you
+can think of, you can put it there. And
+finally, we have folder structure, where
+everything lives. But this is one of the
+most important ones, cuz as you will see
+when we make it the actual file, there
+is a structure of folders that we add
+inside of our workspace. The reason that
+is is because we want to make things
+organized. And Claude knows exactly
+where to store all the different files.
+So, we'll have a file for the scripts.
+We have a file for the output, which is
+the things that it gives us. We have a
+file for the ideation. Maybe we have a
+file for all the passwords and keys, API
+keys that we use, right? And so, in
+having things organized, it's much
+easier for Claude Code to do things
+because it's not scattered everywhere.
+That's what it is. Now, what Claude Code
+gains by having this file? Well, the
+first thing is that it understands your
+project better. And every single time
+that you speak to Claude Code, you don't
+have to repeat all the things, right? It
+already knows. The second thing is that
+it follows your conventions. This can be
+naming conventions, it can be patterns,
+it can be a structure that you use.
+Then, like I mentioned, it looks at the
+rules. So, every single time this
+happens, do XYZ, right? And it won't
+break what actually matters to you. And
+then finally, it's consistent. That is
+probably the most important thing.
+Because it's much better to have
+something that's average but consistent
+than something that's really, really
+high quality but inconsistent. Because
+with AI specifically, it's very good at
+doing things, right? Like it's it's it's
+not. It's crazy. But you also want to
+have strict guardrails, right? Strict
+prompts that make it so that it's not
+inconsistent every single time. It
+actually gives you the output that you
+want every single time when you are
+doing that specific thing. So, there's
+two different types of ways that we can
+set it up. The first way is using a
+three-layer architectural structure.
+Sounds complex. It's very, very easy,
+actually. And the second way is running
+the {slash} init. Now, the different
+ways represent two different scenarios.
+The first scenario is method one, right?
+Where we write the cloud.md first, and
+then we tell Claude to initialize the
+project. And this is only when we have a
+new project, when we're starting from
+zero. Then the second method is when you
+already have an existing project. So,
+let's say you're building apps or maybe
+a landing page or maybe some agents,
+right? You haven't done the cloud.md
+yet. So, now what we do is we take all
+the folders, all the files, Claude will
+understand your whole workspace, and
+from there we tell it create a cloud.md
+file. So, one is creating cloud.md file
+from scratch, and then creating the
+folders, and the other one is you
+already have the folders. Now, we create
+the cloud.md. All right, method one is
+writing cloud.md from scratch. Here we
+have the Claude Code project. I made a
+new project called Claude. And this is
+where we will make a file right here,
+just pressing this button, and name it
+cloud.md.
+And inside here, and by the way, the
+reason why it's MD is because it's
+markdown. Markdown is just a way that we
+format text, right? Cuz this is title
+one.
+This is title two, two hashtags.
+Then we have boldings, which is hello,
+right? And so on. So, with that said, we
+have the cloud.md file that we made.
+Now, we have to actually write the
+instructions, and then initialize the
+project, okay? Now, one thing that I
+want to show you as well is if I go to a
+new chat, I'm looking here cuz it does
+mention make a cloud.md file for
+instructions, Claude will read this
+every single time. So, even Claude Code
+incentivizes you, it tells you, "Hey,
+make this file because it reads this
+every single time." Okay, so here we
+have the prompt that I'm going to give
+Claude Code in the cloud.md file. I'm
+going to copy this.
+I'll bring it back. I'll go here and
+then paste it. So, what does this prompt
+tell Claude Code? So, you operate within
+a three-layer architecture that
+separates responsibilities to maximize
+reliability. That's some fancy names.
+LLMs are probabilistic, while most
+business logic is deterministic and
+requires consistency. This system solves
+that problem. This means that LLMs are
+inconsistent, but business logic is
+consistent. And so we want to solve for
+that inconsistency with this exact file,
+right? And then we give it the three
+different layers. So layer one is
+directives. We're basically saying
+anything that has to deal with what to
+do goes in the directives folder.
+Anything that deals with decisions goes
+and follows this framework right here.
+And then everything to do with doing the
+work, so the execution, is this folder
+right here. And we're also making a .env
+file where we store API tokens,
+passwords, and so on, okay? And then we
+have other principles as well. I can
+save it first of all, so
+it doesn't run. And I can say, "Can you
+initialize this project based on the
+cloud.md file?" cloud.md
+I'm going to press go. I'm going to make
+this bypass permissions. It's reading
+cloud.md. Now it's looking at all the
+different things that are inside. And as
+you can see, it's starting to make the
+folders. It's making the folders which
+are .env, executions, directives, .tmp,
+which is what we call the cloud code
+directory. The cloud code directory is
+essentially where all the different
+files are stored. And the cloud code
+directory usually looks like this,
+right? It's with these lines. So we have
+cloud folder, which is this main folder.
+And inside the cloud code folder, we
+have cloud.md, we have .env, which is
+this one here. So add your API keys,
+OpenAI, Google API, passwords that
+you're going to use. Execution,
+we have directives,
+and we have .tmp, which is empty. So
+let's say I go to a new tab, and I can
+write this down. I can say, "Build me a
+landing page for Gym Solutions, an AI
+automation agency that helps businesses
+to automate their workflows using AI
+agents, which have a hero section, what
+we do, testimonial section, and footer."
+this
+plan mode, so it plans the landing page
+before it does anything. As you can see,
+it's looking at the cloud.md file. It
+didn't find any brand guidelines, which
+is fine. Now it's creating a plan. All
+right, it just made the plan. We have
+the context, the tech stack, which is
+essentially what we're going to use, the
+structure, and then we have decision
+design, hero section. I can just press
+yes auto accept. I can make this bypass
+permissions
+because that means that doesn't ask me
+to approve things all the time. And the
+whole point of showing you this landing
+page is so that you see how the
+different files of the landing page are
+stored in the different folders here.
+All right, it just made the landing
+page. I can open it up.
+As expected, it's pretty decent, to be
+honest. Very simple. And you can see
+here that it made another folder called
+front end, which has all the different
+components of the landing page, but it
+also made a MD file for the directives,
+which is what to do, right? Directive,
+build landing page, objective, tech
+stack, page structure, service section,
+testimonials, footer, file map, and so
+on, right? And so this is showing you
+that all the different things, like we
+saw here, of what to do, right? SOPs,
+the objectives, the inputs, scripts,
+outputs, edge cases, are all going to be
+stored under the directives. All right,
+so now you got to see exactly how we
+made the folders from scratch by adding
+the cloud.md file first. But there's
+also method two, which is using {slash}
+init. So let's say I have a workspace
+called YouTube, and YouTube has a lot of
+folders. It has context, it has
+executions, outputs, all that stuff. It
+has .env, which are all the different
+passwords and so on. But the one thing
+that is missing is the cloud.md file.
+And so in this case, we wouldn't use the
+three-layer architecture because the
+folders already made. We already have
+the folders, right? Which could have
+been done manually by me or someone
+else. And so in this case, to create the
+cloud.md file, all I have to do is go to
+{slash} init.
+And now what it's doing is that it's
+going to look at the whole organization.
+It's looking at all the different files
+that it has.
+And it says, "Now I have a good
+understanding of the workspace. Let me
+create the cloud.md file." So now what
+we've done is that we have the cloud.md
+file, which has the memory, it has the
+context of the whole workspace. So
+whenever we're making an automation,
+whenever we're making something else,
+when we start Claude from scratch like
+this, it basically has the
+understanding. And to show you another
+example, if let's say I go back to the
+one that I had before, let me delete the
+Claude.md. Let say you had these done
+manually. I would go here. I would save
+this, first of all.
+And as you can see here, the first thing
+it's telling me is to tell Claude code
+to remember what you've told it using
+Claude.md. Well, in this case, I can
+press {slash} init again.
+Bypass permissions. What it will do is
+that it will look at all the different
+from files that are here, which is to
+build a landing page. As you can see now
+it made the Claude.md file, which is the
+product overview, which is landing page
+for JM Solutions, an AI automation
+agency. It provides guidance to Claude
+code. So, the architecture, what we
+actually use to build things, the
+front-end structure, the commands, the
+design system, and the important notes,
+right? So, that's a snippet of memory
+that Claude code will now use whenever
+it makes something new. Now, the last
+thing I wanted to show you is a more
+advanced version of a Claude.md file.
+Because under my YouTube workspace, I
+have commands, I have skills, right? All
+these things which allow me to do much
+more with Claude code than you would
+just by having the default features. And
+so, in this case, we can see that the
+Claude.md file, same thing here,
+provides guidance. What this is is a
+Claude workspace template, a structured
+environment for working with Claude code
+as an agent assistant across sessions.
+Run {slash} prime at each start of the
+session to load essential context. So,
+if you're running from scratch, all you
+have to do is go here and put {slash}
+prime.
+And what this will do is that it will
+look at the whole structure, it will
+look at the Claude.md file, it will look
+at everything to have an understanding
+the context that it needs to be able to
+tell me who I am, the workspace
+structure, and everything that it needs
+to know about me specifically. We have
+the workspace structure, again, this is
+the Claude code directory. When you hear
+Claude code directory, that's all this
+means. So, we have Claude.md, we have
+shallowlize.md, we have .env here, we
+have ncp.json, which is this file right
+here, the Claude commands and skills.
+So, Claude commands and skills. Then we
+have references, execution outputs,
+references, execution output. Then we
+have commands, so it's telling me all
+the commands that I have. Then we have
+the YouTube content pipeline, which are
+all the different skills, the
+thumbnails, analytics and monitoring,
+skill system, additional skills,
+critical instructions, and notes at the
+end as well. And that's the exact Claude
+MD file that I use every single time,
+and the one that I always have sitting
+there as a way for Claude to understand
+who I am and to have context before I
+ask it anything. So that right there is
+a full overview of the Claude MD file.
+Now you know exactly what it is, how you
+can set it up in both different methods,
+and how a more complex version of the
+Claude MD file actually looks. Now if
+you want all the resources from this
+video, you can check them out in the
+second link down below in my free school
+community. You can go to the classroom
+section, and you can go to the templates
+vault. And if you want to work with me
+one-to-one to help you start and scale
+your own AI agency in 90 days, then
+check out the first link down below. It
+goes through a full video. If it sounds
+like a good fit, don't feel free to
+apply. And now that you understand the
+Claude MD file, check out this video on
+the screen where I show you everything
+that you have to know about using Claude
+skills. With that being said, I really
+hope you found value from this video,
+and I'll see you in the next one.

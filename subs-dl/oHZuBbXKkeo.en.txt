@@ -1,0 +1,1605 @@
+Last time I
+built a $10,000 AI agent
+on this channel, I
+showed you a
+signed
+$10,000 contract from
+one of the real
+implementations.  But
+today I want
+to see if
+we can combine
+Claude code with Grok Bot to
+create an AI agent
+that a
+business would realistically
+pay
+$10,000 to implement.  He will be able to
+take a list of
+companies,
+research them,
+decide which ones are
+worth contacting, and
+compose
+personalized
+drafts of an
+email
+and
+LinkedIn message for
+the salesperson to review.  And it won't
+send anything on its
+own.  Note
+that Claude code and Grok Bot are
+systems that do not
+work together
+naturally.  This
+means that I will build a
+foundation on Claude code, and
+then we will port it
+to Grok Bot, which is the
+agent platform
+that we will provide to the client
+as a result of our
+work.  So, with that in mind,
+before we
+start building,
+let me
+show you the
+result so we
+can work our way back
+.
+Okay, so here I have
+Claude, here I have
+Grok Bot, and here I have Google
+Sheet.  So we'll
+start with a database
+that looks like this,
+with the company name and the
+company website.  And
+then we have a whole
+list of
+filtering criteria.  So I'll
+go back to my
+bot, where I'll explain
+exactly what I did, how to
+set it up, and all that other stuff
+.  It's pretty
+simple.  Uh, I'll go
+here and click "
+test run".  This is
+actually an agent that I
+previously trained.
+But now he
+goes into my Google
+Sheet as if he were a
+real person and
+goes through the
+whole process
+of determining if the
+company we're
+looking at is a good
+match for our
+company, why,
+where he's getting the data from,
+and if it's a good match,
+he also drafts an
+and a message for
+LinkedIn.  That's it, it
+also switches
+tabs.  It's like he's
+running his own
+computer so he
+can
+research
+the company on his own when he
+needs to, and then
+understand the company and
+its scale.  We have a
+whole list of
+criteria for this,
+and again, I'm
+not touching anything.  Uh,
+until he can
+give us a report on what kind of
+company this is
+and whether it's a good fit for
+us.  So, the first
+company has already
+been worked out.  Greg's, which
+is the first company, is
+rejected.  Okay,
+so he just
+finished working with
+all the companies.
+If I zoom in here, and
+this is the agent's screen, and
+this is my screen that
+just updated.  He
+rejected two and
+accepted one.  And for
+the one he
+accepted, he also
+created a draft
+letter and a draft
+message for
+LinkedIn, right?  Which is
+truly
+personalized based on the
+research he conducted.  So
+, having said that,
+let's move
+directly to
+structuring
+the system.  For this
+agent example, I
+wanted to use a
+system that a
+$10,000 for, all with the
+goal of
+making or
+saving them more
+money.  In this
+case, it's about
+generating leads and
+qualifying them so that
+you can then
+close deals, right?
+So, the process
+will work like this: we'll
+start with a list of
+companies.  It can be
+obtained through Apollo or
+any other
+similar service.  But
+in this case,
+let's assume that we
+already have companies.  What
+we'll do next is
+research.  There will be an
+agent research phase in GrokBot, which
+will allow us
+to go to websites,
+LinkedIn, and various places
+to research the
+company.  He
+will then decide whether
+it is a good fit for us,
+based on the information
+we created in Cloud
+Code.  So wait for
+it.  He will write
+drafts if they are
+approved, meaning if
+the company is a good
+fit for him, he
+will create a draft of the
+letter and a draft for
+LinkedIn.  And then the person
+approves and sends the
+message.
+We now have a human approval stage
+, as this is
+usually necessary
+to maintain the
+human factor and
+make sure everything is
+good and up to
+standards, because one
+bad message
+can ruin
+a company's reputation.
+Therefore, we always want to
+have human
+control, the so-called "
+human in the loop".  Regarding the two
+software products
+: we have Cloud Code and GrokBot.
+How do they actually
+connect?  As I
+mentioned, they don't
+connect
+to each other directly.  We
+use Cloud Code
+to be able to
+generate rules.
+So, we write down
+the rules: who we are,
+what kind of company we have, what
+is a good option,
+what are the evaluation criteria,
+which we then add
+to a folder on the
+desktop and give
+access to GrokBot.  The reason
+we
+use
+Clockwork for this is because
+it's great at
+collecting data in one
+place and structuring
+it in a way that AI can
+understand.  So the
+GrokBot element in this
+will be an agent that
+allows us
+to do work
+based on criteria and
+rules created in
+Clockwork.  Honestly,
+GrokBot is definitely
+one of the best
+agents I've
+used.  Not because it's
+revolutionary,
+right?  And because it's
+so easy
+to set up, the threshold for
+entry is very low, and
+it's really powerful
+if done
+right.  So, with that in
+mind, the first thing
+we'll do is
+start creating
+rules in Clockwork.  So,
+for those who have never
+downloaded Clockwork,
+it's very, very simple.
+You need to go
+to code.visualstudio.com and
+download the
+macOS version.  Again,
+if you have Windows, it will
+suggest Windows.
+Once you
+download it, you
+will see this screen.
+The first thing to
+do is
+download Clockwork
+inside VS Code, which
+you can do by
+going to
+extensions and
+finding Claude Code.
+Make sure it's the
+version from Anthropic,
+as sometimes
+choosing a different one
+can cause
+problems like these.  And you
+need to click "
+enable".
+I will now update my version
+to use the
+better option.  You
+will see an "
+enable" button here.  Once
+enabled, you
+will see a
+small button here.  You
+need to click
+right here.  I'll press X
+and you need to
+go back to the folder.
+This is how you
+run Claude Code.
+It will ask you
+to log in with your
+account if
+you haven't already
+, which is also
+very simple.  Once you
+have done this, you need to
+create a folder.  I will
+create a folder on my
+desktop and
+name it "Grok plus Claude Code
+folder".  Click "
+create".  That's all.  X
+X Come back here.
+Claude Code I wish there
+was a better way to
+do this, but I
+have to do it
+all the time, at least
+once to get started.
+Enable again,
+trust the folder.  That's
+all.  Okay, now that
+we have that,
+we can start the whole
+process.  So, the first
+step to working with Claw Code
+is not actually the
+work itself.  This is
+the product so that
+all files end up
+in the right place.  So
+I'll insert a prompt here
+that explains what
+exactly we're building: an AI
+agent that takes
+a spreadsheet of companies
+(name and website),
+explores them, provides
+context about
+what we do, and how it
+splits into two
+tools—Claw Code and
+Grok Bot.  What I
+need from
+you now: create the three
+different folders you
+see just
+created: out, pack, and tests.
+Test is for our tests,
+out is for the results, and
+pack is for the folders we'll
+need to
+pass them to Grok Bot.
+Of course?  So it's all
+very, very simple.  And
+then you will create a
+file called clawd.md, which
+will contain a complete summary of this
+whole thing.
+If you've never
+delved into
+Claw Code before, don't worry:
+I'm not a
+techie, so don't
+think it's too
+complicated, it's actually
+very simple.  All
+we do is say,
+"Create the folders, and then
+we'll get started and
+set the rules."
+Hello everyone, just a quick
+moment.  With a real
+client, creating a
+workflow is
+just the first part.    The
+other part, perhaps
+the most important, is
+understanding whether
+the problem is valuable,
+what level of access the
+system has, and how much
+it is worth
+charging.  This is what I
+work on individually
+with my students:
+helping them
+define a proposition
+, target audience (
+ICP),
+customer acquisition strategy,
+sales process, and
+essentially build a
+full-fledged AI agency
+from scratch, even if you
+work 9 to 5. So
+if this is about you,
+follow the first
+link below.  There
+is a video that
+explains in detail
+how to do this.  But with that in
+mind,
+let's get back to the video.
+Class.  So, I just
+finished creating
+three folders and a
+clawd.md file, which we'll
+use to
+summarize the whole
+process, right?  I won't
+read everything,
+but basically this
+summarizes that we
+need to create
+folders and stuff for
+our company, right?
+That is, who are we
+targeting, what to
+research, how to
+research it, what to
+filter, how to
+write a draft of a
+letter on LinkedIn, and
+then pass it on to the
+Grok bot, right?  I'll
+start a new
+conversation and provide
+context on what
+we're doing.
+So, this is the next
+request.  Now we
+ask him
+to create a file
+based on the
+research notes below.  These are my
+drafts from a conversation with a
+client.  They are
+intentionally
+disorganized,
+turn them into a
+clear brief.
+Right?  So
+now we're
+using the
+example of a company
+called Northgate IT, it's a
+managed IT services provider,
+about 40
+employees, it's
+been around for 100 years.
+What do we sell, who do we
+sell to, what is important to us
+, who do we not
+sell to, who do we
+communicate with, evidence
+that can be
+used,
+what not to
+say, tone and
+notes, right?  This is very, very
+important, because
+when you create a
+system like this where you
+filter and
+research companies
+and then say, "Hey, is
+this a good fit or not?"
+You need to
+have rules in place beforehand, you know, the
+basics of who we are,
+who we sell to, and all that stuff
+, right?  And we
+tell it to create a
+file in Pack, which it
+will do in a moment,
+since this is the first
+file we will add
+to GrokBot.  Perfectly.  So,
+he just created
+the file 01 clientbrief.md.  This is
+again a brief
+that will tell the agent at
+GrokBot what we do,
+who we sell to, and all that
+.  The next
+part is creating a
+document that tells
+Clockwork exactly what
+to investigate.  So we
+call the document 02
+research schema.  It
+tells the agent exactly what they
+know about each
+company.  List
+each field that
+must be
+filled in.  For
+each field, provide
+a name, how to find it,
+what is considered an
+acceptable source,
+and what to write if
+the information
+cannot be found.
+At a minimum, the
+following fields should be included:
+number of staff,
+sector, number of
+offices, whether there is
+internal IT
+management, in general,
+everything we consider
+important.  Keep in
+mind: if you are
+creating such a
+system for companies,
+first
+conduct an introductory
+call during
+which you ask all these
+questions.  And
+then you
+transcribe
+the conversation, take
+the client's words, feed them into
+artificial intelligence, and
+ask: "Hey,
+can you
+create a brief
+for the client based on this?"  Can
+you create a
+research outline document?  Which we
+can use
+and pass on to the agent to
+configure the system
+."  So, it all comes down
+to input.
+Okay, the
+research plan is ready.
+Once again, this is a comprehensive
+list of criteria
+for what exactly
+needs to be investigated.    The
+next step is
+to provide the AI ​​with this prompt
+so that it knows exactly how
+to evaluate the company.
+Part one:
+strict restrictions,
+i.e. instant
+rejection.  Part
+two: evaluation.
+Part three:
+threshold values.
+One hard
+limit, and then
+adjusting the scores
+so that two of them
+are so
+weighted that losing
+either one
+automatically lowers the
+score below the
+acceptance level.  So,
+actually, all
+the mathematics of how
+the assessment works, is
+it clear?  Again
+, we won't go into
+detail about
+all of these prompts step
+by step, but you
+can access them
+below in the community, in the
+template repository in the
+learning section.  I
+will provide access to
+everything so you can
+use it
+yourself.  This is just an
+example of a test
+company, you know?
+You should
+apply this to
+the company you
+work with.  Now that the
+evaluation rules are
+ready, let's move on to the
+next step:
+writing a letter and a
+message on LinkedIn with
+instructions
+on how to
+do it.  I will open a
+new chat.  I'm only doing this
+because I don't want
+him to
+too many context
+tokens here in this
+chat.  I know the chat is
+very short, but
+I find it more convenient
+to do it this way.  I'll paste
+it here.  He is currently
+creating a
+writing guide that
+spells out rules
+for LinkedIn,
+personalization,
+forbidden phrases,
+what not to say,
+and rules for
+making up.  It is all of
+these things that allow AI to
+give us a high-quality
+result and a document
+that we can then
+pass on to the agent.  And
+the agent will then
+use this to
+create a
+message if
+the company is
+approved.  Okay, so
+he just finished
+also covers
+LinkedIn and
+email, which is great.  Class
+.  It is quite long.
+Class.  Now the next
+step is to actually
+verify that it
+all works.  So, I'm
+going to add
+a request here: "Create a file
+test_cases.md inside the
+tests folder."  That's why
+we have a tests folder.  And
+test three
+different companies: Cauldron,
+10 Box Coffee, and Halverson Partners.
+We do this to
+test everything
+before
+handing over the final
+files, fully
+optimized, to
+our agent who
+will deploy this and
+actually
+use it on
+schedule once we
+set up Google
+Sheets.  Okay, so
+I just finished
+testing the
+agent itself.  We have
+test_use_cases.md where Clock Code
+tests three different
+companies.  One for
+acceptance, one for
+rejection, and one
+for review.  So,
+everything went well.
+Everything is fine.  You can
+see all the
+evaluation criteria here.
+This is a long document, I wo
+n't read it.
+But essentially, it's
+just telling you, "Hey,
+that's good. That's accurate. That's
+inaccurate."  Isn't that right?  Which
+again, in this
+case, is accurate.
+So, with that in mind,
+we're done with Clock Code.
+Okay, now that we've
+finished laying the
+groundwork
+with Clock Code, we're
+getting to the
+fun part
+—using Grokbot.
+So, you need to
+go to x.ai/bot.  And
+again, this
+agent will do
+the work on its own,
+because now we will
+upload all the
+files to the agent and
+watch
+it work in
+real time.  So,
+you can go to
+x.ai/bot and click "
+download for macOS".
+If you are using a
+different computer,
+it will offer you the
+appropriate option.
+Regarding the price, just so you
+know in advance: you
+also get a
+free
+trial that you can
+start today
+by watching my
+video.  I'm using
+Super Grok here
+because it provides a very
+limited amount of
+use.  So the
+$30/
+month plan is recommended, with
+team and API plans available
+if you
+need them.  But
+remember that there
+may be a
+trial now, but in 6
+months it will no longer be there
+, because the software is
+constantly changing prices.
+Especially when they are
+just entering the
+market and are new.  So
+, you need to
+click "
+download" for macOS,
+and you'll be taken to a
+page that
+looks like this.
+The interface here is very,
+very, very simple,
+which is why I
+like it so much.
+On the left you can
+see all your
+agents, your bots.
+And on the right you see
+what exactly the bot does and
+what actions it performs.
+Next we have a
+create procedure button.
+In general, Grok Bot works
+like this: you give it
+a task, like,
+"Hey, do this, this, and this
+step by step."  Then
+the procedure is to
+train the bot
+to perform a task,
+after which you can
+run it from time to
+time.  This is what we
+usually call
+browser automation or
+agent browser
+automation, where
+it has its own
+computer, its own
+browser, and it acts on
+your behalf on a
+schedule if you
+train it properly, right?  So
+any recurring
+task you
+need to complete, you
+can assign it
+here.  So, the first thing
+you need to do
+is go to the
+plus icon,
+create a new bot,
+and then click "
+create new bot
+" here.  Go to
+the title.  I'll call this
+bot "
+account research."  And I'll
+insert a description here.
+Now make sure
+the description is as
+specific as possible because
+this will affect the
+agent's capabilities.
+So, it researches
+target companies against a
+fixed set of
+rules, decides if
+they are a good fit, and
+prepares preliminary
+drafts for
+human approval by
+reading the rules from
+workspace.pack without submitting anything
+itself.  OK.
+Inside this Google
+Sheet.  Now I'm going to
+click on the link
+here.  So, we
+need to create a
+Google Sheet, which I have already
+prepared.  We will
+use it.  And the
+ruleset is all the
+files that we
+created in the Grok Bot code,
+and which we will add here.
+That's all.  So, you
+created an agent.
+Again, the agent
+is made very
+simple and clear.
+Here's the Google Sheet
+we'll be
+using, which has the
+company name,
+website, verdict,
+reason,
+source URL, email draft,
+and LinkedIn draft.
+I'll do something interesting.
+You can usually
+give Grok Bot access to
+your Google account
+to work with the spreadsheet
+.  I'd rather not
+do that.  I'd rather just
+give
+editing access to anyone with the
+link.
+So, he can
+use his
+own browser.  He
+doesn't need to log in
+.  It's
+even easier for him.  Uh,
+and then he'll just
+edit what's
+needed, right?  Without
+having to log in
+through my
+account.  So, I'll go
+here and say, uh, Google
+Sheet.  I'll paste
+the link here.  And that's all
+.  I think we're
+ready to go.  Uh,
+research agent.
+Okay, he asks if
+we want to run
+subagents.  I'll click
+"reject."  We don't
+need to run
+subagents for this
+task, because
+one
+agent is enough.  But keep in
+mind that you can have
+one main
+agent and then
+subagents that
+will work as
+part of the agent, which is
+extremely powerful
+for Grokbot, but personally
+we don't need it right now
+.  Okay,
+now it's time to give him
+all the files.  So, I'll
+move on to
+attaching files.
+I'm going to go into this folder here
+and just select them
+all.  Now he will have
+access to all the files
+, and I will insert this.  Uh,
+this will save these five
+files to workspace/pack, which
+is essentially a
+memory dump for Grokbot to
+understand the rules.  Um
+, these are your working
+rules for all
+account research.
+They overshadow
+everything you might
+otherwise assume.  I'll
+click "execute."  This is
+very important because it
+works even when
+you are not at your MacBook.  You
+don't want the agent to
+depend on your
+current conversation.  You
+want it to have a
+background memory that it
+always remembers and
+uses as
+rules when
+performing tasks.
+Saving to workspace/pack.
+Four files
+were received in this
+message.  I'll name
+them by title and
+look for the fifth one.  Well, that's
+true.  Why are there five
+files?  There should have been
+four.  We'll
+have to tell
+him there are four of them.
+So, I said there were
+only four files.
+My mistake.  Never
+mind the fifth.    The
+to make sure that it
+understands all the files and
+can read them
+back to us.  Uh, this is a
+step we always
+do with agents.
+Okay, I see one
+problem here, because he tells
+me he's doing
+research.  I think
+it's because he
+must have read one
+of the files where
+three companies were mentioned
+.  So now
+he is doing
+research on companies
+.  This is not a big
+problem.  On the
+contrary, it's good because it
+allows him
+to test.  But I'll
+insert
+an instruction here that it
+needs to read
+every file from the
+working list, which are
+these four files.  It
+summarizes for me the
+strict criteria, the score
+required for
+acceptance, the evidence for
+it, and what is
+prohibited from being sent
+.  So, I press "
+start", and now the
+process of
+analyzing them should begin.  It's like
+asking him, "Hey,
+give me the full
+context of everything I
+gave you to
+make sure you
+really understand the
+information you're getting,
+and then we'll start
+working on the task
+."  Always do this with
+any agent you're
+working with, whether it's
+GrokBot, or, I don't know,
+anti-gravity
+agents, Clockwork agents,
+whatever—this step
+should always be there.
+Perfectly.  So now
+he gives us
+concrete answers.
+Strict criteria for
+priority: first one
+that works—
+reject, zero score,
+no drafts;  it
+only works on
+positive evidence,
+research records,
+lack of evidence
+—and rejects.  G1, G2, G3, G5,
+G6, G7, is that clear?  These are all
+just
+evaluation criteria.  Next are the
+general criteria
+for whether
+to accept,
+forward, or
+reject.  Perfectly.
+So, if the verdict is "
+reject" or "under
+consideration," it doesn't
+generate a
+LinkedIn message or
+email.
+When "accepted," then
+he prepares everything.  So these
+two columns will not be
+filled in if the
+verdict is "rejected."
+Okay, great.  Now I'll
+add this.  So, the
+absolute limit now
+and for all future
+tasks is: keep
+drafts, never
+send on
+schedule,
+queue nothing,
+no LinkedIn requests
+or emails,
+post nothing,
+delete nothing, and make no
+purchases.  If you
+get to the
+login page or
+two-factor
+authentication,
+stop and
+show me the screen.
+If any
+step requires
+one of these actions,
+ask me.
+Perfectly.  So now we're
+setting
+constraints on the agent:
+"Hey, when
+this happens, do this."
+And he understands.  The only thing
+about AI is that it
+can go beyond the limits
+.  Therefore, the stricter
+you define what
+he needs to do
+and what he doesn't, the better the
+result will be.
+OK.  So now
+he has all the context
+about the files, what it is
+, what needs to
+be done, uh, the limits, and
+he summarized everything
+for us.  This is the part
+where we test the agent
+.  So, in this
+Google spreadsheet, I'm going to add
+this company.  And
+the verdict, according to
+my research
+here, should be "
+reject".  So,
+right now he's
+doing his own
+based on what he should have
+done before, and that's
+fine, to be honest
+.  Again,
+this just helps us
+understand if
+he's doing everything right.
+But I also want to
+see him
+add actual
+details to the Google spreadsheet itself
+.  So now during
+testing he
+did his own
+research with them again, uh
+, but I'm going to
+ask him to
+do some research
+on this company.
+So, I'll go and say, "
+Hey, access the
+table here and
+test the first
+company."  "Fill in
+the columns in the table as soon as
+you receive
+the results of the
+study."  So what
+we're doing now is
+essentially
+teaching him
+how to do the
+task itself, the task, and
+then we're going to
+create a routine.  You
+never want
+to create any kind of
+routine unless the agent
+understands the task and
+follows it step
+by step, right?
+Because then he doesn't know, and
+he deviates a little bit
+from
+what maybe the
+files say, which
+can sometimes be a little
+inaccurate, right?  So,
+we want to
+understand the whole process,
+test it, and
+then you can
+implement it.
+Opening the spreadsheet
+now, I'll take the
+company's first user study
+that we have and
+fill in this row.
+Only drafts,
+nothing is
+sent.  So
+now you see the screen that
+he opened here
+.  And if you just
+understand that it's just
+one agent, you can
+have 20 agents
+each working on
+their own separate
+screen, so if
+you have a lot of
+repetitive tasks
+, you can always
+train Grokbot and it
+will always be
+doing the tasks as well.
+And you saw how easy it is
+to set everything up here,
+so.  Okay, he says the
+first line is
+Caldera and Co.  Caldera,
+he's starting
+the research now and will then
+fill in the table, which is
+perfect.  So,
+it usually
+only shows us the table when it's
+editing it, not when it's
+reading it, which is interesting.
+Okay, so he just
+finished adding
+all the details.  If I
+go to Google
+Sheets here, we'll see
+that the verdict, the
+reason, and the
+source link have been added.  So,
+rejected, uh,
+verdict "rejected",
+website, and then the whole
+reason for it.
+So G1, DQ1, less than 50
+employees, 23. That's the
+reason it
+said "rejected,"
+which is great, according to
+our filter.  And a
+reference to a source will
+always be the
+source of the information
+he receives.
+Interestingly, he
+used a
+financial report.  Because
+to get here,
+you have to go through "
+company sales", which is a
+website, then find
+the name and get the
+financial report.  So,
+really, really,
+really good from a
+research perspective.  I am
+very surprised.  And this is
+just for the first
+company, so it's
+great.  Okay, that's
+cool.  I think we're
+ready to work here.  Uh,
+I'm going to add
+something else.  I'll give him
+a company that I
+know for sure
+will be accepted because I
+want to see the whole
+email and LinkedIn drafts
+once we establish a
+routine.  Now I'm
+going to go over to Google
+Sheets here.  I'm going to
+add this.  And I'll say, "
+Okay, thanks for working
+on the first company.
+Can you now
+do the same thing, or the
+entire process, for the
+second company that we
+have in our
+Google Sheets database?"  That's it.
+We could just
+create a routine, that would be
+fine, but I
+know that in
+the long
+run, if you
+want to make it
+scalable and
+avoid bugs, you
+have to go through
+all the different
+use cases and
+edge cases so that
+he understands everything.  That's
+it.  So, the second
+line is Box Solicitors with a
+website.  As you can see,
+it's here.  And another thing
+I found in Rock bot
+that I think is
+really interesting is "
+teach a task."  You
+can either tell
+him, "Hey, do this,
+this, and this in Google Sheets
+."  "Or you can
+actually take
+control of his screen
+to teach him a task
+."  So he clicks
+here, clicks here,
+clicks there, if
+it's very specific.
+Again, with
+research you
+don't have "click here,
+click here, click
+there," right?  It's
+more like, "Go ahead, search the
+internet for everything
+you can find."
+For example, if you're
+moving accounts
+from one place to another
+and it only takes
+five or ten
+clicks, whatever that
+is.  If there is a certain
+process that
+repeats itself every time,
+you can train the
+agent and create an
+algorithm, and then it will
+know what to
+do.  So that's also
+very, very, very good
+.  I highly
+recommend this for
+tasks that don't
+require
+decision-making, but are purely a
+step-by-step process.
+Okay, interesting.  So
+while he's doing that,
+while he's actually
+exploring the website,
+one of the problems that
+he's found is that
+when he
+goes to the site, he
+can't go any further, he
+just sees a
+403 forbidden error, which is interesting.
+So this can
+happen with some
+websites.  Again
+, this is not an uncommon
+occurrence.  He will mark
+it as "for review"
+simply because he was
+unable to view
+the site.  And it's even better
+because now he
+even understands what to
+do when
+something like this happens and
+sends it for
+verification.  So, I
+mean, the only
+edge cases are
+rejection,
+check and pass,
+or acceptance.  So we'll
+also add another
+use case
+for acceptance.  Just
+to make sure that
+literally everything is here.
+Okay, perfect.  I
+just ran this
+through different companies
+because I wanted to get
+different edge
+cases and get the
+results:
+check,
+reject, and
+accept.  So we
+have all these different things, and
+I recommend doing
+that because when you
+deploy this as a
+routine that you
+plan in advance
+(which we'll do in a
+second), you want the
+agent to have already
+handled the different
+cases.  You want it to have
+been
+through all possible
+types of situations, so I
+wanted to test
+different options.  We
+have an email as well
+as a
+LinkedIn message.  We
+can always change their
+formatting, but
+overall, we have a
+ready-made letter, which is
+good.  And it is very
+personalized.  And
+this will, of course,
+work for all
+different leads.  So,
+now the seller
+will be able to find out
+by filtering
+today's
+results that this
+particular
+message is "
+accepted."  And you
+can also insert, you
+can do that
+quite easily.  Filter.
+Filter it for me.
+You can select "
+accepted".  That's all.
+So it only shows what is
+accepted, and that's what the
+seller
+sees in their
+database.  So, now that
+we're done with the
+agent and know that
+it actually works, the
+next step
+is to
+deploy it and
+ensure that
+we don't have to
+go into a dialog every time
+to work
+with it, and that it can
+perform tasks
+automatically on a
+trigger, right?  So,
+we can go
+here.  All you
+need to do is
+click "create
+procedure".  So,
+procedures are
+ongoing tasks that
+this bot performs on a
+schedule.  And in this
+procedure, we can
+call it “daily
+account research
+”.  And we can also
+paste this prompt
+right here, these are the
+instructions.  This is
+extremely important,
+just like the
+agent's description, it is also
+important because it
+gives him an understanding
+of what he is supposed to
+do.  So we say:
+open this Google
+Doc for every
+row where the "
+verdict" column is empty,
+process at most
+10 of them for each of
+those rows on the
+account research scale,
+using
+the rules from the
+workspace packages.  These are
+files that it already has
+in memory.  And then we
+give him different
+tasks that he
+can do,
+like, for
+errors: if
+this and that happens, or
+if there's an error,
+you can let
+me know, never
+change anything in the
+workspace, just
+write it down in the Google
+Sheet, and just
+go through the whole
+process, okay?  Once that is
+done, we can
+add a trigger.  So, a
+trigger is something that
+starts
+automation,
+starts a process.  In
+this case, you
+can launch
+it via a
+message in Slack.  You
+can make a
+GitHub event.  In this case,
+we'll just do it
+on a schedule and you
+can choose when
+it runs.
+So, theoretically, what
+should happen is that
+you will have a Google
+Sheet.  Let's say
+we add even
+more companies here, and even
+more every day, whenever
+you want.  So, in
+can set it
+to 00:00 every day.  It will
+look through the Google
+Sheet, find places
+where the
+verdict column is empty, and
+start processing them,
+10 at a time, right?  So
+you don't have to
+do it yourself.
+So, you'll just
+wake up and
+have a list of
+people who have
+qualified, as well as
+drafts of emails and
+messages for LinkedIn.
+Then you can also
+create another
+automation that
+can send
+emails once
+you
+review that data.
+All we
+can do now is
+create a procedure,
+activate", and now
+every day at 12:00 midnight
+the system will
+start.  Keep in
+mind that you
+can also run a
+test run.  I'm
+just not going to
+do that because each one
+takes a few
+minutes, and you've already
+seen the whole process.
+But if you click
+"test run,"
+it will only test
+these 10, the first 10 that
+are here, to
+can actually
+pass them, right?  Keep
+in mind that you have a
+usage limit,
+i.e. a weekly limit.
+This is normal.  It is not
+very tall, but not
+too short either.  It's
+somewhere in the middle, but it
+all depends on
+how often you
+use it and
+for what.  For example, in
+this study,
+it was very
+broad and deep, and
+a little time was spent on each company
+, which is good and
+quite acceptable.
+So this may
+require a little
+more credits than
+something
+simpler.  So, in
+will have different
+procedures.  If you
+want the same
+agent to do
+different things
+automatically, you
+can schedule
+it.  You can also
+have different
+agents here.  Yes?  You have
+one main agent
+and you can simply
+create different
+agents.  And you tell
+him, “Hey, you’re the
+lead agent.  You are
+responsible for all
+subordinate
+agents."  The main thing is
+to formulate
+the request correctly.  So, this is what
+the assembly looks like.  Keep in
+mind: When it
+comes to selling to
+customers, a business is
+paying for an out-of-the-box
+system that
+adapts to
+their current
+sales process.  My
+implementation would include
+customer studies,
+qualification rules
+, research and a
+rating system, as well
+as recommendations
+for messaging,
+tool setup,
+testing,
+staff training,
+documentation, and a
+support period.  To
+evaluate a system, I would
+customer metrics
+to determine whether it is a
+$10,000 AI agent or not.  Because not
+everyone can
+invest that much.
+Some may make more,
+some less, depending
+on the questions you
+ask about
+how much time they
+spend on
+research, how many
+accounts they manage,
+how much each
+lead is worth to the business, and what
+happens after the
+qualified
+call.  After that,
+I would most likely
+evaluate
+account research.  I would
+measure accepted
+or rejected
+options, approved
+leads, errors, and
+number of quality
+conversations so that we are
+value-based, and you can also
+use a
+pay-for-
+performance model if
+you are working with a business and are
+just starting out.
+Now that the agent
+is built, the next
+challenge is to sell
+it without mentioning
+cloud code, Grokbot, or
+AI in general, so you
+can watch
+the following screencast video
+where I show
+how to turn such a
+system into a
+proposition that
+businesses
+will actually pay for and
+understand.  So, I really
+hope you
+enjoyed
+this video, and as
+always, I'll see you in the
+next one.

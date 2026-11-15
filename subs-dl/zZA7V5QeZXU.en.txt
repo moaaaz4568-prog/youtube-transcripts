@@ -1,0 +1,1016 @@
+Hey, I'm Cordelia Kate and today I'm
+going to show you the exact prompting
+workflow that I use inside Claude to
+write copy that actually sounds like me.
+It sounds like I wrote it. It sounds the
+kind of thing I'd say and it actually
+converts and gets me clients. And I'm
+going to show you how to do that in a
+really simple way that's going to
+hopefully prevent you wanting to chuck
+your laptop out the window next time
+you're trying to get that sales
+promotion done. Because look, the thing
+is with AI is it's amazing, but what we
+want to do is use it to elevate our
+brand, elevate our voice, elevate our
+humanness instead of do what everybody
+seems to be doing by accident right now
+and use it to steamroll the personality
+out of their brand. We don't want to do
+that. So, I'm going to show you how to
+do this the right way round that gets
+your AI sounding like you. Specifically,
+we're going to do this on a promotional
+piece of content, one that is designed
+to get sales calls, to get people booked
+in with you to discuss working with you.
+If you've been using Claude and it keeps
+coming back dry, it keeps coming back
+bland, if you've been struggling to get
+it to really sound like you, to sound
+like the kind of thing that you would
+say. I mean, Claude is so much better at
+this than Chat GPT and Gemini and I'm
+definitely better than Llama, but it's
+still tricky to get it to sound like
+you, right? Everybody's able to create
+content easier than ever before, which
+means the competition right now is so
+high. It's never been this high. Anyone
+can do it, right? And so, my point is is
+that we want to be doubling down now on
+the stuff that only you can do. And
+guess what that is? This is sounds so
+corny. That is being you. So, we need to
+double down on the the thing that makes
+you human and and really use that to
+represent our business and our brand
+online. It's time to personify the
+business. That's the underbelly of
+everything I teach here on this channel.
+And all of the the AI infrastructure is
+developed on how can we make this more
+you, more human, and shaped around the
+thing that is going to enable you to
+attract the kind of people into your
+world that know you, love you, want to
+work with you because you're being you.
+I don't know if you have experienced
+this. Most AI agents want to rush to get
+the job done. They go to step four
+before they've clarified step one. And
+so what I'm going to teach you today is
+going to just basically be to get AI to
+just slow down a minute. Slow down and
+let's get the infrastructure right
+before we pat it out and then add the
+style to it. We're on incognito mode
+with Claude. And if you don't know how
+to access that, by the way, it's the
+little ghosty man up here. Let me just
+show you something. Do you know anything
+about me? Let's just check. Because the
+reason why I'm in here is I want to have
+a bit of a blank slate without creating
+a new account. There we go. It doesn't
+know anything about me. So, this is good
+because what I don't want to do is show
+you how to do something on Claude that's
+been trained and has loads of context
+about how I want it to write, what my
+voice is, and all the rest of it. We've
+got a blank page there, and we're not
+starting from scratch. That is good.
+Right. So, this is what most people do
+when they come to put a prompt in for
+something in terms of creating a promo
+piece of copy. And then, nothing
+massively wrong with it, but they put
+something in like this, which is like,
+"Hey, Claude, write me a 5-day email
+sequence for my upcoming launch of my
+new program called Live Pod with you.
+It's a six-week program where I install
+my live show system and help
+service-based business owners launch
+their own live show. Make it sound warm
+and conversational like me with my brand
+voice and include subject lines, preview
+text, hooks, body copy, CTAs, and a PS
+line on each one. Email one should be
+the announcement. Email two should build
+curiosity. Email three should handle
+objections. Email four should be a case
+study. And email five should be the
+deadline push. What's wrong with this?
+We're trying to get it to do too much in
+one go. What it's likely to do when I
+press enter on this is it's probably
+going to push back a little bit. Maybe
+it's got access to my preferences on
+here and I ask it to challenge me on
+everything and so it's probably going to
+challenge me rather than make stuff up.
+Now, if yours doesn't do this, what's
+likely to happen is it's gonna just
+suddenly start generating a document.
+This you ask it to do something and
+before you've even clarified what the
+substance of it should be. It's
+generating a document and that's really
+annoying because it takes ages for it to
+generate a document because it has to
+create it in HTML code first and then
+convert it and then display it and then
+like 5 minutes later you're like, "Okay,
+that's great. We've got a really pretty
+polished clawed document." But actually,
+that's not quite what I wanted. And now
+any surgical edits of that document are
+are timely because it's not only editing
+the words, but it's editing the document
+and the code behind the document and all
+the rest of it, which is really
+annoying. I don't know why it does that.
+So, we want to get it to break
+everything down into stages. And I'm
+hoping that maybe you're experiencing
+that yourself, not because I want you to
+have a time with AI, but because I
+want you to relate to this in the sense
+you're like, "Yeah, I know. I'm always
+asking her to do stuff and the output
+I'm getting is like mediocre at best.
+The stages we're going to break it down
+into is structure, substance, and then
+style. And then packaging can be later.
+And what I mean by packaging, it means
+the end result. Is it in a document? Is
+it in a code box? Has it been emailed to
+someone? Like what is that packaging?
+Now when I say structure, we want to
+think about instead of getting don't get
+it to write anything until it has a
+structure until it has a framework to
+apply the writing to because otherwise
+what it's going to do is going to write
+without a framework and then you're not
+going to get anything that's that great.
+Now, we have traditional marketing
+frameworks, but I the one that I come
+back to time and time again is is really
+simple and it's thinking about and this
+is where you just have to do a bit of
+thinking before you come to AI. And you
+can do this brainstorming with AI. Let's
+open up a new incognito chat and start
+this fresh. And this is how I would do
+it. Like I I want you to help me define
+the structure of a 5-day email campaign
+that we are going to write that aims to
+get people booking calls to discuss
+working with me on my new program live
+pod with you. And then let's come back
+and tell it what we mean by these
+things. So do not jump ahead and write
+anything yet. We are going to do this in
+stages. Stage one is structure. Stage
+two is substance. Stage three is style.
+So what do we mean by structure? So
+structure is problem, bridge, solution,
+call to action. So this program, what
+problem does it solve? How do we bridge
+the problem to the program? The solution
+is the program that poses to solve this
+problem. Solution, the program that
+poses to solve this problem. So the
+bridge is a smooth link that connects
+problem to solution just so that you
+know there's like a smooth transition.
+It's very subtle that bridge, but we can
+I'll show you when we I'll show you what
+the bridge looks like when we've got a
+piece of copy that we can work on. and
+the call to action, how someone applies.
+Stage two is substance, which is the
+copy minus the brand voice, Ron Seal
+style. So, it does what it says on the
+tin, right? It's just clear. It's not
+been styled and made perfect. It's just
+clear. Style is brand voice. Make it
+sound like me. And then, you know, stage
+four, let's say you were going to put
+this into a PDF or you were going to you
+wanted it in a table. At stage four, we
+can add in the stage four is packaging.
+We'll figure this out later. And then we
+can say to it, so the first thing, help
+me clarify what the pain solution. Oh,
+sorry. Hang on. Let me change that to
+problem. So, help me clarify what the
+problem solution is. The problem
+solution, you want to think about who is
+your ideal client. Now, when you think
+about who your ideal client is, think
+about them as one person. You're not
+thinking about them as a group of people
+or mums between the ages of 45 and 55.
+Man, the spectrum of different people
+and the different things that keeping
+them up at night and all the things in
+between between in that whole
+demographic is huge. We want to think
+about one person. The reason why we want
+to think about one person is so that
+mentally, psychologically,
+subconsciously we know that we can't
+generalize and we can't put people into
+boxes. But for marketing, we want to put
+someone in a box. It helps us to get
+specific. So, we want to think about one
+person so we can get really specific
+about what they're going through right
+now. That specificity is going to allow
+us to tap into emotion. And emotion is
+the thing that moves people in business
+in in to make decisions and that we want
+to be using in marketing to enable
+people to make decisions through emotion
+rather than trying to show them how to
+make them with logic. We don't sell our
+program because it logically solves the
+problem. We sell our program because it
+emotionally solves the problem and we've
+got to figure out what that emotion is.
+So the easiest way to do that is to have
+an ideal client profile and that ideal
+client profile is one singular person.
+So that consciously you feel able to get
+really specific. Whereas if you were
+talking to a group of people you would
+generalize and then you would feel bad
+about generalizing. You're like I can't
+stereotype these people there. But for
+this exercise we need to put people in a
+box so that we can get specific. And
+it's just an exercise that's all. like
+it's there's nothing personal. Think
+about someone you worked with before
+that you loved rather than an old
+version of you. That's the best way to
+do it. If you if you're new to this, an
+old version of you is fine or someone
+you'd love to work with, but you need to
+be able to know them really well. So,
+who they are? And then just before and
+after, like where are they before
+working with you and where are they
+after? And when I say after, I'm talking
+about the version of after. If they take
+all your advice, they implement
+everything you tell them to do and they
+are they're like an agreeable person.
+Yeah. Not someone that you had to force
+to water that doesn't do anything then
+sits and cries because they didn't do
+anything. And what about your textbook
+client that does the thing? So where are
+they before this? And then where are
+they after this? And so when you've
+clarified that then you have that as the
+problem and the solution, right? So the
+problem is that this is where they're at
+and it's how it's showing up. So for
+instance, live pod with you. I teach
+people how to implement my live show
+system into their business. So the
+problem is as an example. Yeah. So they
+want a personal brand and a growing
+audience, but they are busy with clients
+doing the doing and don't have time to
+make loads of video content that they
+know they need in order to grow their
+personal brand. Where are they after
+this? They have a system for running a
+live show that grows audience and
+personal brand whereby they just have to
+pick a topic and turn up once a week.
+And the system creates all the copy and
+makes management of running a live show
+easier than ever to keep up with. Okay.
+So, who's the ideal client? Business
+owners who want an online presence and
+have and want to build a personal brand.
+Actually, I'm going to go one foot close
+that like or business owners in the
+experts industry. Is it experts in
+industry? In the experts sector. There
+we go. It's like the information
+industry. So, who's the ideal client?
+Where are they before? Where are they
+after? By the way, your program is the
+gap between before and after. Obviously,
+this is like where are they before?
+Where are they after? What's in the
+middle between those two points is my
+program. I get them there with the
+program which contains the features. We
+don't need to include that. It's
+obvious. I'm just putting that there for
+you. So, then what are the features? How
+do we get there? And this is where we
+now think about the vehicle. How do we
+get them there? A lot of people go, I
+run a three-month coaching program where
+we have weekly calls to and on those
+calls, we have coaching sessions that
+help you with XY Z. The problem is I
+talk about the vehicle first. We want to
+talk about the place that we're going
+to, what's the destination, like where
+we are now, where are we going to, and
+then what the vehicle is to get us
+there. So, the features are it's 6
+weeks, one time 2hour calls per week.
+They get a system. They get a research
+machine. They also get a 90 minute
+onetoone call to conceptualize
+their show. Okay. Just call it that is
+the features for how I deliver them from
+here to there. Yeah. So now we've got
+just to go through this prompt just to
+just to show you from bird's eye view.
+We're telling it what we want it to do.
+And the only thing we're missing here is
+roll. Let's add that in at the top.
+You're a copywriter on my team and
+you've been assigned a task to write a
+promo campaign for our new group
+program. I want you to help me define
+we are going to write that aims to get
+people booking in calls to discuss
+with you. Bit repetitive now, but it
+doesn't matter. The only thing that just
+really clear, we've told it what we
+expect from it, what we want it to be,
+and we've told it what we want it to do
+and we also have made it clear what our
+outcome is for that as well, which is
+important. Guard rail. This is called a
+guardrail where you put a thing in to
+prevent it from doing something that you
+expect it might do or you come back
+later and you add a guardrail in because
+it did something you didn't want it to
+do. That's what guardrail means. The
+guardrail here is do not jump ahead and
+write anything yet. We are going to do
+this in stages. Stage one, structure.
+We've given it a structure to follow.
+Stage two, substance. We've told it what
+we mean by that. Stage three is style,
+which is adding the voice, etc. And
+stage four is packaging. We'll figure
+this out later. So, the first thing,
+help me clarify what the problem or
+solution is. So, we've put that in and
+then we've asked it to clarify that.
+It's going to come back and forth with
+some information that it's missing and
+things that it needs. Okay, good start.
+Before we lock in the structure, let me
+poke a few things. Because it's saying
+poke a few things, that's why I know
+it's because it's taken it from my poke
+holes in my reasoning be because I think
+the problem solution needs sharpening.
+It does. You're right. Before we can
+write a campaign that actually converts.
+What's working? The after state is clear
+and tangible. Pick a topic, turn up once
+a week. System handles the rest is a
+strong promise. That's the hook. What
+needs work? The problem is too surface
+level right now. They're busy and don't
+have time to make video content. is true
+with the same problem. So, so now I can
+kind of get into like my thoughts a
+little bit more and go back and forth
+and and really have like a good dig into
+this with Claude to get a good
+positioning. And you know, I'm not going
+to, by the way, just to let you know,
+Opus 4.7 is wordy as hell. Like, it is
+wordy. It writes essays to you. You
+could say to it, "Be more brief." That's
+very wordy. and it all just gonna cut
+down on on what it's saying because it
+really it really is very wordy. Okay, so
+things to sharpen before we move on. The
+problem is generic once a personal brand
+is vague and the CTA is unclear. Sure.
+Why do they really want a personal
+brand? What's the campaign actually
+selling? What is this? Okay, so I'm just
+going to pick an angle. And obviously
+like with your product and with your
+business, there are so many angles into
+so many things and you need to test
+them. You need to test different angles,
+different reasons, different emotional
+hooks into why someone wants your
+product. And there could be like seven
+roads into your product being a
+solution. And they definitely are with
+having a live show. You know, somebody
+might really want a personal brand
+because they're genuinely scared of
+everything becoming so easy with AI and
+they already know that having a personal
+brand is the best way to be human right
+now. But then somebody else might not
+know that and they're like, "Oh, no. I
+just I just need a way to to build an
+audience and I know video is the way,
+but I can't keep up with creating all of
+this video content. And then there's a
+completely different angle. There is the
+the content treadmill angle where
+somebody's just on the content treadmill
+all the time, like trying to think of
+the next bit of content they need to put
+out on social media and it's exhausting
+and the content they're putting out
+isn't even doing anything. And so they
+need a system for creating content that
+not only is keep upable but also
+converts, right? And so there are so
+many different angles and so many
+different ways we can go down. For the
+purpose of this, we've chosen the
+personal brand angle. So we're going to
+stick with that. So personal brand, why
+do they really want a personal brand?
+It's because I'm going to get specific
+and speak about one person now because
+my ideal client, let's call her Sophie,
+really wants to leave a legacy for her
+children. She wants her daughter, let's
+I've said children, so let's go
+daughters to grow up knowing she can be,
+do, or have what she whatever they want
+if they trust in themselves and go for
+it. She is scared of where the future is
+going for her children and so wants to
+carve out a path that shows them that
+they can create something for
+themselves. And finally, she wants them
+to be proud of her. That's really
+underneath what's driving her, right? So
+it's like when we get into stuff like
+that and we were like that's quite
+emotional and a lot of people that want
+to leave a legacy is kind of that there
+is some kind of thread that is along
+those lines. And the really good thing
+about this is we're getting into the
+emotional reason behind it. If we can
+start to understand the emotional reason
+underneath why someone will make a
+decision, we can connect with them on
+such a better level and we're going to
+get much better conversions. That's
+gold. That's the emotional spine of the
+whole campaign. Now, the problem isn't I
+need more content. It's I'm running out
+of time to build something my daughters
+will be proud of and the way I'm
+currently doing it isn't working. That
+reframes everything. The campaign isn't
+about content systems or personal
+brands. It's about legacy. And the
+mechanism happens to be a live show.
+Before I move on, two quick things to
+confirm. Campaign CTA. It shouldn't know
+about my full program, but fine.
+Incognito foiled. It's fake incognito
+mode. campaign CTA. So, let's say we're
+going to promote the full program in the
+copy and then the call to action will be
+to apply and then you have a live show
+call which is free to discuss whether
+this is the thing for you. The system
+produces topic research, promo
+materials, speaker notes, copy for live
+stream caption repurposing system locked
+in. Here's the structure for stage one.
+Okay, so problem. Sophie wants to build
+something her daughters will be proud
+of. She knows visibility and personal
+brand are the path, but she's stuck.
+Client work eats her week. The content
+she does post dies after a day and build
+a legacy keeps slipping down the list.
+Time is the resource she can't get back.
+And right now she's spending it on work
+that doesn't compound. Bridge. The
+problem isn't effort. Sophie works hard.
+The problem is that oneoff content is a
+leaky bucket. To build something
+lasting, she needs a system that turns
+one decision a week into compounding
+into a compounding asset, not another
+to-do. Solution. Live pod with you. a
+six-week program where Sophie gets a
+live show up and running with a system
+behind it that does the heavy lifting.
+She picks a topic, turns up once a week,
+and the system delivers data back topic
+research, promo materials for every
+episode, speaker notes to prep her, live
+stream caption copy, repurposing into
+YouTube and reals. What she gets 2-hour
+weekly group calls to build it together,
+a 90-minute one-to-one vision call to
+sign her show, and a full system she
+keeps. Call to action. Apply for a free
+live show call to find out if live pod
+with you is right for you. One thing to
+flag before stage two, the call to
+action is twostep ask apply then call.
+That's heavier than a single book aer
+call link. Yeah. So CTA can just become
+apply which goes to a form just to
+simplify that because after the form it
+can load the calendar page whatever and
+then I think with this so one thing that
+is missing and this is where you this is
+this is why it's really good to do it in
+this way structure first then substance
+and then style rather than trying to get
+everything all in one go and then
+getting this output and you're trying to
+make it sound like you but you're trying
+to make it be structured in the right
+way all at the same time. And by the
+way, one of the problems that AI has is
+that once it's produced something, when
+you ask to edit it, what it's often
+doing is it's editing the substance, not
+the structure. So you can be back and
+forth for hours, but it's still not
+right because the structure is wrong
+because it's editing the substance, but
+it's not editing the structure. And so
+what you need to then do is tell it to
+rip it up and start with another blank
+page and start again. And that's because
+there's a structure issue. And so if you
+get the structure right, it's so much
+easier to get the substance and then the
+style right afterwards. So what I would
+do at this point is I've already seen
+we've got something missing that's
+actually really current and would do
+really well right now. Okay. So
+something to add into the problem is
+that everyone's talking about personal
+brand right now being the only way to
+really futureproof yourself. Let's just
+add in as an entrepreneur from a
+saturated marketplace because of AI. And
+this is this is really true. I mean,
+it's it we're getting to a point where
+because of AI, because it's so easy to
+create content, what we really need to
+double down on is the human stuff. And
+that really is personal brand rather
+than just brand because it's so easy to
+create a brand and start creating a
+faceless company. Because of that, loads
+of people are doing it and loads of
+faceless stuff is coming out. There's
+loads of faceless Tik Tok accounts,
+faceless YouTube accounts, faceless
+marketing, people generating a revenue
+from traffic to those sources. But the
+problem is is that's going to become
+more and more and more and more
+saturated, which means the competition
+is higher and higher and higher because
+it's easier and easier to do. And the
+thing that we are going to gravitate
+towards is a stuff that's harder to
+replicate. And that is the stuff that's
+really human and really real. And
+realness is where it's at right now and
+where it's going to be at more and more.
+So now is the time really to be focusing
+on where can I be as real as possible so
+that I'm standing out in this AI
+saturated future that is coming at us as
+fast as a train. Updated structure.
+Sophie wants to build something her
+daughters will be proud of. And right
+now every voice in her feed is saying
+the same thing. In AI in an AI saturated
+market, the personal brand is the only
+real moat left. The people with
+audiences win. The people without one
+disappear. She knows this. She's known
+it for a while. But client work it.
+Yeah. The only thing I'd add in is that
+this is a new urgency for her. You know,
+the urgency is already in the story,
+isn't it? She wants to leave a legacy
+for her daughters. Her daughters are
+growing up. She hasn't she hasn't got
+the foundations of that in place. And
+now we've got this new urgency coming,
+which is AI and this sat. So, we're
+starting to paint a real picture of like
+something she wants and the reason why
+this is something that she needs that's
+going to solve that problem for what she
+wants. The reason why I'm editing this
+rather than adding it in later is just
+because like it's a it's just a
+structural ad that we might as well add
+in as an edit rather than a oh by the
+way change later. Okay, so updated
+structure. Sophie wants to build
+of. She knows visibility and a personal
+brand of the path and right now there's
+a new urgency. Every voice in her world
+is saying personal brand is the only
+real mo against AI saturated
+marketplace. The window to build one is
+closing but she's stuck. Client work
+eats her week. The content she does post
+dies after a day and build a legacy
+keeps slipping down the list. She's
+working hard on the wrong kind of
+content. One-off posts don't compound
+and time is the resource she can't get
+back. So, you see how we're emotionally
+connecting to what is going on for her
+and how that is. And then we've got the
+bridge and we've got the solution and
+the and the call to action. Stage one
+done. Ready for stage two. That is the
+hard work, ladies and gentlemen. The
+hard work is done. We just type go and
+it's now going to give us the substance.
+Now the stage after substance is going
+to be style. And this is where we need a
+voice prompt. Now a voice prompt is
+where you get AI to analyze your voice
+and create you a writing style that
+works to sound just like it was written
+by you. I'm going to use mine. If you
+don't have one that you to like ready to
+use, I have a video that teaches you
+about this and it is called how to get
+Claude to write like you. We now have
+the substance for the five emails. We've
+got email one, the legacy problem, why
+content isn't working, what a live show
+actually does, and the system. And
+they're quite small. They're quite
+short, but that's quite good. We what
+we'd probably do with this kind of
+campaign is also make a sales page
+that's got loads of information on it
+and and all the things and then have the
+apply button on the sales page. So if we
+were going to do that, we' just slightly
+change the call to action which is to go
+and read more and go and learn more
+about the program and then on that page
+we'd have a button that takes people to
+a call to action. You either have long
+emails with lots of information in about
+everything that people need to know to
+give them all the context or you have
+short emails that lead into a page that
+gives them the context. And yeah, I I I
+hear that the short emails versus long
+page is better than the long emails
+versus no page. But there we go. So
+email one, the legacy problem. What do
+you want your kids to remember you for?
+You started your business for a reason.
+That goes beyond money. You wanted to
+build something. You want your kids to
+grow up watching you do work that
+matters on your terms. You want to leave
+them proof that they can build something
+too. But right now, most of your week
+goes on client work. The build something
+bigger stuff keeps slipping. You know,
+you need visibility. You know, personal
+brand is no longer optional, especi So,
+what I would say about this is that like
+we've got the positioning right and and
+all of that. But I would say two things.
+So, one, don't accidentally become a
+manipulative marketer that uses the
+kid's legacy story to make people feel
+guilty. That's just context so that you
+understand what they want. Number two is
+paint the picture without being so
+direct with you statements. I think
+another thing that we're missing as well
+is the structure of the email campaign
+and that I probably picked too large a
+thing for us to create. What we probably
+should have done is just create one
+promo post. This is what I would do at
+this point actually is say instead of
+instead of so when we were at the
+substance bit here where we got the
+structure bit and say perfect we now
+need the structure for the email
+campaign and then each individual email
+then we can do substance of each email.
+And I would say this is a great example
+of like here's an email that is just a
+little it's just a little bit lacking.
+It's speaking very it's really calling
+out the problem without they're really
+being kind of it's just not very it's
+not very well done and then also it's
+just a bit on the nose basically and
+that it's not very long. Uh this week
+I'm going to walk you through how I
+think about this and the end I'm going
+to show you something I've built that
+solves it if you already know you want
+in the application form is here like
+it's just this is an example of
+something that's writing without any
+structure. So it's got structure on what
+the problem is, but it doesn't have a
+structure on what the email should be.
+So then we basically need to create
+that. So we go through and create the
+structure of the emails and then get it
+to write each individual email. So email
+one, name the new agency, and then email
+two, email three, email four, and email
+five. What's going to happen on each of
+those? And then the structure within
+each email. It's given us some things to
+push back on. The structure is the hook,
+the story, inside the bridge, the call
+to action, and we want to have. Okay, so
+let's go with this structure. We want to
+say 5day campaign. That's email
+structure. We want to the hook, the
+story, the bridge, the call to action,
+and the PS could just get a little bit
+shortened. So the hook, that's great.
+The story or insight, the main the meat.
+So whatever that day's job is, bridge to
+program. So instead of light or heavy
+depending on the day, always assume they
+have no context of what this program is.
+And the reason why that is like
+important is because even if you're
+sending stuff to warm people that know
+you and are on your email list and
+they're reading your emails, you don't
+want to assume that they know what this
+program is. Unless you're going to do a
+targeted campaign where you're you're
+targeting people that have opened and
+clicked and you know that they've seen
+stuff. Otherwise, you're going to
+alienate people that are like, "That
+sounds interesting, but have no idea
+what she's talking about." So, we want
+to always have this is something that
+people do a lot is that they write stuff
+assuming that people have context.
+Always assume people have no context.
+Call to action. Apply. Apply via the
+form and then sign off yours
+rebelliously, Cordelia. And then it's
+optional. You strategically use for the
+days when the main email is storyled and
+you need a direct ask reinforced. Okay,
+fine. So then we've got that email
+structure and let's see let's just see
+because we've made it pause and think
+about structure. Let's see if the output
+is now better in terms of the substance.
+Yeah, this is much better. I can tell
+already just by glancing at it. Okay,
+email one. The wake up subject. The
+window is closing. Everyone is saying
+the same thing right now. Personal brand
+is the only real moat against AI. If
+you're an expert running a business,
+you've heard it from every direction
+this year. AI is flattening the
+marketplace. The work you do can be
+replicated by a tool. The thing you
+can't The thing that can't be replicated
+is you, your voice, your point of view.
+The fact that people know who you are.
+That's why every business coach,
+marketer, and strategist is shouting
+about personal brand right now. It's the
+moat. But here's what nobody is saying
+out loud. The window to build one is
+narrowing. The people building
+visibility now are the ones who will be
+impossible to compete within two years.
+Everyone else will be fighting for
+scraps in a market where AI has
+commoditized their expertise. If you're
+an expert who knows you need to be
+visible and you've been telling yourself
+you'll get to it when client work calms
+down. This is the email that says client
+work isn't going to calm down. The moat
+gets harder to dig the longer you wait.
+I run a program called Live Pod with
+you. It's a sixeek thing where I help
+experts launch a live show with a system
+behind it that handles the heavy
+lifting. You pick a topic, turn up once
+a week, and the system delivers your
+topic. Research, promo, speaker notes,
+captions, and repurposing is how you
+build the moat without burning out. If
+you want to know more, reply here. Now,
+that's that's brilliant. I actually
+think this is really good. We've really
+connected to the emotion here without
+being too on the nose, without being
+manipulative. We're just calling it what
+it is. We're just speaking about the
+situation as it as it stands, but in a
+way that is emotionally connecting. I
+can see that people would probably feel
+that connection too. So, the thing
+that's a bit thin is the bridge and the
+call to action. And this is where we
+then push back and get it to add in more
+details. But that's going to be good and
+easy to do because the structure is
+good. The structure is there and now we
+just need to tweak the substance. And
+so, if you go ahead and do that, you're
+going to find it much easier to get a
+really, really good output. Now, the
+next thing then we're going to pretend
+all those emails are fine. And we're
+just going to have a look at email one
+for this. And then let's add in I've got
+my voice prompt here that I created with
+the video that I just told you about a
+minute ago. And I'm going to go now
+style. And I'm just pasting my voice
+prompt here. And my voice prompt, by the
+way, includes some like I'm I like to be
+a bit funny. I think I'm funny
+sometimes. Hopefully, often a bit
+cringe. And also speak like a human. You
+want AI to speak like a human, but you
+need to tell it how to speak like you
+can't just say speak like a human and be
+like okay human mode activated like you
+need to teach it what that is what that
+means and so that is included in this
+prompt as well and you have all of that
+in the playbook for create your voice
+profile. So let's have a look at it with
+the style now. Email one, the wake up.
+The window is closing. Everyone is
+saying the same thing right now.
+Personal brand is the only real mo
+against AI. You've heard it from every
+direction this year. Every business
+coach, every marketer, every LinkedIn
+thought leader with a with a ring light.
+Personal brand is the AI is flattening
+the marketplace. The work you do can be
+replicated by a tool and you can't. And
+they're right. They're actually right.
+That sounds like me. That's like
+repetitive using the word actually. Like
+really trying to reinforce what I'm
+saying by saying it again. Here's what
+nobody's saying out loud, though. The
+window to build one is narrowing. The
+experts who started two years ago are
+already the obvious choice in their
+field. The ones who start this year will
+be. And by the way, this is subtle,
+isn't it? The difference is subtle. It's
+not too far off my voice in the first
+one. I would say it's very, very
+similar. And it feel it does feel like
+me. Six weeks. I help experts launch a
+lot. Yeah, it's great. So, you know, I
+could add in a little bit more humor,
+but I don't think it's relevant for
+this. It's supposed to be a serious
+post. So, that's probably why it hasn't
+done that. I'm I'm kind of happy with
+that. The only thing that I would do, as
+I've said, at substance stage, I would
+go back and forth on this bridge and
+call to action. What's the point?
+Where's the solution? Bridge, call to
+action. Interesting. It missed that off.
+That's probably why it's thin, isn't it?
+Yeah. Oh, interesting. It's missed it
+off. I didn't notice that first. You've
+missed off solution in your structure.
+Okay, so Live Pod with you is a six week
+program where I help you launch a live
+show with a system behind it that
+handles the heavy lifting. You pick a
+topic, turn up once a week, and the
+system produces topic research, promo
+materials, speaker notes, live. Okay,
+well that's fine. Let's now go stay with
+email one, right? So this one was and do
+style and then I'm going to put my voice
+prompt below and then it's going to
+style that one. Every expert in your
+industry is being told the same thing
+right now. Personal brand is the only
+real protection against an AI saturated
+market and honestly they're right. Live
+pod with you is my six week program
+where I help you launch a live show with
+full with a full system sitting behind
+it doing the heavy lifting. You pick a
+topic, you turn it up once a week. The
+system produces the topic research, the
+promo, the speaker notes, the live
+stream copy and repurpose content for
+your YouTube and reals. You walk away
+with the show, the system, and the
+audience. If you want to know more,
+apply here and we'll jump on a free live
+show call to talk it through. Perfect.
+That'll do. I really hope that this
+system helps you to create better copy.
+Just remember, chunk everything down.
+Keep it simple like this. We go
+structure, substance, then style. And
+then you can think about packaging
+afterwards and just try and create
+structure wherever you can. So that if
+you realize you're getting like a bit of
+an output, you probably haven't got the
+structure right. There might be
+something missing in the structure. And
+that's where you need to begin the the
+whole output and structure and prompt
+and everything. I'll put it all together
+in a playbook for you so that you can
+use it and implement it. And by the way,
+once you've done that, ask Claude to
+turn that system into a skill for you.
+And then every time you're writing copy,
+you can just put a forward dash and
+search for the skill that there is that
+you've got saved in your skills and get
+it to use that skill when writing copy.
+So you don't have to go through the
+process of programming it on how to
+write copy every single time. This is
+one of the great things about Claude.
+Let me show you that real quick because
+I think that is tip of the century.
+Okay, great. Now we have a good email. I
+want to pause here and ask you to turn
+this copywriting process into a skill so
+I can use it to create promo copy for
+everything in this method moving
+forwards. It'll understand my weird
+grammar. Now what it's going to do is
+it's going to start building this skill
+and it'll take everything that you've
+done in the conversation essentially
+turn it into a prompt that then lives on
+your computer so that when you then
+press this forward dash you've got all
+these skills. So, I've got various
+skills I've created for loads of things.
+They're basically just a prompt that is
+that gets put into the workflow that
+you're in when you call it. But there we
+go. So, I hope that helps. However,
+that's all from me and let me know how
+you found this and I will be here for
+the marketing strategy show doing
+something with AI to create something
+cool. Lots of love. Speak soon.

@@ -1,0 +1,739 @@
+Hello everyone, today I'm going to show you
+how to create and design this amazing
+premium animated carousel within
+Figma.  No plugins or
+sophisticated tools are needed.  A while ago
+, we published a short video of this
+carousel in action and you loved it.    So
+your comments
+were absolutely amazing.  That's why
+we decided to create a step-by-
+step tutorial so you can learn to
+build something similar yourself.
+The best part is that it's very easy to
+follow, even if you're a beginner.
+We will go step by step from a
+blank canvas to a fluid and
+functional prototype.  They will learn to design it,
+animate it, and make it look clean and
+fun to use.  And if you'd like to access
+the source file for this design,
+along with an additional tutorial and
+extra tips, it's available to
+our Patreon members.  The link
+is in the description if you want to
+take a look.  And hey, I'd really
+love to see what you guys create with
+this.  So, if you post your version
+on social media, tag us so
+we can see it and support you.  Great
+, I'm very excited.  So let's not
+waste any more time and get started.  Okay
+, before we start with the design,
+let's get everything ready.  Our
+typography, colors, icons, and
+images.  It may seem like a
+small step, but it will make the whole
+process much faster and smoother
+.  We will use two sources for this
+project.  Oswald and Inter.  Both are
+Google sources.  So if you don't
+have them, you can download them for free.
+We are looking for a feeling that is both bold and
+luxurious.  For the titles, we will use
+the Oswald font in uppercase.
+We will follow a simple naming style
+such as heading XL, heading LG and
+heading medium to keep everything
+clean and consistent.  The first one is
+heading XL, size 148 pixels and
+semibold weight.  The following is heading LG.    We
+will set it to 70 pixels.
+Also semibold.  And here it is
+heading medium.  The same Oswald font,
+but this time the weight is medium,
+size 24 pixels.  And we will increase the
+line spacing to 4%.  Brilliant.  Okay, those
+are our title styles.  Now
+let's move on to the body text.  Here
+we will switch to Inter and keep the
+original box format.  The
+line spacing will be 0%.  We will call
+this style body XL regular.
+Font size 28 pixels and line height
+160%.  Semi-bold font weight.
+Actually, since we used a
+semi-bold thickness, let's rename it to
+semi-bold XL body to keep the
+nomenclature consistent.  Now, let
+'s finish setting up the rest of
+our text styles for the
+body.  Starting with the LG body, we will make
+one with a regular thickness of 20 pixels.
+Next, we will create a second version of the
+LG body, but this time with a medium thickness
+.  And next up is Body MD.  But
+first, we'll set one up with a
+regular thickness and a smaller size, of 18
+pixels.  Then we will duplicate it and
+create a semi-bold version.  And
+let's also add a
+medium-thickness version to maintain
+flexibility.  Finally, we have body
+SM.  Font size of 16 pixels
+with regular and semi-bold thicknesses.
+Brilliant.  Great, we've finished the
+typography, everything is stylized, named
+and ready to start.  Now, let's give it
+some style.  It's time for color.  So
+, we'll configure our
+color palette.  I'm going to create a circle for
+each color we'll be using.  Starting
+with our darkest primary color.
+This will be used for the background, to
+give it that touch of luxury and high-end quality.
+Next, I'm going to add a neutral gray.  We
+will use it for borders and outlines on
+some interface elements.  Very
+good.  Now a light gray, which we will
+mainly use for text and
+small labels.  Very good.  Now,
+let's add our deep red.  This
+will be the main color for our
+buttons, sorry.  I will also add
+two cream colors.  One will be used for
+button backgrounds and the other for
+headers.  Brilliant.  Very good.  Now let's
+move on to our
+complementary colors.  The first one, a
+light green.  We will use it to highlight
+some feature sections.
+Then a light red.  Again,
+mainly for accents or
+decorative elements.  The next one is a
+pastel yellow.  And then a
+slightly softer yellow to give us
+flexibility in the tones.
+Also adding a light pink here.  Let's make
+one more.  A beautiful, light,
+soft orange to complete the palette.
+Perfect.  Brilliant.  Very good.  Brilliant.  We already
+have our colors ready to
+use.  Let's move on to the images.  I'm going to
+add a picture of a
+floating hamburger here.  This is the one
+we will animate later.  By the way,
+you can find similar images on
+Freepik or Envato, just search for "
+floating burger" or burger layers
+.  But if you want to use the same image
+I use, there's a free download
+in the description.  Just scroll down
+and grab it.  Now I will layer
+the hamburger inside the
+frame.  As you can see, this image
+has all the layers separated.  The bread
+, the meat, the lettuce, the tomato, everything
+is in its own layer.  Now, that
+will be very important for animation
+later on.  So make sure
+your burger is
+layered too.  If you're using an image that doesn't have
+layers, we've included a
+bonus Photoshop tutorial for our
+Patreon members, showing exactly
+how to easily separate layers.
+In addition, you'll get this
+complete project file and a
+detailed tutorial on how we generated this
+type of image using
+ChatGPT prompts.  Now, if you don't have your
+image yet, feel free to pause here
+and search for one online or download the one
+from the link.  Very good, great.  So
+now that we have our images in
+place, the last thing to
+prepare are our icons.  For
+this project, we're going to get all
+our icons from Phosphor Icons.  It's
+an excellent free site where
+you can customize the style,
+size, and color.  So let's start
+with the first one.  We will look for "fire".
+We will choose the filled style.  Adjusting
+the size to 24 pixels.  And by
+clicking on copy to clipboard.  Then we'll
+go to Figma and paste it
+directly.  Now we will repeat this
+same process for each icon
+we need in the design.  And here's
+the last one.  Grain.  The same.
+Copy it and place it in the frame.  And that's
+all.  Our typography, our
+colors, our images and icons
+are ready.  The next step is a
+professional tip that will really
+save you hours.  Trust me.
+We'll configure text styles and
+color styles so you can
+update your designs in seconds, not
+hours.  So, look at this.
+I will select our first heading
+.  Now, in the text panel, click
+on the style icon, these four
+dots here.  Then, press the
+plus button.  Give it the name "XL header" or
+whatever you want to call it and click on
+create style.  Boom!  It is now a
+reusable text style and also
+appears in the design panel.  Now
+we will do this for each text style we
+have created.  LG head,
+XL body.  You get the idea.  Hey, hey,
+hey.  And here's why this matters.
+Let's suppose you decide to change your
+font later.  If you set
+this up correctly, you only need to
+change it once.  And Figma updates
+every instance in your
+design.  So you no longer need to
+click on each screen.  It's fast
+, it's clean, and honestly, it's how
+real designers work.  And
+this last one here, and we finish with
+the text styles.  Very good.  Now,
+let's do exactly the same thing with
+our colors.  Select each color
+, click on the style icon,
+press the plus sign, and name them as you
+prefer, such as primary, secondary, or
+something more specific.  And that's it.  Having
+these color styles set up
+will make everything faster
+later on.  And I promise you it will save you
+more than once.  And that's it.  So, we
+have them all saved as
+color styles.  Now you'll see them all
+listed in the right panel.  Clean and
+organized.  It looks super professional.  And
+well, finally we can start
+designing our first screen.
+Now I'll use the frame tool and
+select the
+MacBook 16-inch preset.  You don't have to
+do this part, but I'll change the
+height to 992 pixels.  Just so that
+everything fits properly on my screen when I
+present later.  Okay, let's set the
+scene.  I will apply our pure black
+from the color styles as a background.
+Now, I'll press T for text and
+type our main heading
+, Crown Burger.  For this, I will use
+our large heading XL text style
+and align it to the center of the frame.
+Let's add a little contrast.
+I will use our light cream color
+as the text color.  And now, right
+above, I'll add a smaller heading
+, this week's favorite.  This
+uses the heading medium style with a
+light gray color.  And below our
+main heading, I'll place a
+brief value proposition.  A
+premium burger that delivers all the
+flavor you crave.  Made with
+healthier ingredients you
+can trust.  Brilliant.  Sounds good.
+Clean and clear.  That's what we're looking for.
+Now I will select the three
+text layers and apply auto layout with shift
++ a.  Let's define a space of 12
+pixels between the main heading
+and the paragraph.  And that's all.  Brilliant.
+The main section is starting to
+take shape.  Now let's build the
+navigation for our website.
+For the menu items, I use
+our body medium text style with
+a medium thickness and apply our
+light gray as the text color.  And the first
+navigation element is asking.  Then
+find restaurant, deals, menu,
+delivery, and more.  I will select the
+last three elements and apply
+auto layout.  and then I'll set the
+spacing to 54 pixels.  I'll do the same
+for the first three on the left.
+Now, let's make room in the middle for
+our logo.  I'm going to create, um, something
+a little personalized here.  So
+I'll write BKG using, sorry, Oswald.
+and I'll adjust the size to 18 pixels.
+Next, I will draw a
+horizontal line with
+rounded edges.  rounded edges, just like
+that.  Yes. And the letter spacing
+to zero.  The font thickness in
+semi-bold.  Now I'll bring in the
+fire icon we downloaded earlier and
+give it our intense red color to
+bring it to life.  Brilliant.  I'll wrap the entire
+logo in an automatic design and
+add some padding.  and
+I will set the corner radius to 16
+pixels.  Let me adjust that spacing a little
+.  Very good, great.  Yes, that looks
+good.  Brilliant.  I will align it with
+the menu items and apply
+automatic layout to the entire
+navigation row.  To ensure the logo
+remains perfectly centered,
+we need to match the width of,
+sorry, we need to match the width
+of the left and right sections
+of the menu.  And once it's
+balanced, we can center everything in a
+clean and pleasing way.  Now, let
+'s build our buttons.  One for
+registration and one for the
+shopping cart.  For both, I will use a
+semi-bold font, wrap them in
+auto-layout, and set the padding
+to 24 pixels horizontally and 12
+pixels vertically.  The first
+button has a primary red fill,
+and I'll set the text color to
+our secondary cream.  I'll also
+give it a nice rounded look
+with a corner radius of 50 pixels.
+Yes. Now, the second button.  So
+, for the second button, we'll use the
+cream color fill.  And I'll add
+our shopping cart icon
+next to the text.  Okay, I'll apply an
+automatic layout with a
+24-pixel spacing between the icon and the text
+and align it with the rest of the
+navigation.  And that's our
+navigation bar.  Here it is.  Clean,
+balanced, and ready.  So, let's move
+our main heading and
+supporting text up a bit to give
+that design more room to
+breathe.  And now I'll add a
+subtle spark chart right here.  Just a
+small touch, but it adds a bit of
+personality and movement to the
+main section.  It already looks impeccable.  Brilliant.
+Very good.  Very good.  Now for the
+fun part.  Let's bring our delicious
+hamburger.  So I'll drag it
+towards the frame.  And since all the layers
+are separate, we can animate and
+style them individually.  So
+, first I'll go layer by layer and
+apply a soft drop shadow to
+each one.  This adds depth to
+make the burger feel more real.
+Now, I'm not being very precise with
+the values ​​here.  I'm just
+adjusting it until it feels right.  And
+honestly, that's the beauty of it
+.  So trust your eye and
+adjust it until it has the weight and
+vibe you're looking for.  Hey, hey, hey.  Now,
+let's give the whole burger a little more space
+.  I want it to feel
+open and stacked, but not squashed.
+I'll group all the layers for a second
+to center the burger in the frame
+, and then I'll ungroup them.  It's
+important that the layers remain
+ungrouped, as we will animate each
+part individually later.  Okay,
+now I'll add a light effect to
+the hamburger.  It's just a
+subtle glow to make it shine a little and look
+more polished.  I won't create it from scratch
+here, but it will be available to
+our Patreon members in the
+source file.  And that soft glow
+makes a big difference.  The
+burger already feels more dynamic
+and alive, which is great.  Okay, the
+next thing we'll create is a
+scroll bar.  So let's draw a
+rectangle.  It will be used to move and
+animate the design.  Let's make it 8
+pixels wide and 660 high.
+pixels.  We will add a cream color
+and reduce the opacity to 14%.  Now
+we will position the bar at the edge of
+the screen.  8 pixels of distance
+should be fine.  In fact, let
+'s increase the opacity to 18% to make it
+more visible.  Very good.  And that's
+better.  We will take the
+existing bar, copy and paste it to
+create a smaller one.  We will reduce the
+width to four and the height to 218
+pixels.  And we'll make it
+round too.  For the color,
+we will select the secondary cream.
+We will place it inside our
+main bar, which we will also make
+rounded.  Fantastic.  And there it is.
+Our first screen is ready.
+If you made it this far, seriously, that
+'s an achievement.  You built something clean,
+personalized, and full of personality.
+But we won't stop here.  And by the
+way, if you're enjoying this
+tutorial so far and thinking, "Wow,
+this looks amazing, but how do
+I learn to do things like this on my
+own?"  Well, let me save you
+a lot of time and frustration.  Our
+UI/UX manual was created precisely
+for this purpose.  For people who want to
+learn how to create modern and
+clean interfaces without second-guessing every design,
+font, or spacing decision.  More
+than 20,000 designers, developers,
+and marketers have already
+downloaded it, and it has five stars
+because it really works.  We've
+received some truly amazing reviews
+on Trustpilot.  So feel
+free to check them out and see what
+our students have to say.  It's full of
+UX and UI design tips from
+senior product designers,
+broken down in a very easy-to-
+apply way.  There's a link in the
+description, so go ahead and
+get it now.  And you can continue with
+this tutorial knowing that you have a
+solid design foundation ready to get
+started.  So let's move on to the
+second screen.  This is where
+the real magic happens.  This is how
+the animation works, and it's really
+very simple.  When an element exists
+in both frames, but its position or
+opacity changes, Figma animates between
+them.  Let's try that.  On the first
+screen, we have our title
+centered at 100% opacity.  On the
+second screen, I'll move it a little and
+reduce the opacity.  And that's all.
+When creating the prototype, Figma will
+handle the animation between those
+two states.  But of course, we'll still
+need to set up that animation
+.  Next, we want to animate the
+scroll bar and set the
+touch points that will trigger the animation
+when dragged.  So I'll copy the
+scroll bar from screen
+one and paste it onto screen two.
+Now, we will create an artificial framework.
+This will be the touch contact point
+.  In the prototype tab,
+I will drag the connection to the second
+screen.  Next, I'll set the
+trigger to "on drag".
+Animation type: smart animation,
+smoothing set to "ease in and
+out" and duration of 800 milliseconds.
+Now, let's prepare the
+horizontal displacement effect.  On the
+second screen, I will take the
+inner bar and move it to the center.  That
+gives us room for three
+horizontal scrolling sections.  I'll do the
+same: I'll add a second
+artificial frame to the top half of
+screen 2, just like before, and
+apply the same
+prototype settings.  Let's preview that.  The
+title slides and fades away.  The
+scroll bar moves
+smoothly.  This really looks great
+.  I like it.  Now, let's bring
+the burger to life.  I'll start by taking the
+bread layer and moving it over the
+navigation bar.  Next, I'll take the
+salad layer and place it under
+the bread with plenty of space.  Yes, we'll
+adjust it later.  Repeat that for
+each layer.  Tomato, cheese, meat.
+Spacing them vertically so that
+the stack feels balanced.  And let
+'s scale the whole burger a little
+so it stands out.  Brilliant.  Then,
+I'll select all the layers,
+increase the size a little, and
+adjust the spacing so that it
+feels open and natural.  Now I'll move
+the whole stack of hamburgers so that it's
+more or less
+vertically centered.  Let's preview
+that.  Perfect.  Now, let's talk about the
+shine effect.  A subtle touch of light
+to make everything feel more premium.
+I will select the brightness layer on the
+second screen.  I'll move it
+slightly upwards and to one
+side.  Just enough to grab attention
+.  Let's preview that.  Good.  Brilliant.
+Yes, it's just a small movement,
+but it adds a lot.  Now, let's add
+a soft base under the burger to
+visually anchor it.  I'll take a
+circle, stretch it to 620 pixels
+wide by 62 pixels high, and place it
+right below the hamburger.  Then I'll
+send it to the bottom.  I will adjust the
+opacity to 13%.  And I'll align it to the
+center.  Now, I've just realized
+that the hamburger isn't
+perfectly centered.  No problem
+.  What I will do is group all the
+layers, align them horizontally, and then
+immediately ungroup them.  This is
+important because animations don't
+work with groups.  Let's
+also add a light shadow under the
+burger to give it some
+subtle depth.  Brilliant.  I love it.
+Now I will copy that ellipse to the first
+screen.  I will reduce it.  I'll send it to the
+bottom.  I'll set its opacity to zero
+and lower it a little using the
+arrow keys.  I'll make it smaller.  Thus,
+when animated, it will appear blurred and
+scaled.  Let's preview again.  Yes
+, it looks amazing.  Good.  Yes, the
+shadow, the shine, the pile.  Brilliant.
+Everything is working fine.  It's fantastic.
+Last step of this section.  Let's
+finish it.  We'll add some
+decorative elements to make the
+design really stand out.  I'll take
+our tomato and basil graphics
+and place them around the
+burger.  These small details
+add movement and give more
+personality to the whole composition.
+I'll flip some over and
+resize others.  To break the
+symmetry and add variety.  This makes the
+design feel more natural and
+dynamic.  Here you can really
+get creative.  Try different
+leaves, different ingredients, or whatever
+suits your theme.  Now, let's raise the
+bar with a blur effect.
+Some of these elements will be
+slightly blurred to create
+depth and make the hamburger
+appear to jump off the screen.  Then
+, once everything looks good,
+I'll select the elements and
+copy them back into the first frame.
+Now, this is where the magic
+of animation begins.  I'm going to rotate each
+of these elements in the first frame and
+reduce their opacity to zero.  That
+way, when switching between screens,
+they will appear rotating and fading into
+place.  It's subtle, but really
+effective.  So, let's take a look
+.  Beautiful.  Incredible.  Yes,
+they enter spinning cleanly.  But we're
+not finished yet.  Now
+I will adjust their position in the first
+frame, moving them further away from the center.
+That extra movement gives them more
+room to move during the
+animation, making the entrance
+feel more natural and impactful.  And
+let's look at the preview again.  Wow,
+that adds a lot of depth and energy
+.  The whole scene feels very alive right now
+.  Now, let's highlight some
+of the premium qualities of this
+burger.  What we will do is create
+highlighted labels for the
+ingredients.  They are small
+floating balloons that explain what makes
+this burger so special.  The
+first one, organic sesame bread.  That
+tells our users that this is
+not just any bread.  It is made with
+healthy organic ingredients.
+I will wrap the text in an
+automatic design and give the label
+a fully rounded shape.
+Setting the corner radius to
+55 pixels.  For the filling, I'll start
+with our light cream color, but I'll
+turn it into a linear ingredient.
+Sorry, in a linear gradient to
+give it depth.  And I'll lower the
+opacity to 16% so that it's visible
+but soft.  Then I'll adjust the
+gradient direction until it
+feels right.  Next, I'll add a
+soft stroke, also using a
+gradient, and play with the opacity
+until it blends in properly.
+Okay, okay.  And as a final touch,
+I'll add a 16-pixel padding on
+all sides.  Now I'll bring out our
+bread icon.  I'll place it inside the
+label and change its color to our
+light orange.  I will also change the
+label text color to a
+secondary cream to maintain
+consistency.  Brilliant.  Incredible.  Now
+I will duplicate this label to create a
+second one.  For the highlights, I'll change
+the font style to
+medium large, just to make it a little
+bigger.  Then I will repeat the same
+process for a third
+featured element.  And, and...Very well, now that
+we have all three, I'll wrap them in an
+automatic design and copy the group
+to the right side of the hamburger.  We
+will make sure that everything is centered
+on both sides.  For the
+central pill, we need to adjust it to "hug
+content" and apply the same
+configuration to the main auto layout
+.  Once the pills are placed and aligned
+, I will check the position
+to ensure both sides are
+balanced.  Then I'll select all
+the pills, copy them to the first
+frame, and send them to the back
+by pressing this a few times.    I'll
+make them smaller just to
+give them some movement in the
+transition.  I'll quickly group them
+, center them, and then
+immediately ungroup them.  Finally,
+I will reduce their opacity to zero on the
+first screen so that they
+gradually appear during the animation.  Alright
+, let's take a look at what we
+have so far.  Everything works
+perfectly.  The highlight pills
+appear with a scaling and
+fading effect.  That's great.  It gives the whole
+burger a feeling of quality.
+This is the kind of detail that makes
+the design feel truly premium.
+Okay, now let's configure the
+final screen.  First, we will put
+the burger layers back in their
+original stacked position.  Then
+we'll move the whole burger to the
+corner to make room for the filling
+.  I will move the highlighting of the
+ingredients.  And the lights too.  I'll
+reduce them and lower the opacity to 0%
+so they animate cleanly
+outwards.  Now, let's set the
+touch point for dragging.  On the second
+screen, I will create a drag area
+that will trigger the transition to the
+third screen.  In the
+prototype tab, I will connect it to the third
+screen using the same
+animation settings.  Smart animate, ease in and
+out, 800 milliseconds.  And on the third
+screen, I will configure the arrow.
+I will configure the back arrow
+to link back to the second one
+.  Maintaining, once again, the same
+animation style.  Let's place the
+scroll bar.  I'll move it to
+the bottom of the main bar
+so it fits the design.
+Quick preview.  Ah, that looks smooth.
+Next, let's animate the
+floating vegetables.  I'll rotate them slightly and
+move them closer to the edges of
+the screen.  and I will lower its opacity to 0
+% on the screen.  Preview again.
+Perfect.  Fluid, clean, and adds just the
+right amount of movement.  That's
+excellent.  And now let's add the
+content of the end screen.
+I'll start with the title using
+our large text style.
+Adjusting the width to 482 pixels.  123%
+so that it looks neat.  We'll use the
+secondary cream color for that.  Below
+, I will add some eye-catching supporting text
+.  And then I'll show the reviews.
+I will add five stars using a
+new color.  Let's call it
+vibrant orange.  Something that really stands out from
+the background.  And then I'll add the
+rating and the number of reviews
+right next to it.  Oh.  And hey, now let's
+add our two
+call-to-action buttons.  One to add
+to the basket and one to order now.
+Okay, I'll use the automatic layout
+to align and space everything
+properly so it feels
+balanced.  And then,
+let's add the price using a
+larger font style.  a style that makes you
+stand out.  And below, the
+calorie count, of course, so the
+user knows what they're ordering.
+I'll wrap the entire block of
+information with extra spacing and
+add a soft border to frame
+the section without making it look too heavy.
+final alignment check and
+everything should be properly centered.
+Incredible.  Now I will copy this entire
+content box to the second screen
+, send it to the back, make it
+smaller, and reduce its opacity to 0%.
+That way, it will appear
+beautifully during the final transition.
+One more detail.  I'll change the
+border color from light gray to dark gray to
+have a little more contrast.
+Quick preview.  Ah, that looks smooth.  And
+we'll reposition the light so that it's
+right above the burger, giving it
+that balanced glow.  Alright, let
+'s preview the entire experience from
+beginning to end.  Wow, this looks
+absolutely incredible.  Yes.
+Incredible.  Brilliant.  Good job to
+everyone who has made it this far.
+This tutorial took a lot of work.
+So, if you enjoyed it, please support us
+on Patreon.  Get the
+source files and unlock even more
+behind-the-scenes content.  And again
+, I'd love to see what they create.  So
+, if you post your version,
+tag us because, seriously, it
+means a lot to us.  Leave some
+love in the comments and
+tell me what you'd like to see
+next.  Thank you so much for watching, and
+see you in the next one.  Thanks,
+guys.

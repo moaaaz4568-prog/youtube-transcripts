@@ -1,0 +1,656 @@
+Voice agents have proven time and time
+again to be one of the most profitable
+niches in the AI space. Yet, most people
+have no idea how they work and how you
+can set them up step-by-step. And look,
+I'm not here to give you another 25
+templates of voice agents that you never
+going to use cuz reality is that's not
+what you need. What you need is to see
+the exact process of how these systems
+work inside and out, but also the
+step-by-step process of how you can
+build them. Which is why in this video,
+I'm going to be building a full voice
+agent from scratch so you can copy-paste
+it and you can start selling it to
+businesses right away. And in case it's
+your first time here, my name is Michele
+and I scaled my own AI agency to six
+figures in 14 months. I've worked with
+over 50 businesses to implement AI and
+automations, and taught over 20,000
+people in the process. All starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+here's how fundamentally an AI agent
+works. We have an input from the user.
+That can be can ask a question, what is
+your pricing, can I book an appointment?
+Then we have the actual AI agent, the
+voice agent, which has system prompts,
+which is a full prompt full of
+instructions. [music] So, all
+instructions that the AI agent needs to
+adhere to, they need to use when
+actually executing the task, right? Then
+we have the brain, obviously because a
+voice agent is powered by AI. So, what
+is that model? Is it ChatGPT? Is it
+Claude? Is it whatever else? Then we
+have the memory, also known as the
+knowledge base, which is a document that
+we give it, which it will then use when
+answering questions, which could be for
+customer support. And then we have
+tools. Now, tools is the exact reason
+why the AI agent is able to book
+appointments, right? It's able to answer
+any questions, book appointments, it can
+add leads to the CRM, it can do all
+these different tasks because it can tap
+in all these different tools. And so,
+that's exactly why an AI agent is so
+powerful because someone speaks to it
+and it can execute all the tasks without
+a human having to be there. And then the
+output here could either be a response
+to a question. So, what is your pricing?
+We could say, "Hey, it's 95 bucks a
+month." Or it can be a simple yes, "Your
+booking is confirmed for tomorrow at
+5:00 p.m." And when it comes to voice
+agents in specific, there's three main
+offers or three main services that
+people actually build for our clients.
+The first one is an inbound
+receptionist. This is by far the most
+popular one, and the way that it works
+is that a customer calls, the AI
+answers, right? And the AI can either
+transfer calls, it can take details, and
+it can book appointments. It can also
+answer any questions if it [music] needs
+to answer any questions. And pro tip is
+target after hours to begin with because
+the inbound receptionist solves the
+problem that a lot of business owners,
+they don't have time after hours to book
+appointments or to answer calls, to
+convert leads from a phone call, right,
+just a lead to an actual consultation or
+paying client. Now, I've actually made a
+full video where I showed you exactly
+how you can cold call and selling this
+exact offer. You can check it out up
+here. Very, very useful. And again, this
+is the most, I guess, popular one
+because most businesses that take the
+phone have an inbound receptionist or
+have a receptionist at all. So, that's
+where it becomes really, really easy to
+implement this. And by the way, this
+right here, the inbound receptionist, is
+the exact same one that I'm going to be
+building out today. Then we have lead
+reactivation. So, let's say you have a
+dental clinic, and a lot of patients
+that go in the dental clinic, they show
+interest, but they never actually buy,
+right? Or landscaper. A landscaper has a
+lot of calls, but not everyone ends up
+buying. And so, what tends to happen is
+that over time, the actual business
+starts to have a list of people, the
+contacts, or people that were interested
+but didn't end up buying. And this are
+leads that we store in a CRM. CRM stands
+for customer relationship management
+software, okay? So, which means that
+basically it's like a Google Sheet or
+Excel. It can be HubSpot. It can be
+ClickUp, Asana, whatever it is that has
+a ton of contacts that now we're able to
+reactivate, right? So, what would happen
+here is that the voice agent would call
+the list of leads. It would call each
+one and it would book the appointment
+with the hopes that then they become a
+paying client. And lastly, we have also
+one of the more popular ones, which is
+speed to lead. So, if a company is
+running Facebook ads, right, we know
+that to run Facebook ads, then one of
+the most important things is how fast
+you can follow up with the person who
+opted in the Facebook [music] ad. So, if
+I go into someone's Facebook ad and I
+put my details, how fast are they going
+to reply to me? How fast are they going
+to follow up and call me uh to then book
+me for an appointment? And the thing is
+most businesses don't reply within 5
+minutes, which is typically the time
+where conversions increase the most,
+right? And so, what we do here is we
+implement a system where you have
+someone opting in the ad, then you have
+the voice agent calling them within 5
+minutes to then book an appointment, and
+then they can become a paying customer.
+Now, bear in mind that this is hard, but
+super tangible and rewarding when you do
+do it for the business. And typically,
+it's not something that we tell a
+beginner to start with. We usually start
+with a inbound receptionist because it
+is the easiest to build as well.
+All right. So, to make the actual agent,
+we're going to be using a software
+called Retail Retail AI, one of the best
+softwares in the market right now when
+it comes to making voice agents. There's
+also Vapi, which is also good, but
+Retail is the easiest to get started
+with, but also the most comfortable and
+the one that typically the best over
+time. So, let's make an account. Let's
+try for free. You can continue with
+Google. You can then choose your
+account. Press continue.
+>> [music]
+>> Once you set up your account, just
+finish the onboarding here.
+And now you will get to a dashboard that
+looks like this. On the left-hand side,
+you can see that we have build. The
+agent tab is going to be building the
+actual agent. Then we have the knowledge
+base. So, when a voice agent has to
+answer a specific question about the
+business, it always goes to the
+knowledge base, which can be a
+predefined document that we make about
+the company. And we're going to be using
+this for today's uh voice agent. Then we
+have the deployment. So, once you build
+a voice agent, what happens then? You
+can then go to phone numbers. You can
+then press plus, and you can buy a new
+number, right? And use Twilio to be able
+to buy a new number and then set it up
+for the business. Or you can simply use
+the business phone number as well. And
+then we have a bunch more settings as
+well like call history, chat history,
+batch call analytics, which as a
+beginner, you shouldn't worry about
+right now. So, the first step is
+creating an agent. You can press create
+an agent, and you can do voice agent.
+There's also the possibility to do chat
+agents, which is pretty cool. Uh but
+we're going to do voice for now. And we
+can just press single prompt agent. And
+this is the easiest to start. It's very
+simple, and you can basically put your
+own prompt.
+You want to start from blank? That's
+fine. You can press create. And now you
+get to this page right here. On the
+left-hand side, you get to see the
+prompt, which is basically the
+instructions that the voice agent will
+follow when doing whatever the person
+wants to do. Here we have the brain,
+right the LLM. We can choose 4.1, we can
+choose Gemini 2.5 flash light, which is
+the fastest right here. I'm going to
+stick to 4.1, which is fine. Then we
+have the voices. So we use a software
+called 11 Labs to choose the voice for
+the voice agent, and we can look at that
+in a second. We have the language here.
+So if you want to change the language,
+you can change language here. And then
+here we have the pricing. So we have the
+voice plus the LLM, which is the price
+that we have to pay per minute. So in
+this case it would be 0.115
+cents per minute. Then right here we
+have the latency. So the latency is
+basically the time between the time
+delay between when I stop talking as a
+user and when the voice agent starts
+talking to make it seem more human and
+more conversational. And then we have
+the tokens. So if you have a bigger
+prompt, then it will cost more. And then
+down here as well, you can see the
+welcome message. So whether you want to
+let the user speak first or the AI speak
+first. In this case we're going to press
+AI speak first because it's an inbound
+receptionist, and we want them to be
+able to answer the phone. And now we can
+start making the functions, knowledge
+base, and all the other things as well.
+So the first step that I do is actually
+making the knowledge base. Because the
+knowledge base like I mentioned is going
+to be the context that we provide to the
+voice agent when it needs to answer any
+questions about anything that the user
+wants.
+So I can press add. I can go to add new
+knowledge base.
+And I get to this page right here. And
+right here I can press plus.
+I can then enter the knowledge base. And
+I can upload files. In this case I'm
+going to go to my free school community.
+I'm going to go to the classroom
+section, templates vault, and then it
+should be
+uh any time templates, voice agents,
+>> and right here, knowledge base. So this
+right here is going to be a document
+that we use. And we're going to use an
+example of a landscaping business. So we
+have business overview, location,
+opening hours, back story, the team,
+services and pricing, signature
+packages, and a bunch more other stuff
+as well. I'm going to download this,
+save it to my desktop, and then here I
+can upload files.
+I can go knowledge base here and I can
+press open. So now we have knowledge
+base
+landscaping.
+There we go. And I can press [music]
+save. So, you will see here that it will
+say in progress, but which means that
+the document is uploading. And right
+here we can go back to knowledge base,
+we can press add, and now we're able to
+see the knowledge base landscaping.
+Which means that now we're adding the
+document that the voice agent is going
+to be using when answering the
+questions. The next part is making the
+functions. So, the functions is the
+capabilities, so the things that the
+voice agent is going to be able to do.
+For example, it's going to be able to
+end the call. And we also have a
+description here. For example, end the
+call when the user has to leave, like it
+says bye, or you are instructed to do
+so. You can speak before execution, you
+can press update, so that will be the
+actual end call. And then we have a ton
+more. So, we have call transfer, agent
+transfer, check availability, book on a
+calendar, press digits, and send SMS,
+>> and then extract dynamic variables. So,
+for this example, we're going to be
+checking calendar availability, and
+we're also going to be booking on the
+calendar as well. So, if I press on the
+check calendar availability,
+I can see that I have this page right
+here.
+And I have the description, which is
+when the user asks for availability,
+check the calendar and provide available
+slots. And then we have to make another
+account on cal.com, which is this
+platform right here, which is going to
+be allowing us to be able to actually
+book the appointment on our calendar.
+All you have to do is press get started,
+and I typically continue with Google.
+Choose your account, press continue.
+Continue.
+You can do for personal use, that's
+fine.
+You can press continue here.
+>> And you can see that your calendar is
+connected already. In case you're using
+Outlook or any other calendar, just
+press connect here, and it will
+automatically connect it to your account
+there. Press continue here. And then
+you'll have a page that looks like this.
+We can see that we have three pre-made
+calendar events that were made by
+cal.com. In this case, we're going to
+press new,
+and we can just put this as landscaping.
+This event is for a landscaping service
+for our business, and it's going to be
+for 60 minutes, so 1 hour. I'm going to
+press continue.
+And we get to this page right here. Make
+sure that when you go to advanced,
+you press event type,
+and you turn this [music] on.
+Okay, because this is going to be your
+calendar that you're going to be using
+when
+uh checking the availability and booking
+the appointment. You can press save and
+now if you go back, we can see that
+we've now made our actual event right
+here. Now on Retail is asking us for two
+different things. It's asking us for the
+API key and the event type ID. So the
+event type ID is the ID right here. This
+should be a number so 4641458.
+I can just go here. I can paste it for
+the event type ID. And to get the API
+key, you can go to settings. You can go
+to
+API keys
+bottom left and you can press add. You
+can put voice
+AI. And you also have an expiration date
+which means when do you want this
+password to be called password
+to be disabled? I usually put never
+expires because that way I don't have to
+re-authenticate the whole account. You
+can press save. You can copy the key,
+bring it back to Retail and you can
+paste it right here.
+And then you also have the time zone. So
+you want to make sure that your time
+zone is the exact same time zone as the
+one on your calendar. In this case for
+me it would be Asia, Dubai right now. I
+can press save and right now you see
+that you have the check availability
+Cal. That's only for checking if the
+calendar is available. The next step is
+actually booking the appointment. So I
+can now press on book on the calendar
+Cal.com. And we have book appointment
+Cal. We can see that when the user asked
+to book an appointment, book it on the
+calendar, that's fine. And now we need
+the API key and the event type ID. If
+you already have the API key pasted, you
+can paste it again here.
+And now we have to get back the event
+type ID. I can go back here
+and I can go to the URL and get the
+number which I can paste right here. And
+change this to your time zone. I said to
+keep it simple, we now have check
+availability and we also have book
+appointments Cal. And that's going to be
+it for the functions here. Then we also
+have speech settings. So in this case,
+if you want to have background noise
+when your voice agent answers, you
+could. In this case you have coffee
+shop, conventional hall, summer
+outdoors. What we could do is you could
+have
+summer outdoors just because it is a
+landscaping. So
+you can do that. You can change other
+settings. I'm not going to change
+anything to keep it simple. You also
+have real time. You have call settings
+which I'm not going to use. Post call
+the
+So what do you want the voice engine to
+extract from that call? I'm not going to
+be using this, but we also have the call
+summary and call successful, which is
+going to be enough for us. And then
+webhook settings in case you need to
+configure some sort of webhook and MCP
+as well. But now just because we want to
+check availability and book the
+appointment, that's going to be enough.
+All right, so the next thing we have to
+do is make the prompt because the prompt
+is the most important thing when it
+comes to building a voice agent. Because
+if your instructions are bad, then your
+voice agent is going to be bad.
+Regardless of whether your voice sounds
+good, regardless of whether you have all
+the functions possible, if the
+instructions of the voice agent does not
+work, then it's not going to understand
+exactly what it needs to do. I'm going
+to go back to my community here. I can
+go to the same one here. I can go to
+voice agent prompt and I'll have the
+prompt here. So the prompt is divided in
+a way where we have personality,
+environment, we have the tone, the goal,
+the guardrails, and all the tools that
+we have available.
+So I can just copy this. I can go back
+to retail and I can paste it here. And
+if you're wondering what these hashtags
+are, well, if I go to a docs
+and you
+and you have, let's say, heading one
+or heading two
+or heading three.
+How is the document supposed to know the
+level of importance of the text if you
+don't actually add the heading? So if I
+press hashtag heading one
+two hashtags heading two, three hashtags
+heading three.
+So that the voice agent understands the
+level of importance when it comes to the
+actual prompt itself. Three hashtags,
+there you go.
+Right? Like this. So again, we have
+tone, we have all the goals and greeting
+and information gathering. So you're
+John, the receptionist for John
+Landscaping Services. You answer
+question, you check availability, you
+book the appointment, you handle
+situations, and you close as well. The
+guardrails is do not provide information
+about services or prices that are not
+offered by John Landscaping Services. We
+set those lines in between the lines to
+make sure that the voice agent does not
+hallucinate. Hallucinate just means that
+it starts making up stuff. Now, once we
+have this, we can then choose the model.
+Again, 4.1 is going to be fine.
+>> Then we have to choose the voice. So I'm
+going to be choosing a male voice
+because the guy's name is John. So
+gender is going to be male. Accent,
+let's make it American.
+Use voice. Let's use Ethan. And you can
+always change it if you don't like it.
+Cuz we have the functions, we have the
+knowledge base, we have the prompt. Now
+it's just about testing. So right here I
+have my retail, right here I have my
+calendar. I'm going to put them into a
+split view so you can see both of them.
+And now we can start talking to the
+voice vision itself. So because we're
+not using an actual number, I can't call
+it with my phone. So I'm going to test
+it just to see if it can book the
+appointment and then we can see if it
+can answer any questions as well.
+>> Hello. Thank you for calling John's
+Landscaping Services.
+>> This is John the receptionist. How can I
+assist you today?
+>> Um can I book a landscaping service uh
+for sometime tomorrow?
+>> Let me check our availability for
+landscaping services tomorrow. One
+moment, please. We have the following
+time slots available for landscaping
+services tomorrow. 9:00 a.m. to 10:00
+a.m., 11:00 a.m. to 2:00 p.m., 3:00 p.m.
+to 4:00 p.m.
+>> do 9:00 a.m. 9:00 a.m. is fine.
+>> Great. I'll book your landscaping
+service for 9:00 a.m. tomorrow. Could I
+please have your name, phone number,
+email address, and the service address
+to complete your booking?
+>> Yeah, um my name is Michele. My phone
+number is plus one
+>> 545 5 456. My email address is
+michele@gmail.com.
+And my address is 123 Main Street.
+>> Thank you, Michelle. [music]
+I'm booking your landscaping service for
+9:00 a.m. tomorrow at 123 Main Street.
+One moment while I confirm your
+appointment. Your landscaping service is
+all set for tomorrow at 9:00 a.m. at 123
+Main Street. You'll receive a
+confirmation shortly. Thank you for
+choosing John's Landscaping Services,
+Michelle. If [music] you have any other
+questions or need to make changes, just
+let us know.
+>> I will have a question. Can I ask a
+question?
+>> Of course, Michelle. Please go ahead and
+ask your question. I'm here to help.
+>> I have a question around pricing. Well,
+how much is a lawn mowing small? How
+much does that go for?
+>> For a small lawn mowing service, the
+price starts from $60. This includes
+mowing and edging for a small size lawn.
+If you'd like more details or want to
+book the specific service, just let me
+know.
+>> Um what about the ongoing maintenance
+plan? How much does that cost and what
+does it include?
+>> Our ongoing maintenance plan starts from
+$220 per month. [music] Here's what it
+includes. Fortnightly or monthly visits,
+priority scheduling, discounted rates on
+additional services.
+This plan is ideal for clients who want
+regular long-term care for their garden
+or lawn.
+>> If you'd like more details or are
+interested in signing up, I'm happy to
+help.
+>> No, that's it. Thank you. Have a good
+day.
+>> There you go. Apart from the fact that
+it called me Michelle, everything else
+is pretty good. And now that you have
+the prompt, the functions, and the voice
+engine set up, you can also test in the
+chat right here in case you want to
+speak to it and you don't want to talk.
+You can now publish it and make sure
+that you buy a number right here, phone
+number, plus buy new number, and then
+you'll be able to use Twilio, or you can
+use
+>> Telnix. I don't know much about this
+software. I know about Twilio, uh which
+is the most popular one that you can
+connect a number to to then be able to
+actually have a phone number that can be
+called uh whenever someone calls a voice
+agent. Of course, because this is an
+inbound receptionist, then the customer
+will call a number. And so, you can
+either use this or you can use the
+business number to be able to integrate
+it with the software right here. In case
+you want to see the history of all the
+calls, you can also go to call history,
+so you can see all the different calls
+that we have. So, for example, we get to
+see the call successful. We get to see
+all the transcription here and the
+recording as well, which is great
+because when you're implementing voice
+agents for clients, a big part of voice
+agents is testing and iterating and
+improving the prompt. And so, if you
+have the recording, you can also
+download it, then you can listen back to
+it and you can see what went wrong and
+what you can change in the prompt to
+make sure that you can improve the voice
+agent over time. And again, conversation
+analysis, summary, data, detailed logs,
+and a bunch more other stuff that you
+can do as well. But, mind that for a
+free trial, you do get $10 of free
+credits, and for example, that call
+right there that we just had, that was
+27 cents, right? And for an agent, like
+we mentioned before, the cost would
+depend on the prompt, it would depend on
+the model, but also the voice they use
+in Eleven Labs. In this case, [music] it
+was 12 cents per minute that you would
+have to pay. You see how it says voice
+agent, 7 cents, LLM, which is 4.5 cents,
+and the knowledge base, which is uh
+0.005 cents per minute. So, all of them
+combined give you the final uh pricing.
+Again, if you're looking for the
+knowledge base plus the voice agent
+prompt, there's a second link down below
+to my free school community. You can go
+to the classroom section. You can then
+go to the templates vault and you'll be
+able to see the voice agents under the
+Anna 10 templates. Bear in mind that not
+everybody gets in, so please put some
+thoughts into your answers when you
+apply and I'll see you on the inside. So
+now you understand exactly the
+fundamentals of voice agents, how they
+work and how you can set one up step by
+step in under 10 minutes. With voice
+agents, you can do so much more. There's
+so many use cases, which is why it's
+such a profitable niche right now cuz
+you can solve a lot a lot of problems
+especially for the businesses that pick
+up the phone. And if you want to work
+with me one to one to be able to take
+these skills and actually monetize them
+to be able to start your own AI agency,
+then I left the first link down below,
+which goes through a full video of a one
+to one mentorship program. Check it out.
+If it sounds like a good fit, then feel
+free to apply. And if you're wondering
+how you can build a full agency with
+voice agents, well, check out this video
+up here, which is a two-hour video which
+goes through step by step everything
+that you have to know from learning the
+skill to actually delivering for
+clients. It's an awesome video. I would
+definitely recommend checking it out.
+With that being said, I hope you found
+value from this video and I'll see you
+in the next one.

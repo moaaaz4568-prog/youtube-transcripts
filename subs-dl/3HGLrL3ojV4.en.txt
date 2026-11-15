@@ -1,0 +1,543 @@
+Hey Scott, welcome to the show.
+>> Thanks for having me, Jason. Been a long
+time. I think I've known you eight
+years.
+>> Yeah, from Digital Marketer days.
+>> Those were fun days, man. I still missed
+those events. They were a blast.
+>> They were. I don't know. I don't know
+why they sold that event and then
+whoever bought them really screwed it
+all up. So,
+>> yeah, it was a great vibe of people. You
+know, it was a fun growing industry.
+We're cutting edge. Parties were
+awesome.
+>> Yeah.
+>> Oh, it was fun. There's nothing filled
+the void.
+>> I know. Yeah. I mean, a lot of those
+bigger events are just so boring. I
+mean, that's why I've always stuck to,
+you know, putting on smaller events just
+so everybody can have fun, everyone meet
+each other, right? Like, it's just not,
+you know, the big vibe, but there's no
+one that's filled that void. But I never
+want to create a big one. So, but while
+we digress, tell us who you are, what
+you do.
+>> Sure. I'm Scott Drossier, founder and
+CEO of Wicked Reports. We do marketing
+attribution specializing in e-commerce
+brands, 5 million to 50 million in
+revenue.
+>> Awesome. Yeah,
+I loved uh when when you reached out, I
+was like, oh, I was like, I'm so glad
+they're they're still around. Uh because
+you guys did such a good job on, you
+know, letting us know if our money is
+actually working or not. And today I
+really want to talk about you know how
+people are using AI and how we can use
+AI for interpreting data right I think
+too many people are using AI just for
+you know just in my last episode we were
+chatting about you know everyone's using
+AI for content creation and everything
+looks the same it all looks vanilla but
+you know when you reached out I was like
+man I'd love to talk about you know
+using AI to really kind of interpret the
+data data.
+>> I I can talk about that. We spent uh it
+took us eight months until we released
+an AI analyst in the tool because
+there's a lot of things that AI uh is
+very good at, but data analysis is it's
+very confident every time. Very
+confident and affirmative
+and very wrong at first. Yeah. You know,
+that reminds me of like Chad GBT. Every
+time I ask it a question, I'm like,
+"Hey, should we do this?" It's like,
+"Yes, that's a great idea." I'm like, "I
+just asked you to jump off a bridge."
+I just saw a post by Dan Martell where
+he was like, "Hey, you've got to tell it
+to be very critical." And I was like,
+"You know what? That's a good point. It
+generally always says, oh, it's a good
+idea."
+>> Some of those models still aren't. You
+know, I I tell the model, "Please don't
+use words like fluff and use the double
+dash." And it still does. And I'm just
+like, "God, you're the smartest, dumbest
+AI I've ever chatted with."
+>> Oh, man. Yeah. You know, one weird thing
+about it before we get all in the
+nitty-gritty was that AI has no real
+concept of time. So, like you put it and
+time's so important in attribution. you
+know, there's clicks and then there's a
+lag till the conversions and then okay,
+well, what does that mean? How do I mean
+any of it? And it just couldn't figure
+it out. So, we had to layer in a ton of
+rules and coaching so that and then
+sanity checks after the fact to make
+sure it wasn't
+>> just make it not looking very
+intelligent, frankly.
+>> So, so what are kind of let's start
+there. What are some of the rules that
+you put in place that people listening
+can be like, "Oh, okay." Because some
+people will export all their data, put
+it in one of the one of the models, and
+then they'll just start asking it
+questions, and like like you said, and
+we've been talking about a lot of times
+you'll get like really bad information.
+>> Well, yeah. So, and I ended up creating
+a whole almost a methodology that was in
+my brain around attribution. I had to
+slowly inject into the model. But the
+first thing is that every, you know, if
+you load up all your, let's just say
+you've got three campaigns, one's
+prospecting, one's retargeting, and
+one's direct response, and then one's
+for four, and then one's for existing
+customers to reby. Those are four
+different intentions.
+And so, and so therefore, from an
+attribution perspective, it means you
+want to measure it with a different
+scoreboard. It also means that your
+north star on the on the from the data
+points is different
+>> and the trends you want to look at or
+the supporting metrics or the like the
+leading indicators are different based
+on the intention. So the first big aha
+moment was we got to tell it what the
+intention is for each row of data
+because otherwise it doesn't uh it it it
+just makes stuff up.
+>> Makes stuff up. And so that really
+helped because I was like it's almost
+like four different almost like four
+different games we're playing if you
+have four different campaigns. Uh any of
+them that are the same type of game can
+use the same scoreboard but anyone that
+doesn't obviously you got to keep score
+differently each time. So that was a big
+aha moment.
+I mean the second one was that which
+scoreboard is going to assuming that it
+knew how to keep score in the way that
+was going to be most profitable
+was like it doesn't. It it it latches on
+to rorowaz every time and that might not
+be the goal. It might be if you're new
+customer acquisition, you want to lower
+new customer acquisition cost because
+you load up all the data in there and
+your new and repeat are blended in and
+then it's like, well, I'm trying to find
+new customers say, "Oh, your ROZ is
+great." It might be like twothirds of
+those are repeat customers that you
+actually closed on email or SMS. So,
+that was a eye openener there.
+Oh, yeah. Yeah. You know, it's
+it's sometimes garbage out, but it's
+like how do you figure like I was like,
+man, I felt like I really gave you good
+data.
+You know, it shouldn't be, you know, it
+should be good data in, great data out,
+but it's, you know, a lot of times it's
+like, ah, what's going on here? I know
+with with with our software that we
+developed, it it took a
+>> a lot of massaging and a lot of the AI
+agents that we put out there to, you
+know, tell agencies what they're worth
+based on, you know, a series of
+different things that we ask them, you
+know, it's just like, man, it's like,
+come on. Like, it takes some effort.
+>> It did. It did because uh you know at
+the initial start this was chat GPT35
+when I first started which we don't use
+chat GPT now for data it would just
+mention things you got to do to
+campaigns that didn't actually exist in
+the data I don't know where it came from
+>> hallucinate which it does less
+>> but um yeah if you don't uh because
+sometimes you I always think there's
+this potential for some of the models to
+degrade their overall intelligence
+because of all the the garbage in and
+it's like oh man I get so many thumbs up
+from when I say spend where the rorowaz
+is higher I'm just going to always do
+that and so you know because it's
+learning from millions of people that
+don't know what they're doing
+necessarily when it comes to advanced
+attribution. So uploading all that data
+and not knowing a simple thing is well
+not simple but not knowing hey segment
+new from repeat and only analyze the
+ones you're really going for that
+already get you a mile ahead of where
+you know 95% of the people are going to
+look at the data they're not going to
+think to do that and then they're going
+to just bang their heads against the
+wall why is it scaling because the AI is
+like well rorowaz always seems to get me
+good responses so I'm gonna stick with
+that when really it was new customer
+acquisition costs that mattered
+>> in that example let let's talk about
+kind of your your framework
+that you know most people probably don't
+most ad agencies that are doing
+pay-per-click are not really
+looking at. Can you walk us through that
+kind of framework?
+>> Sure. Sure. I call it the five forces
+and the five frame the five forces are
+intention, expectation, action, outcome
+and then optimization.
+And so each one has specific things you
+do, but again it was we trained it in
+our AI because of necessity more than
+anything but intention which I briefly
+touched on. So what are we trying to do
+here? because that already uh tells us
+the scoreboard, tells us how long the
+game should be. Because like when you're
+doing new customer acquisition, it might
+be a 30 to 90 day measurement window.
+And if you're just doing a direct
+response or it's, you know, abandoned
+cart sequence, that's a 7-day or even a
+shorter window because you're you're
+hoping they're going to buy right away.
+And there's certain different metrics
+that you look at or don't different
+trends that matter, how long the trend
+you should look. Intention covers a lot
+of that stuff. But the big one for for
+agencies for me is the second one
+expectation.
+Which means how are we going to agree to
+keep are we going to have a a alignment
+on how we're going to keep score?
+Because you got a let's say you're an
+e-commerce agency. Well, you got the
+brand owner looking at what a Shopify
+says, maybe going into G4 and then also
+looking at what Facebook and Google tell
+them, which of course aren't going to
+add up. And then they're in their Claio,
+which is claiming credit for everything.
+And then a ten of using a 30-day look
+back on an SMS, which is bananas. So,
+they're all saying all this great money,
+but then they look at their bank
+account, which hopefully is going up
+because they hired an agency, but may or
+may not be. And then they've got all
+these different versions of truth. And
+what happens is then they're going to
+blow you up on Slack. Oh man,
+this this Facebook campaign doesn't look
+like it's doing well. And it could be
+your top of the funnel campaign and
+you're selling something expensive and
+it's going to take like 45 days till
+anyone any bears any fruit. But they're
+in there and they're saying, "We're
+paying a thousand a day. It's been five
+days. We don't have any sales. Turn it
+off." because you didn't get aligned on
+expectations at the get-go.
+>> Yeah,
+>> that one just can save you a lot of
+time. You got to get aligned like this
+is our scoreboard, whatever it's going
+to be.
+>> And then, hey, this campaign is going to
+take a long time because this awareness
+top of the funnel and then you log it in
+like your PowerPoint or whatever you're
+going to report that you covered that
+because you might have to reinforce it
+like three to five.
+>> You definitely have to reinforce that.
+>> Clients are very impatient and they
+forget.
+I've been on the other end helping
+support agencies back in the day when
+trying to like, you know, make sure they
+can execute a top of the funnel strategy
+because that's so important.
+>> The budget got to go to top of the
+funnel and it takes time to convert. You
+got impatient brand owners, you know,
+all the agency competition and people
+coming in trying to poach their clients
+>> and you need to do the spend there
+eventually and it's going to take time.
+And so we try to give them tools and
+that that was part of the framework was
+the expectation setting getting a fair
+level playing field everyone agrees to.
+>> Cool. And what's next?
+>> So the third one is action where you
+going to take action and launch the
+campaign because you've already uh
+agreed on the expectations but also as
+part of the expectations I actually
+missed one piece. Scale chill kill zone.
+So the idea is you're going to set a
+chill zone. Let's use new customer
+acquisition if that's your goal. You're
+going to set a chill zone which is a
+range of acceptable values which means I
+should be able to spend the same amount
+given our agreed upon scoreboard.
+>> Okay.
+>> So let's just say I'm going to measure
+and new customer acquisition cost for 30
+days has to be between 50 and 70 bucks.
+If so that's chill means it's okay.
+Below 50 would be scale which would be
+great. Above 70 mean kill if I can't fix
+it. So you get the score, you get the
+the the goalpost set up before you start
+the game
+>> because otherwise when action you launch
+the campaign, take action
+when you know the every day that number
+is going to be different and so you
+can't have to and that's then you got to
+react to it. Oh, it's 75 bucks. Does
+that mean like it's going up every day?
+Oh, I don't know. I got to go look
+what's the trend been? Oh, wait. It's on
+a Saturday. Maybe that doesn't matter
+because it's a weekend. all this extra
+psychic stress and just drama. Instead,
+you just agree ahead of time.
+>> This is how we're gonna measure it. This
+is how we're gonna go. I mean, you
+probably have many war stories from
+agencies where like
+>> overreactionary brand owners.
+>> Yeah. And then people just spending
+money to spend money, way too much money
+because they really don't understand.
+They just go off whatever that platform
+tells them a lot of times.
+>> Correct.
+>> All right. So, what's next? So actually
+so what's an action?
+>> So when the action uh when you first run
+through it action is to just launch the
+campaign and then take it but then when
+you've already launched it and got
+results and then optimize in the fifth
+phase you come back and then there's a
+decision log of all the different
+actions you can take because like
+there's going to be like campaigns that
+are doing well, campaigns that are doing
+so so and within them some adsets are
+popping, some aren't, creatives that are
+going good or bad. You have all your
+potential decisions based on that ENAC
+range in this example. So you've got,
+okay, this campaign's in the kill zone,
+but do I have any actions I can take
+that are going to solve that problem? If
+so, I'm going to take them. And you sort
+of rank them by uh potential impact
+because there's going to be like data is
+going to tell you a ton of things you
+can do. You don't want to do all of it.
+You want to look at the top impact
+things. Yeah. Start there, then
+reme-measure, then see if you got to if
+you got to keep optimizing or you got to
+move on to a new idea. you can keep
+doing it.
+>> Okay, cool. And then what's after and
+what's the last one?
+>> So then the last one is optimization. So
+we bucket. So this we have like 200
+something data points in our tool, but
+any tool is going to have tons of data.
+And so you want to break it down to is
+it a a creative and offer situation? Is
+it a traffic issue? Or is it budget?
+Because it's usually one of those three
+things. Or fourth one.
+>> You didn't mention audience.
+>> What about that audience? What about
+picking the wrong audience?
+>> Yeah, picking the wrong audience would
+be traffic be part of traffic.
+>> Okay, gotcha.
+>> Or did you buy did you target the wrong
+traffic? Did you buy the wrong traffic?
+That'd be the targeting.
+>> Yeah, there's so many so many different
+factors. I know when we were using
+agency not too long ago, they would just
+run so many, you know, they would start
+off with different ad copy and then
+they'd start messing with images and
+then they start, it was just, it was
+crazy. I was like, man, this is a lot of
+stuff.
+Well, there is and then there's also the
+a fourth one which is getting the right
+signal into the platforms because if
+you're not signaling it to reward it to
+tell it's doing a good job in the right
+way, then you're going to all the
+efforts are going to go for not.
+>> Yeah. And I I see especially Meta with
+with our ads that we're running just on
+remarketing. It keeps claiming stuff
+that it hasn't done.
+>> Yeah. That's how we first had a business
+was for that. But also now it claims
+credit. Uh yeah, it's really good at
+claiming credit. I mean, you'll get a
+sale in arguably four to five systems
+will claim credit between your ad
+platforms and your email and your SMS.
+You're looking at at least four places
+that want to claim credit minimum. So
+sorting that out is one thing, but then
+also trying not to have it then continue
+to want to try to get conversions, the
+ones that you don't want to claim in
+credit for. It'll pivot and start
+claiming more and more of those because
+it's trying to get fast quick
+conversions and when it sees those
+happening, it'll keep
+>> trying to get you those. So how do
+people train train the mo or you know
+train the system to you know not take
+credit and really kind of show what's
+actively working.
+>> So with within meta there's a lot you
+can do with the events manager. You can
+you can create events for new customer
+sales versus repeat. And then when
+you're creating a new ad set, if it's
+related to either a new customer or
+wanting a repeat, which would depend on
+your targeting, you can have the adset
+optimized for this specific event rather
+than just all sales. You can pick it in
+there what is the objective.
+>> Okay? And so what that'll do is then
+like if when it first starts out if
+Andromeda is suddenly closing a bunch of
+people that are already buying rebying
+on your email or already existing
+customers you don't send that signal to
+them for that particular uh campaign. So
+it doesn't know the sale happened. But
+then when a new customer happens you
+they get that notice and they oh okay I
+did a good job and it starts to figure
+it out. And you can even get more
+advanced and do events per new customers
+of specific type of SKUs.
+That helps you if you're trying if
+you're going to launch a C, you know,
+let's just say you have 50 products and
+you don't want to throw them all up.
+Maybe there's just a a product family
+you want to focus on. You can create
+creative around that and then just have
+signals to Meta for that campaign around
+like I don't know whatever your
+particular product category is when
+there's a new customer. And then meta
+can get sometimes you can get dramatic
+drops in new customer acquisition costs
+within like a month. It's not foolproof.
+You still need good creative and the
+product has to be the offer has to be
+good. But
+>> if that is those table stakes are met
+that the missing piece is sometimes just
+the signal meta and needed had to be
+sharpened.
+>> Yeah. I mean at the end of the day it's
+just data, right? Like that's what it's
+trying to do. I mean, it's amazing like
+when I'll go on Instagram and, you know,
+one day I'll be like, "Yeah, I want to
+look for drones and all I see is drones
+and then the next day I see snowboarding
+and then all I see is that." So, it's uh
+it's really pretty it's pretty scary
+about what it knows about us.
+>> It is. I mean, Australia just banned
+social media until you're 16.
+>> I know. I like that.
+>> It just I love it. My kids were like
+horrified. I was like, uh, and I was
+like, we we may move. I mean, why not?
+But
+that's a long way down.
+>> Yeah. Yeah. I've been once. It was
+great, but I don't know. I'm not.
+>> Um,
+if people want to know a little bit more
+about Wicked Reports, where can they go
+and check you guys out?
+>> Sure. Uh, wickedreports.com would be the
+best spot.
+>> Perfect. Um and then also for the the
+methodology around training the AI we
+talked to I have five forces.com can get
+you more about that.
+>> Perfect. Well yeah every everyone I
+Wicked Reports is really pretty cool. So
+I I think you all should check it out.
+It will give you the data that you need
+in order to make informed decisions for
+your clients. So make sure you go there
+now. Check it out. And uh if you guys
+like this episode, make sure you like,
+subscribe, and until next time, have a
+swank day.
+I hope you enjoyed this content. If you
+want more content like this, make sure
+you click on the link on the screen or
+check out your most popular podcast
+platform where the full episode is
+there. And until next time, have a swank
+day.
+What are you doing? Go check it out.
+Click on the link.
+I'll see you soon.
