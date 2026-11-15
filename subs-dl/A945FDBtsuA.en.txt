@@ -1,0 +1,99 @@
+i'm going to show you the illustrator pathfinder
+tool like you've never seen it before unless you
+happen to be a dev for adobe of course but for
+the non-developers out there let's jump into
+some advanced tricks with this thing i have here
+a png image and none of this is vectorized or able
+to be handled in terms of a vector object
+but the pathfinder can help in interesting
+ways with this object now as you can see i've
+made a black shape with the pen tool earlier
+and actually i could neaten this up a tad but
+anyway i have a shape overlaying this layer and
+then some text off to the left i'm locking
+down this png with a command or control 2.
+and then i'm going to place my text in a way
+that i think is going to work for my design so
+as a reminder i have the text on top of the black
+shape and then below that to the png i'm now going
+to hold down the alt option key when clicking
+functions in the pathfinder window and that's
+such as the exclude option found here and nope i
+don't actually like that effect so what about the
+intersect option that looks pretty cool actually
+and i'm also liking the minus front option as well
+again remember to hold down the alt
+option keys when you're doing this
+but we can go even further than that and there's
+something cool about this that you will soon
+see anyway i can make a freeform gradient on the
+shape and repeat the same process over a gradient
+but yeah one of the main uses for this is that my
+text is fully 100 editable i can rewrite things
+change the fonts the color and so on so yeah
+that's the interesting way to use compound
+paths with the pathfinder but what about a
+problem that i'm sure you've encountered before
+i have four black squares and on top
+of that i have this pinky red circle
+now i want to cut this circle into four
+squares leaving negative space in the middle
+if we select everything then hit the minus for an
+option bam we get this that's not ideal okay so
+what if we group the black squares together do you
+think that would work command or ctrl g to group
+them bring the shape back over and nope the knight
+the next logical thing to try maybe is to create
+a compound path from the four squares so let's go
+ahead and do that in the pathfinder panel now when
+i click the my network option nothing seems to
+happen at all that's because we need to hold down
+your top shinky like we did before crucially after
+we've turned the squares into a compound shape
+this is how you cut a shape into multiple
+objects below using the pathfinder
+okay so next something really cool to
+remember and to add into your workflow
+this is why we use the alt option key when
+using the pathfinder tool yes these three
+shapes are in fact united but i can double click
+one of the shapes to enter into isolation mode
+meaning i can then move things around as i please
+scale recolor and so on but also in illustrator
+if i click out of isolation mode i can
+still do things to this united object
+such as edit the live corners with the direct
+selection tool and that is a on your keyboard the
+pathfinder tool is also great for cleaning up a
+design but what do i actually mean by that exactly
+well if i select this object here and quickly
+press command or control k to bring up the
+preferences i'm just going to enlarge my anchor
+points so you guys can see what's going on
+okay so i have a few unnecessary anchor points on
+this object in the pathfinder options menu there
+is an option to clean up redundant points if you
+uncheck this basically turning off you will notice
+that when i click the pathfinder merge function
+nothing happens however if i go back and turn
+that setting on and then click the merge function
+illustrator removes the redundant anchor points
+you can control how precise you want illustrator
+to be so that you can keep the original shape
+intact less anchor points are always better
+as a general rule in adobe illustrator and
+here's another feature of the pathfinder tool that
+designers often do forget about say if i go ahead
+and unite these shapes at the very top and then
+i go along with my workflow i do this i do that
+but then i want to unite the other objects below
+that as well instead of clicking the pathfinder
+menu say if i've just closed it or something
+like that i can just press command or control
+four this is going to repeat the last operation
+in the pathfinder so yeah there are some neat
+things with the pathfinder in adobe illustrator
+if you want to learn more about graphic design
+or ai just click a video on the screen and
+until next time design your future today
+let's peace

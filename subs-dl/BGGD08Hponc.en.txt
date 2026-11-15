@@ -1,0 +1,499 @@
+If I had to start cold email from
+scratch today and build it into a
+channel that generates millions in
+revenue every single month, here is
+exactly what I would do. [music] And
+this isn't just going to be a thought
+exercise. I have already done this many
+times. For RB2B, our cold emails drove
+42% of their entire revenue as they
+scaled from zero to $4 million in annual
+recurring revenue in only 4 months. For
+Fixer AI, we built a machine that was
+sending over 8.8 cold emails per month
+at its peak, signing up over 4,200
+users every single month and generating
+4.3 million in annual pipeline revenue
+for them. And that helped Fixer go from
+launching their product to raising a $10
+million series in only 90 days and then
+scaling to $17 million in annual
+recurring revenue before raising their
+$30 million series B. So, in this video,
+I'm going to break down the exact road
+map and frameworks that I follow if I
+were to start cold email completely new
+for somebody today and show you how we
+think about scaling it from zero all the
+way up to generating 5 million a month
+or whatever or more from it. So, let's
+get into it. So, the first step is
+understanding who can you actually
+reach. Before you send a single email,
+you need to know your total addressable
+market or TAM. Who are the people who
+could potentially buy your product? And
+more importantly, where should you focus
+first? For example, Fixer, their TAM was
+massive. Their product is an AI inbox
+assistant that works with Gmail and
+Outlook. And in B2B, that's basically
+everybody. We're talking 132 million
+potential contacts just in the United
+States alone. And you can't just blast
+132 million people with the same
+message. The difficult task is actually
+figuring out who to go after first.
+Where is your money best spent? You see,
+most people try to go, "Cool, here's
+everyone we can talk to. Let's try to
+predict the 3% of people who are in the
+market to buy right now, and let's only
+talk to them. And let's try to predict
+what message is going to work. Let's try
+to guess." And so, the way that we think
+about this is completely opposite. We
+start big. We go, "Let's talk to
+everybody who could want to buy your
+thing and is a good fit for your thing."
+[music] For Fixer, just happened to be
+132 million people. But the point is
+that you can start really, really large,
+send your best message in, you know,
+multiple combinations of your best
+messages, 25 different campaigns to that
+entire total addressable market, see
+what gets the most resonance, and then
+allow the marketplace to tell you what
+works instead of trying to predict what
+works. And so, what we do is at this
+step, we want to map out the entire
+total addressable market. How many
+people out there? Are there any subsets
+of people? Are there any verticals that
+we think will be drastically different
+from other people? And of course, how
+does that layer in with your product?
+So, first, we want to build that TAM
+list. The second [laughter] is we build
+your infrastructure. You see, most
+people will use one sequencer, one
+domain provider, one inbox type, and the
+moment something breaks, their entire
+cold email operation stops. And at the
+volume we use for cold email, you need
+architecture with full redundancy. And
+for this reason, we've developed our
+process while running three separate
+infrastructure sets for each client. We
+have an odd set, an even set, and a
+burner. And the first half of the month,
+we have odds run. The second half of the
+month, we have evens run. And then, the
+third set is just sitting there just in
+case of backup. Additionally, all that
+infrastructure is diversified between
+Gmail, Outlook, and SMTPs. And lastly,
+we load those into different sequencers.
+Instantly, SmartLead, and Email Bison
+are our top three right now. We load
+them all into there so we can have
+diversity in everything that we're doing
+so we don't get shut down. And then
+lastly, we put Outbound.io up above that
+that analyzes everything and allows us
+to have conversations via AI, Cloud
+Code, whatever your tool, whatever your
+agent preference is. We can have
+conversations with all that data and be
+able to analyze it at scale instantly.
+And so, all of this combined is how
+domains don't burn long term.
+Additionally, what we'll also do is we
+will look up the inbox of the person
+that we're sending the email to and we
+will match the inbox that is most likely
+to deliver them. This changes all the
+time, so follow us for our
+deliverability ports where we share this
+type of data all the time. Most of the
+time, if you pick a certain type of
+inbox, like if you use a Gmail inbox and
+you try to talk to somebody who uses
+Gmail and you use a certain sequencer,
+usually you'll deliver four times better
+than other combinations that could pick.
+So, it's a massive multiplier for us.
+This single tactic has given us anywhere
+from 3x to 16x improvements on our reply
+rates. Next, when it comes to the
+technical setup of actually setting up
+your inboxes, we suggest using
+fingerprintless browsers that have
+residential IPs. And [music] we like to
+only assign one IP to every 200 email
+accounts. And when the account gets
+logged out, we will use the exact same
+IP to log that specific account back in.
+It makes every login appear to come from
+the same location, the same device,
+makes it look like it's coming from a
+human and a house. massive for not
+taking your infrastructure long term. It
+is incredibly expensive. It is
+incredibly complex though, but it is
+absolutely worth it. [music] And that
+level of infrastructure is what allows
+us to send over 12 million cold emails
+every single month. By the way, if at
+any point during this video, you want us
+to build this exact system for your
+company, then check the link in the
+first description and book a free intro
+call with us. But my goal is that this
+video gives you enough information that
+if you would want to do this yourself, I
+truly hope it could serve you well. Now,
+back to the video. So, we like to start
+every client with a 3-month pilot. It's
+super funny. I was listening to a
+podcast from Alex Hormozi the other day
+and he was like, "Dude, people think I'm
+the absolute best at business and it
+still takes me 12 months to build a new
+channel. Why do you think you're going
+to be any better?" And so, the way that
+we think about it is like, "Hey, it's
+probably going to take 6 months to build
+your channel. But our goal is that by
+like day 90, we've built enough
+confidence and belief in our process
+that you want to do this." And so, we
+start every client with a 3-month pilot.
+The goal is simple. Find the messaging
+that converts best and then we scale up.
+You see, we aren't super interested in
+like, "How can we get so many results as
+fast as possible?" Instead, what we're
+trying to do is, "How can we find a
+campaign that just totally slaps? Can we
+find a campaign at scale that signs up
+one user for every 200 emails we send?
+Can we find that? And then if so, great.
+Now, let's send out to that total
+addressable market." And tapping back to
+what I was mentioning earlier, we do
+that through this framework of allowing
+the marketplace to tell us what our best
+ideas are. And that's exactly what we're
+doing during our 90-day pilots. We like
+to test, it depends on the campaign.
+Like if someone's only sending 100,000
+emails a month, we usually like to only
+test about 10 campaigns per month.
+Someone's sending a million emails per
+month, we like to test about 25. And if
+someone's sending 5 million a month,
+then we like to send at least 200. And
+these aren't small AB tests tweaking
+subject lines. We like to start right
+off the rip, completely different
+messaging, completely different angles,
+completely different value propositions.
+Does AI personalization help? Does it
+not help? Completely different offers.
+We go through everything we possibly can
+to find, is there a campaign that just
+totally prints cash? And each campaign
+that we have, it's designed to test a
+specific hypothesis about what the
+market responds to. You see, we treat
+email like ads. We approach it with the
+scientific method where we're trying to
+test out everything to see what works
+best. And if you were ever running ads,
+would you ever just run one ad? Of
+course not. You'd be trying as many as
+you possibly can based on your budget
+and based on your volume constraints.
+And so, the same logic applies here. We
+test variants ruthlessly to find the
+ones that are just the most profitable
+and the spread between the winners and
+the losers are usually massive. I mean,
+even for Fixer, our worst campaign for
+them would take 25,000 emails in order
+to get a positive. But then on the other
+end of the spectrum, we had campaigns
+that would sign up a user for every 600
+emails that we would send. I mean,
+that's a 50x difference on the same
+client, same product, same offer, but
+the copy, we found a special angle in
+one of them that made it print. If you
+only test one variant, you could pick a
+loser and assume cold email doesn't
+work, which is why I I very much
+disagree with how other people do cold
+email typically. It's like they're
+trying to predict. I'm trying to use
+live in reality and allow the
+marketplace to tell us what exactly we
+should do cuz I'm willing to put the
+time and the money into it. And I would
+argue that with our approach, you get a
+crystal clear picture of what's working
+and also what's not, which is very
+valuable and what you should double down
+on. Then, once we find the winners, we
+move into our 70-20-10 framework. If I
+could name the previous framework, I
+would call it an accordion where you're
+trying to expand in order to figure out
+where you could target. And then once
+you figure out good targeting, then we
+pivot into the 70-20-10 framework. So,
+what is that? 70% of volume goes to
+proven winners that are printing
+results. 20% of our volume goes to
+better versions of that campaign or
+different types of things on that 70%.
+And then 10% is just completely new. It
+is balls to the wall, crazy aggressive
+offers cuz what we're trying to do is
+build insurance because we know that
+that 70% is probably not going to work 6
+months from now. So, we need that 10% in
+order to tell us what we should be doing
+later. So, once you have all the data
+from your testing, we now double down on
+what works. We kill all the losers, we
+scale the winners, and we find that what
+works is very different for every single
+client. For RB2B, short and punchy copy
+crushes it. But for some of our other
+clients, short and punchy completely
+fails. They need maybe a little bit more
+analytical. They maybe need something a
+little bit more marketing and
+storytelling that's a little softer, a
+little happier, and you have to test and
+see which ones work. For 99% of our
+clients, follow-up emails are a complete
+waste of time. For one of our clients
+right now, the fifth follow-up email
+slaps. It prints cash. It is like the
+most mind-blowing thing. And they told
+us this, too. They're like, "Follow-up
+emails do great for us." I'm like,
+"Dude, there's no way." Email one goes
+out, I'm like, "Yeah, it's not working."
+Email two, email three, email four, I'm
+like, "Guys, this isn't working." Five
+prints. And I don't get it. This is why
+we test everything. I am not that good.
+But regardless of that, there are some
+universal best practices that are
+semi-true for all clients that we can
+rely on. So, one is no links in the
+first email because spam filters will
+hit that. You look like a phishing
+threat to a company. You should also, if
+you want to link your company in your
+signature, don't actually put a link.
+Spell out the company, but insert a like
+dot. So, like sales automation
+{parentheses} d o t {end parentheses}
+systems. Don't do sales
+automation.systems.
+You also don't want to over-personalize
+it with AI. And of course, if you have
+an offer that slaps, that matters more
+than any of the fancy copy strategies we
+could possibly go over. If you ask me to
+send the best cold emails in the entire
+world with the best deliverability, but
+your offer is, "Hey dude, we have the
+best bags of poop in the entire world.
+Do you want one? They're completely
+free." We aren't going to get results
+for you. And so, the offer truly is the
+thing that moves the needle here. So,
+once you have winning copy, then we also
+layer in segmentation. We test those
+inbox typeses, the seniority of the
+company, what industry is the company,
+what is the company size, and we do all
+those subsets in between there. And the
+spread between best and worst segments
+can be massive. You see, we've we've
+seen 7x differences just from targeting
+the right combination. And when we
+combine this with the testing that we
+previously did, that's where we find the
+real winners. And so, that's when we can
+go into One of my favorite frameworks
+is, "I just want to send one email to
+your total addressable market every 60
+days." Your entire marketplace gets one
+email every 2 months. No follow-up
+sequences. I believe this is how you
+don't annoy your market into oblivion.
+Like I mentioned earlier, only about 3%
+of the market is ready to buy at any
+given time. Most people try to predict
+who that 3% is. I've kind of laid out
+why I think that that is not the most
+effective way to go about it. And we
+like to write for the 97%. We reach
+everyone consistently with one clear
+message. We're also trying not to think
+about just right now. We're trying to
+think about where is your brand and
+where is your company 12 months from
+now. We want to build a channel that
+still works 24 months from now. And so,
+I would rather hit them once a month,
+once every 2 months. They know who we
+are. And when they become the 3%, they
+immediately think of you because they've
+seen our ads via cold email. Anyways,
+you combine those together, you start
+going, "Okay, when we send this message
+to someone who has a Gmail inbox, who is
+a founder of a SaaS company, and we use
+this type of inbox, we know that we
+convert them for every 600 emails we
+send, and we know that that particular
+list has 300,000 people inside of it."
+So, now we take that list, we put it in
+that campaign, we make it so the
+campaign spreads out that volume over 60
+days, and we just let it sit there, and
+we call that an evergreen campaign. It
+just runs. And now we have a pillar set
+up for a client. And then, we still have
+all that other testing going on with all
+the other volume in the other parts of
+the total addressable market at the same
+time are setting up other pillars. And
+our goal is we set up as many pillars as
+we can, and we just keep going through
+this process over and over again. And
+all these things help us. The 70/20/10
+makes it so that each one of those
+pillars starts getting better and
+better, and doesn't expire, and we don't
+lose all of the work that we're doing.
+But in order to get this, you need to
+have tracking that actually matters. As
+you saw from everything I explained so
+far, data is everything. Saying I really
+like is that when you have the data,
+your decisions are made for you. And so,
+we obsess over this stuff. Every
+decision that we make is backed by data.
+If we can't measure it, you can't trust
+it. That's really difficult in the cold
+email space though, because every
+sequencer is a little different. If you
+send a campaign you can have the exact
+same campaign on Instantly, on
+SmartLead, on EmailBison, and they will
+all measure reply rates differently.
+Some of them will include out of office.
+Some of them will include auto
+responders. Some of them won't. They
+also won't tell you what your human
+reply rate is. So, what's a human reply
+rate? That is how many humans actually
+wrote the email back to your message.
+That's where you should actually measure
+your positive reply rate from. You
+should be going, "How many humans
+actually replied, and how many of them
+were positive?" Regardless of out of
+office. Look at your sequencer right
+now. Does it tell you what your out of
+office rate is? It doesn't. It doesn't
+tell you that. And that's probably good
+information to know. It's probably good
+to know when the out of office
+responders spike from 15% on average to
+40% on average. Now you know that twice
+as many people are out of the office
+typically, so you can account for that
+in all of the rest of your data. And so,
+that's exactly why I've been working on
+outfound.io the last 18 months,
+honestly. What I wanted something
+something that unified all my data,
+actually gave ownership of all of my
+campaign data, and then gave me the
+tools so I can find all of my data that
+was in my outbound stack already. Hence
+why we called it outfound. And we
+haven't launched it yet. We're just
+about to start taking our first beta
+users. And so, if you want to be on our
+waitlist, there's a link in the
+description for you. So, once you have
+the analytics layer in, then you can
+really start understanding a lot of
+these special these important metrics
+that I'm talking about. Being able to
+know what is your email to lead ratio?
+That's how many emails do I have to send
+in order to get X result? How many
+emails do I have to send in order to get
+a positive reply? How many emails do I
+have to send in order to get a sign-up?
+That's the other thing we do is we
+actually set up attribution tracking
+with all of our clients. And so, all of
+our clients, they stream all of their
+sign-ups, their meetings booked, their
+paying customers to us, and we
+cross-reference those with our email
+sent logs. We go, "Cool. We emailed you
+on this day. 7 days later, they signed
+up. 3 days later, they booked a meeting.
+3 weeks later, they became a paying
+customer." In fact, we had a campaign
+just last week where we thought one
+campaign was really, really good. It was
+getting the most positive replies, but a
+different campaign was actually getting
+more meetings booked and had a higher
+show rate of the booked meetings. And
+so, and you don't know that if you don't
+have the proper analytics in place to be
+able to pick up that data. And so, those
+are a bunch of the things that we
+optimize for. And so, that's what I
+would do from beginning to end. Those
+are kind of my overall frameworks. If I
+can get it down into a 15-20 minute
+video, that's how I think about this
+stuff. A journey from How do I actually
+go from zero to a machine that can print
+$5 million a year for a company. If you
+want us to do this exact same thing for
+your SaaS or AI or B2B services company,
+then click the first link in the
+description and and book a call with us.
+We've sent over 50 million cold emails
+using this exact system, generating
+millions of dollars of revenue for
+clients like Fixer, Our B2B, Directive,
+Testimonial Hero, Abe. There's a lot of
+other companies we're going to start
+talking about within the next few weeks.
+And so, click the first link below to
+book your free intro call with us, and
+we'll show you exactly what this could
+look like for your business. And if you
+want to see the complete breakdown of
+how we built a $32 cold email machine
+for Fixer AI, then watch this video
+next.

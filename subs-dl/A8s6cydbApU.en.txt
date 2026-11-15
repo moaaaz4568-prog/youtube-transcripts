@@ -1,0 +1,534 @@
+I built an automation that allows you to
+post one piece of content on all social
+media platforms with one click of a
+button. This automation will take the
+content directly from your Google Drive,
+generate a caption using AI, and put
+together a finished version that
+includes caption, a call to action to
+push people to your free resources or
+offer, and then upload it on all social
+media platform. And in this video, I'm
+going to break down for you exactly how
+you can recreate it for yourself. So,
+let's get straight into it. All right.
+So, as you can see right here, this is
+the automation. So with no further
+hesitation, I will go ahead and in this
+video break down exactly how you can set
+it up exactly the same as you can see
+right here. Now the goal with this video
+is really to give you an overview. You
+will find a bunch of links in the
+description that we will guide you in
+every single step of the way. Now this
+will be an incredibly long video if I
+had to break down every single step on
+how to set it up. That's why I decided
+to also include some links for
+explanation of more basic concepts of
+how you can set up an automation like
+this. But with that being said, this is
+the automation. I will also leave, of
+course, the template that you can just
+copy and paste directly in the
+description. And I also do just want to
+mention real quick, we actually help
+people that have businesses scale
+through content. So if you're ever
+interested also in getting our help when
+it comes to that, you can just check the
+first link in the description. Now, with
+that being said, let's get straight into
+breaking down exactly how this
+automation work. Then we'll go ahead and
+break down also exactly what you need in
+place to be able to create this
+automation and all of the different
+things that you need to set up, all of
+the different accounts that you need to
+set up. Now, as you can see right here,
+the automation is based on a schedule
+trigger. So, this will just be triggered
+periodically after a certain amount of
+time. This is totally arbitrary. You can
+set it up depending on how often you
+want to post the content or at least how
+often you want for it to check for new
+content that you prepared. Now, once
+that happens, this automation will go on
+notion. Now, if you're not familiar with
+notion, it's a very simple app and setup
+that, for example, we personally use to
+create all of our content or at least to
+schedule of our content to keep track of
+everything and have our nice content
+calendar. And even for that, I will
+provide a template for you in a second.
+So, again, for every single one of these
+pieces that you will see, don't get
+scared, don't get confused. I have
+already pre-made templates and I already
+done the work for you. Now what will
+happen is this automation will go into
+the notion calendar in our case for
+example and so it will analyze and it
+will see if there are new pieces of
+content ready to post. Okay, if that's
+the case the automation will actually go
+in and then split up into three
+different branches. And so I'm going to
+explain to you every single one of them.
+The first one is uh basically just
+taking the script of the video which
+again when I'll show you the template in
+a second you will understand exactly
+where it will be which is inside of this
+pages in notion and through a request
+that it will do to one of the services
+that we will set up. It uses AI to
+generate three different versions
+basically of a caption for the video.
+Okay. Why three different versions?
+because every single social media
+platform has different requests when it
+comes to that. It has different
+limitations when it comes to that. And
+so what I basically created is something
+that creates uh first let's say a
+YouTube title. So a very very short
+description and just a very short and
+catchy title which is just under 100
+characters. Then one that will be short
+and so a short description but with a
+little bit more information and then a
+longer description. So, this will be
+like a caption that has, you know, 2,000
+characters or so in which it kind of
+breaks down what the video talks about.
+And um once that happens, there will be
+this second portion of the automation,
+as you can see right here, that will
+basically take two different videos from
+your Google Drive. And I will also
+explain to you in a second why two
+different videos. and uh it will
+basically put together these videos with
+this captions and it will just update
+the status of the video in your notion
+database and it will just say okay cool
+I've actually posted this and it will
+also send you a notification via email
+when that happens and as you can see
+right here it will post on all social
+media platforms. Now, there is one that
+we excluded actually, which is Tik Tok
+because honestly, Tik Tok doesn't really
+bring that many conversions. At the end
+of the day, we do it mostly for business
+purposes and we create educational
+content. So, it's not really the best
+platform when it comes to that. But with
+the service that I'm going to show you
+in a second, how to set up with the
+account of this app right here that you
+can see, which is called Blot, you can
+also upload on Tik Tok as well. If you
+want to add that, you just need to
+basically just add a node right here.
+Okay? Okay, so you will just need to
+search up for potato and add your node
+or just duplicate it from here and then
+select Tik Tok as the node that you will
+actually use to upload. Now, with that
+being said, let's break down step by
+step exactly what you need to be able to
+set up this automation and then I will
+run through it again to show you exactly
+how you can set up each and every one of
+these or what you might want to
+personalize in this automation. Now, the
+first thing that you will need is a
+notion template. So as you can see this
+will be the version that you will
+actually have on your notion. So right
+here you will have your piece of
+content. This will be the title. This
+will be your script let's say. And uh
+once you actually write down here your
+content ideas and you script them and
+you want to actually schedule them on a
+calendar. You can just select the date.
+Let's say I want to post it tomorrow and
+it will appear right here. And of course
+I can do the other way around as well.
+So clear this up and it will go back
+into the content ideas. And then I have
+the status. This is the property that we
+will use to have the click of a button
+that will trigger the automation. that
+will be the ready to post and um before
+that there will be just all the other
+statuses that you can use just to
+organize internally all of the stuff.
+Now when it comes to the pieces of
+content there are also a bunch of
+properties that you can see right here
+that I'm going to explain to you right
+now. So there's two different Google
+Drive folder links that you will have to
+put and this is because we have two
+different versions of the video. Now you
+can actually also simplify this if you
+wanted to and you can just put a call to
+action as you can see right here.
+episode you have common call to action
+and caption call to action. So, real
+quick explanation. If you're not that
+familiar with Instagram, for example,
+what we play a lot with is we push
+people to comment a certain keyword to
+send them a specific resource in DMs
+because you can actually do that through
+automations. Now, you can't do that on
+most platforms actually just on
+Instagram and Facebook. And so, because
+of that, we create a version in which
+for example, we say, hey, you want this
+awesome scripting template, then comment
+script. And then we will have another
+version that's for all the other social
+media platforms that will be hey you
+want this awesome scripting template
+then check the description below because
+then based on the platform we can either
+put a link in the description or we can
+push people to send us a DM on
+Instagram. Okay. And so because of this
+variation of course again you can over
+complicate stuff as much as you want.
+This is just how we do it. You can also
+simplify it and just be like okay you
+know what cool I just want one single
+version which will be check the caption
+below and that's it. And then you can
+just put on Instagram uh call to action
+that will be to make people comment. We
+actually do have Instagram as our main
+platform. So we really care about having
+the call to action also in the video and
+that's why we make a distinction between
+the two. And then will be just this
+first line. So this will be the first
+line that appears on your post and you
+have a version that has no link. This is
+with actually one single platform which
+is threads because in threads you can't
+actually put a link and you also can't
+get people to comment a keyword to
+trigger an automation. You have the
+common call to action which as I was
+saying will be for Instagram and
+Facebook. So for example comment script
+and I will send you this awesome
+template. And you have first line link.
+This is for all the platforms that
+actually support links. For example,
+linkadin and so linkadin can take a link
+that people can actually click. And so
+because of that we have this as an
+option. Now with that being said, this
+is everything that you will need to set
+up manually inside of the content idea
+when, for example, you create your
+content. Then there are a couple of
+other things that you will need. First
+one, an account on NA10. Now, you
+actually have two options for this. You
+can either set up an account directly on
+NA10 and I don't know honestly exactly
+the price because that's actually not
+the way that we did it because you can
+actually also self-host NA10. Now, this
+is a completely separate topic. I'm not
+going to go in depth on this. I will
+actually link a different video from
+someone else that's even better than me
+probably at explaining it because it's a
+little bit more technical. So, you
+basically have two options. If you have
+less budget, then you can start like
+digging a little bit deeper into
+self-hosting of any 10 because it's
+basically free. And so, if you self-host
+it either for free or for a very little
+price, you're able to run all of this
+automation on a server that's your own.
+Otherwise, you can just do it on uh the
+cloud of any directly. So these are the
+two options that you have, but you will
+need a NA10 setup of some kind. One of
+the two at least. And then the second
+thing that you need is a Blot account.
+Blot is the app that we use to be able
+to repurpose stuff across different
+platforms because it basically just
+collects all the different APIs of these
+platforms. And so this is because for
+example, some platforms are already
+available in any but not all of them.
+For example, Instagram and Facebook are
+a little bit more tricky sometimes to
+post. And so it's easier to go through a
+third-party provider like Plot. And this
+is not sponsored. It's not nothing,
+okay? You don't have necessarily to use
+this if you can find another app. This
+is just what I found to be the best and
+most reliable one. And so this is what
+we will set it up with. You will find
+links again for all of the stuff below,
+both for NA10 and Bloator as well. And
+the last thing is Open Router. This is a
+really really cool um website and
+platform that you can use to be able to
+call all of the possible different
+existing AI models and put them into
+your automations. And it's actually
+really cool because some of these AI
+models are actually completely free. And
+so this whole setup is actually not
+expensive at all which is really really
+cool because overall for example for us
+to run this entire thing we basically
+just have the cost of blot and
+self-hosting any which are both very
+very minimal. So this is very very
+powerful also because again then you can
+use it also for other automations. So
+it's incredibly powerful and useful. I
+will highly recommend setting it up.
+This is also completely free, I think.
+Or maybe you just need to charge a
+little bit of credits in it. But again,
+we're going to use a free AI model, so
+you don't really need to spend any money
+on it. Now, once you have all of these
+accounts set up, going back to the
+platform, you will have to just make
+sure that you set up every node
+correctly. Now, when it comes to this, I
+will highly encourage you to refer also
+to the NA10 documentation because I'm no
+expert on this stuff, honestly. And I
+will also highly encourage you to use CH
+GPT all together in this automation if
+you ever face any issues. Again, this is
+a pre-made copy and paste thing. You can
+take it and it will fundamentally work.
+You just need to plug in your own stuff.
+But if you can encounter any errors or
+any problems, I highly recommend just
+pasting them into Chbtd. You might need
+to go a little bit back and forth, but
+it's fairly reliable when it comes to
+solving these issues. So, basically what
+you will need to do is uh set up your
+schedule trigger. Okay, so this is just
+up to you. I set it up to 5 minutes.
+Again, this is what you will find the
+automation preset to. This is just how
+often it will check your calendar to see
+is there anything that's ready to post.
+Okay, so it also depends on the content
+volume that you put out. If you put out
+a lot of content, you might want to
+expand the time so that at least it
+checks for example every 1 hour and you
+don't post too many videos all at the
+same time. Then the next step and here
+you will actually need to connect your
+notion account. So on here you will need
+to click on create new credential and
+right here you will actually need to
+integrate your notion account. So again
+when it comes to all of this stuff I
+highly highly recommend you just look at
+the docs of any for me to break down
+every single one of these steps. it will
+take like 30 minutes of video for every
+single node. So it's absolutely not
+worth it. This is more of like a overall
+like overview of the platform and the
+NA10 automation and how it works. So
+basically here you will just need to
+select the database of notion. That's
+your actual content calendar. And so as
+you can see right here we have create
+content club uh the content calendar. So
+that's basically it when it comes to
+this node. Pretty simple setup. Now when
+it comes to the if I actually can remove
+this part because it's not relevant in
+this case. So you will just want to
+check for however you called in the part
+here like of course all of this stuff as
+you can see right here on the left. This
+will be like the actual stuff that there
+is in the notion and it will populate
+once you execute the automation for the
+first time and you will have to just
+take the property that represents the
+status of the post which was the one
+that I showed you before. So this one
+right here. Okay. And and then just
+check for it to be ready to post. So it
+will basically just conditionally check,
+okay, is this post ready to post? If
+yes, then cool. Let's move to the next
+step. Now in the next step, we will just
+have this portion that you basically
+don't really need to touch outside of
+just like the specific properties that
+you will need to plug in. But I already
+created some scripts for the AI to
+generate the caption. So basically you
+will have a node that just again refers
+back to what I was saying. So you need
+to first run the automation to select
+the specific property that you're
+calling here. But it will take that and
+it will just uh read throughout the
+entire script that you wrote. So as I
+was saying, as I showed you here, what
+we do is we have our nice content
+script. And so this automation will just
+basically read everything that it finds
+here. And so it will read all of that
+and then it will just format it and send
+it over to open router. Open router the
+one that I showed you before. And
+specifically, as you can see right here,
+what I'm using is deepseek and uh chat
+p3 which is free. Okay, it's actually
+like you make make sure that this is
+correct. But again, if you copy and
+paste the same template, this will be
+correct. And then again, the only one
+thing that you will need to replace is
+this. So every time that you see these
+gray parameters or if you execute the
+automation, they will probably be red
+because of course they need to match the
+exact ones that you've actually set up
+on your side. And so if they are not
+called exactly the same or if you change
+any of the names, then these are dynamic
+parameters. So they might break. And so
+you just want to make sure that this you
+actually take it from this left panel
+and it will have to be the one from your
+specific notion once you connected it.
+And basically again as I was saying this
+will generate the three different
+versions of the captions. So the three
+scripts are also different. If you see
+right here okay so for example this one
+has uh the limit of uh let's see real
+quick I can't even find it 200
+characters. Okay so this is like the
+super short caption type of thing. And u
+then when it comes to this bottom
+portion okay here you will want to
+connect your Google drive. So this again
+will be just like your Google Drive
+credentials. Again, I will highly
+recommend you refer to the documentation
+when it comes to how to connect that.
+But this is basically how it will need
+to be set up. So again, you can just
+copy and paste this automation. Most of
+the stuff will be pre-made. But if you
+encounter any errors is most likely
+because you just like haven't connected
+the specific thing on your side. And
+when it comes to that, of course, I I
+cannot assist you because most of this
+stuff is like the secret API keys and
+stuff like that that leaves on your own
+Google Drive for of course obvious
+security reasons. Now, this will then be
+uploaded to Blot and uh as you can see
+right here, then we have just a node
+that merges everything together. And so,
+it basically just puts together the
+different captions with the video in one
+version. And here the different captions
+with the other video, the other version.
+So, as I was mentioning, one will be the
+caption call to action and one will be
+the coming call to action. And then you
+will have to connect your Gmail or
+whatever. Honestly, when it comes to
+this, you can even just set up Telegram,
+WhatsApp, whatever kind of notification
+you prefer to receive once the post
+actually goes out. And then, of course,
+when it comes to the social media
+platforms, you will actually need to
+connect them on Blot. So, inside of
+Blot, when you log in, you will be
+prompted also to connect all of your
+social media platforms. And then once
+you actually have that then you will
+just use these nodes. And as you can see
+right here, okay, these are all just
+combinations of the long caption or
+short caption and then the first line
+that I wrote right here. Okay, so all of
+these are already basically linked to
+the right social media platforms
+depending on if they support links or if
+they support comment call to actions or
+if they don't support any links. And
+then depending on the platform and
+depending on how many characters the
+description of the post can be this is
+also already set. And this is also as I
+was saying why we generate three
+different captions. So this is basically
+it. The automation is very comprehensive
+and it basically takes into account
+every single possible situation that you
+can think of. Now, I do have a separate
+automation actually that I'm working on
+when it comes to carousels because
+carousels, for example, for us are
+working really well on Instagram right
+now. So, if you're interested in that,
+you can just let us know in the comments
+below. And again, if you encounter any
+errors, I highly recommend you go
+through Chbtd because I am absolutely
+not technical about this stuff. I
+literally found out about any of these
+things like a couple of weeks ago and
+still I managed to pull this off. So, I
+promise you it might take a little bit
+of time, but it's 100% worth it because
+this is incredibly powerful to be able
+to just click one button on your
+calendar and have this post go out on
+all social media platform. That's
+genuinely something that I wish I had
+two years ago when we first started
+creating content. Once again, if you're
+interested in working directly with us
+to implement this and also all of the
+other systems that we use to help our
+clients scale their businesses through
+content, you can just check the first
+link in the description. And for all the
+templates and anything that I mention in
+this video, you will find links in the
+description with this video.

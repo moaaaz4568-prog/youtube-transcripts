@@ -1,0 +1,2168 @@
+If you're serious about marketing, you
+must watch this video because in this
+episode I sit down with James Dickerson,
+aka The Boring Marketer, who's going to
+show you step-by-step how to use Claude
+Code to 100x your marketing. Now, you
+don't need to know how to code, you
+don't need to have experience, you
+literally don't need anything at all
+because James is going to break down the
+entire process for you step-by-step.
+This is the future of marketing with AI,
+so let's jump in.
+All right, I'm here with James
+Dickerson, The Boring Marketer. So,
+James, what are we going to be learning
+today?
+Well, I want to show people that they
+can use just a few AI tools and
+something called skills to replace a
+five or ten-thousand-dollar marketing
+agency in their
+uh smaller local business. So, um huge
+unlock, we're going to go through Claude
+Code. If you don't know what it is,
+that's okay. We'll go through it, show
+you how to set it up, and uh we'll show
+you how to create some awesome assets
+that actually perform. Perfect. Now,
+before we dive in, so give us kind of
+your background and why is it that
+people should listen to you? Yeah, so uh
+online I'm known as The Boring Marketer
+um and I share a lot of like, you know,
+practical use cases around business
+growth with AI. So, I focus specifically
+on marketing. I've been doing marketing
+in one way or another since roughly
+2012, 2011, something like that. Started
+building my own products and my own apps
+and um spent a little time at a venture
+capital firm in Chicago, advised much
+portfolio companies and everything, and
+then I've been consulting small
+businesses, startups, etc.
+for over 10 years now.
+Uh when AI hit, I knew it could be done
+differently, it could be done a
+different way. So, I started just diving
+in, experimenting with my own products,
+my own services, and I've learned a ton,
+and I've just openly kind of shared what
+I've uh discovered online.
+I feel like that's the best way to do
+it. And then what I love about your
+content and your approach is that you're
+speaking from experience. Like
+everything that you kind of put out
+there, you're like, "Hey, this is what I
+did." or "This is what I'm doing." It's
+not like, "Hey, this is what you could
+do." So, I feel like that's probably why
+it's usually pretty well received.
+>> There's a lot of hype out there, you
+know, and there's new tools every single
+day, every every single week, and you
+know, people get the shiny object
+syndrome, and they forget that they
+actually have a business to work on, and
+I don't think that most people know just
+simple practical ways to apply this
+stuff to, you know, benefit, you know,
+their SEO or their email marketing or
+their social media. These are things
+that companies spend a ton of money on,
+and what I personally found is that not
+only can you move a lot faster once once
+you know how to use these tools, but you
+get better results and better outputs.
+>> Right. So, you know, you can train your
+team, you can use it yourself, you can,
+you know, kind of upgrade yourself and
+upgrade your AI at the same time. For
+sure. And so, what we're going to do
+today is is you're going to be giving us
+some some marketing sauce like screen
+share style. So, what are we like what
+are we going to be looking at? I think
+we're going to be building what a 14-day
+nurture email sequence or a basically
+for a small local service business.
+That's kind of the avatar that we're
+using to build this, is that right?
+>> Yeah. Yeah, so you know, I'm not an
+email marketing expert. Uh I know about
+email marketing, but what I did was I
+used some AI tools and and techniques to
+train my AI how to become an email
+marketing expert.
+So, I have a process that I use to build
+what's known as skills, and skills are
+like deep instruction files that an AI
+can follow. So, it it basically teaches
+the steps, the processes, the
+frameworks, the strategies, you know,
+from how to sequence your emails, how to
+write your emails, how to have strong
+calls to action so people actually open
+and click and convert. So, I created a
+skill file that I've used to build some
+sequences for my own business. We'll
+walk through how to do that. We'll look
+at the content, and we can even talk
+about how to turn that email sequence
+into a social media content, blog posts,
+other things of that nature, too. And
+we're going to go into all of that. So,
+again, what I love about this is it's
+going to be screen share, it's going to
+be super tactical. So, if you're
+listening on a podcast platform, this is
+where you'd probably want to switch over
+to YouTube. But, if you don't have the
+ability to switch over to YouTube, we
+will just talk through it as if you're
+right there watching the screen. So,
+James, why don't you first and foremost
+share that that graphic with us that
+we're going to kind of be building the
+sequence off of. It's kind of the the
+framework for how a really good 14-day
+email sequence should be structured. And
+why is it that you built it that way
+first and foremost? You got it. I'm
+going to record my screen here, so might
+have to edit that little part out. Just
+give me a sec.
+All right, I'm going to browse through
+my tweets and find where that sequence
+is. So, here it is. How to structure
+high converting email sequences. So,
+copy this or give it to AI is what it
+says. And essentially,
+what we're going to do is imagine you
+have, you know, a small business. Let's
+Let's say you have like uh a financial
+advisory service or wealth management
+service, something like that. Uh someone
+finds you online whether through, you
+know, Google search or some ads that
+you're running or maybe from social
+media. And uh most businesses don't have
+a good way to take that cold traffic,
+warm them up, engage them, and then get
+them to book a call. Most people are
+like, "Book a call with us."
+>> Right. They try to go for the kill right
+off the bat, and very rarely works.
+>> Yeah, and no one knows who you are, why
+I should trust you, who else is getting
+good results, etc. So, um you know, most
+people need some sort of mechanism like
+a lead magnet to get an email address so
+that they can, you know, follow that
+process. Now, a great simple lead magnet
+is an email sequence.
+A lot of top creators use that, a lot of
+successful consultants and businesses
+that have sort of cracked growth online
+create an educational email course.
+>> Yes, I've seen so many, and I as a
+consumer, right, I I love a really good,
+well-crafted email course, and
+again, from a consumer's perspective, I
+feel like the ones that I've actually
+followed all the way through, most of
+the ones I've taken myself are like
+five-day email courses, and the best
+ones are like they give you some sauce
+on day one, and they're like they kind
+of leave a cliffhanger, and they're
+like, "Well, hey, if you want, you know,
+the answer to this question or if you
+want the next step, you've got to tune
+in to day two." So, I'm like
+waiting for day two to drop, and then
+same same type of sequence, and each day
+Yeah. I'm more and more confident in
+their service and in their ability to
+deliver. So, that's kind of the the
+idea,
+>> Right. If you can solve a burning
+problem for, you know, the people that
+are visiting your website via email, you
+know, the likelihood that they're going
+to get on a call and you can take it to
+the next stage is way, way higher. So,
+the way I've structured this one is, you
+know, they sign up for the email course,
+on day one I'm going to give them
+something actionable that they can go
+and do. I want them to get something
+valuable and tactical. I don't want to
+dump a bunch of information on them that
+they're not going to use, they're going
+to tune out. So, I want to keep that
+short, I want to say, "Hey, you know,
+here is um how to restructure your
+portfolio by using AI." or something
+like that. You know, here's a simple
+prompt that you can go and take into
+ChatGPT and find new investment
+opportunities or something along those
+lines. You know, so And again, we're
+taking the frame as you're assuming that
+like, "Hey, if I was a wealth manager,
+like uh
+Right. Yeah, like how to love how we
+level up portfolio management with the
+use of AI or something like that.
+Uh just coming up with like a a mock
+example, but, you know, deliver that,
+you know, actionable two-minute sort of
+result that they can take. This comes
+from your process or your framework, and
+then your job through the rest of the
+sequence is to show why it worked,
+what's the methodology behind it, how
+you think, what's this total system that
+this kind of plays into. How does it
+benefit, you know, whoever this ICP is
+or ideal customer profile? Maybe it's
+retirees with a two-million-dollar plus
+net worth between age, you know, 50 and
+65, something like that.
+Um what are others, you know, getting or
+generating from this service and this
+methodology? How's it different? Maybe
+you're faster to respond to market, you
+know, movements or something like that.
+Maybe you're able to deliver outputs
+that say like a Goldman Sachs would
+uh by leveraging these tools at, you
+know, a fourth of the cost and half the
+time. You know, this is a way for you to
+be able to educate your prospect on kind
+of like really the core angles and
+benefits of of working with you.
+>> For sure.
+So, um after that, we get into kind of
+like the offer. So, what is it that you
+do? If If I were a wealth manager or,
+you know, a financial advisor or
+something like that, my goal would be to
+sit down with the prospect and and get a
+meeting going.
+Um or do you like a virtual, you know,
+meet on Zoom or something like that. So,
+given that this is sort of like a big
+decision for prospects, I still don't
+want to ask them to like, "Hey, go sign
+up and transfer your portfolio." You
+have to understand the customer journey
+a little bit, you
+>> Yeah. And there's these micro
+commitments along the way. The first
+commitment was, "Hey, go and try this
+and see that it works." The second
+commitment is, "Okay, now you trust me.
+I've told you I have a system. I've
+shared the social proof. I've told you
+how I'm different. Let's get on a call."
+Right.
+>> You know, and what's the result going to
+be of that call, too? Mhm. I have to
+knowing what they're going to get out of
+it before they book it cuz if they
+don't, then it's like,
+"Why am I booking this call?" Is that
+what you're saying?
+>> exactly. So, you know, if I were
+starting a business like this, I would
+lean into sort of the the AI angle. Um
+so, I would say, "Hey, I have these AI
+tools or agents. We're going to sit
+down, I'm going to interview you. I'm
+going to run this information through
+our system and you're going to see how
+we could optimize your portfolio and
+you're going to walk away with a guide
+on how you could go implement something
+like this yourself or you know a plan
+for how we could work together and you
+would get a better experience in
+whatever you're currently doing.
+>> Yep. So, you know, leave the optionality
+there. Let them like, you know, see the
+value, feel the value and uh and and
+make that decision to come and and work
+with you. And I feel like the the beauty
+of a sequence like that is by the end of
+it if you do it right
+a good prospect is going to be like,
+"Wow, they just gave me so much value."
+You talk about those micro commitments.
+It's almost like with each micro
+commitment they make, it's kind of
+adding to that sunk cost factor of like,
+"Well, hey, I just spent, even if it was
+only a couple of minutes, engaging with
+James's content or learning how he does
+things, I'm just going to be so much
+more likely to proceed with him than I
+would be to go and start that process
+over again. Right. Even if the
+quote-unquote sunk cost was only 5
+minutes of my time or 20 minutes of my
+time. Right. And then leaving the door
+open to be like, "Well, hey,
+I just gave you everything you need to
+go do it yourself,
+but if you'd prefer, we can work
+together and I could either do it with
+you or I can do it for you."
+>> Right. Again, good prospects are going
+to be like, "Okay, James has done his
+job, he's earned my business.
+I'd rather him just do it for me because
+he's the expert."
+>> Right. And those are those are your best
+clients every time. Yeah. And uh you
+know, something that uh that I always
+kind of blend into whatever marketing
+work I'm doing is persuasion and
+psychology.
+>> Mhm. Have to. That's key.
+>> You know, and uh I think that's a little
+bit about like what makes
+what I do different is I'm I'm sharing
+marketing tactics and systems that
+leverage that.
+>> Right. And um the way that I learned
+those processes is through a book called
+Influence by Robert Cialdini.
+>> Great book. Yep. It's a it's a classic.
+One of the best ever. So, you know, when
+you're adding value to your prospects
+and giving them these results that kind
+of wow them, what you're doing is you're
+building reciprocity.
+>> Mhm. You know, you're giving them this
+stuff for free and uh that's going to
+create a psychological,
+you know, shift in their minds so that
+when you do ask for their business,
+they're going to remember that. Right.
+>> going to know that. And there's other
+tactics here that we're using from that
+book in the sequence, too, like social
+proof. Mhm. That's a massive one. Uh
+authority, you know, I'm the expert in
+using AI to optimize, you know,
+retirees' portfolios or something like
+that.
+>> Yep. Reciprocity, like I said. So,
+scarcity is another one. We only take
+on, you know, five
+>> a month or five clients a quarter or
+whatever that ends up being.
+>> That's right. So, we're using
+persuasion, we're using these micro
+commitments, kind of like a ladder to
+get them on the call. And then after we
+have the call, you know, we can send
+them that full kind of audit or that
+full plan or whatever. And then we can
+follow things like the math. Yeah. Let's
+get into the weeds a little bit. Uh
+here's what folks are paying like, you
+know, traditional financial advisors.
+Here's how long it takes to get a
+response. They're charging you 1% of
+your portfolio for this, you know.
+Here's what you're getting for 0.5% or
+what or whatever working with us. Right.
+These are Goldman Sachs level outputs.
+Here's what they look like. Show, don't
+tell.
+>> Yep. Right? Like show them the reports,
+show them how it can like fit into their
+issues and solve their like core pains.
+Absolutely. And then you have the
+objections as well. So, that's another
+part in the sequence. Like, "Can't I
+just do this myself?"
+Right. It's like, "Well, you can and if
+that's the route you want to go, then
+like we're probably not the best fit."
+>> Right. And can I do just do this this
+myself? Well, sure, you can spend 100
+hours doing the research that we've
+already done and know how to do.
+>> Right. How do you know that your AI is
+giving you the right results and not
+just coming up with like hallucinations?
+Like, you know, do you have access to
+the tools to go and read all the, you
+know, let's let's say like financial
+reports from every business in the S&P
+500 or, you know, whatever that looks
+like.
+>> Right.
+>> to kind of come up with what your
+special sauce is or your angle is, but
+you know, after the math, dealing with
+those objections is another another
+solid tip. And you're you're by
+addressing those, cuz a lot of people
+might hear this and be like, "Well, if
+they have objections, like just let them
+have them. We don't necessarily want to
+put an objection into their head that
+maybe wasn't already there." And my
+counterargument to that would be
+I mean, it's just sales 101. Like
+there's common objections that most
+people are going to have and you want to
+get ahead of those and address them
+before they come up because if you can
+proactively get ahead of those and shoot
+them down and and prove to them why this
+objection is actually not as relevant as
+they might have thought, then that
+actually I think positions you on an
+even higher plane. It's like, "Hey, this
+is probably what you might be thinking,
+Yeah. but this is the reality. Right.
+And actually the reality is
+it's a non-issue. They're like, "Oh,
+okay. Yeah, I actually trust this guy
+more Right. because he got out ahead of
+it."
+>> Yeah. Right.
+>> And and if you think that I know what
+you're thinking, I'm I'm in your head, I
+know your problems, I know your pain
+points.
+>> They're like, "Oh, James he can
+anticipate what I'm going to be hung up
+on. He's proactively addressing it.
+>> Again, therefore now I trust him more to
+be the person to solve this problem."
+Exactly. So, the next thing is kind of
+like the anti-vision or the
+transformation. So, where are you going
+to be a year from now? You know, like
+show kind of the the current state a
+year from now. Show sort of like what
+this transformation looks like. You
+know, everything is smooth. Um you know,
+you could be getting better results,
+something like that. You actually have
+transparency, you have someone you can
+trust, you have someone that, you know,
+answers your call or your email quickly.
+Like whatever, you know, benefits that
+you have. Right. How do those sort of
+transform the prospect and paint the
+picture of of where they can be in their
+minds. So, that's a powerful kind of
+psychological technique of like
+anchoring. Right. You know, and your job
+is to be the person that can pull them
+toward that vision. Yep. You know. Mhm.
+Um and then
+you know, the last one is kind of like,
+"What held you back?" Or like, "Why
+didn't you convert?" Or, you know, "Give
+me your feedback." Or something.
+>> this one's for people that again, so
+this might be sent on like day 14 of the
+sequence and this is saying like, "Hey,
+we just sent you basically 13 days of
+emails or 13 emails in a row and you
+haven't yet converted, so it's like why?
+Give us feedback. What did we do wrong?
+What objections do you still have?"
+Right. Is that kind of And I assume that
+if the prospect converts before that
+point, that's a I guess an automation in
+the email provider that's like, "Hey, we
+actually don't send them this final
+email."
+>> Right. You could do that.
+>> Right. You could set up an automation
+where, okay, uh they move to this stage
+in my CRM or whatever and they're not
+going to get the next email or
+something. So, you could definitely like
+branch those out and and things of that
+nature uh so that, you know, if you
+convert a customer, they're not getting
+the why didn't you email or Right. Yep.
+Um so, that's kind of the the main
+uh sort of like overview of how I would
+think about this. And you know, there's
+no hard rule. Like it doesn't have to be
+14 days. It could be 5 days. Ultimately,
+something else to think about is that
+you have to test and see what works
+>> Right. with your market, with your
+prospects, you know. Um there's no
+one-size-fits-all anywhere. Right.
+>> Um so, yeah, test and see what happens.
+Well, another way to think about it,
+too, is so again, the example that
+you're using is for like a wealth
+manager. That's a
+I think what a lot of people would
+consider to be a very high-ticket,
+high-trust sale. Yeah. You're not going
+to be able to send two emails and get
+somebody to convert, you know, and and
+get somebody to switch their wealth
+manager most likely.
+>> Right. Right? But on the other hand, if
+you're selling a
+$27 ebook, for example, I know it's
+2026, that's not really a thing anymore,
+but let's say you were,
+you know, one follow-up email might be
+all all you need to to get somebody to
+convert or, you know, two or three.
+Right. But again, if you're trying to
+manager, there's a lot of education,
+>> of, I guess,
+uh convincing that's going to need to
+happen for them to even take the first
+step in booking the call with you. For
+sure. For sure.
+Um
+yeah, and you know, like think about
+what your competition's doing. And this
+is one of like one of the amazing things
+to me about like these tools and and
+stuff like that. And we're going to get
+into that in just a second here, but
+like 99% of the wealth managers out
+there or financial advisors or whatever
+are probably just they probably just
+have like a subscribe to our newsletter
+Right. And nobody's ever ever
+subscribing to it. Nobody's doing it.
+They're sending like a monthly email
+blast or something like that.
+>> generic.
+>> Yeah, exactly. And there's other ways,
+too, we can kind of talk about that, you
+know, we could actually research the
+prospects on a very deep level once they
+subscribe to the email system and they
+get into your CRM. You could use tools
+like XA or something along those lines
+to do people-based research. Find their
+LinkedIn profiles, you know, find what
+they're into, get some information about
+them so that you could really
+personalize the outreach as well.
+Interesting. Yeah, I've never heard of
+XA, so I definitely want to touch on
+that. But do you want to Do you want to
+jump into Cloud Code and start cooking?
+Let's do it. Let's do it.
+All right. So, um
+I've got uh I've got an IDE open here.
+And uh this is what developers code in.
+I mean, like we'll we'll just really
+kind of
+>> Just shift it a little bit.
+>> We'll really just kind of explain this
+from like a 10,000-foot view. Yep. All
+right. So, this has a terminal which has
+access to the files and things that live
+on your computer. Uh this has like a
+folder structure that has documents,
+code if you want to go, you know, to the
+advanced level, images, assets, etc. Uh
+when I'm doing marketing work, often
+times I just have a bunch of text
+documents in here. Mhm. I've got blog
+posts I created. I've got guides or
+email sequences or whatnot that I can,
+you know, if I want to, I can copy and
+paste them. I can hook up to tools from
+here that I use, and I can have full
+sort of closed-loop research, creation,
+publishing type workflows. So,
+everything that I do with marketing, I
+work from here. And that's Cursor,
+right? This is Cursor,
+but you can use VS Code, which is also a
+free IDE. You can use the terminal on
+your computer. Right. You can use
+Anti-Gravity, which is Google's new IDE,
+which you can get for free as well. And
+basically, when you download any of
+these, they all look the same cuz
+they're all built from VS Code. Okay?
+So, I recommend getting an IDE to do
+this work versus just using the terminal
+because you have a little bit more
+visibility in terms of what it's doing.
+By understanding the files that are
+getting created, you can open them here
+within this system. So, imagine this is
+kind of the new operating system for
+getting things done. That's a good way
+to put it. Yeah, cuz I remember when I
+first downloaded Cursor and jumped in, I
+was, again, as a
+zero tech expertise, failed computer
+science one, like anti-developer, if you
+will, I jumped into Cursor and was
+totally overwhelmed. Yep. But I think
+reframing it as like, well, look, this
+is just Think of Cursor or whatever IDE
+you're in, it's the operating system for
+where you're going to be building some
+of these workflows. So, it just makes it
+a a little less intimidating in my mind.
+>> Exactly. Exactly.
+And um
+let me just uh
+open this up.
+All right. So, yeah, this is Cursor, and
+uh this is the terminal here. And uh I'm
+just going to show you something. Um you
+know, there's a lot of uh chatter about
+Claude Code, and I think people are
+you know, kind of intimidated by it.
+>> Definitely.
+>> If you will. Okay? So, step one is to
+just get an IDE. Again, it can be free.
+Um there's a little button up here where
+you can open the terminal. I've got my
+terminal open. It says uh you know, I'm
+in this folder, which is called Vibe
+Marketer Production. So, there's a
+there's an install command for Claude
+Code. It's one line. You can go to
+ChatGPT, you can go to Google, you can
+find it. You're going to take that,
+you're going to paste it right here in
+this line, you're going to hit enter.
+It's going to install Claude Code on
+your machine. And then, you'll just, if
+you have a Claude account, um it'll give
+you like an authentication link. Yep.
+You click it, opens up a browser, you
+sign into Claude Code, and then you're
+in. Mhm. Um it's it's that simple. Like,
+you know, you don't have to overthink
+it. You don't have to set it up with all
+kinds of crazy tools and stuff like that
+at first. So, I tell people get an IDE,
+install Claude Code, and just start
+using it as your normal LLM.
+>> Yes. That's That was a big unlock for me
+is just getting into the habit of
+instead of using the Claude web app,
+jumping into Cursor and just using it
+just like I'm using a regular Claude.
+Yeah.
+>> And again, all that did did for me, at
+least, was just get me more comfortable
+in the terminal.
+And so, that that's I think a a big hack
+for getting people closer and closer to
+where they they feel comfortable with
+Claude Code. Absolutely. So, um
+again, here we are in the IDE. Here's uh
+here's the terminal. And once I have
+Claude Code installed, I'm just going to
+type Claude.
+And this is going to get Claude Code
+going. So, again, this is just like the
+input field where you can chat just like
+with any other LLM.
+And uh let's see. I created a little uh
+project earlier uh for us to work in.
+And uh I'm just going to tell Claude
+Code to go to that project. And you
+don't have to know what you're doing
+also.
+>> just tell it.
+>> You can just tell it. It's so smart.
+Right. It's the smartest, in my opinion,
+it's the smartest agent on the market.
+>> Mhm. It uses Opus 4.5, but it's
+exceptional at technical tasks like
+coding. It's really, really good at
+using tools, recognizing what tools it
+has access to, how to set up other
+tools. We can get into some of that. You
+can do things like, you know, create
+skills, which we'll talk about uh as
+well. And then you have access to MCPs
+also, which we can touch on, too. Yeah,
+definitely. There's a And there's so
+much to to dig into uh as far as Claude
+Code is concerned. What we'll probably
+need to do is
+just have you back and do just like a
+Claude Code masterclass style episode
+cuz yeah, that There's so much to dig
+into. Yep. So, I'm just saying, "Hey,
+let's start a fresh project for a wealth
+manager." And it's asking me, "Hey,
+let's get some clarity on what you need
+to build." So, another beautiful thing
+about Claude Code is that it'll kind of
+guide you through. Yep.
+>> Like, it can help you orchestrate how
+you want to uh get uh whatever it is
+around uh around what you're doing. So,
+um here we have like um do you want a
+marketing website? Do you want a client
+portal? Do you want a landing page? Do
+you want a full application? So,
+I uh I think a landing page would be a
+good place to start.
+>> Yeah, definitely. Um so, that's a
+single-page funnel for a specific offer
+or lead magnet.
+>> Mhm. So, we talked about lead magnets uh
+being like an educational email course.
+So, I think that uh we'll build a little
+page to, you know, generate some leads
+from that.
+>> Yeah, let's do it.
+>> So, I'm just going to say landing page.
+And uh what's the primary goal for this
+project? Do you want to generate leads?
+Do you want to establish credibility?
+Serve existing clients? All of the
+above? So, uh let's just say
+all of the above.
+Cool.
+So, right now, it's going to start to
+map out what needs to be done. And uh
+we're going to let it do its thing, and
+then we're going to get in and sort of
+follow our process for how we want to go
+about this. What's the wealth manager's
+specialty or niche? This is really good.
+Uh high-net-worth individuals, business
+owners with exits, retirement planning,
+or general/broad.
+So, uh let's go after high-net-worth
+individuals.
+>> Yeah, cuz I feel like that's one of the
+examples that again, you've got to be
+pretty dialed in to convert those
+people. And And yeah, I think this will
+This will just be a good example. Yep.
+So, we've got some context here. So,
+right now, it's going to build a landing
+page uh for high-net-worth individuals.
+So, what's the primary call to action
+for our page? It's saying, "Hey, do you
+want to do a free consultation, a free
+guide or report, a financial assessment
+like a quiz?" That's a great one.
+>> Yeah, quiz funnels are crushing. I would
+love to see a some sort of quiz.
+>> to do a quiz? So,
+let's do a quiz
+that leads into a educational
+email course.
+All right.
+>> Yeah, everybody should be running a quiz
+funnel of some sort. That's what
+we've got like a rudimentary one up on
+our website, but I feel like the quality
+of of lead that's going to take the time
+to answer five or six quiz questions.
+Yeah, it's just you know, it's just that
+much more friction for the opt-in, but
+those people are tend to be higher
+quality.
+>> Right. And then you learn. Right. It's
+like, "Oh, well, now I've got this data
+of the 100 people that filled out this
+quiz, 60% are struggling with this
+issue. Okay, that's an offer or that's a
+separate lead magnet or that's a YouTube
+video or whatever." So, yeah, you end up
+learning a ton about, I guess they're
+not customers yet, but learning a ton
+about your your audience or your leads.
+Right. And uh there's a guy named Ryan
+Levesque who uh has this thing called
+The Ask Method. And he was really the
+guy that started the whole quiz funnel
+uh type of movement a few years ago.
+That was a long time ago. And uh he's
+kind of like an OG in the direct
+marketing uh world. And uh his whole
+thing was, you know, it really allows
+you to go deep and understand the pain
+points, the problem areas, their
+language, how they talk about those
+problems. And the quiz funnel allows you
+to pre- prescribe
+the right solution. Right.
+>> Yeah.
+It's like learning and getting real
+market data from the people that are
+entering into your funnel, and then
+you're using that information to, you
+know, prescribe things that they
+actually want.
+>> Exactly. Yep. So, um what design
+direction do you want to go down? We've
+got premium sophisticated, clean and
+modern, warm and approachable, or bold
+and distinctive.
+Let's go
+bold and distinctive. All right.
+I'm just going to
+put this up a little bit.
+All right. Yeah, so that's a standout
+from typical finance sites.
+I think uh there's a lot of financial
+advisors and wealth managers, so always
+good to think about standing out and
+having kind of a unique angle, a unique
+vibe in the marketplace.
+All right. So, it's building a quiz
+funnel
+uh into an educational email course with
+a bold and distinctive design.
+And uh let's see.
+What's the firm or advisor name? We'll
+just let Claude Code come up with
+something.
+What should the quiz be about? Wealth
+readiness score, tax efficiency audit,
+retirement timeline, risk tolerance, is
+your portfolio aligned with your goals?
+So, I think an interesting quiz, like if
+I'm If I'm a wealth manager and I'm
+putting up this kind of quiz, but I'm
+trying to do is is qualify people early.
+So, I think a good quiz is going to be
+focused around like like, does this
+person have money to invest or do they
+not? Cuz if they're dead broke, it
+doesn't matter if they want to work with
+me. I There's nothing I can do. So, I
+think maybe something along the lines of
+like establishing their financial means
+and their goals. Like, "Hey, how much
+money do you have? How much do you have
+set aside? What What are your goals?"
+Like, that that kind of quiz, I would
+think, would would be pretty good for
+that type of business.
+>> So, I've got qualification, and then
+maybe we do like a current portfolio
+analysis to identify the gaps.
+>> Yeah, that'd be That'd be cool.
+>> And then also the gaps in their current
+wealth manager's process. So, like, what
+are they missing in this customer client
+experience
+uh that they want to that they want to
+close?
+>> Yeah, I like that.
+>> [snorts]
+>> Cool. So, yeah, as you can see, like
+Claude Code doesn't have to be scary. It
+doesn't have to be about like building a
+complicated app or a complicated
+product. Um you know, I use Claude Code
+as again, like a general LLM just how
+someone would use ChatGPT, but I find
+that it's just way smarter and I have a
+lot more optionality here to do
+different things or to experiment with
+different things. Right. You know, if I
+want to build a website, I can build a
+website. And I love that we're just
+showing a an example as simple as
+building a landing page cuz I feel like
+that's the gateway drug for people. Like
+they
+they hear about Claude Code, they hear
+how powerful it is, they hear about
+people using Claude Code to build apps
+and websites and portals and all these
+crazy things,
+but they're like, I just want to see
+what it can do. And that was kind of my
+gateway. I mean, the first thing I ever
+built in Claude Code was a simple
+landing page for my podcast. So, if
+anybody listening to this, if you go to
+Corey.show,
+you'll see it's just a simple landing
+page I built for my podcast, but built
+it in Claude Code. And what's cool about
+it is that it pulls in each new episode
+dynamically and, you know, pulls in the
+title, the description. It's got a
+button to subscribe on Apple, a button
+to subscribe on YouTube, a button to
+open on Spotify.
+And all of that was created just from
+iterating. Like the first version didn't
+have a YouTube button. So, I told Claude
+Code, I said, "Hey, add a YouTube
+button." And it did. Yeah. And it
+worked. And like it clicked when you
+click it, it links directly to my
+YouTube. So, again, it doesn't need to
+be anything crazy. It's like just go in
+and build the most basic landing page.
+>> Yeah. That's that's the use case I think
+that
+is the lowest hanging fruit cuz
+everybody use a new landing page or at
+least update one they have.
+>> And that's always the first test project
+that I that I start people with is build
+a landing page.
+>> Yep. Um because to you can build the
+landing page here locally on your
+machine. Claude Code can do it. You can
+open it up. You can check it out. You
+can kind of get a feel of the power of
+it.
+>> Mhm. And then the next step is kind of
+like, "Okay, like if I actually wanted
+to get that landing page live, what what
+do I have to do?" Right.
+>> You know.
+>> And that was a whole learning curve,
+too. Again, and all I did for there is I
+asked Claude. I said, "Great, this is
+done. This is to me a finished project.
+>> Yeah. Now, how do I go deploy it? How do
+I Like I had bought the Corey.show
+domain. Yeah. But I'm like, "Okay, how
+do I go and attach this landing page
+that we just built in Claude Code
+>> Right. to that domain?"
+And so, I know you know about Vercel. I
+had never heard about Vercel yet at that
+point. And it walked me through, "Okay,
+these are the steps. You know, go into
+Vercel, copy this, paste that, etc.,
+etc." 5 minutes later, it was live.
+>> And and I had to specify. I said, "Well,
+walk me through step by step as someone
+with no coding expertise who's
+non-technical."
+>> Yeah. And it I mean, it quite literally
+was like, "Copy this. Paste it here. Do
+this." And like it was so so easy for
+someone who, again, zero technical
+expertise. I just It blew my mind. Like
+that was kind of the lightbulb moment
+for me.
+>> Right. But it's like if somebody just
+gets in here and starts messing with it,
+they're going to open up an entire
+universe of possibility.
+>> Right, right. And you know, as a as a
+small business owner and a marketer for
+a long time, like I I always think back
+to just a few years ago Yep.
+>> when to build and deploy a simple
+landing page, my options were, "Okay, I
+can go and hire a web developer and a
+designer and, you know, pay a couple
+thousand dollars or whatever that looks
+>> Yep. Or I can go and use like a landing
+page builder tool that looks so generic
+just like everyone else.
+>> Right. And I have to figure out this
+interface and go in there and change the
+text, wire up like all this, you know,
+these other tools.
+>> And the DIY option was never very high
+quality before this.
+>> Yeah, it's a total pain. So, you know,
+in my view, it's like once you start to
+get in here, you begin to see how Claude
+Code uh removes the barriers between a
+lot of these roles.
+>> Mhm. You know, like hey, marketers can
+be developers now. Yep. Uh business
+owners can be marketers. They can be
+marketers and developers. You know, it
+turns you into like a weapon. Right,
+100%.
+So, it's uh it's very powerful um to
+just sort of start playing around with
+and unlock. And I think that uh you
+know, if it's intimidating to you, just
+view it as kind of a hobby. Like
+something that you can tinker around
+with and explore. Like again, you know,
+your first time, there's going to be
+some friction. There's going to be It's
+going to feel like kind of pushing a
+boulder up a hill a little bit, but you
+reach a point where you you hit that
+unlock and you're like, "Wow, I can I
+can literally do anything in here."
+Right. And something I did, too, which
+anybody can go and do is I had Claude
+build me a 60-day course step by step,
+day by day for mastering Claude Code.
+>> Mhm. So, I specified. I said, "Hey, I'm
+not technical. I have no coding
+expertise.
+Build me a 60-day course where every day
+I practice using Claude Code in a
+different way."
+>> Yeah. And and each and I told it I was
+like, "Make sure each day is a little
+bit harder than the day before." Yep.
+And it built me this course that
+I mean, it's if somebody were to go
+through it in 60 days, they would be a
+master They'd be in the top 0.1% of
+Claude Code users.
+>> Absolutely.
+>> And it took, you know, 5 minutes and a a
+basic prompt for Claude to go and build
+>> Yep. So, So, we have a page. Let's see
+>> You're going to see it. All right.
+So, here we go.
+>> Gap in your wealth.
+>> What's the gap in your wealth? Right.
+And I like that at the top for investors
+with a million dollars plus.
+>> Yep. What's the gap in your wealth? Most
+high net worth individuals don't know
+what they're missing until it costs
+them. Take our 3-minute assessment,
+uncover the blind spots in your
+portfolio and your advisor's process.
+So, I like how it's calling out that
+it's just 3 minutes value.
+>> time to value is always like a very
+important metric to be thinking about.
+>> Sure. Uh the uncomfortable truth. This
+is really good this section. Your wealth
+manager might be costing you more than
+they're earning you and you'd never know
+it. Like that's good copy.
+>> And this is one shot. Mhm. That's the
+thing.
+>> context. This has nothing Does it know
+your brand voice? Does it You didn't
+give it any examples.
+>> it anything.
+>> This was literally just like, "Hey, go
+give us like a V0.01."
+Yeah. And this is better than like your
+sixth iteration from a season developer
+2 years ago that you gave like all your
+contacts.
+>> Yeah. And then we did this You did this
+in 2 minutes.
+>> 2 minutes. And this is a better landing
+page than most wealth advisors in town
+have, period.
+>> Yeah, that's they probably spent 10,
+15,000 dollars on from a a web design
+and development firm. For sure. Yep.
+>> It's insane. Yeah. So, uh you know, here
+are the kind of problems that it's that
+it's calling out. Hidden fee structures.
+Uh the average high net worth in
+investor pays 1 and 1/2 to 2% total
+fees, often buried across multiple line
+items. On a 3 million dollar portfolio,
+that's 45 to 60k annually. So, we're
+making you feel the pain. I would
+probably even highlight that more. Like
+when we go to iterate on V2, it's like,
+"Hey,
+I would try try to twist the knife on
+like if my ICP usually has more than 3
+million to invest, that's a really good
+example. It's like, "Hey, if you have 3
+million dollars invested with an
+advisor,
+you are it's costing you probably 60
+grand a year. Like
+>> aren't you at least willing to spend 3
+minutes to take this assessment to
+Exactly.
+>> figure out if that's you or not."
+>> Yeah. Like to me, that's a no-brainer.
+It's a no-brainer. Absolutely.
+>> And uh you know, making your lead magnet
+or your initial offer feel like a
+no-brainer is super important. Alex
+Hormozi talks about that with like 100
+million dollar leads and some of his
+models and frameworks, but make it just
+a total no-brainer.
+>> Yep. And you'll get emails all day. For
+sure. Um so, generic allocation models.
+So, most are generic, um not
+personalized, reactive, not proactive,
+no integration. Um so, it says here it's
+divorced from estate planning tax
+strategy. So, it's talking about like an
+integrated model.
+>> Right, that makes sense. So, the
+assessment. In 3 minutes, you'll
+discover portfolio gaps, process gaps,
+and your score.
+Uh built for investors who expect more.
+This is kind of the qualification piece
+that we talked about.
+Um so, how much do you have under
+management? How many years of experience
+you have? You're kind of like also
+building some authority. Right, there's
+just placeholders.
+And then uh we've got placeholders for
+testimonials, social proof, always
+important on a landing page. Uh
+got some FAQs and stuff. So, let's uh
+let's see what it came up with
+assessment-wise.
+So, what's the total value of your
+investable assets? And just to kind of
+dig in on this
+things that I like. It's got So, when
+you click start assessment, it's got the
+question number at the top. So, it's
+like, "Hey, this is question one of
+seven." So, you can very clearly see.
+So, there's the question number and a
+progress bar. Yep.
+>> So, it's like I can visually see how
+much time this is going to take me. This
+first question took me 5 seconds to
+answer. Mhm. So, this whole thing is
+probably going to take me 60 seconds and
+I can see the value on the other end.
+>> Yep.
+All right. How often do you have
+meaningful conversations with your
+current advisor? It's a good question.
+>> That is a great question. Um I'll say
+once a year or less.
+Do you know exactly how much you pay in
+total fees, including fund expenses?
+That's actually a good little uh thing
+to add there. Cuz most people are like,
+"Wait, what fund expenses?
+>> Right. Am I paying fund expenses? I
+don't know. I should go ask my advisor."
+>> Right. I'm paying, you know, 1% in fees
+to my advisor, but they've got me in all
+these mutual funds that also have
+expense fees
+>> that are much higher than, say,
+individual equities or ETFs or index
+funds.
+>> Exactly.
+>> So, that's often a hidden gap. We didn't
+tell it that. That's pretty cool that it
+brought that up, right?
+>> Yeah, that it just knew that.
+>> So, no, I've I've actually never
+calculated that. How integrated is your
+investment strategy with your tax
+planning? Let's just say they're
+separate.
+When did your advisor last proactively
+reach out to you with an opportunity and
+concern?
+In the last few months. And also, these
+questions
+they they make it feel like you know the
+problems and you know the situation that
+someone's facing.
+>> And again, like you can apply this to
+any SMB. Yep. You know, you could have
+real estate, interior design,
+medical aesthetics, you name it.
+I love high-ticket SMB businesses. So,
+you know, there's many, many
+applications here. Um does your wealth
+management include estate planning and
+insurance coordination? And again,
+that's a question that makes you think.
+It's like if the answer is no, why? It's
+like, yeah, why has my advisor never
+come to me and had a conversation and
+pulled my tax person in or pulled my
+insurance person in? Yep. So, it's like
+every the farther you get down this
+quiz,
+your doubt about your current situation
+goes up and your curiosity about what
+this company can do for you also goes
+up. Like I feel like that's a perfect
+combination.
+>> 100%.
+Okay, and this is really good. Where
+should we send your results? So, this is
+where you're capturing the email and
+here's an interesting little
+psychological tactic there. You've
+already spent time and effort to go
+through those questions.
+>> like of course I'm going to give them my
+email if I know.
+>> Of course. I want to see what the
+results are. So,
+um, you know, we haven't wired anything
+up here. I'm curious if it'll show it on
+a web view.
+Um, or if it needs to email, but we can
+we can generate a preview as well. And
+so, it's funny that just my observation.
+So, we on returnmytime.com, we have a
+quiz that's our our main lead magnet on
+our website.
+>> Yeah. And we set it up through a a tool
+called Interact. It's just like a quiz
+software.
+But I'll be honest, this one-shot with
+Claude Code looks 10 times better than
+the out-of-the-box Interact software.
+>> Yeah. Everything from the way the
+questions are formatted to the the final
+like squeeze page like where should we
+send your results? Like that's just
+this one-shot version is I guarantee you
+would convert higher than the current
+tool that we're paying for.
+>> Yep. So, my my action step from this
+conversation is we're going to go home,
+rip out Interact and and
+uh set up something with Claude Code.
+>> Make it real. Yep. Um, so
+>> gives you well, like how it gives you
+like a score out of 100. That's really
+smart.
+>> you a score. So, gaps detected. Your
+assessment reveals multiple areas. This
+is kind of like a preview here. Uh,
+check your email for the detailed report
+and the first lesson of our five-part
+wealth gap course or informational
+series, right? So, then you hit none,
+you open up your inbox, whatever.
+Something that you could do here is
+after the assessment, after they submit
+their email, you could redirect them to
+another page. Um, maybe someone wants to
+call right away, right? So, you could
+have like what I would do uh if I were
+building a funnel for a wealth manager,
+I would then have a video intro. Right.
+>> So, uh cool. I'll check my email,
+redirect to a video of me. Hey, thanks
+so much for taking the time to do the
+quiz. Check your inbox. We've got a
+detailed assessment here. Here's a
+preview in what you're going to find.
+Here's the you know, here's some brief
+explanations of these different core
+components. I'd love to have a quick
+call with you when you're ready. Uh, no
+pressure, you know, to chat through this
+and I'm happy to dig into your report
+free of charge. Right. And of course,
+I'm sure like right under that video,
+there's going to be a book a call button
+because there's probably that
+5% of traffic who is ready right away to
+book that call. So, you want to give
+them that opportunity. But then if they
+don't, then of course, as they're
+getting those emails over the course of
+let's say 5 days,
+Yep.
+>> probably around day four day five, one
+of those emails is going to be like,
+"Hey, you ready now? Book a call now,
+right?"
+>> And so, that I mean
+it's it's unbelievable how good that V0
+was with no context. All it did was ask
+you like six questions. And then you
+just gave it like very generic answers.
+Yep. And it gave you something that
+two years ago would have cost you
+$15,000 and probably two months of time.
+So, I'm just going through it briefly
+one more time.
+So, yeah, that's how how quick it is.
+>> And it gave you a different score.
+>> a different score cuz I I I answered the
+differently. So, pretty cool stuff. And
+then yeah, like here I would say done. I
+would redirect them to a page that has
+like a video introduction and an option
+to book a call. So, the next question's
+probably like, all right, what's the
+email course look like? And then we can
+talk about how might you drive some
+traffic into this funnel. Yeah,
+absolutely. And I know we've So, we're
+in the in-person studio right now and I
+think we're running up on our time. So,
+if we could do maybe like a five to
+seven minute crash course on
+how do we structure the email course?
+So, like basically the next step in the
+funnel. And then maybe a quick two or
+three minutes, how do we actually drive
+traffic to this thing in the first
+place? You got it. So, let's open up
+cursor again. I'm going to switch around
+my
+screen share.
+And let's just make sure that it is
+showing the screen. Cool. We've got
+uh Claude Code and cursor back up here.
+So, um, this is a good introduction to
+to skills and um, I'm going to show you
+some skills here. Just give me a second.
+Let's just load uh let's show how easy
+it is to kind of load some skills into
+uh into Claude Code.
+So, I'm just going to drop a folder
+if I can
+into here. And these are some skills
+that I created.
+Um, I'm just showing kind of like
+sharing the files. These are just a
+bunch of documents uh that I created
+with like, you know, deep research. And
+uh these are instructions for how to do
+things like write blog posts to perform
+and rank and drive traffic, build email
+sequences that convert. And what I do is
+I do really deep research on um
+on how to how to fill each of these like
+gaps in in the marketing stack. And I
+fine-tune these. I test these. I iterate
+on these. I give them to uh folks in in
+my community. Um, I charge for these
+online now, which is turned into its own
+business, which is pretty cool.
+>> Yeah. Um And I will say so, that skill
+pack, when you launch it on on X with
+like you just basically put out one
+tweet like, "Hey, here's this skill
+pack. If you want it, here it is." Yeah.
+And I I think I heard you said that you
+really underestimated how much that
+would pop off.
+>> Yeah. Because but when you think about
+it like again, I saw that and I bought
+it immediately. I was like, "This is
+such a no-brainer."
+And I think most other people probably
+saw that and thought the same thing,
+which is why it it you know, picked up
+steam so quickly.
+>> Right. So, that's kind of just what
+[snorts] it's 10 pre-built marketing
+skills that you've essentially created
+and then offered for sale. So, just for
+people that are maybe listening to this
+like, "Oh, like I want to get my hands
+on those." What's the the URL for them
+to go grab that as while we're talking
+about
+>> Yeah, so you can go to
+thevibemarketer.com
+and there I've got like a free playbook,
+how to use these, the frameworks, how I
+think about leveraging skills, turning
+Claude Code or your AI into a full
+marketing team. You can get the
+playbook, you can get the skills there.
+Okay, sweet. Yeah, thevibemarketer.com.
+And we'll put that in the
+We'll put that in the description for
+sure. So, those skills I just showed you
+how to install them. I just, you know,
+down downloaded the file and then
+dropped it right here into my Claude
+Code chat. Claude knows what to do with
+them. It knows how to extract these
+files, how to save them in my
+environment and now I have these skills
+installed and ready. So, now I've got
+expertise across this entire marketing
+stack. How to find a positioning or
+angle for my business that sells,
+how to write killer direct response
+copy. I think that's probably one of the
+best skills in here.
+>> For sure. How to create lead magnet
+concepts, email sequences, how to
+extract my brand voice, how to repurpose
+one piece of content into 15 for
+different channels, how to build a
+ongoing educational newsletter that I'm
+going to send like on a weekly basis,
+how to do keyword research to build an
+SEO strategy for your website, how to
+write SEO optimized blog posts and
+articles based off of that information.
+And then finally,
+you'll notice that I know what to ask
+and I know what to do. I say, "Hey, I
+need an email sequence. I need a landing
+page, right?" Most people don't know
+>> Like, you know, we we often take for
+granted like our existing skill set
+>> people can just pick that up. So, I
+built something called the orchestrator
+skill. And the orchestrator skill
+asks you through whatever questions that
+it needs to to identify what skill to
+use and when. Interesting. Okay, so it's
+basically it's almost like the ask user
+question where it's going to interview
+you and basically, "Hey, before we go
+and put all these super powerful skills
+to use, let's really get clarity on what
+it is that we're trying to accomplish."
+So, that's what that orchestrator skill
+does. And then it takes your answers and
+then it says, "Okay, well, we're going
+to need the landing page skill for this.
+So, we're going to need the you know,
+the direct response marketing copy skill
+for this." So, that way it's just making
+the most efficient use of its resources.
+how to look at it.
+>> Yeah. You can think of the orchestrator
+as the AI CMO or VP of marketing.
+>> Mm. That's a good way to put that knows
+details about each one of these skills,
+can match you up with the right one when
+you need it, and recommend which ones
+you should do in specific sequences as
+well, and guide you through the whole
+process. Yeah, that's really powerful.
+So, um, let's use the email sequences
+skill to build out the educational email
+course.
+And so, as you're typing that, just a a
+question for for clarity cuz I'm sure
+there's people in the audience wondering
+this. So, like your skill pack for
+example, if somebody were to buy that
+skill pack and literally copy and paste
+it into Claude Code just like you did,
+is that all they need to do to make
+immediate use of those skills?
+>> That's it. It's basically swipe credit
+card
+and now I'm immediately the best email
+sequence writer alive. Yeah. Kind of
+what it
+And the amount of research that I've
+done to build up these skills. I mean,
+you know, you can find skills out there
+online for free and stuff.
+But but my my perspective is that
+they're not all created equal.
+Skills in my view are a way for an
+expert to encode their knowledge into a
+portable format that allows other people
+to access what they know. Right. I like
+>> And use AI in the way that that they do
+to get similar results. So, it's a it's
+a huge equalizer
+in my mind. So, yeah, just drag them in.
+Claude knows what to do with them. It
+sets up the skills in my project here.
+And right now we're using the email
+sequences skill to build a five-part
+educational email course for the wealth
+manager quiz funnel. So, it says, "Let
+me create a comprehensive sequence based
+on the skill framework."
+And so while it's cooking that, let's
+talk maybe for a minute or two on
+traffic. So, it's like, "Okay, great.
+I've
+I've used Claude code to build my
+landing page. I'm I'm got a couple of
+lead magnets I'm putting out there. I'm
+working on this nurture sequence so that
+when somebody does download one of my
+lead magnets, now I can follow up with
+them appropriately." Yeah, but it's
+like, "How do I get people
+to download my lead magnet in the first
+place? Like, how do I get them in my
+funnel again with?" Right. The way that
+I like to start with local or, you know,
+small businesses, and I did this exact
+same process for my own business, is I
+built
+a fully optimized SEO, you know, type
+campaign with Claude code. So,
+you can use the skills to do this. Where
+I would start. So, I would use that
+landing page as like my website. Like,
+it's pretty good.
+I would just build on that
+incrementally. So, the first thing that
+I need to consider for SEO is I need to
+find out what people are searching for.
+Then I need need to figure out how to
+create very helpful, valuable content
+around what people are searching for.
+So, SEO's all about supply and demand.
+You know, let's go find out the demand.
+Let's look at how that demand's
+currently being fulfilled in my market,
+in my niche. So, there's some
+competitive research there that you can
+do with Claude code. You can identify
+your competitors in your local market.
+It has tools like web search and it can
+go and find those and browse the
+websites and tell you what kind of those
+gaps look like.
+And then
+you can do some keyword research
+you know, then you can start creating
+that that content based on the keywords
+and based on the gaps in your market.
+And there are skills for for all of that
+that you can do. And so just a concrete
+example of that. So, my cousin, he owns
+a an insurance agency in Raleigh.
+And he used lovable, which is similar to
+Claude code, you know, just kind of like
+a Claude coding platform, to build a
+website. I It's something like
+triadinsurancejournal.com
+or like raleighinsurancejournal.com
+or something like that. But, his whole
+play with it is
+it's one big, essentially, SEO site
+where
+he's got a, you know, hundreds of
+different articles like Travelers versus
+Progressive or Progressive versus this
+carrier, right? So, he's uncovered that
+a lot of people in the area are
+searching for like insurance carrier
+versus this other insurance carrier or
+like Progressive pros and cons. And so
+he's got just tons of articles for every
+cuz he they're an independent brokerage,
+so they have like 30 different carriers.
+>> Yeah. So, it's like for every one of
+their carrier, he's got like, you know,
+this one versus that one. So, he's got
+like hundreds of these very niche, very
+specific articles that
+again, people are searching for and it's
+driving a lot of traffic back to their
+main insurance agency, which is again,
+what you're saying is you don't need to
+make content, you don't need to be a
+social media influencer. You're creating
+websites that are basically attract the
+leads to you. Yeah, and you can do that
+>> That's what SEO is, really.
+>> Yeah, so for instance, for our wealth
+manager website, I'd say, "Hey, run the
+keyword research skill on this. This is
+going to give you a good zero to one
+place to start." You know, we don't need
+to get into advanced like pulling real
+live metrics and things like that.
+Claude code's smart enough to
+understand, "Okay, here's some queries
+that we can start thinking about
+optimizing for." Get a short list of
+say, you know, 10, 15, 20 of those. Ask
+it to build out a content pipeline.
+Actually, the skill will do that for
+you. And then you can run that SEO
+content skill on top of the keyword
+research and that pipeline to create
+really in-depth articles that are better
+than what your competitors are.
+>> That's so smart.
+>> Yeah, that's genius. Now, what you're
+talking about is a programmatic SEO
+strategy. So, to execute a programmatic
+SEO strategy, let's say that this wealth
+manager serves multiple states.
+You know, you might find that someone's
+searching for wealth manager in
+Charlotte, wealth manager in Chicago,
+wealth manager in Kansas City. Like, as
+you get deeper into keyword research and
+start looking for some real metrics and
+things like that, you might find
+patterns or bold groups of keywords that
+have similar
+sort of aspects to them. Then you say,
+"Hey, Claude code, I want to build a
+programmatic SEO strategy around people
+searching for wealth managers across
+tier two cities around the country." You
+know, here's an go go research examples
+on the best programmatic page structure
+and build those out. Right. And just cut
+like copy best practices, basically.
+>> Then deploy them. So, now you have, you
+know, 10, 15 articles tied to keywords.
+You've got programmatic
+pages set up. And then what I would do
+is say, "Hey, Claude code, do a you
+understand our keywords, you understand
+our competitors, do a technical site
+audit on our website." You know, and
+then it'll go through all the sort of
+like nitty-gritty SEO stuff like title
+tags and meta descriptions and Like the
+stuff like the nerdy stuff.
+>> Yeah, the nerdy stuff. The speed of the
+site
+and, you know, I've done things like set
+up free tools from Google like Google
+search console
+and looked at, you know, page speed
+insights from Google as well that
+identifies, "Hey, is this loading
+quickly? Does this have all the the
+boxes checked to optimize how this
+website's going to show up for these
+search terms?" You don't need to be an
+expert, you don't have to know what any
+of it means. Claude code can help guide
+you through it. And you can just feed it
+the information in the tools and it can
+update the site and do the fixes for
+you. Right. That's what's crazy about it
+is like you just point it in the
+direction and let it go to work.
+>> Yeah, and most most companies are paying
+an SEO agency $5,000 a month
+or more to go and, you know, update meta
+descriptions, do this technical work,
+you know, load up articles and stuff.
+So, I think traditional agencies that
+aren't embracing these tools, like they
+are in They're going to get killed.
+>> to get crushed.
+>> Right. They're going to get crushed.
+You have to be AI enabled if you're
+serving these types of businesses. You
+have to be using this type of stuff.
+Everyone on your team needs to be kind
+of cross-functional, you know? And you
+know, if you have a business like your
+marketing manager or whatever should be
+doing this stuff.
+>> They got to be on top of the stuff,
+yeah. So,
+real quick, the the five-part sequence,
+we have it. We've got context here,
+you know, the target audience, the tone
+that it's writing in, the quiz
+identified gaps one per email. I like
+that it structured the email sequence
+based on the gaps that it it identified.
+>> So, you're saying it tailored So, it's
+going to tailor the email sequence to
+whatever gaps were uncovered during the
+quiz. That's crazy. And think about how
+powerful that is, too. It's like you
+don't just write one generic sequence
+and then that's what everybody gets.
+It's like, "Well, hey, if prospect A
+has a gap in the sense that like they're
+never meeting with their current
+advisor, then they're their email
+campaign is going to be tailored to that
+pain point. Like, "Well, hey, why are
+you not meeting with your advisor?"
+So, that's that's crazy. Yeah, so email
+one immediately the results delivery and
+then it talks about the fee transparency
+gap. Day two, the communication gap. Day
+four, tax integration gap. Day six,
+proactivity gap and holistic planning
+gap. And then day eight, the solution
+and some soft CTAs. So, that's what it
+came up with with the first version.
+You know, you can iterate on that. You
+could go to my X account, take that
+snapshot of the 14-day sequence, throw
+that in. Oftentimes I do some AI
+ping-pong I call it. Yeah. I bounce the
+answers around. How can this be
+improved? I'll take it, I'll go throw it
+into ChatGPT. And see and just get them
+to critique each other on it.
+>> Yeah, critique each other, bounce around
+between the models, take the time. Don't
+just like, you know, go and and use the
+first one. Squeeze you can squeeze out a
+lot better results by bouncing around a
+little bit and asking other models to
+give its opinion. And the funny thing
+about that is if
+cuz I'm
+I'm lazy. Like, I'm the first to admit.
+Not that I would be with this particular
+process, but like in the in a in the
+past, I could see myself being like,
+"Oh, great. It spit me out the email
+sequence. Go plug that into Kit and let
+it go to town."
+And like you said, smart people are
+going to take that like, "Oh, this is
+V1. We're going to further optimize it
+and then and then we're going to still
+test it and see what we can do to
+further improve it." But with all that
+said, the lazy person that just takes V1
+and plugs it in, they're still going to
+outperform probably 80% of marketers.
+>> And it's the it's the people that
+really, like you said, they they
+ping-pong it around, they dial it in,
+they split test it, they do all the
+things that a traditional marketer would
+do, they're the ones that are like the
+90, 95, 99%.
+>> Yeah, absolutely. And, you know,
+anyone with these tools can get to 80%.
+>> Yep. Um
+>> 80% is going to become like the
+baseline. It's going to become like
+table stakes.
+>> It's going to become the baseline.
+You're going to be better than like,
+let's say, unsophisticated marketers or
+your typical competition. When you get
+into more competitive spaces like, let's
+say, SaaS and AI products and tools and
+stuff like that, that last 20% of like
+That's everything. Your expertise, your
+process, how you're integrating
+additional context, feedback, and data
+to squeeze out that 20% and that that
+makes a huge difference.
+>> Absolutely, for sure. So, we've got our
+emails here, you know, "Hey, first name,
+your wealth gap score is this. Here's
+what that means. Based on your answers,
+I've identified these gaps. Over the
+next week, I'm going to break down what
+each one
+each one means and what it's costing
+you. So, you know, it's got a great
+email sequence here that it built out uh
+you know, for you. And again, you're
+going to be better off than all of your
+competitors and probably what your
+agency is giving you today just from
+this first output. You can take this,
+you can plug it into Mailchimp or
+whatever it is that you use as a as a
+financial advisor. Maybe it's Kit, maybe
+it's Beehiiv, who knows, maybe it's
+HubSpot.
+>> And uh and you've got your sequence
+there. So,
+um what you would need to do is sort of
+like wire up the forms and and things.
+Uh it's a very easy process. This is not
+rocket science. This is not building an
+app. Claude can easily guide you
+through, "Hey, when people actually sign
+up, how do I make sure they get added to
+my email platform? Yep.
+>> How can we set those emails up? Claude
+can help you do so. Yep. In my
+experience, anytime I get stuck with not
+just with Claude, but with AI, period.
+If I get stuck
+with AI and I don't know how to proceed,
+I just I use cuz I'm on Windows, I use
+the Snipping Tool and just take a
+screenshot
+>> Mhm. of whatever it is that I'm doing,
+whether it's the chat conversation or
+the like the page that I'm looking at. I
+literally screenshot it. I give it to
+Claude and I say, "Hey, I'm stuck.
+Here's a little background.
+How do I move forward?"
+>> Yeah. And I would say like 99 times out
+of 100
+>> Yeah. I'm able to it it fixes it. It's
+like, "Oh, you just do XYZ." Great.
+Okay, on to the next. But you know,
+you're resourceful and and you have
+agency. Most people out there
+when they get stuck, they they don't
+even think to go and ask AI. Right.
+>> Ask AI is a new let me Google that for
+you.
+>> You know?
+>> like for us, too, it's like I think it's
+just gotten ingrained into the way we do
+things. Like to me, it's just like
+that's my natural like primal instinct
+at this point is like I'm stuck, I just
+go ask AI. But then there's there's
+still people who
+when they get stuck, they're still
+Googling. Yeah. And then there's people
+who when they get stuck, they just give
+up. They're like, "I don't even try to
+solve it." It's
+>> Yeah. you know, you can't help those
+people. But for for that
+70-80% that are still Googling, it's
+like that's the next step up is I'm
+stuck. I screenshot it, I send it to
+Claude, and then I fix it. Right. So,
+you mentioned WhisperFlow and you know,
+talking to AI before we got started. So,
+just a quick thing of what I'd do next
+with this email sequence.
+I love to repurpose content.
+>> Yep. Um so, let's just ask it to do
+Okay, using the content atomizer skill
+and the SEO content skill, repurpose our
+email sequence into a bunch of assets
+that we can use to drive traffic into
+our funnel.
+Yeah, I'm really curious to see where it
+goes with this.
+So, we'll see what happens, but I'm
+thinking that we're going to get some
+LinkedIn assets. That would be a good
+channel. I'm thinking we'll get some
+like pretty solid starter blog posts.
+And I even take the reverse approach to
+like with a podcast like the one we're
+doing here, I like to take that
+transcript and feed it to Claude and be
+like, "Hey, based on this transcript,
+give me some content ideas." And usually
+it'll be like, "Well, here's two or
+three tweets. Here's four or five
+LinkedIn posts. Here's, you know, you
+guys really hit on this topic deep, so
+like here's a whole newsletter article
+that you can use to go deep."
+>> And what I found and I I've taken a page
+out of your book and out of Greg's book
+and out of a lot of the bigger guys,
+but what seems to work best is like the
+super tactical. Like if I guess I ask
+myself, is somebody going to bookmark
+this or save it? Like on I guess on
+LinkedIn. If the answer is no, then it's
+probably not worth posting unless it's
+just like a hot take that you're trying
+to get a view. But it's like, all right,
+if I'm if this is like a genuine piece
+of content where I'm trying to explain
+something or teach something, I'm always
+optimizing for a bookmark. Like in my
+mind, a bookmark or a save is worth way
+more than a like or even a comment.
+Yeah, for sure. For sure.
+Um I agree and uh here's a little hack
+for you
+for creating lead magnets and this is
+what I've been doing lately. Um so, I
+will record a working session. And the
+way I've been doing that is I'm trying
+to kind of kill two birds with one
+stone. I'll do these training sessions
+with my team.
+>> Mhm. And I'll just walk through me
+working in Claude code, producing
+things, doing real stuff for our own
+websites, our own businesses, and
+teaching them along the way. I'll pause,
+I'll I'll break down sort of the key
+frameworks, the mental models, what
+skills I'm doing, what skills are, you
+know, things of that nature.
+>> Mhm. And then I take the transcript, I
+load it into Claude code, and I ask it
+to build a comprehensive lead magnet
+based off of it.
+>> That's really smart.
+>> And I mean, you could create a playbook,
+which is what I did for skills. Testing
+that lead magnet right now. I think it's
+gotten around I don't know. It's gotten
+thousands of emails so far. Already?
+Yeah, already.
+>> Damn, good for you. Um or you could
+think further. It's like, "Okay,
+everyone does ebooks and PDFs and
+stuff."
+>> So lame. I feel like those are so like
+2020.
+They're not actionable and stuff like
+that. So, I'm working on repurposing it
+right now into more of like a a guided
+kind of learning experience. Taking that
+same content, but making it actionable,
+chunking it down, giving you let's say a
+five or a seven-day challenge.
+>> Which is another successful lead magnet
+format. But you can build those easily
+and quickly with Claude code. Or even
+like a custom GPT. Like that's I think I
+was telling you before we started
+recording, that was really the first
+legit lead magnet that we put out
+as part of the Return My Time business.
+And you know, we put it out a couple of
+days ago and it got way more sign-ups
+than expected. And I think it's because
+it was the the promise was very
+tangible. It's like, "Hey, take 3
+minutes. It's going to interview you
+about your business. And then at the
+end, you're going to have a a custom
+blueprint tailored to your business
+that's going to tell you exactly how you
+can build your first agent."
+>> Yeah. So, it's like, "Hey, shoot. That's
+worth 3 minutes of my time." And it was
+it's tailored. So, I think and I saw
+somebody talking about this on LinkedIn,
+too. He was like, "Hey, the best
+performing lead magnets of the year have
+all been custom GPTs for me."
+>> Yeah. And it's so easy just to spin up a
+custom GPT. So, yeah.
+>> Right. I think like thinking about
+what's the most value you can pack into
+a lead magnet is important, too. Yep.
+Yep. So, it's uh Claude has been cooking
+on um
+social content assets, the wealth gap
+course, kind of a sequence of different
+posts and things like that uh you know,
+add value to your LinkedIn audience or
+whatever that might be.
+Uh but it's still going, creating a
+bunch of assets. So, um yeah, the point
+though is you create one thing and you
+can easily repurpose it into multiple
+assets that you can use. You can go and
+research like what type of assets in
+your niche perform on these different
+channels. You know, you can scrape, you
+can do deep research with things like
+Perplexity. Yep. And have those set up
+in this environment.
+>> Mhm. So, um the sky's the limit to what
+you can do with this kind of thing. It's
+just like, you know, use the right
+skills, how do you apply it, and get
+started with something small and just
+try it. And just get 1% more
+comfortable, not even better every day,
+but just 1% more comfortable with it
+every day. And I think that's that's
+what's going to lead you to be better.
+Yep. So, that this has been fantastic.
+Now, so, one question before we wrap up
+and before we tell people where they can
+find you and and follow you. And that
+question would be and and you kind of
+already answered it, but
+what is the practical first step for
+somebody listening to this who's like,
+"I know I need to use Claude code. I've
+been procrastinating on it. Mhm. It's
+kind of intimidating.
+What where do I start? Like what what is
+step one for a non-technical person?" Uh
+step one is go and download Anti-Gravity
+or VS Code. Um open it up Uh and you're
+just going to see kind of like a a blank
+app or or whatever. Don't worry about
+anything. Um click this little like
+button. It's the same in all of them.
+That'll open up the terminal and the
+terminal is where Claude code lives for
+me. Um go to uh you know, Google or
+ChatGPT or whatever it is you use and
+say, "Hey, give me a guide to install
+Claude code in Anti-Gravity or uh or VS
+Code as a first-time user." Right. Give
+me the uh the install command and and
+stuff like that. Then you're going to
+get like one little sentence. You're
+going to copy it. You're going to paste
+it into that terminal Mhm. that you have
+open in your IDE. It's going to install
+some stuff and get it ready. And then uh
+you're just going to type Claude. It's
+going to open up Claude code and you
+just have to sign in. That's all.
+>> And hopefully you have a paid Anthropic
+or Claude account because
+if you don't, you're probably already
+behind.
+>> Yeah. I use a Max account. So, I pay
+like 200 bucks a month. However, they
+have other tiers that are lower. You
+don't need to pay $200 a month to get
+access to this stuff.
+>> Yep. I'm a power user. I I spend 10-12
+hours a day uh in here. I've never run
+out of tokens with a Max plan.
+>> Right. Yeah, that'll be for for even the
+heaviest users, that should be enough to
+get the job done. I'm on the Pro plan,
+which is 100 a month. And then the the
+cheapest paid tier is 20 a month.
+>> So, yeah, that's that's kind of table
+stakes. So, that's really good feedback.
+It's like download Anti-Gravity or VS
+Code Cursor and just jump in. Jump in,
+start using it as like a day-to-day LLM.
+>> You know, and ask it questions. Uh give
+it the URL to your business or your
+website. Tell it the idea that maybe you
+have that you haven't started building
+yet. And uh just get comfortable for how
+it responds, how it thinks, how it
+works. And I would say that uh you know,
+start with something simple like a
+landing page or even something
+non-technical like a blog post or an
+email series. And you'll really see how
+much different it is uh working with
+with Claude code than anything else. So,
+here's what Claude code actually came up
+with quick um in terms of assets. So, uh
+we've got social content,
+two LinkedIn carousels uh around the
+five wealth gaps and the true cost of
+fees, four long-form LinkedIn posts.
+>> That's I could see that being a great
+carousel, the five wealth gaps. That's a
+good framework to have, too.
+>> We've got two long-form threads for X,
+seven single tweets, we've got a short
+form of video, actually five short form
+video scripts um that you could use
+across TikTok, Reels, or Shorts, and
+then four four full SEO articles ready
+to publish that are 2,800 words 2,800
+words, 2,200 words, 2,400, and 2,000.
+>> it was taking so long to cook. I was
+like, "What's taking it so long?"
+>> Yeah, and it even ties into the keyword.
+So, the article, the first one is true
+cost of wealth management, the keyword
+that it decided to optimize for is how
+much should a wealth manager cost, nine
+signs you need a new advisor, what's a
+wealth manager do, 21 questions for your
+advisor, all have meta descriptions,
+FAQs, and quiz CTAs. Oh, so at the end
+of each article, it it redirects them
+back to taking the quiz?
+>> Yeah. That's so good. Yeah, so good. So,
+then it says complete funnel structure.
+So, you ask, "How do you get traffic?
+How how does this all come together?"
+And here you go. So, you've got the SEO
+articles, you're going to rank on
+Google, that's the goal, people are
+going to click, they're going to come to
+the landing page, or they're going to
+read the article and click that CTA
+button, they're going to enter the quiz,
+they're going to get the email sequence,
+you're going to get them on a
+consultation. Right. That's it. That's
+God, that's so good. That's so powerful.
+It makes me just want to like run home
+and immediately fire up the terminal to
+start going to town.
+>> I know. There's nothing like it. I know.
+It's it's so cool. Well, dude, this has
+been fantastic. I think this is pretty
+much like
+it started as, "Hey, show us how to
+build a 14-day email sequence," and it
+kind of turned into almost like a mini
+marketing masterclass. So,
+I've certainly gotten a lot out of it. I
+think everybody who's made it this far
+probably has as well. So, with that
+said, I'm I'm sure people are going to
+want to follow you or maybe buy that
+skills pack that you offer. Where
+where's the one place that you want to
+send people? Yeah, um so, I share stuff
+like this every day on X. I'm
+@boringmarketer on X, so you can find me
+there. You can find the different things
+I'm building and working on and stuff
+like that. If you go to the vibe
+marketer.com, I've got sort of a a free
+playbook that walks you through how I
+use skills, how I use Claude code, my
+mental models, my frameworks, and my
+strategies. If you want the skills,
+there's some links on the website that
+you can grab them. Uh once you buy them,
+they're yours. Um I'm going to push some
+new updates with some fresh skills uh to
+people who purchased, and there's no
+like additional fee for that, so. Nice.
+And I I tell people
+for people that are doing it at a high
+level like you, it's like go opt into
+every just follow them on all platforms,
+get onto his email list, look at the
+website, just like see what people at
+the highest level are doing, and just
+copy that. Like that's literally what
+what tends to work pretty well. So,
+That's it. That's awesome, man. I
+appreciate the time, and I'm sure we'll
+we'll be back soon for a part two. All
+right. Thanks for having me, Corey.

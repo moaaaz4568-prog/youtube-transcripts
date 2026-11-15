@@ -1,0 +1,288 @@
+Hello everyone.  Today
+we'll take a look at some
+amazing Figma tips and
+tricks that
+will speed up your
+work and make you a
+true
+Figma master.  If you want to
+further improve
+your design
+skills, be sure to
+check out our
+free
+UX/UI
+design guide.  The link to
+it can be found in
+the description under the video.
+Now let's get
+straight to
+the point.  Our first
+tip is about
+using the
+delete and
+restore feature in Figma.
+Let's say you want to
+delete one of the points of a
+shape.  Just
+select it and
+press Delete while
+holding down the Shift key
+.  The point disappears, but
+instead of
+breaking the shape, Figma
+automatically aligns the
+path.  What about more
+complex shapes?
+Let's take a
+line in the shape of a
+question mark.  If
+your path has
+too many points, you
+can select
+several of them and
+holding down Shift.  Figma will
+automatically
+straighten the path and
+make it smooth.
+Let's move on to the
+next tip.
+Imagine you're
+working with a large
+Figma file with many
+similar elements, like
+these shapes or text
+blocks, and you want
+to select them all
+at once.  First
+select one
+element, go to the
+Edit menu, choose "Select
+all with" and choose the
+desired property
+.  And just like that, all
+elements with the
+same
+properties will be
+highlighted.  This feature
+can
+save you a lot of time.  Okay
+.  Let's move on to the
+next tip, which
+concerns the
+ordering feature in Figma.
+Let's say you're
+working with several
+objects in a row, like
+here.  Select the objects you
+want to
+arrange.
+Notice the
+little
+grid icon in the corner.  Just
+click on it.
+She magically
+arranged our
+objects.  You can
+adjust the distance
+between them and
+drag the objects
+to change their
+order.  The next
+adjusting the
+nudge step.  By
+default, when
+you select an object and
+use the
+arrow keys,
+it moves
+one pixel.  If you
+hold down the Shift key
+while using the
+arrow keys, the object
+will move 10
+pixels at a time.  But
+you may need
+very precise
+settings.
+Select Preferences,
+then Nudge amount.  There you
+can adjust the
+offset steps.  So,
+if you want to
+shift objects by
+half a pixel or 0.1
+pixel, that's
+possible too.  Moving
+on, let's explore a
+unique feature of Figma
+.  Using
+images as styles.
+In Figma, you can
+create styles not
+only for colors,
+text, effects, or
+layouts, but also for
+images.  Click
+on the four dots
+next to Fill, then click
+on the plus button.
+Here you can give
+your style a name.
+We'll name it "
+lake" and then
+click "create
+style".  This
+image is now saved
+as a style, and you can
+apply it to
+any shape or
+font.  The
+arc tool is great
+for
+creating and modifying
+curves and circles in Figma.
+When you
+hover over a circle,
+a single
+manipulator appears on the right side.  This point
+determines where you can
+start creating the
+arc.  Click and
+drag the
+arc handle
+up or down to
+change the span.  This
+creates a gap in the circle
+.  Now three manipulators will appear
+.    The
+ratio manipulator in
+the center of the circle allows you
+to convert the circle into a
+ring.  The
+start manipulator indicates
+where
+the arc begins.  The
+reach manipulator indicates
+how complete
+the circle is.  The next tip is
+about
+using multiple
+fills in Figma.  This is
+especially useful
+when text
+is superimposed on an
+image and you
+want to improve
+its readability.
+Select the image
+and in the panel on the right,
+find the
+"fill" property.  Click the
+plus icon next
+to a fill to
+add another one.  You
+can adjust
+the color of this fill
+to create a beautiful
+effect.  We
+can also change this
+fill to a gradient and
+adjust it so
+that the darker part
+is near the text, which will
+readability.
+The best part is that we
+did all of this without
+having to
+add any additional
+rectangles or layers
+on top of the image.
+Next, we have a tip
+that will help you
+save a lot of
+time.  What if
+we want the circle to
+look the same
+as the star, including
+color, stroke, and
+stroke thickness?  We
+could manually
+configure these
+properties one by
+one, but there is a faster
+way.  First,
+select the star,
+right-click,
+and
+select "copy
+properties."  Now
+select the circle,
+right-click
+select "paste
+properties".  That's right
+, the circle inherits
+the properties of the star,
+including its color,
+stroke, and
+stroke thickness.  OK.
+next tip.  We'll
+talk about how to
+ignore
+autolayout
+using a simple
+key—the spacebar.  This is an
+extremely convenient
+technique when you
+want to freely
+customize the layout,
+despite using
+autolayout.  Simply
+select an element and
+hold down the
+spacebar while
+moving it
+within
+the autolayout.  You will
+notice that as long as you
+hold down the spacebar, you
+move the element freely,
+ignoring the
+autolayout constraints.  The last
+tip for today
+concerns
+Figma's built-in calculator.
+working on a
+design and want to
+make an object wider
+by a certain number of
+pixels.  Simply
+click on
+the object's width property, instead of
+typing a new
+number, type a
+plus sign and a number, and then
+press Enter.  This is not
+limited to just
+basic math
+like addition,
+subtraction, multiplication,
+and division.  You can also
+use more
+complex operations,
+such as parentheses for
+order of operations and
+percentages.  I hope
+these Figma tips and tricks
+help
+make your
+design process easier and more
+efficient.  Don't
+forget to
+like this video if
+you found it
+useful and
+subscribe to our
+channel for
+more useful
+design content.

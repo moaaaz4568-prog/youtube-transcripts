@@ -1,0 +1,943 @@
+So, Alex, what are we going to learn
+today?
+>> Um, we're going to learn today a little
+bit about vibe coding. We're going to
+learn about a manis uh automated
+workflow that helps me curate content
+daily. and we're gonna learn about a
+project that I've been personally
+involved with over the last few weeks in
+building that I'm very passionate about
+and is a basically a digital clone
+influencer studio that allows you clones
+yourself and uh create uh content. So
+>> look into that later too.
+>> Yeah, that'll be sweet. And so the goal
+of this is to be super hands-on. So
+before we jump into you just sharing
+your screen here, why don't you give us
+a quick background and why is it that
+people should listen to you? [snorts]
+>> So uh I'm Alex uh and the whole thing is
+simple. I kind of build and test
+different AI solutions and automations
+in production and help companies build
+uh working AI and AI agents that uh help
+them automate tasks within in within
+their workflows. Um, over the last year
+I kind of blew up on LinkedIn and grew
+my following from about 500 followers to
+33,000.
+So I think there's been a little bit of
+accomplishment there. and uh I've also
+been heavily involved with the lovable
+community and have been the discord
+champion and uh kind of like a community
+mentor for many months now and helped
+many different builders and firsttime
+founders get their applications to 100%
+and get them deployed and out there. So
+I know a thing or two about VIP coding.
+>> Nice. Sweet, man. And well, yeah, you've
+got a awesome background and what I'm
+excited about for today's episode is
+you're going to be sharing your screen
+for a large part of the conversation and
+kind of walking us through the system
+that you built step by step using Manis
+to I believe uh curate and create your
+personal LinkedIn content for your
+profile, right? And basically the
+process that blew you up from 500
+followers to what' you say 33,000 in a
+matter of months.
+>> Yeah, I think it was like nine months
+now maybe on the 10th month. That's
+really fast, too. Like that's insanely
+fast growth.
+>> Yeah. And uh it's definitely been it's
+been good. Lots of exposure. I was able
+to, you know, lay in some client work
+out of it and um definitely kind of, you
+know, get my name out there as as a AI
+builder. So, it's it's always good to
+work on your personal branding.
+>> Yeah, absolutely.
+>> The manus workflow isn't super
+complicated. It's something that
+actually anyone can do. So, it's a
+fairly simple setup. Um, and obviously
+if you're if if you can afford the
+credits, you can set up as many of them
+as you like. Uh, you know, it it is a it
+is a paid service, so you you always
+have to keep that, you know, cost in
+mind as well,
+>> right?
+>> Um, but yeah, we'll definitely go over
+the, uh, the content studio as well and
+look at that for a little bit.
+>> Awesome. Well, whenever you're ready, go
+ahead and share your screen.
+>> Uh, let me just figure that out. There
+we go.
+I think we're working now.
+>> Yep, we're in the screen now.
+>> Awesome. So, this is me and us. Uh this
+is kind of what you see when you first
+log in to the landing page. So, very
+simple. Uh the big news with these guys
+in the AI space is that just few days
+ago they've been recently acquired by
+Meta. So now they're part of the
+Facebook Meta family of companies. Um
+[snorts] and I've been kind of using
+Manis probably since about March or of
+April of 2025. So it was still in beta
+then. And uh you know within within 10
+[clears throat] months they kind of went
+from zero to over two billion valuation
+and then being acquired by Meta. So, you
+know, bit of a unicorn in the AI space.
+>> Absolutely.
+>> Um, so they have a lot of different kind
+of things. They allow you to now do data
+controls. The AI gents are pretty smart.
+They can build, they can research. Um,
+what I like using MINS for is a lot of
+heavy research and kind of content
+curation. So, when I first started,
+maybe the first few months, it was
+really tough like trying to figure out
+what to post every day or what to even
+like kind of [snorts]
+put out there. Um, sometimes felt like
+maybe you're doing a little too much
+personal content, maybe you're
+oversharing, maybe you're posting stuff
+that you care about, but the audience
+doesn't care about. So what I did was
+created kind of like a schedule task so
+that every morning [snorts] when I wake
+up inside manus and and you can do this
+inside some of the other LLMs now as
+well. I believe that like chat GPT and
+claude allows you to do this as well.
+But what I like meas about is that it
+uses multiple models to complete it
+tasks and it's more agentic a little
+bit. So the agent goes out there and
+completes his tasks autonomously. And so
+I wake up every morning um and I have
+like an industry report that runs and we
+can kind of look at it a little bit. Um
+so you have your prompt, you have your
+schedule, you can control where it runs.
+Um there's some [snorts] advanced
+settings that allows you to pick a
+model. Um so that kind of works there.
+And
+>> and you could do this for any industry,
+right? So obviously you have this set up
+for your industry. I assume mostly AI
+news, but for somebody that was in say
+financial services or any other
+industry, they could set up a similar
+like daily industry brief for themselves
+based on this framework, right?
+>> Yes. And you can do multiple industries
+and you can do multiple scheduled tasks.
+So you could wake up and have your
+finance news, you could have your
+politics, you could have your, you know,
+world news, you could have any type of
+industry that you're in. Um, it can
+curate real data. Um, and I believe they
+just got integrated with Simple Search,
+which is one of the web search data
+companies that curates all the past web
+search data of like overall web
+searches. So,
+>> oh yeah,
+>> managers can tap into that as well. So,
+that's like a huge addition, right? Um,
+so research research really good. Uh, it
+works really well and you can set it up
+for anything.
+>> Um, and it's pretty fair with usage, you
+know, it has pretty good logs. It tells
+you where you spend your credits. Um, so
+you know, it it's pretty uh transparent
+>> right
+now. Let's see your system for uh as far
+as how you're creating content and doing
+it at scale cuz you're you're pumping
+out it's not just like text posts every
+day. I mean, you're pumping out
+carousels and analysis of full reports
+and pretty intricate detailed content,
+which is probably why you grew so
+quickly. So, I I'm really curious to see
+this workflow.
+>> Yeah.
+So let's look at it. Uh this would be
+like one that I ran recently. And so
+kind of this is basically the end result
+that I wake up to every morning. Um
+and so you'll have like industry reports
+and you can adjust the dates obviously.
+Um
+what I like to curate are PDFs
+specifically or PDF format. um industry
+reports,
+they tend to do well on LinkedIn. So,
+that's kind of like a trick with
+LinkedIn. The carousels and the PDF
+format documents tend to do well.
+>> Um I think most of the big LinkedIn
+people recommend doing that at least
+like 40 to 50% of your content if you
+want to really like grow fast.
+>> So, for example, so this found me
+something. Um Oh, nope. Maybe let's try
+this one again.
+Nope. And so not always perfect. You'll
+get sometimes there's going to be a dead
+link or two. Actually, I think this may
+be kind of like an outdated report. So,
+let me look at this here, which should
+There we go. Uh, wrong link. And, uh, so
+like it finds these type of reports. So,
+this is, you know, like literally
+Department of Defense. [laughter]
+Um, and so it allows you to read to
+these kind of things that normally would
+probably like skip an average person's
+feed,
+>> I just I did catch a couple paragraphs
+of it there. I mean, they're talking
+about a plan to accelerate AI adoption
+for military and intelligence uses,
+right? So
+>> correct,
+>> like you like you said, I mean that's
+news that's really interesting to me as
+someone who's interested in the space,
+but I'm not going to see that on my
+everyday feed or probably ever.
+>> So, right, that makes sense.
+>> Yeah. And here's another one which is
+like from workday. So, some of these
+like obviously like I'm not always just
+going to share some type of like
+internal corporate or government report.
+>> Uh I'm very specific on sharing those on
+the feed.
+But I'll use these to generate a content
+or maybe use it kind of to like for my
+copywriting or creating the post itself.
+Um, but some of these are super
+interesting just just as you're in the
+space to read them over or kind of brief
+them over, right?
+>> No one has the time to read them all
+every day.
+>> Now, how did you actually build this
+process? like can you kind of walk us
+through step by step how you built that
+or even maybe even like create a new
+version from scratch for a different
+industry?
+>> Yeah, let's try it. So,
+what we would do is we'd go to schedule
+tasks and create a new schedule tasks.
+So, let's see.
+Um,
+research
+all the latest
+UI UX trends
+in web development.
+>> Oh, yeah, that'd be a good one.
+>> We'll just say that.
+And then for the second one, I'm gonna
+actually use one of my favorite tools
+that I think that most AI builders these
+days should use is called Whisper Flow.
+>> Oh yeah, that's my most used tool by
+far. It's not even close.
+>> A little pitch to Whisper Flow.
+>> Yeah. So, I'm going to go ahead and just
+mute myself for a second and whisper
+this.
+So, for the people that don't know what
+he's doing, he's muted us because he's
+speaking to text using a tool called
+Whisper Flow, which you literally just
+talk into the computer and then it knows
+exactly what you're saying. It formats
+it appropriately. It capitalizes
+everything. Punctuation is perfect. So,
+it would be like if Siri actually
+worked. That's what Whisper Flow is. And
+so, he's basically talking a long prompt
+into the mic. And yeah, it looks like
+that's exactly what you did.
+And so, it just speeds things up.
+Obviously, we uh we type I think even
+some of the fastest typers that I know
+are about like 150 maybe words per
+minute. And uh that's you know that's
+not an average person. Most people I
+think are about 50 words per minute.
+>> Um so I think that this speeds up your
+your processes by much. Um but from here
+you can you know do it daily, weekly. So
+let's do daily. We're going to do we're
+going to pick a time. Let's do say 3
+a.m.
+And we can set an expiration date. So
+we'll say let it run until the end of
+the month.
+You can add any type other parameters in
+the prompt you want. You could add
+specific dates, times. So let's uh
+ensure
+the reports are from the last
+six months.
+Or you could do six days. Um,
+>> right.
+>> Obviously, you can pick your model here.
+>> Um, there.
+>> So, I assume agent or I assume max being
+the highest level agent would probably
+do the deepest thinking and what
+possibly the best result or is that not
+the case?
+>> Yeah, that is correctly the case. It
+will also it will also be the most
+expensive agent to run as far as credit
+go. It will the credit use will be the
+highest on this. Um, so
+I may not be 100% correct on this, but
+last time I did a little research into
+Manis, it was using about three to four
+different LLMs uh, for its agents based
+on its tasks. So, I'm going to assume
+that Max mode will be probably like
+primarily utilizing like something like
+Claw Opus 4.5,
+>> And then I'm going to say like uh, you
+know, Manis 1.6. six maybe like
+um Quinn latest model and chat GBT that
+kind of thing
+>> right that makes sense.
+Then light would probably be like an
+older entropic model maybe like a son
+4.0 or something.
+>> Sure.
+>> That's that's at this point a little bit
+cheaper but usually that's how it's
+structured. It's
+>> they don't always necessarily give us
+all the truth,
+>> right? Yeah. A lot of it is kept under
+wraps which is interesting. Some of it
+you got to just figure out
+>> through use.
+>> We can, you know, run it at always ask.
+So this is nice. You can do like a
+permission. So obviously if you're
+running something at 3:00 a.m., you're
+not going to want to do always ask cuz
+you're not going to be up at 3:00 a.m.
+So you want to just going to do auto
+proceed. [snorts]
+And that's it. It's really simple. So
+now we have this workflow set to run at
+3:00 a.m. And if we want to run it now,
+uh, we can hit the three dots. it can
+run now and kind of watch it in real
+time as it runs
+>> and think about how powerful that is if
+you're doing any sort of research on a
+regular repetitive basis. I mean, I know
+you have a newsletter. I mean, for all
+the people out there that have a
+newsletter where they include some data,
+whether it's like an industry trend or
+even like a social media post, this can
+be a really good workflow for automating
+a lot of just like the administrative
+gathering of data that needs to take
+place with a lot of these newsletter
+products or even Yeah. like social media
+posts. It applies to a lot of different
+things that that people are probably
+doing in their small business.
+>> Absolutely. Absolutely.
+So yeah, it's just doing its thing right
+there.
+>> Yeah,
+>> that's awesome.
+>> It's very cool because you can actually
+go to the computer view
+>> and watch it. You can
+>> kind of watch it what it's doing. Yep.
+>> Yeah, Manis was the first
+like real agent that I got a taste of.
+Uh I mean a while ago now, I think
+pretty early on, shortly after they got
+started. But that was the first time I
+ever saw the AI thinking out loud. And
+it it really blew my mind. I was like,
+"Wow, this is crazy." And it I think I
+put about 10 I think I spent about 10
+minutes putting together a pretty
+detailed prompt for a SL uh basically a
+presentation I needed it to create about
+passive income along with like some
+research and projections and it
+oneshotted it minus the formatting on
+like the PDF on the last page. So, I was
+very pleasantly surprised the first time
+I used Manis.
+>> Yeah, it's pretty it's pretty wild right
+now. I think uh most people know Lenny's
+newsletter in the space.
+>> Oh, yeah. Yeah.
+>> And I believe that he just did a fun
+project where he took all of his uh
+podcast that he's done. I believe
+there's like over 200 of them now with
+all the different type of like founders
+and some of the biggest names in SAS and
+and and YC world. And um me and was able
+to extract the data from each one and
+then create like a onepage
+um kind of infograph.
+Yeah. And now like you can go through a
+list of all his podcasts
+>> and just look over like a onepage
+diagram that kind of gives you gives you
+a breakdown of that podcast and what
+it's all about and like the key points
+from it.
+>> That's so good. And what what would be
+cool too, like something I would
+subscribe for or maybe even like pay for
+is if you took all 200 episodes and
+extracted like what are the top five
+most common lessons learned or like most
+common traits or you know what I mean?
+Just like consolidate all of that into
+like one analysis report. I think that'd
+be really cool because then it's like
+hey that's the playbook to go do what
+those guys have done like backed by data
+you know.
+>> So this is it's crazy. It's literally
+opened up the browser and it's searching
+>> through websites looking for UIUX design
+news and trends exactly what we asked it
+to do and it's just doing all that
+behind the scenes and when it's done it
+basically notifies you. I mean that's
+it's crazy the level of automation that
+exists in these types of tools right
+now.
+Absolutely. They're just amazing. Like
+some of these research tools um and some
+of the agents behind them that they're
+out there are just so good. Like I I
+can't imagine having to do all this deep
+research like manually in the past.
+>> Oh yeah.
+>> With the time and effort it would have
+taken it,
+>> right? And you know, I hate to say it,
+but it's like if cla is down
+>> or if whatever tool I'm using in that
+moment is down, it's like I don't even
+try to get around it manually. I
+literally just wait until it's back up
+because I'm like, why would I even
+bother doing this task without this
+tool? Like it's going to make it a
+hundred times better and 100 times
+faster. I'm just going to come back when
+it's ready.
+>> I agree. Yeah, I agree. Uh I always tell
+people, you know, if you don't think
+things are good enough now, just wait 6
+months,
+>> right? Oh my god, it's getting so much
+better, so much faster now. What is it
+doing right now, do you think? Uh or I
+guess how long does this type of task
+typically run?
+>> So, it usually runs for like about I
+think on average, and it's hard to tell
+because I'm honestly never really
+tracked it since they mostly time they
+run is when I sleep and so but I think
+it's about like 10 15 minutes or so.
+Okay. So then let's jump into the next
+tool that you were going to show us and
+then maybe at the end of the
+conversation we come back and see the
+results here.
+>> Sure. And I know I think maybe we had
+some uh questions that you have for me.
+We can go over some of those too
+whenever we're ready.
+>> Um so this is a project that I've been
+personally involved in and this is a fun
+story about couple months ago. is just
+hanging out in uh
+the Loable Discord just like we always
+do. Uh shout out to Loable Discord.
+We're I think just broke over 1,500
+hours straight in the dev chat. That
+means somebody in that voice chat always
+hanging out, helping people, helping the
+community.
+>> Wow.
+>> Um
+>> good for you, man.
+>> Yeah. Yeah. It's been it's been a little
+bit of a unicorn because I'm in a lot of
+different AI communities on Discord and
+none of them have that type of that type
+of live community that lovable does. So,
+there's something to be said about like
+what they cured there and the kind of
+atmosphere they bring for like new
+builders and new founders and just
+anybody from any type of walk of life
+that wants to kind of create something
+with AI, you know, it's a welcoming
+space.
+Um, and so I was just hanging out in
+there and you know, as always, kind of
+new builders and maybe existing builders
+that hasn't that haven't found the
+space, you know, trickle in. And some of
+us that been around the block a few
+times and built few apps already usually
+jump in and help if someone needs an
+issue or has an issue and, you know,
+something's going on. And so obviously
+we started building and um there was a
+new builder and her name is Abby and
+she's she's in Fargo, North Dakota. And
+we kind of started hanging out a little
+bit and I saw her project which was
+person at at that point. Uh maybe it
+wasn't even person yet. It was just
+called AI Studio. Um and I was like wow
+this is really cool. I was like like
+what's what's it doing? It's really cool
+and I see [snorts] a lot of potential.
+Obviously, there's a lot of apps out
+there already like, you know, Hicksfield
+and
+>> Mourney and Leonardo and all that stuff,
+all the big studios, right? But if you
+actually spend some time in those apps
+and played with them, it's still
+>> semi complicated to get consistency to
+be perfect across generations. So, if
+you're trying to generate like, you
+know, 30 days worth of content all at
+once, it's really hard to keep the
+character consistency. And so I think
+that's the problem that person solves
+the most is the consistency.
+Um it does really get [snorts]
+the generations right as far as like
+faces and the characters go. And that's
+kind of what what we've been focused on
+really trying to, you know, fine-tune
+that part. Um so I'm just going to
+scroll down a little bit and kind of
+show some of the landing page content.
+Uh it's a beautiful landing page. I
+think it it it looks solid. It to me it
+doesn't look like it's a vibe coded app.
+It looks like an actual, you know, SAS
+platform, whatever you want to call it,
+>> right? Agreed.
+>> Um, so these are kind of some of the,
+you know, viral shots. Uh, here's me as
+one of the influencers. Uh, here's my
+friend Shane. He's also one of the AI
+builders, one of the global champions.
+and this kind of explains, you know, in
+one sentence what person is. It's your
+digital clone that creates content 247.
+So the automations will be coming soon
+with V2 uh full automations. Right now
+it's mostly like prompt and preset
+automations. So you don't have to do a
+lot of manual work. It's like one two
+click and you can generate.
+>> Uhhuh. But uh our vision for this is to
+be able to have like full autonomous
+basically social media influencers
+because that's what the world is moving
+to anyway and right
+>> AI agents are kind of taking over in
+2025 and 2026. So
+>> in other words is basically your
+influencer AI agent.
+>> Now is this the tool that you use when
+you posted that picture on LinkedIn of
+you standing next to the rock and like
+you standing next to all those
+celebrities?
+>> Yes. This is the tool that I used. Yeah.
+And and I mean it's crazy how lifelike
+that picture looked. And so and I I'm
+asking because I honestly don't know the
+answer. Are you saying that if we tried
+to generate that same image with like a
+nano banana or you know uh an open AI
+model or any other model that it
+wouldn't look as much like you like it
+wouldn't look as realistic.
+>> I don't think it's it's possible to get
+it to look consistent like generation
+after generation.
+one, you will spend a lot of time
+copying and pasting prompts and and
+doing all that stuff. With person, you
+kind of you load yourself in once and
+you're locked in. Your identity is
+locked in. And uh two,
+from my testing experience, if I go
+directly to Nano Banana or say Gemini or
+Chad GBT and I try generate character
+and consistent images,
+um it's about hit and miss. I'd say I
+get about 50%. So, right, I'd say like
+every other image the consistency is
+there, but every other image I'll get
+something just completely totally off.
+>> Um, I think with person we're pushing
+like 90% consistency. Obviously, it's
+still not perfect. Once in the blue
+moon, you'll get something that, you
+know, AI decides to just completely
+hallucinate. Um we are at the you know
+uh we are at the behest of the major AI
+providers like Gemini and uh Cdream and
+Chat GBT and those type of providers. So
+>> sometimes the API models themselves or
+the APIs decide to just kind of
+>> do their own thing.
+>> But I think we that's been kind of our
+mission to try to solve that problem. We
+we find it as a problem if you go and
+generate content all the time. I think
+it is a problem and so we're trying to
+solve that problem.
+>> Yeah. And it's smart because I know when
+I post on LinkedIn, anytime I use a
+picture of myself like in any capacity,
+it always performs better. So, I mean,
+having this tool to be able to basically
+generate AI versions of that, I know it
+sounds crazy, but that would be
+genuinely useful.
+>> Yeah, it is crazy, but this is the
+reality we live in. And I don't think
+that by 2020 end of 2026, I don't think
+we'll be able to tell much.
+>> No, I think you're right. Now, can you
+show us behind the scenes? Like, can we
+do a couple examples?
+>> Oh, yeah, absolutely. So, let me get
+logged in. So, you have your login
+process. Pretty straightforward.
+Obviously, I'm already registered
+account. So, uh it will just allow me to
+log in. If you're a new account, you
+would have gone through an onboarding
+process where you would have to provide
+five images of yourself and consent that
+you're actually on those images and that
+is really you and you have permission to
+use them. And so at that point it
+creates in two steps it creates a clone
+of you and loads you into the dashboard.
+Um this is just a little kind of like
+onboarding hell for users.
+>> Mhm.
+So,
+>> oh yeah, those look good.
+>> Yeah. So, I was generating a little bit
+of like, you know, fun content.
+>> And so, here's one of me, you know,
+>> and and like those Americ
+put yourself in a situation, like people
+find those funny. And when they look
+realistic and you like point to that
+fact in the post itself, I think people
+love it. Like I've always seen those
+perform really well, you know?
+>> Right.
+>> My friend was making fun of me about a
+picture I generated and said it looked
+like I uh I just closed the $50,000 deal
+via text message. So here's the shot
+afterward.
+>> I love that. Yeah. I mean that's when
+you know it was that's when you know
+it's a good image. Right.
+>> Right. So like you know the outfits like
+all these are picked so you can you know
+in
+>> um yeah I mean the realism in these
+pictures are just so good.
+>> I I actually am 100% going to try this
+like this has really piqu my interest
+because I mean these are good. So does
+is it a monthly subscription or is it
+you buy a certain amount of credits and
+then you can use those credits as you
+wish.
+>> I believe you can do both and it does
+start with a subscription but we do have
+a free tier. So, if you just sign up and
+uh kind of try it out for yourself, um
+you will be able to just generate
+several generations for free. At that
+point, you obviously there's a
+subscription and and you do get, I
+believe, like five generations that
+refresh every 24 hours.
+>> So, it's not Yeah, it's not just like,
+you know,
+>> use it once and that's it. You can't
+come back every day and generate a
+couple extra pictures. So, that's nice.
+>> Nice. But this the cheapest plan starts
+at nine bucks. So it's not it's not
+terrible.
+>> I'm I'm bookmarking it right now because
+I'm absolutely Is it So person.ai
+psy.ai.
+>> That is correct. Yep. Person.ai.
+>> Yeah, just bookmarked that. That's
+sweet. Awesome. Well, let's uh let's
+check on Manis and see if it got the job
+done and then we can
+>> We'll come back. We'll come back and do
+a generation.
+>> Yeah. Yeah. Yeah. And then we'll we'll
+wrap up with a couple questions after
+that.
+>> Yeah. So, it looks like M&S did finish
+it its report
+uh or its research and so here we have.
+>> so it did exactly what we asked it to
+do. And we're talking pretty deep
+complex research.
+>> Correct.
+>> And distilling it into a summary and
+into tables and into a manner that's
+actually digestible that you can then
+take and put into like the LinkedIn
+content you're creating. That's
+basically the system you're using,
+right?
+>> Correct. Correct. So, you know, you can
+use other tools like there's AI, there's
+carousel generation tools like one
+popular that we love to use is Google uh
+notebook alum. It's amazing free tool,
+especially if you do have like the $20
+Google subscription or Gemini
+subscription. You can kind of use it a
+lot, but even without it, they allow you
+to use it a lot. And so you can create
+uh infographics, you can create reports,
+you can use this research and have
+notebook LM ingested and then generate
+uh you know different type of content
+for you or add on to it. So I like to
+kind of connect the two workflows and
+use them uh you know in parallel.
+[snorts]
+>> Yeah, that's super smart. No, I could
+see that making it a hundred times
+easier because think about it if you're
+doing that manually, the research alone
+is hours a week,
+>> right? Much less and then distilling it
+into the format that you're going to
+post is is the other half. And
+>> it does give you like the references,
+right? So, you know, it does give you
+the links and things so you can actually
+like go and and you know, make sure that
+it it's like, you know, real things.
+>> It's not making stuff up,
+>> right? So, you know, it takes you
+through like the resources that he used.
+>> Smart. No, I love it. Awesome. And then
+obviously you shared that prompt
+visually earlier in the the interview.
+So for those if you're listening on
+podcast platforms, go watch this again
+on YouTube because you can obviously see
+all the prompts and everything that was
+included. Uh now, Alex, let me ask you
+this. So, a lot of people in the
+audience, they're they're small business
+owners. And one of the pain points that
+we see probably more often than anything
+is that it's like they know they need to
+use AI, but they don't know where to
+start. And you can substitute AI for
+automation, right? They know they're
+doing a lot of stuff manually, but they
+don't know which task to automate first.
+So, my question for you is
+really where do you see people going
+wrong? Like what's the wrong move in
+that situation?
+Um, I think a lot of people try to do
+too much at once.
+>> Yeah. And and we all live busy lives,
+you know. We live busy lives. We live uh
+constantly thinking about 20 different
+things trying to accomplish 20 different
+tasks. If you're a business owner,
+you're probably doing a 100 things at
+once. Uh it it it's just the life of a
+business owner, a busy founder. You're
+wearing 15 hats at any given point in
+time. And so, you're trying to
+constantly balance those things. And I
+think most people are just overwhelmed
+in the modern life. And so they try to
+they try to relieve too much at once.
+Uh like anything else in life,
+automation and AI works best if you
+start small, start one little thing at a
+time. And I think once you figure that
+out uh and start start building small
+little automations or small little task
+replacements for yourself and and figure
+how that works, then then you can kind
+of scale from there and and figure out
+what can be automated in your personal
+life or in your work life and what
+cannot be and um you know
+>> scrap the stuff that doesn't work and
+then you know scale the stuff that
+works.
+>> Yeah. And I think that's really smart
+advice because like you said, it's like
+don't try to do too much at once. If all
+you do in the first week is automate one
+task that saves you 20 minutes a week.
+If your hourly rate is worth say 100 an
+hour, I mean you still save what almost
+30 bucks uh a week. So 120 bucks a month
+with that one automation. That's how you
+got to be thinking about these things.
+So yeah, take it one thing at a time and
+take it slow. But I think that's great
+advice.
+>> Yeah. Now, uh, my next question for you,
+Alex. So, based on what I gathered from
+your LinkedIn profile, you've deployed,
+it sounds like over 47 different agents
+in 2025.
+Um, so my question for you is, if, let's
+say, I'm a small business owner and I'm
+looking at deploying AI agents into my
+business or looking into some of those
+tools, what's one thing I should know
+before I start?
+I think you want to figure out what the
+outcome is that you're looking for. So,
+pick one measurable outcome. That's
+probably key. You know, whether it's cut
+scheduling calls from two hours a day to
+20 minutes or maybe, you know, automate
+your lead replies from several hours a
+week to 10 or five minutes a week.
+uh [snorts] many service-based
+businesses I believe suffer from missed
+leads and missed follow-ups and so they
+could really like you know use some
+automation there.
+>> Maybe you decide this month that you're
+no longer going to ever you know miss
+another lead or follow-up with your
+clients. Um so I think those are some
+good areas to start you know and then
+run like a twoe test maybe two week
+maybe four-week test. Um, you know, if
+it's not if nothing's working, if if
+it's not trending towards the goal, just
+scrap it, you know, no problem.
+>> Uh, you know, and and it's like with the
+agents that I built, half of them
+failed,
+>> And so, but it's it's the age we live
+in. You have to try it. You have to
+build it. You have to see what works. If
+it doesn't work, you scrap it, and then
+you try something else until it does
+work.
+I think looking at it as a test is a
+smart is smart advice because it's like,
+hey, we're going to test this for two
+weeks or maybe four weeks and if it does
+what we think it's going to do, then we
+keep it and if not, we move on to the
+next test. So, great advice all around.
+>> So, Alex, uh my last question for you
+before we wrap up here, where can people
+connect with you or find out more about
+you? Where do you want them to go?
+>> Uh so, definitely my LinkedIn for now.
+if you're uh you know if you're in AI
+space feel free to connect with me or
+follow me on LinkedIn. I generally post
+daily uh sometimes even twice a day. Um
+and and and many people have mentioned
+that you know kind of following my feed
+on LinkedIn allows them to kind of stay
+on top of a lot of the AI news and
+automation news and so uh I take that I
+take that as a compliment. Um another
+space you may be able to find me once in
+a while is the lovable Discord. I do
+tend to hang out in there quite a bit,
+especially in the voice chat and dev
+chat. Um, so, you know, pop in if you're
+ever having a problem with your VIP
+coded application. Um, and you know,
+we're we're more than happy to help if
+we're around.
+>> Awesome, man. Well, yeah, go follow him
+on LinkedIn. He's a fantastic follower
+there. I've certainly learned a ton.
+Alex, thank you so much for your time
+and I'll be seeing you on LinkedIn.
+That's for sure.
+>> Sounds good. Sounds good. And for
+everybody in the audience, guys, if you
+enjoyed this episode, be sure to go
+leave us a review on Apple or Spotify.
+And if you're listening on YouTube, be
+sure to like the video and subscribe for
+more because we'll be back with another
+one next week. All right, Alex. See you
+later.
+>> See you.

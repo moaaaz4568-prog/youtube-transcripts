@@ -1,0 +1,170 @@
+in today's video learn an awesome
+technique of adding a color blur
+grain effect to your designs in adobe
+illustrator and that's even with
+complex gradients before we apply any
+gradients
+i need to show you the process on a
+fixed shape first
+so the first part of this tutorial is
+going to be applying the color blur
+grain effect to
+text which will end up looking really
+really neat
+i have here my design and in case you're
+wondering the font of choice today
+is red wing as you can see here so if
+you have any strokes
+they should be outlined and also i'm
+going to outline my text as well
+now you can technically apply this
+technique to text directly without
+outlining it
+but i'm just going to outline mine today
+so once everything is outlined i want to
+make sure that my entire design is one
+single object and so coming into the
+pathfinder window and using the
+unite function is going to achieve just
+that
+so it always helps to label and to
+arrange your layers
+and i'm going to call this layer base
+because it's going to be the bottom
+most layer for the color blur grain
+effect
+some other windows you will need to open
+for both parts of today's tutorial
+are the transparency window and also the
+gradient window
+we're going to make great use of both of
+these so next
+press l for the ellipse tool and then
+draw an oval that covers your entire
+design
+we're going to apply a linear gradient
+to this oval that is black to white
+now by default your white node is
+probably going to be set to 100 opacity
+however we want to set it to zero
+percent for the grain effects to work
+efficiently
+so with illustrator cc we can simply
+press g
+on our keyboard that's g for gradient
+and then that's going to open this
+slider
+as seen here
+once you have a gradient that looks
+similar to mine and don't worry we can
+change it later
+it's now time to have some fun with that
+grain effect found in the effects menu
+make sure you have the stippled option
+selected just below the two sliders
+and the key here is to get a nice range
+from the light to the dark side
+and you don't want to have the dark side
+with a solid black coating
+you want to make sure that grain effect
+reaches right up to the edge
+so pretty much something like this will
+do just fine
+again i'm going to be mr organized and
+i'm going to label this layer in the
+layers window
+so keeping in the layers window we can
+now click the base layer on the right
+so a blue icon appears and this
+indicates we actually do have this layer
+selected
+and then press command or control c to
+copy it
+and then command or ctrl f to paste it
+over the top
+i'm going to rename this new layer and
+then drag it to the top of the stack
+so now all we have to do is to hold down
+shift and click the top
+two layers and then in the transparency
+menu
+make a mask
+and bingo we have that grain effect guys
+but there is of course a lot more that
+we need to learn yet in today's video
+still in the transparency menu we can
+adjust the blend mode
+and this will be dependent on your
+design style
+also i sometimes like to copy this layer
+with command or control c
+and then duplicate it with command or
+control f which will enhance the overall
+because now we have two copies of the
+so that's all well and good but what
+about the complex gradient
+and the color blur grain effect let's go
+ahead and make that neat
+looking sphere you saw at the start of
+video so make a perfect
+circle with the ellipse tool by clicking
+and dragging while holding down shift
+so if you have illustrator cc you can
+apply a freeform gradient to this
+object but if you don't you need to
+apply a gradient
+mesh which can be found in the toolbar
+i'm going to fast forward after choosing
+my colors
+so that this tutorial doesn't drag on
+too long
+so this time copy and duplicate the
+circle with the same keyboard shortcuts
+as earlier
+and then on the top layer apply a radial
+gradient of black and white
+again with that white node being zero
+percent opacity
+now i do love using the g command in
+illustrator cc
+because it's just so intuitive but you
+want your radial gradient to look
+something similar to this so to this
+layer we're going to apply that same
+grain effect as we did before and
+remember to have that stippled option
+i will then duplicate the base layer and
+drag it to the top
+so we have an order a color circle green
+and then color circle kind of like a
+sandwich
+and this is why i like to label my
+layers because for this second design i
+forgot to label them
+and things are already getting confusing
+in this layers panel
+anyway shift select the top two layers
+and then make that mask
+once more
+and now it's just a case of playing with
+the blend mode
+and also you can press g on the gradient
+to adjust your grain effect
+on your design i do think this color
+blur grain effect looks really really
+awesome
+and you can apply it to just about
+anything in adobe illustrator
+on my final design i duplicated the
+bottom
+sphere layer and then i added a gaussian
+blur effect from the effects
+top drop down menu if you want to see
+more illustrator content
+on this channel do let me know with a
+comment down below and if you want to
+learn something else about graphic
+design do click the video on screen
+and until next time guys design your
+future today peace
+you

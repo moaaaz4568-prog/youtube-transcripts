@@ -1,0 +1,1688 @@
+What if you could
+sell an
+artificial intelligence system
+for thousands of dollars and
+deliver it
+as a simple zip
+file?  There would be no
+commissioning calls
+, no
+videos
+about Loom, no
+customer hands-on,
+literally just a zip
+file with installer.md that
+the customer could give to
+any
+AI agent and
+it would assemble the entire
+system for them.  Well
+, that's exactly what Agent Skills'
+Justin Brook is doing right now,
+and he's
+back on the
+podcast to
+show us all.  We
+delve into his
+Chief Marketing Officer
+Headquarters system, which is a
+full-fledged
+operating system
+for marketing and
+sales
+built entirely
+from folders and
+pricing files.  It will walk
+us through the
+folder structure, the financial
+layer, the
+live content pipeline, and
+then show us
+the actual
+installer file that
+provides instant
+delivery.  You guys are going
+to love this.  This is a
+really cool business
+model that
+anyone can implement.  So
+, I hope you
+enjoy this
+episode.  Justin Brook is
+back on the podcast.
+Last time
+you were here, you were a little
+critical of what you
+did with the AI ​​focus
+groups
+.
+So, for those who
+missed this episode,
+be sure to
+go back and
+watch it.  It
+was madness.  But
+I understand,
+Justin, you have
+something pretty cool
+that you want to
+share with us
+today.  Why do
+n't you tell us what a
+person will get if
+they listen to the entire
+episode from beginning to
+end?
+Yes, I created what is
+essentially an agent
+operating system,
+but for me
+specifically, I do a lot of
+marketing
+and sales, so it's
+more of an operating
+system for
+marketing and
+sales.  And you can
+use it with
+any artificial
+intelligence.  So,
+whether
+you use
+Claude, ChatGPT, or Hermes, whichever one is
+your
+favorite, it
+will work with this
+system.
+Perfectly.  And then you
+sell that too,
+right?  So this is something that
+people will not only
+learn how to create
+this in this episode,
+but they will also learn how
+they can create
+this and then sell
+it to customers, right
+?
+Yes, yes.  My thinking
+is, "Hey, I'm building
+AI for
+myself, and if you want to
+use what
+I'm using, it's
+all for sale,
+you know?"  So, this is how
+I make money.
+I use this and
+also sell it.  I
+like it.  Well,
+let's dive in.  I
+want to see, I want
+to see what's "under the
+hood" of this thing.
+How does it work?  What is
+she doing?  What
+can people get from this
+Yes, let me
+share my
+screenshot here.  Okay
+.  OK.  So, you
+know, I'm not very good at
+naming things, but I didn't
+want to call it
+Agent OS or Marketing OS because everyone
+uses that
+name.  So I just
+called it CMOHQ.  It's
+just a co-pilot, an
+assistant.  It works
+with whatever
+AI you
+use, because it's
+just folders and
+markup files, you know?
+And so when I first
+started building
+AI agents
+, I wanted to
+do…8N and I
+wanted to use,
+you know, LangChain and Crew AI.
+There are all these trendy
+frameworks and
+tools.  But I
+wasn't really like that
+...I'm not a techie.  I am a
+marketer.
+For example, I am a
+copywriter.  I write,
+you know, so I couldn't
+write code, and every time
+I looked at these
+things, they were
+much more complicated
+than what I wanted to
+use, and I
+accidentally stumbled
+upon this folder and
+file system.  And then I
+found a guy
+named Jake Van Cleef
+who was taking it to the
+next level with his
+, you know, ICM system.
+And so I'm happy
+to share all of this,
+but if I
+scroll down a little bit, you'll
+see the
+structure here of what this is
+, uh, what this is,
+right?  So this is a
+folder, and inside there's a
+claude.md file, because I
+mostly
+use Claude, but
+if you had Hermes,
+there would be a soul.md file.
+Then we have the HQ folder.
+That's where we have All
+my, for example, my
+own information.
+Who is Justin
+Brook?  What is my
+business?  You know,
+high-
+level documents, files,
+Markdown files.  Then we have the
+"Brands" folder.  This is where
+we start to
+approach this
+issue strategically.  This is what
+makes it truly
+scalable.  So,
+we have one "Brands" folder
+for each
+brand.  And inside
+each Brand folder,
+we have an
+Information folder, a
+Departments folder, a
+Metrics folder, okay?  And that
+allows me, when I'm
+working, to say to Claude,
+"Hey, let's
+work on the
+Agent Skills brand."  Or: “
+Let’s work
+on the “Funnels of
+Faith” brand.”  Or: "
+Advertising Skills Brand."  “And
+then it
+switches to
+this folder.  And in this
+folder we have very
+specific documents
+and historical files,
+you know, like
+sales and leads and all
+these different documents
+that make this brand
+valuable.  It's all there.
+So, it has
+intellectual
+knowledge and memory
+about my specific
+brands.  And then I'll
+just finish up the, uh,
+basic structure
+here.  Then I added a
+“finances” folder
+because it’s great when you
+can see
+how many leads you’re
+getting, how many
+sales you’re
+getting, what your
+conversion rate is
+.  Oh, these numbers are
+cool.  But ultimately,
+you need to know,
+like, your
+profit and loss,
+you know, you need to
+know your total
+monthly revenue,
+your total
+monthly expenses
+, etc. to get
+real
+metrics.  So I
+added a "finances
+" folder, which I want...
+I might break it down further here
+, because that's
+the key part that
+gives you your entire
+complete dashboard of
+all
+your finances.  And
+then I created a
+shared folder
+because it often happens
+that my wife and I or
+my team and I, we
+have to send things
+back and forth, or they
+want to give me something
+, I want to give them something.
+So, if all my
+knowledge is only in my
+own system and I
+can't share it with anyone
+, then that
+makes it less
+valuable.  Uh, and then it's all
+installed
+using a simple MD
+file.  You know,
+usually when I
+sell this, I give people a
+zip file.  But in this zip
+file, there's an instruction manual
+, so
+if they know how
+to use it, and
+then there's an installer.md file, and
+they literally
+just give that
+installer.md file to
+intelligence, and it'll just
+put this whole
+system together for you.  And I'm...
+I'm happy to show you
+how it all works
+later, when we
+get to the
+podcast.
+So, a few questions
+for you, Justin.  So
+, so far, it's great.  I've
+seen a lot of
+OS clones for sale, but
+this is probably the
+simplest one I've
+seen.  So, just
+a few...questions.
+First, you said
+we can hand this over to
+any agent of
+our choosing, right?  So,
+this can work in
+Codex, Cloud Code, Hermes, Claude
+Co-work, what's behind
+Open Claw.
+Open Claw.  And then, what
+about the "
+finances" folder, which
+is inside the "
+finances" folder?  Are these just PDF
+copies of our income statement
+, or is there something
+more specific?
+Well, I asked Claude
+to draw me a really
+nice diagram so I
+could explain it a little bit
+here.  Hmm, so
+there are essentially four folders.  There is an
+income folder, an
+expenses folder, an
+economics folder, and a
+reporting folder.  And I
+got all this from
+watching the financial
+channel.  It was like
+artificial
+intelligence for
+financiers, and it
+explained what five
+people you need to
+have on your team
+if you want to be good
+at
+finance.  And then what
+he said was
+really smart.  So
+I just said to Claude,
+"Hey, read
+the transcripts of this
+thing, and let's
+build its
+system, but come on,
+because I believe that
+folders and files can
+build
+anything."  "So I
+just said, 'Hey,
+get the transcripts
+of what he said.'"
+It was something
+like an hour-long
+video, and let's
+put everything
+he talked about into one
+folder.  So how it
+works is I connect
+my Google Ads, my
+Kit account.
+For leads, I
+use kit.com,
+but you can
+connect any
+other.  I use
+ThriveCart for
+checkout and Zenny is my
+accountant.  This is an
+accounting firm
+operating on an
+agent basis.  And yes, it
+gives me my
+profit and
+loss statements, all my
+expenses, all the
+categories, and everything else
+.  ThriveCart gives me
+every
+sales transaction, revenue,
+customer name.  kit.com gives
+me all my
+lead data.  Google Ads gives
+marketing data.
+So, we just
+export them.  We are
+dropping them.  And then
+when we drop these
+files into these folders,
+certain things start to happen
+because there are instructions in each
+of these folders
+.  So it
+knows, "Hey, when a
+new file is dropped in here
+, it knows to
+create a
+summary of expenses, a
+breakdown by
+category, and
+the cost of acquisition."
+He knows how to create a
+dashboard
+with our maximum
+cost per conversion (CPA
+) by product, our
+cost ceiling, our
+profitability model, a
+monthly report, a
+financial dashboard, a
+dashboard, as if there were
+instructions.  And I didn't
+create all of this on my
+own.  It was like
+I had ideas.  I
+told Claude about
+my ideas and he
+created it all.  You know, because
+Claude is really good at
+creating markdown files.
+Right.  And these are all
+just local
+files that
+are on
+your computer, you
+say?  Aren't they in
+the cloud or somewhere else?
+Well, that's one thing I
+do that's a little
+unique.  Um,
+a lot of people like
+to install these
+things locally, you know
+, they installed Hermes
+on a little Mac Studio
+or a Mac Mini or something.
+I think that's cool.
+This is great.  This is very
+useful.  But I want to be
+able to
+use this
+from my phone.  I
+want to be able to
+from my laptop,
+my computer here in
+my office, when I'm in
+power mode.  And
+so I create all of this
+in an iCloud folder.  Since
+it's literally just
+text files and
+folders, it's very easy
+to create all of this in the
+cloud.  You can
+create it on Google
+Drive, you can
+create it on Dropbox, you
+can, you know, so I
+just use
+iCloud.  That way, it's
+available wherever I
+go.  For example, I
+went to Starbucks
+this morning to
+start working on
+my laptop, and I have
+n't opened my
+laptop in 3 weeks.  But
+because it's all
+built into iCloud, and
+because all the files,
+folders, and files have
+storage, I can
+pick up
+right where I
+left off, as if I were in the
+same room.
+And here's how I did it, I
+have, I think, the
+Google Drive app on
+my MacBook Pro, which is
+my primary
+computer.  And then you
+can obviously
+drag and drop files
+into your Google Drive like you would
+on your desktop, and
+then it will save them to the
+cloud.  So anywhere
+Drive, you will theoretically
+have access to
+this system.  I think that's
+true too.  I
+personally don't know
+why anyone would
+do it any differently.
+Yes.  Yes.  Yes, it is a
+financial system, and
+it works together with a
+system.  The one thing
+I don't seem to have
+explained in the
+system, let
+me make sure
+I share this
+tab, inside the
+departments there are paid,
+earned, and proprietary.
+And now I don't know how,
+you know, everyone
+is interested in
+marketing, but those are
+essentially the three main
+channels of marketing.  You
+can buy
+clicks, you can
+earn clicks
+by doing things like
+YouTube or SEO, or you
+can own
+clicks, like
+you have an
+email list or an
+SMS list or something
+like that.  So these are three
+different channels, and
+depending on
+what I'm working on, if I'm
+working on my
+Google Ads campaign, all of
+this data and instructions
+are stored in the
+"paid" folder.  Whereas
+if I'm doing SEO,
+all these thematic
+authority maps,
+my keyword lists
+, all the
+blog posts, etc.
+are in the "
+earned" folder.  And there is always
+"There is a conveyor."  That's what it
+says here, sacred
+conveyor belt.  Nothing
+skips stages.  So
+, it's like a work in progress
+, a
+work that's subject to
+review.  Because again
+, I'm not doing the
+work.  Claude does
+the work.  I'm just
+talking, having ideas,
+exchanging emotions,
+you know, they would
+say, right?
+You see.  I just
+exchange emotions, and
+Claude catches what
+I'm talking about and the idea.
+So I'm dumping
+screenshots, ideas,
+notes, you know,
+transcripts here.  And while I'm
+doing that, Claude is
+executing all
+the instructions and all the
+folders and files to
+get the job done.
+So it's a review
+, and then once I
+approve it, it's
+published
+via MCP or CLI wherever
+it needs to be
+published.
+So, give me an
+example of a conveyor belt in
+action, okay?  I think,
+show us what the
+actual output of
+working with this system will look like
+.  Can you give
+us a
+real-life example?
+Yes.  Well, okay,
+let me
+try to figure out
+which one I want to
+show.  I'll come here.
+Good.  Okay, one of
+my niche
+websites
+is called "
+Let Me
+Make Sure I
+Share."  One of my
+niche websites is
+about the
+religious world and
+so on, and the Pope said
+something new, and I want
+to write about it, because the
+Pope, I mean,
+believe it or not, he's a
+great man.  He
+works in the media.  He
+enlightens many
+people.  And I say to Claude,
+“Hey, the news just came out
+.  He mentions this
+word "digital
+sobriety."  People
+will wonder, what
+is digital
+sobriety?  Why do
+we need it?
+Why is it important?  "Well,
+whatever."  So
+again, I just
+tell Claude and
+then we create
+the article and he writes it
+for me.  I approve of her
+.  He also gives me
+all the clues about the
+images.  I paste
+them into my
+image editor.  And then
+when I say, "Hey, it's
+done."  “Then it
+sends it to the CMS
+I use, which is
+Ghost.  I could
+just start my
+own blog, you know,
+at Replit, Lovable, or Vercel,
+wherever.  But I
+use Ghost, and
+that's why Ghost has MCP.  So he
+just sends this
+approved finished
+blog.  At first he
+was active.  We
+worked on it.  Then
+he approves the blog
+when it was ready.
+And then once I
+approve it, it
+knows it
+needs to be
+published, and then
+it's the final work,
+you know, the finished work
+with all the images.
+And then another thing
+that I do, which
+I think is pretty
+cool, is I add this
+thank you to my
+buddy Jonathan
+Drake, who gave
+me this idea.  I
+use 11 Labs.
+They have a cool
+little plugin.  It is
+very simple.  You don't
+need to know
+any technology or
+anything like that.  You
+just paste
+this little code into
+your blog post and
+it also gives you an
+audio version of your
+post.  And it sounds
+super sexy because
+11 Labs has all these great
+voices and everything, and
+this is an example of…” is a complete
+description of how I
+use the system
+on at least one
+channel.
+Of course.  This is quite
+logical.  So is there a
+built-in mechanism
+for measuring
+performance?
+For example, on this
+blog post, is there any
+automatic
+reporting, like
+how many clicks it
+has received since it
+was published, or something
+like that?  Is this something
+that needs
+to be checked manually?
+No, almost everything has MCP and
+CLI, you know, so
+part of the system is
+reporting, you know, and it's
+connected to kit.com, and
+so it can see
+how many new leads
+I have.  It's
+connected to Google
+Analytics and Microsoft Clarity,
+how many clicks there are on
+my website.  So
+she might know, "Hey,
+we got so many
+clicks, and then we
+see so many
+leads."  “And then,
+at the end of the month,
+even the cart that I
+use is not
+very
+AI-friendly yet,
+you know, that’s the only
+part of my system
+that I would like to
+improve right now.  So
+I have to
+do a weekly
+or monthly
+export instead of just
+connecting
+directly.  And then
+he can see everything.
+He can see clicks
+leading to
+leads
+and then sales.
+And then, at the end of
+the month, I add the
+loss statement, and now he
+knows the full picture of
+everything.
+This is great.  I
+like it.  So it's
+almost like your full...
+It's essentially full... It's
+exactly what you said
+.  This is a marketing
+operating system.
+Yes.  Yes.
+And so...Come on.
+I just wanted to
+say that he's like my
+right hand, you know
+?  Claude and I are just
+sitting here, and I just
+...I feel like
+we're in the same
+room, you know?  I
+feel like I'm just
+talking to someone, and
+this person loves my
+work and my ideas,
+you know?  So it's like...
+I'm just here as an
+idea guy, and this is the
+hard
+worker, you know,
+he types everything.
+Yes.  And do you do this at
+Claude Code or at Claude Co-work?
+Where, where do you do this?
+I could probably
+use Claude
+Code.  I'm not that
+technical, you know?
+I just
+use Claude Co-work
+.  I believe I get
+about 90% of the features
+that Claude has in Claude Co-work
+.  Besides, most of
+my work is
+writing.
+Hmm.
+So I don't really
+design a lot of
+things.  I use
+Replit when I'm developing
+something.  Um, because
+most of what
+I do is
+scriptwriting
+and research.  I
+Cloud Co-work.
+Okay, that makes sense.
+Now let's
+think about this,
+because again,
+I think a lot of
+people are tuning
+into this podcast and this
+channel because they want
+to learn how to make
+money with
+artificial intelligence.
+So, let's say someone
+watches this and thinks:
+this is great.  I want to
+create this for myself.
+Not only...I want to
+create this for myself,
+but I want to
+turn around and be
+able to sell this to
+clients.  I know this is something
+you're obviously
+selling as well, but
+for those
+watching this, how are they
+selling, let's say,
+AI-generated asset
+that they've
+created for themselves.
+Maybe not just Marketing
+OS.  Maybe they
+created, you know, a
+content system or
+something.  How do they
+sell it and
+find customers?
+So, the first thing
+you need to
+think about when you
+sell something is that
+you have to
+deliver that thing.  And
+so some of the
+tools that
+exist, like
+popular
+agent creation tools,
+they're great, but it's not
+very easy to transfer
+what you've created to
+another person.
+Right.
+You know, you
+have to migrate
+your account,
+or there are complicated
+exports and imports,
+and then you make
+a video on how to
+export and
+import, and you know
+, or you do a
+custom
+import, and I don't know, it
+just gets
+kind of crazy to me,
+you know?  Because it's
+these folders and files, um,
+it's just, you know,
+installer.md, and then
+installer.md just provides
+Claude, Hermes, or Codex, whatever
+you're
+using, gives
+instructions.  It
+says, "Hey,
+create these folders,
+you know, create these
+files, here's a description of
+how to do it all."  So, the
+first thing you
+need to think about is
+portability.  How do I
+actually move
+this thing?  Uh, with the system
+I use,
+it's very simple.  I
+understand that this is a zip file.
+The one thing I
+always create, I
+always create an
+instruction manual
+after I
+put my whole
+system together, I said to
+Claude, "Hey, create an
+instruction manual, you know,
+for this thing. I'm
+going to have to give
+it to someone else. Uh,
+let's, you know,
+write an instruction manual
+Let's first
+outline, you know,
+what the instruction manual is going to be
+, then
+write the first
+section, let's, you
+know, one by one,
+write all these
+sections. So I
+have two files. There's an
+instruction manual, and there's an
+installer.md. And all I
+do is just... Oh
+my God. Um, I just
+combine them into a zip file.
+And that makes it
+easy for me to, you know,
+send it via
+text
+message,
+Facebook, etc. It's very easy to
+send a zip file to
+anyone, and they
+kind of know what
+to do with a zip file.
+So, okay. So
+now you have a way to
+actually deliver
+what you're going to do.
+sell. The next thing
+I, you know, do is
+focus on the
+results. You know,
+what problem are you
+solving and what will
+life look like
+when that problem is
+solved.
+You know, and one of the
+biggest problems with
+how I actually
+got this system going
+is that
+I just needed
+Claude's memory.
+You know, he has this
+kind of
+account-based memory
+, and it's
+not bad for
+, but I
+needed to know
+what I was doing on Tuesday,
+you know, at 3:00 p.m. I
+needed to have a real
+memory of that. I
+needed to
+remember when I
+changed the price of my
+product. I
+remember that I
+changed the price and when
+I changed the price and what the
+price was before that.
+So, I started by
+realizing that I was doing
+these carryover sessions. I
+don't know if you've
+ever done this,
+you know, you had a
+really long  a
+chat session or something. And
+then you thought, "
+Dude, there's some
+really good stuff in there."  I
+want to move this to the
+next session
+because I've already been doing
+all this compaction,
+and you know, when you
+get into a topic,
+it starts to
+confuse you.
+So at that point I
+said to him, "Hey,
+create a document
+to transfer
+sessions."  And I did it
+again and again.  And the whole
+session transfer document is
+just a summary of
+everything you did
+in that chat.
+Mhm.
+So you can transfer
+it to a new chat, and
+now it will understand
+what you were doing.  Then I
+said, "Hey, let's
+just create a
+folder called '
+session logs', and
+every time I'm
+done for the day, I'll
+tell you, 'Hey, I'm
+done,' and when I
+say, 'Hey, I'm
+done,' create a
+session log and
+drag it into that
+folder."  And that was the
+beginning of this system.
+Yes,
+very simple, just
+session logs.  And
+then I needed to
+, then I realized
+that the other problem
+I was facing was that
+I was
+making changes to my
+business.  We change
+prices, we make,
+you know,
+new bonuses are added, you know,
+such important decisions,
+you know, that's why I
+created changelog.md.  So,
+there are various problems that
+business owners face.  You
+need to figure out
+what the problems are.    A
+really great
+structure for this
+is
+called "Tasks to be
+Completed."    Have
+you ever heard
+of this?
+No, I didn't hear.
+Good.  So
+software developers, um,
+have this
+framework called
+J, which stands for "
+Jobs to Be
+Done,"
+or JTBD, uh, framework.
+And you think about
+what tasks
+need to be performed
+in any business,
+in any market.
+So, if this is for
+dentists, what
+tasks need to
+be performed?  Well,
+dentists, you know,
+they have calls, they have
+to answer
+phone calls,
+they have to
+make appointments.
+From meetings, they
+have to deliver them,
+bill them,
+you know, whatever.
+You think about
+the tasks that
+in any business
+...Well, each of those
+tasks is a folder.
+Each task has
+instructions, so it's
+just a Markdown file.
+So, you can
+recreate any
+process in any
+business using
+this folder and
+file system.  And I just
+want to say
+thank you to Jake Van
+Cleef, you know, because he's
+done a lot of
+work.  He has
+research papers
+on this method and
+is a leader on YouTube and all this stuff
+with
+folders and files.
+So, if you want
+to learn more about
+this, I don't have
+any courses on this
+topic or anything like that
+, but Jake has a bunch of
+videos that he'll
+walk you through.  By the way,
+you should have them
+all if you don't already.  So
+think about
+need to be completed.
+Tasks
+that are literally
+skills, right?
+I mean, it
+just reminds me
+of skills.
+Yes.  Yes, skills.
+If you actually
+unzip the archive,
+even though it says {
+period } skill, it's
+actually just a zip
+file.  Yes, and inside there
+are only folders and
+Markdown files.  That's all,
+you understand?  And that's when
+I realized, oh, I
+understand, you know?
+You don't even
+need to create
+skills.  You can
+just have your
+own folders and files there
+, and you have the skills.
+Um, yeah, you think
+about the problems,
+the skills needed or
+something like that, and then you
+think: okay, here's the
+result.  So, I
+tell people, “Hey, you
+want to have memory
+with your AI.  You have a hard time
+remembering
+what you were
+doing between sessions.  My system
+solves this.  The other thing
+you want to have is, you
+know, you probably
+want to have an SEO
+pipeline.  You want
+to remember what your
+keywords are.  You
+want to have a daily
+process that
+helps you, you know
+, blog in 10
+minutes or something.
+My system does this
+.  So, the problems and the
+results, and that's what
+people are actually
+paying for.  They don't care
+about you.  They don't care if
+you have a strong accent.
+I've heard all the excuses
+.  My accent is too
+strong, I'm too
+young, I'm too
+old, whatever.
+All they really
+care about is, you know, can
+you solve
+my problems?  And so I
+just show them how the
+system solves the
+problem.  And my whole
+pitch
+is that I'm
+just taking them
+through it.
+Yes, of course.  It's
+like selling itself.
+Yes, look, this is
+what this folder does.
+Here are the instructions for this
+folder.  When they
+look at all this,
+they say, "Yeah, I
+don't want to create
+all this, you know?"
+Also, let me
+address one big
+objection.  Many of
+us listening to
+this conversation right now want to
+create folders and
+files.  We're like the bores
+who want to create
+this.  If your client...
+If someone talks
+to you on the phone and
+wants to create this, they're
+not your client.
+You know, millionaires don't
+want to create this.
+100%
+millionaires look
+at my folders and files
+and say, "Yeah, like:
+can I just
+pay you?"  It's like I don't
+want to create
+all this myself.  I don't even
+want to explain how
+someone on my team
+should create this.
+Can I just, you
+know, Venmo give you
+some money or
+something, PayPal give you
+some money, and you
+solve my
+problem?” “So that’s
+my whole promotional
+offer, yeah.
+No, that's completely logical.
+And so, Justin, if
+someone was looking at this and
+wanted to implement a
+system, or maybe
+even try to
+create one
+themselves, how would you
+advise them to get started?
+For example, what is the
+first step?  Which
+part do you build
+first?  Um,
+start with the tasks
+that need to
+be done so you
+can understand what the
+processes are.  And then,
+based on the tasks
+that need to be
+done, that's when
+you want to start
+a conversation with Claude or
+Hermes, whatever you're
+using,
+AI tool of choice, and
+tell it something
+like, "Okay, here's
+the task."  So,
+let's create
+folders for each of
+these tasks.
+There is a specific
+way to do the
+work in this task.  So you either
+build skills,
+or the way I
+like to think
+of it, every
+agent needs three
+things.  He needs
+memory, he
+needs instructions,
+and he needs
+tools.  "If he
+can remember what
+he did, that's great."
+But then he
+needs to know what
+to do, so these are
+instructions.  And then
+he needs a way to
+do it.  These are your
+tools.  So I don't care
+what system
+you use.
+If you have the memory,
+the instructions, and the
+tools, you
+can do
+any job.  So,
+the structure of the tasks
+be completed, to
+understand what exactly
+needs to be done,
+then you communicate
+with Claude and start
+creating folders,
+instructions, skills.
+You know, now you have a
+system.  Um, and then
+from there you have to
+start selling this
+system.  And, most importantly, I
+sell, you know, I've
+made millions of
+dollars.  I have been selling for
+20 years.  Now, the
+number one thing I could
+tell people is:
+stop making
+calls on the go.
+That is, during
+each call, you seem to be imagining
+what you
+will say to this person.
+Instead, you
+need to
+use
+a presentation because
+if you
+a presentation, it will
+help you keep
+up.  You
+will know what to say
+now, what you will say
+next;  you can
+show something.  But the other
+thing...
+you mean,
+yeah, for a sales call
+, every
+sales call we
+use a slide
+deck, and it can
+be very simple.  Don't go
+crazy, don't
+create anything
+fancy;  it can
+be black and white.  But
+the goal is
+that when you have a slide
+collection, you can
+customize each
+slide so that you have a
+systematic
+process of increasing
+sales, you know?
+And so when you first
+deck, it might
+not be that
+good, but,
+for example, you
+learn about a different
+objection, you
+way, you know, you
+learn about a
+better way to
+say something, you
+learn about a better
+picture that you
+should show.  And
+so by the fifth,
+sixth, seventh time
+you
+use the slide
+collection, suddenly
+it picks up, and
+every call is
+equally good
+because you had this
+slide collection
+backing you up.  And
+now you have something
+that you can
+teach someone
+else, so now you're
+not stuck in
+sales, you can
+presentation to someone
+else, now they
+know how to manage
+your sales for
+you.
+This is actually very
+good advice.
+Today, about
+an hour ago, I
+had a sales call
+, and again, I
+mean, everything went
+well, we closed the
+deal with the client.  It
+was just a
+$999 estimate, but
+looking back, I'm
+like, "Oh, I forgot
+to mention that."  And
+you know, we're 20
+minutes into the call, and I'm
+like, "Oh, by the way, I
+forgot we were doing this
+."  And that's if I
+just had a little
+sales presentation
+or even something
+like a Google Doc, like a Gamma
+Doc.  Mmm.  ,
+which I just
+watch the same way every
+time.  It's like: yes,
+these are all the points, we
+covered everything, are there any
+questions?  Perfectly.
+Want to move on?
+Perfectly.  It's the
+same every time.  And then to
+your opinion, supposedly this is how
+you train the
+salesperson.  It's a lot
+easier than saying, "
+Hey, sit through 15
+calls and figure out
+how I do it, and then
+I'll watch you
+do it."  It seems like
+such simple advice,
+but it's actually very
+good.  I've never
+heard
+anyone say that before.    Well
+, Justin, I
+like it.  Is there
+anything else you would like
+to share with
+the audience about the Marketing
+Director's headquarters
+?  I
+like the idea.  It's
+simple.  This is probably the
+simplest way
+I've seen to
+convey the concept of
+this operating
+system.  Is there anything else
+you want to add,
+or anything people
+should know about, or anything
+like that?
+Let me
+just show you my
+screenshot.  I just
+want them to
+see what the
+installation file looks like.
+Yes, let's
+see.
+Good.  So, this is the
+installation file.  And again
+, I didn't
+create this.  I didn't
+write that.  I could.  It's
+just text.  It's
+just lists, you know
+, and headings.  But
+the point is, we need to
+start
+thinking about the fact that we're
+not doing the work.
+The work is done by
+machines.  How do we
+do something once
+that a machine can
+do, and then it
+can do it forever?
+So, it's very simple.
+And this is the
+installation trigger.  When
+a user shares
+this file or says "
+install CMOHQ",
+start immediately.
+Greet them.  So, it
+tells them, you know,
+congratulations.  Uh, this is
+the transition to chapter
+two.  And then there are
+instructions for
+section two.  Uh, where will
+they conduct
+the interview?  They
+will ask them: “What is your
+name?”  What is the name of
+your company?  What
+products do you have?  So,
+they conduct the
+interview process and
+store all this
+data.  And now they
+will start creating
+their brand.  What
+brand is this?  What is the URL of
+their website?
+What is the main
+product?  Describe
+the user.  And then
+we'll move on to the
+different channels
+they use.
+So it just gives
+instructions to the AI ​​on how
+to interview a
+human so that it doesn't
+have to
+do an audit every time.  You
+don't need to
+configure
+the system for them.  You
+just give them one
+file, the AI ​​asks them
+all the questions, and at
+the end of the session it knows
+what needs to be
+configured, you know,
+and it has the whole
+folder structure.  Here are
+all the different files,
+folders.  And so he
+knows exactly what to do.
+Here are all the other
+instructions.  And again
+, I just said to
+Claude, "Hey, I
+need you to
+create an
+installation file for this, a
+markup file that
+they can
+create in one
+file that they
+can give to
+their AI, and their AI
+will know how to put
+this whole thing together."  So,
+yes, that's exactly what it
+looks like.  And I thought
+it might be
+helpful for people
+to understand what it is
+Yes, very useful.
+Because again,
+you don't have to
+go anywhere, you don't
+have to send
+a video about Loom, this is how
+you set it up.
+You don't need to
+call them and
+help
+install and
+troubleshoot
+.  It's like: look,
+give your
+agent this
+installation file and
+he'll configure it.
+It's that simple.  So,
+I send people to a
+sales page,
+they buy, when they
+buy, they
+get a zip file, and
+that's life.  Done.
+Yes.  Well, it's also a
+good lesson for the people
+in the audience.  Again
+, if you're
+building some kind of
+AI service
+or, you know
+, especially if it's
+knowledge or certain files
+, this is the best way to
+deliver it.  You
+participate in
+sales calls.  You don't
+adapt.  You don't
+need to conduct an
+orientation.  You can
+just set
+it up exactly like
+Justin set
+it up here.  I think this is
+brilliant.
+Great.  So,
+Justin, what else do you
+want to share with
+the audience?  And we
+definitely want to hear
+about how someone wants
+to buy this system from you
+, where
+can they go?
+Can we post a
+link?  Can
+we give them the code?  What
+can we give them if
+they want to buy it
+from you?
+Ah, let me
+open this here.  And,
+so, if we
+go to... So, my
+website is agentskills.ai.
+If you go to
+Build Club, you'll
+find our
+automated
+marketing department there,
+you know, and you can
+check out the
+Build Club demo here.
+But this is where you
+get all my
+agents, you know, everything
+I create.  Not just
+CMOHQ, but all the different
+agents I
+create.  When I
+create things for myself
+, I just add them
+all to that
+membership, and, you know,
+you get all the
+different agents that
+I have.  So if you
+want to know
+more, here's where they
+all are.  Here's how to get there
+.  agentskills.ai.  And
+then just
+click on "Build Club".
+Perfectly.  And we'll
+add that to the description as well.
+Justin, where do you
+want people to
+go and
+connect with you,
+learn more about you,
+or
+tune in?
+I'm mostly on
+Twitter.  You know,
+again, all I
+do is write.  You know,
+I don't like to make a
+lot of videos and stuff.  Uh
+, yeah, connect with
+me on Twitter.  I am on
+Facebook.  I am on LinkedIn.  I'm
+in other places, but
+I spend most of my
+time on Twitter.
+Perfectly.  We will also
+add a link to
+this in the description.  And Justin
+, thanks a lot for
+your time, dude.  Glad
+you're back.
+You always share
+a lot of valuable
+things, and we'll
+definitely
+come back here,
+probably in a month or
+two, to talk
+about other things
+you're working on.
+Yes, dude.  Thanks for
+inviting me back,
+dude.
+Good.  Well, for everyone in the
+room, we'll be back in a
+few more days.
+Thanks, guys.

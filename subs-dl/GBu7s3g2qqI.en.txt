@@ -1,0 +1,797 @@
+Cloud Code has already proven to be one
+of those softwares that completely
+changes the future of the AI automation
+space. Now, the problem is that most
+tutorials out there only focus on
+theory, which is why in this video, I'm
+going to walk you through the eight most
+insane clog use cases that you can apply
+on all areas of the business, whether
+that be sales, marketing, finance, or
+operations that you can also start
+selling right away. And in case you
+don't know who I am, my name is Mikuel
+and I've scaled my own AI agency to six
+figures in 14 months. I've worked with
+over 50 businesses to implement AI and
+automations and taught over 20,000
+people in the process. All starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+the first use case is processing
+invoices. All right, so almost every
+business processes invoices. And usually
+what they have is a folder that looks
+like this with hundreds and hundreds and
+hundreds of invoices, obviously
+depending on the amount of payments.
+Now, the problem with this is that with
+having a lot of invoices that are all
+PDF formats, what they typically have to
+do is go through each invoice that looks
+like this where we have our company
+name, we have the bill 2, so their
+company name, the address, the phone
+number, and the email itself, the
+number, invoice date, payment view as
+well, but also the items. And so, for
+each invoice, they spend about 3 to four
+minutes processing each one. Not only
+adding them to a new folder, but also
+adding them to a Google sheet because
+that's how the whole accounting process
+works. And so all we have to do is add
+those invoices in the main folder. In
+this case, we called it invoice
+processing. I can go to cloud code here.
+I can open the folder which in this case
+again invoice processing. I can open
+this. And now we can see here that we
+have all the invoices [music] that we
+had in our folder. Now I have to do here
+is go to plan mode and put slashprocess
+invoices. And what this will now do is
+it will start making a plan. It says it
+found 40 PDF invoices in the invoices
+folder. Let me also check for existing
+infrastructure. There's no existing CSV
+log or preceded folder. This is a fresh
+setup. Let me create the execution plan.
+So all we're doing here is putting all
+the invoices in different folders, but
+also putting them all and extracting the
+text and getting a CSV that we can
+actually use. I can put yes, auto
+accept. So we have phase one, which is
+parallel extraction. So getting all the
+text from the actual PDFs. Step two is
+making sure everything's good. Step
+three is making sure that we put
+everything in a CSV. Step four is
+organizing all the files based on the
+dates. And step five is going to be
+giving us a whole summary. As you can
+see here, we have the to-dos. So these
+are all the to-dos that the cloud code
+agent has to go through to get this
+done. All right. So I just finished
+making the whole process. We have the
+invoice processing complete. We have a
+summary of the amount of invoices, the
+total amount, the sender, the date range
+and errors as well. So night errors in
+this case. And now if you go here, I can
+see that we have a folder called
+processed. If I press on process, we can
+see that we have different folders which
+by the way you can find here processed
+all the different folders because this
+and here are parallel. And [music] in
+each folder there's different invoices.
+And if I go to the main invoices that we
+had before, it's now empty [music]
+because it split up all the invoices by
+dates. So 20258 will be invoices here.
+Same thing with 09. Same thing with 10,
+11, and so on. Right? And also we do get
+a CSV file that we can find here. We can
+also find it here obviously in our
+Google sheet that looks like this where
+we have the invoice number, sender,
+sender address, invoice date, due date,
+total amount, currency, source file, and
+process date. Right? So now we're able
+to actually divide it and we can send a
+CSV to our accountants or whoever we
+have handling [music] the invoices. And
+you could be running this every 30 days
+per se where you add all the invoices
+inside the main folder and it runs so
+that every single month or every 30 days
+it goes through all the invoices and it
+does everything once again. You can also
+send yourself an email right with the
+verification the CSV in case you [music]
+want it. So you can do a lot more things
+with it as well. The second use case is
+making Chrome extensions. All right. So
+this Chrome extension is mainly for
+personal use.
+>> [music]
+>> Now, there's a lot of times where I
+personally go and look at documents and
+I want to save them somewhere, but I
+have no place to save them. And so, what
+I do is I take the link and store it
+somewhere and completely forget that
+it's there. So, in this case, what I
+made is a Chrome extension where I can
+just press save as a PDF. And what this
+will do is it will scroll through the
+whole page [music] and it will save this
+as a PDF. It will scroll through
+everything until at the bottom. It saves
+it, downloads it, and then adds it to
+the folder called information
+automatically. So then I have a list of
+documents that I've saved that I can
+just simply press a button and it goes
+through the whole page and takes
+everything and then automatically adds
+it here. So let's say we're in the
+opening eyes article introducing GBT5
+and I looked at this I was like this is
+pretty interesting because it has a lot
+of benchmarks and so on and I don't want
+to save the link. All I have to do is
+press save as PDF and again as you can
+see this is now going down automatically
+sort of like scanning through the whole
+page um until it actually gets to the
+bottom of the actual page. So we can
+just wait a few seconds here and it gets
+all the graphs, everything that you
+need. And now that it downloads it, we
+can go here and we can see that it
+automatically saved it to the
+information folder. And this is great
+for us because now I have a repository
+of information which is saved as a file
+that I can always add to GPT and ask any
+questions about. Now this Chrome
+extension is actually pretty easy to
+build. The first thing we have to do is
+actually install the skill. So we have
+to go to aitmpl.com/skills.
+I'm going to leave the link down below
+and you can look for Chrome extension.
+So if it's the first time that you've
+heard about skills, all it [music] is is
+claw code is the main thing and skills
+are the enhancements that help claw code
+to be able to make the thing. And so if
+I told you to make a Chrome extension,
+it probably would do it, but it will
+take a lot longer because it has to
+think [music] at a much slower rate. But
+when I give it this exact skill, saying,
+"Hey, you're actually an expert at this
+using this skill," I give it
+superpowers. So now it makes it in much
+less time and it's much better when it
+does make it. So when we have the skill
+here, we can just press this. We can
+copy the command and we can paste it
+here. We can say install the skill.
+We can press go. And after a few
+minutes, you'll be able to see the
+claude skill downloaded here which has a
+full prompt of the whole skill. And now
+you can simply tell Claude to make a
+Chrome extension that takes any web page
+and turns it into a PDF, right? And it
+will walk you through step by step how
+you can deploy it, how you can manage
+it, and how you can use it. The third
+use case is a YouTube strategist agent.
+All right. So, this workflow right here
+basically takes my competitors, it
+analyzes their numbers against mine, and
+it gives me five different content ideas
+using Poppy AI as well to be able to
+make the hooks and titles [music] and so
+on. Now, I've made a full video showing
+you exactly how I built it. You can
+check it up here. All I have to do here
+is say, uh, can you please make the
+presentation, go through everything step
+by step, and give me back the URL of the
+presentation so I can see it.
+And by the way, all the links and
+prompts of this video are going to be
+left in the second link down below in my
+free school community in case you want
+to build it along um and use them for
+yourself. All right. So, as you can see
+here, it's going to fetch the YouTube
+metrics. So, all the analytics like
+views, subscribers, engagement rate, all
+that stuff for my channel, but also for
+other competitors of my niche. And then
+it uses Cloud AI to analyze the data.
+And then uses Poppy AI to be able to
+make the titles and the hooks. And
+finally, it's going to make a full
+Google Slides presentation that we can
+actually see. As you can see here, we
+have the Google Slides URL. We can
+simply copy this and we can paste it
+right here. Can slideshow it. I can see
+that I have the main page and I have my
+metrics, subscribers, views, videos and
+engagement with the top performing
+videos of my channel as well as Jack
+Roberts, Nick Sar, Nate Herk, and Liam
+Moly as well. So I can see what videos
+did really well for them. And then
+comparative analysis. So how does my
+channel compare against the other
+channels and who is actually doing very
+well right now? In this case, Jack
+Roberts is doing pretty well. the key
+trends that are working well in the
+content gaps meaning the contents that I
+should probably be making based on
+what's working in the space and then
+five different ideas with [music] titles
+and with hooks as well using Poppy AI
+which which is a very good tool again uh
+that we use all the time and it also
+gives me the uh potential of the actual
+video the last idea here and then we
+also have the key takeaways and next
+steps so reduce publishing frequency
+adopt this exact framework and talk
+about monetization case studies using
+anti-gravity and nutent now this is
+something that we generally use every
+single week uh when it comes to our
+strategy because finding competitors,
+looking at their numbers, engagement
+metrics, and what works in the space
+takes a lot a lot of time. We do have
+people, but this makes it so much easier
+for us to be able to see what works and
+what we could be doing or implementing
+based on what's working in the space.
+Again, you can watch this video up here
+if you want to see me build it step by
+step. The next use case is the SEO
+keyword tracker. All right, so here I
+have my SEO tracker dashboard that I can
+use and there's two different ways that
+we can use it. The first thing is
+putting a domain inside the actual
+dashboard and the second way is tracking
+keywords. right here where we can add a
+keyword and we can see the actual
+performance. So for the actual domain
+itself, I'm going to be using this
+website right here, which is a website
+of one of my good friends who runs a
+voice agent agency. I'm going to copy
+the link. I'm going to then paste it
+right here and I can then press analyze
+SEO. What this will now do is it will
+analyze the SEO of his website. And we
+can see that the score is zero out of
+100. Pretty accurate. Not the best SEO
+on his website, but then but then here
+we can see the health [music] checks. So
+things that are good and bad about his
+website. So he doesn't have backlinks.
+He does not have referring domains but
+he does have organic traffic. He does
+have good do follow ratio which I don't
+know what it means. He also has low
+broken links [music] and he has keyword
+rankings. Backlinks of course he has no
+backlinks so we can't even see anything
+here. We can see the amount of traffic
+that he gets of a website and also
+rankings as well which means that he has
+two keywords ranking in the top 100.
+[music] And then we can also use AI to
+give recommendations. So if I press get
+improvements, it will analyze all the
+data that we spoke about and it will use
+claude to be able to give us a full
+report of his SEO. As we can see here,
+we have the strengths, the strength of
+the actual domain. So it's a good
+domain, the weaknesses, so five
+weaknesses of things that he could
+implement right away. It gives us the
+type of weakness, but also the impact
+that it has on the actual SEO that he
+can start doing. We also have
+improvements. So what improvements can
+he make on his actual SEO? It breaks
+them down by type of improvement, but
+also the effort uh level. And then
+finally, we have the keyword
+suggestions. So, what keywords does he
+have to implement into his website to
+increase his SEO so more people can find
+him that he can use to be able to
+increase the score. And finally, we have
+the keyword tracker. I can look for SEO
+tools. Like it said there, I can press
+analyze. And now it will use a service
+called data for SEO, which is an API
+that we're using to look at the search
+volume. So, competition high, CPC, which
+is cost per click, I assume, for the
+actual keyword, the competition index,
+and then the amount of search volume
+every single month. And we can see the
+trend going down over the 12 months,
+which is great for us. And then some
+related keywords that are doing well
+with more volume or less volume or no
+volume at all. Uh and the cost per click
+as well, in case you want to see that,
+too. And in case you're wondering where
+we're getting all this SEO data, we're
+using an API called data for SEO.
+Something that we also used a lot when
+we had to make blogs for clients cuz
+they wanted to be SEO optimized. And so
+this API allows us to be able to use the
+keywords, analyze them, analyze
+websites, and give us a full ranking,
+[music] which we can then package it all
+into a dashboard that looks like this.
+It's very, very cheap, very, very cost
+effective. So would definitely recommend
+it if you're doing something similar.
+And to build this, the first thing that
+we did is include the cloud. MD prompt,
+uh, which again is the structure of how
+we tell cloud code to actually build
+things. And then once we told it to
+initialize the project, it started
+making all the folders. And then we
+simply told it to make a dashboard where
+we can analyze keywords of SEO. We can
+add a domain. and it gives us a full
+report uh and also analyze each specific
+uh keyword and give us the search volume
+and things like that. Now there's a lot
+more that you can do with SEO. SEO is a
+pretty pretty big field that you can
+start building on. Uh but this gives you
+the fundamentals or start giving you
+ideas of what you could build using the
+APIs. API again is just a password to a
+software that we can use um
+automatically without us having to go to
+the software, right? which is amazing
+because now we have a very easy to use
+dashboard which uses different softwares
+when it actually does the actual thing
+and you can start tracking your SEO
+right away. And this is great for SEO
+agencies who want to track their clients
+domains or their own domain and see
+what's wrong, what they could improve,
+uh but also what keywords they could
+implement. The next use case is a lead
+enrichment pipeline. All right, so right
+here I have my lead enrichment pipeline.
+I can start filling out the search term,
+location, number of places. I can go
+look for roofers.
+I don't know why it's all cops. roofers
+uh in Los Angeles
+and I can look for 20 places. That's
+fine. I can start the enrichment and
+what it's now doing is sending a signal
+to this API scraper right here which
+allows us to be able to go inside Google
+Maps and look for scrapers in Los
+Angeles. And we extract all the results
+of the places that we have here. It
+found 18 businesses with websites and
+for each website it made a personalized
+icebreaker which you can simply find in
+the Google sheet right here. As you can
+see here, we have the company name,
+total score, review, city, website, uh
+phone number, which you use to cold
+call, Google maps URL, the category
+name, so what did they actually do? And
+also an icebreaker. So, for example, if
+I zoom in,
+impressive legacy with built well
+roofing, 80 plus years in business and
+over 130 completed roof is a testament
+to the quality uh craftsmanship. We'll
+love to connect and learn more about
+your approach to serving LA market. For
+those of you who are cold calling, this
+wouldn't make too much sense to say in a
+cold call. But now you have some sort of
+context that you could use when you are
+speaking to them telling them, "Hey,
+I've done my research." Now, this right
+here you can implement in many different
+ways. You can use this for email
+campaigns in case you find their email.
+You can use this to connect with them on
+LinkedIn in case you find people who
+work in that company. Uh but to have a
+overall system that starts with a
+dashboard [music] that looks like this
+is very very beneficial because it saves
+you the time of you having to do all the
+steps yourself. And you can obviously
+deploy this and run this whenever you
+want, whenever you press this button to
+start enrichment. So, similar to the
+others, we added a cloud. MD uh prompt,
+which is the exact same one as the
+others as well. And I'm going to leave
+all the prompts down below in case
+you're looking for them. And then when I
+initiated the project, it made all the
+folders. And then I simply told Claude
+to make a dashboard where I can put some
+search terms and I can put the location
+a number of places. I can press a button
+and then it uses API to extract all the
+key results. And it uses Claude to make
+the icebreaker, which is the line
+personalized to each company. and then
+finally put everything into a Google
+sheet that I can visually see. Now lead
+generation is a massive one because when
+you think about lead generation a lot of
+the things that we do are all using
+softwares and APIs [music] and
+previously we either have to build a
+super complex and it's an automation or
+different end automations but in this
+case you can have one agenda workflows
+and the sky is the limit when it comes
+to using the [music] softwares because
+as long as the software has an API you
+can pretty much use it. The next use
+case is a Facebook ads analyst. All
+right so this right here is a dashboard
+and this is used to analyze ads. So
+let's say I was in the ads library and I
+would look for United States and let's
+look for Mad Spa right here, Mad Spa.
+You will get a lot of ads that look like
+these. And a lot of them are images. A
+lot of them are videos or carousels. And
+the problem with this is that if you
+want to analyze these kinds of ads, you
+either have to go through each one and
+analyze the numbers and why they worked
+and why they didn't work. And that takes
+a lot a lot of time. And so what we can
+do here is copy the link and then come
+back to the dashboard and paste the link
+here of the actual URL. Let's say I
+wanted to scrape 40. I can press scrape
+ads. And what this will now do is it
+will go to API and use a different
+scraper. In this case, it will be the
+Facebook ads library scraper and it will
+start going inside here and extracting
+all the information of the numbers,
+engagement, whether it's a video, image,
+carousel, everything that you need and
+give it back to us in the dashboard. So,
+as you can see here, now we have all the
+ads. So, 40 ads, nine videos, 12 images,
+40 active. We can see that there are 19
+carousels, 12 images, uh nine videos.
+And this tells us what's working the
+most or what's working the best. If
+everyone's doing videos, then we should
+probably do videos. We can see the
+amount of ads going and being made over
+time and also top advertisers. So, Vagar
+Pro is the top advertiser when it comes
+to med spas in the US. And also, you can
+get the ads of all the types here. But
+you can filter by images. You can filter
+by videos and carousels as well. And
+let's say I was using this one. I can
+press analyze. And this will now give us
+an AI ads analysis of the hook, the low
+effectiveness, and why it says it's low
+effectiveness. uh the CTA analysis,
+contact us isn't appropriate for a medba
+service business, but could be more
+specific like book a consultation or
+schedule treatment to be more
+compelling. Target audience here, unique
+angle, the weaknesses, the suggestions,
+and also the estimated performance below
+average. And if I wanted to go to the
+actual ad itself, I can press this right
+here. So, I can see it for myself in the
+actual ads library. And so this
+dashboard does not only give you the
+opportunity for you to analyze [music]
+ads using AI, but also to look at stats
+as to which ads are being made at what
+times, uh, which ones are the best,
+which ones are lowest, but also why as
+well. And you can simply go to the ad by
+pressing this button here. Now, this is
+great for any kind of ad agency that
+wants to analyze the [music] Facebook
+ads library because part of the research
+when you're making a new ads campaign is
+seeing, hey, what already worked in the
+actual niche that I'm doing? And so
+having this in place, it will cut down
+all the time and it will use AI to
+analyze each ad. And by the way, you can
+also add a lot more stuff to this
+dashboard, which is great because it
+gives us a lot more opportunities uh to
+build and to build it. You're going to
+see a recurring thing that I'm doing
+here, which is adding the cloud.md very
+similar prompt to the other ones that we
+made before. Uh all the folders are
+pretty much the same. And then we simply
+give a prompt to the actual cloud code
+when everything is initiated, saying,
+"Hey, I want a dashboard that can do X,
+Y, and Z." Doing all the features that
+we have here. The next use case is an
+after meeting assistant. So a lot of the
+times when I have calls with my clients
+or with people from my team at the end
+of the call I want a full summary sent
+to my email but I also want action items
+and tasks that I can start implementing
+right away in my notion dashboard. So
+here's a cloud code setup. We're
+actually using Fireflies [music] so that
+whenever Fireflies meeting ends we
+instantly send the actual ID of the
+Fireflies meeting to a web hook of this
+agenda workflow which is hosted in a
+place called modal. So every time a web
+hook is sent to modal, [music] we start
+the automation. It makes a task and it
+sends us email with a summary and a task
+will be stored here in notion. Right
+here we have Postman API. So I have the
+web hook URL which I'm going to send the
+request to. I have the meeting ID and I
+can press send and we should be able to
+see a request here which is now running
+the actual automation. As you can see I
+had two other requests running here as
+well before. And now that this is
+running it will now make the task notion
+and it will then send us an [music]
+email as well. So you can see in notion
+here that we have the four different
+tasks. So explore student enterprise
+grants for next year. Connect on
+WhatsApp using the number shared in
+chat. Send over helpful resources about
+AI upskilling and meet for coffee to
+discuss target market, LinkedIn strategy
+and next month's business plans. The
+date is going to be tomorrow. The status
+is here and priorities. And also [music]
+we have the assignees. We have the
+summary of a call that I previously had
+with Jamie. If you're watching this,
+you're a legend. Uh and the action items
+that we have to [music] do which I can
+all view in notion as So again, this
+right here is an automation that we're
+hosting in modal and it simply starts
+whenever we finish our meeting using
+Fireflies. And if you have a Fireflies
+account, you can simply go to settings.
+You can go down to the web hook, which
+will be this one right here. You can
+replace the web hook with the one that
+you see in modal. So copy this, paste it
+here, and then at the end, put /book.
+When you press save, what this will do
+is that it will trigger when your
+description is completed. So whenever
+you finish a meeting, it will directly
+send the information to this web hook
+right here, which will send it to the
+model right here, which is a software
+where we host the automation like I
+mentioned before, and it will start
+running the automation based on these
+scripts that we have here. Now, this is
+awesome, especially when you have three,
+four, five, six, seven meetings every
+single day and you don't remember
+exactly what we mentioned on that
+meeting. And so adding tasks in your
+notion database, which is where I store
+all my tasks, helps me to keep on track
+and helps me to know exactly what steps
+I have to do after the call [music]
+itself. And the next use case is
+building anytime workflows in AI agents.
+All right. So right here I have my cloud
+code set up. First thing I have here is
+the claude.md prompt which is a prompt
+which tells exactly it tells claude how
+to be able to make any time workflows.
+It tells it hey first thing you have to
+do is configure the MCP server. The
+second thing is get the API key. The
+third thing is restart cloud code and it
+goes through step by step all the things
+that it needs to do. What you want to do
+then is you want to press initialize
+project. And again, all the prompts and
+files are stored in the second link down
+below. And you can simply then tell
+claude initialize this project and it
+will start building everything right
+away. And when it asks you for your API
+key and your URL, all you have to do is
+go to Nitan right here. You can go down
+to settings. You can go to any API and
+you can create an API key here and name
+it cloud code 45. You can save it. And
+this right here will be the API key that
+you use. And then for the URL, you will
+use everything [music]
+uh up until cloud. And when you paste it
+here, it will then make the MCP.json and
+then you can use it right away. Once you
+have this in place, I can then say, can
+you make an AI agent inside or actually
+workflow inside of an A10 [music]
+uh that runs every single day at 5:00
+a.m. And what it [music] does is that it
+goes to Perplexity to find the most
+recent news on artificial intelligence,
+well, I guess the AI automation space
+and the no code tools that are coming
+out. um specifically maybe claw code,
+n10, make.com and so on. And then they
+want to use another AI step. I mean you
+could say summary of the actual uh
+research and then finally you want to be
+able to send me the email in HTML
+format. It looks nice and I want it to
+be sent to my personal email. One thing
+I want to tell it as well is I want the
+output to be a URL of my web hosted and
+it end a link that I can press and go
+straight to my automation itself without
+me having to paste any code. I can press
+go make sure it's in plan mode. So, it
+starts planning everything step by step.
+And I saw here that it actually says N
+and I. Uh, but I'm pretty sure it's
+smart enough to know that we're talking
+about NA10. As you can see, now it's
+searching the notes. It's getting the
+nodes everything that it needs to do to
+be able to build the automation. It's
+asking me for my personal email address.
+I'm going to press other and say
+mick.cal
+5@gmail.com. So, I just put my email
+address. Then for time zone, I can say
+[music] Europe Rome. That's fine. For
+the AI model, I can say GBT40.
+And I can submit. And these are the
+typical questions that it's going to ask
+you along the way. uh when it's actually
+building the actual workflow. So now we
+have the plan of action which is going
+to be schedule trigger perplexity search
+openai summarizer send email. Uh we can
+press yes. We also need to provide it
+the perplexity API and the open AI API
+and the SMTP. Okay, I think I want to be
+using Gmail not SMTP. So I can actually
+say I already have my API installed like
+for N8N um for Pexity and OpenAI and
+also for email I want to be using Gmail
+not SMTP. So I can just paste it here as
+well as it's making this and these are
+things that you can always tell cloud
+code to do uh cuz it can do it because
+it has access to the MCP but also they
+are things that I already know because I
+have the knowledge fundamental knowledge
+of automation. Uh so it makes it so much
+easier for me to use this uh right here.
+All right. So finally we have the
+workflow URL. I can copy this. I can
+then paste it here and it will take me
+directly to the automation itself. Bit
+unstructured but we got the overall
+point. And if I go inside here, this is
+5 a.m. Great perplexity. I already have
+my account and it made the full prompt
+here. So research the most recent news
+and development from the last 24 to 48
+hours in AI automation tools no code low
+code cloud code and AI coding assistance
+agent frameworks which is great. And
+then we use OpenAI. It didn't actually
+add the user prompt which is something
+that um is lacking, right? So it isn't
+perfect. And finally, it will send the
+email here as well. So, we'll get the
+output, but obviously there's no output
+to give. So, if you had no idea of
+automations, this would be a bit harder
+for you just because you would have to
+fix something here as well. Now, I have
+to be honest, the N10 builder when it
+comes to cloud code isn't the best. What
+I would recommend is using the N10
+native builder when it comes to building
+workflows because it is much better at
+thinking through things and structuring
+[music] systems and also it's native
+within N10. So, uh you don't have to pay
+that much more. One more thing you could
+do with Nitn if you want to is you can
+actually take some sort of blueprint of
+your workflows and you can paste it or
+you can actually upload it into cloud
+code and say hey based on what you know
+about in 10 can you please explain
+what's going on in this workflow and it
+will give you like a full summary as
+well. All right so if you want to skip
+all the steps and you want to install
+all these eight uh use cases for your
+own without you having to do any prompts
+and so on. I left all the folders and
+files inside my free school community
+second link down below uh in the
+templates vault and you'll be able to
+see them in the cloud code here. Bear in
+mind that not everybody gets in. So,
+please put some thoughts into your
+answers when [music] you apply. So, now
+you understand exactly how you can apply
+cloud code to actual business use cases,
+whether it's for your own business, your
+own personal life, or also to sell to
+other businesses as well. And if you're
+a 9to-5 working professional and you
+want to start and scale your own AI
+agency and you want to work with me, I
+left the first link down below, which is
+a video to a one-to-one mentorship
+program. You can check it out. If it
+sounds like a good fit, feel free to
+apply. And if you want to dive deeper
+into cloud code, then check out this
+video up here where I show you exactly
+how you can master cloud code better
+than 99% of beginners. With that being
+said, I hope you found value from this
+video and I'll see you in the next

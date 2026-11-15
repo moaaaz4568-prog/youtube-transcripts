@@ -1,0 +1,573 @@
+I designed insane sunglasses inspired by
+Earth Wind water and fire we're going to
+use the best 3D printing technology the
+most advanced software and the best
+artificial intelligence tools to make
+some crazy designs now I've been
+designing products especially eyewear
+for years now and I'll be honest it can
+get kind of repetitive as you gain
+knowledge you start to focus on creating
+designs that you know will work well
+based on your past experience for once I
+wanted to create completely crazy
+designs just for fun and to see if I
+learned anything new at the end I'll
+show the frames to another professional
+eyewear designer and have him judge them
+on a scale of one through ten most
+sunglasses are all about understated
+refined coolness you know we're talking
+Tom Cruise from Top Gun any of the
+Matrix characters John Lennon Audrey
+Hepburn the list just goes on and on but
+we're not going to be understated here
+we're ratcheting things up to 11.
+something like Elton John meets
+cyberpunk insanity or Lady Gaga
+weirdness and normally I could never do
+this with a paying client who expects a
+sellable design but we don't have that
+constraint this time so we're going to
+go wild the only constraint is that they
+need to be somewhat similar to a regular
+sunglass form factor so the first step
+to creating cool new designs is using
+cool new tools stratasys approached me
+and asked if I wanted to try out their
+3D printing technology that can
+replicate pretty much any material you
+want it can even make completely new
+materials that are both aesthetic and
+functional so with Endless Possibilities
+on the manufacturing side it was time to
+figure out what I was going to make
+I think this collection is going to be
+inspired by natural elements but first I
+wanted to come up with some interesting
+designs in gravity sketch gravity sketch
+is an app where you can draw in virtual
+reality it's literally just like drawing
+in 3D I like doing that because it's
+easier to get a sensor proportion when
+you can spin the drawing around
+three-dimensionally and I created a lot
+of different designs here while I'm
+designing these I'm thinking about the
+expression that they create on the
+person wearing them we all rely on
+social cues to understand what others
+are thinking and we get a lot of that
+information by looking into another
+person's eyes but because sunglasses
+hide the wearer's eyes it's really hard
+to know what the person is thinking
+that's why a person wearing sunglasses
+usually looks like they're totally in
+control and they're too cool to care
+they might be dying on the inside but
+look totally calm from the outside
+that's actually why I came up with the
+four elements idea I like the idea of a
+natural disaster happening all around
+your face but you still look cool cool
+and calm and collected to the outside
+world plus I really like Captain Planet
+as a kid
+I started with the line drawings in
+gravity sketch then I picked my favorite
+ones and refined them a little bit
+further now I'll be honest with you
+making weird designs was a challenge for
+me I've spent a really long time
+learning about what makes a frame look
+good on someone's face and it was hard
+to break these old habits in the end I
+came up with a few designs that I
+thought had a lot of potential but
+really they didn't look anything like
+the four elements of earth wind water
+and fire and that's where Houdini comes
+in it's a software that's usually meant
+for visual effects but I've slowly been
+integrating it into my product design
+process it's a perfect tool for the kind
+of organic natural aesthetic that I'm
+going for at first I just started with a
+basic stock frame shape to see what the
+colors and textures look like some of
+these simulations are just insanely
+satisfying to watch this one's for fire
+I basically just did a simple animated
+noise simulation it looked pretty good
+but it was a little bit too subtle we're
+going for wild and crazy right so let's
+see how far we can take it okay that's
+too far okay that's that's way too far
+then I also tried some particle
+simulations for fire it looked cool as
+an animation like sparks flying around
+everywhere but when I 3D print them they
+won't be moving and it just doesn't look
+as good when it's not animated so I
+stuck with the original design idea
+where I added the noise on both the
+inside and the outside and having it
+encased in clear material was really
+cool almost like the fire on the inside
+of the frames was slowly starting to
+melt the exterior we're going for crazy
+and badass nothing says badass like
+Flames is an app right Guy Fieri yeah oh
+my God that's hot seriously though I
+know Flames can be very tacky but you
+gotta admit this does look kind of cool
+so anyway the water simulations are
+probably my favorite animations you can
+have water spilling into any shape
+vessel you want in Houdini so I made
+water flow through the glasses frames as
+if they were Hollow I tried different
+speeds viscosity and amplitudes and
+pause the simulation at a point where I
+just thought it looked the coolest at
+first it was just particles but the 3D
+printer wouldn't recognize that actual
+geometry so I turned it into a mesh I
+even added some little bubbles to it and
+lastly I added some fluid-like ripples
+to the outside of the frame to make it
+look like flowing water if you think the
+water stimulation is cool you should
+click the Subscribe button below to see
+more content like this it's free and you
+can always unsubscribe later back to the
+video wind was by far the most difficult
+thing to illustrate because you can't
+really see wind right you can only see
+its effects on other objects so I made
+these big wispy dust clouds that look
+like they're being blown around once
+again it looks cool as an animation but
+as soon as you pause the animation it
+really doesn't remind me that much of
+wind so I made it so that each of those
+little dust particles had a trail behind
+it this has a lot more visual movement
+to it even when it's static or not
+moving then similar to the water frames
+I added a texture to the outside of the
+frames but this one sort of mimics
+wind-blown rock formations the Earth
+frame was probably the most
+straightforward it wasn't an animation
+at all it was just a bunch of different
+fractured patterns and textures applied
+to a pair of glasses this one's probably
+one of my favorites though the geometry
+for this one was just insanely
+complicated I mean you see that blue
+green color over the design if you zoom
+in those are all individual points that
+the computer had to calculate I have a
+really powerful computer and it still
+took over a minute for it to load this
+model I think the file was like eight
+gigs or something before I simplified
+the mesh and exported it so at this
+point we had some pretty cool looking
+material ideas The Next Step was
+exporting those colors and textures to
+be 3D printed I was really struggling
+with this step though because everything
+was just exporting as a plain white
+model and none of the color was
+exporting properly I tried using Houdini
+and blender and just none of it was
+working I spent like two days trying to
+figure this out and I finally ended up
+using another software unfortunately
+this software is not the best at making
+complex materials but at least it worked
+either way this is a two hundred
+thousand dollar 3D printer that I'm
+using so in spite of software issues I
+still had High Hopes so the samples
+arrive and they're pretty awesome the
+resolution is insane the level of detail
+is spectacular but they do look a little
+bit different from what I saw on the
+screen and at this point I was a little
+nervous about how the sunglasses would
+turn out I mean sure the materials might
+look great on the computer screen but if
+I can't translate that to reality it's a
+big issue for the project I Was
+preparing myself to get absolutely
+roasted by the other Pro eyewear
+designer I was going to show these
+frames to but yariv the design director
+at stratasys was telling me that I was
+thinking about this all wrong I was
+treating this tool too much like a
+typical sample process with a vendor
+normally you might only order just a few
+samples from a manufacturer if you ask
+for too many samples the price and time
+can really really add up but with this
+printer you can make a bunch of
+different material variations print them
+before you leave work at night and then
+have them ready by the next morning you
+can experiment with a huge range of
+ideas and one of them is likely to be
+exactly what you want so for this next
+run I was prepared to print as many
+samples and ideas as possible I was
+still a little bit worried about having
+to use this rendering tool that was kind
+of limited though so I needed to get
+creative with an alternative with the
+fire and water frames rather than
+creating the colored materials in
+Houdini or blender I created these two
+dimensional patterns with dolly 2. dolly
+2 is an artificial intelligence that can
+create images for you based on a text
+description I told the AIO that I wanted
+some cool seamless textures one for fire
+and one for water then I basically took
+that 2D image and wrapped it around the
+3D model this is called texture mapping
+while texture mapping is really a very
+common 3D rendering technique using AI
+image tools to do this is pretty new I
+got some awesome results that would have
+been really time consuming to do on my
+own and this is a great example of how
+constraints can be a good thing
+sometimes without the software
+constraints of this project I never
+would have thought to explore AI
+generated textures and I have to say
+they look pretty impressive on the
+screen I was just really hoping that it
+would translate into real life I tried a
+bunch of different material settings for
+the printer so I was sure that at least
+a few of them would turn out okay the
+materials for Earth and wind were a lot
+more straightforward with just a clear
+exterior and a solid interior but it was
+the fire and water samples that I was
+worried about
+[Music]
+so a few days later when I got samples I
+was seriously impressed for the first
+set of samples that I got a lot of the
+issues had to do with the print settings
+that I used because I just didn't really
+know what I was doing but with this
+round of samples many of them came out
+exactly the way that I hoped they would
+and a few others came out even better
+than I could have imagined I mean look
+at these things they look like little
+Flamin Hot Cheetos one thing that was
+kind of weird was that the wind and
+Earth samples came out absolutely tiny
+I'm not sure what happened here I mean
+like what is this a material sample for
+ants
+but besides that the prints were
+absolutely gorgeous the fact that these
+samples are so tiny but still so
+detailed is pretty incredible a whole
+bunch of these look really awesome but
+these are ultimately the textures I
+choose to move forward with and apply to
+the final frame designs once again big
+shout out to stratuses for these 3D
+prints if you want to learn more about
+this 3D printer click the link in the
+description below so we've made good
+progress but the hard part was
+definitely not over the next step was to
+refine the frame Silhouettes I used the
+designs I made in gravity sketch earlier
+as a starting point but I actually
+changed them a fair amount this part is
+extremely time consuming it's basically
+just making tiny changes to the frame
+silhouette until it looks right you have
+to remember we humans are very sensitive
+to Tiny proportional changes to the face
+and glasses are basically just an
+extension of your facial features and
+expression I like to use a photograph
+and check to see how the glasses look on
+an actual person other times I'll even
+print out the frames on a piece of paper
+cut it out and wear it to see how it
+looks as long as the expression of the
+face is neutral and nothing creepy or
+weird it it's a great starting point so
+for the water frame concept I was going
+for something very approachable I made
+these shapes really round and fluid no
+hard edges or angles straightforward
+enough it is a women's frame though so I
+still added a pretty dramatic brow line
+along the top and had the sides of the
+frame cut inward pretty dramatically as
+well in order to accentuate the wearer's
+cheekbones I also made the sides of the
+frames look super wavy and undulating
+clean topology is my passion you won't
+get that joke unless you do 3D modeling
+it's a nerd joke don't worry about it
+for fire I was going for something that
+was kind of sinister looking something
+that a female super villain would wear
+or maybe like an angry cat on acid
+obviously beauty is in the eye of the
+beholder but generally speaking
+well-defined features are considered
+very attractive so these angular frames
+would help to accentuate the wearer's
+more defined features the wind glasses
+are basically cyberpunk meets Elton John
+shout out to my editor Brad for coming
+up with this comparison I wanted to make
+them look kind of like goggles sort of
+like what you'd wear during a windy
+Sandstorm or something in terms of shape
+these are really more of a wild card
+they're definitely kind of out there the
+Earth glasses are super angular to look
+like chiseled rock formations the
+silhouette of the frame basically mimics
+that as well I had the frames cut inward
+along the top so they didn't make the
+wearer's face look too boxy though after
+several days of work we've got four
+frames here and after that I applied the
+textures and materials to the frames as
+always there's a lot of trial and error
+here here's what the final designs look
+like after I did some work in Houdini I
+added all the textures and stuff they
+look pretty cool here but they're going
+to look even better after I add the
+proper materials and send them to get 3D
+printed so let's hope they turn out okay
+when I received the frames they looked
+awesome but the material was a lot more
+cloudy and matte than I would have liked
+I wanted these things to be glossy as
+hell I thought about adding some clear
+coat to the frames but I wanted to test
+it on one of the samples first you just
+never know how paint will react with
+different materials and I didn't want to
+ruin the final prototypes after about
+four coats on a test sample I had
+something that looked really nice so I
+added the clear coat to all of the final
+frame designs and now I had to figure
+out how to fit these things with lenses
+now if these were regular sunglasses
+this would be a pretty straightforward
+task for any optician but because the
+material is kind of stiff and brittle
+and because the frames are so chunky I
+was worried that the frames would break
+when installing the lenses if I just
+brought them to some random optician
+luckily I happen to be friends with the
+owner of Veo Optics and they've won the
+title of Best eyewear shop in San
+Francisco for like 12 years running now
+I spoke with Rena the president of Veo
+and she was telling me that she would
+use these really flexible polycarbonate
+lenses that would be easier to fit into
+the very stiff and brittle frames I
+hadn't shown the frames to run it yet
+but she was very surprised when I showed
+them to her for the first time this is
+one of them
+and then there's this guy this one's
+cool that's when I knew I was on
+something with these sunglasses but
+whether they were good crazy or bad
+crazy wasn't super obvious yet I'll have
+to wait and see when I post them up on
+YouTube but sure enough the frames got
+fitted with lenses without any problems
+big shout out to Veo optics for the
+lenses especially me here's the lens
+technician at Veo and the guy is just a
+master at what he does so here is what
+they look like
+all right
+foreign
+James payo is our critic for today he's
+taught me everything I know about
+eyewear design I've known her for like
+10 years now I am thrilled to see the
+new designs by the way and he's done
+eyewear Consulting work for some top
+fashion brands he styled thousands of
+people with frames including some very
+very high profile celebrities when it
+comes to sunglasses this guy knows his
+stuff so let's see what he has to say
+about all this
+fluid design I like it I like I like the
+angles I like the soft edges very
+thoughtful I like the I like the thicker
+frame on the sides here a lot a lot I
+would decrease that arch in the eyebrow
+just ever so slightly to make it a
+little bit more wearable let it bevel on
+that lens on the yeah yes it is
+fantastic so on this one for Unique like
+a 9 out of ten ball done brilliant so
+from this Frame as it is I would say uh
+uniqueness nine again and then
+wearability as is about a two two three
+good job there fantastic shape like the
+arch in the area I like the geometric
+shape and the the nose right where the
+nose Bridge meets fantastic design I'm
+just wondering how they would feel on
+the skin what the smooth surface would
+be and then just to soften up the nose
+bridge but otherwise I really I think
+it's really cool okay so out of 10
+wearability I would say if we make it a
+comfortable frame wearability for a
+general public like a two people are
+gonna be shocked when they see this
+shape wise overall design and
+comprehension of how the face would look
+with eyewear fantastic beautiful
+proportions Great Frame I would like to
+have the bridge almost be as thin as the
+the lower Bridge leading up from the
+actual bottom the the B measurement in
+the bottom of that frame I'd like to be
+as thin as what is on the Node nose
+Bridge currently to be on the actual
+Bridge itself
+to bottom that would be terrific because
+then you wouldn't have this big glob on
+the face
+sick
+creative alive fantastic I like the
+bridge placement usually the the
+quickest place to pick up on a set of
+glasses when designing eyewear is the
+bridge I like the shape I like the way
+they got bigger Bolder like the rough
+edges from a a piece that is unique and
+stunning I would give it a nine out of
+ten well done well done I would decrease
+the arch in the eyebrow by a minimum of
+12 degrees and see how that looks as as
+you decrease your your top line on that
+arch in the eyebrow it's gonna actually
+shorten the actual overall proportions
+of the inside of that lens so I would
+therefore increase the the B measurement
+the shape is a little dramatic which I
+love for like a window piece for sure or
+like a piece just to show what we can do
+with 3D printing but on the face I think
+that that would need to be taken into
+consideration
+okay
+join your Genius level you're a genius
+that's why I love working with you I
+love it so yeah I I think that it's
+thoughtfully creatively in design I love
+the way that you can just like almost
+see it smashing particles in the air and
+then the frame just melding like you're
+traveling at the speed of lights and
+just
+beautiful
+love it I'm digging it um I think
+uniqueness again I would definitely give
+you a 10 10 out of 10 well done and then
+wearability I'm guessing wearability is
+going to be another too huh yep
+wearability of two you you know Johnny
+you know when whenever you and I design
+something together we create some magic
+so I'm really looking forward to us
+creating a line together that's gonna
+just just be the most beautiful eyewear
+on planet Earth that's exactly right I
+know these frames are not wearable but I
+just wanted to do something kind of
+crazy just for fun you know of course
+done for understanding I know exactly
+why you created this Christmas going a
+little bit more outrageous I love it
+in terms of the final designs I think
+they're really cool although definitely
+very polarizing when I was designing
+this collection I was thinking of the
+way that concept cars are made If
+Everyone likes the concept car that
+comes out it means that the design was
+probably too safe 50 love the design and
+50 hate it usually means you're on to
+something then you tone it down for the
+production vehicle one really important
+note I want to make is that design isn't
+usually just about Aesthetics it's about
+function and a great user experience but
+this project leaned very heavily in the
+direction of form and style I'll
+probably take some inspiration from
+these conceptual designs and processes
+and find ways to make them a little bit
+more wearable I'm excited to see if I
+can come up with some more functional
+Innovations using these designs as a
+starting point also I'm probably going
+to make my own line of eyewear at some
+point and I'm going to be working with
+some of the best Japanese eyewear
+artisans in the world to make the
+production frames so if you want to
+learn more about that you can sign up
+for my email list below the link is in
+the description if you enjoyed this
+content you should totally like the
+video below and subscribe it does help
+me out and I'd really appreciate it I
+want to give a big shout out to
+stratasys they sponsored this video of
+course but all of my opinions in this
+video are my own opinions if you've ever
+ordered samples from a manufacturer and
+waited weeks for them to arrive only to
+realize that they're not even close to
+what you wanted you understand the pain
+owning one of these printers would
+seriously reduce iteration cycle times
+and just would make the sample process
+way more streamlined and efficient so if
+you want to learn more about their
+printers sign up by clicking the link in
+the description below anyway I hope you
+learned something I had a lot of fun
+watching this video I didn't watch this
+video I made the video I had a lot of
+fun making this video seems like you had
+a lot of fun watching it if you made it
+this far and I hope you have a great day

@@ -1,0 +1,607 @@
+We're sending tens of millions of cold
+emails per month across all of our
+clients, but over the last few months,
+I've completely rebuilt pretty much
+every part of our entire company and how
+we run our business on top of Claude
+Code and Agentech AI. I'm talking
+copywriting, data analytics, client
+audits, content, our entire internal
+app, everything. And before you roll
+your eyes, I'm not going to sit here and
+pretend that AI is writing all of my
+content for me or that a robot is
+running my agency because that's just a
+bunch of clickbait BS and we all know it
+now. But, what we have built has allowed
+us to literally 10x our output, get
+insanely accurate data, and build stuff
+that pretty much no one else has today.
+In this video, I'm going to show you all
+of it. I want to start with the most
+ambitious thing we've built because it's
+the part that I'm most proud of and it
+makes everything else in this video
+possible. You see, we've replaced NaN,
+Zapier, Clay, and most of the automation
+stack that every other company in the
+world runs on. Everything is custom code
+that we own running on our own servers,
+and the wild part is that I don't even
+know how to code. I don't know a single
+line. And right now, Claude Code, Codex,
+and a cloud-based agent I've really
+started to vibe with recently called
+Devin AI are writing all of it
+underneath my direction. And quick
+context on why this was even possible
+because it ties into everything else
+that you are about to see. See, most
+companies are stuck running inside of
+Instantly, Smartlead, or Email by Bison
+as their sequencer. The second you close
+one of your subscriptions, every single
+send, reply, and sign up is gone
+forever. All of your data is gone
+forever. A year ago, we started to build
+our own analytics platform, and it is
+just now being released to the public,
+and we're taking applicants, and
+eventually we'll open it up more and
+more and more. And it's called Out Found
+IO. It's a permanent record of every
+campaign we've ever run because we
+couldn't depend on the sequencers to be
+able to store that data. And one of the
+most important things you need to do is
+configure all of your data and all of
+your tools in a way to where your AI can
+interact with those in a very extremely
+token efficient way. Everything I'm
+about to show you plugs right into
+Outbound through something called an
+MCP, and all that means is that Claude
+code can interact with it, and it'll
+have access to years of campaign data
+across every client sitting just one
+question away. With that, we have our
+main internal tool that I'm about to
+show you in a second, but you have to
+understand that underneath it, Outbound
+is very critical for it to be able to
+work. So, let's show you right now. So,
+first we have a pre-onboarding workflow.
+It's something that my sales people can
+use immediately where they can enter in
+some information about the client. It
+integrates with our CRM, Act-On, and
+they can immediately, within seconds of
+leaving a call, have everything fully
+typed up, ready to go, onboarding docs,
+links, all of that kind of stuff. And
+so, immediately after that
+pre-onboarding workflow, there's an
+automation that when the second a
+contract is signed, it hits a webhook,
+adds the client to our CRM, creates
+their Stripe subscription, sets up
+projects inside of Linear, which is our
+task manager, generates their onboarding
+documents, queues the account for manual
+review, the whole nine. It is such a
+cool thing, and if I ever need to change
+anything, I literally just open up a new
+chat with my AI that fully understands
+all of this. Go, "Hey, I want it to do
+this instead of that." And then it
+writes new code, we ship it, and then
+the whole thing just changes, and it
+just compounds on what exactly we need
+for our business. And once again, it
+costs basically nothing. Next, we have a
+lead waterfaller. It's completely
+replaced Clay for us and all of our
+enrichments. And it's really dope
+because, you know, it has a search
+thing. We Right now, it's built for
+Prospecto. I'm literally in the process
+right now of making it also work for
+Apollo, so that way we could just choose
+which provider we want to search from.
+But, Prospecto's kind of cool as well
+because, like, they even have this
+thing, you can come in, you can, you
+know, fully make a search, and then you
+come over here, hit search API, and they
+literally just give you a payload. So, I
+can literally just take that, paste it
+into there, and then this whole thing
+will work off of that. I can select
+which client we want it to go to, which
+campaigns we want it to load into. I can
+choose which validation providers I want
+to have inside of it. It's it's really
+really dope. I can even do stuff where I
+can map if I want what we call safe to
+sends, those are really healthy things
+to go to, we can do that. Oh, I'd have
+to select a couple other things, but
+there's another option I could toggle
+here to make it so that I can actually
+route different types of leads to
+different types of campaigns. It's
+really cool. And we can just change it
+whenever we want. If I want to add in
+Apollo, I'm I can just do that. I just
+talked to CloudCode and it's able to do
+that for me. And it figures it all out.
+Once again, I've no idea how to code
+anything. But the really cool thing
+about this is that it's very dependent
+on Outbound. We also have a lead
+waterfall that has completely replaced
+Clay for us, which is pretty huge cuz,
+you know, if we were to sign up today
+for Clay and do 17 million enrichments
+per week, which is what we used to do on
+Clay, my bill would literally be like
+217 grand per week. It's it's completely
+nuts. And, you know, they grandfathered
+me in still, so I still have my old
+pricing, but it's still like like new
+people don't get that. That's just kind
+of odd, you know? But we were able to
+build our own internal system. And it's
+really cool because one of the big
+things that it does is it I mean, it has
+decreased my spend on data about 80%
+over the last few months. And really how
+it works is that one component, just one
+feature of Outbound.io, is that it has a
+backend database. And so at the
+beginning of our waterfall, after we do
+a search via like Prospect.io or Apollo
+or Blitz API or whatever, we're going to
+have this list of people who now we need
+to get their emails and we just check
+our database first and we go, "Hey, did
+I already buy this person's email? Yes
+or no?" Yes, I did. Great. Has it been
+validated within the last 30 days? Yes.
+Awesome. Now I don't need to spend money
+on finding that lead. And that's about
+80% of our list we're able to find
+within our own database. And that thing
+fires stupid fast. We're able to hit it
+at about 100,000 times per second. It's
+really really dope. And then if we don't
+have the email, it just goes through the
+normal waterfall. We'll check Lead
+Magic, we'll check Wiza, we'll check
+Prospect.io, Blitz, there's, you know,
+every data provider imaginable.
+CloudCode has orchestrated all of it and
+it just works great. The next thing I
+was able to build, which I love this cuz
+I took my first vacation probably in a
+while back in January, and I just built
+an out of office Slack auto responder,
+so I can come into here, create a an out
+of office message, and what it does is
+whenever a client @'s me in any chat,
+they'll go, "Hey, Taylor's on vacation,
+actually." It'll reassign the task in
+Linear to James or whoever I choose. Um
+so, here I chose James, and it'll uh
+reassign the task to James, and then
+allow me to take my time off without
+being pinged in Slack. I also made
+something that makes it so I can just
+pause campaigns. So, I can go, "Cool,
+Christmas vacation is coming up. We're
+not going to do campaigns for 3 days."
+It literally goes through every single
+client, finds every campaign, pauses it,
+logs which ones are paused, and then
+automatically resumes the campaigns
+after the holiday break. Just like
+little stuff like that, little things
+that you would never would think you
+would want to build your It's not worth
+it for your developers to pay for, but
+we can just build it ourselves. It's
+great. And then, the next thing that I'm
+working on is like a very like central
+intelligence brain for everything that
+we're doing. And so, my team can come
+into here, into our settings, and we can
+connect every single one of our
+accounts. And so, this actually
+synchronizes with Google Calendar. All
+of my meetings get streamed into our
+central back-end database, which is also
+synced with our CRM in Attio. Every
+meeting I have, every single recording,
+all of that. And that's just a quick
+overview of like some of the stuff that
+we've been able to build. Now, let me
+give you some frameworks on like how to
+actually think about this. Like, those
+are just some examples of what I built,
+but like here's actually my workflow for
+all of these things. Phase one is where
+you just have plan mode, right? So, it's
+really simple. You can come into either
+Claude Code or Codex and turn on plan
+mode. And what's really good in here is
+you want to like really, really plan as
+much as you can. You want to talk to it
+like, "Hey, we're just brainstorming
+right now. I want you to criticize
+this." It's really important that you do
+that. There's a ton of stuff that goes
+on in this planning phase, and I spend
+most of my time doing really good,
+detailed plan. The thing that's really
+been leveling up everything that I'm
+doing, though, is you're constantly
+going to be fighting against context
+windows when it comes to these things.
+So, for example, the AI only has so much
+brain or like storage. And as you get to
+that, it's going to do this thing called
+compaction, where it goes, "Okay, like
+what's most important for me to
+remember?" It remembers it, and then so
+it frees up a bunch of space, but it
+loses data in there. Something that I've
+been doing recently is I will make a
+plan, and I'll and I will say, "Hey,
+let's document this inside of Linear." A
+plug-in whatever. If you just ask it
+like, "Hey, how do I install the Linear
+MCP?" so you can use Linear, it'll walk
+you through how to do that. It's This
+stuff is really, really straightforward
+cuz anything you don't know, you can
+just ask it and then now you'll know.
+And then here, here's an example of the
+lead waterfaller. I completely rebuilt
+it from scratch uh just about uh 3 weeks
+ago I started on it. You can see when
+the project started. And this whole
+project has basically been like, "Okay,
+cool. What exactly do we want to build?
+How do we want to reconfigure
+everything?" Here's the exact thing. It
+sets up milestones. And what's really
+nice about this is now I have a system
+record for everything that we're doing.
+And so any agent that's working on this
+project can go here, understand
+everything that has been planned, why,
+everything that's been done, and it can
+pull in the context whenever it needs
+to. And it's made it so that my plans
+are just way better. So that's kind of
+phase one is you want to really like
+plan everything out. So you have Codex,
+you have Claude, and the newest tool
+that I've been really using and really
+vibing with is uh Devin here, Devin.ai.
+And basically, it really seems to
+understand code bases a lot, lot better.
+It's more expensive, significantly more
+expensive. You can have a Codex at $200
+a month. I've never gotten close to my
+usage. Same thing with Claude Code, $200
+a month, never gotten close. My bill
+with Devin right now this month so far
+is like seven or eight grand or
+something like that. So it's
+significantly more expensive, but it's
+completely worth it to me. It's a lot
+better at actually orchestrating this
+code and things like that. So I split my
+plans up into what I call phases, right?
+So in Devin, you hit an exclamation
+point and they have these things called
+uh playbooks, right? So we can say here,
+phase one is a deeper session. What it
+does is it spins up about 20 plus sub
+agents and it stress tests everything in
+that project. And so usually I'll start
+in Codex like I mentioned earlier, I'll
+go into a plan, I'll do some stuff
+there, I'll say, "Hey, save it in
+Linear." And then usually I'll bring
+Devin in and I'll be like, "Hey, let's
+do a phase one audit and really tear
+this thing down and really make it make
+sense." The phase two is something that
+I use where the agent now goes, "Cool,
+here's all the criticisms that we did on
+the plan. Here's what the thinking is
+right now. Here's anything that needs a
+human review before we go to do the
+plan." Phase three is just a a thing
+where it prepares the code base and it
+like creates a branch, and it's able to
+just go. Phase four is where we really
+start actually implementing everything.
+And so, phase four is really cool cuz I
+built two things, right? One is I have a
+mode where it will actually log into
+Codex for me. It'll like spool up a
+sub-Codex thing, and it will actually
+manage a sub-agent doing Codex, and it's
+using my Codex sub. So, it's kind of a
+way that I can like keep my Devin bill
+as low as I can. The other thing that
+I'm able to do is it just gives me a
+prompt to just run Codex on my own. And
+this agent works, and once again, it is
+able to build everything completely from
+scratch, which is really dope. And then
+it also, in the same command, does
+phases five and six. Phase five is
+basically where Devin It'll like write
+the code or Codex will write the code,
+and it'll be like, "All right, this
+thing's good." And then it goes into a
+review process where it like loops It
+uses things like Devin, Code Rabbit,
+Cursor Review to actually critique all
+the code and go, "Cool, is there
+anything that was missed here?" And are
+there any conflicts? Is this going to
+cause any errors if we like merge this
+code into GitHub? And it's really dope
+because, once again, I do not know how
+to code. I literally show up here. I
+have one agent that's really smart,
+build everything, and then I have a
+bunch of other agents review everything,
+and then they automatically loop until
+the code is perfect, and I go,
+"Awesome." And then phase six, we merge
+the code in, and then it works, and it
+ships. I ship code using this loop
+dozens of times a day. Even though even
+if you put a gun to my head, I would not
+be able to tell you what a single line
+of this code like actually does if I
+looked at it. And this whole process has
+done so much for us. It's super fun, and
+it just It makes it so we aren't
+bottlenecked. If it instantly rate limit
+goes down, then our automations would
+break. If a Zapier integration goes
+down, then our onboarding would stop.
+And we just don't have those ceilings
+anymore. The second a client drops a new
+idea in Slack, I can at Devin, I can at
+Codex, I can at Claude, and I can ship
+it on the very same day. And real quick,
+if you at any point in this video want
+us to set up a cold email machine that
+leverage all of these types of systems
+I'm showing you in this video, click the
+first link in the description to book an
+intro call with us. Let's continue. The
+next thing I want to talk about is once
+the internal app and Outfound are in
+place, the next thing that changed was
+how we handle even just like one-off
+client problems or whatever cuz data
+truly is king. When you have the data,
+your decisions are made for you. And the
+best way to show you what I mean is to
+walk you through a real situation we had
+just last month with a client, right? A
+client messaged us upset saying they'd
+only getting like five positive replies
+the entire time we've been working
+together and we were super confused,
+right? We knew that number was like way
+off, but without pulling every thread by
+hand, we just couldn't prove it. And so,
+instead of
+assigning this to someone on the team,
+it would take them 2 days, I just opened
+up Claude Code and walked through
+everything in a matter of minutes. And
+here's what those minutes look like. You
+see, I had Claude Code pull every single
+reply from the client's positive reply
+channel using the Slack MCP. I had it
+cross-reference it with Outfound to be
+sure we didn't miss anything, right?
+Like let's double-check ourselves. Did
+we totally up? Like what's going
+on? And the data showed 46 positive
+replies, not five. But I didn't trust
+that number yet, either. There was a bug
+in Outfound where all of a sudden
+auto-responders were flagging positives
+for things like out-of-offices. And so,
+I was like, "Okay, so we got to parse
+through this data a little bit." So, I
+had Claude Code then read every single
+one of those positive replies and
+classify whether it was actually a
+positive or not. And so, the true count
+came down to 26, which is still way more
+than five. And then, we went even
+further than any human audit would have
+been able to go. I asked Claude Code to
+pull up the ideal customer profile from
+the client when they gave it to us our
+onboarding form. And then, Claude
+visited every single website, all 26
+leads, and checked if each lead actually
+fit into the client's target market. And
+then, it handed me back this spreadsheet
+here. And it had every reply and then
+every positive reply on here. It had,
+"Is this person a fit for the ideal
+customer profile?" and a confidence
+score because some of the websites
+didn't even load, for example, and notes
+on anything that it didn't even fit. I
+was able to shoot this over to the
+client and be like, "Hey, man, is is
+something going on? Did we miss
+something? Like this is a very, very
+different picture and this is above the
+expectations that we set when we started
+working together, right?" And the
+important part here is that this would
+have taken someone on my team like two
+full days of manual work. We would have
+had to question if it was even accurate,
+and I did it in literally like five, 10
+minutes. And the output was more
+thorough than what a human would have
+ever given me. And so, that client audit
+was just a one-off problem, but the
+bigger use cases come up every day where
+we're just answering questions no one
+else even is asking. You see, I can sit
+down with Claude Code and have a real
+conversation with years of campaign data
+across every client we've ever worked
+with. You don't have to set up like a BI
+tool or know how to use SQL queries or
+even hire a data analyst. For this
+workflow, you can literally just use
+Claude Code with an Outbound MCP, and it
+does great. The most recent example that
+just totally blew my mind was figuring
+out how fast our clients actually reply
+to our positive leads. So, our biggest
+problem right now with churn is the
+number one reason clients will churn is
+we will get them a ton of positive
+replies, and they're like, "We didn't
+convert any of it to paying customers."
+And I'll be like, "Dude, Joe, you got
+like 300 positives in like 3 months. How
+the hell is that possible?" It's just
+like, "Well, we didn't call the leads.
+We didn't do whatever." So, I was like,
+"Okay, I wonder what that data point
+actually is so I could see how serious
+and like how spread out on our clients
+it was cuz I thought it was a very big
+issue. I was like, "Okay, how long does
+it take our clients to actually reply to
+a lead when they get a positive reply?"
+And nobody tracks that number. You can't
+pull that number from any of your
+sequencers. They don't track that.
+That's not a data point in the UI. I
+opened up Claude Code, connected it to
+the Outbound MCP, and started asking the
+question. It definitely took a little
+bit of work. Like the first pass, it
+measured the wrong thing. The second
+pass, it got closer. And then on the
+third pass, it filtered out automated
+replies, so I was only looking at actual
+manual human follow-ups from our
+clients. And what we ended up finding
+out is that on average, our clients are
+taking 4 days, 4 days to manually reply
+to a lead who said yes. And that one
+data point is now reshaping our entire
+business. Because now we know clients
+are leaving these hot leads just sitting
+there for 4 days. Now we're building an
+open claw-like auto reply framework for
+all of our clients to reply to leads
+within 1 minute. And it'll also
+multi-channel. It'll phone call to
+leads. It'll send a text message to the
+leads. And it'll also trigger like
+outbound DMs to the leads. And so,
+version one right now that we're it's in
+beta with all our current clients right
+now is that it positively replies to
+every single client within 1 minute of
+that. Version two is we're going to
+layer on the phone calls and the text
+messages. And then version three is
+going to do all four of those channels
+for the next 7 days until they convert
+into a success event. And because we
+already know the exact delay from the
+data, we know we can offer it for like a
+2K add-on to all of our clients and they
+will get way better results for
+themselves. And that entire product idea
+came from my own Claude Code
+conversation with our own data that you
+can't get literally anywhere else. All
+right, so the last use case we'll cover
+is copywriting. You see, I built a cold
+email copy skill for Claude Code, Code
+X, whatever you use that pulls actual
+performance data from Outbound without
+writing a single word. And so, instead
+of guessing which angle to test, it
+looks at what's actually booking
+meetings for that client and writes a
+full campaign around that. A great
+example of this is one of our clients
+Everstage. You see, I ran this skill for
+them. It analyzed over 708,000 emails
+across 16 different campaigns, 30 plus
+variants, and it found that pain point
+openings were responsible for 100% of
+all of their booked meetings. Then after
+we did that, I had it write up five
+variants of email number ones and then
+three follow-up emails using the exact
+same frameworks that it learned from
+there. It got it to like 90% of the way
+there. I'm still not at the point where
+it's like, "Cool, I just copy and paste
+copy that's output from from any AI." It
+gives it to us and then we review it
+from human. We take it from 90% to 100%.
+But what's great is when I have a
+data-backed first draft that already
+reflects what's actually worked. Claude
+Code gets me 90% of the way there in
+just 2 minutes. And then also, we're
+working on a system that'll
+automatically do that on a 2-hour
+cadence and automatically dispatch new
+campaigns and new copy for clients in
+real time and I just can't wait to be
+able to roll that out. And so, that's a
+quick update on everything we're doing
+with all these tools. Hopefully it spurs
+your creativity or serves you well. I
+try to just talk about this stuff in a,
+you know, honest and transparent way.
+Here's what's working for us and so
+hopefully hopefully it works for you.
+Now, if you want us to handle your cold
+email for your business the way that we
+do it for clients like RBD B, Fixer AI,
+and Directive Consulting, leveraging all
+these crazy systems that I showed you,
+then click the first link in the
+description to book an intro call. Just
+last year we generated over 10 million
+dollars in trackable revenue for our
+clients from our cold email campaigns
+and we're planning to get a lot higher
+number this year. And so click the first
+link below, book your call. And if you
+want to see exactly how we built a cold
+email machine that sent 8.8 million
+emails per month for Fixer AI, then
+watch this next video.

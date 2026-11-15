@@ -1,0 +1,935 @@
+Welcome to the channel "
+Finance Analysis with
+Nick".  We have already
+broken down the icebergs of
+finance, economics,
+and
+wealth management.  And now we
+move on to the
+next iceberg
+—the world of options and
+volatility.  Why do
+we do this?  First of all,
+I think most
+people don't know that much about it
+.
+I have quite deep
+expertise in this topic
+.  I worked for three years as
+a researcher at one
+of the largest hedge
+funds involved in
+market making in the
+options market, and
+now, as a partner at a
+wealth management firm, I
+work extensively with options
+for my clients.
+So I decided
+to share my
+knowledge and walk through the
+iceberg of the
+derivatives market
+First, a
+disclaimer.    There is
+no
+investment advice here.
+Please do your
+own research
+or consult a
+financial
+advisor.  I
+will not answer
+specific
+trading questions in these
+videos.  Therefore, if
+you have such questions,
+instead of comments, I
+recommend
+contacting me
+directly—by
+email or through the
+consultation form.
+Now, without further
+ado, let's start with the
+first level.  Level
+one: derivatives.
+A derivative is simply a
+security or
+instrument
+whose value depends on an
+underlying asset.
+The option moves
+depending on the underlying
+stock.  Futures
+move depending
+on the price of the underlying
+commodity, index, or
+currency it
+represents.  And
+credit derivatives
+depend on the
+underlying credit
+portfolio under which
+they are issued.  That's what a
+derivative is in the
+simplest
+sense.  This is similar
+to a derivative in
+mathematical
+analysis.  The derivative is the
+slope of a line.  In
+finance, a derivative
+is an instrument that
+changes as a
+derivative of an underlying
+asset.  And at the first
+level, I'll talk about the
+two main types of
+derivatives.  First
+, these are futures
+contracts—
+derivatives that
+can be purchased on
+margin;  they are usually
+based on commodities,
+but can be
+linked to indices
+or currencies.  They
+are revalued daily
+and involve the
+delivery of a specific
+asset—whether a commodity
+or currency.  If it is
+an index, then a cash equivalent is
+usually
+paid out upon expiration
+You can buy a
+futures contract, for example, with
+delivery in March,
+April, June or
+December, and at
+expiration
+you will be obligated
+to accept the underlying
+asset.  There are often
+limits on price
+movements—up or
+down depending on
+activity, and if you
+don't close the position
+by the end of the term, you
+will have to take
+delivery of the goods.
+Historically, it
+was used
+primarily by farmers
+for hedging, which is
+why the
+futures market originated in
+Chicago, as it
+was the westernmost
+point from which farmers
+could ship
+their goods to the
+Atlantic Ocean
+via the canal system
+connecting the Great
+Lakes to New York
+or the
+St. Lawrence Seaway, and
+via the
+canal system to the
+Mississippi River to reach
+New Orleans.
+So, that's where
+futures come from.
+The options
+are slightly different.
+Instead of a fixed
+commodity, options have a
+fixed
+choice, whereas in
+futures you are
+obligated to take
+delivery of the commodity.
+An option gives you the right
+to choose to accept
+delivery of a good at a
+fixed price
+for a specific
+period of time.
+Let's say I want to
+buy a
+stock option, for example, a
+call option—“put” and
+“call” are terms
+for buying: “put”
+is the right to sell something
+at a fixed price in
+the future, and “call”
+is the opposite.
+It is the right to buy something
+the future.  So if
+you want to take a "
+bullish" position, you
+buy call options.
+And if you want a "
+bearish" position, you
+buy put options.
+Let's say the stock price
+is $100
+and you buy a
+call option.  If the stock
+rises to $150
+by the time
+your option expires
+in 3 months, your
+option will be worth
+$50.  If the stock
+is trading at
+$99, your option
+is worth zero.  If
+the option is trading at
+$4, it is worth
+four, but you
+will suffer a loss of
+$1, since in
+our example you
+paid $5
+for the option.  I will
+go into more detail about
+why options
+are priced the way they are
+later in this
+review.  But in fact,
+this is an option.  It's like
+buying an insurance
+policy on an
+asset you need, which is why
+options are often, as I
+mentioned,
+used for
+hedging.  You can
+both sell and
+buy options.
+If you sell
+an option, you must
+be willing to deliver
+the asset at the price
+paid by the
+option buyer.  This
+is called "
+writing" (
+selling) an option.  It's
+like taking out an
+insurance policy.
+Instead of being an insurance
+underwriter, you
+become the underwriter of the
+underlying asset that the
+option buyer is betting on.  And
+options don't
+necessarily
+only apply to
+stocks.  You can have
+currency options,
+embedded
+bond options,
+and also futures
+options.  Options are
+much more flexible
+than they seem to the
+general public.    The
+second level is the VIX,
+and now I'm just
+going to talk about
+volatility
+in general.
+Volatility is
+like the root mean
+square
+deviation of the
+market movement at a certain point in time
+or, if it is
+realized, what has
+already happened.  If
+it is meant
+as expected, which I
+will explain later, it is what the
+market expects.
+But volatility
+is simply the movement of the
+underlying asset
+up or down.
+Volatility is often
+used as an
+indicator of risk, although
+I don't think it's a
+perfect relationship.  I
+don't think risk and
+volatility are the same thing
+.  And the VIX
+is a measure of
+the volatility of the
+S&P 500 index. The
+historical level of the VIX
+is around 15,
+which implies a little
+less than 1% movement per
+day as an expected
+change in the S&P.  The way it is
+calculated is
+that you divide
+the expected movement by the
+number of trading
+days, and this gives
+a calculation of what is
+expected from the movement on a
+given day.  So, the
+lower the VIX, the less the
+market should move.
+The higher the VIX, the
+more fear in the
+market and the stronger
+people expect the
+market to move.  And usually
+correlates with fear.
+Therefore, in "bear"
+markets, there is usually a
+higher level of
+expected and
+realized
+volatility,
+while in calmer and "
+bull" markets,
+volatility is
+historically lower, unless
+there is a speculative
+mania of retail
+investors that
+shifts everything in the other
+direction.  But yes, when the VIX is
+at certain levels, it is
+more attractive to be an
+options buyer.
+When it is at other
+levels, it is more attractive
+to be an
+options seller.  And when it's
+in the middle, it might be
+better to just
+trade the underlying
+asset.  There are traders
+who trade
+VIX exclusively for
+arbitrage.  And this is despite the
+fact that VIX is not a security
+.  The way
+people can "
+invest" in VIX (
+although invest is not
+quite the right
+word) or trade
+it is through futures
+contracts.  And
+given
+how much
+tends to
+revert to
+the mean,
+VIX contracts for
+later dates often don't
+closely match the
+current month.  And the
+current month is
+so
+short-term that
+if you try to
+make a
+long-term bet
+on volatility at the
+current VIX level, it's
+pretty hard
+to do.  Here is a
+summary of what the
+VIX really is.  It is
+simply a
+volatility index for the S&P
+500. There are different types of
+VIX for other
+securities, such as
+MOVE, which is essentially the VIX
+for bonds.  There is
+also QIX, which is a kind of
+VIX for the NASDAQ.  They
+have VIX for many
+other sectors or
+country indices.  So
+you can get
+an idea of ​​what the
+volatility is for
+these asset markets.
+Even on most
+brokerage platforms
+specializing
+in options, such as
+Thinkorswim, you can
+find out the
+volatility of
+individual stocks.  Even
+if there is no
+official name for it, like the
+VIX.  Next up are
+credit default
+swaps.  A credit
+default swap is a
+credit derivative
+that can be purchased to
+hedge the risk of a
+borrower defaulting on their
+payment
+obligations.  The price of a
+credit
+default swap
+is actually based
+on the market
+probability of
+the lender defaulting.
+The definition of default
+is that
+they miss a
+coupon payment, whether
+it's principal or
+interest.  If they
+miss a payment,
+ISDA—the body that regulates
+derivatives, particularly
+like CDS—decides whether
+it constitutes an official
+default.  There
+was some
+controversy around this during the
+Greek debt
+crisis, but I
+don't have time to go
+into detail.  The bottom line is that
+you buy this to
+hedge against a
+default
+, when
+creditors can't
+pay on
+publicly traded
+bonds.
+AIG
+got into serious
+trouble in 2008 due to
+selling a large
+number of these
+instruments at
+low prices, and
+then the 2008 crisis happened
+, many CDSs
+triggered, and AIG
+ran out of money
+due to serial
+correlation of defaults,
+which led to
+serious
+counterparty risk, which
+will be discussed further in
+this iceberg.  However
+, this is more of an
+isolated incident
+;  if one company was
+simply poorly
+managed and
+defaulted, you would
+likely get
+reimbursed under
+default swaps.
+But even the smallest
+change in odds,
+for example, from a 1%
+bankruptcy to 10%,
+causes significant
+jumps in the price of a
+default swap.
+So, speculators
+can make
+money by betting
+on CDS.  They are not very
+accessible to
+retail
+investors.  You usually
+need to be a fairly
+large
+institutional
+investor or hedge
+fund to have a
+real opportunity
+to buy CDS.  So they won't be available in your Robinhood account, but it's a way to actually buy a "put" on a bond or just bet on the failure of credit products.
+And structured products are another type of derivative where you essentially bundle a bunch of loans or bonds into one security, which is divided into tranches sorted by probability of repayment, from highest to lowest.  You can
+buy different
+tranches depending
+on what level of
+risk you are willing to take
+.  And the higher levels, as the
+safest assets
+, almost always
+pay income.  And as
+you move to
+lower levels, the level of
+defaults increases, and
+therefore the risk.  The main
+problem was
+that these
+products
+were generally given an
+AAA rating, meaning maximum
+safety.
+While the lower levels were certainly not as safe, as they were pooled with the same assets as the higher ones, this created a breeding ground for information distortion.  But
+structured products
+are a way
+of investing in certain
+types of loans that
+are not safe to
+lend on an
+individual
+level, but become
+safer when
+pooled.  Such as
+mortgage-backed
+securities (MBS) or
+credit card-backed securities.
+You definitely wouldn't
+want to buy the
+credit debt of
+one individual
+cardholder.
+This is a very high risk
+.  That's why
+credit card interest rates are
+so high.  But if
+you buy a pool of
+thousands, or even
+tens of thousands of
+users, the
+default rate becomes much
+more predictable, because
+it is known that a certain
+number of
+borrowers
+will not be able to repay the debt.
+In addition, such
+products are usually
+over-
+collateralized.  This means
+that there is significantly more
+cash and other
+types of collateral to
+offset the
+riskiness of
+credit card borrowers.
+That's why the interest
+rate on a
+credit card-backed security
+is not as high as for the
+cardholder themselves
+, because they
+put up more
+collateral—either
+extra cash or
+other loans that
+the lender has to obtain.  This
+applies to both
+securities and
+collateralized
+loan
+obligations (CLOs), such
+as corporate
+bonds or other
+assets that can be
+included in these
+structured products.
+So, these are, in essence,
+structural products.
+These are ways of pooling
+credit risk
+to obtain a
+more stable and
+safer
+return profile for
+historically
+riskier
+assets.
+Counterparty risk is the idea
+that if you are a
+derivatives trader, you
+should worry
+about
+the solvency of the
+other party to the transaction,
+since most
+derivatives, whether
+futures or options,
+are a zero-
+sum game.  For every
+buyer, there is a
+seller.  For every
+long position,
+there is a short one.  And that's why
+brokers
+usually don't
+go bankrupt,
+since they
+only act as a
+clearing
+house.  But there
+is not always another side.  And
+the risk is that
+the counterparty does
+not have enough capital
+to pay
+the winnings to the winner of the
+transaction.  Then how will you
+get your money
+when you win?  This
+was a problem with CDS
+contracts.  Many of
+these banks and
+insurance companies
+sold these CDS without
+having the cash to
+pay them.  So, there is
+counterparty risk,
+where you might
+not get what you want,
+which is why many
+investors usually
+don't bet on the end of
+the world or the "zero
+hedge" scenario, because even if
+you win...
+Let's say the stock
+market fell by 90% and we're
+back in the
+Stone Age.  Which
+counterparty will be able to
+pay you money
+on your put options
+?  Nobody, because if
+things are that
+bad and the banking
+system collapses, there will
+be no counterparty
+capable of meeting
+its obligations.  And that's exactly what
+you should
+pay attention to.  Most
+exchange-traded
+instruments are quite
+safe because there are
+margin requirements
+and other mechanisms for
+forced
+liquidation before a
+counterparty defaults.  But for
+OTC
+instruments and
+derivatives, this is a
+real risk, and you
+need to know who
+your counterparty is and whether
+you trust them.  It
+was a problem with "
+weight" because people didn't
+know who
+could actually pay
+for their
+obligations.  And this
+effectively froze the
+market.  Zero-
+sum game—the latest
+term.  Options are a
+zero-sum game.
+As I mentioned earlier,
+every buyer
+is answered by a seller
+.  For every
+winner
+, there is a loser.  So
+while people who
+try to
+sell options,
+covered calls
+or
+cash-backed puts as a
+strategy say
+they win most of the
+time.  Yes,
+statistically they
+win about
+70–72% of the time,
+depending on the source.
+But in the event of a mistake,
+the amount of their losses is
+three times greater than the
+risk they
+often take.  So the
+result is a
+zero balance.
+Most often, sellers
+do win, but
+when
+buyers win, they
+take away the amount that
+balances these deals.
+So if you really
+want to play the
+derivatives market, you
+need an edge
+to get real
+alpha.  Otherwise, you will
+most likely
+not earn anything, because not everyone
+can win
+.  These are not stocks that
+have a more
+positive expected
+value.
+Assuming that not
+every long position
+in the stock market
+has a corresponding
+short position, this is certainly the case for
+options and futures
+Now we're at
+level three, and the next thing
+we're going to talk about is
+Nicholas Nassim Taleb.
+Taleb is known for his
+series of books, such as The
+Black Swan and
+Antifragility, where
+he discusses
+the nature of risk in
+society, black
+swans, and other things
+that should
+or shouldn't be obvious.  And
+while that's what he's
+probably best
+known for as an
+intellectual,
+he built his career
+as an options trader.
+He wrote a book
+called Dynamic
+Hedging, which is a kind of
+bible
+on how to trade from a
+volatility perspective.  This is
+probably one of the
+most difficult books
+I have ever
+read, in terms of
+general understanding
+.  And I had to
+reread it
+several times to even begin to
+understand these
+concepts.  So I won't
+explain the meaning of "
+Dynamic
+Hedging" other than the
+fact that you
+can dynamically
+hedge options
+as the
+option price changes
+to capture a
+profit from a change in
+implied
+volatility.  You
+can buy or
+sell the underlying
+asset for delta
+hedging to
+get rid of the
+directional
+bias when
+the stock moves one way
+or the other to
+really capture the change in
+vega or
+volatility.  But I wo
+n't go into it any
+further than I said.
+What is Nicholas' role in
+finance?  He is also
+at least a
+strategic
+advisor to the
+most famous
+tail
+hedge fund, which is
+our next
+concept—Univers,
+founded by Mark
+Spitznagel.  And
+tail hedging
+is the idea of ​​buying
+options deeply “
+out of the money”,
+usually on the downside,
+because people don’t really
+care about the right “tail
+” when things are going
+well;  because when things
+go much better than
+expected, your
+regular investments
+will still be
+fine.  Most
+concerns about
+hedging
+concern the
+left tail.  So
+when things are going
+badly, like
+during COVID, Univers
+made tens of
+thousands of percent in a
+month because their
+very
+low strike options
+worked, but that
+only works once every 10-15
+years, if at all
+that often.  So, the
+hedging strategy is the
+opposite of the
+volatility selling strategies that I
+like to criticize, where
+you lose money
+most years or
+break even at best.  But in
+that one year when everything
+really goes
+awry, you
+make a very
+large profit from
+these instruments.  And
+because
+tail hedging is quite
+popular and many people are
+concerned about it, deeply
+out-of-the-money
+put options often
+have higher
+volatility than they would
+otherwise have
+.  This is why
+most options markets
+exhibit
+some degree of
+downward bias,
+unless market
+sentiment is overly
+bullish.  And
+usually when this
+happens,
+opportunities to
+buy skew arise.
+But this is a bit about "
+tail hunting".
+Sheldon Natenberg—
+next term.  He
+wrote another
+kind of “Bible” of
+options, but his
+work is more of a
+guide to how
+options work,
+all types of spreads,
+strategies, and
+opportunities.  This is,
+in fact, a real
+book for
+beginners.  So if
+you really want to
+learn about
+options, I recommend
+reading Natenberg
+—his book is handed out to
+almost everyone at the
+trading desks,
+including me.
+Market makers.
+There are two types of participants in the markets
+.  These are
+market takers (market takers
+) and market makers.
+Market takers are
+people who attempt
+to place a directional
+bet or take a
+position.  While a
+market maker is
+a person or firm that
+provides liquidity
+so that you can
+make that bet.
+So think of yourself
+as a market taker—the
+player—and the market
+maker—the “bet”
+in this deal, like a casino
+.  Market making in
+options usually
+works very well,
+as many
+market takers
+use
+options for
+directional trading or
+hedging.  They are not
+solely related to the
+value of their
+volatility.  Whereas a
+market maker
+tries to gain an
+advantage through
+trading,
+remaining
+neutral to the
+direction of the movement and
+betting on
+expected
+volatility.  Therefore,
+they hedge the delta of the
+position with the required
+number of shares, and
+then simply
+hope that the
+is not higher (if they
+sell) or lower (
+if they buy)
+than the market expects at
+that moment.  And they do
+n't do it at
+market price.  They
+do it a little above
+or below it.  This
+is called an "
+edge."  And that's the
+price you pay
+them for
+providing you with
+liquidity.  Because without
+this,
+liquidity providers would have
+no incentive
+to provide it.

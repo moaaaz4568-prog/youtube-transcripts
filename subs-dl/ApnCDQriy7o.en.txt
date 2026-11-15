@@ -1,0 +1,953 @@
+Cloud code has completely changed the
+whole AI automation space forever.
+[music] And I don't mean to exaggerate
+or create any unnecessary hype, but it
+has literally shown us what the future
+of the automation space will be. You
+see, from the 1950 to 2011, we were
+using code with literally no AI
+involved. Then in 2011, the first no
+code tools came out like Zapier, which
+allowed us to manually drag and drop
+automations without writing a single
+line of code. [music] And now in 2025 to
+2026, we're seeing a shift to agentic
+workflows using platforms like cloud
+code, which allows us to be able to
+write a prompt in simple English. And a
+full workflow is plan, built, tested,
+and debugged with very minimal human
+input. And so in this video, I'm going
+to show you exactly how you can master
+clock code better than 99% of people
+using it. And in case you don't know who
+I am, my name is Mik and I've scaled my
+own AI agency to six figures in 14
+months. I worked with over 50 businesses
+to implement AI and automations and
+taught over 20,000 people in the
+process. All starting with zero
+technical knowledge. With that being
+said, let's dive in. Cloud code is here.
+So, here's the things you have to know
+about it before we start actually
+building and showing you the frameworks
+of how to actually build it. All right.
+So, in terms of cloud code, we have
+pricing. And if you're in a free plan,
+this is not available. So, you need to
+have a either a pro plan or a max plan
+or a max double plan to be able to make
+this happen. So, if it's free, it's not
+available. If you have the pro plan,
+then the limit is 45 messages for five
+hours. What I found is that yes, the pro
+is good. You know, if you just want to
+test it around, but if you want to have
+something more complex or actually build
+something concrete, then the max plan is
+going to be better. Now, the max plan is
+five times the usage of the actual pro
+plan, which is the one that I'm using
+and is the one that's giving me enough,
+I guess, leeway to be able to actually
+build things from start until the end.
+It is very easy to run out of credits.
+So if I were you, I would get the max
+plan or else the pro plan is completely
+fine as well if you're doing something
+smaller. All right. So in terms of
+hosting, we have four different ways
+that you can use cloud code. Uh the
+first way is using something that we
+call VS code which is a software where
+you're able to actually host cloud code
+use cloud code in and it's great because
+it's completely free. All right. And the
+dashboard the way it looks is very very
+easy. I believe that when you're using
+something like cloud code where code is
+involved even though obviously you don't
+write any code there's still some
+element to using the platform itself
+that has to be intuitive that has to be
+simple to use hence why I like VS code
+because I'm not a coder myself so this
+was very very easy to get started with
+then we have cursor so cursor is great
+uh if you want to use the AI in cursor
+VS codes AI like native AI isn't the
+best compared to cursor but honestly I
+don't find myself using the AI of vs
+code or cursor anyways I just typically
+use clo for everything one more downside
+of cursor that I found as well is that
+cursor has a free plan but it runs up
+pretty fast and so at one point you're
+going to have to pay for cursor but
+you're also going to have to pay for
+cloud code so two expenses so not the
+best especially because cloud code gets
+a bit expensive over time then we have
+the terminal the terminal is basically
+downloading or hosting cloud code in
+your own computer like action natively
+um I don't like this it doesn't look
+good the learning curve is very very
+steep no one actually uses it I just put
+it there because it is an actual way of
+hosting it it's very inconvenient and
+very very hard to understand when you're
+beginning your experience with cloud
+code. And lastly, we have claude. Now,
+claude is the easiest to use. It's just
+a chat. [music] The only problem is that
+you can't actually run code or edit your
+files directly, which is why we use the
+other ways, right? But it is a good way
+for you to get in claude and just start,
+you know, using cloud code in general
+like I guess going through problems,
+architecting, making some sort of plans,
+but you can actually do much with it
+with the actual plans or or the prompts
+that he uses. So, again, to host it,
+we're going to be using VS Code. Best
+one so far and the one that I use the
+most. You want to go to
+code.vvisisualisualstudio.com
+and you want to go to the appropriate
+sort of computer that you have. You can
+put Mac. Once you have Visual Studio
+Code downloaded into your own computer,
+you want to open it up and it will look
+something like this. On the left hand
+side, you have the different things that
+will be using to store files like
+Explorer. You have search, which I don't
+use that much so don't worry about it.
+We have source control. I don't use it
+either. Run and debug in case you want
+to get some sort of file and debug it
+and actually like fix it. I don't use it
+too much either. And then we have
+extensions, which is where we're going
+to be installing cloud code. So you want
+to be searching up cloud code in the
+search bar. Cloud code here. And you
+should be able to see cloud code show
+up. And you want to press install. Now I
+already have it installed. So I can
+already see it. Once you have it
+installed on the top right, you should
+be able to see this little orange uh
+symbol of cloud. And you want to press
+on it. This will show up the dashboard
+where you can actually talk to Cloud.
+I'm going to press X. I'm going to go
+back to the explorer here. [music] So
+now this is where everything can start.
+This is where we actually start
+building. So every single time that you
+are building with cloud code, you're
+building under a project. So each
+project has a folder in your own
+computer. And so the first step is
+making a folder, opening a folder. So
+press new folder and you can name this
+YouTube example system or name it
+whatever you want. And you can press
+open. So now you can press yes to trust
+the authors. And what we're doing here
+is you can see the name of the explorer
+thing changed to YouTube example system.
+So anything that cloud code is going to
+build from now on, it's going to be
+storing all the files, all the code
+inside there. The good thing is that you
+don't really have to know what's going
+on most of the times, right? The code is
+just going to be stored there. But
+understand that if you quit the actual
+platform, obviously you have to save. Uh
+you can always come back to it, right?
+And everything will be stored there. You
+can think of this as like let's say
+you're playing FIFA and you have an
+account on FIFA with all the the players
+and the matches and all the the wins
+that you have. When you log out of of
+the PlayStation and you log back in,
+right, with your account, everything's
+going to be there. Same exact thing. The
+account in this case is just the folder.
+The folder contains everything from that
+specific project. Let's press this again
+and you go here. And by the way, if you
+press X, you can just go back to the
+extension cloud code and then press here
+again. And you're back. There you go.
+Cuz that happened to me quite a lot of
+times and I had no clue what to do. Now,
+in the middle here, we have the chat
+interface where we can speak to Cloud
+Code. We have the chat feature. Right
+here you have the type of command or the
+type of way that you want cla to act and
+the different settings are ask before
+edits, edit automatically, [music]
+plan mode, bypass permissions and so on.
+So for example, ask before edits, it
+will ask you questions before it edits
+anything. Then we have edit
+automatically in case we just want cloud
+code to just do its own thing and edit
+things automatically within folders
+within code. Then we have plan mode. So
+when you're doing something a bit more
+complex and you're giving it a huge
+prompt or a huge task, you want cloud
+code to start planning things
+accordingly to make a plan to make a
+to-do list or some sort of
+implementation plan, which is where you
+would put plan mode. And finally, bypass
+permissions, which means that whatever
+it does, it bypasses all the permissions
+and it just does it. Now, for you to be
+able to use this, you want to go to
+settings. You go to settings here, and
+you want to search for claude here, and
+then you want to turn this on. Allow
+dangerously skip permissions. Now you
+have the option whether you want to turn
+it on or not, but just to have that
+option is already good enough because
+sometimes you want to, I don't know, go
+eat something because sometimes it takes
+a bit longer. So you want it to be
+autonomous and not have to ask you for
+everything at every single stage. All
+right, so now we get to the actual
+build. So building an agent workflow
+right in front of you going from the
+structure, ideation, planning, build,
+testing, and deployment. These are the
+six different stages that we use every
+single time when building an agent
+workflow using [music] cloud code.
+So the first step is structuring. All
+right. So, the first thing we have to do
+is make a file here and call it claude.m
+MD. You've probably seen this around a
+lot if you've been watching Claude Code
+videos, but a claude MD is going to be a
+file that we save, which is going to
+allow us to be able to give Claude
+instructions as to how we want it to
+actually structure the system when it
+builds it. Okay? So, sort of like an
+architect building a house. You can
+either give the architect, hey, build me
+a house and let it think through how
+it's going to do it or you can give them
+instructions as to, you know, the first
+thing you have to do is direct make
+SOPs, make tasks, make a to-do list. The
+second step is orchestrate, uh, which
+is, you know, figuring out what tools
+you need. Then the third step is
+building, right? And so if you give a
+direct instructions, then the output
+that we get will be better. And so in
+this case, Claude MD has this prompt
+right here. Now, bear in mind, all the
+prompts and resources of this video, I'm
+going to leave in the second link down
+below. So check it out if you want to
+follow along. So we give it the agent
+instructions which is for example you
+operate within a three-layer
+architecture that separates
+responsibilities to maximize
+reliability. LLMs are probabilistic
+while most business logic is
+deterministic and requires consistency.
+The system solves that problem. So if
+you didn't understand exactly what that
+meant me neither at the start. So we
+basically say hey we have a framework
+that you have to use because LLMs mess
+up right and this framework is going to
+make it not suck it not mess up. And now
+you get to the three layer architecture.
+So this is the way that we tell cloud
+code to be able to build. So the first
+layer is directive. What to do?
+Essentially SOPs written in a markdown
+living in the directives. So when we see
+something that looks like this, it means
+that whenever it's actually making the
+SOPs or whenever it's making a to-do
+list, it will create a file here or
+folder called directives. We say that
+they define objectives, input, tool
+scripts to use, outputs, and edge cases,
+natural language instructions like you
+give to a mid-level employee. So that is
+the first thing that it has to do when
+it's making the system is direct the
+whole thing. Basically making SOPs and
+making sure everything's aligned. Then
+we have layer two which is basically
+telling the cloud code how to make
+decisions. So the way to structure
+decisions uh basically saying hey if you
+need something go to the directives and
+find it there and make sure you call the
+right tool in the right order. Then we
+have layer three which is execution
+which is actually doing the work. So all
+the scripts all the code goes in a
+folder called execution. All the APIs
+tokens all the environmental variables
+will be stored in a folder or in a in a
+place called env. The reason we do that
+is because when we are putting it out
+there, when we're actually hosting or
+deploying it, uh we don't want our API
+keys to be exposed, which is why we're
+looking to put them all in the same
+place, right? To make sure that it
+doesn't go outside. And finally, we give
+it why it works. So if you do
+everything, errors compound, 90%
+accurate per step, 59% success over five
+steps. The solution is to push
+complexity into deterministic code so
+you can focus only on decision-m. So
+overall, this whole thing is basically
+giving it instructions because LLM,
+they're not the best at everything.
+>> [music]
+>> sometimes they mess up and so by giving
+them more strict prompts then they will
+follow them more closely and if they
+follow them more closely then the output
+will be more structured. So now that we
+have the structure we get to step two
+which is called ideate.
+So, I'm going to go to plan mode here
+and I'm going to paste this prompt. And
+what this prompt gives it is saying,
+"Hey, I want an automation and I
+basically want to take my channel,
+review it every 30 days, and also review
+my competitors, how they're doing. And
+finally, I want you to make a Google
+Slides presentation breaking everything
+down step by step, showing me all the
+KPIs and the results for my channel and
+their channels, but also give me five
+content ideas based on what's working
+well in the space." Now, this is insane.
+Actually, insane because when I did it
+the first time, I I was just mind-b
+blown. I was like, I have to show
+people. I have to make a video about
+this, right? because it's actually
+insane. So, you'll actually see it for
+yourself. And then I say, "Ask me for
+any API or MCP that you need to be able
+to build this." Of course, because when
+you're building with YouTube, when
+you're building with Google Slides, or
+maybe an AI that makes the actual
+scripts, the actual system needs to use
+APIs. Right? If you don't know what APIs
+are, it's just the way that a software
+speak to another software. But most
+importantly here, we're saying, can you
+explore three different ways to build
+this? Starting with the easiest one,
+don't start building yet. I just want to
+see the options. Okay? So, this is a
+step that we do early on because I want
+to see how Clark thinks about building
+this. What are the best ways to do this
+instead of just going directly into
+actually building it? All right. So,
+here are the three different options
+that we can use. We can either use
+option one which is any workflow because
+we're using a workflows. I don't want to
+be using any neither do I want to be
+using make.com. I want to be using the
+third option which is custom Python
+script, right? Because that means that
+it makes all the code and I don't have
+to host it on any 10. It does everything
+here and then I can host it in modal
+which is a software that we're going to
+be talking about later on. So, I'm going
+to be going with option three. I'm going
+to say option three is the best. Let's
+go with this one. So, now that we know
+what option to choose, we're going to be
+going to step three, which is called
+planning.
+And here I'm going to say, can you
+actually make a plan and call it spec.md
+and it's going to be the implementation
+plan and the the task as well. Make also
+a file called to-do.mdt. So, you have
+the implementation plan and you also
+have the tasks that you have to follow.
+Make that before you build anything. So,
+I get to see exactly the plan that we
+have in place. I want to press run. So I
+told it to make two different files, one
+for the implementation plan and one for
+the to checklist because the more
+structured this is, the better the
+actual output would be. You could easily
+just do one prompt and just make it do
+everything. Like you could easily do
+that, right? But the output wouldn't be
+as structured as the one that I'm doing
+now. And you can pretty much use this
+framework for any other app or softwares
+or automations that you're building with
+cloud code. As you can see here, it made
+the spec.md, which is YouTube channel
+performance automation implementation
+spec overview, architecture, data flow.
+So it goes through all the data flow
+here APIs required. So it needs the
+YouTube API, it needs a YouTube
+analytics API, it needs the Google
+slides API and it needs the LLM API
+clock or OpenAI implementation tasks. So
+phase one, phase two, phase three. Uh so
+all the things that it has to do to
+complete this step by step. So now that
+we have made the implementation plan and
+the tasks for the specific automation,
+we get to step four, which is building.
+Here I can press yes and auto accept.
+And now what it will do is it will use
+everything to start building the actual
+thing. As you can see, it's updating the
+to-dos. That's the good thing about
+cloud code. The fact that you get to see
+exactly everything that happens in the
+back end, right? All the different
+to-dos, all the different tasks just
+like you would for a software engineer.
+As you can see here, it made a folder
+directives.
+It made execution environments.
+So, made all these things that we
+mentioned in the actual column D prompt
+to make where we said, hey, make
+directives, make execution, make, enem.
+And so, it's making all of those. It's
+following the actual prompt because
+that's where it's going to store all the
+information. Now, thinking about this
+from a complete beginner standpoint,
+claw code is still a little bit
+intimidating for some people because
+they get to see all these different
+to-dos. And when I press this, it looks
+a bit techy, right? Cuz it's a markdown
+formatting. As you can see here now,
+it's 1 2 3 4 five tasks finished and
+it's going to the next ones. And if
+you're wondering where all these files
+are, when you go to execution, you see
+all this Python scripts. These are
+basically the automation. So, if you're
+thinking in any terms, they are the
+nodes, right, that make up the
+automation. The script a script is
+basically a node because if you don't
+know behind every node in nsn behind
+every module in make.com it's just JSON
+it's all code and so basically it's
+making that code here so we don't have
+to do it ourselves that's the beautiful
+thing about a genic workflows they're
+autonomous as in we just have to speak
+to it to be able for it to make the
+whole thing finished making all the
+different requirements it's now making
+the Python scripts which are the actual
+automations that it's going to use to be
+able to uh to make it by the way at this
+point I still haven't given it the
+credentials for the YouTube API for the
+Google Slides API for my LLMs that it's
+going to use which are all like the
+passwords to be using [music] my
+accounts, right? Cuz how is it going to
+go into YouTube? It has to go into
+YouTube using my credentials. Same thing
+with Google Slides with my Google all
+credentials. And same thing with uh AI
+using my credentials. All right, so
+first to the next three to-dos are done.
+The fourth one is finished. The fifth
+one is done. The sixth one is done. The
+seventh one is done. The eighth one is
+finished. And it finished the last to-do
+as well. All right. So now it's asking
+us for our input. So it finished
+breaking down everything that it needs
+to do the whole YouTube example system.
+So it sort of finished making the
+automation in something like nitn or
+make.com and now it's asking us hey can
+you put your credentials for each step.
+So if you're using Gmail put your uh
+password for Gmail. If you're using
+OpenAI put your password for OpenAI
+basically connected and it's asking me
+for my YouTube API it's asking me for
+the channel IDs because obviously I'm
+comparing my channel with the
+competitors. It's asking me for the LLM
+API key. So I can put everything in the
+EMV file right here where all the
+credentials go. So I already have
+everything at hand. I can just copy
+paste which is my YouTube API key,
+Google Cloud Console credentials. We
+have the cloud code API key and I can
+press run. So now I'm fitting it all the
+different passwords and login that it
+needs to use to be able to make the
+system. As you can see, it's updating my
+EMV file. Actually, one thing I forgot
+to do is give it the channels. So let's
+see if it's going to ask me for the
+channels. As you can see, now it's
+updating the API key here, the API key
+here as well. And now it should be
+asking me for the channels. There we go.
+Still need it from you. So we still need
+my YouTube channel ID and the four
+benchmark channel IDs. So, I'm going to
+paste the channels right here uh with my
+channel ID, but also the benchmark
+channels ID. So, I have Jack Roberts,
+Nick Sarrive, Nate Herk, and Liam Mley.
+In case you're watching this, you guys
+are awesome. I'm going to press run.
+Now, I should be able to configure
+everything um until the end. I can press
+yes. As you can see here, I actually did
+not give it channel IDs, but I gave it
+handles, right? So, now it says these
+are YouTube handles, but I need the
+actual channel ids, which starts with
+the UC. Let me fetch them using the
+YouTube API. That's a good thing about
+this is that even though I give it the
+wrong kind of input, it can figure it
+out and it can get the ids as you can
+see here. Press yes. [music] So for my
+ID, this Jack Roberts, Nick, Nate, and
+Liam has all the IDs here. And what it
+did now, it went to my browser. So I can
+just log in. I feel like this should be
+for the Google slides. I can choose my
+account. Press continue. Select all.
+Continue. Again, the O authentication
+worked, but the YouTube analytics API is
+not enabled in your Google Cloud
+project. You need to enable it. So now I
+can say just enabled
+them. I can press run and now it's going
+to try again. So yes, all of these look
+a bit techy, but when it's talking to us
+directly, it's actually quite easy to
+follow, right? As long as you uh you
+just read those parts in specific and it
+gives us links to go to resources. So we
+don't actually go and have to search
+them up ourselves. All right. So now
+it's asking me again to authorize my
+connection. Now this time I believe it's
+for Google Slides. And this is only a
+onetime thing, right? Cuz once you have
+this set up, you're pretty much good to
+go. Authentication flow is completed.
+All right. So after authorizing
+different things uh with our accounts,
+we're now able to copy this. I can paste
+it here. And this is the presentation
+that it made for the YouTube report. All
+right. So here are the slides. We have
+slide one. We have slide two. Uh key
+metrics. We have benchmark comparison.
+So it actually didn't get my channel
+views, subs or engagement, but I got
+Jack Roberts, Nicks arrive, Nate
+Hurricane, and Leoly. And they all look
+pretty pretty correct. Key insights
+analysis. So analysis on my channel. We
+have video ideas and two. We have two
+video ideas. There we go. So, as you can
+see, it didn't do the best job when it
+came to actually making the slides,
+which is why we go to step five, which
+is testing.
+So, now that we have this, we can start
+to see things that are wrong, like the
+titles here, the way that these are
+formatted. Of course, it didn't even get
+my my metrics. Uh, so we can tell it to
+obviously fix it. The key insights are
+all all over the place. So, I can say,
+hey, look, I looked at a slide and
+there's only a few problems with it. The
+first problem is that we actually have
+the click to add title boxes on the
+first slide and they're all unforatted.
+Second thing is that when you go to your
+channel summary, so my channel Mikuel,
+you didn't actually get any data. It's
+all zero. So try to try to use the
+YouTube API again to get the data. And
+then for benchmark comparisons, again, I
+can't see my data. For key insights and
+lises, the text is overlapping the other
+text. It looks so it looks very
+unformatted. And same thing with video
+ideas uh one and video idea 2. I'm going
+to press go. And in case you're
+wondering what software I'm using here,
+it's called Whisper Flow. It's a goated
+tool. Saves me a ton of time when
+it comes to writing things. And as you
+can see that the thing that I actually
+gave it isn't anything crazy. I didn't
+say anything fancy. It's exactly what a
+normal human would say to someone. Uh so
+let's see how it does. All right. All
+right. So now it actually pointed out
+the problem when it comes to the YouTube
+channel is that it actually is
+extracting analytics from a YouTube
+channel, but it's using my other
+account, not the account of this YouTube
+channel where you're watching the video
+right now. So I'm going to have to So it
+says you need to reauthenticate with
+Google account, which is just a click um
+just sign in, which is fine. And then
+slid formatting. The text positioning is
+broken. Let me rewrite the slide
+generator with proper formatting. All
+right. So it just finished making the
+presentation with the new fixes. If I go
+here, I can see that yes. So I deleted
+the actual click to add uh text. It also
+put the text on top of here. But if I go
+here, I can see that I have the key
+metrics. So the actual key metrics of my
+channel, top performing videos that I
+have. Then we have the benchmark
+comparisons. So it's comparing me uh to
+the others as well. Of course,
+incomparable. Um then we have my
+rankings. Then we have the key insights
+analysis. We have the summary, strength,
+areas to improve and opportunities. So,
+the channel shows strong content
+production volume, 17 videos versus 11
+benchmark average, and decent
+engagement, 3.92%, but significantly
+underperforms in views and subscriber
+count compared to similar AI automation
+channels. The channel has found success
+with anti-gravity. So, it gives me
+strengths, it gives me weaknesses, it
+gives me opportunities to improve. And
+then I have video idea 1 2 3 and I have
+four and five as well. Okay. And these
+are actually not bad ideas to be honest.
+So, master 90% of cloud code in 20
+minutes. I check the title of this
+video. It might be that um why
+anti-gravity destroys cloud code honest
+48. Maybe it actually doesn't finish the
+the title which is a problem. Start your
+AI automation agency in 2025. And then
+we have build a custom CRM in 15
+minutes. Antiggravity secrets. I tested
+every AI automation tool antigravity as
+well. And it gives us the potential here
+of each one and also why right so why
+antgravity destroys cloud code. Why nyx
+arrive's controversial take on cloudbot
+sucks actually is a top performer.
+That's actually pretty good. Now, the
+only problem with this is that I don't
+actually like the way that it looks. As
+in, it's very, very simple. There's not
+much thought process going into this.
+Like, the information is there, but I
+wish that the information could be laid
+out in a different way. So, now we
+basically giving Cloud Code the ability
+to get data using the APIs and it does
+that well, but formatting that data into
+something that looks nicer, it didn't
+actually do the best job. And so, what
+we do is we use cloud code templates or
+cloud code skills. And what that is is
+us going into a template that looks like
+this, right? template library where we
+have skills and we basically get like
+the upgrades. So let's say that you are
+making PDFs right what you would do is
+you would go to PDF processing pro and
+basically what this is is a skill that
+we give cloud code. So we say, "Hey, now
+that you have the PDF processing that
+you're doing, here's a skill that I can
+give you to upgrade your ability to make
+better PDF processing." And so there is
+one here called, I believe, canvas
+design, right? Which allows Claude Code
+to be able to use the skill to make
+prettier and better slides. All I have
+to do is just press on the actual card.
+I can copy command and I can simply just
+bring it here and I can clear the
+conversation because I'm getting to 85%
+which is not good. And I can just press
+run. Right. All right. So what it's
+doing is that it's going inside the
+actual skill. So a few details the skill
+which is consisted of this whole code.
+So plain text basically a full prompt
+which goes through exactly how to make
+them nicer, how to structure systems
+like on a in a very visual way. And
+instead of copying the prompt and
+pasting here, I'm simply pasting the
+command and everything else is pretty
+much done for me. And up here I should
+be able to see a new folder called
+claude which represents the skill being
+installed in the actual project. So that
+whenever we make presentations, it
+always refers to that skill uh to make
+prettier and better design presentations
+which is actually quite important when
+you are making systems like these. As
+you can see here, I just made claude and
+it has the skill.md to make the full
+prompt right which is the one. So you
+can see here name canvas design this one
+right here. So we didn't have to copy
+the code and paste it. We just give it
+the command and it says that the canvas
+design skill has been installed
+successfully. It includes skill.md and
+canvas fonts. Okay, cool. I can clear
+the conversation and now I can say can
+you now test it? So make a presentation
+uh with everything that I want you to
+analytics for my channel then my
+competitors idea all that stuff that I
+told you to do and then give me back the
+URL of the presentation so I can take a
+look. I'm going to press bypass
+permissions. So it just does everything
+by its own. So now it's going to read
+the spec.md but also the skill.md. So
+what it needs to do and how it needs to
+do it. All right. So now that it went
+through the whole plan it made a
+presentation link that we can now use.
+uh this one right here. I can copy this.
+I can paste it. I can paste it here. And
+I can see the performance that it made
+compared to something that looks like
+this. Right? That's what the skill does.
+It allows Claude to be able to make the
+presentation 10 times better. As you can
+see the channel overview, it looks a lot
+cleaner in each side. Competitive
+analysis, everything here. Engagement,
+rank, I don't know what ranks me first,
+but thank you. Then we have the key
+insights and we have three different
+content recommendation, high, medium. So
+cloud code got us up until this point
+and Claude skill gets us from here to
+here. It isn't necessarily about the
+information itself, but it's about the
+layout, right? And so and so you can go
+here to skills and there's a ton more
+skills that you can use based on the
+task that you're executing. And all you
+have to do is just copy the skill. So
+copy the command and just paste it in
+cloud code with no context. Just put it
+there and it will download the skill and
+then reference it when you're making the
+actual thing. All right. So now that we
+finished the testing process, we have
+the last step which is step six,
+deploying.
+So you might be asking yourself when we
+have the automation here, then what? How
+do we upload it into a server like N10
+where you publish the workflow? How do
+you publish the workflow here? So we're
+using a service called modal to be able
+to host our automations. Uh the good
+thing about modal is that we don't get
+charged by the month or by the day. We
+just get charged by the execution. So
+all we have to do is sign up. All right.
+So once you sign up, you get on the page
+that looks like this. We get $5 of free
+credits for every account that we make
+and you can get 30 if you add your card
+details to the account. And 30 is going
+to last you a pretty long time when it
+comes to automations. Five is going to
+be okay. And so to publish this on
+Modal, we can copy the code. We can go
+back to cloud code, press clear
+conversation, and I can say, hey, I want
+to be able to publish this in modal and
+I want to run this the last day of the
+month. Okay, I'm going to press here.
+I'm going to put the plan mode. Um, so I
+can see a plan throughout what it needs
+to do. And a good thing about this in
+the way that we structured it as well is
+that all our credentials are going to be
+in this file right here. EMV, right? And
+so none of the API keys, none of the
+passwords are exposed to our environment
+because it is something that's important
+as we're building a ton of code that
+none of us really understand. And so the
+security aspect is is sort of important,
+not sort of, it is very important uh
+when it comes to building it for
+yourself or even for clients as well. As
+it's installing the app on modal, it's
+asking us to authorize and create a
+token. So I can go here and press
+authorize. And the API token is created.
+All right. All right. So, we can see
+here the schedule runs at 9:00 a.m. UTC
+on the last day of every month. That's
+good. The dashboard here, this is the
+link that we use to actually go to modal
+uh to see the app. So, I can just press
+this link. And so, this right here is
+the actual app. If we go here to
+dashboard, I can see the app YouTube
+report pipeline. But if I press in it, I
+can see that I have the overview,
+deployment history, and app logs.
+Overview is where we have the different
+functions of the actual app that we need
+to use. Deployment history is the
+changes that we've done to the actual
+app over time. So, you can see V1 and
+also if you change it, you can see V2
+and so on. And app logs is basically
+when you are using the app, what are the
+logs? So what are the executions? You
+could say in N 10 we call it execution.
+Um so when you use it, you can see it
+here. And if I go down to the schedule
+report, which is the actual report that
+we're going to get, it says in 9 hours
+it's going to run the next time. But to
+show you that it does actually work, I
+can press run now and it should run the
+automation. So scheduled and immediate
+run. As you can see now, it's pending.
+So it's pending the the actual run,
+which means that it's running the same
+way that in N10 the the actual
+automation would be running here. So it
+actually does say success, but if I go
+inside here, it tells me today is not
+the last day of the month. Okay. So I
+actually instructed it to be able to run
+only in the last day of the month. That
+was like that was a strict like rule.
+Hence why today we can't do it. But in 9
+hours because obviously tomorrow is the
+last day of the month, it will be
+running. So next run, January 30th at 1
+p.m. to be able to then give us the
+actual report. I'm going to leave all
+the prompts and resources in a second
+link down below in my free school
+community. You can go to the classroom
+section and then you can go to the
+templates vault and you'll find
+everything here. The only caveat is that
+not everybody gets in. So please put
+some thoughts into your answers and I'll
+see you on the inside. So that right
+there is a full walkthrough of cloud
+code. You now understand exactly what it
+looks like, how to use it, but most
+importantly how to turn an idea into an
+actual deployment of an agentic
+workflow. Now the question that you
+might be asking yourself like most
+people in the industry is is any dead?
+The really fast answer to that is no,
+it's not dead. Right? Because I do still
+believe that to be able to use cloud
+code in the best way possible, you need
+to understand APIs. You need to
+understand how a software speaks to
+another [music] software. You need to
+understand how documentations work. You
+need to understand how automations work,
+the logic, because then your prompts
+will be more sophisticated. The way that
+you explain things will be much better
+compared to someone who's just fresh out
+of the space and gets in the in the
+cloud code world right away. But does
+that mean that you have to become an
+expert in N10? No. But at least
+understanding the fundamentals will help
+you a ton when it comes to building the
+systems. And on the business side,
+businesses don't care whether you're
+using clock code, whether you're using
+make.com, whether you're using Zapier
+any so they simply don't care. And so
+this right here is for us to be able to
+build these systems at 10 times the
+speed and make it a lot easier to
+actually deliver for clients. And now
+that you understand the technical side
+of things and you understand how to
+build these systems, then the question
+becomes, how do I sell them? Which is
+why this video right here will show you
+the exact road map that I took to go
+from zero to six figures in 14 months
+with my AI agency. With that being said,
+I hope you found value from this video
+and I'll see you in the next

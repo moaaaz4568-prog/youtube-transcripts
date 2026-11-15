@@ -1,0 +1,996 @@
+How do we design a proposal document
+that gives us permission to charge five
+figures for a brand identity project?
+Welcome back to the channel. My name is
+Jack Watson. I'm a brand designer based
+here in the UK. I've collaborated with
+some of the biggest brands in the world
+and I've built a following of over
+300,000 motivated brand designers like
+yourself. In today's video, I'm going to
+be sharing with you exactly how we build
+brand proposal documents inside of Figma
+for my agency Nonstop. I'm going to show
+you how to build it step by step and
+I'll even show you a real client example
+that I've recently sent out. Before we
+start, I'd like to mention if you want
+this template without having to spend
+the hours building it yourself from the
+ground up, then you can purchase that in
+the first link in the description or
+leave a comment because I'm going to be
+picking one person every single video to
+win my Figma brand identity kit, which
+is usually worth $499.
+I'd also like to thank Framer for
+sponsoring this video. Let's jump into
+it. Now, we want to have about 18 pages
+for our proposal. So, I'm just going to
+hold option and shift, drag this to the
+right and then if I click command and D,
+that's going to duplicate it over and
+over again until we have, let's say,
+eight at the top. And then if we drag it
+down, we can have eight underneath it as
+well. And then I'm just going to add an
+extra two there just to make it 18
+towards the end. All right, so step one
+is to create a layout guide. Now, if we
+highlight everything and go down to
+layout guide and click plus, we can see
+that we now have a grid. We don't want a
+grid, we want rows and columns. So, if
+we go to columns first, we can add eight
+columns with a 30 margin and a 24
+gutter. And then if we click plus again,
+we can add a
+we can add the rows and we can change
+that to the 12 rows again with a 30
+margin and a 24 gutter.
+So, if we take a look now, we're going
+to be pretty much using this grid to
+design the entire brand proposal
+document. Now, just before we create the
+proposal document, I'd like to create
+styles. So, this is essentially putting
+in your brand's colors and also your
+typography selections, just so that
+everything's linked. And then if we do
+make any changes in the future, all we
+need to do is change the styles, rather
+than going and individually change each
+page. So, to do that, all we need to do
+is go to styles up here, click plus, and
+then we could add a color, or we can add
+a text style. So, in this document, I'm
+just going to be using my brand colors,
+which is black, white, and orange. So,
+if we head to styles, we can add the
+color black by just going straight down
+there, and we can call this nonstop
+black. add another one, which is white.
+So, if we click color there,
+click the fill, take it to the top, we
+can call that nonstop white. And then
+finally, we can add the nonstop orange.
+So, we just click color again. This time
+I'm just going to paste in the hex
+values just here, and you can see that's
+worked again. So, we can do nonstop
+orange. So, the two texts that I'm going
+to be using for this document is going
+to be Anton for our headings, and then
+Sora for our body copy. So, if we click
+text, we're first going to create a
+cover title, and we're going to make
+that Anton, and then I'm going to change
+the font size to 128.
+And then if you click the three dots
+here, we can also apply settings. So,
+there's never going to be a time where
+we use Anton that isn't in all capitals.
+So, then we can go down here to case,
+and we can click uppercase.
+Create style, and then now we have a
+text style.
+So, now heading to the cover page, we
+can click cover, head over to fill,
+and then go to libraries, and then now
+we can click black, which is one of our
+styles. So, if we were to change our
+style,
+then all we need to do is go to our
+color styles here, and you can see
+that's going to change it every time
+that the black appears with the style
+selected. So, we'll leave that for now.
+If I do have a black page, I do tend to
+change the layout guide to white,
+because it can be a little bit hard to
+read it. So, you just need to go down to
+layout guides there and click these
+buttons. And then if we click text, and
+then head to these four dots here, we
+can click cover title, and And if we
+type, "Proposal, Give Me Cosmetics."
+You can see that it's applied those
+styles. Now the line height's actually a
+little bit too large here, so rather
+than changing it manually,
+we want to change it to all of the text
+styles. So, I'm going to go down here,
+and then we're going to try 90% which
+should be fine.
+Little bit too big, so we're just going
+to go 100% and yeah, that looks good.
+And we'll just drag that down to the
+bottom. We can also bring in our
+agency's logo as well, so I'm just going
+to paste that in place here. And if you
+want to measure the distance between,
+let's say, your logo to underneath, if
+you press shift and M, you'll see how
+these red lines appearing. So, if we
+just drag that up to our logo there, we
+can see there is a 40 gap right now. And
+if we click escape and click our logo,
+knock it down, we can adjust that until
+it's about 24 pixels.
+That looks good.
+And then if you want to remove that, all
+you need to do is click the little red
+dot and delete it. Now for an extra
+touch, I'd like to add a bit of
+contrast, so I'm just going to change
+the client's name in our non-stop
+orange. So, if we
+First of all, let's make sure that these
+are both attached to our colors. So, if
+we highlight all of the white down here,
+click the white, we can actually link
+that to one of our styles. Same with
+this here.
+And then if we highlight the Give Me
+Cosmetics, which is the real example
+that I'm going to be showing you in a
+second, we can change that to be a
+non-stop orange.
+Now for the next page, we're also going
+to make this black, so I'm just going to
+change this in our libraries.
+Press shift and G to actually reveal the
+grid. Apologies if I didn't mention that
+earlier.
+And then we're going to create another
+text style. So, if we just duplicate
+this style,
+change the name, right click and click
+edit style, we can change this to say
+heading. And now we're going to knock
+this down from 128 to 96. So, now if we
+click T on the keyboard, we're going to
+start writing from about here. And we're
+going to type about us, but this is too
+large. So, if we go to cover title, we
+can change this to be our heading. And
+then, I'm also just going to make this
+in the Nonstop orange. Again, making
+sure that the white is actually selected
+to our style, just in case in the future
+we change anything about the brand. Now,
+in this section down here, I'm just
+going to click the rectangle. I plan to
+spread the text along the bottom left,
+probably about three columns wide. And
+then, in the remaining section, we're
+going to have some images in this
+section. Now, I don't just want one
+photo, so what I'm probably going to do
+here is change it to fit in the grid,
+maybe create like a little bit of a
+Bento grid, so we'll have like one photo
+here, one photo there,
+maybe a photo here that's a little bit
+larger.
+And then finally, we're going to have
+another photo at the top here. Now,
+before I actually design my pages, I
+like to create a plan like this. And
+then now I know that these are going to
+be photos, I'm actually going to also
+round the corners by highlighting them,
+going to corner radius, and changing
+that to be 24. And because we know this
+is going to be text, all we need to do
+is click T,
+and we can draw a text box that's going
+to be here. Now, since this is going to
+be way too large, I'm just going to type
+hello here, but we actually don't want
+this size at all. We need to use our
+body copy text. So, we need to create
+another text style, and I'm just going
+to click plus here. I'm going to change
+this to be our body copy, click create
+style. I'm going to change the text size
+to
+probably 16, and I'm also going to make
+it Sora. And then finally, we're going
+to change it from uppercase to just
+standard, and then I'm just going to
+show you how that works. So, yeah, you
+can see here.
+Now, this looks a little bit too small
+looking at it now, so we're probably
+going to bump that style up from 16
+to maybe 20. That looks good. Now, for
+the about us section, you want to just
+write a general overview of your agency,
+what makes yourself unique, and why
+somebody should work with yourself. So,
+I've pasted my agency text in here.
+However, there's a few problems I can
+see straight away. So, let's jump into
+the typography style. If we just click
+here,
+the line height is too close. So, we're
+going to make this just a little bit
+Maybe 125 looks good.
+The letter spacing looks good. And the
+last thing that we want to do is make
+sure that the text is coming from the
+bottom upwards. So, to do that, oh, all
+we need to do is click the text box and
+we're going to click alignment down
+here. We're going to change the height
+of the layout to be auto height. So, now
+if we type anything else,
+you can see it's just going to keep
+going up from the bottom. So, if we
+click shift and G, this is how our page
+is looking so far.
+Now, I do think that one more addition
+would be nice. Since we're about to go
+through our process, my process contains
+of five stages plus the about us
+section, I think it would be nice to
+make a progress bar underneath just to
+show the user
+how many pages they're about to see. So,
+I'm just going to create a circle here.
+Probably from this line. We're going to
+create it 24 to keep it consistent. And
+we're just going to duplicate that
+across
+five more times. Command and D.
+1 2 3 4 5 6. Maybe we'll make it a
+little bit smaller. So, we're actually
+going to change those to be 12 rather
+than 24. That looks good. And then we'll
+also make them a little bit longer
+actually. So, we'll move this one about
+here. Now, if I select these circles, I
+can head over to a line, click this
+square box here, and we can distribute
+them horizontally. And then to connect
+the dots, all I'm going to do is draw
+another line here.
+We're going to shrink it in half to six
+pixels. And then we're going to create
+another one at the front. Shrink that
+down. And then we're going to create the
+first two. Well, the We're going to
+create the first one being orange to
+show that this is where we're up to. And
+then the remaining of them, we're going
+to make sure the front one's orange.
+Bring that to the front. And now we also
+have a progress bar as well. I still
+think this is a little bit too big, so
+I'm just going to
+bring that inwards slightly, select the
+dots, and then I'm just going to remake
+it again. And also, I've decided that
+the about us section is probably a
+little bit too large as well, so we're
+just going to head into the head in
+click 96,
+and we're just going to change it to
+64, or we're just going to add another
+eight. Oh,
+we're just going to add another eight to
+it and see what 64 plus eight looks
+like. Yeah, we're probably going to go
+for 72 here. I think that looks good.
+And then, drag that to the top,
+align that there, and then we'll bring
+the progress bar underneath it. There we
+go. So, if we want to add our pictures
+into these boxes, all we need to do is
+click the gray box, head to fill,
+go over to image, which is here, and
+then we can click upload from computer.
+If you'd like to add a video here, all
+you need to do is click this video
+button, and you can also upload that
+video from the computer as well. Now, if
+you want to preview what we've done so
+far, all we need to do is click the
+first page, go to the play button at the
+top, and then if we click these bars up
+here, we can see that we can actually
+fit the width. If we'd like to share it
+to the client any point, we can share
+the live prototype here. So, no matter
+what changes that you make, they'll be
+able to see the most up-to-date version
+at all times. Now, the good thing is we
+can actually use this next page as a
+base, so I'm just going to highlight
+everything here, command C, click cover
+at the top, command V, and then if we
+change the background, we can again make
+this darker if we like. And this time,
+we don't actually need all of these
+images here, we're just going to add
+one. So, if I turn the grid on again
+with shift and G, drag this into the
+corner,
+we're going to make this our strategy
+page, so I'm just going to change this
+to say strategy, and then we're also
+going to just change the color of this
+to be two bars
+out of a six, so we're just going to
+change these colors here.
+And now, this is going to have a nice
+visual effect when they play through it.
+Let me quickly show you. You see, if we
+go all right, it's going to slowly get
+towards the end. Now, again, for the
+text, all you need to do is add some
+information of how you run your strategy
+sessions. Now, a quick tip with Figma,
+if you actually feel like you've written
+too much for your strategy, let's say,
+and it's going to overwhelm the client,
+all you need to do is click this button
+down here, go to shorten, and the AI is
+actually going to shorten your text and
+keep it in a pretty concise style, as
+well, which is good. It's probably one
+of the only AIs that I've used that
+actually write in a a human manner,
+where it just puts out pretty much all
+of the rubbish. So, as you can see here,
+it's actually pretty good. Now, for the
+picture, I'm just going to show an
+overview of my strategy document. So,
+I'm just going to paste a new picture in
+here. And now, I also want to add a
+button, which can show them an example
+of a strategy. So, a good thing with
+Figma, if you do already have a strategy
+presentation that you've created for
+another client, let's say it was built
+in a document like this,
+all you need to do is go to share at the
+top here,
+click share prototype, copy prototype
+link, and now you can use this as a
+link, so the client can actually go away
+and see some real examples, as well,
+which makes the proposal really useful,
+really interactive, and will definitely
+help you to sell to the client. So, to
+add the button, all we're going to do is
+design one here. Okay, so I've just
+added a button. Now, I'm going to show
+you how to link it. So, if we click the
+text that we've created from the button,
+all we need to do is go to the text up
+here, and then we can paste in our URL.
+And now, if we actually click the text,
+which will be available in the
+presentation, as well,
+that is going to take us to an example.
+So, now you can see, the client can just
+flick through and have a look at a real
+strategy that we've created for a real
+client. All right, so next up, well, so
+the next few pages are actually going to
+look pretty similar. I'll show you what
+the differences are. Um we're going to
+actually take the about us section here
+and just duplicate that over. It's
+probably easier.
+I'm just going to drag that back down.
+And the next page is actually going to
+be showing the visual identity. Now, for
+the visual identity, I like to include
+some animations, because I've got some
+motion graphics that are from real brand
+identities of mine. So, what I'm going
+to do is just adjust this grid um by
+clicking shift and G and just moving
+these frames around to fit as I like.
+And instead of adding the photos, I'm
+going to go to fill and I'm just going
+to add some videos in as well. So, let
+me quickly do that and I'll show you
+what it looks like. Okay, so the last
+thing that we need to do on here is just
+change this and I seem to make this
+orange.
+Need to make the two dots now orange as
+well. So, I'm just going to highlight
+those.
+And then also this can be orange as
+well. So, there we go. That's looking
+good. And now I'm going to show you what
+it looks like when we click play. So, if
+I just click cover here, click play, you
+can see we've got a full motion
+identity, which is pretty unique. Now,
+if I was looking through this as a
+client, comparing it against other
+agencies, which most likely is what's
+happening, they've probably spoke to a
+few different people. If you're a
+freelancer, this is going to be what
+separates you 100%. Now, at my agency,
+we seem to be quite heavy on
+illustrations nowadays. So,
+that seems to be what a lot of clients
+come for, illustrated brand identities
+similar to this. So, I like to create
+another section, which is showcasing
+some of the illustrations that we've
+done. Again, we'll move this grid around
+and create something a little bit more
+unique. Brought in some examples here,
+so you can see we've got the Ramona
+example, some open mouth ones, and then
+some TBG ones as well. The page after
+this, I'm going to make it dedicated to
+motion graphics, cuz that's a really
+quick way to
+almost double the price of brand
+identities nowadays.
+Making sure that the copy's got the
+right typography styles on as well.
+And now I've actually added a range of
+motion graphics here from advertisements
+to animated brands, just in case the
+client wants to take on one of the
+latest services as well that we offer,
+which is
+Now, what what you just saw there was
+a clash of music from all of the motion.
+Now, if you want to actually mute these,
+cuz we don't want them playing sound
+that loud, we're just going to select
+them both, head over to prototype,
+and where it says autoplay here on the
+right, you see we've got the sound
+button, we're just going to mute those.
+So, now if we go back into it,
+and we click play,
+you can see it's going to play all of
+the animations, and there's going to be
+no sound on there, which is what we
+want. Now, another service that clients
+ask for often is just brand guidelines.
+That's been actually one of our most
+common requests this year. I'm not sure
+if it's cuz a lot of my content is based
+around building brand guidelines,
+but that's been a huge problem that
+people have had. They've had e-com
+brands that have made anywhere between
+10 and 40 million a year, and they just
+have inconsistent brands. So, they come
+to us, and we give them a brand new
+brand guideline. So, we've actually
+completed one of these for Wopp, which
+I'll show you in a second.
+So, again, what we've done is we've
+copied the structure of the strategy
+page, and we have an example with a
+link. Now, if somebody sees these, if
+we're targeting, let's say, tech
+companies, and they're familiar with the
+brand Wopp, that's going to give them
+instant proof that we're probably the
+right guys for the job. So, if they
+click that link, you can see it's going
+to take them straight to an example of
+the Wopp brand guidelines that we
+created, which is fully built with
+prototype, so you can actually just
+click into links,
+head back to the pages.
+And you see we have a bunch of rules
+here, even layout rules. So, if we take
+a quick look at these layout rules, this
+is the sort of stuff that brands pay us
+to come and build for them, even if
+sometimes they don't need a complete
+rebrand.
+They might just want the brand fixing,
+and taking from inconsistent branding to
+something that looks a little bit more
+cohesive and premium, like Wopp did here
+with us.
+And then the final page that we're going
+to be building is ongoing design
+support. So, one problem that you might
+have is you might be having inconsistent
+clients, and one way to avoid that is by
+offering design support upon building a
+brand identity.
+Charging anywhere between 3,500 pounds
+per month, that can get you consistent
+income, predictable income, and then you
+can start to hire and you can start to
+be comfortable with business moves that
+might otherwise be deemed risky.
+So, what I've done here is I built a
+grid and I've done some examples of some
+ongoing support that we did for Warp.
+So, even without them having to come to
+us for a brand identity, we still
+created consistent assets, whether that
+was UI pages, advertisements, and you'll
+also see on here
+there is some motion involved as well.
+So, pretty much you want to get your
+clients on a retainer basis, show them
+what's available, and then every now and
+then you might have a client that just
+wants everything from motion to
+guidelines to design support.
+All right. So, now we're moving on to
+the breakdown, which is really where we
+can start to show how much value they're
+getting for the money that they're
+paying.
+And now let's call this the your
+investment page, if I can spell
+investment.
+So, again, we're going to make this last
+word non-stop orange.
+And here we're actually going to create
+a component. So, I'm going to show you
+how to create a component. Um what a
+component allows you to do is have one
+main asset, which you can then go and
+change. So, if you wanted to swap your
+logo, let's say, or make it easier to
+swap the text out, you can do so by just
+doing it in the top corner. I'm going to
+show you how to build one of those now.
+So, we put our grids on, shift and G.
+We're first going to design it. So, I
+like to create a top bar with
+breakdowns. So, we're just going to
+create the
+pen from the top.
+Zoom right in here. Make sure it clicks
+into the corner.
+Click that, and then we're going to zoom
+in over this side as well.
+And we're going to keep that stroke
+width to be one for now.
+And then we're going to add some small
+text at the top.
+Probably the same size of our body copy.
+We definitely don't want this. So, I
+think if we go body copy,
+that should be fine. And these are going
+to be our page numbers. So, we're going
+to have this.
+You know what? 8 pixels down probably
+works well. Um we might create a new
+style here just cuz I think we
+probably want it a little bit bolder
+than this.
+Maybe even smaller as well.
+So, we're just going to click plus.
+We're going to call this um component
+header. We're going to click create
+style. And then we're going to go into
+the settings. We're going to make it
+semi-bold. And we're going to drop it
+down to 16. And then we're going to
+create another one. So, I'm just going
+to drag a another
+line here.
+Uh probably two across. And we're going
+to say here, "Your investment." So,
+click shift and G. That's going to be
+the banner that's going to be at the top
+of each page. We'll just bring it down
+to be aligned with that. So, first of
+all, we're going to select these two and
+we're going to group them with command
+and G. And then we're going to click the
+line above it. Click command and G
+again. And then at the top here, we are
+just going to create that component by
+clicking this button here. Now, if we go
+to assets, we can actually bring this
+component created in the file onto the
+next page as well. So, if we turn the
+grids back on and just pop that in the
+top, it should lock in nicely.
+We can actually make this even easier to
+edit. So, all we need to do to make this
+even easier to edit is click into this
+box,
+head to the top here,
+click apply variable or property.
+We're going to click plus. We're going
+to make it pop uh property. And then
+we're going to call this the section.
+And then we're going to click create
+property.
+And then if we go to the front, we're
+just going to click into this box.
+Click this button here. Click the plus.
+And we're going to call this number.
+Create.
+Now, if we head over to our next one,
+which we duplicated over, you'll see we
+can change them at the top. So, for the
+section,
+we can type in
+breakdown if we wanted.
+And that's going to change it there. And
+for the number, we can make this 1.2.
+So, now we can again just take this into
+the next pages, line them up, do the
+same there. But, the beauty is is that
+if we decide to change it on one, let's
+say we want to go over here, then it's
+going to move them all up.
+So, the first one we're going to call
+summary. The second one we're going to
+say your investment.
+And then the third one we are going to
+keep that as a breakdown.
+If I can spell.
+Breakdown.
+I'll keep that as 1.3. And if you want
+to paste that across, all we need to do
+is command C,
+click cover at the top, and that's going
+to paste in place
+for the remaining of the pages.
+Now, we're also going to have a timeline
+for the last page, so we're going to
+change that one to 1.4.
+And we're going to change that to say
+timeline.
+So, for the first page after your
+investment, I like to give them a
+summary of the least it could cost all
+the way to the most it could possibly
+cost. So, what we're going to do here is
+just bring in our title again. This time
+we're going to change the colors and
+make it black. I'm just going to drop it
+down one as well since we brought in the
+new header here. And now to the right,
+we're just going to add a text box.
+Probably about here should be fine. I'm
+going to write something along the lines
+of professional fees for this engagement
+are estimated start from 32,000 pounds
+depending on the final scope and level
+of rollout. And then we've got some more
+information here talking about what
+they're about to read. All right, so the
+next page we're actually going to
+experiment with some auto layouts. The
+reason I do this is because you might be
+adding or taking away things from your
+proposal. We want to make it as
+efficient as possible to send these out
+quickly. Cuz at the end of the day, if
+you take in one or two calls a day, you
+don't want to be spending this long
+creating a document. You want to create
+one template like this, and then you
+want to have a template that's really
+easy to edit so you can speed rollout
+so you can speed rollout proposals. And
+that way, whoever you're dealing with is
+going to realize that you are very
+serious about your role, and that you
+are also extremely reliable. So, before
+we create the auto layout, we actually
+like to design it first. So, I'm just
+going to click shift and G again to
+bring up the grids.
+We're going to copy this title across.
+We're probably going to make it a little
+bit smaller. So, I'm just going to
+create another style here and call it
+small heading. I'm going to reduce this
+from 72 down to
+64, probably maybe 48. We'll keep it at
+48 for now.
+We're going to add a line at the top
+here. So, we're just going to zoom right
+in, click this, zoom over to the other
+side,
+and add that there.
+We don't want it to be this black, so
+we're just going to make it 25% opacity.
+And then we're going to start adding our
+breakdowns. So, the first thing that I
+like to add is brand strategy.
+This font's too big, so we're going to
+go to our type styles and we're going to
+click the body copy.
+The body copy could also do with a
+little bit of reduced tracking. So,
+we're just going to go to the letter
+spacing there and
+make it minus two. That looks good. And
+then keep that in the top left. I'm
+going to duplicate this down about 12
+underneath. So, if we hold option, we
+can see if that's 12 down, which it is.
+And again, we're going to make this
+gray. So, we're going to reduce this
+down to 25. Let's have a look how that
+looks. Probably a little bit more than
+that. Let's keep it at 50 for now.
+And the brand strategy includes a
+discovery workshop.
+And it also includes the brand strategy
+document.
+Oop, I've spelled wrong again.
+Now, this might be a little bit too big,
+so I'm just going to go into our body
+copy.
+And I'm going to change it to be
+I'm actually going to create a new style
+here.
+I'm going to call it
+small copy.
+You would probably want to go through
+afterwards and then rename these to be
+like paragraph one, paragraph two. But
+for now, we're just going to use these
+names. Change this from 20 down to 16.
+And then the line height, yeah, I mean,
+probably change the line height as well
+to maybe 140%.
+There we go.
+And then we'll just make sure it's
+aligned to the top corner,
+which it is, and then it's got to be
+go for 12 down, which is half of 24 to
+keep it consistent.
+Now, in line with this, um
+First of all, we're just going to rename
+this to be brand identity.
+And then we also want to add a price for
+each section. So, I'm just going to drag
+this over to about here. And we're just
+going to put a price next to
+each service. So, we've got 5,000 here
+for the brand strategy.
+That's good.
+And then what I'll do here to start to
+create the auto layout, we're just going
+to drag this to the end. Drag this to
+the end as well.
+And then we're just going to want to
+align this up here.
+Then if we select these two,
+we can group these with command G. And
+if we click shift and A, these are going
+to be an auto layout going down.
+And then we can select these two.
+We can group these, and then auto layout
+these.
+Now, we're also going to put this in an
+auto layout by clicking shift and A, and
+then we're going to align it to the top
+left. But you'll see, if we had more
+lines, it's going to start to move down.
+So, to fix that, all you need to do is
+click your 5,000 here,
+go to hug, and you want to change that
+to fill.
+And that's going to stick to the top
+left. So, now if we can delete that down
+so now when we click into that and we
+delete it,
+it's always going to stay in the top
+left. So, the next thing that we want to
+do is add another one. So, what we'll do
+is just duplicate that down. We'll give
+it 24 gap in between, and then we can
+grab them two,
+group them together, and auto layout
+them as well.
+So, now if we just grab that, control C,
+control V, that's going to keep pasting
+them down and we can change these,
+adjusting these with
+more features if necessary. And if we
+click shift and G,
+it's going to push everything down. So,
+let's quickly fill this out then. We've
+got brand strategy to start and then
+next up we have visual research and I'm
+going to say and analysis as well.
+Within that we do an extended visual
+research and then we also provide a
+competitor and benchmark. After that we
+personally create six brand worlds or
+creative visions. So, I'm just going to
+call that six creative visions. This is
+essentially where we go away and create
+what we believe would look good for the
+brand. Six different quite rushed
+brands, but we nonetheless we still
+create six different brands. The client
+tells us which one's their favorite and
+then we go on to develop that even
+further. So, I'm just going to put brand
+world explorations times six. For the
+visual research, sorry, we're going to
+change that to be 3,000 and then for the
+six creative visions we're going to
+change that to be six. Now, if you
+wanted it, you could also call that
+creative direction where you determine
+the brand positioning and then you could
+say you also have initial explorations
+on there as well. In our case we have
+six explorations. After that we have the
+first place exploration. We also develop
+it as well. So, that includes the logo
+suite, the color palette, the typography
+selections and also social and digital
+applications. And then finally we like
+to wrap that up with a brand guidelines,
+which is the logo,
+color
+and type rules. We have the layout
+guidelines and also the packaging rules
+and then we'll just change the pricing
+here as well. And then you can see if
+you'd like to drop anything from your
+workflow, let's say you want to shuffle
+these around, then you can do so. If you
+delete them, then it's going to
+reposition them. So, that's the beauty
+of auto layout. Let's put that back to
+where it was. All right, so rather than
+go through and show you me building it
+out line by line, I thought I'd just
+show you what we've ended up with. So,
+we've got the packaging here, which is
+packaging design, unit packaging and
+point of purchase display. We have the
+brand strategy. So, the only thing that
+we've added extra to your investment was
+the packaging, but this is just like a
+general overview. The next page is where
+we then break down each one of these
+bold lines at the top. So, you can see
+with brand strategy, we've gone from
+just a discovery workshop in the brand
+strategy, breaking it down to really
+what is actually included for that
+£5,000. So, we've got the overview, user
+profile, business goals, brand story and
+research overview, user experience and
+touchpoints, and a summary. And you'll
+see we've used the exact same auto
+layout here throughout. So, all you need
+to do is just copy that over and then
+this is going to be ready to use. We've
+broken down the visual research and
+analysis. Feel free to pause this and
+copy them down if you like. Again, with
+the brand world explorations, with the
+creative visions, and then finally we
+have the packaging, and then also some
+add-ons as well if necessary. So, I've
+put to be confirmed there. This is
+actually a real brand proposal that's
+going out as well. So, you can see we've
+also offered potential for
+illustrations, motion identity, and
+ongoing support. So, now all we need to
+do is create the timeline and then the
+goodbye page. So, for the timeline, I'm
+just going to make the page black,
+change our component at the top to be
+white, and then using some basic lines
+on the grid, I'm just going to create a
+timeline. All right, so here we have it.
+This is the timeline that we've come up
+with. Pretty much showing the client
+visually how the client process is going
+to unfold. So, you can see we've got
+onboarding, which goes from December
+into brand strategy, into visual
+research, into brand world exploration,
+first place exploration development,
+packaging, and ongoing design support.
+Pretty much showing for the rest of
+time. This is really easy to make.
+Again, I've confused it there with the
+auto layouts, but it doesn't really need
+it. If we just ungroup it here, you can
+see we just have lines here to make
+these a little bit longer where
+necessary. But, the main thing is that
+the client can just take a look and at a
+glance understand understand how long
+it's going to take. So, then finally, we
+want to add a cover photo, just to say
+thank you, and we'll also add a link for
+them to pay the deposit.
+So, to do that, we'll just put thank
+you, and we'll drag them both down to
+the bottom. And then we'll take our
+button that we created before up here.
+And we'll just paste it into the bottom
+right. And now what I like to do here is
+have a link that takes people to my
+Stripe to pay the 50%. Okay, boys and
+girls, you made it to the very end of
+the video. Thank you very much for
+watching this proposal document template
+tutorial. But before we go, I want to
+show you today's sponsor, Framer. Now,
+there is no point having a professional
+proposal document where you're trying to
+charge five figures if you do not have a
+professional website. So, I'd like to
+show you exactly where we build our
+websites, and that is using Framer. Our
+agency's website,
+nonstopbrandingagency.com,
+that's been built on Framer, and it's
+because there are so many free and paid
+templates, no code, for you to walk away
+today with a professional website. Now,
+you can go away and host this for free.
+However, if you would like your own
+custom domain, then you will need a paid
+subscription. But if you use the code
+JackW, that is going to get you a free
+discount. Now, if we also skip ahead to
+the brand guideline stage, we've also
+created a brand guidelines template. So,
+in the link in the description, you'll
+also find this interactive brand
+guidelines template. You can see we've
+got rid of the PDFs, and we have made an
+interactive brand guidelines template,
+which is shareable. It's going to be
+constantly updated with whatever changes
+you make for the client. And yeah, it's
+just beautiful. It's interactive, so you
+can copy the hex codes, you can go over
+to the typography page and check out the
+usage, you can go to the logos and
+actually download the files. It's
+awesome. So, again, that's built inside
+of Framer. Thank you to Framer for
+sponsoring this video. If you want to
+check them out, first link in the
+description. If not, I'll see you guys
+in the next video. See you later.

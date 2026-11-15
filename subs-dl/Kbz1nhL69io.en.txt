@@ -1,0 +1,918 @@
+Welcome back.
+My name is Corey, and in
+this episode we'll
+break down my
+Claude skills plan, which is currently
+earning me
+$8,000 per month.  You
+may ask, how
+exactly do I make eight
+grand a month
+just by building
+skills for Claude?  Well,
+I have a
+consulting
+practice that I
+call “AI Concierge.”
+As part of this service,
+I work with clients
+on a “doing it
+together” basis, where we
+sit down together, look at
+their business processes, and
+transform them into
+Claude skills one by
+one.  So the
+framework I'm
+going to share with you
+today is the same
+framework I
+use with
+clients.  I have
+five clients who
+bring in a total of
+eight thousand a month
+, and for them I
+implement this plan,
+which I will show you now
+.  So we're going to talk
+about how to build
+Claude skills for our
+"AI
+concierge" clients.  You can
+just provide this
+transcript of Claude's video,
+or I'll add a
+free resource
+in the description where everything is
+laid out on
+shelves so you
+can copy this
+system.  So,
+first of all, we have a
+structure that we
+call AOA.  This
+means: audit,
+optimization,
+automation.  And we
+will go through
+each stage one by
+one.  The first big
+mistake
+people make when building
+skills, whether in Claude
+, GPT, or elsewhere, is
+jumping straight to the
+third step, which is
+automation.  This is the
+most interesting part.
+This is the process of
+creating a skill.
+But they skip
+the first and second parts
+—audit and
+optimization.  And the
+reason this becomes a
+problem for
+many is
+that by jumping
+straight into
+automation, you're
+usually just
+automating the
+wrong process.
+So first we need to
+audit the
+process to
+understand how it
+works today.
+Then we have to
+optimize it,
+fix it, right?  We
+have to cut off everything
+superfluous.  Most
+processes consist
+of 15 steps, although
+11 would be enough,
+for example.  And only
+then do we
+automate it,
+turning it into a
+Claude skill.  We
+will look at each
+stage of the structure in
+much more depth.  And
+finally, I'll give
+you a real-world example
+—five skills
+we recently
+created for a client.
+So you can see what it
+looks like in action.  So,
+step one is an audit
+, right?  This is a moment
+when we
+dive deeply into the
+current process as it
+exists today.
+So, this is where we
+get to the
+root problem,
+right?  How does
+this process work?  What are the
+actual steps
+being taken?  Who is
+responsible for
+each step?  Where is
+the data stored?
+Etc.  And then we
+want to determine what
+counts as a victory.
+What is the purpose of this
+process?  What does
+its completion look like?  So
+if we look at, for
+example... The example
+I'm going to show you now
+is the
+customer onboarding process
+that we've
+automated, and
+completion in this
+situation means that
+the customer is fully
+accepted,
+invited to the
+Circle community,
+has received all
+the information they need to work with, and is already
+entered into the CRM, right?
+So, this is what the
+result looks like.
+Now, during the
+audit phase, we literally
+record the current
+process step by step
+.  This is where I ask
+the client to share
+a screen and show
+exactly how they
+do this process
+today, right?  And I
+make them go through
+everything in excruciating
+detail.  I keep
+interrupting them and asking a
+million questions
+throughout the
+process, right?  So,
+they go through the
+process, and I ask, "
+Wait, why did you
+do that?"  Wait, why is
+this...why is this step here?
+Wait, you know,
+could we do this
+differently?  Yes?  I am
+constantly learning and
+asking questions about the process
+to gain a full
+understanding and
+understand
+each step in
+detail.  Who is responsible for this
+and where is the
+data stored?
+Also during the
+audit phase we figure out
+what tools
+we use in
+this process, right?
+Can these
+tools
+connect to Claude?
+connect to ChatGPT?
+Do these tools have
+the ability to do what
+we need
+with Claude or
+ChatGPT, right?  Or is this...or does
+such a feature not
+exist yet?  And then that
+document that we
+created—when we
+write down every step of
+this process
+ourselves—we
+give that
+document to Claude and
+ask Claude
+to check the system
+against it,
+right?  So I'm basically
+saying to Claude, "Hey, here's the
+process that I
+wrote down and that the client
+explained to me as
+current.  I want
+you to test this
+process and let me know
+if there are any better
+ways to
+implement it.”  Which brings
+us to the second step
+—the optimization stage.
+So, this is where we will
+fix the process
+before
+automating
+any part of it.  So
+we're going to
+review every
+remark Claude found, right?
+When we hand
+Claude our
+audit document, he provides
+his initial
+synopsis, but often
+Claude gets it wrong.  It
+will suggest
+optimizations or
+suggest things that are not
+necessarily accurate
+.  Therefore, we
+must always object
+where necessary.
+We will not accept
+the results of
+Claude's work as the
+ultimate truth.
+For example, in a case
+I’ll
+show you soon, Claude provided
+us with an optimization plan,
+and when I shared
+it with the client,
+the client responded, “Hmm,
+that’s not quite right.  There
+is one step here that
+Claude thinks we
+do, but
+in reality we don't
+."  Truth?  So
+we should always be
+confident
+in expressing disagreement
+.  And during the
+optimization phase, we
+will also choose the
+right
+tool for
+each task.
+I often notice that
+my clients
+use three
+different tools in the
+same process, when
+they actually
+only need two.
+So we'll remove this
+third tool.
+Many times we
+can reduce our
+tool kit,
+or simply choosing the
+tool for the
+job will
+make the process much easier.
+Then we
+make sure that there
+is one
+storage location for each fact.  We
+will remove all
+duplicate fields.
+In the example I'll
+show you soon,
+this client stored
+customer information in both ClickUp and
+their CRM.  And we
+realized that there was no
+need to store
+information in ClickUp,
+it could only be in
+CRM.  Why duplicate
+efforts if there is
+no need?  Because this
+only creates
+opportunities for
+human error and
+mismatched records
+.  Now that
+we have decided on
+these factors, we will
+break down the process into
+different skills.  This is where
+Claude can really
+help us.  I like that
+at this stage,
+Claude will review the
+document we created, get
+feedback from the client
+on which
+optimization elements are relevant
+and which are not, and then
+tell us, “Okay,
+what skills do we
+need to build
+to automate
+this process,” which would be the
+third step.  And
+then we ask Claude
+to turn that into what
+we call a
+development plan.  So
+, Claude should write these
+rules into a
+development plan and sort of
+create a
+skill framework, right?
+To create a foundation of
+skills so that when we
+get to the third
+step—automation
+—it's very simple
+and works on the
+principle of "plug
+and play."  At
+this stage, we will
+capture a
+development plan document
+that will be a summary of
+everything we
+need to
+automate, a
+list of skills
+we will build, and
+next
+steps.  Now, before
+we get to the
+automation part, I want to
+tell you something.
+Again, this is exactly the
+process I
+go through with my
+AI
+concierge clients.  My
+clients pay me
+between $1,200 and $2,000
+per month, and my
+effective
+hourly income from
+all clients
+is around
+$1,200 per hour.
+In fact, I teach
+people how to become
+profitable AI
+concierges in my
+community called
+AI Operator Academy.  So, if
+you are interested in learning
+how to become an AI concierge
+and make money
+consulting or
+selling AI services,
+visit the AI ​​Operator
+Academy.  The link will be in
+the description below, or
+you can go to
+aoa.community.  So, as
+for the
+automation step, this is where
+we'll be
+creating
+one skill at a time,
+right?  And this is the most interesting
+part.  All the
+previous work—
+step one, audit,
+step two,
+optimization—is the
+boring foundational
+work that must be
+done to
+earn the right
+to automate the
+process.  I even
+wrote it down below.
+Audit and optimization
+are 80% of the work,
+automation is only
+20%, but that's the most interesting part
+, isn't it?  Now that
+we've moved on to
+creating a skill,
+when we've audited the
+process, understood
+how it works,
+optimized it,
+removed the clutter, and
+made the process
+easier—now we
+can
+automate this
+refined manual
+process.  So, we'll be
+and a skill is
+literally just a
+markdown file
+and help files.  And
+Claude creates
+these skills for us.  So you don't
+need to know what a
+skills file is.
+All you need to know
+about the reference file
+is that it is an
+example of what the
+ideal result should look like.
+For example, if we
+are going to create
+a skill for writing
+posts for LinkedIn.  This is
+just a random
+example, but
+let's say we want to
+create a skill that
+writes
+LinkedIn posts for us.    The
+reference file that
+would accompany this
+skill would be,
+say, five
+examples of successful
+posts.  This way,
+Claude can reference
+these successful posts
+when writing his
+own.  That's all the
+help file is.  So
+, we're going to create this
+skill by literally
+giving Claude the
+development plan that we
+created in
+step two and just
+saying, "Hey, create the
+first skill from this
+plan."  And if we
+did
+the audit correctly in the first
+step and the optimization
+in the second, it should
+create this skill on the
+first try.  So,
+we'll create the first
+skill and then
+test it.
+Right?  So even
+if he creates
+a skill the first
+time, it often
+still won't be
+perfect.  We will
+test it in
+real-world conditions, and
+then ask Claude to
+interview us to
+identify any
+issues or nuances
+that we were not happy with
+as a result of
+this skill.
+Most often, we see
+that when we test
+this skill, it is
+about 80
+% complete.  So when Claude surveys
+us and asks for feedback,
+we say something
+like, "Well, yes, he
+gave us this
+result, but it
+should actually be like this
+, and he gave
+it in the form of a Google
+Sheet, but we
+need it in a Google
+Doc, and so on
+."  We give Claude this
+feedback so he can
+refine the skill
+, update it, and give
+us the next version,
+which usually
+turns out to be
+almost perfect.  As
+we said, we
+refine it
+with very
+specific feedback
+so that Claude knows exactly what
+needs to be changed, and
+then he
+updates the skill.  We
+can save this
+updated version of
+the skill, and now we
+have an up-to-date version
+for constant
+use.  Now,
+I'll say what I advise
+most of my
+clients and
+everyone in general: when you
+create a skill,
+especially one that will
+send
+emails or any
+other communication, the
+first version of the skill
+should always be
+a draft, not an
+automatic
+send.  So,
+again, if we're
+going to
+build a skill,
+say a quick
+lead response skill,
+that responds to
+incoming inquiries quickly
+without our input, we
+don't want the first
+version of that skill to
+just automatically
+send emails to
+prospects
+.  We want the first
+version of this skill to
+only prepare
+draft responses
+for our review.
+And once we
+perfect this
+skill and are
+happy with the
+result of its
+work, we
+can eventually make it
+automatic, but
+only after
+it has
+proven itself, not from
+day one.  So, this is the
+caveat I
+want to make: we
+should always
+create the first
+versions of skills as
+drafts.  We
+should never
+create
+auto-
+submit versions of skills all at once.
+Now we simply
+repeat these four
+steps for each
+skill in our
+development plan.  So the
+example I'm going to
+show you now is
+actually five
+different skills that
+we created for this
+client.  And we
+followed this same
+process for the first
+skill: we created
+it, tested it,
+improved it
+based on feedback, and
+then moved on to the
+second one.  We build it,
+test it,
+improve it
+then move on to the
+third skill.  So
+, this is actually a process
+that we repeat
+every time.  And then, if
+you want something
+more complex,
+after you've repeated
+this process for each
+skill, you can
+add what we
+call an
+orchestrator skill.  So, an
+orchestrator skill,
+its job is
+literally to simply
+launch other
+skills one after the other
+.  So in the example
+I'm going to show you now, we've
+again created
+five different skills
+customer onboarding process.  But instead of
+my client
+running five
+skills in a row
+every time
+he needs
+to accept a new
+client, he can
+just
+run the
+orchestrator skill once, and it will
+automatically activate all
+five skills in
+turn.  So this essentially
+allows you to
+trigger one
+skill instead of
+triggering five in a
+row.  And later, when
+you get used to it,
+you can create
+it as a scheduled
+task in Claude or GPT
+so that it runs on its
+own and
+sends you a report
+on the work done.
+So, going back to the
+example of the
+customer adaptation skill
+that I'll show in a moment:
+eventually, once the customer
+gets used to it, she
+can just
+set up the
+orchestrator skill on a
+schedule, say
+once a week, and then the
+result of
+that skill is an
+email to her inbox saying, "
+Hey, here's what I
+did."  Here is a summary of
+the results of the five
+skills I
+ran.  This is the
+client adaptation process.”    Is
+n't that right?  It can
+be quite simple.
+So, that's the whole
+structure in a nutshell
+.  We call
+it AOA.  Now
+let's look at a
+real-world example: I
+asked Claude
+to analyze my
+work with this client
+and turn it into a
+Google Doc.  In this
+case, it was a
+24-step customer onboarding process
+that my
+client followed
+manually.  They
+performed the 24 steps
+themselves.  These 24 steps
+eventually
+evolved into
+five distinct
+Claude skills.  The reason we
+didn't create a single
+Claude skill is
+that skills
+should do
+one thing very
+well.  You will find that
+if you try to
+make one skill
+for 24 different tasks,
+it will not work
+properly.  So
+Claude determined, “Hey, there
+are five
+clear stages in this adaptation.  So, there
+should be five
+skills, not one."
+We spent two
+meetings:
+we devoted an entire conversation on August 3 to
+auditing the
+process.  Then we
+spent an entire
+conversation on August 24th
+optimizing this
+process.  The following
+meetings were
+dedicated to actually
+the skills themselves.  We developed a
+framework: we asked
+Claude to design
+five skills,
+identify the boundaries where a
+human intervenes, and
+found that 22 out of 24
+steps could be
+fully
+automated.  So,
+again,
+first we did a
+process audit.  We
+went through the entire process
+live from
+start to finish.
+I had a
+Google Doc open and was
+taking notes on each
+step of the process while
+the client was showing off
+their screen.  Then we
+recorded the technical
+details, not just the
+steps themselves.  We asked:
+“Who performs this step
+?”  What tool
+is used?  "Where is
+the data stored?"
+Yes?  We capture not
+only the steps themselves, but also what
+lies behind them.
+We then handed this
+audit
+asked for a plan,
+then
+corrected his
+reading errors on the spot.
+So, this is what I was
+talking about earlier: in the
+second stage,
+optimization, we
+still check
+every conclusion.  We
+will deny it.
+everything Claude says as the
+ultimate truth
+.  We
+still need to
+intervene with our
+human judgment.  And
+then, during the
+fixed
+the tools.  So we
+had to actually
+connect some
+instruments to Claude,
+we had to
+reconnect some
+instruments where the
+connection had been
+broken.  Then we
+let Claude
+re-
+audit the live systems
+against the
+document we
+created,
+using the
+tools we had
+plugged in to
+check, "Hey, is
+the customer really
+doing this process the way
+they explained it to
+Corey?"  And we found
+that there were several things that
+they thought
+they were doing but weren't
+doing, and several
+things that they weren't
+doing but thought they were doing
+.  True?  So,
+we let Claude
+sort of
+restart the audit
+by looking inside
+their tools.
+We found where the
+data actually is.
+For example, inside
+ClickUp, the tool
+they
+use, there were
+two lists that were
+just empty
+shells and were
+invisible to Claude.
+True?  So we
+go in there and, you could
+say, check
+where this data lives.
+Then we learned the
+true
+periodicity.  We
+found that this
+process always
+starts on
+Wednesday, so that's how
+we'll set up the
+skill to work.  We divided the
+process into
+human participation boundaries.  So
+, again, we
+created five different
+skills.  Every
+skill ends
+where a person or
+expectation actually
+breaks the chain.
+True?  For example,
+the skill of welcoming a
+new client is
+steps 1 to 13. Starting
+onboarding is steps
+14 to 16. Processing a
+questionnaire is steps 17
+to 20, and so on.  So,
+Claude did a very good job
+of
+separating skills
+whenever there
+was a wait or
+when
+human intervention was needed.
+There were specific steps
+that we were going to
+leave unchanged and
+only for humans, which
+brings us back to what
+I was saying: 22 out of 24
+automated.  There are two
+steps that will remain
+human, and then we
+capture the actual
+development plan.  And all of this is
+still within the
+scope of automatic
+optimization.  True?  And
+then the
+automation stage is
+when we literally
+hand the
+development plan to Claude, and he
+can essentially
+execute all the skills
+one by one in one
+go.  Then we
+iterate, provide
+feedback, and after
+the client is
+satisfied,
+we record it all and
+plan a schedule.  This is what the
+AOA process looks like in brief.  This is how we
+build
+Claude's skills for our
+AI Concierge clients.  If
+you want to become a
+profitable AI Concierge—
+recall, this is how I
+make $8,000 in net
+profit per month,
+over $1,000 per hour—
+join the AI
+Operator Academy.  I
+will personally show you how to
+set up this
+business.  If you don't
+find your
+first client within 90
+days, we'll refund
+you 100% of your money.
+Go to aoa.community
+or follow the link in the
+description.  And if you
+need a full
+guide with everything I
+showed you today,
+the link to it
+will also be in the description.
+Thanks for watching,
+see you soon.

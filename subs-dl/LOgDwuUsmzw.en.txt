@@ -1,0 +1,1389 @@
+Have you ever wished that
+growing your YouTube channel was as
+easy as following a few simple
+step-by-step instructions?  Well,
+actually it is, because that's
+exactly what I've been doing
+to grow all these
+YouTube channels.  And it's so easy to follow
+that even a monkey could do it.  If you do
+n't know who I am, my name is Jake
+Trenda.  I currently manage over 80
+YouTube channels for different
+brands and businesses, such as the
+Glenn Coco channel, which I created from zero to
+$1 million raised in the
+first six months of YouTube with only
+12 videos.  Sam O'Leary's channel,
+which I built from scratch to over
+$400,000 a month.  Instantly,
+AI's channel, whom I built from virtually
+nothing, saw over a million dollars
+of recurring annual revenue
+added to her business.  And so
+on.  We have some of the
+fastest growing channels in
+many different niches, such as AI,
+sales,
+lead generation, etc.  And I use this
+step-by-step algorithm as a basis for
+growing them all, because it tells me
+exactly which are the best
+videos to make in my niche and how to
+make them.  And then, all I have to
+do is create them or guide my
+clients to create them.  In this
+video, I'm going to explain what this
+algorithm is, how to use it to
+grow your YouTube channel, and how to
+automate the entire process with AI.
+First, let me define what an
+algorithm is so that we are all
+clear on it.  An algorithm is simply a
+set of step-by-step instructions
+to complete a given task or
+achieve a specific result.  Now
+, if we take that definition into account
+, the goal of the algorithm I'm going
+to show you is to find the
+best video ideas to make in
+your niche and then how to make them at
+each stage: from the title and
+thumbnail to how
+the video should be structured, and even
+how it should be edited and
+presented.  With that knowledge and
+information, it's quite illogical
+that you wouldn't succeed in your niche
+, since you'll simply be making
+the best decisions about what
+videos to create and how to execute them
+precisely at each
+stage of your process.  The way
+I discovered this algorithm was in high
+school, when I was
+about 16 or 17 years
+old.  In computer science, we learned all
+about how computers worked,
+and naturally, algorithms were a part of that
+.  One of the algorithms
+that really interested me was one that
+allowed you to explore the entirety of a
+dataset.  Basically, it's the
+same type of algorithm that
+web crawlers use to crawl the
+internet.  And so I didn't think much of it
+at the time.  I thought it
+was just another useless thing they teach you
+in school, there are a lot of
+useless things there.  But it turns out that
+I later discovered that this algorithm
+would be extremely useful for
+growing YouTube channels.  And so,
+when I started accepting these
+different customer channels in these
+different niches, I realized that
+this algorithm was very powerful.
+I tried applying it to YouTube and, once I did
+, it completely changed
+the way I grew my
+YouTube channel.  And that's exactly what I'm
+going to go over in this video.  So
+, what exactly is this algorithm?
+Well, it's called in-
+depth search.  Let me explain how
+this algorithm actually works, and I'll
+draw a diagram for it.  I'm not going
+to use my Apple Pencil because it turns out it does
+n't work with my iPad, so
+get rid of it.  In computer science, there's
+something called binary trees, which
+basically look like this here.  And
+what this visually represents is
+a data set.  For example, with
+web crawling, it would be a series of
+websites and the information they
+contain.  Now, the goal of
+this algorithm is to explore the entirety
+of a dataset and ensure that
+nothing is missed.  Now,
+I'm visualizing this in a
+very simplistic way, but the reality is that
+a given dataset would have
+tons and tons of these.  There would
+all these firing here, and there are an
+infinite number of lines coming out
+of here with their different nodes that
+need to be explored.  You can't even
+imagine the number of
+data points that need to be explored
+in this dataset.  Therefore
+, we need an algorithmic way to
+explore this, otherwise
+data points will be lost.  And this is
+where an in-depth search comes into play
+, and I'm going to explain how it
+explores this dataset right now
+.  So, first we start with
+the root node, very simple, and then we
+go to the next node.
+Normally, when we visualize a
+binary tree, we choose the left
+by default, but this is not so
+relevant when applied to YouTube.
+But, for this example, I'm going to
+show it to you this way.  And then, once again
+, we opted for the left node
+.  We explored further.  And then, here
+we explore this node.  Now, based on what we
+'ve realized here through this
+consideration, is there anything else left
+to explore?  That is the consideration we
+make at each stage.  Is there another
+node to explore?  Now, in this case, there isn't one
+.  So, what we're going to
+do is take a step back.  And now, we
+make that consideration again
+.  Is there anything else left to explore?
+Well, no.  Looking ahead, there
+are no more nodes to explore.  So let's
+backtrack again.  And
+now, we're going to do that
+evaluation here.  Is there anything else left to
+explore?  Well, actually there is
+.  There is another path to take.  And
+then, we're going to go here to this node.    Is
+there anything else to explore?  Yes. This
+node is on the right instead of
+this one.  There aren't any up here, but
+let's explore it because there aren't
+any to the left.  Is there anything
+else left to explore?  No. We step back and
+continue this process.  We have returned
+to the root node and are now
+starting to descend along the
+correct path.  Is there anything to explore?  Yes. Is there
+anything to explore?  Yes. There's
+nothing to explore back here.  Is there
+anything to explore here?  And now we have
+explored the entire dataset.
+So how on earth does this apply to
+YouTube, and why is it important?  Let me
+explain it to you and show you.
+Well, the most important piece of the
+YouTube puzzle for
+growing your channel isn't editing, or
+even content, although it's very
+important that you provide a lot of value
+to your viewers.  Many people say it's
+the idea, and they're partly right
+because the video's idea is the part
+that most influences the attention you
+capture from your target market in the
+YouTube home feed
+compared to all the other
+videos you're competing with.  When
+someone accesses their YouTube feed,
+there are more than 20 videos to
+click on, and you have to be the one to capture
+their attention.  And then, at that
+moment when you capture their attention,
+to what extent does your video
+effectively influence them to click and
+how much are they actually interested in it
+compared to the other videos in the
+feed?  That's why, in principle, the idea is
+the most important thing, but, in reality,
+how do you come up with a good idea
+for a video? How are you going to know
+before making the video what the
+idea, the title, and the thumbnail will be that will
+ultimately lead
+people to click on your video
+instead of any other video in the
+feed?  And then, when they click on
+that video, how do you ensure it's
+structured correctly to
+satisfy the viewer, so that
+the YouTube algorithm shows it to as many
+people as possible and,
+ultimately, it's as
+successful as possible? How do you keep
+people engaged after they
+'ve clicked to ensure they
+continue watching the video?  Because if
+you lose everyone at the beginning,
+even after they've
+clicked, no one is going to get that value from
+you, and YouTube won't have the data to
+work with to
+understand: "Oh, this video has really resonated
+with this target audience. Let's
+show it to more of these people."
+Therefore, if we think about that problem, you ca
+n't solve it without
+really knowing what makes a
+YouTube video good at each part of the
+process.  And how do you begin to
+understand it?  Well, you can't understand it
+by watching YouTube growth videos
+.  They might give you some
+tactics, but what you really
+need is fundamental visibility
+into what's working on the
+platform right now so you know what
+will work for you.  How do you know
+what a good video idea is
+if you haven't seen enough good
+video ideas in real life?
+How do you know what a good
+thumbnail style and concept is
+if you don't know what
+thumbnail styles are currently working in your
+market, in different markets, and on
+YouTube in general?  And that also
+applies to all other parts of the
+YouTube process.  Essentially, YouTube
+is an information game.  The
+more information you have about what
+works on the platform, and the better you can
+retain that information and
+actively recall it at any given time, the better
+you will be able to make decisions.  If you can
+do that in its most extreme form,
+where you can watch the entirety of
+YouTube and hypothetically,
+unrealistically, remember all the
+information about what works across
+the entire platform and what doesn't,
+you would simply make the best
+decision, the one most backed by data
+, the most tested, the one most
+likely to succeed and with the least
+possible risk.  And if you do that
+consistently, you'll outperform your
+competitors in your niche every
+time.  And since YouTube is a
+winner-
+takes-all platform, it's extremely
+important to outperform your competitors
+more often than not so that your channel
+becomes the most dominant channel in
+your niche, which I believe is the goal
+of growing any
+YouTube channel.  So how do we obtain
+that information?  Well, it's through
+research, simply by
+researching on YouTube.  And when
+I talked about the in-depth search algorithm
+applied in that context,
+that's how
+web crawlers are built.  Think about that.
+Web crawling is no different from
+YouTube research.  How do
+we investigate the web in the
+most algorithmically efficient way?  We would use
+a web crawler.  So why do
+n't we apply that to YouTube and crawl
+all of YouTube to systematically gather this
+information
+to know what works, what does
+n't work, not overlook anything so as
+not to make
+incorrect decisions based on
+incomplete data, and ultimately
+make the best decisions, make the
+best videos, and win?  And that's how
+the in-depth search algorithm
+is applied to YouTube.  We
+use it to research and explore the
+entirety of a niche, and then we
+multiply it by as many niches as
+possible.  This is how we gather
+information, and therefore, this
+is how we make the best decisions
+about what videos to make, what
+thumbnails to use, what hook to use, what
+structure to use—every part of the
+YouTube process.  It's all a game of data, it
+'s all a game of information.  And
+just to show you the impact of
+doing proper YouTube research
+, this is a channel we
+took from zero to $1 million
+in YouTube revenue in the first
+six months from the first 12
+videos, and they had no presence
+anywhere else on
+social media, no branding, no paid ads
+, no external traffic, nothing.
+We have almost one million dollars of
+total GMV attributed to YouTube.  It is
+a return of 10 times the gross margin
+on what was invested in the program
+during the last six months.  The
+great thing about YouTube is that we made the
+videos six months ago and they're still
+paying us.    They
+also went from zero to 10,000
+subscribers in the first 60 days.
+That first video also garnered over
+280,000 views from the
+start and closed over $100,000 in
+new deals in the first 30
+days after its release.  The two
+videos that followed the first one
+also achieved more than 100,000
+views.  Defining a
+successful YouTube channel, not only in
+terms of growth, but also
+in terms of monetization for the
+business on the back-end.  Now,
+let me show you how
+YouTube research boosted
+this channel's results and
+growth in practice.
+And also
+show them a couple of videos so they
+know how well they're doing in the
+long run.  We published this video
+300 days ago and it continues to get over
+1000 views every day
+.  If I go to another video like this one, it will have
+290,000 views.
+This was the first video that generated
+more than $100,000 in the first 30
+days.  And then we have this video, which
+we duplicated with the previous one, about which
+I will make a separate video, about the
+strategy of once something works
+, how do you grow the channel
+exponentially faster?  So
+, stay tuned.  But this video here
+was a duplicate; this video
+is also getting about 500 views a
+day after 200 days since it
+was posted.  It's crazy.  So
+, let me go to the canal.  This used to be the
+channel, and as you can see, it's not
+a good YouTube channel.
+Terrible titles, terrible thumbnails, and, as a
+result, terrible results.  All
+the traffic you're seeing on these
+videos comes from external traffic,
+such as website embeds, etc.
+The first video we made for them,
+290,000 consecutive views; after
+that, more than 200,000 views.  These
+videos had fewer views because they were
+targeted at the bottom of the funnel.
+They fulfilled the purpose of
+converting people instead of
+becoming mega viral.  But then,
+280,000 views again, 145,000
+views, etc.  Those were the
+first 12 videos, these ones here, and
+by that time they had already raised
+more than a million dollars.
+So, how did we come up with the
+idea to make this first video?  Well
+, it wasn't due to a stroke of
+creative genius.  It was simply because in a
+completely different niche, the
+dropshipping niche of all niches,
+we saw this video that showed
+a Shopify store, the
+size of a parenthesis, at full speed, and it
+showed everything.  239,000 views
+on a channel that at the time had
+around 5,000 subscribers, but
+which has now grown enormously as a
+result of videos like this one they have
+made.  We only watched this video because
+we were doing
+YouTube research.  There is no other possible way I would have come across
+this
+YouTube video if I hadn't
+dedicated time to applying the
+in-depth search algorithm.  And I
+applied it specifically in the
+dropshipping niche, which is how I came across
+this channel and this atypical case.  And the
+point is that many of these
+videos that you will find by applying this
+algorithm you would not find if
+you used a tool like one of the
+10 viewing statistics of
+IT IQ, etc.  Furthermore, everyone
+has access to those tools,
+so you don't have any
+competitive advantage if you use them.  These
+tools are cheap, in some
+cases even free.  Therefore,
+you must strive to do
+what your competitors don't to
+win on this winning platform that
+is YouTube.  So after
+discovering this idea for the video,
+we did some further research
+in other niches and found
+that this also worked in other
+niches.  Even in the niche of
+video games.  That's as far as we got with the
+investigation.  We do hundreds of
+hours of research on YouTube every
+week.  We have a
+full research team in the company
+because we have more favorable economies of scale
+, so we spend
+over $200,000 a month on our
+YouTube system.  Therefore,
+we have a YouTube system that no one
+else can afford.  Which means
+that, because we do a lot of research on
+YouTube and have a system that no one
+else can develop in any of
+the niches we go into,
+we win: because we have more
+information, we have more data, and we
+also have a better system to
+run it.  By the way, if you're
+a business owner or a brand
+that wants to grow its
+YouTube channel, click the link in the
+description.  We manage
+YouTube channels for businesses and we also
+have an internal team; if that appeals to you
+more than
+us managing the channel for you,
+we can advise your business
+internally on how to grow
+your YouTube channel.  Even if you're
+a YouTube agency, a
+YouTube strategist, a video editor, a
+thumbnail designer, someone in the
+YouTube economy looking to achieve
+better results for your clients, or
+simply building a career on
+YouTube where you're earning six to
+seven figures—like me, making over
+$300,000 a month with my
+YouTube business because of the results
+we're achieving for our
+clients—Inner Circle is for
+you too, not just businesses and brands.
+So you can check it out if it's something
+that interests you.  But, getting back to this
+, that's how we came up with this
+video idea, and then, of course, there was
+the execution.  We had to
+make sure that Mika, the person who
+appears on camera, executed the video
+correctly, that the structure was
+correct, that the way she recorded it
+was correct, and that the way it was
+edited had the correct style, which
+is a very basic editing style.
+In fact, you can even see that the
+thumbnail is a very basic thumbnail,
+but that's because the thumbnail I just
+showed from that video in the
+dropshipping niche was also basic.
+So you can see how we found
+what works and how if we
+hadn't researched, we wouldn't have come up with
+the idea, nor would we have
+presented the video
+correctly, and so on.  Now
+let me show you two
+more examples to make it clear.  I made 500,000
+cold calls on LinkedIn.  How did
+we come up with that idea?  Well,
+again, we saw a video in the
+YouTube niche, which is I made 300
+YouTube videos on LinkedIn for Ed Lawrence
+that got 480,000 views, one of
+his most successful videos on this channel.
+Then we took it to a
+completely different niche: I sent 10
+million
+cold emails on LinkedIn for clay.com, a
+multi-million dollar company, 176,000 views
+.  And after that, we took it to the
+Glen Coco channel, which got 139,000
+views and is still in use
+today.  We made this video for
+Instantly, watch me start and sell a
+service in 10 hours, which got
+440,000 views and generated over
+six figures.  This video, on its own,
+is similar to the
+fast-paced racing videos and some other
+Glen Coco videos, and also some other
+Instantly videos.  And you can also
+see that other people have copied it,
+like Nick Sareve, who is one of the
+biggest channels in the
+AI ​​niche.  He got the idea for this video from the
+Instantly video.  And this is one of
+his best performing videos, and
+I'm sure it also generated a
+lot of business for him.  In
+fact, you can see me in the video here
+too.  So, you know I made this
+video.  I was part of the orchestration and
+creative direction of this video where
+we set up this whole challenge.  And
+people called it the best ad of
+all time.  You can see it here: "
+The best ad I've ever seen.
+We will definitely start using
+Instantly for my campaigns."  Over
+100 likes in the comments.  Wow, I did
+n't realize I was watching an ad.
+And everyone was saying the same thing.
+Clearly, this was an
+Instantly ad, but I didn't realize that's what it was going to
+be until
+the product appeared.  A well-
+defined hook, my friend.  And everyone was saying the
+same thing.  How unusual is it for
+someone to praise an ad like this?
+Extremely rare.  So you can
+understand why this video generated
+so much revenue growth for
+Instantly.  But it's funny because
+we actually got this idea again
+from a YouTube research project where we
+saw, in a completely
+different niche, "Watch Me Make and Sell a
+Digital Product in 10 Hours" by this
+channel, Daya.  350,000 views.    It
+wasn't even that
+big of an exception.  It was a rather
+significant exception, but I also watched this
+video and found it very interesting
+because the packaging was authentic
+instead of this sensationalist packaging.
+The way he recorded and executed the video
+was also very interesting.
+Therefore, it made sense to me
+why it worked well and why it would
+work very well if we took it
+to another niche like Instantly's.  And
+Instantly's video worked better than
+Daya's original one, but
+we got the idea for the video from her.  Daya
+was the only one who had done this
+format before we did it with
+Instantly.  But, since we did it
+with Instantly, this has been done in
+many different niches.  You can
+find it.  I'm sure
+we can show some
+screenshots of all these
+different niches where it's been done.  It's
+crazy.  And now this "
+look at me" format is one that is used a lot on
+YouTube.  For example, we did this for
+Arkane, "Watch me create a
+$1 million landing page",
+130,000 visits.  People have made "Watch me
+create an AI app", which
+got over 140,000 views here.
+But what I want to illustrate here is
+that, one after the other, the first three
+videos that got over 100,000
+views on a channel that
+was previously practically at zero,
+stagnant, all came from
+research.  I hope this makes it
+very clear what the value of
+research is on YouTube and why it's
+the most important part of
+growing your YouTube channel.  Now,
+let me show you how to
+actually apply the in-depth search algorithm
+to YouTube.  Very simple,
+let me get to the point.  The first step is to
+define your niche.  You may already
+have your niche defined because you have
+a predetermined niche by having a
+specific target market to
+sell your products and services to;  And
+therefore, you know the
+target market you are going to, and you know
+the niche you are going to make videos about and
+the topics you are going to make
+videos about.  If you don't already have a niche,
+you need to define it.  What do
+you want to build your channel around? Is there a
+specific goal for your channel, and does
+that determine what
+your ideal niche would be?  You can always
+turn to AI if you're unsure of
+your niche.  But if you are an
+entrepreneur, educator, expert, or brand, you
+probably already have your
+predetermined niche.  Just make sure you have a
+clear idea of ​​how you would define your niche.
+Once you have that, what you need to
+do is create a list of
+adjacent niches.  Now, let me define
+adjacent niches.  It's not just about
+niches similar to yours.  These are niches where
+the viewers of those niches
+have demographic,
+psychographic characteristics and behaviors
+similar to those of the viewers in
+your niche.  The reason for this is that
+once we find what works in
+these niches and see the patterns of
+what works, we can assume that it will
+also work for your
+viewers.  And so, what happens
+here is that when we investigate your
+niche, we can see what's missing in your
+niche and what's being leveraged in
+all these other different niches that are
+performing extremely well,
+evidently according to the data.  These
+videos have performed
+exceptionally well.  And when we observe these
+patterns, we can understand why they have
+worked so well.  They stand out, and that
+allows us to stand out in your niche in a
+way that we know is effective and
+good because it has been proven
+elsewhere, but not in your
+niche.  That's the thought process
+behind why we want to
+explore these adjacent niches.
+However, reaching these
+adjacent niches is very easy.  Look at an AI
+like Claude.  That's what I use.
+You can also use ChatGPT.  You can
+use Gemini.  And you can use an
+extension like WhisperFlow to
+talk to it, or you can simply type
+what you want to say.  And you're going to say
+something like, "Hi Claude, I'm in the
+YouTube growth niche. I want to
+grow my channel. And what I need to
+do is compile a list of
+adjacent niches where the
+viewers in those niches have
+similar demographic, psychographic, viewing behaviors, and viewing intent to my
+viewers in my niche. The goal
+of this is to understand what works in
+these niches, and I can assume that it
+also works for my niche because
+the viewers behave the
+same way. They have the same
+intent, the same
+thought process behind why they
+consume content in that niche, and what
+resonates with them would
+transfer in a similar way. Make
+a list of 10. And what I'm going to do
+is let this play out, and I'm going to
+let Claude tell me what to do.
+That's the beauty of using AI in the
+modern era. Okay, the AI ​​is
+finished. It says level one, same
+viewer, same core intent.
+So I think what the AI ​​has done
+is used in the context that it already
+knows my target market because I
+own a business and I'm
+trying to attract business."  So,
+some of these will be a little
+inaccurate. For example, I was saying
+number one agency creation. It's not
+that we can't take things from this
+niche. Of course we can because
+these viewers are
+self-improvement oriented and they're
+trying to build and
+grow their business, right?
+So, scale their regular channel,
+scale their business. So, it's
+definitely about looking at what
+works in those niches, but
+also on other
+personal branding growth platforms, X,
+LinkedIn, Instagram, right?
+Entrepreneurial frameworks,
+commoditizing the archetype,
+operator identity, status plus
+income aspiration framework, hungry,
+here's the exact package of the
+system, da da da da da, making money
+online too, just like the 9-to-5,
+like people who want to escape
+the 9-to-5 in the money aspect, but
+also everyone wants to create a
+YouTube channel. It's that same kind of desire.
+And it's here, too, that I can think of more
+things. I can go back and forth with this. These
+work well. You want to spend more
+time going back and forth and getting
+a  A refined and exhausted list where you
+really don't have any more
+adjacent niches that are relevant to
+explore, and you have everything you
+want to explore.
+You'd probably expect to have a fairly
+long list by the end. You're not going to explore them
+all immediately because it takes time,
+but your ultimate goal is to explore them
+all in an ideal hypothesis. Once
+we have this list, we're going to have
+the list ordered by
+relevance of what would make sense to
+explore. Then we're going to start with the
+first niche. Okay, what I want to do
+now is start with
+personal brand growth, with these
+different platforms, and so on, and
+also any of the
+outliers. And what I want to do is
+create a list of top keywords and
+search terms so that I can
+effectively explore the entirety
+of this niche. Think 10 to 20
+search terms for me.
+So, what I've asked you to do now is to give
+me back a list of
+top seed keywords relevant
+to that specific niche. And these are going to
+be things like
+LinkedIn growth, Instagram growth,
+how to grow on LinkedIn, how to
+monetize Instagram—all these
+different areas where we're going to
+find different videos as a
+result of searching for these
+individual search terms. And
+that's what
+will ultimately allow us to cover all the bases
+of the niche as we explore these
+search terms. Okay, this
+is already done and it looks good.
+Personal branding, how to build a
+personal brand, growing your
+personal brand, but then it's specific
+to each platform: how to grow on
+Twitter, growth strategy on
+LinkedIn, how to grow on Instagram, and
+so on. And we would actually get
+more of this. We would literally
+dive into each platform in
+more detail. I only asked for 10 to 20,
+but in its ideal form, you would go
+much deeper. The goal here is that for
+each niche, you have enough
+main seed keywords and
+search terms to be sure that you're going to
+capture the entirety of the
+dataset. So,
+Instagram growth is a niche in itself,
+really, and so is
+LinkedIn growth, and so on. But,
+for the purpose of this example, I'm going to
+assume that this is all in your
+personal branding niche, which it is a
+part of, but in reality, these are
+separate niches that  You would
+fully explore them if they were relevant to your
+niche. So, now we move on to the
+next step, which is actually
+starting the YouTube research process
+. Now we have a list of
+top keywords and search terms, which you should also have
+ordered by relevance
+from the most relevant and most
+in-demand—the ones you would expect
+most people to search for, and which would therefore
+yield the best
+results, right? You want to start
+with the best to move forward as
+quickly as possible. And I'm going to start with
+personal branding. So, what I
+simply do is go to YouTube and
+search for "personal branding." Immediately,
+I get a bunch of videos back,
+some of which have
+performed exceptionally well, and
+some of which haven't.
+Now, what do I do from here?
+So, if you think about what's
+happened so far, the root node is
+the niche itself that you're exploring.
+The first node we're exploring
+is the first search term on
+that list. And now we move on to the
+next stage, the next node further
+down, which is the
+search results. And what I'm looking for
+here are videos that have  They've
+performed exceptionally well, they've
+performed really
+well in the niche, and it seems like
+the channels are dominating as a
+result of the videos' strong performance
+. Now, the reason
+I'm looking for this is because the
+videos that have performed
+exceptionally well have clearly done something right
+and struck a chord
+with the audience in that niche.
+They've struck such a
+strong chord that they've
+outperformed the typical video in that
+niche by a statistically
+significant level.
+Statistical significance is defined not just as performing well
+, but as,
+compared to the other videos that
+have performed well in
+the channel that they usually, regularly, or
+frequently get, performing
+even better than those. It's
+statistically significant.
+And what I see here immediately is a
+video that has performed five times
+better than the average video on this channel
+. What I'm using to get this
+number is the One
+of 10 Chrome extension. You can get the
+Chrome extension for free. You don't need to
+buy the paid tool or anything like that
+. Just go to the Chrome
+Web Store, and it tells you the
+multiplier score.  of the video. But
+I can also see without that that the
+video has 120,000 views. And
+if I went to the channel, I could get the
+subscriber count. I can see that
+this channel has 190,000 subscribers.
+However, using the VidIQ extension makes it
+easy for me to see it without having to go to the
+channel. I know this channel, and I know that
+this video has performed
+exceptionally well.
+You always want to roughly calculate the
+actual outlier score in your
+head just by looking at the channel and seeing
+how many views it has because
+sometimes these multipliers from these
+tools, like
+One of 10 view stats, etc., can
+be a little inaccurate. And so,
+what I do from here is,
+since this video has
+performed exceptionally well and I
+also find it interesting, I think there's
+something here. I'm going to leave this
+tab open, but I'm going to open a
+new tab on the actual channel. Now
+, why am I doing this? Well, if
+that channel has a video that has
+performed exceptionally well,
+and I watch the video and think, "This guy
+knows what he's doing,"  From
+YouTube's perspective, it's very likely they have
+other videos that
+do the exact same thing, because they
+clearly understand the YouTube game
+. So, it's worth
+taking the time to review this channel and
+see what other videos they've made that have
+performed exceptionally
+well at a statistically
+significant level. And, in fact, many of
+them could have
+performed even better. These
+videos average out, but this one here
+has 640,000 views. That's insane.
+So, what I'm going to do is
+open that video and simply
+check that the engagement looks
+good. So, 100 comments, and if
+I look at the views graph,
+okay, it looks like external traffic has been sent
+to this video. This is
+key information. So,
+when you look at these outlier videos,
+make sure you check the comments and
+the views graph. And if
+something seems a little suspicious in
+terms of low
+comment engagement for the number of
+views it has, or a
+very dubious views graph,
+just take note of it. And I'm not saying
+this video  It might not have been
+organically delivered. That's something I'm
+considering. Perhaps
+external traffic was sent to this video, or
+perhaps it's just starting to
+take off and the engagement is lower
+because I would say 100 comments
+for 600,000 views is a
+low number, but it's not an
+alarming amount either, if that makes
+sense. So, I
+'m still considering it, but I'm not going to
+take it as a single massive data point
+, and I'm not going to go ahead and
+make a whole video about it without
+any other data to back it up that
+something was done right with this video.
+Also, another thing, you can dig
+even deeper, like in practice, if
+you do the full in-depth search
+, you'll also start getting
+recommended videos that are similar
+in the suggested videos section, and
+you can go ahead and explore those
+because you might find even more
+channels that you wouldn't have
+found otherwise by searching the
+search terms through this. Like, for
+example, this guy, Sky Tan, I actually
+know him. Obviously, he's also
+in the content space. That's another
+channel I would explore because this
+video performed well.  6.2 times
+better than average. Maybe there's something
+on their channel worth checking out.
+But for the purpose of this, I'm going to
+stick to the channel stage. I'm not going to
+dig any deeper. So what I'm going to
+do is keep searching, and as
+I find these
+outliers, I'll save them in a
+database. I'll leave a link in
+the description to a
+research database template, as well as
+any hints and other things I
+'m using in this video, so
+you can access everything. It's
+completely free. I would fill in
+that database as I go through
+and find these
+outliers. I would put in the
+video name. I would link to the video. If
+you're using
+Google Sheets, then you can just
+link to it, and it creates a chip, and it tells you
+the title with that. Then I save it
+in a column. I have the number of
+views. I have the
+outlier score, and I have the niche. And I also
+have a couple more things that you'll see
+in the template as I
+fill this out. So  which I would
+review and also add more
+things. So, this one here, "How to
+Build a Marketing Team in
+2026," has 3.7 million views.
+However, I'm always going to double-check the
+engagement. So, what
+I can see here is 45 comments; this
+video definitely had
+external traffic. Again, the
+views graph looks quite similar there,
+so it also makes me more
+skeptical about the other video.
+And we can keep looking here. Let's see. Let's see
+. Okay, this one here, "How to
+Start a Social Media Brand
+from Scratch in 2026." I'll look at it to see
+if it's worth annotating. "The Art of
+Modern Streetwear" looks interesting
+. So I'm reviewing it and
+adding all this. Let's take a
+look at this one. This one here seems to
+have adequate engagement.
+Again, a similar views graph,
+which is interesting. But
+regardless, I would review
+this, identify
+outliers, and also have that
+extra layer of security of checking the
+comments,
+engagement signals, and the views graph
+using extensions like  One of 10
+View Starts or vidIQ, and I would determine if it
+was truly an outlier that
+was actually pushed
+to an outstanding level by the algorithm. That's why
+I check the comments and the
+views graph because if it has a lot of
+views, but it didn't come from the
+YouTube algorithm, then it didn't actually
+resonate naturally with that
+target market necessarily more
+than any of the videos. There are
+many things here that I know for sure were
+done organically
+because I know this channel. For example,
+this one right here, I know it was a video that
+naturally had a good impact on the
+algorithm. And having said that, let's say I
+hypothetically explored this entire
+channel, there are no more outliers
+that I really want to consider.
+I'll just close the tab,
+close this tab as well, and
+end up back at the
+original search term. So, if you
+think about it, what I did was perform that
+in-depth search where I explored
+all these different data points
+within the dataset, I went on and
+on. Is there anything left to explore? No.
+I take a step back and repeat the process
+again and again.  Next up, I'm going to the next video—
+and could you check it out?—another video that
+well for a completely new channel
+that we haven't explored yet, and I'm
+repeating the whole process here. Mark is
+someone who's really taking off on YouTube
+, so I know there'll be a lot to see
+and be inspired by here. I built a
+complete enterprise operating system using
+Claude Code. This was a bit of a departure
+for him, and I can see and understand
+why this video has
+performed so well. It's still a
+fairly niche video—an
+enterprise operating system—but it's
+captured a large percentage of that
+audience, which is a very
+sophisticated, high-value audience that uses
+Claude Code as a topic, because Claude
+Code is a trendy AI model that's
+getting a lot of attention in
+countless different niches right now
+. And it makes sense why this
+video has performed so
+well. And I'm sure there
+are many others here as well. Like this one, if
+I wanted to build a personal brand in
+2026, I would do this. And I'm going to take a
+shortcut to show you what the future
+of your application of this process
+looks like and how the...  Ideas can come
+from this. So, this video
+here, for example, if I wanted to
+create a personal brand in 2026, I would
+do this. As you start
+researching and doing in-
+depth research into these different niches,
+you begin to form patterns and notice
+patterns between niches and between
+different channels. For example, if I were to
+hypothetically go ahead and research
+the YouTube growth niche, one
+video I would find would be: If
+I were to open a YouTube channel this year, I
+would do this. For example, this is a
+very common format. If I were to open a
+YouTube channel from scratch in 2026, I would do
+this. And it's already been done
+there. Ali Abdaal was the first
+to do it in this specific niche, with
+4.5 million views. And so
+, you can start to see the pattern among
+all of this. It's been done multiple times in
+this niche. It's one of the most
+successful formats in this niche, but it's also been
+done in other niches. So,
+you can start to imagine what
+the future will look like as you go through the
+step-by-step process.  of searching.
+Now, I'm not going to lie, this is a
+time-consuming process, but it's
+the most valuable way you can
+invest your time if you're serious about
+growing your YouTube channel.
+This is by far the
+highest leverage activity and task you
+can undertake as part of
+So, you also have other things, like
+how to manage your time like a CEO
+. Perhaps this topic of managing
+time like a CEO is very interesting.
+How to make millions with content without
+going viral. And I can tell you that
+all of these are things that work in
+other niches or in different forms.
+So you build this database
+of all these outlier videos in
+these adjacent niches, and then
+you'll start to form patterns among
+them. I'm not going to look at this video,
+22,000 views, it didn't do very well. Oh,
+this one here, 1.1 million views.
+Again, I go to their channel, I look at theirs.
+Okay, these videos are
+performing average. This one did pretty
+well, 200,000 views. That could be
+Something. Well, those are two
+personal branding courses he's done that have performed
+Perhaps this course format works
+well in relation to personal branding
+or in niches related to
+personal branding, like YouTube growth,
+LinkedIn growth, or
+Instagram growth. Hmm, I wonder if I made
+this video in the Instagram growth niche
+or the
+YouTube growth niche and made it 6 hours
+long. You know what I
+mean, right? And I know for a fact
+that this video would perform
+extremely well in the
+YouTube growth niche. So now
+I have this idea that, well,
+full courses work really well with
+these kinds of viewers with
+similar viewing behaviors. This would also work
+in my niche. Nobody has done it before, and
+I know nobody has done it before with the
+level of detail and value that someone
+like Caleb has for personal branding
+. Nobody has done it for YouTube, and I know I'm
+someone who is really capable
+of doing it. Once you've
+found these video ideas and
+have some video ideas for yourself
+that you think would work
+exceptionally well across
+all the  Based on the data you found,
+make sure you can actually
+make the content reach a level where it
+meets the
+viewer's expectations. Because, for example, if
+I made this video about how to create
+a YouTube channel—a complete
+6-hour course—but didn't do it with the
+level of sophistication, detail, and
+value that Caleb did, which played a
+fundamental role in the success of this
+video, it wouldn't be very effective. It's not just the title, is it
+? And I'm sure the
+thumbnail style also played a
+significant role, but I think a
+major part will be the course itself. It's
+one of those formats where the
+content is also going to be very important.  and
+important for
+video performance.  So, if I just make a
+simple 6-hour course, it's not necessarily going to work
+very well, right?  That
+is also very important.  It's just a
+small sample for you.
+Anyway, I would keep repeating this
+process, going as far as I could
+until there was nothing left to explore,
+taking a step back and continuing to
+review this search term
+until the same thing applied.  And, over
+time, I'd probably start
+getting some results that would be
+less relevant, and I'm starting to
+get recommendations that are
+off-topic, but I wouldn't move away
+from this search term until there
+really was nothing left to
+explore because all I
+care about is finding the data and
+information, you know?  And it seems there's a
+lot here.  You could check out this
+personal branding search term
+and find a goldmine of ideas.
+But, eventually, you would run out and
+move on to the next
+search term.  And you repeat that process over and over again
+for that search term
+, for those channels, going back over
+the steps recursively, and then you
+move on to the next and the next and the
+next until you have completed the
+entire list.  And that's how you
+fully explore a YouTube niche
+using the in-depth search algorithm
+to ensure you
+find all the data, all the
+information to make the best
+decisions.  And then you do that in all
+these different niches and suddenly
+you have the omniscience of YouTube where
+you literally know everything about what
+works on the platform.  And that's
+basically the crux of how you run
+the depth-first search algorithm
+.  This is how you apply the
+in-depth search algorithm
+to effectively research on
+YouTube, explore the entirety of a
+dataset, a niche,
+multiply it into several niches, and
+gain YouTube omniscience
+to the point of having all the
+information and data to make the
+best decisions—better decisions
+than any other channel and competitor
+in your niche—and, in turn, grow
+the biggest channel and gain the
+majority of the market share.  But,
+obviously, in practice, this is a
+lot of work.  Now, what I will say
+is that it's worth the effort.  It's worth
+the time invested.  It's the
+most valuable way you can invest
+your time.  Now, obviously,
+when I talk about exploring the entirety
+of YouTube and achieving
+YouTube omniscience, it's an unrealistic ideal hypothesis
+.  But the point is that
+the more visibility you gain, the better
+equipped you'll be to
+grow your channel effectively.
+You'll have more tools in your
+arsenal.  Tools like
+working title formats,
+working thumbnail styles, etc., etc.
+But I'm going to show you how to automate
+this process with AI, because I know you
+'re probably thinking, "I
+love the idea, but I don't feel like
+doing it."  You should do it, but I'm still
+going to show you how to do it with
+AI for educational purposes only, so
+you can expand your research even
+further. Because if you're doing research and
+AI is doing research at the same
+time, and you have an
+AI researcher working with you, that's
+beneficial and in your best interest.  So
+let me explain a little bit.  I'll
+leave the instructions for this in the
+description.  I'll have everything organized
+in a link for you, like the link to
+the
+research database, etc., to make it
+very easy for you.  And this is what it is
+capable of producing, where it finds
+all these outliers in many
+, many, many, many, many
+different niches, and is also able to
+recognize the patterns among them.  And
+this is where we came up with these
+title formats and
+thumbnail styles.  For example, this first one
+here, each one explained in X minutes.
+Watch this video, each paradox
+explained in 8 minutes.  Each type of
+martial art explained in 12 minutes.
+Every vault in Fallout explained in 51
+minutes.  And you can also see the
+thumbnail styles and the similarities
+between them, right?  This format
+here, give me X minutes and I'll give you XYZ.    Give
+me 10 minutes and I'll remove the fat.
+Give me 9 minutes, I'll give you 10 years.  Give me
+10 minutes and I'll show you how not to
+do something, something.  So, there isn't a
+distinctive thumbnail style for
+this, but there's clearly a
+very distinctive title format, right?  This
+is just a glimpse of what
+you can actually do with AI.  We have our
+own internal AI system on the
+back-end, which, if you think that's
+crazy, what we're using for
+our clients is on another level.  And
+, obviously, I can't give you that
+system for free; it's exclusive to
+our clients or members of the
+inner circle.  So, if you want to
+access it, you can click the
+link in the description and book
+a call for us to manage the
+YouTube channel for you and gain
+access to the system, or you can join the
+inner circle where I will give you and
+teach you this.  But for this
+video, I will still give you a lot of value and
+provide you with a simple
+instruction that you can give to Claude
+, who will do all the
+research for you directly in
+your browser.  It's great, check this out.
+Okay, what I'm going to do is go to this
+chart, but you can do it in a
+completely new chart and paste
+this instruction.  Use the
+YouTube research skill, which will
+also be included in that gift
+you can get along with the other
+things.  And for the sake of this, he will only
+make five solid channels and three
+pages deep, so that it doesn't
+last forever.  And when you run
+this notification, it will literally perform the
+entire process I just
+explained to you.  It will generate the list of
+top keywords for that
+niche.  It will begin with the first one.
+You will find the first video that surpasses
+a certain
+view threshold and has
+exceptional performance.  It will open the
+channel in a new tab.
+You will find all the outliers
+in that channel and extract the data
+using the JSON and JavaScript
+displayed on that page.  Then, once you
+have fully explored
+that channel, you will
+recursively backtrack to the
+search term and repeat the process.  And
+then it will put it into a
+Google spreadsheet for you, where it
+will organize all the data.  You can see
+how it works here too, and how it's
+done live, right?  I insist,
+in this example I am not going to do the
+full in-depth search.  I'm just
+going to give a small demonstration,
+but in practice you could go
+much deeper with this.
+Research on YouTube is, by
+far, the most important part of the
+entire YouTube process.  Now you know
+how to do it algorithmically
+using the depth-search algorithm
+to get the best
+video ideas, make the best
+subsequent decisions at each level of
+creating a YouTube video, and
+how to use AI to automate
+this process.  That said,
+research on YouTube is only one
+part of the process.  So, if you
+click on this video, I'll give you a
+lot of valuable information about
+all the other parts of the process.
+You'll learn how to generate
+video ideas, hire an editor, and
+much more.  There is
+intensive training that covers many aspects.
+It's as if it reveals everything.  I can't hold back
+.  Click on that video.
+See you in the next one.

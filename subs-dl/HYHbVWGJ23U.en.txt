@@ -1,0 +1,1489 @@
+If you want to use AI to create viral
+content, then listen up. I brought on
+Tom Craw, who's been building
+automations for nearly a decade. He's
+attributed over $25 million in revenue
+for his e-commerce clients, and now he
+runs a content system that pulls in
+millions of views, tens of thousands of
+followers a month across X and LinkedIn.
+So, in this episode, you're going to
+learn how he built a Claude code skill
+that scrapes his X data every single
+week, updates his voice profile
+automatically, and writes posts that
+actually sound like him. So, if you
+stick around till the end, he reveals a
+hidden Claude code command called
+insights that audits every session
+you've ever run, tells you exactly which
+workflows to turn into skills next. You
+are going to love this one. So, let's
+dive in.
+>> Tom, what are we learning today? All
+right, we're going to get into some
+juicy stuff around skills, building
+skills in Claude Code. We can get into
+my content creation flow that's that
+generates me millions of views across
+platforms, tens of thousands of
+followers. Um, and some some other cool
+stuff that I think uh we can get into as
+well with, you know, Claude desktop and
+projects and things like this.
+>> Awesome. Yeah. And I love Claude. I
+spent all my time in Claude. that's my
+LLM of choice and I spend most of my
+time building skills in claude as well.
+So I think this is going to be a super
+useful deep dive into that ecosystem.
+And so Tom before we jump into your
+screen and you kind of show us step by
+step why don't you just tell us why the
+audience should listen to you like
+what's your background?
+Yeah. So unlike a lot of people, I've
+actually been building automations for
+eight, nine years and not just in tools
+like NA10, but I'm going back to Zapier,
+which has been around for a long time. I
+was working in the e-commerce space with
+eight nine figure brands, and we were
+building automations for email, SMS in
+Clavio and and these kinds of platforms.
+So um yeah, automation doesn't just mean
+like agents and all this like APIs, HTTP
+requests, all this stuff. You know,
+automation's we've been able to do those
+for quite a while and they've been
+incredibly effective. I mean, we
+for our clients over that period. So,
+um, they do work and the the next
+evolution of that was was getting into
+NA10 and and that's kind of what I've
+gone deep on for the last couple years.
+And then more recently with, you know,
+port code and lovable and all of the
+open claw, which is, you know, kind of a
+cool new tool that's been dropped. Um,
+so yeah, that's that's a bit about my
+background and um, yeah, in in terms of
+like the stuff I enjoy to do, you know,
+guitar, skydiving, bass jumping, free
+diving. Uh, I love kind of the adventure
+side cuz think you got to balance it,
+right? If you spend enough time in front
+of the computer, you got to get out,
+move your body. I like to dance and sing
+and other things. So,
+>> got to keep the balance, at least for
+me.
+>> Yeah, absolutely. No, I think that's
+that's just good general advice, too.
+So, I'm excited, man. Let's dive in.
+Let's see what you got going on under
+the hood. And again, we're going to look
+at some some clogged code and some
+skills specifically. So, let's check it
+out.
+>> Right. I'm just choking on my water
+here. [laughter]
+>> No worries.
+>> Literally just inhaled it.
+So, we're expecting a bit of comedy
+today, but just how how it rolls. So, I
+[laughter] am going to share my screen
+and show you one of the skills I've
+built.
+Uh, let's just uh find
+this button.
+I don't know if this is going to do the
+uh the screen of death here where it
+zooms on everything. [clears throat]
+[snorts]
+Let's just do
+the entire screen.
+>> Yeah, that works.
+>> Yeah. [snorts]
+Cool.
+So, sorry about that. [clears throat]
+That happens. Let me just go.
+[snorts] So, I mean, most people know
+this is this is claude code. It's
+incredibly powerful. You can actually
+access this now in the desktop app.
+[clears throat]
+So, you can just load up a folder
+um or a branch from from GitHub and uh
+you can you can just work in here. I
+mean, I personally prefer this interface
+because it's just a little bit nicer
+than working in the terminal and I just
+find it's a bit easier to read. And
+[clears throat] when we talk about
+skills, we're talking about [snorts]
+um these it's essentially a series of
+context files, right? So, in the in the
+in the beginning, right, when uh before
+skills, we had we had projects.
+And so, you know, these are like core
+projects. I've got I've got a bunch of
+them for different use cases, right? Um
+we have this let's say a Cinta NA10 and
+this is connected to the Cint MCP and I
+can just tell this project what I want
+to build in NA10. It will literally
+build it in NA10 [snorts]
+um without me having to put any nodes in
+or anything. It's just it's it's
+connected to my account. [clears throat]
+Right. And in here we have instructions
+and um on the back end we've got an MCP
+integrated with this. So projects,
+you know, you can typically I've got
+this copyrighting one. I use this a lot.
+And we've got, you know, copyrightiting
+guides and and this is all your context,
+right? But the issue with the project is
+every time you put a message in that
+chat, it's loading all all of that
+context and it's taking up a lot of your
+context window. So when it comes to
+building skills, the great thing is it's
+like a book. You know, you the LLM
+Claude in this case will read the the
+contents. So, what chapters have we got?
+And it'll show you all the files that
+you have access to in that skill.
+And instead of loading all of them, it's
+going to pick the one that it needs to
+do that specific job. So, in cloud code,
+you can just type forward slash and I've
+got this this one called content create.
+[clears throat] And if I just if I just
+hit it, I'm not going to give it any
+instructions or anything like this. It's
+now going to ask me, it's it's going to
+read that file and it's going to figure
+out, okay, he's he's just starting out
+this project. Um, whether I'm writing
+content for X, whether I'm writing an
+article,
+whether I'm writing something for
+LinkedIn.
+It's got a bunch of context in here. Um,
+so I'll go into how I created this and
+how you can replicate this for yourself
+because
+the issue is with content is it's I
+would never I would never automate it
+like with a workflow or something.
+>> It's just such a terrible idea
+because you're not going to get the
+level of quality that you want.
+>> And you know, my background is in
+marketing and copyrightiting and and you
+know, writing emails and things like
+this.
+>> [clears throat]
+>> And so taking that lens, I can I can
+read the output and be like, "No, I want
+it I want it this way." And so having
+having that experience and perspective,
+you know, can really help. And if you
+don't have that, that's that's totally
+cool. But you can learn that yourself,
+>> right?
+>> I think I think the the issue
+[clears throat] of relying on LLMs for
+absolutely everything means that you
+don't you end up not using your brain.
+Mhm.
+>> So, if you don't understand
+copyrightiting and like what is a good
+hook and you don't do some research to
+like pull in like okay some examples of
+what what works,
+then you're not you're not going to be
+able to develop that critical eye. And
+that's what that's what makes the
+difference between you creating AI slop
+and you creating something that's that's
+going to have a higher chance of going
+viral and people sharing it. Does that
+make sense?
+>> Absolutely. Yeah. I mean, you're I think
+the the best point that you made is is
+it needs references, right? Like you
+can't just ask it to write you an
+article or write you a tweet or write
+you a post. It if it doesn't have really
+good reference material that it can look
+at inside of that skill to determine
+what does good look like, then it's just
+going to give you slop. So, that's a
+great point. Yeah. Continue.
+>> Yeah.
+So before you even try and create this
+skill, that's what you need to do is and
+and I've I've put out a few videos on my
+channel about how I how I go through
+this process. Um I've not done anything
+on creating skills. So this is kind of
+new and fresh. Um because this is
+something I only recently created. I was
+still, you know, like a month or so ago.
+I was I was just using these clawed
+projects and getting and getting good
+results. like I had my process,
+but I wanted to convert it over to claw
+code with this skill that I could then
+develop and and add to and and so that's
+what we've got here. Right. So, it's
+loaded my voice profile. Okay, which is
+I have a X API MCP
+um that basically can connect to the X
+API. It's not an MCP, sorry, it's a the
+X API. I've written a script for it.
+It'll pull all my posts like from the
+last seven days
+>> and it'll find the ones with the the
+highest engagement, the highest reach.
+Um, and they'll it's going to run that
+job on a weekly basis because you can
+only get the last seven days of posts,
+right? It's going to run that on a
+weekly basis. It's going to update my
+voice profile on a weekly basis based on
+the top performing posts, right? I have
+um uh Sultan uh principles Alan Sultene
+is or Sultenish I don't know how you
+would say his name but I think it's
+Eastern European or something. He's a
+he's an absolutely he's a fantastic
+copyriter. Um I've followed his work for
+quite a while and I just love the the
+stuff that he shares. So I you know and
+you can do this as well. You can you can
+grab like emails or articles or posts
+from copywriters and start building up a
+resource and you you put that into into
+a chat claw chat and say, "Hey, can you
+distill these lessons and can you give
+me as a markdown file and then boom, you
+can feed that into your into your skill
+as like principles to to use in your
+posts."
+>> Right? Again, just basically telling the
+you're telling Claude code like, "Hey,
+every time you use this skill, I want
+you to make sure you're writing in my
+voice, which is what the voice profile
+is for, and I want you to make sure
+you're following these principles, which
+again, you took from a master
+copywriter." So, it's like every time
+it's running that skill, it's doing it
+in your voice and it's following best
+practices for copywriting. And again, I
+think the the purpose of the skill,
+right, is so that you don't have to give
+it that context every single time you
+want it to use it. It can just call the
+skill and boom, it's all right there and
+then [clears throat] it's good to go. Is
+that kind of the point of this being a
+skill versus like a super long prompt?
+>> Yeah, exactly. You don't have to be
+grabbing all your all those documents
+every single time,
+>> And previously I had those loaded into
+my claw projects. So, it's just this is
+just a different way of of doing it. Um,
+both have their pros and cons. This is
+going to take up less, you know, tokens
+and things because it's more efficient
+and it's I can do everything in one chat
+here, whereas I was kind of moving from
+a couple of different projects in
+Claude,
+>> I have a I have a voice evolution
+report. So this like I mentioned it's
+it's similar to what I mentioned earlier
+about taking the most recent articles
+and then updating [snorts] um my my
+voice profile. So this this report gets
+generated. I've got a nano banana system
+for creating images. Um I'm having mixed
+review. I'm having mixed of thoughts on
+this. Um, I could probably improve this
+process, but getting a good image for
+your social media is it's it's hard even
+with the tools that we've got in my in
+my experience to get it
+>> how you want. I mean, if I just
+if I just like bring up my my X profile
+and just kind of give you some some
+examples like this was pretty
+straightforward, but stuff like this.
+>> And that's a good image. Like I like
+that. That looks good. But I bet that
+took what, four, five, seven iterations
+probably to to get it to that point.
+>> Yeah. And like stuff like this, getting
+those logos in. I mean, I had to add
+some of these in post in like Canva. Um,
+that was pretty straightforward. Um,
+this was a little challenging, but you
+can see I have this kind of theme with
+these this kind of uh these
+like icons and arrows, and that's that's
+something that's done pretty well for
+me. So I'm like, "Okay, I I I'll repeat
+this."
+>> Right.
+>> Yeah, those look really good.
+>> I like Yeah. So things like this, they
+can be tricky to to get right. And And I
+like this one got a million over a
+million views, right?
+>> And Yeah.
+>> Oh, I I literally saw that on my
+timeline like uh was that Yeah, the six.
+So yeah, within the last couple of
+weeks, I'm like that looks familiar.
+>> Yeah. So So that's the issue with with
+image generation right now. I generally
+use a clawed project where I've and I'll
+just show it real real quick. Um
+I generally use a a project with
+some stuff.
+Oh,
+>> Claude chat's down right now. It has
+been for the last hour. So that's
+probably the issue that you're going to
+run into. I I was trying to use it an
+hour ago and it's down for for I think
+for everybody
+>> really.
+>> Yeah. Or maybe it's back up. But yeah,
+it it wasn't working this morning.
+>> Oh wow. I mean, it was fine for me like
+an hour ago, but that's that's that's
+funny, isn't it? Like imagine how many
+people are like absolutely just stuck
+right now.
+>> Like they can't do anything. I mean,
+that was literally me this morning. It's
+so funny because I was Yeah. I'm like,
+"What's wrong with Claude?" And I'm
+like, "Oh my god, am I going to have to
+go back to chat GBT?" Like I was
+[laughter] I just had like It was such
+like a let down moment.
+>> Back to the dark side.
+>> Yeah. Exactly. So,
+>> okay.
+>> But Nano Banana 2 just came out
+yesterday, too. I don't know if you saw
+that.
+>> It did. Yeah. I've not I don't think
+I've tried it. I mean, I've just been
+using the in Gemini, right? Um I don't
+know if it gives you access to Nana
+Banana, too, or it's just using
+um Pro, but I mean, I'll just show you
+like a previous chat like um what's
+what's this?
+Oh, how do I move that?
+Sorry.
+Okay. You can see
+this is one of my images that you can
+see the progression. So
+>> yeah,
+>> um
+like one of the one of the articles I
+was working on, I was like, "Okay, I've
+got this reference. I like this." And
+it's like I'll generate
+five 10 prompts with with ideally with a
+reference, sometimes not. And you can
+see it's just I'm like, "Oh, that's
+terrible. That's terrible. That's
+terrible. And I'm like, "Okay, back to
+the drawing board again." And I was
+like, "Okay, let's let's try and
+replicate this, but change the text and
+have these people fighting." I'm like,
+"Okay, boom. That's that's what I need."
+>> Yeah, that looks good. Yeah. And that's
+I think to your point, like that's the
+struggle with image generation. Even
+with an incredibly powerful [snorts]
+model like Nano Banana, it's rarely is
+it a oneshot to get like a really good
+image. Usually it's, you know, you got
+to come up with a prompt and you got to
+iterate two, three, five, seven times
+and then then maybe you've got something
+that's workable, but there's other
+times, like you said, where it's like,
+well, actually, I've got to go back to
+the drawing board and start from
+scratch.
+>> Yep. Exactly. And it's, you know, it's
+taste at the end of the day, and it's
+it's difficult to to replicate that. So,
+great thing with these tools is you can
+you can get a lot of variations done,
+and these generations are super quick.
+Um, so I can I can do like five to 10
+variations um pretty quick. But um yeah,
+and and it kind of gave me that and then
+I yeah, I landed on this and I'm like,
+okay, you can tweak this in Canva, you
+can remove the watermark, you can you
+can size it correctly, all of that stuff
+you can do after the fact. Um, another
+thing you can do is you can put it into
+Canva and you can you can select like I
+like you could select all this text and
+you can move it around, right? Well, you
+could I didn't know that.
+>> You could delete stuff. Yeah.
+>> Interesting. So, that's actually
+something um I wanted to kind of ask you
+about. So, do you use can like are you
+on a Canva paid plan and do you use that
+to kind of So, let's say like Nano
+Banana gives you an image and and that
+gets you like 80 to 90% there, but then
+you use Canva to kind of get that last
+10 to 20%. Is that kind of your
+strategy? I feel like that's what a lot
+of people do, right?
+>> Yeah. It's it's just if you're trying if
+you're trying to just force Gemini to to
+resize it and and get it to where you
+want it to get, you end up just pulling
+teeth at that point,
+>> Uh because it won't listen to you to get
+it to the specific size that you want.
+So, I'm just like, "All right, I'll just
+throw it into Canva. Create the canvas
+size that I want. Remove the watermark."
+Like with with this one here, it wasn't
+generating me the gamma logo. So you
+could say, you know,
+>> Yeah, I've had to do that, too, where
+it's like it'll just hallucinate the
+logo or you sometimes you give it the
+reference logo and it still doesn't put
+it in the right place.
+>> Yeah, exactly. I mean, I gave it all
+three reference logos and it just didn't
+put that one in for some reason. So,
+yeah, little tweaks like this um just
+give it I don't know. It's it's got to
+be done at this where where we're at
+right now with this tool. Um yeah and
+and so yeah what I was saying is if you
+go to edit and you can go right okay you
+can do magic grab.
+So it's going to analyze the image and
+you can be like okay I want to grab this
+like grab
+and uh it should allow you to just just
+move this logo. So you're like boom.
+>> Oh wow.
+>> That's now are you on the is that
+require a paid plan? Like are you on a
+Canva paid plan? I am on the plan. I
+can't remember what planet plan I'm on
+actually, but I am on a premium plan. I
+had it for the longest time. I think I
+think I don't [laughter] I don't know if
+this is if I should share this on your
+podcast on your your channel or not, but
+um
+it didn't come from me, but you might be
+able to find a way to to to get an
+account for like really cheap off fiber
+or something and and just like I'm not
+this this is like someone someone shared
+me this with this plan with me and and I
+I can use it and I'm not sure exactly
+how it works, but [snorts]
+um there's That's an option you can go
+for.
+>> So, you're on like a legacy plan of some
+sort, it sounds like.
+>> Yeah. Honestly, I'm not entirely sure.
+Look, I'm on this uh it's like a team
+and this this team has given me access.
+So, you can if you want like a top plan,
+like that's how I did it. But I've had
+this for a while, so it's not the most I
+mean, it's legit, so you could do
+[snorts] that. Um you could probably
+find it on Fiverr or something. Um, but
+the other cool thing you can do here is
+magic arrays, right? And I mean, you
+might have heard about that. You can
+just select stuff to arrays and it'll
+delete it for you. It's pretty pretty
+cool. So Tom, is it safe to say that
+again just to kind of clarify my earlier
+point and this is more so for my
+reference because it's funny right
+before we jumped on here I was looking
+>> I was I was doing some searches to try
+to find a really good uh AI forward
+carousel creator for like LinkedIn
+carousels and so is it safe to say that
+Canva is almost like a requirement if
+you want to create highquality
+images carousels and again like the you
+know the image generation models can get
+us 80 90% of the way there but to really
+get them to 100% something like canvas
+required like is that fair to say
+>> I would say yes
+and I don't know what plan you would
+need to be on to have these features but
+um yeah if you want to if you want to
+take if you want to avoid like playing
+tugof-war with Gemini and trying to
+force it to do the things that you want
+probably do yourself a favor and grab a
+Canva account.
+>> Yeah, that makes sense.
+>> And are you using it to create like I
+don't know how active you are on
+LinkedIn, but have you ever used it for
+like carousel creation or carousel
+design for LinkedIn or or for any
+platform really?
+>> Uh I I've not really been doing
+carousels. Um so I just repurpose my X
+posts over onto LinkedIn. So I I'll use
+the same the same image basically.
+>> I mean these these are article images
+for X. So, I'll just maybe I'll crop
+that for LinkedIn, but um I'm basically
+using the same the same images across
+those platforms.
+Nice. Well, yeah, you you've sold me on
+a Canva account, [snorts] so I think as
+soon as we get off here, I'm going to go
+upgrade cuz
+>> Yeah, like you said, it's like playing
+tug-of-war with Gemini. Oh my god,
+there's nothing more frustrating.
+>> Yeah, totally. And [snorts] when it
+comes to content, you know, your your
+copy is important, but your image is
+also like that's that's the scroll
+stopper, right? People
+will read the hook and and but the the
+image will often grab attention if if
+people are just flicking through the
+feed,
+>> right? Absolutely.
+>> They both work together really well. And
+you know, you might be asking, well, how
+how do I know what a good image is?
+Well, again, it's you have to you have
+to build up a like um a folder of
+references,
+>> And and eventually if something
+something starts to if something goes
+viral, then like I've got a folder of
+all my viral images, right? Yep.
+>> And so I can I can use those as
+references for new images
+like I did with the the one the agent
+teams one that I uh this this one here
+like I've been using this style [snorts]
+uh cuz yeah why not why not just try
+keep doing something that works [snorts]
+right and is that kind of your so like
+your workflow of like hey all right I
+wanna I want to create a new image for
+this X article that I'm writing. Do you
+almost always start with a reference
+file of an image that was successful for
+you in the past and you kind of just
+iterate off that reference or are you
+ever really starting from scratch?
+>> I I'll I'll I'll try and find a
+reference where possible. Um but I might
+just use the same reference, right? I
+often I often do that like I'll use the
+same reference or or I've got a handful
+of references I'll try.
+Um, yeah. So, there was there was a time
+where I was doing I don't know if I can
+can find some. Yeah, I was doing doing
+more of these like with something on
+either side. You might see. Look, I had
+the same reference for this one.
+>> Yeah. And those look good, too.
+>> Same for that one. Um, yeah,
+same for that. It's just
+experimentation, right? That's all it
+is. Um
+but yeah, when it comes to I mean just
+jumping back to the skill for a second,
+you know, we can we can actually start
+it. We can actually get it up and
+running in the terminal cuz hopefully
+this is going to work because this is
+connected to my claude account, but um
+yeah, it might just be the desktop app
+that's not working.
+>> Yeah, I think the in I think it's just
+chat that's down right now. I think code
+is up and I think uh co-work is up but
+chat is is down for some reason.
+All right. We'll we'll see what it pops
+up. Yeah. Okay. So, it's going to ask me
+for
+um you know the product or topic
+audience, the goal content type,
+anything else relevant. Um so I I
+literally just I mean if you can see on
+my screen I have this whis whisper flow.
+>> Oh yeah. Um,
+it's if if anybody's watching this and
+and you're not using Whisper Flow in
+2026,
+you need to look yourself in the mirror
+and and ask yourself this simple
+question.
+Do you talk faster than you type?
+It's a simple question.
+Chances are you do. Mo, everybody does.
+Especially if you're like me where when
+I'm typing and I make a mistake, I have
+to backspace to correct it. It's just
+one of those things, right? So, imagine
+doing that and like the other day I was
+in a coffee shop and Whisper Flow wasn't
+like it wasn't picking up my audio that
+well um because there was like music in
+the background and and I think I was a
+bit further away from my laptop and I
+was trying to speak quietly. Yeah,
+>> it wasn't. It was just struggling to to
+to turn what I was saying into a
+transcript. [snorts] And so I had to
+type everything out. I was like,
+>> and you feel like you're in the stone
+ages.
+>> This is slow. This is well slow.
+So yeah, next time I go to the coffee
+shop, I'm going to take this microphone
+with me and I'm going to plug it in and
+you can just literally hold it up to
+your mouth and just literally just
+whisper in. And that's why it's called
+Whisper Flow. can literally just whisper
+into a microphone and it'll pick it up
+perfectly. Um, it doesn't just
+transcribe, it actually like formats
+your your text or your speech which
+which you're turning into text.
+It will delete any ums and rs and it
+will correct like if you repeat
+yourself, it'll just um it'll correct
+and it won't have the same thing twice.
+And what I've found with using Whisper
+Flow is it's actually improved my my
+thinking and my speech
+because when you're typing, you have a
+bit more time to think about what you're
+typing
+>> and how to structure it. Whereas when
+you're speaking, what I found in the
+beginning is that [snorts]
+when I would let's say dictate an like
+copy like a response to an email,
+I would end up having to like go into
+the the transcript that I got and just
+like edit it and delete stuff. I like
+that doesn't quite make sense or that
+doesn't flow as as well as I would like
+it to be.
+Um, so
+and and that was because my my thoughts
+were a bit jumbled,
+>> So that's one of the really cool
+benefits I found is I'm actually getting
+better at formulating my ideas in real
+time
+and
+pausing instead of like stumbling over
+words or tracking, you know?
+>> Yeah. Oh, yeah. I mean, dude, you're
+preaching to the choir. I am the biggest
+Whisper Flow fanboy. I feel like I've
+probably converted 30 people to Pro
+Plans, you know, not even as an
+affiliate just like from from talking
+about it. And I mean, shoot, if Whisper
+Flow is out there listening to this and
+wants to sponsor the pod, we'd love to
+have them cuz it's my most used tool by
+far. Like I it's the it's the one tool
+that I'm using 24/7 all day every day on
+my phone and on my computer. And to your
+point, it [clears throat] has forced me
+to be a lot more concise with my speech
+because when I first started using it,
+like you said, it's like I'm just kind
+of yapping into the microphone and then
+I've got to go in and delete sentences
+that didn't make sense and it's like,
+oh, I repeated myself here. But after a
+couple of months of using it, you're
+just you're short and to the point and
+then and then you're done. Like it's
+really a fantastic tool.
+>> Yeah. And you know what I'm references
+is what I'm referencing is is is
+different context, right? If I'm
+responding to an email, I want to be
+short and concise and to the point. But
+if I'm just brain dumping about an
+article that I'm about to write, I will
+just I'll just uh you know put it on
+hold and just just go for it. Right.
+>> And
+for six minutes and sometimes longer.
+Right. That's the maximum you can you
+can go in one uh in one recording. So,
+yeah, it's it's fantastic. I think we
+both agree on that. And anybody who's
+watching or listening to this, if you're
+not using it, just I would just try it
+out and um and get used to it because
+the way that you interact with these AI
+tools,
+like you can either type or you can have
+a talk and
+talking is just it's just quicker. So,
+you're going to get more stuff done and
+you're going to breeze through things.
+It's just it's just quicker. That's
+that's all it is. And it's just going to
+give you that that advantage. Um
+especially when you're,
+you know, when you're trying to ask an
+LLM to do something for you,
+you might you might, you know, it's the
+end of the day, you're a bit tired and
+and let's say you're not using Whisper
+Flow, you're just using your keyboard,
+you might just halfass like the prompt.
+you might just type in something really
+brief and you're like, "Oh, whatever. I
+can't be bothered typing it all out."
+Whereas,
+if you
+if you speak it, it's a lot easier to
+add additional context in the same
+amount of time that it will take you to
+type that out. So, you're going to get
+better outputs. And that's that's how it
+works. And cool thing is right when I'm
+when I'm dictating I could be I could
+you know say if I'm writing an email I
+but I want to reference let's say um
+transcripts
+right
+I go over to fireflies
+while I'm you know see if you were
+typing the email out you'd have to stop
+typing the email go over to fireflies
+check what's in there go back over to
+the email and continue typing whereas
+doing it with voice You can actually
+switch between apps and tabs while
+you're recording.
+>> And then
+>> eliminates a lot of the context
+switching.
+>> Yeah. Once once you've um once you
+finish recording, like you can place
+that text anywhere. So you can actually
+check you can check other windows and
+tabs for information that's going to
+help you write that email
+um without, you know, without just
+staying in in the Gmail tab, for
+example. So yeah, I could go I could go
+on about about this, but uh it's it's
+very good. It's very good.
+>> Yeah. No, it's it's a fantastic tool.
+And let's so let's jump into can we do
+like an example uh with your content
+create skill here in cloud code and kind
+of see what that output looks like.
+>> Yeah, definitely. Let's let's give it a
+whirl, shall we? Um, and there is one
+other thing I want to show you here in
+claw code that's uh I don't know how
+many people know about this but it's
+gangster but yeah
+>> why do we why don't we write a post for
+whisper flow
+um and uh full disclosure I have already
+written a post for whisper flow that's
+going out today on my profile but
+let's just imagine I haven't done that
+um and I'm just going to voice note in
+so yeah I'm looking to create um a tweet
+about Whisper Flow, which is a
+voice AI tool that allows you to um
+dictate um and talk instead of typing.
+So, I want you to check out the Whisper
+Flow website. Grab all the information
+that you might need
+for the post, like stats and things like
+this, key benefits, and
+that's yeah, let's let's let's get that
+rolling.
+So, I'm not not giving I'm not giving it
+much there, right? And so what it's what
+it's been told to do is
+um is to start with the hooks, right?
+Best thing best thing you can do with
+content is start with a hook. Otherwise,
+what
+>> y
+>> where where are you going to start? It's
+probably the the thing that I spend the
+most time on because if if that's not
+good, then no one no one's going to read
+the rest of your post. I spend I spend
+most of my time on the hook and the
+image to be honest.
+>> Yep. Yeah. Because [snorts] if if those
+suck then it doesn't matter how good the
+actual post itself is. Like nobody's
+going to read it or watch it if it's a
+video.
+>> Yeah. Exactly.
+And so you can see here it's actually
+going out to the website and it's it's
+scraping the website and checking um for
+some information. So we got a response
+here. uh key anchors for the post,
+14-day free trial, etc. Okay, before I
+generate the hooks, is it organic or
+sponsored audience angle? So, it's
+asking me for for more clarified
+information. Very smart. And it's going
+to help with the creation of the post.
+So, uh it's going to be organic. Uh the
+audience is I think all of the above.
+You know, anybody that's still typing is
+basically the audience. Um people who
+run an online business for example
+solopreneurs the angle based on my voice
+profile. Yes. Um let's see
+discovery journey.
+So let me just pull this over a little
+bit.
+Been typing into F. So these are like
+the angles right that it's generating
+So, let's let's have a quick read
+through discovery journey
+timeline precision.
+I just tested this third person case
+study. Let's go with discovery journey.
+>> Yeah, that's what I was thinking because
+I feel like people can relate to that
+because I mean that was my experience.
+It's like I was typing manually for 30
+years and then I discovered Whislow and
+it completely changed how I work.
+>> You would think that we were sponsored
+but we're I mean I'm not. I don't know
+about you, but [laughter]
+I I I have I have received sponsorship
+funds for One Post. Um
+but yeah, I couldn't think of a better
+company really to work with to be
+honest.
+And fun fact, did you know the keyboard
+that you're typing on right now was
+designed 200 years ago and it was
+designed to slow down your typing?
+>> Interesting. So, but two but 200 years
+ago before the computer was a thing.
+Like what's the backstory on that? Like
+while while Claude code is here
+>> going to work.
+>> Typewriters
+that was the original reason for the the
+keyboard layout. Typewriters if you if
+you typed too fast on a typewriter it
+would get jammed and
+>> Oh yeah, makes sense.
+>> So in order to
+slow people's typing speed, they spaced
+out all of the common. So if you look at
+your keyboard, you look at A, O, U, E,
+they're all like all spaced out,
+which makes it slower. So that's what
+we've inherited, which is pretty insane,
+but I don't think it'll ever change now.
+>> Yeah. At this point, I feel like we're
+too locked in. And I mean, I feel like
+we're if we changed it, we it would go
+back to being slower than it is now.
+Well, you know, you'd have people with
+different keyboards and then if you
+learn one keyboard layout and you go to
+your friend's place and and he hands you
+a keyboard, you're like
+like you just have to slow right down.
+>> Yeah, exactly.
+>> I'm excited to see what this puts out
+because I mean I know we're having it
+we're having it generate a tweet, right?
+And like your your tweets have been
+crushing. Like your articles and your
+tweets, like you're just getting a ton
+of engagement in general on X. And you
+know, I don't know if you're willing to
+admit this. I certainly will, but I mean
+these days my of course I I curate it. I
+don't just auto post what AI creates,
+but like 100% of my content is AI
+generated. And ever since I started
+using AI to generate my content with a
+really strong underlying brand voice
+profile and reference files and all
+those things, my engagement is through
+the roof. I'm talking up thousands of
+percentage points in the last few months
+when I implemented this system. I mean,
+are you kind of in the same boat where
+you're always having like you're never
+really starting from scratch? You're
+always starting with an AI draft.
+Yeah, basically like I'm always starting
+with a with a a voice note essentially.
+>> Like here here's what I'm thinking. I
+want to write a post about this and then
+maybe I'll pull in some references.
+>> Maybe Reddit post that I want to like
+take some ideas from and expand on or
+there's a new release, right? you know,
+Enthropic are dropping loads of new
+stuff and
+that's an opportunity to, you know, to
+put your own spin on it and and to to
+break it down a little bit um in a more
+easy to understand way,
+>> For example, so it's given us a bunch
+here, right? So, [clears throat] let me
+tell you what it's doing here. I've got
+it to score all of these um all of these
+hooks, right? You can see phase two hook
+generation. Um, so it's got some some
+stats and stuff here from the website.
+16 hooks ranked by score and I've got
+curiosity loop spec specificity
+sultanic tweak sensory now problem
+credibility voice. So it's rating all of
+these hooks based on this. And if if
+you're not doing this with your copy,
+like asking it to rate it based on like
+copyrightiting principles and stuff,
+it's this just gives you a better idea
+of what the AI thinks is good. And then
+you obviously sometimes it's not right.
+Like I don't go with the I don't just
+default to the number one,
+>> Um like this. I build client automations
+for a living. Last month I was typing
+every Slack message. There was a gap
+that I hadn't noticed. It's actually
+pretty actually pretty good because it's
+like that contrast
+>> right
+in number in second silver players. I
+like it's got the silver medal. Um, so
+he's added this 2026 tweak. I'm not a
+big fan of that. I've used that quite a
+bit recently.
+Um,
+yeah. So, some of these are pretty
+pretty decent, I would say. Um, it's
+kind of
+elaborating on different on the same
+kind of angle.
+I've been using voice notes and air
+tools for a year thinking I was ahead.
+Then I realized I was still manual
+typing into every app.
+>> So yeah, it's given us a lot. And I
+would always suggest to generate a ton
+because sometimes it's just they're just
+not that good, right?
+>> I I splice between different ones. I'm
+like, "Okay, I like this first line, but
+the rest of it is not great."
+>> I do the same thing, especially for my
+for my ex articles. So, I have an X
+article writer skill, and part of the
+skill generates seven different headline
+variations similar to yours, like based
+on reference, a reference file that I've
+given it based on copywriting best
+practices. And you know, sometimes the
+suggestions it give me, I'm like, "Oh,
+the like this one's really good." Like,
+I'm just going with this one. And then
+other times they all suck and we've got
+to iterate three, four, five times. And
+then other times it's like, oh, I really
+like the first part of suggestion two
+and I really like the last part of
+suggestion five. So we're going to kind
+of fuse those together. Or I'm going to
+have it or I'm going to tell it, hey,
+take suggestion two and suggestion five
+and give me some additional variations
+just based on those two. Right. And then
+again, you like you said, it's it's
+taste. It's not just taking what it
+gives you. It's you've still got to use
+your intuition to determine like what's
+good, what isn't, and where do we need
+need to iterate.
+>> Yeah, 100%.
+100%. And you know, people think, oh,
+you use AI to create content, you're
+just putting out slop, blah, blah, blah.
+Like, you can see it's a little bit more
+involved than just
+>> it's not a copy paste. Like people when
+people hear Yeah. When people hear like
+AI content, they just assume like, oh,
+you're literally just saying, "Hey,
+write me a tweet." And then you're just
+copy pasting it. Like, it's so much more
+than that because I mean, you know, as
+well as I do, the the the heavy lifting
+for this process, like 80% of the heavy
+lifting is on the front end and creating
+the skill the first time. Like, that's
+really the the biggest workload. Once
+you have that, most of the foundation is
+in place, but even then, when you're
+calling the skill, you still got to
+iterate on the output, right? It's it's
+still not going to be perfect every
+time. So, I think that's something that
+just most people don't realize because
+they haven't gone through that process
+yet. But once they do,
+>> yeah, it's still it's still a skill just
+like I mean, it it's the same writing
+skill that has always, you know, to to
+be a good writer. It's always been a
+skill, but now it's just the the skill
+part has just changed. Like it's just a
+different skill, but it's still a skill.
+>> In in terms of an ability.
+>> Yeah. And like I mentioned earlier, the
+other aspect is that I I have a good eye
+for what I you know, for copy and what I
+think is
+going to going to work. And that takes,
+you know, that takes time and data for
+>> to figure that out. So, we can see here
+it's written me the full post,
+right? Which I think is is pretty
+decent.
+Claude, get a response. Copy it over.
+Now, the things that I don't like here
+is this. Open the app, full stop, paste
+it, full stop, send. Like, that's that's
+AI kind of for me.
+>> And so, this is not the end. This is not
+the end. Um, let's just check if there's
+any other still typing.
+Okay. I mean, the rest of it, I mean,
+it's on the whole pretty good, right?
+>> It's a good start is what you're saying,
+right?
+>> So, gate two is supposed to feel right.
+Um, I'm just going to say apply the
+slippery slope and humanizer.
+Um, so I have two things that I run my
+post through. One is it's called the Joe
+Sugarman slippery slope effect. It's a
+technique that copyriters use. So the
+goal of your copy is to get the next
+line read.
+>> Literally it. So the the slippery slope
+effect just
+>> for for me it it makes it more readable
+and makes the lines just it just feels a
+bit more effortless just to read the
+next line.
+>> [snorts]
+>> Um, and then the humanizer, it's going
+to make sure there's no m dashes. It's
+going to make sure there's no
+um cliche AI slob like um what's what's
+the classic one? Um
+>> it's not it's why. Yeah,
+>> I hate that. um the the triple um no,
+you know, no walking, no running, no
+jumping, like three nos, the triple
+negatives
+>> where it'll say like no fluff, just XYZ.
+I'm like, oh my god, [laughter] I hate
+when it says no fluff. Like I had to add
+that to the scale. I'm like never say no
+fluff.
+>> Yeah. And um what I will say is that
+these this this is not perfect.
+Sometimes you do have to remind
+uh chord codes to actually hey
+like this is not in the skill like why
+why are you ignoring stuff that that
+I've told you to do in the skill
+>> I don't know if you found that but I've
+found that sometimes it if the chat goes
+long enough it'll it'll start to go a
+little bit off script
+>> and I'll have to rein it in. And I'm
+like, "Hey, like you're putting m dashes
+in here." Like I thought we just went
+through the whole process of humanizing
+it. It's like, "Oh, sorry." Um, and then
+it'll it'll revert.
+>> Yeah. And I So I I have my OpenClaw
+agent doing running a lot of my skills
+versus Claude Code running the skills.
+And one thing that I had So she has a
+self-improving agent skill where she's
+just able to log certain learnings to
+long-term memory. And one of the
+learnings I had her log, I'm like, "Hey,
+never use an M dash again. Ever, ever,
+ever." And of course, she logs it and
+then I'd say 95% of the time she
+remembers. But then there's sometimes
+she'll slip one in there and I'm like,
+"Nope, remember remember what we said."
+And she'll be like, "Oh, I'm sorry."
+Like, "I forgot."
+>> So, it's not perfect. But it's it's
+mostly there.
+>> It's not. No. Um so we we now have um
+it's actually giving me the structure
+here which is kind of cool. Um
+and we can see the revised post.
+See how speaking to Claude open the app.
+Paste in send. Okay. See I would accept
+>> That's better. Yeah.
+>> Or maybe maybe in X I would just put a
+comma and then and and not have it just
+a capital and a full stop. But that
+>> that's describing like open the app,
+paste it in, send. Like to me when I
+read that that's that sounds okay to me.
+>> It's more natural. Yeah,
+>> that's what maybe I would say. Like I'm
+always in the back of my mind going like
+would would this sound natural in a
+conversation? Like if I read this out
+loud, does does this sound normal? And
+it's a good check to do.
+Um yeah, I'd be pretty h pretty happy
+with this. I'm not going to read through
+it all right now. Um, and yeah, there's
+a there's a call to action at the
+bottom, but yeah, you you could put in
+whatever you want. So, in this case, I'd
+be Yeah, I'd copy this into myuler and
+you're good to go.
+>> Yeah, that's awesome.
+>> The other thing that I wanted to show
+you real quick, um, because I know I'm
+just looking at the time, um, I don't
+know if you ever tried this, but for
+slashinsight
+insights.
+This is
+>> is that a is that a pre-installed skill?
+Like is that something you had to go out
+and and download or has that come
+default with cloud code?
+>> That's that's default native. Yeah.
+>> Interesting. Yeah. I'm excited to see
+what this does. I've never seen this in
+action. So So what do you use it for?
+Like what does it do?
+It' be better just to show you what it
+used to.
+>> Um,
+it's it's going to analyze
+I don't know how far back it goes, but
+it's going to analyze all of your clawed
+sessions, your clawed code sessions, and
+it's going to give you some, you know,
+no surprises here. It's going to give
+you some insights on on your usage,
+what kind of patterns it's seeing, and
+then what what it did for me. I mean,
+this is it's going to be unique for
+everybody,
+>> But it's it's going to give you uh some
+prompts that you can put into Claude
+Code to build skills or to build scripts
+or to improve the [snorts]
+how you use Claude Code based on your
+usage and your patterns. So, it's it's
+going to see things that you probably
+don't see yourself.
+>> That's insanely valuable. Like that. I
+had no idea that was a thing, but I
+could already see the the value there.
+It might say like, "Hey, you're you're
+spending a lot of time prompting XYZ.
+Like, why don't you just turn that into
+a skill or you know it I mean it's of
+course it's it's essentially infinite
+intelligence and it it's going to tell
+you like, hey, here's all the things
+that you're doing that we could be doing
+better." So, if you just run that
+insights, you know, once a week or
+however often you're using cloud code,
+I'd be I'd be shocked if you don't get
+some insanely actionable insights that
+allow you to just amplify your workflow.
+So is that what it gave you right there?
+>> Yeah. So let's let's let's run through
+real quick. So it's giving you at a
+glance. So what's working? Okay. You
+built something genuinely impressive.
+I've just shared with you guys. Uh
+what's hindering you? Right. The biggest
+issue is it keeps violating the very
+strict rules you've painstakingly
+documented.
+I'm like yes.
+>> It says producing m dashes, right? And
+it literally doesn't give you an M dash
+right before it says reintroducing M
+dashes.
+Yes. Um, quick wins. Try creating
+dedicated command.
+Um, custom skills that bundle your voice
+profile. I mean, I think I've already
+done that. So, um, ambitious workflows
+as modules get better at selfcorrection.
+Be able to run a content pipeline where
+Claude drafts self audits against your
+voice profile and revises autonomously.
+We'll see about that. And then it's got
+these sections. So, what you work on. So
+he's is kind of telling me the stuff
+that I've been working on. Um how you
+use claude code. He's giving you an
+overview of of how I use it. Everybody
+uses it in a different way. Like I don't
+I don't write a ton of [snorts] code. I
+write automations. Sure,
+>> but I don't I'm not really
+>> I don't create any software products as
+such right now. Um
+let's see. Impressive.
+>> This is so cool and it's so in-depth.
+Like I I was not expecting a full report
+like I was expecting it to be like hey
+here's a couple of highlevel things but
+this is like a literally like a full
+full report of your use in very granular
+detail and that's just by running a
+slash command insights inside of cloud
+code.
+>> Yeah. So the and the best things yet to
+come I believe uh where things go wrong
+right? So how can we fix these?
+>> Okay. Um,
+>> and could you realistically feed this
+report back into cloud code and say,
+"Hey, take the where things go wrong
+section and build a plan for how we can
+fix that." Like that's feasible, right?
+>> Look, look at what we got here, right?
+>> Oh, so it that's crazy.
+>> Suggestions to add to your claude MD.
+Just copy all of these checks. So,
+writing style, right?
+>> Oh my god. content constraints, workflow
+discipline,
+uh, custom skills, right? It's given
+you, you've already been This is insane.
+Formalize your most common multi-step
+workflows.
+>> Boom. I thought I thought that was
+actually a skill, but anyway.
+>> Um, hooks, you just copy and paste that
+in. MCP servers,
+you can copy and paste that in. Um, new
+ways to use claude code, right? Just
+copy and copy this into cla code. It'll
+walk you through.
+Uh so yeah, a bunch of this stuff on the
+horizon. Okay, your data reveals a
+sophisticated content system. The next
+leap is autonomous agents that
+self-correct and then it's giving you
+prompts to to try and build this
+um based on like your biggest friction
+source, right? Misunderstood requests,
+parallel hook generation, uh end to- end
+article factory with checkpoints.
+See you.
+>> Uh, user got so fed up with Claude's
+copyrighting that they rage quit and
+wrote a better Twitter thread themselves
+in a different tool. [laughter]
+>> Oh my god, dude. It's so first of all,
+>> actually did that. That's the thing. I
+actually I actually did that and I told
+Claude Code. I said, "Hey,
+your version sucks. I went over to my
+Claude project and I created this and
+it's better and I and I showed Claude
+project my new version and I said you
+know what's what's better about this and
+can you and one of the things you should
+do at the end of every session is
+um what did you learn about
+what did you learn did you learn
+anything new about
+uh that you could tweak the skill um
+with something like that. Like
+>> Right. It's like how can we based on
+this session?
+>> Yeah. Based on the session, how can we
+optimize the skill is what you're
+saying.
+>> Yeah. And so I'll ask it to tell me
+those things and then if I feel like
+because you don't want to just
+automatically add them to your skill,
+but you do you do want to see what it
+comes up with and if there is something
+that's useful to add to it. That's where
+that's where you come into like this
+iterative process,
+>> right, of of improving it.
+So,
+>> dude, it's I mean I So, first of all,
+I've never heard anybody mention the
+inside slash command before. Like,
+you're the first person I've ever seen
+talk about it or show it. I'm literally
+going to take the transcript of this
+podcast we're doing right now, give it
+to my brand voice profile and have it
+write a tweet on the insights command
+and I'm going to post it and I'm sure
+it's going to do well because again, if
+I hadn't heard of it, I'm sure most
+people haven't either. And it's insane.
+Like that's insane. What you just showed
+me is crazy. So if people are using
+cloud code and they're not running that
+insights report at least once a week,
+>> like you're just leaving so much on the
+table. So that was a hu huge tip right
+there.
+Exactly. Exactly that. Yeah. So yeah,
+tag me if you want. I mean I did I think
+I wrote an article about it. Yeah, I did
+write an article about it as well. Um,
+so, uh, yeah, it's it's a it's just a
+hidden feature that nobody really has
+heard of. Um, but yeah, you can see it's
+it's kind of pulled these out now. As I
+was watching this, it was like, I'm
+making those changes now. I'm like, no.
+>> Wait, no, you don't. Yeah.
+>> Nope.
+>> So, hopefully it's not made any changes,
+but I will I'll I'll check these and
+and uh and just check if if this is
+okay. Slippery slope is only mandated
+for articles, right? So, not posts. So,
+I'm like, okay, we should we should
+mandate that for posts as well,
+>> Yeah, that's that's the process. Um I
+know I said that I do have a mentorship
+where I teach people AI automations and
+how to be AI operators but um and I know
+we've not really spoken about automation
+but you know building skills is just one
+tool in you know I call an AI operator
+toolbox
+>> and I think being able to use claude
+code being able to to use NA10 knowing
+when to use skills and projects and when
+to build in lovable versus claude code.
+These are all decisions you make based
+on the problem you're trying to solve,
+>> And I don't think there is a a
+oneizefits all.
+>> Um, and that's where the nuances like
+NAN is not dead. It's just it it's
+useful in certain scenarios,
+but so is claw code. knowing when to use
+those in different situations is I think
+a, you know, a a smart way to approach
+>> I I say the same thing. I mean, I tell
+people that they're always like, "What
+tool should I use or what tool should I
+learn?" I'm like, "Well, what problem
+are you trying to solve?" Because that's
+going to directly influence what tool
+you should use. So, I think that's
+really good advice. And and Tom, I mean,
+thank you so much for taking the time to
+jump on today. I mean, like I said, I
+learned a ton. I know you mentioned your
+mentorship. Where can people connect
+with you or if they want to work with
+you directly, where do you want to send
+them?
+>> Yeah, so you can find me on Twitter, Tom
+Crawore, C R A W S H A W1
+on X Twitter, if you want to call it. I
+do have a YouTube channel um the AI
+growth lab with Tom and yeah, you can DM
+me on X. Uh I have a website
+learnnatautomation.com.
+Um and yeah, there's information about
+the workshops that I have and and the
+mentorship that I run on there.
+>> And of course, as always, we'll link all
+of those in the description on YouTube
+and in the show notes on podcast
+platforms or wherever you're listening
+to this episode. So Tom, thank you so
+much for the time. For everybody else,
+we'll be back next week. Awesome.

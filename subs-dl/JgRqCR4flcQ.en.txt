@@ -1,0 +1,937 @@
+Here's what nobody says out loud. Most
+agency founders don't run their agency.
+Their agency actually runs them. Now, on
+May 14th, I'm hosting a live workshop
+where this actually changes. I'm going
+to show you how to build an AI operating
+system for your agency from scratch, one
+that actually works when you're not.
+It's 100 bucks, one day. Register at
+agencymastery.ai.
+That's agencymastery.ai,
+and I'll see you on the workshop.
+You're listening to the Smart Agency
+Masterclass with me, Jason Swenk. And
+we're bringing you this episode courtesy
+of our friends at Wix Studio. Let's go
+ahead and get into the show.
+Hey David, welcome to the show.
+Hey Jason, glad to be here. Yeah,
+excited to have you on. Tell us who you
+are and what you do.
+>> [snorts]
+>> Well,
+uh I run an agency called Ark Stone in
+Minneapolis.
+Um
+we've been at this for a long time,
+since 1997.
+So, uh it's it's been an adventure, and
+and from that agency we've spun up a
+variety of other little startups. So,
+it's been an incubator and an agency and
+just a lifestyle all rolled into one.
+Very cool. So, what what got you
+started in '97?
+Well, um
+I I had opportunity when I was pretty
+young to work at a startup, uh where we
+built one of the first commercial real
+estate MLS platforms on the web. Back
+then,
+commercial realtors were faxing listings
+to each other. And then we said,
+"There's this thing called the
+internet." This is like 1994.
+>> Prodigy?
+Yeah, right. The AOL desktop, but you
+know, they faxed it in along with those
+AOL offerings.
+Um so, uh we built that platform, and
+and at the end I was the president COO,
+and we ended up selling that business to
+the Association of Realtors here,
+and they took the foundation of that
+platform we put together and and uh
+rolled it out to 28 other markets. So,
+they were our first customer at
+Arkstone.
+Uh but, you get to know so many people
+in the association world, you know,
+um
+and one thing led to another, and there
+were so many websites that needed to get
+built back in the mid-90s. Oh, yeah.
+Yeah.
+Those were the early days. I
+What What did you build your websites
+on? Was there a tool, or did you just
+hardcode it in HTML?
+Oh, boy. You know, we were in
+Minneapolis, uh so
+we are the birthplace of ColdFusion. Do
+you remember ColdFusion? Yes. Yeah. So,
+that was one of the first kind of mm
+It was a tag-based interactive language
+where you could pretty much use HTML,
+but use CFML. So, you could put these
+ColdFusion tags in line with your HTML
+and make it interactive. You could, you
+know, build out forms. And, you know,
+ColdFusion is still around. It was sold
+for the Alair brothers, uh J.J. and
+Jeremy, who were just down the street
+from us.
+took that and sold it to Macromedia,
+which was then gobbled up by Adobe, and
+Adobe still supports ColdFusion today.
+Yeah. That's crazy. Yeah, I I think back
+>> [clears throat]
+>> I mean, when I started designing
+websites, yeah, '99, it was it was
+tables, and I wasn't that
+[clears throat] good at coding, even
+though my
+my degree was computer programming, but
+I paid everybody do my work, so I had to
+use Dreamweaver and FrontPage to create
+sites after I would design it in
+Photoshop. Hey, those were Those were
+handy tools. I I had a few FrontPage
+sites.
+>> Dude, all my buddies made fun of
+FrontPage. And, I was like, "My websites
+look so much better than your crappy
+programming websites."
+>> [laughter]
+>> Yeah, and Dreamweaver was quite the
+game-changer.
+>> Dreamweaver was great.
+It took out a lot of the crap code that,
+you know, FrontPage would would put in
+there, but yeah, my first couple
+websites were on FrontPage. So, and they
+had little animated GIFs that would run
+across the screen.
+>> So, that was fun.
+let's talk about when did you realize
+you were turning the agency into an
+incubator agency? Cuz I always ask
+people that. So, I
+I love that finally I have a guest that
+actually mentioned it before I even
+asked it. So, when did you realize you
+were going to build other stuff within
+the agency?
+>> day one.
+Yeah, we um
+you know, we we sold to this association
+and so that was, you know, I always kind
+of was looking for opportunities for
+recurring revenue. So, we always hosted
+websites. We've always been more on the
+technical side of things. So, early days
+I had uh two T1 lines coming to the
+house, an air conditioner in the window
+well of my basement, you know, a um
+generator in the backyard. So, we we
+were serious about our hosting, you
+know.
+>> What did your neighbors think?
+>> Yeah, it was a little weird, but I had
+the best internet, you know. Um
+uh for back in the day, I think we had
+1.5 megabit. It was screaming, blazingly
+fast there with a single T1 uh combine
+it, it's mind-blowing, but um
+knowing all these associations, I I
+actually got uh a group together, you
+know, so I I got uh
+I think it was six or seven groups
+together and um said, "Hey, you guys
+want a website, but you want it
+interactive for your members. You want
+to
+allow your members to log in, you want
+to be able to broadcast email them, you
+want to maintain their data, have them
+pay their dues online, register for
+events. And why don't you all kick in
+eight grand and we'll build a system."
+And so, they
+all said yes, and that's uh how we uh
+started our our SaaS company uh AMO,
+which is still around at
+associationsonline.com.
+So, that's a sister company. It's
+connected to ArcStone and um you know,
+uh still, you know, supporting that
+software and and
+>> What year was this?
+Uh this was around 2000.
+Wow.
+>> Yeah.
+So that so
+around 2000 we I never heard of SAS.
+And so we we built
+a content management system that was
+drag and drop. We built an email
+marketing system, e-commerce store, all
+these amazing technologies, but we
+installed it on every instance
+rather
+>> Well, we did we did too. So I would say
+the first iteration was just like how
+you described it. It wasn't
+multi-tenant, right? It was just, you
+know, you got your own version of Emma
+that was siloed and then
+>> you were leaps and bounds ahead of me
+cuz I didn't hear like SAS for like a 10
+more years. No, no, we were on the same
+page. That was that that'd be a even as
+a little forward-thinking probably for
+back then for me at least too. So I'm
+How did you Okay, here's my question.
+>> Because I kept getting distracted by
+those annoying clients that I had at the
+agency, so I could never build my own
+technology. It kept distracting us from
+it. So how did you how did you build the
+technology?
+Well,
+we we were lucky in that cuz we kind of
+kickstarted it in a way, right? We were
+building it for the clients as we were
+going. So it made it easier because they
+were using it and, you know, as soon as
+we brought components online we got
+immediate feedback cuz actually a great
+way to
+to um
+to build out software cuz you get that
+immediate feedback. So as long as you
+can get, you know, enough people
+together to raise their hand and say,
+"Hey, build this. I'll kick in 10 grand
+for this particular idea." You know, it
+it then get "Hey, this is a $50,000
+piece of software you are going to get
+to use." And then, you know, we used the
+same thing
+not too long ago actually back in late
+2019, early 2020. Remember those days? I
+mean, all burnt into our brains with
+with COVID and whatnot, right? But
+we [clears throat] we wanted to add an
+event app to our association management
+software Amel, you know, and so
+I talked to we talked to our customers
+and said, "Hey, would you like an event
+app? Why don't we get together 20 and
+you can each be part of the founders
+club and you put in, you know, five
+grand each and you get lifetime use of
+this app."
+So, you know, otherwise they're going to
+be monthly fees and, you know, etc. etc.
+and you know, you give us feedback and
+that was the the deal and and we got um
+I think 15 to raise their hand and say,
+"Okay, I'm in." And we had enough money
+to develop a mobile app for our
+software. So, it's both this ass and
+then the mobile app connects to it and
+as an event attendee you can visit the
+event and scroll through and, you know,
+just like a regular event app like what
+we got. I like that approach because
+most most people that I talked to,
+they'll go build it and then try to sell
+it. But you went to your the existing
+people that could use it to get them to
+fund it without any ownership.
+That is brilliant. I love it. Well, I I
+I think it's it's so helpful to get that
+immediate feedback. I know my tendency
+is to overcomplicate too sometimes, you
+know, and I'll, you know, if I'm just
+doing it on my own, I will overbuild and
+I'll I'll make things too complicated
+and then you have to undo it. You got to
+not only pay a programmer to do it or
+program it yourself, you have to then
+unwind it and make it work the way it's
+supposed to. So, it like costs you three
+times.
+Yeah. What are other things that you
+built over the years that have turned
+into SaaS products?
+Uh we did a project
+for a big
+as we'll just say oil and gas company.
+And this was again, it was a little bit
+earlier days. This might be 2001 and
+they were very frustrated because they
+were limited in sending email
+attachments. They couldn't send
+attachments that were bigger than a
+megabyte.
+And so they're essentially looking for
+an easy-to-use FTP. Think Dropbox or
+box.net, but that did Those didn't exist
+back then. So,
+we built a document management system.
+It was all tag-based. And we actually
+applied for a patent on the tagging.
+Um and and they denied our provisional
+patent and I would have had to fight to
+get it, so we just let it go, whatever.
+But we built that platform and called it
+Wonderfile.
+And uh that was a true multi-tenant
+SaaS. And we started signing up users
+and we were making some progress. Um
+and uh
+we had an opportunity to sell it and we
+ended up selling it to uh uh BlueTie in
+New York. Um and they wanted a a
+document management system. So, it
+turned out uh I think well for us. It
+was getting to a point where it was kind
+of like
+and this is one of the dangers, I think,
+if you spin up new things.
+Um it's like too many plants in one pot.
+You know,
+they start to choke
+each other out, so you really have to
+kind of separate those, I think, and
+give each one a management team. And I
+wasn't quite far enough along in my
+career to relinquish that control or
+really kind of
+uh
+you know, Uh we were young and stupid.
+>> Yeah, and it needed more money. I think
+we could have gotten really got some
+real investors. I've always bootstrapped
+everything, you know. Um
+and and so that that was an adventure.
+The thing I'm doing differently now, we
+have another
+startup, essentially, that we just
+started the end of last year that is an
+accessibility uh tool
+that um
+is cloud-based and it scans your site.
+It looks at your website as if it was a
+blind person and then I I it originally
+came from us wanting to have quality
+assurance on our websites because I
+don't know if your listeners see this,
+but every RFP we get of size, first,
+second, or third line item on that RFP
+is accessibility compliance. Yeah, cuz
+they're getting sued.
+>> Yeah, people are getting sued. And and
+every site of any size has to have that
+in accessibility and some of these other
+folks with overlays that have have their
+products out. I know
+have had challenges. There have been
+lawsuits against them, too, and and FTC
+fines.
+So, the overlays don't really work. The
+other tools are expensive, and we were
+looking for a solution for us, and I
+just wanted something I want a punch
+list for an intern or for our customers
+who don't know much about the web so
+that if they save a page in their
+WordPress site, it tells them, "Oh, you
+messed something up.
+You just reduced your accessibility
+score."
+And that's what we built.
+Oh, that's cool.
+So, those scanning tool it exists as a
+very lightweight plugin in WordPress,
+and then the heavy lifting happens out
+in the cloud. So, it comes in and it
+scans, looks at the page, and then it
+gives you a
+a score, and it makes a punch list of
+the things that are wrong, and then you
+can fix it, and then
+>> you go to existing clients to get them
+to fund it this time, or did you
+In this case,
+we didn't we built it cuz we needed it
+as a tool for ourselves first. We built
+it for ourselves, then we did a beta
+test with existing customers.
+Of the beta test, we had 40% of them
+signed up. So, we've, you know, now at
+this point have about
+oh, pushing 30 customers or so who are
+using it.
+And we are talking to agencies.
+Maybe like some of your listeners might
+be interested in reselling it. They are,
+you know, we're trying to figure out how
+do we make it to market. We want to make
+it affordable and efficient for teams to
+use
+to solve this accessibility problem so
+it's easy for customers, is easy for the
+the constituents out there who who need
+the help.
+And just make the word make WordPress
+sites proper. If they're if they're
+properly built,
+then they'll work.
+>> [music]
+>> Look, your agency adapts for every
+client, right? Your builder should do
+the same. That's why Wix Studio is built
+for the way [music] you actually create.
+AI-powered site mapping lets you get
+straight down to the design. Whether you
+shape things in Figma or start in
+Studio, your vision's coming to life
+quicker with no code animations and
+built-in responsiveness. And for client
+growth that actually scale, you've got
+extendable business solutions and a
+dynamic CMS. Scale your agency at
+wixstudio.com. [music]
+>> Yeah. How do you
+Going back to, you know, you're building
+all these companies.
+How are you not getting distracted
+with all of it? Cuz I remember when we
+were building CMSs and all these
+different things, we had the same team.
+I didn't have anybody in charge of any
+of it other than me.
+So, I was the biggest
+uh surprise. I was the biggest
+bottleneck for
+everything.
+>> is always at the top of the bottle.
+Yeah, exactly. Like there was like
+everything has to go through me. Which
+is the dumbest thing and and you just
+get to a point where you're just like,
+man, I I can't handle it anymore, right?
+Like
+I I
+What did you What did you solve from
+that? I I think that I had to learn to
+let go.
+Um and and set
+>> the breaking point to get there though?
+Cuz you probably held on to that for a
+long time, I presume.
+Oh, the breaking point. The breaking
+point was me. Uh total break. No, I I
+Well, a little bit of that. You know, I
+think it just kind of came with maturity
+of just realizing, oh, I can't do all
+this. I'm going to drive myself crazy.
+So, that was one factor. There's
+multi-factors, right? So, that's one
+factor.
+Uh
+the other factor is, you know, my my
+partner I have a partner in the business
+is my wife
+and she's a CEO now.
+So she's running Arkstone
+we have a great team a great management
+team at AMR Association software and
+we've got a management team set up at NC
+too. So I am serving more as kind of an
+advisor. I sit in the CFO seat at
+Arkstone now.
+Um, and so that frees me up a little bit
+to be able to kind of play monster back.
+Right? If you played football, that's
+that's the I think the most fun
+position. Right? You get to go
+all over the field. You know, so if
+you've got that that founders ADHD or
+entrepreneurial spirit it's it's a
+little dangerous, but that's a good way
+to set it up.
+Yeah, I mean the biggest thing I tell
+people and you know,
+it's all about letting go
+and you have to evolve your role
+and the the cool thing is is
+everyone thinks
+or the the challenge is everyone thinks
+when you found an agency or found a
+business you're the owner.
+You are not the owner. The the business
+actually owns you. You're its
+>> Right? If you if you think about it.
+Totally. And in order to get to the
+owner status, you have to be fully out
+of the business.
+Right? And [clears throat] have to have
+like decision layers. But
+you can't go from founder to owner.
+There's a number different stages in
+between that you have to build and
+what I found is
+you know, you can go from the the
+founder which is really the operator of
+doing everything and then you go to
+manager, but you're still doing
+everything plus managing people
+that you're actually doing their job
+which makes no sense
+until you can really kind of start
+putting things into place where they can
+make decisions without you.
+And you start relieving some of that
+bottleneck until
+we decide as idiots to jump in and be
+like, "We want to be significant again.
+Let me be a bottleneck."
+>> Yeah, you know that is That's a pattern
+that totally happens. It's an easy trap
+I fall into, you know, I
+have fallen into before. You step in and
+you just mess everything up because you
+start
+tweaking things or
+you know,
+the systems are in place. You should not
+mess. Yeah. Well, you I
+What Why do Why would you jump back in?
+Would you see the the fender bender
+coming or the train wreck or would you
+be like, "I need to feel needed again."
+What was it?
+>> no, there's a little honey little honey
+there that is is is teasing me back.
+It's usually a friend, uh you know, old
+client, you know, who's become a friend
+now cuz you care about them and they
+want to have something done. And so,
+that's the connection. They're like,
+"Oh, I want to have this, you know,
+build this do this campaign or build a
+site." And so, I feel like I need to be
+involved, but I really shouldn't be.
+That's how it's gotten me the last
+couple times, right? So,
+>> there's a little
+>> be like, "I'll take care of you." And
+then
+psychologically it crushes your team
+because then they're like, "Oh, you
+know, David doesn't think I can actually
+do my job. He's actually doing my job."
+And then what I found happen is then
+they actually started waiting me for me
+to do their job. Mhm. Mhm.
+I'm like, "What?" And they're like,
+"Well, you did it last time."
+>> "Oh, touche.
+Uh let's let's fix this. Let's Let's
+remove myself. Let me just
+st- go over here and the business needs
+me for something else." Yeah. I I think
+the business frameworks, and I know
+you've had some EOS conversations too on
+on your podcast. Um you know, those have
+been helpful to reframe things. And
+going back to your question about
+letting go, I think getting some
+education in terms of that and looking
+at scaling up EOS, you know, some of
+these and there are variety of
+frameworks out there that can really
+help to at least provide, you know,
+instead of you're just making something
+up from Oh, there you go.
+There you go.
+>> I I laid it out for you, Jason. I mean,
+that is a perfect perfect tee up for
+people listening. There's a new book
+coming out called Operator to Owner that
+I wrote that's coming out and it goes
+through all of this.
+>> That's awesome. So, I get it my free
+autograph copy copy.
+>> That's right. There you go. Yes.
+>> All right. But, um yeah, I you know, the
+the big thing I think and what the book
+talks about is
+it's not the who do you need to hire,
+it's the who do you need to become.
+Cuz the business [clears throat] needs
+you for something new, right? Like and
+you
+it it really goes through five stages.
+Like operator to manager, which I
+described, then architect where you're
+designing systems for people to make
+approval or make decisions. And then you
+have the CEO, which is, you know,
+steering the direction, communicating it
+to the team, understanding financials,
+building those key relationships. And
+then you have the owner, which
+that's where you you're at, right? Like
+you can walk away,
+right? Your team can make decisions
+without you. And that's the only way you
+can have multiple companies, I feel.
+Mhm. [clears throat] Mhm. Multiple
+successful companies. You will run
+yourself ragged. Yeah, you need that
+support. Yeah, but you've got to set up
+the framework to to provide that
+support, right? I mean, it's just a
+natural.
+Exactly. Yeah, it's just
+you know what? I that you know, when I
+sold the first agency, I sold it at the
+CEO level. I was I wasn't an owner. The
+business still needed me to direct it.
+And [snorts] I thought I was and at that
+time I was at my max.
+I was like, I'm holding the business
+back.
+Right? And then looking back after
+people start reaching out to me,
+you know, after I sold, I was like, "Oh,
+yeah, like I could see it whole the
+whole different light since I wasn't in
+the in the forest, right? Like I felt
+like I was above the forest. I was like,
+"Oh, I can see this very clear."
+>> I was like, "Wow, that was a
+That was a wrong approach that I took on
+that that particular decision. I would
+totally do it over again. And um like
+did you
+Did you experience that, too?
+Um Like what you Like you were holding
+the business back at certain times, but
+then you could
+>> Yeah, I still
+>> have
+I still I I think it's like, you know,
+any kind of growth is kind of
+spiral-like. It's kind of circular, you
+know,
+I just I think you have those the the
+patterns get get set up and and then you
+learn lesson again and again. So, I have
+been getting better, right? And and um
+that's why having a a framework to kind
+of help guide that spiral growth um
+is really really helpful. Um
+um because then you can recognize, "Oh,
+this is something I've seen before.
+There's a pattern recognition, a
+matching that kind of happens, you
+know?"
+Yeah, exactly. That's
+It's kind of like when I would race cars
+and I'd go to a new track, the only way
+that I would get better at these new
+tracks is I would try to go, "Oh, that
+That corner is like this old corner at
+Road Atlanta or at this track.
+And it's the same thing in business.
+It's like, "Oh,
+it's a different challenge, but it's
+very similar to this challenge that we
+>> Yeah. we we conquered and and it's uh
+makes it a little bit easier, but it
+only takes, you know, it
+takes going through,
+you know, the
+getting bloody a little bit.
+[music]
+>> If you've built a solid agency in the
+legal, the dental, the medical, or the
+home services, and you're thinking about
+the next chapter, you need to know about
+Herringbone Digital.
+They're not your typical financial
+buyer. They're the team that understands
+the challenges of running and scaling an
+agency because they've actually done it.
+And they know how lonely it can be by
+yourself. Now, I've personally spent a
+lot of time with them, and they're the
+real deal. Heck, in the first year,
+they've acquired six agencies, including
+Hennessy Digital. That should tell you
+the caliber of partner that they're
+actually looking for. Now, their model
+is very simple. They invest in great
+founders. They protect what's working,
+and they help you scale faster. Now,
+while giving you the opportunity to take
+some chips off that table, they also
+give you a second bite when they
+actually sell the bigger agency. So, if
+you're thinking about exiting now, or
+maybe in a few years, or if you want to
+know what your options could be, make
+sure you go to herringbone
+digital.com/swenk
+to start that conversation. That's
+herringbone digital.com/swenk. [music]
+>> Yeah, we've definitely all had our noses
+bloodied a few times along the way.
+>> Yeah, there's there's no there's no
+skipping that. I mean, you could skip
+some of it,
+right? If you surround yourself with the
+right people, but
+I always tell people when they join the
+mastermind, I'm like, "Look, we'll solve
+some cha- some challenges, but those
+challenges will create new challenges."
+>> If you have a lead problem, we could
+solve that. But then you realize you
+have a capacity problem. Yep, then it
+turns to us,
+and it's back and forth. I I would say
+it's like spinning plates, you know, you
+are running around, and you have to be
+scanning for what plate is wobbly. You
+go and you adjust that plate. Go on, and
+>> Yeah, and you just go like, I'll pick
+this one. I think that's the biggest
+impact one. Sometimes you pick wrong,
+and that's okay. But,
+you know, that's that's the beauty about
+what we do.
+And you know, I was I was This morning I
+was recording a video talking about,
+you know, especially with AI. I mean,
+obviously,
+through our lifetime in this agency
+world, things have changed quite a bit.
+And I do have a question for you. When
+you started,
+I I look at it in two ways, especially
+right now. And I think people back
+in the the '90s thought about this when
+the internet was coming, cuz, you know,
+obviously we had traditional,
+you know, agencies, right? And
+I was always excited about the internet.
+I never worried about it, but I know
+some traditional agencies did.
+And I have the same feeling that there's
+agencies right now with AI.
+There's a camp for worried, and there's
+a camp for excited.
+And I feel that there's more worried
+people because they have something to
+protect. Do you feel that way, too?
+Yeah, I think that is really pretty apt.
+I I think the dawning of the internet,
+which we've seen, right, was a sea
+change.
+Uh for those old-school agencies, they
+were going to have to learn a whole new
+set of skills to
+to to uh
+well, stay in business, really. You
+know, they really had to evolve.
+And you know,
+the
+you know, mobile coming online like it
+did was another little mini revolution.
+It wasn't quite the sea change as the
+internet, but AI I think is bigger than
+the internet.
+>> It's the biggest thing I've ever seen.
+>> Yeah, yeah. It's like printing press
+level, you know. Is this a new species
+or not kind of, you know, like you know,
+I I'm sure everyone's freaking out like
+we are, right? Talking about this. It's
+like
+It's amazing and
+well, and and
+and scary and you have all these mixed
+feelings, but from an agency perspective
+it's it's something that Yeah, I'm sure
+people if you're afraid, you should face
+that fear and you need to
+you need to really look squarely at it
+because it's a whole new toolkit that
+has been brought to you that, you know,
+if you're it's the equivalent of, you
+know, you're you're riding your horse
+and buggy.
+You know, here's a you know, here's a
+Jeep Wrangler or more like a helicopter,
+right? Or a spaceship. I don't know, you
+know, but
+it'll get you from point A to point B a
+lot faster. But, it's also, you know,
+something that is rapidly changing. So,
+it is
+uh you have to know
+that uh you know, you're talking about
+getting your nose bloodied. This is a
+time to get your nose bloodied and just
+know, hey, it's going to happen and just
+to dive in and let your nose get
+bloodied a few times because it's worth
+the fight. It's you know,
+I think it's going to be really
+interesting. If you if you're not in
+there surfing the wave, you're going to
+be
+you you will be pummeled by it.
+>> and I don't think like, you know, I just
+got back from our conference Elevate
+where we had
+you know, 60 amazing agency owners
+talking about all this. And, you know, I
+told them I go, "Look,
+>> some days I'm scared of it, some days
+I'm not. Some days I'm really excited."
+And I
+I tell people it's okay to have both
+emotions because it makes you curious
+and it's not something where
+you can hire someone to come in and make
+your agency AI
+leveraged or whatever.
+Like that's almost like when the
+internet came out. It's like, "Hey, um
+David, you understand the internet
+really good. Can you go navigate this
+for me?"
+Like you have to learn it in order to
+see what you can do. And then what I
+tell people and what I told everybody at
+Elevate
+you have to really understand it and
+start building these AI agents for
+yourself.
+But the real power
+is teaching your team how to do that.
+Yep. And when they start building these
+AI agents, now you took a team of 15
+people and made them like a team of 100
+people. Right. I I I totally agree. And
+I I absolutely concur with, you know,
+your emotional swings.
+I I I feel the exact same way.
+pretty early
+on, this was maybe a week after
+uh you could store context in Claude,
+uh I took a a course with uh 60 other
+business owners. This is from 60
+business owners from around the world
+doing a deep dive. It was expensive,
+cost 10 grand to go to the course and
+get in on this with this kind of group.
+And
+you know, applying
+a kind of a business framework to that
+context and building an output with a
+cohort of people. And that was an
+eye-opener, of course, right? It was a
+game-changer for us. And And what it did
+is it it really inspired me to set up a
+couple seats at Arcstone for AI
+architect and uh AI operator.
+Right? So, you've got
+the mindset of someone who really can
+build those agents, right? That
+architecture or build those workflows.
+And then operators, which are kind of
+like you you take your 15 people um
+really understand that. You're You're
+right, it's a multiplier.
+Yeah. But that human-in-the-loop is so
+important still still still. And I think
+that that Well, it's so life-like to us.
+I mean, just this morning, sorry, I'm
+about to sneeze.
+But this morning I uh
+you know, I had to do something and I
+was like,
+"That's not right." Oh, yeah, that's
+right. You know, you're you're totally
+right.
+>> I was just kidding.
+I'm like, "Yeah." he's so Oh, yeah,
+you're absolutely right. How many times
+have you seen that? But you have to put
+in your reps. Like you're saying with
+the other owners, you know, if you're
+not if you haven't dove into it yet, put
+in your reps and and spend time picking
+LLM of your choice and put in 20 plus
+hours, you know, there are so
+so many different kinds of materials and
+resources now. It doesn't take long to
+get educated to the basics. Yeah. You
+know. Well, I tell everybody whatever
+model you start training, you have to
+document that just because the models
+would change, right? Like it's going to
+be a constant war between you know,
+right now Claude is the best. Well,
+until past couple past week, I think
+it's been dumb as Um and really
+pissing me off, but like it could be
+chat GBT. Like maybe they're playing the
+rope-a-dope until they go public or you
+know, Gemini always you know, or Google
+kind of always lays back, let's
+everybody go through the wall a little
+bloody and then they come out and just
+crush everyone. So you never know what
+model is going to be amazing. So I
+almost tell everybody you got to build
+your like AI operating system.
+Like how could you create these
+multi-layers in order to
+make decisions faster for you, for your
+team, for your company, right? Like and
+put all of it together because
+it's an amazing gift, but it can also
+take you down very fast if you don't
+adapt.
+>> Well, David, thank thank you so much for
+for coming on the show and sharing and
+being transparent with all of us. You
+know, I think all of us are thinking
+exactly what you're talking about,
+especially like you know, building
+products and software. You're like, wow,
+like never before could we all build
+software and anything we dream up of.
+But the cool advantage that I think all
+of us have is this. We're creative.
+We're innovative. And gosh darn people
+like us.
+>> Yeah, those those skills will transfer,
+you know.
+>> They will.
+And so I think I think you're right,
+Jason. It's been a pleasure. Thank you
+for for having me on.
+>> Yeah, awesome. Thanks guys and until
+next time have a swank day.

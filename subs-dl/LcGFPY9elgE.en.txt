@@ -1,0 +1,262 @@
+welcome to analyzing Finance with Nick
+we've done the iceberg of Finance
+economics and wealth management and now
+we're going to do our next Iceberg which
+is the iceberg of options and volatility
+why are we doing this one one I think
+this is something a lot of people don't
+know that much about I have a pretty
+strong expertise I worked at one of the
+largest options Market making hedge
+funds for three years as a research
+analyst and I do a lot of options
+related work for my clients at my
+current wealth management firm that I am
+a partner at so I figured I would kind
+of share my expertise and kind of go
+down the layers of the iceberg in the
+world of the derivatives Market first
+Iceberg as a disclosure um there's
+nothing on here as investment advice
+please do your own investment research
+or retain an investment advisor I'm not
+going to answer any specific trading
+related questions in these videos so if
+you have those kind of questions um St
+the comments I recommend just contacting
+me directly either through email or my
+consultation form now without further
+Ado let's get started with L yeah that's
+market makers next are the Greeks I did
+a whole video series on the Greeks away
+at the beginning of this channel but the
+Greeks are the these letters in the
+Greek alphabet that design that that
+basically explains certain properties of
+options that certain things move based
+on certain effects on the underlying
+like Delta is the most common Greek
+that's the change in the value of the
+option with the change in the price of
+the underlying asset gamma is the first
+derivative of delta or the second
+derivative really of the option price
+itself where how much do the option
+price move how much the Delta change
+based on the change in price so that's
+what gamma is and like then there is row
+which is the change in the option price
+the change in interest rates and then
+there is Theta which is the change in
+the option price with the change in time
+and Theta is usually always negative if
+you are buying option and positive if
+you are selling options because options
+a lot of the value is the time value and
+the longer dat the option the greater
+the Theta has but Theta is not evenly
+distributed it doesn't like if an option
+is 100 days it doesn't decline 100 one
+the option price doesn't decline 1%
+every year even the Theta doesn't
+decline 1% every year most of the Theta
+declines concentrate in the last 30 days
+generally speaking is where it really
+starts to accelerate because the the
+real probability of the option either
+hitting the target if it hasn't already
+or to fall out of the money if it
+already has declines very quickly when
+it's closer to expiration and there are
+other and then Vega which is the change
+in implied volatility is the implied
+volatility and the change in the implied
+volatility with the change in price so
+there's all also a few other more
+obscure Greeks but these are the ones
+that I'm just going to cover here you
+can watch my Greek series if you want to
+know more skew is the net bias
+directionally of the ball surface and
+the ball like usually skew is negatively
+biased that puts at the same distance
+away from the underlying tend to be more
+expensive than calls because a lot of
+people use options to buy insurance
+however when there is like kind of like
+a retail driven Euphoria in the
+marketplace that skew might shift to
+being positive but skew is really just
+the measure of how much does Tails cost
+compared to closer in the money options
+the greater the tail costs like in terms
+of like implied Vol I'm not talking
+about outright prices because the fact
+that these are such low Delta and low
+gamma out there that that low that
+depresses prices but just in terms of
+pure like implied ball if the implied
+Vall Gap is wide in favor of the the the
+farther out of the money option it means
+that people are anticipating a bigger
+move than expected or that there is a
+risk of a severe tail event is higher
+than normal whereas if that spread is
+narrow then that means people are think
+the Market's not going to move very much
+or is very complacent or volatility is
+so high already that like because
+they're already down in the dumps in the
+market that like there's no real point
+to have a certain big hedging you don't
+hedge after after the horses have ran
+out of the barn so that's kind of that's
+skew and then black Sholes is the famous
+formula by Fisher black and Myon scholes
+which was the options pricing model so
+how options are calculated like most the
+components of options such as like the
+price of the underlying the time the
+Delta can all be pretty easily
+calculated but there but the key
+breakthrough with black scholes is it
+allowed Traders for the first time to
+price implied volatility like because
+volatility unlike all the other
+components of the black scholes formula
+which I'll post on here because it's a
+very long formula I think I might have
+talked about this on the iceberg of
+Finance is a derived variable like you
+cannot there is no you can't just
+measure like it's Vol at least in
+realize volatility you can measure
+because you could see what moved in the
+past and you can compare that to
+historical and get an idea of what
+percentile it's in and what the move was
+whereas implied volatility since it's
+what the market expects in the future
+you can't really just analytically put
+that in you just put in the other
+variables and you can derive the implied
+volatility and what is implied
+volatility is the expected move in the
+options price the expected volatility
+like the expected standard deviation of
+potential outcomes they the option is
+pricing at the current moment usually
+when VA is low it means the market is
+complacent when V is high it means that
+people are scared on a index level for
+single stocks Vault can be high around
+major events such as earnings or
+anticipated corporate actions or it can
+be very low if there are no anticipated
+events or like if a company is getting
+Acquired and the deal is highly likely
+to go through and it's already at the
+deal price then implied Vol would be
+extremely low so it's really situational
+and looking at the implied VA and the
+changes of implied VA over time can
+possibly tell you something about the
+prediction the future price patterns of
+the underlying and also it's a good
+measure to tell if you're over or under
+paying for an option because if like the
+vs are higher than what you think it
+realistically is going to move or what
+you're relative to your price Target and
+that the option is expensive and may not
+be a good way to make a directional
+movement or might even be a good
+opportunity to sell volatility if it's
+too high but that is implied VA and
+layer three and layer three I kind of
+keep going off of a lot of this stuff is
+kind of all derivative no pun intended
+or maybe it was a little intended of the
+stuff I previously have talked about and
+so trading Ball versus trading Delta
+Delta is directional trading you're
+trying to use a stock or an option
+because you think an asset is going to
+move a certain way and you want to take
+advantage of that or if you're trading
+VA you're betting on implied volatility
+whether it's going to move up or down
+because the market is over or
+underpricing the risk of an unusual
+event and so you are just you don't need
+the the stock to move a single Direction
+one or another you just need to move
+move need to move either more or less
+than expected so like it's there are
+cumstances where the directional Trader
+and the VA Trader can win so say for
+example you have a a directional Trader
+who's really bearish on a stock I think
+it's going to go down 25% so they buy a
+put at the money that's worth about 10%
+of the underlying and if the stock drops
+20% the directional person will win and
+the VA Market maker will lose because it
+moved more than expected whereas if the
+stock only drops 10% the directional guy
+is technically right but it didn't move
+down enough for him to take advantage of
+the profits because the option was
+priced at that level and so the market
+maker is going to win in that scenario
+but actually I'm going to use a better
+example for this so like the directional
+in the VA Trader can win but not
+necessarily at the same time but not
+necessarily if they trade it the same
+way so if a directional Trader is short
+the equity Market the D I'm just going
+to scrap all this but yeah there's just
+a difference and the V smile is just the
+shape of the skew so it's like the
+implied level of volatility at each
+level of out of the money or in the
+money of the option and it's a smile
+because it's often times that the
+implied ball is higher at more extreme
+levels or more out of the- money options
+and is lower at at the money options so
+the VA creates surface kind of the VA BM
+structure creates a a smile in that way
+and then if you want to take it more to
+a three-dimensional model where you
+include not just the volatility and the
+out of the money but also the dates you
+create like a 3D image with ship kind of
+looks like a blanket in a way called The
+V surface which shows how the volatility
+changes not just at different in the
+strike levels but also at different
+dates and times so like you can have
+like a term structure is just really how
+V I'm let me clarify this term structure
+is a term I just been throwing out there
+is how the VA changes at different
+strikes so maybe the June strike of an
+option is at a vault of 20 and the
+September strike is that EV all of 15
+and the December strike is at of 30 cuz
+there's an election coming up and so
+that's the term structure the V smile is
+the change in
+volatility over different strikes so
+that measures skew to a certain degree
+and then you have the Vall surface which
+combines the term structure and the V
+smile in a single 3D plane which is kind
+of looks like a a digital blanket when
+you run this in a chart so that's kind
+of how different ways you can analyze
+volatility relative to date relative to
+in the money Etc now we are going to be
+talking about this the European

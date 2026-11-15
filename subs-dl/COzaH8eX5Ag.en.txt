@@ -1,0 +1,680 @@
+Quick thing before we get started. If
+you disappeared from your agency for 30
+days, no calls, no emails, no Slack,
+would it survive? Would it thrive? Would
+it decline? If you hesitated, I get it.
+I spent 12 years building my agency and
+for the most part of that, I was
+actually the ceiling. Every decision,
+every client, every fire, all me. I
+wrote a book about what actually needed
+to change. It is called Operator to
+Owner and it lays out the five identity
+shifts every founder has to make to stop
+being that bottleneck. So, go to
+operator to owner evolution.com. That's
+operator to owner evolution.com
+and grab your copy.
+You're listening to the Smart Agency
+Masterclass with me, Jason Swenk, and
+we're bringing you this episode courtesy
+of our friends at Wix Studio. Let's go
+ahead and get into the show.
+Hey Andy, welcome to the show.
+>> Thanks for having me, Jason.
+>> Yeah, excited to have you on. Glad we
+finally worked out the technical issues,
+but tell us who you are and what you do.
+>> Um so, I'm Andy Jainatis, uh founder of
+PPC Pitbulls. We're a boutique digital
+marketing firm. We focus on Google Ads
+and Meta Ads um for small to medium
+businesses and our uh real
+differentiator, um
+how we help our clients succeed is by
+making sure that we're measuring every
+single ad dollar that goes into the
+system. We understand what's happening
+once the
+uh customers hit your site um and then
+uh using that to optimize and and get
+better from there.
+>> Very cool. And how did you get started?
+>> Uh so, I started my career um I came out
+of school as an industrial engineer. I
+was in uh data science and then software
+engineering, eventually product
+management, but throughout the whole
+phase I was already always working for
+an agency. Um so, I I also had the
+entrepreneurial bug and wanted to start
+my own thing and kind of always knew it
+would have to be an agency is cuz that's
+the uh the life I knew and and uh you
+know, kind of how I had gotten my start.
+So,
+uh me and a former colleague, we we took
+the jump. He said, "Hey, you know, you
+want to come help with the technical
+side of
+uh you know, Google and Meta ads?" And
+um yeah, we took the jump, started an
+agency
+um right before this is 2020, so it was
+right before COVID hit and uh right
+before my my son was born, my first
+first child.
+Um and we've been off to the races ever
+since then.
+>> Very cool. And I know you've started
+kind of creating your
+you know, agency brain. And And when
+I've been you know, we had our event
+2 weeks ago now.
+And you know, my whole thing there was
+as agency owners, we need to get
+really embrace AI and be efficient and
+really create
+a layer where it supports your team as
+well as
+removes creates some of the decisions
+that AI or your team can actually do.
+And I I know you're you're messing with
+Claude right now. Tell us a little bit
+more of what you're doing with that.
+>> Yeah, so you know, like probably most
+agency owners, you know, back about a
+year or two ago, you know, we started to
+say, "Hey, you know, we're going to fall
+behind if we don't don't keep up with
+this you know, this AI thing." So, we
+got everybody on the team a seat in
+Claude and ChatGPT and Gemini. And we
+said, "Okay, we're going to figure out
+which one works best." And using it
+mainly for you know, the standard stuff,
+you know, queries, kind of similar to
+how you'd use a Google search, but
+getting a little fuller result back.
+Um but then about 6 weeks ago, we really
+uh jumped off and and started we said,
+"Okay, let's you know, take this to the
+next level, start making this a tool we
+can actually use." Um and we've built
+what what I'd like to kind of describe
+as a context engine. So, essentially,
+you know, we've hooked into uh our
+Fireflies meeting recordings, we've
+hooked into our our email, we've hooked
+into
+um our Slack, really any touchpoint we
+have with a client or internally. Um and
+we're taking all of that information and
+dropping it into context files. So, the
+the first step was like just figuring
+out how to pull parse all that
+information properly so that when
+something comes up, when a client has an
+issue, when you know, we're in the
+middle of a process, we can kind of just
+ask Claude and it all just works, you
+know, it it understands our our brand
+voice, it understands our general SOWs
+as an agency, it understands, you know,
+all the different context from the
+clients we work with
+and and kind of helps to guide the team
+in a direction. So, I really think of it
+as I I don't know if
+I'm sure most of the agency owners
+listening to this have the same
+experience where you hear for years, you
+got to SOW, you got to systematize
+systematize everything.
+And for, you know, been in this business
+for 5 years now, 6 years I think.
+Um
+at at every turn we've always tried
+different things, you know, whether it
+be, you know, documents, whether it be,
+you know, we're in ClickUp, so dropping
+all the different SOWs into ClickUp and
+invariably they never got followed,
+right? So, this is the first time that
+we're really able to take all of that
+context plus, uh
+you know, it's it's kind of constantly
+learning new context and I almost think
+of it as like enforcing our SOW. So, if
+we want something to be done a certain
+way, we just add that into the, you
+know, general skill memory and then the
+next time it happens, it's just going to
+happen the way that we'd like it to.
+Um so, it's been really really helpful
+for that.
+>> Yeah, for
+for
+a while now,
+and I think most people just use AI as a
+chat. And they just ask it a question.
+And you know, one of the things that
+we've really been building over the past
+couple months is right, this AI
+operating system.
+Right, because the more
+Look, everyone has the same tools, we
+all do.
+But we don't have the same data, that's
+what makes us unique. And so, what I
+started doing
+what as I was building this operating
+system, I was like
+how do I put all this context in like
+you were saying? So, like I have over a
+thousand videos. I have 950 interviews
+that we've done on the podcast. You
+know, I have all this content, all this
+stuff, these frameworks, books.
+And
+I was trying to load it up all in the
+context, but then it would just get it
+would overwhelm the system and like I'd
+be out of tokens or memory or however
+you want to
+>> Yeah.
+>> do it. And so I was like, man, I've got
+to build something
+I give it a decision layer for what
+different things to pull. So, when it
+goes to the wiki for the podcast or the
+YouTube channel videos that we've done,
+it looks at a high-level version. And
+then if like I ask specific questions,
+it will go deep.
+I have it as
+I've trained it where if I said, you
+know, we all have that issue where uh AI
+will go you will tell you something and
+you know you know damn straight
+>> That ain't right, yeah.
+>> And then you call it on it and it's
+like, oh yeah, got you. Like I was
+>> Exactly, yep.
+>> You're right. So, it logs, it trains.
+And the cool part like I think we were
+talking kind of before is it's all
+local. So, when Claude was kind of
+farting around and [ __ ] me up last
+week,
+I was like, well, screw you, Claude. I'm
+going to use Gemini.
+Rolled right into Gemini.
+>> Exactly, yeah.
+>> Burned through tokens on that.
+And I heard about Codex or Codex,
+whatever it's [ __ ] called,
+rolled right to that. I was up and
+running again. Like it's pretty amazing.
+Like if you just as you you build this
+living thing, it feels like.
+>> Yeah, and and that's the you know, all
+the different platforms
+are pretty powerful like you mentioned.
+Like you can kind of switch one in,
+switch the other in. But having that
+that good context store and for us one
+of the big challenges was getting that
+to a shared level, too, right? So,
+everything lives locally, but then
+figuring out how we could auto sync that
+to Google Drive so that at any given
+time, you know, if I
+>> How do you sync it to Drive? What did
+you do?
+>> it's all just basically lives it's kind
+of a two-tiered structure. So, our
+central bank of client context and all
+the skills that we have and, you know,
+just general rules as an agency, that
+just lives in a shared Google Drive
+folder which everybody has automatically
+syncing to your desktop at all all given
+times. Um and then separately, there's a
+personal context layer. So, if I say,
+"Hey, you know, when you're
+parsing my inbox, I'm going to put in a
+very specific rule to handle, you know,
+messages that I get from my kids' school
+or something that doesn't really apply
+to anybody else and that gets saved off
+into a personal context store.
+Um and then we've just written the rules
+in such a way that it pulls from both of
+those in a smart way and saves
+everything where it needs to be saved.
+Um so, we have both.
+>> How do you know it doesn't get
+overwritten
+if it's constantly syncing with with
+everybody?
+>> Yeah. So, we're generally a small team.
+So, you know, we don't have a a ton of
+concern, you know, as long as
+everybody's kind of making smart
+decisions. Um
+we're still pretty early on. So, like
+realistically, there are probably some
+different file permission changes that
+we should make over time. Um but in the
+short run, one big thing we've done is
+that everything has an owner. So, every
+client, obviously, the account manager
+would be the owner for that that stage.
+Um and then for, you know, most of our
+central skills files, I'm the owner for
+those. Um and basically, anybody can
+make changes to those, but if they go to
+make changes, it will prompt them and
+say, "Hey, someone else owns this. Are
+you sure you want to make that change?
+If not, you can put it into a a separate
+queue and then the next time I come on,
+it'll say, "Hey, you know, one of my
+employees queued up a a change cuz they
+think that the inbox management will run
+better if we do this.
+Do you approve it or not?" And then it
+goes into the main store.
+>> Yeah. You know, how I how I started
+doing it was I basically
+I think a good starting point
+and this is what I I did cuz it allowed
+me to
+just kind of start cuz I as I talked to
+agency owners
+they don't know where to start.
+Because we were so ADD.
+And we'll go down one rabbit hole. Oh,
+Jason said to do this. Boom.
+And then he gets distracted doing
+something else and then you know, it's
+all across the board and I'm constantly
+that way. So
+I'd be curious, where do you think if
+you could go back to do this, where
+would you start and then I'll tell you
+where I would start, too.
+So, the big thing is
+there's a few answers and the short
+answer is I kind of short circuited it a
+little bit that
+I'm in another agency community. I don't
+know if you've ever met with Chris
+DuBois at some point.
+But he
+had basically a workshop that say in an
+hour we're going to start a structure.
+And basically what it was was
+just a rules file that was you know
+no more than a page or something that
+basically just said, hey, here's the
+context files I'm going to give you and
+here's how to think about them and then
+you can just keep adding things on. And
+then it came with just a very basic
+folder structure that had
+you know, skills with you know, one or
+two skills files under it. Everything is
+just text files and markdown
+and then clients and that had you know,
+one or two client directories under it.
+But the idea is you know, the beauty of
+working with a Claude is you can kind of
+describe what your end goal is and what
+where you're trying to get to and it'll
+design a whole plan for you. So, you
+know, for us we're we're heavily Claude
+based. You know, you mentioned all the
+different platforms you could be using.
+I would say as a starting point for
+everybody if you want to say, hey, I
+want to start pick one very specific
+thing you want to do and say, "Hey, I
+want to start
+um you know, getting client contacts out
+of my Fireflies transcripts." So, you're
+already recording client calls
+um and you want to pull those down, just
+open up Claude, open up the desktop
+version so it's pulling from your your
+local files, go to Claude code, and just
+say, "Hey, this is what I'm trying to
+do. This is the tool that I'm trying
+trying to pull the context from, and I'd
+like to save it in a file structure
+that's organized so that it's easy to to
+find, you know, context from individual
+clients.
+Um and just with that, it'll bring up a
+plan for you. You can approve and say,
+"Hey, change this, change this, keep
+that." Go ahead and run with it, and
+it'll build
+a framework, you know, it just you just
+need that initial harness, and then from
+there everything is just tweaks and
+changes over time that, "Okay, now
+here's a new feature I want to add.
+Here's a new feature I want to add."
+>> Look, your agency adapts for [music]
+every client, right? Your builder should
+do the same. That's why Wix Studio is
+built for the way you actually create.
+AI-powered site mapping lets you get
+straight down to the design. Whether you
+shape things in Figma or start in
+Studio, your vision's coming to life
+quicker with no-code animations and
+built-in responsiveness. And for client
+growth that actually scale, you've got
+extendable business solutions and a
+dynamic CMS. Scale your agency at
+wixstudio.com. [music]
+>> [music]
+>> Yeah. Yeah, my my mistake I made when I
+was building the operating system in the
+beginning was I created this huge long
+Google Drive document.
+And I loaded it up with everything. So,
+it was almost like every time I asked AI
+a question, it had to go through
+everything. Like it was literally
+everyone in my company, come to a
+meeting. I want to see if I can change
+this one letter in this one line of
+text.
+And everyone has to say yes
+in order to do it.
+And so I thought that was an operating
+system. I was like, "No, no, no."
+It was more of a what I call a briefing
+document. Right? To go through, here's
+our ICP, here's who we don't
+You know, here's what we stand for,
+here's what we stand against, here's our
+branding guidelines.
+And then, like you said, building that
+infrastructure, that file structure for
+here's some of the designs we like.
+Here's some of the marketing we like.
+Here's marketing that we've used. Here's
+our wikis. Here's our podcasts. Here's
+our YouTube. Here's our transcripts. All
+these different things. But then we have
+routing throughout it, so it doesn't
+load everything.
+>> It's really efficient. And you know,
+I've been able to spin up sites in like
+a half hour that I would charge so much
+because it was so easy where I can go
+do different tasks. And like you were
+saying, most people give it a task to
+do. I try to remind myself cuz sometimes
+I forget, give it an outcome. And let it
+work work backwards. And and that's the
+real
+that's the real secret sauce. And I
+think
+it's just a new way of
+working
+too, right? Like when I started in '99,
+there was no web designers or webmasters
+or
+web developers, right? And that's the
+same thing that's happening now. And I
+think I was saying on another podcast,
+I think a lot of people are freaked out
+because they haven't understood it. They
+haven't rolled up their sleeves and they
+think they can hire someone
+to go do it for them where
+it's almost like telling people, go on
+the internet when the internet came out
+go browse for me and tell me
+yeah I'll go go do my stuff.
+>> It doesn't make any sense like roll up
+your sleeves just get into it. And then
+the real secret sauce
+is not for you just to do it and create
+these agents but to show your team how
+to do that and then they create agents
+and then just start spreading. It's it's
+really pretty cool to watch my team
+build these kind of things.
+>> Exactly. And it's really the thing
+you've got to
+you've got to be experiencing it in
+order to to start working. So like you
+know that's the the biggest piece of
+advice for anybody is like just get
+started and start messing with it and
+you'll slowly get better over time. But
+similarly for your team
+you know
+a lot of the value you're going to get
+out of it we probably well certainly we
+haven't seen all of the value you're
+going to get out of it yet but a lot of
+it's going to be months or years before
+you really start to like dial it all in.
+But you'll never be at that point if you
+don't get started today kind of thing.
+>> Well it's it's like everything it's just
+if you wait for it to be perfect
+you'll never do it.
+>> You know I'm constantly changing it.
+Like you know I it's it's annoying the
+hell out of my team.
+>> It's I'm like hey check out what I did
+or and then when they ignore me I go to
+my wife hey check out what I did and
+then she ignores me and like I'm like
+>> who who wants to see what my really cool
+thing I built?
+>> Over and over again yeah. And I think it
+there's a a really important piece there
+too and this is why that operating
+system or just some context layer where
+you're saving information between
+sessions is really important because
+when I talk to
+especially [snorts] like non-technical
+people you know people
+it's amazing I feel like we've been at
+this for a year or so and and it feels
+like oh this is all old hat everybody's
+using this stuff and then I talk to you
+know my brother is a lawyer and you know
+he says hey we got to get started with
+it like he's just starting to play with
+some of this stuff and and you're really
+feeling the, you know, existential pinch
+that there are it's, you know, it's
+important that we're under that we're
+staying ahead of this stuff because your
+competitors certainly are going to be
+staying ahead of it.
+But as he's getting it, he says, "Okay,
+well I I, you know, had it write a
+contract for me." And look at these
+really stupid mistakes it made. And if
+he was to just, you know, keep going to
+the interface and keep prompting it, you
+can make your prompts a little bit
+better over time, you know, but you'd
+probably still see a lot of those stupid
+mistakes over and over and over again.
+So I think the best thing you can do to
+get started is to write that context
+layer that saves off rules, saves off,
+you know, the way that you want things
+done
+over time because then you're not only
+improving in your own skills, but you
+can also be improving in, you know, the
+prompts you're writing. Everything is is
+just kind of slowly improving over time
+um versus, you know, seeing a mistake it
+made,
+spending a whole session fixing that
+that mistake by prompting it over and
+over again, and then just waiting and 2
+weeks later you come in for a new
+document, a new sales proposal, or
+whatever, and you still have to fix all
+those same problems that you fixed the
+first time um versus saving those rules
+off so that now your sales proposals
+just work every time you come back.
+>> Well,
+and I understand the frustration people
+have when they use it
+and they don't [clears throat] give it
+the right context and they get crappy
+results or the AI slop. They're like,
+"Oh, this sucks."
+I'm like, "Yeah, it sucks, but you would
+get the same result if you hired someone
+and gave it very little context
+and you said, "Go do it." Well, that's
+going to suck.
+And that might be your whole That
+actually [clears throat] might be the
+whole agency's issue if they're
+struggling
+because they just expect, right? I think
+even going back to when I first started
+hiring people for roles that I've never
+experienced. I'd be like, "Oh, you
+suck." Cuz I didn't have a system in
+place. I didn't give them the outcome I
+wanted.
+I just said, "Go do this task or try to
+go figure it out. Like you're supposed
+to be the expert on this.
+And I was like
+look back I was like man that was a bad
+move. And and I think people are doing
+that with AI right now
+um including your team.
+But and there's going to be some people
+that adapt faster than others. The ones
+that don't adapt
+what you know the
+they're going to be extinct.
+>> [laughter]
+>> You know hesitation hesitation will kill
+their job not AI.
+>> Exactly yeah. And there is a pretty low
+barrier to entry like what you're saying
+like you can literally if you're not
+sure how to do something you can
+literally ask the tool how to do it and
+it'll start to help you figure out you
+know hey I need to to find a way that
+every time you make this mistake we
+don't make the same mistake next week.
+And if you ask it that question it will
+write you a whole plan and help you
+figure out how exactly you're going to
+get that done.
+>> Yeah. And just remember everybody AI is
+the worst it will ever be at this
+moment.
+>> Exactly.
+>> gets better.
+>> I always think the
+you know you always hear like the
+Gartner hype cycle. I
+it's amazing how each new technology
+comes out and people these are lessons
+we've learned over and over again but
+people always forget. You kind of have
+this like you know hey new capability
+comes out like we're all so excited this
+you know peak of inflated expectations
+and then we start to see some of the
+limitations and get really disillusioned
+with how it works and then eventually
+it's like yeah didn't fulfill all the
+promise that we thought it might have at
+the very beginning but realistically
+it's making us a lot more pro you know
+productive if we're able to work around
+some of the limitations and use it in
+the right way.
+But yeah it's funny it's like you see
+that with every single software every
+new tool that comes out and AI is no
+different but you you know when things
+what is it two three years ago when chat
+GPT first first hit public you know and
+you can almost immediately people like
+oh man every job in the world is going
+away. Like, this is going to take over
+everything." Like, when you always map
+it back to that that Gartner hype cycle
+idea, like, I I feel like that's uh you
+know, it's pretty easy to see where that
+hype comes in. And and as you're
+listening to different podcasts and
+things, I I think uh
+yeah, it always comes up the same.
+>> Well, I think it's because the the
+people that are freaking out are the
+ones that are trying to protect
+something that they've built
+versus
+a lot of times, I'm like, "Screw it.
+I'll risk everything."
+>> I don't care. I'll blow it up. I'll
+figure it out.
+you know, I've
+when the internet came out and I created
+my agency, like, I didn't even have that
+fear cuz I didn't have anything.
+>> And then even as I was building, I was
+like, "Fuck it. I'll just keep
+building." Like, you know, young Jason
+is not going to take me out.
+And I'm still that way. I'm like,
+um but there's a lot of people that are
+like, "No, we've always done it this
+way. We're going to keep doing it."
+Well, good luck with that.
+>> Yeah. You've got to be up I mean, that's
+the whole reason we're entrepreneurs,
+right? Like, there's
+>> If you're going to just keep doing
+everything the same way and take the
+safer path, then what's the point in
+starting an agency?
+>> Yeah, exactly. Well,
+well, Andy, thanks so much for coming on
+and sharing this. And for everyone
+listening, um work I'm getting a a 25
+people together
+uh in Austin, Texas in November.
+And it's going to be a live workshop
+where we're going to be building these
+AIs. Think of hackathon, but for AI with
+25 agency owners.
+If you guys go to forge
+your
+agency ahead.ai, we just came up with
+that today. Um
+you can check it out. So, it's forge
+your agency ahead.ai.
+Go check it out. And until next time,
+have a swank day.

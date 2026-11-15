@@ -1,0 +1,560 @@
+I just used Cloud Code to build me a
+website that looks like this with full
+motion graphics, animations, and clean
+effects. And the crazy part is that it
+took less than 10 minutes to set
+everything up. Which is why in this
+video, I'm going to walk you through the
+four-step framework that I personally
+use to build high-end websites that you
+can start selling to businesses right
+away. And in case you don't know me, my
+name is Mikuel and I've scaled my own AI
+agency to six figures, working with over
+50 businesses to implement AI solutions
+and teaching over 20,000 people in the
+process, all starting with zero
+technical knowledge. So, if it sounds
+like something that you want to learn,
+let's dive in. So to give you like a
+full recap, a high level of what we did,
+we made an image that looks like this of
+this Ferrari F1. Then we made a video
+that looks like this where we have the
+components of the car breaking up to
+then make a website that looks like this
+where we have born to perform seven
+decades of fury forged in Marinelo. Then
+we go down, you can see the car breaking
+up and going back in, which is super
+super super sick. And by the way, this
+right here is a video. So we have the
+video incorporated in the websites. You
+can also see here Prancing, which is the
+the horse of the Ferrari. So it goes
+down, we can see maximum speed. We can
+see 0 to 100km per hour. Top speed here.
+We also have the final page which is
+experience the legend reserve now. So
+reserve the spot for the the actual car.
+Okay. So that's a full website that
+we're going to build. So we're going to
+go through everything step by step. Now
+there's a lot of moving components for
+this exact websites cuz there's
+different places where we get data, make
+the image, make the video, which is why
+we're going to break it all down into a
+four-step framework. The fourstep
+framework is called plan, execute,
+review, and deploy. All right. So the
+first one here is plan. Okay. So here's
+a product that I use to be able to
+create the website that I showed you. As
+you can see here, I have the video of
+the Ferrari that we used inside the
+website. And essentially to be able to
+start everything, we need two different
+things. We need something called the
+claude.md file. And we need the second
+thing which is two different skills. So
+first thing is the cloudmd file. Now
+what is it? This right here represents
+the definition quite in a in a very
+quick way which is are you tired to
+repeat yourself? Tell claude to remember
+why you've told it using the cloud. Md
+file. So essentially, it's a way for us
+to give Claude memory of the project
+because every single time that we're
+talking to Claude, it needs to have
+context as what it is that we're doing.
+So this right here describes the
+project, which is a landing page for
+Ferrari. Then we have the file
+structure. So when it makes the landing
+page, where does it store everything?
+What folders, where do the files go
+inside the folders? And it gives
+structure to the whole project. Then we
+have more things specific to the actual
+landing page. The design, so these are
+the different designs that we use,
+animations and external dependencies,
+coding conventions, and constraints.
+Now, a lot of the things that are here I
+don't fully understand, right? Because
+I'm not super technical, but we use AI
+to craft the claw.md file, which makes
+it easier for us to be able to do it. By
+the way, all the resources and templates
+of this video are going to be stored in
+the second link down below in my free
+school community. You can go to the
+custom section, the templates vault. You
+can go to claw code websites and you'll
+be able to see all the links and files
+right there. Let's get back to the
+video. So, once you have the cloud.d
+file, which gives claw code the memory,
+then now we have the two different
+skills. So skills are basically ways for
+us to give claw code a series of
+instructions to make something better.
+So for example, we need to make a
+landing page and we need to make a video
+that fits well inside the landing page.
+So the first skill that we need is
+called front-end design. Now a skill
+again is just a list of instructions. So
+this skill right here tells claw code,
+hey, here's how to create a nice looking
+UI. So user interface, basically a
+landing page, which increases the output
+for the landing page that we're going to
+make. And so every single time it makes
+a landing page, it looks at the skill.
+It looks at all the components, how it
+needs to think about design, the front
+end guidelines and so on. And so it will
+use the skill when making the landing
+page. Now your question might be how do
+I even get the skill? But if you go to
+/manage plugins,
+you'll be able to see the skill right
+here called frontend design. You can
+press install and you have three
+options. Either you install it available
+for all your projects, which means that
+you don't have to install it again for
+any other project or install it for this
+project in specific. But bear in mind
+that if you do that every single time
+that you start a new project, you will
+not be able to see the skill and you'll
+have to install it again. Once you've
+installed it, you should be able to see
+either here or here. Make sure you
+refresh your claw code and you'll have
+the skill.md which is the instructions
+itself. The second skill is called the
+video to website skill. Now this right
+here is not something you'll be able to
+find in the plugins. So you can find it
+in the resources that are left below.
+But essentially this gives clock code
+instructions as to how it should take
+the video and turn that into uh
+something that you can use within the
+website and it's very very long as you
+can see here list of instructions. So
+once you have those two things we are
+good to go to the next steps. Before we
+do that I made a new project with the
+two different skills in a cloud MD to
+keep it very very simple as you can
+follow along with me when I do this. Now
+that we're done with planning we can go
+to step two which is execute. Okay so
+when it comes to execute we have to ask
+ourselves what do we need to be able to
+make this landing page happen. So I
+firstly need an image which then turns
+into a video. And then also one more
+thing that I want to use is a reference
+landing page so that we can feed it all
+into claw code and it uses the reference
+landing page. It uses the video and it
+uses the skills to be able to craft us
+the beautiful landing page that we're
+going to use. Now to be able to make the
+image and the video we can use a
+software called key API which is one of
+the best software that I've used cuz it
+gives us access to all the video models
+image models in a fastest way and it
+pretty much has all the options that you
+need. So, first thing is to make an
+account. And then you can go to market
+to be able to add your API credits cuz
+this is not free. It costs credits to
+run these images and videos. So, first
+thing is to make an image. And I'm going
+to be using the Nanana 2 model, which is
+a new model that Google Gemini made
+because it's [music] fast and it's cost
+efficient. And down here, we can write
+the prompt that we need. So, I'm going
+to be copying a prompt that I already
+made. There we go. Which says that I
+need a high resolution studio grade
+image of a Formula 1 racing car
+positioned against a completely plain
+black background. The scene should be a
+minimal and isolated with no shadows,
+reflections, hands or additional objects
+visible. The car should appear sharply
+detailed and professionally lit as if
+[music] photographed for a premium
+automotive studio shoot. And then we can
+remove this. We can go down to 4K aspect
+ratio. We can do auto. Automatic is
+fine. And I can press run. Bear in mind
+that if you're wondering how much does
+this cost, well, you paid $5 for 1,000
+credits. So, it cost you $18 to be able
+to do it, which means that you're paying
+about $0.09
+to make the image. All right. So, it
+just finished making the image as you
+can see here. Very, very clean. So, now
+we can download this and we can go to
+the next step, which is making the
+video. So, I can go to AI video API. I
+can go to Cling 3.0. There's also other
+image or video models that you can use,
+but this one is by far the best that
+I've seen. I can take this out and I can
+drag the image across. Boom. So, this
+right here is the input image. I can
+take out the sound. We're not going to
+add any end frame. So, let's say you're
+making a a website about a cup, right?
+Just some sort of cup. you would have a
+cup with no water and then a cup with
+water. That's a start frame and then end
+frame. So you can basically see the
+animation of the water going inside the
+cup. But in this case, we don't need it.
+And now when we get to the prompt, we
+can go to Chad GVT. I can paste this
+prompt right here, which says that it's
+an AI video prompt engineer. You can
+stop this video and read it. But I'm
+going to then give it the image of the
+Formula 1 racing car as an input. And
+then I'm going to press run. And now
+it's going to give me the full prompt
+that I'll need to be able to make the
+video. Now, one thing, I do like this
+prompt. I just think is a bit long. So I
+can say, can you shorten this a little
+bit and may make it more concise. But
+sometimes when you provide too much
+context or when the prompt is too long
+for an AI, it does a worse job. Okay,
+cool. That's fine. So I can go back
+here. We have the cling 3.0 and I can
+paste this prompt. And now the duration
+will be 5 seconds. That's fine. And I
+want to make sure that the mode, so the
+actual resolution is higher. So I can
+press pro because resolution is
+basically how clean or how nice does the
+video look. We can press run now. As you
+can see, this is taking 135 credits,
+which is about 0.625
+uh that we're spending on the video. All
+right. So, I just finished making the
+video. Let's see the video here.
+It's even better than the one I had
+before. Cool. So, now we can download
+this, save this to your desktop. I can
+go back to Cloud Code. I can then give
+it the video as the input. Okay. And I
+can rename this
+Ferrari
+video. There we go. Now that we have the
+video, there's one more thing that we
+have to do, which is getting a reference
+landing page. Because yes, we can make a
+landing page, but if you give it
+stricter guidelines, it does a better
+job. So, if you go to dribble.com, you
+can find the Charger product landing
+page right here, which is a very, very
+nice landing page that we can use as
+reference. So, you can go here, you can
+save video as reference.
+I can press save and then I can drag it
+across the clock code as well. So, now
+we also have the video of the landing
+page as a reference. Finally, I can go
+to cloud code. Make sure this right here
+is in plan mode. And then you can paste
+this here. And you will say, I just
+dropped in a video, which is the
+Ferrari.
+Where is Ferrari video? There we go.
+Create a one product landing page for
+this product. The side must feel modern,
+premium, and highly professional with
+smooth animations and polished UI design
+throughout. All text should be clean,
+minimal, and easy to read using high
+contrast typography on a pure black
+background. Dark mode. The layout and
+visual styling should be seamlessly
+blend with the Ferrari image making the
+entire page appear continuous and fluid
+with the background. And then I will be
+able to say I also added a video which
+is a reference video that I want you to
+look at in terms of the actual design of
+the landing page itself. And now I can
+press go. All right. So as claw code is
+actually making the plan you can see
+that it's reading the skills. So skill
+two, skill three when making the plan
+itself. That's where we're using skills.
+All right. So I just finished making a
+plan. context, stream framing
+extraction, uh, file structure, design
+tokens, page architecture, and you're
+looking at this, you're like, what the
+hell even is this? The same here. So,
+don't worry. JavaScript initialization
+order. I'm wondering why they have to
+make such complex words for all of
+these, man. [music] So, let's go and
+press yes and auto accept. And then we
+can turn this to bypass permissions
+because I don't want to be approving
+every single thing. Bear in mind that
+bypass permissions is a bit more
+dangerous because takes over and does
+everything. But I usually use it when
+I'm actually looking at clock code
+myself. I never go to sleep and then let
+clo do its thing and then come back.
+Right. All right. So I just finished
+making version one of the landing page
+[music] and bear in mind that on the
+left hand side you will be able to see
+new folders were created. And if I go to
+the cloudmd file that we had before we
+had CSS folder, we had JS folder and we
+had frames folder. And here you can see
+CSS folder, frames folder and JS folder.
+So that's what we mean by file
+structure. Where are the files going to
+be stored? CSS is going to be all the
+different styles [music] uh that we're
+going to use. So all the colors and so
+on. I'm only saying this because a lot
+of you guys are beginners and are
+getting into this and don't really know
+what all this code stuff is. But on a
+fundamental level, that's essentially
+what it is. Putting files in the right
+folders and each one doing a specific
+thing. You don't have to know what the
+code actually is. So I can copy the
+link. I can paste in my browser.
+That's nice. Born to perform. So we can
+see we have the the little page before
+we get in the website. We have this
+here, the animation, the car being
+broken into different pieces.
+And then coming back in form follows
+function. Okay,
+the speed maximum power
+which is sick. So a bit of writing
+giving us some context and that's it. To
+be fair, it did actually a very good job
+for it to be like a first time uh kind
+of thing. All right. So now we can go to
+the next step which is called review.
+Now reviewing it means that we have to
+look at the website and say okay do we
+want any changes with the way that it's
+laid out? I can already see a few
+changes that I want. So for example I
+want something happening in the
+background here. So some sort of lines
+or or dots. I have a vision of it but I
+have to see. Then right down here I
+would want the car to be positioned on
+the right hand side and then the writing
+to come only from the left hand side not
+the right hand side cuz when it goes
+over the car it doesn't look nice. So we
+can take a change by change. The first
+change is having something within the
+background here. So I can go to 21st.dev
+which is a software that we use to pull
+bits and pieces of different website
+animations, motion graphics and so on
+that we can use for our website. So I
+said I wanted something in the
+background. So what we could do can look
+here shaders. We can try this one.
+Background paper shaders. We can copy
+the prompt and I can go back to claw
+code. So we can see we're using 54% of
+the context. And by the way, the more
+context you use, the worse the quality
+gets. So I can put clear conversation.
+Go to byass permissions and I can say
+okay so I'm looking at the website and I
+want you to implement the following
+thing at the start of the website. And I
+can paste the prompt. So essentially
+21st dev to be able to get this. We have
+the prompt that allows cloud code to
+understand exactly what it needs to do
+and how it needs to update the code. And
+as you can see here, it's a full full
+thing. I can press bypass [music]
+permissions. You can see here because
+honestly I just want it to update and
+that's it. It just finished implementing
+the change. So if I go here to the
+website, I can refresh. We can see now
+in the background it's very very subtle
+which I really like. But if you zoom in,
+you can see that we have different
+things changing in the background which
+makes it a lot nicer to to look at
+visually. Now that's the first thing.
+The second thing is putting the car to
+the right hand side and having the text
+go on the left hand side. Okay. So,
+second thing that I want you to change
+is on the website itself, the car takes
+up the whole space. What I want to
+happen instead is I want the car to be
+on the right hand side. So, I want it to
+take like basically 75% of the whole
+screen from the right to left. 75%. And
+then the other 25% that's left on the
+left hand side. Then I want that to be
+the space where text comes through
+because I don't want text to overlay
+over the car. That makes sense. [music]
+Keep the animation. Keep the video, but
+make the car smaller. Yeah. Position it
+on the right hand side of the screen.
+I'm going to go on plan mode for this
+one just because I want to make sure
+that it understands [music] what I'm
+talking about. And a lot of this is just
+talking to Claude going back and forth
+as to what it is that you want. All
+right. So, here it made the plan for the
+change. The context implementation plan
+25% to the left. Okay, good. Moving
+everything to the left, the car to the
+right. Everything looks good. So, now I
+can press yes and auto accept. And we
+can go back to bypass permissions to
+have clockwood make the changes. All
+right. So now I just finished making the
+change. I can refresh and we can see
+that all the text has been on the left
+hand side. I think this also is fine. Um
+I can go down and as I scroll through we
+can see that all the text is on the left
+hand side which looks a lot better than
+us having to have the text over the car.
+And that covers the whole website step
+by step. Now that we're done with step
+three, we can go to the last step which
+is deployment. So the way that we deploy
+claw code websites is through a two-step
+process. The first thing that [music] we
+do is we push all the claw code into
+GitHub and then from GitHub we deploy it
+to Verscell. So the first thing we want
+to do is go to github.com
+and we want to make an account. Once you
+made an account you can press new. We're
+making a new repository and we can name
+this website cloud code. We can press
+create repo. And so basically what's
+happening is that we're going to be
+using cloud code and we're going to be
+giving all the code here into GitHub and
+from GitHub it's going to go to Versell
+to then deploy it there. All I have to
+do here is press copy and I can go I can
+clear the conversation.
+I can [music] say okay now I want to
+push this to GitHub. Here's the GitHub
+link uh repo that I've just made. I can
+paste this and I can go bypass
+permissions cuz I know it will do a good
+job cuz it's a pretty fast task. It
+should tell us to login into GitHub cuz
+I didn't actually give it any
+credentials here. So you can see here
+GitHub needs your identity configured.
+Run these two commands in your terminal
+replace with your actual name and email.
+I don't know how to do that. Can you
+tell me how I should do it? What I
+should give you to make that happen? I
+do this just cuz a lot of you guys don't
+know how to use a terminal. So that's
+fine. But in this case, what I'm going
+to do is give it my name and then the
+email that I'm using.
+All right. Now it's saying that it's all
+live. So if I go here, I can refresh and
+I have all the different files and
+folders of this product. They are
+automatically added here. And the last
+step here is to deploy it on Burcell. I
+can press start deploying. I can
+continue with GitHub. And once you
+connect to GitHub, make sure to choose
+the correct product that you're working
+with. In this case, for me was website
+cloud code. I can import and I can press
+deploy. And as you can see here, now we
+have our project. So our uh website
+deployed. And now it says,
+"Congratulations, you've just deployed a
+new project to Mela Pass projects." I
+can press continue to dashboard. And if
+I use this link right here, you can see
+that I have the website itself, which is
+sick.
+Boom.
+There we go. And this literally took two
+minutes to deploy which is absolutely
+insane. And now for the final thing is
+answering the question. What if you want
+changes? What if you're here and you
+want to change to a website? You have to
+go to Versell. You have to go to GitHub.
+Well, the beautiful thing about GitHub
+and Versell and the whole process is
+that you just have to go to cloud code.
+You have to tell cloud code what you
+want to change and that will
+automatically update the GitHub which
+will automatically update versel. And
+that's the whole flow of things to make
+sure that you don't have to go to two
+different platforms at the same time and
+do any extra stuff. You can just talk to
+Clockode simply and it will
+automatically do everything for you. So,
+I hope now you got to understand exactly
+how you can build high-end websites step
+by step so you're able to sell them to
+businesses right away. And if you want
+to work with me onetoone to be able to
+start and scale your own AI agency in 90
+days, then I left the first link down
+below which goes through a full video
+walking you through how you can do that.
+If it sounds like a good fit, then feel
+free to apply. And if you want to dive
+deeper into Clockode, check out this
+video up here where I show you exactly
+how I would personally relearn Clockode
+starting from scratch in 2026. With that
+being said, I hope you find value from
+this video and I'll see you in the next

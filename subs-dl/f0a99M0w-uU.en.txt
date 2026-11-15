@@ -1,0 +1,725 @@
+welcome back to the iceberg of options
+and volatility we're now getting really
+deep and it's been fun joining you guys
+on this just as a disclosure nothing and
+here's options trading or investment
+advice please do your own research or
+find an advisor to help you option
+training is not for amateurs especially
+if you're doing it in the ways that um
+are going to be discussed in throughout
+this Iceberg and this stuff is a lot
+more advanced and often really only
+accessible to Institute tional Traders
+but I figured I'd let you guys know
+about what kind of goes on in that World
+um and the next thing we're going to
+talk about is back to variant swaps a
+variant swap is like a specialized
+derivative that is not really a listed
+option which are known as like vanilla
+options or like the standard listed
+options is that you have a payoff is
+based purely on variants not volatility
+so like normal options are impacted by
+both Direction and volatility a variant
+swap is just purely isolating variance
+exposure and the payout is proportional
+to the squared volatility which is
+variance like volatility is standard
+deviation variances variances use
+statistical terms and lose that a large
+size impact there's no directional risk
+they don't really depend on underlying
+moves up and they're mainly used for all
+speculation by hedge funds and market
+makers and institutional elements and
+there's a whole payoff formula that I
+can share with you guys but yeah you're
+really just betting on simply whether
+you think volatility is going to move or
+not without having to go through all the
+complications of Delta hedging or
+building a straddle or all these it's
+just more pure and it's just a pure
+hedge on V like which and versus trying
+to worry about the direction or the
+fundamentals of underlying security yeah
+then the next thing we're going to be
+talking about Market micro structure a
+lot of the options Market is determined
+by the micro structure or how things
+such as order flow bid ass spread
+liquidity and market efficiency impact
+the options market and how pricing
+mechanisms are done to a more granier
+level that outside the professional
+Market making Community most people
+really quite frankly do not care about
+yeah you have market makers such as I
+mentioned Citadel and Susana earlier
+oper Jan Street or a few others provide
+liquidity by quoting bit ass spreads you
+have retail Traders and institutional
+hedge fund and Prop Shops people making
+more directional bets who are the market
+takers I kind of talked about this
+earlier and you also have a use of dark
+pools so that certain biders can kind of
+conceal their order flow so that people
+do not try to trade against them or
+anticipate what they are doing you have
+the bit ass spreads which I've kind of
+explained before and how they're set and
+basically the bass spread is like the
+gap between what the market maker is
+willing to sell you the option at versus
+what they are willing to buy you buy it
+at and that spread is part of where the
+edge and the alpha is created the the
+more IL liquid the asset is the wider
+the spread needs to be and the more
+liquid and easily traded something is
+and how quick you get in and out you can
+have a narrower spread so when you're
+trading an option really practicality
+purpose like you try Target mid-market
+for a bit ass sprad that's in theory the
+fair price but if the Market's super
+wide like and barely trades that
+midmarket might not be the real
+midmarket because it hasn't traded in a
+while and there's no volume so it's kind
+of caveat mtor like it's you generally
+don't want to trade options where the
+market is too the bport is too wide
+because you don't really know what the
+real price of that option is and
+therefore you don't really know what the
+real risk reward payout is and then you
+also look at demands for various strikes
+increase volatility which I talked about
+just the term structure like different
+options have different implied
+volatilities based on the expectations
+of specific events there's gamma
+squeezes and then there's the impact of
+various Greeks and then there's high
+frequency strategies too that kind of
+influence certain things and there's
+also like max pain Theory which is part
+of the m that like the market
+intentionally tries to seek the point
+which will cause most most options
+positions to expire worthless so that
+nobody no counterparties have to pay out
+one way or the other and so that is
+called max pain because most people kind
+of lose that more because most options
+expire worthless and pin risk is the
+idea that there will be incentives to
+pin at that certain level or at a
+different level for various reasons du
+do different participants in the market
+it's not really like outright
+manipulation but the market just for
+some reason is very can uncannily good
+even like people on the market making
+side are sometimes confused by how well
+a lot of this pin RIS there's like no
+again the market because like an animal
+of its own like nobody really can
+predict it and but max pain does happen
+and then the other kind of thing which
+is kind of like Market micr structure
+but it's more of its own thing on the
+iceberg is UN usual options trading
+activity you know how like in a casino
+when you see unusual betting on like
+some mid- major random small college
+that you might think there might be
+something weird going on like Point
+shaving or something they have something
+like that similar really which like I
+will called in the options Market which
+I will discuss in the next layer of the
+iceberg the next thing we're going to
+talk about here is the the
+viix which the vix is the volatility of
+volatility is actually the first video I
+ever made on this channel was what is
+the viix and how it works but it's
+basically the the second derivative of
+volatility people measure it as a
+leading indicator for volatility
+potentially and anticipating if Vol is
+going to come up or down based on what's
+going on in the Vivic but watch my old
+school video for more details for a more
+detailed explanation on viix next thing
+I talk about is zero DTE which I talked
+about in my financial nihilism video but
+the idea that there in recent years
+there are options now that expire the
+same day you buy them they have less
+than Z zero DT stands for zero days to
+expiration so they only are active for
+that one trading day so it's basically
+like making a a binary bet like is the
+stock market going know up or down more
+than what the implied ball is in the
+zero DT option so if the S&P is at 5,000
+and the zero DTE option that market open
+is priced at 50 the market is expected
+that the stock market will move Plus or
+Min at Le 50 points in that given day if
+the zero DT straddles at 50 if it's just
+a single side then the Market's
+expecting to move at least up that much
+or the total move to be double that
+amount adding the put and the call so
+and like it's and then as the day
+expires due to Theta is the most active
+on the last day that number
+progressively goes down so if you down
+to the last 15 minutes May that price at
+50 for the stradle goes down to five so
+you're betting on whether the market
+will move Five Points within the next 15
+minutes and it gets kind of ridiculous
+at that point and a lot of people just
+like to buy it just really as a pure
+gamble because that's really kind of
+what it is at that point like the
+shorter term the more just random chance
+and less fundamentally driven unless
+there's like a big macro Catalyst that
+day but even then like betting on
+short-term expiry options to bet on
+15minute candles and ticks is not really
+I would call a solid investment strategy
+then the last thing I'm going to talk
+about this level is don't sell lotto
+tickets like the best way that hedge
+funds blow up classically is they sell
+all at way too low of a price and the
+strike hits like basically the idea is
+that there are certain outcomes that the
+VA the options market prices a near zero
+probability have when the probability is
+way above zero and a lot people sell
+this Vault to collect premium CU they
+think oh the event will never happen but
+then when it does the the the shock is
+so big and the gamma squeeze is usually
+so high as a response because nobody's
+expecting it that those who are short
+those positions are effectively blown up
+yeah so the way that these hedge funds
+blow up and I actually did a video which
+I'll put in the member section which I
+think I took it down a while ago is
+discussing about how hedge funds blow up
+or it might still be in I'll put a link
+either way but the point really is is
+that they blow up because they sell what
+I call these lotto ticket options which
+are things that are priced at zero
+probability but have a nonzero
+probability of happening nine out of 10
+times maybe 99 out of 100 times you will
+lose buying these lotto ticket options
+but the gains usually are so big from
+these type of positions if they do hit
+that if you're on the other side and
+selling them you risk just utter
+collapse
+and the most notable example of this was
+happened in 2015 with Everest Capital
+which is a hedge fund based in Miami
+Florida who had 830 million in Assets in
+its Flagship fund and they lost almost
+all of it by selling options on the
+Swiss frank was pegged to the euro for
+years as for three years and people
+thought oh Switzerland will never let
+the Frank raise against the Euro even
+though there's a lot economic pressure
+to do is they'll keep the pay because
+they want to maintain stable trade
+relationships with the continent and so
+people would sell put options on the
+Euro relative to the Swiss frank just
+they would just bet on that cap holding
+essentially and the Swiss Central Bank
+after had a lot of pressure on it and
+one day they just said hey look we're
+going to drop the Peg and so as a result
+for a premium a very small premium
+because the odds are so low they
+collected maybe thousands of dollars
+probably less than a million dollars I
+don't know the exact number because it
+wasn't really published on this position
+but they ended up losing over 800
+million almost all the funds of their
+830 million doll hedge fund which was
+close to supposed to shut down because
+of this and it's just it wasn't worth
+selling the lottery ticket and again
+this is how hedge funds blow up and
+really the lesson which is the point of
+this Iceberg layer is don't sell the
+lotto tickets because you gain very
+little and premium collecting on what is
+perceived to be a certain outcome but if
+you're wrong you have pretty much
+everything to lose do I'm saying buy the
+lotto tickets no it's it doesn't really
+necessarily make sense because the
+probabilities are as low as they are
+unless if you have some insight to
+really believe that something might be
+different but the downside risk of
+losing because of something like this is
+a lot worse than the joy you get from
+the upside game on betting on something
+like this so just do not sell theot of
+tickets so that concludes layer six now
+we're going going on to layer seven the
+first thing we are going to talk about
+in layer seven or Insider tip offs which
+is the idea that if you see unusual
+Flows In options or just very unusual
+amount of options for a very short
+strike for a very out the money price
+price or just unusual volume it may LE
+mean that the market the options Market
+is effectively tipping off that
+something know somebody knows something
+and this might be insider trading
+because a lot of insider trading is done
+through options because there's more
+juice than doing it through other ways
+or there's something going on that some
+parts of the market have figured out
+that not everybody else has figured out
+yet and so by seeing this unusual
+options activity Traders can either move
+out of the way if they're all sellers or
+all buyers maybe think like oh wait
+there might be something here that's
+interesting I should follow along that
+is the idea of Insider tip offs the next
+thing are Knockin options a Knockin
+option is really this wealth management
+product mostly in Asia whereas an exotic
+option only becomes active if the
+underlying price of a predetermined
+barrier level breaks and they usually
+mix them like a series of indexes so say
+for example these options will collect a
+nice healthy premium often better than
+bond yields locally but if certain
+conditions hit these options hit with
+full force and risk blowing up your
+portfolio like example would be if you
+selling like a Knockin option that pays
+you a certain premium but if either the
+S either the the hangs or the Cosby
+index which are the main biggest index
+is Hong Kong South Korea or Japan all
+drop below a certain level one of the
+three then the option gets knocked in
+and therefore you now have to pay out
+all the upside even from the parts that
+you were not of that put like even if
+you even the parts that you were not
+weren't knocked in so that's why these T
+tend to pay a big premium there like the
+option doesn't really come into
+existence unless if one of these Knockin
+requirements hit but if one of them does
+hit the the payout becomes surprisingly
+big and a lot of wealth management
+products in Asia what they do is they
+are selling effectively these the
+premium betting on just none of these
+outcomes happening but whenever there's
+like a major fall event in Asia you see
+a lot of these blow up but mostly like
+in normal times the barri option will
+end up worthless cuz none of them will
+hit the other problem with these is that
+there is liquidity issues binary options
+are kind of like sports betting in a way
+you are betting on a certain outcome and
+whether it it's either that it hits or
+it doesn't they're very simple they're
+very extreme some of them are on
+exchanges but other ones are not it's
+kind of like for example do the S&P be
+greater or less than 5,000 on March 5th
+and if the answer is yes you get one
+payout and if the answer is no you get
+zero and it's Buy binary it's like one
+or zero it's kind of like the closest
+equivalent to like a pure Sports bet in
+the world of the capital markets and
+often the house has a higher Edge on
+this than normal Capital markets because
+of the binary nature of it and these
+often are sold to speculators as a more
+I don't know easier to understand way of
+trading the capital markets and they're
+often promoted like as kind of get rich
+quick schemes but yeah they generally
+tend to have lower expect returns and do
+not have as liquid of a secondary market
+so it makes it harder to sell them
+before expiration if you can sell them
+at all and you can't really gain from
+partial premium like you can in a
+regular option and they don't have the
+same level of Regulation or scrutiny as
+conventional options markets have so
+that's about binary options the next
+thing we're going to be talking about
+here on this level is Amsterdam why am I
+including Amsterdam one I'm probably
+going to be doing an analyzing Finance
+with Nick tour stop in Amsterdam in late
+August so if you're on the continent and
+want to see me in person your chance
+outside of Switzerland and Italy is
+going to be in Amsterdam but there's
+actually a real Financial reason why I
+want to talk about Amsterdam because I
+noticed a pattern like when I was
+working at the options hedge fund and I
+interviewed at jobs at various options
+related investment and marketing firms I
+noticed a lot of them had their European
+headquarters in Amsterdam and I was kind
+of baffled by this like why are all
+these companies operating out of amdam I
+thought London was the financial capital
+of Europe and then on top of that I
+thought the private wealth capitals if
+they weren't going to be in London
+wouldn't they be in the more the private
+wealth hub like Zurich or Geneva in
+Switzerland or maybe Paris or Frankfurt
+which are also known as fin Junior
+Financial Centers in EU but no it's
+Amsterdam so I was just did a deeper
+dive on why Amsterdam became the place
+to do this one Amsterdam historically in
+the Netherlands has been a a pioneering
+innovator in finance like the first
+Stock Exchange in the world was the
+Amsterdam stock exchange in 1602
+Amsterdam was the first city to build an
+options exchange the European options
+Exchange in
+1978 and this early start through
+embracing both the stock market and the
+options Market made a lively options and
+prop trading community in Europe before
+you had options exchanges in London and
+other parts of Europe so as a result
+some of the biggest proprietary Traders
+have their Europe European headquarters
+in Amsterdam such as oper IMC trading
+flow Traders and da Vinci derivatives
+and so since all these hft style prop
+Traders based out there it kind of
+reinforced amadam being like the
+derivatives capital of Europe and Dutch
+Financial regulations are relatively
+more favorable for high frequency
+Traders and Market making firms it
+doesn't have a financial transaction tax
+like France Italy do which keeps
+Amsterdam competitive they also have
+favorable tax schemes for foreign expats
+to move there to work in these fields
+and then brexit in later years has
+influenced it because brexit forced a
+lot of Europe EU focused derivatives
+traders to move to the EU and the
+continent and the most like established
+like derivatives trading Market on the
+continent and really in the region
+outside London was Amsterdam and Sams
+also has a big Tech Community espe for
+European standards especially asml is a
+notable like big Eurotech company based
+in Amsterdam and they have like strong
+low latency like Fiber Optic internet
+connectivity that's a bit stronger than
+other parts of Europe and so yeah that's
+kind of why they're just like a first
+mover Advantage for both conventional
+stocks and the derivative market and
+just a history of trading I originally
+old days it was Merchant trading like
+physically goods and services across the
+sea and now it's more derivatives
+trading but Amsterdam is definitely
+punching above its weight when it comes
+to its role in the capital markets and
+then the last thing in level 7even I'm
+going to talk about is convexity hedging
+and convexity hedging is really trading
+not based on Delta or directional type
+options trading but instead or
+collecting even collecting data it's
+you're trading gamma inxi is like the
+second derivative it's the change in
+options like the change in Delta with
+the change in underlying and convexity
+in the options world is how you trade to
+I purely isolate gamma and it's a little
+bit more like kind of like what I've
+talked about ear the variant swaps it's
+a more way to isolate a specific Greek
+and trade based off of that now we are
+in the final level which is kind of the
+more obscure types of things things the
+first one I'm going to be talking about
+is Jeff Yas who is one of the more quiet
+of America's major financiers he started
+Susana Investment Group in Philadelphia
+and they are very amictic firm
+historically and recruit people no
+matter what their educational background
+is more based on pure mathematical
+talent and more of a poker player
+mindset in fact they train a lot of
+their new hires to become competitive
+poker players and he before he even
+entered Finance yes was a professional
+poker player that's where he kind of
+learned a lot of his probabilistic now
+he started Sig in 1987 and has grown to
+be the biggest options Market maker but
+he's also involved in a lot of political
+involvement he's particularly
+libertarian causes so they tend to
+historically align more with the right
+so a lot of his C candidate donations
+have skewed that way he is also the
+richest man in p pania with a net worth
+of
+27.6 billion dollar and is also a
+significant early investment or in bite
+dance the parent of Tik Tock which has
+grown in value substantially over the
+time and is now Under Fire due to the US
+on again off again ban of the platform
+but yeah he built a a megalithic options
+firm in Susana but and has kind of been
+able to do a lot of high-profile things
+but still not be very well known at the
+same time like compared to like Ken
+Griffin which is he's way more talked
+about and Ken Griffin might be slightly
+higher on the billionaires list but
+apart from that their accomplishments
+really and their contributions to the
+financial world are very similar in
+terms of impact next I'm talk about
+taleb's Turkey um talib's turkey is the
+idea that the danger of really selling
+volatility and complacency through what
+happens to a Thanksgiving turkey turkey
+and this is one of my favorite charts
+and finance I talked about this in the
+iceberg of Finance too but it's the idea
+that a turkey progressively gets fatter
+and happier every day from January 1st
+to the day before Thanksgiving but then
+the day before Thanksgiving he gets his
+head cut off and then is served for
+Thanksgiving dinner the next day so in
+the end he loses everything including
+his life the turkey even though for the
+entire year supposedly is getting richer
+and happier and this the same people
+sell selling VA like false strategies
+look great you get your great awesome
+sharp and sortino ratios but then when
+things hit the fan all your gains and
+more are wiped out and you get margin
+called or blown up and so like that's
+tb's turkey and TBS turkey doesn't apply
+just to Thanksgiving into options
+trading but other compounded short-term
+decisions that look good in the near
+term but could kill you in the long term
+and speaking of decision-making process
+I talked about this in my interview with
+Chris Adel meay which I highly recommend
+you guys watch because it's one of my
+favorite pieces of content I've made on
+this channel is about the idea that
+every decision is essentially a all
+trade whether you know it or not like
+every investment effectively is long or
+short Vol you just don't realize it if
+you are assuming that the the patterns
+of the past are going to repeat
+themselves in an Ever more predictive
+way or just in general you are
+effectively selling ball if you are
+betting on variants or drastic changes
+you are going long
+and it's most common in the options
+Market but you can see this in life
+decisions too like for example as I
+mentioned in the interview with Chris
+example of longv decisions that can pay
+off is asking out women via cold
+approaching or when you go to a party or
+you're out at the mall or wherever you
+are church and you see an attractive
+girl you want to date you can ask her
+out on a date and most of the time
+you're going to get rejected and your
+ego is going to take a hit and you're
+probably going to be a little bit mildly
+embarrassed and that's going to happen
+probably 99 out of 100 times but the one
+time that she says yes it could very
+well be your future wife and so a happy
+marriage for several years can be worth
+more than the 99 times you get said no
+and probably your ratio won't be that
+bad you'll probably have a few more say
+yes that result in first date Duds or
+numbers that go nowhere but the point
+being I'm trying to make is that the
+cost is very low but the upside and the
+low probability it hits is very high
+like the opposite is not wearing a seat
+belt you can wear you can drive and not
+wearing a seat Bel you might feel a
+little more comfortable every day and
+that accumulates with like a more
+enjoyable lifestyle or any other kind of
+Reckless habit like maybe eating too
+many duts you eat five doughnuts every
+morning you got the joy of doing that
+but if you eat five doughnuts every
+morning for 30 years you're going to die
+of a heart attack but you don't know
+when that's going to happen eventually
+the V cell is going to hit it's not
+every single day you eat the donut so
+every say you drive the seat Bel you're
+not get a car crash necessarily but the
+C but the thing is even if the
+day-to-day probability something bad
+happening is low the of probability
+something eventually bad happening
+becomes more certain the more times you
+attempt it and so that's how selling V
+people sell Vol in their lives and how
+it could work against them and blow up
+so just from that perspective just think
+about this every decision you make are
+you buying vault which is that you're
+risking small pain now for a good gain
+later or are you selling Vol you're
+getting a small Joy pleasure now for L
+large pain later and also not every
+Vault trade is priced perfectly just
+like in the options Market there's
+sometimes inefficiencies sometimes
+you're paying too much for Vault and
+sometimes you are selling Vol for too
+little or sometimes you get a better
+deal and you have Edge and it's the same
+thing with life decision
+sometimes the longv approach isn't worth
+it like an example could be I don't know
+buying insurance that costs $50 a month
+for a product that's only worth $200
+that's example of a vol decision that's
+overpaying for a long B and then there
+but there are plenty of examples like
+that you have to look at like what is be
+a real assessment of what are the costs
+if it doesn't work out the probability
+of it working out and then then what are
+the gains if it does and and vice versa
+like what is the gain if you're doing a
+selling Vol activity what's the gain you
+get in the short term and what is the
+potential cost that I may have to pay
+later for doing this and by doing that
+you can figure out whether you are
+hypothetically paying the right Vault
+price for the decision set that you have
+and then the last one is gambling and
+derivatives like kind of a thing that
+people don't really like to discuss but
+is a real big oppon opponent of the
+options Market sadly is the connection
+really to gambling I'm not saying that
+all options trading is gambling but a
+lot of the of gambling mindsets for
+positive and negative have a big
+influence in the in the options Market
+one options are a popular way for retail
+investors to gamble on financial markets
+zero DTE as I mentioned earlier as ice
+breaker is a classic example options
+Market attracts the financial nihilists
+the most aggressively too on the other
+hand a lot of skills that professional G
+lers used have helped options Traders
+both directionally and Market making be
+better what they do like I remember a
+book I read to help me with my options
+career that was recommended by my
+colleagues at the desk was a book called
+getting the best of it by Robert slansky
+and people would think like why would I
+read a book about how to get Edge in
+sports betting or poker or various
+casino games in Vegas what does it have
+to do with my career and finance because
+it has a lot to do with it it's about
+assessing probabilities figureing out
+what the right price to pay is for a s s
+of probabilities and you do a lot of
+those things in gambling and that kind
+of framework actually does help you
+become a better options Trader if you
+apply it the right way but if you apply
+it in the naive way that like most
+people who go to the casino do then it
+will work against you it's kind of like
+the card counters in the movie 21 versus
+your typical bachelor party in Las Vegas
+they're two very they're doing the same
+activity technically but they have two
+very different approaches to it which
+leads to a much different expected value
+well thanks for again for coming along
+with this journey on this Iceberg of
+volatility hopefully you learned a lot
+from it let me know if you have any
+questions feel free to contact me via
+email write comments if it's more
+General things or you can fill out our
+consultation form if you want more
+specific tailored advice to your needs
+thank you for watching and again nothing
+in this is investment advice do your own
+research or hire an advisor who's a good
+fit for you and I look forward to you
+watching more of my content in the
+future thank you for watching

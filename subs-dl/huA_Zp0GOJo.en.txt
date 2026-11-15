@@ -1,0 +1,881 @@
+clock over has completely changed the
+way that we're now able to interact with
+AI. And I genuinely believe that this is
+going to be exploding ahead in 2026. I
+mean, we're talking about an AI that can
+actually access your files on your
+computer. It can talk to every tool in
+your text stack, but it can also handle
+your everyday tasks that you normally do
+manually. So, in this video, I'm going
+to show you exactly how you can get
+started with Claude Co-work. What the
+difference is between Claude, Claude
+Code, and Claude Co-work. And most
+importantly, I'm going to be teaching
+you how you can master clockwork skills,
+which is a feature that separates the
+beginners from the pros and ones that
+99% of people don't even know it exists.
+And in case you don't know who I am, my
+name is Mikuel and I've scaled my own AI
+agency to six figures. I've worked with
+over 50 businesses to implement AI and
+automations and taught over 20,000
+people in the process, all starting with
+zero technical knowledge. With that
+being said, let's dive in. All right.
+So, if you've been watching all the new
+updates and things that claude came out
+with, then you probably might be a bit
+overwhelmed and asking yourself, what is
+the difference between one and the
+other? So, the main cloud ecosystem
+consists of claude, which is a chat. It
+consists of claude code, which is the
+code agent. And finally, it consists of
+claude co-work, which is the work agent.
+And these are pretty much the three
+different pillars of Claude as of right
+now. Now, the first one is chat. So, you
+can think of chat as your general claude
+um sort of chat interface where it's
+like texting a really really smart
+friend. [music] You type something, it
+answers and that's it. Now, this is best
+for again answering questions. You can
+write emails or brainstorming, just
+chatting, your everyday things that you
+want to chat to cla with the same way
+that you would use chatbt for, right?
+Nothing crazy. Just like talk to the
+agent, ask it a few questions, whether
+it's research or whether it's something
+else. Nothing too complex, right? But
+just general things that you would use
+every day. Then we have claude code.
+Now, cloud code is your code agent. I've
+made a full video breaking everything
+down about cloud code step by step,
+which you can check it out up here, full
+beginner's guide. And the way that I
+like to think about cloud code, it's
+sort of like having a hiring someone
+who's a developer who lives in your
+terminal and they can read your code,
+they can write your code, and they can
+run commands. Now, if you're someone
+who's non-technical like myself, who
+does not know how to code, then you
+might be asking yourself, is this for
+me? Should I be using it? Should I even
+bother? Well, the answer always is what
+problem are you trying to solve? But
+essentially, it does everything for you
+and has an interface where you can
+simply chat with it with natural
+language, so English, and it basically
+writes the code and reads it own code
+and debugs everything. And with cloud
+code, this is specifically best uh when
+people want to build software but also
+agentic workflows. So agentic workflows
+are basically when you give [music] a
+task to an agent and then the agent
+builds a workflow with all the different
+APIs connecting all the apps like an
+automation which you can then run every
+X day or every X week sort of like
+building an end automation but a bit
+more complex and hands-off which means
+that you just have to speak to it. You
+don't actually have to build anything.
+And then finally we have claude co-work
+which is today's video. Now cloud
+co-work I like to think as the work
+agent. So it's your personal assistant
+sitting at your computer. It opens
+files. It brows the web. It uses tools.
+It runs code and actually does the work
+on your behalf. Now this is best for
+daily tasks and productivity. And you
+might be asking yourself, I said run
+code on cloud co-work but also cloud
+code. Now the difference between cloud
+co-work and cloud code is that cloud
+code is mainly for building software
+like tangible software fronts ends,
+backends, agent workflows, all that
+stuff. Cloud co-work is more of like
+daily tasks, daily I guess things that
+you want to do, organizing your files in
+your computer, browsing the web. It
+takes over your computer and does a few
+things as well when you wanted to, if
+you wanted to. So that's the main
+difference between one and the other.
+Now, when it comes to using cloud
+co-work, there's four main things that
+you can use it with. The first thing is
+browser. So you can actually have this
+in your Chrome like as an extension. And
+I'll show you exactly what it means. And
+by pairing cloud with our Chrome, we're
+now able to do cloud research. We can
+fill out forms. We can pull data from
+websites and we can navigate web pages.
+So it takes over your actual browser and
+it actually starts doing things based on
+your instructions. Then you have
+connections. So the good thing about
+cloud co-work is that just like any
+other tool it uses MCPs model context
+protocol which allows the actual thing
+to connect to all the different apps. So
+your CRM, your databases, your web
+browsers or external apps that you might
+have. This can be your Google Sheets,
+this can be notion, Gmail, all that
+stuff uh that you have. Then we have
+skills. So skills is by far one of the
+most powerful things when it comes to
+cloud co-work just because you're now
+able to add sort of like extensions like
+add-on skill to cloud co-work which
+makes it better at a specific thing. So
+if you're basically asking cloud co-work
+to make you a PDF so that when it makes
+PDFs it looks at the skill that it has
+and it enhances the quality. And I'm
+going to break this down step by step as
+well. And finally we have file access.
+So we're now able to actually use files,
+create files and edit real files whether
+that's word documents, spreadsheets,
+PDFs, any kind of file type that we
+have. And so with this whole clockwork,
+don't get confused by all these things
+coming out. These are the main things
+that Clockwork can actually do as of
+right now. Of course, because every day
+I feel like there's a new thing coming
+out. So let's dive into the actual
+browser. So first thing is pricing. You
+need to have a paid plan to be able to
+use cloud co-work. So if you have the
+free plan, then you're not able to use
+this. Okay? Either it's pro, max, team
+or [music] enterprise. Okay? Bear that
+in mind. I usually use max because I
+also use cloud code which you need the
+pay subscription for as well. Uh but you
+can also use pro as well.
+All right. So to install cloud cowork in
+your browser, all you have to do is go
+to claude.com/chrome.
+You can press add to chrome. And now
+we're adding an extension. So an
+extension is basically something that
+you can always use when you're in your
+browser here. You can just press add to
+Chrome. You can add an extension. You
+then press authorize. So you're
+authorizing your cloud account to uh
+cloud extensions. And then up here you
+should be able to see that you have
+Claude. Make sure to pin this. So then
+you can open it here on the right hand
+side. So obviously this says this is a
+beta feature as of now. By the time
+you're watching this video it might not
+be, but it is for now. You can press I
+understand. You can press next. Next.
+Let's go. And now you have Claude pulled
+up here. Now bear in mind that I didn't
+have to log in or press sign in
+anywhere. But if this is the first time
+that you log in and actually use cloud
+coco, then you'll have the button here.
+Press sign in. Just press the button and
+connect your account. As you can see
+here, we have sort of the chat
+interface, but it's going to be on a
+browser. So we can have the browser plus
+this. All right. So here we can see that
+we can change the model. So we have HU
+4.5, we have Opus 4.6, [music]
+which is a new model, and then Sonet
+4.5. Now, there's always going to be new
+models depending on when you're watching
+this, but look out for the language. So
+when it says most capable for complex
+work, it usually means that it takes a
+bit more time and HU 4.5 is typically
+the best when it comes to like the
+things that I want to do with claude
+co-work just because it's easy tasks,
+nothing crazy, which is good. Then we
+have clear chat. So you're giving it a
+task, it's doing something and you want
+to do another thing right after that.
+Then you can clear chat here. You also
+have the option to convert to task
+settings and change the language. Down
+here you can change the permission. So,
+you can either let Claude do its own
+thing without asking you for feedback,
+and that would be act without asking,
+but as you can see, it's saying it's
+high risk. So, it's great because
+Claude, it's a double-edged sword. So,
+Claude can actually take over your
+browser and can do things for you. On
+the other hand, because it has access to
+pretty much everything on your browser,
+it may mess up and something could go
+wrong. And so, that's why I usually want
+to have ask before acting, not act
+without asking. Okay? So, ask before
+acting, it basically asks me, hey,
+here's a plan. Is everything good?
+Should I go ahead? can have all the
+permissions. So, this is actually sick
+because you can actually teach Claude
+how to do something. So, if you do an
+everyday task, then you can teach it,
+hey, go here, go there, and do this. So,
+it's always a repetitive workflow that
+you can always uh reference. [music] And
+then down here, you can take a
+screenshot or simply just add an image
+as a reference when it's doing the task.
+So, all I'm going to do here is go here.
+I'm going to press Claude and I'm going
+to say, "Hey, can you go to Google and
+can you search the best Claude models
+for LinkedIn content creation uh that I
+can use and give me like a ranking?"
+Now, this is a very very easy thing to
+do. Of course, if I had to actually do
+this, I would just go to Chad GBT or
+Claude itself and simply just ask it,
+right? But I want to show you exactly
+how it takes over the browser and goes
+um and [music] actually does the thing.
+So I can press go and because I'm saying
+ask before acting now it's going to give
+me the cloud's plan. So it's saying hey
+here's a plan. Can you approve the plan?
+So the first step is navigate to Google.
+Second step is look for cloud models for
+length and content creation. Then it's
+going to review the results and it's
+going to compile a ranking based on the
+relevance and popularity. I can press
+approve plan. What it's now going to do
+is it's going to start taking over the
+browser. Right? So as you can see here
+it's going to read the page. It's going
+on Google. It's taking a screenshot to
+see exactly hey where where is a search
+bar that I can look at. It's then
+clicking here. It's looking for best
+cloud models for LinkedIn content
+creation. It's kind of insane, actually.
+And then it's just scanning the page.
+So, it's reading the full page from top
+to bottom. It's going inside the
+article. And as you can also see,
+there's like orange borders here, which
+means that Claude is actively doing the
+thing. And we can also stop Claude if
+[music] you want to. So, now it's asking
+me, hey, Claude wants to read page
+content on here. I can say allow this
+action. That's why I always ask before
+acting so I can actually go through
+things. It's going to extract the page
+text. So, the whole text here, it's
+saying Claude wants to read the page. I
+can allow this action as well and just
+by looking at this workflow it simply
+gave me a full summary. So Jasper,
+Lily.AI, hey Jen, Leonardo.ai, Visme,
+Buffer, Hootsweet, Spratocial, LinkedIn
+and so on. Now there's only one thing is
+that I actually made a mistake because I
+told the cloud models not claude. So I'm
+going to say no that was wrong. I want
+you to look for clawed models not cloud
+and give me the best cloud models that I
+can use for content creation. If I press
+go, this should now reiterate. It should
+go and search again. It's not going to
+give me a new plan. I can press approve
+plan. As you can see, it's going back to
+Google, taking a screenshot, clicking on
+here, looking for cloud AI models for
+content creation on LinkedIn. And I'm
+not doing anything. It's doing
+everything on its own. I'm not even
+touching it. Uh, which is kind of nuts.
+Is then searching it up. Cloud 3 models
+comparison features. And then I believe
+it usually goes down a few articles or
+it takes the AI overview. It's going to
+the cloud API docs. is then looking,
+scanning through those. I can then
+approve. So, I'm going to say allow this
+action. Yeah, it's pretty much just
+going on the full page and finding
+everything. I can allow this action.
+Again, as you can see, it's asking me,
+hey, can I press on the actual site, I
+can say allow this action. Now, this is
+the thing, right? If it's something as
+easy as this, I typically wouldn't want
+to approve every single thing. But if
+it's something that's a bit more
+complex, then yes, a bit more complex,
+meaning that it has to use the different
+[music] softwares. I would always
+encourage you to have the ask before
+acting. So now it's actually taking the
+results from the previous search and
+giving it to a new search result in the
+same exact um sort of scope here. Okay,
+there we go. So give me a summary. So
+best cloud models for LinkedIn content
+creation, Cloud Sonic 4.5, best for
+overall content creation, Cloud 4.6,
+Claude Hu 4.5, key recommendations and
+quick comparison table. Okay, now like I
+mentioned something like this, I would
+typically just ask claude chat without
+having to use cloud co-work, but you got
+to see exactly how it actually goes in
+your computer. Now, let's say I go and
+clear chat and I say, "Hey, can you go
+on my Gmail and can you look at my first
+email that I just received [music] and
+tell me exactly what like a summary of
+the email." So, because in this case,
+it's going to my Gmail, I always want to
+have ask before acting cuz I don't want
+it to do anything stupid when it comes
+to using my Gmail cuz yes, these models
+are crazy, but they're also um able to
+get things wrong. I'm going to press go.
+And now what it should do, it should go
+to Gmail. So, it's going to give me a
+plan. I can press approve. Navigating to
+Gmail here. is taking a screenshot. I
+can see that my first email is just
+someone at Superbase just giving me like
+the giving me the updates on February.
+It's going to my first email and then
+it's going to give me the summary of my
+email and the Superbase tells me the
+summary, new features coming out for
+Superbase, other updates and community
+as well. Okay, so it just went to my
+Gmail. It just looked at the first email
+and then it extracted the content and
+gave me a summary. That's the power of
+something like Cloud Co on the web right
+here.
+All right. And the other way which is
+the main way of downloading cloud
+co-work or using it is through the
+desktop version. So there's no cloud
+version of claude desktop. You can't use
+it like cloud. And the way you have to
+download it is you have to go to
+claw.com/d download and you can choose
+whether you're using Mac OS, Windows or
+Windows ARM 64. For me it's going to be
+Mac OS. So you can press this and now
+it's going to download on your computer
+right here. You can press open and you
+can slide this across right here. Now,
+one important thing is that if you
+already had cloud desktop before, you
+have to update it because I also had the
+previous version of cloud desktop, but
+it doesn't actually have the new updated
+cloud corework. So, you want to make
+sure that you have this exact symbol.
+So, black and orange as well. All right.
+So, when you get to the actual cloud
+desktop app, you should be able to see
+your chat. This is just a general cloud
+chat that you can speak to normally,
+right? The one that you typically ask
+questions to. Then, we have code. So,
+this is cloud code, which I mentioned
+before, which is a place where you can
+actually build software. And then we
+have claude co-work. So claude coowork
+is the one right here on the left hand
+side. We can see that we have a new
+task. So every single time that you
+speak to cla coowork it's in a task
+because you're actually doing something.
+And then down here I can see that I have
+the text box. I have the model and then
+I have the work in a folder. So what I'm
+actually going to do here is I'm
+actually going to solve a problem that
+businesses have. So a lot of businesses
+have invoices and invoices can be stored
+in a folder called invoices. Right? The
+only problem is that to for them to be
+able to process the invoices, they have
+to go through each one and they have to
+put it in another folder and organize it
+by date and month and all that stuff.
+And that takes a lot a lot of time. And
+so what we can do here is I can actually
+work in a folder. So I can press work in
+a folder and I can choose the actual
+folder. So in this case it's invoices.
+And you can see all the invoices are
+here. I can open this. I can allow and
+then all I have to do is say, "Hey, can
+you go and actually organize all the
+invoices by the date, by month, and then
+add them into like new folders, uh, like
+month by month folders and organize the
+invoices there. I can press let's go.
+And what it's going to do now is it's
+going to read the actual folder and do
+all the things that I told it to do. On
+the right hand side, you can see that we
+have progress. So, the progress of the
+actual task. So, you can see now that it
+found 39 invoices. You can see the three
+different things that it has to go
+through and the progress for each one,
+which is great. I think that's one of
+the best things that Claude has is it
+actually shows you what it needs to do.
+Second one is done. It just finished the
+three of them. Now it says all done.
+Your 39 invoices are now organized into
+six monthly folders. August, September,
+October, November, December, and
+January. So if I go back here, I can see
+that we no longer have the main invoice
+folder, but now we have six folders by
+month. So if I go here, these are
+organized. So this is August. Let me see
+if this is right. Yep, August right
+here. Then we have September, October,
+November, December, and January. So
+something like that that would take you
+maybe 45, an hour, even 2, 3, 4 hours
+depending on how many invoices you have.
+You can literally do it in a matter of
+seconds using Cloud Co-work because it's
+able to access your folders and act on
+them. Now, the second thing here is that
+Cloud Co is actually able to connect to
+our software. So if I go here to my uh
+profile, I can go to settings. I can go
+to connectors. And here I can see that
+it says allow cloud to reference other
+apps and services for more context. So
+what I can do here is I can simply I can
+browse connections and I can connect
+different softwares to cloud code and
+there are hundreds of connections here.
+So even n right here access and run your
+workflows I can simply just connect it
+over here. Mero dev fireflies harmonic
+all that stuff is connected here which
+makes it so much more powerful just
+because you're now able to tap into
+different u my guess softwares. So for
+example if I wanted to connect my Gmail
+I can press connect here. I can
+continue. It then brings me to my
+browser. I can press continue. I can
+choose which account I want to use. my
+first one. Continue here. Verify my
+email. Continue. And now I can open back
+up the cloud desktop app. And I can now
+see that I have the Gmail connected.
+Now, what happens sometimes is that when
+you want to browse your connections and
+you want to connect your softwares, you
+can't find it here. And so, what you
+have to do at that point is you have to
+go to developer and then connect the MCP
+to here. So, what you have to do is edit
+config. Press this button right here,
+which will take you to a file that looks
+like this. And this will open up your
+code editor, whatever you have in your
+computer right here, to this right here.
+So what this means in a very very simple
+term is you will now have the ability to
+connect softwares to uh cloud corework
+that you simply can't find here. And to
+be able to do this you can go and look
+for software name MCP server right so
+this can be fireflies I know we already
+saw it before but we can look for
+fireflies MCP server and if I scroll all
+the way down I should be able to see
+that we have the custom connector and we
+have the actual MCP here. So I can
+simply copy this and then I can go
+through all the steps. So step one, step
+two, step three until you actually add
+the MCP on the actual code editor. You
+can refresh. So you can save the file,
+refresh, and then you'll be able to see
+that you have connected your Fireflies
+here. So now I can go to new task and I
+can say, hey, can you actually summarize
+my first uh email that I got on my inbox
+today and tell me what it says. I can
+press let's go. And now it's going to
+actually go and search my email, right?
+So I can press allowance.
+You can see here that it has connectors
+Gmail. it knows that he needs to use
+Gmail to be able to actually do the
+task. So, I'm going to send myself an
+email. Okay? And I'm going to say
+there's dinner 1 Main Street, 8:00 p.m.
+Uh, bring the plates, tables, and all
+the things that we need to have dinner.
+I can press send. I'm doing this so I
+can then ask Claude to basically
+summarize the first email that I got
+today. So, you see [music] how it taps
+into Gmail. I just got the email here,
+dinner tonight. And if I go back to
+Claude, I can say, "Hey, can you
+actually summarize the first email u or
+just [music] the latest email that I got
+on my Gmail inbox and let me know what
+it says?" I can press let's go. And now
+you can see here that it's going to ask
+me for different permissions, but it's
+then going to use the connectors as
+context, right? Because it knows that to
+be able to fulfill this task, it needs
+to use Gmail. But again, you have to
+connect your Gmail or you have to
+connect the exact software that you need
+to use to claude to be able to actually
+uh do the thing. [music] As you can see
+here, it says, "Your most recent email
+from James within the subject line is
+dinner tonight. Here's a summary. James
+is reminding you about a dinner
+happening today. He's asking [music] you
+to bring plates, tables, and everything
+else needed for the dinner. He also
+wants you to let him know when you'll
+arrive. The dinner is 8:00 p.m. at 1 to3
+Main Street. And then let's say I say,
+"Can you actually reply to him and say,
+yes, all good. Thanks for letting me
+know. See you tonight." What it should
+do now is it should use the Gmail
+connection again. And it says, "I don't
+have the ability to send emails through
+Gmails directly. My Gmail connection is
+only read only. However, I can help you
+send that reply using the browser
+instead." So, it's then going to connect
+to the browser to do the actual task.
+I'm going to say yes, please do that.
+It's then going to connect to Claude in
+Chrome. It just told me that the message
+is saved as a draft and I said, "Yes,
+all good. Send it." So now it's going on
+here. It's taking the draft that it just
+made as a reply to this email and it
+just made the reply right here. Yes, all
+good. Thanks for letting me know. See
+you tonight. So yes, the reply has been
+sent. You can see the message send
+confirmation as the bottom left. Okay,
+so just tapped into her email through
+the interface right here on desktop, but
+it connected to the Chrome as well
+because [music] you're not able to send
+emails just through here. All right, so
+now we get to skills. Now skills are
+instruction manuals that Claude reads
+before doing a task. So the way that the
+flow works is that you give a task and
+then Claude, which is the chef, right,
+will look at the recipe card, which is a
+skill to then give you a perfect result.
+Now, without the skill, Claude guesses.
+So it guesses what it has to do, right?
+Based on what it's trained or based on
+what it knows that it thinks it needs to
+do. And the results are very
+inconsistent. But with skills, Claude
+follows a recipe. It follows
+instructions so that it gives you a very
+consistent output. Cuz with AI, we want
+it to be as consistent as possible. It's
+sort of like you give a student, hey,
+here's X, Y, and Z that you have to go
+through whenever you have to solve a
+math equation. But if you give him the
+math equation, maybe he will solve it
+one way one time and the other way
+another time, but with step-by-step
+instructions, it will follow it
+consistently every single time. And
+there are three main ways to install
+skills. So the first way to install a
+skill is to use something called
+built-in skills. So if you go to your
+profile here, you can go to settings and
+you can go to capabilities. And if I
+scroll down here, you can see that we
+have skills and we can use the example
+skills right here. And these skills are
+the ones that we can activate when
+actually talking to Claude itself
+without us having to make the actual
+skill. So we have skill creator which is
+a skill that creates skills. We have the
+MCP builder which you can turn on. Yeah.
+So let's say we're going to use the
+canvas design. Okay. So all I have to do
+is go to Claude and as you can see if I
+talk to cowork here and I said hey can
+you make me a nice poster using Claude
+website and use the canvas design skill
+to be able to do that. It basically
+executes the agent. It will use the
+canvas design skill on the right hand
+side. And it made this poster right here
+which by the way my prompt is very very
+vague. So, I wasn't expecting anything
+specific, [music] but it used the actual
+skill to make some things very high
+level cuz something like this claw on
+its own wouldn't be able to make unless
+it has the skill to be able to make it
+with, right? And has the architecture of
+attention right here. And so, you can
+have the built-in skills that you can
+always reference when making anything
+with Claude. So, the second way of
+getting skills is using the [music]
+skills that we have on three different
+websites. These are the main websites
+that I found that have the skills.
+Skillhub, the second one is
+skillsmpp.com, and then we have
+smith3.ai/skills.
+So I can just go here and look for a
+skill. So I can look for front- end
+design, systematic debugging skills.
+Let's do something with content
+creation. Uh because I do like content
+creation. So writing, content research
+writer, brand voice, scientific writing,
+LinkedIn post. Uh yeah, we can use
+LinkedIn post. So all you have to do is
+go to the actual skill itself. You can
+then press export.
+You'll see that you have a skill.md
+document. You can then go back to
+claude. You can go to your settings. You
+can go to capabilities here. You can
+scroll down and then you have the
+skills. So your skills, you can press
+add and you have the option to create
+with Claude, which I'll walk you
+through. Write skill instructions, but
+also upload a skill. In this case, we
+have the file. So I can press upload a
+skill. I can then bring across the
+document that I just downloaded right
+here. And it should now show up here,
+LinkedIn post. So it says drive high
+performing LinkedIn post using learnings
+from tweet performance data and zero
+finance messaging guidelines. I don't
+know what tweet performance data and
+zero finance messaging guidelines means,
+but I'm just going to use it here. I can
+say, "Hey, can you use the LinkedIn post
+skill that we have in place to just
+write a LinkedIn post about the new
+clockwork uh that we have in place and
+what it does?" I can press let's go. All
+right, so it just finished here. It made
+the whole LinkedIn post and it used the
+scale LinkedIn post here, right? We can
+go down. I can see the LinkedIn post.
+Most people think AI assistants are just
+fancy chat bots. Copy paste the dock in,
+get summary in, out, repeat. I used to
+do this dozens of times a day. Now, this
+is a pretty decent hook to be honest. uh
+three lines it goes within the actual
+algorithm and then it made a full length
+post here. Now when you think of whether
+this is good or bad I wouldn't say this
+is the best post right now nonetheless
+remember that the skill that we
+downloaded the one here that we have
+we're relying on the actual thing itself
+to have good instructions so whoever
+made the skill so by different.ai AI,
+his perception of what a good LinkedIn
+post is might be different from someone
+else. Right? So, you're downloading this
+exact skill which has a grade. And I
+would always look at the skill to see,
+hey, is this something worth using so
+that we can then actually apply it cuz
+there's thousands and thousands of
+skills here. I mean, there's so many and
+there's so many coming out every single
+day as well. There's 20,494
+as of right now. There's even more here
+and even more here. 120,000 skills. So,
+not all of them are going to be the
+best, right? I would always look at the
+the grade, the people that are using it.
+If more people are using it, that means
+it's really, really good. So, for
+example, front- end design. If 65,000
+people are liking this, that means
+you're probably going to want to use
+this for front- end design and so on.
+There are others on the other hand that
+aren't the best, right? So, you probably
+wouldn't want to use those. And lastly,
+we have Claude making the actual skill.
+So, if I go here to settings and I go to
+capabilities, I go down to skills. I can
+press add and create with Claude. I can
+see let's create a skill together using
+your skill created skill. First, ask me
+what the skill should do. I can press
+go. So now it's using an actual skill to
+make the skill, right? So it says, "What
+should the skill do? What kind of task
+or workflow do you want it to help cloud
+handle? Feel free to describe it however
+makes sense. A rough idea is totally
+fine." So I just said, "Come up with a
+random skill yourself and just make it."
+Okay, so code review roast. There we go.
+When someone shares a code and asks for
+a review, Claude gives them a brutally
+honest but entertaining code review,
+pointing out the real issues with wit
+and humor. So code review roast. Let's
+do it. I'm obviously using claw to
+create an idea for for a skill, but if
+you can think of something within the
+daily things that you do every day, some
+sort of skill that you do repeatedly
+every single time, you can just prompt
+co-work and give it, hey, here is the
+instructions of the skill and how to do
+it. Can you just turn it into an actual
+skill so I can always reference it when
+I'm doing the action itself? So, you're
+basically making the enhancements uh
+that you can always reference when
+you're talking to Claude uh co-work. All
+right, so I just came up with a skill
+and it created this skill.md document. I
+can view the skill. So code review roast
+and this by the way is just a whole um
+like MD stands for markdown. So skill.md
+is just a markdown prompt giving it
+instructions as to what it has to do. So
+I give it the actual code. It gives me a
+funny memorable line about the problem,
+what's actually wrong in one to two
+sentences and a concrete code snippet or
+suggestion showing how to do it better,
+what to look for, comedy guidelines,
+example flavor, priority and delivery,
+language agnostic outperform. Cool. So
+now I can say hey can you download it
+now and put it in our capabilities in
+cloud cowork. And if I go to my folder,
+I can also see the code review roast.
+And if you want to install it, you have
+to go to here, press show in folder.
+You'll then find the folder here. So
+we'll have the code review [music]
+roast, which will have the skill.md, but
+also this code review roast example.md.
+And I can then go back here. I can then
+go to settings. I can go to
+capabilities. And we can press add,
+upload a skill.
+And here you can see we have the code
+review roast. And to use that skill, I
+can just say, hey, can you use the code
+review skill scale here to review the
+code that I attached here as well? So,
+this is a file in HTML. HTML is just a
+programming language. I gave it some
+code that is all messed up. And I can go
+to let's go. And now I should be able to
+see that it's going to use the skill
+when it's actually working on this. As
+you can see, it's now using the code
+review roast. And it says, all right, I
+cracked this file open expecting a
+website. And what I got was a crime
+scene. This HTML file was held together
+by the same energy as a group project
+where everyone assumed someone else was
+would proofread. let's walk through the
+record and then it goes through all the
+things that it needs to change. Right?
+It did a pretty good job in following
+the actual skill here which is basically
+looking at the code and being humorous
+when it gives us the actual I guess
+feedback right to the code itself. And
+the most powerful thing here is that you
+can start adding more and more and more
+skills to clot co-work because then you
+can train it as if it's a human right
+imagine you have one human with a
+thousand different skills and you can
+give it any task and will use the skill
+accordingly based on the thing that it's
+doing. So, I hope now you got to
+understand the fundamentals of cloud
+co-work, how it differentiates from
+cloud and cloud code and how you can
+start using it better than 99% of people
+who get into the actual software. And if
+you're a nineto-five working
+professional and you want to replace
+your job by starting and scaling your
+own AI agency, I left the first link
+down below, which is a one-to-one
+mentorship program where you get to work
+with me onetoone to be able to help you
+do that. And if you like this video,
+then you're going to love this video up
+here where I show you eight insane cloud
+code use cases that you can start using
+right away. With that being said, I hope
+you found value from this video and I'll
+see you in the next

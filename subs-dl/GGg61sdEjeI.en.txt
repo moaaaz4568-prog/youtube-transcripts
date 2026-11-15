@@ -1,0 +1,791 @@
+Take a look at this
+horrible
+product page.  I want you to look at it carefully
+.  How many
+UX and UI mistakes do you
+see?
+Pause the video.
+Write your
+number in
+the comments, but
+be honest, okay
+?  Ready?  If you
+found at least 10
+errors, congratulations, you are a
+great designer.  I
+see at least 15
+serious errors.
+Some of them are obvious.
+Some are much easier
+to miss.  My goal is that
+by the end of this
+video you will know how
+to create the best
+product pages that
+users
+will simply love.  So, let's
+apply a little of
+our UX magic and
+fix them one by
+one.  The difference will be
+huge, and I'll also
+reveal some
+interesting surprises.
+Mistake number one: the icons
+are lost against the background
+of the image.    The
+product image
+extends to the
+very edge, and the
+navigation icons
+are located
+directly above
+it.  At first
+glance, this may
+seem normal
+.  The icons are visible, but
+only because this
+particular image is
+dark enough.
+Now see what
+happens when we
+replace the
+product image with a lighter one,
+like a pineapple.  The icons
+almost disappear, and this is a
+very common
+interface problem.
+Product pages
+don't always have the
+same image.  They
+should work with
+dark, light,
+rich, simple
+images,
+lifestyle photos, and
+clear
+product shots.  So,
+the solution is simple.  We
+add a barely
+noticeable background
+container behind
+the icons.  We
+provide
+sufficient contrast to the icons and
+add a thin
+outline so that they
+remain
+readable against
+any background.  Now
+icons work
+regardless of
+which
+product image is used.  This is
+the difference between
+designing for a single
+screen and designing
+for a real
+product system.
+And one of the best
+ways to do that is
+to learn how great
+products are already
+solving similar
+problems.  That's why I
+use Mobbin.  With
+Mobbin, you can
+explore real-world
+product streams of the
+best apps in the
+world.  So, if you are
+designing an e-commerce
+experience, you can
+view
+product pages,
+checkout processes,
+purchase confirmations, saved
+products, and many
+other patterns.  This
+helps to understand
+how strong products
+guide users
+through the entire journey: from
+product search to
+purchase and
+order tracking.  And
+since we're
+partnering with Mobbin
+for this video, you
+can get
+20% off your first
+year's subscription using
+our link
+below.  Mistake two:
+product image.
+Product images are
+one of the most important
+parts of any
+e-commerce page.  They
+evoke emotions,
+build trust and, in
+many cases,
+take up the largest
+portion of the screen.  Here
+we have six options
+: A, B, C, D, E, and F.
+Pause the video and
+choose the one
+you think fits
+best.  Okay,
+if you chose F, you're
+right, but not
+just because it
+looks neat.  That's
+why.  Option A is too
+congested.
+The strawberries fill the
+entire frame, so there is no
+clear focus.
+Option B has a focus,
+but it is on the hands, not the
+product.  This
+looks more like a
+lifestyle photo than a
+neat
+product image.  Option C
+looks simple, but
+shows one
+strawberry, while
+the product is sold by
+weight.  This creates a
+slight
+discrepancy in the
+user's mind.  Option
+D is nicely designed,
+but the pink background
+seems a bit
+artificial.  For fresh
+organic products,
+the image should
+look natural,
+honest, and authentic.
+Option E is actually
+pretty good.  The strawberries
+look fresh,
+natural, and
+high-quality, but there is one
+problem.  This
+image will not
+exist separately.  It
+will be placed in the
+product grid next
+to many others.
+If each product
+has a different background,
+lighting, props,
+and colors, the entire
+catalog seems
+cluttered.  That's why F
+wins.  It
+preserves the natural
+feel of the strawberry and
+places it on a
+clean background.  The product
+becomes the center of attention, and the
+entire catalog can
+adhere to a single
+visual system.
+This is an important principle.    A
+good
+product image is not just about
+beauty in itself.
+It also needs to
+work across the
+entire
+shopping experience.  Mistake number
+three—alignment.
+It's simple, but it has
+enormous significance.  In
+professional UI
+design, text, icons
+, prices, buttons, and
+sections should
+follow a clear
+layout grid.  Now
+some elements
+are shifted too far to
+the left.  Others are
+too far to the right, and the
+indents seem
+inconsistent.  When
+alignment
+is disrupted,
+users may
+not consciously notice it
+, but they
+feel it.  The screen
+seems less
+calm, less
+structured, less
+reliable.  So, we're
+fixing that.  We
+define
+consistent indentations.
+For example, if content
+starts 24
+pixels from the left, it
+should follow the
+same structure across the
+screen.
+Once everything is in
+one grid, the page
+instantly becomes more
+balanced,
+thoughtful, and
+professional.  Mistake number
+four—color.
+The colors in this
+design are too
+bright, too
+saturated, and they
+emphasize the wrong things
+.  This creates
+two problems.
+First, the screen becomes
+harder to read.
+Second, the hierarchy becomes
+weaker because
+too many
+elements compete
+for attention.  On a
+fresh organic
+produce page, the color
+should
+highlight the product.
+They should not
+prevail.  So we
+moved to a softer,
+more natural
+palette.  The interface
+now looks
+calmer and
+cleaner.  That's what
+makes a good color.
+It creates a mood,
+highlights the product, and
+helps
+focus on the
+main thing.  Mistake
+five: typography.
+Fonts can
+completely change
+the perception of a design.
+The screen currently
+uses
+font styles and the text doesn't
+look cohesive.    A
+product page doesn't need
+a lot of fonts.  In
+most cases,
+one
+reliable headset is enough.
+You can create
+hierarchy
+using size,
+saturation, color,
+and line
+spacing.  That's why we
+simplified
+the typography.  We
+used Lato—a
+cleaner font.
+The design now has a
+much stronger
+foundation.  Mistake six
+: labels.  Now
+let's look at the labels.
+The label "fruit"
+looks cramped because
+the letters are too
+close together
+.  For small
+lowercase letters,
+adding a little
+space usually
+helps the text "
+breathe."  But the bigger
+problem is the
+discount icon.  Now it
+says "20% discount"
+and there's also an icon.  That's
+too much for a
+small label.  In UI
+design, icons should be
+easy to read.
+Users should
+understand them instantly.
+Something
+like "-20%" is enough.  This still
+communicates
+the offer, but
+no longer distracts
+too much from the
+product itself.
+Mistake seven:
+the title.  The title
+is one of the
+most important pieces of
+information on a
+page.  It tells
+the user what
+exactly they are buying.  So
+it should be clear,
+legible, and easy
+to quickly
+scan.
+The headline now looks
+a bit unbalanced
+.  It's bold, but
+the size and saturation
+don't create the
+right hierarchy.    The
+product name
+should stand out
+without being "screaming."  Therefore, we
+adjust the size.  We
+change the saturation
+and make it more
+natural within the
+layout.  Now
+the headline is easier
+to read, easier to
+scan, and it's
+much better
+balanced with the
+rest of the page.
+Mistake eight:
+paragraph text.  Now
+let's correct the text of the
+paragraph.  The lines are too
+close together, making
+the description seem cramped
+and harder to read.
+The text of a paragraph
+should not compete for
+attention.  It should
+help
+the user
+understand
+the product comfortably.  So we
+increase the
+line spacing
+.  We slightly reduce
+the contrast of the
+main text.  This
+will make the paragraph
+easier to
+read quickly.  A simple
+rule of typography:
+headlines
+attract attention.
+Paragraphs provide
+understanding.  When a paragraph is
+easier to read, the entire
+page seems
+more
+trustworthy.  Mistake
+nine: location of
+reviews.  Now we
+delve deeper into UX
+thinking.  The rating
+is now
+too far from the
+product name.  This is
+a problem because
+reviews are one of the
+strongest
+trust signals in
+e-commerce
+.  When users
+see a
+product name, they should
+also quickly see
+its rating.  What is this
+?  And can I
+trust him?  Therefore, we
+are moving the rating
+closer to the name.
+Now users
+immediately understand three
+important things: what kind of
+product it is, what its
+rating is, and whether
+other people trust it
+.  This makes the
+purchasing decision
+easier.  A good
+interface is not
+just about placing
+elements.  This is
+placing
+information where
+the user needs it most.  We're still
+far from a great
+design, but
+compared to
+where we started, we're already
+seeing significant
+improvement.  And you'll
+love what
+comes next.  This is the
+part of design that
+most
+guides skip.  They
+show how to make
+the screen look better, but they
+don't always explain
+why a particular
+solution makes
+the product more convenient,
+reliable, or
+attractive to
+buy.  And this is the
+whole
+idea of ​​the UX Peak
+Plus platform.  Inside UX Peak Plus,
+we analyze the following
+real-world
+UX and UI solutions.  Not just what
+looks great, but
+why it works, how it
+affects
+the user, and how you
+can apply the
+same approach to
+your projects to
+create the best
+websites, apps,
+or
+software.  If you
+want to grow
+as a designer or
+product specialist, you
+need to understand
+the logic behind
+strong design.
+So, if after
+this video you want to
+delve deeper into the topic,
+use the code
+redesign25 to get
+25% off UX Peak Plus.  You
+can find everything on
+our website.
+Now let's continue
+the redesign.  Error 10,
+function icons.  At
+first glance, this
+section may seem
+normal.  It
+conveys the useful
+benefits of the product,
+but visually there are
+a few problems here.
+Too many
+colors.
+Icon styles are inconsistent.
+Some icons
+look heavy,
+some look light.  Some
+are filled in, some are
+contoured.  In good
+interface design,
+icons should have
+the same visual
+logic.  So we
+simplify the colors.  We
+are making the icon style
+more consistent and
+reducing indentation.
+Now this section still
+showcases
+the benefits, but it
+no longer
+clutters the screen.
+You can
+use
+different colors in the
+interface, but they
+need to be
+applied
+consciously.  Error 11,
+dividing lines.
+Now let's look at the
+dividing lines.  They are
+extremely dark and
+massive.  They
+attract too much
+attention.  Dividing
+lines are designed to
+separate sections
+.  When such lines are
+too pronounced,
+the page starts
+to look divided
+into rough blocks
+instead of a cohesive and
+seamless experience.
+So, we
+mitigate them.  Now
+they look
+sophisticated, clean and
+elegant.  It's
+a small thing, but it's these
+details that make
+the interior look
+premium.  Error 12
+: Indentation balance.
+The spacing between some
+sections is too
+large.  White
+space is important, but
+too much of it in
+inappropriate places
+makes the layout look
+disjointed.  So we're
+reducing the indents a little bit
+.  Now the blocks are
+closer together,
+easier to view,
+and the interface looks more
+cohesive.  Good
+indentation isn't
+just about adding
+white space.  This is
+creating the
+correct
+relationship between
+elements.  Error 13
+: redundant price name.
+Let's move on to the
+price area.  We see the word
+"price" before the number,
+but it is superfluous here.
+When users
+see a number with a
+currency sign, they
+already understand that it is a
+price.  And if you want
+to be as
+affordable as possible and
+sign the price, then it
+makes sense to sign the
+quantity selector
+next to it.  Otherwise,
+the interface looks
+inconsistent.  So the
+cleaner solution is
+simple.
+Remove the signature completely.
+Let the price speak
+for itself.  Error
+14: Location of
+quantity and price of
+the product.  The product name
+contains "1 kg", but this
+creates a problem.
+Why?  Because the user
+can already change
+the quantity
+using the selector.
+So, the product is no longer
+limited to 1 kg.  This
+makes the name
+misleading.  Instead,
+the name should
+describe the product itself.
+The quantity should be
+processed separately in the
+purchase area.  There is one more
+improvement
+we can make.
+The price
+is currently too
+low on the screen.  There are
+different ways to
+display price
+depending on the product,
+audience, and
+purchase context.
+But in this case,
+users should
+see the price much
+earlier.  Now, when users see a
+product, they
+immediately understand what it is
+, how
+good it is, and how much it
+costs.  Error 15:
+Purchase action button.    The
+“Add to
+Cart” button should be the
+most important action
+on the screen.  But now
+she seems
+too aggressive.
+The text is in capital
+letters, large
+size—the button seems to
+scream.  So we
+soften it.  Let's make
+it more elegant.
+But there is another
+problem.  The
+quantity selector is too
+far from the "
+Add to Cart" button.  When
+buy something, they
+choose the quantity and
+then add the item to their
+cart.  That's why we
+put them side by side.  We
+also add
+the unit of measure,
+kilograms,
+directly to the
+selector.  And finally,
+we add the total
+price inside the
+"Add to
+Cart" button.  Now
+the user knows
+how much they will have to
+pay before they even
+click.  This eliminates
+uncertainty.  But this is where
+many
+redesigns
+stop.  The bugs
+are fixed, the page
+looks cleaner,
+but quality
+product design is not just about
+fixing what's
+broken.  It's about
+making the whole
+process more convenient.
+Now let's
+take this redesign one
+step further.
+Improvement one:
+turn the content
+into a scrollable card
+.
+First, let's transform the
+content area into a
+soft card with
+scrolling,
+rounded corners,
+and a subtle
+shadow.  The
+product image has its
+own space.
+Product details
+have their own
+space.  As
+the user scrolls,
+the card slides
+over the image,
+keeping the product in
+view initially
+.  Then, when
+the image is no longer the
+main
+focus, the
+product name moves
+to the top navigation and
+remains
+pinned.  So
+even when
+the user scrolls
+deeper, they don't
+lose context.
+Improvement two:
+add a pinned
+bottom action bar.
+Now the
+quantity selector and
+Add to Cart button
+remain visible
+while
+scrolling.  This is
+powerful because
+users don't
+always decide
+to buy something right at
+the top of the page.
+Sometimes they scroll
+further.  They read
+additional details.
+They are browsing
+similar products.  And when
+they are finally ready,
+they can act
+immediately.  This is where
+design becomes much
+stronger, because we are
+no longer just
+making the screen
+prettier.  We make the
+buying process
+easier.
+Improvement three:
+add predefined
+quantity options.  For example,
+500 g, 1 kg, 2 kg.
+Instead of forcing
+to tap the selector
+multiple times, they
+can select the
+default option with a
+single tap.  And these
+options can be
+based on
+real
+purchase data.  If
+most people buy 1kg
+or 2kg, it should be
+easy to choose.  We
+leave the option of
+manually selecting
+the quantity for
+flexibility.  It's a
+small
+UX improvement that has a real
+impact on the business.  And
+now we have a design
+that
+scales beautifully across
+different products.
+The images
+appear
+consistent.  The layout
+looks
+predictable.
+Product information
+is easy to scan at
+a glance.  This is what
+quality UI
+design looks like.  So, what do you
+think?  Is this
+new version better than the
+original?  How many of the 15
+mistakes did you notice
+before I
+pointed them out?  Let us know
+in the comments.  I'm
+really curious
+to know how many you
+found.  Thanks for
+watching, see you
+in the next video.

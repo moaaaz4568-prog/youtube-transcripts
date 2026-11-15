@@ -1,0 +1,496 @@
+We just finished the largest
+deliverability test we have ever done.
+And if you know anything about us, you
+know that we do some insane testing. We
+just sent just under a quarter million
+emails for one of our largest clients.
+We did it across 120 campaigns, three
+sequencers, three vendors, three types
+of inboxes, four different types of
+warm-up networks. There's a lot of data
+to come through. So, here's everything
+that I learned, all the data
+transparently, resources that you can
+comb through. I'm curious, what kind of
+data do you think you'll find inside of
+here? And we are just going to hop right
+in. And so what we did first off is we
+did a ridiculous amount of tests. You
+can see here that we have over 120
+campaigns that we have done and we did
+every single configuration that we could
+possibly think of. And really the goal
+of this entire test, if I can give you
+one principle, is that on average across
+all these inboxes, we got about a 1.68
+reply rate. But there are certain
+combinations of what we're doing that
+are giving us as high as a 3.4, a 2.8, a
+4.6, a 3.2. almost every single time at
+least a 2x multiplier on our
+deliverability because we do this type
+of testing and we match inbox to inbox.
+And so I'm going to walk through all the
+data with you, all of my thoughts. And
+uh so this will be a maybe a little bit
+of a longer video, but really this is
+just like everything I'm seeing, what
+changes we're going to be implementing
+into our own internal processes and how
+I'm thinking about cold email
+deliverability for the rest of 2025. All
+right. So, one quick detour that we're
+going to do is I was really curious
+about what warm-up networks did. And uh
+from sequencer to sequencer, it's really
+hard to gauge how well a warm-up network
+will do cuz what we did with all of the
+email accounts is if they were on a
+sequencer, we would have them set up
+with that sequencer's native warm-up
+platform. So, the sequencer results are
+synchronized with the warm-up. So,
+there's not too too much there that we
+can evaluate. But, I was really curious
+about Wormy.io. You know, about them,
+I've been hearing some buzz about them
+being really good for deliverability. So
+I was really curious like what does this
+look like and so we did a test. The
+craziest thing is that on average
+campaigns without using warmmy did
+better than those with which was really
+really interesting and there's actually
+only one vertical where warmmy actually
+really helps. All right. So if we take a
+look at the data here, there isn't too
+too much. If you look at every single
+vertical, we have the checkbox. Those
+are with Wormy. These are without wormy.
+Right? So you can see here on email
+bison/sasmail, our own platform, which
+is email bison with our some of our own
+proprietary tech on top of it. We
+optimize it for enterprise
+deliverability, which you'll see in a
+moment. But you can see here that there
+wasn't too too much that was different,
+right? Everything without warming was
+typically a little bit better except for
+this one right here, which that'll come
+back in a little bit later. Here, super
+similar story. Reply rates are way
+better than without. here if we look at
+it by what the lead's inbox is. So the
+lead ESP is what type of inbox is our
+lead, the person that we want to email.
+What type of inbox are they using? And
+you can see a similar story here across
+every vertical without warming. It does
+better except for this enterprise popup
+right here. Which is interesting. You
+might be able to notice a pattern
+already is that maybe bison with
+enterprise is the best when using warm
+and it actually gives an uplift. And so
+then I started drilling down on
+enterprise deliverability and you could
+see here that bison when combined with
+warmmy will give you better reply rates
+by almost a significant margin by almost
+2x right which is very very very
+interesting on Gmail deliverability
+there's a marginal increase if you're
+using um outlook inboxes on smart lead
+everything else is is kind of the
+inverse so anyways the main thing to
+pick up here is that warmmy seems to not
+do too much and maybe there's even an
+argument that it hurts but if you are
+specifically using it for enterprise
+deliverability. You can get a 2x
+multiplier on it if you're using Bison.
+You can get up to a 4% enterprise reply
+rate, which is really insane. So,
+hopping back into the good stuff. So,
+what we did here, right, is we we
+layered up the three sequencers that
+we're using, Email Bison, Smart Lead,
+and Instantly. And we looked at the
+different types of accounts that we
+could target. So, what is the email
+service provider that we're looking at?
+We have custom SMTPs, which are just
+like purely custom email infrastructure.
+Maybe the company built it in house or
+they're using something else. Enterprise
+is can be a custom SMT, can be Gmail,
+can be outlook and so on. But enterprise
+are things like proof point, spam hosts,
+Brabus, things like that where they a
+lot of the Fortune 500 use them for
+example. So if you send an email to
+somebody on the Fortune 500 and they use
+Proof Point and they mark you as spam.
+Now if you email somebody else on the
+Fortune 500 who uses Proof Point, you
+will also go to spam now because it's
+like a shared network. And so that's why
+enterprise deliverability is so
+important because those are also the
+most highest value elites that we can be
+going after. Gmails is if they use
+Gmail, Outlook is if they use Outlook.
+And then other is very, very small. It's
+like less than 2% of the pool of all
+email accounts we do. Things like Yahoo
+or you know, whatever they use. I
+debated not even having this in here,
+but we have the data, so why not? And so
+the average numbers you want to be
+careful of reading too much into because
+in my opinion, the best thing you can do
+is find the ones that give you the
+highest leverage and the highest
+multipliers so that way they can 2x your
+infrastructure. Gets way more
+complicated. I mean, this is how we run
+our outbound consultancy is that we
+multisequence. So where most people in
+the world will just use one platform
+like instantly smart lead or email
+bison, we use all three and we set stuff
+up for our clients where we do the
+maximum deliverability for a specific
+network that we're going to be going
+after. So for example, we just helped
+fixer go from about 1 to 10 million in
+ARR and ton of efforts. We can't claim
+all of that at all. Right? But our
+machine at its peak performance, its
+best in its final week was generating
+over $4.3 million in annual pipeline
+revenue for them. And we were signing up
+almost a thousand people a week you just
+using cold email. And so that machine
+was just cranking. And this is actually
+the client on the back end that we used
+to test all this because we know all
+their baselines. We know all of that
+kind of stuff. And so anyways with them
+we were just targeting Gmail inboxes. So
+everything that we were doing you'll see
+in a moment everything that we were
+doing was to optimize deliverability for
+Gmail. So anyways so you want to be
+careful about reading too much into
+averages. But if we look on average,
+right? On average, email bison will get
+the best total reply rate and then
+followed by smart lead and then followed
+by instantly. The other data point that
+you're going to notice in here is that
+we are also tracking human reply rate.
+Okay, so total reply rate is everything.
+Autoresponders, um, out of offices, you
+do want to track those cuz if you are
+going into spam hardcore, if you're just
+totally getting spam blocked, you will
+not even get out of office messages
+because they suspect that you're a bad
+player, right? And so we track both
+numbers internally. And so we have human
+reply rate and total reply. And you kind
+of want to take both of them in your
+brain as we look to analyze this data.
+So then the next layer that we're
+looking at is let's look at the leads
+email service provider. So what inbox do
+they have combined with the inbox email
+inbox? So like what infrastructure are
+we using? And so the main infrastructure
+that we had in place was three types of
+inboxes from scaled mail. They're
+actually really cool. They you scaled
+mail is a really cool partner because if
+one day Gmail gets shut down, you still
+have Outlook and SMTP ready to go. And
+we saw some good things from them. We've
+been using premium inboxes for the last
+6 months. We love them. They're stellar
+and they're actually a winner in a few
+categories um as well. And so we have
+and then we have our own in-house um
+SMTP which SMTP is just a custom
+infrastructure, right? This is something
+we are beta testing internally to see if
+we can get an uplift or not. And there
+was some interesting data there too. And
+so here while we have three different
+vendors, right? Scaled mail, premium
+inboxes and some of our in-house stuff,
+we also primarily have three types of uh
+inboxes that we're testing, right? We
+have custom SMTPs represented right
+here. We have Gmail accounts represented
+right here. And then we have scaled
+mail/outlook accounts um here. And so
+when we look at these on average, you
+know, you can see the reply rates here.
+You can see the cross splice. You can
+see maybe some some data on like which
+ones are doing the best. We're but we're
+going to be analyzing some stuff down
+below here. You can see the human
+replies um cross reference with each
+other. Then here what we're looking at
+is what is the total reply rate when we
+cross reference the leads email service
+provider with the sequencer and it
+starts getting like a ton of data. We're
+not going to bother with this cuz I have
+it little I've organized a lot better
+for you right here. So here you can
+click through and you can see all of the
+different results. So for example, these
+are organized by the best deliverability
+when you're targeting Gmail. And one
+quick note, I should have started with
+this, but one quick note is that this
+stuff changes, right? So right now, if
+one if Smartly ends up being the winner
+in a certain category, I could do the
+same test a month later and someone else
+would be just slightly better. So this
+stuff is always dynamically changing,
+which is just another reason that like
+we internally we multisequence that we
+will go through different campaigns and
+we'll be constantly monitoring this
+stuff and constantly changing what inbox
+and what sequencer we use so we can
+maximize deliverability for our clients.
+Cuz once again, if I can get a 2x
+multiplier on all my results for a
+client, then that's huge. Like for one
+of our clients, Directive, I mean, in
+one month, we're generating
+approximately a4 million in pipeline for
+them. If I can 2x that number to a half
+a million, that's insane. So that's why
+we do all of these things. So anyways,
+if you want to look at Gmail
+deliverability, the best configuration
+was Smartle when using an Outlook inbox
+from Scaled Mail. very close behind them
+was using email bison with a Gmail inbox
+using premium inboxes right behind them
+is bison plus Gmail plus scaled mail and
+so on and so you can you can kind of see
+here everything that was really really
+good additionally you do want to look at
+human reply rate you'll notice that
+human reply rate is pretty one one it's
+it's pretty rare that they're different
+like here for some reason the SMTP with
+instantly our in-house one was a little
+bit different here so like that's
+interesting cuz maybe that means it's
+getting them less less out of offices
+maybe. There's a lot of different things
+that could pop up there, but you want to
+be able to look at all of this data,
+right? And then if you want to take a
+look at Outlook, what's the best
+deliverability to Outlook, which most
+people say you can't deliver to right
+now. And to Scaled Mill's credit, to
+Dean's credit, he's been telling me for
+months that he knows how to deliver to
+Outlook. And sure enough, all of his
+infra infrastructure is in the top five
+uh slots for deliverability to Outlook.
+So, I actually believe him cuz he's
+actually giving some uh similar numbers
+to Gmail. Now, is it as as good? Not
+necessarily, right? like we're down by
+about point and a half and then here
+we're down by almost like 50% compared
+to the best here. So like Outlook is
+still tough but it's certainly possible
+and it looks like a true outlier for
+that is using Outlook on scaled mail
+with email bison and the total reply
+rate also backs that up right now. If we
+go over into enterprise what we're
+seeing here is that premium inboxes with
+Gmail on email bison seems like the
+best. Also know, as far as I know, the
+Gmail accounts from Scaled Mail and
+Premium are roughly the same. And so, so
+it is interesting that they're a little
+bit close here. Um, it kind of backs up
+that most Gmail inboxes are just Gmail
+inboxes and you're probably good to go.
+And so, but if we look at human reply
+rate right here, we can see that human
+reply got a third place. And then here
+we can see that instantly outlook scaled
+mail to enterprise was actually pretty
+dang good. So, it's once again, you got
+to take it with a little bit of grain of
+salt. The other thing about enterprise
+is they will naturally have a higher
+reply rate just because they uh they
+have out of offices or um they have
+autoresponders. They're a little bit
+more organized with their inbox a little
+bit more systemized and so you get those
+automated responses more often than not.
+And so that's always something to take
+note of, right? And so like what we're
+going to be doing is we are going to be
+doing and I'll give you my
+recommendations for these actually or
+what we're going to be doing internally
+is uh but for enterprise targeting we're
+looking at using Gmail with email bison
+going forward which is what we actually
+have been doing. This hasn't changed too
+much over the last 6 months which is
+really nice. Going to Gmail what we're
+going to be doing is we're going to
+actually still be using instantly with
+Gmail. And you might be like why would
+you do that when it's like the lowest?
+The thing is I'll actually answer that
+question in a minute as to why instantly
+is better than the others kind of
+regardless of this deliverability at
+least in my opinion but it's also
+something where like we're really
+looking at okay like do we put Gmail on
+email bison as well and do everything on
+email bison as well. So we are
+evaluating that if we want to hop over
+from here but once again there's one
+thing that I'll actually I'll just go
+into the detour right now. So, something
+to take note of is that we sent almost a
+quarter million emails, same exact
+settings. And the reason that instantly
+is really good in my opinion, especially
+for us where we're high volume senders,
+is that all the settings were the same,
+but instantly was 30% better at
+sequencing than the other sequencers.
+So, what's that mean? So, we had 120
+campaigns. They're all using different
+inboxes. There's an algorithm going on
+on the back end that will go, cool, this
+email account needs to send an email at
+this time. This email account needs to
+send an email at this time. Blah blah
+blah. And what we have found, and we've
+done this, you know, for a while, and
+we've known this for a while, is that
+Instantly is absolutely the best at
+actually doing the sequencing at
+organizing the emails in a way to be
+able to do high volume in a
+sophisticated way, right? Where the
+other ones, no shade to them at all, but
+the other ones, they do not, they just
+don't sequence as good. And so that's
+where it's like, well, I got to send
+emails for my clients and I need to be
+able to hit my targets for how many
+emails I want to send a day. So that's
+why we use instantly. It's one of those
+things. I'm talking to uh the founder of
+email bison and he wants to rework stuff
+to make it so that way he could be able
+to do significantly high volume and when
+that happens that's like the holy grail
+for us cuz email bison is dope and we
+love their tool and it has some of the
+best deliverability in the world. So
+this is where something like it's a
+judgment call for us but I would rather
+send more emails than not send as many
+emails when it comes to that data.
+Right. So anyways so for Gmail we're
+looking at doing Gmail plus email bison.
+For outlook one of the best things here
+would be Outlook or an SMTP on email
+bison. I think we're going to for sure
+go with the Outlook one because it was
+the winner by a significant margin in
+both categories. And so we're looking at
+using Outlook from Scaled Mail going to
+email Bison cuz we don't know how to do
+Outlook in-house. Yeah. For enterprise,
+I think I already answered this. We're
+looking at doing Gmail with email bison
+for custom SMTPs, which are rare. Like
+it's pretty rare that I create a custom
+campaign just for this, but sometimes
+there are times where it really does
+make sense to be able to do this. Once
+again, Gmail inside of email blind is
+really really good as well. But if we do
+look at the human reply rate, you can
+see that these guys are all about tied.
+And so it's really really close actually
+across, you know, you have a 0.1% spread
+across the best. So there's nothing
+super super definitive here except for
+here. This one really stands out to me.
+And then other I don't think you should
+ever optimize campaigns for other.
+They're less than like 2% of the email
+pool. So I don't worry about that. So
+when we look at the one number one
+spots, even though these might not line
+up with exactly what we're doing, you
+can see the top here by total reply
+rate. If you want to target outlook
+inboxes, it's Bison plus Outlook. If you
+want to go after others, it's smart plus
+SMTP. If you want to go after Gmails,
+it's smart lead plus outlook. And then
+if you want to go after enterprise, it's
+Bison plus Gmail and so on. And so these
+human reply rates are very, very similar
+to it. The only one that's different,
+yeah, here's this enterprise one where
+having um Outlook accounts on instantly
+somehow eat it out, which actually I
+want to take a look and double check
+that one real quick. Okay. Yeah. Yeah.
+Yeah, that is exactly what it said
+there. So, this is where it's, you know,
+I'm going to do some further
+experimentation, maybe a long-term play,
+be able to see what this looks like. So,
+anyways, that is all of our thoughts and
+if you have any questions, let me know.
+Is there something I missed? Is there
+something in the data that like stands
+out to you? And like, you know, do you
+disagree with me on any of this stuff?
+But either way, I hope this helps you in
+your business as you continue to grow.
+If you ever want to hit us up, we are
+sales automation systems. is we do
+unlimited cold email outreach to every
+lead in your total addressable market
+and it starts at only 5 grand a month
+plus a performance fee. We've worked
+with some of the highest growing uh
+fastest growing companies of 2024 and of
+2025 doing outbound for them. So, I'm
+sure that we can make something work for
+you. All right, hope this helps you.
+Have a great day.
+[Music]

@@ -1,0 +1,1254 @@
+Most people think cold email is about
+writing the perfect subject line or
+finding some magic cold email template
+that gets replies. And while sure, a
+good email might get you a few meetings
+here and there. If you want to
+consistently book 50, 80, 100 sales
+meetings a month, the rules are
+completely different. 3 years ago, I was
+figuring this out for the first time.
+And today, I've sent 10 million cold
+emails, generated well over 10,000
+interested leads, and as a result,
+booked over 4,000 sales meetings across
+dozens of B2B industries. And I didn't
+get there only by writing better emails.
+I got there by building systems that did
+the hard work for me. So, instead of
+giving you another cold email template,
+I'm going to share five principles that
+make cold email go from painfully hard
+to almost automatic. So, this brings me
+to section one, talking about the
+infrastructure system. The number one
+reason your cold email feels hard isn't
+your copy. It isn't your offer, and it
+isn't your lead list. It's that you're
+trying to scale something that was never
+built to scale in the first place. So,
+here's a quick story. I was talking to a
+lead, and they were telling me all about
+how they tried cold email before. They
+took their main domain, they loaded up
+into HubSpot, they found a random list,
+and they just started blasting emails.
+Now, not only did they get little to no
+results, they in the process compromised
+their main domain's reputation, which
+caused not only their emails to land in
+spam, but everyone in their company. So,
+not only did this person try cold email
+and it didn't work, not only did they
+not get any leads, but now all the
+emails that they're trying to send to
+their customers, all the invoices
+they're trying to send out, all of the
+random transactional conversations
+suddenly land in spam. And so, now they
+were coming to me basically telling me
+how to set everything up. And the kind
+of main takeaway that I want to bring to
+you here is that you need to set up your
+infrastructure properly. Otherwise, it
+can completely destroy your domain, your
+inbox, and your reputation. Now, the
+analogy I like to give is a speed limit
+analogy. So, let's pretend you're
+driving your car. Let's say you just
+went out and you bought your brand new
+Lamborghini that you've been dreaming
+about, and your Lamborghini says that it
+can go 200 mph. So, you're going to
+drive that thing 200 mph. And you start
+driving and you zip down the highway and
+guess what happens? a police officer
+pulls you over and your Lamborghini is
+now impounded and you are in jail. Now,
+the same idea is true with your inboxes.
+Now, if you go to Google's website, they
+actually tell you that their inboxes can
+send up to 2,000 emails a day, just like
+your car can drive 200 mph. But you and
+me both know what happens when you drive
+over the speed limit is you go to jail
+or in the case of your emails, you land
+in the spam folder. So, while Google and
+Microsoft and all these providers let
+you send a bunch of emails and they'll
+let you hook them up to this tool and
+it'll let you hook up to that tool and
+you can sit there and all your fancy
+dashboards and say, "I'm just going to
+send a ton of emails." What ends up
+happening is your emails start landing
+in spam. And the reason why is because
+Google and Microsoft and these trillion
+dollar companies don't want you speeding
+on their roads. Or in their case, they
+don't want you sending a bunch of spam
+or making it super easy for you to land
+in the inbox. Because if they do, then a
+bunch of people are going to get a bunch
+of lazy emails and then people are going
+to complain to the provider. And so
+instead, what you need to do is you need
+to not only write good emails that
+hopefully don't get reported as spam,
+which we're going to talk about here in
+a second, but even if you write the best
+emails, you need to be driving the speed
+limit. Just like even if you don't have
+the flashiest car in the world, if
+you're driving really quick in your
+Toyota Corolla, you're still going to
+get pulled over. In the case of Google
+and Microsoft, it really depends on what
+that sending volume looks like. And
+again, this is kind of a black box. But
+in my experience, a nice sweet spot is
+to send about 15 to 25 emails per day
+per email account. Now then, you might
+be asking, "Well, Matt, cold email
+probably isn't going to work for me if I
+can only send 15 to 25 emails per day."
+Which is why you should set up a
+horizontally scaled email
+infrastructure. and I'm going to walk
+you through what that looks like. All
+right, so I've talked through this
+concept many times before and I will
+talk about it many times again, but if
+you want to send a bunch of emails, you
+need a bunch of email accounts. So what
+most people do is they have their
+handydandy main domain here. Let's call
+it google.com, right? And they start
+sending, call it 200 emails per day and
+as a result, they land in the spam
+folder. So what you are going to do, Mr.
+Smart Person watching this video, is
+you're going to have your domain. Let's
+just say you have www.xyz.com.
+Instead of sending all your emails from
+this one account, you're going to set up
+multiple accounts. So on the domain
+level, you're not just going to purchase
+one domain. You're not just going to
+purchase two domains. You're going to
+buy as many domains as you need to send
+out your emails. Now, under these
+domains, you'll have your inboxes. Now,
+just to be clear, a domain is like
+xyz.com or google.com. A inbox is matt
+whatever the domain is.com. So, this is
+the actual thing you're going to be
+sending from and you're hooking up to
+your email accounts. Now, within your
+domains, you can set up one inbox per
+domain. You can set up two inboxes per
+domain. You can set up more. Now, I
+don't usually like setting up more than
+two because typically that makes it more
+likely that you land in spam. Now, there
+are some setups where you can set up a
+bunch of email accounts. I don't want to
+make this video too complex. There's
+providers that do these kind of
+Microsoft setups where you can set up a
+bunch of email accounts on a domain and
+you send lightly and it it works. But
+for the sake of this video, let's just
+say you're going to set up a couple
+inboxes per domain. Now, you have inbox
+one and two here. And you just do this
+over and over and over again. And let's
+say from each one of these email
+accounts now, you can send call it 20
+emails per day. And if you multiply that
+by 10 different email accounts, now you
+have your magic 200 emails per day. Now,
+after you have all these email accounts
+set up, you don't want to just let them
+sit there. The goal is that you want to
+mimic human behavior so that you can fly
+under the speed limits. In the same way
+as if you bought a brand new car and you
+started driving really hard on all those
+cars where you had a brand new car off
+the lot, the police are going to look at
+you a little bit different than if you
+have had something sit on the road for a
+little bit. So, after you go ahead and
+you purchase all these inboxes, you're
+then going to want to connect it to a
+sending tool. As you might guess, a
+sending tool allows you to send cold
+emails. But what a sending tool will do
+for you is it not only lets you connect
+all of your cold email accounts in one
+place, so that way you're not manually
+sending from 10 different email accounts
+at once, but additionally, what you can
+do is you can connect it to warm-up.
+Now, what warm-up does is essentially it
+trades emails between all of the email
+accounts you have and everyone that's on
+the sending tools networks. And what
+this will do is it'll boost the
+reputation of your account. So think of
+it like this. If you bought a brand new
+car and you start driving really quick
+on the road, again, you're going to be
+looked at a little bit different. But if
+you buy a new car and you see it be
+around for a couple weeks and you see it
+show up on a couple traffic cameras now,
+whenever it starts driving on the road,
+you don't really think anything of it.
+And so the same idea is true with email
+accounts. You want to build some level
+of reputation. So if you go to any of
+these tools, I'm just going to rattle
+off a few. Smartle.ai, AI, Instantly,
+Plus Vibe, or Email Bison. Any of these
+tools are all sending tools that have
+the ability for you to connect email
+accounts, domains to them. They all have
+warm-up networks. They can boost your
+email accounts reputations, and they
+just make it so much easier for you to
+actually sequence emails at scale. So,
+these are four different tools.
+Personally, if you want my
+recommendation at the time of watching
+this video, it is Smart Lead. That's
+mostly based on preference. Also, their
+pricing is pretty strong, but all these
+other tools, I think, are phenomenal and
+get the job done well. And you can set
+up these domains through pretty much any
+domain registar. If you just Google
+domain registar, you can find it. And
+for the inboxes, I like using resellers
+because they can get it to you a little
+bit cheaper. Now, I have a video you can
+watch after you're done with this video
+where I talk through a bunch of the
+different cold email tools that I
+recommend. I talk through all the
+different inbox resellers, but there's
+some flavor of a Google or Microsoft
+provider because Google and Microsoft
+are the dominant recipients that receive
+mail and is probably the people you are
+using for your inbox. So I prefer to
+send with them because they tend to have
+longer longevity. Now one other thing I
+want to talk about while we're on the
+topic of email infrastructure is talking
+about sending volume. Whenever you are
+sending cold emails it is fundamentally
+a numbers game. You can send 10 cold
+emails and reach 10 people or you can
+send a million cold emails and reach a
+million people. Now I don't know about
+you but if I were a betting man I would
+bet that you are going to get more
+interested people when you reach out to
+a million people than when you reach out
+to 10 people. Even if you have the best
+emails possible let's say all 10 of them
+convert. Now you have 10 people. If you
+reach out to a million people and you
+have 0.0 whatever percent of people
+convert, then you have a lot more
+people. So what I would recommend for
+anyone just getting into this, I would
+recommend that you set up a system so
+you can send at least a,000 emails a
+day. 1,000 emails a day to me is the
+floor to where you can still get some
+level of consistency and results and you
+can, you know, dip your toes in.
+Anything less than a,000 a day, there
+are some cases where it can work. Now,
+I've seen, you know, a lot of different
+campaigns. I've worked across I think
+about a hundred customers at this point
+and I can tell you that there are
+customers that do crush it off of 500
+emails per day. But if they send a
+thousand emails a day, they would also
+be okay. There are some people where if
+they send 500 emails a day, they're not
+going to get really anything
+significant. And that's not to say that
+a,000 emails a day suddenly guarantees
+success. What I'm telling you is that if
+you want to do cold email, you want to
+have at least a reasonable sample size.
+And if you're doing this and you do this
+rough math here, this means you're
+probably going to need about 50 email
+accounts, assuming that you're sending
+about 20 cold emails per day. Now,
+again, this permutation might change.
+You might have one account per domain
+and you need 50 domains and 50 accounts.
+You might use a wonky type of setup
+where you have one domain, you have 50
+emails on it, and you send five a day
+from each account. And you know, you can
+do all the math there. Or if you're
+doing a setup like I'm showing you here,
+this would be about 25 domains and about
+50 email accounts. All that being said
+is that I would recommend anyone out
+there if you're getting started, you
+need to send at least a thousand emails
+a day. And just to give you a rough
+idea, there are people that send a,000
+emails a day. There's people that send
+5,000 emails a day. There's people that
+send 50,000 emails a day. And it just
+keeps going up and up. There are people
+sending over a million emails a month,
+and I bet you and me could guess that if
+someone sends 20,000 emails a month,
+which is about a,000 a day, or a million
+emails a month, that that person is
+probably going to get substantially
+better results. which is why I am
+telling you out there that you shortcut
+your results if you build more email
+infrastructure. So that's cold email
+infrastructure. That's the foundation of
+everything you're doing. Here's what I
+see happen next. People build the email
+infrastructure. They blast the same
+generic email to everyone and as a
+result they don't see a ton of results.
+So this brings me to section two where
+we're going to be talking about the
+targeting system. So let me tell you
+this. Everyone I talk to is very quick
+to blame their email copy. They're very
+quick to blame their email
+infrastructure. But nine times out of
+10, whenever I look into some people's
+campaigns and they have their
+infrastructure set up, the problem isn't
+what they think it actually is. It's
+actually who you are sending your emails
+to. Sending your emails to the right
+people matters a lot more than what you
+say. So, now we're going to talk about
+how to set up a system to properly
+target people. So, if you've been in
+sales and marketing for long enough, I'm
+sure you've heard the statement that
+only 3% of any market at any given time
+is actively looking to buy. Now, if I'm
+being totally honest, I have no idea
+where that came from, but I found that
+to be roughly true. And so, what that
+means is if you reach out to 100 people,
+only 3% of the people are potentially
+interested in your service in the first
+place, the other 97% are either not a
+good fit because of timing, not open to
+purchasing something from, you know,
+third party vendor or whatever it might
+be. So what that means is that if you
+want to get call it 10 sales meetings
+only 3% of the thousand people which is
+30 people are even open and receptive to
+potentially responding to your emails
+which kind of lines up with response
+rates that you get. Now from that not
+all of those people are going to book
+calls or purchase which means that you
+need to send a lot of emails if you want
+to get people to potentially be
+interested in your products or service.
+So when you're targeting people, I like
+to use this framework to kind of decide
+how to figure out the campaigns that
+you're going to run, how to target
+people, and ultimately try and make your
+campaigns as big a proportion as
+possible of those 3% that are actually
+interested in potentially purchasing
+your services. The way I like to look at
+this is you have your giant ocean here.
+So this is where all the fish lie. These
+are all the potential fish you can reach
+out to or fish into. Now, I don't know
+about you, but I'm sure you can make a
+reasonable judgment that if you're
+fishing in the ocean, there's probably
+areas of the ocean where there's dense
+amount of fish, and there's also areas
+of the ocean that are probably dead
+zones. Now, I'm not a fisherman or a
+fisherologist or whatever you want to
+call it. There's probably better or
+worse places to fish in the vast ocean.
+Now, within the ocean, there's those
+smaller pockets. Maybe this is where
+more fish lie. And so, you have this
+kind of subsack. And then within this
+pocket where there's all kinds of
+schools of fish, there's probably, you
+know, your tuna here, there's your
+salmon here, there's your other types of
+fish. Now, again, I'm not a marine
+biologist, whatever. The same idea is
+true when you are running cold outreach
+campaigns. This big bucket or your ocean
+is called your total addressable market.
+So, this is the entirety of the ocean.
+This is everyone that can possibly give
+you money. Now, within the ocean, the
+nice area to fish, where the fish tend
+to lie, and this is your ideal client
+profile, or in layman's terms, what this
+means are the people that are most
+likely to pay you money and the most
+likely to pay you a lot of money or more
+money than your average fish or be a
+bigger fish, right? And then within your
+ideal client profile. There are pockets.
+These are called segments. Now, these
+are subsets of your list. Now, within
+the pocket of the ocean that contains a
+lot of different types of fish, you have
+salmon, you have tuna, you have all the
+different types of fish that I am not
+aware of. Now, when you're fishing into
+these ponds, you want to use different
+bait or in the case of running cold
+outreach campaigns, you want to use
+different messaging. So, when you're
+building your list, you want to identify
+your total addressable market. What is
+everyone you can possibly reach out to.
+Now, within that, you want to define
+your ideal client profile, the people
+that are most likely to give you money
+and the people that you would ideally
+want to work with. Now, within the
+people you ideally want to work with,
+there are subtypes of people. So, I'll
+give the example. Let's say you are a
+medical billing company, which means you
+serve doctors. Now within doctors there
+are dentists which I don't know if
+that's technically a type of doctor but
+a person who works on teeth. You have
+cardiologists which works on the heart.
+You have radiologists that use x-rays
+and all kinds of fancy equipment. These
+are all different subsegments of your
+ICP. The way you would identify a
+dentist is not the same way that you
+would talk to a cardiologist. If you
+called a dentist a cardiologist or a
+cardiologist a dentist, they would look
+at you in the face and wonder what is
+wrong with you. Because those are
+completely different types of people.
+Just like if you were to try to give a
+certain type of bait for a certain type
+of fish, they might hate that type of
+bait. But for another type of fish, that
+is their favorite type of bait. These
+things are important for you to define.
+So this means step one, building a
+targeting system that consistently lets
+you target the right people is
+identifying your total addressable
+market. So this is step one. Who is
+everyone that can pay you money? In my
+case, I run a cold outreach agency. By
+the way, if you want to work with me,
+link in the description below. Now, all
+the people that work with me, they are
+B2B businesses. If you do not sell to
+other businesses, I very likely cannot
+work with you or 99% of cases. So, you
+are not part of my total addressable
+market. However, within B2B businesses,
+my favorite types of businesses are
+people that sell expensive things. This
+is my ideal client profile. So, while I
+can work with someone who runs a
+software that costs $10 per month, I
+would much prefer to work with someone
+who sells an enterprise software that
+costs $10,000, $50,000, or $100,000
+because they tend to get better results
+with our service. That is an example of
+my ideal client profile. So, people that
+have a high lifetime value. Now, I can
+work with someone that has a low
+lifetime value, like $10, but I'd prefer
+to work with someone who has a lifetime
+value of 5,000, $50,000, or $500,000.
+Now, within your ideal client profile of
+all those different types of people that
+have all those different types of
+lifetime values, you could have medical
+billing companies, staffing companies,
+marketing agencies, financial services
+companies, insurance companies, the list
+goes on and on and on. IT service
+companies. And so, these are the
+different segments. And so step three is
+to identify your segments. So step one
+total addressable market. Step two ideal
+client profile and step three segments.
+So these are chunks of people within
+your ideal client profile. And segments
+are ultimately going to be the list that
+you build in all these fancy tools. And
+once you have these kind of fleshed out
+and you know what this might look like
+is you know job titles, locations,
+industries etc. So if I want to work
+with maybe CEOs at in the US that work
+at marketing agencies, that could be one
+of my segments. Then another one of my
+segments could be, you know, marketing
+leaders in the US at marketing agencies
+or CEOs in the US at, you know, medical
+billing companies or whatever it might
+be. And so once you have this built,
+then you can go on to actually building
+your campaigns. I cannot hammer this
+home enough. This is the thing that
+truly makes or breaks campaigns. A lot
+of people want to be lazy and just blast
+a bunch of people. And that can work if
+you want to send a ton of volume, but
+you need to narrow down on all the
+different people in your market, the
+personas you want to work with, and then
+of those personas, the different ways
+that they would identify themselves. So
+that way you can write targeted
+messaging. Now, once you have this all
+figured out, now you can go into
+building out your, you know, kind of
+campaigns. Now, I'll tell you, the most
+successful campaigns typically have one
+of three things or multiple of three
+things. They either need to be super
+specific. They need to have a nobrainer
+offer or they need to have no
+competition on cold email. When you do
+what I just showed you here, you already
+checked this box. So, let's say you sell
+the worst service in the world and you
+have a bunch of competition. At least if
+you're super specific in your targeting,
+that can make up for a lot. But ideally,
+you want to have more of these things.
+If you're really specific and you say,
+"Hey, Josh, I saw you sell flowers. We
+help flower companies do X, Y, and Z."
+That is a lot more specific than saying,
+"Hey, John, I saw you breathe air." Now,
+from here, if you have a no-brainer
+offer, meaning, "Hey, I want to work for
+you for free." That helps a lot. And if
+you have no competition, which honestly
+you probably can't control unless you
+want to uproot your entire business,
+then you can't really control that. But
+point being is pretty much all of the
+successful customers of the 10 million
+or more emails we sent in the most
+successful campaigns, it's really just a
+factor of this. Meaning, this is how
+well your emails are going to convert.
+If you are super specific, which is why
+I walk through, if you have a no-brainer
+offer and you have no competition, times
+how many emails you want to send and ta
+that will help inform the amount of
+meetings you will get. Now, to give some
+real quick examples of all three of
+these, super specific, this example is
+what I kind of outlined to you. If you
+sell, call it marketing services. A lot
+of people sell marketing services, but
+if you go super super niche in your
+targeting and super super specific, you
+say, "Hey, John, I saw you sell wallets.
+you know, we've helped a wallet company
+do this to this, they're going to be way
+more interested. This is something that
+is tried and true, and this is a
+playbook we run for pretty much every
+one of our customers. A no-brainer
+offer. This has less to do with
+targeting, more to do with scripting,
+which we're going to get to here. But if
+you're willing to do something for free,
+that helps. We have a customer of ours
+that does consulting service, and in our
+emails, we offer basically a free trial
+of his service, and that converts three
+to five times better than when we didn't
+do that. And as a result, we are able to
+consistently book him 5 to 15 meetings
+per month. So that is why you want to
+have a no-brainer offer. And then no
+competition. Again, this is something
+you can't really control, but one of our
+customers, as an example, sells water
+over cold email. Now, I don't know a
+bunch of people selling water over cold
+email, but I would imagine that there's
+not a ton. And so, as a result, their
+campaigns perform really well. And when
+we add in a no-brainer offer and make
+our campaigns really specific, they get
+insane results. Meaning, they get like
+one interested response for every 20
+emails that we send. And the really cool
+thing is that after you build all these
+things, right, you sit down, you map
+your TAM, you map your ICP, you have a
+rough idea of what kind of campaign you
+want to build, all you have to do from
+here is head over to a tool like Apollo
+or Clay or a million other lead scrapers
+that they're out there and then you plug
+in the criteria that you kind of build
+out here after you sat through your
+campaign and you can scrape leads just
+like that. Cool. So now you've got the
+infrastructure so you can send your cold
+emails and you know exactly who you're
+going to target. But here's where most
+people screw up. They sit down to write
+the emails and they freeze. They maybe
+found a template online, but they don't
+know how to actually adapt it to their
+business. Or maybe they have no idea
+what works at all. Which brings me to
+system number three, which is the
+scripting system. Writing cold emails
+for most people feels pretty hard
+because they treat it like traditional
+copywriting. The reality is is that it's
+not. It's actually super simple, way
+easier than pretty much all the
+copywriting out there. And once you have
+the formula that I'm going to lay out
+here, you don't need to bash your head
+against the wall wondering why your
+campaigns don't work. Now, I see so many
+people when they sit down and actually
+try and write their cold emails, they
+write it like ad scripts and it shows.
+And just to show you an example, this is
+an email I just pulled from my spam
+folder. Dear Matthew Lucero, top tier
+journalist post expert queries on Forbes
+Entrepreneur and Business Insider then
+choose their source in minutes. Most
+marketing teams miss this opportunity.
+Company name monitors journalist queries
+24/7 responds 5 to 10 minutes
+automatically. Blah blah blah blah blah
+uses this this. Bottom line, actual
+results contacts us for a no obligation
+free trial. I don't know about you.
+Okay, I'm just skimming this email just
+to make this quick. This reads to me
+like an advertisement because they wrote
+it like an advertisement. I don't know
+about you, email in my eyes is supposed
+to be a channel that I use to talk to
+people onetoone. I'm usually talking
+like, "Hi, John. Saw you did this. Would
+love to chat. Go from there." Right? Hey
+Susie, you are late on the invoice. Can
+you please pay your invoice? You talk in
+a first person to first person basis.
+And what a lot of people I see a mistake
+that they do is that they write their
+emails as if they were talking to a
+crowd of people and it shows in the
+email. And I'm not very surprised this
+email land in the spam folder cuz a
+bunch of people probably got this email
+and said, "Hey, why are you sending me
+this email? This doesn't even sound like
+it's directed to me." Because you see,
+zero times in this email did even say
+the word you or refer to me other than
+my first name. They didn't even say, "Do
+you want a free trial?" They said,
+"Contact us." As if I reached out to
+them in the first place. Now when you
+write cold emails you need to write in a
+onetoone type manner and you should
+write as if you are writing in an email
+channel which means that you want to
+talk in a direct way. As you can see
+here this person wrote all this copy
+talking about all about their product
+but they missed the most important part
+of the email which is why should I care
+or how does this affect me or making
+this email personalized to me in any
+way. Now, I'm stealing this from Alex
+Hormmozi, and I don't know where he got
+it from, or maybe he came up with
+himself, which is your marketing
+messages should be clear, not clever.
+You want to be clear as to why your
+product or service matters to me and why
+I should respond rather than putting a
+bunch of different things just about
+your product in front of my face. And
+the reason why I realized this is
+because there's been so many times where
+I sat down and I tried to write these
+beautifully written, super long, cold
+emails that had all these fancy bells
+and whistles. When I sat down and I just
+saw that some of our best performing
+campaigns were emails that sound like
+they were fired off the hip or they were
+written to like a single person because
+they were. I just down and I thought,
+man, if I got on email, what would I
+respond to or what would make me think
+this was email was directly relevant to
+me rather than talking all about the
+product itself. And so the way I like to
+write cold emails kind of boils down
+into four distinct parts. So the first
+thing that you want your email is to
+call out the reason why you're reaching
+out. Now, a simpler way you could
+potentially call this is
+personalization. Hi, John. I noticed
+that you sell mugs. We help mug
+companies, right? So, that's already
+getting to the second point, but calling
+out the reason why you are reaching out
+to them specifically. Whenever I'm
+sending an email, the first thing that
+comes to my mind is, what is this email
+about? Why am I getting sent this email?
+And so, you want to answer that question
+as quickly as possible. And the best way
+to do this is just to call out something
+unique to them. Hey, John, I saw you
+sell mugs online. Are you looking to
+sell more mugs this year? Right? The
+reason why you're reaching out is
+because you saw they sell mugs and
+presumably you help mug companies do
+whatever. Now, this is just an example.
+The first thing you want to address in
+your email is the reason why you're
+reaching out cuz the first question that
+someone's asking themselves when they
+receive an email, especially an
+unsolicited email, why am I getting this
+email? Now, the second thing that you
+want to address in your email, your
+value prop or more specifically, what
+can you do for them? So, hey John, I saw
+you selling mugs. Awesome. That's the
+reason why you're reaching out. Then you
+want to talk about what you can do for
+them again quickly and succinctly. I
+help mug companies get their mugs in
+every major retailer across America and
+I can do it for you in the next 30 days.
+Right? There's your value proposition.
+That's one sentence long. So saw you
+sell mugs. Cool. Reason why you're
+reaching out. Next, what can you do for
+them? Hey, we can help your mug brand
+get into every major retailer in the US.
+Now the third thing after you tell them
+what you can do for them is you do a
+call to action. So, you want to direct
+them to the next set of actions, which
+might be a call, which might be a free
+trial, which might be a million things.
+So, you know, as an example, do you want
+to get on a sales meeting? That's how
+simple your cold emails need to be. Hey,
+John, I saw you sell mugs. We help mug
+companies get in every major retailer in
+the US. I'd love to do it for you. Do
+you have 15 minutes to chat? Right? Very
+quick, very simple. Now, there's
+obviously ways we can make it better,
+which brings me to step number four. The
+reason why I said that there's four
+steps is because the last step isn't
+necessarily one specific part of the
+email. It's that you go over your whole
+kind of email from the eyes of the
+recipient and you do objection handling.
+Now, the best way that I can describe
+objection handling is that you, the
+viewer, or you, the person writing this
+email, want to pretend you are the
+recipient. So, if I'm a mug company and
+I'm reading this email, what are the
+potential objections I might have? One
+objection I might have is who else have
+they done this for? And so, you might
+want to inject in your email, hey, we've
+done this for mug company A, mug company
+B, or mug company C. or hey, we've done
+this for 50 different e-commerce
+companies and so I'm sure I could do
+this for you as well. You want to answer
+their objections and usually the
+objections come down to trust and so you
+want to layer in some level of proof or
+I'll give a different example. This
+email that I got here talks about
+offshore staffing with strategic support
+and blah blah blah blah blah. And I I
+could dissect this email but I don't
+want to make this video too long.
+Another thing that is really common with
+people that do, you know, strategic
+staffing or advisory is can this person
+speak English? Does this person have a
+college degree? So you can answer those
+kind of objections in the email. So
+reason why you're reaching out, what you
+can do for them, call to action, and
+then once you are done, you want to
+answer and handle all the objections.
+This whole email framework can be
+somewhere in the neighborhood of two to
+four sentences long. You do not need to
+write big long fancy paragraphs because
+if you write big long fancy paragraphs,
+people are going to zone out. And so
+once you do that, you will have a nice
+simply written email. Now, I went ahead
+and put together a simple version of
+this email in a rough framework of what
+I'm talking about in the sake of time.
+And so, you can see what this looks
+like. Hey, John. So, you're a lead
+journalist at XYZ Corp. Do you want to
+respond to your queries quicker? We have
+a platform that autoresponds to all your
+queries in less than 10 minutes and as a
+result boost the average amount of
+sources you get by 200%. It's used by
+firms like X, Y, and Z. Can I send you a
+quick video demo? A lot quicker, a lot
+easier to digest and a lot more direct
+to me and the pain points what the uh
+product does, which I'm just guessing. I
+don't even know what this product does.
+I don't even know why I received this
+email, but just to show you an example
+of how you can kind of simplify this
+email and a framework of what this looks
+like. Cool. So, now we've got the
+infrastructure, the targeting, and a
+script that actually sounds like a human
+wrote it. But the next system is what
+turns replies into actual sales calls on
+your calendar, which brings us to system
+number four, which is the checklist that
+books sales meetings. Now, this is the
+part that I see no one really talk
+about. Most people lose deals and lose
+sales calls not because they can't get
+responses, but because they have no
+system for what happens after someone
+actually raises their hand and says,
+"Tell me more." And so, I've seen this
+happen time and time again where someone
+they'll get 10 leads, 20 leads, 50
+leads, almost none of them actually make
+it to a sales calendar. And so, what I
+like to do is whenever a lead comes in,
+the first thing you want to do is
+categorize the lead. Now, tools like
+smart lead instantly, email bison, and
+plus five vibe that I mentioned here
+earlier, you make this possible. They
+have autocategorizations with AI and all
+kinds of fancy stuff. Whenever they get
+those responses, it gets
+autocatategorized and then they leave it
+to die. I've seen so many people, they
+get an interested response, the guy says
+they want to get on a call or the guy
+asks for more information and instead of
+pushing them to a sales call and instead
+of making it easy, they just respond
+back and forth endlessly through an
+email chain and they don't actually push
+them to book a sales meeting, which is
+ultimately what they want to do. And
+another big mistake I see people make is
+they get someone say they're interested
+and they wait days to respond. Now you
+are reaching out to them. They are not
+sitting there begging to work with you.
+They just got a cold email and so you
+want to respond to them as quickly as
+possible. Ideally you want to respond
+within few minutes or within an hour.
+Now I would say in most cases you might
+not have a person glued to your screen
+uh who can respond within the second
+even within the day. Right? I'm setting
+the bar lower for you guys here. But if
+you respond within the day, you will get
+simply a lot more replies than if you
+respond 3 days out or a week out because
+they probably forgot who you are
+anymore. Now, to implement a proper
+appointment setting system, this isn't
+like a sales skill problem or some
+massive overhaul thing that you have to
+do. It's simply a checklist that you
+need to do to make someone who's
+interested actually turn into a call.
+So, here's the rough kind of checklist
+to being successful with your response
+management. The first thing is try and
+respond as quickly as possible. The
+quicker the better. Second thing is when
+someone asks you a question, answer
+their question. If someone says, "Tell
+me more info." Give them more info.
+Someone says, "Send me what your pricing
+looks like." Give them an answer to
+their pricing. It doesn't have to be
+direct, but you give them an answer. And
+then number three, after you answer
+their question, you want to pitch times.
+I see so many people, can you tell me
+more information? And they send more
+information back in their email, but
+they don't give them clear options to
+book a call. And as a result, they don't
+book a call. You just answer their
+question, and they're going on their
+merry day instead of you getting them on
+a sales call. So ideally you can sell
+them and make money. After you answer
+their question, you want to pitch times
+for a call. Now I like to kind of sell
+them on a call. You say, "Hey, I think
+we should get on a call for this
+reason." But in any case, you answer
+their question, you pitch times for a
+call, and then after you respond to the
+email, you follow up with them again and
+again and again. I see so many people,
+they get the interested lead, they say
+the response, they say they're
+interested, you follow up with them once
+and then they ghost, which is totally
+normal, by the way, but you need to
+follow up with them again and again and
+again. A vast amount of the sales
+meetings that I've booked over the
+lifetime of running my business have
+come from relentlessly following up and
+following up via other channels. As a
+business, we recently started offering
+kind of like a fractional SDR service
+where people on our team act as sales
+reps and call leads on our customers
+behalf. And we've found cases where we
+can quite literally double the amount of
+calls they book simply just by following
+up on another channel or in this case
+calling the leads. When someone says
+they're interested, you'd expect most of
+them to book. But a lot of these people
+have kids that they have to take to
+school. They have random deadlines they
+have to meet. And so when you respond to
+their email, they might forget about it.
+And so this is why you want to call
+them. You want to follow up on LinkedIn.
+You want to follow up on email. And you
+want to follow up multiple times. So
+many cases I see people get all the way
+to the finish line. They do all this
+work that I just kind of outlined here
+and they drop the lead because they just
+don't follow up. All right. So just to
+show you an example of what I think a
+good response looks like and what a bad
+response looks like. So, let's say
+hypothetically a lead responds to you
+and they say, "Please send me more
+information." What I see a lot of people
+respond with is something like this.
+"Hi, John. We offer digital marketing
+services at a flat rate for business
+owners like you. We recently helped
+another design firm 3x their leads and I
+think it could work for you, too. I love
+your website, by the way." You might
+think this is a pretty dry response, and
+it is. And I see a lot of people running
+cold outreach respond to leads like
+this. And John, this fictional
+character, probably isn't going to book
+a call with you. Why? Because you don't
+give him a way to easily book a call
+with you. He needs to respond to you
+back saying, "Can we book a call? What
+do we do from here?" Whatever. Contrast
+this with this. "Hi, John. Sure.
+Essentially, we help other design firms
+like yourself set up a digital marketing
+presence. We recently helped another
+design firm 3xer leads and I think it
+could work for you, too. I'd be happy to
+share a free road map. Are you free
+Monday at 3 p.m. or Tuesday at 1 p.m.
+for a quick chat so I can walk you
+through? Let me know and I can send over
+an invite." This option is very similar,
+right? I embellished it. I had a couple
+other things which may or may not be
+useful. The most important thing that
+most people miss is they miss this part.
+They don't pitch times and make it easy
+for the prospect to respond. This guy
+can come into this email and say Tuesday
+works and then you send over an invite
+and you have a call on your calendar. In
+this first option, this person is almost
+never going to book. I rarely rarely
+rarely see anything like this convert
+simply because it is not even possible
+for the guy to book a call without him
+responding again or clicking on your
+website or making this whole kind of
+headache instead of you just going out
+of your way and saying, "Hey, I'd love
+to chat. Are you free at this time?" It
+is so much easier to book calls if you
+just pitch time. And again, this is
+where the process just starts. A lot of
+people will send this, which I would say
+is a better response. And then guess
+what? It goes to you, which happens
+after this. You call them, you email,
+and you send them a LinkedIn message,
+right? You can send them a connection
+request. You do all these different
+channels. And then guess what? If they
+don't respond to this again, you hit
+them on all three channels. And if you
+don't respond again, hit them on all
+three channels. If they want more info,
+then you want to keep responding until
+they either tell you no or they get on a
+call. And whenever someone says, "Send
+me more info or says something that
+they're interested," that gives you free
+reign to follow up and follow up and
+follow up. And this is ultimately what
+separates the people that book more
+calls from their cold outreach to those
+who don't. And after you follow up with
+people, there's one last thing that
+separates the people who do this for a
+few weeks to people who build a real
+consistent pipeline, which brings me to
+system number five, the operating
+system. The biggest lie I hear about
+cold email is that it's a strategy you
+try. I can tell you firsthand, it's not.
+It's an entire system that you have to
+run. you have to manage and you have to
+have people who treat it like that. The
+people who are booking, you know, a
+dozen meetings, couple dozen meetings,
+50, 80, 100 meetings per month aren't
+people who are dipping their toes into
+it, blasting a couple emails here and
+there and forgetting about it. And to
+share a quick story, we have a customer
+who booked just about 100 meetings. I
+think it was about 99 meetings in about
+[music] 30 days. The way that this
+started was not us magically waking up
+one day and starting to send emails and
+the guy suddenly has his calendar
+flooded. We started at a thousand emails
+a day. We tested a bunch of different
+variations. We found something that
+works. Then we scaled to 3,000. Then we
+scaled to 5,000. And from there, we
+hired on people to call the leads.
+Through this progression, we were able
+to unlock new insights that allowed us
+to continue to scale. You know, just to
+give a rough timeline, phase one was
+them wanting to test the waters. Now, we
+could have started with higher volume,
+but most people don't want to dump tens
+of thousands of dollars into something
+they don't even know works yet. This
+person, they started with us. They
+started out smaller volume. We did this
+for probably three months. We tested
+probably five different audiences. We
+tested probably three different split
+tests of all the different variations.
+We tried a couple different call to
+actions. We tried a couple different
+subject lines, a couple different value
+propositions, a few different headcounts
+of segments. And through that time, not
+only did we find leads that were
+interested or the different ways that we
+could approach these people, but we also
+figured out leads that [music] closed.
+And from there, months four through six
+involved us scaling that process. So, we
+set up more email infrastructure so we
+could send 3,000 or 5,000 emails a day.
+We targeted more of the same leads. Now
+that we identified the lead pool, we
+started to push the limits of what we
+could tackle there and we started to
+expand out our targeting just slightly
+to accommodate that volume. Now
+throughout this process, we found that
+some leads that came through were less
+qualified, some leads that came through
+were more qualified. And from there,
+then we did another iteration cycle
+where we tried different variation
+messaging. We found something that was
+generating calls, but we wanted to not
+only generate calls, we wanted to
+generate deals. And then after month six
+or more involved us just rinsing and
+repeating, scaling it even more. And as
+a result, we started to add callers in
+using scripts that we found that worked.
+We started to follow up with leads now
+that we had this pipeline of thousands
+of people. And as a result, this allowed
+us to drive close to a 100 sales
+meetings in one single month just by
+doing outreach. And I can tell you this
+process took time to figure out.
+Whenever I first ran my first campaign,
+I thought it was as simple as you set up
+email accounts, you blast emails, and
+you kind of take it from there. But the
+reality is is that sometimes you might
+run email campaigns and you realize your
+first idea doesn't work. And that's
+where iteration comes in. Try different
+split tests. You try different audiences
+and you let the data decide. And
+ultimately, one thing that would have
+shortcut me faster is what I said at the
+beginning of the video is sending more
+volume so you can try more iterations.
+Now, listen, most people treat cold
+email like a one-time experiment. They
+say, "I'll try it for a month and I'll
+see what happens." And that's why they
+fail. And I'll tell you, it's not just
+cold email, it's marketing as a whole.
+I'm posting a YouTube video. Most people
+try posting YouTube videos for a month
+and it fails. And they are curious why
+things don't work. This is true not only
+cold email but of pretty much every
+marketing system. If you want it to
+work, you have to give it time. You have
+to test different audiences. You have to
+try different scripts. You have to find
+different variations that work well for
+you. And even if you start generating
+leads, I see so many people that they
+get leads, they get people on phone
+calls, but they don't give it enough
+time to close deals and figure out which
+leads drive the most revenue. And as a
+result, they drop their marketing and
+their business starts to stagnate. Now,
+if you want to grow with practically any
+marketing channel, but we're going to
+talk about this with cold email, you
+need to dedicate focus, time, effort,
+and attention, and budget to it. The
+people that win treat it like a system.
+They try new segments, they try new
+lists, they try new campaigns, they AB
+split test things, they run constant
+iterations. Just to give you an idea of
+what our typical process looks like is
+that we launch campaigns, we try
+probably two to four different campaigns
+in our first iteration. We let it run
+typically for two weeks, maybe one week
+depending on how much volume we send it
+through. Then we analyze the data. We
+look at the interested replies. We look
+at the replies. We look at the calls
+booked. We look at the all these
+different metrics that come through. And
+from there, we determine if we have a
+significant sample or not. And if we do,
+then we try more of different variations
+of what works. We analyze what the split
+test will work the best. We identify
+what leads work best. And then we do
+that over again. This isn't a process
+you set it and forget it. It's
+effectively you send a bunch of emails
+to a bunch of different variations, you
+look at the data, you find what works,
+and then you try more of the same thing
+and over and over and over you go. And
+so that's the process of building a
+repeatable cold email system. If you
+want someone to come in and build an
+outbound system for you, the
+infrastructure, the targeting, the
+messaging, the scripts, that's exactly
+what I do at my company. If you want to
+apply to work with me, first link in the
+description below. We don't accept
+everyone. We can get on a call and see
+if we're a fit together. And if you want
+to build out this entire system yourself
+completely for free, I show you the
+entire step-by-step process in this
+video somewhere here on the screen and
+you can check that out. So those are the
+five systems. Subscribe, go send some
+emails. Really appreciate you watching
+this video. No pass of luck.

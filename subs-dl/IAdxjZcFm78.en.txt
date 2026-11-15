@@ -1,0 +1,2007 @@
+So, I'm building a complete brand
+guideline system from a blank page for a
+real tech company, and you're going to
+see exactly how I build it step by step
+in real time. Now, my name is Jack
+Watson. I've been building brand
+guidelines and brand identities for
+brands doing eight figures to 10 figures
+a year, including the what brand
+guidelines. In this video, I'm going to
+be showing you exactly how we build a
+brand identity system for Riverflow, an
+AI startup with the best image editing
+model on the market. We're going to be
+covering logo rules, type rules, layout
+rules, and even extended color pallet
+rules that your team can actually use.
+Oh, and by the way, if you want my team
+at Non-Stop to do this for you, then you
+can book a call in the link in the
+description. Or if you're just starting
+out or you're a designer trying to build
+this for a client, you can steal my
+exact systems and templates with video
+lessons on how to edit them in the link
+in the description. Let's jump into the
+video. Okay, so we're in Figma. First
+thing we want to do is we want to click
+frame. We want to go to presentation,
+and we want to click slide. Now, we're
+going to be taking a look at some of the
+other brand guidelines that I've created
+in the past. We have one for and we
+also have one for Give Me Cosmetics. So,
+if we take a look at the one, we can
+see that we now have a layout guide of
+12 rows, eight columns, and what's that?
+30 margin, 24 gutter. And then again,
+the same here. So, let's replicate that.
+We're going to go layout guide. So,
+we've got eight columns with a 30
+margin, and a 24 gutter. And then we
+also had 12 rows with a 30 margin and
+also a 24 gutter. So now we've got our
+base grid which is going to be essential
+for creating all the other pages. And
+this first one's going to be our cover
+page. So I'm just going to title this
+cover. I'm just going to pull that to
+the side so we have a duplicate as well.
+Now before we actually start designing,
+we want to import our colors and we also
+want to import our fonts. So let's do
+that. You can see here we've got a
+little bit of a case study. This is the
+brand that we're going to be building it
+for. It's called Riverflow. We're just
+going to drag that to the side just so
+we can see how the brand looks in
+action. See if there's any more pages as
+well that we can take from. We have the
+color palette over here which we've
+created. And then I think we're going to
+steal this page as well because it might
+it might work for the cover page. So to
+add the colors, all we need to do first
+is click the color, click this grid
+here, click plus, then we click style.
+And then we can call this riverflow
+yellow. Now I'm just going to do this
+for all of the colors really quickly.
+You see they're going to be linked from
+the previous file. So I'm just going to
+read them by clicking again the four
+dot. Click plus style. Riverflow black.
+I'm just going to see is this the same
+color or is this a shade darker? That's
+the same color. Cool. Right now we've
+got all of our colors. You can see them
+on the right under color styles. We're
+also going to implement our fonts in
+here. So for the headline font, we had a
+font called Sands Plum. And this was a
+large font. So I'm just going to click
+that. And it was also always all
+capitals. And I believe we only used the
+condensed regular. So we're just going
+to keep that there. In fact, I'm going
+to make it even bigger. For our subhead,
+we used a font called Denton, and it was
+Denton Condensed, and that was actually
+in regular case. And then for the body
+copy, we used a font called Barlow. Just
+going to title that body copy. Cool. So
+now we've got pretty much everything
+that we need to build the brand
+guidelines. Um, so for the first page,
+we're going to be creating a cover page.
+And this could be pretty simple. I mean,
+all we're going to do here is change the
+fill color to probably riverflow black.
+It seems I put a few of them as variable
+colors, which is annoying. Might just
+quickly change that. Cool. Right. So,
+now we've actually got all of our
+colors. Let me just quickly reorganize
+those. So, we've got blue, peach,
+yellow. We'll put 500 there. And that
+should now be fully organized. Cool. So,
+we've got all the color styles on the
+right. We can always come back and
+change this once we've figured out our
+line heights. Cool. Right. So, now we've
+got our cover photo. We're next going to
+create I mean we could create an
+introduction page which has like a
+contents page on but I don't think it's
+necessary for this um just cuz I don't
+think there's going to be too much right
+now in here. We're going to have all the
+essentials but we're not going to have
+all the assets in there for example cuz
+they've not been created yet. So we're
+going to just start with a logo page
+next. And I think for the logo pages we
+are actually going to create them in
+this style. So a little bit more lowkey.
+We can bring in the subhead for this.
+And then we are going to make this the
+riverflow yellow as well. Cool. Right.
+So let's move on to the next page. going
+to make the background white. Then we're
+going to delete all the contents. And
+let's take a look at what we've done for
+the first page. So for the WP one, we
+just had the logo mark. And then we've
+also have some text as well. And then we
+also had a banner at the top. So let's
+create something similar. We're going to
+start with a line at the top here, which
+we need to get pretty accurate with. So
+if we can just make sure it snaps to the
+corner. There we go. That should be
+perfect. Click there. Then we can zoom
+in over here. There we go. That's
+perfect. I think we'll probably keep
+that at one pixel. It doesn't need to be
+big. And we're just going to make sure
+that the corners are rounded as well. In
+fact, we incorporated a lot of dots into
+the identity. So, what I'm going to do
+is just copy the properties of this with
+command, option, and C. And we're just
+going to paste it to this line as well.
+Now, we're also going to reduce the gaps
+in between as well, cuz they're looking
+a little bit big right now. I'm just
+going to make them 10. And then we're
+going to round the corners. Cool. That's
+looking good. And now, in the top left,
+we are going to put 1.1 logo logo mark.
+And we're going to put that 24 pixels
+down. So, if we just put 1.1, we're
+going to do this in Barlow, which is our
+body copy, cuz it's going to be really
+small. Then, we're going to do it about
+probably 20 works. Then we'll put it at
+the font medium. And then if we just
+select them both, we can make sure that
+it's about 24 pixels down. Yep, that
+looks good. Let's see what we did for
+the W one. We might have done a little
+bit closer for that one. No, we did
+about the same. Then if we just
+duplicate that across here, we need to
+make sure these are left aligned
+actually. So we'll just click that and
+we'll click that here as well. Here we
+can put logo. Going to make sure that
+both the letter spacings are minus2. And
+underneath it, we can put logo mark. And
+we're going to just make this a little
+bit thicker as well. Going to put it
+semi- bold. It's probably a little bit
+too wide apart. So instead of 15, we're
+going to drop it down to six. We'll put
+it as eight. Do we need it as eight?
+We're actually going to drop this down
+even more. Probably to zero. That looks
+better. Right. So now we're going to
+draw a box. And we're going to put this
+box about here. Should be good. We're
+just going to grab our rectangle tool.
+Draw that into the corner. And we're
+going to round the corners to about
+we'll put 20. We've been using 20
+throughout the brand identity. And then
+again, I want to have the same dotted
+line around there. So we're just going
+to copy the properties over. Make sure
+that we've got 20 rounded corners. Nice.
+That's looking good. We're probably
+going to change these colors later, but
+that's why it's also important that
+we've got these all selected. Then we
+can change them all at once. And I think
+if we were to do that right now, we
+probably put them at 50% opacity. See
+what that looks like. Maybe a bit more.
+I'm going to put 25. And I'm also going
+to drop the weight down to one. In fact,
+let's bump them up to 50. Let's bump
+them to 50%. And the top one can stay at
+100. And then we can add a text box in
+this side that can span to about here.
+And we can start to put a similar text
+in as the W one. And then make sure that
+we change it for this client. So, we
+need to take it back to the other font,
+which is Barlow, which we can copy in
+here. The left spacing is probably a
+little bit too narrow. So, we're
+actually going to make them all minus
+1%. And then we're going to change it to
+say the Riverflow logo mark is the core
+symbol of our brand. Should always be
+clear and easy to recognize. This is an
+English client now. So, we're going to
+make sure that we've got the UK
+spelling. And now we can actually add
+the logo into here, which is this thing
+here. Going to make it nice and big.
+There we go. And we're also going to
+make it Riverfall Black. And then next
+to it, we're going to drop a 60 pixels
+width version, which is going to be the
+minimum width. That's going to mean that
+we don't want to ever take this logo any
+smaller than 60 width because otherwise
+it's probably not legible. And I think
+we can actually make this a little bit
+smaller as well. Maybe we do something
+like that. Put that in here. And then
+next to it and have the small one. And
+then we're just going to draw a little
+box around it as well. We're going to
+make the stroke black. Make it one.
+Going to make it half of small. I'm just
+going to pop that around it. Then
+underneath it we can put 60 pixels. I'm
+just going to center align that. One
+last thing. Make sure they're all going
+to be riverfall black. So if we go down
+here, selection colors, you can see we
+have black selected. Just want to make
+sure that that's actually going to be
+the riverflow black because the
+riverflow black actually isn't
+completely black. So we need to make
+sure that we're staying consistent
+there. And nice. That's looking good. So
+again, you can see in selection colors,
+if we double check, there's actually one
+more thing that's not completely
+Riverflow black. So we're just going to
+make sure we change that. Now we can
+move on to the next page. So the next
+page is the logo type. So we're just
+going to change this at the top here to
+say logo type. Make it 1.2. And then
+we're going to say, let's have a look
+what we did for the W one. We're going
+to use some type like this. You can use
+Figma AI down here to rewrite it. So you
+can write something pretty vague and
+then get the AI to write it over the
+top. We find that it does actually seem
+very human which is good unlike a lot of
+the AI tools at the moment. So we're
+just going to change that to Riverflow.
+The Riverflow logo type is our full word
+mark. It should be used when the brand
+name needs to be clear and readable.
+Always present it in its original form
+without altering the type, weight or
+spacing. And then we're just going to
+make sure that we've got the same copy
+over here as well. So we can delete
+these. And now we're going to bring in
+our word mark which was nicely designed
+by Ian. Going to center this into here.
+I'm going to make that riverflow black
+as well. I'm just going to make sure
+it's centered. Probably make it a little
+bit smaller just so it fits in the
+middle of this. And then the last step
+is just to add the extra lines going
+from the top of the word mark to the
+bottom. Can actually probably delete
+these side lines to make sure that they
+don't clash. So if we just click that
+point, we can delete it. And on this
+side as well, click that point. We can
+also delete that. And then just make
+sure that it goes a little bit more
+narrow. So I'm holding option here and
+we're just bringing it a little bit
+inwards. Now we've got a perfect grid.
+So cool. This is starting to take shape
+a little bit now. Now, the next page is
+going to be the two together. So, we're
+going to copy that over. Going to make
+sure that we're renaming these as well.
+We've got logo, logo mark, logo type,
+and then logo lockup. So, we're going to
+delete this line, delete the Riverflow
+logo, and then we're going to bring in
+the the lockup. And again, I'm just
+going to make sure that that's aligned
+to the center here. And then we can also
+add these lines in again, which we're
+probably just going to copy and paste
+the ones in from last time. And then
+we're going to send to the back. I'm
+just going to change this to say lockup.
+And then we're going to bring in the
+text from the W stuff again. We're going
+to change that style with command C,
+command V, and then we're going to
+change this to say the Riverflow lockup
+combines the logo mark and logo type.
+Use this version when the full brand
+name needs to be shown alongside the
+symbol. Do not alter the spacing or
+arrangement. I'm just going to bring
+this down as well. And also, I'm just
+doing shift and enter here just to make
+this look a little bit better. The idea
+is that you don't want any like unusual
+ends to your text. So, you want to make
+sure that it flows nicely for the
+reader. And the last thing is just to
+change that to 1.3. Okay. So, the next
+one is going to be clear space. So,
+we're just going to copy that over. Now,
+a lot of people struggle with clear
+space, but it's actually really simple.
+First of all, we're just going to change
+these numbers to 1.4. Change this logo
+to clear space. And then we're just
+going to tweak the text slightly as
+well. So, we're going to say the
+Riverflow logo must always have clear
+space around it to stay visible and
+uncluttered. Use the height and width of
+the logo mark as the minimum clear space
+on all sides. Do not place text or
+graphics inside this area. So, the way
+that we can actually do this is by
+taking the logo mark. But, first of all,
+I'll show you what we did for the W logo
+mark. You can see that we have the logo
+here and then around it. All we've done
+is we've taken the logo mark and we've
+put it underneath it to the side and
+above it and then that creates the clear
+space so that if you've got a website or
+you're creating some brand assets, you
+can always make sure that you can export
+this logo inside this frame and it will
+always have the right clear space around
+it. So, let's do it. We're going to just
+duplicate this to the left and we might
+have to make a little bit smaller. We'll
+go back and tweak the next one. So, if
+we just bring that in, we might have to
+reduce it quite a lot. Go for that. You
+take the logo mark, put it above. Going
+to delete these lines for now. put it
+bel ab above. We can put it above. We
+can put it below. I'm going to put it to
+the side. And I'm just going to make
+these yellow just so we can tell that
+it's not anything to do with the actual
+logo mark. Let's go for it's not really
+legible. Yeah. You know what? We'll
+we'll put it in yellow or we'll just put
+it in the riverflow black and we'll
+reduce the opacity down to 25. The next
+thing that we want to do is we want to
+get another box. We want to put this
+around our original word, our original
+logo lock up. Sorry. We're going to
+change the corner radius to zero just to
+make it really clear. And then we can
+grab this, copy and paste it, drag it
+up. You can also drag this out covering
+the entire width. And then we just need
+one more which can go around the
+complete outside. And there we have the
+clear space. Now if I just want to
+highlight all of this, group it, align
+it to the middle. Sorry, align it to the
+middle of the box. Did the box move? I
+think the box move then just go back.
+Try and put it in the middle. Then we'll
+align it to the box. There we go. And
+then we can go back onto this page.
+Delete this. Paste that in. We can
+delete all the rest so that when we
+flick through it, it's going to look
+nice and consistent. So if we take a
+look at this now, we can click logo
+lock. And as we flick through, the clear
+space is nicely attacked. I'm just going
+to bring back these lines in here as
+well. There we go. Perfect. Now, the
+next thing I like to do is show the logo
+in color. So, we're going to delete the
+logo mark and we're going to create two
+columns now. They can go here. You see
+this is why we've got the grid so that
+everything can be made consistent and
+nice. And then we're going to change the
+copy as well. We're going to say the
+river the riverflow logo should only
+appear in and we're going to say
+riverflow black, riverflow yellow, or
+riverflow white. Now, for the brand
+rules, we're going to say use the
+riverflow black logo mark on light
+backgrounds and the riverflow white logo
+mark on dark backgrounds. And then we're
+going to specify do not use unapproved
+colors because we don't want anybody
+ruining the brand. And then we also want
+to make sure that because this is an
+English client, we have English
+spellings. And then we're just going to
+change this to 1.5. And then we're going
+to change this to logo color. Now for
+the color of this, we're going to use a
+white one for the fill. Riverflow white.
+And then we're also going to use a
+riverflow black. And we're going to put
+that appearance up to 100%. And then the
+same with this as well, 100%. And then
+for the outline, we're just going to
+we're going to put yellow just to make
+it really obvious. Um, let's go for
+let's go for a different shade yellow.
+Go for a dark yellow like this. In fact,
+I'm tempted for all of these strokes to
+now go for one of these colors from the
+color palette. So, I'm just going to
+select them all. Anytime where 50%
+opacity black happens, I think that we
+can actually go for Yeah, let's go for
+yellow 700. Got this last one to do. And
+then we officially changed all the
+strokes, which didn't take long. That
+looks better. So, now we need to just
+put our logo onto these pages here. So,
+we're just going to bring that in there.
+We're going to make it smaller. How
+small? Take a look. Probably that should
+be fine. Going to make it pixel.
+Perfect. If you're struggling to make it
+pixel perfect, maybe take it from this
+side. That usually works nicely. There
+we go. And then we can just center that
+in the middle. And then duplicate that
+across to the next one as well. We're
+going to make one riverflow white and
+then one riverflow black. And then we're
+going to make sure that the logo is
+actually yellow. Perfect. Okay. So, next
+we want to show them what to avoid with
+the logo mark, which is pretty easy.
+It's just creating some basic rules and
+showing them what not to do with the
+logo. So, I'm going to bring this one
+for reference just so we can see what
+I've done as we're creating it. Going to
+pop that up here. And then we're going
+to duplicate our logo clear space. and
+we're going to say 1.6 what to avoid.
+And then we're going to copy this text
+over. Make sure that we copy the style
+back as well. And we're going to say the
+integrity of the Riverflow logo must
+always be protected. The following rules
+outline common mistakes to avoid
+ensuring the logo remains clear,
+consistent, and instantly recognizable.
+There we go. So, we're going to get rid
+of this grid and we're going to build a
+3x two grid. So, we're going to start up
+here, and that should be fine. What
+corner radius do we have? 20. So, we're
+going to keep that consistent as well.
+I'm just going to copy these properties
+over. Duplicate that there. Copy them
+all. Hold option. and drag them down.
+We're going to go a little bit further
+down actually just so we've got room for
+the text. Let's see what we did here. We
+left a gap there for the text. Yeah. And
+then starting underneath, which is
+perfect. So, we're going to do that
+again here. Feel like we made them a
+little bit bigger. So, these are common
+mistakes that you see across pretty much
+every brand. So, we can actually take
+these and copy them for Riverflow. If
+there are any unique cases, then we can
+add them in as well. But, we'll see when
+we're creating these. Now, going to copy
+this text over, duplicate that down
+here. I'm going to put it in our font as
+well. And then we're going to use this
+box. And then we're going to take this
+box and put it across each one like
+this. Copy all of those. Drag them down.
+Perfect. Nice. And then to save me
+actually creating this logo, I'm also
+just going to pop this in here as well.
+But this is literally just two shapes.
+It's a circle. Sorry, it's three shapes.
+It's two lines with a 2.5 weight. And
+then it's just a circle in the
+background. And then we're just going to
+place that about 20 pixels from the
+bottom. We can actually measure it with
+shift and M. Drag that down here. So I
+can see there it's 20. Pop it up four. 1
+2 3 4. What's going on here? For some
+reason, it shifted my screen. Let's go.
+What's going on? Oh, it's cuz I'm in
+shift M. All right. So, we're just going
+to drag that up to 24. And then we can
+see from the side as well. We need to
+move it three. Going to go backwards.
+Perfect. Now, I can just copy that down
+here as well. In fact, I'm going to copy
+the entire box just to make it a little
+bit faster. And we'll actually just copy
+these over again just to the right.
+Perfect. So, the next thing that we need
+to do is just take the logo, which we'll
+use the black one to start with. And
+we'll just paste this into the middle.
+Probably divide that by two. And then
+I'm just going to center that to this B.
+And again, place that in the middle of
+each of them. Drag them all down. There
+we go. So, we now need to create the
+rules. Now, the rules we've got here are
+do not use different colors for the logo
+type and layout. We use that. Do not
+disproportionately stretch or warp the
+logo. Do not stylize or alter the logo.
+Do not scale or reposition the logo in
+any way. And do not place the logo over
+images which make the logo mark illeible
+or use any other color than black or
+white when being placed on top of an
+image. Let's just take our barlo and uh
+paste that across here. Make sure that
+we don't have any weird spacing as well.
+Going to draw that down so we don't have
+a widow word. And now we can get
+started. So, we're going to use some of
+our colors from the color palette here.
+I'm going to go for like two yellows,
+which will look pretty dull and dirty
+and not legible. Um, do not use
+different colors for the logo type and
+logo symbol. So, we're going to go for
+like a blue here and a yellow there,
+which could be a common mistake. Do not
+logo. So, we'll take this off and we'll
+just stretch it a little bit. Do not
+stylize or alter the logo, including
+outlining it, adding a drop shadow or
+bevel or any stylistic effect. So, we're
+just going to remove the color from
+this. We're going to add a stroke. We're
+going to add it to the outside. In fact,
+we're going to add it to the center. And
+then we're going to do the same for this
+as well. We don't want these to be like
+really unrealistic. So, we want them to
+look like somebody could actually do
+them. So, that means by not making them
+look really stupid. Like this is
+probably a little bit too wide. I'm just
+going to make it like a slightly
+stretched just in case anybody
+accidentally does that. I'm going to
+make this logo bigger. I'm just going to
+make it larger than the actual word
+mark. And then finally, do not place the
+logo over images, which makes the logo
+mark illeible. Just going to change this
+to like a blue. And then we're going to
+go over to the riverflow page. See what
+colors we've got. Sorry, see what images
+we've got. And we've got this one here.
+They could work. Uh, we'll go for this
+one. We'll make sure that this is a
+frame. And we're going to click content
+so that nothing can go outside the box.
+We're going to copy that. We're going to
+paste inside. And then finally, we're
+going to create 20 corner radius again.
+And we're just going to copy this stroke
+over to the frame. So now we've got a
+bunch of what to avoid which are looking
+good. Well, they're actually looking
+bad, but that's good for us right now.
+And the next page that we're going to
+create then is most likely going to be
+typography. So these guidelines work
+great as delivered. Now, another way you
+can approach this is to build your brand
+guidelines inside of Framer, the sponsor
+of today's video, if you want them web
+hosted. [music] This way, the team can
+actually access them from anywhere.
+Everything's interactive and live, and
+surprisingly, it's really easy to build.
+So, if you want to try that, you can get
+a free month of Framer Pro with the
+CodeJack W. And after this video, you
+can watch an hourong tutorial to see
+exactly how we build brand guidelines
+inside of Framer. And that link will be
+in the link in the description. Let's
+double check. Yeah, we did type for
+what? So, we're going to do the same
+format again for this, which is where we
+can really start to build more systems
+into the brand. A lot more useful
+systems. Anyway, going to drag this
+down. Still think we might end up
+changing this. I think at least we're
+going to just bump the size down a
+little bit. And then we'll start by
+bringing that in. And let's see what we
+do for the W one. So, I think the first
+one that we did was just showing the
+fonts in general, which was a case of
+just creating three boxes, showing the
+font family. Um, there's actually going
+to be a few different font families for
+this one. So, we're going to need a few
+different pages. If we take a look at
+what I did for GMC, where I actually
+created one for the primary font, one
+for the secondary font, and then one for
+the line heights. So, I think we're
+going to do something a little bit
+similar. So, again, we can delete
+everything on the page. We'll keep the
+text there just for outline. Get these
+emojis off the screen. And if we put our
+grids on, we can take this and we can
+start to split it into three. I'm pretty
+sure is. So, let's change this to 2.1
+now. And now we're on typography and
+this is actually our primary font. So,
+we're just going to make this say
+primary font. In fact, we're going to
+call this we're going to call this
+headline font because I wouldn't say
+this actually is our primary font. I'd
+say that the next font is probably the
+primary font. Going to change this to
+say riverflow uses and then it's called
+sandsplont. We're going to say for
+headlines and then these are fine as
+well. Then we can just bring this over
+here. Drop that down a little bit. Bring
+this up here. This can say headline font
+or it can say font family. Going to make
+sure that it's the right spacing down
+again. So, shift and m. So, it's the
+perfect space that way, but it needs to
+come down a little bit. I'm just going
+to nudge that down like that. You can
+duplicate this down again. Deleting one
+of the stroke. And we can do the same
+here. Again, deleting the stroke. If you
+want to delete these, all you need to do
+is just click them. They'll disappear.
+So, we're going to change this to say
+example copy. And then this can be
+character set. So, we're going to grab
+our headline font that we brought in
+earlier. Bring it into here. We're going
+to make this all black. Reduce it down
+to probably like 120. That should be
+fine. And we're just going to put sands
+plum condensed. We're going to make it
+medium. and probably fill it a little
+bit larger as well. So, I'm just going
+to plus 24. Yeah, that's looking fine.
+And then again, we'll just make sure
+that this is 24 from the bottom. Like
+34. Yeah, perfect. Cool. So, that's that
+one. For the example copy, this is where
+we pull in an example from somewhere
+like the website, which for this brand,
+it's actually called the eye with the
+creative eye. That's the motto. Sorry,
+the AI with a creative eye. You can also
+probably make this a little bit smaller.
+We'll bring this down to like 64,
+potentially 96. brought this below so
+you can see what it looks like. Then
+underneath it, we like to put the
+character set. So that's just ABC CD E
+FG. Have I got that right? Impressive if
+I have. Going to make that span across
+width of the box. Then we can always
+reduce this down to about 96. Y should
+be there. Yep, that's looking good. So
+that's our headline font. We're going to
+do the same now for our sub head font.
+And then for the text on the left, we're
+just going to change that to say Denton
+condensed. I'm going to head over to
+here, type in Denton condensed. I'm just
+going to draw a little box here just to
+make sure we've got corner right. There
+we go. Do that underneath as well. And
+then finally, we're just going to put
+the character set as well. And for this
+one, we're going to need the capitals,
+but also the lower case as well. So,
+we're just going to do a A B C. And then
+we're going to do 1 2 3 4 5 6 7 8 9 0.
+And again, we can just bring that down a
+little bit more. Need to go right to the
+end. So, we can probably cut it there.
+And we remove the box. So, I'm just
+going to draw this little square again.
+Keep it at 24 and align that with the
+bottom. There we have it. That's looking
+good. And finally, we have the font bar.
+So, we're just going to bring Barlow in
+now. And that is for our body copy font.
+I've just noticed this should say sub
+headlines. So, we're just going to
+quickly change that. I'm going to put
+barlow. It's actually the regular font.
+So, I'm just going to put regular. Then,
+I'm just going to manually adjust the
+letter spacing. I think that that looks
+fine. For this, I'm just going to take
+the copy from the website. Paste that in
+here. I'm going to copy that style
+across. Then, I'm just going to divide
+it by two potentially. Maybe even more
+to be honest because it's body copy.
+Divide it by two again. Yeah, that looks
+fine. Then I keep deleting this, but
+should really have this guide here at
+all times. Perfect. Going to drop this
+line here just to make it a little bit
+more balanced. There we go. And then
+finally for the character set, going to
+paste that in there. There we have it.
+So, that's now looking really good. We
+are now going to move on to the line
+heights. Before we move forward, I'm
+just going to quickly update these
+numbers here. I'm going to do the page
+numbers, the page names at the end
+because I keep forgetting to do those.
+Going to copy that over and then that's
+going to be our headline. So, the idea
+of this is that we figure out what the
+line height should be at the different
+sizes. So, for the copy, we want
+something like the line height
+recommendations are consistent across
+all typography. As a general rule,
+larger type sizes should use tighter
+line heights, while smaller type sizes
+should use more space for readability.
+Headings work best at 90%. Body copy
+should sit around 140, which seems to
+work quite well, but we might have to
+tweak that. So, we'll use this as a
+guide. And then, yeah, we'll see if it
+works. We're just going to bring this in
+here. We want to split this. We might
+add some more text, to be honest. So,
+we'll keep that. We'll make it a little
+bit smaller. And that's already looking
+pretty good. Let's try 90%. Yeah, you
+know what? 90% does look perfect. So,
+we're going to use 90% there. And we're
+going to put 90% at the top, just so we
+remember. The next one, we're going to
+say like 120%, but we'll see if we need
+to change that. And we'll make that
+Denton. So if we do go 120% might be a
+little bit too big. We'll try 110. Yeah,
+110 looks good. We're going to bring a
+bit more copy in there as well. So let's
+grab something from the website. And
+then we're going to do the same for the
+last one. So we just need to make sure
+that we remember to update this to 110%.
+And then for barow, we can bring in
+probably this text again. And the line
+height for the body copy is usually
+140%. And that's because it's usually
+also a lot smaller. There we have it.
+That's looking good. Change that to
+140%. Yep. So this copy still works as
+well because we do start from like 90%
+to about 140. Page looks good. We can
+move on to the next page. And the next
+page is type- relationships which can be
+a little bit tricky if you're just
+starting out, but it's actually quite
+simple. So a typeiz relationship looks
+something like this. We have the
+headline and then the sub head should be
+a proportion of the headline and then
+the same with the body copy. So for this
+example, forgive me cosmetics, the
+headline was 168 uh points. The sub head
+was the headline divided by four and
+then the body copy was the sub head.
+Sorry, it was the same height as the sub
+head. So let's see what we can do for
+riverflow. It's probably going to be a
+little bit different cuz every font is
+different. Um but generally it looks
+something like this. So let's just start
+to draw that here. Going to start with
+our box. Probably going to place it
+quite central in the page. Make it a
+little bit longer as well. I'm just
+going to drop it down a bit. We're going
+to bring in the text at the top left and
+the bottom left. So draw another 24 grid
+here. Same at the bottom as well. And
+I'm going to apply that probably about
+here. That should work nicely. Delete
+the original squares. And then we're
+going to bring the headline in which is
+our sands plum. Going to make it bigger.
+Even bigger than that. But yeah, at
+least 128. And then we're going to
+center that in the middle. I'm tempted
+to make it even bigger. What can we take
+this to? Just add another number 64.
+That looks better. Cool. And then we're
+going to just draw some lines on top of
+it. Best way to do this like we did
+before is create a box around the word
+mark or around the type. This shouldn't
+be touching the end. This should be
+coming into here. And then we can remove
+the fill, add the stroke, copy the prop
+properties with command option C,
+command option V. And then finally, we
+can just remove this last point by
+clicking into it, going on the pen tool,
+and just deleting these middle bits
+here. And then stretching it back out a
+little bit. Perfect. Right. So, first of
+all, let's note down that this is 192
+points. And I believe the letter spacing
+is zero. Say 0% tracking. Then we can
+put sand plunk condensed. And then we're
+also going to say medium as well. Oh, I
+think it's regular. Sorry. No, it was
+medium. Let's just quickly change this
+type as well before we forget. So for
+the line heights, you want to say
+something like this. This is obviously
+going to change, but should be similar.
+Headline should be set at X times the
+size of the title of subhead. The body
+copy rating can range from 50% to 100%
+of the subhead size, maintaining 0%
+tracking and avoiding all caps. So we'll
+keep that for now, but we need to note
+that we need to change this. I'm just
+going to pop some brackets around that.
+Okay, cool. So now for the subhead, just
+drag this over here. We're going to
+change that to Denton. Denton condensed.
+We don't want it all caps. And we're
+going to try and divide it by four cuz
+that's usually what works nicely for me.
+Let's see how that works. It's not too
+bad. We'll we'll might have to revisit
+this later when we try a few different
+layouts. 50% is way too big. So
+realistically, it's probably somewhere
+between 25% and 50%. And this can be
+flexible. So for now, we're just going
+to divide this by four because I think
+as a minimum, like I don't hate that. I
+think that looks good. And then maybe it
+could stretch up to what was 50%, 50%
+was up to that. So the headline, the sub
+head can go pretty much anywhere from
+that to that. Headline should be set at
+we're going to say two to four times the
+size of the title or sub headphone. So
+we're going to just put sub headphone.
+The body copy can range from 50% to 100%
+of the subhead size. So let's see if
+that works. So we're saying the body
+copy should either match this size or be
+from 50% of it. So let's try. Really,
+we're going to figure out this properly
+when we when we create them. Now
+matching it, I don't think we should do.
+So what about if we divide it by two?
+Divided by two. Yeah, perfect. So, we're
+going to actually say the body copy
+range from 50%. We're going to come back
+to that because I think it probably can
+go up to 75%. We'll um we'll test this
+properly later. And we'll make the
+letter spacing minus 2 and that's going
+to be we're going to put that as medium.
+So, at the top here, we can put 480%
+tracking again. And that's Denton
+condensed regular. Then for the subhead,
+we have barow medium, which is 24 points
+and minus 2% tracking. In fact, we'll go
+minus one. We'll go minus one. That's
+what we've done elsewhere. Let's just
+update that as well. And then we'll draw
+some more lines. Can probably just take
+a top one to be completely honest. I'm
+just going to copy that. Paste it in.
+We're going to just drag that to the
+top. This is half. So we're just going
+to take that halfway. And nice. This is
+looking pretty clean. So we're going to
+revisit this later because this could be
+wrong. But right now it's looking nice.
+We're just going to change that to say
+type size relationship. All right. So
+the next page that we're going to be
+creating is this typography page, which
+is a what to avoid page. Similar to like
+what we did with the logos above. This
+is what to avoid with typography. Now,
+some common mistakes are avoiding
+extremely tall leading for both text and
+the heading. Um, overly tight leading as
+well with crashing ascenders and
+descenders, overly tight tracking,
+overly wide tracking. Avoid mixed fonts,
+mixed weights in font, sorry. And then
+also don't set headlines in all caps,
+regular tracking. For us, we will be
+able to set headlines in all caps, but
+we won't be able to set sub heads or
+body copy in all caps. So, that's going
+to be where we change the rules slightly
+here. So, let's bring this one over
+again. I'm going to create a six grid
+this time, so we can delete the old
+stuff. can bring in this text. Make sure
+that we copy this style over. You're
+probably sick of hearing that right now.
+And then we're going to bring in a 6x3
+grid. So, we're going to start from
+here. Sorry. Yeah. We're going to bring
+in a 2x3 grid. Let's just make that a
+little bit wider. This should work.
+Yeah, that looks good. We're going to
+bring back our X from before. And then
+we'll just create a guide in the top
+left of each one. Make that 24 pixels.
+Make sure it's aligned. Do the same at
+the bottom as well. Bumping up by one.
+There we go. Then we'll do the same from
+the top. So, we're going to drag a text
+box from the top left. Put a couple
+letters in there. Make sure that that's
+aligned nicely and then we can start to
+bring our rules in. So for the text,
+we're going to again pull something from
+the website and then I'm just going to
+apply this to every page and then we can
+start to make the tweak. So for the
+first one, avoid extremely tall leading
+for both heading and body text. So we're
+just going to change that line height to
+if we go for like 180%. The next one,
+overly tight leading, we'll change that
+to 80%, overly tight tracking, make the
+letter spacing, we won't go too crazy
+with these. Again, we'll make sure that
+they could be realistic mistakes that
+people can make just by plusing to less
+spacing or minusing a few more than it
+should be. Mix weights and fonts. So,
+we're going to change this years to be
+extra bold. AI can be extra bold as well
+reliably. And then finally, we're just
+going to pop this in all caps. And we're
+going to change this to say subheads or
+body copy. Last little change. We're
+just going to change this again to 2.6.
+And we're going to call this typography.
+What to avoid. Delete that example. So,
+next we're going to move on to color.
+So, if we go back to our cover pages,
+we're just going to make a color page
+really quickly. Now, I always like to
+split the palette up into a core palette
+and an extended palette. If we take a
+look at the palette here, you see this
+is the core palette, and then this is
+the extended palette with all the
+different shades of yellow as well. Now,
+I would say that there's actually three
+palettes here. I'd say you have your
+primary palette, your secondary palette,
+and your extended palette. So, what
+we're going to do is we're going to
+split this across three pages. And I
+believe we did something similar for the
+WP guidelines. Yeah. So, we had the core
+palette, we had the primary palette, and
+then we had the extended palette, and
+then we did the color pairings, and then
+also what to avoid, and also color
+mismatches as well. So, we're going to
+do the exact same thing. So, I'm going
+to bring these in for reference, just so
+we can speed things up a little bit. I'm
+just going to bring these pages below.
+And then we're going to copy the copy
+over. First things first, let's change
+it to 3.1 now. And then we can change
+the top line to say color. And then
+underneath, we can call this the core
+palette. Now, similar to WP, we actually
+do have three colors as well. So, we're
+just going to replicate that. We're
+going to bring this text over. Copy the
+style across and then we'll change this
+in a moment. For now, we're just going
+to bring in the boxes. So, I'm just
+going to grab this box, duplicate it,
+bring it in here, and then we're going
+to span it across these three columns.
+One, two, three. Pressing command and D
+there just to duplicate it across. And
+I've accidentally gone in dev mode. If
+you accidentally go into dev mode, shift
+and D. That's going to get you back into
+design. Okay. So, color one, we're going
+to hit it with the primary color. And
+the primary color for Riverflow is
+Riverflow yellow. That looks really
+pale. That's because it's opacity 50%.
+Cool. Right. Let's just make those 100%
+so we don't make that mistake again. For
+the next color, we're going to go for
+riverflow black. There we have it. And
+then finally, we're going to go for
+riverflow white. And we're going to keep
+this outline just to show it. For the
+other two, we can just delete the
+stroke. So now we can change the copy.
+We're going to say riverflows core
+colors. And we're going to make that the
+UK spelling are riverflow yellow, which
+is F7E F-63. F7E F-63. F7E F-63. Then we
+have riverflow black which is 16179.
+And finally riverflow white which is
+FBFB4. And underneath we have these
+should be used as the primary brand
+colors across all applications. Do not
+apply do not replace them with
+unapproved alternative. Going to bring
+this up a line. And then we're just
+going to drop this down with shift and
+enter. That's looking nice and balanced
+potentially this. But is it going to
+ruin it? Yeah. We'll go back to the
+other layout. That's looking good. And
+then the last thing we want to add these
+little name drops at the bottom. So
+we're just going to bring this down
+here. Again, we're going to go for 24 as
+a spacing. Keep it consistent with the
+rest of the designs. And we're going to
+do the same as this layout. We're going
+to go name hex RGB. I'm actually going
+to go HSB rather than RGB because that
+is what we use to create the color
+palette. I'll show you why later on in
+this video. And then we're going to go
+8way F70 F63. And let's have a look at
+what the HSB is. 57 60 97. So, I'll show
+you really quickly why we do that. And
+the way that I like to pick colors is
+you've got to look at this arch. So on
+HSB, we've got the hue, the saturation,
+and the brightness. So what I like to do
+is to pick my other color palettes, my
+core colors, and even with the UI colors
+as well, we try and follow this arch
+along. So with the yellow, it's a little
+bit different. It's a bit harder to do
+because up here. So it kind of goes
+here, then here, then here, and then
+round. So this is the arch that we're
+looking at. But then when I've picked my
+other colors, which you'll see later on,
+you'll see that these are all in a
+similar position. And we wanted to pick
+our other shades for these colors. We
+could nicely go here, here, here, here,
+and then we'd have all of our web
+colors. Let me just paste this across
+here. I'm probably going to fast forward
+this cuz you don't want to watch
+me write all of the names in, but you
+get the point. It's just putting in a
+name, applying the hex code, and then
+doing the HSB as well, which is all
+found in this section right over here.
+HSB hex. And then you can put the other
+ones on as well, but I never really use
+them, so there's no point. Cool. So, now
+we've got the core page. We can just
+duplicate this across. I can now delete
+this marker. But this is going to be a
+five grid. So we're going to just make
+this a little bit smaller. What we can
+do is we can duplicate two more across
+like this. And then if we select them
+all and click the spacing to 24 and then
+drag them into the thing again, change
+to 24. And there we've got evenly spaced
+out. We can see here a problem that
+these probably don't fit. So we're going
+to make them all slightly smaller. I
+believe probably 16. In fact, we'll keep
+this page with nice big ones. And then
+for this one, we'll make them all 16.
+Make that align to the bottom. Then
+we'll bring this in a little bit as
+well. I think the other one was sick.
+I've just realized there's actually
+another two colors. So, we're going to
+have to extend this out even more. I'm
+just going to bring these other colors
+in. So, we've got the blue, we've got
+the dark blue, got the purple, and we've
+got the peach. And I'm just going to
+take the name back slightly. And then we
+can copy these across. Brilliant. And
+then we can change these to say make
+these white. And finally, delete these.
+And then we'll just quickly change them.
+Just going to make sure we remove the
+stroke from these colors here as well. I
+think it's just on that one. And that
+one. And that one. Perfect. And then we
+can bring in the new text. Drop these
+lines down because they look a little
+bit strange right now. And then we can
+change to say riverflow, riverflows main
+palette expands on the core colors with
+and then we can add the new ones. We can
+say blue. Add them values in as well.
+Dark blue, purple. These colors can be
+used for highlights, accents, and
+marketing materials. Always use them in
+balance with the core palette. Perfect.
+Just make sure that this drops down
+nicely onto the next lines. And then
+we'll call that primary palette. We'll
+make that 3.2. Nice. We're looking good.
+So, now we're going to have a look at
+the extended palette, and this is going
+to be the other shades of the colors.
+Now, if you struggle with picking
+colors, there's a really good site that
+I want to show you. Now, different to
+what Watt's done here for the extended
+palette, we're actually probably going
+to break this down per color. Now, the
+idea is that we have a 100 to 900
+selection of colors. So, this is one
+thing that you commonly do in UI. So,
+you start with like your middle color.
+If we started with this blue, for
+example, we would then have four more to
+the right and four more to the left. And
+these would gradually get darker to the
+right and gradually get lighter to the
+left. So, I've already done this for the
+yellow, but we're going to apply this to
+all the other colors. So, I'm going to
+show you how we do this. So, we need 1 2
+3 4 5 6 7. We need two more rows. And
+I'm just going to make that span to the
+end. Make sure the spacing is 24. And
+then we don't need all these blocks. We
+actually just need the top one going
+down to the bottom. So, for the first
+yellow, we have these shades of yellow.
+For this one, I'm probably going to put
+the stroker on the outside just to make
+it really obvious. Lost it. Maybe along
+this one as well. And then underneath
+it, I'm just going to center align
+these. And we're just going to place
+those 24 from the bottom. There we have
+it. And then I'm going to change this
+text later. But for now, we're just
+going to keep this like this. And then
+I'm going to show you how we do this for
+the other colors. So these are all the
+yellows that we've selected. And then
+we're going to do this for each one of
+these colors. So for the next page, I
+need to go back and do all the text
+later. So don't worry about that for
+now. We're going to start in the middle.
+We're going to start with the blue. And
+then if we want to go lighter, we can
+click this blue. Make sure we're on HSB,
+which is really important because then
+we stay at the same hue. And we're going
+to imagine there's still 1 2 3 four more
+steps to get to about here. So we've got
+1 2 3. It's going to be 1 2 3 4. So we
+want to go to about here. For this one,
+we want to go another inwards curving
+along that curve about here. Down a
+little bit. In this area, we want to go
+just a little bit more closer. So you
+can see the difference, but it's not
+much. And then finally here, we're going
+to go pretty pale like this. And then
+afterwards, we can just go in and
+manually tweak them. So, for now, I'm
+just going to increase that value, which
+is pushing it, right? And then we're
+also going to reduce the darkness a
+little bit. Check this one. Again, the
+brightness has to probably come down a
+bit here. Making sure this still
+following that curve along. That's
+there. Good. That looks good. Yeah. So,
+that's looking good on that side. And
+then for the darker ones, we just take
+it the other way. So, I'm actually just
+going to do this manually. I'm going to
+push it one. I'm going to push it about
+10 down. And then bit to the right as
+well. And then we'll do that again here.
+A bit down, bit to the right. Then we'll
+do that again here. Oh, wrong way. Bit
+more to the right. A little bit more
+down. And then for this last one, we
+could probably go a little bit darker,
+which will mean then I have to adjust
+the other one. So now that we know where
+the end point is, make sure that that's
+also a little bit darker. So you can
+tell a difference as well. So we might
+actually have to make that a little bit
+lower. There we go. That's looking good.
+Now there is another way to do it. So
+I'm going to show you the other way to
+do it with another color. So we're going
+to pick our middle color again, which is
+dark blue. Now, if we go to a site
+called color-hex.com, and we type in the
+hex code, which in this case is 494, and
+click get info, you can see that we have
+all the shades and all the tints. So,
+we've got our main number, which is
+4943B5,
+which is this one. And then we can work
+our way backwards, and we can work our
+way forward. So, we need four going up,
+going down. We need four going down, we
+need four going up. So, I'm just going
+to copy those values in now. So, on the
+lighter shades, we have this one. For
+this one, we can put this. I'm just
+skipping it by two every time. And then
+at the very top can use this one. And if
+we go backwards as well, you see that we
+now have our shades of our dark purple
+as well, our dark blue. And then we can
+keep doing the same till we have all of
+our colors. So we're just going to take
+our middle value again. Click purple.
+We'll go for the darker ones first this
+time. Again, going from the website,
+going for the lighter ones, too. And the
+reason why we have all these colors is
+because when you're actually designing
+this on the website, you need to have
+different shades of each color. Um
+because otherwise your website can look
+a little bit bold and wacky. So I'll
+show you a little example up here. You
+can see we've actually gone and selected
+a bunch of different blacks and grays
+because otherwise the if the strokes
+were all bright white or black, it's
+going to look a little bit too bold. Can
+you see? So, we make sure that we have a
+bunch of different colors. So, then we
+can click black 300 if we wanted to. Or
+the same again with the colors. Like for
+this one, if we didn't have a different
+shade of yellow, then this button would
+probably look a little bit empty. We
+just take away the fill there. You can
+see it just doesn't really have the same
+impact. And then finally, we've got the
+peach color. I'm just going to select
+the peach. And then we'll do the same
+for this as well. Okay. So now the
+colors are looking really nice. I'm
+happy with the entire color palette. Um
+there's potentially some grayscale
+colors that we need to add as well. So
+I'm just going to add the whites and the
+blacks doing the same thing. And then
+we'll jump onto the copy and then we'll
+create the rest of the guidelines out.
+So the way that I've actually built this
+one is I've created the dark mode UI
+above and the light mode UI. And then
+I'm going to create the dark mode and
+light mode UI palette underneath it as
+well cuz there's different shades of
+dark and different shades of light. Um
+you find this in quite a few softwares
+as well. So, it's just about figuring
+out what colors work for this and then
+being able to add them to the guidelines
+just so that the the client knows
+exactly where to use all of these
+colors. Okay, cool. So, now we've pretty
+much got all of our colors. We've got
+our core palette, we've got the primary
+palette, we've got all of our shades of
+all of our different colors, which now
+we'll be able to build pretty much
+anything. So, the next thing that we
+want to do is have a color pairings page
+straight after it. And we've already put
+them together. I'm not going to go
+through absolutely all of the pairings
+here. Um, but we are going to include
+these ones which are the primary colors
+and also the shades of yellow. So, I'm
+just going to pop that up here. We're
+going to duplicate that across. And
+then, how many have we got here? So, we
+don't need that one, which means that we
+can move that one here. Move them above.
+We have two more duplicates there as
+well. We can bring that one down. That's
+a duplicate. We'll have something like
+this. So, we need at least 3 6 9 12 15
+18. So, probably a 6x3 grid. We could
+probably get away with this. In fact,
+yeah, let's go for this because we've
+got enough colors. So, we just need to
+reduce it by one of these. Make the
+spacing 24 24. Drag that in. Perfect.
+Now, if we remove all the strokes here,
+we should have enough colors to make a
+color palette. So, let's start building
+out. We're going to start with the
+basic. So, we're going to start with
+roofflow yellow. And then we also need
+to add the the middle part as well,
+don't we? Going to make that smaller.
+We're going to duplicate that across
+each of them. Send these to the back.
+And then we're going to copy these down
+four more times. Now, all of these can
+get pushed to the back. Same with these.
+And we can start building out our color
+palette. So, our color pairings are
+going to be black with yellow. And then
+we can start doing our lightest to
+darkest. So, we've got a lightest color
+of yellow, our darkest color of yellow,
+the second lightest, the second darkest.
+Going to have yellow 300 with You just
+want to make sure that they have enough
+contrast between the two squares. Then
+we can start to bring our secondary
+colors in. We're just going to bump
+these up. It makes sense to have this
+one here. And then finally, we're going
+to take some of our shades. So, we're
+going to go for our light pink, dark
+pink combos. Go for our dark purples.
+Right. So if we take a look at the text
+now, I'm just going to bring over our
+style again and then we can make this
+say the riverflow colors can be used in
+a range of approved color pairings from
+the main and extended palette. Always
+ensure there is enough contrast between
+the asset and the background for
+clarity. Do not create unapproved
+pairings. I'm just going to make sure
+that this is actually properly going
+across all of our text. Going to drop
+that down. And then also going to drop
+that down as well. And we can call that
+color pairings. We've got light mode UI,
+dark mode UI. We have peach, purple,
+dark blue, blue, and finally yellow. So
+you can see how our guidelines is
+starting to come together now. It's
+starting to look a bit more like a brand
+which is great. We got all these lovely
+colors and eventually we're also going
+to have a bunch of layout rules as well.
+So we're about halfway through the brand
+guidelines right now. We're just going
+to add the do not do for the colors as
+well, which is no gradients and also no
+color mismatches. So let's just quickly
+add those on. And then I'm just going to
+run back and add all these colors. This
+is really simple to do. All you need to
+do is go into it, add the hex code. You
+can do that for all of them, but it'll
+be a bit boring to watch. So, I'm going
+to do that privately, then I'll come
+back when it's ready. Right. So, for
+gradients, we're going to say something
+similar to like we did on the W one. I'm
+just going to drag this over here. So,
+all we do for this custom gradient. I'm
+going to make this lighter. You often
+find a lot of gradients in AI brands,
+but we need to make it really clear that
+we're not actually going to be doing
+any. There we go. So, we have the
+gradients not to do. And I'm just going
+to paste this in the top corner. Put it
+along each one. Then, we can send all of
+these to the back to bring them through.
+And I'm just going to flip them so that
+the thing is right. I'm just going to
+make them the right way around just so
+that the gradients at the bottom are
+actually relevant. The codes at the
+bottom are relevant to the gradients
+like this. And then for the text, we're
+going to do something similar saying do
+not use gradients in the Riverflow brand
+identity. Now, I'm not going to put a
+color mismatch because I don't think
+it's really necessary. We've shown what
+you can do. Um, we've been quite clear
+here saying that always ensure there's
+enough contrast between the asset and
+the background for clarity. So, I don't
+think we actually go need to go away and
+put a mismatch as well. I think that
+should be fine. Can delete those. Now, a
+quick tip. I'm just going through this
+now and changing all the colors. Let's
+have a look at how we actually use Figma
+AI to change the copy because it is
+really powerful. So to rewrite this,
+let's say change this to showcase all of
+the different shades of yellow from
+yellow 100 to yellow 900 brackets
+riverflow black. Then we'll see what it
+comes up with. Perfect. And then we'll
+just change that to be the UK spelling.
+Nice. Yeah. So that works nicely. And
+then we can take that into all of these
+ones, but then just change it to be the
+colors that we're talking about. Okay,
+we're finally looking good here. We just
+need to change these numbers. So, we've
+got 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8,
+3.9. I say 3.10. And that's looking
+good. That is looking good. Probably the
+only thing I need to do here is just add
+a stroke around these ones. Now, we're
+good to go. So, this next section is
+really where we start to put in the type
+size relationship and the type rules to
+test. And it's by creating some layout
+styles. So the idea is that we create a
+responsive layout system where based off
+certain calculations, we make sure that
+no matter if we've got a billboard or
+we've got an Instagram post,
+everything's going to look consistent
+and ultimately cohesive. So we're going
+to try that out now. So let's just take
+this and we'll create a layout section.
+Which one should we use as reference?
+Not this one because that's got a pretty
+unique style. Um the W one potentially.
+I mean it's probably going to be mainly
+left aligned rather than center aligned.
+So, let's take a look if we've got any
+other examples. Now, you can actually
+get access to these example templates
+and files. Um, link in the description
+that will take you down to the what page
+and you'll be able to purchase all these
+examples and customize them yourself.
+Steal the layouts. Do whatever you want
+with them pretty much. So, let's take
+these cuz I think this could probably
+work quite nicely with a little bit of
+tweaking. I'm just going to drag them
+below. Okay. So, the first thing that we
+want to do is name the cover page layout
+that slightly as well. That looks cool.
+Right. So, let's pull this page down
+from above. I'm going to name this 4.1.
+I'm going to start this with margin
+construction. I'm going to call this
+layout. Then we're going to make this
+4.1. Now, we'll take this text just in
+case it does work. And I think for the
+ease of time, I'm just going to copy
+these over just the boxes. We're going
+to do this in dark mode just to make it
+really easy to see. And we're going to
+try these rules um which I've used
+across a few different guides now. And
+that is to take the longest side of the
+artboard, divide it by 25, and that will
+give you a margin that can scale scale
+proportionately across all the
+applications and formats. So let's have
+a look and see if that works. So for
+this one, we have a width of 683. And
+these can be any size. That's the beauty
+of this. So whatever size you've gone
+for, that's fine. I'm just going to draw
+arrow over here. Going to make that
+stroke dotted white. That makes sense.
+And then we're going to make this white.
+I'm just going to make the end an arrow
+as well. Then we'll just reverse that.
+Control V. Command V. Command C. Command
+V. This doesn't seem to be centered. So
+I'm just going to center it. Then I'm
+going to reduce that again now. And then
+we'll try again. Command C. Command V.
+Flip that across. Now they're nice and
+so that's the width. Now to determine
+the margin like it says here we divide
+this number by 25. So let's take a look
+at what that is. We go 683. We'll make
+sure this is perfectly square. Then
+we'll go 683 divided by 25. That equals
+27. We're going to pop that in the
+corners here. And then again using a
+dash line which we're going to just take
+from here. Going to copy it. Going to
+get rid of the arrow head. And we're
+just going to drag this across like
+this. Can delete those. Drag that across
+to this side as well. And we can also
+ring this in a little bit. Cool. Now we
+also need to apply that to the top. So
+I'm just going to duplicate this over.
+Drag it to the end. Bring it in a tiny
+bit. And then there we go. Now in this
+corner, going to pop 27. And then we'll
+put it at the top as well. I'm just
+going to center align that. I might even
+make this a little bit smaller. We'll go
+for 14. Just make sure that that again
+in the center of here and also in the
+middle. And on this side again, put in
+the center middle. And that's looking
+good. Now remember, we're taking the
+longest side and dividing it by 25. So
+for this one, it's actually going to be
+846.
+So I'm just going to grab this again,
+pop it in the middle of this, change it
+to 846. Now we're going to take these
+lines one more time to move them over
+here. And then we're going to calculate
+what the margin should be. So to do that
+again, all we need to do is get our
+rectangle and we'll do 846
+/ 25. And we've got 33. Well, we've got
+34 when we round it up. We're going to
+pop that here. Then we can take these
+lines and we're just going to bring them
+across here like that. Then we can grab
+these two again. And we can just put 34
+in this side and 34 here. And then
+finally, we can do the same here, which
+is 682. So it's going to be the same as
+the other one. It's going to be 27. So
+there we have it. Now we have our base
+margin construction. The next thing that
+we want to do is we want to apply our
+headline. So, as we mentioned in our
+type size relationship before and I
+actually came across this method from I
+think it was the Burger King brand
+guidelines, but I tried it in one of my
+clients and it was just really effective
+that it sort of just stuck around. So,
+we're going to keep on using this. Sorry
+Burger King if you're watching this, but
+really effective guidelines you've got.
+In terms of the copy of this page, we're
+going to say headlines are applied to
+documents relative to the margins,
+format size, and line length. Use these
+examples as reference for setting
+headlines across various application
+formats. Nope. the cap height of the
+headlines touches the top of the margin,
+the ascenders are allowed to protrude
+above it. So, let's just whack this in.
+Now, we're going to use our sand plum,
+actually. So, we're just going to drag
+this in from above. We're going to make
+this white. And we're just going to put
+the AI with a creative eye. Now, we're
+going to figure out what size looks
+good. So, I think 128 probably going to
+work for this. What I've done below is
+I've actually split the grid into threes
+and then span it across pretty much the
+first two, I believe, for these. Maybe
+not. I think maybe what I was thinking
+something like this. Yeah, we'll do that
+anyway. So, to actually figure out a
+good size, we can split this into three.
+I'm going to draw a grid here. Divide it
+by three in terms of the width and
+duplicate this across three times. And
+then if we really want, we can just make
+this into a stroke. And then I'd
+probably turn down the opacity of these.
+Evenly distribute these at the top.
+There we go. So, right, let's take a
+look at this. So, we can actually just
+span this across the three lines like
+that. And then we can figure out what
+size we want it by either going for one
+line. Do we want two lines? Do we want
+three lines? We'll probably go for three
+lines. So, we're going to pick that one.
+We're going to use the line height from
+before, which was 90%. Let's give that a
+go. Nice. That's working. Make sure that
+that's properly aligning to the top left
+corner. And make the font size a little
+bit bigger. There we go. We'll do the
+same on this side as well. We'll bring
+in these grids. Going to make sure that
+they're evenly spread though. Clicking
+this, this, this, and this. And then go
+into distribute horizontal. Perfect.
+Yep, that's looking good for this one as
+well. I mean, maybe we bring it a little
+bit bigger because it's taller.
+Something like that. Then finally do the
+smaller one which can look something
+like this. Cool. Right, that's looking
+good. So the next thing that we want to
+do is we want to test our body copy out.
+Just going to change this title really
+quickly to headlines. Yep. So the next
+page we want to figure out our sub heads
+or our body copy. Probably our sub
+heads. That's why as well I'm actually
+thinking that maybe we do go for just
+two lines. Let's let's just tweak that
+last page. We do actually want it to fit
+in like this. I'm going to let this one
+overspill. Cool. So let's take that
+across. Then the next thing I'm going to
+do is figure out the body copy for this
+thing. So to do that, just going to
+duplicate it down, go to our font,
+Denton condensed, and then we're going
+to divide it by four, which was our rule
+from before. So the rule that we created
+before was that the headline should be
+two to four times the size of the sub
+head, which means that this can be
+anywhere between 50% to a quarter of the
+size of this. So let's bring in some
+copy. For the line heights, I believe we
+said 110%. Yep, we did. Let's make that
+110. It's looking better. And I mean,
+this isn't too bad, but we can go a bit
+bigger cuz we can go anywhere up to 50%.
+So we can go anywhere up to 54. So let's
+have a look and see what could work.
+Maybe 32, which I think pretty much a
+third. So we we'll see how that works
+across all of them because I mean if we
+want to change the rules we can do and
+we can make it so that the sub head
+should always be a third which would be
+pretty unique if that worked across all
+the ones all the touch points. So we're
+just going to drop that line below and
+yep that's looking good. Now we can
+apply the same stuff here as well. So
+we've got 135 and we'll do divided by 4
+which is looking good. Now what about if
+we did divided by 3? Let's try it. So
+135 divided by 3.
+>> Maybe that's the maximum. So I'm going
+to say I'm going to go back over here to
+the type size relation. I'm going to say
+that headline should be I'm going to say
+sub heads should range from from 25% to
+33% of the headline. The body copy can
+range to from 50% to X of the sub head
+size maintaining minus one tracking.
+Cool. Yeah, that looks good. So that
+works. So that can be anywhere from here
+to probably like here. Let's just show
+that. So we'll do 192 divided by 3.
+Right. Look at that. Pretty much bang.
+And then we're just going to make that
+10% and we're going to put it to the
+back. That works. Nice. Right. Our rules
+are coming together now. So if we go
+here, we'll test that one more time
+above. We've got 64. Do 64 divided by
+three. Yeah, that's looking good. So the
+main thing when creating brand systems
+is figure out what looks good first and
+then reverse engineer the maths behind
+it. Then you can have a complete
+responsive system which hopefully will
+work every single time. This is looking
+nice. So that's for the subheads. And
+then we have the body copy. So for the
+body copy, we're trying to figure out
+the same thing. We're trying to figure
+out what looks good and smaller. And the
+rule that we had before I believe was
+the body copy can range from 50% to x%.
+So let's figure it out. So we're saying
+that bar low, which is our body copy,
+divided by two should be fine. But it
+can also scale up. So this should be the
+minimum. But we we are saying that it
+can go bigger as well. So let's give it
+a quick try. We're going to use this
+text here. Might be a little bit too
+much text. You probably wouldn't want it
+any bigger than that. So I think that
+should be probably a maximum. Let's just
+try it here as well. 45id 2. You
+definitely wouldn't want it bigger than
+that. If anything, you'd want it smaller
+than that. You know what? It doesn't
+look too big. So, I I think that it's
+working so far. If we look at that, I
+think that looks pretty balanced. But
+what we definitely don't want to do is
+go bigger than that. These look really
+good. These do look good. So, I'm going
+to say that that's just fixed. It should
+be 50% of this, which this one already
+is. So, the body copy should be 50% of
+the subhead size, maintaining minus one
+tracking, and avoiding all caps. Looking
+good, right? The rules are coming
+together now. So, let's just steal this
+text really quickly. So we have sublines
+are applied at relative to the headline
+as stated on page 2.5. Body copy should
+be at let's say sub headline should be
+at maximum 33% of type size of the
+headline to ensure proper hierarchy.
+Brilliant. Also another thing that I
+forgot to show you really quickly. Um
+when trying to determine the space
+between the headline and the subhead I
+usually just use the margin which is 27
+to be precise. So we can do that. Bump
+that up. And then the same here as well.
+This should be 34. Make it 34. We can
+delete that. Delete that. And I'm just
+going to push that along here. Then
+we'll bring in the body copy again.
+Nice. Right, that's looking good.
+Looking really good. Next thing we're
+going to do is add the logo mark. Now,
+to add the logo mark, pretty simple. I
+usually do double the margin size for
+the width. Um, let me show you how that
+works. So, we'll take the logo. We have
+27 here, but we know that the logo
+minimum size from before, if you
+remember, is actually 60 pixels. So,
+we're going to have to go a little bit
+higher here than the calculation. So, we
+can put in 60. We'll make this yellow as
+well. Come on, I've lost in between.
+That can be 60 there. And also 60 above,
+too. And then here it's actually going
+to be 68 cuz it's going to be the width
+of the margin times two. Going to go 68
+a little bit bigger. But then that gives
+us our logo placement. So now you can
+see we have a flexible system which
+makes these nice artboards for any size.
+And I want to show you what else we can
+do with that. So let me just bring in
+some text again. First of all, we need
+to do the body copy text. So again just
+bringing in the rules from before. Sub
+headlines. We're going to change this to
+body copy. Body copy is applied relative
+to the headline as stated on 2.5. Body
+copy should be set at I'm just going to
+put 50% of the type size of the sub head
+to ensure proper hierarchy. And then for
+this one we have our logo is generally
+applied at the bottom right. The width
+of the logo should be 2x the margin
+size. This ensures that our logo
+proportionately scales with each
+application. For billboard use the logo
+size can be increased for visibility.
+There we go. That's looking good. And
+then now we'll take away some of these
+guides and I can show you what it looks
+like. So first of all just going to
+delete all of these cuz they're a little
+bit bold right now. You'll see we now
+have a a balanced artboard rather than
+just guessing, which is where a lot of
+brands go wrong. And this is why many
+brands hire us to create these brand
+guidelines because otherwise you're
+going to be guessing at all of your
+sizes and things are going to look
+inconsistent. Whereas they can look like
+this instead. Now, if we want to take
+this one step further, take some of
+these words and we can apply the
+riverflow yellow. Nearly said non-stop
+yellow. Then the riverflow yellow to
+these. And now we have a more of a
+appealing billboard. But we're not
+finished yet cuz we can actually spice
+it up a little bit more. If we wanted to
+bring into like some of the brand assets
+that we've created, we could also apply
+like um what we've done here, this mask.
+Going to show you a quick example. I'm
+not actually going to apply it to this.
+I'll take it off, but I'm going to show
+you what we can actually do here. So, if
+we just bring that in, you can see how
+this would work. And we can actually
+change this to be whatever color,
+whether it was darker or if it's blue,
+maybe we had it like medium or
+something, and we'd figure out what
+color actually works there. Maybe it's a
+case of putting a shadow behind it and
+see how this is starting to shape up
+really nicely and create consistent
+assets for the brand. You know what?
+We're actually going to leave this there
+because I think that it's a good example
+of how the brand can look. I'm just
+going to make sure the corner radiuses
+are the same. Yeah, look at that. It's
+looking nice now. And then this also
+translates to half frame photography.
+So, if we make one more page here, and
+if we were to delete all of the stuff
+off here, connect these two, could make
+these corners on the right zero, drag it
+behind this layer, we have this nice
+overlay effect. Then we can take a
+picture like this, use it as a mask, and
+then now we have a half frame billboard.
+That's probably not the best photo to do
+it with. Maybe if I change this
+background just to like the riverflow
+black could look a little bit better.
+And then even just got rid of this im.
+Yeah, there we go. That's looking fire.
+And then we can also bring back the
+yellow logo there as well. And we've got
+like you see a flexible system. So now
+we are getting somewhere. We've got the
+type size relationship. We've got all of
+the colors. And now we have a layout. So
+already with this we can create a bunch
+of brand assets. Now the only thing that
+we need to add now is how to actually
+create the brand assets. As you've seen
+we've got something going on here. We've
+got like this like prompted text mixed
+in with these like blurry gradients
+which are overlaid with like a gradient
+map. So, we need to tell the staff
+exactly how we created these. But before
+we do that, we're going to actually just
+quickly update this copy right here.
+That one's done. By the way, if you do
+do rough text like this, and you can go
+down here, rewrite, and you can say
+clean this text for brand guidelines. I
+love this prompt. I do this all the
+time. Maybe because I'm lazy, not sure,
+but it works. And then if it looks too
+short like this, you can just say make
+it longer. showcasing our layout after
+we apply our brand asset to enhance its
+structure and usability. Nice. That's
+looking good. Then the final page is the
+half frame photography. So we can just
+bring that in from our previous
+guidelines. And we can say when the
+dimensions of the application permits
+edgetoedge photography can be added.
+Ensure that the proper margin is still
+left between the text frame and the
+photo. This is looking really good. Now
+I can delete these. And normally this
+would pretty much be it. We usually add
+the illustrations and the assets which
+is what we're about to do now. Um GMC we
+had a bunch of packaging that we need to
+do and photography, but this is an AI
+brand and a tech brand. So we don't
+really have like all of these sections
+that we need to do. Right. One last
+executive decision. I'm actually going
+in and just changing these cover pages
+just because I think that this isn't
+really with the primary colors. So as
+much as I do like the blue, I need to
+stick closely to the brand here. So I'm
+just going to change these for the last
+time. Say logo. Pop this to like the
+bottom. I'm going to duplicate this one
+down. Say typography. Actually just want
+just going to put type. And then finally
+layout. That's better. Yeah, this looks
+way more on brand. Perfect. So, that's
+pretty much everything that you need to
+know about creating a brand guidelines.
+Now, the only other things that I would
+add to this is having brand assets.
+However, we are still currently
+developing this brand. So, this will be
+something that we add over the next few
+weeks, including stuff like how we ended
+up making this um rules around like how
+to use the dotted lines which are
+appearing throughout the brand.
+Ultimately, we're going to be adding a
+bunch more visual assets to this and
+creating more of visual language. So,
+we're probably going to interpret that.
+So, we're probably going to integrate
+that, sorry, into this guidelines. Um,
+so yeah, hopefully you enjoyed this
+video and learned something new. If you
+did, stick around for the next one
+because I'm going to be turning this
+brand guidelines into a frame of brand
+guidelines.

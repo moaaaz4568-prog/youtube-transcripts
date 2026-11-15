@@ -1,0 +1,571 @@
+OpenAI and Anthropic on the same exact
+day announces that they're both
+launching a new division in their
+companies, a division that focuses on
+implementing and deploying AI into real
+businesses. And to do so, they're going
+to be partnering up with private equity
+firms and Wall Street firms like
+Blackstone. And I believe, since we've
+had a chatbot back in 2022, this is the
+greatest news for anyone who wants to
+figure out how to make money with AI or
+who's wanting to automate their entire
+business with AI agents. And my goal
+within this video is to break down why
+are they partnering up with private
+equity firms, Wall Street firms, and
+consulting firms, and how am I actually
+going about doing this within my real
+business. I'm actually going to be
+sharing my screen and walking you
+through how I'm deploying real AI
+agents, real workflows in my business,
+and showing you all the real obstacles
+that you have to overcome in order for
+you to go fully AI-native where agents
+do 99% of all the fulfillment of all the
+work in your business. In order to help
+you understand why they're doing this, I
+need to read you this one paragraph. It
+will help you understand why for the
+last 4 years it's been impossible for
+you and I to be able to monetize AI and
+run agentic businesses. And here it is.
+The deeper technical point is that LLMs
+do not create value just by answering
+prompts because they need to be
+connected to company data, permissions,
+tools, evaluation systems, and human
+review loops before they can affect
+revenue or cost. If you've been asking
+yourself why AI is not capable of
+driving real value for your business or
+help you launch a business to actually
+be able to make a lot of money with it,
+it's because LLMs on their own they're
+useless. Without access to data, without
+access to real skills, real judgment,
+without access to tools, it's just a
+chatbot. And it gets even worse when you
+try and leverage it in a real work flow
+in a company. Right now, the way that
+most businesses are using AI is using it
+as a tool. A media buyer, a salesperson,
+a sales manager, a finance person, a
+operations manager, they're using tools
+that they have to prompt every single
+hour of every day, and they become the
+bottleneck. Regardless of how many hours
+they spend giving these LLMs, these
+chatbots context about the business or
+about the specific function, they're
+still incapable of experiencing the same
+10x leverage, the same 100x leverage
+that engineers are experiencing today
+with coding. You have to understand that
+coding is a closed-loop system where the
+AI writes the code, AI reviews the
+codes, and if there is a bug, fixes
+itself, and then deploys the actual
+thing that you built. In real
+businesses, it's an open-loop system.
+Every single process is fragmented into
+different functions, and whatever you do
+here affects the next step. Whatever you
+do in marketing affects sales. Whatever
+sales does wrong affects marketing.
+Whatever sales does wrong affects
+customer success. If customer success
+fails to deliver value to clients, then
+marketing is also going to struggle.
+What this is is an open-loop system.
+This creates a lot of complexity and a
+lot of obstacles when it comes to
+implementing AI into a business and
+getting AI to do all of the work. It's
+already complex enough to figure this
+out with real humans. Now, imagine
+having to replace every single task,
+every single function that humans have
+with AI. Now that you understand that
+business is a complex system, let's
+answer the second question, which is why
+are they partnering up with consulting
+firms, private equity firms so I should
+go through this deployment, getting
+their help to implement AI into these
+businesses. The first one is private
+equity firms already have a portfolio of
+companies, thousands and thousands of
+companies. So, that means that Anthropic
+and OpenAI don't have to build a
+go-to-market team, a sales team, build
+these sales motions, these marketing
+motions to go sell to these businesses.
+Private equity firms already own the
+companies. So, by partnering up with
+private equity firms, they automatically
+get clients. They get distribution. It's
+such an important moat that even
+companies that have these frontier
+models cannot just vibe code their way
+into acquiring clients. You cannot just
+vibe market your way into generating
+leads, appointments, and client
+relationships. Another insight that
+helps to understand how valuable
+distribution is, OpenAI just missed
+their numbers this past quarter because
+Google Gemini stole all of the
+customers. It's because Google already
+had the distribution. People already use
+Google every day. So, the moment that
+Google is able to offer a decent product
+with Gemini, they're able to suck up all
+the demand from the marketplace because
+they already have access to the
+customer. They literally own them. But,
+the second and most important reason why
+they're going going these partnership
+with these consulting firms, these
+private equity firms is because the team
+at Anthropic, the team at OpenAI do not
+understand niche businesses. They do not
+understand the processes in a roofing
+company. They don't understand how to
+run a dental practice. They don't
+understand how to run an agency. They
+don't understand how to run a real
+estate company. They don't understand
+how to run a healthcare business. If you
+do not understand the processes within
+each business, you cannot help them go
+through this transformation because at
+the core, the way you transform a
+company into an AI native of operating
+is you convert every single process that
+currently delivers value in their
+business into an agentic workflow. No
+matter how good the engineers at
+Anthropic gets or how much leverage they
+get and how many agent swarms they can
+spin up, they'll never be able to vibe
+code themselves a hundred million dollar
+real estate firm. They'll never be able
+to vibe code their way into a hundred
+million dollar portfolio of dental
+practices because that requires judgment
+and it also requires an infrastructure
+that can simply not be vibe coded. Once
+you understand that the mode is in
+acquiring clients, having distribution,
+and owning relationships that cannot
+just be replicated by AI with a single
+prompt and that it's also about having
+depth in a specific niche and
+understanding the workflows that
+actually drive real value so you can
+actually convert them into agentic
+workflows, then it's pretty clear what
+the AI opportunity actually is. AI
+opportunity is not spending all your day
+on Cloud Coder or Codex or OpenAI or
+Gemini. It's in going into real
+businesses, telling them, "Hey, how do
+you guys make money? How do you guys
+deliver value for your clients? I want
+to help you convert those workflows into
+agentic workflows where AI agents do 99%
+of the fulfillment." This is something
+me and my team have spent the last 15
+months working towards and we've spent
+every hour of every day that we were
+working to figure out how we can
+actually pull this off. How do you go
+about transforming every workflow of a
+company into an agentic workflow? And
+what type of AI infrastructure is needed
+to actually be able to pull this off?
+Let's go into my screen and let me walk
+you through how I'm personally doing it
+in my business. First things first, let
+me describe what you're seeing here. So,
+what you're seeing here is essentially
+all the tasks that these AI employees
+are currently running. You can see on
+the right side the work that has been
+done. I'm not going to go through that
+right now. I'm going to show you later.
+And right here is the work that needs to
+be reviewed by a human. You need a human
+in the loop to verify and approve the
+work that is being done because 99% of
+the work that is going to be done is
+going to be done for your client. And
+this allows you to avoid any chaos
+before the work is shared with your
+client. The most important system in
+this entire operating system is this
+file system. In order for AI agents to
+actually be able to do great work in a
+company and to be able to control every
+function of the business, they need a
+centralized contact system. You cannot
+have AI employees, AI agents doing
+anything they want without context.
+Remember, business is a complex system,
+meaning whatever you do in Legion
+affects sales. Whatever you do in sales
+setting affects customer success. It
+affects the expectation the clients
+have. So, in order to provide all the
+context in the business to these agents,
+you need to centralize everything that
+gets built. New ads, new funnels, new
+messages, new clients that pay, all of
+it needs to be fed into this file system
+that gets saved and synced up every
+single day from all the work that's
+happening in the business. Once you've
+solved for context, you then need to
+focus on training the agents on how to
+do the job. Just like any human, you
+need to train them on how each single
+task is completed and done in the
+business. How do you run ads? How do you
+manage your sales team? How do you
+review sales calls? How do you onboard
+any employee? How do you onboard a
+client? And this is what I've spent
+every single hour of every day
+documenting, building all of these
+skills so that AI employees can do every
+single thing that my team can do and
+that I can do. Once you've documented,
+codified how do you do work, you then
+need to make sure that agents have
+access to all the tools that you
+leverage to do real work or drive value
+for your clients. Think of connecting it
+with ads, connecting it with your Gmail,
+connecting it with Instantly, connecting
+it with your CRM. Every single tool that
+you leverage in your day-to-day, agents
+need to have access to it just like you
+do. Once you've integrated all the tools
+you need to do work, you then need to
+move on to the phase that I enjoy the
+most, which is building recipes. You can
+call them workflows, we call them recipe
+because this operating system is called
+Cookie AI. This is the phase that I
+enjoyed the most because this is the
+phase where I'm able to automate real
+workflows that drive real revenue in my
+business. I'll give you an example of
+something that I was working on
+yesterday. So, sales calls are the most
+valuable asset in a business. Not
+because it's the moment where you're
+able to close deals and collect money,
+but because even when someone doesn't
+buy, there's an insight to be extracted
+to knowing why did they not buy? What
+are the beliefs that they don't have
+that needs to be shifted? Or in a moment
+where you're able to convert a prospect
+into a client, it also gives you
+insights as to why did this person buy?
+What are the beliefs of someone who's
+doing business with us so that we can
+amplify them. Normally, you would hire
+someone full-time to review sales calls
+to extract insights and to feed these
+insights into marketing, into the ads,
+into the emails that we're sending, into
+the SMS blast, into the sales letters
+that we're writing, into the YouTube
+content we're creating. But the
+likelihood of finding someone who's
+really good at extracting insights from
+sales calls and then turning them into
+marketing assets is really low. Most of
+the time, the person who's the most
+qualified to do this is actually the
+founder. Because as a founder, you
+remember that first moment where you
+took an idea or a desire or a pain point
+from a prospect and turned it into
+money. It's so ingrained into you as a
+founder that it comes naturally.
+Whenever prospects say something, you're
+like, "Oh, wow, this is the thing that
+we should double down or hey, by sharing
+this case study or this insight or this
+transformation with them." And that's
+why in this situation, I'm the one who's
+building these workflows. Let me show
+you how I built it. So, first step is
+the intake process. I want to understand
+what's the prospect name, what's the
+context, what business are they running,
+what is the pain point, did they buy or
+did they not buy? If they bought,
+perfect. We need to amplify these
+beliefs. If they did not buy, we need to
+shift beliefs, break the beliefs that
+they have, and actually help them
+understand what they need to believe in
+order to make sense of doing business
+with us. For every step, we need the
+inputs and the skill needed by the AI
+agent to be able to do the work the
+right way. Step number two, as I said,
+is really simple. Find the real leverage
+points, the core desires, the goals in
+the prospect's exact words, their pain,
+their frustrations, beliefs to break if
+they did not buy, beliefs to amplify if
+they did if they did buy. And again,
+there's a skill assigned so that the
+agent knows how to do the work. Step
+number three is essentially a step that
+gets the AI agent to create five
+different angles that we're going to use
+in our assets, the sales assets, the
+ads, the SMS, the YouTube content that
+we're going to be using to send to the
+prospect that did not buy to shift their
+beliefs and get them closer to doing
+business with us. The last step here is
+where you need a human to actually
+review the angles and make sure that the
+work is good and then it moves on to the
+next step, which is the actual asset
+production process. Same thing. The way
+that I create the best YouTube videos, I
+create a scale around how I do that, how
+I script, how I do packaging, how I do
+every single thing. Give it access to
+the agent. Next step is short form. I
+want to be able to create shorts that
+talk about the beliefs that we need to
+amplify or the beliefs that we need to
+break from the prospects that did not do
+business with us. And then I want to
+turn that into an email and SMS asset
+that is sent specifically to the
+prospect who just left the call with my
+team. The reason why this is important
+is because if you're a prospect that
+just left a sales call and you get that
+company sending you a personalized email
+on your situation or a series of email
+and SMS that essentially handle every
+single objection that you had for them,
+you're most likely going to buy sooner
+rather than later. And that's what we
+want to do. We want to personalize and
+handle all the objections through email
+and SMS. And this is done perfectly
+because the agent has access to all the
+business context, they know all the new
+case studies from clients, they know all
+the updates being done on the product,
+and they know all the objections of the
+prospect who was on the sales call. You
+now understand how insane this can
+become when agents have access to a
+centralized context system, they have
+access to all the tools, all the skills,
+every single thing that a team and the
+management layer has access to, the
+agent can now provide experience that we
+would normally provide your most
+valuable clients to prospects that
+haven't paid you a single dime. And that
+is the whole opportunity with AI. The
+goal is not to just automate the work
+that you do, is to be able to automate
+the work that you can't do because it
+wouldn't be viable, it wouldn't be
+profitable, you would have to hire a
+bunch of copywriters, you would have to
+hire a bunch of people auditing every
+single conversation in your business,
+and you would not be able to make a
+single dime if you went that path. But
+today with AI agents, you can. And as
+you can see, this is where I essentially
+was building the recipe. So I started
+first by building the scale and then I
+turned them into a recipe and once
+you're done all you have to do is go
+ahead and actually schedule them. You
+have two ways to essentially experience
+autonomous work. You can either decide
+to have it run on autopilot where you
+essentially set recurring work to run on
+a clock. Things like ad performance
+reporting which is essentially what I
+have here. So every single day at 7:00
+a.m. This employee called Jordan reports
+back on the performance of our ads. I
+then also have another employee that
+lets me know what type of content is
+currently going viral online. As you can
+see here Iris essentially tracks all the
+performance of our content. I have
+another employee that essentially tracks
+our appointment setting efforts. It
+looks at how much outreach are we doing,
+how many calls are we booking, where all
+the calls coming from and suggests the
+number one bottleneck that we need to
+work on in order to solve it. This is
+essentially running it on a specific
+schedule. I have like seven different AI
+employees that do this every single day
+from content, sales, client success,
+sales call reviews, every single thing
+that you can think of. Essentially I've
+replaced my executive team with AI
+employees because they do the work every
+single day without me having to remind
+them to do anything. That's step number
+one. If you want to have it run on
+autopilot the alternative is having them
+react in real time which I personally
+prefer. I'll show you an example of what
+I built yesterday after I built the
+workflow is every single time there is a
+sales call recordings on Fathom Chris
+should automatically launch the workflow
+of extracting insights from those calls,
+figuring out which angles we need to
+focus on, creating the content, creating
+the email, creating the SMS and sending
+it straight to the prospect so that the
+prospect literally leaves the sales
+calls and starts getting nurtured right
+there and then. And the crazy thing is
+you can take this a step further. So we
+have a client who's currently doing a
+lead gen in the insurance and is
+currently doing amazing with like a 12x
+return on ad spend. And what's exciting
+about his business which is a lead
+generation business for these insurance
+agents is that it can fully be automated
+with these AI employees or with this
+operating system and I want to show you
+an example. He would have to go through
+the same process, build the skills on
+how he builds the best ads for these
+insurance agents. He would also have to
+create a skill around how he goes about
+ad reporting. He would also have to
+managing ads. Once he has created all of
+those skills he can simply schedule
+tasks that happen every single day or
+whenever new leads come in or whenever
+the cost per lead goes through the roof
+or whenever there's creative fatigue and
+get an AI employee like Chris or Nina or
+Jordan to go ahead and start creating
+10, 20, 30 new creatives for his
+clients. And just simply once it's
+approved, upload them on meta on the
+advertising platform and start
+generating new leads without ever
+lifting a single finger. And this here
+is an example of ads that were created
+by one of the AI employees for one of
+our clients who's going after med spas
+and he created the video, he created the
+caption, he created every single thing,
+even the avatar design. Why? Because the
+AI employee already has context around
+the client's business and who they're
+going after and their offer. All that
+the founder has to do now is pick the
+first five creatives that have the best
+hooks and that he wants to launch and
+test with, launch them, test one, find
+the winner, double down on them, and
+simply assign the task to the AI
+employee to look at the performance of
+the ads to figure out which hooks are
+the best, which ads are generating the
+best cost per booked call, and have it
+regenerate new creatives, new variations
+based on what's currently performing.
+Everything that I just walked you
+through is the real AI opportunity,
+hence why OpenAI and Anthropic are
+having to partner with consulting firms,
+with private equity firms that own the
+companies and understand the processes
+within real businesses so that they can
+actually go ahead and deploy AI and
+these agentic systems and actually
+automate the real work. If you're
+watching this and you're just starting
+out and you're trying to make your first
+10 grand a month, 30 grand a month, 50
+grand a month with AI, your number one
+goal should be to race to owning a
+specific workflow for a specific company
+because they're not going to figure this
+out on their own. So, the arbitrage
+opportunity is build the workflow, build
+the skills, build everything, and then
+go to businesses and sell them outcomes
+that your AI employees are delivering
+and have 80% margins and have the
+scalability of a software business. If
+you're watching this and you're already
+operating and you have like me, $2
+million, $3 million a year in payroll,
+if you do not automate your business, if
+you do not convert your business logic,
+your IP, every single process in your
+business that makes you money and that
+helps you deliver for value for your
+clients, you're going to go out of
+business Because you're simply not going
+to be able to compete with a one-person
+company that has like five, 10, 20, 30
+different AI employees, AI agents doing
+the same amount of work that you're
+currently doing, but for 1/100 of the
+cost. After 2 years of trying to figure
+out how to make real money with this AI
+technology, I think we finally figured
+out. And the answer is simply stay far
+away from the AI technology. Just figure
+out how to convert real business
+processes into these workflows, into
+these recipes, and give them access to
+the AI agents, and get them to deliver
+value, create assets, manage ads, manage
+sales teams, manage every single
+function that you can think of, and sell
+it to businesses. It's just that simple.
+And if you don't understand that the
+opportunity has nothing to do with
+focusing on cloud code, and that it's
+all about focusing on business processes
+and automating these workflows for
+businesses, or owning them internally
+and then renting them out to businesses,
+then you're going to keep struggling. If
+you're interested to learn more or to go
+deeper on this, click the link below,
+join my upcoming workshop where I'm
+essentially going to be laying out how
+you essentially can go through the same
+transformation through our AI operating
+system that is TryCook AI. See you on
+the other side.

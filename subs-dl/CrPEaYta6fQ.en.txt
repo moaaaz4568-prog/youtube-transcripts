@@ -1,0 +1,213 @@
+hello everybody welcome to ask a fund
+manager
+i'm nick pardini and today we're going
+to be talking about option greeks
+and the reason why we're going to talk
+about option greeks because a common
+question i get asked a lot is
+why do options trade differently
+than their underlying stock what factors
+drive options price
+beyond just the change in the stock
+underlying stock or futures
+currency price and that's what the
+option greeks are
+it's going to be a two-part series first
+one we're going to talk about the three
+main greeks that are most common and
+used
+delta gamma and theta
+and then in the next one we're going to
+talk about a few more of the obscure
+greeks in the marketplace so the first
+week we're going to talk about is delta
+delta is simply just the change in the
+option value with the change
+in price and
+so basically delta is going to be always
+between
+zero and one if a delta is one that
+means for every dollar
+a stock goes up the single option will
+go up
+a dollar and if it's zero it means
+they're not correlated at all
+uh del the deeper in the money
+which is basically the option is a
+a profitable position that your strike
+price
+is below if it's a call or above if it's
+a put
+the the the the
+underlying price of the given stock so
+in this example say if i have a 50 stock
+and the stock my option contract
+i bought it when the stock was trading
+at 30 at the money so now
+it's deep in the money and because of
+that my delta is really high it's
+effectively like owning the stock
+whereas i have to say i have another
+option in the same stock that's
+at 100 and since it's so far
+out of the money therefore it doesn't
+move that much for the change of the
+stock because the probability of it
+hitting 100 before
+the contract expires is low and that's
+another way to look at delta it's
+basically the probability that
+the market believes that the stock will
+trade over under the strike price of
+your option
+so that explains why like as the time
+length of the options contract shrinks
+the the delta tends to
+tends to shift too for out of the money
+options delta
+declines and for in the money options
+delta increases drastically
+with time it's because the probabilities
+get more fixed
+and when you have higher volatility the
+delta curve
+flattens because there's a bigger range
+of possible outcomes
+so that that basically explains delta
+the second one we're going to talk about
+is which kind of goes into this
+is gamma which is the change in delta
+versus the change in price i kind of
+mentioned this
+in the delta explanation briefly but
+gamma is the second derivative
+essentially of delta
+and so how quickly that's going to
+change gamma increases when volatility
+increases because the
+the range of outcomes increases this is
+this
+this chart here shows that the flat
+which i got from optionededucation.org
+is the source if you can't read that
+in the video it's the flat
+is a flatter more but fatter curve
+because when a volatility is higher
+because it's a broader range of outcomes
+when volatility is lower it becomes a
+narrower steeper
+of bell curve because the the range of
+possibilities becomes lower
+and it's more likely to stay within a
+certain area
+so that's how the probabilities change
+with volatility
+gamma also is always at its peak no
+matter what
+when it's at the money because if the
+strike price is the same as the
+underlying any change in the underlying
+will move the delta the most because it
+either goes into money
+or it goes out and in the deep the
+further out you are
+the less gamma shrinks so basically
+gamma's the greatest at the center point
+at the money and then it
+decreases the further out or in the
+money you get because
+it'll take a lot more to make that
+option come back to being at the money
+the last greek we're going to talk about
+in this video is theta
+which is the change in delta over time
+essentially time decay
+so say if i bought an option for three
+months
+i am part of the value of it is not just
+the potential
+in terms of volatility that's built in
+or
+the fact that i have a chance to
+execute this contract a lot of the value
+is just the time
+it's the fact that no matter i no matter
+what this even if the stock goes
+say for example i'm buying a call on a
+stock that's trading ten dollars
+that's 20 bucks um
+this is 20 strike so i
+it's maybe only at ten dollars now the
+stock but the fact that it can reach
+20 within the three months duration of
+my option
+is the vast majority of the value and
+the deeper
+out of the money an option is the more
+the value is
+and lower volatility is the more the
+value is theta
+and theta is simply just the longer date
+of your option the more theta you have
+and every day you lose a chunk of theta
+if you're long options because
+the amount of time on your contract
+shrinks and therefore the value of the
+contract shrinks because you have less
+time
+to get that contract in the money or
+deeper in the money to be worth more
+uh if you are selling options theta is
+your friend
+like a lot of the big vault selling
+institutions out there make fortunes
+selling
+theta they just collect a premium over
+and since options are kind of like an
+insurance policy for a lot of investors
+people are willing to pay such a uh
+somewhat of a premium just to be
+protected in case something adverse
+happens
+and so that's where it kind of gives the
+opportunity for
+there to make money but so data
+if you're selling options is a premium
+you're collecting every day whereas if
+you're buying options it's the amount of
+premium you're losing
+every day and theta is not uniform
+i mean i've done several studies on this
+and basically theta accelerates
+over time so i mean there's this is just
+a
+based on a lot of academic papers i've
+read on this so it's not
+a hundred percent like the definitive
+answer to this question but
+based on my research on this subject
+it's on average about
+half of options theta is lost
+within the first within the last 30 days
+so if you are going to buy an option but
+you want to keep the position on
+you you should roll it in the last 30
+days to minimize the damage
+of theta essentially but
+yeah it's basically just theta's simply
+time value it's a kind of a long
+equation which is why i didn't
+put it on here but the main thing to
+think about it's how much
+shot clock do you have left before your
+position expires
+and that's really all we're going to
+talk about in this video
+let me know if you have any questions
+and if you would like to have any other
+topics discussed you feel free to
+write a comment in the video or you can
+reach us on email askafundmanager
+gmail.com
+thanks for watching and enjoy the rest
+of your day

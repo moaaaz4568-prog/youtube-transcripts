@@ -1,0 +1,468 @@
+Ever since I dropped my video on
+building an Agenta workflow in
+Antigravity, I've been getting a lot of
+comments asking me, "Okay, now that
+you've built it, how do you now deploy
+it? How do you put it into production
+and actually maintain it over time?" And
+so, in this video, I'm breaking down the
+full step-by-step deployment process
+that you can go through to be able to
+get your project live in a matter of
+minutes. Plus, to make this as practical
+as possible, I'm going to be showing you
+a real deployment so you can follow
+along and see exactly how it's done. And
+in case it's the first time here, my
+name is Michele and I've scaled my own
+AI agency to six figures helping over 50
+businesses to implement AI solutions and
+teaching over 20,000 people in the
+process, all starting with zero
+technical knowledge. With that being
+said, let's dive in. All right, so here
+I have my Agenta workflow inside of
+Antigravity. Um, we have the files here
+which represent all the different Python
+code and all the automations that we
+have inside the actual agent. Now,
+fundamentally, here's how we take an
+Agenta workflow and then actually put it
+into deployment software, right? We have
+Antigravity, which is the tool that we
+use to actually be able to make the
+agent. Then we have the agent's logic,
+which is the amount of tasks, all the
+prompts, the memory, uh, the code,
+right? All the automations and so on,
+which is the packaging and event loop as
+well. So, all these things are basically
+the package of the Agenta workflow,
+which are then going to be hosted in
+Modal and trigger.dev. As a first of
+all, why do we care about deployment?
+So, essentially right now, the workflow
+that I have in Antigravity, it lives in
+my computer. And if my Wi-Fi stops or my
+computer shuts down, then uh, the
+workflow stops, right? And ideally, we
+don't want that. We want it to run 24/7.
+We want it to run even when we're not
+there, which is where we use the
+deployment. Now, deployment here means
+that we're taking the Agenta workflow
+and we're putting it on someone else's
+computer, right? A computer that's
+always on, always connected to the
+internet, and specifically designed to
+be able to run 24/7. This is something
+that I explained in the other video as
+well. And these computers that we're
+using to be able to host the Agenta
+workflow are called servers, right? This
+is a server. And a server lives in big
+warehouses called data centers. Now, all
+of that stuff is not something that you
+have to know, but at least you
+understand the fundamental concept of
+how it all works, right? So,
+pre-deployment, we have it on our
+computer, it only works when we're
+there. After deployment, so
+post-deployment, we have it hosted on
+someone else's computer. That way it can
+run 24/7 without us having to be there
+all the time. Now, I'm going to assume
+that you already have your Agenta
+workflow built out. You already built it
+out. It's already working. Now, you have
+to go through the last stretch, probably
+the one of the most important ones,
+which is actually deploying it. Now, the
+first way is going to be through Modal,
+modal.com. This is one of the more, uh,
+popular ones just because it is also
+something that we can use when we're
+building Agenta workflows in Cloud Code.
+So, we can use it in both ways. Now, the
+good thing about Modal itself is that it
+is serverless. So, serverless means that
+we don't have to worry about the server.
+Modal takes care of the whole thing. All
+we want to do here is press sign up,
+just make an account here, continue with
+Google.
+Press continue.
+And then do the onboarding, so personal.
+Leave this as is, and you can press get
+started. And then you will get on the
+page that looks like this. Now, bear in
+mind that you do get $5 of free credits
+when you apply for Modal when you get an
+account, but you can also get $30 of
+free credits if you add your credit card
+info, right? So, all you have to do is
+go here. You can add a payment method,
+put your details there, and you will
+simply receive $30 of free credits that
+you can use, uh, that will last you a
+pretty long time, especially when it
+comes to Agenta workflows. Now, all I
+have to do here is I can actually just
+copy this snippet of code, right? I can
+go back to Antigravity and I can say,
+"Hey, I want you to take the Agenta
+workflow and I want you to host it
+inside of Modal." And here's the
+command. I'm going to turn this to
+Cloud Opus 4.6 because that's a smaller
+model. I can press send. There's one
+more thing about this Agenta workflow
+that I haven't spoken to you about, and
+it's the fact that it actually has a
+front end and it has the workflow, okay?
+So, the front end will be the place
+where we actually add the details of the
+niche, of the location, and the amount
+of search results that we want. And in
+the workflow itself, it's just the
+automation, right? And so, we'll need a
+place where we can actually host the
+front end, so the page, the landing
+page, and also the the workflow. And
+I'll show you how to do that as well.
+So, you can just press allow when it
+asks you to allow to actually edit
+things. And now it's analyzing all these
+different Python scripts, so PY stands
+for Python, and they're all automations,
+right? You can think of them as
+different nodes in Agenta, for example.
+And the good thing about Antigravity in
+specific is that it's going inside
+Modal, it's finding all the
+documentation, it's doing all the hard
+stuff that we previously had to do, but
+it does it all automatically. Okay, so
+now it's going to start actually
+creating tasks. So, this is the task to
+deploy Antigravity. So, think of this as
+an employee, and let's say you give the
+employee the task of maybe it's making
+some sort of spreadsheet, right? And
+what this means is that it basically
+sets X amount of tasks, so in this case,
+it has 3 6 9 9 tasks, right? I think.
+That it basically sets for itself. And
+this is great because we get to see
+exactly how it's thinking through what
+it's doing, uh, the different tasks that
+it has to go through step-by-step to be
+able to get to the outcome rather than
+Antigravity just doing everything at
+once, right? So, after a while, you will
+get redirected to this page that looks
+like this. You can press authorize
+because you will then be able to create
+an API token, sort of like a password
+that says, "Hey, can I actually go
+inside your account and deploy this?"
+It's also making a Python file called
+modal.app, and these are basically the
+instructions to be able to then host or
+deploy the workflow inside of Modal.
+Now, bear in mind that we don't have to
+look at this, but just know that this is
+where everything is at, right? And you
+also have English, right? Where you can
+actually understand. It says, "Host the
+Antigravity Agenta workflow on Modal,
+modal.com." And this is a snippet of
+code where it follows to then be able to
+actually do the thing that we wanted to
+do. So, as you can see here, all the
+tasks are finished. It then created the
+walk-through of how the deployment
+worked. We have the API endpoint, we
+have the Modal dashboard, which is
+great. And now it's saying as well that
+the Agenta workflow is now live on
+Modal. So, if I go to Modal here, if you
+refresh, right? You will be able to see
+that you have an Agenta workflow called
+Antigravity here. Of course, it'd be
+different. It's based on the name that
+you have on the folder. I can go inside
+of Antigravity,
+and you will see this page that looks
+like this. Now, on the left-hand side,
+you have overview, deployment history,
+and app logs. Overview is the overview
+of the app. Now, bear in mind that Modal
+calls an Agenta workflow an app. And so,
+when you see app functions, it means the
+functions of the actual agent that we
+built. So, the functions of the agent is
+to run find leads, niche leads, snooze
+research, competitor analysis, right?
+Because the Agenta workflow that we have
+is an agent that receives a website
+link, which could be my website or
+someone else's website. Let's say it's
+apple.com. It would then look at the
+competitors of Apple, and then it will
+research them, and then it will give us
+a list of leads, in this case, the the
+companies and the emails and the phone
+numbers and websites of those
+competitors that we can now use. And so,
+these are all the different automations
+or actions that the Agenta workflow that
+we built does. On the left-hand side, we
+have deployment history. So, there are
+times where we will change the actual
+Agenta workflow. And the beautiful thing
+is that we don't have to go into Modal.
+We can just talk to Antigravity and say,
+"Hey, uh, I don't like this thing about
+the Agenta workflow. Can you change this
+or can you change that?" And it will
+automatically do it, and you get to see
+all the versions of progress. So, let's
+say you add a new thing, it will be V2,
+and then V3, and then V4. So, you can
+always keep track of all the, uh,
+versions you've done. And then we have
+app logs, which is essentially all the
+logs of the workflow, right? So,
+whenever a workflow runs, it shows you
+that the run came here, whether it's an
+error, whether it's success, and so on.
+And here we have the Fast API app. Here
+we have run competitor analysis, run
+find leads, run find niche leads, and
+then run snooze research, which will be
+the research agent. There's only one
+thing with this agent that we built cuz
+I've built an agent where I fill out a
+form. So, there has to be some sort of
+like website or landing page where we
+fill out the details, so like what niche
+do you want to target, what's the
+website company, whatever it is, and
+that starts the automation. And so, what
+I want to do is I want to have a web
+page that I can host on Modal as well
+that I fill out, and it will then
+trigger the automation on Modal as well.
+It will make much more sense when I walk
+you through it. But if I go here, I can
+say, "Hey, okay, this is great. It
+deployed. There's only one thing for
+like for the input that I have to give
+the Agenta workflow. I want to have like
+a web page that I can always have, and I
+want you to host it on Modal, and it's a
+way for us to give the input to the
+Agenta workflow so that it triggers the
+automation, okay? So, let me know if you
+have any questions, uh, follow before
+you build anything. I'm happy to answer
+them, but that's what I want to
+achieve." And I can press go. And
+throughout this whole way, I'm using
+Cloud Opus 4.6 again, uh, because it is
+the smartest model when it comes to
+doing all these techy stuff and
+automations and so on. As it says, "Got
+it. A web dashboard hosted on Modal
+where you can pick a script, fill out
+the input, hit run, and see the results.
+A couple of questions." It's asking me
+for the look and then authentication. I
+would say dark blue is my color
+preference, and should anyone with the
+URL be able to trigger runs? Uh, no, no
+password. Just keep it open for now.
+Or just keep it open in general. You
+could add a password if you wanted to. I
+would probably recommend adding a
+password, uh, if you're actually
+deploying this and making this an actual
+thing, uh, but just for the use case and
+just show you, I'm not going to do it.
+so now it's saying that it's deploying
+it and it's going to open the URL to
+make sure that it actually works. I'm
+going to press always allow. So, again,
+this is making the front end for the
+thing that we're building to then be
+able to trigger the Agenta workflow that
+we are also building that we're hosting.
+So, we have different options then. We
+have find leads, find niche leads,
+competitor analysis, and snooze
+research. So, we can basically do any of
+the four that we want individually,
+which is great, actually. All right,
+cool. So, now we have the link that we
+can open, which is going to be the web
+page that we always use to be able to
+trigger the Agenta workflow. But
+nonetheless, we also have the preview of
+the test that it ran to be able to check
+whether it actually worked or not, which
+is great. Awesome. So, now I can use
+this link right here, but I can also
+find it in the Fast API {underscore}
+app. I have this link, which will be the
+link of the actual Con Color web page,
+and I can choose if I want to find
+leads, find niche leads, research, or
+competitor analysis. I can press find
+leads, and here I can put dental
+clinics. Let's just do Miami. What do I
+see here?
+I can press run script, [music] and now
+what it will do is that it should go run
+find leads.
+As you can see now, this is pending, and
+now it's running. So, it's going to run
+the appropriate automation inside the
+the main agent, which will actually do
+what we wanted it to do. All right,
+cool. So, now it's succeeded, and it
+gave us success. And if I go back to the
+actual web page, I can see that we also
+have success here. And it gives us 20
+results. We're using Apify, which is a
+platform that allows us to be able to go
+inside Google Maps and scrape. And then
+we have total leads found, 20, and we
+have have preview of five leads. So,
+Community Smiles Dental Clinic, we have
+the website. We don't have the email
+because the Google Maps does not give us
+their email. We could also find it if
+you wanted to. So, this is one of the
+websites right here. Ultra Small Miami
+Dentist in Brickell, New Dental Care and
+so on. Okay, cool. And now that we have
+the preview, there's only one thing
+that's missing. And what's missing is
+that it said save to root Antigravity
+and so on, which will be a folder in our
+computer. But, I don't want to have to
+go to my computer all the time and then
+have to look at the folders and the
+files and so on. What I want to have is
+I want to have a button here somewhere.
+First, we can say download CSV. And when
+we press it, it downloads the leads that
+it just used Apify for. I'm showing you
+this because then you can see the change
+as well when we go back here. You can
+see the change in the deployment history
+as well and the changes that we make to
+the workflow and how that changes the
+deployment as well. So, when I go to
+Antigravity, I can say, "Okay, there's
+only one change." The change is that,
+for example, when I find leads or for
+anything really, um and I press run
+script, it gives me a preview and then
+it says it saved the CSV to a folder in
+my computer. What I want to have instead
+is I want to have a button where if I
+press download CSV or download results,
+it downloads a CSV and it I can see it
+instantly. So, please make that change
+in the actual setup and let me know when
+it's done. All right, so this just
+finished. It told us that it's done. So,
+I went ahead and actually tested it.
+Now, it's running the actual find leads
+again and the actual workflow here as
+you can see it's running. All right, so
+now it just finished running and we
+pretty much have the same setup as
+before, but now we have the button
+called download CSV. So, if I press this
+button, I can open it and I can see here
+that I now have the list of leads
+that I wanted. Right? And these are all
+scraped, these are all researched, and
+make sure that they're actually valid
+with the address, ratings, reviews,
+Google Maps URL, and so on. Which is
+great for us because I want to make this
+viable as possible. I want to make this
+as easy to use as possible and I have
+felt like before it didn't really have
+that as well. Right? Um so, now we have
+this here. As you can see, it just
+updated it. And if I go here to
+fastapi.app, as you can see here,
+everything is successful. But, most
+importantly, if I go to deployment
+history, we have made changes to the
+actual workflow. We have made changes to
+the the agent itself. And so, now you
+can see V2, V3, which are This, of
+course, is the latest version with the
+latest updates, right? And so, you'll be
+able to see all the versions here for
+whatever it is that you're doing. And as
+I mentioned, we only ran find leads, but
+we also have run competitor analysis, we
+have niche leads, the research, which
+you can simply use by going here, right?
+And using these as well. So, let's say
+I'm doing competitor analysis and I'm
+using Apple as the website. I can then
+paste the website here, product URL. The
+sheet name will be competitor analysis
+Apple. I can run the script. And then if
+I go back here under competitor
+analysis, I can see that this is now
+running. Right? So, that's based on
+which setting or which thing we're
+actually using. And as you can see here,
+the status update is success and
+everything was good. And now if I go to
+the deployment history, I can see that
+we have three different versions.
+Version one is the first version that we
+made the agent workflow. And then we
+also said, "Hey, can you host a web page
+in a way where we can actually type
+things or have commands there?" So, V1
+was the initial thing that we built.
+Then we have V2, which is where we asked
+Antigravity to be able to actually have
+a front end. When I say front end, it
+means like a a website where we can
+actually write things and then we can
+see the result. That's V2. And then V3
+is when we asked it to actually add the
+button of the download CSV. Okay, so all
+the different versions you'll be able to
+see here. So, that right there is a full
+step-by-step deployment process of
+building an agent workflow in
+Antigravity and hosting it and
+publishing it on a platform like Model.
+And if you're someone who actually wants
+to take these skills to the next level
+and build a real business, then check
+out the first thing down below, which is
+a one-to-one mentorship program where
+you can actually start and scale your
+own AI agency in under 90 days
+one-on-one with me. And check out this
+video up here where I show you how you
+can master 80% of Antigravity in under
+25 [music] minutes. With that being
+said, I really hope you found value from
+this video and I'll see you in the next
+one.

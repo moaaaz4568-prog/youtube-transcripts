@@ -1,0 +1,678 @@
+In this episode, I break down a real
+business that's drowning in manual work
+and repetitive tasks. Now, it has never
+been easier to get some of this work off
+your plate using simple off-the-shelf AI
+tools. Now, also in this episode, I'm
+going to be going through the exact
+frameworks that you can steal when you
+decide it makes sense to implement AI
+into your business and also talk more
+importantly about when you should avoid
+AI like the plague. So, if this video
+gets good feedback, I'll do more of
+these real life business breakdowns. So,
+be sure to like the video or if you're
+listening on podcast platforms, leave us
+a review and be sure to leave a comment
+with your feedback. So, I'm going to be
+jumping into my screen here in a second
+and I'm going to show you under the hood
+of one of our recent AI tools
+assessments. We actually completed this
+one just last week for a local business
+owner. But first, you're probably
+wondering, well, what is an AI tools
+assessment? An AI tools assessment is
+when I get on a 45minute Zoom call with
+you. I ask you about your bottlenecks
+and your pain points and then I deliver
+a detailed report prescribing three to
+seven simple lowcost sometimes free
+off-the-shelf AI tools that you can
+implement immediately to reclaim
+anywhere from 4 to 10 hours per week if
+you're a small business owner or a
+soloreneur. Now, before we dive into the
+assessment, I'm going to give you some
+critical frameworks that you need to
+know first to determine not just which
+tools to use, but how to make smart
+judgment calls when it comes to AI.
+Knowing exactly when to use AI or
+automation, and more importantly,
+knowing when not to use it. So, before I
+show you the actual report, I'm going to
+show you the thought process behind our
+recommendations. Now, this is my
+decision framework when evaluating this
+person's business. And when prescribing
+specific tools and solutions, the first
+question I ask, this is the first filter
+I use, is does this tool or does this
+recommendation match the client's
+current tech appetite? And if you're
+listening to this and you're a small
+business owner or a soloreneur, that is
+the first question you should be asking
+yourself anytime you're evaluating a new
+tool or a new automated workflow. Does
+this match my current tech appetite?
+Because if it doesn't, if it's way above
+the level of technical expertise that
+you currently possess, then it's not
+going to work. You're not going to be
+comfortable with it, and therefore,
+you're not going to use it. Now, this
+particular report was for a client who
+is comfortable with tech, but they're
+not overly technical. She has a little
+bit of chat GBT experience, but that's
+about it. So, you'll notice that all of
+the tools that we recommend are simple
+offtheshelf, nothing complex. You see
+nothing about Zapier or custom
+automations or custom development. None
+of that is involved in this process at
+all. The constraint here is simply the
+question, will she actually use this? If
+the answer was yes, it was part of our
+prescription. If the answer was no, then
+we left it out no matter how valuable it
+ended up being in our opinion to her
+business. So the second filter that we
+used and that I recommend you use is to
+evaluate the time savings versus the
+time invested to set the tool up. So
+you'll notice when I show the actual
+report, we break down the
+recommendations into four sections. We
+go into quick wins, we go into high
+effort, high impact, then we go into low
+effort, low impact, and uh low impact,
+high effort. Right? So, we're going to
+focus on those quick wins because those
+are going to be the tools that take very
+little time to learn, very little time
+to implement, but provide a ton of
+upside leverage. So, really the filter
+and the question you should be asking
+yourself is if this tool takes me less
+than 30 minutes to learn and set up and
+it provides a quantifiable upside in
+terms of time saved, then it is probably
+going to be worth my time. All right? So
+the philosophy here and the question,
+the constraint is stacking small wins
+first to build confidence in your AI
+skills and in the time that you're going
+to buy back and then work your way up
+from there. Now the third filter that we
+used is does this remove the mental load
+entirely or does it just shift it? Now
+that's a really important framework to
+think through because a lot of times and
+I fallen prey to this myself. I'll start
+using a new tool thinking that it's
+going to remove a mental load or remove
+a bottleneck or solve a painoint when in
+reality all it does is just shift that
+pain point or shift that bottleneck to a
+different part of my business. So you'll
+see from the report that I'll share here
+shortly, one of the uh example tools
+that we recommended is one that she can
+use when it comes to her social posting.
+So, one of the pain points that she was
+having is that she was having to log
+into each platform one by one and post
+content to each platform one at a time.
+So, one of the simple tools that we
+recommended is a tool that lets you post
+to all platforms at once. Now, this
+actually removes the mental load. It
+doesn't just shift it. It's a true
+timesaver that reduces decision fatigue
+and buys back anywhere from 30 minutes
+to an hour every single week. All right,
+we're going to go into a few more
+specific examples when I show you the
+report about how some of these tools
+actually remove the mental load. They
+don't just necessarily shift it to a
+different part of the business. Now, the
+fourth filter and the final filter is
+does this business deserve the
+complexity? So, a lot of you guys are
+running simple businesses or simple side
+hustles and you don't need these complex
+automations. You don't need these super
+intricate tools. A lot of times all you
+need is a simple off-the-shelf free tier
+of a tool that you just didn't know
+existed 30 minutes before this report.
+So again, does the business deserve the
+complexity? The key insight here is we
+don't automate dysfunction. We've got to
+fix the process first before we
+implement some crazy complex tool. Now
+this is next portion is the most
+important part of the entire episode
+here. So, if you take nothing else away,
+take away the next 5 to 10 minutes and
+then after this, we'll get into the
+report and I'll share my screen and show
+you exactly what one of these AI tools
+assessments look like. So, we're going
+to talk next about what we said no to,
+the specific tasks that we recommended
+she not automate or that she not use AI
+for.
+And the first particular task is or
+really the pain point that that came
+from this is that she was doing a lot of
+uh manually following up with
+contractors. So this particular client
+is a realtor. She does about 20 to 30
+listings per year. And a lot of times
+before a house can get sold, repairs
+need to be made to the property in some
+way, shape or form. So, one of the tasks
+that she indicated in our 45minute Zoom
+interview, she's like, "Corey, I'm I'm
+I'm spending a lot of time chasing down
+these contractors, trying to get quotes
+and coordinating scheduling with them."
+And what we realized is that this is
+actually a task that although she says
+it's a painoint, it is not worth
+automating and it is not worth using AI
+for because the real problem is not the
+time it's taking her to follow up with
+these contractors. The real problem is
+vendor accountability and the
+contractors themselves simply not
+replying quickly enough. There's no
+amount of automation and there's no
+amount of AI that is going to solve that
+problem. That is simply the nature of
+the contractor industry. Right? So a
+better solution in this case is not to
+implement AI or not to try to automate
+that follow-up process. It's simply to
+change vendors or accept the reality
+that this is going to be a manual task
+that ideally a human assistant should
+handle. All right, so that's a really
+good example of a task that we don't
+just go and throw automation at. We
+don't just go and throw AI at it. We
+accept the reality that this is a task
+that sucks and it's probably something
+we should just outsource to another
+human being entirely.
+All right. Now, another thing that we
+specifically did not recommend she
+automate is lead qualification because
+realtors by their nature are in a very
+relationship focused business. And
+automating lead qualification or
+creating some complex AI workflow for
+determining which leads are going to be
+good and which leads are going to be
+bad, it's just premature for this stage
+in the business. Leads are coming from
+relationships with this particular
+client. They're not coming from volume.
+They're not coming from, you know, it's
+not like she's getting 20 leads a week
+from Zillow and she's got to spend a ton
+of time sifting through those leads to
+find out which ones are serious buyers
+or which ones are serious sellers. No,
+she's been in the business for a while.
+She's a top 50 realtor here in
+Charlotte. And because of that, she's
+built a reputation and most of her leads
+are warm and coming through referrals.
+So, it just doesn't make sense to add a
+bunch of tool overhead and complexity to
+throw AI at a problem that's not really
+a problem, even though she thought that
+it was originally. All right.
+Now,
+the last thing that we specifically
+recommended she not do is create AI
+generated content. So when we get into
+the assessment here in a second, you'll
+see that one of the pain points is
+around the friction that comes with
+posting social media content to multiple
+platforms at a time. And you'll notice
+that the pain point is actually the
+admin side of posting. It's not the
+actual content creation piece. So what
+we did not recommend is hey use
+something like Sora 2 to generate you
+know AI generated content of these
+properties that you're listing or use
+Claude to write LinkedIn posts
+explaining the deals that you're working
+on. No, that's not what we recommended.
+In fact, we recommended she not do that
+and instead solve the underlying problem
+which is fixing the admin bottleneck of
+the actual posting process. All right.
+So, the takeaway from this section is
+that knowing when not to use AI than
+knowing when not to automate is, in my
+opinion, more important than knowing
+when to use AI or knowing when to
+automate because you can spend all the
+time in the world throwing AI at a task
+or automating a task that is the wrong
+task and now you're two steps behind.
+Now you've got to undo that process and
+then reapply AI or reapply automation to
+the tasks that actually deserve it. All
+right. So if we're looking at this in
+terms of a framework, the bigger
+principle is an anti-automation filter.
+So when do we specifically
+not automate or not throw AI at a
+process? Well, we don't automate and we
+don't use AI when the process itself is
+broken. Right? We've got to fix the
+process first before we can automate it.
+Second, we don't automate a task when
+the business doesn't have the volume to
+justify it. Right? Think about this
+particular client as an example.
+Remember how I mentioned that she's not
+getting a ton of volume of leads, but
+the leads that she's getting are very
+high quality. So, it doesn't make sense
+to automate a process where the volume
+doesn't justify it. Right?
+Now the most important key consideration
+when not to automate when thinking
+through the lens of this filter is if
+human judgment is the differentiator we
+do not absolutely do not want to use AI
+or automation there. If human judgment
+is the differentiator, if human judgment
+or the human touch is going to make or
+break that interaction or make or break
+that process, then AI will destroy
+credibility and destroy trust with the
+person on the other end of that
+conversation. So content is a big piece
+of that. Remember that goes back to us
+not recommending that she implement AI
+into her content creation workflow. We
+simply recommended she use AI or
+automation for the actual physical
+logistical process of posting that
+content
+which leads into the audit optimize
+automate philosophy. So the first thing
+that we do with any task is we've got to
+audit it first right which comes back to
+our AI tools assessment as a product.
+When it comes to the audit, optimize,
+automate philosophy, I've chosen to
+focus 100% of my time and build an
+entire business around the first step,
+which is audit. Because if you don't
+first conduct an audit or in our case an
+assessment, then you don't know what it
+is that needs to be fixed. So the first
+thing you've got to do is conduct that
+audit or conduct that assessment to
+identify the actual bottlenecks. The
+second thing we do is we optimize. We
+fix the process manually first. And then
+lastly, only after we've audited and
+only after we've optimized do we add
+automation or do we add AI. So that is
+the audit uh optimize automate framework
+is kind of what ties all of those pieces
+together. Now what I'm going to do next
+is I'm going to share my screen. So if
+you're watching this on YouTube, you are
+going to get to see this in action. If
+you're listening to this on the podcast,
+I will still talk through each piece of
+the tools assessment so that you guys
+can get as much value out of it as
+possible. All right, so we're here
+inside of Gamma, which is the tool that
+we use to deliver these uh reports to
+our AI tools assessment clients. Now,
+the first section that you'll see here
+is the if you remember one thing
+section. So, most reports like this have
+just a boring executive summary at the
+top. And nobody reads an executive
+summary. They want to get into the meat
+of the report. So, we replaced what
+would traditionally be an executive
+summary with a section that says, "If
+you remember nothing else about this
+report, remember these two paragraphs
+here." And in this section is where we
+where we quickly go over the four quick
+wins that we prescribed for this client.
+So, the quick wins in this case are
+Buffer for social posting, [snorts]
+Otter for notes and driving voice
+capture, a tool called virtual staging
+AI for listing prep, which is a game
+changer, and we'll get into that in a
+second. And then lastly, Cap Cut for
+social media video editing. The bottom
+line is the client can immediately
+reclaim four to six hours per week. All
+right, so if you remember nothing else
+about this report, that's what she
+wanted. That's what we wanted her to
+take away. Now, the next part of the
+report is where we go into the top pain
+points that we were able to pull out
+during our 45minute Zoom interview. So,
+the main ones, I'm not going to touch on
+every single one, but we came up with
+nine specific pain points. The biggest
+ones were she's spending 30 to 45
+minutes per task to complete what's
+called a CMA or a comp uh competitive
+market analysis, which is a report that
+she has to deliver clients. She's
+posting the same content separately to
+Instagram, Facebook, LinkedIn, and Tik
+Tok, which is taking her 10 to 15
+minutes per post.
+She is capturing voice notes and ideas
+while driving using Siri. And for any of
+you guys that have an iPhone and have
+tried to use Siri, it's borderline
+unusable. That is how bad it is. She's
+also virtually staging her listing
+photos, paying $50 per photo for virtual
+staging
+and she's trying to edit short form
+videos on her phone using the photos app
+on iPhone, which is simply not a video
+editing app. All right, so we identified
+nine main pain points, but those are the
+ones that we identified as being the
+quickest wins. And so the next thing
+that we do is we plot those pain points
+on an impact versus effort matrix. So
+again, what we're focused on are the
+quick wins. Those tasks or those pain
+points that are high impact but low
+effort to fix. And what we avoid
+spending any time on at all is the
+opposite end of that spectrum, which are
+the low impact, higheffort task. the
+things that would take a huge time
+investment on our end to automate, but
+we're getting virtually nothing out of
+that effort. So, we just avoid those
+entirely. All right. So, in terms of
+quick wins, we've got her social media
+posting across multiple platforms, a
+solution for notetaking and voice notes
+while driving, and the biggest one,
+which we'll get into the actual ROI for
+this, which I'm super proud of here
+shortly, is the virtual staging and
+photo prep.
+So the next section of the report is
+where we recommend the actual tools that
+are going to solve these pain points
+along with an expected benefit of what
+implementing that tool would look like.
+So the first quick win and the first
+tool that we recommended is called
+Buffer. Buffer is actually a free tool
+for up to three platforms that allows
+you to draft your post once and publish
+it to three platforms at the same time.
+So, what she was running into is that
+she was having to draft the short form
+video, log into Tik Tok, post it there,
+edit it a little differently to then go
+and post it on Instagram reels, and then
+edit it an entirely different way and
+write a caption to go post it on
+LinkedIn. So, Buffer completely
+eliminates that three-step process and
+turns it into a one-step process with an
+expected benefit of saving 30, 60, up to
+90 minutes per week if she's putting out
+a lot of content.
+Now, the next quick win is using a tool
+called Otter.ai
+for searchable notes and driving voice
+capture. So, she's driving down the
+street and she sees a property that she
+likes and she makes a note using Siri to
+say, "Hey, uh, remind me to call on 123
+Main Street and see if they want to sell
+their property." Well, Siri a lot of
+times is going to misspell the name of
+the street or it's just not going to
+give her a way to search those notes. If
+she just throws that into the notepad on
+her phone, there's no way to search it.
+So Otter is a tool that allows you to
+brain dump all of your voice notes and
+then it summarizes it with AI and makes
+it easily searchable. Realtors are
+always on the move and she's taking a
+ton of these voice notes every week. So
+that's an expected benefit of one and a
+half to two hours per week saved and the
+reduced mental clutter of knowing that
+she's never losing important details.
+And now I know this report is specific
+to a realtor, but if you're listening to
+this, you're a small business owner or
+you're a soloreneur and you should be
+thinking about the frameworks mentioned
+earlier and how this can apply to your
+business. Right? The tools and the
+specific use case in this case is
+irrelevant. It's the overarching
+framework which is going to be the
+biggest takeaway for the folks watching
+this. Now, the third quick win, and this
+one is huge, is we prescribed a tool
+called virtual staging AI. And what
+virtual staging AI is is it's an app and
+a website that allows you to upload a
+picture of an empty room. And in 10
+seconds, that room will be staged
+professionally as if it was staged in
+real life with furniture, with photos,
+and just make it look like a much more
+inviting picture that she can then use
+in her listing. And on the other end of
+the spectrum, it will take a hoarder
+house or an ugly room and remove all the
+furniture and remove all the clutter so
+that you get a clean photo of that
+property for your listing. Previously,
+she was paying $50 per photo for
+virtually staged photos. And most
+listings have what, 10, 15, 20 photos.
+Virtual staging AI generates these
+virtually staged photos for about a
+dollar per photo.
+So, this assessment, the ROI on just
+this assessment in year one, she's going
+to save about $10,000, no exaggeration,
+from this tool in year 1, just from this
+one prescription. That's how powerful
+some of these tools are that most people
+don't even know exist. And that's really
+the value that we deliver in going out
+and doing the leg work and finding those
+tools that apply to your specific use
+case. All right. So, the benefit here is
+she's actually saving. She's not only
+saving $10,000 a year in money. She was
+literally lugging around stuff to every
+listing appointment and setting it up in
+the house and then either taking the
+photo herself or paying to have it
+virtually staged. So, she's not only
+saving time, she's not only saving
+$10,000 a year, she's saving about an
+hour or more per listing. and the added
+benefit of a 10 to 15% improvement in
+the potential sale price of the house
+because it's a professionally staged and
+a good-looking house. Anybody who's in
+the real estate space knows that
+properties and listings that are
+professionally staged on average sell
+for more than ones that aren't. So, that
+is a legitimate real quantifiable
+benefit that she's going to get there.
+And then the last two, one being cap cut
+for short form video editing. So any of
+you guys listening to this in the
+content space, you know how valuable Cap
+Cut is in uh making video editing much
+easier. So this is going to entirely
+remove the friction that she was
+experiencing in the admin side of short
+form content editing. So now she can
+actually upload way more content, which
+is going to bring in more leads and it's
+going to make her more money and save
+her time from implementing the simple
+tool. Because prior to this, she wasn't
+using a tool at all. it was entirely
+manual. And then lastly is cloud CMA. So
+this is a tool that I went out and spent
+a ton of time researching all of the AI
+tools that help with doing CAS for
+realtors. So what used to take her 30 to
+45 minutes per CMA is now going to take
+her about 5 to 7 minutes. And these
+reports are polished and branded. So
+it's going to make her look a lot more
+professional as a result. So, if we look
+at the total expected ROI from this
+simple AI tools report, which by the way
+cost her $197, that's how much we
+charge. She is going to reclaim
+immediately immediate savings of 4 to 6
+hours per week.
+immediate lead quality and conversion
+increase of an estimated 10 to 25% from
+having professional branded polished
+CAMAs than for having properties that
+are professionally staged. All right.
+And then she's more than likely going to
+get faster offers and better pricing on
+her listings now that she's presenting
+professional CAS to her clients and now
+that she's uh presenting professionally
+staged photos at quite literally 2% of
+the cost of what she was paying before.
+And then we tie these reports off with a
+4-day implementation plan to walk you
+through step by step exactly how to
+implement the quick wins. So to
+summarize, it's day one, you download
+Buffer and use it. Day two, download
+Otter AI and use it. Day three, sign up
+for virtual staging AI. Day four, use
+Cap Cut. All right, really tried to make
+it as simple as possible. When it comes
+to, okay, I've got the prescription.
+Now, how do I implement? All right. So,
+to kind of summarize everything that we
+touched on here, your judgment is way
+more of an asset to you when it comes to
+AI and automation than is the actual
+tools themselves. Knowing when to use
+AI, knowing when to use automation, and
+on the other hand, knowing when not to
+use a II and automation, that is the
+skill. The tools are a commodity, the
+the technology is a commodity. Everybody
+has access to the same tools and the
+same knowledge, but it's the judgment
+that is the skill in knowing when to use
+it versus when not to use it. And the
+key takeaway that we presented to her is
+listen, let's just stack small wins.
+Let's stack a small win on day one,
+compound it on day two, compound it on
+day three, compound it on day four, and
+within four days, less than 10 to 15
+minutes of effort per day, you just
+compounded four small wins that are
+going to immediately reclaim you four to
+six hours per week. Another big takeaway
+is the audit, optimize, automate
+framework. We cannot jump straight to
+automation. That is how we spend a lot
+of money and a lot of time fixing, not
+fixing, but automating or using AI to
+amplify a broken process. That's
+actually going to cost us five to 10
+times more time and money in the long
+run than if we were to audit first to
+uncover our bottlenecks, optimize
+second, fix the process manually, and
+then and only then automate or add AI.
+And then the last takeaway is that
+context is everything. And this is why
+we're going deep into the audit piece of
+this framework as a business and as a
+product. Because what I don't want to do
+is sit out here and just pump out a
+bunch of generic, oh, top 10 AI tools
+videos or if you're a small business
+owner, use these three tools. Like
+that's not really going to help anyone.
+The value in AI is context. Generic AI
+advice is useless and specific AI advice
+is where you're going to get a huge ROI.
+So, if you're listening to this and you
+enjoyed this episode and you're like,
+"Well, hey, I would love to get one of
+these AI tools assessments for myself or
+for my business." I'd love to work with
+you. What I want you to do is I want you
+to go to return my time.com/quiz
+and take that quiz. It's going to take
+you less than 60 seconds. And what
+that's going to do is it's going to
+email you a personalized report that'll
+give you some steps that you can go
+through it pretty quickly to enhance
+your current level of AI knowledge. And
+then after you've taken the quiz, then
+it'll prompt you, if you're interested,
+to sign up for an AI tools assessment,
+which as of the recording of this video,
+we're offering for $197.
+So, thank you so much for watching. If
+you enjoyed this episode and if you uh
+got value out of it, like I said, like
+the video and leave a comment because I
+enjoy these types of episodes and I love
+to do more like it because I feel like
+this is where we really deliver the most
+value, breaking down real life
+businesses and real life use cases. I'll
+be back next week and thank you guys so
+much for your support.

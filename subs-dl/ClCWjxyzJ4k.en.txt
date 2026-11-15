@@ -1,0 +1,295 @@
+welcome to another blender tutorial and
+today we're going to look at some
+tips that are really going to help you
+when you're using blender for all kinds
+of designing
+now if you're a novice or a complete
+beginner these tips are really going to
+elevate your workflow to that next
+step but before that a quick word from
+today's sponsor about an awesome
+screen recording and video editing
+software by wondershare
+demo creator 4.0 is perfect for making
+tutorials
+such as you see on my channel but also
+things like demo videos presentation
+recordings
+gaming vlogs and just about anything you
+see on youtube
+you can easily add annotations and other
+editing elements
+in post-production one great feature of
+demo creator 4
+is that you can record your screen or
+you can even record your webcam
+and then you're ready to go live
+something that i've been thinking about
+implementing in future content is the
+use of green screens
+but yeah demo creator 4 is simple to use
+and you can grab it via the link down
+below in the description box
+you can also check out the tutorials on
+demo creator 4 as well
+so give it a try today so the first tip
+is to do with the layout to the ui of
+blender
+and we're going to break up some windows
+for an optimum workflow
+so just like in adobe illustrator at the
+very top here we have different presets
+so like in illustrator you might have
+printing or
+layouts and so forth and of course each
+of these windows
+correlates exactly to the kind of render
+that you're going to be working on
+and so to make our own workspace we're
+going to come over to the gutter here
+and right click and then use a
+horizontal split
+we could of course use a vertical split
+as well
+we can actually come to the center
+gutter right click and join these areas
+knowing how to merge windows and blender
+is going to make your life a whole lot
+easier when you're working on
+renders and designs
+let's quickly repeat the same process
+with a vertical split
+and we're actually going to change the
+right hand window to a different purpose
+and we can do that in the editor type
+menu
+now we have a lot of options available
+open to us and let's go for a shader
+editor
+so now i have two windows open on my
+program
+and i can actually save this as a preset
+and to do that
+you come up to here right click and then
+duplicate
+then it's just a case of renaming that
+new layer preset
+and now we have a new layout preset just
+like in illustrator
+however when you open up a new copy of
+this layout isn't going to be there
+which
+brings us on to the next tip in today's
+video
+now many of you realize or have seen
+that when you open up blender you do
+start with a cube but on my screen
+that's not what i'm starting with
+i actually start up with things as you
+can see on screen right now with a
+sphere
+and so forth and to make sure that
+blender starts up
+in a preset that you want to use come up
+here to file
+defaults and then save startup file
+and now every time you open blender this
+new layout that you've just created
+will be the startup defaults and so to
+save time you can literally
+create different layouts for different
+kinds of projects you know different
+nodes and so forth
+and then just save them so you can start
+up with them
+whenever you want now we can actually
+remove this
+double window setup like we did before
+by coming up to here and clicking
+dragging to merge them
+and so moving on to the next tip that's
+going to be really invaluable to you and
+your workflow and blender
+you must realize that blender is a
+really hot key orientated program much
+like adobe illustrator with lots of the
+keyboard shortcuts
+however it can be daunting to people
+coming into the program
+you know as a novice or a beginner
+because there are just so many
+different hotkeys blender does have a
+really cool and intuitive way around
+that
+blender actually has a search function
+and is something i would like to see in
+illustrator at some point
+and that can be accessed by hitting
+function 3 on your keyboard
+and that's going to bring up this window
+here and we could give a search
+for different kinds of functions or
+things in blender
+so as an example let's have a look at
+adding a sphere
+and you can see we have four different
+options for adding a sphere
+now of course the first one will add an
+empty sphere and we're actually going to
+look at a
+mesh uv sphere here
+and as you can see we've added a uv
+sphere to our blender scene
+and this search bar is really useful and
+intuitive and i think it's a great
+addition to the program
+so let's look at this one more time by
+pressing again function and three
+let's just give a random letter search
+of j
+and as you can see it's bringing up the
+join function
+and also a force field function
+we have here the keyboard shortcuts and
+it would be useful to remember all of
+these but this search term window is
+highly highly useful in parallel to
+illustrator you can actually assign your
+own
+keyboard shortcuts when working in
+and to do that navigate to a function
+and example here the gravity function
+right click it and then navigate down to
+assign shortcut
+and this will work for most functions in
+blender but some aren't going to be
+receptive to this
+we can also add a shortcut to our quick
+favorites and as an example here we're
+going to go for a mesh
+and then a cube
+and then we can right click that and add
+it to a quick favorites
+so when you press q for quick favorites
+you're going to have something here
+which is what you've assigned
+as you can see my cube option is right
+here for me to use
+so that's a really nice little feature
+added into blender
+now the next tip today revolves around
+rendering
+and a lot of people will like to render
+through eb or cycles
+however there are a few more rend
+engines that you can plug into blender
+and often what people would do when they
+just want to have a proof
+or kind of a glimpse at the render they
+will spend ages rendering out the scene
+when it's just it's just meant to be a
+quick look it's not meant to be the
+final render
+but something that makes more sense
+would be to come over here to the
+output properties and then turn down the
+percentage of the resolution to maybe 25
+or something and a quick side note in
+blender like in illustrator you can also
+do multiplication and division and loads
+of mathematical
+equations within these percentages here
+so 25 would be 100 divided by 4 of
+course
+and of course this 25 means that the
+render is going to be
+25 of this full 1080p resolution
+and remember this is just for rendering
+a quick preview of how things are
+looking
+and we can give that a quick try by
+pressing a function 12 on the keyboard
+and we have a
+quick snapshot of how things are looking
+and as you can tell it did do that
+pretty quickly and
+if you have a really you know
+complicated and busy scene
+it just makes sense to lower the
+percentage here for a quick look
+just for reference let's try the same
+command but at 100
+resolution
+so as you can see that actually required
+six seconds to complete
+and this is a very simple very basic
+scene so you can imagine
+if you're working on a very large
+project the difference would be
+you know really valuable and of course
+when you're working on a project you are
+going to want to be checking the
+lighting and the colors and everything
+as you go
+so it is going to be a huge time saver
+for you to actually lower that
+percentage of the resolution
+but you should remember to turn it back
+to 100
+when you commit to the final render
+and the next tip is being organized when
+working in blender
+blender can quickly become very
+cluttered with objects and
+lights and so forth and it's important
+that we actually keep track of things as
+we work
+and one great way to do that is within
+the outliner found here
+it's much like the layers panel in
+illustrator you
+want to be renaming things as you go so
+you can keep tabs and track of how your
+project
+is moving on so you can just double
+click a
+circle as example and rename it to
+something relevant to your project
+also in the outliner you can search for
+specific parts of your project up here
+and it will automatically locate that
+part of your design
+this is a really powerful addition to
+the program
+in addition to this you might have
+noticed that my base plate
+actually changed color when i renamed it
+and that's because i've set blender up
+to
+assign a random colors to the string of
+the objects
+and it's just a really intuitive you
+know way to work with unique objects and
+identifying them
+if you had all objects the same color as
+in this kind of pale blue it would
+start to become complex and not very
+intuitive to work with
+and to activate this in blender all you
+need to do is in solid mode
+come up to shading and then come down to
+color
+and then click random by default it
+should be set to material but i
+personally go for a random just to give
+that diversity in objects
+so there are some really useful workflow
+tips when working in blender
+if you'd like to see more videos just
+like today's do let me know down below
+and also click a video on screen to
+learn something else
+until next time design your future today
+[Music]
+peace
+you

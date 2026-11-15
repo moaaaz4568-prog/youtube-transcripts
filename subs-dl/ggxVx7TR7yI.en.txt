@@ -1,0 +1,1529 @@
+All right, guys. Welcome back to another
+episode of the Corey Ganam Show. So,
+today's guest is named Brandon Vaughn.
+This guy is a wealth of knowledge when
+it comes to all things AI. I met him a
+couple of weeks ago. We had a really
+highlevel conversation about things that
+he's doing with AI, specifically around
+hiring, and we're going to talk about
+his company, Hire Bus, and the way that
+they're using AI agents to take hiring
+to the next level and really smooth out
+that process. He's also coached, no
+exaggeration, over 20,000 different
+service-based business owners. This guy
+is playing the game of business at a
+really high level. And we have the
+privilege of spending the next 40
+minutes or so with him and and soaking
+up as much knowledge as we can. And
+Brandon, I hope that intro did did you
+justice. I know you do a little bit more
+than that, but uh I'm excited for the
+time, man.
+>> I appreciate it. That was a that was a
+killer intro. You're making me feel
+awesome. So appreciate you having me on
+and appreci I'm like super happy to be
+here and geek out on all things systems
+and AI and people.
+>> Yeah, absolutely man. Well, let's kick
+it off there. Let's start there. So
+before we jump into Hireer Bus and what
+you're doing specifically with AI and
+things in the agent world, why don't you
+just give us the quick and dirty
+background on, you know, the multiple
+ventures you have?
+>> Uh, well, let's see. ADHD crazy
+entrepreneur that has been on
+commissiononly pay since I was 13 years
+old with my first job. I got my first
+business license the day I turned 18 and
+have been self-employed my entire life
+and been in home services specifically
+is kind of like where I got my start.
+Uh, I've made every single stupid
+mistake I feel like you can as an
+entrepreneur from either hiring the
+wrong people, setting them up for, you
+know, terrible, terrible success, and
+saying the wrong thing at a team
+meeting, having half of my team quit on
+me, you know.
+>> Is that a true story?
+>> It's 100% true. We were booked out two
+months solid, the middle of our busy
+season,
+>> and literally over half my team quit
+within two weeks of each other. Uh, it
+was a nightmare. had my first panic
+attack, but I don't know what the heck
+I'm doing like every day. And I feel
+like I have to kind of stay in that
+sweet spot because that's kind of where
+I find growth. And, you know, constantly
+trying to I I never imagined that I
+would
+start up an AI recruiting company or a
+garage floor codings company or
+construction business or any of these
+things that I've kind of ended up
+falling into. But I think that's the
+thing that I love most about it is just
+that, you know, that that creating
+something from nothing and kind of
+coming up with that. That's been what's
+kind of fueled me over the years.
+>> Well, we've got to hear that story. You
+you can't lead off with, oh, I said the
+wrong thing in a team meeting and then
+half my team quit when we've got two
+months of pipeline backed up. So, let's
+let's hear that. I'm I'm curious to
+start there.
+>> It was so it was my cleaning business
+and my I don't want to blame my wife.
+This is going to sound like I'm blaming
+my wife, but I was I was having a
+conversation with with uh my wife and
+and I was like, "Hey, I I think I want
+to give one of my guys a raise." She's
+like, "Oh, I got the best idea for you."
+At the coffee shop where we worked when
+someone on the team got a raise, like
+our boss like announced it. We like like
+cheered for them and we was like, "That
+was so great." I'm like, "Really?" Like,
+"That's an awesome idea. I like that."
+So, I did that. And it had the opposite
+effect. And it was probably compounded
+by the fact that there were people on
+the team that had not gotten a raise for
+quite some time. And then the raise that
+I gave to, they did not feel like that
+guy deserved it at all.
+>> Oh my.
+>> And it was already kind of a tinder box
+in that business. You know, I was kind
+of at a place where I was semi-
+disengaged already. Uh had some personal
+stuff happen in my life. you know, that
+was u, you know, very very very heavy
+and was kind of checked out in general
+and just trying to kind of keep things
+at bay. And first guy came up, turned in
+his notice and literally like dominoes
+one after the other over the course next
+two weeks. It was insane. It was it was
+crazy crazy stressful period. And I've
+had I've had a lot of those moments over
+over my career. I keep I keep finding
+ways to do dumb stuff, which hopefully
+you learn from, right? That's the goal.
+>> It's funny you say that because I I feel
+like I say that every other week. I'm
+like, why do I keep doing this dumb
+Like, it's constant. It's
+constant. And it's like in hindsight,
+it's like, oh yeah, why would I have
+ever done that? But in the moment,
+you're like, oh, this is a great idea.
+And it ends up being the worst idea
+ever. So, I can absolutely relate to
+that.
+>> You just got to kind of send it though.
+You know what I mean,
+>> right? Like I think everything every
+mistake that I've made in business over
+the years a has come from what I would
+consider to be the right intentions.
+And every result that you have in your
+business, whether it's a failure or some
+horrible thing, it's just a result.
+>> It's just feedback back to you on action
+that you took. And I would much rather
+take action and be wrong than take no
+action for that fear of making a mistake
+because it's impossible to avoid. And
+especially now in like this whole world
+that we live in, things are moving so
+freaking fast. It can be paralyzing to
+just feel like things have to be perfect
+before you take action. Um, so I I've
+really tried to lean into that
+discomfort as much as I possibly can. I
+think that's my new survival strategy.
+Well, it's smart, too, because I mean
+that's that's where you learn, right? I
+mean, I again kind of relating back to
+my own experience. I feel like 2024,
+well, it's not that I feel like it it
+was the best year of my life monetarily
+and in business. And thinking back to
+it,
+>> I mean, I certainly learned things in
+2024,
+but not as nearly as much as I've
+learned this year in 2025, which
+objectively for me has actually been a
+pretty bad year in terms of business.
+But it's like I've learned more in the
+last six months
+that than I learned in all of 2024
+combined. And I feel like you know the
+what you learn in a down year I feel
+like is is kind of what propels you into
+better years in the future. So I I kind
+of echo that sentiment and you're not
+growing if you're not making mistakes
+and if you're not failing.
+>> You know, it's interesting. I've done a
+lot of speaking at different events. I'
+I've had the privilege and pleasure of
+being able to be invited to conferences
+where there's a lot of like home service
+business owners that were there. And one
+thing was really interesting when I
+would both sit in the audience listening
+to a speaker or being on stage speaking,
+there were people that I noticed that
+were very very successful that when a
+speaker talked about a book, they were
+on Amazon and they were ordering that
+book. when the speaker talked about like
+hey here's something that we did in our
+team on the sales processes or in the
+office like they were texting their
+teams and they were delegating they were
+setting up things and like speed of
+execution
+seems to be a common pattern that I see
+in most successful entre entrepreneurs
+that I've spent time around and now with
+like the whole advent of AI and how fast
+all this stuff is moving the ability to
+be able to just move fast absorb
+information fast, execute quick, get
+small wins, don't worry about
+perfection, but just worry more about
+just taking action and just getting 1%
+better every single day. That seems to
+be kind of the recipe for how a lot of
+these business owners are going to be
+able to not only succeed, but also just
+stay relevant. I think that's the part
+that I'm most terrified about is, you
+know, falling behind and not staying
+current with the changes that are
+happening.
+>> Absolutely. you know, and your point
+about getting 1% better every day. I
+mean, I think that's the best way to
+look at things, right? I mean, that you
+you kind of have to take that approach
+because I'm sure we all have those days
+or those weeks where we make quantum
+leaps where maybe we get 10% better or
+20% better in a day, but just focusing
+on that that 1% improvement each day, I
+think, is critical. Now, one thing I
+want to kind of get into is you had
+mentioned in the intro, you've got a
+what did you say? uh a floor uh was it a
+floor codings business, a construction
+business, and an AI hiring business. So,
+those are three businesses that to me
+seem to be polar on polar opposite ends
+of the spectrum. So, how do you go from
+construction to AI hiring to uh like
+floor coatings?
+>> It's funny. So, I you know, my dad, he
+was an owner operator window cleaner for
+40 years. That's how I got into
+cleaning. I worked alongside him. He
+paid me commission to work alongside and
+you know would just pay me like a
+percentage of whatever we did. And so it
+taught me to work really fast. But then
+my first business was a cleaning
+business. Then I did construction and I
+just kind of fluttered around. I have
+what's known as I think the DIY uh death
+syndrome
+>> where I love to figure things out. I
+like to see how it works. I like to do
+it myself. Not because I have I well I
+guess it is probably rooted in a little
+bit of control but mostly just because I
+love to learn and I and I like to I like
+that satisfaction of just figuring
+something out and be like wow like I can
+I can do it. But it's been one of the
+toughest things for me as an
+entrepreneur
+because if I'm good at something
+therefore I want to turn it into a
+business and then I have an extremely
+hard time learning how to delegate that
+and expand that out to a team in a
+systemized process. And it took me many
+many years to kind of get that figured
+out. And I had a lot of different
+businesses kind of over the course of
+time. Uh after my cleaning business, I
+sold that. We had about 70 employees at
+the time when I sold that business. Then
+I got into a coaching company. They kind
+of gradually let me into that. That was
+a very natural progression because I had
+a lot of people asking me about, you
+know, how I grew my business and, you
+know, in a shorter period of time. And
+then while I had that coaching business,
+I decided to launch a a YouTube channel
+called Map to a Million where I wanted
+to document starting another brand new
+company from zero without doing any work
+in the field, without answering any
+phone calls, without doing any sales and
+just do it through, you know, people,
+>> right?
+>> Uh and that was that was why he's
+coding. So I picked a a company I had no
+experience in deliberately.
+And you know, we went from zero to
+$100,000 a month in four months. And
+then we had seven figures our first
+year. And then now three and a half,
+four years later, we're doing uh we have
+39 locations, you know, 2 million a
+month in revenue. And that's literally
+with me working, I'd say an average of
+about an hour a week in the business. Uh
+because I hired a full-time CEO to run
+that company. And literally from day
+one, like when I when I started, I had a
+full-time job as CEO of Conquer. So it
+it had to be done like on the side. So
+you know, all these things I it feels
+like it's a gradual progression. I know
+they bounces all over the place, but for
+me it feels very kind of linear that one
+thing led to the next which led to the
+next. Uh I have a a marketing company, a
+bookkeeping company, an electrical
+company, a manufacturer.
+>> Currently, you're saying all currently?
+>> All currently. Yeah. about 12 12 total
+right now um that are kind of underneath
+my parent company, but full-time my
+focus is Hire Bus. That's a that's my
+full-time nineto-5.
+And so I I really want to dive into
+Higher Bus, but I've got a million
+questions in between before I even get
+there. So, it's funny while you were
+talking about Map to a Million, I
+actually pulled that up on YouTube. So,
+the the YouTube channel for anybody that
+wants to check that out is called
+Conquer. It's at conquer platform and I
+just think that's such a unique idea
+wanting to to go zero to a million
+essentially by having putting other
+people into place to do the to do the
+work for you. Now I think there's some
+people listening to this that are
+probably at a much lower level of
+business thinking that oh I can just
+hire a bunch of VAS to do the dirty work
+for me. But what you're talking about is
+it's like no we're not hiring VAS. I'm
+hiring a CEO who I'm probably paying a
+few hundred,000 a year and who's also
+probably getting equity in the company
+to come in and build this thing to like
+you said $2 million a month which to
+most people is is not even
+comprehendable at this point. Now,
+so your other 12 companies that you
+have, I'm assuming CEOs in place for all
+of them, operation, you know, executive
+team in place for all of them to where
+really you're able to spend most of your
+time on higher bus and the portfolio
+kind of runs itself. I mean, is that
+fair to say?
+Yeah, it was it was really a I'll you
+know transparently when I first kind of
+started the experiment of putting CEOs
+in place to run the business and sharing
+equity I had no idea what I was doing
+and I made some you know less than ideal
+decisions and got some feedback and have
+had some you know partnerships that I've
+had to kind of adjust and pivot on a
+little bit over time but now for me I've
+had some really, really amazing coaches.
+One of my coaches, name is Carl Allen,
+he's done over $350 billion worth of
+mergers and acquisition deals.
+>> Jeez.
+>> And he's literally told me
+straight up that 80% of his due
+diligence time that he spends when
+making an acquisition is ensuring that
+he has a good operator to run that
+business.
+And for me as a high visionary, lower
+integrator type of person, I need to be
+surrounded by those that, you know, can
+actually get things all the way to the
+finish line and get those things done.
+>> And, you know, they have higher
+criticality than me. They don't have the
+same level of ADHD distraction
+and you know why I need to walk on a
+treadmill 10 hours or 10 miles a day to
+just get the get the the the antsies out
+of myself. So for for me getting that in
+place and and learning how to find good
+operators,
+you know, Steve Jobs says, "I don't want
+to hire people so I tell them what to
+do." You know, I want to hire smart
+people so that they tell me what to do.
+>> Y
+>> and if I want to grow a business from
+one location to 39, I'm going to go find
+someone that has experience in taking a
+business from eight locations to 220.
+And then for them, it's like, "Okay,
+sweet. I know the playbook. I know how
+to do this. this is how I'll do it and I
+don't have to be as involved. Uh I you
+still have to inspect what you expect
+and set good KPIs and dashboards and you
+know hold them accountable. You can't do
+delegation by abdication
+>> but it does allow you to be able to
+leverage that and be a little bit more
+passive as an investor.
+>> And then you only get paid when there's
+upside. Like I don't take salaries out
+of any of these businesses because I'm
+not involved in the day-to-day. It's
+just like a real estate holding or
+owning stock. it's just in stock of a
+company that I have, you know, control
+and kind of founding power over.
+>> So then with that type of model, right,
+and I I think it makes sense that you
+don't take a salary because you're not
+really in any of those businesses, but
+I, you know, with there being profit in
+these businesses, you're probably taking
+what, like a quarterly dividend or a
+distribution of some sort on the profit.
+Yes.
+>> And then the CEO is also incentivized
+with that same upside, I would assume,
+in some capacity, right?
+>> Yeah. Yeah. Well, there there's a
+variety of different ways to compensate.
+One of my companies is a percentage of
+profit that's generated that's month
+that's paid out monthly. But then
+there's also, you know, equity vesting
+options or equity vesting schedules,
+whether it's granted or they're provided
+as options. And our ultimate goal with
+all of these is an eventual exit. You
+know, we're going to exit no matter what
+with all these. And with Wise Codings or
+with any company I own, I have to think
+about what could that eventual exit look
+like and can my CEO partner have upside
+to where the time that they invest into
+it can be very very lucrative. You know,
+completely change their, you know, their
+life with that type of exit.
+>> And for oftentimes a lot of these
+operators, it's the first time they've
+had that kind of opportunity.
+And what does the cadence of
+accountability look like with the
+portfolio company? So with 12 different
+companies again operator in place with
+each of them, are you meeting with the
+operators on a weekly basis? Is it a
+monthly check-in? What does that look
+like as far as holding them accountable?
+So the ones that I actually meet with on
+a regular basis, the ones that actually
+have executive leadership that requires
+my attention, we meet for about 30
+minutes a week and we go through KPIs
+and usually I come onto those calls
+saying like, you know, what's keeping
+you up at night? Where are you stressed
+out? How can I lean in and help? And I'm
+more of like a thinking partner as well
+as someone who holds accountable. Okay,
+what's your OKRs? What's the dashboard
+look like? always go through the KPIs,
+you know, uh how can I unlock things?
+Does the business need more cash or
+capital? Is there some other strategic
+part where I can lean in? And for the
+most part, it's just kind of helping
+them achieve what their ultimate goal
+is, which, you know, is a large exit or
+is big distributions. Like if I can show
+up and say, I want you to get huge
+checks and I want you to have massive
+upside in this, like we have the same
+alignment on what what we want the
+business to be able to do. So it it
+comes from a place of service to be able
+to show up and and try to help them get
+that which in turn, you know, is what
+we're both aligned on.
+>> Yeah. I mean, it makes sense, right?
+Because you want them to have that
+upside. You want them to therefore be
+incentivized to perform at a high level
+to eventually achieve that exit like you
+said. Now again, I'm I'm more so asking
+these questions out of my curiosity
+because I love the direction that you've
+gone with your business and you know, I
+see myself doing something similar and
+having a portfolio of companies down the
+road. But one of my questions is around
+so again operator compensation. I know
+there's a million different ways to
+structure a deal, but is there any sort
+of standard or boilerplate kind of
+structure that you start from? whether
+it's or just what whatever that might
+be. Do do you have any insight on that?
+>> Yeah, a lot of it depends upon a few
+factors. Uh one, is it a startup or is
+it an already existing established
+business that has a lot of enterprise
+value already established? if you're and
+and I kind of was in this uh you know
+founder syndrome, startup syndrome that
+I had earlier on in my entrepreneurial
+career which over time I've realized for
+me personally it's way better to buy a
+business or to get a business that's
+already established already secure
+already has free cash flow. There's lots
+of ways and I had a good coach that
+taught me a lot of stuff on that side to
+buy businesses with very little cash
+down. So, if you have a business that's
+larger that already has some enterprise
+value, you're not just going to give
+somebody equity into that business
+because if it's worth millions, you
+know, you're not going to just give them
+>> basically just writing them a check
+>> percentage. Yeah. And and you know, and
+they and then what, you know, they leave
+six months later and all of a sudden
+that's just like gone.
+>> Mhm.
+>> So, a lot of it has to do with how you
+write your structure, your uh your
+operating agreements. You can grant
+people opportunity to earn equity in the
+form of a grant or in the form of
+options to buy and purchase later on.
+And like in the form of a grant, usually
+what I do is I'll base that around
+certain IBIDA targets. So okay, we have
+an IBIDA threshold and if we can hit
+this IBIDA target, that will unlock a
+little bit of equity for you. And then
+we hit this next EBA target and it'll
+unlock a little bit more equity. You
+know, maybe they can find a path where
+they can earn 5, 10, 15, 20% ownership
+in a company that they otherwise
+wouldn't have. And I can set a vision
+for, hey, in X number of years, this
+could be like our target exit time
+frame. This is what the value would look
+like. Here's how much that equity would
+be worth for you.
+>> And that's retirement level money for
+someone coming in. And it's way more
+than they would get, you know, getting
+20,000 shares of a of a big publicly
+traded company or something as options
+for them to buy at a strike price. Like
+it's real life-changing exit for them.
+uh and then they get a guaranteed salary
+and they have bonuses and I usually like
+to have a little bit lower of a base
+salary with more performance-based
+metrics whether that is gross margin,
+net profits, revenue growth, uh you know
+something that is ultimately based off
+of the profit and loss of the business
+>> to give them a little bit of upside in
+the short term as well as that longer
+term opportunity. So it sounds like
+there's all I mean there's there's got
+to be a variable level of compensation
+for all the operators, right? It's never
+going to be just straight salary or you
+know stock options plus salary. It's
+always going to be performance-based I
+right. I mean it has to be otherwise
+what's the what's the incentive to
+operate at a high level? I mean is that
+>> 100%. You know, and it's at the end of
+the day, it always comes down to a
+negotiation.
+>> Because if I tell someone, hey, this is
+going to be based on performance. And if
+you can hit these benchmarks, then this
+is all the money you're going to make.
+And they look at me and say, "Well, I
+don't want it to be. I want guaranteed
+something." I'm going to say, "Well,
+why?"
+>> Right.
+>> Yeah. Why?
+>> Because you feel like you can't do this.
+You know, you just finished telling me
+all the things that you could do and you
+have done. Sounds like it's kind of a
+no-brainer. I mean, I've structured this
+in a way where if you just do that, this
+is what you get. Why do you now not want
+that,
+>> And if you know, is it that you don't
+have confidence you can do this? So,
+getting some of those psychological
+conversations and alignment of interests
+put in place.
+The big thing with someone that moves
+from maybe a corporate guaranteed
+position into something that inherently
+is a little bit more entrepreneurial
+is that the definition to me of an
+entrepreneur is someone who's willing to
+take a greater than average risk for a
+greater than average reward. Well, why
+should you get all the guarantees in the
+world and then also get all the
+guaranteed upside there as well? That's
+not how it works. That's not if you want
+that extra reward of the equity. like
+look, you can you can get your
+guaranteed and you can go have your job
+and hopefully no one fires you and you
+walk away with nothing,
+>> Or you can do this and hopefully you
+also don't get fired, but if you do a
+good job, you actually get real upside
+that can completely change your life.
+And you know, this is just an
+opportunity that doesn't come along very
+often for a lot of executives. And some
+people are really up for it and it kind
+of scratches that entrepreneurial itch
+and maybe they do really well with it or
+maybe they struggle. Uh, but getting
+that person in place that has that good
+blend, depending on what the the growth
+strategy is of the company, if it's
+going to be an acquisition play, green
+field growth, you kind of look for
+different types of operators that have a
+specialty in a certain type of thing.
+It's aligned with your vision because
+that's the other tough part about
+getting executives and people is that if
+you're misaligned on a vision, you're
+really going to have a lot of conflict.
+So, you have to make sure that you both
+have a general understanding of how
+you're going to grow this thing. You
+know, it's not you're not totally
+passive. Uh, and I don't think anyone
+ever should be completely passive in a
+>> Absolutely. I mean, as soon as you
+become fully passive is as soon as the
+the company starts to degrade. I mean,
+like you said earlier, right, delegation
+by abdication is is not a viable
+strategy. Now, I'm curious. Do you have
+any any horror stories with any of your
+operators or any of the executives that
+you put in place where maybe the
+expectation was one thing and it turned
+out to be just completely the opposite?
+>> Oh, sure. Yeah, absolutely. you know,
+without going into, you know, any
+specifics, I will say that I've been in
+situations, especially earlier on in my
+career, where I had a lot more optimism
+of what someone's capabilities were than
+even they had on their own capabilities.
+>> And when those when when that
+misalignment became very very clear and
+obvious,
+>> it really hurt the business. And it was
+very difficult for me to take away this
+opportunity of what it could be and that
+kind of original vision that I sold them
+on
+>> kind of felt like I was stealing it from
+them.
+>> And you know, I have low criticality. I
+love people. I want people to win
+>> and I'll bet on someone even if they
+won't bet on themselves. And it's taken
+a most of my horror stories, I would
+say, is around me looking at people and
+a lot of situations with just
+rosecolored glasses. And
+>> I make the same mist. Yeah, I do.
+>> It's what gets me, it's what's always
+kind of consistently gotten me in
+trouble. U you know, one thing that's
+awesome, our our hire, we we have
+something called the right seat
+assessment.
+>> Mh. And it's a single question
+assessment that on the back end of it
+gives you 21 different behavioral
+attributes on a scale of 0 to 100. So it
+gives you what's called a behavioral
+blueprint.
+>> And one of the measures on it is
+criticality and it's your desire to be
+critical of people and thanks. I have an
+extremely low desire to be critical of
+people and thanks. I have to surround
+myself with business partners and others
+that have a much higher criticality so
+that they can keep an eye out on my
+blind spots and be like, "Uh, no,
+Brandon, this is not this person isn't
+as good as you think they are."
+>> Right?
+>> And my wife fortunately
+is like nearly 100% criticality. She
+>> total opposite.
+>> We make really really good uh partners
+and it's a good strong marriage even
+though sometimes it's spicy. uh just
+because I get that second layer of
+perspective and and I've just learned
+over the years that I I need that in my
+life. I need to surround myself with
+people that offer those different
+perspectives.
+And it's really really important when
+you're trying to put people in place
+that you can trust like this, right? And
+I think it there's something to be said
+too for surrounding yourself with people
+that I mean like you said like you and
+your wife you have opposite not
+necessarily opposite traits or opposite
+skill sets although sometimes that can
+be valuable but having people in your
+life that kind of excel in the areas
+that you are weak in and vice versa like
+like you said kind of to be able to fill
+in those blind spots. So I I like that
+and I think that it makes a ton of
+sense. And one thing that you mentioned
+earlier or you mentioned a couple of
+times throughout the conversation is
+coaches you've had or coaching that
+you've received and it sounds like
+you've been coached by some really
+highlevel people.
+And I think there are a lot of people
+out there that are afraid to invest in
+coaching. And I think for a couple of
+reasons. one, sometimes it's because
+they I think this is more of like a a
+deeper rooted issue, but maybe they they
+don't want coaching because they know
+that they're flawed in some way, but
+they don't necessarily want to
+acknowledge it. So, they don't want to
+bring that to light and therefore they
+don't want to get help with it,
+>> And then there are other people who
+>> they just incorrectly don't see an ROI.
+They're like, "Oh, well, I why would I
+spend, you know, five grand or 10 grand
+or I mean, in your case, I'm sure you've
+spent hundreds of thousands of dollars
+to
+>> get a certain piece of advice or to get
+access to a certain kind of person when
+in reality, one gem or one piece of
+advice or one introduction could be
+worth 10x what they paid." So, what's
+your I mean, I guess I know your
+philosophy on coaching, but are there
+any maybe major breakthroughs that
+you've gotten from a specific coach in
+the past? I know you've mentioned a few,
+but any more?
+>> Yeah. Well, I'll I'll kind of preface it
+by saying this. When when you pay, you
+pay attention.
+>> Yes, absolutely.
+>> It's like I know exactly what I need to
+do at the gym. I know how to do every
+single movement and exercise. I know all
+about macros. I know how much I should
+be eating. I know that candy is bad for
+me. I know that I should be doing stuff,
+you know, like all this stuff. I
+inherently know it.
+>> Yep. But when I know I'm going to lose
+60 bucks or 80 bucks for a coaching
+session at 6 a.m. if I don't wake up and
+I'm not there to like be with my trainer
+or meet someone. Like I get up out of
+bed.
+>> Yep.
+>> And I wish I had that level of, you
+know, discipline that some people have
+where they just have that internal
+motivation that just gets them. But I
+feel like I kind of need to be
+professionally babysat in a lot of
+different areas of my life. I like that
+professional babysitting.
+>> Stupid as it sounds and it it was a part
+I was like so embarrassed about and I
+just hated that about myself and
+personalitywise.
+>> But things just hit differently
+when you are not just listening to a
+free piece of information that you saw
+on a YouTube video or a Facebook ad or
+some random thing, a free course. Like
+when you pay for something, your mind
+shifts to this is now an investment. And
+if I don't execute, if I don't apply
+myself, if I don't actually do the
+action, then it's a waste of money and I
+have something to lose. Now, if I don't
+execute, if it's free and you never log
+in and watch the course and you never go
+in and do it, it's like, well, it's no
+big deal. Like, it just doesn't it
+doesn't hurt.
+>> So, having something to lose for me has
+always been like a little bit extra of a
+motivator. And sometimes it's that
+motivator that I need. And then two,
+when you just pay a higher amount, often
+times, not all the times, but oftentimes
+you just get access to a different
+caliber of person,
+>> Or a different caliber of information
+that has more value. Again, the value is
+only there if you actually execute and
+do what it is that you learn. But for
+me, if I can have the confidence of just
+being able to borrow someone else's
+confidence
+>> that, hey, I'm really struggling with
+this decision. They're like, absolutely,
+this is the right decision.
+>> Yes.
+>> I'm like, okay, all right. Well, then I
+do it 100 times faster than I'm just
+agonizing what I should do.
+And every time I've had those little aha
+moments or those epiphany moments, a big
+one for me and my coach more recently
+was actually around, you know, buying
+companies and how I could buy a company.
+I bought an electrical company that free
+cash flows from day one. And, you know,
+that's that's led me to like my next
+thing. And the more reps that I do, uh,
+the better I get at being able to buy
+and set up these companies for success,
+uh, it really has kind of unlocked a lot
+for me.
+I really couldn't agree more with you
+when you say that when you pay for
+something, especially coaching, it's
+like now you have something to lose. Not
+only are you you have money to lose by
+not showing up and not executing, but
+you also if you don't execute on what
+the advice that you're paying for is, I
+mean, you kind of look like a fool to
+that coach, right? It's like, why are
+you paying them? You know, in your case,
+your coach might say it's why did you
+pay me, you know, 10 grand or 50 grand.
+I don't know how much you're paying your
+coach, but I'm sure it's not cheap,
+right? So to them it's almost like well
+you're almost not worthy as a student if
+you if
+>> they if you're not going to execute what
+it is that they say. And it's I mean
+most of what you're paying for is
+accountability, right? Like I'm sure a
+lot of maybe not all of what you're
+being coached on, but a lot of what
+you're being coached on and a lot of
+what you're being told is probably not
+things that you've haven't heard before.
+It's not like, you know, brand new
+groundbreaking information. It's more so
+being held accountable to be to focus on
+this one thing. At least that's been my
+experience, right? I I've been a part of
+group coaching programs in the past, but
+it wasn't until about really about a
+month ago I invested in one-on-one
+business coaching. And Brennan, I swear
+to you, session one, minute five, we're
+having a conversation. We're talking
+about, you know, things. And he says
+something to me. He's like, "Oh, well
+yeah, like that's what you got to focus
+on." And to me, it's like, "Well, duh."
+Like, in hindsight, it's like, "Of
+course." Like, "Why haven't I been doing
+this all along?" And it wasn't new. So,
+it was I told I've been telling myself
+that for months. I just hadn't I didn't
+have the accountability in place to
+actually go and do it. And literally
+within 48 hours, it was implemented. The
+team was trained on it. We've got a
+system around it. And it's like I had to
+go and pay a guy, you know, a few grand
+to tell me what I already knew, right?
+But it was worth it because now I'm
+actually doing it, right? Whereas maybe
+I would have done it eventually, maybe
+not. So, I I completely agree with you
+and I think it's totally worth it. You
+got to find the right person and the
+right fit, of course, and somebody who's
+been there, done that. But once you do,
+I think it's worth every penny and then
+some.
+>> Yeah. And it's interesting because a lot
+of the coaches who I've worked with,
+they do not make their living from
+coaching,
+>> They have their own very successful
+enterprises and, you know,
+entrepreneurial ventures and it's just
+like a side thing that they do. And
+>> when especially when when you coach
+someone and you have a limited amount of
+bandwidth and you don't really do it for
+the money, like the money part scratches
+the itch that okay, you know, I I know
+that this person's going to pay more
+attention. They're going to be more
+likely to execute because now they're
+paying something. They're showing that
+it's serious. They're showing that it's
+valuable. But when they see you not
+execute on something, like my coach just
+straight up told me, he's like, "Look,
+if at any point I feel like you're not
+getting value, I'm going to fire you
+before you quit." Just
+>> and that's a good coach.
+>> And like, okay, dang. You know, and
+there's been a couple times where he had
+like a moment he's like, "Are we at this
+point now where, you know, I I'm I feel
+like I'm getting into babysitting
+territory where I keep telling you the
+same thing, right?
+>> I'm not a babysitter. Like, if you're
+not going to do this yourself and I'm
+like, dang it, you know?" and and I've
+had good coaches on the fitness side
+that have had very good mental unlocks
+and you know things that I just said
+that I couldn't do. Uh and it's just
+been that way my whole more adult life
+especially in these recent years where
+I've realized that value. Incredibly
+important. Absolutely. No, I agree 100%.
+So let's get into again more of the kind
+of the business portfolio that you have.
+So of the 12 companies that you're
+running right now, which one are you the
+most bullish on? I'm assuming higher bus
+because that's your main focus. Is that
+the case?
+>> 100%. Yes, 100%. I mean, Hammer and
+Forge, I'd say, and well, Wise Codings.
+Wise Codings is definitely um I'm super
+passionate about that business. Whitney,
+my partner and CEO over there, is just
+absolutely crushing it. She's doing an
+amazing job. But wise uh hirebus has
+itched this AI obsession
+that I have been in deeply entrenched in
+learning and it has been some of the
+most fulfilling
+type of education work DIY. I mean, it's
+it's one of the times where I feel like
+DIY is just really really really paying
+off because you're learning to apply
+this most world changing tool that the
+likes of which no one has ever seen or
+used before and you're in the true
+bleeding edge side of technology.
+Um, it feels like the wild west. It's
+like the new frontier
+>> and it's like the beginning of the
+internet. it. Yeah, it's really really
+crazy. So, it's been very very
+fulfilling that the value of a software
+company has blown my mind on just how
+software companies are valuated compared
+to other types of businesses in
+multiples of revenue versus multiples of
+IBIDA or SDE. And so, all of those
+things kind of combined have made it
+just a really exciting opportunity.
+>> And we're building tools that literally
+are changing people's lives. like the
+right person for a company can literally
+change their life. So that part has been
+extremely fulfilling for me and the
+trades right now is booming because
+people are recognizing that AI is
+eliminating a lot of positions and some
+of the most safe haven industries right
+now that exists are in the trades and
+home services. So that's been like
+perfect storm of just timing and
+opportunity, I think.
+>> Right. Because until the Tesla robot is
+jumping up on the roof and hanging
+shingles, then there's still going to be
+a lot of opportunity for service people.
+>> Yeah.
+>> So kind of run through the the higher
+bus business model. My understanding,
+correct me if I'm wrong, is you guys are
+essentially using AI to empower home
+service businesses to quick, I guess,
+more quickly and more efficiently
+execute the recruiting process. Is that
+kind of the gist of it? Yeah, very much
+so. It it's one of the most hated
+processes for home service business
+owners of finding good people
+>> because you know you have an hour or two
+of talking to someone to try to
+determine whether or not they're going
+to be a good fit and they're going to
+work hard and they're going to do this
+and you have a variety of data points
+slashgut instincts and the data points
+are mostly fabricated because 70% of
+people lie on their resume and they you
+know admittedly lie on their resume or
+exaggerate stuff.
+>> And now AI is writing a lot of people's
+resumes.
+>> So the part that we decided to do was
+just take all of that very very mundane
+work and kind of play matchmaker for a
+person who is behaviorally really well
+fit for enjoying and succeeding in a
+specific role inside of a business. and
+then finding a business owner, what
+really matters to them, their core
+values, uh, and who they're looking for,
+and then making sure that that applicant
+finds that business owner and has a
+really fantastic fit together. And it's
+still a human in the loop process
+because they're the ones that are
+actually deciding on this, but we just
+prioritize the top 3% of talent to be
+stood in front of them on autopilot. So
+everything from writing the job ads,
+posting them, split testing them,
+revising copy, nurturing all candidates,
+interviewing them, analyzing the resume,
+you know, calling, following up,
+texting, giving them a right seat
+behavioral assessments and scoring them,
+and then teeing them up. Like all of
+that just kind of happens on autopilot
+for a business owner. So, you're saying
+that pretty much every one of those
+steps that you just mentioned there is
+being done by AI, even including the the
+calling like because I've heard some of
+these AI voice agents that are, for
+example, calling a restaurant and making
+a reservation, right? That's obviously a
+very elementary use case.
+>> But I think the technology is evolving
+so rapidly. Are you saying that at this
+point you've got either an AI agent or
+some sort of AI enabled tool calling
+these candidates and maybe screening
+them over the phone as part of the
+process? Like I guess what what does it
+look I guess where's the human what is
+the human doing in this case?
+>> I mean the human is starting with us to
+be able to just give a tremendous amount
+of data points and information on what
+makes their business unique. What are
+their core values? What are they looking
+for? What's the ideal person look like
+for them? So it starts off with really
+getting a deep understanding of the
+client and what they need. Secondly, it
+starts uh the next you know touch points
+are posting the job ads, writing them,
+getting those people coming through. But
+we allow candidates to conduct an
+instant interview. So normally what
+happens is a candidate interviews for a
+position, they maybe get an automation
+and then maybe they talk to somebody in
+3 days, 7 days, 14 days, however long it
+takes. then they have another interview
+later on. Whereas they have the ability
+to the second that they apply conduct a
+real interview and learn about the
+position uh be asked questions, identify
+whether or not they'd be a good enough
+candidate to push them into the next
+round. And the next round is is led by
+humans. And we actually benchmarked all
+this with real human interviews. And the
+cool part about it is is that there's
+higher satisfaction rates on both sides
+when someone can get an instant
+interview and understand exactly whether
+or not they're going to enjoy this
+position, whether they qualify for it
+actually. And it's not wasting neither
+the candidate nor the employer's time.
+So that's kind of that that uh initial
+benefit that happens. And then of course
+the employers at that point pick up the
+ball and make the final decision on
+whether or not they would actually want
+to work with this person face to face
+moving forward.
+>> And so am I correct in in my
+understanding that that initial instant
+interview is being done with an AI
+agent? So, the candidates's applying
+online and it's like, "All right, here
+you can do a first round interview right
+now." And they maybe they click, you
+know, interview now and they're just
+chatting with an AI agent, right? The AI
+agent that's trained on the specific
+company that's doing the recruiting,
+their core values, what they're looking
+for, maybe the qualities of some of
+their best employees, right? Like you
+said, you're gathering a lot of data up
+front from the actual recruiting company
+to then go out and almost like custom
+train that AI agent to look for a
+specific type of person.
+>> Exactly. And the AI is not making
+decisions
+>> in the hiring process. It's not saying,
+"Well, you're not hired or you are
+hired." All
+>> right. It's just filtering. It sounds
+like
+>> it's prioritizing. Yeah. It's
+prioritizing who are the people that are
+most excited, most engaged, have the uh
+best uh you know propensity for this
+type of role. Um have the experience
+because a business owner they want to
+know okay you know how what does their
+experience look like? And we actually
+coach a lot of people into not having
+lots of really heavy hard requirements
+for experience because some of my best
+employees have been those that have
+never done garage floor coatings before,
+ever,
+>> But they just have a beginner's heart.
+They have the right soft skills. They
+have the right behaviors. They'll pick
+up and they'll learn anything. And we
+have a good training program. So, we
+actually not only help find people, but
+we spend a lot of time coaching business
+owners on best practices for onboarding
+and for setting up their employees for
+success and training them properly. And
+we have tons of resources and tools that
+we give all of our clients systems,
+written job descriptions, onboarding
+checklists, etc. Uh so that they are now
+more empowered to be able to make that a
+successful role placement too. So, it's
+really just making home service business
+owners better talent procurement
+specialists
+and providing a better home for when the
+employee comes and lands instead of this
+being a rinky dink little, you know,
+hole-in-the-wall business. Like,
+>> right,
+>> let's teach it to be a professional
+operation that attracts good people, you
+know, because that's a big part of the
+problem too for a lot of business
+owners.
+>> Well, and I think it's such a strong
+pitch. I mean, again, hearing this
+coming from you and having a better
+understanding of what you guys do, if
+I'm a home service business owner, why
+would I why would I work with anyone
+else or why would I go through the
+normal recruiting channels, right?
+Because I mean, going through the normal
+channels, you there's so much human
+error, there's so much human bias,
+there's so much ball dropping, right?
+Like, why would I not want a a candidate
+to be able to do a first round interview
+immediately, right? To me, it's just
+it's almost like too good to be true.
+Obviously, it's not, but that because
+that's where technology is heading.
+>> Now, I'm sure you've got maybe not even
+in front of you, but I'm sure you know
+some data points off the top of your
+head as far as success rates or
+retention rates with your model versus
+traditional recruiting. Do you have any
+data points that you could kind of spit
+off the top as far as you know when we
+recruit a candidate they stay x amount
+longer or you know anything along those
+lines?
+>> Yeah, the biggest one that we see is
+it's it's a 38% drop in turnover.
+>> Wow.
+>> So, uh
+>> significant. Yeah, just just that that
+one thing alone is a a huge huge huge
+huge huge increase, especially when you
+consider the cost of turning over an
+employee on average for even like a
+lower level position is around $5,800.
+>> And it goes up to a full year salary for
+some positions like operations managers
+and directors and you know higher level
+positions.
+But having an understanding like that's
+one side of the equation. The other side
+that we see, the metric that I'm
+actually most proud of is the amount of
+time that a business owner, how much it
+frees up them and actually helps them
+with a better work life balance.
+And when you have someone like some of
+these positions, like a production
+manager, operations manager, office
+manager, they're life-changing positions
+because you have a business owner that's
+working 80 hours, 100 hours a week, and
+they're like, I started this business to
+be free. I'm more of a slave than ever,
+right?
+>> I'm making barely anything. And it's
+very, very hard to be an entrepreneur.
+Most people have no idea. And to be able
+to help them find their team member that
+can drastically transform their life
+personally and also provide a great deal
+of fulfillment to that team member who
+just so happens to love that career and
+see the impact that they're making. It's
+one of the most fulfilling things ever.
+And that's just like ah it's one of the
+coolest applications I've been able to
+see of AI where the end net result is
+just better human connections and
+relationships. Like I I really really
+love it. I'm really happy to be in it.
+>> Well, and I love that you guys are
+you're using AI to really augment the
+human experience in a good way. I think
+that's a lot of people's issue with AI
+is they
+>> they think oh it's going to take over
+our jobs or it's going to put some
+people out of business and you guys are
+kind of taking the opposite approach.
+It's like well actually we're using AI
+to get people jobs like to do the
+opposite of what a lot of people are
+afraid of. So I I love that you guys are
+taking that approach. Now, out of
+curiosity, and I'm sure it depends on
+maybe the role that you're hiring for or
+I mean, I'm sure how many people you're
+hiring at a time, but like what is the
+general cost to work with you guys or to
+let's say go from
+uh hiring to onboarding using Hire Bus?
+Uh it the pricing package starts at
+about
+197 bucks a month and that provides the
+right seat assessment. It provides the
+coaching reports, the ability to be able
+to send links to team members using the
+API. If you have your own applicant
+tracking system or something else, you
+get that extra layer of just analysis
+and predictive nature. uh all the way up
+to, you know, maybe 800 bucks a month
+where we do all the hiring. We do all
+the interviewing. We basically install
+uh full-time fractional AI recruiter in
+your business that is always
+interviewing for you for given roles.
+And it's way way way cheaper than even
+hiring a full-time VA to just do nothing
+but that. and it's way better and you
+get way more insights and more
+experience.
+>> And so that's in essence where a lot of
+our clients kind of fall is more in
+that, you know, upper tier because
+they're looking at hiring, you know,
+five plus people a year for different
+types of roles or they're growing and
+that's in essence kind of where we
+settle at. And it it can go up from
+there, but that's usually where most of
+our people kind of fall.
+>> Interesting. cuz I I was honestly
+expecting you to say like, "Oh, it's 5
+grand or it's 10 grand." But I mean,
+from a you know, a software business
+owner perspective, it makes sense that
+you want to build MR. I just I don't
+know why I was thinking more of like a
+flat rate type style, but I guess it's
+because you're probably targeting well
+obviously home service businesses who
+naturally just because of the industry
+are going to have turnover or are going
+to have a constant need for new more
+plumbers or more roofers or more just
+more people. So, they probably subscribe
+for what, five, like are you even even
+able to share kind of the average length
+of time that people stay subscribed? And
+I guess a follow-up question would be
+>> does some people say like, well, hey, we
+need somebody right now. So, maybe they
+subscribe for two months. They find that
+person, 6 months later, they need to
+hire another guy, so they resubscribe.
+I'm sure you see a lot of that, too.
+>> Yes, it's a great question. And
+honestly, when we were first starting
+this out, we were like, what is the
+right model with all of this, you know,
+because it was something that was new.
+What we found is there's a difference
+between proactive and reactive mode. So,
+like with Wise Codings,
+>> we have 280 technicians on a waiting
+list to join our company.
+>> And the reason why is because we never
+turn off our job ads. We never stop
+interviewing. And everyone that we talk
+to, we say, "Hey, we think you'd be a
+fantastic fit. We are anticipating an
+opening coming up very soon. Is it all
+right if we put you on a waiting list?"
+And as soon as that pops up, we'll shoot
+you a message. And it changes the
+dynamic. And really, this is best
+practice for anybody, which is to always
+be on the lookout for talent. Always be
+lookout because
+>> let me tell you, especially in home
+services, you'll have technicians that,
+you know, they start slipping up.
+They're not following things properly.
+um you have salespeople, you're going to
+be growing, you're going to have a lot
+of positions that will really need butts
+and seats. And what happens is if you
+wait until you desperately need
+somebody,
+>> it's too late.
+>> You have a couple weeks to try to hire
+someone and then you're hiring anyone
+with a pulse,
+>> And you perpetuate this terrible
+culture.
+>> whereas if you're doing performance pay
+and you have your leaderboard from first
+place to last place, you now have the
+ability to fire someone. It's okay to
+fire low performers,
+>> A lot of people don't fire low
+performers because they're like, "Well,
+it's just gonna take so much work to
+replace them. I'll just stick with my
+necessary evil because this is way more
+evil to go find somebody else."
+>> That's not what we do. So people, we're
+all we we're literally recruiting 365
+days a year for our clients. And then
+what they do is they just turn on and
+off whether or not they want calendared
+interviews for that final selection to
+happen. But we just let them know, hey,
+here's some awesome people that we
+found. Let us know if you're interested.
+And you'd be amazed at how many times
+people are like, yeah, I want that
+interview.
+>> It's it's so smart, right? And I mean,
+it makes it makes logical sense. It's
+like, why would you not be building It's
+kind of like the you know, I know you're
+you've been in the coaching space, too,
+right? It's kind of like the weightless
+model of if you've got a coaching
+program or a community and maybe you
+only open it up, you know, a couple of
+times per year. If you've got a weight
+list of people who have already raised
+their hand and said they're interested,
+well, the chances of the people on the
+wait list actually, you know, becoming
+paying customers is so much higher. And
+so it makes complete sense to do that
+from a HR perspective when you're hiring
+people again, especially in these home
+services industries that do see a lot of
+turnover.
+And I feel like higher bus goes
+completely handinhand with uh with your
+other business because I mean like you
+said if you got a low performer just you
+can them and you you go to the weight
+list and hire on that next person and
+it's to me it's just it makes perfect
+sense and those businesses obviously
+feed one one another very nicely.
+>> Yeah. Yeah. It's been it's been amazing.
+It's been an awesome experience and you
+know you asked how long people stay for.
+Well, we started this a little over two
+years ago and on average it's about 18
+months. That's about what our our length
+of of of time is, our lifetime value.
+And it just keeps extending out because,
+you know, when when people have a
+perpetual pipeline of good, strong
+talent, like why would you ever want to
+turn that off? Why would you ever want
+to lose that
+>> that uh that level of control over the
+talent that you have on your team? It's
+literally the most important asset
+because that is what you sell,
+>> Are the people that you have that go
+perform your services
+>> that fulfill the work. Exactly. No,
+that's it's so so eye opening. I've got
+I could ask you a million more
+questions, but I know we're already up
+against an hour.
+>> Maybe another Maybe another uh another
+podcast sometime.
+>> Yeah, absolutely. Well, Brandon, where
+can people follow you or find out more
+about you or connect with you? If you go
+to hirebus.com,
+uh if you are a service business, and by
+the way, we don't just hire for home
+services. We hire for a lot of
+industries. Home services is obviously
+where a a niche that we've formed
+because of my background. Uh but if you
+go there, check that out. Also, if you
+go to, you know, follow me, Brandon
+Vaughn or Hireus on Instagram, Facebook,
+uh we're working on getting some
+additional social content out there for
+just entrepreneurs. Uh but just message
+me, shoot, you know, let's let's talk if
+you need any kind of talent to come onto
+your team. Happy to have one of our
+recruiters get on a call with you. And
+we do also have a guaranteed hire
+program for just oneoffs as well.
+Doesn't have to just be a recurring. So
+we've hired CEOs for people and found
+general managers and account executives
+and and commission only salespeople
+uh for a variety of different types of
+of industries. So never hurts to ask
+Well, I'm so glad that you and I
+connected a few weeks ago because next
+time I go to hire somebody, I I know
+exactly who I'm going to because the
+hiring process, it's just intimidating.
+It's a pain in the ass, as you know
+better than anyone. So,
+>> yeah. Yeah,
+>> Brandon, I I appreciate the time, man.
+Uh guys, again, that's hire. That's h I
+rebu.com.
+We're going to put that in the show
+notes. If you're listening on podcast
+platforms, we're going to put that in
+the description. If you're watching on
+YouTube, we'll also link to Brandon
+socials. And Brandon, thank you for the
+>> Thanks for having me on, Corey. I
+enjoyed it.

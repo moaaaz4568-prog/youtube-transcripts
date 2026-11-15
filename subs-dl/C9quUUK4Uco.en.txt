@@ -1,0 +1,3357 @@
+Class, so the goal of
+today's
+meeting is
+to figure out how you
+can
+use AI
+for your business.  This
+will be partly
+theoretical, partly
+practical;  We will
+not consider all the
+tools, but those that
+I would recommend to you for
+business automation.  Again,
+there are many
+tools.  There's Hermes, there's
+Claude, there's ChatGPT, there's Codex, there's Grok
+Bot, there's anything, right?
+But the important thing is that I
+will show you, and you
+can decide whether
+it is right for you or
+not, we will consider
+many practical
+cases.  If you don't
+know who I am—although
+if you're here, you
+probably do.  My
+name is Michele.  We
+provide
+AI training for
+companies and individuals
+who want to start an
+AI-based business.
+We've trained over 5,000
+people in live sessions
+like this, but they were
+online, not in person, right
+?  And also worked with
+over 50 companies:
+from small firms to
+consulting
+billion-dollar
+corporations on the
+implementation of AI.  So
+in the process, I saw what it's like
+to implement
+AI in small and large
+companies, and what
+tools they
+use.
+Of course, over time,
+the tools
+have changed, the approaches
+to using AI
+have changed, but the
+basics always
+remain
+the same, okay?
+Before today's
+meeting, I asked
+you to answer seven
+questions on a form.
+Some of you have done it,
+some of you haven't, but we'll
+go over them.
+So, I asked you,
+how often do you
+during the week?  You
+mentioned that 100%
+use it
+several times a
+week.  I also
+asked what you
+use AI for, and
+it's interesting because
+most of them said:
+research, thinking,
+writing texts and
+content, and
+doing real
+business work without
+my involvement.  My
+hypothesis is that
+most of you
+for research and
+routine tasks because
+you don't know how to
+for anything else,
+right?  And I also asked
+you what
+tools you
+Most of you
+are using Claude,
+ChatGPT, and Gemini—these are the
+main advanced
+models.  Codex and Zephyr are
+in the minority here, right?
+I also asked
+how much
+does a business spend on
+AI tools per
+month?  Most
+answered 50 or between 200
+and 1,000, which tells
+me that you are already
+using
+AI tools here and
+there in your business.
+And we also have options for
+over 1,000 and from 50 to 200
+dollars.  And I also
+asked how many
+hours per week your
+team spends on
+repetitive work
+that doesn't require, uh,
+that doesn't require
+human decisions.  So
+, these are things that are simply
+repetitive and that
+can be automated
+.  Less than 5 hours and from 5
+to 15 hours is the
+main part, and 15-40
+hours is the exception, which is
+interesting, because this
+can definitely be automated
+in your business.  Are
+your
+core processes written down somewhere?  We
+did a session with
+Khalid, and one thing
+that struck me was that
+he had everything
+mapped out.  That is,
+his entire process of
+creating scripts,
+ideas,
+adaptation operations—everything was
+put on
+shelves.  So,
+he had everything there was to
+see.  He
+systematized it.  That's
+good because then we
+automate it.
+OK?  Most of
+you said that some things
+are systematized, and
+some things probably aren't.  And
+finally, what's
+stopping you?  Why don't you
+use AI?
+Some of you said it was
+overrated.  Who
+said it was
+overrated?  There you go
+.  Good.
+Yes, that's true.
+So, the goal of
+meeting is to change this
+belief.  "I don't
+trust the results"
+and "I don't know where to
+start," which is of course
+normal.  "I
+tried it and it
+broke", "no
+time to set it up
+".  OK?  This suggests
+that most
+of you
+are using AI to some extent.    There is a
+lot of
+junk around.  So
+it's hard to filter out
+what's really
+important and what's not, and
+that's really all.  So, the
+main idea of ​​AI,
+in particular, is
+that it can
+simultaneously build a
+system and manage
+it.  This means that
+for entrepreneurs,
+the opportunity lies
+not so much in learning
+AI per se, but
+in how to delegate
+AI processes.  This
+means that you don't
+necessarily need to have
+technical skills
+.  Three years ago, when I
+started, I
+needed to know
+APIs, how they work,
+different integrations and
+all that.  This is no longer
+necessary thanks to
+tools
+like Claude Code and others,
+right?  This means that
+your ability as a
+founder
+to implement AI
+depends not on your
+technical skills, but
+on whether you can
+correctly compose
+queries (prompts) for
+AI.  OK?  So, as I
+was preparing my presentation,
+I thought it would be
+helpful to go over the
+terminology,
+as some of you
+may not know what it
+means.  So, LLM.  So
+, LLM, when I say LLM, it
+means brain.  This is a
+program that
+processes most of
+the internet to
+read and write
+like a human.  Model,
+ChatGPT, Claude—it's all a
+brain that you
+choose, like a
+car model.  We have
+ChatGPT, which is a Lamborghini, and then there's
+Claude, which is a Ferrari.  So, they
+all have different models
+and different types of cars.
+We have an agent.  An agent is
+something that can perform
+actions.  He doesn't just
+talk, he does the
+work.  An API is a way for
+programs to communicate
+with each other.  So, if I
+say that an application has an
+API, it means that it
+can communicate with
+other applications.
+That's how
+automation works.  Next,
+we have the MCP—a universal
+connector that connects
+AI to all your
+applications.  Specifically,
+in Claude we will talk
+about connectors, meaning
+Claude has access to
+all your
+tools.  He
+does this through the MCP,
+okay?  Protocol
+of the concept of models.  GPT
+is a family of
+models within
+OpenAI.  That's why we
+call them GPT.  So,
+GPT 5.1, GPT 6.2, GPT 10.5.  When I
+started, it was GPT-3.
+It's GPT-6 Astra now, and there
+will be many more
+new models, okay?
+So, Claude and Claude Code
+are all you
+need.  That's
+the reality of artificial
+intelligence, right?  We were
+talking about Claude
+.  There used to be Claude, Claude
+Code Work, and Claude Code, but Claude
+Code Work no longer exists.
+Only Claude remained.
+So, Claude and Claude Code Work
+are one thing, but just Claude
+is another.  The exact
+replacement for this in
+ChatGPT is ChatGPT and Codex.  This is Grok
+Bot.  I think they have a
+version for coding,
+but generally it's something
+like this.  So Claude and Claude
+Code are the main things we
+will use
+.  Why do we choose them
+over ChatGPT?  It's a
+matter of preference,
+interface, and
+ease of use.  It's
+very simple, it's a
+low-hanging fruit
+that's easy
+to exploit.  But I
+think the technology
+behind Claude is
+better overall, and it's
+much cheaper in the
+long run
+.  That's why we
+use
+Claude, we implement
+it in our business, and we
+use it ourselves in
+our business,
+okay?  So,
+first let's talk
+about Claude.  Who here
+uses Claude?
+Raise your hands.  Who among
+you uses or
+plans to use
+Claude?  Yes?  Good.
+Perfectly.  So,
+know Claude and how
+to use it.  There are
+three main
+uses for Claude.
+Only three.  This is
+everyday work,
+product, and artifacts.
+Everyday work
+is, in fact, what you
+do every day.  In many
+ways, it's just
+research and
+reflection, a kind of
+brainstorming with AI.
+But Claude's main advantage is
+that
+he can now
+use the MCP
+to connect to the
+software.  This
+means that if you
+go into
+Claude's settings, go to the
+connectors section,
+you will see a
+discovery page.  You see
+all your applications are presented here,
+which means that
+Claude can now
+connect to all of
+them.  So, if you
+use Claude, the
+first thing I would advise
+is to understand what
+apps you
+use every day
+.  For example, I
+use Notion,
+Typeform, Stripe, I
+use YouTube.
+I doubt YouTube
+is there, but you should
+check if
+your apps are there.  This
+allows your Claude
+to have not only the context of
+your conversation, but also the
+context of all your
+tools, and to be
+able to act on them
+directly.
+Of course?  Note that the
+only limitation of AI
+is that it
+does not have access to
+your tools.
+So just check
+if you have access to them
+.  So, Claude
+can now have
+access to Shopify, Notion,
+Stripe, Typeform, and Miro.
+Back when I was just
+starting to work with
+AI, Claude didn't have
+access to all these
+tools.  That was
+3 years ago.  It seems like a
+long time ago, because 3
+years is a long
+time, and you can see
+how quickly the
+field of AI is developing
+, everything has changed.  So
+we are limited only by the
+tools that
+Claude has access to.
+Of course?  So, having
+access to your
+software is
+incredible.  We did
+n't have this kind of
+access to
+software before.
+But if he doesn't have
+program, you can still
+work on the
+computer yourself, right
+?
+So, it works like this:
+let's say Claude, and we'll
+talk about Miro,
+since that's the example
+we're going to look at—
+Claude has access to Miro,
+which means we
+connect
+them both through the MCP.  We
+connect Miro to Claude
+.  The point is that everything
+Claude does on the
+backend is code,
+all sorts of complicated stuff
+that we don't
+necessarily need to know about.
+log into Miro,
+perform all your
+tasks, return the
+result, and you
+control Miro
+directly
+within Claude.  So
+yes, he can do
+everything for you.  It can
+take control of
+your MacBook, do
+almost anything for you, but
+you have to
+connect your
+computer here.  Yes.
+What is the difference between API
+and MCP?
+So, APIs are how
+MCPs work.  An API is a
+way for
+programs to communicate.  It's like a
+foundation, how it
+actually works.  MCP
+is actually a feature
+that Claude has for
+connecting to
+various programs.  So the API
+is the basis of how
+everything works, and the MCP is
+just a feature that
+these applications have.
+I think he asked the same thing I did
+, I had
+this
+question too.  Maybe it's
+different, but how do you
+software that isn't
+integrated into Claude?  Is it
+through an API or something
+else?
+Good question.  We
+work with many
+companies, study
+their processes, and
+create diagrams, but the
+limitation is that
+their software dates back to the 1980s.
+This means that CRMs in
+healthcare companies are
+simply outdated,
+so there is no API there.  There are
+two main
+solutions.  Either you don't
+automate this
+step and you automate
+only the first and second
+half, or
+you create... For example
+, Khalid has a
+script writing process.    It has
+five
+steps that it should
+perform automatically
+.  Then he
+uses the
+Hemingway program, which
+greatly simplifies the
+reading level of the
+text.  And then
+he has further
+steps.  Hemingway does not have an API.
+So we do this:
+we automate the first
+part of the process,
+then it manually
+processes the part with
+the result, and then
+we take the result and
+automate the rest.
+This is not ideal because it
+creates a lot of
+inconvenience.  The second thing you
+can do is
+create your own API,
+which I won't
+talk about because
+even I don't know how to
+do it.  It's all
+just solid
+individual code.
+The third is creating a
+custom API
+integration, which is
+extremely difficult.
+We hardly
+do this.  We
+only do this when
+we work with
+corporate
+clients because they have
+applications that are
+simply legacy,
+meaning they are
+very old, have
+a lot of limitations,
+privacy and
+security issues, so we don't
+want to do this.
+So the fourth thing
+is to give
+Claude access to your
+computer so that he
+can actually
+log into your
+software and
+perform actions for you
+.  Um, that's exactly what he'll
+do.
+So, I think a lot of
+people are obsessed with
+the question: Will
+Claude connect with
+everything?  Does
+it automate everything?  Would
+you agree that
+some people
+use this as an
+excuse, saying that
+Claude doesn't
+connect to the
+program I
+use, so I won't
+others?  But I think
+one caveat
+you make is
+valid: it might be
+worth starting with the
+solutions that are already
+available.  Do them,
+and then worry about more
+difficult things.
+Yes.
+100%.  Miro, for example, 3
+months ago we couldn't
+connect it.  It was
+impossible.  Now it is
+possible.  In 6
+months, who knows what
+will happen.  Truth?  So No.
+Of course not.  This is very
+good.  This is a valid
+observation.  So, the
+first step in
+using Claude
+is to connect it
+to your
+tools, the ones
+you already have.  And only
+after that can you
+think about creating
+other things.  But over
+time, more tools will be
+connected
+, more
+will have APIs.  The
+more
+this space develops, the
+more of everything
+will appear.  For the
+same reason why
+Claude wasn't
+anything special 2 years ago, but
+is now.  And in 2 years
+something new will appear
+that will change the world,
+right?  But it's kind of
+Yes.  100%.  Yes.  This is a
+valid observation.
+I don't know what you're
+leaning towards.  If so, then
+type
+But how do you approach the
+process of simply
+connecting it to
+your own computer and
+what exactly do you get
+from it, besides the
+mere fact of
+connection?  So all
+these different programs.
+Yes, the simplest
+option, the dream
+result that we
+want to achieve, is
+for all applications in
+the world to be
+connected to Claude.
+Then you don't
+have to do
+any other
+browser automation where Claude
+actually
+connects to
+software and so
+on, right?  We
+only use browser automation when the
+application doesn't have an
+API, and Claude takes
+control of your MacBook
+by clicking on various
+elements.  Only when there is
+no API do we resort
+to this method.  So,
+the main advantage is
+that if
+the program cannot
+be connected to Claude,
+it can simply log
+into your computer, and
+your question is: how do you
+set this up?  Ahem.
+Before this.
+I think I heard in
+another video we were
+talking about being
+able to connect Claude
+to all your files.    Is
+n't that right?  And make it
+do your
+job.  Claude calls work.    It
+seems to be Claude cool,
+if I'm not mistaken.
+Claude is cool, yes.  Me, yes.
+But maybe we'll
+come back to that
+later.  Can it
+run workflows
+by connecting to
+all your files, and
+how would that work?
+We will answer this question later.  That would
+make more sense
+because there's a lot of
+context, you know?
+Ahem.
+Last question.
+Is it effective when
+Claude goes into your
+computer and controls
+everything?
+No.
+Is it more efficient to have a
+direct connection?
+You see, it's very
+simple.  By the way,
+click the "
+plus" icon, select "
+connect", two
+buttons—and you're done.  And
+it performs all the actions
+for you.  So, this is the
+most effective
+way.  As for
+controlling your MacBook, it's
+possible.  But you will
+have to be
+present at
+the computer for this to
+work.  So it's
+not the same as just
+having a direct
+connection here.
+Of course?  So, the
+first
+use case for
+daily work is
+connecting all
+your tools
+directly to Claude.
+An example would be a
+situation where
+Tristan needs to
+make a YouTube video analyzing
+Alex
+Gormozi's sales system.  Instead of
+making a
+Miro board himself, he
+asked Claude, "Hey,
+make me a Miro board
+," adding a link.
+He had everything
+planned out in about 30-60 minutes.  So
+it wasn't his
+work, except for
+maybe a few
+pictures.  And this was
+done through MCP.
+Right?  So, all of this,
+which is honestly
+incredible, was
+done by artificial
+intelligence.  Again
+, these images, I
+think, he simply
+added as links to the
+input data, and then
+AI created everything.  Same
+with Shopify.  You
+can connect
+Shopify to Claude and it
+will get all the data,
+do everything you
+need, and take
+actions.  With Notion—the same.  With
+Miro—the same.  So, Claude
+now has access to
+tools.  It's not
+just AI, it's an agent,
+because agents
+act.  They don't just
+chat with you
+back and forth.  Of course?
+Now the second thing is
+projects.  This is a great
+example of using
+, because a project is something you
+can find right
+here in the
+projects section.  You
+press the "plus".
+You enter a title and description,
+and you get a page
+that looks like this.
+I'll tell you how to
+use this
+case, because that's
+exactly what we're using
+.  So, he has a
+process for creating
+scripts for
+clients.  He did
+it by hand.  The problem is
+that it took
+a lot of time, resources
+, and human labor, although
+much could
+be automated.
+So what a project
+actually is—it's a small
+space that you
+create inside
+Claude that contains instructions
+and files.  You provide
+context as to what
+exactly he should
+understand.  You give
+instructions about
+who he is and what his
+role is.  And then you have a
+chat window where you
+communicate with him and
+he uses
+files and instructions
+to respond to you.
+So it's super-super
+easy.  The difference between...
+Actually, the best thing about
+projects is that
+the memory is constantly
+updating
+itself.  So the more
+you talk to him, the
+more conversations you have,
+the more he
+learns about you.  And
+over time, it gets
+better.  Of course?
+Now for
+Khalid's example: we made
+one of his
+clients equal
+one project.  And for
+the project, he
+needs instructions
+and language mechanics,
+that is, how the client
+speaks.  He
+needs a detailed
+ideal
+customer profile (ICP) for
+each customer.  And
+he also needs
+hook structures and
+formats for short
+videos.  So with
+this context and
+instructions, he can
+create scenarios
+for each client.
+And over time, if each
+client has their own
+project, it means that
+the product itself
+learns more
+about the client, because
+you are having conversations
+about them within the
+framework of this project.
+So, one client,
+one project, over time
+each product
+will learn on its own, and
+you will have the
+necessary context
+here.
+What, how did he learn... How do
+you understand what he should
+learn and what not?
+You...you don't
+know that.  This is the only
+nuance.  So, as you
+chat with ChatGPT every day
+, it learns something
+about you and actually
+stores some of the
+information
+you talk about in memory
+.  You don't even
+know about it
+because he doesn't tell you about it
+.  But sometimes
+memory is refreshed.
+You don't know
+exactly when.  And if you
+ask ChatGPT right now: "
+Can you tell
+me everything you know about
+me?"  He will tell
+you things you never
+asked to keep,
+but he will simply
+learn more about you
+.  So the AI
+will make its own choices.  Yes,
+we don't really
+know what exactly it
+stores.  It sounds like they
+had some problems?
+Um, yes.  Here—no,
+because you're doing general
+stuff, but when it
+comes to big
+companies and your
+privacy, like
+your API keys, which are
+passwords in your
+apps, your
+credentials,
+credit card numbers.
+Often I would just
+take a picture of my
+credit card and
+say to him, "Can
+you recognize the number
+so I can
+use it to
+pay?"  God knows if
+this number ends up
+anywhere else.  We'll see.
+Large companies,
+say, with a turnover of
+tens or hundreds of
+millions, should
+protect their
+privacy,
+right?  So does
+this mean they shouldn't
+use AI,
+or how are they addressing
+this issue?
+They create, they
+host the
+systems themselves.  What does "
+self-hosting" mean
+?  This means they
+host it on
+their own server.
+ChatGPT and Claude are currently
+hosted on
+Claude's servers.  Claude owns
+the server.  You would simply
+use a
+virtual
+private server, which
+is a very fancy
+way of saying—
+your own server
+inside your MacBook
+.  So all the information
+it stores
+remains locally
+on your computer.
+She doesn't go
+outside.  So in
+legacy companies
+, corporations, we
+use different
+software, but we
+basically
+host the entire process ourselves.
+We can't
+because it's simply not
+appropriate.  All
+the information would just
+go to Claude.    Can I
+turn off
+memory?
+Yes, it is actually possible.
+But still, the way
+Claude gets
+better is through data.  This is
+communication with you.
+The more he
+communicates with you,
+the better he becomes.  So
+it will retain
+memory even if
+you don't want it to.
+You can't
+let AI
+join
+meetings, right?
+If you are discussing
+something confidential.
+Yes.  You could.
+How do you, for example, in a
+scripting center like this,
+guarantee quality
+that cannot
+be obtained from AI, like in a
+library?
+You see, I'm
+sure many
+services
+use AI, and
+customers may be
+dissatisfied because they
+receive
+low-quality
+content.  So how do you
+ensure
+top-notch quality
+when working with AI at
+scale?
+Yes, that's a very good
+question.  AI is
+something like an
+employee.  Think of it as
+if one
+client has one
+screenwriter.  Why
+might a screenwriter
+do a bad
+job?  If you give
+him bad
+instructions, if you
+teach him bad,
+then he will simply do a
+bad job.  So,
+garbage in,
+garbage out.  The
+same with AI.  So if
+the context here is good
+and the frameworks are high-quality,
+it means that
+the project itself and the result
+will be good.
+For example, in sales
+, if you give him a
+bad
+sales framework, you
+will get a bad
+result.  So,
+anyone can create a
+project, it's very easy.
+But it's not easy to know exactly what to
+invest in this
+project.  What kind of
+speech mechanism is actually
+needed?  What is a
+hook framework?
+Because my
+hook frameworks
+might be significantly
+worse than
+Khalid's.  So the better
+you understand and the
+more context you
+can provide, the
+better the outcome will be
+.
+Okay, one more
+follow-up question
+on this.  How do you...is there a
+specific
+way to
+contextualize information
+so that Claude can
+really...So that Claude
+understands exactly what you're
+trying to convey, or do you
+just throw out all the
+valuable information so that
+he can phrase it
+his way?
+Yes, good question
+.  I should have added this,
+but there is
+one important point about the instructions.
+In fact, when you
+add documents, it is
+important
+to use
+Markdown markup.  So
+Markdown markup
+open Google Docs,
+you have heading one,
+heading two,
+heading three,
+subheading, body text, and so on.
+Why is this happening?
+Even in school, when
+we write essays, we
+headings so that
+the teacher understands
+the hierarchy of the text.  It
+recognizes heading
+one, heading two.
+If you just
+paste all the text
+without markdown,
+it won't be able to
+structure it, it will
+just
+overload and
+give you complete
+nonsense.  So,
+you need to
+markdown, which
+consists of
+hashtags.  One hashtag
+is headline one,
+two hashtags is
+headline two, three
+hashtags is headline
+three.  This is the way you
+should
+format the
+information you
+enter there.  Each
+heading should be like a
+title.  For example,
+if you want to give
+it a
+sales script, “
+sales script” would be the
+level heading.  The needs identification stage
+—headline.
+Closing the deal,
+objections—so that he
+understands that this is a block with
+objections.  This is
+the first thing you need to
+do—
+markdown.  Second:
+in the instructions you
+must give him a
+certain role, define
+who he is.  This is
+better because the AI
+tricks itself into
+thinking it really is
+that character and
+produces a better
+result.  For example,
+if you are a doctor, you are a
+very good doctor
+who helps people
+perform XYZ function
+.  So he limits his
+identity to this
+specific role.  And
+then you give him
+clear instructions
+on what he should
+do.  And add
+different input-
+output examples so that he
+understands exactly how you
+speak.  So it's a
+combination of
+markdown for format, and
+roles and
+tasks for
+instructions.
+Good question.  Do
+you recommend
+asking AI to create
+the prompt itself?
+Right.  Yes.
+Yes, one hundred percent.
+You don't need to
+do it manually.  I would
+recommend
+using Whisper
+Flow.  Most of you
+already know about it.
+Just talk to your
+heart's content in Whisper Flow.
+I started
+using it
+yesterday.  He was just
+leaving.    That's
+all.  Just
+use Whisper Flow
+, dictate the code, and
+at the end say, "
+Hey, can you
+turn this into a
+system prompt that
+I can
+use for
+projects?"  And he
+will do everything perfectly.
+You copy and then
+paste it here.
+AI will create a prompt for
+you.  Once the prompt
+is created, it's, I
+mean, you just
+copy and
+paste, but you...
+You just copy and
+paste, right.  You
+go to the
+chat window of something else.
+You can just
+run it through
+Whisper Flow and then
+say, "Hey,
+give
+me a system prompt
+in markdown at the end."
+Copy this and
+paste it here.  These
+will be the instructions.
+OK.  So at Hardnox
+we probably have
+about 50 sales
+reps right now,
+correct?  So if I
+wanted to review
+their sales
+calls, since it
+takes me, well,
+maybe 20 hours a
+week, right?  Can
+I upload
+transcripts of their
+calls to this project
+so it can parse them
+and give me feedback the way I
+want, or
+Yes.  Yes, you can.
+For you personally, it's
+even better, because
+unlike his
+agency, where each
+speech characteristics
+, ICP types, and
+parsing structure.  Your
+sales
+reps have them
+almost the same.  They
+talk to the same
+people with the same
+script over and over again
+.  So you can
+use one
+project for this and
+get the result
+.  But again,
+test and iterate.
+Say, "I don't
+like this. I don't
+like this."  And
+over time you will start
+if you tell him,
+for example, this is part of the
+memory.  "I don't
+like what you
+said. Say it like this
+."  He
+will remember this and
+next time he will not
+tell you what
+was done badly.
+It
+will simply improve itself
+over time.  So, one
+project for your
+guys.
+Got it.    The
+advanced version for
+you is an
+automated
+workflow where
+after each
+completed call,
+it is transcribed,
+passed through AI,
+analyzed, a
+report is created in Google Docs,
+and sent to
+representatives.
+Dude, that's cool.
+Do you know?  This is Claude Code, not
+just Claude.  So that's
+exactly what I would do.  That's it
+.  Artifacts.
+Artifacts—that's what
+you can find here,
+Artifacts.  This
+presentation was
+made with
+the help of Artifacts
+.  I mean
+presentations.  So this is
+just another one, it's like a
+design compartment
+inside Claude where
+you can create
+designs.  Presentations,
+this design is similar to
+Figma.  I don't know if
+you use Figma,
+but Figma is a place where
+landing pages, build a
+product, visual
+effects, and more.  That's what it is
+.  Documents are
+just regular
+documents that
+look nicer.
+So all of this is done
+by presentation
+within Claude himself.
+Of course?  A short
+example of usage
+, but somehow it works.    Is
+this done in
+presentations?  In this
+presentation?  Very
+useful, dude.  I didn't
+know.
+Specifically Claude.
+Yes, you can find it
+here.  Presentations.  This is
+new.  This is all new.  What
+I say now could
+change in a
+month or so with all these
+features and
+new features, right?
+But it can be done
+now.  By the way, you
+know it's new because it
+'s marked beta.  This
+means that this is a beta
+version.  She
+gets better over time and all
+that.  So, Anthropic and the
+ChatGPT developers
+say they need to
+slow down
+the improvements a bit because it's getting
+too much,
+and it really is.  If
+you're into AI, you
+see that a
+new tool comes out every day
+, and it's
+just a chaos of
+programs.    There are
+so
+many tools,
+so much
+going on around, it's
+hard to keep up, but I
+would use this,
+although of course there will be
+more coming.
+How do you navigate
+all these new
+tools?  What kind of
+stack do you have?
+I trust...My stack
+is Claude and Claude Code.  I
+trust companies
+that have been around for a long time
+.  Because there are many
+tools for
+which people make
+courses on how to become
+better than 99% of others in
+this program.  How
+to take a full course on
+this, a full course on
+that.  I
+do it myself.  A game is a game, right?
+But the whole point is
+that a tool can
+only be good for
+the first three months, and
+then it blows up.
+That's why I always say that it's
+better to come to AI
+later than earlier.
+Because if you come
+later, you
+experience these
+tsunamis of new
+tools.  In
+the end, the
+tool that
+remains is most likely
+exactly what
+you need, because
+it has survived
+this whole journey...
+Yes.  ...
+AI development, right?
+You must be
+late to AI.
+Definitely
+late.
+How do you decide whether to
+learn
+an instrument yourself, become a
+pro at it, or
+just hire
+someone at a company to
+do it for
+you?
+Great question.  I was just about to
+ask that.
+Well, it depends on the
+circumstances, bro.  I'll say
+this: now everything
+depends on the
+specific situation,
+I truly believe that.
+such as
+corporate clients
+, don't necessarily
+just invite
+one person to
+train people.  They have
+someone on staff.
+So it all depends on
+automate.  I would
+also say that if
+you want to learn on your
+own, you can
+do so with
+these tools.  Or
+you can bring in
+someone from outside.
+The only problem with
+hiring someone
+is that things
+change so
+quickly that the specialist
+may not be
+competent enough.  There are a
+lot of people who are
+very good
+at AI,
+but I don't think any
+of the founders in this
+room have
+more than 30
+employees right now.  I mean
+full-time
+employees.  Maybe
+some of you have, but
+most of you don't.  So
+if you don't have that kind of
+staff, if you're a
+small company,
+especially an online
+business, I would advise you
+to learn everything yourself and only
+then hire
+someone to support you.    For
+example, you
+created a
+sales dashboard.  When someone
+else builds it, you
+know what a
+quality
+result should look like.  You know
+what a bad one looks like.    Is
+n't it better to know
+what a good product should look like
+before someone
+else makes it?
+Instead of
+them doing it, you
+just agreed without
+even realizing
+what they
+built there.
+Yes, we tried
+to attract agencies, but
+they come and
+do complete
+nonsense.  This is
+not what I
+need at all.  So, at what
+point does this become
+appropriate?  At what
+point does a person
+go from "I'll
+study it myself and
+figure it out" to "I
+should hire
+a specialist to
+do everything qualitatively for the
+company"?
+You should learn the
+basics.  And
+you can
+delegate the work to them.  For
+example, when I
+worked with my
+first client, I
+set up
+automation...No, I
+found a client, it
+was for a thousand
+dollars.  $500
+went to the developer.  And I have 500
+left.  I did
+n't understand at all
+what was built.
+So, they did it all
+, handed it over
+to me, I said, "Yeah,
+cool."  I gave it
+to the client, and the client
+says: "This is not what
+I asked for at all."  From
+that day on, I started
+learning the basics of
+make.com and
+automation.  So the
+next time
+I
+outsource work, I'll know what's
+going on and how it
+works.  So, I can
+give them a review, like, "
+I don't like it the way it is
+."
+"Because you understand how it
+all works."  But I
+would say that if your
+problem is
+implementation time, you don't
+want to build a
+dashboard because it
+takes time, then you get
+someone involved.
+However, I still
+need you to
+find...I still
+want you to
+learn the basics of
+how these
+tools work.
+And the last thing: every time
+we try to
+bring in an agency, it's
+complete nonsense
+because they don't understand
+... they don't have the niche
+skills to
+understand the context,
+you know?
+Yes.  So how do we give them
+context?  Or how...how do you
+manage this
+relationship so that
+the company, working with
+the agency,
+helps them
+understand the business and
+all that stuff?  Does it
+not matter?  What do you
+think?
+Look, in sales, you
+know what it means
+to be an elite
+salesperson.  It's a whole
+different game than just
+being good at
+sales.  So the difference
+between "good" and "
+great" is a
+huge gap, right
+?  The agencies won't
+know this.  Agencies
+have no context.
+They're not good
+salespeople, they're good
+at setting up
+automation.  So
+they have no context.
+Your question is: how do
+you give them this
+context?    Is it
+worth it?  Or is it not
+worth it?
+Should you
+do this?  Hmm, tough
+question, bro.  I would
+say that context
+is built...well, you've
+been in
+sales for years, so your
+context is years and
+years of experience.  But I would
+say these are calls
+with the team itself, where
+you explain what exactly
+this business is, how everything
+works, etc., because they
+can't just
+start from scratch without a
+clear context.
+Just calls, yes,
+exactly the kind of calls
+you should be making
+with this team.
+The best way is to have
+a call with them, usually
+one to three,
+depending on the system.
+Explain to them clearly what it
+all is, well, how it
+all works.
+Walk them through the
+entire process.  And only after
+can they begin
+construction.  But
+again, if I
+were a company right now,
+if I had an online
+business with a certain
+number of
+employees, I would
+personally learn everything
+myself, at least the basics
+, and then I would bring in
+someone, usually on
+staff.  It's
+a bit complicated with agencies.  I don't
+really like agencies, to be
+honest.  Well,
+personally, I haven't had the
+best
+experience working with
+agencies in general.
+And having worked at an
+agency before, I wouldn't
+say that this is the
+best option because
+they only have one client
+.  But if you hire
+someone,
+it's an agency.
+Yes.  If you hire
+someone, they
+learn a lot
+more about what you
+do and so on.  And
+then they become
+your AI specialist.
+That's why there are so many
+offers to
+place AI
+specialists within
+companies now, because people
+want to hire them
+Yes.  Interesting.  So you
+think the "
+do it for you" model in
+AI is much
+worse than training.
+Okay.  I have an
+additional question.
+Doesn't it depend too much
+on the
+context?
+That is?
+It depends on the
+market situation.
+Yes, definitely.
+Yes, it depends.
+Ugh.
+For example, if you're 60
+years old and you're not at all
+familiar with AI, then there's
+no point...You
+guys are
+tech-savvy.  If
+you're 60 years old and,
+again, you
+don't understand AI at all, I'm
+not advising you to go and
+learn to program
+or master all these
+tools, right?
+You can simply
+attend my
+workshop on how
+to use these
+tools.  And
+then you can
+hire someone on staff
+who is better at it than
+you.  You will give them the
+context of
+your entire business and
+they will start
+working with you.  But
+I wouldn't recommend
+working with
+agencies.
+Because everything
+moves so fast, there are
+almost no real experts.
+So, technically, if you're an
+AI specialist, do
+everything yourself.  Or if you are a
+techie
+, do it yourself.
+Well, and anything in general.
+I don't think that as a
+business, if you
+want
+to scale, you
+can be limited by
+your own time,
+right?    Do
+you understand?  Because what
+you showed is quite
+simple.  I think
+handle this on my
+own now.
+I wouldn't have been able to do this workshop before
+, so 10 out of 10.
+But at what point do I
+have to say, "Dude,
+this isn't for me anymore"?
+Like when it
+becomes too deep of a
+dive.
+When it takes too long
+.  I think it's just a matter of
+time.
+For example, the dashboard
+you created
+broke after a while because you had to
+spend time
+checking whether
+it worked or not.  These are rather
+boring tasks that
+you simply
+don't have time for.  At that
+point, you explain
+everything to someone who
+really knows their
+stuff and just
+let them
+do what you
+need them to do.  For example,
+I didn't create
+automation for
+clients.  I knew how to
+build them, but I didn't
+want to do it.
+And I didn't have
+time for that yet.  I was in
+sales and
+marketing.  That is, there
+was simply no time for development.  Only
+time for sale.    Do
+you understand?  So, Claude
+Code.  This is the main,
+most important part of
+everything, right?  Claude
+Code is how you
+do absolutely everything.
+It's how you run a
+business, manage everything,
+build skills,
+build dashboards, and
+everything else.  So, everything before that was
+just everyday
+work with Claude.  Now we
+move on to “Claude on
+steroids,” i.e.
+creating
+automations for
+your business, right?
+Claude Code has three different
+types of
+use cases.  The first
+is the construction of the AOS, which is the
+foundation of all
+work.  If you
+don't have AOS, don't
+use Claude
+Code.  This doesn't make
+any sense.  The second
+is the creation of
+agent
+workflows.
+Automations that we
+call
+non-deterministic.
+determine the steps
+in advance.  That is,
+sometimes one thing happens,
+sometimes another.  This is what an
+agent is.  He does everything
+for you.  You don't
+need to explain
+what exactly you want to
+do.  It
+understands what is needed
+based on your
+instructions, but these are
+automations
+built on
+many agents.
+So, you have a whole
+team or swarm of
+agents
+doing a bunch of
+work for you.  And there are also
+usage options that
+I'll tell you about too,
+okay?  For example,
+data centralization.
+This looks complicated
+for many of you
+who haven't
+used Claude Code before.
+Truth?  Because you see,
+it's—at least
+it caught up with me...I'm not a
+technical expert,
+so I learned all of this over
+time.  You see mcp.json,
+gitignore, .env.  What is this
+anyway?  What are these
+files: data, context,
+secrets?  So I'll take it
+step by
+step.  But essentially, the
+first thing you need to
+do to
+download Claude Code
+is go...and, by the way,
+this is the basis of how to
+do business on Claude
+Code.  You need to
+go to VS Code, where you
+will actually
+Code.  Go to Google and
+download it.
+From there you will go
+to extensions.  In
+the extensions, find
+Claude code.  You need to
+install it,
+connect it to your
+account, and
+then open a folder
+on your computer, because that's how
+Claude
+code works.  And then you'll see a
+page that
+looks like this.
+So, it's a blank slate.
+Claude, chat window,
+model, permissions.  So
+if you want it to
+do everything on its
+own without
+asking you, "Hey,
+is this good? Is this bad?"
+You can change it
+to, uh, bypass
+permissions. If not, you
+can change the
+permissions settings. And here
+you have folders. So Claude
+is an AI model that
+interacts with folders
+and creates them. So
+folders are like scripts,
+which is code, which is how
+automation works. It's
+the context of your
+business in different
+files about who you
+are and so on. So it
+runs on that. And all of this
+, by the way, is just a
+folder inside
+your computer on your
+desktop. So
+each individual project
+in Claude code is a folder, uh
+, on your
+computer. So you
+can switch
+folders. Got it?
+Yeah.
+So Claude, a folder, there's
+going to be a
+lot of files inside. Now
+when it comes to
+building an AI OS, which is,
+again, your
+operating system
+, you need to have
+three basic levels.
+The first basic
+level is the context.
+If you don't  give
+context, he doesn't
+understand who you are.
+Right? You
+can probably ask
+him to create a
+sales script,
+but if he doesn't know
+that you work in
+B2B and sometimes
+B2C and this and that, he's not going to
+do a good job,
+right? So you
+need to have three
+different pieces of
+context. The first
+context is
+personal: who you are,
+what you want, your
+responsibilities. Then
+the business: the
+ideal customer portrait,
+the offer, the business
+model and the
+tools. And then
+the team: the structure,
+the roles and how to manage.
+By the way, you ask
+what that
+actually looks like? You're going
+to create different files.
+So business
+information, metrics,
+personal information,
+strategy, team,
+content recommendations for YouTube. So
+he uses these files
+as
+context when he
+does the work that
+you want, okay? So that's the
+first step.
+Create a folder
+called "context" and
+put all these
+files inside.
+Okay, and if you
+have no idea how
+to do it, just
+ask in the chat: "I
+want to add context,
+how do I do that?"
+You can actually
+have a dialogue with it.
+The second thing is about
+data. It takes
+time. It takes
+a lot of time. Because
+easy enough, you can
+do it in a few
+hours, but data is something else
+Call transcripts,
+sales data,
+financial reports,
+email, Slack,
+SOP library.
+For example, if you're in
+e-
+commerce, that might
+mean adding
+financial reports from
+Shopify or
+sales data. I
+mean, you have
+financial reports for
+everything you do.
+Call transcripts
+with your team, review of
+decisions made,
+correspondence,
+Slack messages,
+SOP library. So
+you load all of
+that into the AI ​​so that it has
+data about your
+business. And the last thing
+is the decision. I'm not a
+big fan of
+AI making
+decisions for your business
+, but like anything
+else, you can
+train AI to make
+decisions like you do. That's
+why we call it a
+"second brain." To
+create a second
+brain, you have to give
+it decisions that you've
+made in the past
+so that  he
+used it
+to learn and
+make future
+decisions. I personally don't
+use AI for
+decisions, because you can
+tell it, "Make
+me $1,000 in 2
+days," and it's going to spit out
+nonsense. However,
+if you give it
+decisions that you've already
+made in business,
+it's going to use that as
+context for
+future decisions. So you
+can do that too.
+But remember, it's a
+long process, because
+how many calls have
+you had with your team,
+for example?
+Hundreds.
+Hundreds, right? And who's going to
+collect those hundreds of
+calls? You'll probably have to
+hire a
+assistant, but this
+process has a very
+high payback
+if you want to
+build an AI
+operating system,
+because it allows you
+to transfer all the data—
+documents,
+transcripts, etc.—into
+Clockwork. Yeah.
+So I have a question
+about that. How do you
+decide, you're an
+AI expert, right? At
+what point do you say to
+yourself, "Hey, I should
+automate this"?
+Because I have a hundred ideas right now
+of what I want to
+automate. How  How do
+I know what's a
+waste of time, and
+should I even
+do it?
+That's a very valid
+question. So, I'll
+tell you what things
+you should
+automate, but there's a
+matrix that we
+use with
+all the companies we
+work with—
+the high-
+effort, high-
+impact matrix that you also
+Khalid to
+determine what we
+automate. So
+think about what's taking up
+the most time in
+the business, right? And
+you have a matrix:
+high impact, low
+effort. High
+impact, high effort
+. Low impact, low
+effort, low impact,
+high effort. Low
+—that's obviously
+what you should
+avoid. High
+impact, low effort—
+that's where you should
+start. So what's the
+most affordable
+option (the "
+low-hanging
+fruit") that you can
+start implementing
+right away to
+automate
+processes in your
+business? That's where
+I would start. We have a
+whole framework for
+automation, but this is where
+I would start—
+Think about all
+your business processes,
+what is the
+most time-consuming thing
+for you personally.
+Call analysis, I would
+start with that. It has a
+huge impact, it is a
+very significant thing,
+because you spend
+20 hours a week on it.
+Those hours could be
+spent on something
+else. That's where I'll
+start.
+How many
+companies have you
+worked with?
+Uh, 50. 50 companies.
+What are the
+most common areas where
+AI helps them?
+Operations, sales?
+What would it be? It
+depends on each
+individual case, but
+give me at least...
+Yes, we mainly
+focused on... We
+did a lot of
+marketing
+automation, that is,
+creating content
+dashboards where they
+can automatically
+create content
+for LinkedIn, Instagram or
+whatever. This is an
+important case because
+a lot of businesses
+want to create
+content, but they don't have the
+time, so they just do
+n't do it.
+The main thing is
+operations, because it
+takes
+the most time, and that
+includes delivery, yes
+, delivery systems,
+operational  processes—
+how things work
+after you sign
+a customer. What
+happens next?
+That's where
+the complexity comes in.
+Order fulfillment, yeah,
+operations,
+fulfillment—that's that
+side of the business. Not
+so much sales or
+marketing. It was
+more about
+the operations side, where we
+implemented most of the
+help with
+market
+research and so on.
+Yeah, yeah. That's right. I would
+say that as a business,
+you always want to
+make as much
+money as possible, so
+you have to build a
+system that's closer
+to how the business
+makes or
+saves money. That's
+usually not
+operations. That's
+sales. So
+the systems that I would
+recommend that
+my clients
+sell are
+systems that are
+related to the sales of
+the company. Then you
+can justify the
+higher price. See?
+But for us,
+operations is
+by far
+the most important.
+Okay.
+So we have the context
+: who you are, your business.
+We have data on everything that
+you have. The data will be in
+another folder here, with a
+bunch of information that
+it uses.
+So for now, we have  there are
+two folders. Again
+, you see
+a lot of folders here, but
+just ignore them.
+Just worry about
+those two. We have
+the context, we have the data
+. That's the boring part
+. The function. How do you
+... What exactly do you want
+to automate? How do you
+actually do
+something with
+Clockwork? How do you
+let it
+do things in
+software? And how do you
+build
+automation with
+Clockwork? So, for that,
+we use a
+framework called
+Spark. Systematize,
+connect, act,
+repeat,
+maintain. It's
+very, very easy.
+Most of you who
+use Clockwork have
+basically already passed
+this stage. Sorry, you have
+n't passed this
+stage yet. You've passed everything
+that came before.
+Now we build
+cloud skills, which are
+really, really, really, really
+good. And then we
+deploy those
+cloud skills on the
+server to
+run every morning,
+every week, every hour,
+depending on how
+you want them to. Got it?
+So the first step is to
+systematize.
+Khalid and I sat down
+together in a session and
+mapped out his
+business. Before we
+automate, I have to
+map out
+his processes. This is what
+it looks like. Normally
+you would do this on a
+Miro board, but we
+did it on a
+regular board. So
+I can see everything. It
+gives me a
+general idea. I did
+n't know anything about
+his business. Not at all. I
+had no
+idea about his
+processes and all that.
+So we want to
+map it all out. What does it
+look like? So that we can then
+move on to the
+next step. With
+our clients, we
+always, always,
+always do an
+audit. Because you can
+start
+automating everything one
+by one, but if I don't
+have an idea, if I
+don't have the context of what
+exactly to automate,
+it's very difficult.
+Right? So we
+need a way
+to structure all of this.
+This is just for the
+scripting process.
+Just the
+scripting process. And
+then we sketch
+out what
+the solution might look like,
+what the process is, and
+ask the client
+a bunch of questions: is this
+right?  is it different, what
+software are you
+using?
+Understanding the business so that you
+can then
+next step. I
+mentioned earlier
+that AI is only as
+good as the
+programs that
+you
+plug it into. So
+if Miro wasn't
+a program with an MCP that
+allows Claude
+to access it
+, we wouldn't be able to
+use Miro.
+That would be pointless. So
+make sure that at
+every step that
+you have here, you
+look at the
+software that's
+being used in
+that step, in that
+process. And then you
+that program has an API. Because
+if it doesn't have an API,
+Claude can't interact with it
+. He can't
+work in it
+. So that doesn't make
+sense. So what
+you have to do is ask
+-- in this case,
+ChatGPT, even though it's
+illogical -- is
+: does
+the name of the program have an
+API available? And if
+so, what actions can you
+take in that
+program? Okay, if
+the answer is yes, there is an API,
+then here are all the
+actions that are available. It can
+create, read,
+update, delete
+leads, contact
+organizations. It
+shows you everything you
+can do. And
+let's say you want to
+add a contact to HubSpot.
+You're just asking,
+does HubSpot have an API? And what
+actions can I take
+through that API? So you
+know what Claude can and
+can't do.
+Okay, that's step two.
+Step three is to
+instruct the AI
+to do the whole process
+once until it's
+perfect. Because before you can
+next stage, you
+have to make sure
+that you have the
+input, like,
+get 10 viral
+ideas from Instagram and add
+them to a Google spreadsheet, all the way
+to the
+output that
+looks like this. From
+there to there, there's
+a lot of
+iteration. It's a lot of
+conversations like, "I
+don't like this," "
+can you change this," "
+this is better," "this is not
+better." So you
+get the perfect
+output from input
+to output, and then
+you want to package
+that whole process into a
+skill. But keep in
+mind, so far, you've
+seen this, if
+the
+software has an API.
+You provide context.
+You provide everything. At
+this stage  you want to
+automating
+the process at least once
+. So if it's
+writing scripts
+or generating ideas
+for Instagram, for example,
+what does that look like? How do you
+do it now?
+Go through it
+once. From there,
+package it into
+a skill so that it already
+has context about
+the task and
+the instructions for that
+specific skill and
+what it's supposed to
+do. So the
+you want to get some
+viral ideas, all
+you have to do
+is just call
+the skill. You type {
+slash} skill and it already has
+context about all of
+that. Now, a skill
+is just a folder of
+instructions, with
+a prompt. That's all it is
+It's actually a
+standard
+operating procedure
+(SOP).
+Yes, that's right. It's an SOP.
+A skill is an SOP of
+how to do a
+specific task.
+But before it
+knows what
+the task is, go
+through the entire task
+once with the AI, then you
+can make it
+repeatable with
+the skill.
+The skill has a name, a
+description, and step-by-step
+instructions. By the way,
+Cloud creates it itself. You
+just  you say,
+can you create
+a skill, you know?
+How do you recommend
+keeping all of this
+organized? I
+started
+using Cloud
+Code and I have a mess of
+folders on my
+desktop.
+So you want to have
+Today we have a
+folder called Doc
+Cloud. Inside the
+Doc Cloud folder you have a folder
+called skills.
+Inside the skills folder
+you have a separate folder
+for each skill.
+Here's how it's done.
+Okay, I would think: Cloud
+, then a project, and
+then a skill within the
+project. Isn't that
+better?
+Again, please?
+So Cloud, then the
+specific project that it's
+working on, and
+then that project has its
+own skills, because
+we work and
+play in projects with
+Cloud Code, right?
+So a project, I
+mean, this project—this is
+it. This is a Cloud
+Code project. This is the main folder.
+Inside the main
+folder we have a Doc
+Cloud folder. Inside that
+folder is a skills folder.
+You get the idea?
+I understand that aspect,
+or at least I do, how do you
+ensure that a project
+uses a specific
+skill? So I'm in
+project, it's a new
+project. How do you
+make sure it
+uses the skill
+that you want?
+Yeah. So, okay. That doesn't make
+sense.
+I'm going to have a
+sales project. I'm going to have a
+scripting project. I'm going to have an
+analysis project
+So, folders, different
+folders. Yeah. Okay, but how do
+I use
+the skill in all of them?
+On the skills side, my
+question is, is the skill
+inside a
+specific project?
+Sure.
+Those are very valid
+questions. It's
+actually a very
+subtle point, but
+when we create a
+skill like this, you
+can click {slash}
+skill, select it, and it will
+start the whole
+process. Keep in
+mind that the skill is
+at the project level. So
+each folder has its own
+skills, but you
+can make
+the skill global.
+That means that in
+any project, you
+can put {slash}
+benchmarking. It
+doesn't matter if it's
+sales, marketing, or
+operations—it will
+do it. How do you
+do that? By telling
+him, "Can you
+make this
+global to all of
+my  projects?  "
+How do you do that?
+When you create
+a skill, that is, when
+you go through this stage
+and say, 'Can you
+create a skill
+now?'  "Just
+say, 'Now
+can you take this
+skill and make it
+global to
+my entire
+workspace Claude?'"  "That's it.
+Simple.
+Here's a question.
+For example, one of
+my
+most time-consuming things is
+deal analysis. I
+get
+real estate deals, probably
+two or three a week.
+I need to
+see if
+they're a good fit for my
+investors and if I
+think they're a good fit.
+So I'd say {slash}
+analyze SOP. And then I'd
+put in data like
+financial statements,
+presentations, all that
+. And it would do the work
+Yeah. Yeah, that's what you would
+do. That's a very
+good
+use case. So
+deal analysis. The skill would
+be called "
+deal analyzer."
+deal {slash} analyzer. Go through
+it with the AI ​​once. Hey,
+here's how I want it, here's how I
+think about analyzing a
+deal. Here's the deal. Here's
+my analysis of it.
+Here's what I think is
+good and what's not.
+Give it two or three
+examples. After
+it's done,
+say, "Okay,
+can you now
+skill and call it
+deal analyzer?"  "
+Yeah, right now I have a
+project called "
+deal analyzer" and it's got all
+the instructions. I just
+create a new chat for
+each deal. That's
+much better,
+right?
+Yeah, I would
+that if I were you. It's just a different
+way of working with
+Claude's code, because everything
+is in one
+place. You don't
+have to go
+to the Cloud or anywhere else. It's all
+in one
+hub. And when you
+'re working on a
+project, the
+project memory is always
+there. It's just
+enough for
+the project. When you're
+working with AOS, which is all this
+stuff here. You
+can have a bunch of
+different skills, and you can
+use them
+much faster. But
+if you're
+only using
+one specific thing,
+if the project is working,
+then use
+that. Yeah.
+I'm a little confused,
+so what's the difference between a
+skill and a project?
+Projects are
+automation. You can't
+automations on
+top of projects. But
+here you can
+automations. So
+this skill here -
+competitor analysis -
+goes to YouTube,
+scans the channels, gives
+me the analysis, then
+goes to my
+channel and does this and that
+. It covers all of that,
+but it has to
+connect to an API. A
+project doesn't
+do that. It's more like
+documents.
+So projects are
+one place, essentially a
+dialogue, and a skill
+can do
+automation.
+Yeah. That's right.
+Let's say a skill is how
+you do something,
+and a project is what
+you're working on.
+A skill is a way of
+working on a project.
+Like thinking versus doing
+Well, I would say a
+project
+does something, but it doesn't
+do the work
+directly in
+your apps. It's
+messaging. So
+to write
+scripts, you
+only need four
+folders and instructions.
+You don't have to
+go into any
+app to take
+action. But this
+particular skill,
+competitor analysis,
+processes 100
+competitors from a CSV
+file that I provide.
+It goes into the
+channels, gets the
+structure analysis,
+puts everything into a Google
+Sheet, compares it to
+my channel,
+scores it, and
+puts it all into a dashboard
+that  I get it
+every week. It works.
+So skills work in
+apps, projects
+don't. Now there's a
+problem, okay? The
+when you have
+automation,
+let's say you're doing
+weekly reports.
+Let's say you want a
+weekly report on
+sales team. Instead of
+going into, let's say, a
+daily report for all
+your sales
+managers. Instead of
+going into CloudCode every time,
+doing it manually,
+to make sure everything is working
+perfectly, you want
+it to run on a
+daily schedule.
+Let's say every day at 9:00 or
+10:00 in the morning. So you
+want everything to
+run every day on a
+set
+schedule. How do you
+do that? This is the
+last step,
+making it
+work all the time.
+Now you take this "
+skill" and you say to Claude, "
+deploy this on the
+Modal platform so that
+it runs
+every day at 9:00 in the morning?"  You
+ask him, “What
+are Railway, Modal, and other
+tools like that?
+” “They’re great
+if you
+want to host
+automations there.” Right?
+Well, if you want to
+host
+automation, Obsidian
+is different, it’s more
+complex.
+Don’t worry about it.
+It’s just simple stuff.
+But Modal is a
+tool that we
+use, and so is
+Railway. There are other
+programs where you can
+deploy a built
+and packaged
+automation so that
+it runs at 9:00
+in the morning and gives you
+everything you need. Okay
+, a lot of this is
+explaining what to
+do, teaching the gist
+, not the process,
+but you
+can actually ask Claude,
+“Hey, I want to
+deploy this.” What are
+the steps to
+do that?
+You’ll learn a lot of it by
+just talking
+to Claude. I can tell
+you what query to
+type, but
+Claude is actually
+smart enough to
+walk you
+through it. The main thing is
+to understand what you
+have to do. If
+you understand that
+after you create
+the automation, you have to
+create a “skill,”
+you'll be fine. Just
+tell him you
+want to make a skill.
+Got it? And then you
+can say, "Hey,
+I want to make a skill."
+Can you
+do that?"
+Would you recommend Modal
+over, say,
+Supabase or some other
+external
+tool or what would
+you recommend? Because
+I've tried all of these and
+it turns
+into some kind of complicated
+mess.
+It depends on what
+you're doing it for.
+Modal and Supabase are two
+completely different types of
+software. They're
+not
+related at all.
+Modal is where you
+deploy
+automations on the
+network so that they
+run without you.
+They run even
+if your computer
+is off. So if
+you need a report
+every day at 9:00 AM, you
+put it on
+Modal and it
+runs
+automatically. Superbase
+is, well, it's where you
+store
+information. It's like a
+better version of Google
+Sheets. Obsidian is the
+same thing. Obsidian, Superbase are
+places where you
+put information in and
+it turns it into
+numbers so that when you
+ask a question,
+the system
+turns it into
+numbers and compares
+them and gives you the
+relevant
+information back. It's a better
+way of storing and
+retrieving information
+. But I wouldn't, I wouldn't
+I was thinking about this right
+now. It's a bit more
+subtle and advanced,
+but...
+When do you need
+storage?
+When you have a lot of
+data.
+That's a lot of data
+. There's
+no storage in the Cloud
+Well, storage is just
+files, right? It's just
+like...
+Oh, yeah. So at what
+point do you store
+in files and at what point do you store in
+Superbase?
+That's a tricky question. I
+would say the
+criteria is volume:
+if you have a bunch of data,
+say, a thousand
+meetings...
+Yeah. Yeah. ...
+then you probably shouldn't
+use it. I'll
+connect the cloud to
+Superbase if you want to
+store the data there.
+And then they can
+interact with
+each other.
+We
+used to use Google
+Sheets, but it
+took too
+long to move the
+data back and forth.
+I think because there was so
+much... It was
+just unbearable.
+That's what happens. Yeah?
+Class. So at this
+point—the last step:
+you systematize the
+process. You
+make sure that
+all the tools have  API. You
+went through the whole process
+with the AI ​​to
+make sure everything was
+okay. You created
+a skill. Now you
+can call that
+skill whenever you
+want, and you
+deployed it to the
+network so that it would
+run,
+say, every day at 9
+a.m. So now
+your AIOS, instead of being a
+cloud-based code, is a
+chat window that you
+can talk to, that
+knows context about you
+, your business, etc.
+It has data about your
+business and different
+skills
+packaged up in a way that
+you can act on. That's the
+highest level of
+AI use. That's
+how you should
+really use it. Most
+people
+jump right into
+skills. They just
+automating everything
+without giving it context.
+That's wrong because
+there's no foundation. And
+then you complain
+that it's "AI garbage." It's
+not "AI garbage." It
+becomes "AI garbage"
+if you give it the
+wrong
+input. If you don't give
+it any
+context. If you
+create a
+sales dashboard without
+explaining who you
+are, it's not  You should
+expect great
+results.
+Right? Same with
+an employee. You don't
+just tell them
+two things and then
+tell them to do something
+. You have to
+tell them who you are,
+your culture,
+all of that, and then they
+can act.
+Also, let's be
+honest, I think
+most people make
+too much of an
+excuse that
+it's slow. It's like,
+you don't have to
+use what the
+system says right away.
+You can just, you know,
+refine that
+last 5 or 10 percent
+yourself. It's
+still going to be a lot
+faster than if you
+sat down and designed
+it from scratch. So I
+think that's going to make the
+results
+better,
+even if in some
+cases it doesn't
+completely free you up to
+lie on the beach
+and drink cocktails.
+Do that last
+few percent
+yourself.
+100%.
+And the person who
+does that and
+will beat anyone who
+makes excuses about being
+slow. It
+all comes down to
+expectations. Most of
+the videos on YouTube are like,
+"I ran
+my entire company
+with Claude code,"
+right?  It creates
+unrealistic
+expectations for Claude,
+and when you
+use it, you
+have them. So you just
+think, oh, I
+just have to tell it what
+to do, in two
+sentences. That's right.
+Exactly. Like laying
+the foundation: once you've
+got the skills and
+they're solid, the
+game gets easier.
+You can do
+pretty much anything you
+want. And now it's
+just building
+skill after skill
+and making sure
+everything is
+automated. So
+first get the AI
+to do the task
+correctly once,
+then make it
+repeatable, then make it
+automated. One
+of the biggest
+use cases for Claude code
+that I see (I have
+two, but this is probably the
+main one),
+applicable to e-commerce,
+info products, SaaS,
+anything you can
+imagine, is
+So many of you have
+software. I
+have YouTube, Trackyou, Typeform, Notion,
+Stripe, and Google Sheets. I
+want to centralize
+information in one
+dashboard that
+looks like this. This is an
+example where I can
+see links
+Trackyou, the amount of
+funds received, the rate of
+closing deals, the
+planned calls, the
+qualified leads
+. For you guys in e-com,
+it would be ROAS,
+the amount of
+creative created, and also the
+daily sales. So
+, you're essentially
+collecting information
+in one place,
+combining all the
+tools into one
+dashboard that you
+can write code for. That's
+one of the main
+use cases, and then there's
+landing pages, which
+you can also implement like this
+What is Vay Code?
+Oh, we code
+with vibes. So
+No, it's a word that
+someone invented a long time
+ago, and it just
+stuck. It means
+that you just
+talk to an
+artificial intelligence and
+it does the work for
+you.
+know how to code, that's what
+Vay
+Code is.
+Vay Code.
+I love this
+dashboard because
+it's great. We don't
+even have one.
+It's good. It's a
+huge advantage.
+Like, once you
+implement this, I
+wake up, I just
+look in one place
+and I know everything, I know,  How's the
+business going? What are
+the limitations? What
+needs to be improved?
+This is really good.
+That's right. And this is,
+ask me Kelly OS.
+This is an AI
+trained on this data
+, so I can ask
+it questions,
+like, what was
+close rate in the
+last 2 weeks on XYZ?
+It's like a business.
+Yeah. When you're starting
+a business, you don't need that
+. But when you get to a
+certain stage, you
+need data because
+it drives
+decisions. If you don't have
+data, you can't
+make decisions. So
+this allows you to see
+all these offers in
+one place so you
+have a clear understanding of
+everything. So,
+Instagram content, Reels, short
+videos. I literally
+used this
+place to
+track
+attribution, how much
+money
+each video is making, clicks. These are the
+types of leads:
+unqualified people
+, qualified people.
+And Notion is the number of
+calls booked. YouTube is the
+analytics, how many
+views we
+get per month.
+Stripe is how much
+money we make.
+Google Sheets is for  everything
+else. I can't
+look at it all
+at once. It's just
+overwhelming. So you
+put everything in one
+place. It gives you the
+big picture. It's
+one platform, one
+platform, one
+platform that
+shows you everything, and you're
+almost ready to
+go.
+How long does it take to build it? It's
+very easy.
+Seriously, I did it by
+just telling him,
+first I connected
+all the tools.
+Then I said, "
+Can you make a
+looks neat and
+gathers all the
+place?"  And I want to have an
+AI that I
+can ask
+questions to based on that
+data. About 15
+minutes later, he did.
+Oh, good question. Do you
+pulling all the data from
+the past and
+trying to
+match it up, or
+starting from
+today and making it
+perfect from now on?
+I always get a
+Yes. So let me
+give you an example from
+Typeform. We have about 2,100
+applications at Typeform. People
+who want
+to book a call
+with me for
+mentoring, right? I
+want to tell him
+to connect to
+all the
+software. The first thing you
+need to do is
+get the data for
+the last 6 months, right
+? For a specific
+case, and then keep
+collecting data
+. You know, to keep this
+dashboard
+up to date, because you
+want it to be
+real-
+time. So that it's
+updated daily
+or weekly. Right? So what
+you do is, step
+one, you gather all the
+apps, you
+connect them to Clay,
+and then you tell them to
+go into the apps,
+take the data for the last
+6 months, make it a
+dashboard like this, and
+then set up
+saying, "Hey, now
+I want you to
+go into all your
+apps every day and get
+the information from the
+past day." "So that
+this dashboard
+is always up to date." But
+that's just a
+crazy
+use case. It's an
+incredible thing
+that you can
+do from scratch,
+it's really easy
+to do, and it's all in
+one place.
+I get it, but if
+you go back in time,
+for example, I
+had about 2,000
+leads in the last 6 months. If I go back in
+time and it's not
+perfect because I didn't
+connect everything
+up front, I
+a lot of manual work and
+check, "Oh, this
+guy did this." "
+This guy paid
+this much." For example,
+my bank
+statements might be
+a little messy, or
+everything was a little
+confusing at the time.
+So, would you recommend that
+I tell the AI
+to go back in time and
+collect everything and
+organize it, or
+make everything perfect starting today?
+If you don't care,  That's
+fine. But I want
+to see the data for
+August, September,
+October, November,
+December, how many
+applications we got,
+because, for example, we
+had a decline in the number of
+recorded calls
+to the program. This is not
+real data, but
+let's say
+the numbers went down, right? There
+were more
+recorded calls here.
+There are fewer here, but I want to
+see this data so I
+can understand what I was doing
+then that I'm not doing
+now. Why
+is there this
+decline? This is a graph that
+shows this crap like this. So
+if you're not interested in
+historical data, if
+it doesn't affect
+your future
+decisions, that's
+fine.
+So what do you say to
+business owners
+who are stuck in their
+old ways and don't
+want to adopt AI?
+There's a famous saying that
+AI won't replace people,
+it will be replaced by people
+AI, which I think is the
+most important thing. I don't
+think we're
+using AI
+to replace
+people. I
+to make
+business easier and to make
+it a lot
+faster. For many  For
+software-based online businesses, AI is going
+to change the rules of the game,
+and if you
+keep
+doing everything manually, you're going to be left
+behind.
+That's the reality. For
+sales, it's going to make
+it 10
+times faster, for
+marketing, it's going to make it
+a lot faster,
+so I don't think you
+can survive without
+AI
+. I think in three to five
+years, everyone
+will be
+AI native to some degree, and those who are
+n't will just be forced to
+do everything
+manually and not be able
+to grow.
+I think what I
+realized today is, I used to think
+that AI wouldn't be
+as good as me,
+but now I realize
+that it's me who lacks the
+ability
+to use AI to make it
+work as well as
+me, right? There's
+a lot of hope for AI, and I'm in
+the content business. I
+understand that it's important
+to get attention and
+get views,
+so you have to play
+by those rules. And
+that creates
+expectations about what
+What AI can do.
+Today you saw
+that AI is not going to replace everything
+completely. It's more
+like having a second brain
+or a second
+to get
+things done faster,
+right? And again,
+use case, to
+me, is just
+crazy. It's
+not that you
+can do it,
+because six months ago or a year
+ago it wasn't
+possible. It was impossible.
+It's just
+crazy. The fact
+that you can gather all
+the information through MCP and
+put it all in
+one place. It's like
+magic. I don't know. It's
+just unbelievable. It's a
+shock to me.
+Yeah, it's going to be a
+game changer.
+So, having said that, the
+second
+use case is
+landing pages. But that's how
+use it in
+your business.
+Got it?
+It's fire, bro.

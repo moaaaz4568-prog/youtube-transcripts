@@ -1,0 +1,604 @@
+Right now, we're sending over 568,000
+cold emails every single day across all
+of our clients. That's over 12 million
+emails per month. And I'm not just
+talking about spamming people. These are
+high converting campaigns that drove 42%
+of the revenue for RB2B as they went
+from 0 to $4 million in ARR in only 6
+months. These campaigns generated $4.3
+million in annual pipeline revenue for
+Fixer AI as they went from 0 to $10
+million in annual reoccurring revenue in
+only 5 months. And these campaigns can
+get as high as consistently spitting out
+20 to 30% positive reply rates across
+many of our clients. And you see what
+most people think cold email, they think
+it's dead. But the truth is they're just
+doing it wrong. And so in this video,
+I'm going to break down our exact system
+for sending hundreds of thousands of
+cold emails per day with industryleading
+enterprisegrade deliverability and the
+best conversion rates in the world. So
+let's dive in. Deliverability first,
+offer second. It's one of my mottos, and
+this is probably the most important
+concept in cold email. Most people
+obsess over their copy only to get zero
+replies because their emails are never
+getting delivered in the first place.
+And the truth is, even with the world's
+best copy, it's worthless if it lands
+into spam. And even then, you can't even
+evaluate how good your copy is if
+nobody's reading it. So, your data means
+nothing. And so, we focus on
+deliverability first, offer second. We
+take care of the first thing for our
+clients and we equip them with as much
+data as possible so they can get really
+good at the second thing and have the
+best offers in the world. And so in
+order to make cold email work, you need
+to take care of deliverability and have
+the right offer that people actually
+want. Uh this is a yin-yang relationship
+that is the foundation for for
+everything else. So when we solve
+deliverability first, we know your
+message is getting out there. Then if
+we're not getting results, we know that
+it's the offer or the message and we can
+change that, right? a founder can change
+what their offer is to the marketplace
+based on what feedback they're getting
+for that. And so, for example, we have a
+SAS client named Api AI that we thought
+had a cracked offer right off the rip.
+We launched some new campaigns for them
+and we were blown away that they were
+getting zero positive replies. And then
+sure enough, we looked at the data and
+we looked at the bounce logs and we
+found out that AI is a spam word.
+Capital A, capital I, but capital A,
+lowercase I is not a spam word. We made
+that tweak, one letter, made one tweak,
+and immediately the next day got five
+positive replies for them. That's
+deliverability first, offer second. And
+if you don't have good deliverability,
+then we can't even evaluate that offer.
+By the way, if at any point in this
+video you want to see how we can help
+you set up this entire system, just
+click the link in the description to
+book an intro call with us. We'll map
+out your entire TAM, your entire total
+addressable market, and show you exactly
+how we can reach 100% of your market
+every 30 to 60 days, as well as the
+results that you can expect. Next,
+building infrastructure the right way.
+So, the mistake that most people make is
+they go very minimal with their
+infrastructure. They use one sequencer.
+They maybe use one domain, which is even
+scarier, or they just use one inbox
+provider. And the moment something
+breaks, everything stops. It's like
+building a house on sand. It collapses
+the moment that you go to scale. And
+here's how we build infrastructure that
+can send millions of emails, right? We
+run three sets of infrastructure for
+every single client. We label them odd,
+even, and burner. Um, each set is
+completely independent and can handle
+the full sending volume. And each one of
+those sets are diversified between
+Gmail, Outlook, and custom SMTPs. On the
+first half of the month, we use our odd
+inboxes for outbound campaigns. In the
+second half of the month, we use the
+even boxes. And when they aren't
+actively on campaigns, they're just
+warming up. And you do that long term,
+and domains just don't burn. And if they
+do burn, the burner set is always warmed
+up and it's ready to be dispatched as an
+emergency backup. You see why this
+matters is we aren't perfect. And I
+immediately nuked hundreds of domains on
+a single day for Adam Robinson. And it's
+not fun, right? 3 months ago, Adam
+Robinson's RB2B infrastructure went to
+zero and we had backups ready to rotate
+in immediately. We rebuilt 375 domains.
+The burner set kept his campaigns
+running. Without the system, we're one
+bad week away from losing everything. We
+have one, two bad weeks and clients are
+thinking about issuing notice and like,
+oh, am I really getting out of this? And
+so, we can't afford to have any
+downtime. And so, a little bit more
+about how uh we set this up. We also
+like to diversify our sequencers. Uh my
+favorites are Instantly, Smart Lead, and
+SAS Mail. SASM is a private in-house
+sequencer that we have. It's technically
+Email Bison, which is rad, with some of
+our own proprietary stuff built on top
+of it, right? And that's because each
+one has different strengths for
+different inbox types. And you know, we
+have the data to prove this. Uh we did
+uh the largest public deliverability
+test earlier this year. And the thing is
+they each have their strengths, right?
+Instantly is absolutely the best at
+actually uh sequencing. They're just
+really good. You load everything in a
+campaign and they maximize how many
+emails can go out, which is just clutch
+for high volume, right? So for us, we
+can manage, you know, 300,000 emails per
+day for a single client and have over
+120 campaigns loaded and it and it
+smashes through them, which is stellar,
+right? SAS Mail has incredible
+deliverability, especially for
+enterprise targeting. And so for some of
+our clients, we use just SAS mail and we
+build specific infrastructure for their
+enterprisegrade list. So we can get a 4x
+multiple on our deliverability cuz it
+delivers four times better. It's also 21
+times more expensive when we do that
+particular configuration. And then
+lastly, Smartle crushes it with Outlook
+inboxes when configured correctly. And
+so the next thing is you want to match
+inbox type to inbox type. This is one of
+our secret weapons that can give us
+three, sometimes 16 times better reply
+rates. So if you're emailing someone on
+Gmail, I suggest using Gmail plus SAS
+mail or Outlook and Smart Lead. If the
+lead is on Outlook, we use Outlook
+inboxes from Scaled Mail and we load
+those onto SAS mail. And if they're an
+enterprise lead, enterprise meaning they
+have proof point, uh, spam hos, uh,
+mcast, things like that, we use Gmail
+inboxes loaded on SAS Mail as well. And
+just this one tactic can take you from a
+1% reply rate to 4% reply rate
+overnight. And so coming into our next
+strategy, our TAM coverage strategy,
+this is where we're completely different
+from everyone else. Most businesses or
+agencies doing cold email focus on the
+3% of the marketplace that's ready to
+buy and they're trying to predict who
+that three 3% is using intent signals or
+fancy triggers or things like that. And
+and the problem is is that everybody is
+trying to hammer those people. I like to
+focus on the other 97%. It's a it's a
+bigger number. And so here's my
+strategy. Let's just send one email to
+your total addressable market every 30
+to 60 days. That's it. No complex
+sequences, no daily follow-ups. And the
+reason that this works well is that
+you're not going to annoy everybody in
+your market by sending them an email by
+sending them seven emails in 14 days.
+You're not burning through your list
+before you can even find product market
+fit. And when you do nail in your offer,
+you can scale to cover 100% of your
+total addressable market, which we like
+to hit that every 30 to 60 days. And
+with that strategy, I know that for
+clients with massive TMs, we've sent 8.5
+million emails per month for just a
+single client. I know I could 5x that
+number with the right client if they had
+a large enough TAM, right? Even for
+Fixer, their total addressable market
+was everybody who used Gmail and used
+Outlook. That's over 100 million people.
+So, when we were sending 8.5 million
+emails a month, we were getting pressure
+to be like, "Yo, how do you get that to
+50?" [laughter] Another example, right,
+is Adam Robinson's TAM for RB2B is in
+the millions. It's B2B SAS founders,
+it's marketers, it's salespeople, it's
+anybody who owns a business. It could be
+any founder in the world. I remember
+telling my wife who runs a holistic
+practice about RB2B and she was like,
+"Wow, I could install that on my
+website." And I'm like, "That is so
+insane." And so they have a massive tamp
+and we like to email their entire total
+drift to market every 60 days with one
+simple message. And what's crazy about
+that is we're still getting the same
+conversion rates now when RBB is at $6.5
+million in annual reoccurring revenue
+that we had when they were only at 1
+million ARR. And that's because we're
+not burning the list, which is huge. The
+next thing is we write copy that
+actually converts. And here's the thing,
+this one's very different for most
+people. But forget everything you've
+been told about personalization. Most
+people think they need to use AI to
+write custom lines [music] for every
+single prospect or try to get super
+creative and clever with their copy. The
+truth is, for me, short and punchy and
+direct has beat fancy 99% of the time.
+And the secret is to just write emails
+people actually want to read. Don't
+write marketing emails, right? Like
+you're DMing a friend. Like I've always
+liked this story. The difference between
+sales copy and marketing copy. Marketing
+copy is like, "Hey Joe, we have this
+insane event. It's going to be one of
+the most insane dinners you have ever
+been to your entire life. Your wife is
+going to remember it. Your kids are
+going to remember it. We just cannot
+wait to have you there." And blah blah
+blah. Sales is, "Yo, what's up, Joe?
+We're going to have some bombass pizza
+tonight. Do you want to come?" Right?
+And I'm very much more of the sales when
+it comes to copy. So lead with the most
+valuable thing you can offer. Remove all
+friction from the next step that they
+need to take. And for the love of God,
+do not include links in the first email.
+Here's what most people write. Hey Joe,
+I exist. So do you. So can I please take
+your time? Or even worse, with the power
+of AI, hey Joe, I found out you exist
+because you blah blah blah, you
+commented on a post or I saw you run ads
+or I was on your website and noticed
+blah blah blah. It's the same message
+with AI slop on the front of it and
+everyone reading it knows that it is. No
+one thinks that that email was written
+by a human being. [laughter]
+And at the end of the day, only one
+thing matters. What is your offer? And
+how can you clearly articulate it? For
+example, here's our copy framework for
+RB2B that gets them 20 to 30% positive
+replies every single month. Hey Joe, we
+built a tool. We'll let you know when
+and we insert their ICP here using AI.
+We'll let you know when your ICP is on
+your website. So if you're emailing a
+realtor, you go, hey, we built a tool
+that will let you know when local
+Boseman residents are on your website or
+whatever, you can insert exactly who
+they sell to there. So, and then we
+explain the value. It identifies
+anonymous individuals, not companies,
+and sends their LinkedIn profiles to
+Slack in real time. It's completely
+free. And then we end with reply back
+yes if you would like me to send you the
+link to sign up. P.S. No, I'm not
+joking. It identifies individual people,
+not companies, and we will never charge
+you a dime. That's it. The link's in the
+first email. No fake personalization.
+Just a clear offer. Here's why I think
+this works. One, it's it's
+conversational. I like to think it's how
+a human would actually write. Um, in
+fact, we analyzed all of that founders,
+all of Adam's posts to make this
+verbiage match exactly how he talks. And
+so, the offer is crystal clear and the
+value is obvious while also sounding
+just like Adam. There's also no
+friction. They just reply with yes, and
+they get the thing to get started,
+right? The other thing is that we're,
+you know, we're targeting the right
+people so the message actually
+resonates. You see, but there are always
+exceptions to the rules. So, we test
+everything. What do I mean by that? So,
+for one of our clients, Fixer AI, we
+tested a little bit more of my short and
+punchy copy versus their storytelling.
+One of my favorite things to do with a
+founder when we onboard them is like,
+"How would you write this email?" And
+this is especially good for ones that
+know how to do copywriting. But here's
+what Fixer AI wrote. They wrote just a
+slightly longer and more personal
+version. So, they said, "Hey, me and my
+brother just launched a tool that sits
+inside of your inbox. It works right
+with Gmail or Outlook. It's truly
+amazing for most people and saves them
+an hour a day. It'll label your emails,
+draft replies, and attend your meetings.
+So, it's better at drafting those
+replies. Would you like to give it a
+try? Just reply with yes. So, there's
+obviously some things there that are
+from our short and punchy, but I would
+never say it's truly amazing for most
+people, right? Um, but that's how they
+talk. And so, that is what made it so it
+absolutely crushed. And we tested that
+across probably 60 different variants,
+and that was the one that always won.
+And I think the real trick here is was
+having that founder write the email. and
+um and the fact that they had copy
+copywriting backgrounds just like Adam.
+And so the core lesson here is uh test
+everything but let the marketplace tell
+you what works. All right. So how to
+scale to millions of emails. Can't just
+flip a switch and send a million emails
+tomorrow. Even with perfect
+infrastructure, you need a systematic
+testing and scaling process in place.
+And that's where most campaigns
+completely fall apart when they try to
+scale. So here is the exact process we
+like to follow. So phase one broad
+testing can take one to three months.
+And the thing is is that month one is
+usually terrible. We're testing 15 to 30
+different campaigns. I was looking at
+one just earlier today for what we did
+with Fixer. And in their original batch
+we had 26 campaigns and one of the
+campaigns we had to send 25,000 emails
+in order to get one positive reply.
+[laughter]
+That's horrible. And you have a bunch of
+campaigns like that. Also, what you have
+is you have campaigns in there that only
+take500 emails, 1,000 emails. We we were
+able to get them down to 600 emails in
+order to get someone to sign up for
+their platform, which is great. And so,
+you got to test a lot of trash. And so,
+it's really going to be diluted. And
+what you're really looking for is the
+outliers, the fires is where I like to
+call them. And so, you know, we're
+trying different offers, different copy
+angles, different audience segments, and
+most of the campaigns will not work, but
+we're hoping that a couple of them will.
+That's really what we're looking for.
+And sometimes it can be difficult that
+we need a full three months to truly
+test every angle we possibly could.
+Phase two, finding message market fit.
+Ideally, by month two, month three,
+month four, we can kill all the bad
+campaigns and double down just on what's
+working. We're looking for these hot
+spots, right? Which industries, which
+seniorities, which which copy is
+converting the best. And the important
+thing here is we pipe a live stream of
+data into our leaderboards. So, we know
+we're optimizing for real conversions,
+not just replies. And what that means is
+like we ask all of our clients, hey, let
+us know everyone who signs up. Let us
+know everyone who books a meeting with
+you. Let us know everyone who becomes a
+paying customer. Cuz we can match that
+with our email not long ago. Cool. We
+sent them an email. They signed up on
+this day. A lot of people don't even
+reply to our emails. They just sign up
+directly. And we can see that because of
+this. And we're able to directly go
+cool. This variant of this campaign is
+what is driving our actual results for
+the client, what's actually driving
+revenue for them. And you know for fixer
+AI it took 5 months before we found that
+variant that was 600 to one. And
+sometimes it can just take that time.
+And so phase three is we scale the
+winners. Uh typically once we find a
+campaign converting at 1500 to 500
+emails uh per sign up or per result that
+we're aiming for, we scale that
+everywhere. Uh we layer on lookalike
+audience built on from those particular
+list to see if we can further stretch
+that total addressable market list that
+we have for that segment. And then
+additionally we also will segment by 10
+to 11 industries and 10 to 11
+seniorities for maximum precision. And
+then what we like to do is hit the
+entire total addressable market with the
+winning that winning formula every uh 30
+to 60 days. And a good example of this
+is that we did that process with Fixer
+and eventually we found out that like
+cool if we email a founder of a
+particular industry and who has a Gmail
+inbox in this employee headcount, we
+know that we'll send 600 emails and
+we'll convert one person into a signup
+for them. And that list of people who
+fit that criteria was 302,000 people.
+And so we set aside that list. We said,
+"Great, we're going to email each one of
+these people once a month with that
+offer and we just set it to the side."
+And that campaign just runs on
+autopilot. And then meanwhile, we're
+still testing everything else trying to
+figure out the other pillars that we're
+trying to set up. And so there are
+obviously a few examples where sending
+millions of emails doesn't always make
+sense for some obvious reasons. Uh one,
+you don't even have a total addressable
+market, more than 1 million potential
+contacts. And that's okay. If you have a
+high LTV and you have a really good
+sales process, we still work incredibly
+well with companies like that. You can
+just see what we've done for for
+example, Directive is one of the world's
+largest marketing agencies and they sell
+services that have an LTV over six
+digits and their total addressable
+market is less than a million. Just last
+quarter, we generated over $484,000
+in annual reoccurring revenue for them
+and they have a pure sales process,
+right? And so we know how to print for
+those as well if they have a good offer.
+So then you might be asking, okay, well,
+what if I do have a TAM larger than a
+million? You need to have a product that
+can handle that level of scaling, right?
+If you can only onboard 50 users a
+month, then we can't email a million
+people for you. And that's okay. When
+we're in that testing phase for a client
+before we actually go to a million, we
+work really deeply with each client to
+be like, hey, does the economics on the
+front of the pipeline to the end of the
+pipeline work perfectly? Like, are they
+actually converting into paid events for
+you? Is this profitable for you? Is it
+profitable for us? We'll usually scuff
+from there. So, for example, you know,
+we sent for Fixer, we sent 11,996,48
+emails in 90 days while we were testing
+200 or sorry, 2,749
+different variants when we were still
+deep into their testing phage. And when
+we were looking at that, we started at a
+7,317
+emails to get a single positive reply,
+which was terrible. Right after testing,
+we were able to get down to about 528
+emails per sign up. That's a 45 times
+lift just from finding the right
+combination of offer, copy, and
+targeting. And so with 800,000 person
+TAM in that segment alone, that's a
+potential 1,481
+users if we emailed them that week. But
+if we do it over a month, it's 1,481
+users a month. The next thing is
+continuous deliverability testing. And
+so when it comes to deliverability, what
+works today will probably not work in 3
+months. And email providers are
+constantly updating their filters. AI is
+a pattern matching successful copy and
+it will nuke it after it gets enough
+volume. I mean, we've seen campaigns
+that printed money for one and a half
+years straight suddenly die overnight
+because an AI spam filter starts making
+decisions. And so that is why we test
+continually, constantly. And so every
+quarter we run massive deliverability
+experiments. Um, our largest test that
+we just finished up, we sent uh 249,847
+emails across 120 campaigns, three
+different sequencers, three different
+vendors, four different warm-up
+networks. I mean, we spent over 64 grand
+of our own money, my own money, uh, to
+figure out what's working right now.
+Just a two weeks ago, I had an event
+where 49.28%
+of all of my Gmail inboxes suddenly died
+and I had to drop tens of thousands of
+dollars on brand new domains. The thing
+here, the big takeaway is the best
+practices everybody preaches don't just
+work across the board. You need to test
+your specific setup with your target
+audience to find what actually moves the
+needle. And you need to be ready to
+adapt and change your whole system very
+fast. If you're planning on sending more
+than 75,000 emails per month, just
+expect your copy to die every 3 to 6
+months. And that's just part of the
+process. And that's okay. And really, I
+think what you need is you need partners
+who are constantly testing at a massive
+scale. And the alternative is just
+watching your results slowly decay and
+not knowing why. Cuz this is one of the
+few things that I just don't see any way
+for a company to like bring this in
+house. You need somebody who has special
+agent who has data at scale to be able
+to figure these things out for you. Now
+you might be thinking there's no way uh
+I can do all of this myself. And I think
+you're right. You need to invest
+hundreds of thousands of dollars in
+infrastructure testing alone. You need
+to manage relationships with multiple
+sequencers, inbox providers and
+constantly replace burn domains. Um, and
+you'll need a team dedicated to
+monitoring deliverability 24/7 and
+pivoting when filters change and buying
+tens of thousands of domains. And you
+need to run tests at scale of millions
+of emails per month to get a
+statistically significant data. That's
+exactly why companies like RB2B, Fixer
+AI, and others partner with us instead
+of trying to build this in-house. We
+spent years and literally hundreds of
+thousands of dollars perfecting our
+system uh so they didn't have to. So, if
+you want to start printing cash with
+cold email using our exact strategy and
+our playbooks, book your free intro call
+with us in the first link in the
+description. We'll map your TAM. We'll
+set up a multi-dommain infrastructure to
+optimize deliverability. We'll rapidly
+test to find your winning message and
+then scale it to 100% of your market. So
+again, book your call below. Thanks for
+watching. I'll see you in the next
+video. Peace.

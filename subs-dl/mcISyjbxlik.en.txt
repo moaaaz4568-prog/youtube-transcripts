@@ -1,0 +1,125 @@
+from obscure keyboard shortcuts that you didn't
+know existed to a pathfinder feature very few
+people know about let's look at some wow moments
+in adobe illustrator so with this shape here i can
+press shift plus d and click not once but twice
+and we find a new bounding box this is the quick
+way to enter into the draw inside feature
+but we can take things a little bit further
+first i'm going to press b for the brush tool and
+then draw a little something like so i'm not sure
+what this is but hey this is it anyway hold down a
+click over the direct selection tool for the group
+selection tool and then select your line once
+selected press v for the selection tool to enable
+scaling and other edits to this part of your
+design for example we could actually increase the
+stroke weight and move it around the inside shape
+and remember the keyboard shortcut is shift and d
+next something that solves an annoying problem
+that you might have faced in adobe illustrator
+now my design consists of two shapes and i
+want the left edge anchor points to be the
+exact same location precisely now if i press
+command or control y to enter into outline mode
+we can see that isn't the case this likely has
+happened to you in the past especially on more
+complex designs with many different anchor points
+however press a for the direct selection tool
+and then select the anchor points in question
+you then come into object and then the average
+option found here we now can align them
+horizontally or vertically but clicking
+the both option will bring them to the same
+point and that results in one happy designer
+a quick expansion on the anchor point thing we
+also can align things with precision by using
+the align menu again select the anchor points
+you want to align and then we can choose various
+different ways to align them in this instance
+we might design this star where the top point
+isn't symmetrical and the design just looks a bit
+off the align window can help us if we select the
+three anchor points and then use the horizontal
+distribute center function so let me skew the
+design to make the change obvious sometimes
+we do need such functions to remain properly
+precise as you can see this does make everything
+precise next another problem solver but this time
+with the pathfinder tool and no it isn't the
+compound path keyboard shortcuts that everyone
+knows about at this point quite often when we use
+operations such as the divide function we have
+an annoying issue that crops up now that i've
+divided my design along the vector paths i can
+ungroup everything to have individual sections
+and then just remove the sections i don't want
+but here there is an invisible section
+remaining in the very middle i bet that
+you've had this happen to you many times over
+at some point in your workflow now coming
+into the layers panel we can in fact confirm
+there is a vector shape here that's invisible
+the solution to this is in fact very simple
+come into the pathfinder panel click here to
+open up the options and then check the remove
+and painted option now when we go back in and
+perform the divide function illustrator is going
+to remove the shapes that are not filled with
+anything thus removing the annoying task of
+deleting invisible objects on your artboard
+now here's a quick keyboard shortcut that will
+save you heaps and heaps of time in the long run
+some keyboards might not even have this key but
+the symbol we're looking for is called the back
+quote on my keyboard it is below the
+tailed symbol which is that kirby like
+thing right here anyway press command and
+back quotes or control and back quotes and
+this will toggle between different windows
+in illustrator this will save you time having
+to click through many different documents
+when you do have a busy workload on the go
+next something people often forget about
+illustrator and that is that illustrator
+is in fact a mathematical machine now i've
+got my logo design right here and let's
+say for presentation purposes or for final
+outputs i want it to be exactly 25 smaller
+now we can open the transform window in the
+top drop down menu or i do have it right here
+in the height and width values i can literally
+just type in 25 and illustrator will crunch the
+numbers and scale my design by 25 now you
+can use this across so many different tools
+and functions within illustrator and it's just
+something to keep in mind that's very very handy
+and next a friendly reminder of something truly
+awesome but also how to make the most out of it
+now to use the smooth tool which can be
+found here under the shaper tool we first
+have to select it then select our design and then
+select it once again now what a headache that is
+am i right we will soon see to that problem but
+just don't forget that you can double click the
+tool to change how precise or how smooth you want
+the end results and also just look how ugly and
+unsmooth this curve is this smooth tool manages to
+smoothen things out with just a few clicks now you
+can probably tell how much i like this tool and
+you should like it a lot too but to make it more
+accessible let's jump into the keyboard shortcuts
+menu search for the smooth tool itself and then
+give it a hotkey preference by default it isn't
+actually given one by illustrator but considering
+it's such a pain to navigate to every time you
+want to use it we just might as well give it a
+hockey and this is especially true for people who
+work with illustrations quite a lot if that's you
+then i suggest you do this right away and you'll
+thank me later about this move tool also don't
+forget that if you want to learn more about adobe
+illustrator and the wonderful things that you can
+do with the software just click a video on screen
+and until next time design your future today peace
+you

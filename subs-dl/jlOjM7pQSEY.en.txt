@@ -1,0 +1,554 @@
+Last week, just one person on
+my team uploaded nearly 8 million
+leads for our cold email campaigns
+.  He did it on a 16GB MacBook Air
+on his desk, without using
+any of the programs that
+most people use to generate leads.  In
+other words, no Clay, no Apollo, no tables
+, no row or user limits.
+Literally, just Claude Code with
+Fable 5.1 running on his laptop.
+You see, we used to spend
+$25,000 a month just on lead data
+and the software to process it.  And now
+, the processing part, instead
+of costing 25,000, costs us a
+$200 monthly subscription to
+Claude Code.  In this video, I'll
+show you exactly how we built
+lead lists at scale, what
+we had to replace, and how you can
+implement a similar system.  So
+, before we show you what we use
+now, you need to see what this
+required previously.  The
+standard configuration is a series
+of SaaS tools stacked on top of each
+other.  Most people do it
+this way: they get a subscription with
+Clay, load everything into several tables, and,
+with their new prices, they charge for
+each row they process;  and it gets
+really expensive if you don't stick to their
+previous pricing model.  Clay has
+row limits, so you can't
+have more than about 50,000 rows in a
+single table.  So, you have those
+table limits.  Of course,
+you have user limits and things like that
+.  And for most
+people, that's fine.  For us,
+Clay stopped working
+about a year ago.  We began to
+run into all the limitations that were
+imposed on us there.  In that model, the
+amount of work you can do
+is limited by what you are
+willing to pay, not by the work you
+actually need to do.  And that
+configuration failed because it was never
+designed for our volume.
+We used to be the biggest user of Clay.
+I was on a call with one of their
+managers and he laughed jokingly when I
+told him the volume we were
+processing there.  We were making approximately
+17.3 million enrichments each
+week on their platform.  And when I
+told this guy that, he jokingly said,
+"Wow, I think they use the platform
+more than literally anyone else
+."  That's why we used to be one of
+Clay's biggest users.  And I want to
+be extremely clear.  I think Clay
+is a great product and I honestly
+think most people should use it.
+This is just our experience.    It
+simply wasn't working for us anymore.  So
+we had to rebuild everything to
+run it locally using
+cloud code.  Anyway, that brings us closer to the
+present.  We reconstructed what Clay
+did for us.  We rebuilt everything
+using custom code.  It was in
+the cloud and that cascading system
+enriched about a quarter of a
+million rows per second.  And that's
+very fast.  It's honestly
+unnecessary for most of what we
+do.  But for comparison, it would
+take Clay about 27 hours to process 1
+million leads, while at a
+quarter of a million per second, we were able to
+do it in, you know, 4 to 5 seconds.
+Now, if a customer needs their entire
+market harvested, cleaned, and ready to
+ship in one day, we are able to
+do it on our end.  So, the
+main thing I want you to remember is
+that you can process millions and millions
+of leads locally, even on your
+own computer.  Because since
+we implemented the waterfall model, it's become
+so simplified that we don't
+even use that
+cloud system anymore and run everything on our
+local MacBooks, which is great.  And
+all you need is cloud-based code
+and a good data source.
+So, let me show you exactly what
+this looks like right now.  You see, it's
+just two codes in the cloud and we'll
+give them to you.  They'll be in the
+description for you.  And you just run
+one and then the other.  So, when
+you click on that link, it will take you to
+this page.  I'm going to update the text
+here, so it might be a little
+different when you get it after we
+edit the video.  But
+basically, there are two
+main skills that will appear here.
+And the reason they are two
+separate skills is because this
+first skill is mostly
+pure language.  It has no code
+.  So, all it will do is
+tell your agent what our
+process is, which suppliers we use, and in
+what order we use them.  So, the
+first thing he does is interview you.
+You should ask yourself who you want to
+talk to, i.e., who you want to
+target, what size list you're trying to
+build, and what your requirements are.
+Then, come back with a plan before
+touching anything.  You can tell it to use
+different providers or to reorder the
+waterfall, and it will be able to adjust everything.
+So that first skill is mostly
+to prepare the
+main skill, so that it can be adapted
+to your systems, your
+data providers, and things like that.  And the second
+skill here is where I think
+most people who build this
+type of system go wrong.  You see, the
+second skill is purely coding.
+And so, it does a lot of things
+for us.  Use code to
+remove generic addresses like "
+info" or "sales", format everything
+correctly, and remove duplicates
+from the list.  And the point is that all of
+that has to be code.  Many people
+try to get their agents to think
+through a CSV file.  But no,
+you actually need to run code on
+the file to get exactly the
+results you're looking for.  Because having
+an AI read a row of data, make a
+decision, move to the next row, and
+repeat that a million times is
+terrible for your context windows.
+And that's exactly how we can
+generate and process millions of
+leads so cost-effectively.
+Therefore, that first skill, being
+based on language, is very
+important because it prepares the execution
+of the code to ensure that no
+problems arise.  So if you want
+these two skills for yourself, the
+link is below in the
+description.  And speaking of
+descriptions, if at any point in
+this video you want to see how we can
+set up our entire system for you
+, turning cold mail into a
+reliable lead generation machine
+for your business, click
+the link at the top of the description
+to book a call with us.
+Now let me explain what
+actually happens when you execute this
+skill completely from beginning to end.
+What it will do is process a raw CSV file
+.  Perform
+dynamic API queries to find the
+leads you requested.  It puts it through
+a cascading enrichment process to
+find and verify
+contact data, and then connects it to your CRM,
+sequencer, or whatever.  Once
+again, that first skill should
+interview you enough to
+adapt to your ecosystem, but maybe it will
+point out: "Hey, you're missing this piece."
+What sequencer do you use?  You're missing a
+data provider like Blitz API, Mult
+Sets, or whatever one you're using
+.  So at that step you'll give it its
+context and the quality of the entire
+execution will be decided there.  For
+example, what we do is give each
+client we bring on board a
+campaign ideation document.  And during their
+integration process with us, they
+complete it and we can have a
+launch call with them.
+So, instead of answering
+interview questions with our
+agent, we can give them our
+campaign ideation documents and
+they can review them completely.
+Because as you can see here, we are
+trying to define, for example, "
+What is your ideal customer profile?".
+And we also asked them: "What
+are the flexible requirements?", in order to
+define their total
+addressable market and also focus
+on their ideal customer profile.  So
+, really, if you have an
+ICP document, positioning, or notes from
+previous campaigns in your business,
+you can link all of that directly,
+as long as your agent can access
+it, and they'll be able to pull everything from there.
+The second step consists of the
+search.  It works like a waterfall
+through all our suppliers.
+For example, yesterday I did a test with
+Mult Stats, which will be released soon.  I think
+we're on track to launch the
+campaigns on October 1st.  If you don't know
+what Multitudes is, it's a
+very good data provider by Adam Robinson.  We
+helped him launch RB2B about 3
+years ago.  It's now a
+$9.5 million company, and our
+cold mailings account for 42% of its
+revenue.  And well, he's releasing
+Multitudes.  I wanted to try it.  The great thing
+is that none of these are
+apps where you have to
+log in or navigate by
+clicking.  Your agent will know that they can
+access it through APIs.  So
+you only get one key from each
+provider and Claude calls them
+directly from your machine.  And it's not that
+the skill itself is
+performing the search.  It simply
+tells the agent which provider to consult
+first, which one to follow next, and
+so on.  For me, the
+important thing in any waterfall search engine
+is very simple.  You have the
+search, the location, and the
+validation.  Searching here means
+something like: "find me all those who
+are managers or seniors in marketing
+at companies of type XYZ."  And, obviously
+, there are millions of
+possible search combinations you could
+perform.  A search could even
+be a Google crawl or something similar
+.  After that, once you've searched for
+the person, you need to find their
+contact information, and that's where
+you enter a cascading search engine.
+Because when you find
+that person's email, it's probably not their
+real email, it's invalid, or it contains
+incorrect information.  So you need to run it through
+a validator to confirm that what
+you got is correct.  For example,
+this skill would go to Multistats.
+We'd get an email and say, "
+Great. Multistats says that's the
+email. Let's validate it quickly.
+" And if the result is valid,
+then perfect.  We uploaded it to our
+sequencer, got less than 2%
+bounce, and everyone was happy.  But if you go
+to Multistats and validate it, and it says: "No,
+it's incorrect."  Then you say, "Okay,
+great. I'll go to the next
+data provider."  Maybe I'll go to Blitz,
+maybe I'll go to AI Arc, or whatever.  You can
+create your cascading flows from there.
+I created this skill so that
+you can modify and adapt it, no
+pun intended, to your
+specific workflows.  The ability
+should allow you to choose one
+or more search providers, go through
+all the results, find it, and
+then continue the process
+through everything.  And if it's invalid, it
+will keep searching until it finds a
+valid one.  When you finish, you get something
+like this, where we have a complete list;
+This is a specific list where
+we wanted companies with more than 250
+employees, but with at least 70
+people in their sales department.
+We were looking for people from a certain size
+company, and they had to have a
+minimum size in their sales department.
+He was able to process all of that and give me the
+final files;  And that's it, now I have
+380,000 sales leaders I
+can email, in addition to the
+qualifying companies.  I could take
+that list of companies and put it into
+any other search provider
+like Blitz or Prospectio, or, you know,
+there are millions out there.  In fact,
+I heard that Lead Magic just launched
+an unlimited search API, so I'm
+going to try it out later today.
+Once you do that, step four will be
+your export.  It will be like: Where do
+you actually want to send this data? Do
+you want to upload it to your
+sequence server? Do you just need it in your
+CRM? What does that look like?  And he'll make sure
+to ask you where you want
+everything to go when you're finished.  So
+you can simply tell your
+agent, "Use this endpoint to upload
+my leads to the XYZ campaign."  And it
+does so without the need for
+technical knowledge.  So, for us,
+our export is a little more
+complicated than yours would be
+because we are in a unique situation
+.  We send our emails through
+a business partner we call
+Halo.  I can't name them because
+we have a
+very strict confidentiality agreement, but that's because it's
+enterprise-level software.
+They are currently in the B2C sector.
+They want to enter the B2B sector, but they
+cannot yet be
+publicly known for it.  So we
+gave it the code name Halo.
+Therefore, we have to do very
+specific things, like dividing our
+lists into blocks of 5,000 and
+manually uploading them to the Halo software.
+So, for our part, we have a
+third skill that is useless to
+you, so we don't include it here.
+That takes control of one of our
+laptops, clicks on the interface with
+the browsing agent, and uploads the
+files to the sequencer
+overnight.  But that's not something you
+need to worry about because if you send
+through platforms like Instantly or
+SmartLead, they have APIs that make it
+very easy for you.
+We will eventually have an API on the B2B platform
+that Halo is building for us,
+but it's not ready yet.  But, besides
+that, you know, this isn't just for
+cold emails, right?  You
+can use this same list for
+LinkedIn contacts, calls, or
+LinkedIn ads, where you can often use
+that profile URL directly from a
+search and skip the
+cascading enrichment if you only need a list
+of profiles to target ads,
+for example.  You can also modify
+these skills to say, "Hey,
+I want to customize each one."  "Great,
+you can send a subagent within the
+session and have it investigate line
+by line to add
+personalization."  We no longer do
+personalization because it
+stopped being effective about 6 months ago and now there
+is no difference between personalizing an
+email or not, so why pay
+more to get the same result?
+We continue to test it daily and
+have found that customization is
+a total waste of money.  It makes you
+feel good, it makes you feel elegant,
+but at the end of the day, money is what matters
+.  For example, the campaigns we
+ran for AB to B, which
+generated hundreds of thousands of dollars for them
+each month, are still some of the
+best we've ever done and they never
+had any personalization.  The email
+literally said: "This is what
+the tool does. Do you want it?
+Reply with yes."  Because, at the end of the
+day, a good deal is all that
+matters.  And believe me, we tried.  There
+was nothing we could do to
+research and further personalize an
+email for someone that would
+suddenly make them want to buy more.  At the
+end of the day, is your product good
+or not?  The other thing we don't do is
+qualify prospects before
+sending them emails.  They know, and of course,
+they could do it.  If you're doing
+something more targeted, you can use this
+workflow, as the
+main structure here is how to use your
+local machine to process lists in
+a way that, once again, I tried to make
+the skills adaptable and
+modifiable so that you integrate them into your
+workflow and find them really
+useful.  So I really don't see the
+point in qualifying
+prospects.  Our approach is
+simply to send an email to
+a client's entire addressable market every
+30-60 days in order to avoid burning out the market,
+saturating people, and damaging
+our clients' reputations.
+That means a single email, not a
+four-part sequence, because
+we're trying to get you to buy right now,
+this very week.  And sure, if they have
+data indicating that someone
+is looking to buy today, well, maybe
+that justifies a
+four-part sequence, but again, that's
+not exactly what
+we do.  We are not following an
+account-based marketing
+(ABM) approach.  We simply like to monetize
+the entire addressable market and earn
+millions of dollars instead of
+trying to create a very
+elegant and cool campaign that just makes us
+feel good.  And well, the last thing I'll leave you with
+is that this is a
+very, very small part of what we do with
+Fable 5.6.  So what I did was
+start a session and ask, "Hey,
+can you help me understand everything I've
+done in the last month with
+all my local programming sessions
+?"  And well, you can see it
+quickly on the screen.  You can
+pause to read it all if you want.
+But basically, there's a lot of
+work I do with this.  In fact,
+I even created a sort of
+AI group with something called a CLI proxy so I
+can rotate between... I have seven
+different Fable subscriptions right now
+and they all rotate.  Maximize the one
+that's about to expire and I have
+four Codex accounts.  That way, I can
+move forward with all the content.  I mean
+, you can see here, you know, I've
+started something like, what is it?  6,000
+agent sessions running my
+business day in and day out.  So, this is
+just a small sample of everything we
+do, and right now I'm
+working on a script, a video,
+organizing my ideas about the
+exact system I use to achieve this kind of
+performance and, you know,
+$28,000 in spending.  In fact, let me
+show you that quickly.  Yes, here it is
+.  You can basically see that
+if I paid through the API, I would
+normally spend $29,000
+for everything I've used in the
+last 30 days, which is
+crazy when you think about it, because at the end
+of the day, it's just a bunch of
+subscriptions.  And as a
+pro tip, um, I just found out the
+other day that you have the $200 plan
+and the $100 plan with
+Claude.  I thought the $200 plan
+meant you'd get 20
+times more use, but that's not true.
+You only get a 20x multiplier
+in 5 hours of use, which is
+pretty crazy.  So, I'm about
+to update all my subscriptions;
+Instead of them being $200
+each, I'll just use the $100 plan
+, because there's no
+difference in weekly usage.  And by the
+time I've used up one of these after
+5 hours of use, I'll be able to move on to the next one
+.  So, I'm pretty sure I
+could cut my
+Claude bill in half tomorrow and
+still get the same
+inference usage, which would be amazing.
+So I'm going to start doing some
+more things about it.  I'm going to share
+that thing about the AI ​​group and what I've been
+able to achieve with it, and so on.  But
+we use agents in an incredible way.
+And also, further down the line, I'm
+working on something right now where I
+'m creating a cloud-based engine
+so my team can continue using their
+local sessions, but one of the
+bottlenecks they face is that
+, if we process multiple lists for a
+client, it's difficult to queue them
+properly.  So I'm creating
+a cloud session for them to use
+their local agents on their computer and
+simply queue everything in the
+cloud, and then it will be processed at that rate
+of half a million items per
+second.  Even then, my agent
+said that if Fable 5.1 finds some
+efficiencies, he thinks we can get to
+half a million per second, so
+who knows, it would be great if we
+made it.  So be sure to
+follow us, subscribe, or whatever
+when we talk about these things.
+I simply like to talk about
+technology, business, what we
+actually do day to day to
+run a company, scale it,
+grow it, and all that kind of stuff.  So
+make sure to follow me wherever you
+prefer to follow me for that.  And to
+wrap things up, if you'd ever like us to
+run cold mailings for your
+company, click the first link
+in the description and book an
+introductory call with us.
+We will map out your entire digital marketing strategy
+and show you exactly
+how we would achieve 100% of it in 30
+to 60 days to turn
+cold mailing into a money-printing machine
+for you.  So again
+, it's the first link in the
+description and the second link in the
+description should contain all
+the skills I talked about, I
+hope they are very useful to you.
+Finally, if you want to see the results
+this produces once it's up and
+running, check out this next video where
+I explain how we built the system
+for Fixer AI.

@@ -1,0 +1,602 @@
+All right, in this video I'm going to be
+doing a beginner walk through and
+tutorial of Plus Vibe, which is a cold
+email sending tool. That way, if you're
+considering using the platform or you're
+trying to figure out how to use the
+platform, then hopefully I can help you
+learn a thing or two in this video. A
+little bit of my credentials, I've sent
+over 10 million cold emails, I've booked
+over 4,000 sales meetings with cold
+email, and I've sent at least a couple
+hundred thousand emails through Plus
+Vibe, so I know a thing or two and
+hopefully can help you out here. So,
+jumping in, this is their website, it's
+plusvibe.ai.
+Check out their pricing here, I'd say
+it's pretty affordable and very
+reasonably priced. So, you can check out
+all the pricing here. They have some
+other bells and whistles you can pay for
+like setting up email accounts through
+their platform or running email
+placement tests, which I'm going to get
+to here in a second. Well, let's just
+jump into the platform. So, first I'm
+going to quickly go over some high-level
+features, then I'm going to walk through
+a hypothetical campaign setup, and that
+way you'll know how to use the platform
+at a high level. So, first over here on
+the left-hand side, there's email
+accounts and warm-up. This is where you
+can view all your email accounts. Now,
+if you're doing modern cold email
+sending, you're doing it at a higher
+scale, you're going to need multiple
+accounts or hundreds or even thousands
+of accounts depending on the scale you
+want to do it, and Plus Vibe lets you
+orchestrate all of them in one place.
+You can see in here, we were running a
+test through Plus Vibe, we had just
+under a thousand email accounts
+connected here because we were comparing
+Plus Vibe versus Instantly versus Smart
+Lead. I have a video here on the channel
+if you want to check that out, but you
+can manage all your accounts over here.
+Prospects and lists, this is where you
+can upload leads, manipulate the leads,
+and manipulate your lists bit more
+through here. You have the campaign
+section, this is where you can look at
+your campaign stats and analytics and
+launch email campaigns. Your inbox
+section here, where you can respond to
+all the emails from all your hundreds or
+thousands of accounts in one place. Your
+placement test, which may or may not be
+useful depending on what you're doing,
+and then your settings. So, first I'm
+going to go over here to the email
+account section. So, this is where you
+can connect your email accounts to use
+at scale through Plus Vibe. If you want
+to add an account, you just press add
+new account here in the top right. Now,
+if you want to connect your own email
+accounts, you can do that through any
+sort of these workflows here. That's
+what I personally like doing. I usually
+like setting up my email accounts
+separately and then connecting it to a
+platform. That way I have a little bit
+more control. Otherwise, if you want to
+purchase email accounts through Plus
+Vibe, which makes your life a little bit
+easier so you don't have to use another
+platform and connect it, you can just
+buy Google Workspace and Microsoft
+accounts here. Pretty straightforward,
+makes your life a lot easier if you just
+want a quick and simple setup.
+Otherwise, you can just manually connect
+your email accounts, which again is what
+I prefer to do. Now, after you connect
+your email accounts, you can manipulate
+it here in this section. Now, if you
+want to select all your accounts at
+once, you can press this tick box here.
+You can select all these accounts and
+manipulate them through these bulk
+settings here. You can also click in one
+by one into the email accounts, look at
+their settings and their warm-up scores
+and whatever else. So, you can see the
+sending settings here. Now, I ran some
+campaigns through here, they're not
+active anymore, which is why the daily
+email sends aren't showing up because
+these currently aren't in any campaigns.
+Settings here, you know, I can
+manipulate the settings, so I can go
+change the first name, change the
+sending limit, change the email
+signature, change the tracking domain,
+assign tags, and I can also change the
+warm-up settings. If you don't know what
+warm-up is, it's basically sending
+emails to other people on Plus Vibe's
+network. That way it can increase your
+account's reputation and make it less
+likely that it lands in spam. So, if you
+want to do that, it's included as part
+of their packages. You can turn this on
+here or do it at scale. There's some
+basic settings here. One thing that I
+liked that is specific and unique to
+Plus Vibe, and I have not seen in any
+other cold email sending platform, is
+that you can manipulate what the warm-up
+text actually says. So, most warm-up
+text that get sent out is pretty generic
+type stuff. You can select what business
+type you are, so that way when you're
+sending out warm-up emails or Plus Vibe
+is automatically sending out warm-up
+emails, that it closely aligns with the
+emails that you're actually sending or
+is more similar. So, that way, you know,
+I run a cold outreach agency, which by
+the way, if you want to work with me,
+there's a link in the description, but I
+run a digital marketing agency, I guess
+you could call it. So, I can select
+digital marketing agency here. And that
+way, whenever it's sending out these
+kind of dummy warm-up emails to other
+people, it closely aligns to what I do,
+and theoretically you should make it
+more likely to count towards your
+reputation a little bit more. Now, I
+don't know how much this actually works,
+but at least it's a feature here that is
+unique to Plus Vibe. You can tag stuff,
+you can manipulate stuff. Another cool
+thing that I would say is unique to Plus
+Vibe is that you can look at the warm-up
+settings here or your kind of warm-up
+analytics. I see a lot of platforms,
+they show you your warm-up kind of sends
+and what percent is going to spam, but I
+have not seen a platform show you your
+deliverability by recipient. So, you can
+see here how much of your warm-up emails
+are landing in inbox specifically to
+Google, specifically to Microsoft,
+specifically to others. You can also see
+by certain tags or providers. So, I can
+look here at my Google accounts and look
+at what the performance looks like. So,
+you can see my Google accounts are
+landing in Google inboxes at 94% versus
+the Microsoft accounts are landing at a
+94.8%.
+So, maybe it's showing that the
+Microsoft accounts are performing a
+little bit better in the warm-up pool.
+Again, I wouldn't take the warm-up
+scores as a defined deliverability
+score, but I think it's useful
+nonetheless or at least a cool feature
+that Plus Vibe has. You can also do it
+by tags. So, that way maybe you create a
+new batch of inboxes and you want to see
+just the performance of the new inboxes,
+you could select that tag and then you
+could see again the performance by
+whatever inboxes you just had. You can
+select the date range. Pretty cool
+stuff, gives you a little bit more
+detailed analytics. So, that's the email
+account section here. So, now moving on
+to the list section here, this is where
+you can upload your list or manipulate
+your lists outside of the actual
+campaign section. They have a almost
+Clay style kind of manipulation field
+here, where I can upload leads, so I can
+upload the emails, the first names, the
+last names, whatever info here, and then
+I can enrich the lead. So, if I want to
+scrape their website, I can select their
+website here, scrape the data, and then
+run it here. They charge you their
+enrichment credits. And if I want to
+personalize the emails using AI, I can
+use this AI feature. So, I can import a
+bunch of people's info here, and almost
+in kind of a similar way to Clay, I can
+manipulate the data. I can use AI to
+scrape the data, I can customize fields,
+I can filter stuff. So, maybe you want
+to upload a lead list that you think is
+accounting firms, you could go over here
+and scrape the website and use AI and
+say, "Please check out this website and
+make sure it's actually an accounting
+firm." That way, whenever you upload it
+to your campaign, you're making sure
+that you're hitting the right lead. So,
+this is a really cool feature. Cool
+thing is, too, you don't have to use
+their credits. I think for all the
+actions, if you go over here to the AI
+tab, you can use your own API key. So, I
+can add my own OpenAI key here. I can
+put in whatever stuff I want. They have
+a few templates here, so if I want to
+use whatever templates they have for
+personalizing the emails, you can play
+around that here. So, you can take this
+data, throw it in, save and run, and
+just like that, you can manipulate your
+data. So, if you find this useful, then
+you can manipulate your data through
+Plus Vibe, which might save you a tool.
+Really depends. I'd imagine again, if
+you're doing advanced workflows and
+you're doing a bunch of different stuff,
+probably would still want to use a tool
+like Clay. But if you're just doing
+simple personalizations, you might be
+able to save yourself some credits and
+just do everything through here. I'm
+going to move my face over here again
+just so I can see some more stuff.
+Campaigns, I'm going to spend more time
+here, so I'm going to skim over this
+really quickly here, but this is where
+you can create your campaigns. Master
+inbox, this is where you can respond to
+leads. So, after you send out your cold
+email campaigns and you start getting
+replies, you can click in here, you can
+respond to the lead, so I can press this
+reply button here and respond to this
+handy-dandy lead here and say, "Hey,
+thanks for reaching out. We do yada
+yada." And then, if I wanted to, I can
+re-tag the lead. I can send here, I can
+use the AI writer, I can use variables,
+I can do all kinds of stuff. But this is
+where you can kind of centrally respond
+to all the people in one place. You can
+also just compose emails straight out of
+the master inbox, which again is a nice
+feature. A lot of platforms don't let
+you just send emails from the email
+accounts, so this is nice if you want to
+send a one-off email, which again I
+think is a pretty cool feature here. But
+other than that, that's the master
+inbox. Again, I could go through all the
+bells and whistles, but I would say in
+terms of pretty much all cold email
+sending tools, it's pretty similar.
+Another thing you can check out in the
+master inbox is that the master inbox is
+supposed to show you emails that are
+received from your mailboxes that are
+hopefully assigned to leads that
+actually exist in campaigns. But if you
+just want to see all the different mails
+that are coming through, then you can
+check this out in the other section. So,
+if I just want to see all the incoming
+mail in case something slips through the
+cracks, you can check that out here in
+the other section. Other than that, this
+is pretty much a central place where you
+can respond to stuff. You can also
+configure AI to help you reply to email,
+so this can be useful if you want to,
+you know, let AI help you formulate
+replies, follow up with leads. I'm more
+of a fan of kind of writing stuff
+myself, but again, we're going to be
+implementing more AI stuff for responses
+cuz I think AI has gotten a lot better
+in the last 6 to 12 months. But that
+being said, you can kind of play around
+with those features there. So, before
+moving on to the campaigns tab, we're
+going to jump over the email placement
+tab. So, this is if you want to run a
+test to email accounts owned by Plus
+Vibe to see where they land. It's kind
+of similar to warm-up, except you're
+using your actual campaign copy to see
+where they land. So, if you want to run
+a placement test, you can pay extra and
+run it. I'm personally not a huge fan of
+running placement tests. I like using
+real campaign data to see if anything's
+going wrong. But without further ado,
+let's go to the campaigns tab here
+because this is where pretty much you're
+going to be building a majority of stuff
+in the platform. So, if you want to
+create a campaign, you press create a
+new campaign or add a new campaign here
+in the top right. We're going to call
+this test campaign. We're going to press
+save. So, now we have this test
+campaign, and I'm going to go ahead here
+and edit the campaign. So, a few things
+here. First, you can upload your leads,
+so I'm going to upload a dummy batch of
+leads here for the sake of this test
+campaign. So, if you go to, you know, a
+data scraper like Apollo, Prospect.io,
+AI Arc, whatever tool you're using, you
+can import leads from here, so I'm going
+to do that real quick. You can either
+pull it from your list tab that you did
+earlier here, you can manually upload
+people if it's a small list, you can
+upload a CSV, or you can even sync it
+from a Google Sheet, so you could link a
+Google Sheet and do it from there. I'm
+just going to upload a CSV file. Cool.
+And so, after you pick your list, then
+it's going to ask you to map your
+fields. So, whenever you have a list of
+all this data, you just want to tell us
+Plus Vibe what the first names are, the
+last names are the email is and if you
+want any custom fields so let's say I
+want to use the sub departments thing I
+can put it as a custom field so that way
+if I want to call out someone's sub
+department I can upload that as custom
+field you can verify leads through plus
+five again I personally like using other
+platforms for that you can filter leads
+exist in other campaigns you can skip
+leads you can do all kinds of other
+settings but I'm just going to import
+the leads here please select the type of
+all your columns oh looks like I just
+need to select do not import for all the
+leads that I or all the fields that I
+don't want to import so I'm going to do
+that real quick here oh it looks like I
+also could have checked this box do not
+import unselected columns but anyways I
+just manually did that there I'm going
+to import these leads and just like that
+we have 19 imported leads ready to go
+here so after we have the leads all set
+up now we can write the sequences so if
+we want to run campaigns we can write a
+subject line so I'm just going to put
+test subject line here now this is not a
+video on how to write a cold email I
+have other videos on the channel on how
+to do that so I'm just going to write
+some dummy text here so now if I want to
+add a variable I can press import
+variables where my face is conveniently
+blocking but let's say I want to call
+out someone's first name so I could say
+hi first name do you want to buy my
+service question mark thanks then I can
+import you know any other things here if
+I want to add any sort of custom
+variables that are kind of unique to
+plus five so let's say I want to call
+out the time of day so if I want to say
+good morning first name or good
+afternoon depending on when we send it
+if I want to call out you know dates or
+months or whatever if I want to use spin
+tax so that's basically just
+randomization I can kind of set that up
+here templates can preview your email so
+if I want to pull in someone's name here
+to see what it looks like I can have
+that here but if you want to see if
+there's any spam words you can highlight
+potentially risky words in my experience
+that usually doesn't make a ton of
+difference unless you're sending out a
+crazy scale or you're using a ton of
+them but that is the sequence editor
+here if you want to add split test you
+can press this plus button here we can
+copy the content you know make a
+different variable so I can say hello
+first name so if I want to test hi or
+hello you can test that there you can
+name the variable you can add a date gap
+and then we can you know add follow up
+email so if I want to add a follow up
+email you can add a follow up email hi
+again first name please buy my service
+and just like that you have a terribly
+written cold email campaign [laughter]
+ready to get sent out but that's
+basically it sequence editor pretty
+straightforward if you import your
+variables you can use whatever variables
+you want in here you can preview your
+email you can use templates you can use
+AI you can look at the score however
+they score it here but I would say it's
+pretty straightforward now let me go
+ahead and press save all so we can move
+on here schedule so if we want to select
+a predefined schedule in which we want
+to send to people we can use specific
+dates times campaign stuff all that
+stuff here you can set a profile so if
+you want a standardized set of settings
+that every single time happens you can
+create a standardized set here you can
+create multiple profiles so if you have
+some customers or you have some
+campaigns in the US and some campaigns
+in Europe and you want different
+settings you could set up custom
+settings to import there settings this
+is where you can configure the name you
+can add sending accounts so if I want to
+add all the accounts I can just press in
+here and select all the accounts if I
+just want the accounts that are tagged
+with one thing or another you can
+conveniently just press a couple buttons
+and get all the tags from specific
+accounts right there which is really
+nice you can choose whether or not you
+want to focus on new leads or follow up
+with existing ones you can set the
+follow up method you can set up if you
+want your ESP matching to go out so
+that's Google accounts you know
+prioritizing sending to other Google
+accounts and Microsoft accounts to
+Microsoft accounts all you should really
+know is that you don't really need to do
+this I've run some small scale tests and
+found not that much difference or not
+really anything that's significant
+safety settings again I could go through
+all of these but these are all pretty
+straightforward just to make sure that
+nothing gets suspended or broken again
+my face is kind of in the way of this
+now there's a ton of settings here but I
+figure for the sake of this video and
+just trying to be brief it's not worth
+me going through every single one of
+these but if you want to check out all
+the settings you can go to the settings
+tab here so sub sequences this is useful
+if you want to set up custom rules to
+follow up with people or to push people
+into new campaigns if they are tagged
+with something so the most obvious
+example is like if someone says that
+they're interested and you want to
+automatically follow up with them I can
+create a sub sequence which is basically
+an automated follow up sequence after
+people meet a certain rule so as an
+example if someone's interested plug
+them in a sub sequence then they get you
+know follow ups for eternity after the
+campaign has already followed up with
+them initially so I can put test sub
+sequence here and then I can press next
+and so now I can set it that anyone who
+is marked as meeting booked that they
+get you know a certain set of emails or
+interested let me just do that real
+quick here I'm going to remove meeting
+booked so if someone's marked as
+interested then they get a nice follow
+up email where we say hi first name
+please book a call with me
+>> [laughter]
+>> you know nice lazy follow up here can
+press save which again my face is
+covering just like that you have a sub
+sequence so now anytime you say or you
+tag a person as interested now they are
+getting that handy dandy follow up email
+right there and again you can add more
+emails to the sub sequence I just added
+one there but let's say we want
+continual follow ups I can add you know
+step two hi again add a step three hi
+one more time and just like that I have
+created a nice generic three email long
+sequence begging someone to get their
+attention which again this is terrible
+copy just trying to show the platform
+and then the analytics section here this
+is where you can check the analytics and
+then if you want to go ahead and launch
+your campaign there is somewhere here in
+this you know nice check mark there
+where you can launch your campaign
+that's how you create a campaign really
+quick here one thing that I also want to
+cover that is really nice about plus
+five that is probably one of the
+favorite things I like about this
+platform is their analytics again just
+like their warm up stats their analytics
+is super crispy and really easy to work
+with so now if I want to go to all the
+campaigns I sent across all time I can
+see all the sending stats I've done here
+so I can see I sent 200,000 emails
+through this account I've contacted
+100,000 leads 107,000 people are
+completed 2.5% reply rate 0.5% reply
+rate whenever you are filtering for just
+human replies you can see your positive
+reply rate another thing that I really
+like here is I can see the stats by the
+different email tags so if I want to see
+as an example what the performance looks
+like across a certain set of mailboxes I
+can filter that here which I really like
+and again you can see the sending volume
+metrics here you can see the performance
+by email accounts I can look at the
+performance by the recipient provider so
+I can see how the campaigns performed
+I'm just going to do this real quick
+here so I can see how the campaigns
+performed if they're Google recipients
+so if I click into Google here I can see
+that we sent 50,000 emails to Google
+accounts and to Google recipients I had
+a 2.8% reply rate without of office and
+a 0.6 reply rate you know that's human
+but now if I go over to Microsoft
+accounts and I remove the Google
+accounts I can see that the reply rate
+is a lot worse and you can see here when
+we reach out to other providers we
+actually get a 5% reply rate so you can
+see how drastic of a difference there is
+whenever we reach out to certain
+providers so now this is really useful
+because now I can know that if I have
+all three of these different providers
+that I should prioritize other providers
+than Google than Microsoft the last
+because Microsoft recipients had the
+worst performance and this is what's
+really nice about their analytics just
+how quickly and easily you can kind of
+filter for things I can filter by tags I
+can see what the performance looks like
+you know I can look at certain campaigns
+that are active or paused or whatever it
+might be I can look at the date ranges
+and so this analytics tab is really nice
+and then on top of that they have
+settings over here on the left which
+again my face is blocking I'm not going
+to go super deep into the settings but
+basically you can have different
+workspaces so if you want to have
+another sub workspace where you want to
+separate things out you can do that
+there you can configure API keys you can
+configure client access so this is
+useful if you run an agency and you want
+to have sub accounts you can set up all
+your other settings here as well and so
+that is a high level overview of the
+settings all right so that's plus five
+now hopefully you got some value out of
+this video if you want someone to help
+you run cold email campaigns because
+this looked too complicated you can
+apply to work with my agency over at
+anevomarketing.com you can check one of
+the links in the description below
+otherwise check out all the other videos
+on this channel for content about cold
+email really appreciate you hopefully
+you got value and take care

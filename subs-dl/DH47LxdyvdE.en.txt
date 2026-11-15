@@ -1,0 +1,1524 @@
+Hey, I'm Codie Le Caet, and this morning
+I woke up to a briefing that told me
+exactly which of yesterday's ideas were
+worth acting on and which ones I should
+throw in the bin. And four tools ran
+overnight, which enabled me to know what
+my tasks were going to be for today,
+what I needed to focus on, what my
+priorities are based on what my goals
+are, and what I'm trying to achieve
+right now. And today I'm going to show
+you that whole system that goes from me
+WhatsApping my ideas, thoughts, and the
+things I just remembered I need to do on
+the go to my Claude AI agent in make.com
+and ends up in Airtable organized for me
+in the form of a morning briefing every
+single day. I'm going to walk you
+through the whole system that I built so
+that you can copy it and build one for
+you, too. This is going to be a big
+session. I've got a lot to show you. I'm
+going to let you in to like the inner
+workings of my mind and also into some
+back end, how I run my business stuff.
+First and foremost, if you're passionate
+about what you do, tell me. Put it in
+the comments. Say, "I am passionate
+about what I do. I'm a passionate
+business owner." Drop it in the comments
+for me because I see you and I know one
+thing about you, and that is that you
+have a list as long as your legs. And
+that list is not going to get smaller
+anytime soon. Because so long as we are
+passionate about what we do, the ideas,
+they come to us on the go. They come to
+us in the shower. They come to us whilst
+we're walking the dog. The ideas never
+stop. However, how do you know which
+ones you should act on, which ones you
+should park, which ones are taking you
+towards your goals, which ones are
+taking you away from your goals? When it
+comes to the ones that are a bit scary
+and you put it off, maybe it could be
+weeks and weeks that you keep putting it
+off, but it could be the one idea that
+if you implemented it right now, it
+would actually move you closer to your
+goals. But instead, what you do, like
+all of us, I do this, and this is what
+this system has fixed for me, is you
+focus on the busy work, the safe stuff,
+the stuff that just makes you feel like
+you're doing something but actually
+isn't getting you towards your goals.
+It's just keeping you busy, stagnant,
+and keeping you treading water in the
+Atlantic out on your own, nowhere near
+the destination that you're trying to
+achieve. So, this system I'm going to
+walk you through today is going to help
+you prioritize all that stuff. And next
+week, I'm releasing a video that's going
+to take this a step further, and I'm
+going to show you how to take the system
+that we built today and turn it into a
+daily money-producing activities
+workflow where you spend an hour on the
+scary stuff because now you've got a
+system where all your ideas and tasks
+and projects are laid out, the scary
+stuff, the stuff that's actually going
+to get you becoming a well-known
+whatever you want to be with a huge
+audience and a bank balance to match,
+that stuff. I'm going to show you how we
+can then take what we do today and turn
+that into daily money-producing activity
+hour session as well. I've got a lot to
+get through today. I'm going to crack
+on. We're going to share screen. We're
+going to open up make.com. Let me know
+in the comments, are you using make.com
+yet? I want you to type newbie or love
+it. Maybe you're using it and you hate
+it. Make.com is an automation tool.
+We're going to use that today. The other
+thing that we're going to use is
+Airtable. Are you using Airtable yet? If
+you're not, like, it's just going to be
+the best thing you've ever discovered. I
+love Airtable since they've got all the
+AI stuff in it, and we are going to use
+WhatsApp. We're going to get you a new
+WhatsApp number today, and we're going
+to create that on Meta. So, you kind of
+need like a Meta Business Suite. So, if
+you've got a business page, perfect. If
+you haven't, you'll need one. You'll
+need to set one up. The only other thing
+that we need is your brain. So, firstly,
+what I'm going to do is walk you through
+kind of how my thinker works. I call it
+the thinker. That's its name. It's the
+thinker. It started off being the ideas
+engine. It's been renamed the thinker.
+And you'll see in some places I call it
+ideas engine, and that's because once
+you rename things, it kind of breaks
+automations. So, let me share my screen.
+I'm going to let you into my WhatsApp. I
+have this number that I have generated
+using Meta. And what I do is I send it
+messages. So, I'm like, "Oh, this is a
+task. I need to book in the reveal call.
+A task. I need to create more knack
+posts." And then I also have ideas. So,
+like, I might send it an idea in the
+form of a voice note or just in the form
+of an idea. The way I differentiate
+between a task or an idea is if it's a
+task, I put the word task in front of
+it. And if it's an idea, I just say it.
+Now, I'm sending these messages, and
+what happens is they all end up in this
+tasks table. And they get organized into
+whether they're high, medium, or low,
+etc. And if there's a due date, I give
+it a due date, and then essentially
+that's where all my tasks are. Now,
+here's the problem with having a huge
+task list. Is it is overwhelming to look
+at. What you're going to do is you are
+going to pick out the stuff that's a
+quick win, that's easy for you to
+implement really quickly, and you're
+going to do that. And you're going to
+avoid the stuff that's a bit scary, the
+stuff that if you were to do it, it
+would move the needle, but it's a big
+task. Actually, the easiest thing to do
+is go check my email inbox, write that
+post I was supposed to write, and send a
+message to someone I was supposed to
+send a message to. But planning that
+full day retreat that you want to run or
+putting a promotional post out that
+sells something, that gets put down and
+down and down the list and put off. And
+so, that's what this system basically
+does is it takes all of your tasks, and
+then what it does is it goes, "Okay,
+based on what's on my calendar, based on
+what my priorities are, this is the day
+that I am planning for you." And then it
+sends me a briefing, and it says,
+"Morning, boss. It's Thursday, the 12th
+of March, and your day is manageable.
+You've got four blocks of meetings
+totaling about 5 hours, leaving you with
+around 5 and 1/2 hours of proper working
+time. Not amazing, but workable if we're
+smart." And then it essentially just
+gives me the briefing. Now, it does this
+at 5:00 a.m. So, at 5:00 a.m., I wake up
+about 6:00. I've already got that
+WhatsApp message sat in my WhatsApp
+inbox, and I can lay in bed, which is
+like really bad, isn't it? Naughty. I
+should get up and have 10 minutes of
+journaling first. But no, I lay in bed
+and I'll have a look at what my day
+looks like, and then I could be mentally
+preparing for it as I go about my
+morning. Now, how this works then is
+that I'm sending these messages, they're
+ending up in Airtable, and the way they
+end up in Airtable is I have these
+scenarios that I've set up in Make. And
+so, the first one is it takes all of my
+ideas and tasks and drops them into
+Airtable. The second one happens at 9:00
+p.m. No, 5:00 p.m., sorry. 5:00 p.m.,
+all of my tasks and ideas that I have
+dropped into Airtable over the course of
+the day, the ones that are ideas and not
+tasks get run through my idea evaluation
+machine. And this agent has knowledge
+attached to it, so it knows about my
+business, it knows about my current
+priorities and who I am and all the rest
+of it, and it cross-references that, and
+it does a bit of perplexity research if
+needed, and then it basically updates
+Airtable and drops those ideas into my
+Airtable in a morning report for me. So,
+these ideas, I haven't got any to clear
+at the moment. Let's go and add one in
+so you can see what it looks like. View
+data, ideas inbox. Right. So, this what
+you see, some of these are planned, some
+of these are parked, some of these are
+binned. Let's get one that's planned,
+and let's go to change it to reviewed,
+and then what's going to happen is it is
+going to show up in my ideas inbox. So,
+let's say I've had like, on the go, I've
+had loads of ideas. I've been to a
+conference or I've seen someone speak,
+and whilst I'm listening, instead of
+writing notes, I'm like voice-noting
+myself, "Oh my god, I need to like set
+this thing up. It's going to change my
+life." Or, "Oh my goodness, I've just
+had a great idea. We need to contact all
+of that 4,000 people on this list and
+tell them about this thing over here."
+Or, you know, whatever it is. I had this
+idea that came to me after I was talking
+to a a client of mine who uses this
+Clarity Microsoft heat map tool, which
+is free, by the way, and it's really
+cool. And I wanted to basically get
+Claude co-work to just install it on all
+my websites for me. And so, I put it in
+the ideas inbox. Now, I could put that
+in as a task. If I put it in as a task,
+it just ends up in the task list with
+all the tasks. If I don't write task, it
+goes in as an idea, and what that means
+is that in the morning report, I then
+have my [snorts] AI agent's a Can we
+call it an opinion? It's a robot. It
+doesn't have an opinion. But it's
+strategic thinking on whether I should
+do this or not. So, in terms [snorts] of
+effort, it's a quick win. Revenue
+potential, it's indirect. Does it give
+me a green light, an orange light, a red
+light? And then what does it think in
+terms of strategic alignment? And then
+it gives me the reasoning on why it's
+come up with this, and it also
+summarizes my rambling for me because
+God knows I do that a bit, and just
+gives me a quick one-liner of what this
+idea is. So, I can review it, and I can
+go, "Okay, I'm going to Am I going to do
+it? Okay, yeah, approved. I'm going to
+do it." And so, what it's then going to
+do, I then have step three, hold,
+please, caller, which takes that
+approved idea, and it turns it into
+project and tasks, and then drops that
+back into Airtable. So, now, we have
+under the project view, we have a new
+project, right? Record strategy lab
+landing page video as an example, and
+then it's created loads of tasks for me.
+It's decided whether they're critical,
+high, medium, or low, and all of those
+tasks are sat there ready for me to do.
+Then is step four, which is creating a
+success day. Now, just before we get on
+to success day, just to let you know,
+step one, the ideas to tasks, this
+happens at 5:00 p.m. every day, the way
+I have it set up. 5:00 p.m. every day,
+all of my ideas and tasks are dumped
+into airtable. At 10:00 p.m., my ideas
+are evaluated and then put into my
+morning report, and then I can go and
+have a look at those ideas, I can
+approve them, and then what happens is
+that the ideas are turned into projects
+and tasks. Now, here's where it gets
+really juicy, my friends, is that once
+we've got all of those thoughts, ideas,
+all of that chaos just organized in an
+airtable. By the way, I do not want to
+like run my life from a spreadsheet. I
+find the idea of that just So, I've got
+this thing called a success day builder.
+Now, let me just explain to you what a
+success day is, and then I'll show you
+what the builder is. So, a success day
+is where you look at your calendar and
+your available hours, and you look at
+your brain dump or your big list of
+things that needs doing, and you
+evaluate what's the priority based on
+what I need to do right now, and then
+what have I got time to chip away at.
+And then you take those priorities and
+you put them on today's list, and you
+carve out what does success look like
+for me today. That's what I call a
+success day. It's basically designing
+your workload for the day, in short.
+There is a second part to it, which is
+then you design what you want to do with
+your own time as well. Are you going to
+the gym? Are you going out with friends?
+Are you cooking what you cooking? Are
+you reading what you reading? You know,
+you start thinking about life design and
+all that kind of stuff. But for the
+purpose of this, we're just going to
+make it about the work day, and just
+keep it simple, cuz it's already
+complicated enough, let's be honest. So,
+what the agent now does is it takes the
+full airtable into consideration. So,
+this is the agent down here that is
+going to make And if you're looking at
+this going, "Oh my god, I don't
+understand what you're showing me."
+Don't worry, I'm going to walk you
+through every step. I'm just giving you
+high-level birds' eye views, so you
+understand the system that I'm going to
+walk you through in more detail in a
+minute. This agent, what it is doing is
+it's got the knowledge of who I am, what
+my business is, what my current
+priorities are, who my ideal client is,
+what my goals are, etc. And it's also
+got access to the full airtable that
+I've just shown you with all the ideas
+and the projects and the tasks and
+everything. And it's got access to my
+ritual tasks. So, ritual tasks are
+things that happen every day or week to
+keep the business going. So, for
+instance, to promote the marketing
+strategy show, I have to do a few things
+every week, and those things become
+rituals cuz they're non-negotiable,
+non-variable tasks that happen every
+week. They're the kind of things you
+want to outsource to an assistant when
+you can. It's also things like doing
+your cash flow forecast, checking in
+with your clients, those kind of things.
+Your rituals that keep the wheels
+turning. And so, it's great reads all my
+tasks, it reads my ritual tasks, it
+looks at my calendar to see if I'm free
+or busy or how much time I've got, and
+then it basically evaluates what it
+thinks I should be working on, and it
+creates me a success day by putting
+things into the success day view by just
+selecting yes under the success day
+field, which I'll show you shortly. And
+then it sends me a WhatsApp message with
+its reasoning, as I showed you earlier,
+saying, "Morning, boss. It's Thursday,
+the 12th of March, and your day is
+manageable." And that is my day planned
+for me. And where I see that in airtable
+is it is here under success day. I've
+got the message that I received this
+morning from the thinker, and I've got
+the tasks that are laid out in front of
+me. And then all I need to do, send
+email to rebellious list, done. Tick it
+off, it disappears from my task list,
+and that is my day. And oh my god, when
+you tick all those things off and this
+day becomes clear, Jesus Lord, that is
+satisfying. But you know what else I've
+is really cool about this? Let's say you
+didn't actually get to sit down at the
+laptop at all today. It just didn't
+happen. If the success day thing was
+created for you, and all of these tasks
+were put here, and then emergency, or
+you decided to give yourself a day off,
+it doesn't matter, because what happens
+is the thinker in like the next time you
+run this, it comes this first step is to
+come to airtable, and it reads the tasks
+and the ritual tasks, and it sees what
+you've done and what you haven't done,
+and it basically wipes the whole slate
+clean, leaving everything apart from
+incompleted ritual tasks, and then goes
+into this section here, where it then
+does a new success day for you. So, that
+is, in birds' eye view, the system, and
+let me just walk you through it like
+this, just to give you a birds' eye
+view. By the way, this map is available
+inside the strategy lab for you to
+download and just like follow through.
+If you don't know what the strategy lab
+is, it's the community I'm building
+where I'm giving you resources to help
+you implement these strategies every
+single week, and there's a link to it in
+the description of this video, so go
+check that out. But just to walk you
+through it. So, first things first, you
+voice note or send a text message to the
+telephone number that is earmarked for
+your thinker. There is a a little thing
+in that make scenario that knows that
+that message has come in from your
+number and what to do with it. Is it a
+task? Is it a idea? And also, if it's a
+voice note, it can transcribe it, and if
+it's a text message, it can just pass it
+to where it needs to go. So, that's what
+it's going to It's going to go, is it
+voice or text? And if it's a voice note,
+it's going to transcribe it with
+OpenAI's Whisper, which is ChatGPT's
+transcribing tool. And if it's a text
+message, it's just going to extract the
+text. And then, it's going to know if
+it's a task because you've started the
+voice note with the word task or the
+text with the word task. And if it
+doesn't have the word task, it's going
+to assume it's an idea. And so, that
+idea is going to land up in the airtable
+ready for you to review it. Step two is
+going to take the idea from airtable,
+and it's going to evaluate it for you,
+and then it's going to put it into your
+morning report, and you're going to
+review it. And if it's a task, it's
+going to give you a rewrite just in case
+you were rambly, and just drop it in the
+tasks table for you. So, the evaluation
+of the ideas is step two. It's going to
+pull the new ideas from the table that
+haven't been reviewed yet, and the AI
+agent is going to have a look at those
+ideas, evaluate them, and then it's
+going to drop them into the morning
+report, which is your ideas inbox, for
+you, and you will then have a look at
+those and decide whether you want to do
+it, whether you want to bin it, park it,
+what you want to do with it. If you
+decide that you approve it, and you're
+like, okay, you've opened the report,
+and you're like, yeah, I approve it,
+then what's going to happen is it's
+going to turn that idea, when it sees
+approved ideas, it's going to take the
+idea, and it's going to run it through
+the engine, turn that idea into a
+project and tasks. And then, scenario
+four is at 5:00 a.m. every day, it's
+going to look at all of your projects,
+all of your tasks, everything that's
+there, and it's going to clear
+yesterday's decks, it's going to have a
+look at today's Google calendar, and
+it's going to build you a success day.
+And on that success day, there's going
+to be the hairy, merry, scary that
+you would have avoided if you didn't
+have someone telling you what you need
+to do, what you need to focus on. And
+you know what I love about this? This is
+one of the reasons why we go hire a
+coach. This is one of the reasons why we
+go talk like we go to masterminds, we go
+talk to people, because we play it safe,
+and we play a small game when we're on
+our own. And this is going to just give
+you that push to work on the stuff that
+you're putting off. And then, you
+basically just go tick those tasks on.
+So, that is what we're building today.
+Let me know, have you got any questions?
+Does that sound a bit exciting? If
+you're quite techy, you're like, oh my
+god, this is the system I've needed my
+whole life. Especially if you're a bit
+chaotic, you have ideas on the go,
+you're passionate, you're full of ideas,
+and then just just a case of organizing
+yourself, this is the system you've been
+missing your whole It's the system I was
+missing my whole life. If you're scared
+of the tech, don't worry, I'm going to
+walk you through everything, and off the
+back of today's show, I have built
+something that enables you to just
+install everything that I've built into
+your computer, so it can just run
+without you needing to build from
+scratch. I'm going to open this up, and
+we're going to just start building it
+out. So, that's the map. This map is
+inside the strategy lab for you. First
+things first, we need airtable. Now, I
+am going to in today's download that
+I've got for you. By the way, if you
+want it now, then you can just go grab
+it and start building along. The
+thinker, I've put everything templated
+for you to download, including this
+airtable, including all of the
+scenarios, so they're all there. You can
+download absolutely everything. If you
+don't want to grab that, then you can
+just follow along and build this with me
+from scratch by taking screenshots and
+just like having a look at how I've done
+this. So, we've got this table here that
+is split It was a few tables on one
+airtable. So, we've got ideas inbox,
+projects, tasks, ritual tasks, your
+success day. So, ideas inbox is where
+you are have essentially all of the
+ideas, the one when you WhatsApp, you
+don't have task written in front of it,
+are going to get dropped into your ideas
+inbox. The tasks, the one that has task
+written in front of it, are going to be
+dropped into the task folder here. And
+then the AI system is going to create
+projects for you. You can create your
+own if you want. I have a couple of
+custom ones like client work and 100
+members in a membership or, you know,
+that kind of thing. So, you can have
+like you can make your own projects, but
+also the AI system is going to make
+projects for you. And then in terms of
+the ritual tasks, these are the things
+that happen every week or every month.
+Let me show you what my ritual tasks
+look like on a filled out thing. Let's
+look at view data. Ritual tasks, I have
+them split out in terms of like Monday,
+Tuesday, Wednesday. You can see I've got
+cash flow forecast, I've got to turn on
+a timer somewhere. I need to practice my
+cold open for the marketing strategy
+show. You know, all of these things are
+things that happen every week that I
+need to do. They are my rituals. Yeah,
+there's stuff about the network, there's
+things that need to happen for that. And
+so, anything that's a ritual that you
+don't want to be trying to remember
+these things every week, man. If they
+happen on a regular basis, get them
+down. They are rituals. Get them down
+under the days of the week of when they
+happen. And if they happen monthly, just
+get them down monthly and put like when
+they're next due. So, that's what we're
+doing with that ritual task table. And
+then we've got success day. This is just
+basically where your briefs are going to
+get dropped because we're going to need
+that because we have an interface set up
+and that is this where you can then see
+the morning report, the success day, the
+brain dump. And so, in the success day
+interface, it is pulling through today's
+brief. It's filtered by the fact that
+it's today, but it's pulling it through
+from the success day on the data page,
+which is here. So, it will be there. And
+MPA is money producing activities.
+That's what we're doing on next week's
+show. I'm going to be walking you
+through money hour, which is a addition
+to this that takes it, man, takes it to
+the moon, let me tell you. Okay, so,
+there we have it. So, that is your
+table. Once that is set up and you've
+got these fields in place. There's quite
+a few fields here, but it's all on that
+downloadable. Essentially, we were going
+to just go and build this out in make.
+So, step one. We need a WhatsApp number
+to message. And that WhatsApp number
+needs to be a meta WhatsApp number that
+you create online, not one that you've
+got associated with your SIM card. You
+know, your normal telephone number with
+your phone that you basically set up a
+WhatsApp account, not that. That doesn't
+work for this. We need to go and get a
+free WhatsApp number from meta. So,
+basically, we just need to come to meta
+WhatsApp manager and we need to click on
+add a phone number. And just following
+these steps, you're going to create a
+new WhatsApp telephone number for your
+WhatsApp business account. Now, if you
+don't have a business account with meta,
+to get one, you just need to create a
+business page and then you'll be able
+to. But that WhatsApp number, having
+that is going to be really awesome
+because then you can set that up to text
+things and use that number inside make.
+And I'm sure once you've set this up
+once, you'll think of so many other use
+cases for this. It's going to be really,
+really helpful for you in terms of
+automation. One of the real pulls of
+open claw, which by the way is really
+dangerous and not recommended in the
+sense that it's a it's an AI that sits
+in your computer, has access to
+absolutely everything, and all you need
+to do is accidentally have a bit of
+malware by downloading one of its apps
+or something that's got malware in it,
+and a lot of them do, and all your
+data's gone, bank accounts, crypto
+accounts, all of it's cleared, and
+you're wishing you never installed it.
+You know, all of your business contacts
+have been emailed porn or something. I
+don't know. Just don't risk it, guys.
+So, that is one of the coolest things
+about it is that you can WhatsApp it and
+tell it to do stuff. Well, you can do it
+with Claude as well cuz we're going to
+be using Claude inside make as our
+agent. So, you're going to set up a
+WhatsApp number in here, choose your
+business category, doesn't really matter
+so much. And they're just going to
+basically give you a number that looks a
+little bit like this. So, here is my
+WhatsApp number that I made earlier.
+Now, inside here then, you basically set
+this up by creating a webhook and you go
+add and you're going to add a new
+WhatsApp number, give it the name that
+you want. And then in terms of events,
+you're going to choose probably select
+all and then save and it's going to
+connect to meta and you're going to set
+that number up. Now, what this means
+then is that I can send this number a
+text message and let me just change this
+here. 47
+I'll explain what this is in a second,
+bear with. 07
+375063957.
+That's that I don't know whose number
+that is, guys. Just don't even pay any
+attention. That's my business WhatsApp
+number, the one that I use with clients
+and it's one that I want to message
+from. So, if I save this, what's going
+to happen is if I send this WhatsApp
+number a message, this filter is going
+to only let ones that come from this
+number into this workflow. We only need
+to add a new one. Right, let's call it
+new hook because let's just call it a
+new hook. So, what this is doing is it's
+creating a webhook with There we go.
+It's this number, my new number. Okay,
+that's So, because I've created a
+template version for you guys, um I'm
+not using my usual one to show you this,
+I'm not realizing that it wasn't
+connected. So, this should now work.
+Save. Save. Let's try one more time.
+Task test. Hey, there we go. So, here it
+was. It came in and we can see that it's
+had a message which says task test.
+Right? So, that is basically what it
+does is it watches and waits for those
+messages to come in all the time. Now,
+I've put the number in here wrong.
+07375063957.
+I don't know why. Oh, it's because it
+actually I was not supposed to put it to
+that number. I've got a different
+number. I was actually trying to make
+life easier for myself by changing it to
+another number. Right. 447903616452.
+Right, this is a different number. Get
+rid of that. 447903616452.
+Save.
+Save. Okay, right. [clears throat] Now,
+if we put task and temp, what's going to
+happen is because that's the number I'm
+sending from, it is going to pass
+through that filter. And there we go.
+So, what's happened is it has passed
+through this filter and it knows that it
+is a text message over a voice note
+because of the type of thing that it is.
+And because of that, that's then come up
+to through text messages and it's been
+not gone through here cuz this is a
+these have got filters on. So, this one
+is message type equal to audio and this
+one is message type equal to text. And
+so, with a message type equal to text,
+it's come up here. Now, it wants to know
+is it a task or is it an idea? So, we
+have another filter here. If this if it
+starts with task and I've I've said it's
+case insensitive here, but I've also
+just done it with different cases just
+in case in different ways because I
+don't want to be caught out. So, if it
+says task at the beginning, if it starts
+with task, it goes up here and then this
+Anthropic Claude is just a quick prompt
+with Sonic 4.6 that gets me to rewrite
+that in a clear and concise way and then
+it gets dropped into air table. Now,
+it's been dropped into my original air
+table. So, what you're going to do is
+when you've got your air table connected
+to this, you're going to click on this
+and you're going to change it to your
+air table. And the one that we are
+looking for is thinker, the thinker
+copy, and we want it to be dropped into
+tasks. And everything else, you don't
+need to touch anything if you get the
+downloads. You can just keep all of that
+exactly the same. You don't have to have
+this Anthropic Claude. I just like it to
+rewrite it just in case I've been really
+vague and weird and it just gives me a
+nice concise rewrite. If it's an idea,
+it's going to be saved to air table in
+the ideas inbox. So, let's come up with
+it. Let's do a new one and we're going
+to go task I need to edit video from
+Tuesday, whatever. I'm going to send
+that one in. We're going to run once and
+I'm going to send that one in. And then
+boom, that should now be in air table in
+the right air table, which is this one,
+under tasks. And here it is. Task, edit
+the video from Tuesday. And that's been
+dropped into here. So, that's pretty
+cool, isn't it? So, now that's set up,
+we can send all our ideas and we can
+send all our, you know, tasks and
+everything that we want to do on the go
+and it's all going to get organized into
+here. If it's an idea, I'm going to
+voice note. Let's Let's try a different
+method. I want to start a new show
+called the marketing strategy show that
+will teach marketing strategies to
+business owners who want to build and
+grow a warm and mighty audience online.
+Right. That voice note has been sent to
+my thinker before I turned it on, which
+is really flipping annoying. Why do I do
+that? Right, here we go. Let's go back
+to this and let's go run once use
+existing data. Okay, so, it's got voice
+It knows that's a voice note. So, it's
+now come down the voice note thing and
+we have open AI set up here and we've
+got the open AI connection already
+connected. So, you need to get an API
+account with open AI and you just
+basically search for open AI API
+and you come to the API platform and
+create an account if you haven't got one
+already or just log in and essentially
+you will buy credits and it's so cheap.
+Like it's to to run it once it's like a
+penny or half a penny or something. So
+you you might put 10 pounds in in credit
+but then you're not going to spend it
+for you know not going to spend it all
+very quickly. But that's how you set
+that up. And so then we've got that
+connected and it's connected to this is
+whisper and we've got the model whisper
+one general purpose speech recognition
+model. We've got that here as the
+WhatsApp download a media. We've got a a
+module here that's downloading that
+voice note from WhatsApp and then
+passing it through open AI whisper to
+transcribe it and then that
+transcription is going to I know is this
+a task because does it start with the
+word task? No, it started with is this
+thing on?
+Or fall back if it doesn't start with
+task it's going to be idea and it's
+going to drop down into the airtable and
+it's not going to be on the task table
+now because it's an idea it's going to
+be in the ideas inbox and it should be
+there but it's not because I've
+currently got it linked to my actual
+one. So it'll be here somewhere. Here it
+is. Is this thing on? I want to start a
+new show called the marketing strategy
+show that will teach marketing
+strategies to business owners blah blah
+blah. So look this is a this is here and
+it's new. Yeah? And it's gone through
+twice because it's gone through my
+actual thinker as well and plus the one
+that we're doing the template one. But
+it's now sat as new and what that means
+is scenario number two in make. These
+are called scenarios. This is a
+scenario. So this is step one. Step two
+is going to be looking for the ones that
+are marked new and then going to
+evaluate that idea and tell me whether
+it thinks I should do it or not. It's
+going to be like have you got dementia?
+You already have a show called the
+marketing strategy show. What are you
+talking about? And that would be fun to
+read. So yeah, so that's how this
+scenario works. So it's kind of split
+into different routes. The first route
+splitter is is it a text message or a
+voice note? Inside the text message it's
+split into is it a task or an idea? And
+then it's put into the relevant places
+so that it's sat there in airtable
+waiting for the next scenario to do the
+next job. Then we go into step two then
+and step two is ideas to evaluation. So
+it is going to search for records that
+have the status new and it's going to do
+that every day at 5:00 p.m. unless you
+decide to change the schedule. You'd be
+welcome to. It's going to do that every
+day at 5:00 p.m. It's going to search
+for those records and then you've got
+this agent. Now these agents in make are
+really cool. They're new it's a new
+thing and they are brilliant because you
+can you can actually talk with them
+without running it just to there's like
+a plus button here you can have a chat
+with it and just chat with your agent
+should just check that it's going to do
+what you want it to do. You can connect
+tools to it by pressing this plus button
+here and add a tool so you can add
+Google sheets, you can add AI tools, you
+can add all sorts of things to it. And
+what I've got connected to it is
+knowledge. So the knowledge base these
+are a load of documents that I have
+created and uploaded into it. I'll show
+you how to do that in a minute. And also
+perplexity because perplexity is a
+really cool research tool which I love.
+And it's really helpful sometimes to
+have a bit of a a research tool attached
+to this because what it's doing is it's
+taking your idea and it's evaluating
+whether it's a good idea or not and it
+may be that the agent wants to just
+check is this topical? Is this a good
+thing to be doing right now? And if it's
+got access to tools where it can go and
+do that research and check on that then
+that is going to be really helpful. It
+doesn't use that perplexity tool very
+often but it's there just in case it
+needs it. So it's not like everything is
+being run through that. The idea of
+giving your agent tools is you let it
+decide what to use and how to use it
+based on what the task is. So the way
+you set it up is by first choosing the
+model. Now I'm using Sonic 4.5 because
+they don't have Sonic 4.6 in here yet
+and Opus 4.5 and 6 are both incredibly
+expensive. We were just eating so many
+credits by using Opus 4.5. So we have
+switched to Sonic and we have the prompt
+here which is basically just the
+instructions of what you want the agent
+to do and then the input of what the
+variables are. So that the input is the
+things that will change each time. So if
+you don't have any variables generally
+it could be that the input is just
+today's date for reference but in this
+case we're giving it an idea and we've
+got this information on the airtable
+already because it's searching for that
+record. It's going to pull through what
+that idea is. I want to set up a system
+where it's automated that blah blah
+blah. That's a voice note and the status
+is that it's new. I don't know why it
+needs to know whether it was a voice
+note or not. It's kind of pointless to
+be fair. Let's take that out. It doesn't
+need to be there. So just the idea and
+when it was submitted just for relevance
+I guess. And then so it's going to
+basically you are Cordelia strategic
+research agent. Your job is to evaluate
+business ideas submitted by Cordelia and
+provide clear honest actionable
+recommendations how to evaluate whether
+it's strategically aligned, whether it's
+a good fit for the business, effort
+versus impact, are there any conflicts,
+what are the revenue implications of the
+task, what about timings with like
+current commitments? Is this a good
+time, a bad time, etc. And then what
+it's going to do is it's going to output
+essentially it's going to output its
+reasoning for scoring it on all of those
+things and give me a summary of the idea
+and tell me whether it thinks it is a
+good idea or not and for what reasons.
+So that's what that's going to do and
+then it's going to output that into
+airtable and it's going to put it into
+the ideas inbox. It's going to put all
+of its summary and everything in here
+and it's then going to tell me it's
+going to change that status to from new
+to reviewed because if you don't change
+the status and it stays new it'll just
+keep doing the same one over and over
+and over again. So we have to change the
+status. That's really important so that
+it know it's not going to pick that up
+when it searches for records next time.
+And also so that it now gets put in the
+right place. This status is really a a
+way for us to make sure every task is or
+every idea is put in the right place
+because it's all based on that. So now
+it's reviewed what's going to happen is
+that inside here in the idea machine
+it'll be from new to reviewed and then
+it will sit inside the interface in the
+morning report as an idea that needs to
+be reviewed. Yeah? So coming back into
+here we've got one that we can run. I'm
+going to go into it's going to pull 20
+at a time. I'm going to just get it to
+pull one for now and let's just get it
+to manipulate which one we want it to
+pull. Let's get it to pull the one about
+starting a marketing strategy show.
+We're going into data and then going
+into ideas inbox. Let's just get rid of
+it and we're going to we've got two of
+those and they're exactly the same. So
+that's fine. Right. So let's run it and
+see what happens. So the agent is
+thinking and you'll see in a second that
+it's going to consult the knowledge
+files. Now what I've got inside the
+knowledge files is I have a document on
+who my ideal client is, what they want,
+what they need, what keeps them up at
+night, all the usual ideal client
+information that's going to enable the
+agent to make sure that it understands
+who my people are. It's also got access
+to a kind of a a one-pager about my
+business, what my products are, what my
+business does. It knows my current
+priorities and goals. There's a document
+called priorities and goals that I edit
+on a monthly basis. I keep it updated
+and there's also one I've got two
+businesses so I've got one for each
+business, one for current priorities and
+goals, one for who my ideal client is
+and then I have I've got one that's just
+got backlog of a load of Cordelia stuff.
+So every transcript from every video I
+do gets put into a file that gets put
+into the knowledge base. But you don't
+really need that for this. I would say
+the four that you need is about your
+business, your ideal client, your
+current priorities and goals and the
+only reason why I said four is because
+if you've got two businesses you'd have
+one for each. If you don't you'd have
+three and there we go. So let's see what
+this has done. That has now dropped that
+into the idea machine and it's changed
+it to reviewed. So if I now look at the
+interfaces at the morning report we've
+got an idea ready for me to review. Oh
+is this thing on? I want to start a new
+show called the marketing strategy show.
+Right. It's it's it said bin it.
+Unclear. Effort estimate is a major
+project. It's given me one star. This
+isn't a new idea. The marketing strategy
+show already exists and it's literally
+described as the centerpiece of your
+entire content ecosystem for connection
+marketing according to your business
+documentation it's a weekly live show
+that teaches business owners marketing
+strategy with human over AI positioning
+blah blah blah. It's called my bluff.
+But if it was a good idea and it was
+strategically aligned to your priorities
+it would be like oh my god that's a
+fantastic idea. You should do this green
+light. It would say green light. It
+would say that it's revenue potential
+was direct or indirect, whether it was a
+quick win or it was going to take half a
+day or a week or you know this one is
+obviously major project and it give you
+number of stars on strategic alignment.
+Yeah? So it's just basically gone nah
+you're trying to trick me. I'm not
+having it. So that's cool. What we do
+then is then in here so if we go okay
+we're reviewed. Okay, I'm going to
+approve this idea. This is now going to
+be picked up by step three. So, the only
+other thing we're going to go and show
+look look at step three in a minute. The
+only other thing I just want to briefly
+show you is this There may be loads and
+loads of ideas that you've had all of a
+sudden. So, I like to leave this at a
+limit of 20 because you're not going to
+have more than 20 ideas, probably,
+unless you've like you're at AdCon and
+you were really paying attention, then
+maybe maybe you had loads of ideas and
+great. But, you probably won't have more
+than 20 ideas. So, that that's sitting
+at 20. If you've got more than 20, it'll
+just get 20 in one batch and then it'll
+come and get more the next day, you
+know, it'll do 20 at a time. You can
+increase that number of 20. You can
+decrease it as well if you want to. But,
+the important thing to note here is this
+Make agent can get overloaded. And so,
+if you it's running 20 times, we want a
+sleep module here. So, this sleep module
+is basically just a delay for 60 seconds
+so that it goes through and does one
+once, drops one in Airtable, and then it
+sleeps for 60 seconds, and then it
+pushes the second one through, and then
+it sleeps for 60 seconds just to enable
+it to not crash out. And then in here,
+in the knowledge files, have we got So,
+I've got current priorities, audience
+profile. Oh, brand positioning. Forgot
+about that one. And then I've got
+connection marketing, which is one of my
+companies, and Rebellious Business,
+which is another one of my companies.
+And then also the Make agent Cordelia
+take this is a TXT file with every
+transcript from every marketing strategy
+show episode that I've done, all dumped
+into one file, and then put in here as a
+knowledge file. So, it's got the context
+of who I'm what I'm about and who I am
+in case it wants it. But, it's not
+relevant for you to have that for this.
+I just have it there cuz I've got it
+anyway, might as well tick it. Where you
+upload files into this is you just click
+upload files, and my recommendation is
+that you upload TXT files, not PDFs,
+because with TXT files you can amend
+them, whereas with PDFs you have to
+overwrite them. It just means that you
+can you can easily add bits to the
+bottom without having to overwrite the
+whole thing. Okay, so that's step two.
+Let's jump into step three. Right, Think
+Templates, step three. Okay, so step
+three, a reminder for you, is when 10:00
+p.m. it then goes and has a look at the
+ideas you have approved. So, it's going
+to come into this idea inbox. It's going
+to It's going to see that you've
+approved things from the ideas inbox on
+this data table. It'll be here. And idea
+inbox, it's going to look for anything
+that's been approved. Yeah, so we've got
+two here that have been approved. So,
+what it's going to do then is it's going
+to basically run that idea through this
+process. Just going to pick it up, and
+it's going to We've got another agent.
+It's Sonnet 4.5 again. And actually that
+bit there
+is supposed to start here. Right,
+project creation instructions. Your
+role, you are Cordelia's project
+planning agent. Your task is to take an
+approved business idea and convert it
+into a structured actionable project
+plan. And then basically it's going to
+take that idea and it's going to it's
+going to give it a project, decide
+whether it is like critical or not, and
+it's going to map all of that out, but
+then it's also going to chunk it into
+tasks. So, as many tasks as it thinks I
+need, and then spit them out. It's going
+to create We're going to then going to
+create that record in table. We're going
+to create a project first, and then it's
+going to update the original idea inbox
+to say that this is now been planned.
+And then we have this thing called an
+iterator that then takes multiple
+records and splits it up. So, it's going
+to run once, twice, and as many times as
+it needs to until all the ideas are
+done. So, what it's doing after the
+iterator step is it's creating a record,
+and that record is for the task. So,
+we've got the task, and then it's going
+to be linked to the right project and
+the priority, and all of these are
+mapped from this output inside the
+iterator. The iterator is grabbing the
+JSON response. So, all of the tasks, the
+big bundle of tasks, is in JSON, which
+is code, and it's then separating that
+out into individual pieces. It's parsing
+that JSON and separating it out. Well,
+the JSON's already parsed, but anyway,
+it's taken that and it's separating it
+out into different pieces. And so then
+it's dropping it into Airtable. So,
+we've got the task name, the priority,
+how long it's roughly going to take it
+thinks, and then what the linked project
+is. And it's going to do that for every
+single task so that eventually they are
+all sitting inside your task table like
+this, and you'll see like this one here,
+build testimonial screenshot system.
+They We've got this project is linked to
+all three of those tasks. And maybe even
+more. We We've got a view here where we
+can look at things by project. We've got
+AI-powered landing page split test. You
+see it's it's that idea that I've had
+where I'm going to go just get Claude to
+create a split test for a landing page
+that I've got. It's just split that down
+into 14 tasks. So, we've got 14 tasks.
+Now, you might look at some of these and
+be like, "Oh, that's overkill." That's
+great. You just get the dopamine hit for
+ticking them off. Happy days. But, you
+know, as you go through, you then at
+least it breaks it down and you haven't
+got that as a task. The AI-powered
+landing page split test, that could be a
+task, but you know, if it's going to
+take half a day, you're going to have to
+find half a day for it. Whereas if you
+chunk it down into bits, then you can do
+a little bit at a time, and then it's
+easy to do it over a few days with the
+like half an hour you've got here and
+the half an hour you've got there. So,
+that is all of your ideas and tasks now
+organized inside Airtable. And then it's
+like, "Okay, great. That's great. But,
+now I've got to go and look at all of
+that." And it's going to give me a
+headache. And I've got to look at it and
+go, "God, what do I want to work on
+next?" And that's going to rely on my
+avoidant human brain to pick things out.
+So, instead of doing that, we're going
+to use the Success Day Builder. How the
+Success Day Builder works is it looks at
+what was on your success day yesterday
+for a start. It reads It's got a skill
+here for reading tasks, reading ritual
+tasks, and then updating those tasks and
+ritual tasks. And its job is to clear
+the decks. You're You are your name's
+daily reset assistant. Every morning,
+your first job is to clear yesterday's
+success day so the planning agent starts
+with a clean slate. Task one, look at
+the ritual task from yesterday. They
+will have the success day field marked
+as yes. For each one, check the done
+field. So, we have, by the way, just to
+let you know, inside here, we have a
+done field and a success day field. If
+something is done, it disappears. If it
+is selected success day, then it shows
+up on the success day interface. What?
+Okay, it's loading. Be patient,
+Cordelia. Patience is a virtue, so they
+say. Here we go. Right, success day, and
+it'll show up on here. So, anything that
+has been basically ticked with success
+day will show up on here. And if I don't
+want to do it If I'm like, "No, no, no."
+decided I'm not doing that, I can just
+remove it from success day by selecting
+a blank option, and it will take it out
+of my success day. Yeah? So, that's how
+that works. So, in the Make scenario,
+it's looking at the stuff that is marked
+success day, and it's also ticked or not
+ticked. So, if it's marked success day
+and it's been done, that's great. But,
+you're going to for the ritual tasks,
+you're going to untick it because it
+will be done again. Whereas for the
+normal tasks, you won't untick it cuz
+it's not it's just a one-off task. It's
+not going to be done again. But, the
+ritual tasks happen over and over again.
+So, look at the ritual task from
+yesterday. They will have a success day
+field marked as yes. For each one, check
+the done field. If done, the task was
+completed. Change the success day from
+yes to cleared, and change done to false
+or no. This resets the ritual task so
+that it can be used again tomorrow. If
+done is false or no, the task was not
+completed. Leave it as it is. Do not
+clear it because there might be ritual
+tasks that you've got set for Monday
+that you never got done, and you want
+them to still be there on Tuesday. You
+don't want them to like not show up
+until next Monday again. You want them
+to still be there on Tuesday cuz you
+need to catch up. So, that's going to
+leave those there. And then for normal
+tasks, for all other non-ritual tasks
+that have success day marked as yes,
+change success day to cleared regardless
+of whether they have been done or not.
+Do not change the done field on normal
+tasks. These are one-off tasks that do
+not repeat. After clearing, explain
+which tasks you have cleared and why.
+The reason why we have this, by the way,
+this commentary, we're going to It's
+going to basically tell us what it's
+done and why so that if there's a
+problem or it's acting weird, you can
+actually have a look at what it did.
+I'll show you on I'll show you on a an
+actual run. So, we've got the thinker,
+and then we've got Success Day Builder
+and history. And let's say this one I'm
+like, "Oh, this It did something weird."
+Then I can come and have a look at it.
+And you can see where it's got a one,
+that means it ran. And what you can do
+is you can see its output. So, you can
+click on agent's response, and it tells
+you here what it did. It was like, "I
+did this, and I did that, and I you
+know, and blah blah blah." Total tasks
+cleared, six. Ritual tasks reset, three
+tasks. Normal tasks cleared, three.
+Tasks left for review, none. The deck is
+now clear and ready for the planning
+agent to allocate today's success day
+tasks. Yeah? So, then what's happened is
+that it's then come down this second
+path, which is the second route, down to
+the next agent. And the agent has then
+created the success day. It's consulted
+one knowledge file. It's consulted the
+records for rituals and normal tasks.
+It's looked at my calendar and it's
+basically come up with what it thinks I
+should do. And it's put it all here.
+This is the briefing that is then
+WhatsApped. So, it comes down here and
+it basically what it does is it creates
+the record inside. Let's come out of
+this view into normal view diagram. So,
+we were looking at the history run. So,
+it it comes down into airtable and it
+creates a the briefing under success
+day. Do you remember I told you inside
+here in data, we've got all the success
+day briefings. They all come down like
+this, yeah? And the reason being is in
+the interface on success day, which is
+the bit that we actually look at and we
+run our business from, the briefing is
+here. So, if I didn't get the WhatsApp
+message for some reason, then it's here
+for me to have a look at. And by the
+way, you can only send a message to
+someone on matter using WhatsApp if that
+person has messaged you in the last 24
+hours. So, if it's been a couple of days
+since you've sent it a task or an idea,
+it won't be able to send you the
+briefing. But if you have sent tasks and
+and and ideas to it, then it will be
+able to. So, some days you might not get
+the WhatsApp message because you haven't
+messaged the thinker for a couple of
+days, but that's fine because you can
+just come and have a look inside success
+day. I really recommend as well having
+having the interface set as a bookmark
+so that you when you come to it, you
+come to it and it looks like this rather
+than going into airtable and looking at
+the data side of things, which looks
+like this. So, we've got the data, which
+is all the tables, but then we've got
+interfaces and interfaces is the bit
+that I've built that just makes it nice
+for you to look at, you know, like this
+rather than having to come in and look
+at a table. So, there we have it. Let's
+go in back into the success day and just
+have a have a have a closer look at what
+it does. I'm going to go into the
+template one that I've built for you.
+And if you grab the it is here. I'll pop
+that QR code up again. If you grab the
+on this QR code, you will be able to
+download all four of these scenarios
+plus get access to the airtable and also
+be able to follow the instructions that
+I've got written down on paper. I've got
+some videos coming as well that walk you
+through installing the whole thing on
+your end. Okay, so in terms of the
+success day builder, think of templates.
+Just to walk you through how this looks.
+We've got it clears the decks. First
+agent clears the decks ready for the
+second agent who creates the success
+day. The knowledge files are the same
+ones as before. We've got the business
+one about the business, the brand
+positioning, the audience profile, the
+current priorities. By the way, if you
+grab the thinker download that I just
+spoke to you about, I have got a
+workbook template for all of those
+knowledge files for you so that you can
+create them for your own business and
+then you would just upload them into
+here. Then it's going to create that
+success day. It's going to number one
+add the briefing into airtable so it
+displays on the success day briefing for
+you. And then it's going to update your
+tasks and essentially just go and like
+hit success day on them so they also
+show up on the success day briefing for
+you. And the same with ritual tasks.
+It's going to go and hit success day on
+all the ones it wants on your briefing
+for you and then it's going to send you
+a WhatsApp message so long as you have
+messaged it in the last 24 hours, you
+will then get that message come into
+your inbox, which looks like this.
+[snorts] And I have mine running
+Saturday and Sunday as well. Like I get
+one on a Saturday and Sunday and it
+doesn't seem to understand that it's a
+weekend and blah blah blah. You can
+change that in your settings for it. I
+do that because sometimes I just work on
+a Saturday or Sunday like any other day
+and it's going to wipe the decks clear
+if I don't. You know, it doesn't matter
+if I haven't got anything done. It just
+wipes it for me and does it again the
+next day. Every day is a fresh day.
+There's no guilt tripping if I haven't
+managed to do everything I said I was
+going to do yesterday. It's no big deal.
+It's all good. So, there we have it,
+ladies and gentlemen. That is the system
+that's then going to essentially build
+you a success day every single day of
+the week and enable you to be on top of
+things, be getting through the important
+stuff and be working on the things
+that's going to move the needle and also
+enable you to have a place where you're
+storing all those ideas and have someone
+or something even systematize and
+organize whether number one, those ideas
+should be done in the first place and
+number two, where to put them. You know,
+there was recently I I really want to
+write a book. With everything I've
+currently got going on, the thinker was
+like, "Park it." Here's all the reasons
+why I think you should park this book
+right now even though it's topical and
+it might be really good. These are all
+the reasons. And then I make the final
+decision. Do I want to park it or do I
+actually want to just override that and
+go with it? If I wanted to go with it,
+it's then going to take the take a book
+idea and chunk it into a project and
+tasks for me so that I can start eating
+that elephant one bite at a time. And
+that is just the coolest thing in the
+world. It is honestly just changed my
+life in the sense that I am working on
+the important stuff every day and I'm
+working on the stuff that's a bit scary
+as well. And next week as I said, I'm
+going to walk you through some money
+producing activities tasks that I've
+then now I've got this system in place,
+I can then build on that with Claude and
+there's something really cool that I'm
+going to walk you through next week. But
+yeah, so look, you just watched me build
+the entire thing. You've seen the four
+scenarios. Hopefully not confused as
+hell and you can maybe build it
+yourself. But if you're thinking that's
+brilliant, I'm going to build that, but
+it looks complicated. I know it's going
+to take me half a year. That is why I
+have got the thinker for you already for
+you to basically install into make and
+all you need to do is create a make
+account and then you just import the
+scenarios into make. I've got the
+templates for you so that you can make
+those knowledge files for your business.
+And once you start using make, you just
+need one project like this to get you
+started with using make. It is going to
+change your life. I is the best
+automation tool I've ever come across.
+As you can see, this thinker machine is
+pretty powerful. So, imagine what else
+you could create with it. But if you're
+new to stuff like this, you just need to
+make something on it so that you can
+learn how it works. And this is a really
+good example of something that you can
+make with it. So, yeah. There we go. And
+of course, you've got all four
+scenarios, the airtable in there. I've
+got a full walk through for you so that
+you can go through that and implement it
+easily step by step. And you've got the
+AI prompts and and all of it all of it
+in there just to make it really really
+easy. And also there's walk through
+videos coming soon as well so that you
+can just voice note on the go to
+yourself and all of your thoughts be
+organized. Let me know if you have any
+questions in the comments and I will
+keep coming back and checking for them
+and just get anything answered as we go
+along. Otherwise, I'll be back here next
+week for part two of this session, which
+is where we're going to now talk about
+how we can take what we've built here
+and think about money producing
+activities because imagine if you were
+doing money producing activities for an
+hour a day and those tasks were chosen
+for you and you were encouraged to do
+the stuff that scared you a little bit
+and keep moving forwards every day based
+on what all your priorities are, what
+all your tasks and projects currently
+are and which of those was going to
+drive the revenue for you. Imagine where
+you could be in a year's time. That's
+what we're going to be looking at next
+week when I take the thinker to the next
+level and show you how you can use it to
+generate a ton of money producing
+activities [music] as well. In the
+meantime, let me know if you have any
+questions. Drop them in the comments.
+I'm Cally Lake and [music] I will see
+you very soon. Lots of love, guys. Have
+a good one. Bye.

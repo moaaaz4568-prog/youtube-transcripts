@@ -1,0 +1,578 @@
+If I had to learn Claude code from
+scratch, starting today, knowing what I
+know now, I would do it completely
+differently than how most people are
+learning it. Now, over the past few
+months, I've been dropping a lot of
+tutorials on Claude code, and it's
+generally because I believe that it is
+the most powerful software there is out
+there right now. And I've been using it
+to automate about 40% of everything that
+I do. And in that time, I've watched
+hundreds of people trying to learn it,
+and I can tell you that most of them are
+doing it completely wrong. Because the
+problem is not that Claude code is hard.
+The problem is that everyone starts in
+the wrong place. They see crazy demos
+online of people running five terminals
+of Claude code agents building entire
+SaaS applications, and they think that
+that's where they should start. But,
+that's the complete opposite, because
+that's like trying to learn driving by
+jumping into a Formula 1 racing car,
+which is why in this video, I'm going to
+walk you through the exact five-step
+path that I would take if I had to start
+over today. And this is going to be the
+practical roadmap that you'll need
+starting out from zero learning Claude
+code that will get you building real
+applications that businesses will
+actually pay for. And in case it's your
+first time here, my name is Michele, and
+I've scaled my own AI agency to six
+figures working with over 50 businesses
+to implement AI solutions, and teaching
+over 20,000 people in the process. All
+starting with zero technical knowledge.
+With that being said, let's dive in. All
+right, so first things first, here's
+exactly what I would not do. I would not
+start learning MCP servers, I would not
+start learning agent teams, and I would
+definitely not start learning hooks and
+custom configurations. And I know that
+goes against what you see out there on
+YouTube, because those are the things
+that are blowing up in every single demo
+that you see online. Someone posts a
+clip of Claude code running five agents
+in parallel, spinning up a full stack
+app in 10 minutes, and you think that's
+where I need to start. It's not. It's
+like trying to build a house with the
+roof. You need to have the foundation
+first. And the good news is that the
+foundations of Claude code are actually
+very simple. And most times, you don't
+need any of these advanced features to
+get massive value out of Claude code.
+Honestly, most people never use it,
+especially beginners. And so, here's
+exactly what I'd do. Step one is
+understand the mental model. And this is
+probably the most important thing that
+I'm going to tell you in this video. You
+need to understand what Claude code
+actually is. It's not a code editor,
+it's not VS code, it's not Cursor, it's
+not a place where you write code. Cloud
+Code is an AI agent that lives in your
+terminal, in your computer. And so, the
+most important skill that you have to
+learn is not coding, it's communication.
+You have to be able to describe clearly
+what you want and let Cloud Code build
+it for you. I mean, think of it like
+hiring a developer. You don't need to
+know how to code yourself, you just have
+to know what to ask for, and you have to
+be able to describe the end result in a
+very clear way. And then you have to
+review what they built and then give
+them useful feedback. And so, prompt
+engineering, that's all it is. That's a
+whole skill. And that's why
+non-technical people like freelancers,
+agency owners, entrepreneurs are able to
+build things that previously would have
+cost them thousands to be able to
+outsource. It's not because they know
+how to code, but it's because they know
+how to direct the AI to give them what
+they want. And so, once you learn this
+mental model, that's the first step.
+Step two is master the cloud.md file.
+And this is hands-down the most
+important feature of Cloud Code that
+barely any beginners are actually using.
+Now, the reason it's so important is
+because every time that you start a new
+session with Cloud Code, it has zero
+context. It doesn't know who you are, it
+doesn't know what the product is, it
+doesn't know your rules, your
+preferences, and it starts from scratch
+every single time. And so, think of the
+cloud.md file as onboarding a new
+employee in a company.
+>> [music]
+>> You wouldn't feed all the tasks that are
+all complex from day one with no
+context. You would explain to them what
+the code base actually is, what the
+product does, the rules, and you give
+them documentation. And so, apply that
+concept into Cloud Code using this file
+that gives the context of the actual
+project. And so, that's exactly what the
+cloud.md does every single session
+automatically. So, this right here is
+the skeleton structure of the cloud.md
+file. The first thing we have is product
+description. Now, this is telling Cloud
+Code what we're building, who it's for,
+and what problem does it solve. Then we
+define the second thing, which is the
+file structure. So, where should all the
+different types of files go, and how is
+the project organized so that all the
+files are in the correct place. The
+third thing that we set is the coding
+conventions. So, this is setting the
+rules for how the code should actually
+look. It's answering the questions of
+what frameworks should we use, what
+naming conventions, and what's the style
+guidelines. And then finally, I include
+rules and constraints. And this prevents
+Claude code from going completely off
+track, and it's answering the questions
+of what should Claude code never do,
+what are the requirements that can't be
+changed, and what are the hard
+boundaries that we set on the project.
+And so that's the structure of the
+Claude MD file that has the overall
+context for the product for Claude to
+use when we're starting every session
+automatically. Now let's switch to here,
+which is a real example that uses this
+structure and it's something that we're
+going to use in the next steps. So let's
+say we're building a landing page for my
+agency, which is called JM Solutions.
+And the first thing we'd have again is
+product description, which is saying
+that we have to build a landing page for
+JM Solutions, a company that builds
+done-for-you AI operating systems for
+six- and seven-figure agencies, blah
+blah blah. The target audience is agency
+owners doing between 50 to 500k a month.
+And we value prop design inspiration.
+Then we have the file structure, so
+we're saying, "Hey, you want to have one
+main index.html file for all the entire
+landing page, um a styles/
+folder for all the CSS." And basically
+here we're telling you, "Hey, where are
+all the files going to be stored?"
+Right? And we have all these naming
+conventions that we use. Then we have
+the third point, which is coding
+conventions, and we say, "Hey, use the
+vanilla HTML5, CSS3, JavaScript, all
+these things that uh realistically, I
+don't really know what they actually are
+in specific, but I know they impact the
+design of the actual website. Maybe make
+it more blue, maybe make it green, make
+it scroll better, make the design look
+nicer." And so these give the actual
+rules and guidelines.
+>> And then finally, we have the rules and
+constraints. We say, "Hey, everything is
+self-contained. We only use the dark
+theme. Uh no light mode toggle, which
+means that the website can only be dark
+mode. Uh all images use placeholders uh
+with gradient backgrounds, and we keep
+the total page weight under 100 KB." So
+these are all kind of technical things
+that we add to be able to to again give
+those boundaries to the agent when it
+builds the actual thing. By the way, if
+you're looking for all the resources
+from this video that I'm going to share,
+you can go to the second link down below
+in my free school community. You can go
+to the classroom section, and you can go
+to the templates vault. I'll be adding
+the full board showing you the template
+of the Claude MD plus the real one that
+I showed you but also a Claude code
+skill that allows you to be able to make
+your own Claude.md files. And so make
+sure that you set this up before
+anything else when you're starting a new
+project. And I mean this seriously
+because 1 minute of planning saves 10
+minutes of debugging and fixing things
+later on. And so this one file changes
+everything. Make sure to set it up
+before you start any project and I mean
+it seriously. Every single time that you
+start a new session even if it's simple,
+start making the Claude.md file first. I
+spend about 10 minutes making my own
+Claude.md for every single project and
+it saves me 10 hours whenever I have to
+go back and forth on Claude code and
+explaining it exactly what it is that
+I'm building. Now that we finished step
+two, we can go to step three which is
+master the core framework. All right, so
+now you understand the mental model
+behind Claude code and you've got the
+Claude.md file running. And this is the
+part where people get lost because they
+think that you need a super complex
+process to be able to build anything
+with Claude code but the reality is that
+we actually use a very simple four-step
+framework to build literally anything
+with Claude code whether that be a
+mobile app or website or even a gentle
+workflow. And the framework is called
+the plan, execute, review, and test.
+That's it. This is literally 80% of
+using Claude code effectively. So number
+one is plan. Plan before you build.
+Always start by describing exactly what
+you want then using plan mode let Claude
+code think of its approach, break it
+down step by step, and let it give you a
+full plan before it start building
+anything. Then you review the plan and
+make sure it's all good before going to
+the next step which is execute. So you
+approve the plan and Claude builds it.
+You don't need to understand the code.
+You just have to review the plan and
+make sure it makes sense before going to
+number three which is going to be
+review. So look at what it created,
+scroll through all the files in the
+output, and ask yourself whether it
+matches what it is that you want. Is
+anything off? Before we get to the next
+step which is step four, test. So run
+the thing, open the app, press the
+button, go through step by step, task by
+task. If one task works then go to the
+next one. If anything breaks well tell
+Claude code and it will fix it
+automatically for you. So that's the
+framework, plan, execute, review, and
+test and then repeat. So I know you guys
+are very practical, so let me show you
+how it actually looks like on a real
+scenario. Okay, so here's a new session
+in Cloud Code. This is where we're going
+to be building the actual thing and show
+you the full process
+of the framework. Now, on the left-hand
+side we have the files that we're going
+to use, and on the right-hand side here
+we have the chat interface where we get
+to talk to Cloud Code.
+The first thing I'm going to do is I'm
+going to feed in the file, which is the
+cloud.md file that we were just speaking
+about.
+So, if you can see here, I have the
+whole
+project description, file structure,
+coding conventions and rules and
+constraints. And now all I have to do is
+give it a prompt. So, the prompt right
+here of today is going to be It's a
+whole prompt that goes through exactly
+creating a landing page uh for Jim's
+Solutions. This is the overall sort of
+prompt, and then we have the context of
+our kind of, you know, files and coding
+conventions. Everything's here. And
+before we do that, I have to turn this
+to plan mode, and there's also one more
+thing that I want to add. So, in making
+a landing page, I have dribbble.com,
+which is a platform that allows us to be
+able to take designs that someone
+basically already made, and we can use
+it as input to Cloud Code saying, "Hey,
+look at this design to be able to make
+our landing page." And so, all I have to
+do is go to dribbble.com, and then I use
+the Defi landing page right here,
+and I can copy this image, and I can
+paste it here.
+And I can also say, "Make sure to also
+look at the image that I pasted, which
+is reference design style for the
+landing page." Now that we have this
+here, we can press run. And bear in
+mind, I'm in plan mode because it's
+going to be planning what it is that it
+has to do. So, as you can see here, it's
+starting to say, "Let me explore the
+current project state and plan the
+implementation." And also here you can
+see that it said, "Read cloud.md." So,
+when you see read cloud.md, which means
+that it's going to use that as context
+to then be able to build our landing
+page and make it better. And so, that's
+what I meant by having the cloud.md file
+as context for every single session that
+we do. All right, so now it just
+finished making the implementation plan,
+and we go to the next step, which is
+execute. And here we have [music] the
+context, the file structure to create,
+the implementation order, the step one,
+step two, step three, step four, five,
+six, seven, [music]
+and all the different things that it has
+to do step by step to be able to make
+the actual landing page. And I can
+review it. I'm not looking any code
+here. I can just go here and I can press
+yes, auto accept.
+And from now, I can turn this, this is
+the permissions of Clock Code, I can
+turn this to bypass permissions. And as
+you can see, it's starting to make all
+the different folders on the left-hand
+side. And on top of that, it creates a
+to-do list, which I really like because
+we get to see step by step what it is
+that it's actually doing.
+All right, so as we can see here, it
+finished all the to-dos. It made the
+actual uh landing page, uh but it didn't
+give us the link that we can use to go
+inside, which is where I can go here and
+say, "Hey, can you give me the localhost
+link so I can open it up in my browser."
+All right, now it gave me the link. I
+can copy this. I can paste it in my
+browser. And this is where we get to
+step three, which is review, which is
+looking at what it created, and
+scrolling through the actual output, and
+saying, "Okay, is there anything that we
+want to change?"
+So, there's one thing.
+So, let's say that we wanted to
+say, instead of AI-powered delivery
+engine,
+I wanted to say AI-powered delivery
+system.
+And then automated reporting insights,
+we can leave it at that. So, let's just
+do this. One very small thing.
+So, I can say, "Okay, now in the
+built-for-you section, so your AI
+operating system built for you, the
+solution,
+um you mentioned AI-powered delivery
+engine. Can you please uh replace that
+with AI-powered delivery system?
+And yeah, everything else. And also
+mention that we're looking for 50 to
+100k a month uh marketing agencies in
+the done-for-you AI systems part. When
+you said replace hiring with Intelligent
+Solutions,
+uh put that there so people know that
+it's for them." Cuz the two changes
+right there. This is the review process,
+obviously looking at what it did and so
+on, but it did a pretty pretty good job
+um in making the landing page on the
+first trial, [music] which honestly
+before Clockwork wasn't too possible at
+this uh quality. So, one thing I do now
+is I'm actually turning this to bypass
+permissions. I like to turn it back to
+plan mode because bypass permissions
+lets it do everything on its own with no
+actual input. Uh I wanted to make a plan
+of the changes and then we can review
+the plan and then we can start, you
+know, doing things again. So, I can
+press run.
+All right, so as you can see here, it
+made the text updates.
+We have the context line 53, line 160,
+AI power delivery engine turned into AI
+power delivery system, and also we're
+mentioning that we're looking for 50 to
+100k a month agencies, which is perfect.
+So, I can go back and I can say yes,
+auto accept, and turn this into bypass
+permissions so it can do everything on
+its own.
+All right, so I just finished making it.
+I can go here
+and we should see when we refresh
+the changes being made.
+Hit the 200k a month.
+If I go down,
+AI power delivery system.
+Now, we get to the actual testing part,
+which is testing all the buttons. So, I
+can press book a call
+and nothing will happen
+because I didn't give it any link uh for
+it to make something. So, now I actually
+got a link from cal.com that I can feed
+into uh Clockwork
+uh for it to actually lead. So, when I
+press this button, it will go to book a
+call. So, here I can say, [music]
+"So, when I press book a call the
+button, I want to embed a cal.com link
+that I'm going to give you below." So,
+when you said, "Ready to build your AI
+operating system, book a free strategy
+call." And then below that, you can
+embed the actual cal.com
+link for someone to book a call with me.
+I can put, "Here's the link."
+I'm not going to bother about the plan
+now. I can just go straight to bypass
+permissions
+and I will start changing it up based on
+what we told it that we wanted.
+All right, so I just finished
+implementing the change. I can go here.
+I can press refresh again
+and now I should have the calldotcom
+link embedded into the web page, which
+looks a lot better.
+>> And so as you can see, it made the full
+landing page, which is absolutely insane
+off of a few changes in one prompt. But
+it did a very good job, mainly as well
+because of the cloud.md prompt that we
+fed it at the start. So that's it right
+there. Plan, execute, review, and test.
+And that's about 80% of Claude code. Now
+I can tell you that if you master this
+framework, you'll be way ahead and
+you'll outperform people who have been
+learning Claude code for months. Now
+that you finished step three, we can get
+to step four, which is build something
+real. And this is where most people get
+stuck permanently. Stop watching
+tutorials. I see people spending months
+and months watching all the tutorials on
+YouTube, reading every single blog post,
+every single article out there, but
+never actually build something that
+matters. Cuz the truth is, part of
+learning Claude code is by watching
+videos, but most of it is just by
+solving problems. And the best way to
+hit problems is to build something that
+a client would actually pay for. So pick
+a real project, not a to-do app, not a
+calculator, not something that nobody
+uses, but it has to be something that
+solves a real problem. That can be a
+landing page for a business, a dashboard
+that pulls the live data from an API, an
+automation script that saves you 3 hours
+a week, a Chrome extension, a simple web
+app that solves a real problem. It
+almost doesn't matter what you pick.
+What matters is that it's real. And the
+beautiful thing about Claude code is
+that when you have problems, you can
+always talk to it to see how you can fix
+that problem and you have a developer
+24/7 that you always have by your side.
+Cuz everything that you build can be a
+potential case study, it can be
+something you can add to your portfolio,
+but most importantly, it can be
+something that you can actually sell.
+Cuz I can promise you this, you will
+learn way more from one real project
+than watching 20 tutorials. Once you've
+actually built something real, we can
+get to step five, which is go advanced.
+And notice that this is the last, right?
+you've built something real, and only
+after your fundamentals are built, then
+you can explore the advanced features of
+ClawCode. Cuz the thing about advanced
+features is that they are force
+multipliers. They make everything faster
+and more powerful, but it only works if
+you have the foundations. It's like
+learning advanced driving techniques. It
+only works if you know how to drive,
+right? So, make sure you have the
+foundations before you get to the next
+level. So, for example, we have custom
+slash commands, we have MCP servers, and
+we have agent teams. So, only learn
+custom commands when you find yourself
+repeating the same thing to ClawCode
+over and over again. Learn MCP servers
+only when you need to connect the
+external APIs that are not built in. And
+learn agent teams when you need multiple
+specialized agents working on different
+parts of a project. So again, these are
+force multipliers. They make you 10
+times more powerful only if you have the
+foundations. And that's how the best
+builders actually learn, not from a
+checklist, but from a necessity, from a
+need point of view. So, let me recap the
+five steps to learning ClawCode right
+away. Step one is get the right mental
+model. ClawCode is an AI agent not a
+code editor you program. Step two is
+master the claw.md file. This is the
+brain of your project and the key to
+consistent results. Step three is learn
+the core workflow. Plan, execute,
+review, and test. This is 80% of using
+ClawCode effectively.
+>> Step four is building something real.
+Stop watching tutorials and start
+solving real problems that clients will
+pay for. Step five is go advanced. Learn
+advanced features only when you hit real
+limitations, not because they look cool.
+And if you follow this path, I can tell
+you that you'll be ahead of 99% of
+people looking to learn ClawCode right
+now. Cuz most of them will be stuck in
+tutorial hell just watching video after
+video, not really getting anywhere. And
+if you're someone who's serious about
+turning these AI skills into actual
+income and building your own AI agency,
+then I left the first thing down below,
+which is a video that walks you through
+how you can do that step-by-step
+one-on-one with me in a 90-day
+mentorship program. Check out the video
+if it sounds like a good fit, then feel
+free to apply. And check out this video
+up here where I show you how one of my
+students made over $120,000 in 6 months
+with this AI agency. With that being
+said, I hope you found value from this
+video, and I'll see you in the next one.

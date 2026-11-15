@@ -1,0 +1,456 @@
+You'll see me
+take a
+$999 AI Tools assessment
+from start to
+finish.  This is a training
+I originally
+recorded for our
+AI Operator Academy community
+about 2
+months ago.  So, you'll
+notice that in the post
+I share a lot of
+resources and things
+that are only available within the
+community.  So if
+you want to have
+the skills, the templates, and
+everything that's included in this
+video that you can
+plug in and
+use to
+be able to pass these
+assessments in under
+10 minutes, then you're going to
+need to
+join the
+AI ​​Operator Academy,
+which you can do by
+going to aoa.community
+or clicking the
+link in the description.
+However, I am giving away the
+report template that you
+see me creating in
+Claude design here in this
+video, and you can
+get it for
+free at
+audittemplate.ai.  So
+enjoy the video
+, watch me walk you through
+this assessment
+from start to finish.
+I hope this
+helps.  So,
+a question that has been
+coming up a lot in the
+community lately is
+how do I
+execute an
+evaluation workflow
+from start to finish?
+So, in this very
+short tutorial, I'm
+just going to show you how
+this process works.  It's
+that simple.  This will probably
+only take about 5
+minutes.  But, uh, you
+can copy and
+paste this for your
+own
+grading workflow.
+So, all we're
+going to do, and I've already
+done it here, so I'll
+show you the work
+that I've already done,
+just to save you
+time.  But we'll just
+open a new
+Coda tab and I'll show
+you exactly what I did.
+So, I've established an
+assessment analysis skill that
+you have access to.  So
+if you go to the
+community in the classroom, in the
+AI-based assessment guide module,
+AI-based analysis, that's the
+skill that you'll
+download.  So,
+here it is.  And you will insert
+it into your Claude, which I
+already have.  And, friends,
+all I did was
+run this skill
+and then insert the
+assessment itself.  So, what it
+looks like is, I literally
+just ran an
+AI tools assessment,
+then went into Fathom and
+copied the transcript
+.  And then he went back
+to Claude, clicked "
+insert", and then "
+execute".  So, that's
+all you need to
+do for this
+workflow.
+So, when
+did it work, right?  I
+just clicked "
+run", it
+worked for about 2
+or 3 minutes.  And it will
+return two
+results.  So
+one will be JSON, which we
+can ignore, and the
+other will be the actual
+score in docx format.
+So, this is what we
+need in this
+case.  So, we
+can open this up and
+see what it
+looks like.  So, we
+can just
+open this in our
+Google Drive, and this is one of
+our real
+clients.  So, this is like
+a real, this is a
+real example, right
+?  So, this will open the docx
+in Google Drive.  That would give
+us a quick overview of
+the opportunities, some
+breakdown of the
+effort versus impact matrix,
+right?  This will give
+us a complete report.  For
+now, we'll
+get to the
+main things
+we're focused on, which is:
+we read the
+recommended
+solutions and
+make sure that the
+tools are actually
+right for this
+client.  So, for the sake of
+saving time, I'll
+just assume that
+all of these recommendations are
+compelling, and that
+we're going to
+follow them.  But for
+your real
+assessment, you would again
+read all of this
+and say, “Okay, the
+pain point is that
+they’re taking
+meeting notes and to-do items
+in paper
+notebooks.  Claude
+recommends that we
+assign a
+Fathom AI notepad.  Does that make sense?
+And in this case, yes, right
+?  But, let's
+put it this way, no.
+Let's say, "Uh, I
+feel like there
+'s a better
+tool for this," or,
+you know, it seems to me
+that we might
+want to use a
+different option.  Well,
+then you can
+go back to Claude and
+look for other similar
+tools.  Or we
+can go to
+futurepedia.io, which is a
+large catalog of
+artificial intelligence tools, and
+we can find
+tools from
+futurepedia.io, or we
+there’s an AI for that.com.  And this is
+another large
+catalog of
+artificial intelligence tools.
+So, again,
+let's assume that the
+solutions recommended here are reliable,
+or that you've already added
+your recommended
+solutions, and you've
+edited the
+standard X so that it's
+flawless and
+meets
+your client's needs.  All
+we'll do after
+that is
+sub-archive it,
+upload it,
+save it as a docx, the
+final format, and
+then we'll go into
+Cloud Design and you
+import the actual
+assessment template,
+right?  So this is a blank
+template, and again
+, you have access to this very
+template.  He should be
+in the reports, which I think are
+impressive.  Oh, sorry.
+It should be in the report
+and
+review call.  And so,
+this is the assessment template.
+So, you
+download it.  This is an HTML
+file.  So the download itself is nothing like that
+.  It's just a
+bunch of code.  But what you
+do is you
+download this HTML
+file, you go into Cloud
+Design, you add it as an
+attachment, and I did
+it exactly the same way I did
+here.  You add it
+as an attachment and then you
+just say "
+import this file
+as is" and it will essentially
+copy the template and
+import the file as this
+blank
+AI tool assessment template.
+So, once we
+have a template, right?  I'll
+move the camera there
+to show you.
+So once we
+have the template, all we
+did was I took this
+docx, you know, the
+downloaded version of the
+report here for the client
+.  I downloaded this,
+dropped it into Claude Design, and
+said, “Your
+task is to fill out the
+AI ​​tool evaluation template with
+the information from the
+attached docx.  Include
+only the information
+required for
+the template.  You can
+ignore anything that doesn't
+fit
+directly into the
+pattern."  So, that's all
+I said, and I didn't have to
+do anything else.  So
+about 60
+seconds later, I was given the
+actually completed
+report, which we can
+see here.  So, he
+filled in the client's name
+, he filled in the date,
+he filled in his line of
+business, he
+filled in his
+primary line of
+business.  In the
+“Abstract” section, he
+nicely summarized the
+main problem
+points,
+summarizing the
+outcome
+the client can
+expect if they
+implement what they
+learned from the report.
+He summed up
+the hours they
+could get back
+in their main
+line of business, which is exactly what
+we
+wanted.  In the matrix of
+counter-influence efforts,
+he didn't fill in the blanks
+here, which is what we wanted,
+right?  We didn't
+want him to
+fill in the blanks.  It's
+just to
+show the client, "
+Hey, this is how we think
+about it."  "That's kind of the
+framework we
+approach this
+assessment."  So nothing is
+filled.  For
+quick wins, he
+did exactly what we
+wanted.  So he
+made a one-line
+explanation for the
+pain point and
+then
+pointed directly to the tool.    The
+solutions are the same.  He
+filled
+everything in perfectly.  The name of
+the tool, a
+brief description of its
+capabilities,
+cost,
+settings, and
+time saved.  He
+did this for all
+six specific
+tools we
+listed here.  And
+again, if we
+go back to docx,
+right?  We prescribe
+exactly six
+instruments.  So he
+was perfect and
+matched them up side by
+side.  Then the
+four-day
+quick wins plan he
+filled it out perfectly again without
+having to do
+anything more.  Day
+one–installing
+Fathom.  Day two –
+Zap collection.  Day three –
+creating a
+QuickBooks rule bank.  Day
+four–Calendly and
+the app.  So a lot
+of this, uh,
+uses Zapier
+.  He filled in what
+happens after
+quick wins.  So
+, again, these are our
+opportunities for
+additional sales
+that we can
+offer to
+the client.  And then he
+also filled out the
+financial impact slide.
+So he took
+the weekly
+time returned and
+quantified
+it monthly and
+annually.  Added the
+total monthly
+cost of the instrument
+, and then calculated the
+monthly net
+return on
+investment.  And I
+love how he
+even added that.  I didn't
+ask, but he added
+this line: 19x
+investment in the
+tool.  And this is in the
+first month, right
+?  It's every month
+they're going to get it
+back.  And
+then, as next
+steps, he
+recommended they
+turn on Fathom
+today, which is the first
+step in a
+four-day plan for
+quick wins.  And
+then, secondly, he
+asked them
+to schedule a
+review call.  And
+I like how
+he actually
+took into account the fact that
+So, in the transcript with
+this client, they
+mentioned that they
+were going to go
+to Switzerland for a couple of
+weeks.  So, Claude
+even acknowledged that and
+said, "Hey, after
+your trip to
+Switzerland, let's
+schedule a review
+call."  Right?
+We can
+review this report together
+after your trip.
+We will then check back
+30 days after the
+first phase to
+measure how many
+hours were actually
+returned.  So it's as
+simple
+as possible.  I would
+literally
+change nothing about this
+report.  All I could
+do at this
+point is go
+here, click "
+share,"
+export as
+PowerPoint or PDF, whatever
+you're most comfortable giving to
+your client, and
+then you're done.  So,
+it's a complete
+workflow from start to
+finish, from taking a
+transcript, entering
+it into Claude, doing the
+analysis, updating the docx
+, dragging it
+into Claude Design.  So, this is a
+complete process.  If
+you have any questions
+about this, don't
+hesitate to contact
+us.  But I wanted to
+write this quick
+tutorial down because it was a
+very common
+problem that
+people were facing, a very
+common question
+that people were facing.
+helps.

@@ -1,0 +1,245 @@
+I send over a million
+cold emails every month.  And if I had to search for
+and extract all the contacts
+manually, not only would it take me a
+very long time, but I would end up
+bankrupt.  That's why, in this video,
+I'm going to use Get Leads and Claude Code to
+show you how I extract millions of
+contacts every month.  If you don't know me,
+my name is Jayden Lee Lua.  I am a
+co-founder of Velocity Flow, where
+we build, run, and manage
+revenue growth systems
+for B2B companies across many
+industries.  And so you can see I'm not lying
+, this is just one of the
+campaigns we set up for
+ourselves.  Shipping takes only 7 days
+.  And if you're wondering, "Why did it
+start on August 31st and end on
+September 7th?"  It's because we don't send
+emails on weekends.  So,
+technically, it's only 6 days for
+shipping.  But as you can see here,
+we sent over 100,000 emails.
+We contacted 92,000 people.  Getting right into
+the video, as I said, we're going to
+use Get Leads.  If you don't know what it is
+, it's about verified
+and unlimited B2B contacts for your AI.  They don't even
+have an interface for
+manually extracting contacts.  Basically
+, you tell Claude Code, ChatGPT, or
+whatever you use, what kind of
+contacts you want, and the system will do it
+for you.  If you compare this to Apollo or
+any other database, this
+completely surpasses them.  Okay, as you can see
+here, I've already logged in.  Once
+you purchase your membership, this is what it looks like
+, and I believe if you use the link in the
+description, you'll get a small
+discount.  But first, what you need to
+do is go down here to integrations
+.  They click on integrations and, as
+you can see, it will show them how to set it up
+with whatever tool they use.
+You'll see that it has an MCP configuration
+and also an API configuration.
+So they can use Claude, Claude
+Code, ChatGPT, Codex, Cursor, VS Code and
+many other things.  Whatever they
+wear, the boys are great.
+They have tutorials that literally guide you
+step-by-step on how to
+set up absolutely everything.  Okay,
+go to Leads, obviously, choose the AI ​​you
+prefer, and then select the
+tool you're going to connect.
+Personally, I use Cloud Code and I actually already
+have this set up.  But that would be
+the first step, obviously, to perform the
+configuration.  Now, assuming it's already
+set up, let's enter
+our preferred AI.  What we are going
+to do now is literally very
+simple.  I'm going to guide you step by step
+on how I get my leads every
+day.  The good thing about Get
+Leads is that they allow you to extract
+unlimited clients, but with a limit
+of 500,000 per day, and I don't know
+anyone who processes that many.  We've
+been pretty close, but I don't
+think we've reached that number.
+So that won't be a problem.
+And if you do the math, 500,000
+prospects for 30 days is a
+huge amount per month.  But you
+simply enter your chosen AI and
+say something like this.  Hey, I want you to
+search for 5,000 staffing and
+recruitment firms in the US using our
+Get Leads platform.  I need them to be
+founders, CEOs, owners or
+co-founders, with a range of 5 to 20
+employees.  And yes, I'm pretty sure that's
+all I need.
+So, I'm going to click here and
+exit so as not to confuse the AI.
+You can also add many other
+things you want to include.  But for
+this example, I'm going to go ahead,
+click, and see what results
+we get.  As you can see here, it has been
+running for about 30 seconds,
+more or less.  Basically, it will
+get all the values ​​and apply
+filters to everything.  It's checking the
+platform as you can see here and then it
+will extract all the information.
+Depending on how many prospects
+you're looking for, obviously if you're looking for 100,000 at
+once, it will take about 15 or 20 minutes,
+I'd say.  This saves a lot of
+time because, think about it, if you had to
+find those customers manually, you would
+not only save a lot of time, but
+also a lot of money.  I'm going to
+Apollo while that's being processed or
+while the extraction is being done, and I'll
+show you the cost difference between the
+two.  Okay.  Okay, perfect.  Now,
+moving on to Apollo, just to give you a
+small comparison of everything.
+OK?  So, this is for
+lead generation and they charge you
+monthly.  You pay $150 for
+6,000 credits.  If you didn't know, I
+obviously run a cold mailing agency
+, so each credit
+equals one mail.  So, I would
+pay $150 a month for 6,000
+people.  And their data isn't that
+good either.  And if you even want to choose
+this plan, you pay $100 a month
+for 4,000 people.  Apollo won't
+work for cold mailings, and that's why
+Get Leads is much better
+.  And then there's this...yes, I'm
+pretty sure that's it.
+I thought they had a bigger plan
+than that.  Yes, but this is like a
+super basic level.  That's why
+Get Leads is much better.  While that's
+happening, let's review our extraction
+here.  So, as you can see here, I'm
+starting exports now.
+Basically, it's over.  It's just
+exporting everything.  In fact, it's
+running through a
+Million Verifier check.  Actually, I'm going to
+stop that.  I'm going to say, "Don't run it
+through Million Verifier, just for the sake
+of this example."  "Show me or
+simply export the leads and
+open them for me."  Okay, now he's
+basically going to export everything.  I didn't even
+know.  So, basically, it's
+over;  If there were 5,000 prospects,
+that probably took 3 minutes.  And if
+you extract 5,000 prospects, that would have
+exhausted your entire Apollo plan.  But
+as you can see here, he's basically
+exporting everything.  And the reason it
+went through Million Verifier is because I
+told him to put it through the
+Get Leads pipeline.  But Million Verifier is
+basically used to verify all
+contact information.  And as you can see
+here, export complete,
+downloading and deleting against the
+319,000 known prospects before
+MB.  Don't check it.  Keep trying to
+verify it.  But what I was saying is that
+Million Verifier is used to
+verify all
+contact information.  Basically, to make sure we
+'re not sending
+"catch-all" emails, etc.  And then
+, if you want to add that to your pipeline,
+you can build your own pipeline.  You
+tell Cloud Code exactly what
+you want to build.  You get your
+Million Verifier API key and tell it: "OK,
+track these leads."  And after
+tracking them, run them through Million
+Verifier and have it bring you the list, or
+you can even add a
+personalization step at the end, which is
+basically what I do in our
+campaigns and most of the time
+with our clients as well.  As
+you can see here, this has just ended.    He
+'s opening it for me right now
+.  I might have to switch
+screens so you can see
+what this really looks like.  Okay, as
+you can see here, we're already on the
+list.  This is an example of the result
+.  Literally, anything goes.  It did
+run through Million
+Verifier, but these are all
+valid emails, and that probably took me
+5 to 10 minutes at
+most because I was talking the whole
+time, but yes, I could keep
+scrolling down and I just
+got 5,000 leads.  As I said, this is
+basically for high volume.
+These leads are all valid.  We've had
+the highest response rates
+, and it has a little to do with
+our infrastructure and copy,
+obviously, but LeadSift is an
+important part of it.  That's why Get Leads is
+probably one of the best when it comes
+to lead tracking.  It saves a
+lot of time and money, as I said,
+but this is just one example of what the
+actual result looks like.  And well,
+obviously, this is the result it
+yielded.  It didn't give exactly 5,000.
+It had 4,161 contacts.  And it basically
+says it all here.  Remove some rows
+because the ICP confirmed it for me.  The
+only downside to using
+lead trackers, like doing it
+manually, is that not only do you have to
+do it yourself, but it costs much more
+, even if you try using the API, and
+much of the list will be inaccurate.    This way
+, you don't pay for leads you
+basically don't want.  You have
+unlimited leads.  So what will happen
+is that, even if you do a trace,
+even if there is some noise, CloudCode
+will compare it to the ICP you gave it and
+eliminate those that are basically
+noise.  As I said, if you want to build
+this system yourself,
+you can literally tell Claude
+Code exactly what you want to create,
+give it the GetLead MCP, and then
+also use Billing Verifier,
+add it there, and add any
+customization you want.  I talk
+about that in more detail in my
+previous videos.  And if you want to know how to
+send 10,000 cold emails a day
+without being flagged as spam, watch this video here
+.  If you want more content about
+cold emailing like this video,
+click subscribe and I'll see you in the
+next video.  Peace.

@@ -1,0 +1,855 @@
+In this episode, Ryan Dozer is going to
+break down the exact AI tools that he
+uses every single day to run his
+marketing and content. And he's going to
+cut through the noise because 95% of AI
+tools out there are just Chad GBT or
+Claude Rappers. So, we're going to get
+into why he ditched Chad GBT entirely,
+why he's all in on Google's ecosystem
+longterm, and how he built a make.com
+automation that runs his entire social
+media content calendar. He also walks us
+through his full Claude Code setup live
+on screen. We're talking everything from
+the skills he uses to the way he manages
+his files, API integrations, even how he
+generates YouTube thumbnails for 14
+cents a pop. And then towards the end,
+he shares a mindset shift around how
+most people are approaching AI
+completely backwards. And honestly, I
+think that part alone is worth sticking
+around for. So with that said, let's
+jump right into the episode.
+>> All right, Ryan, what are we learning
+today? Corey, thanks for having me on,
+bro. So, today we're going to be
+learning about my favorite AI tools that
+I use all the time for marketing and
+content creation.
+>> Awesome. I'm excited to dive in there
+and I know you've got some uh some super
+tactical tips for us on those tools. So,
+there's a lot to flesh out and we will
+get going in a second, but before we do,
+why should people listen to you? Like,
+what's your background? What's your
+credentials?
+>> Absolutely. So, I've been in marketing
+for over 10 years now, marketer by
+trade. And I kind of just got into the
+AI stuff by default. As if you leave my
+YouTube channel in the description,
+you'll notice I have over 31,000
+subscribers at this point. So, I've
+really figured out how to build a
+YouTube channel and how I've used AI to
+help me do that in the process here. Um,
+but I've just kind of tinkered with
+probably hundreds of different tools at
+this point. And the reality is, Corey,
+that I would say 95% of AI tools are
+just rappers, white labelled, OpenAI,
+white label, Claude. So, I'm going to
+help try to debunk all that hype in this
+video and just give you like, I don't
+know, three to five tools that anyone
+can get started on.
+>> Yeah. And that's exactly what we're
+looking for because I feel like, like
+you said, most tools are just kind of a
+regurgitated version of chat GBT. They
+don't do much anything much different
+than what you could do in like a chat
+GBT or a Claude. So yeah, let's dive
+into your list and kind of see what you
+got and how how they can help the
+everyday business owner.
+>> Yeah, we'll do some screen sharing
+action here in a little bit, but I'm
+first going to list off kind of what
+those tools are and I guess how I'm
+using them. So yeah, first first and
+foremost here, Corey, I've actually made
+a big switch lately to Claude Code. So,
+I was originally using the Claude web
+app with projects and even GPTs when I
+was still using chat GPT a few months
+ago, but Claude Code is really my daily
+driver for all things copywriting,
+research, technical assistance, really
+just general business tasks. And I can
+screen share my Claude code setup later
+on, just go through the different skills
+I'm using, the structure, etc. But I
+think first it's important for people
+watching or listening to this to
+understand that you should install an
+IDE like cursor VS Code or Google's
+anti-gravity and then install something
+like Claude Code or OpenAI's codeex if
+you're in OpenAI's ecosystem and then
+just start plugging away with Claude
+Code or Codeex because that's where all
+of this is going at least in my opinion.
+>> 100%. Yeah. I mean cloud code is one of
+those things where again it sounds
+intimidating especially if you don't
+have a tech background. I mean, I was
+very [clears throat] intimidated myself
+as a non-technical person, but like you
+said, it's like just download cursor,
+install cloud code, and start messing
+around with it. So, we'll definitely go
+deeper into cloud code. We'll maybe even
+have you screen share your setup later
+in the video, but that's a great one to
+start with because that's something that
+I'm trying to learn a lot more about and
+I think everybody would make a lot more
+money if they started to master tools
+like Claude Code.
+>> Absolutely. That's just where
+everything's going. But in addition to
+Claude Code, Corey, I'll just kind of go
+down this list, too. I'm also still
+using Google Gemini. Now, I am using the
+API to help me with Nano Banana Pro and
+some of the more detailed models they
+have, but I'm still using the Gemini
+interface. I'm on Google's AI Pro plan
+for 20 bucks a month. Mainly because I'm
+still generating images and sometimes
+videos inside the Google Gemini
+interface. I just think that Nano Banana
+Pro is the best image model right now by
+far. There's no really second
+comparison. And so I'd rather be on that
+paid plan to get more highquality
+images, whether that's YouTube
+thumbnails. Sometimes I'm generating a
+lot of infographics as well inside uh
+Gemini with Nano Banana Pro. And also
+too, what people need to realize is that
+the reason that I ditch chat GPT
+recently about a month ago is I'm so
+bullish on Google's AI ecosystem. Think
+about all the data and the knowledge
+that they have behind that. I would
+rather be invested 20 bucks a month in
+Gemini Pro if I can use things like
+Gmail, Drive, my YouTube history and
+then pair that with some of the best AI
+models to date for research, video,
+photo, etc. So, that's probably number
+two is just Google Gemini and then that
+$20 a month pro version.
+>> And that's a great point. I mean, just
+beck betting on Google's ecosystem and
+their capabilities. I mean, I agree.
+Nano Banana is by far the best model. Uh
+I guess the the best image model right
+now, right? I still use Gemini for some
+one-off things here and there, but
+overall I think you're I think it's a
+smart bet to be betting on them long
+term as probably being one of the
+leaders, if not the leader in this space
+and investing accordingly. So I think
+that's a great one to be second on the
+list.
+>> I also think too they're going to be the
+master generalist company. I don't
+really think OpenAI has a shot to beat
+them long term. And I could see
+Enthropic being more of that enterprise
+business company. Those are kind of my
+top two, but that's a whole separate
+rabbit hole.
+>> Yeah. Okay. Yeah, we can go on that
+maybe later on, but no, keep on going.
+This is a great list. It's off to a
+great start.
+>> Yeah. And then in terms of automations,
+I I use make.com. That might sound like
+an unpopular choice with all the YouTube
+gurus posting N8N 100 node screenshots
+everywhere, but make.com is kind of the
+the driver for just some of my
+automation. So, do you want me to screen
+share now and I can just kind of show
+you what I'm working with here?
+>> Yes, please. Yeah, that'd be great
+because that that is the point of, you
+know, what we want to talk through here
+is kind of breaking down some of those
+automations. I think specifically in
+Make, but make's a great platform. I
+mean, I you know, it's really between
+Zapier and Make as far as the two big no
+code builders out there. Obviously,
+Naden, but I consider NAN a bit more
+technical than like a Zapier or a Make.
+And I think whether you go with Zapier
+or whether you go with Make, you don't
+go wrong with either one. They're both
+fantastic.
+>> I agree. And they can all accomplish the
+same thing. People need to understand
+that, right? They're just automation
+platforms with maybe some different
+integrations here and there, different
+pricing structures. But this automation
+right here, this is the one that I
+probably use the most. This automates my
+social media entire social media content
+system. So, I use a tool called Blatado.
+I'm not sure, Corey, if you're familiar
+with that one.
+Content tool created by Sabrina Romangh.
+She's one of the top AI creators, I
+would say, in the world. Um, so I use
+that to kind of power the posting for my
+socials via API. But in addition to
+that, so what powers this automation
+right here is I'm using just a simple
+Google sheet. And the reason that I'm
+doing this versus just letting some
+agent or maybe even AI module take all
+of this by itself is I want to always
+ensure quality. So this just gives me a
+good overview here of what posts are
+going out, what posts have already went
+out. And then I have an editor who does
+all these short clips for me. He takes
+my long form podcast or YouTube videos,
+you know, chops them up, makes them look
+good on a on a short form basis. So, if
+you look at the shorts on my YouTube
+channel, Instagram reels, Tik Tok,
+you'll see all those short form videos.
+And then I'm using Clawude Code to help
+me in column C to generate all the
+captions. And then this is being
+monitored by this automation right here
+to ensure that every single day a post
+is going out across all my relevant
+platforms that I have set on the
+schedule down here. So, I know there's a
+lot. I have a full tutorial that covers
+this entire thing, but Corey, am I
+making sense here?
+>> Yeah, you're making perfect sense. And
+what I love about this process is that
+you didn't just mindlessly automate this
+and hand it off to AI. Like, there's
+still a human in the loop there at the
+end before you ultimately press post.
+And I think that's what prevents this
+from being more generic AI content is
+like Ryan is still there at the end of
+the day to verify that what the AI has
+created is quality and is on brand and
+is suitable for us to post. So I think
+that's what differentiates you from a
+lot of people doing this. A lot of
+people just have the setup to auto post.
+But I think human in the loop is key
+especially when it comes to content.
+>> I agree with you, bro. I can't preach
+that louder enough where you know all
+these YouTube gurus they want to say use
+this agent and we'll post a hundred
+times a day but guess what AI slop and
+pure volume does not move the needle
+whatsoever. So you have to ensure that
+there's always quality in there
+somewhere.
+>> Yep. 100% completely agree.
+>> And then just another really quick
+simple automation that I use all the
+time to help with research for my
+podcast and potential leads that come
+through for my marketing agency. This
+one is about as simple as it gets, but
+it's extremely useful. You don't have to
+use Calendarly. You can use
+tidycalc.com,
+whatever your calendar app is where I
+just have a web hook here where anytime
+someone books through a a booking form
+on Calendarly that triggers this
+automation and then I use something
+called open router which is essentially
+a unique platform where we can use
+literally all these AI models like
+Google models, open AI models, enthropic
+models versus going through one by one
+trying to sync those APIs individually.
+It's just a it's a tedious process. So,
+I like Open Router from an
+organizational standpoint. And then it
+goes through and researches that person
+based on the name, the website they
+provided, the company they provided, and
+any other details. And I have it set to
+Gemini 3 Pro right now for the model
+that it's using. Does all this research
+on them, coms back with an intro for a
+podcast, podcast questions, anything
+that's relevant to what I'm trying to
+do, and then it simply just sends me an
+email in a nice format so I can get it
+right there and I know what it's doing.
+But that's just like a super simple
+automation that's a real world use case
+for a lot of people.
+>> Now, could somebody do because I'm
+thinking of this from like a sales
+perspective. So, first of all, I think
+that's very smart and I think everybody
+should have that set up, especially
+people like me. I mean, I'm on a high
+volume of meetings and I'm constantly
+connecting with people and meeting new
+people. So, having essentially the
+research pro uh part automated before I
+get on these calls would save me a ton
+of time and a ton of mental bandwidth.
+Now, where I think of this going is from
+like a sales perspective. So, let's say
+you're a company and you book a high
+volume of calls for your sales team.
+What if your salespeople got a text
+message or a Slack message or a WhatsApp
+message 10 minutes before every sales
+call? And in that message was all the
+prospect's information, a summary of
+what they do, a summary of all of your
+interactions with them to date. It's
+kind of like the full brief of that
+customer's journey thus far with your
+company in message format right before
+you get on the call. Absolutely. So that
+way I mean that huge use case for B2B
+sales.
+>> Yeah. That to me is a no-brainer. Like
+and that's relatively easy to set up,
+right?
+>> Yeah. And I have a template. I have a
+full video explaining this, but um I
+guess while I'm on the screen share
+here, I can quickly go over Claude code
+if we want to dive into that now, too.
+Um
+>> so is your list did you finish out your
+list? I I think I'd rather finish out
+the list and then dive into each maybe
+each of the tools individually.
+>> I jumped the gun there. I apologize.
+We'll get
+>> No, you're good. I trust me, I'm excited
+to get into Cloud Code. It's it's super
+powerful.
+>> Yeah. So, next on the list after make
+and I kind of talked about this is
+Blatado. That's an AI content tool owned
+by Sabrina Romangh. You can it's
+essentially a social media scheduler.
+So, if you want to do that inside the
+app, it works similar to Blaze AAI. Um
+what are some other ones? Hootsweet,
+Sprouto, that type of thing. Um, but a
+very unique tool, especially if you're
+doing automation. So, I use that all the
+time paired with make.com. In addition
+to that, I use Hey Genen to create an AI
+avatar. I'm sure you're familiar with
+Hey Gen Corey. Um, so I use Hey Genen
+all the time. I'm on that paid, you
+know, $30 a month plan, whatever it is.
+I would recommend if you're going to go
+the Hey Gen route that you only use it
+for short form videos. I would not
+recommend using your clone for long
+form, especially where that we're in
+this trust recession that we're in right
+now where people are losing trust every
+day. The last thing you should do is rip
+out long form AI clone videos. But hey
+Jen's probably the best AI avatar
+generator out there right now. If you go
+to the shorts on my YouTube channel,
+probably 85 to 90% of those are my Hey
+Genen clone with polished video editing.
+>> Wow. I've heard I talked to somebody
+else recently who's pretty big on
+Instagram and they said the same thing.
+He was like, he's [clears throat] like,
+"Every single one of my short form
+videos is my Hey Jen version of me, and
+the voice is done by 11 Labs, and it
+sounds exactly like me, and it looks
+exactly like me." Like, and I I never
+knew. I was like, honestly, I'm
+surprised. I figured this guy would be
+one of the last ones to do that, but he
+did, and it looks very legit. [snorts]
+>> Yeah. And I use 11 Labs. That was the
+next tool I was going to cover. And
+that's an additional like $22 a month.
+But this is probably the best AI audio
+generation tool that I've come across to
+this point. And in order to
+[clears throat] build an effective AI
+clone, Cory, people need to understand
+this. You need to have a professional
+voice clone. Hey Jen has these default
+voices and there's other ones, but it's
+not good, right? So again, back to what
+I said earlier. We don't want to just
+put out volume and AI slop. We want to
+make sure that our AI generated content
+is actually high quality. And 11 Labs
+has that professional voice clone where
+you record like I don't know two three
+hours of you actually talking or if you
+have existing audio files or videos of
+yourself online you can use that as
+training data and you pair 11 labs with
+a hen AI avatar your clone is goated. I
+mean like go to my clone or some other
+clones you've seen it's really hard to
+tell.
+>> Yep. Yeah. Hen's fantastic. We we
+started experimenting with that probably
+seven or eight months ago. So pretty
+early on and it was good then but it's
+gotten so much better ever since. So
+yeah.
+>> Yeah. And they're getting better every
+day. But
+>> other than hey Genen 11 Labs I briefly
+talked about Open Router. This just is a
+way to organize all my different API
+keys for automations. It has you know
+XAI OpenAI Enthropic Gemini models all
+in that one interface. You're paying
+like a very small premium just to have
+one API key versus 10 or a dozen
+different API keys that you're going
+back and forth. So, that's a good little
+hack there, too, if people are using API
+keys from a bunch of different
+platforms.
+>> Yeah, that is a huge hack, especially
+once, you know, you started getting in
+the weeds like people like you and me
+and you've got all these different API
+keys. I mean, that is so worth it as far
+as just keeping things simple. And I
+mean, you're paying a tiny premium. It's
+not much more at all.
+>> Absolutely. And just some other
+honorable mention tools that I've dabble
+with here and there. Perplexity if I
+have some one-off, you know, research
+prompts, although I mostly use Gemini 3
+for research tasks, but perplexity can
+come in the mix sometimes. Grock,
+sometimes if I want to get, you know,
+let's say a little unbiased or different
+opinion to something, I might throw
+Grock out there. And then Notebook LM is
+another one where I actually did a
+tutorial showing how to export your
+entire chat GPT data or memory. And you
+can use Notebook LM to clone yourself.
+And what's so beneficial about Notebook
+LM versus a GPT or a project is it
+doesn't take external web data. It only
+has those sources that you have right
+there and it synthesizes those exactly
+based on the sources. So Notebook LM is
+probably one of the best free AI tools
+out there.
+>> So it's funny you say that because I
+feel like Notebook LM is so slept on and
+I I actually have I think two or three
+guests in the coming weeks who were
+doing episodes purely based on Notebook
+LM. So, I brought them on selfishly cuz
+I'm like, "This is a tool I know I need
+to learn more about." So, I'm basically
+having them on to teach it to me. So,
+yeah, I I know uh that's what I'm going
+to dive more into.
+>> Absolutely. Well, I don't know if you
+want me to get into Claude code for a
+little bit. We can kind of
+>> Yeah. So, let's let's summarize the list
+first and foremost. So, let's kind of go
+through just like the bullet point like
+you know this tool for this reason down
+the list real quick and then we'll dive
+into Claude code.
+>> Absolutely. So now it's claude code for
+just day it's my daily driver for most
+things I do with copywriting research
+technical assistance etc. I would say
+Gemini for anything media generation
+related so images and videos uh make and
+blat for automation purposes especially
+for automating my social media uh hey
+genen and 11 labs for my AI clone and
+then open router just kind of to manage
+those different API keys.
+>> Awesome that's a great summary. So yeah,
+let's dive into Cloud Code. So Ryan's
+going to be sharing a screen here. So if
+you're listening over on the podcast
+platforms, now would be a great time to
+switch over to YouTube, which you can
+find just searching Corey Ganam over on
+YouTube. And he's going to walk us
+through his cloud code setup here.
+>> Yeah. Can we all see this? All right.
+>> Yes.
+>> Absolutely. Awesome. Well, there's a lot
+going on here, so it's very easy to get
+overwhelmed with what's happening. Um,
+but let me just go over this from a high
+level. And I try to make this as easy as
+possible. So I'm using
+>> if you could actually maybe zoom in a
+couple of ticks if possible.
+>> There we go. Much better.
+>> So I'm using what's called VS Code or
+Visual Studio Code. This is just an IDE
+owned and operated by Microsoft. An
+alternative to Cursor or Google's
+anti-gravity is the best way.
+>> And what is an IDE just for people that
+don't know?
+>> It's like a I I can't remember what it
+stands for, but it's essentially an
+all-in-one workshop where you can use
+different extensions here. It's
+basically a simpler alternative to
+pulling up a terminal on your computer
+and using cloud code through a terminal.
+>> So, it's basically just a place to
+interact with code, right?
+>> For sure. It simplifies it essentially
+versus going into a terminal.
+>> Got it.
+>> And you can still use a terminal on
+here, right? You'll see I have a
+terminal tab in addition to the Claude
+Code extension. So, that's the benefit
+of using VS Code. And I have a full
+tutorial explaining this, but if you
+click extensions, you can install Claude
+Code or OpenAI's codeex as an extension
+where if you're scared of the terminal,
+you don't even have to use the terminal.
+You can just find the extension,
+>> right? Awesome.
+>> But let's just talk about my setup
+really quickly here. So this is just
+essentially file management system. It's
+running locally. So these are all
+folders and files. So the best way to
+explain this here is I have an APIs
+here. I'm not going to get into that,
+but I have a marketing folder. And so
+within a marketing folder, I have
+clients, email, SEO, social media. I
+have a skills folder. Now, I'm sure
+you've heard Claude skills, Corey, by
+now,
+>> but these are essentially markdown
+files. You notice I have about 20
+different skills here. I have an
+anti-slop skill. I have email skills,
+infographic skills, paid ads, SEO,
+social media, etc. These are just
+essentially SOPs in markdown format that
+tell AI or Opus 4.5 in this instance
+what exactly to do. And skills are so
+revolutionary that people need to
+understand here is that they update in
+real time. So if I wanted to make a
+thumbnail or an email and it screwed up,
+I could say in the right chat bar here,
+hey, never do that again. Change the
+subject line, change this, change that.
+and it updates that markdown file in
+real time versus a cheap ET. What do you
+have to do Corey? You have to go back,
+update the instructions, add knowledge,
+remove. It's just tedious. It is a
+tedious process. So, in terms of
+efficiency, I think skills are really
+the next wave of AI. What I'm showing
+you here is what's going to happen for
+this year and I think years to come,
+just in different formats.
+>> And you're spot on about skills. One
+thing I'll just kind of interject here
+is I was talking to my business partner
+yesterday and we were talking about
+skills and I agree. I think it's
+probably the most useful AI update, if
+you will, for lack of a better term, of
+the last year or more, right? They're
+they're SOPs that just run perfectly
+every time the way you set them up. And
+what I was telling to my business
+partner, I was like, remember what
+courses were to the online education
+world back in like, you know, 2005,
+2006, 2007. You know, courses became a
+really popular way to sell knowledge and
+sell information. And my prediction is
+that skills are going to be the course
+equivalent of the AI economy. Right?
+Right now, sure, there's people selling
+skill packs. There's obviously a lot of
+people giving them away. But to get
+really good, useful skills, they've got
+to be, you know, more accustomed to your
+business most likely. So, you know, gone
+are the days of paying $2,000 for a
+course because all that information is
+free. But the days are coming where
+paying $2,000 for a specialized skill or
+a specialized skill pack relevant to
+your position or your industry, that's
+going to be the new version of courses
+and and they're people are going to be
+paying a lot of money for skills. I
+completely agree with you there, Corey,
+but the thing is people also have to
+educate themselves on how to repurpose
+those skills to make sure that they're
+creating content relevant to their niche
+and industry and also just how to use it
+in general. And so some quick little
+hacks here is I set up some what are
+called what I call system skills. So I
+actually have a skill creator skill. So,
+if you want to create a skill, you can
+use this skill creator skill. I know
+that's a mouthful to help you create a
+skill just based on explaining what it
+is in the chatbot to Claude code. On the
+right hand side here, I also have an MCP
+setup skill. I'm not going to get into
+model context protocol, but if you need
+help setting up different MCPS, I have a
+skill for that. I have a troubleshooting
+skill. I run into issues all the time.
+Like you, Corey, I'm not technical
+whatsoever. So if I have an issue in
+clawed code, I can call on this
+troubleshooting skill and it can help me
+in real time debug things, make new
+scripts. It's really amazing what Opus
+4.5 the model can do,
+>> right? It's it's honestly it's amazing.
+So this is great. Keep going because
+this is a good kind of intro to how your
+thing should be set up and keeping
+things organized and just good file
+management best practice practices. And
+of course, we can get uh as in the weeds
+as you'd like. So So continue, please.
+>> Yeah. And I'm going to show one more
+example here and then we'll take it
+back. Um, so I have a skill called
+YouTube thumbnail designer. And what's
+really unique about cloud code and some
+people maybe not don't realize this is
+that you can sync up MCPs and APIs just
+like you could in an automation
+platform. Make nadn zapier etc. So I
+have a skill dedicated to YouTube
+thumbnails. Well, what I can do here if
+I go to my YouTube thumbnail designer
+folder generated thumbnails. These
+thumbnails right here were actually
+generated using Claude Code. That one in
+particular. Right now, these aren't
+amazing. They're not, you know,
+something I would maybe use right on one
+shot and upload it to my channel. But
+how I'm doing this, and I show in the
+setup video using Claude Code on my
+channel, how to set this all up. But
+essentially what I'm doing here, Corey,
+is I'm taking Google's NanoBanana Pro
+API documentation. I'm telling my
+YouTube thumbnail designer skill to
+analyze that, train off that. Creating
+an API, then I create an API key with
+Google. You can do this in Google AI
+Studio or Open Router. Give it my API
+key. And then I think I had a chat
+popped up here. Yeah. So, this was my
+YouTube thumbnail chat on the right hand
+side. And I also have assets or
+examples. So, if I go to my thumbnail
+assets, notice I have head shot, I have
+logos, thumbnail examples, UI elements.
+So I can tell it specifically use this
+headsh shot of me pointing in a blue
+shirt or a main headsh shot left or I
+can say use the entropic logo, use the
+clawed code logo and it knows that
+because it's inside my Claude code file
+management system, right? So this is why
+it's so cool and you know all you can do
+is sync the API key and you can
+literally create YouTube thumbnails and
+I think it's like 14 cents per thumbnail
+last time I checked when I was building
+this out. So if you get a system down, I
+mean, think about how, you know,
+impressive this is at scale where even
+if we can create something like this,
+like this, or even like that, right?
+That's a good starting point. Drag it
+into Canva or Photoshop, throw a headsh
+shot and text over it, and boom, you're
+good to go.
+>> 100%. Yep. And this I mean, you're
+you're kind of showing how all this is
+possible inside Cloud Code being a being
+honestly a lot more powerful than even
+like the Claw desktop app. And I mean
+even more powerful than chat GBT as well
+which to your point I stopped using chat
+GBT entirely a couple of months ago.
+I've also fully switched to Claude. So
+uh one other point that I want to make
+is so the the files you were just
+showing us right kind of like you know
+you've got a bunch of different head
+shot of yours. You've got different
+logos of other companies I assume so
+that you can use these images in
+thumbnails that you're creating. So
+those are basically just reference files
+right? It's like, "Hey, these are some
+head shot of Ryan. Here are some files
+that you can reference when making
+thumbnails because this is some images
+that we like to use or ways that we like
+to make them." Is that kind of the idea
+there? It's almost like you're giving it
+an example of what to
+>> Absolutely. You know, the more context
+you can provide, the better outputs
+you're going to get. And that's the
+benefit of these skills again, Corey, is
+I can say, "Hey, look at my headsh shot
+that's titled main headshotleft.png.
+I like that one. My thumbnails have
+performed better with that headshot.
+[snorts] So, use that more going
+forward." it's going to update that
+skill markdown file. So now going
+forward, it knows to use that headsh
+shot on the left or maybe there's other
+logos I'm using or typography or colors
+and then that skill is updating with the
+instant feedback loop which like you see
+where I'm going with this. It's so
+revolutionary.
+>> Yeah. And it's the people who are in
+this stuff every day messing with it.
+And you know what I tell people is it
+doesn't take hours a day of practice or
+of learning. It's it's 15 minutes a day
+of just day one just install cloud code.
+Day two, open up the terminal and type
+something, right? Just get more
+comfortable with it every day. So, when
+it comes, I think specific to claude
+code, that's that's usually the advice
+that I give to people. But Ryan, so as
+far as your list, I think that was
+fantastic. The Claude Code breakdown was
+fantastic as well. Are there any other
+assets or anything else you want to kind
+of run us through before we get into uh
+some of the final takeaways as far as
+what you know, questions that I think
+viewers want answered? I think the
+number one thing, Corey, just to tell
+people watching or listening to this is
+that before like the wrong questions to
+ask are should I use Claude Code or NAN?
+Should I use Chad GPT or Cloud? Those
+are the wrong questions to ask. And I
+hear these every single day literally in
+my community and YouTube comments. And I
+always tell people what you need to do
+is figure out what is eating 5 to 10
+hours a week of my time? What is costing
+me money? What is broken in my business?
+have the problem first mentality and
+then work your way backwards from that
+problem until you do some research and
+figure out, oh, hey, maybe Claude Code
+can help me with this or Notebook LM can
+help me with that. Right? It's a problem
+first mindset and then working backwards
+to the tool versus a tool first mindset
+and then being chasing all these endless
+shiny objects and never accomplishing
+anything.
+>> So, I mean, you pretty much hit the nail
+on the head as far as the advice that I
+give. It's most people exactly like you
+said, they hear about a tool and they
+want to start using a tool or they want
+to quote unquote implement AI when in
+reality they they're not targeting a
+specific problem. They just want to be
+able to say they're using AI or they
+just want to try this tool out because
+like you said, usually shiny object
+syndrome. But when you lead with the
+problem, you know exactly what it is
+that you're trying to solve with AI,
+that's when you actually get results. So
+I agree with that wholeheartedly. I
+think you said that very well. So, uh,
+Ryan, before we go, where do you want to
+point people towards? Where can they
+find you? Where can they follow you? Uh,
+and where can they get, uh, a copy of
+that workflow, too? I think you you said
+earlier that you've got that out there
+for people to have.
+>> Absolutely. So, Ryan Dozer on YouTube is
+my main channel, and then I have all my
+automation templates for free inside my
+school community. It's called the AI
+Marketing Insiders. I can leave a link
+to you, Corey, if you want to leave it
+in the show notes below, but those are
+probably the best two places.
+>> Perfect. And guys, we will link Ryan's
+YouTube channel and his school community
+in the description if you're watching on
+YouTube and in the show notes if you're
+listening on a podcast platform. With
+that, Ryan, thank you so much for your
+time. I certainly learned quite a bit.
+And for everybody in the audience, we
+will be back next week. Thanks, guys.
+>> Awesome. Appreciate you.

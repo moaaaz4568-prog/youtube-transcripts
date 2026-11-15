@@ -1,0 +1,419 @@
+I think I finally figured out how to run
+a one-person company that can scale past
+a million dollars a year leveraging
+nothing but AI agents to manage the
+entire business. And in this video, I
+want to do a deep dive into the new AI
+infrastructure, the architecture that
+makes this finally possible. I'm sure if
+you guys are like me, have been looking
+around since 2023 trying to figure out,
+how can I leverage AI to print money?
+Not build a business that's annoying and
+sucks up all the profits, all the
+margins, just makes your life a living
+hell. But no, actually to enter a model
+where everything is leveraged and you
+can just be creative and you can just
+deliver so much value to your clients
+and not have your life suck more the
+bigger you get. For me, the way I want
+to start this walk-through is by walking
+you through everything we had to realize
+before we built this, okay? And for
+context, if you don't know anything
+about me, my name is Sergio Atari. I run
+client acquisition at AO. I've been able
+to generate over 50 million dollars in
+the last 3 and 1/2 years. And now, we're
+the founder of trycookie.ai, which is
+essentially an AI infrastructure
+operating system that we built so we can
+give our partners who are agencies,
+consulting businesses, info product
+businesses, the ability to operate their
+entire business with an AI operating
+system that helps them make more money,
+have more margins, and have more peace
+and freedom and fun while doing it. The
+question we asked ourselves before
+arriving to this new architecture, which
+is in my opinion is the most important
+question you can ask yourself, is that
+how come AI is advancing faster than any
+technology we've ever seen before, but
+us humans who have access to something
+like Claude from Anthropic or GPT, which
+just releases their new models, which is
+infinitely cheaper. Regardless of how
+good Claude is, how come you can't just
+go there and have it go find your
+clients, find your business idea, put
+together the assets, then help you sell
+and onboard clients, and then help you
+fulfill? How come you still can't do
+that? Well, in order for us to find an
+answer to what is the true bottleneck,
+we had to ask ourselves, how does it
+work in a company that an organization
+of people can just go on to make a lot
+of money and not have the founder be the
+bottleneck? Cuz technically, what you
+need to do if you're going to run a
+one-person company that makes millions
+and millions of dollars a year, maybe
+even per month, you need to be able to
+replicate the same infrastructure as a
+real organization made up of humans. So,
+let me walk you guys through how we're
+thinking through it. So, first things
+first, the reason why an organization
+works is because people have skills.
+Let's say I run a growth consulting
+firm, and in order for me to run my
+business, I needed people who are good
+at media buying. I needed people who are
+good at creative. I don't edit my own
+videos, I need someone to understand
+YouTube. I need someone to understand
+sales, uh management, KPIs. I need
+someone to um build the systems, the the
+CRM, the calendars, availabilities of
+slots, all of these things. All the way
+to a growth consultant who understands
+everything that's happening in all the
+client campaigns so they can put
+together strategy. And a lot more
+people. Think of finance, think of all
+that good stuff. Now, the reason why you
+wouldn't hire one person to do all these
+things is because no one person can be
+amazing at media buying and still be
+amazing at creative and still be amazing
+at sales and still be amazing at systems
+and still be amazing at research and
+taking in all this data. Even if one
+person could be good and understand all
+these functions, they're not going to
+have enough time in a day to actually do
+the work for your business or for your
+clients. So, you have to hire more
+people the bigger your company gets. So,
+the more a company grows, the more
+talent you need who have specific focus
+on specific skills. But, we realized
+that skills is actually not a bottleneck
+cuz you can build skills on cloud or
+whatever. We realized that the biggest
+constraint today of AI is context. And
+the way that I like to explain this is
+through this mental model. I've started
+realizing that a company is just a
+system that manages communication. And
+keep following, I'll break this down.
+Think of it. A media buyer today doesn't
+necessarily do media buying per se. What
+they do is they hold the context about
+the clients' business, who they go
+after, what ads worked, what is the
+current funnel look like, what are the
+current metrics. They hold that context
+in their mind, okay? And then they have
+context around the skills on how they
+actually deliver value, right? Or how
+they would get someone to a desired
+outcome. And what they do is they go do
+their work and then they go and
+communicate with maybe the creative
+person. And then the creative person
+holds context about that business and
+then understands how to go do the work
+but also holds context of what creative
+process was followed to create the
+content, the ads that generated results.
+Then this person is going to go back to
+marketing and then communicate whatever
+insights was discovered from previous
+trial or previous campaign. And then
+marketing is going to communicate with
+sales. And then sales is going to have
+someone who understand what happened and
+can use that data to then decide on,
+"Hey, here's what we should do. Here's a
+new focus. Let's go and execute on it."
+And then systems or sales is going to
+communicate with the context they have,
+is going to tell the systems department,
+"Hey guys, we probably need to pivot the
+system. We need to close the slots.
+Instead of having calendars open for 5
+days, we need to have it open for 2 days
+because we have this new data point that
+tells us that people no-show if the
+calendar is open too far into the
+future, right? Or sales is going to
+realize why people are buying and then
+they're going to go back to marketing
+and say, "Hey guys, we need more of
+these type of leads." So, if you think
+about it, the bottleneck isn't that you
+can't go ask AI, "Oh, what is this
+latest sales tactic to have higher show
+rate?" It's not that you can't go ask
+AI, "Hey, how do you close deals?" That
+knowledge already exists somewhere on
+the internet or in these AI models
+already. What doesn't exist is the
+context about your specific business,
+about your specific client situation. It
+lives in systems of records. It lives in
+things like CRMs. It lives in places
+like Slack channels. It lives in places
+like Discord. This is where we manage
+our clients. So, all the truth that can
+be leveraged to build and scale and
+generate results for my clients don't
+actually live in general knowledge
+online. They live in their CRM, in their
+ad account, in Slack, in Discord. So,
+for me to be able to run a company that
+is fully agentic, I had to solve this
+context problem. I had to figure out an
+architecture where I can connect
+hundreds of clients context, I'll show
+you guys, all in one system like this. I
+want to be able to see their
+conversation. If I want to build an AI
+setter, I want to be able to have it
+here. I want to have their calendars. I
+want to be able to have their funnels. I
+want to be able to have their content
+metrics. I want to be able to have their
+ad metrics. Every single thing that is
+happening in someone's business, I want
+to be able to see the truth about
+everything. And every single day that
+we're communicating with them, whether
+we're having calls, whether I'm looking
+at their fathom on their sales calls, in
+the chats happening on Discord, what
+they're saying, I need an agent that
+constantly feeds and updates the context
+about our clients business automatically
+without me having to lift a finger or
+without me having to need a CSM or a
+media buyer or a sales representative. I
+just want to have all the context so
+that a client can just communicate and
+say, "Hey Serge, I need new ads or I
+need a new campaign." And I'm like,
+"Okay, say less." I can't tell you how
+much of a game changer it is to be able
+to have hundreds and hundreds of clients
+context live in one AI operating system
+that gets constantly updated without you
+having to lift a finger. You can just
+cook for all clients without you having
+to go on cloud and then having to copy
+paste, "Hey, here is my latest sales
+call. Here's what we should do." Right?
+My entire business is literally managed
+in one place. When my teams finishes
+taking sales calls, agents that I've
+trained on the best sales process goes
+and audits their call and says, "Hey
+guys, this is where you messed up. This
+is what you should do to fix it." And in
+marketing, every single morning I get an
+update on what are the top YouTube
+videos that I can post or reels that can
+actually help me stand out. What are the
+outliers currently on YouTube, packaging
+ideas, script, hooks, every single thing
+that I need content wise can essentially
+be scheduled and be done all day every
+day. And what's cool about this is that
+it has all the context of what's
+happening in my business. It can take
+all the feedback from client success,
+systems, marketing, and actually create
+a strategy around content that actually
+helps me get better results because it's
+connected to all the data sources. Now,
+my goal with this first video is not to
+overwhelm you guys with everything that
+you can do on this new infrastructure,
+but what I'd like to show you guys is
+how I go about helping clients scale.
+So, when I onboard a new client, what I
+need to do is I literally go into this
+channel research. We had a client who
+was going into the daycare market. We
+had another client who was launching an
+offering lending market. So, I
+essentially have insights into those
+markets, so I can essentially put
+together strategy for them to be able to
+help them scale. And let me walk you
+through how it goes. So, I tag the chief
+of staff and I say, "Hey, can you guys
+go into this market? Let me know what's
+happening in the child care daycare
+centers and see if anyone is currently
+ripping." And then the agents go on,
+find what's currently working in the
+daycare space, finds me this competitor,
+right? Scale daycares. I'm like, "Okay,
+perfect." Then all I have to do is take
+that name, go into the browser, give it
+to this agent that has access to the
+browser and say, "Hey, find me
+everything that they're currently doing,
+audit their funnel, audit their offers,
+audit their ads, and just help me
+replicate it for my client." And what it
+does is really simple. It goes ahead and
+audits every single thing about the
+client, and all I had to ask it was,
+"Hey, put everything into a doc so I
+know how to replicate everything." And
+then it created a Google Doc cuz it has
+access to a scale to create Google Docs.
+It built me everything that I needed to
+do to replicate the infrastructure for
+this client. And what I decided to do
+was because the operating system has
+access to the context about our client
+whose name is Victor Rodriguez, I asked
+it, "Since you have access to Victor
+Rodriguez context, why don't you
+actually go ahead and build it?" Cuz
+what am I going to do with a Google Doc,
+right? I'm I'm not going to go ahead and
+prompt one thing at a time. I don't want
+to do that, right? So, what it did is
+really simple. It went and read
+everything about our client's context.
+It found his business name. It found all
+the data, all the context that we have
+about him as a client, and simply went
+ahead and built everything. So, every
+time that the agents are done cooking,
+they essentially release all their
+assets into a feed. We wanted to build a
+feed cuz people are addicted to
+scrolling. So, hey, as the agents in
+your company are shipping assets, just
+go and scroll. Some of them will post
+stories to tell you what they've done,
+but it ended up building these image
+ads, static ads that I can essentially
+launch really fast. It went ahead and
+wrote the video ad script so that I can
+send to a client so I can actually go
+ahead and record them. And it went ahead
+and built the landing page modeling
+after what's currently working since it
+already had access to what competitors
+are already doing. And I didn't have to
+prompt a single thing about this funnel.
+Of course, I have to audit it and make
+sure that everything is good, but the
+idea here is I can go from research into
+a market that I know nothing about to
+building all the assets for a client and
+maybe coming in here and saying, "Hey,
+go ahead and launch the client
+campaign." Using the browser agent, I
+can just get the agent to essentially
+ship everything on the ad account over
+client. And the same agent can manage
+the campaign to success without ever
+needing me to click a single button,
+right? This is what we believe is the
+future. It's you don't necessarily need
+an app that you use as a tool. You need
+an operating system where you can
+communicate with clients, as you guys
+can see here.
+All the clients that we have, their
+channels are synced. You can sync it
+with Slack, Discord, so you can keep
+communicating with your clients on
+Discord or Slack, but you can have
+everything come back to here so that you
+can essentially communicate with your
+agents or your agents can communicate
+with your clients. But anytime you need
+new insights, new research to help your
+client. So, let's say we have a client
+who wanted to go into the dental market.
+I don't have to go on the ad library and
+try to audit everything. We're currently
+doing the webinar for a client who has
+over 100,000 followers on Instagram. She
+helps other women build their personal
+brands. And the workflow that I
+personally used, you know, with this AI
+operating system to help her was step
+one, I wanted to understand who's
+currently targeting women, who's doing a
+webinar funnel. And I just got the agent
+to go, "Hey, go find me everything you
+can about Shelby and her funnel." She's
+been able to scale it past $5 million a
+month, I believe. And I wanted to get
+this AI operating system to understand
+someone who had already scaled this at
+scale. Show me the ads, show me the
+funnels, show me the messaging, show me
+how the hooks look like, her content
+organic, every single thing, and put
+together a playbook around how to
+replicate this, but have it be more
+aligned with our client's brand, since
+she's selling personal brand, Shelby is
+selling more of an opportunity. I wanted
+it in a way that I don't have to spend
+hours trying to funnel hack or
+understand how she's making money so
+that I can help our clients make
+infinitely more money, right? And this
+is the logic here. It's you leverage AI
+to go find the truth, and once you found
+the truth, get AI to rebuild everything
+for your client. And of course, you can
+productize your knowledge in the AI
+operating system. So, if you want to
+build the VSLs, if you want to manage
+ads, if you want to manage a sales team,
+you can put all your knowledge, every
+single SOP into this operating system
+and have it manage your clients to
+success as a team that would normally
+cost you a million dollars a year, or
+like I had a quarter of a million dollar
+a year in payroll, can essentially be
+put into one system and have it cook. If
+you've been looking for a system and a
+playbook that can finally allow you to
+print money with AI, and whether that
+be, by the way, with a new business and
+you want to go into a new market and be
+able to solve business problems with
+agents, or you already have a business
+and you can see how this AI operating
+system can essentially help you scale,
+get you more clients, help you fulfill
+for more clients without having to spend
+more money on people, then I'd be happy
+to speak with you and see what you're
+currently doing and lay out the
+playbook, lay out our operating system,
+and get you on boarded. Of course, we
+have a specific playbook and a specific
+integration process, but if you're
+interested to cook, click the link
+below, apply, I'll be happy to speak
+with you on a one-on-one session. Take
+care.

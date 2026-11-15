@@ -1,0 +1,723 @@
+In the last 7 months, I grew my YouTube
+channel from 1,000 subscribers to 51,000
+subscribers, generating over 2.2 million
+views, and most of it now is just done
+by me, one editor, and Clay Code. So, in
+this video, I'm going to walk you
+through the entire system that I built
+inside of Clay Code that runs my channel
+anywhere from finding winning ideas to
+scripting to competitor analysis and
+packaging every title and thumbnail. So,
+hopefully, you can see what I automated,
+but also how you can build the exact
+same thing. With that being said, let's
+dive in. All right, so when it comes to
+my YouTube content pipeline, there are
+four different stages. The first one is
+the ideation, which contains three
+different types of we call them skills
+or automations that I built inside of
+Clay Code. The first one here is called
+the comment scraper, which is where the
+automation itself will go to x amount of
+videos posted by x amount of people in x
+amount of time, and then extract all the
+comments and then give me ideas for
+content. Twitter monitoring is where
+it's going to the actual Twitter
+profile, it's extracting all the tweets
+and gives me ideas. And now a lot of
+videos is the videos that have gone well
+for other channels, why have they gone
+well, and how can we apply the same idea
+to my channel? Then we have packaging,
+which is title and thumbnail. So, for
+example, this video right here, we have
+a title, there's a picture before that
+made you want to press on the actual
+video, and that's the packaging. Then we
+have the video itself, which is the
+hook. So, the first 30 seconds of this
+video, that was uh a hook, that was
+scripted. There's a script, which is
+what I say and throughout the video. Of
+course, a video like this, there's no
+script. I go off the rip, right? But
+something that's more like a head
+talking video where I go through a
+concept, right? Where it's me standing
+up. Well, that's scripted, so we have a
+script. And then, we have visual
+diagrams. So, this right here, for
+example, is built by an automation. I
+didn't actually build it myself. That's
+diagrams. And then lastly, we have post
+video, which is looking at the
+performance of my videos, but also views
+to clicks. Views to clicks is looking at
+the amount of people who clicked to
+watch my video going through my program
+uh versus the amount of views, right?
+cuz obviously, on the back of my videos,
+I want people to work with me
+one-to-one. I want to help them, I want
+to help them scale their agencies. So, I
+want to check which videos do people
+like the most that make them want to
+kind of want to work with me one-to-one.
+That's what it is. So, with that said,
+here is my Claude Code workspace. It's
+called YouTube workspace. It's consisted
+of different folders that we have. The
+first one is dot Claude, then we have
+context, executions, outputs,
+references, scripts, dot ENV, and then
+the main one here, which is called dot
+MD. Now, I actually separated the
+folders into four different categories.
+The first one is commands, then we have
+skills, then we have context, and then
+we have the Claude dot MD. I'll explain
+what these are as well, but not a main
+priority like they are in main folders
+that we use, okay? So, the first one
+here is called commands. So, commands
+are reusable {slash} commands like
+{slash} competitor analysis or {slash}
+create plan or {slash} something else
+that allow you to trigger to start any
+workflow just by calling it using a
+slash, right? And when I say workflow, I
+mean it triggers a skill. So, if I want
+to run the Excalidraw diagram, for
+example, right? Then I would do {slash}
+Excalidraw diagram, and that would call
+that specific skill instantly. Now, if
+you're not sure what skills are, first I
+recommend you watch this video up here,
+um but in case you are aware, skills
+would be modular instructions that we
+give Claude to explain or to give it an
+overview of how to do a specific task
+step-by-step. So, for example,
+Excalidraw is a platform like Miro where
+you build kind of visual diagrams like I
+showed you before. Well, inside the
+skill, there's step-by-step instructions
+as to how to do that specific thing. And
+so, all in all, our Claude is going to
+be our kind of company, right? And
+inside the company, there's different
+employees which are responsible for
+different things. And those employees
+are skills. Then we have context, so
+everything that Claude needs to know
+about my business. So, first of all, who
+I am, my strategy when it comes to the
+content, my data, and my content
+guidelines. Cuz for example, let's say
+we're using the skill to script my
+videos, right? I'm making a script. When
+I want to make my script, I also want
+Claude to use my YouTube content
+guidelines and business info to check,
+"Hey, this is the script. This is the
+guidelines. Are we sure we're following
+the right guidelines?" That's all it is.
+And then finally, we have the Claude dot
+MD, which is a master file here that
+ties the whole workspace together
+telling Claude how all the pieces work
+in one system. Okay, so it tells us
+Claude, "Hey, we have the folder here
+which is called context, the folder here
+which is called skills." And it gives it
+an overview of the whole organization.
+The reason that is is because it will
+look at the Claude.md every single time
+before it does anything. That way he has
+context as to your workspace and how it
+all ties together. Now, first things
+first is the ideation. So, ideation
+consists of the comment analysis report,
+it consists of the competitor analysis,
+which is the outlier videos, the videos
+that have done really well for other
+channels. And then we have Twitter
+Claude monitoring. I'm going to run it
+first and then I'll walk you through how
+it's set up as well. So, dot comment
+analysis report
+and then we can do bypass permissions
+cuz I don't want to tell it yes,
+approve, approve, approve. I just want
+Claude Code to do its own thing cuz it
+knows everything already. As you can see
+here, it says that it fetched 1,369
+comments across five different channels.
+Now, it's reading through all the
+comments. It's looking at the YouTube
+content guideline, very important. All
+right, so now the skill finished
+running, it set it on 1,369 comments, it
+made the PDF that I can see, and it gave
+me the top five content opportunities
+that I can do. So, the PDF looks like
+this where we have my channel, top four
+content ideas requested by your
+audience. And by the way, this is the
+comments that you guys add to my videos.
+And then what I also did is I looked at
+Nate Hurk, looked at the top four
+content ideas from his audience, looked
+at Liam O'Malley, looked at believe in
+Nick Surive, and then Jack Roberts as
+well, right? And we have uh the ideas as
+well. And then it gave me the
+cross-channel themes. So, what are the
+common request or ideas that people want
+across all channels? For example, how do
+I actually deliver AI work to clients?
+This came from my channel, Liam and
+Nate. Or token management, cost
+optimization for Claude Code, Nate,
+Jack, and Liam, and so on, right? Plus,
+it also gave me content opportunities
+specific to me. So, how to deliver AI
+products to clients, complete guide.
+This is the biggest gap in the market,
+nobody's making comprehensive content
+about the delivery side, account setup,
+hosting, handover documentation,
+maintenance agreements, access
+management. You've done this for real
+clients, make the definitive video,
+right? And we go step-by-step. Then we
+have the stats at the end with
+subscribers, videos, comments, and
+average comment per video. Guys, I
+believe you should be commenting more on
+my videos so we can get the numbers up.
+But hey, comparison is the thief of joy,
+am I right? Um anyways, we have the full
+PDF which I can use now as my way of
+generating ideas for content, which are
+really, really good. And inside the
+skill, we have the skill.md, which is
+the full instruction manual for the
+skill, which goes to step one, fetch
+comments. Step two, analyze the report.
+Step three, generate PDF. And that's it.
+And it gives you the PDF itself. Then we
+also have scripts, which are the
+different Python files, the code that
+basically allows the automation to run.
+Think of this like if you know Any Ten,
+if you've heard of Any Ten or make.com,
+think of the script, each script, as
+like a workflow, right? And so we are
+running workflows. The first one is
+fetching comments. So we're running the
+workflow to fetch comments, to extract
+comments from videos. Then we run the
+generate PDF as another workflow to
+basically make a PDF that we can use.
+And then we have references, which is a
+report format, is giving the clock code
+a a way to understand what the format is
+of the report itself. All right, so we
+have raw stats, we have cross-channel
+themes, which is how we make the report
+look like this. How does it know the
+structure? And how is it consistent with
+the structure? Well, it has instructions
+for that. All right, so now that we're
+done with that, we can go to the other
+videos. So here I can press
+competitor analysis. Uh there we go.
+And then I can do bypass permissions.
+So I can let it run. So the first thing
+it does is that it looks at the CSV
+file, which is called competitors.csv.
+And this is a CSV file that I have down
+here, which is a list of 43 channels,
+including mine, which are going to be
+the channels that we use to extract the
+past 10 videos that they've done. And
+then we can start doing the math as to
+what videos have done really well for
+them compared to the other videos that
+they've done. All right, now it's saying
+that it just finished and exported
+everything to the Google Sheet. I'll
+show you exactly what that means. We
+found four Alora videos across 42
+channels, a lean week, all scored 10 out
+of 15. Cool. And then we have key
+patterns, most actionable for you. But
+if I go here to my views to Clicks
+Google Sheet where I host everything, we
+can see that we have the channel name,
+subscribers. I think it's a bit blurry,
+but it's fine. Video URL, the number of
+views, the upload date, the duration of
+the video, the medium views, so the
+average views that they got over the
+past 10 videos, and then we have the
+outlier multiple. So the outlier
+multiple is a mathematical equation that
+we use, which is how many views did this
+video get over the average views of
+their channel to see if this exceeded
+that, right? And then it also gives me a
+relevance score. So for example, this
+video over here, which was about MC P is
+dead and nobody saw it coming, yeah,
+gave a zero relevance score because it's
+not aligned with my brand or audience.
+That's what I mean by CloudCode using my
+brand guidelines and my the person that
+I'm targeting, what they care about, and
+what that looks like. And what we have
+relevance scores of three, three, and
+two. So not only does this save me hours
+and hours and hours of time of me having
+to go to their videos, having to look at
+the views, having to average it out,
+having to make the equation, but it also
+give me the relevance that I could use
+for my channel. And so here I can do
+Z to A. I can look at these two at the
+top ones. Let me look at the ideas. How
+to use CloudCode work, how to get
+unlimited website clients. And so I
+could do a video based on that in my
+kind of way. And this skill right here
+is consisted of references. So this is
+the scoring and output, which is a kind
+of document that goes through how to
+score an outlier video, what does that
+look like. And then we have again the
+scripts, which are the different
+workflows. And then we have the skill
+.md, which is the step-by-step
+instructions that we go through to be
+able to actually make this work. And
+then we also have google.token.json,
+which is the way that we are able to
+access the YouTube API, but also my
+Google Sheet account. Then the last one
+we have is called the Twitter Cloud
+Monitor. So Twitter Cloud Monitor is a
+workflow that goes to configuration
+profiles, yeah. These profiles in
+Twitter, and it might look a bit kind of
+weird, but uh by the way, CloudCode, not
+me. And it looks at these channels, not
+channels, these Twitter profiles, right?
+And what it does is that it goes through
+each profile and extracts the tweets
+from from past 24 hours, right? And we'd
+have this workflow running every single
+day. And it gives me the new updates on
+Clock Code. Cuz honestly, I can't keep
+them up myself, and I'm sure you cannot
+too. So, that's exactly how a lot of
+YouTubers do get their ideas is through
+Twitter, right? So, why not make an
+automation that can automate that
+process of you having to find the tweets
+yourself. And so, I can go here and put
+{slash} Twitter
+monitor Clock Monitor. I can do bypass
+permissions. Right, it just finished
+running. It said it scanned through 63
+tweets. The relevant score above three
+is just two. And then we have the key
+findings. And it also made me the PDF,
+which to my email. If I go to my email,
+I can see that I have a new PDF.
+I can open it up. And it can give me now
+the new features that we have here. And
+then we have the content opportunities
+that we can use. Right? Now, are all of
+them going to be a great ideas? No,
+right? But it filters them out. Cuz not
+every day Clock Code releases something,
+maybe every two days or every three
+days. So, it looks at the tweets, it
+checks the relevance, and then it gives
+me the report as well. So, I basically
+keep myself updated without having to go
+to these 12 different profiles every
+single day and check what they've
+posted. That's how you get the YouTubers
+making videos about the new {slash}
+command or the new {slash} body or the
+new {slash} executions or the new
+{slash} whatever, right? Uh it's because
+they look at these exact profiles that I
+walked you through. Now that we're done
+with ideation, let's go to the next one,
+which is packaging. So, packaging is
+consisted of thumbnails and titles. So,
+let's go through thumbnails first. So,
+the first one is thumbnail creation. So,
+the way that this skill works is that we
+take a video. So, let's say we have a
+video
+uh like this. Let's copy the video. Copy
+the link. And then
+we go back to Clock Code. And I can put
+{slash} thumbnail
+creation.
+There you go. And then what we do is I
+took the link of the video with Alex
+Hormozi. It will look at my face, right,
+that we have a picture of, which is
+going to be here. Reference is right
+here.
+That's my face. And then it will take
+that face, it will replace Alex
+Hormozi's face in that thumbnail with my
+face, and then give me back the
+thumbnail, basically. What source would
+you like to use as a thumbnail? I'm
+going to put the link here
+of that video that I copied. What it's
+going to do now is it's going to go
+inside this video, it's going to
+download the thumbnail, and then it's
+going to go to my picture, swap the
+face, and then give me back the image.
+And this is using a server called
+file.ai because that's where we're going
+to use the Nano Banana model to be able
+to make this happen. All right, so it
+just finished the thumbnail. I'm going
+to say, "Can you open up the image?" And
+to be honest with you,
+it didn't do the best job, right?
+It replaced my face with his face.
+Obviously, that's what he looks like. I
+don't have a beard, as you can see. But,
+it copied the words, it made the words
+good. It made these massive traps that
+he has, and it put my face there. So,
+ideally, now we can go and say, "Hey,
+can you Can you remove the beard from my
+face?" But, it swapped the face
+initially. And by the way, this is all
+prompting. So, one thing I could say is
+like, "Hey Claude code, it actually
+added a beard. Can you remove the beard?
+Hey Claude code, can you remove the
+beard from my face in that thumbnail and
+give me back the thumbnail? And also,
+replace the body with like a black shirt
+as well. Keep everything else the same."
+All right, it just changed it, and here
+we are. Much better thumbnail here. It
+had no beard, and it put me in a better
+place as well. So, that's the thumbnail
+creation, which I think is nuts cuz you
+can keep iterating it, you can keep
+saying, "Hey, can you change the text?
+Can you change this? Can you change
+that?" But, essentially, we're taking
+inspiration from other channels, and
+then using it for our own. Now, I don't
+recommend copying the exact same as
+someone else's thumbnail, but you can
+always copy the the way of thinking or
+taking inspiration on the idea of the
+packaging, right? Now, with that said,
+we go to the next one, which is the
+title generation. Let's say I was going
+to do the title generation.
+I'm going to wait for it to ask me any
+questions. So, now it's saying, "What's
+the video content you'd like to title
+for?
+Any specific angle or hook you want? How
+many titles?" You can do 20 titles,
+that's fine. So, the video is about how
+I'm using Claude code to automate my
+YouTube channel that I've grown to
+51,000 subscribers, about 2 million
+views in the past 7 months. That's what
+the video is about. I'm going to go to
+bypass permissions, just to make sure
+that it does everything. As you can see
+here, it's looking at the title
+frameworks because we have a list of
+title frameworks that work really well.
+So, 300 that it's using.
+It's then looking at the YouTube content
+guidelines, which is my MD document
+which goes through my guidelines and my
+kind [music] of avatar that I'm looking
+for. And then it's going to give me 20
+different titles. So, how I automated my
+entire YouTube channel with Clockwork. I
+use Clockwork to grow to 51 subscribers.
+Here's how. How Clockwork runs my
+YouTube channel. 51 51K subs in 7
+months. I let AI run my YouTube channel
+2 million views later. And it does a lot
+more, which I think are really, really
+really good. And then it gives me the
+top titles based on curiosity,
+specificity, but also emotion. All
+right, with that said, we're done with
+packaging. Now, we can go to the video
+itself. All right, so for the video
+itself, we have script writing, which is
+the hooks plus the script of the video.
+And then we have two different
+Excalidraw diagrams and visuals that I'm
+going to walk you through. So, the first
+one is script. So, script writing,
+let's go here. Let's wait for it to ask
+me any questions about the video. Target
+length, any specific key points to
+cover, hook style and preferences, and
+CTA goal. I'm going to start writing.
+There we go. So, with all this said, I
+can press go, and then I can do bypass
+permissions to let it do its own thing.
+[music] And while this is running, I can
+show you the actual references which we
+have here. So, here we have the two
+different videos that I've done. So,
+head talking videos. So, previous
+examples of my scripts that have worked
+really well.
+Then, the intro framework. So, so what's
+a good hook? What does that look like?
+So, we give it references. Script
+writing framework. So, this is a YouTube
+video which talked about the best
+storytelling or the best ways to write
+scripts. And then we have the skilled on
+MD, which again is a step-by-step
+instructions as to what it needs to do.
+So, step one, gather information. Step
+two, load context. Step three, build the
+audience avatar. Step four, write the
+hook. Step five, write the body. And
+then, step six, write the mid-roll CTA.
+And step seven, write the closing CTA.
+Step eight, add production notes. Step
+nine, quality check. And then we have
+the output. Which is insane for AI to do
+all of this, cuz previously we had to
+spend so much time on everything. But
+now it does it in seconds. There we go.
+So, now we have the script. I can go
+here and I can see that this is the full
+script. What I typically do, because
+this looks very confusing, is I copy
+this and I paste it in Notion
+like this. And now we have the hook. It
+took me 5 months to get my first AI
+agency client. 5 months of building
+systems that nobody asked for, sending
+messages that nobody replied to, and
+honestly questioning whether the whole
+thing was even going to work. And then
+in 14 months, I scaled the same agency
+to six figures, working with over 50
+businesses, and teaching over 22,000
+people in the process. All starting with
+zero business or technical knowledge. I
+can read the whole thing, obviously I'm
+not going to, in case you were
+wondering. But we have section one,
+which gives me the script itself. And
+I'm reading this, it's very, very good.
+And you can see it also gives the editor
+a kind of a reference of what edits
+would need to be here. Text on the
+screen, b-roll, pause, section two,
+section three, closing CTA. And that's
+it. Now, bear in mind that you can use a
+general AI to make your script. There's
+a difference between a general slop AI
+script and actually making a good
+script. And that's typically using
+references, using what's a good script
+look like, using human language, using
+good transitions. And so that's why we
+feed a lot of information to Clockwork
+Code to tell it, "Hey, here's a video
+that worked really well in the past.
+Here's a framework of how to make good
+scripts. Here's the idea, now give it
+back to us." And this also looks at the
+context. So, the personal info, the
+strategy, the content guidelines, like I
+mentioned before. All right, so now that
+we've made the script, there are times
+in a video where we need supporting
+visuals. That would be a diagram, that
+would be some sort of uh yeah, a diagram
+or an illustration of a concept. So, for
+example, here in the Clockwork Code
+skills video, we have diagrams that look
+like these. We have this, all of these
+where skills are stored, this, and it
+keeps on going, right? More and more
+diagrams. And so here I can say, "Hey,
+can you make an Excalidraw diagram based
+on a video that I'm doing about sub
+agents?" So, make a diagram as to like
+what sub agents are, why they're
+important, how they're different from
+agent teams, and that's it. Make them
+really good, sophisticated, and uh give
+it back to me. I'm going to go and
+Baba's permission. There you go. But so
+now, what it's going to do is it's going
+to read the skill first. So let me read
+the Excalidraw diagram first. As you can
+see, Claude skills Excalidraw diagram
+Excalidraw diagram.md. It's looking at
+the instructions and now it's going to
+give us back the code, which is
+essentially the diagram itself. [music]
+All right, so it just finished making
+the diagram. I can go here. I can copy
+this. So command A and then bring it
+back and paste it here. God damn. Look
+at this.
+Beautiful. So sub-agents architecture
+and purpose. What are sub-agents, why
+they matter, and sub-agents versus agent
+teams. I mean guys, come on. This is
+insane for it to be made in a few
+minutes. It made some errors here, but
+nonetheless, this is crazy. And you can
+instantly make a video about sub-agents
+as soon as you've made the diagram. Now
+this saves a lot a lot of time because
+sometimes when I'm explaining a concept,
+I want to show a diagram. I want to show
+some visual representation so you can
+hear but also see at the same time cuz
+you retain more by doing both. So that's
+where I use this. Now let's say, can we
+also add some visuals using the [music]
+Excalidraw visual skill? Yeah, add some
+visuals there as well. There you go. So
+now it's going to take the diagram, it's
+going to then add visuals, and then
+we'll see [music] the difference as
+well. All right, so it just finished
+making the three different images. So I
+can go to the Excalidraw and I can drag
+them across from here to here.
+And here we have the three different
+visuals. So you see how this is a
+diagram,
+but this are images.
+That's exactly what the Excalidraw
+visual skill does. Which one's better?
+It kind of depends on you. Sometimes I
+like to have a mixture of both, but
+nonetheless, they save me a ton of time
+whenever I have to make a video and make
+diagrams for that video. All right, so
+now that we're done with the video
+assets, let's go to the last one, which
+is post video data. So here on Google
+Sheets, I have a list called the views
+to clicks, which [music] is out of this
+many views, I get this many clicks. And
+this is a CTR. And then we have the type
+of video. Now the reason we do this is
+because we want to see out of this many
+views, how many people click to see the
+video of my one-to-one program to then
+be able to work with me, right? And we
+do this because typically the more value
+that you provide, the higher the CTR is,
+okay? So, in this case, if I have more
+clicks and I have more data as to what
+videos people like and people want, then
+I can provide a ton of value to you
+guys and then be able to help you guys
+even further, right? So, now you might
+be asking yourself, how do you do this?
+So, manually, the way that this works is
+that if I go to one of my videos, you
+can press this link. Now, this link, you
+can see Bitly. Bitly is a software that
+pretty much all the YouTubers
+um that I know kind of use to be able to
+track how many people click to the next
+thing and then obviously you click to
+kind of watch the video of like the full
+one-to-one program, how I help you to be
+able to start and scale your own AI
+agency, right? And so, here, I see how
+many people clicked out of this many
+views. So, out of this many views, how
+many people press this button? And it's
+very tedious because I have to go to
+Bitly. I have to see the views and it
+takes me a lot of time, especially if I
+have to do this weekly for this many
+videos. And the videos just keep on
+adding and adding and adding, right? And
+so, what we do here is I have a
+automation that I can do I can put
+{slash} views to clicks analysis.
+And what this will do is that it will
+look at my videos, so all my videos in
+my channel since a specific date where I
+started tracking. So, now it's running
+the automation and now it's said that it
+updated the sheet successfully. So, if I
+go back, I can see that this is now all
+in different places and I can delete
+these two columns. I don't know why
+they're here, you know? And I can do
+sort Z to A and I can see the CTR here.
+So, these are the videos where it had a
+higher CTR rate, right? This is actually
+BTC I talking and BTC I talking. There
+you go. And I can start to see, "Hey,
+these many videos on the bottom they
+don't do too well in terms of the CTR,
+but these videos do." And so, let me
+make more of those videos and less of
+these videos. And that's one of the ways
+where we strategize what content idea
+works better and what content ideas
+don't work better based on my audience,
+my offer and who I'm targeting. So, that
+right there is a full video on how I
+automated my YouTube channel and how I
+got to 51,000 subscribers and over 2
+million views in 7 months just by using
+me, one editor and Cloud Code. Now, if
+If still here, then I do have a gift for
+you. Because I'm going to give you all
+the skills that I just showed you today,
+I'm going to give them to you in the
+second link down below in my school
+community. You can find them in the
+classroom section, templates vault, and
+everything will be there. All you have
+to do is just download them and bring
+them on to your project. And if you want
+to work with me one-to-one to be able to
+start and scale your own AI agency, then
+check the first thing down below. You
+can check out the video, and if it
+sounds like a good fit, then feel free
+to apply. With that being said, I really
+hope you found value from this video,
+and I'll see you in the next one.

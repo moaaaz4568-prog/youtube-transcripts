@@ -1,0 +1,831 @@
+All right, in this video, I'm going to
+be breaking down exactly how to use
+Apollo's new AI assistant. And you're
+going to want to watch this because this
+completely changes how you can build
+lists, research prospects, and create
+sequences. Instead of manually going
+through filters, finding the right
+people, writing sequences from scratch,
+you can just tell the thing what you
+want, and it does all the work for you.
+And if this pace of AI keeps getting
+better, I might retire or might be out
+of a job because these tools are
+starting to get crazy. So, in this
+video, I'm going to walk through exactly
+how the assistant works, all the major
+features, and basically how to use it if
+you want to get the most value and just
+kind of make your life easier if you're
+going to end up using Apollo. [music]
+So, let's get into it. Hey, real quick,
+this is a sponsored video that I did in
+partnership with Apollo, but as a result
+with working directly with their team, I
+was able to negotiate a special code
+that I don't think they've given out to
+anyone up to this point, which means
+that if you sign up to Apollo using the
+first link in the description below, and
+you sign up for a paid plan, you get, I
+think, 2,500 free credits up until May,
+I believe, but you can check the link in
+the description below for the specific
+coupon or affiliate link discount that I
+have there. Otherwise, onto the video.
+This is Apollo. You probably know what
+Apollo is if you clicked on this video,
+but if you don't, it's basically just a
+platform where you can prospect for
+people, so it has a lead database. It
+lets you send emails out to those people
+and call those people. It lets you
+monitor your analytics inside the
+platform. It has like a CRM type thing.
+So, it's basically like an all-in-one
+tool that you can use to do your
+go-to-market efforts. Now, what Apollo's
+AI assistant is, which is this
+handy-dandy guy up here in the top
+right. So, all you have to do to use it
+is just click on it. And so, what their
+assistant does is it basically lets you
+do all those things inside the platform
+like source leads, build sequences, do
+analytics, all that stuff. But instead
+of having to manually click on
+everything, you can just type in here
+and use it like an AI tool, and it will
+go ahead and do the rest for you. So,
+more specifically, Apollo has all these
+features. You type into this thing in
+plain English, and it will do all the
+work for you of searching for leads,
+doing all that type of stuff. And it
+also pops up with approval bubbles. So,
+it's not like it goes ahead and just
+spends all your credits or uses
+whatever. You can type stuff in, it'll
+give you suggestions, you can say yes or
+no. If you like it, then it does it, and
+if you don't like it, then you can tweak
+it and do it yourself. Yeah, and so
+again, if you want to access it, it's
+here in the top right. Now, this thing I
+think is still in beta. It just came
+out. This thing has only been around
+for, I don't know, a few weeks or so
+now. So, some of the stuff that I might
+demo in here might be better by the time
+you're watching this video. Some of this
+stuff might change, so just keep that
+all in mind. All right, so before we
+dive in and start using the assistant,
+the first thing that we're going to want
+to set up is the back-end setting. So,
+you can just come in here and start
+typing away and have the assistant do
+whatever you want. But, if you feed it
+more relevant context, then it'll have
+more understanding of basically what
+your business does, and it'll kind of
+fill in more gaps for you. And then
+you're going to want to go over here to
+this admin setting tab. You're going to
+click on all settings, and then when you
+go here, I'm already clicked into it,
+but you can see here AI content center.
+And this is basically the spot where you
+can feed it all your business
+information. So, you can see it asks for
+your your company name, customer pain
+points, value proposition, call to
+action, social proof, company overview,
+contacts, competitors, all this type of
+stuff on your business. So, that way
+when it's generating stuff for you, it
+knows a little bit about yourself. Now,
+one of the things that makes this a lot
+easier is if you just punch in your
+website and you press find information,
+it can go over here and just auto-fill a
+bunch of stuff for you. So, I can just
+press update and have it do it if I
+want, and then it'll go ahead and fill
+some stuff in. So, I'm just going to go
+ahead and press update, and then tada,
+it's just going to feed a bunch of
+information about my business. And so
+that way I don't have to manually fill
+it out. And so I'm probably going to
+want to double-check this stuff because
+again, it's AI, it's not perfect. The
+main purpose of this tool is not so it
+does literally every single thing for
+you, but it just helps you do everything
+you want to do a lot quicker. So, you
+can see here, it says social proof, no
+social proof here. You can see there's
+some social proof on my site, so I can
+go in and fill that in. And so yeah, I
+just skimmed through this, and this all
+looks mostly accurate, so it just saved
+me a bunch of time from filling this in,
+but I'm not going to spot check every
+single thing cuz this is a quick YouTube
+video. But, if you're doing this at
+home, I would just double check and make
+sure everything's filled out, fill out
+your social proof, and then go from
+there. So, that's the first thing.
+That's setting up the AI Content Center.
+So, now let's hop back on over. I'm
+going to move my face again here, and
+then we can talk a little bit more about
+using the tool itself. Cool. So,
+actually diving into the tool here, you
+can see it already has some example
+prompts and all kinds of stuff you can
+do with it. If you press view all
+prompts, you can see all the different
+prompts that it has here. And it has a
+lot of prompts. You can see prompts,
+plays, stars, outbound data enrichment,
+deals, all this random stuff here. So,
+if you want to help you build your TAM,
+I can just click this handy dandy
+prompt, and then it will go ahead and do
+that. So, you can see build me a
+structured view of all the companies
+that would be included in my total
+addressable market, build a practical
+strategy, provide recommendations. So,
+this is just one of their preloaded
+prompts in here. And so, you can see
+it's starting to think. It's coming up
+with some filters. It's coming up some
+job titles. It's coming up with some
+strategy. You can see it's looking for
+even more filters. Cool. And so, now it
+did its little bit of thinking here, and
+you can see it went ahead and just
+applied a handful of filters. Now,
+again, this thing doesn't have a ton of
+context on my business. All I did is I
+fed it my website and I just said figure
+it out. So, it just built kind of like a
+V1 here, but you can see account
+location, United States, Canada, UK,
+employee headcount 51 to 500, scores,
+good, and then you can see market
+segments. So, you can see based on my
+website, they can probably tell that I
+work with SaaS companies, consulting
+companies, and service companies. Now,
+again, obviously there's more stuff I'd
+want to kind of fill throughout here,
+but as an initial kind of V1, this is
+pretty solid. So, as you can see, it
+built basically a handful of filters.
+You can see it has even more stuff like
+VP sales, sales director, business
+development manager, buying intent, job
+postings, all this other type of stuff.
+But, to clarify more, to make this more
+kind of dialed in, you can see it gives
+me more prompts to kind of drill this
+in. So, it asks me, do you want to
+segment your TAM further by service
+type? Do you want to precision filters?
+Do you want to build lists? Do you want
+to enrich your TAM? So, maybe I want to
+segment my TAM by service type, and so I
+can click that and I can go on and on
+down this rabbit hole. Now, while this
+thing is processing, one other thing
+that I want to call out that you can do
+is you can dictate. Now, I'm a big fan
+of talking to AI, usually because it's a
+lot faster than typing, so you can speak
+to it directly through here. I also use
+a third-party tool called Whisper.
+There's probably a bunch of them, too,
+and so you can talk to it directly
+through its kind of interface, and then
+you can take it from there. So, I'm
+going to let this thing run through, and
+then we will cut whenever it comes back.
+All right, cool. So, this thing ran for
+30 seconds. So, basically, now what it's
+doing is it is telling me that if I want
+to segment these people by different
+industry types, I can go ahead and use
+the prompt that they have set up. So,
+you can see it costs two credits per run
+or whatever, and you can see it's giving
+me a couple of previews. So, the first
+company is a marketing agency, the
+second one is other, the other ones are
+marketing agency, marketing agency,
+marketing agency. So, basically, if I
+want Apollo's AI to go ahead and score
+if these guys are marketing agencies,
+other, or staffing agencies, or
+whatever, then I can have it do it, and
+I can press run. Now, I'm not going to
+do this because I want to kind of do a
+workflow A to Z exactly how I would kind
+of do it if I was building a list from
+scratch. So, again, that was just
+demoing one of the random templates. So,
+now I want to demo kind of the main use
+cases from building kind of a list from
+scratch, and then how I would kind of
+use the tool. All right, so now we
+talked about some high-level features.
+Let's talk about some real-world use
+cases. So, I'm just going to go kind of
+in order as if you were building a cold
+outreach sequence from scratch. So, the
+first thing you're going to want to do
+is you want to find the lead. to go back
+over here to the AI prompt, and then I'm
+going to go into the prompt section
+here, and I'm going to say, "Help me
+uncover my target audience." So, I'm
+just going to walk through very similar
+prompt to what I did before, but then
+we're going to expand on it. So, I'm
+going to let it load here. I'm just
+going to cut ahead for the sake of this
+video, so I'm just going to cut to
+whenever it's done. All right, so now
+this is done. Again, it did something
+very similar to before. As you can see
+here, it went ahead and it built the
+list, added the account information,
+added revenue, added scores, added
+market segments. So, now that I have
+this set up, I want to actually go over
+to the people view so that I can find
+and locate decision makers. So, I'm
+going to go over here and I'm going to
+press switch over to people view and
+then I'm going to move my face back
+here. So, now it'll go over to the
+people's tab, as you can see, and this
+will actually locate and start to find
+decision makers, not just, you know,
+companies. So, went ahead and switched
+over to the people view, it maintained
+all the similar filters here. Let me
+move my face. You can see all the
+filters that we just had maintained
+exactly the same, but now we are in the
+people's view. And so, now that we're in
+the people's view, we have all the
+different people we want to find
+decision makers. So, now what I'm going
+to do here is I'm going to go back. I'm
+going to move my face. And then now I'm
+going to go back in the prompt. So, this
+is great. Now, I want you to find
+specific decision makers that would be
+relevant for my target market. Please
+maintain the exact same list criteria,
+but layer on job titles that would be
+relevant such as CEO and owner and CMO
+and head of sales. Please also filter by
+company size and add any other relevant
+filters. Okay? So, I'm just doing this
+again off the dome. So, I'm going to let
+this load and then we will see what it
+outputs. All right, cool. So, I went
+ahead and did that prompt and let me
+move my face over. Now, you can see all
+of these nice beautiful filters are
+applied here. So, you can see all these
+job titles were added in, locations
+stayed the same, employee head counts,
+industries, keywords, scores, revenues,
+and market segments. Now, one thing I
+noticed is it looks like it removed a
+couple market segments. The great thing
+here is again, AI is not perfect. It's
+just meant to be able to help you. I can
+go in here and just change anything. So,
+if I want to add consulting or SaaS or
+anything else in here, I can just press
+a couple buttons. So, the way I
+personally view a lot of these AI tools,
+I'm sure you watching the video right
+now, at the time of recording this
+video, AI has not taken over the world.
+It has done a very, very good job of
+making a lot of things in life easier.
+And so, really what the main value I see
+in a lot of this stuff is just being
+able to get you 80, 90, 95% of the way
+there. And then the great thing is it's
+not just set it and forget it. You can
+come in here and just tick any boxes,
+change any filters, or do any other
+things for you. The main nice thing is
+it just went ahead and it did so many of
+the things that would have taken me
+probably 10, 15 minutes to plug in, and
+it just does it with literally like one
+prompt and like a minute or two of
+waiting. All right, cool. So, moving on,
+that was basically step one. We have our
+list here, and now we can refine it
+further. So, let's say I want to target
+all these people and I want to see if
+they're a fit. Now, we can move on and
+do that as our next step. So, whenever I
+build workflows, kind of the steps I go
+in is number one, building out the kind
+of lead list initially, then validating
+that the contacts are the people that I
+want to be reaching out to. Because
+let's say I only target B2B companies,
+again, we want to do another layer of
+validation by using AI agents. And so,
+you can see here we have B2B selected as
+a filter, we have all these job titles,
+we have all these industries and
+keywords. But one thing that I found
+with literally any data set is it's
+never 100% perfect. So, we can go and
+throw a bunch of these filters in, and
+Apollo does a great job of getting us
+most of the way there. But one thing I
+love to do is make sure that every lead
+or as close to every lead in our list is
+qualified, because you can see here
+there's 29,000 people, and so we want to
+make sure that those people are
+qualified. And I do not want to go
+through every individual person here in
+this 29,000 person list. And so, what I
+can do inside here is have AI go ahead
+and qualify. One thing that's nice about
+this kind of AI interface is it it can
+force you to the next step. So, it
+doesn't just try and keep you in loops.
+Now that we have this set up, you can
+see it's already prompting us that we
+can add this to a sequence, we can
+refine this further, we can get the
+emails. Now, what I actually want to do
+is I want to take these leads and
+qualify them. So, I'm going to ask their
+prompts here to go through and have AI
+visit each one of these leads to check
+to see if if a fit. So, again, I'm going
+to go over here here to the AI chat.
+Now, I'm going to ask it to try and
+qualify each one of the leads. So, I
+want you to help me qualify the leads.
+Please research each one of the leads
+and see if their company is actually
+qualified. More specifically, a
+qualified lead is a company that sells a
+B2B service or software. An unqualified
+lead is someone who doesn't sell a B2B
+service and is a B2C company because
+they cannot work with us. Cool. So,
+that's just a pretty simple prompt. I'm
+going to go ahead and press enter and
+then I'm going to let it do its thing.
+So, it's going to go over here and think
+and then again, I'm going to cut because
+it takes about 20 seconds or so or 30
+seconds for it to go ahead and think
+through everything. All right, so I just
+grabbed a cup of water while this thing
+ran. It looks like let's see how long
+this took. 52 seconds, 12 seconds, 32
+seconds, 11 seconds. So, it took about I
+don't know, 2 minutes. Now, you can see
+here it did one list thing then it did
+another list thing. It kind of iterated,
+but ultimately it got to what we wanted
+here. So, you can see let's conduct some
+research using the web data. So, this
+was what I was kind of doing earlier
+when I was doing that demo of like the
+templates and stuff. So, I can look here
+and you can see it does the
+qualification. So, I basically want to
+see if it is a B2B or B2C company and
+you can see here this is like the
+output. So, you can see it gives the
+reasoning. It gives a couple examples.
+So, I can click through here and I can
+click through all these different people
+or whatnot. So, I can go over here and
+press yes, proceed with qualification.
+And then now it'll go and I think it
+should pop up with the little
+qualification bar so that it can do the
+research and whatnot. So, now it's going
+to go ahead and think for a second here
+and again, it's going to go over and
+tell me awesome, it created the
+qualification to this little thing I
+have here. Now, of these leads, how many
+would you like to qualify? Now, it looks
+like it's saying that there's 8,000
+leads and I have 29,000 leads here. I I
+it's because I accidentally left this
+find people search here on, but anyways,
+it doesn't really matter. I'm going to
+go over here and press let me specify a
+different number so I can go ahead and
+do this at a smaller scale. Now, I think
+I'm completely out of credits because
+I've been burning through my Apollo
+credits. For context, I spend like
+200,000 credits per month and I probably
+need to upgrade it because we send so
+many emails. So, let's go over here and
+I'm just going to say let's just start
+with 10 for now, okay? I'm going to
+press enter. It's going to think a
+little bit. Cool. And so now it's
+bullying me because I don't have any
+credits. So, let me see if I can pull up
+an example just to show you what this
+looks like. All right, cool. So, since I
+was out of credits, I need to pull up an
+example that I did in the past. This is
+actually from a video. I think it's out
+right now where I just used a similar
+type of function inside Apollo where I
+was trying to see if people in a list
+were HubSpot agencies. So, that's a
+little bit more of a sophisticated type
+of search here. You can see what would
+have happened here if I had credits is
+it would pop up and it would basically
+show me the prompt that it has here. So,
+you can see this is like the big prompt
+generated whenever I was trying to
+qualify if these leads were HubSpot
+agencies. And then I can go over here
+and press click to run. I can save. I
+can run 10 people or however many
+people. You can select the model that
+you want to use. So, if you want to use,
+you know, GPT-4 or mini, if you want to
+use Perplexity, if you want to use any
+of these other models, you can pick
+which AI will kind of run through and
+score this. You can see these are the
+results. So, you can see I'm filtering
+for people that were yes in this list.
+Or let me pull up another one of these
+AI filters I ran in the past. This is
+the HubSpot consultancy thing. So, let
+me pull this an example of what this
+looks like. Cool. And same idea here.
+You can see I can filter for people that
+are qualified. Now, if I ran these, it
+would just say qualified or unqualified
+right here in the lead card. And if I
+had credits, which I'm going to see if I
+can squeeze out credits saying that I
+don't have any. Let me see if I can pull
+this up here. Cool. So, luckily I had my
+handy dandy backup Apollo account here.
+This account has a lot less credits, but
+basically I just want to pull this up so
+I can actually demo this. But you can
+see this is what the AI research agent
+does. So, I just did the same thing.
+Tell me if this company is B2B or B2C.
+I'm going to run 10 of these and then
+you will see exactly what I'm talking
+about if I credits in the other account.
+You can see here it just pops up with
+this nice column where it says B2B. And
+so now I know all of these companies in
+this list are B2B because Apollo used
+ChatGPT's AI web agent, scoured the
+internet, checked to see if they were a
+B2B or B2C company. And then now a
+really cool thing I can do here if let's
+say I want to run this on a gazillion
+people, I could just press run power up
+and then run this for 10,000 people or
+however many thousand people I want. Or
+what I can do here is I can go over here
+into the left-hand side, press AI
+filters, and then I can press this
+custom or what is this called? Business
+model 6609. I can click into this AI
+filter here and then I can select B2B or
+B2C. All these results were B2B, but
+let's say some of these were B2C. I
+could just select this and then these
+are the people that I would output
+because these are all verified to be B2B
+by their web agent. So, that's basically
+what the web research function does. It
+lets you scrape the web to see if
+they're a fit. It searches all data that
+it can find publicly on the internet and
+it uses Apollo credits. Now, it always
+confirms with you before you use them.
+So, as you can see here, I only spent 10
+because I didn't want to use 20,000
+credits on a random list I made. So,
+keep that in mind whenever you're
+building your lists. Cool. So, popping
+back into my main account here, let's
+say I'm very happy with the outputs.
+Now, I just have this random list of 240
+people they made in the past that I have
+marked here as qualified. Now, I want it
+to create an email sequence. I can
+literally go back here back into this
+execute with AI tab. Now, I can say I
+want you to help me make a sequence for
+the list that I have in front of me. I
+can just press enter and then it will go
+ahead and now help me with my sequence.
+So, you can go straight from list
+straight to sequence directly through
+the AI agent. So, I'm going to let that
+think here again. Cool. So, now it
+generated a couple random sequence ideas
+here, so you can see it helped put
+together a couple random ideas. So, you
+can see sales buyer sequence, target
+high intent prospects, quick pitch for
+cold calling services. I'm just going to
+go ahead and pick one of these, so we
+can move it along. It looks like it has
+800 8,000 or so people, so I think it's
+actually doing it for the list I had
+before. Not again, not sure. I think the
+tool's still in beta, so I'm just going
+to roll with what we got here. And
+again, I just want to make sure that I
+show all the different features. So,
+it's going to go ahead and think, and
+then we're going to pop over into the
+sequences once the thing is all set.
+Awesome. And just like that, now we're
+in the sequences section. So, it went
+ahead and it built a bunch of different
+sample sequences here. So, you can see
+scrolling through, we have four five
+sequences here. So, you can see this
+sequence is mixed between email. So, you
+can see automatic email, phone call. So,
+it's giving like a call task. So, again,
+after the emails go out, then it can
+remind us to make phone calls, then
+another automatic email that goes out.
+Shows a nice little preview here. You
+can look at your computer, you can look
+at your phone, and then you can also see
+LinkedIn connection request. So, it
+assigns those tasks, too. So, not
+everything here is automated. Some of
+the things are just automated emails
+that go out through Apollo, and then
+some of these things are tasks that get
+assigned through here. So, now again,
+these are just samples, but again,
+moving along here, you can see I can go
+ahead and add the people to the
+sequence. I can send a test email. I can
+review the sequence in Apollo. So, I'm
+going to go click this here. So, now
+it'll show me a kind of different view
+here where I can review the sequence.
+Cool. And so, now it says the here's the
+link to review the sequence. Oh, it
+looks like this is the same thing. So, I
+actually just went in a circle there,
+but I can go over here. Let's say I want
+to send a test email. I can click that.
+I can press make adjustments. I can
+press I'm ready to activate. These are
+all again, pretty intuitive stuff
+depending on what you're trying to get
+done. So, that's a super high-level
+overview of how quickly you can go from
+building a list to having a build a
+sequence to launching it. So, again, to
+get some of this stuff set up, you're
+going to need to have your email account
+connected. So, you can do that on the
+emails tab. You're probably going to
+want to make some changes here. So, I
+can go over here and press make
+adjustments. And on and on I go. So,
+that's a super high level of building a
+list, building a sequence, taking that
+from A to Z, and then that's how quickly
+you can kind of go through things with
+Apollo's assistant. Cool, so that covers
+building lists, that covers building
+scripts. Now, there's a bunch of other
+things you can do with the agent, too.
+Basically, everything here on the
+left-hand side can be done with an
+agent. So, as an example, I can have it
+help me with building analytics and
+building workflows and having it set up
+waterfall enrichment with the data
+enrichment. Now, walk through
+analytics-specific stuff, but candidly,
+I don't run my sequences through Apollo.
+I use Apollo primarily for prospecting
+and kind of building my databases, but
+I'll show you an example here of how you
+can build a workflow. So, I'm going to
+go over here in the top left. I'm going
+to start a new chat, and then now I'm
+going to talk about using it to build me
+a workflow for inbound visitors. So, one
+thing that Apollo can help you do is you
+can inject their pixel on your website,
+and as a result, see all the people that
+are coming inbound on your website. So,
+now, I'm going to start here, and let's
+build a workflow doing that. So, I want
+you to help me build a workflow that
+identifies the inbound visitors on my
+website and sends them a personalized
+email sequence. So, I'm going to press
+enter, and off it will go. Cool, so
+after I prompted it, thought for 37
+seconds. Now, it's asking me a few more
+questions. Number one, what's my website
+domain? Do I have any existing sequence,
+target contacts, email sender? So, I'm
+going to answer these questions. So,
+one, neevoemarketing.com.
+Two, I don't have a sequence. Can you
+help me? Three, which contacts visiting
+the company should receive the sequence?
+For example, all contacts from the
+company. I'll just say decision makers.
+And then four, I want it to be sent from
+my email address. Okay? I'm going to
+press enter, and I will let it run
+again. Cool, and in a span of about 1
+minute, it went ahead and it built this
+whole sequence. You can see it built
+this workflow in Apollo where step one,
+when someone visits the website, then
+add this person to the sequence and you
+can see the steps that it goes through.
+Send an automatic email, set a task to
+give them a phone call, send them a
+connection request, automatic email,
+phone call, send message, email, phone
+call, and it just goes and built this
+whole sequence out. Now, I can click
+into the sequence and then I can see
+exactly what it has here. So, if I want
+to look at the automatic email, it looks
+like it had it AI generated with a
+custom thing here. So, let me click into
+this. Cool. And so, you can see here
+inside the sequence "Hey first name,
+quick one, saw this company names
+traffic on our site. We help sales
+leaders get 10 to 20 calls through
+automated cold email without hiring
+SCRs. Is this worth a chat?" So, you can
+see this was the phone call script that
+was generated here as part of the
+sequence. So, it went ahead and
+generated all of that as well. And then
+again, if I want to go further down the
+sequence, which again, I'm not going to
+build this fully from scratch on this
+video for the sake of time. But, you can
+see here, it wants to go ahead and fill
+in the gaps. So, you can see "I need
+your actual email address to send this
+from. Can you give me your email
+address? Domain format." You can see it
+asks more questions. So, if I want to, I
+could go down and down and down. But
+again, I see the main value with all
+these AI tools not necessarily doing
+literally every single thing. But, the
+fact that I can just have this thing
+built in like 5 seconds based off of a
+couple prompts has been very useful. And
+then if I want to go in and configure
+any of the settings, I can go ahead and
+do all that stuff here. If I want to
+figure out how people are enrolled, if I
+want to change the script, I can go back
+and forth with AI to build this all out.
+Cool. And one of the other things that I
+will show you here that you can do with
+the AI assistant is have it verify your
+leads and do waterfall enrichment. So,
+let's say I have this beautiful thing
+set up and I want to make sure that the
+leads I'm adding are nice and clean,
+then I can go here and I'm going to go
+into a new chat and I can have it find
+more leads or use waterfall enrichment.
+So, real quick, if you don't know what
+waterfall enrichment is, instead of just
+relying on Apollo as the sole data
+provider, you can have Apollo
+cross-reference with another data
+provider and cross-reference with
+another and another and another. And
+then you can have it also validate the
+leads. So, what I can have it do here,
+I'm going to do a new chat. I want you
+to help me validate leads from the most
+recent list and use waterfall enrichment
+to find more leads. Okay? I'm just doing
+a very generic prompt because I don't
+have a list in mind. So, I'm going to
+have Apollo go ahead and search one of
+my lists to pull up as an example. Cool.
+So, those are the core features of the
+tool. But, what makes any tool useful is
+actually implementing it and making it
+relevant to you. So, I know I just
+demonstrated building a sample list,
+building a sample sequence, building a
+sample workflow, fiddling around with
+some of the tools. But, what I'm going
+to do for you now is just show you a
+super high-level overview of how you can
+do this start to finish and make it kind
+of real-world applicable to you and just
+highlight what a sample workflow could
+look like from going from complete
+scratch to having a campaign start
+running. So, step one, you go into the
+AI editor and you start with a prompt
+like, "Please help me uncover my target
+audience." Then, it'll run and it'll
+build a list just like we showed before.
+From there, if you like it, you can let
+the AI apply the filters and then you
+can refine the list. The next step is to
+run a prompt like I just showed you
+before. Say, "Hey, here's the list. I'm
+trying to target these people. I want to
+make sure that they're all qualified.
+Please research all these companies and
+make sure they're a list." From that
+same chat, you can have it go through,
+check the list, make sure it's
+qualified, and filter them
+appropriately, and you can add those
+people to a list. And then, the next
+step after that, you say, "Hey, go build
+me a sequence, add them to that, and
+then go from there." Now, one of the
+things I didn't overview because I
+didn't have a sequence in front of me,
+is you can then type, "Hey, please take
+a look at the sequence, see which split
+test performed the best, see which
+people had the highest performance, and
+then take it from there." Now, again,
+the great thing about the AI stuff is
+you don't need to take it fully at face
+value. You can have it do 80-90% of the
+work, you can tweak it, you can take the
+prompts as it gives you on what to do
+next, you can find more contacts and
+just keep going and going. And again,
+this is the beauty of AI. Hopefully, I'm
+not out of a job at this rate. But,
+basically, you can have it just do this
+flywheel over and over and over again.
+So, that's Apollo's AI assistant. If you
+want to try it out, you can click one of
+the affiliate links in the description
+below. I get a kickback on it. So, if
+you want to click the link, helps me out
+a little bit. If you found this helpful,
+subscribe. And if you want someone to
+come in and manage your cold outreach
+completely end-to-end, like a service
+provider, then you can apply to work
+with me and my business called Anivo
+Marketing. There's a link somewhere in
+the description below. Otherwise, really
+appreciate you watching this video and
+I'll see you in the next one.

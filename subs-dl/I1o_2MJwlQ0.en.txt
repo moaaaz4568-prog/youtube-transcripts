@@ -1,0 +1,898 @@
+In this episode, you're going to learn
+how to build a fully functional AI agent
+that automates your social media,
+matching your voice, scheduling daily
+posts, and even generating images to
+accompany your post using one simple
+plain English prompt in under 15
+minutes. We're even going to test it
+live on camera so you can see how high
+quality this thing actually is. And if
+you stick around till the end, my guest
+Kevin is going to break down how you can
+actually build and sell these agents as
+your own software products. You're going
+to love this one, so tune in and welcome
+to the episode.
+Kevin, what are we going to build today?
+What are we going to see? So, we are
+building a AI social media post
+generator that's going to create posts
+with images every single day for you.
+It's going to send those posts to your
+email, and these posts are going to be
+in your own voice, and they're going to
+think just like you. So, we're going to
+train this agent so that they can
+actually create posts that are not
+generic stuff. This is going to be
+relevant to your audience and to your
+business.
+That's sweet. And so, this isn't going
+to be a AI slop, right? This is going to
+be tailored to you. No, exactly. Because
+everyone, you know, you can definitely
+just go in ChatGPT or Claude or anything
+and just say, "Hey, write me an article
+about X topic." And it comes out
+sounding like generic AI, and it doesn't
+really sound like you, which at the end
+of the day then, you're not really
+building your thought leadership or your
+audience.
+Exactly. No, I love it. Well, I'm
+excited to dive in. So, before we do,
+what's your background? Like, why should
+people listen to you?
+>> Yeah, so so, I run a channel
+youtube.com/solopreneur,
+and I show
+entrepreneurs, small business
+entrepreneurs, the best tools they can
+use to get more leverage in their
+business. And so, prior to that, I was
+the head of marketing for quite a few
+different SaaS companies.
+I built and sold e-commerce stores. I've
+been a Basically, I ran an agency before
+for about 6 years. So, I've been an
+entrepreneur for about 20 years. And
+now, you know, I'm really diving deep
+and focusing on how to get entrepreneurs
+more leverage, and you know, with the
+tools we have, with AI tools and so many
+other software solutions out there, it
+really is possible to
+run a business with just yourself or
+just a small team and scale it.
+>> [clears throat and cough]
+>> Well, sweet, man. Well, I'm looking
+forward to it. Let's dive in. You want
+to share your screen and we can check it
+out? Yeah, definitely.
+Just let me see.
+Cool. So.
+>> [clears throat]
+[clears throat]
+>> Let me know when you can see it.
+Yep, I can see it. Cool. So, the tool
+we're going to be using to do this is
+called Appy.
+And so, just a bit of context, you know,
+for your audience,
+um you know,
+automation has gone through a lot of
+different phases. We started where you
+had to do a lot of coding and you had to
+do a lot of stuff manually
+to build automations and hook things up
+with APIs and stuff. Then we got into
+what I call like the Zapier-ification
+of things where you could easily connect
+relatively two apps together, then but
+it was very limited. Then, you know, you
+got make.com and then where you can wire
+up these automations. And if you knew
+how to wire them up, you still didn't
+really need code, but you could wire
+them up together putting Lego together
+in a way I like to say. And now we're in
+the world where there's AI agents where
+you don't need to even know how to build
+it. You just want to tell it the
+outcome, and the AI agent, just like an
+AI employee, will just go figure out how
+to do it. Now, there are a ton of tools
+exploding right now that can build AI
+agents for you. This is one I just
+built, and so I wanted to feature it.
+And so, you know, this certainly isn't
+the only solution you can use, but I
+wanted to share this one as it's pretty
+cool, and practically anyone can do
+this. So, to start with, you can sign up
+for Appy, and I'll and Corey, you can
+link that down below for you. And once
+you sign up in in in a in a in a in a
+few seconds there, you can just create a
+new agent. Just go to create new agent,
+and all you have to do is when it loads
+here.
+And so, Kevin, while it's loading, like
+why Appy? Why not like a Zapier agent or
+why not like a make.com agent? Yeah, and
+and you know, like I was saying, you
+definitely could do what I'm building in
+Appy. But, that does require knowledge,
+right? So, let's say, you know, the what
+we're going to be building to to to
+elaborate on it, right?
+Um is what we're going to be building is
+we're going to be building a social
+media assistant that's going to research
+relevant content in your niche, and then
+it's going to it's literally going to go
+out and find news articles in your
+niche. It's going to summarize that,
+write a post for each of your social
+platforms, and email it to you. Now, you
+could build that in make.com or n8n, but
+each of those tasks you are creating,
+right? So, you're looking for something
+that can research tools. Then you're
+research articles, then you're wiring
+that up into some sort of summary agent
+summary and then you're wiring So,
+basically, even though I just described
+that to you, that would be an enormous
+automation. And you know, I can you
+know, I can demonstrate you know, if
+people aren't familiar like
+you know, with something like an n8n,
+I'll just pull it up on screen. Now,
+this isn't that exact automation, but
+just to give you an idea of
+what something like that might look
+like, here is an automation for a 100%
+automated social media video generator I
+built. And so, the point being here is
+you can see how every single instruction
+needs to be
+you know, wired together even though
+you're not doing it. And so, what
+something like Appy does is
+that's completely gone. All you have to
+do is describe what you want in plain
+language. You don't need to know which
+AI models to use, which AI tools to use,
+which connectors, nothing, right? Like,
+we're literally just going to tell it
+what we want, and it's going to build
+it.
+Got it. So, it's like a ChatGPT for AI
+agents, basically. Exactly. And and and
+you know, as as we build it, you'll see.
+So, now, you know,
+I'm going to just show you the kind of
+prompt we would use, and then, you know,
+to save time here because it does take
+about 10 or 15 minutes to build. So, I'm
+just going to show you the completed
+version, and then we can play around
+with it, right? So, all you would
+literally say is something like this.
+And again, I'll link the video down
+below. I actually have a full
+walk-through on this step by step, and
+you can get the prompt and everything.
+And you know, Corey, I'm sure you can
+just link that down below.
+Yeah, we'll have that in the description
+and the show notes. So, for for folks
+that want to see the full build on
+Kevin's channel, well, we'll definitely
+have that there. Cool, man. And so, you
+can see all I'm saying is plain English.
+Like, I want to build an AI agent that's
+going to post on LinkedIn, Facebook,
+Instagram, X.
+First, write learn how I write by
+reviewing my website. So, it's literally
+going to go on my site and read all my
+content. Then,
+I'm attaching a short document about my
+business, and it kind of just explains
+my ethos. And so, I would literally go
+in here and just attach like, hey, I
+have like a little bit of a write-up. I
+have another write-up here. And these
+things are just like about my business,
+how I think, who my target audience is,
+my business philosophy. So, any
+materials you already have, you probably
+have some write-ups in your business.
+So, just any kind of context, and then
+and then I'm giving it a bit more notes
+here. Hey, match my style. Just giving
+And And nothing in here is like, use
+this model, use that model. This is as
+if you were talking to a human developer
+or a human assistant. You're just giving
+it instructions. You still need to give
+clear instructions, but that's the same
+if you were hiring someone, Right. Yep.
+Yeah, so, you know, I And so, every day,
+here's how I want it to work. Every day
+at 7:00 a.m., I want this thing to
+create social media drafts for me. And I
+say that, and I say, "Hey, look. Look up
+these recent stories, choose one that
+would relate to my audience, and write
+four posts,
+and you know, so on LinkedIn, Facebook,
+Instagram, X, right?" And you know, you
+got the formats here, but you don't even
+have to enter the formats if you want.
+Appy will just look it up for you and
+the dimensions. I looked it up. Like, I
+just wanted it to But, you don't have to
+do it. So, it's like, "Hey, here are the
+image
+dimensions." And then, email me all four
+drafts to my email address. And don't
+publish anything automatically cuz I
+don't still trust AI, of course, to
+publish on So, you know, you still want
+to review everything, right?
+But, if you you know, that would be a
+different build if you did want to
+actually post automatically, and I have
+a few videos on my channel. But, for me,
+I want to review these. And then, all
+you would do is hit go, and here's
+what's going to happen when we do that.
+Right? And I'll show you a published
+version. So, and we'll start right
+there, right? And so, basically, we're
+just going to put in our prompt and and
+on the left side, you see here Appy
+working, and we're going to put in our
+prompt, and it's going to just start
+working on it. And then, it's going to
+just build it. It's going to take 10 or
+15 minutes, and this is literally what
+you're going to get.
+And what makes this so interesting is,
+unlike an n8n where like, how do you run
+this thing? Like, let's say you didn't
+know how to build automations. How do
+you trigger this? Like, I guess you
+would hit execute workflow. Like, this
+isn't a user graphical user interface.
+This is
+right? Whereas, Appy not only builds the
+agent, it actually builds a graphical
+user interface. So, you see like a
+generate post button. You see all of the
+previous posts you've generated. In
+fact, there is a preferences area. You
+can go in here and change the tags for
+what you want it to research. You can
+It's as if this is a real app. Oh,
+that's cool. Yeah. I assume that's why
+the it's literally called Appy because
+you're building you're essentially
+building like a custom web app with
+plain English. Like is that kind of the
+premise of the whole tool and another
+level?
+You know what? I don't think I put that
+connection together, but
+>> [laughter]
+>> I mean that would make sense to me. Like
+that's that's kind of what we're doing
+here, right? Yeah, you know what? As as
+you say it, yeah, I I think you're
+right. That's probably why it's called
+that. You know, I I never looked into
+the the naming scheme, but absolutely.
+And actually, let me generate a post
+first and then I'll show you what makes
+this so special and different than
+something like an And again, just to be
+clear, and then make.com awesome. I have
+tons of builds on my channel, but this
+is something different, right? And so
+there's a lot of times where you might
+want to do something like this where if
+you want to get very specific about the
+way something works, but you know, for
+something where you're trying to
+generate
+you know, you're using AI agents here,
+then something like Appy works great. So
+all we need to do is hit generate post
+and what's going to happen is it's going
+to create this post. Now, automatically
+as we do that, I want to show you
+automatically
+I've already told it that every single
+day at 7:00 a.m. I want a post. And so
+I'm going to pull up my email and I'll
+and I'll show you that. So I don't have
+to come back here into Appy and trigger
+anything. Every day at 7:00 a.m. you're
+going to see these posts. You can see
+that it researched something and then it
+wrote the post for LinkedIn. It wrote
+the post for Facebook. It wrote the post
+for Instagram, for X, and it made the
+images cropped for each of the formats.
+You can see Instagram's kind of a
+square.
+X is like this and so on and so forth.
+So
+I don't have to come back in here and
+trigger it. So now you can see it
+working.
+So you can see I found a story from
+today
+14.ai launching as the first world's
+first AI native customer service agency,
+right? And you know, we won't read the
+entire post, right? But it's not just
+summarizing news here. What I told them
+what I wanted was here's my own personal
+philosophy and I want it to have a
+perspective, right? But here's the
+catch. These tools are only as good as
+the systems you build around them. If
+your process is messy, like there's a
+opinion. It's not about sharing news.
+It's about saying, what is the takeaway,
+right? From this, right? And then
+there's an engagement question. Are you
+building your business to leverage AI or
+just bolting it on top of existing
+chaos, right? And so and you'll see that
+in every one of the posts that and you
+can see hashtags and everything that
+there is sort of a opinion because what
+people
+what people don't want you know, people
+don't need you to just tell them what
+the latest news is. People want to know
+what the news is and how should I think
+about this? What is the implication of
+this, right? That is the up-leveling of
+the information. And so that's what I'm
+doing and that's the voice I want to
+have for my brand and so that's what
+it's doing for me.
+And I'm assuming Kevin the like it
+probably gathered that insight from that
+that one document that you gave it when
+you when you started the build where it
+said like, hey, this is how I think
+about automation. Like this is how I
+think about business.
+>> Exactly. Like that's how it kind of
+gathered your perspective was from that
+context document. Is that right? That's
+correct. Yeah, so from my website and
+from that documentation where I said,
+hey, you know, my whole philosophy is
+around, you know, how tools can enable
+humans and give you more leverage and
+and so exactly. So it knows my
+perspective and it's intelligently
+taking the content and then saying, hey,
+how do I apply Kevin's perspective to
+this content in a meaningful way? And
+that's the big difference, right? It's
+it's not just regurgitating, you know,
+AI slop as as as you put it, right?
+Because of course you can go out and
+just Chat GPT can make this very general
+take. But you know, the the other thing
+and and I'm glad you raised that is
+because the other thing to keep in mind
+here is AI is only good as the inputs
+you give it. If you if you be lazy about
+training it and you don't have any
+information and you just give it some
+general information, it's going to come
+out very general.
+Right? So this is going to work best for
+someone who takes the time to if you
+have a website with some materials on
+it, which is going to synthesize some of
+your your your thinking. And if you have
+any even internal documentation how you
+think about things, then you can surface
+that or you can take the time to write
+some of that. And so you can see it's
+actually building this out
+for us and it will email us this shortly
+as you saw earlier. Now, one of the
+coolest things that Appy does is exactly
+like you're saying, Corey, it actually
+does make this into an app. And so
+[clears throat] you can actually get a
+sign-up page. And so
+>> Oh, sweet. Yeah, so and it literally
+works. So I'm going to So it's already
+published, right? So I I won't republish
+it, but basically when you publish it
+for the first time, you actually get a
+sign-up page. And And you know what,
+Corey? Maybe we keep this a little bit
+interactive, man. I'll kick you this
+link. Why don't you try signing up for
+it?
+>> Yeah, let me do it. And that's one thing
+that I noticed is on that sign-up page
+it had the
+the Google OAuth where you can you
+literally one-click deploy this thing
+and if somebody wants to sign up, they
+can just sign up with their Google
+credentials. Is that right? That's
+exactly it, man. That's exactly it. So
+let me let me kick you this link right
+here and
+and yeah, I'd love you and and that's
+the point for you to do that.
+Uh
+I'm just I'm trying to chat this link to
+you.
+Ah, here we go.
+So yeah, give it a shot if you want to
+use the
+the Google
+OAuth and um Yeah, I'm going to pull
+this up right now. So and that's
+actually So I'm glad you went over this
+cuz I noticed that publish button on the
+top right and that was one of the
+questions I had for you next is like,
+okay, well,
+is this something that you could sell?
+Like you could basically build these
+apps. So again, this is my screen here
+and we're saying we can
+To sign in with Google. Yeah, you could
+do Google or you could, you know, do
+your email address.
+>> burner email here. I have to agree to
+the terms. I continue.
+And then it's going to send me a
+verification code. So I'm not going to
+Well, I'll pull up my email here in
+another screen. Let's see if we can get
+in here and see.
+>> Yeah, you can take my word for it. It's
+going to work, but
+>> No, I want I want to get in here. Let's
+check it out. So
+>> Yeah, and to answer your question as
+you're going through this. So like, you
+know, out of the box I'm use you know, I
+didn't say that I want this to be a paid
+tool, but it actually has a stripe
+integration built in. So you just like
+how it built all this, you could build a
+you know, you could make this into a
+revenue stream, absolutely.
+So let's get me in here right now.
+And so you can see Okay, so it says to
+capitalize, you got to provide your
+preferences. Right, exactly. So you can
+actually change that email address to be
+your delivery address. So that's the
+first thing you want to do, right? It's
+like
+you're setting this up as if this was an
+app for you. And you could keep the same
+tags or change them or whatever, right?
+Let's say you could make yours about
+fitness or whatever you wanted, right?
+But you know, you could add your own
+tags here. So let me do that. I'm going
+to say like primary topics, let's say
+fitness.
+Let's just act like I'm like a nutrition
+coach, nutrition,
+um supplements.
+Yeah, now now diets. Yeah, now the one
+thing is if you want to update this app,
+I want to I want to give you, you know,
+if you want to update this app,
+you know, you just type to Appy and
+it'll just update.
+And
+>> So and I'm updating my audience
+description, too. So I'm saying like my
+audience is let's just say fitness
+professionals, personal trainers,
+bodybuilders,
+powerlifters cuz I want to I want to
+like run it and see what it says. Yeah,
+so the one thing about this is and
+you'll see, right? Run it, go to
+generate post. And the one thing you'll
+see is it still has some of my old
+context, right?
+>> That's what I was going to ask about.
+Obviously I didn't give it any of my
+context. So it's not going to be
+perfect, but the the whole idea that you
+can just like build an app in Appy,
+deploy it, get somebody to sign up, you
+know, with a
+simple link and then they can use the
+tool for themselves is really cool.
+Yeah, man. And so what I would And
+that's the point I was making about
+updating this, right? Is actually you
+can say it when you could just tell
+Appy, hey, by the way, add the when
+someone signs up, they should be able to
+upload their own documentation. And Appy
+would just add that as a capability
+instantly.
+Right? Cuz I never Yeah. Yeah, no,
+you're you're exactly right. And that
+would be a great addition, too, right?
+It's just like adding one part of the
+onboarding for them to go and add like a
+sample of their brand voice or like some
+sort of context. But this is cool cuz I
+ran it and it's And so the first thing
+it did is it found it said it found a
+highly relevant story based on the
+audience that I told it I had, which
+again, for the sake of the example we
+said was like fitness professionals.
+It said it found a story in the New York
+Post titled "Gym Bros Are Ditching
+Steroids for a Healthy
+>> Performance Enhancer" that talks about
+peptides replacing steroids. So like it
+it definitely did the research properly
+and it was definitely relevant to the
+audience that I told it I had.
+100% and now it's saying it sent you the
+>> the draft.
+Let's pull that up.
+Yeah, and I mean when you just sit and
+think about the fact that you didn't
+even ask it to make this a shareable
+app. You didn't [clears throat]
+Think about the development time to try
+and make this like a with a Like look at
+that.
+Yeah, so it literally in seconds sent me
+the email with a hook.
+The full post like hook's not even bad.
+Like pep- peptides are replacing
+steroids in serious training circles.
+With the full post, here's my take.
+Uh here's the catch, barrier to entry,
+seeing this shipped in your training
+circle. So it's got like a call to
+conversation as well.
+I mean not bad for just like a
+60-second setup and like a quick run.
+Right? Like not bad at all. Exactly. And
+so, you know, you could do the you could
+use this in a few ways, right? I mean,
+if you if you have an organization and
+you want to enable your team with this
+tool, then you could pre-train the bot,
+pre-train the agent, and then they can
+just use it, right? Because they don't
+need to change their information. But if
+you did want to monetize this and let
+this be, you know, exactly to for
+different industries and whatnot, you
+would just add that in Appy. And and um
+the thing to keep in mind here, and you
+know, going back to your question that I
+want to highlight, and this is probably
+where most automations break down, is,
+you know, I'll go back to my screen
+share here.
+When you want to update this automation,
+it literally means going inside nodes,
+right? So I would need to
+Yeah, in N8N or anything else, I'm like
+going inside nodes and changing things,
+right? Again, it's not technically code,
+but it's not exactly simple. Right.
+Yeah, there's there's still learning
+curve for sure. Yeah, but whereas in
+Appy, you don't have to remember how you
+built this, right? And everything you
+change in N8N, you might break it,
+right? Cuz you're like, oh shoot, if I
+change something, I might break
+something else. But here, you would
+literally just tell it. So originally,
+you'll see, just to give you an example,
+originally when I built this, it was
+just LinkedIn.
+It was just LinkedIn,
+right?
+And then I just went down and I said,
+"Hey,
+um let me find the exact problem." I
+just went down and said, "Hey, can you
+actually also uh update this for X?" I
+think it's over here. Right? X and
+LinkedIn and and and I mean Instagram
+and and uh Facebook, and it's like, "No
+problem." It just did it.
+Right? So
+>> you want to add a platform, you're
+saying you just prompt it with English,
+right? You're like, "Hey, you know, this
+This is great. Let's add another
+channel." Or "Hey, let's
+add add image generation to the
+capabilities." Absolutely. Absolutely.
+You could just say, "Hey, add
+Pinterest." Or and again, like I'm we're
+doing social media here, but the point I
+want to get across is
+this could literally be for anything.
+You could do this for lead gen. You
+could say, "I want you every single day
+to find leads from this thing and email
+me the leads, or email the leads for
+me."
+You you you could make an agent that you
+that you would normally you would have
+to wire up, you could make an agent for
+any use case. Right? Like you could say,
+"I want to make an onboarding flow where
+you come here and all you do is enter an
+email address for someone." And then a
+client onboarding flow, and you enter
+that, and then it makes these templates
+or whatever, and it sends emails to the
+client. You could like any manual
+process you're you're doing that can be
+automated by an AI agent, you could just
+describe the scenario, and it'll just
+build it.
+Right?
+>> And then you can go and deploy that
+agent, too. Like you said, it's like if
+you want to turn around and sell that
+agent, you can. If you want to deploy it
+just to your organization and your team,
+you can, which just involves pressing
+that publish button in the top right,
+right? That's it. You just publish it
+and it's live, right? And it even kind
+of makes And of course, you can you
+know, it even makes like a little
+webpage for you.
+Not the best webpage, but you could
+Right, but it's something that Yeah, but
+you could then tell it, "Hey, no,
+listen, I want the webpage to be like
+this."
+Right? And then right? So like I'm
+saying like it's absolutely insane that
+you're like at 85% with one prompt.
+Like if you've ever worked with a
+developer, have you ever built any kind
+of automation to think that in like one
+prompt in 10 or 15 minutes, you're
+literally getting a solid V1 that's
+literally usable and you can share.
+I mean, it would have taken you probably
+what? 4 to 6 weeks and what? 10, 20,000
+dollars for a developer to do this like
+a year and a half ago? Probably even
+like a year ago at this point. Right? Or
+and like Corey, look, like you and I
+build automations. Like it would have
+cost you a few thousand dollars with an
+automation agency if they did this for
+you with N8N or make.com. Yep. At least.
+At least. And not to mention the
+how many calls you had to get on to talk
+through it and you know, your
+preferences and then troubleshooting. I
+mean, there's just so much back and
+forth that's involved with that, but
+I've never used Appy before this, but I
+think I'm going to start. Like this is
+really cool. Yeah, man. And like look at
+this, right? Like also, there's an
+interface here, right? Like all the
+previous posts are here.
+Right? And I'll show you guys something
+a little bit more advanced. Like you
+could go into the theme, and it
+actually, you know, you can start
+messing with it cuz it made it into a
+real app. You can go into
+configurations. If you do want to do
+things a little bit more manually, you
+want to tweak the context, you want to
+tweak the workflow, you can actually do
+adjustments manually as well if you
+want.
+Or you can just chat and just tell it
+what you want without having to mess
+with any of this stuff.
+I love it, man. This is so cool. Well, I
+mean, again, this is my first experience
+with Appy. I can definitely see the
+value here. I also clearly see how it
+differs from
+other tools out there. I mean, again, it
+seems like this is probably the best
+tool for if you want to create like a
+custom web app that you can then deploy
+to your team or deploy
+or or sell. Like you could build it with
+Claude code, but I mean, you're that's
+that's the more advanced route. And
+that's if like you want really want to
+build it from scratch and you want it to
+be super custom.
+But I mean, like you showed us, Appy can
+get you 85% of the way there in about 15
+minutes. So for your everyday automation
+that maybe previously you would have
+built in like an N8N or a make.com,
+I mean, Appy seems like to me is is the
+easier choice now. Yeah.
+Yeah, I would I would agree. And I
+think, you know, I I think the thing I
+want to stress here is that, you know,
+Appy's a great tool and I'm playing with
+it here, and but I think the idea here
+is
+there are Appy's a great tool. I would
+recommend it and and you know, it's
+doing things really uniquely, but there
+are other no-code tools out there just
+like this right now, right? There's a
+videos on the channel, cool stuff you
+can do with Replit. You could literally,
+you know, and and we won't go into it
+today, but just to give you an idea, um
+you can make a mobile app and deploy it
+to the App Store in one prompt,
+basically, right? And so, I think like
+this is such a unique time right now.
+And I think that's the stress like, you
+know, you you know, I I I I say that
+because, you know, I'm always hesitant
+to say it's the best tool right now. I
+think You know what I mean? I say that
+because yeah, because I but I haven't to
+your point, Corey, and this is same for
+me. I have not seen another builder
+kind of unify the
+building experience with the usage
+experience. Cuz here here's the other
+part, you know, in case someone missed
+it, is
+now when I want to use this tool,
+not only I don't actually have to go
+back into Appy and sign into this
+development view. I can use the the
+version that's published on the web that
+I gave you. Mhm. Right? So it's it's
+like, you know, once it's created, you
+don't have to go back into the creation
+view. Like it's now an app that'll live
+in your actual workflow. You're not
+going in here and using it in here, and
+you're not restricted to doing that,
+right? And for a tool like this, maybe
+that doesn't matter, but
+picture all the other tools you're kind
+of you might make, right? Where you
+don't want to log back into something
+like a builder like with some other, you
+know, uh no-code tools, you still have
+to go back to the no-code tool itself.
+But Appy, what's so cool is it makes an
+interface for you.
+So you're you're saying that it's like,
+"Well, hey, I built this app." And maybe
+it's I'm hosting it at like
+kevinsapp.com, just making something up,
+right? And it's like, "Well, hey, when
+it's done and I'm done building it and
+I'm it's working the way I want it to, I
+can just keep going to kevinsapp.com and
+using it like a software. Like as if I'm
+using like an out-of-the-box software
+instead of having to go back into Appy
+and logging into the back end and like
+running it manually. That that's kind of
+what you're saying. Like it's basically
+a software that you created, and now
+you're you're you're your own customer.
+100%. And again, that's it's you know,
+maybe for some someone that's not as
+much of a big deal, but once you have
+all a ton of these automations and
+workflows running, and you're looking
+for the right workflow, and you're
+looking for things, like it can just get
+hairy, right? Whereas, you know, you
+exactly, you have something that you
+made yourself an app, and if you ever
+want to update that app, you just go
+back to Appy, you update it, you hit
+redeploy, and your version that you use
+on the web updated.
+That's sweet, man. I love it. And you
+did a really good job in simplifying it
+and just breaking it down. So
+So Kevin, I mean, where, you know, I
+know you had mentioned the video, you've
+got the full tutorial as far as like
+step-by-step how you built the specific
+uh
+agent, and that's going to be on or that
+is on your channel, and we're going to
+link it in the show notes and in the
+description. But I'm going to side from
+that, Kevin, where do you want people to
+go and follow you or or go learn more
+about you? Yeah, just check out
+and um you know, you I do a lot of
+tutorials like this, and you know, my
+philosophy really is around
+what are the tools you should be using,
+and how are they actually going to drive
+the needle for you in your business,
+right? Cuz there's a lot of noise out
+there with AI. But something like this,
+like just to bring it back to this,
+the reason I built this automation for
+myself,
+the reason I built it for myself is
+because I make a lot of video-based
+content, but I don't have the time to
+make text based content. But I know that
+there are there are we were Corey and I
+off camera we just talking about the
+power of X. Right?
+>> Yep. So so you know there are platforms
+that I'm not on, but I don't have the
+bandwidth to also do it. So how do I
+make something practical that's actually
+going to give me time and and and and
+and you know leverage in my business
+without spending days or weeks trying to
+build something out and tinkering with
+it, right? And so if you want to learn
+how to kind of get more leverage in your
+business and really you know use tools
+the right way
+that don't distract that actually add to
+your business, then you know that's kind
+of really what I pride myself in in in
+in showcasing and so you'll find a lot
+of tutorials just like this on the
+channel.
+I love it man. Well people can go and
+follow you there on YouTube and of
+course we'll have your links in the
+description.
+So Kevin thank you for the time and for
+everybody that tuned in we'll be back
+next week with another build. Awesome
+man. Hey Corey it was a pleasure.

@@ -1,0 +1,308 @@
+Lately I've realized that there are
+many people in the
+infoproduction market who aren't tracking their
+data and therefore don't know what the
+next [music] move is.  And
+there are many people who are constantly putting in inputs
+, who are working 8, 10, 12
+hours a day, putting in those
+inputs, without knowing exactly what
+[music] outputs they are going to get in return
+through this data tracking.  And since I
+realized this, I started
+setting up a complete tracking system
+for each of my clients so I could
+know exactly where each
+person's [music] comes from and be able to duplicate what
+works and eliminate what doesn't.  And today I
+'ve decided to reveal a large part of it to you
+.  In a way, this part is the
+beginning of this tracking system
+because it's where we're going to collect
+data on where each person comes from
+through UTMs.  UTMS tags are
+placed at the end of a link to
+person [music] who is clicking on
+that link is coming from and to collect data on what
+is working so that it can be duplicated and
+on what is not working so that it can be
+[music] removed.  That's why I'm
+going to give you the UTMS generator along
+with a complete guide and the
+[music] scripts apps that can save you a
+lot of money when automating it.
+So let's get to it.  Once inside
+this SOP that I have been updating,
+as you can see, this is the fifth version of the
+SOP and I am going to give it to you.  There will be
+many more versions, but only for my
+clients.  And what you're going to set up is
+the UTMS generator, which I'll
+give you ready-made, the
+Lovable script so that the UTMS are sent to the
+schedule button automatically,
+and make make make.com to transfer the
+data from Cendly to the sheet, which will
+be free and you won't need any code,
+okay?  You don't need to be a technician or an
+expert to do this.
+Simply follow the steps and you
+'ll have it very easily.  The
+first thing we're going to do is
+open Google Sheets.  Once inside,
+we're going to take the file and create a
+copy.  Okay?  You can put your name on this copy
+.  I'm going to put Guillermo and
+inside we'll be able to replace each URL,
+each source, each medium, each content
+data, with the data of the video you're going
+to upload, the piece of content, the bio.
+If you don't understand, I'll explain it to you
+in a very simple way.  First you're going to
+get the URL of your website.  This will
+always be the same, from your landing
+page, from wherever you are sending
+people.  In this case, I'm going to
+get it from Lovable, because that's where I
+put together this example for the video.  And you're
+just going to stick it here, okay?
+In any of the rows.  If
+10, 11, 12, 13 and the
+others don't work for you, just double one of the ones
+from 4 to 9, okay?  And it's going to work for you.
+Now in source we're going to put where they're
+coming from.  If in this case I am going to
+upload a YouTube video, I will create
+a new row that says YouTube.  If I'm going
+to put a new CTA on Instagram, I'm going to
+put Instagram, okay?  Or email, email.
+It's very simple.  For Medium, you'll find
+some references here in the guide itself
+to give you a glimpse of how they work,
+but I'm going to recommend that you don't
+use Medium much and
+just stick to video, okay?  Why do
+we have a medium?  Because on platforms
+like Instagram there is a distinction
+between the bio and the lead magnets,
+for example.  And this is where we make that
+distinction, because the more
+precise it is, the better data we have and the
+better moves we can make.
+So, what day did we upload the video?
+In this case, I'm going to upload this video,
+for example, on March 7th, which is today,
+okay?  And I would put 7 mar to know
+exactly which video
+people are accessing and
+this link will be created automatically, okay?  This link
+has already been updated with this data and
+we will have it soon.  Something very important to
+keep in mind is that, as the
+guide says, you can't track
+individual reels, since you can't
+click on them, unless it's a CTA through
+ManyChat, you won't be able to, okay?
+So, that's why we have the
+medium, and you can put the date of the re
+to remember more or less where
+people are coming from, okay?  But on
+Instagram it won't be as accurate as
+we'd like.  Now, if you have a
+website on Lovable, which I'm going to recommend you
+do, obviously they haven't paid me,
+but I make a lot of websites, both
+funnels and WhatsApp funnels, such as
+opets, webinars, I usually
+do everything here.  So, I'm going to
+recommend that you create the website here.
+If not, just, hey, go to Chat GPT,
+go to Cloud, go to your trusted guide and
+ask them how to adapt the guide for your
+type of website and they'll tell you
+very simply.  But for Lobaball it
+'s very simple, we're just going to
+copy the link of the first promo, and
+paste it.  As you can see, you need to fill in
+your complete Cenly link here.
+Okay, I'm going to go to the Cenly link and
+copy it here.  Copy the link and I'll just
+post it.  Okay, we've got it.   I
+simply give it to him and wait for him to
+exchange it.  We've got it.  The first one
+is fully updated and we're going to
+go with the second prompt that's here.
+Okay, we copy it, we simply
+paste it here and as you can see we do
+n't really have to change anything, so we
+give it to him and let him do all the
+work.  As you can see, I already had it
+implemented, but what it's going to do is
+change it for you.  Now,
+let's just do a quick
+check.  We go back to the guide,
+take the verification link here, and
+simply go to our
+website.  I want you to go to the website
+itself, which in this case will be this one.
+Okay, I hope you have another domain.  Don't
+leave the one from Lovable, please.  This is
+very unprofessional.  And here you're simply going to
+put what we just copied.   We'll put it on
+.  We entered here to schedule a
+free call to the CTA and, if the
+test works well, it should follow the UTM.
+Okay, let's do it.  And as you can see,
+the UTM continues.  That means the UTM hasn't
+disappeared when moving to Cenly and has
+stayed.  So, we know exactly
+where each call comes from, and this
+is truly incredible when it comes to
+data tracking.  Once
+we've verified that it works,
+we'll simply close this page and
+return to the guide.  The third step
+we're going to follow is to go to make, which is going to
+be a bit more technical,
+but well, we're going to follow it step
+by step so that nobody gets lost and it's as
+simple as possible.  So, within
+make.com we are going to create a new
+scenario.  Here we're going to add a new
+module, okay?  We'll see it in the
+guide if you want to go through it step by step,
+which tells you to create a new
+scenario, then to create the
+Cen League watch module, in this case it says
+watchbtis, but it's really watch
+events, which is what we're going to put.
+So let's click on the plus sign here,
+let's select calendly.  If you want,
+you can directly set up watch events.
+Now we're going to create a new webhook,
+okay?  And I already have it
+connected, but what it
+will automatically do is take you to the
+Calendly page for you to accept it.  In events
+you're going to put created, okay?  Are you going to
+leave it like that?  In the organization section you're going to select
+from the list, and here you're going to put your
+organization, and in
+this case it's going to show Gestiflow, okay?, which is an
+account I had.  Now it's simply
+connected and we're going to save it.  Once it's
+saved, we're going to add another module, which
+will be the Google Sheets module, okay?  Very
+simple, Google Sheets.  In this case
+we're going to choose add arrow, okay?  And here
+we're going to create a new connection.  We're going
+to sign in with Google
+and here we're going to give all permissions
+to make.com.  And once the
+connection is created, we're going to choose exactly
+which folder we want.  The
+folder, I remind you, is going to be this one
+here, the agenda record.  If
+you want to connect it to a
+much more complete dashboard, you can, but for now we're
+just going to do it through
+this Google Sheets, which, well, is
+obviously much worse because you can't do
+classifications, you can't manage the
+data, use an LLM to ask questions about
+the data; it's very interesting for
+systems and processes, but for now we're going
+to keep it simple.  So we're back
+here, let's choose exactly what
+the spreadshe name is.  In this case we have
+called him Guillermo.  Okay, let's see if Guillermo comes out
+.  Now we're going to give it a sheet
+name, agenda registration, and
+then we'll configure everything
+with the guide.  Okay, here's the
+complete mapping, so you'll do it one by
+one because I don't want to do it in the
+video, it's going to be too long, but I'll
+do it in a moment and come back.
+Once we have it, we're simply going to
+press the 's save' command or directly press
+this save button.  Once we have the
+integration saved and activated,
+we will simply return to the guide and it
+will tell us how to do the
+final test.  You are going to open your landing page.  In
+this case, mine is this one.  We're going to
+book a free call from the
+UTM, uh, that is, you're going to go to your
+sheets, you're going to go to the generator and here you'll
+have your custom link.  Whenever
+you want to create a lead magnet, add
+a row here and you'll have
+UTM tracking to know if they're
+coming from that video, if it's
+working, because views,
+likes, and comments won't tell you
+if the video is actually selling.  So,
+let's copy the link.  We're simply
+going to paste it into a new tab.
+Let's schedule a
+free call.  And as you can see, the UTM is still
+here, okay?  The UTM is the one we
+had already pasted.  Now we're going to schedule
+the free call, in this case on the 10th
+at 4:30 and we're going to put my name, well,
+me, Guillermo Hernández.  I'm going to
+put it here and I'm going to put Guillermo F.
+Okay.  And here I'm going to put whatever.  And
+once we have it, we're simply going to
+schedule the call, and what this
+will do is track
+exactly where that
+person who scheduled the call came from,
+because likes, comments, and views don't always
+tell us if the video is converting, and
+through UTMs we'll know if that
+video is converting.  Although this
+dashboard is quite precarious, because
+as you can see in the agenda log
+the new agenda should have appeared
+.  Here it is.  This is the last one
+here.  Uh, it was at this time and it comes from a
+YouTube video and this is fine, it doesn't appear
+here because it appeared above.  You have to be
+very careful with the
+dashboards, but overall it works
+perfectly.  So, just
+remember that every time you upload a
+new video, you have to add the
+page here.  Let's copy it, let's
+put my landing page here, and in this
+case, let's do another test, okay?
+Email newsletter week 1. This is something
+completely different, it's not YouTube.
+So let's go to the link, let's
+schedule a call from that link.  which
+would be from the email.  Let's schedule the
+call for the 12th at 5 pm.
+Name: Guillermo Hernández Fuertes.
+Guillermo Ef.  Okay, I'll use a different
+name, alright?  Whatever.  And I'm going to put
+30, okay?  Automatically, we will
+have a new column that
+tells us when the call was scheduled,
+who scheduled it, what email address, and
+where the person came from.  I hope you
+enjoyed the video.  If you want to
+implement this and many more
+tracking systems in your business, schedule a
+call with me using the link in the first line of
+the description.  I want you to understand that
+many people in infoproduction and
+consulting are saying they do
+data tracking, but these systems don't really make
+sense; they aren't
+simple systems that actually work, and that's what
+I want to break in this
+current market.  As I said, you have the
+complete guide in the description of this video,
+and I'll see you next time.

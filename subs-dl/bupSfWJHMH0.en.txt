@@ -1,0 +1,938 @@
+Critical thinking has always been an
+interesting subject to me. On one hand,
+it seems easy enough to understand. Many
+people seem to be aware of certain
+aspects of critical thought, but I
+myself have not always thought
+critically when making decisions or
+coming to conclusions. And when I look
+at others, I see similar mistakes. For a
+long time, I've wondered why that is.
+Why is it so easy to understand critical
+thinking but so hard to put into
+practice? [music] When I first started
+writing this episode, my plan was to
+just talk about how critical thinking
+works. But every time I tried to explain
+it, my explanations came up short. So
+instead, I decided to talk about what I
+do know, which is my own mistakes and
+the mistakes I see others making. So
+that's what today's episode of the list
+is going to be about. Instead of giving
+a detailed treaties on how to think
+critically, I'm going to explain why
+critical thinking is difficult and why
+so many people fail at it. Now, I know
+some of you are wondering what's going
+on with the blue system, but before I
+get to that, just a quick reminder that
+you can sub to this podcast on YouTube.
+Give this episode a like if you enjoy
+it, and leave a comment letting me know
+what you think about the episode. So,
+here's what's going on. Version one of
+the site has been released. It's
+available at app.bllearn.org.
+We searched around for some good domain
+names, but most of them were taken. I
+was able to get the bluesystem.net, but
+basically, we decided that one was too
+long to type out. And obviously someone
+took blueue.com and blue.org a long time
+ago. The shortest and simplest domain
+related to blue that we could find was
+bluelearn.org.
+So we just went with that. We even filed
+the incorporation paperwork under the
+name bluelearn. So officially the blue
+system is going to be bluelearn inc from
+now on. After the initial excitement
+died down from the blue system video,
+there were a handful of members left
+over who were actually dedicated to the
+long-term vision and have been working
+tirelessly on the site. And to my
+surprise, most of the features that I
+talked about in my video are actually
+being implemented or are planned on
+being implemented. But because the site
+is still in its infancy, and because we
+don't have a lot of developers, there
+are still some bugs that need to be
+worked out as well as some features
+missing like the ability to download
+guides. But we are planning on
+introducing more features in the coming
+months and years. There were a few
+compromises that I had to make on my
+vision for practical reasons. There was
+also some drama on the Discord in the
+beginning, but we've gotten through it.
+And now, after four months of
+development, Bluelearn V1 has officially
+launched. Our Discord is also sitting at
+over 5,000 members. All in all, I think
+we've gotten pretty far in a relatively
+short period of time. The main things we
+need right now are talent and content.
+In terms of talent, we just need
+programmers, plain and simple. Front
+end, backend, whatever you got. As long
+as you know TypeScript, Hono, Tailwind,
+CSS, or React 19. Right now, our
+development team is really small and
+most of them have other
+responsibilities, so progress is pretty
+inconsistent. On top of that, one of our
+lead devs recently stepped down from his
+position due to school responsibilities.
+It would be very helpful if we could
+find engineers who were willing to work
+consistently on the site year round, but
+really anyone with the relevant
+experience and a bit of free time is
+welcome to join. You do not have to be
+an expert. We are planning on making the
+developer position a paid position at
+some point in the future. So hopefully
+someone watching this will be interested
+in helping us build. In terms of
+content, we just need people to write
+guides. We've already got around 100
+guides on the site so far, which is
+really cool. But obviously, we want more
+since we want our walkthroughs to be
+highly extensive. Anyone can submit
+guides for publication. All you need to
+do is create an account. So if you want,
+visit app.bllearn.org
+to see our progress. And yes, there's
+currently a Bo Burnham reference on the
+front page. It wasn't me, I swear. One
+last thing, as a show of my dedication
+to this project, the text of the episode
+you're listening to will be available as
+a walkthrough on Bluelearn. Like I said,
+we needed content for the site, so I
+figured why not turn my episode into an
+actual walkthrough. All right, now on to
+the episode.
+So, if we're going to talk about
+critical thinking, we should probably
+define the term critical thinking first.
+The problem is there is no one universal
+agreed upon definition of critical
+thinking. Linda Edler and Richard Paul
+define it as the art of analyzing and
+evaluating thinking with a view to
+improving it. Robert Andis describes
+critical thinking as reasonable
+reflective thinking that is focused on
+deciding what to believe or do. The
+foundation for critical thinking defines
+critical thinking as self-directed,
+self-disciplined, self-monitored,
+self-corrective thinking. John Dwey, who
+arguably popularized the idea of
+critical thinking, viewed critical
+thinking or reflective thinking as more
+akin to a scientific process in which
+you experience a difficulty, define that
+difficulty, form possible solutions to
+it, explore the consequences of those
+solutions, and then test them. Now, from
+looking at these definitions, we can
+obviously see that critical thinking
+involves careful reasoning and analysis.
+But another thing you'll notice is that
+these definitions are all extremely
+broad. They don't tell you precisely
+what critical thinking is. That is
+unless you're talking about John Dewie's
+definition. The problem with John
+Dewie's definition, in my opinion, is
+that it doesn't mention anything about
+analyzing your own thought process. For
+most of my life, my experience with
+critical thought involved continually
+scrutinizing my own beliefs and asking
+why I thought the way I did, trying to
+come up with the most accurate answers I
+could. not just answers that sounded
+good, but answers that were true and
+testable and lined up with the rest of
+my observations about the world. Doing
+this helped me learn a lot, not just
+about myself, but also about others and
+helped me form my own views about the
+universe as a whole. Of course, the term
+difficulty can technically include
+psychological difficulty. But in my
+mind, the term difficulty implies a
+specific outward struggle, and I don't
+believe critical thinking has to always
+involve that. So, for the purposes of
+this episode, I'm going to be using a
+slightly modified version of John
+Dewie's definition. Instead of the word
+difficulty, I'm basically just going to
+replace it with phenomenon, which is a
+bit more general. So, my definition of
+critical thinking will be experiencing a
+phenomenon, defining that phenomenon,
+forming potential explanations or
+solutions to it, exploring the
+consequences of those explanations or
+solutions, and then testing them if
+possible. Of course, this definition
+isn't really much different from John
+Dewie's, but since the word phenomenon
+includes psychological phenomenon, I
+tend to prefer it. The good thing about
+this definition is that it contains a
+specific process. It's not just some
+vague words about reasoning. Well, it's
+almost scientific in nature. The bad
+thing is that this process is still
+pretty general. For example, how exactly
+are you supposed to test an explanation?
+Well, the truth is there is no one
+single way to test an explanation. And
+this leads us to the first reason why
+critical thinking is difficult, which is
+that each situation is different.
+There are many things you can say about
+our universe and the beings in it. But
+one thing that's clear is that there's
+an incredible amount of complexity built
+into the universe and its components.
+And two reasons for this complexity are
+one, there are so many factors that
+affect each situation and event. And
+two, each of those factors are
+constantly shifting and changing.
+Imagine you're sitting at a table eating
+breakfast and you ask a simple question.
+Why doesn't the table I'm sitting at
+fall over? This question sounds like it
+should have a simple answer on the
+surface. But there are more factors
+involved than you might immediately
+assume. First, the table might have four
+or more legs preventing it from
+toppling. But those legs must be
+positioned in a specific way or else the
+table would topple over. The legs also
+usually have to be equal length, but
+only if the table is on a relatively
+flat ground. And it's not just the legs
+that matter either. The material that
+the table and legs are made of also
+factors into its sturdiness. That
+material will have its own unique
+properties on a molecular level. And
+those molecules are constantly moving.
+Which means if you left that table alone
+for hundreds or even thousands of years,
+the table would slowly change in
+appearance and structure and would
+eventually become less sturdy and
+possibly topple over. Then there's the
+hardware that's probably holding the
+table together, such as nails or screws.
+the material and sturdiness of that
+hardware also plays into the sturdiness
+of the table overall. Secondly, the
+environment must also be free from
+disturbance for the table to stay
+upright. If a strong enough gust of wind
+blows through your living area, the
+table will likely fall over. Unless the
+table is attached to the floor, but
+those attachments must be strong enough
+and must be fastened correctly. If the
+living area became flooded, the table
+would likely float away depending on how
+extensive the flooding is. If a car
+crashed through your living area and hit
+the table, the table would likely topple
+or break. This depends, of course, on
+the material the table is made of and
+how hard the car hits the table and the
+angle at which the crash occurred. If
+someone purposely tries to turn the
+table over, the table will likely fall.
+But this depends on how exhaustive their
+efforts are. The point is, even
+something as simple as your breakfast
+table staying upright has an incredible
+number of factors going into it. What
+this demonstrates is that complexity is
+part of pretty much every circumstance,
+event, object, and property in the
+universe, and the exact factors are
+different in each case. This complexity
+means that each situation, whether it's
+mental, social, or physical, is going to
+be unique and will contain its own
+specific mix of details. Some situations
+are easier to analyze than others. But
+you can never treat two situations
+exactly the same because there are no
+two situations which are exactly the
+same down to the molecule. People might
+claim that certain situations are
+identical, but if you were to take an
+honest appraisal of all the factors
+involved in those situations, at best
+there would only be certain aspects
+which are identical. This is because of
+the evershifting, ever complex nature of
+reality itself. So because each
+situation is different, it means there
+is no one way to test an explanation.
+There's no one way to explore the
+consequences of a phenomenon and there
+is no phenomenon that exists in
+isolation, at least not in this
+universe. Therefore, in order to even
+start thinking critically, each
+situation has to be treated as its own
+separate case and evaluated on its own
+merits. And it can be hard to do that
+because we as humans tend to prefer
+simplistic explanations and ideas.
+Simple ideas are easier for our mind to
+digest. But that doesn't automatically
+make those ideas true. The whole point
+of critical thinking is to move you
+closer to the truth, not necessarily to
+make you comfortable or to make things
+easier for you.
+The next thing that makes critical
+thinking difficult is being aware of and
+remembering all the factors involved in
+each situation. As mentioned before, the
+universe is filled with complexity. This
+means that there will inevitably be a
+variety of factors involved in every
+case you encounter. Sometimes those
+factors are extremely large in number
+and sometimes you won't even be aware of
+all the factors affecting a situation.
+This creates a huge problem if your goal
+is to move closer to the truth. If you
+aren't aware of or don't remember all
+the factors involved in a case, it will
+limit your ability to reason about that
+situation. Your explanations will be
+lacking. Your analysis of consequences
+will come up short. Your definitions
+will be incomplete, and you might not
+even know it. But there's one big secret
+nobody tells you. Most people most of
+the time aren't aware of all the factors
+involved in each situation. Even
+professionals whose job is analysis
+can't be aware of all factors involved
+in every case. Why? This again goes back
+to the universe's complexity. Because of
+how astoundingly complex the universe
+is, there's almost always the
+possibility that some factor you don't
+know about is affecting outcomes and
+situational analysis. Just consider
+this. If we knew about every factor
+involved in every case, then nothing in
+the universe would be unsolved. Every
+problem would have a concrete solution.
+Every question in science would be
+answered. we would know everything about
+everything and our lives would
+presumably be perfect. But that
+obviously hasn't happened yet. Well, one
+of the primary reasons we haven't
+answered all questions is because there
+are still factors we're unaware of as
+humans affecting outcomes and
+environments. Those factors can come in
+the form of physical phenomenon or
+abstract rules and concepts. In any
+case, humans simply aren't aware of all
+things because they can't be. Even the
+masters of various fields know this. If
+you're trying to think critically about
+a situation, you must consider all the
+factors you know about. You can't expect
+to be aware of all possible factors.
+However, as a critical thinker, you
+should always be seeking to increase the
+amount of relevant factors you're aware
+of and taking into account. This often
+means increasing the number of
+perspectives that you're aware of as
+well as the number of details you know
+about. Also, it's easy to overestimate
+the importance of certain factors and
+underestimate the importance of others,
+especially without firsthand experience
+of an issue. It's extremely common for
+people to look at a situation from the
+outside and think that certain aspects
+are extremely important, unaware of
+their actual relevance. This is why
+having direct experience in a particular
+field helps with the critical thinking
+process. One of the main ways that
+manipulative people will twist the truth
+is by neglecting certain factors. by
+making relevant factors appear
+irrelevant and by making irrelevant
+factors appear relevant. So if you want
+to be resistant to manipulation, it's
+crucial to know what's relevant and
+what's not in each case that you're
+trying to evaluate. And if you simply
+don't know about the factors involved,
+then it's important to acknowledge what
+you don't know. It's also important to
+mention that each person's thought
+process and perspective is going to vary
+and that includes you. Because there are
+so many factors that affect each
+circumstance. Because some factors may
+be hidden, because people have different
+preferences and values, and because
+there is no single authority that can
+tell you which factors to consider, it
+means people very often come to
+different conclusions about the same
+situations, even if all of them are
+thinking as critically as they can. And
+yes, this is even true in the sciences
+and among people who are extremely
+knowledgeable. Quote unquote experts
+disagree with each other all the time.
+And it's mainly due to how they
+prioritize and evaluate the various
+factors involved in each case. When I
+was younger, I remember thinking, if I
+could just get everyone to agree with
+me, things would be better, as if that
+was something that could actually
+happen. But as I've gotten older, I've
+realized how absurdly unrealistic that
+idea is. And the reason why is because
+people aren't clones of each other. The
+mind and its predispositions affect
+thought processes. And because each mind
+is unique, it means no matter what
+anyone does, varying opinions will
+occur. Also, in many cases, the factors
+affecting a circumstance are things that
+no one has even pointed out. Which means
+to think critically, you must have some
+level of creativity. So that you can
+think of what outside factors could
+potentially be affecting the situation.
+If we're using the modified version of
+John Dwiey's definition of critical
+thinking, then critical thinking usually
+involves exploring the consequences of
+things. You need some level of
+imagination, creativity, and practical
+understanding so that you can think
+several steps ahead in the logical
+consequence tree. Creativity can't
+strictly be taught, but it is usually
+helpful if your goal is to analyze as
+many potentially relevant factors as
+possible. The factors you're aware of
+and the ways in which you think about
+them are extremely important aspects of
+critical thought. And sometimes there
+are so many factors involved that it's
+hard to even remember them all. Just
+remembering everything you want can be
+its own challenge, especially if you're
+prone to memory problems or operating on
+bad sleep or distracted or intoxicated.
+In any case, the evaluation of factors
+may be the single most difficult thing
+about critical thinking.
+The third thing that makes critical
+thinking difficult is that critical
+thinking must be learned. It is not
+something that comes naturally to
+anyone, nor is it something that you can
+just know from the time you're born.
+Quite the opposite. In fact, by default,
+our human brain tends to lead us toward
+various biases that many of us don't
+even realize we have. If you've never
+been trained to think critically, and if
+you're not aware of your own biases, you
+will likely default into bad reasoning
+patterns, even if you don't intend to.
+And even if you have trained to think
+critically, there will likely be times
+where you slip up. Biases are
+practically baked into human software.
+So, in order to counteract this, you
+must understand the biases that you are
+predisposed to. If you don't, it will be
+impossible for you to think critically
+on a consistent basis. Some common
+biases and logical fallacies are appeal
+to authority, appeal to popularity,
+appeal to emotion, straw man,
+raification, fallacy of composition,
+false dilemma, circular reasoning. Now,
+there's a very strong tendency for
+people to assume that they themselves
+are smart and know how to think
+critically while never paying attention
+to, looking for, or acknowledging their
+own bad thinking habits. And everyone
+has bad habits, but if you never look
+for them, you'll never find them, and
+you'll certainly never correct for them.
+Some bad thinking tendencies can be
+explained by cultural trends. Currently,
+in the Western world, the internet tends
+to reward blind confidence, simplistic
+ideas and explanations, pursuit of base
+desires, extremism over moderation, and
+dehumanization of people who disagree
+with us. If humility was a stock price,
+it would be way down, while
+overconfidence would be way up. It's
+easy and common for people to point out
+the mistakes they think others are
+making. But how many people are
+genuinely looking for their own flaws
+and trying to correct them? Far fewer.
+Instead, many people assume that they
+were simply born with the ability to
+reason properly. But the only way to
+believe this is to simply be unaware of
+the mistakes you're making. It's also
+interesting that the same people who
+believe they make no mistakes are eager
+to point out the flaws in others. This
+tells us that on some level,
+overconfident people know that the human
+mind is not a perfect reasoning machine
+by default, but they assume flaws only
+apply to others, not themselves. Rather
+than assuming your every thought is
+perfect, it's much more productive to
+assume that you make mistakes and to be
+constantly on the lookout for those
+mistakes so that you can counteract
+them. This requires you to
+constructively criticize your own
+thought process. However, it's important
+to note that blind self-criticism is not
+the same as critical thinking. Many
+self-critical people make mistakes in
+the way they criticize themselves. Often
+times, those mistakes are simply biases
+but reversed. For example, one common
+bias is called fundamental attribution
+error, which is essentially when a
+person is empathetic and understanding
+of their own circumstances but not
+empathetic towards other people's
+circumstances. Well, what a
+self-critical person might do is reverse
+this. They'll be empathetic toward other
+people's circumstances but not their
+own. In both cases, fundamental
+attribution error is a flaw and
+constitutes a bias. But an overly
+self-critical person might be more
+predisposed to the reverse version of
+that bias. The point is critical
+thinking is not merely about criticizing
+yourself, but about constructively
+taking apart your own thought process to
+counteract biases and approach true
+conclusions. No one is born with the
+ability to reason perfectly. Critical
+thinking must always be learned and
+trained in order to be consistent. And
+that learning process can take years.
+Sometimes the reason why it can take so
+long is because of strong emotional
+attachments. Emotional attachments are
+an extremely common factor affecting how
+hard biases can be to let go of. Which
+leads us to our next topic.
+The fourth thing that makes critical
+thinking difficult is that it requires
+some level of emotional detachment. It's
+a trope, but there is some truth to the
+idea that a person who's always using
+logic and thinking critically comes
+across as emotionally neutral or
+emotionally blank. Like the character
+Spock from Star Trek. However, from the
+perspective of the thinker, some level
+of detachment is necessary. And the
+reason has to do with what we discussed
+before, human bias. Emotions, while
+powerful, introduce bias into our
+thought process. And that bias can
+easily lead you to hasty conclusions or
+solutions. To think critically, you must
+mitigate your own biases. And that
+inevitably means detaching your thought
+process from your emotions. It doesn't
+mean having no emotions. It just means
+treating the critical thought process as
+separate from your emotions.
+Furthermore, humans have a very strong
+tendency to form emotional attachments
+to their own beliefs and opinions. It's
+extremely easy to question other
+people's beliefs because the emotional
+attachment isn't there. However, if you
+want to be a good critical thinker, you
+need to be able to question the things
+you believe just as easily as you can
+question others. Consider that the
+majority of people walk out into the
+world and silently criticize other
+people's beliefs. But think about what
+that means. If you're criticizing other
+people's opinions, that means their
+opinions are wrong. Well, if it's
+possible for other people's opinions to
+be flawed, wouldn't it also be possible
+for your opinions to be flawed? Even if
+you don't currently see those flaws, in
+many cases, the people you criticize
+probably don't know that they're wrong.
+They probably think they're completely
+correct in what they do. So, if it's
+possible for someone else to be wrong
+and not know it, then why couldn't the
+same thing happen to you? If it is
+possible for you to be wrong, then the
+only way you can improve your thinking
+is to actively look for the flaws in
+your own opinions and then try to
+correct them or counteract them. But how
+do you do this if you aren't aware of
+what those flaws are? To properly
+criticize your own beliefs, you first
+need to be able to identify and define
+your own beliefs. This sounds like an
+easy thing to do, but most people,
+especially adults, carry around
+assumptions that they've never even
+given a second thought to. Simply
+identifying and defining those
+assumptions can be difficult and can
+take years because skipping over those
+assumptions is an unconscious habit for
+most people, almost like breathing. But
+just like you can stop and control your
+own breathing to some extent, it's
+always possible to stop and question the
+assumptions you're making. It just has
+to be conscious. Once you're able to
+identify and define your own assumptions
+and values, a critical thinker must be
+able to go through each one and ask,
+"What if I were wrong about this? If I
+was wrong, what else could be true?"
+Then make a list of those options. For
+each option, ask, "What would be a
+reasonable way of looking at the world
+if this were true? Does anything about
+this world view conflict with something
+I currently observe? Does anything about
+this world view conflict with other
+beliefs I currently have? What things
+would I have to be wrong about for this
+world view to be completely true? And is
+it possible I'm wrong about those
+things? If this world view was correct,
+how would it change the way I live? This
+is what an actual critical thought
+process can look like when applied
+rigorously to your own belief system. It
+also takes some level of honesty to
+admit to yourself that you could be
+wrong about something. But that honesty
+is how you gain more resilient and
+accurate beliefs in the long run. Now,
+if you hear all this and think, "Yeah,
+other people should do that." But you
+don't apply it to yourself, then you're
+completely missing the point. Of course,
+critical thinking is not just about
+questioning your own beliefs. In many
+cases, it requires you to question other
+people's beliefs as well. But
+ultimately, the process is very similar.
+Let's take the claim that confident
+people are good people. How would a
+critical thinker evaluate this
+statement? They might start by asking,
+"Are there situations where this idea is
+not true?" But good critical thinking
+doesn't stop there. Just because there
+might be situations where the belief is
+wrong, doesn't mean the belief is always
+wrong. Critical thinking would require
+you to evaluate both sides of that
+claim. In other words, you have to look
+at situations where the belief is wrong
+and situations where it's right and
+compare them. When I perceive confident
+people as good, is their goodness
+related to their confidence? When I
+perceive confident people as bad, is
+there badness related to their
+confidence? In cases where I think a
+confident person is good, what other
+factors might be playing a role? Are
+there deeper reasons aside from
+confidence that determine if a person is
+good or bad? A critical thinker should
+also evaluate the person who's claiming
+that confident people are good people.
+Could there be ulterior motives or
+biases which factor into why this claim
+is being made? For example, is this
+person part of an organization which
+tells you to say that confident people
+are good? Did their parents teach them
+that confident people are good people?
+Are there cultural forces that might
+explain why they're making the claim?
+For instance, is there a popular trend
+or movement which says that confident
+people are good people? Has the person
+recently taken a psychoactive drug that
+makes them feel euphoric? Someone who's
+adept at critical thinking can ask all
+these questions in their head quickly,
+then pick out the most relevant factors
+and form a likely conclusion from them.
+But as mentioned previously, this is a
+skill that must be learned and does not
+come naturally. It's also important to
+keep in mind that the critical thought
+process is going to differ depending on
+what's being evaluated. The way a
+critical thinker evaluates a scientific
+hypothesis is going to be very different
+from the way they evaluate a statement
+about philosophy.
+Yet another thing that makes critical
+thinking difficult is the elusivity of
+absolutes. Generally speaking, absolute
+truth is the highest goal of critical
+thinking. But due to the natural
+complexity of the universe, the many
+factors involved in each situation and
+the possibility of unknown factors
+affecting things. There are very few
+absolute truths that humans are capable
+of knowing. It is possible for us to
+know some absolutes. But these absolutes
+are usually abstractions, not material
+phenomenon. For example, it's absolutely
+true that 1 + 1 equals 2. We know 1 + 1
+equals 2 due to the laws of logic and
+math. And simple observation, if I see
+one apple next to another apple, I know
+that I have two apples. But numbers as
+well as logic are abstractions. In other
+words, a number is not a material thing
+that we can touch and feel. Neither is
+logic. Instead, numbers and logic are
+used to categorize and describe things
+that we can touch and feel. What this
+demonstrates is that many of the
+of knowing come in the form of
+abstractions. And even then, those
+absolutes are usually only true within a
+specific context. For example, 1 + 1
+does not equal 2 if you are using the
+binary numerical system. 1 + 1 only
+equals 2 if you're using the base 10
+system. One thing you should never do is
+confuse a person's confidence about
+something with absolute truth. There are
+many people, especially in the online
+era, who are highly confident that their
+perspective is the absolute, unbiased,
+can't be beat perspective. That may even
+be you in some cases. But certainty and
+truth have never been and will never be
+married. You can be unflinchingly
+certain of something and still be wrong.
+Of course, a confident person can also
+be correct. But all this shows is that
+confidence is not meaningfully attached
+to truth. So because absolute truths are
+hard to come by, the next best thing,
+usually the only thing that we can do is
+attempt to move closer to the truth. You
+can do this by gathering more
+information, finding and taking more
+relevant factors into account,
+evaluating more relevant perspectives,
+gaining more experience, attempting to
+tie disparate pieces of information
+together, questioning the information
+that you do know, and evaluating the
+complexities of each new detail that you
+find. But this also means that critical
+thinking, if done well, is a tedious and
+time-consuming process. Which leads us
+to our next topic.
+thinking hard is how timeconuming it can
+be. It's easy to list the benefits of
+critical thinking because there are so
+many, but there is a distinct trade-off
+between how thorough you're trying to be
+in your thought process and how
+practical it is to do so. In some cases,
+you might have ample time to evaluate
+the various factors and perspectives
+involved in a situation. Study every
+piece of info you can find on the matter
+and then organize them into neat bullet
+points. But in other cases, time
+constraints may be a limiting factor.
+Not all situations require extreme
+thoroughess and precision to come to
+practical conclusions. And also like I
+mentioned before, it's usually not
+possible to take every single factor
+into account for each case. Thus, for
+the sake of practicality, each critical
+thinker should develop ways of
+prioritizing important factors or at
+least factors that appear important and
+evaluate those first. Through practice
+and experience, each critical thinker
+should also try to develop efficient
+ways of performing evaluation. There is
+no single way to do this. But there are
+a few things that can help. You can see
+them on screen. Again, the purpose of
+optimizing critical thinking has nothing
+to do with truth. It only has to do with
+practicality because many people do not
+have the time to evaluate every nuance
+of something. But just because you can
+evaluate something quickly does not mean
+your evaluations are accurate or
+truthful. If time constraints aren't a
+consideration, then a critical thinker's
+priority should be thoroughess. There
+are highly intelligent people who can
+evaluate lots of factors and information
+extremely rapidly. But speed of
+evaluation should never be mistaken for
+correctness. It will always be the case.
+The more time spent on the critical
+thought process increases the likelihood
+of reaching accurate conclusions. Even
+if you can technically perform the
+evaluation process quickly, there is no
+guarantee that you have all the
+information or factors required to reach
+the truth of a matter. Of course,
+sometimes more time and details do not
+meaningfully change the conclusion. And
+this is why practicality must be a
+consideration.
+Related to this, there are a limited
+number of situations where critical
+thinking is actually not a good idea.
+Now, under normal circumstances, those
+cases are rare, but they do exist, and
+you should be aware of them. The main
+cases where critical thinking should be
+avoided are cases where critical
+thinking would impede an even more
+fundamental goal, such as survival. For
+example, any situation which requires
+fast decisions or reactions. In these
+cases, you must rely on instinct or
+training as opposed to critical
+thinking. It helps if you've adequately
+prepared for such scenarios beforehand.
+Cases where critical thought has already
+been more or less performed to its
+current limits. In these cases, more
+reason can't help you reach a better
+conclusion, and more critical thinking
+will just waste time which could be
+better spent elsewhere. cases where the
+act of open criticism will destroy or
+deteriorate a valuable relationship or
+create social instability. Basically,
+it's not always socially appropriate to
+pick apart every assumption and claim
+that someone makes, especially if you're
+doing it out loud. Doing so can be
+destructive to some relationships or can
+even incite violence in the wrong
+environment. This is highly contextual,
+of course. A wise or experienced person
+is able to tell when critical thinking
+is more necessary and when it's less
+necessary. However, there are far too
+many instances where people use little
+to no critical thinking in their
+decisions. If you've managed to convince
+yourself that any bias, thought, or idea
+you have is automatically correct,
+chances are you're not using critical
+thinking and probably aren't correct in
+most cases.
+The final thing which makes critical
+thinking difficult, which is not
+mentioned on the bluelearn guides, is
+the existence of manipulators, liars,
+and falsehoods. The very fact that it's
+possible for people to lie and even lie
+convincingly means some of the factors
+that you think are important could
+potentially be lies or based on lies.
+Some liars will go to extreme lengths.
+Some people will create entire belief
+systems out of falsehoods. If you were
+raised with one of those belief systems,
+they can be incredibly difficult to
+break away from due to emotional
+attachments. However, since the topic of
+manipulation is such an extensive topic,
+and since I've already talked enough in
+this episode, I'm going to cover
+manipulation in the next part. So,
+that's it for now. Again, if you want to
+support this podcast, give it a like or
+a sub on YouTube. And remember to check
+out app.bllearn.org.
+We actually are trying to bring the blue
+system vision to life. It may not always
+be perfect, and there's still a lot that
+we need to do, but we're improving it
+every day, and it is free for you to
+use. So join the project and create your
+own guides today. And if you want to
+work on the site itself, remember to
+join Discord. Our team would love to
+have you. All right, until next time.
+Take care.

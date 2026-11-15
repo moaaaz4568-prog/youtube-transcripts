@@ -1,0 +1,921 @@
+This video will be a little different because
+today I will be covering how
+I actually use Clay in
+my agency to generate hundreds of
+sales calls every month for
+my clients and as a result have
+generated millions of dollars in
+closed revenue for them.  And
+if you don't know what
+Clay does, it's basically a
+complete workspace where you can
+connect all the different marketing tools
+you want and
+interact with them in one
+central place.  And I think the best way
+to demonstrate or
+show you all the
+different use cases is on
+their website here.  They actually
+have a use case tab.  So,
+they can help you with
+CRM enrichment.  So, if you have
+a lot of contacts in your CRM, it can
+help you find the missing data points
+you want.  You can
+automate your inbound workflow.  So,
+if someone submits a form on
+your site, you can take the
+next automated action.  You
+can run outbound campaigns.  So
+, you can take one
+lead source, enrich another lead source
+, and run campaigns through
+their platform.  And you can
+run account research.  So, you
+can see the accounts you want to
+target, get a lot of data
+about them, and do it all in
+one place.  There are so many
+different tools you can use
+within the platform.  And it's all done
+through the workspace inside Clay or the
+workbook, which is kind of the
+main canvas where you can
+work on everything, which I'll get to
+here in a moment.  Hey,
+hang on, this is a sponsored video
+I made in partnership with
+clay.com.  And because I work
+with them, I can offer
+special deals.  So, if you
+sign up for a paid Clay plan
+using the link in the description
+below, you'll get 3,000
+free Clay credits.  So, if you are
+interested in using Clay, use
+the link in the description below.
+Otherwise, enjoy this free video.  And
+one quick thing I want to
+say is who Clay is for
+and who Clay isn't for, because there are
+so many different things
+you can do inside Clay, there are so
+many use cases, there are so
+many features.  I think Clay is best
+suited for power users: people
+who want to use a lot of
+different tools when running an
+outbound campaign, or people who are planning to
+invest in Tool A, Tool B, and
+Tool C, and they want to have a
+nice, clean, centralized workflow
+where they can work on them
+all together.  Or, instead of
+paying for 10 different tools, they
+just want one single tool
+that they can use.  If you are a
+complete beginner and don't have
+much of a budget, you might be
+better off buying the one tool you
+need or another tool here.
+However, another analogy to describe
+Clay is, I think of it as
+sort of the main toolbox that
+a mechanic might have.  If
+you're just trying to change a tire, you
+can do it with one wrench
+.  You can use the tools
+one by one.  However, if you
+work on cars all day or
+want one place where you
+can handle everything and not
+have to pay for a million tools and
+work in one centralized place,
+Clay is perfect for
+this use case.  Okay, let's
+get started and discuss some
+real-world use cases.  As
+I said, I'll show
+you how I
+use it personally in the
+workflow we typically use at
+Clay.  For reference, I
+run a cold email agency.  We
+send about a million cold emails
+every month.  So, most of
+Clay's usage is for
+prospecting, enriching the prospects, making sure
+they're a good fit, and
+sending them to the sequencer.  I'll
+show you what the
+whole workflow looks like.  So, let's
+start by making a list.  So,
+we're going to go back to the home tab
+here.  You can find prospects in
+Clay in a variety of ways.  If you
+go to the home tab, they have a
+nice find prospects button
+here, which makes it pretty easy.  So
+, I'm going to click on it here.
+Now, there are a few buttons and things
+you should know.  As
+I said in the intro, Clay is like a
+device.  So, they don't just
+have one particular lead scraper
+, and then you have to use it.
+They have a variety of
+lead scrapers.  So, they have
+their own prospect scraper, they have a
+local Google Maps scraper so they
+get contact data or
+profile data from Google Maps information.
+Similar.  So, if you have a
+very specific audience, let's say you
+want to target cup manufacturers,
+you can give it a
+really targeted profile, and it will
+try to find people who have
+similar keywords or companies who
+have similar keywords.  HG Insights.
+It's like a corporate data provider.
+So, if you want to find
+people who are using a
+particular ERP software or whatever,
+you can use that.  Then there is a
+people tab here.  So if you want to
+use Lusha or whatever, you
+can just scrape the people there.  Well,
+another thing Clay has that's really
+cool is a sort of AI co-pilot.
+They call him a sculptor.
+It's basically like GPT chat but
+integrated inside Clay.  So, you
+can ask any question
+about doing something in Clay and the
+AI ​​will do it for you.  Well,
+the way I use the sculptor feature
+here is by clicking on the
+buttons, then I can
+check them randomly.  This feature
+removes a lot of the hassle of
+figuring out where the buttons are.
+As an example, I'll use the
+AI ​​feature here and show you what
+it looks like.  So, let's
+do a relatively
+simple search here.  Let's say I
+want to find all the
+recruiting and staffing firms that are in
+Florida and have between 10 and
+200 employees.  So, a
+relatively basic search.  I am looking for a
+recruiting and staffing company
+that is in Florida and has between
+10 and 200 employees.  We will
+press the search button.  Basically,
+this feature pre-selects the Clay
+scraper on the back and fills in the
+company attributes for me.  So
+instead of me clicking and selecting
+staffing and recruiting, this feature
+just selects it for me right here.
+So, you can see that I
+'ve set your search to
+recruiting and staffing firms
+in Florida with 10 to 200
+employees.  Then, when you look to
+the left, you can see industries
+including recruiting and staffing,
+estimated number of employees 10 to 200,
+locations, it looks like they're not selected,
+but when you look over here, it
+looks like all of the locations here are in
+Florida.  So, I guess it works.
+I don't know where he chose it,
+but somehow he chose it.
+So you can see here and
+all these filters are reset.
+Now, I can keep asking for it.
+So, if I want to add
+location information above,
+any additional attributes, I can request them
+here, or I can enter
+more information on the left hand side.
+I'll press continue for
+simplicity's sake.  So, it's that easy to
+use their lead scraper
+here.  I will press continue.  Then
+, I will create a new workbook and
+table here.  So, the workbook,
+it's like a canvas file project, and
+the table is basically like an
+Excel sheet or this kind of view that
+you see here with all the
+different companies and
+their information.  Now, one great thing
+about Clay, he's already been able to
+suggest some of the things I'll
+cover and point out some of
+my favorite features, but we'll skip
+this and do it manually.
+But, for example, if you want to
+research a company, if you want to
+get their funding information,
+if you want to find competitors, I can
+just click on any of these,
+and then you can see here
+an estimate of how many Clay credits
+it will take.  Now, I haven't
+said much about Clay's credits.
+I'll start here and hit
+create table.  You can see I
+have credits here.  Credits are
+sort of the main way Clay charges you
+for using the platform.  So, the
+great part about the credit system is that
+if you want to use, let's say
+, multiple credits on one platform
+or one of the tools, you can
+charge them through there.  And if you
+want to use different tools
+within Clay, they will charge
+credits through there.  So you
+have a kind of
+centralized billing credit system, and then you can
+use all the different tools.
+Now, Clay also lets you
+import your own API keys.
+Let's say you want to use 10
+different tools within Clay, but
+you've already paid for two of them,
+you can import your own keys
+, and that allows you to avoid having
+to use Clay credits.  And
+that's what I mainly do,
+because we use so many
+different things, and some of the tools
+we buy cost so
+much money, we can just
+plug them in there.  So,
+anyway, continuing here, we
+'ve sorted out the list.  So, these
+are all different companies that
+we might be able to contact.  It
+has their domain, it has their
+LinkedIn URL, and it has all
+their information.  So, I'm going to
+close ghoster mode here, and if
+you want to open it, it's just a button
+on the top right.  We have all the
+staffing companies here,
+you can see they all seem to be
+based in Florida.  As we continue to
+scroll here, the list just keeps going
+down and down.  There are about 1,200
+companies.  Once we have
+the list, the next step that I
+run in almost every one of my campaigns
+, or the second thing we'll cover,
+is to research all of the contacts.  And
+the reason I love researching all the
+different accounts we collect is
+because there's a ton of data
+we can use later.  For example if
+we want to write a personalized first line
+, if we want to
+score leads, so let's say we
+only want to reach a
+certain type of recruiting company.  You know, there are
+offshore recruitment companies, there are
+recruiting companies, there are
+headhunting companies, there are domestic recruitment companies
+.  There are so many types of
+recruitment companies.  So, I can just
+browse right here and if
+I ask the AI ​​to do a little bit of research
+, then I can ask the AI ​​to pull
+some data here.  Okay, let's go over
+here and I'll hit the
+plus column.  I would choose
+this AI usage feature.  Then, you can
+type commands directly in
+this generate section, or if you're a little
+more savvy, you can dive into
+this configuration section and play around with it.
+Since I'm using Clay in Ona,
+I'll use
+this configuration section.  Basically, it
+lets you select a few things.
+First, you can ask the AI ​​to
+fetch data from the web.  So, they
+call them clay gents.  Basically,
+it is an AI agent that scrapes data
+from the web.  You can make it
+generate images, which
+I almost never use.  Or you can
+leave it off to fetch data from the
+web, and that will save you a lot of
+credits.  I want to research all of
+these accounts, and I want to get some kind of
+comprehensive report on what
+all of these companies are doing.  So,
+I need to use web research for
+that.  Then under models here, you
+can see there are a few
+different models that you can use.  So,
+you can use tools like
+Grok directly, Gemini, Claude.
+You can use one of
+these providers, or Clay has
+their own.  You
+can also enter your own API key
+.  So if I click on this 400 mini tab
+, you can see I can
+pay one Clay credit per
+use or I can add
+my own chat GPT account, and then it
+will be billed directly through the portal.
+And this saves a lot of money.  This is what
+I do.  For the sake of this demo, I'm
+just going to use Clay credits, and
+I'm going to use Clay's model
+here, their helium model, because it's cheap
+.  And for doing
+very basic tasks, I like to use the
+cheapest model.  For
+research data, there is not much need to do
+other than scrape the web,
+find the data, and extract it.
+But if you want to do
+some things that require a high IQ
+or a big brain, you might want to
+go for some
+smarter or more expensive models.  So,
+I want you to visit the
+following site and create a comprehensive research report
+on what
+this company does, what
+their main selling propositions are,
+their services, and all
+possible relevant information about
+the company.  Then I'll put {slash
+} website here.  So, if you
+want to refer to any data
+you entered here, all you have to
+do is type {slash} and then
+you can enter any data.
+So, if I type {slash} then
+domain, that's their website.  You
+can see here their website
+will be displayed here.  You
+can also ask their AI prompter to
+help you create an AI prompt, which
+is a fun thing.  This is called
+their meta prompter.  So, if I
+want, instead of manually writing the prompt like
+I just did
+, I can just hit generate
+here and talk to the AI ​​and
+have it write it for me.
+For the sake of speed, I'll
+just use this prompt.  Then before I
+run it on 1,000 people, I
+always want to test it first
+to make sure it works.  So,
+I'm going to hit save and
+run 10 lines.  And this
+allows me to test on
+these 10 different companies and
+make sure I like the results
+before I move on or
+spend a lot of credits here.
+So, it's running, so you
+can see it loading here.  So,
+all the AI ​​agents will basically
+go to each of these websites to
+try to compile this research report
+, and then I'll wait until
+the report comes out, and then we'll
+go from there.  Okay,
+perfect.  So, I waited a few
+minutes, and as you can see
+here, all the company overviews are
+now complete.  So, if I
+want to check the results, I just
+click on one of the bubbles here.
+So, I'm going to click on
+this first one, and you can see a
+nice, long response here.  So,
+this company is a global leader
+in recruitment.  They were founded in
+2010. Their headquarters are in
+London, and I have had a
+great and great response here.  So, going
+forward, I might want to
+use this response in
+other AI uses that I'll be
+using here.  So, what I'm going to
+do is hover over
+here and hit add to column,
+and then I'm going to name
+this company research report.  And I'm going to
+press create column here.  So, what
+it does is it takes all the
+data that I've collected here and
+creates a nice, long report
+here, so I can click on a cell
+here and get
+this big company research report.  And the reason
+why this is useful is that one of the
+next steps that we're going to
+do here is make sure that
+all of these prospects are a good fit or make sure
+that they meet
+whatever standards we want.  And this
+gives us a great research report
+for AI to determine whether the
+prospect is a good fit or not.  So
+, that's the general overview of the company
+here.  Well, what I can do
+now, I've done all
+the work of putting together this order, and
+we're doing it for 10 people.
+Now, I can come here and
+run it on, you know, as much as
+I want.  So, I can press
+here and run all 1.1 or
+blank lines that are out of date.
+I'm going to make it a
+nice, clean 1,000, so I'm going to
+run it on 990 rows since
+we've already run the first 10 rows
+, starting at row, yeah, that's going to
+be 11. And I'm going to hit run
+enrichment.  And I'm going to
+press run here.  So,
+now it's going to start from row 11
+and go up to 1,000, so we'll have
+1,000 leads that we can work with
+from here.  We have all
+their company research data.  So, you
+can see here it's loading,
+and there's this company's research report,
+and it's going to keep loading.  However,
+while this is working, we will move on
+to the next step, which is assessing
+and prioritizing the list.  Now,
+one of the biggest questions
+people ask me
+whenever they're considering
+using Clay, is like,
+what do you use it for?  What are the
+most common things you use
+in Clay?  So, one way
+is to collect prospects.
+Full transparency, we also
+use many other tools.  We
+might use a tool like Apollo
+, then pull it into Clay, and then go
+from there.  Then, you can
+research prospects as I
+showed you, but a research report won't
+mean anything if you don't
+do anything with it.
+This use case is probably the
+biggest thing we use Clay for,
+honestly, or one of the
+most common workflows, which is validating
+whether the leads we've collected are a
+good fit.  So, one of the big problems
+with running an outbound campaign or
+gathering any list is that we
+just gathered a bunch of
+recruiting and staffing companies,
+or companies that had the
+recruiting and staffing tag.  First,
+it doesn't mean they recruit and
+staff.  It just means they are
+tagged with recruitment and staffing.    The
+second thing is what happens if
+you want a narrower list
+.  So, let's say we
+want people who only
+do recruiting and staffing
+overseas.  Or maybe people
+who are just headhunting.  Or
+maybe I just want
+people who do
+IT staffing.  They are indeed experts at it.
+That's where the next step is to
+assess the prospect or determine whether
+the prospect is a good fit or not.  So,
+let's say I'll use this
+as a rough example.  11 or 1200
+people here.  I'm only going to
+use a thousand of them for the sake of
+this video and just to save
+credits.  For example, I want to search through
+all these recruiting and
+staffing companies and I want to
+make sure that we only contact
+recruiting and staffing companies
+that are in the IT field.  So,
+they help developers, IT technicians,
+or have a certain specialty in the
+IT field.  If they don't have a
+specialty in IT, we don't
+want to include them as part
+of our list.  I can open the
+add column here.  We'll press
+use AI again.  This is probably the
+most important thing.  Instead of using a
+web research agency, we don't need to
+re-scrape the web.  We already have a
+lot of data here.  I will press
+create or change content.  This will
+save you a lot of credit.  So, the
+same tools we used to use
+now cost less, or
+if you use an API key,
+they cost even less.  Here,
+I want to use a
+slightly smarter model.  Well, the one
+I use most often for
+most of the cases here is one of
+Claude Sonnet's models.  So, I'm going to
+click on Claude 4.6 there.  Once
+again, for the sake of this video, I will
+use some credits.  All right,
+so I'm going to write another command
+here.  So, what we're going to do or
+what we're trying to do in
+this use case is read the
+company's research reports and make sure
+, for example, that they're an
+IT recruiting company or that
+they can serve people in the
+IT field.  Even general recruitment companies are
+no problem.  So, I
+want you to read
+this company's research report and determine whether
+this company can place or
+hire people in the IT field.  If
+they can't, for example, they
+are a finance recruitment
+only firm, then write false.  And if they
+can, for example, they are an
+IT specialist company or they
+are a generalist, don't write
+anything but true or false.  If
+you are not sure, write false or true
+.  The following is the
+company's research report {slash}.  Perfect.  So,
+we'll save and run it.
+So, to break it down, I
+tried to explain it in as much detail as
+possible in this case to
+make sure that every time we
+do an output, what we want to
+do is really clear.  You can
+see it loads faster,
+and this is because it doesn't fetch data
+from the web.  It can read it here
+and make API calls.  So, you
+can see it outputs
+true false value.  Now, I'm not sure
+why it outputs the value with a
+small asterisk here.  It also
+makes a difference if you have a
+good or bad model or if
+you use a more or
+less expensive model.  We'll run a
+filter here in a moment and
+make sure it contains the keyword true
+or false, but I just want to
+make sure it looks good.  So,
+you can see this one is wrong.  Let
+me double check here.  So,
+this company is dedicated to
+outsourcing the recruitment process.
+Their skills developed beyond
+this.  This seems like a good fit.  And what's
+useful to do every time
+you run any command
+here is to always double check
+because AI will never be perfect.
+And you want to make sure that you are
+satisfied with the results.  And if you are
+not satisfied with the results, make sure
+you change it until you are satisfied
+with the results.  So, this company
+should be right.  That's right.  This one
+says wrong.  They are strict with
+HR professionals.  So, this company
+specializes in HR professionals
+, which is why I'm going to put
+wrong here.  So, you can see
+the AI ​​does a great job of
+assessing whether these people are a good fit
+or not.  This one says wrong.
+And this company specializes
+in STEM and R&D and clinical things.
+So, this is not an IT staffing company.
+So, again, that's why I
+output false.  So, if I
+want to change this, I can keep
+changing the command as much as
+I like.  Otherwise, I would have
+done the same thing.  So, I'm
+going to select the number of rows to
+run.  Starting from line 11, we're
+going to run 990. We're going to hit
+run here.  I will give a
+brief recommendation.  Again, for
+everyone watching this video,
+I'm just spending credits for
+speed here.  If possible,
+go to Anthropic, create an account, and enter
+your own API key, and it will
+save you a lot of costs.  If you
+bill directly through there, you
+can save a bit of money.  So,
+you can see everything going
+very fast.  We
+have all the cells we want to
+run here.  You can see
+some of the failed ones in this column, and
+that's actually because there are some
+failed columns here.  If I
+click on the ones that have errors or
+missing input, you can see
+some of them don't run
+because they don't have a website.  You
+can see this domain column is empty,
+and as a result, this one doesn't
+run, and the next one
+doesn't run either, so that saves
+a bit of credit here.  However, we
+will remove the filter.  I'm going to
+add this as another column,
+so I'm going to hit add column,
+and I'm going to call it
+good match, question mark.  So, now
+you can see we have columns
+for matched and unmatched prospects
+.  And if I just want to
+contact prospects or continue
+this process for people who are a good match
+, I can go to the filter section
+here, hit add filter,
+good match {question mark}, and then
+I'll say contains one
+of true.  So, if any of
+these leads turn out to be true here,
+we now have 477 people that
+we've assembled that we know with a
+very high degree of certainty
+that they can serve the IT space.
+So, again, I'm just
+using this one type of use case
+, but there are many ways like
+this particular workflow that I use all the time
+.  If you want to contact a
+brokerage firm.  I always
+get people asking,
+"How do I put together
+this really unique list? I want to
+put together companies that do
+offshore staffing
+specifically, or I want to put together
+companies that manufacture
+phone cases, or I want to put together
+companies that have XYZ traits."    It's
+very easy to do.  What you have to
+do is run
+this kind of two-step workflow where you
+get all the information about
+the company, then you ask
+another AI agent whether the company is a
+good fit or not.  And one of the
+questions, again, that
+I get asked a lot is why don't you just
+make it one step?  Because
+I could just tell the AI, "Hey,
+I want you to visit
+this company and tell me whether they're a
+good fit or not or whether they're an
+IT staffing firm."  The reason
+I don't want to do that, if
+I want to refer to this command again,
+I've already paid for the research part.
+So now if I want
+something else, I want to write the
+first line or something, I
+already have this output here
+that I can refer to, which saves
+me credits.  And another reason is
+because you can save credits on the
+model.  The second model here, if I were to
+take this and combine it
+into one workflow, it would cost
+more than double because it's a
+smarter model and
+this smarter model uses
+more credits.  And because
+you're using more credit, you're
+essentially just spending
+more money.  So, I have a
+cheaper model, got the
+research report.  That way now if I
+want to write a personalized first line
+, if I want to
+score a lead, or if I want to
+change their mind, I have all
+their data right here.  And now I
+can run parallel AI commands
+here.  So now we have
+477 matching companies.  So
+now that we have selected a
+company, we can select a
+specific job title.  So, I can
+choose based on seniority,
+job function, and position.  I'll
+type in a specific job title, so I
+might type in CEO, owner, founder.
+I could type managing director
+or partner, and the list could go on and on
+here.  By doing this
+, I got about 1,400 people.
+I can continue.  If I want to
+select people with
+certain experience, if I want to place
+them in certain locations.  Let's say
+I want to filter out people who
+have a certain location wherever
+that is.  Then, let's say on top of all this
+, I want to add a location filter.
+So, earlier we said we
+wanted a Florida-based company
+.  Let's say for example, I
+also want those people to be
+based in Florida.  So, I can
+come in here.  I can type in
+regions or states to
+include here.  So, I can
+type Florida.  Then from here, we
+can see that there are 437 results.  So,
+now I have all these people.
+So, I'm going to press continue.  I
+will press the save to new table button
+.  So, this table is in
+this workbook, so we can click
+between the existing ones and continue
+here.  We can grab
+their email, which we'll do here in
+a moment.  So, I'm going to hit
+create table.  I'll cover the
+work email steps separately here.
+So, we have everyone in
+these companies that we
+deem a good fit.  Then now we want to
+grab their contact information.  So
+, I can press add column
+here.  I can hit add
+enrichment, and then I can type
+find email under work email,
+so we can find their work email
+with any of the eight
+different providers here, or
+I can use waterfall.  So,
+basically the waterfall is
+instead of using one of
+these providers and then trying another provider
+and trying another provider, I can
+use this work email waterfall,
+which goes through each provider.  It
+sees if I can find it
+with that one provider, and if I
+can't, it moves on to the
+next one.  And this is one of the
+main use cases of Clay, which is
+instead of having 10 different tools
+to get maximum coverage,
+you just pay for Clay, and then you
+can have this one tool.  So,
+this tool will be filled with all the data here
+.  I'll hit save and
+run 10 lines just to
+show you what it looks like.
+Personally, in my use cases
+, I typically only use
+a few data vendors.  One that
+we use frequently is Apollo.
+Other data vendors we like are
+Prospector, Lead Magic.  There are several
+that we use in our devices.
+However, if I want
+maximum coverage, if you want to make sure
+you're reaching everyone in
+your market, then you can use the
+work email feature here and run it
+through a lot of different providers.
+So, you can see, first of all
+it goes into Find Email.  Find
+Email found most of the emails,
+but couldn't find the
+second person's email.  Then, the
+next provider can't find the
+next person.  However, Detagma here,
+you can see it finds
+this person's email and allows us to
+get full coverage of all of
+these people's emails.  So, if I
+want to have maximum coverage, I
+can use this waterfall and it
+will give me everyone's email.
+It also validates it, so it
+double checks that the email
+exists.  Then from here, same thing,
+I just hit the play button,
+run all the lines that have
+expired, so run all the
+others that are left here.  And you
+can see it, it starts to build
+and slowly trickle down, getting
+all these people's emails.  And at
+the end of the day, we have a
+nice, big,
+clean validated email list of people at
+these companies who are a good fit,
+and then we can go
+further.  So, let's say I want to
+grab someone's phone number, and
+you can see there's a waterfall of
+cell phone numbers.  I can also
+select a specific provider here.  So
+, now we have a nice,
+big list, 89% done.  This list will
+continue to grow and get all of
+these people's emails, or as many
+people as possible, and we know the coverage
+will be good because it's running through 10
+different data providers at once.
+And like that, you can see the
+complete table here.  There are some
+people whose emails are lost, but
+again, this is much better
+than having just one provider.
+If you're just using a
+specific data platform, you're not going to
+get this level of coverage because
+you're just using one provider
+versus if you're using
+multiple different providers and you're
+streaming them, you can get a
+very, very high level of coverage
+.  So, now we have
+all these emails, and the only
+last step here, if you
+want to go ahead and run this
+in a campaign, is to export them
+or send them to a campaign.
+Now, doing it again, it's very
+easy.  You can go into the export tab
+here, under tools, and you can
+send it to the sequencer, or you
+can create a campaign through
+Clay's email sequencer.  So, if you
+click here, Clay has
+their own email sequencer, and
+you can email all
+these people.  So, I can run a
+campaign here.  You can see it
+shows all the prospect email addresses,
+all their prospect data, and I
+can even ask the AI ​​to
+draft a message.  Personally, I just
+send it to a tool like
+SmartLead.  You can use a tool
+like Instantly.  There are many
+different providers here.  You can see
+below export and send it to
+sequencer, there are many different sequencers
+.  So, Clay, SmartLead, Instantly,
+Email Bison, Reply, HeyReach, which
+is a LinkedIn sequencer, Outreach,
+SalesLoft, Apollo.  There are many sequencers
+.  And from here, you can launch
+your email campaign.  So, that's Clay.
+So, if you are interested in
+signing up, there is a link in the description
+below.  Otherwise, if you'd like to
+work with me and my team
+to help run
+your outbound completely on autopilot, you
+can apply to
+work with us at anivo.com.  And
+there are many other videos on this channel
+that talk about
+cold outreach.  So, thanks for
+watching and take care of yourself.

@@ -1,0 +1,1208 @@
+Alex Hormozi just said that the future
+job market is BYOS, bring your own
+software.
+>> The job market of the future is going to
+be BYOS, which is bring your own
+software or bring your own agent.
+>> We're about to show you exactly what
+that looks like live. Let me show you
+how this works. So, what you want to do
+is you want to build an organization
+made up of AI agents and AI agents only.
+In this case, I'm building a team of
+Chris. Chris handles our media buying
+marketing. Jordan, Jordan Belfort, is
+going to be handling our sales. Nina,
+she's going to be handling our
+operations, looking at all the data.
+Now, the hardest part is not building
+this org chart. The hardest part is the
+following. Which market do you pursue?
+Okay, which is problem number one. The
+second problem is if you've never done
+media buying, marketing, you've never
+run a remote sales team, you've never
+run operations, how do you get Chris,
+Jordan, and Nina to do the right job?
+You simply can't because you don't know
+the right skills, nor do you know all
+the tools or have access to all the
+tools that someone doing these jobs and
+these functions would have access to,
+right? That's problem number two.
+Problem number three, which most people
+don't even think about, is that in a
+company, the best employees are the ones
+that are proactive. The reason why an
+employee is able to be proactive is
+because they have all the context about
+that business. They know the market they
+serve, they know the products they sell
+like the back of their hand. They know
+the best ads that bring in the best
+clients. They know the best closing
+tactic and strategy that works for their
+prospects. They know how to ascend
+clients into better products, better,
+higher tiers. And if you're going to be
+able to run an agentic business, where
+you sell and rent agents to other
+companies, you need to be able to give
+all of these agents all the context of
+the business that you're serving. Now,
+let me show you how we've been able to
+solve all these problems with Cookie AI
+as an infrastructure layer for this
+agentic work. The first problem, which
+is how do you pick the best markets? How
+do you not end up choosing the wrong
+games to pursue, even if you have all
+the leverage in the world through
+agents? You still might fail because
+you're going to pick the wrong
+opportunity. What we did is we built
+Truth Engine, which is essentially our
+research layer that allows you to find
+who's already winning, in what markets
+are they winning, and why are those
+markets wanting the thing that these
+people are selling to them. Okay?
+Doesn't matter. You want to sell AI, you
+want to sell agents, you want to sell
+whatever,
+come here, ask it, "Hey, I want to go
+into what?" I'll give you an example. We
+have someone who was interested in the
+market of mothers just had a baby,
+fitness-wise, right? So, he asked it,
+"Hey, go find me the demand curve in
+postpartum fitness market analysis." It
+will show you the the demand curve
+within the market over the last 12
+months. It will show you a competitor
+analysis of who's currently selling into
+this market, and also show you what
+their ads What are they promoting? This
+is if you want to go sell to mothers
+just had a baby. But, let's say you want
+to sell to businesses, to local service
+businesses to be exact, and you're like,
+"Hey, find me the highest LTV verticals,
+and find me the best acquisition
+strategies." It will break down what,
+show you of course always the demand
+curve over the last 12 months. It will
+show you a clear winner. Let's say
+dental practices. It will tell you why,
+because their LTV is through the roof,
+15 to 50k per practice. The average
+dental practice revenue makes 500k to 2
+million plus per year. It will give you
+all the details about this market. It
+will give you the strong second, HVAC
+contractors, right? And for each single
+market, it will consult you on how to go
+to market within that market. How to go
+about your discovery calls, how to frame
+your pitch, common objections that you
+might face, and it will most likely and
+it will also give you what? A market
+viability score. Telling you, "Hey,
+based on this market, 85 out of 100,
+you're pretty lucky. If you go into this
+market, you're probably going to start
+printing." Okay, so this is awesome.
+Let's say I have used now the 30 seconds
+of effort with Kook to find out that I
+want to, for example, go after the
+dental niche, cuz I see it has an LTV of
+15 to 50k. I see they make up to 2
+million dollars a year, so they can
+afford to pay for my services. How do I
+know how do I learn to actually fulfill
+those services? How do I gain the skills
+to write the copy for dentists, run ads
+for dentists.
+>> Cool. Let me show you. Once you've
+doubled down on a specific market, you
+then want to ask the Truth Engine to go
+deeper on that specific niche. In this
+case, let's say you want to double down
+on dental, you then want to go into that
+market specifically and find insights
+for it specifically. Because the first
+one was just broad for local service
+niches and give you that segment.
+>> Right. But for the dental practice,
+here's what they struggle with.
+Inconsistent ROI from marketing spend.
+Practices can't track which channels
+actually drive revenue. Lead quality is
+terrible. Most leads are price shoppers,
+no show, or unqualified, or you know, or
+unqualified for financing. Staff burnout
+from manual follow-ups. Front desk teams
+spend hours chasing leads instead of
+closing. No show rates are crushing
+profitability. Even when leads convert,
+many don't show up for appointments,
+right? And the opportunity is for each
+bottleneck, there's also an equal
+opportunity to solving that bottleneck
+for these businesses. Predictable,
+qualified patient flow. Not a list but
+booked consultations with ready-to-treat
+patients. If you solve that, you're
+going to print.
+Full service handling. Someone else
+manages ads, follow-ups, and scheduling
+so the practice can focus on what?
+Treatment.
+>> Mhm.
+Transparent ROI tracking. See, it will
+kind of like show you the bottlenecks
+and also what you should probably solve
+for if you want to print in this market,
+right? The thing that I care the most
+about though is what?
+Who's currently making money in this
+market, right? Who's And the people who
+are making money are the people who are
+advertising. They wouldn't be spending
+money on ads if they're not making a
+return, right? So then you would kind of
+like look at some of these ads. In this
+case, you have this guy who's currently
+promoting, selling full arch. He's
+selling a specific offer. It's not just
+let's get you appointments. The thing
+you asked about is how do you actually
+make money? You don't make money in
+dental practice by just selling them
+leads or appointments. You actually
+become so specific that you know the
+type of service or treatments that they
+want
+more of. Mhm. Not all products, not all
+treatments are created equal. So, you
+want to find people are already
+advertising who spent enough money,
+gotten data, and then know exactly what
+offers work what in that dental practice
+niche. Once you figure out this guy,
+Tooth Traffic, you then go to the Truth
+Engine. This is where it gets exciting.
+You then ask it do a deep dive and give
+me everything about what? Tooth Traffic.
+Give me their offer. Give me their
+messaging. Give me their ad creatives.
+Give me their landing page. Give me
+everything on how they're making money.
+What this allows you to do is it allows
+you to start with what? A validated
+baseline.
+>> With everything that works. Yeah. And we
+believe that even in a world of
+leverage, if you point leverage to the
+wrong opportunity, you are cooked. And
+this is why I didn't just start by
+showing you the agents. I showed you,
+first of all, what opportunity are you
+going to pursue?
+Most people don't understand this and
+they spend years and decades pursuing
+the wrong opportunity, working hard,
+and they just become a slave to their
+dreams and nightmares and make what?
+Zero money. Yeah.
+We believe that the Truth Engine should
+solve that for good before anybody tries
+to get into what? The agentic world.
+Yeah. I don't think a lot of people
+understand how important language is
+when it comes to the conversion success
+of your marketing. And to speak to a
+dentist in the exact language that they
+use on a micro level, will separate you
+immediately from 90% of the competition
+of people running ads. Now,
+>> 100%. looking at this, I had no idea
+what dentist spoke in language not as
+far only as what they want to hear, but
+what they struggle with. And I saw in
+this ad, A, he's using a very he
+mentioned what the core product that
+they probably make most of their money
+off of is, which was the arch filaments
+that we saw. And second, he also
+mentioned financing, something that we
+now see is very important for that kind
+of dental product. 100%
+>> can now steal both of those things in
+our marketing to make it attractive to
+us. Yeah, 100%.
+Okay, so what do I do with all of this
+information and these insights now?
+Cool. Once you have all these insights
+and you've doubled down on a specific
+market, what you do is you get agents to
+build your entire offer and your entire
+growth infrastructure. What does that
+look like?
+We've essentially built this set of
+agents. It's 30 different steps. It goes
+from picking the specific market that
+you decided to go after, okay, to
+finding the pain.
+And the pain is based on the words of
+the market, not what someone said on a
+YouTube video, not someone recommended
+you. No, exactly what they're currently
+struggling with. So, in this case, let's
+say this offer is for HVAC. How 87 of
+small HVAC companies find their way into
+failure. Or the next bottleneck is, we
+pay well and have plenty of work. Only
+issue is finding qualified people to
+fill positions. For HVAC, it's not just
+about getting clients, it's not just get
+about getting jobs. It's actually about
+the getting technicians who are actually
+going to do the jobs.
+>> Mhm. Okay.
+>> Right? Once it finds this specific pain
+point, it is then going to do what?
+Build a unique mechanism. It is going to
+suggest a unique infrastructure they
+should actually sell into these markets.
+Once it has built a unique mechanism, it
+will then suggest what? The perfect ICP
+to go after.
+>> Mhm. Based on how much money they make,
+where they hang out, language patterns,
+what they like, what they dislike,
+right? And by the way, this is all done
+in an autonomous way. You don't have to
+do a single thing. Just let it go
+through all these set of agents until
+it's done, right? Find competitors. Find
+you people are already selling to HVAC.
+Show you their funnel.
+Give you, based on all the context, the
+offer, the market, the pain points,
+suggest you what? A go-to-market
+playbook. Give you the right pricing.
+Based on what? On real benchmarks of
+that specific market. Why is it
+leveraging these benchmarks to create
+your pricing? Is because pricing should
+be what? Based on CAC. How much does it
+cost you to acquire a client? And the
+second thing is how much does it cost to
+fulfill? You take CAC, cost of to
+acquire a client, and cost to fulfill
+minus the price of that you're charging,
+and then it will give you what? Your
+margins. So, in this case, if you're
+selling an $8,000 offer with CAC and
+cost to fulfill, it should give you
+what? 52% margins. It's taking in all
+the data needed to build you an offer
+that is profitable, that will actually
+make you money. It is going to go
+through all of this, find you what? More
+ads from people are currently
+advertising in your specific market that
+you want to go after. In HVAC, these are
+the ads that are currently being
+advertised from people selling to other
+HVAC owners. It will show you content
+that's currently going viral in the HVAC
+niche. That if we were going after
+dental, it would be showing us the
+content that's going viral in the dental
+niche. Why is this important? Because
+not only is this valuable for you, so
+you can create content that attracts
+your ICP, but also your clients need
+content to be able to acquire what?
+Attention.
+Without having to spend money on ads. It
+will then go ahead, create the ads,
+start working on ad samples, create your
+logo, create your landing page, which
+you can see here. It will then go ahead
+and do what? Create your
+landing page for this specific market
+without you having to lift a finger. All
+you have to do is just create what? The
+VSL. After it's built the landing page,
+it will build your sales presentation,
+so you know how to actually communicate
+your offer without having to worry about
+scripting everything.
+The most important part after it's built
+all the assets is what? Connecting with
+your CRM, connecting with your ad
+account, connecting with the right
+pixel,
+and doing what? Launching your ads.
+Without you having to lift a finger, it
+found the truth, leverage the truth to
+build your offer, found the people that
+are competing into that market, found
+their ads, found everything that's
+working for them, then put together your
+assets so that before people start
+paying attention to your business and
+entering your funnel, they actually have
+an infrastructure to go into. Then, once
+that infrastructure is built,
+it then goes ahead and launches your
+ads. It collects all the business
+context,
+creates the campaign, search the
+targeting interest, the ad set, creates
+the ad images, uploads all of them, and
+just publishes what? Your campaign
+without you lifting a finger. Now, why
+is this important? First of all, in an
+autonomous way, it launches your entire
+business, your entire offer in a market
+that you may not have a single clue
+about. But, the most important part is
+that you need to give it context. You
+need to have it remember the truth about
+the market you're going after, the
+pricing, the things you're currently
+complaining about. You need to it to
+know your go-to-market. You need it to
+have access to your pricing. You need it
+to know what are the biggest thing to
+validate in order to actually make your
+offer even more powerful so that it
+converts better. Now, let me show you
+how to build these agents. First things
+first, as you see here, you have the
+option to either invite a real human or
+invite these bots, these AI agents,
+right? And if you see here, agents can
+either live on your Discord, they can
+live on Slack, they can live on
+Telegram, they can live essentially open
+claw Claude bot entire architecture. We
+figure out a way to build it here, and
+most importantly, make it secure. The
+reason why companies are not going to
+want to have someone come in and build
+their open claw or Claude bot. I see a
+lot of people who are building these
+agents on prime, buying the Mac minis
+and all that [ __ ] But, the problem
+is you don't want to have that access
+all your in business data. Cuz all the
+APIs are naked, and if anybody ever
+hacked you, they'll get access to
+everything. For us, we've been able to
+make it secure by building the entire
+thing on Cook. There is no open claw,
+there is no Claude bot here. The
+architecture is the same, but there is
+no issues with security. I'll show you
+an example of my chief of staff, Sergio.
+Here's how he's built.
+First of all, you have an entire systems
+prompt that guides him on how to do
+everything, right? Goes deep, autonomous
+level. You have the ability to make them
+supervised, guided, or judged, or
+autonomous, fully autonomous. Nobody
+needs to look at the messages they're
+sending, this and that, right? Why is
+this important is sometimes, let's say
+you have an agent that manages your
+clients. You may not necessarily want it
+to just completely just send all the
+messages whenever it wants, whatever it
+wants. You actually maybe might want it
+to be supervised so that before it sends
+a message, someone has to actually
+approve those support messages.
+>> Right. In this case, Sergio is fully
+autonomous.
+Okay?
+Once you've built the proper systems
+prompt for Sergio, the next thing you
+need to do is give it access to skills.
+In our case, we have all these skills
+that we already have. Media buying,
+Andromeda, cold email, competitor
+research,
+viral clipping, all that good stuff,
+right? You give give it access to these
+skills, he can actually leverage them to
+do work. That's not all. The next thing
+you need to be able to do is, yes, they
+have access to skills, but having access
+to skills is not enough. You need to be
+able to give it access to to the tools
+that it leverages those skills with.
+>> Mhm. Right? Let's say you give it access
+to the skill of media buying. The next
+thing you should probably give it access
+to is what? Access to meta. Once you
+give it access to meta, you want it to
+be able to pull everything. Get access
+to ad accounts, get access to be able to
+upload creatives, get access to be able
+to create campaigns, get access to be
+able to analyze everything. Okay?
+Everything that a media buyer can do,
+Sergio or this agent should be able to
+do. Right? We have all these
+integrations allowing it to do anything
+that a human can do with all of these
+tools. You want to have it cook in your
+CRM? Perfect. You want to have it cook
+on Miro Miro boards? You don't have to
+build all those, cool. Let it go cook,
+right? Now,
+the thing that is super important is
+that
+you're limited by the integrations you
+give it access to, but also the ability
+to build skills.
+Most people don't know what they don't
+know. Okay, I I get what you're saying.
+So, it's basically like you can give it
+access to the tool Miro, but you still
+don't know how to train it on what a
+good Miro board looks like, what the
+structure should look like, how big the
+elements should be. So, you're saying
+that now you can not only give Sergio
+access to the tool Miro, but also
+download all of the skills needed to
+create a good Miro board. Let me show
+you. So, once you have, let's say,
+Sergio is built, you gave it access to
+all the integration it needs, you gave
+it access to all the tools, it can
+generate media, it can create images, it
+can scrape, it can access everything.
+But then it's limited by, "Okay, but how
+do I do those things?" Let's say you
+want to launch a bookkeeping business,
+>> Yeah. right? But you don't have any
+bookkeeping skills. You want to do what?
+You want to be able to get AI to go
+learn the skill
+that you lack and that your agents lack.
+So, check this out. You come here.
+Hey, I'm launching a bookkeeping
+businesses for agencies online, and
+I want you to go learn all those skills
+and come back with all the skill sets
+required
+to be able to fulfill on that service.
+You just sent him to school? Sent him to
+school. He's going to go learn, and then
+he's going to come back with what? With
+all the skills. Once it's done learning
+the skill, it is going to come back to
+us, and you can see what? Here, it's
+like a scale of YouTube thumbnail
+design. Let's say you want to launch a
+YouTube agency, but you want to have an
+agents that do the YouTube thumbnail,
+that do the YouTube packaging. You can
+just send it, go learn all the best
+practices around YouTube thumbnail
+design, and then you can have this agent
+do it for your clients. Mhm. Do you see?
+The old constraint of I don't know what
+I don't know. Okay, who cares? Yeah.
+Just figure out what market you want to
+go after, figure out what skills, let AI
+go learn all the skills. We handle all
+the integration, so you don't have to
+worry about what? Figuring out anything.
+Now, what's cool is that these employees
+live where your clients and you live.
+Most of our clients, we have them on
+Discord. So, what? All of my employees
+live where? On Discord. Sergio is on
+Discord. Whenever I need anything, let's
+say in this case I said, "Hey Sergio,
+please tell me everything that happened
+yesterday." What it did is it pulled all
+the calls from my closers, it pulled all
+the calls from my support team. Every
+single thing that's happening with all
+clients, it can keep track of it in real
+time. Sergio manages my team, so right
+now all he has access to are
+integrations that allow him to
+essentially, just like an operator
+would, they would need access to all the
+calls, they would need access to all the
+focus of the team. And now the other
+agents that I'm building will have
+access to different skills and different
+integrations so they can do their job.
+>> This is crazy. Think about it.
+>> This is crazy. You're going to have, you
+know how traditionally you would have to
+build an agency and you would have like
+have five people working for you and
+then a bunch of clients and then you
+wouldn't give them access to private
+one-on-one channels because it's not
+scalable. Today, you want everybody
+getting access to done for you. Mhm.
+Because it's agents doing all the
+support, agents do not clock out at
+5:00. They can work 5:00 to 5:00. They
+can work 5 years straight. All it needs
+access to is compute, tokens, and
+energy.
+That's it.
+It loses electricity, it stops working,
+but so far we're not struggling with
+energy. It's not It's not just the cost,
+it's also I remember when I used to, you
+know,
+a long time ago work at an actual
+physical marketing agency where we had
+people doing operations, people doing
+project management. You ask what you
+would ask Sergio to do and we would say,
+"Hey Layla, can you give me a report on
+what's going on in the agency?" It would
+take Layla
+4 hours to look through all of the
+project briefs, look ask every single
+project manager where they're at, check
+with all of the design team if they've
+missed anything.
+This happens all the
+>> Let me Let me show you how fast it
+answers. Hey Sergio, please update me on
+today's calls. Thank you.
+You just have to tag it.
+Look at how fast it answers. Sergio has
+just started typing. In 1 second, bro.
+How would I want to hire humans? Tell
+me. Like
+this person If I try to message anybody
+on my team right now, they would
+probably answer me in 5, 10, 15 minutes.
+But I want it now.
+It's dopamine. I want I want the rewards
+now.
+>> Yeah. So, the ability So, you see, he's
+now going to pull the calls. See, he
+just updated me that, "Hey, I'm going to
+do the job. Please wait."
+>> Well, but what if it's his lunch hour?
+There is no lunch. What if he's on
+vacation? There is no vacation. What if
+he breaks his leg? There is no legs.
+That's crazy. Right? It's crazy. And
+this here, by the way,
+the reason why I'm building my team, you
+know, the Sergio, the Chris, the the
+Nina,
+>> Mhm. is I'm going to run client
+acquisition that I owe, try Cook AI, all
+with agents. Content, I can show you.
+Right now, I'm posting on Instagram and
+X. And I'm like, I don't want to keep
+track of all the content. Please
+Look look what I asked it.
+Hey content, uh can you create a visual
+representation of all the data? Also,
+make it over the day so I can see how it
+performs.
+I asked it, "Show me all the performance
+of all my content platforms." And you
+would normally do what? You would hire a
+team of editors, of content managers,
+and they would track all the content.
+This one tracks everything on cross all
+platforms. X, how is doing? Which posts
+worked well? How much How many saves?
+How many shares? What to double down on?
+And I can get it to create docs that
+synthesize that information for me to
+see it visually, like this. Damn.
+Imagine a media buyer. Every day you
+needed them to see their click-through
+rate, which ads are performing, which
+this is working. Hey, please give me a
+report. Please update the end-of-day
+report.
+You no longer have to say that anymore.
+Have your AI access everything,
+and it will do it right as you ask it.
+It's unbelievable. That's crazy. Yeah.
+And look look look what Sergio is doing.
+So, you can see him working in the
+background.
+>> You can see here, Sergio is working,
+pulling everything.
+Pulling today's calls. You can see him
+working in the background. This is the
+sickest This is the sickest [ __ ] about
+AI and people are still think that we're
+in the chat GPT era. I just told Surge
+to go cook.
+And then, he just launched his own
+mission. Every employee will have their
+own missions and he will get this job
+done. He will He will be relentless at
+getting the job done.
+Something that humans are not too great
+at. Unless Elon Only Elon Musk can be
+relentless like AI. Other Otherwise, we
+give up really soon. It's a great point
+you just made. You have a team of the
+most inexorable,
+phenomenal, relentless, determined,
+tenacious employees.
+A bunch of little Elons working 24/7.
+So, staff quality isn't There's no such
+thing as A players and B players and C
+players.
+>> Nothing. Nothing. Nothing. Nothing,
+right? Now, let me show you something
+that most people have not thought of in
+this agentic world.
+The number one thing around scaling a
+business is all about information
+advantage, right? The smartest person
+will always out-earn the people who are
+lazy and who are not curious. So, what
+we did is if the bottleneck is inputs
+and unfortunately, the human does not
+have enough hours in a day to learn
+everything they need to learn to scale
+their business. What we decided to do is
+what if agents What if the platform
+could learn for you every day? So, all
+you have to do
+is pick the best creators in your space
+to help you scale your business, okay?
+And let every single day Every single
+day that Hormozis releases on his
+Hormozi Highlight channel, where he's
+dropping bangers, more tactical stuff,
+you wanted to analyze it and come up
+with insights. Strategic insights,
+tactical insights, warning insights,
+right? And then, all you have to do
+create a task. It will create a mission
+to go execute that task for you. Let me
+show you. No way. Yep. It will then go
+ahead and create that task
+and it will show up where? Right here.
+In this case, I launched this mission
+earlier and you can kind of like see it
+go on and cooking. Wait, hold on. Hold
+on. Hold on. Hold on. Hold on. Look.
+Look. Look here. Proof stack extraction.
+It just created So, based on the
+consumption
+that it did today, based on that scale,
+build a stack proof before scaling ad
+spend. Okay, perfect. Because the
+platform knows my business, it is able
+to put that context
+within my business
+and then all I have to do is just decide
+which insight I want to execute on. If I
+choose that that's the thing I want to
+work on or that I want it to work on, it
+then launches a mission and then pulls
+in all the context of the business and
+then starts cooking. It will pull the
+workspace MD. It will pull the identity.
+It will pull all the business context of
+this workspace and then get to town.
+This is insane. This is So, let me let
+me ask you a question. Let me give you
+an example. Today, I'm
+uh I've been saving a bunch of reels
+about how you can now connect Claude
+Code to Premiere Pro and get it to
+actually like read the transcript, see
+what the best parts are and cut it out
+and actually do the editing part,
+cutting it itself. Mhm. If Cook was
+watching my feed for me instead of just
+saving it the way I did, it would have
+actually saved that, executed on
+learning how to build that agent and
+built that agent for me and then started
+maybe even cutting my content. There's
+no way. Yeah. Yeah. Yeah, I mean, I
+don't know if you saw us post this reel
+where I said, "Hey, we just onboarded
+Alex Hormozi as a client to do his
+short-form content and clipping. I want
+you to go on his YouTube channel, find
+the best YouTube videos and create the
+five shorts that we can post on his
+social um platforms." It then created
+the mission. I then approved it. It then
+started looking up his um YouTube
+channel, looking at the best videos,
+okay? And then, look at what it did.
+players. The first is that fear exists
+in the fake. And so, if you're afraid to
+take the risk, write it down in
+excruciating detail what you're actually
+afraid of having happen. Like I don't
+know. He found the top videos on his
+channel,
+clip them,
+added the captions, right? And he can do
+this
+for as many videos as he wants.
+This is the future of how
+service deliver will work. You will
+literally just have the skill around
+clipping,
+then you will have the skill around the
+tool, how we can call the tools to go
+web search, how we can find and audit
+the best videos, and then how we can
+chop them up, and how we can add the
+captions.
+Now, even better,
+what you would have had is that an
+employee that onboards a client would
+know what the business context about the
+client is,
+and then would create a mission around
+to start creating the shorts. And then
+it would create a mission that then goes
+use the skills around clipping, calls
+the tools around the web search, finding
+the videos, downloading the video, and
+then stitching them up, and boom.
+Yeah.
+Give me 2 minutes. I just need to
+text my my operations manager to fire
+our team.
+So, yeah, this is where things are
+going.
+And so, really, the way that I think
+about it is you're going to have AI
+consume content for you, and then you
+can kind of like give it the best
+creators. You don't even have to scroll
+anymore. You can give up on social
+media, but not give up on acquiring
+insights.
+You can then give it access to what?
+Your data.
+Your data from your CRM, your data from
+your ad account, your data from
+everywhere, right? So, every day, as
+it's consuming knowledge, it is also
+consuming data from your actual
+business. And then,
+this is something I did not show you,
+but we can wrap up here, is that what?
+It is able to create entire missions
+based on goals. Let's say you want 500
+new leads this week. Normally, when you
+want 500 new leads, you will probably
+have someone who takes care of the lead
+scraping or the ad advertising. But
+advertising also has multiple subtasks
+within that function. Who's going to
+create the creatives? Who's going to
+write the copy? Who's going to
+upload it? Who's then going to manage
+the ad ad buying? What this does is it
+creates all the activities that are
+going to be needed to be done and then
+breaks it down into tasks and all you
+have to do is what?
+Hit approve. You want to manage your
+sales agency clients? Perfect. You have
+41 missions. Check existing dashboard
+widgets.
+Check connected data integrations. Check
+funnel metrics. Check recent bookings.
+Check meta ad performance. Check
+dashboard widgets. Look at call booked
+this week. Everything. This is just one
+task.
+Full-time job. Audit the closer's
+performance. Go learn the best way to
+manage a sales team. Then
+scrape the best way to do what? To do it
+for HVAC companies cuz I have an HVAC
+context in my workspace.
+Create a document. If the show-up rate
+is below here, let's go let's If these
+targets are not hit, we should probably
+do something about it. Perfect. Let's
+build an objection handling
+playbook. It then goes builds
+everything. It does this for what? For
+41 different missions. Normally, it
+would take you an entire team
+that you pay millions of dollars every
+year to even be able to have the quality
+and the execution and the clarity to put
+all of these missions together.
+Now AI builds all of these.
+All you have to do is what?
+Hit approve. Hey, I want you to manage
+my YouTube agency clients every week.
+Success looks like their packaging is
+done the best. Every video goes viral
+and they get infinitely more leads that
+are nurtured and ready to buy.
+You create the goal
+and then you make it active.
+What it does is that it starts
+decomposing it into missions.
+Once it's done,
+it will create as many tasks as needed
+and then all you have to do is what?
+Click approve the mission
+and then they'll show up here
+and start
+cooking.
+Do you think Hormozi knows that this
+exists?
+I think Alex needs the $100 million
+cookbook. Right? You got it right here.
+He needs He needs a $100 million AI.
+It's not just about building an AI
+agency, it's about fully going agentic.
+Right? And now the technology is there.
+It's good enough where you can finally
+be able to do so. I would even say that
+3 months ago you couldn't do this.
+Right?
+>> Yeah.
+But now it's just magic. So now, what do
+I think the future is if I can kind of
+like extrapolate it on what Hormozi's
+saying?
+I actually think the opportunity is
+owning the entire vertical.
+Let's say you want to go into dental.
+Let's say you want to go after agencies.
+Let's say you want to go after roofing
+businesses. You need to understand the
+playbook around how to scale everything
+and run that business end to end. And
+what will happen is you'll have the
+opportunity to go out to these
+businesses and say, "Hey, fire your
+marketing team, fire your appointment
+setting team, fire everybody.
+We're We're to run your entire business
+and give you back so much margins that
+you're going to think you're a software
+business.
+The money, the pitch is margins.
+It's give businesses that normally go
+broke making millions. There's right now
+companies that make $20 million a year
+that literally make back at home take
+home 5 to 10% margins. It's insane.
+Imagine making millions of dollars per
+month only to take home 500k a year. A
+million dollars a year, $2 million a
+year. It does not make sense to operate
+those businesses. With this,
+every single person is going to become
+an AI architect where you're going to go
+own the niche and your job is
+figure out all the agents that are
+required, figure out all the skills that
+are needed, figure out all the tools
+they need,
+right?
+And then,
+go to each business and say, "Hey guys,
+I'm ready to operate your business. I'm
+not just going to work on marketing. I'm
+not just going to work on nurturing your
+leads. I'm going to work on everything."
+This is insane.
+So, it's made the missions now.
+It's made the missions.
+It will start with what?
+Weekly YouTube client channel audit,
+identity client search reports, YouTube
+channel scrape,
+uh competitor viral research,
+Google Trends check, find what's
+actually in research, Reddit audience
+intelligence, compile the weekly audit
+into a doc,
+criteria, boom. Perfect.
+Weekly
+viral weekly video packaging
+optimization,
+curiosity gap, the thing nobody talks
+about in this niche,
+specific result, contrarian, special
+step two, thumbnail concept briefs,
+layout, face position, max 3-5 words,
+high contrast, uh generate image.
+Step three, video hook scripts.
+Step four, save packaging as assets,
+boom. Go on TikTok, scrape TikTok.
+It will do everything that most YouTube
+agencies won't even do. Last but not
+least,
+this workspace here
+is what what you would use
+to work and manually build things. So,
+as an example, let's say you want to
+build a new ad campaign. I'll show you
+kind of like how I did it. Let's say I
+wanted to launch a new ad campaign. What
+it did is it pulled the business
+context. It said, "Hey, good. I have
+everything I need, uh all your assets."
+By the way, all you need to do is just
+connect your uh meta account. Boom,
+boom, all this stuff, install the pixel.
+And I said, "Hey, please create some
+image ads." But then I was like, "Hey,
+can you please
+um
+create a video ad?" And what it did is
+without me doing anything, started
+scripting it. I said, "Why are you
+trying to script stuff? Why are you
+giving me a script? I don't want a
+script. What I want is for you to record
+the to actually create a video."
+It said, "Okay, perfect. Say less. Scale
+activated."
+Search the tool.
+Generate the clip.
+And this is what it built for my HVAC
+offer. You want to know why
+>> why you're still working 70-hour weeks?
+Cuz you keep hiring. Every guy you bring
+on, that's more scheduling, more call
+backs, more chaos. They stopped hiring
+and started automating. One system
+handles your missed calls, your
+follow-ups, your dispatch. Same
+There's no way that I made that. Yeah.
+And look at where it gets crazy. Check
+this out. You see how it stopped there?
+I said, "Hey,
+it stopped.
+Can you please complete it?" I tried to
+tell it what to do, right? It said,
+"Smart move. Let me watch the video
+first and see where it cuts."
+And then look at what it got. It, the
+video cuts right at the solution reveal.
+He said, "One system handles your missed
+calls, your follow-ups, your dispatch."
+And then it ends.
+It said, uh the CTA never lands. I'm
+going to rebuild this one as a
+continuous 15-second short that flows
+naturally from where it stops. And look
+at what it did. Same crew, half the
+headache. If you're still doing it the
+old way, you're bleeding money every
+single day. Go to the link below, we'll
+set it up for you.
+>> [laughter]
+>> No way. Look at it.
+The con- the the I see the avatar stays
+consistent, the environment stays
+consistent. I did not prompt the
+environment. It took the context of the
+offer and the workspace.
+This knew that it was an HVAC guy.
+Built him as an HVAC guy, older dude who
+does HVAC. Put him in his office or in
+his whatever.
+When the video cut
+>> You want to know why we still When this
+video cut, it remembered all the all the
+environment and the avatar
+and completed it. Same crew, half
+without me. Imagine you don't understand
+most people prompting these videos have
+to go like
+oh, this is the prompt of the video.
+Here's what the person should look like.
+All I did is say just create me a video.
+The quality is so high.
+>> The quality is insane, right?
+>> it was AI at first. Yeah.
+The headache, if you're
+still doing it the old way, you're
+bleeding money every single He's talking
+exactly with the with the
+subcommunication an HVAC person would
+have. Like this is stuff you can't teach
+an agency owner.
+>> Nope. You can't teach him to to talk
+like an HVAC person.
+>> Yep.
+You see you see like the the most
+important part here is remove the human.
+Uh if you told me to go into HVAC and
+try to scale an offer, I could, but it
+was going to take me months. And I'm
+going to get on sales calls, I'm going
+to try to understand it, I'm going to
+look at the video, then I need to know
+how to do videos like them. I need to
+know what like if I was to prompt the
+Carhartt shirt that he's wearing,
+how would I know that he would be
+wearing this? What are the things behind
+them? I would not know how to describe
+them.
+But because AI has infinite
+understanding of everything,
+just cooks.
+Picture this about every single
+deliverable, every single thing that can
+be generated. This feels like playing
+the game of business on God mode.
+>> Bro, with just this, you can make
+millions of dollars and you could be one
+person. Yeah.
+Yeah. So, I'll kind of like wrap it on
+here.
+You can't do this halfway. You cannot
+just be content plot You cannot be
+agentic just because you have content
+feature. You cannot be agentic because
+you have appointment setting. Our goal
+was how do you allow one person to make
+not a million dollars a year, but to
+make a million dollars a month. Mhm. And
+we believe it's from being able to build
+these infrastructures for businesses,
+but then give them employees that work
+for them 24/7 and they pay you every
+single day that your employees work.
+Which is going to be forever.
+>> Yeah, and it makes sense because when
+you look at
+what the bottleneck is of scaling a
+business beyond
+just the the the truth and the insights,
+it's also like, well, you have to scale
+your ad spend, that's easy, that doesn't
+take anything other than, you know,
+increasing a button, but to scale your
+team, that's the hard part.
+Managerial layers, new complexity,
+managing more people, learning
+>> Even finding the people are smart
+enough.
+>> Yeah. Yeah. How Why are they going to
+work for you?
+Are you even going to be able to afford
+them? No. But now
+[ __ ] it. Oh, you're smart? Perfect. What
+are your skills?
+What are the tools you use? Perfect.
+Okay, go find Hermosi dropping every day
+Hermosi highlights. Perfect. Let's go
+learn everything. Let's get AI to to
+categorize, segment all the things that
+he talks about when sales, he talks
+about in LTV to CAC and building margins
+and building the better ascension model
+or retention.
+Perfect. Turn that into skills. Then you
+go to a business that doesn't know that
+Hermosi just dropped it for free
+and get them to pay every month.
+It's so crazy cuz when you're a business
+owner, you start off when initially
+you're starting your business and you're
+focusing on referrals, you think that
+it's a product game. You think you have
+the best product possible to sell to
+people you're speaking to. And then you
+end up creating a great product and you
+start making some money, but you realize
+I'm never going to scale through
+product, I need to scale through
+distribution. So then you have to gain
+the skill of distribution and you figure
+out how you can run ads so you can make
+content. And you finally do that and you
+make go from making your first 10k to
+your first 100k and you're like, "Okay,
+well, I'm making 100k per month, but I
+can't get to a million per month. Why
+not?" And then you realize there's too
+many leaks and you realize it's not
+about distribution, it's recruitment
+now. And then you solve recruitment and
+you solve systems and it keeps going and
+going and going and you have to kind of
+go through year two, three, four, five
+to solve each of these problems one at a
+time as they come up. Yeah. With Cook,
+you have a box where all five are solved
+for you already and you're primed from
+day one to go to a million a month.
+That that to me was was the number one
+thing. It's like, how do we think about
+the how can you think bigger than just
+how do you just run a, you know, a
+million-dollar-a-year business? Cuz it
+stretches you, right? Cuz you could have
+just like, okay, cool, build something
+that builds people's ads or can set
+appointments, right?
+Uh we're going to have everything. Cold
+email, appointment setters, cold email,
+Instagram,
+uh running ads.
+All the tools that you'd need access to
+to actually print
+>> Mhm. integrated.
+But now so you can use them so that your
+bots, your agents, your employees can
+use the skills in those tools to drive
+value for you or for your clients. But
+yeah, guys, um if you guys enjoyed this,
+uh we believe that this is um
+this is crazy and I think it's coming
+faster than we can even fathom. Even for
+me like
+I'm living in an era where it's just
+dopamine every day. Uh building being an
+entrepreneur today is probably the most
+exciting thing that you can be. If you
+guys are interested, click the link
+below to learn more. I'm excited to
+share the future with you guys and to
+share the leverage. Um because all
+wealth has been built from leverage and
+now with Cook AI
+you start with leverage from what? Day
+zero.
+Boom.
+Let's go.
+Good job, bro. Let's go.

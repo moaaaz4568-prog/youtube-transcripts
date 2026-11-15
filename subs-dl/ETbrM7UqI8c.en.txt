@@ -1,0 +1,341 @@
+I've sent hundreds of thousands of cold
+emails, booked in thousands of sales
+calls for many different clients across
+many different industries. And I've
+honestly spent more money on Clay
+credits than I ever want to think about.
+Literally thousands of dollars a month
+on AI credits and enrichments. But
+luckily, I found a way to replace Clay
+using Cloud Code for a fraction of the
+cost. And in this video, I'm going to
+show you the exact Cloud Code setup. The
+custom skill that I built that literally
+handles the entire lead enrichment flow.
+And exactly how you can download this
+yourself and have it running in under 30
+minutes. And I'm not going to be
+skipping any steps. You're going to see
+the full account creation, how to
+actually install the skill yourself, and
+my exact N&N process that I use now
+instead of Clay. And if you're spending
+hundreds or even thousands of dollars a
+month on Clay right now, this video is
+going to save you a lot of money. Now,
+Clay's actually been a very big part of
+our tech stack for a long time. We
+honestly use it for everything when it
+comes to enriching the leads, verifying
+the data, adding a bunch of
+personalizations in. And don't get me
+wrong, Clay is an incredible tool. But
+here's the problem, once you start
+scaling, those credits start to add up
+way too fast. Starting to pay for
+waterfall enrichments, the AI credits.
+You have to pay for every single row
+that goes through your table. Then one
+thing leads to another, you're looking
+at a bill that's probably in the
+thousands. And then I thought to myself,
+why am I still using Clay when Cloud
+Code can do the exact same thing? And if
+you compare the two, Cloud Code has not
+only better results, but it's a fraction
+of the cost. And honestly, I think the
+best part about Cloud Code is you don't
+have to have any coding experience
+whatsoever. This literally took me
+probably an hour to build, and I'm going
+to give it away for free. So, without
+further ado, let's jump straight into
+the video. So, the first step is super
+obvious, you're going to need a paid
+Cloud Code plan. Look over to the screen
+here, they have two different options.
+They have the $20 a month one, they have
+$100, and then you can adjust the usage
+to go up. There's team and enterprise
+ones as well. We're probably going to
+upgrade to this one because like I said,
+we completely replaced Clay. But you can
+just honestly use the $20 a month one,
+and that one will work perfectly fine.
+Okay, now that you got Cloud Code
+downloaded and you bought the pro plan,
+the next step is going to be installing
+the skill. You have two different
+options. You can either build your own
+skill, you might be using like different
+tools. Specifically me, I'm using AI Arc
+Million Verifier, and that's honestly
+literally it. You can build this out
+custom to you. Just go to Claude Code,
+tell it what you want to build, and then
+it's going to tell you what it needs
+from you, and then you just build it
+yourself. Or if you want to use my
+custom skill that I'm about to show you
+right now, you can click the first link
+in the description below, and then you
+just do this right here. So, you come
+over to Claude Code, you say, "Download
+this skill." Man, V, paste the skill in
+there, and then it's going to go and
+it's going to download the skill, and
+then you can just prompt it to start the
+skill whenever you're ready. Okay, as
+you see here, it just got done
+downloading. So, this is going to be the
+instructions that it has here. Click
+exit right here. As you see here, the
+skill just finished downloading. So,
+basically what this does is it's from
+your Legion Pipeline Repo. That's like
+the name of the skill. It's a Claude
+Code {slash} command that basically
+walks you through a five-step Legion
+workflow to capture the ICP, scrape,
+filter, verify emails. It asks about
+personalization if you want to do any
+personalizations, like import their top
+case study, their top services, clean
+custom names, etc., and then it runs the
+entire thing. So, what we're going to do
+here is we're going to say, "What do you
+need from me to make this work?" And
+it's going to tell you exactly what you
+need. So, I'm using AI Arc, obviously,
+so it's going to tell you what API keys
+you need. I would go into AI Arc. I
+would click my settings, and then we
+would click dashboard API keys. I'm
+obviously not going to show it because
+it's going to Basically going to show my
+API key. I don't want to show show my
+API key, but it's super simple. You just
+click here, you copy the API key, and
+you paste it into here. And you can
+literally do this for any Legion system
+that you have. I'm just specifically
+using AI Arc. It's going to tell you
+exactly everything that you need, and
+then you just want to give it all the
+API keys so you can finally run the
+prompt. Once you have all your API keys
+in, you gave it your lead scraping API
+key, your email verify API key, all you
+have to do is go in your terminal, and
+then you're just going to say something
+simple like this. I have Whisper Flow,
+so I don't have to type everything out.
+Hey Claude, can you, using my lead
+scraping pipeline skill, can you go and
+scrape me 50 staffing and recruiting
+firms in the United States, all 1 to 10
+employees. Want the founders, the CEOs,
+the co-founders, and the owners. So then
+we're going to see this does, but it's
+basically going to read the files that
+we gave it, read the directory contents,
+it's going to read the dot MD as well,
+and then it's going to go and task.
+Something that you want to do as well as
+you want to click right here, and you
+want to put this on auto mode, so it
+doesn't have to like ask you before it
+goes and like do everything. It
+basically just does it all by itself
+without you having to ask for
+permission. Um so that's like the good
+thing about it, like you can just tell
+it to do this, you can go work on
+something else, and if it has a bug,
+it'll usually like debug itself as well.
+It's basically going to be the full
+pipeline, so it's going to scrape it,
+confirm the ICP that I gave it, it's
+going to verify the emails, it's going
+to ask me to personalize everything if I
+want to, like the case studies, etc.,
+and then it's going to put it in CSV, so
+you can upload it to your sequencer. Now
+the cool thing is it said, "I'll target
+150 leads to ensure I only said 50."
+It's going to do 150, cuz after the
+verifications, after the confirmation of
+the ICP, we might lose some leads, so So
+it actually overdoes it to make sure
+that it gets you the amount of leads
+that you want. Okay, as you can see
+here, after I told it to go ahead and
+scrape the staffing and recruiting
+firms, something had happened with the
+API key, but we got a work around on
+that. All I told it is just I want you
+to verify it. So you might have to do
+some debugging, but it usually debugs
+itself, and it's it's pretty fast. But
+as you can see here, it says got 118
+verified leads. Now reading the data to
+do ICP filtering and personalization
+myself. Okay, so it's also going to see
+duplicate data here. Let me duplicate
+apply ICP filtering. It's going to go to
+all their websites, and then it's going
+to write the personalization that we
+want. So look, it's going super fast.
+Got 66 clean leads, a few fixes, should
+pass keyword mismatch. So, it's
+basically just going to fix itself and
+you're just like sitting back. Um, you
+really don't have to do anything. It's
+basically going to do everything for
+you. Um, and it's going to like kind of
+like talk to itself in a way. So, I
+said, "50 clean leads all with okay
+emails. Now fetching all 50 websites." I
+forgot to show you guys this part. So,
+you could just say something simple like
+this. Since we got the leads, I want you
+to clean all of the company names and I
+also want you to create a column with
+their top-performing case study. If you
+can't find their top-performing case
+study, then I want you to add a fallback
+to find their top service that the
+company provides." You just say it
+something like that and then it's
+basically going to go. Since we got the
+leads, I want you to clean all the
+company names. I also want you to create
+a column with the top-performing case
+study. So, it's going to go and do
+exactly what we told it to do. So, you
+don't have to all manually do this. Like
+in Clay, you would have to add a AI
+column, you'd have to run the column,
+spend a ton of money. Some of the
+outputs wouldn't even be correct, but
+with Cloud Code, it's like the quality
+is actually just [music] insane. Okay,
+boom. As you can see here, that probably
+took about 2 minutes. It said, "I've
+read all 50 websites, writing clean
+company names and case study copy for
+each right now, verified okay emails,
+clean company names, pull the actual
+data." So, now we're going to check it.
+I'm going to say, "Bring up the CSV for
+me so I can click it." You could just
+say something simple like that,
+honestly, cuz it's going to send you
+this file. It's going to take you over
+to this like bunch of like coding stuff.
+Um, even though it says CSV, usually
+just downloads straight into your files,
+especially once you have auto mode on as
+well. Okay, so you guys can see this.
+So, we have the first names. I'm going
+to blur out all this information just
+because I obviously don't want to get
+sued or anything like that. So, I'm
+going to blur out all this information
+here. Um, but as you can see, first
+name, last name, it has the full name
+put together. So, just in case you
+wanted to add like a lead waterfall to
+that, that's something that I do as
+well. If I'm running like a big scrape
+in a like a small niche and I need to
+get as many emails as possible. You have
+the emails here, the status, the title,
+and then you have the seniority, the
+department, even their LinkedIn URL, the
+person's location, city, and it just
+gives you all this data. And you
+literally just had to sit back and um I
+can show you guys this. So, notice how
+it says prospects looking for executive
+search. And it just personalizes one for
+every single one of them, so it's not
+the same and it's personalized to the
+exact prospect because obviously once
+you do scrapes with no AI Arc or [music]
+really any lead database, no matter how
+many filters you put in, especially if
+you're doing a big scrape, not all of
+them are going to be what you're trying
+to target. So, this helps mitigate
+people reporting you as spam, etc. Um
+cuz it's still personalized to them. So,
+as you can see here, um and there's many
+different things that you can also do
+with it as well. You can add, you know,
+a bunch of different custom fields,
+clean company names, whatever you want
+to do with Clay, you just tell it what
+you want to do, and then it's going to
+tell you what it needs from you, and
+then it's basically just going to go and
+do it. Now, I also wanted to show a
+comparison of like the Clay credits as
+well. So, you have the launch plan,
+that's $185 a month, you only get 15K
+credits. There's a growth plan, you have
+$495
+a month, and then there's a custom plan,
+and it just gets super, super, super
+expensive, especially once you add like
+even your Open AI credits, different
+models that you use, but you just did
+all that and it was automated and it was
+only $20. Obviously, at scale, you're
+going to have to buy a bigger Clay
+[music] plan cuz it doesn't have so many
+credits, but to the comparison, it's
+like pennies compared to to clay.com.
+So, that's exactly why we switched over.
+Also, on Clay, if I were to do this all
+manually, it would probably take me
+hours, especially trying to debug the
+low models of the AI um and things like
+that, trying to filter out all the data,
+doing a bunch of things, [music] it
+would probably take me hours, but this
+literally took me probably like 10 to 15
+minutes. It was all automated, and yeah.
+If you want to download the exact scale
+that I used, the link is in the
+description below, so you can click that
+and do exactly what I did. Paste it in
+the terminal, say download the skill,
+and then add your API keys, and then
+you're ready to go. And if you
+[clears throat] actually want this
+entire outbound system built for your
+business, I run Velocity Flow. We are a
+B2B deal generation agency. We build,
+run, and manage campaigns like this all
+the time for many different clients
+across many different industries. So, if
+that interests you at all, you can click
+the second link in the description below
+and book in a free call. And if this
+helped you at all, go ahead and check
+the next video out. to be a video now
+that you have your data cleaned and
+everything like that. I'm going to show
+you exactly my framework on how I go
+about offer creation, which is probably
+one of the most important parts aside
+from like infrastructure and lead
+sourcing. The next up is going to be
+your offer. So, you can click this link
+right here to go watch that video. And
+if you guys want more cold email videos
+just like this one, you can check out my
+channel. I post on it every single week.
+Click subscribe, and I'll catch you guys
+in the next video.

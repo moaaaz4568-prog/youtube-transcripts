@@ -1,0 +1,1472 @@
+We are going to
+use GPT6
+Astra to fully
+automate our
+AI tool evaluation offering
+from start to finish.
+Well, this is the offer
+we are selling for
+$1,000.  But before
+we jump into GPT and
+start
+automating, I'll
+first explain what this
+offer is so
+you know what we're
+actually selling.
+So, our AI
+tool evaluation offering
+is a
+small business owner assessment, where we
+meet with them
+for 45 minutes and
+identify any
+pain points
+they are facing
+in their business.  And
+then we do our own
+research,
+find some
+simple off-the-shelf
+AI tools
+that they
+can implement
+to fix some of
+these problems.  And then
+we present it to them
+in the form of a nice
+little report, and
+during the review
+call we share
+that report with them and
+offer them an
+additional fee for another
+service, namely AI
+concierge, which I've already
+made other videos about.
+So, the actual steps of
+this process that we
+are going to
+automate.  So,
+you see, there are six
+steps here.  We're going to
+automate steps
+three and four
+because that's the vast
+majority of the hard
+work.  Steps 1, 2, 5, and
+six
+can only really be done by
+you as a human.  But these
+steps are the simplest and
+take the least
+time.  So, the first step is
+selling and
+booking a call.
+So again, you,
+as the person selling
+the offer,
+will definitely be doing it as a
+human being.  Step two:
+Call to
+identify the
+potential client
+.  You, as a person, will be
+making a call
+to identify a
+.  This is something that you don't
+need to do right now unless
+you create a
+voice agent
+to do this
+step, which we already
+did, and I'm going to
+create a future
+episode about how we
+did it.  This will be a
+step you will
+perform on your
+own, especially
+if you are new to
+this.  You will
+perform your
+first five to ten of
+these steps
+yourself before
+using a
+voice agent.
+But then step three
+, the AI ​​analysis part
+, is something that
+GPT6 completely
+automates for us.
+So, here we
+take a transcript of
+our conversation with
+the client.  We
+pass it to GPT.  It
+identifies pain
+points.  She evaluates them
+according to a matrix of
+effort-impact ratios.  So
+she looks for pain
+points that have a
+high impact but
+require little
+effort to
+address.  From this
+transcript, she
+selects five to
+seven possibilities.
+She then researches
+off-the-shelf tools
+that we can
+assign to our
+client, determines the
+actual prices for those
+tools,
+calculates the
+ROI the
+client will receive from
+implementing those
+tools, and then
+automates step
+four, where she
+creates a report for us that
+we share with
+the client.  So,
+completing these two
+steps, steps
+three and step
+four, usually
+takes an hour to an hour
+and a half per
+client.  But GBT6
+completely automates
+this.  And when we
+create a report, we're
+going to
+use
+codec sites to
+put our report
+on a website that we
+can share with the
+client.  So, it
+will look really
+professional.  And then
+step five, the
+review call, is probably the
+most important step
+that a person takes
+because that's when we
+actually share
+the report with them on the
+call, and that's when
+we can upsell them on
+additional services
+around implementation or
+other services.  And then,
+after the call, they
+have to follow a 4-
+day plan that is
+included in the report.
+So, this is a
+high-level proposal.
+Now we are going to
+open the Chat GBT code
+and start
+automating this
+step from start to
+finish.  So, we'll
+start with the
+AI ​​analysis step, because
+again, that's step
+three, and then step
+four, generating
+the report.  These will be the
+steps with which Chat GBT
+can help us with our
+hard work.  So,
+we're actually going
+to turn both of
+these things into skills.
+So, we're going to
+create two
+skills here.  We're
+going to create an
+AI analysis skill
+where we'll insert a
+real transcript of an
+AI tool evaluation
+I conducted with a client
+as input.  So,
+we'll insert this entry
+.  We will ask Codedex
+to do an analysis,
+specific
+tools that
+apply to
+this client, and that
+will be their own
+skill set.  And then we'll
+ask it
+to create a report.  And this
+report building skill will also be a
+separate skill.
+So, we'll move on to
+Codedex.  And now you
+can
+use, um,
+Codeex, or you can
+use Chatbt
+Work in this case.
+So if we
+move to Chatbt and
+start working, you
+can definitely
+do it there.  I
+personally
+prefer codecs.  So that's
+exactly what we'll do in
+this case.  So I'm
+going to use
+, uh,
+text-to-speech in
+this case.  So I'll be
+using the
+GBT6 Astra, and I'll be
+using it
+on high frequency, and
+I'll be speaking into the
+microphone to
+prompt Chat GBT in
+this case.  So here's
+what I'll say.  I
+need you to
+analyze the
+attached transcript of
+the conversation with the client.
+This was a conversation where
+we
+evaluated
+artificial intelligence tools
+and problem detection.
+You need to
+analyze
+the transcript,
+identify three
+to seven key
+issues this
+client has based on
+our conversation, and
+then research
+off-the-shelf
+AI
+or SAS tools
+that this client could
+implement to
+solve/reduce
+automation of
+any issues
+mentioned here.  Your
+result will be a
+simple list of the
+exact tools
+they could
+implement, along with the
+current prices
+for those tools and
+any other
+additional
+information
+you think I should
+know.  I want your
+output to be
+concise and give
+me only the
+tool names and prices,
+followed by a simple
+rationale for
+why these tools are a
+good fit for the
+client.  Okay, here's what
+I'll say.  And then I'll
+upload a transcript of an
+actual conversation I had with a
+client
+here.  And then
+if we go back
+to our chart, we
+go back to our
+chart.  So, we'll
+ask him
+to evaluate the pain
+points by
+effort-to-impact, or,
+sorry, evaluate
+the solution by
+effort-to-impact
+after he
+finds the tools.
+So what I wanted to
+do first was, "
+Hey, find the
+tools."
+We will then evaluate them by
+range of effort and
+impact.  And then I'll
+ask you to do a
+report, and then those will be
+two separate
+skills.  So, we'll
+do this
+research, and I'll
+come back when it's
+complete.  Okay
+, Astro only worked for a
+minute and a half, and
+he came back with a
+list of tools
+that he thought would be a
+good fit for
+this client.  So
+if we expand this
+table, surprisingly,
+these are the exact
+tools that we
+found for this
+client when we
+originally conducted
+this research
+a few months ago.
+So, that tells
+me that he
+did a very good
+job of setting a
+goal and
+doing exactly what
+we asked.  So,
+the tools that were
+found in this
+case were Dash because
+the client's pain point was that
+they were doing a lot of
+manual reporting.
+They pulled
+analytics from
+Google Ads, metadata,
+Google Analytics, and
+other analytics
+resources and manually
+entered it into a
+spreadsheet.  And
+this actually shows
+that Dash can
+automatically
+pull all this
+information and
+put it into the
+dashboard in a completely automated way, and it
+took her 4
+hours a month to
+do it manually.
+Now it's completely out
+of
+control.  They
+recommend Canva
+because one of
+their pain points
+is constantly revising
+designs.  So, essentially,
+they're saying: if
+they
+lock down
+their brand elements in Canva once, it will
+practically solve
+this problem.  Another
+pain
+point is
+distractions
+in incoming
+messages.  So
+she spends a lot of
+time in her
+inbox and
+manually reviews
+emails every day.    A
+tool like
+Fixer can practically
+solve the
+inbox problem and
+probably buy her
+a few hours a
+week.  Another
+tool that was
+recommended was
+Later Growth for
+content planning
+and accountability,
+as
+the client said they lacked
+consistency in their
+content calendar.
+They were simply acting
+impulsively.  They
+also recommended
+fathom because one of
+their problems is that
+they make
+a lot of command
+calls and nothing
+comes of it.
+There is no accountability.
+No further action.
+So having a
+simple
+AI-powered notepad like
+Fathom can
+fix that.  And then
+ASA was recommended
+.  So they're already
+using Asauna,
+but GPT Astra recommends
+something like, "You're
+already using ASA
+, just
+standardize
+the way you
+use it,
+right?"  "Now they're
+in almost a
+semi-dangerous
+format."  And, by
+making better use of the
+tool they
+already have, they
+don't even need a new
+tool.  They
+can just
+use it
+.  They already
+use Active
+Campaign, and GBT6 Astra
+recommended
+better by setting
+it up to schedule
+reminders and
+review requests in an
+automated
+way, rather than manually.
+So, he actually
+did a really
+good job, although
+we don't need to
+repeat much in terms of the
+research that was done.  So what am I
+going to ask him to do
+next, right?  If
+we look at our
+diagram, the next
+step would be to
+isolate
+pain points,
+research
+tools, and
+pricing.  Now
+we need to evaluate
+the recommendations against the
+effort
+vs. impact matrix and then
+calculate
+the return on
+investment (ROI) in
+terms of
+hours saved
+versus the cost of the
+client’s time per
+hour.  So in this
+case, let's say the
+client's time is worth
+$150 per hour.
+And here's what I'll ask GPT6
+to do next.  These
+recommendations
+look really
+good.  Now I want
+you to plot
+each recommendation
+on the effort
+versus impact matrix.  So,
+the top left
+quadrant would be
+quick wins,
+and these are tools that
+have both high
+impact and low
+implement.
+The top right
+high, high
+impact, meaning they
+require more
+implement but
+still create
+high impact.  In
+the lower left
+quadrant will be
+low-
+effort, low-
+impact situations, meaning they are
+easy to implement but
+won't really make a difference
+.  And in the lower
+right quadrant
+will be situations with
+high effort
+and low impact,
+meaning they
+and require
+a lot of work.  And these are
+obviously the situations that
+we completely
+avoid
+implementing.  And then
+, once you
+create this matrix,
+I want you to give
+me this matrix as an
+image.
+Once you create
+this matrix, I want
+you to, um,
+investment (ROI).  So,
+let's say a
+$150 per hour.  I
+want you to give me a very
+conservative
+estimate of how much time
+each of these
+tools
+will save once
+implemented, and then
+give me a really
+hourly or,
+sorry, monthly
+ROI
+if they
+implement these
+tools as
+intended.  So I
+know that was a long
+tip, but that's why
+I
+like
+communicating with
+text, because it makes the
+process so much easier.  So,
+we're going to provide
+those recommendations to GBT and
+then come back
+here once that's
+done.  And
+we hope that by
+then we will have a
+matrix of influence and
+effort.  And if they do it
+well
+, then we'll just
+turn this
+process into a skill.
+If we need to
+repeat, we
+will repeat and
+then turn it
+into a skill.  And then we'll
+move on to the
+process of creating a
+report itself and turn
+it into a skill.
+Now, one thing I will
+say while GPT6 Astra is here
+, if you
+like this
+business model of
+selling
+AI assessments, I've sold
+probably 20 to 25 of
+them this year.  Hmm, I
+invite you
+to join our
+community, the
+AI ​​Operator Academy.  You
+can check it out
+in the AOA community
+or via the link in the
+description.  That's where we
+help people
+start an
+AI services business,
+using
+AI assessments as a first
+offering.  So,
+we have 270 or
+280 people in the community.  All successfully
+sell
+AI assessments and then
+offer additional
+services, including
+paid quarterly
+consultations or
+other offerings that tend to be
+more expensive.
+So, if you are
+interested in making money
+AI services, again
+, join the
+AI ​​Operator Academy.  We have some
+really good
+resources for
+turning this
+into a real business.
+Now she tells us she is
+doing her
+research.  She
+says that dash this and fixer
+are the clearest
+wins.  Canva, Asauna, and
+Active Campaign require
+setup.  So
+she continues to
+conduct her
+research.  Another thing
+I will say is
+if you want
+this whole process here, then like
+everything, I show everything from the
+full diagram that
+I showed, like the
+grading breakdown
+here, uh in Excal, and also
+how to use
+GPT6 Astra to do
+exactly what I'm doing
+here.  I've included everything
+I show you on
+camera here in the
+guide.  So, you
+can follow the
+link in the description and
+get the guide
+absolutely
+free, and you
+can literally
+hand the guide to the GBT6
+Astra and it will create
+for you exactly what I'm
+creating for you here.
+So, this is a link
+for a completely
+free
+download in the description,
+and I'll come back as soon as
+it's
+ready, and we'll
+go over the
+counter-influence effort matrix
+and see if
+we need to
+further develop
+this skill.  So, this
+gives us a
+conservative estimate of
+$564 per month in the
+net present
+value of time.  This is
+the rating that Astra gives us
+.  Now, she's
+done some
+insanely complex
+calculations here.  This is all
+a bit exaggerated.  And
+if you look at
+the implementation, it
+essentially says that
+implementing Fathom Noteaker
+will take 1 hour.  I disagree with this
+.  You
+literally
+download it,
+connect it to your
+Google calendar, and you're good to go
+, right?  It
+really is that simple.    It
+says that
+the implementation of the sauna
+will take 8 hours.  They are
+already using
+the sauna.  Implementation will not
+take 8 hours.  So
+I like that it's
+very
+conservative.
+The client will see this, and
+it will most likely
+take them, you know,
+25% of the
+implementation time.  So that's
+actually not bad.
+Now, one thing I'll
+do is to
+direct GPT6 here and
+avoid being overly
+So again, we were
+given many different
+ROI calculations
+.  It
+says, you know,
+like it just gives
+us a lot of numbers that are
+n't necessary.  So
+I'm going to give
+feedback and say that
+it looks good,
+but I don't need
+all these detailed
+financial calculations
+.  I just
+need to know
+how much money per
+month my client
+will make in terms of
+time saved multiplied by
+their hourly
+rate.  So this
+starting number, I
+think you said,
+$564 per month, is the
+number we
+start with, and it's
+really the only number
+we need in
+this case, other than
+breaking down
+how much time
+each individual
+tool will return.  Can
+you give me your
+updated results
+based on this
+feedback?  So, I'm giving
+him this context
+so he knows we
+don't have to do
+any complicated
+calculations.  Once
+he gives us that
+feedback and
+just gives us
+this simplified
+ROI calculation, then I will
+turn this process
+into a skill.  So I'm
+basically going to tell him, well, I'm
+going to show you what I'm
+going to tell
+him now, because he already
+did.  So, he says the
+estimated
+monthly cost
+is $564
+net of
+time returned.  And
+then he gave us a
+breakdown of the
+return time per month
+for each
+tool.  This is exactly what
+we need.
+So, here's what I'm
+him next.  I want
+you to take all the work
+we've done so far
+in this topic and
+process into a skill.  And I
+want you to call
+this skill
+AI tool analysis.    The
+input for
+this skill will always
+be a transcript of
+the conversation between me and
+the client.  And the
+result will be the
+research you
+conducted to
+identify specific
+fix their
+bottlenecks and the
+estimated monthly
+return on each
+tool, as well as the
+the client will receive from
+tools.  So
+let's develop
+the skill.  Good.  So,
+let's start working
+on developing this
+skill.  This
+will probably take 3 to 5 minutes
+.  So I'll be back
+when it's done
+.  But it's practically the
+same process I
+follow every time I
+do something
+repetitive in my
+business.  And that's exactly what
+we do
+repeatedly.  Again
+, if I've already
+done 20 to 25 of
+these assessments
+this year, I've
+developed this
+skill a long time ago.  I'm just
+showing, essentially, to
+prove that this is how
+you can
+Astra to develop this
+skill and
+automate this
+offer, you know, in
+less than 30 minutes.
+We will have less than 30
+minutes until the end of this video.  So, as soon as
+that's done, I'll be
+back.  Then we
+will create a report.  Then
+we automate it,
+turning it into a
+skill, and we're done.
+Good.  In exactly 4
+minutes, our skill is
+ready.  So the program
+says it has created and
+installed the skill of
+analyzing
+artificial intelligence tools.
+She says, “Give
+her a transcript of a
+client call and
+she will provide
+tool recommendations with
+pricing and
+monthly
+time savings for each
+tool.  One of the
+main monthly
+ROI figures
+is $150
+per hour by default.”  So, we
+need to remember
+that when we do a
+client discovery call, we
+always want
+to ask them what their
+hourly rate is, or
+at least how they
+estimate it.  And then we'll
+have to provide that
+figure to Codedex, because
+otherwise it'll
+just
+default to
+$150 per hour.  And
+she also says
+she will create a
+picture of the
+effort versus impact matrix.    So that's
+perfect.  This is
+exactly what we
+need here.  So, if
+diagram, the third
+step of our AI
+tool evaluation process
+,
+which is the
+most cumbersome
+step in the entire
+proposal, is fully
+automated.
+So, it's done.  We
+can go back
+to Codedex and start
+automating the
+fourth step, which is
+generating the report.
+So I'll tell Codex about
+using sites.    There
+is a feature in Codex
+called sites, and you
+can enter data into the
+chat window on sites.  So
+he knows how to
+use this
+tool.  He can
+create a website for
+anything you
+want.  He can
+literally just
+create a website and
+host it here
+at Codeex.  So I'll turn
+the report into a website so
+we can send a
+link to the client,
+not just as some
+pathetic PDF.  This
+will make it look
+much more
+professional.  So,
+I'll say,
+using sites
+, I want you to
+create a website with a
+detailed description of the
+report that I can
+share with
+the client.  Now, if
+we go back to
+our chart, here's
+everything
+this report should contain.  So, it
+should include a
+summary with three
+top wins
+, a priority matrix
+tool and pricing recommendations, a
+4-day rapid
+launch plan, financial
+impact, and
+ROI.  So I'll
+just take
+a screenshot of this, um,
+this part of the
+diagram so I can
+put it in Codedex.
+I won't need to
+talk long here.
+So now I'll tell Codedex to take a
+look at the
+attached screenshot.  These are the
+different parts of the report
+that need to
+be included on the site.
+So, I want you to
+the results of the analysis of
+to formulate
+information about what is
+happening on the
+site.  I want you to
+be concise in
+this report.  I don't want it to be
+long and
+drawn out.  This is something
+the client should be
+able to review
+in 3-5 minutes at most
+to get the full
+value of the report and
+understand exactly what I am
+offering.  I also don't
+want it to
+look like a
+formulaic result.
+I want you to go
+online and
+see if
+you can find some
+good examples of
+professional
+consulting
+services or even
+just professional
+websites that
+you think are a good
+model to
+model our
+report on.  And then I want
+you to provide me with a
+finished site.  And when
+you're done, if
+I like what
+you gave me, we'll
+Good.  So, I just
+gave you this hint.  And
+pay attention, as I
+usually do,
+especially if
+artificial intelligence
+creates something creative for me
+, even if it's
+written
+text, but certainly
+when it comes to a
+website or any
+design projects
+, I always want to provide
+inspiration.  I always
+want to give an example of what
+something good looks like, or
+at least an example
+that I want it to
+try to
+emulate.  But in
+this case, I'm
+lazy and don't want to
+go out and look for
+examples.  So, I
+just say GPT and say,
+"Hey, why don't you
+links that you
+think are good
+that we should
+follow for
+this particular
+project."  I'm very
+curious to see what
+happens.  Maybe we'll end up with
+a completely
+useless, generic
+website, in which
+case we'll have to
+redo it, or
+maybe we'll come up with some
+examples that will
+pleasantly surprise us
+and look
+really good.  So I'll
+pause.  Again
+, it
+will probably take 3 to 5
+minutes, if not
+more, to go out,
+create the site, and
+then see what
+it has to offer us.  And
+if it looks
+good, we'll turn
+it into a skill that
+fully automates the
+fourth step, meaning
+the vast majority of
+this offering will be
+fully
+Okay, in a few
+minutes CodeEx will be
+ready, and let's
+see what it
+gives us.  So, here
+we have the completed report
+, and again, this is a
+codec site.  So
+if we go
+here, on the left side of
+CodeEx, and click on
+Browse, and then Sites
+, it will be
+here.  It
+says "lodge" here, which is
+the name of
+the client's AI tool evaluation.  You can
+open it with one
+click in
+the browser, like in the
+browser in Codec.  So
+it's here,
+but I'm going to open up the
+chat window that
+we were just working on
+so it's still on the
+left so we can
+continue working
+on it.  So, this is the site
+he created.
+Interestingly, it
+says that Stripe's annual letter and McKenzie management reports were used to
+create the template
+we see here.
+So when I
+told him to find
+examples that I
+thought would be good
+to model, that's exactly what he
+chose.  So if
+we click on the first
+part, it will be a
+summary.  So,
+essentially, it says:
+client name, this is your
+prescription for
+AI tools, here's
+your monthly
+opportunity.  I
+like how he
+put the
+on the first
+page, like in the
+short description.  I
+think that's great.
+Expected net
+value from
+time recovered, 9
+hours, determined by
+seven tools
+.  So, the brief
+description lists the
+three most striking
+victories.  So, he
+says: let
+reporting
+run
+itself,
+protect your focus,
+delegate daily
+design.  The tools
+are dash this, fixer and canva
+business.  And then it
+moves on to the second
+part, which is the
+priority matrix
+, which I
+like.  I think
+it looks really
+good.  He compiled
+his own matrix of
+counter-influence efforts
+and
+built
+tools accordingly.  I think
+good.  Oh, very interesting.
+So he even got
+to the point where
+inside the matrix of
+efforts against influence
+you can press a
+tool on the
+matrix.  So if I
+click dash this on the
+matrix, it
+scrolls down
+to show me dash
+this on the very third
+part of the tools
+and pricing.  So
+he made it a
+little
+interactive
+element.  I didn't
+ask him to do this,
+but it's really cool.
+I think this is a nice
+feature.  So if we
+scroll down to
+part three,
+tools and pricing,
+your recipe of seven
+tools, four
+tools are already in
+your stack.
+Check your current
+plans before
+purchasing upgrades.  And
+then it
+lists the name of
+the tool,
+the task it
+takes off of you, the
+publishing price, and the
+return time.  And it's
+listed for
+tool here.  And
+I also
+like how it's
+stated, is this a
+new tool.  So
+if it's like a new
+tool, right?  So
+using this as an
+example through dash,
+they don't
+tool.  There is an
+"add" button below it.  But
+for tools
+they already
+use,
+like Canva, it just
+says "
+setup/update."
+So it clearly shows
+which ones are brand
+new tools
+, and which ones they already
+use, which ones
+use more
+effectively.  So I
+think the third
+part looks
+really good, the
+tools and the prices.
+And then a 4-day
+quick start plan.  So
+again, the point of
+this section
+is to
+just get them
+moving as quickly as possible, with
+the least amount of friction.
+So, it recommends, just like
+on day one,
+connecting the numbers,
+connecting Google Ads,
+metadata, and
+analytics to
+compare this
+audit report with
+last
+month's results.  This is a really
+good recommendation
+for the first day
+because it might take
+them 10 or 15 minutes;
+but it will give them, um,
+experience using
+this tool, and
+it will prepare them for
+day two so they
+can continue
+that momentum and just
+implement one
+simple thing every day.
+So, on the second day, get your
+inbox back,
+connect Fixer to Gmail,
+review its
+categories and
+reply to
+drafts, correct
+anything it
+misreads
+.  Perfectly.  Right.
+So, again,
+this 4-day
+quick start plan
+seemed to
+handle that as well.  Now,
+for the last
+part, the financial
+impact and the reduced
+, he says
+you'll get
+$564 per month.
+Estimated net
+cost from the time of
+refund
+after the
+full
+prescription is entered.  The opportunity
+is nine
+owner hours per
+month related to
+reporting, design,
+mailbox management,
+and fewer
+follow-
+ups.  Now it even
+says that a
+estimate is that your time
+is valued at
+$150 per hour, which
+reduces the projected
+savings by 20%.  And
+the subscription plus one
+hour of monthly
+service is deducted.  So
+this makes it
+clear that,
+listen, this is very
+conservative.  This
+even takes into account
+the amount of time
+you will spend
+each month just
+maintaining these
+tools.  And
+realistically speaking,
+that's not even an hour
+a month.  So this is
+probably overly
+conservative and
+we could
+remove that part entirely.
+But anyway,
+overly
+conservative,
+instead of
+saying something
+like, "Oh, that'll
+save you three
+grand a month,
+right?"  Which is a bit
+unrealistic.  So, I mean
+literally diminished
+this report.  I think
+good.  I mean, it's something that, you
+know, there
+might be a few
+tweaks here and there
+that we'll make in
+terms of design
+or the size of certain
+sections, but it's something that
+I would feel
+relatively comfortable
+delivering to the client as
+is.  So, I mean
+, GPT6 Astra just
+crushed it.  So what
+we're going to do now is, oddly enough
+, I
+ran out of options in
+the middle of this
+task.  So I had to
+one of my resets
+and then ask
+him to continue.  But
+now I'll tell him: "
+This looks really
+good."  I want you to
+particular
+workflow into a skill.”  And
+let's call it
+AI tools.
+Actually, I'll call it an
+evaluation report.  And
+so it will take the
+result of the
+AI ​​tool's assessment analysis skill and
+use that
+result to
+create a site, just like the one
+you just created, as the
+end result
+for the client.  So I
+want you to
+build this skill now.
+So she'll go and
+create this skill,
+and then we'll
+come back when
+she's ready.
+Good.  Codex ran for
+almost 8 minutes and our
+skill is ready.  So
+we called it an
+assessment report.  So
+realistically, what we
+can do now
+is just run the
+analysis of
+AI tools.  Uh, we could
+run this skill
+and then run the
+assessment report
+sequentially.  So it would
+run an analysis, and
+then take
+the result of the analysis,
+run a
+report skill, and generate
+the site that we see
+here.  Now what we
+could do (and I'm
+not going to do this
+in this video for the sake of
+time) but we could
+create what we
+call an
+orchestrator skill, and the whole
+purpose of this
+orchestrator skill,
+let's say we call
+this orchestrator skill an
+assessment pipeline
+.  So if we
+create this
+assessment pipeline skill,
+we'll create it so that
+all we
+have to do is
+run the
+and it would run the
+analysis and the report
+sequentially.  So
+running the two
+skills separately one
+after the other, we could
+just run
+one orchestrator
+skill assessment pipeline
+once, and that would give us a
+complete pipeline from
+start to finish.
+That's how we
+automate,
+you know, 60 to 70% of the
+evaluation process of
+Again, we still
+need to
+sell the deal.  We
+still need to
+make a call for
+discovery until we can
+hook up a
+for that, which we'll be
+creating a video on
+how to do in a
+couple of weeks.  And then
+we still need to
+do a review
+call, right?  But
+beyond that, AI analysis
+and report creation
+, steps three and
+four, which are
+the hardest, fully
+automated in
+less than 30 minutes,
+showed you exactly how to
+do that in this
+episode.  So, two
+things.  If you want a
+full guide on
+how to do what
+I just showed you here
+, get
+it from the link in the
+description.  All my
+free resources
+will be there at this
+link.  And then
+to learn how to
+actually build
+this business and how
+to find clients,
+how to actually
+get paid to
+do these
+AI assessments, then
+check out the
+AI ​​Operator Academy, the
+aoa.com community, or the
+link to
+join is in the description.

@@ -1,0 +1,527 @@
+All right. So, in this video, I'm going
+to break down exactly why your cold
+emails are not working. Okay? So, just a
+bit of background on myself. I've been
+running our outbound agency Valente for
+the last 2 years now, almost.
+And I've documented the whole process.
+Okay? We have been on the front side of
+the learning curve. We have been
+studying everything that's working right
+now. We have sent millions of emails.
+We've booked hundreds of appointments
+across all of our clients.
+We have um
+businesses we work with, agencies,
+uh uh SaaS companies, uh consultants,
+everything you can think of. And
+yeah, in this video, I'm literally just
+going to break down uh the main reasons
+why your cold emails are not working.
+And we've we've tested this personally
+across all of our client accounts. When
+something goes to [ __ ] when something
+is not working to how we want it to to
+to work and perform, this is the exact
+framework we come back to. Okay?
+All right. So, the first thing is
+deliverability. Okay?
+And this is the first thing we actually
+look into. If your reply rates are under
+1%, then you most likely have a
+deliverability issue.
+Um if your reply rate is around 1% to
+1.5%,
+it is in the decent range. If your reply
+rate is above 1.5% or 1.5%,
+deliverability is clean. Okay?
+That is what we use. Those are our
+benchmarks. And this is also what a lot
+of other people are doing as well.
+So, a cool little trick I learned from
+someone else in the
+is basically um
+even and odds. Okay? So, what even and
+odds are is basically how you structure
+your actual email accounts.
+Okay? So,
+what that means is let's say you have
+100 inboxes. Okay? And each of those
+inbox uh or uh three of those inboxes
+are obviously attached to one domain.
+So, you have 100 email accounts. What we
+do is we like to split those up into two
+different segments. So, there's an even
+segment, which we run for the first 2
+weeks of a month, and then after we run
+those, then we switch to the evens.
+Or vice versa, odds and evens, right? Um
+and basically what this does, it it it
+gives our other email accounts some room
+to just kind of warm up. And doing this,
+we also avoid a lot of jump scares with
+deliverability. You know, it's a it's a
+great proactive way to kind of make it
+defensible of having uh you know, your
+reply rates just shoot down and you
+know, then you have to take 3 weeks off
+to buy new email accounts and
+buy more spend more money on email
+accounts, you know?
+Which is no bueno. So, we've been uh
+segmenting our two email accounts or
+we've been segmenting our email accounts
+into two different segments, evens and
+odds.
+So, the first thing you want to do, if
+it is a deliverability issue, you want
+to audit your infrastructure. You want
+to verify your list and you want to
+check domain health, okay? So, what does
+that mean? How do you audit your
+infrastructure? You might ask. You
+basically go and see what email inboxes
+are bouncing a lot, okay? And there's
+tools that let you analyze this on a on
+a bigger glance.
+But uh what we do is just we typically
+go through our email accounts, we check
+what emails are bouncing a lot, what
+email accounts are actually bouncing. Um
+and then we run placement tests. They
+should be within your sequencers, so
+instantly they have inbox placement
+tests. We use Email Bison.
+And that's where we run our inbox tests
+on. But that is not always the best way
+to to see if your deliverability is a
+problem, okay? It's not a good uh
+measurement. So,
+another thing we have been seeing a lot
+lately is problems with fingerprinting.
+Okay? And you might ask, what is a
+fingerprint, okay? So, a fingerprint is
+basically
+um an email provider, okay? They see the
+same structure of your email being sent
+thousands of different times a week,
+okay? So, when they see that, they're
+like, this looks odd. This looks
+unhuman-like.
+Um so then they start to flag our
+inboxes and our domains get hurt and
+then those affect the rest of the
+domains
+those affect the rest of the email
+accounts on on that exact inbox and it
+just creates a plethora of issues.
+So,
+um
+yeah, that's never good to have, number
+one. So, what we've been doing is
+every time we have one winning
+variation, okay? So, let's say we launch
+for a client, we launch five different
+variations. You always want to be
+testing a bunch off the get-go, but
+let's say you just have five in a
+campaign, okay? Um
+eventually after those after you find
+the winning variations of that bunch and
+you start to scale that variation, um if
+you just keep the structure the exact
+same, that's actually how you you
+get in a risky territory with being
+fingerprinted, okay? So, you basically
+want to change your copy structure.
+So, a structure is not just like, you
+know, change a few words, it's
+completely changing the structure of
+your copy,
+you know? So, like how that actually
+looks like is, let's say you have a
+winning copy, you bring that copy to
+Claude, okay? And just ask it to create
+five structurally different variations,
+okay?
+Keep the offer identical, change the
+sentence structure, change the count,
+change the phrasing, the opening hook,
+you know, apply your spin tax.
+Then you can build more variations of
+subject lines on that, you know,
+obviously make those
+four words max, no spam words,
+and
+the way you continue to avoid being
+fingerprinted and hurting your email
+accounts is by rotating your very
+rotating your variations every 5,000
+sends.
+Okay? And by rotating I mean changing up
+the structure every 5,000 sends.
+That's how I actually how you avoid
+being fingerprinted, okay?
+And
+another thing is if one mailbox on a
+domain is hitting spam, you just have to
+assume all of those inboxes on that
+domain are hitting spam as well, Okay,
+cuz domain reputation is is shared
+across mailboxes.
+Um if it lands in spam, it it it
+probably will kill all the mailboxes on
+that specific domain.
+Okay, and you know, this is such a big
+topic in GTM and go-to-market outbound.
+Um and this relates back to copy
+fatigue, you know? Copy that gets sent
+thousands of time times, um it basically
+lets the providers know, okay, this this
+is, you know, again, spammy, okay? And
+that's how they fingerprint it. And then
+when you send those emails, it just
+burns your email accounts.
+Okay, and once one copy variation gets
+contaminated, um
+it it it will end up burning your email
+accounts, you know, your warm-ups can't
+save that, you know?
+So, um that's just some sauce on like
+how you actually structure your uh your
+email copy. So, like change always keep
+on changing the structures of your copy.
+You don't want to keep running the same
+one over and over again, because that's
+a
+That's how you get mangled by these
+these providers.
+Okay?
+one sec.
+And then after you can verify your list,
+run it back through Clay, make sure
+these email accounts are actually valid
+to send to, which is uh you know, we've
+faced this issue multiple times, we just
+have to rerun the list. Um and check
+domain health has it landing. Okay,
+cool.
+But if it's between this range um right
+here, that's a great sign. You can just
+move on, okay? The next question you
+want to ask is who is actually replying?
+Okay? So, after sending, let's say,
+1,000 to 5,000 emails, you're going to
+have a lot of data to work with.
+So, you want to go back to your inbox
+and actually see the replies you're
+getting, okay? What is the intent? Are
+you getting people saying, "I'm not the
+right person." or "Not the right
+department." um or "It's not the right
+name." you know? Like if your data is
+bad, your uh the replies will reflect
+that, okay? It's like inputs in, inputs
+out. If you have bad data, your outputs
+are going to be bad, as well.
+So, to fix that, you want better data
+sources. You know, you you don't want to
+just be relying on one data source. In
+our own agency, we use three to four
+different data sources. We use Apollo,
+we're now testing AI Arc, we've tested
+Blitz API, we've tested a lot of
+different sources, okay? And we have
+different platforms for certain clients
+that target, let's say, home service
+businesses,
+where their data is more so specialized
+for local businesses. So, it's cleaner.
+Cool. And then you want to just, you
+know, put it back in clay. How can this
+be cleaner?
+And another way is, okay, is this just
+not like is the timing just super off on
+this? Okay, like what are people saying?
+One thing one approach we use when
+we just want some replies coming in, uh
+you know,
+which everyone wants, is trigger events.
+for example, another client of ours,
+they do design services for tech
+companies.
+And what we did is
+we used Apollo for this data source, and
+we basically used a signal to where
+someone in the last 6 months
+just joined a new job position, okay?
+And then the opening line
+literally looks like, "Hey, um
+I noticed you just moved into the sales
+role at company name about 4 months
+ago." Then we just bring up an angle
+that's just super super relevant. This
+is what I'm talking about. So, that
+campaign, this is how the copy looked.
+So, "Hey, first name, so-and-so moved
+into the new role at this company about
+4 months ago. You you usually around
+this stage, leaders walk into mix of old
+decks, scattered messaging, and content
+that were built for our buyers about 2-3
+years ago, which is really dragging up
+deals. We help grow teams offer and
+CTA." So, yeah, it's just like relevance
+line, super simple, don't overcomplicate
+it, but it's just the opener line to
+build personalization, let them know
+we're a real person,
+um a sales argument, so like, "Okay, why
+is this relevant?" And this gets them to
+actually read the offer and make the
+offer hit harder.
+Um and then that earns this part, the
+offer, and you know, cool. Basically, we
+help team we help both teams stick
+together a consistent visual comp system
+that helps buying groups understand the
+value much quicker. Uh, and then the
+CTA, mind if I send over some examples.
+And the CTA is honestly the hot one of
+the highest lever things you can pull.
+Um, cuz outbound is supposed to be just
+conversations. You know, you're you're
+supposed to build as many conversations,
+high-intent conversations, as possible.
+So, when you give someone a free
+deliverable, a free asset, some uh like
+examples, it's just a very way for them
+to say, "Yeah, sure, send it." And it
+gets your foot in the door. They can see
+your work. You build reciprocity. You
+build likeability. You know, there's a
+six human there's six key principles to
+um, to human psychology to get someone
+to like you, and a lot of them
+uh, is rooted in our copy, you know?
+And then some trust. We've done similar
+work for teams like Waste Security,
+Alpha Omega, and Earnest, which are very
+big companies in in their spaces.
+So, yeah, this one crushed. Um, and
+that's just a quick example of how that
+actually how we use trigger events
+within our copy. So, cool. After you
+lock that down, the next one is what are
+they saying? Okay? So, what this means
+is like, okay, how are they replying to
+my emails right now? Am I getting a lot
+of [ __ ] offs? Am I getting a lot of no's
+or stops? You know, am I getting people
+saying just not interested a lot of
+times?
+Um,
+and that is an offer issue. You know,
+you're getting replies, you're landing
+in the inbox, but they're just not
+resonating with your offer. So, that
+means you got to go back to the drawing
+boards. And this is one of the parts
+that suck most about outbound is the
+continuous testing process, you know?
+You always have to be testing different
+angles. You always need to have um,
+copy variations that you can test
+against your winner, so you can uh, find
+the next winner after the the main one
+dies out. You know, you have to be very
+strategic with these things. And around
+this is like another topic about this is
+like a a simple framework I would I
+would say is who is ICP and what is the
+offer that we're trying to do.
+Simple question. What is ICP and what is
+my offer?
+Um something a lot of people get twisted
+is they is they're like, "Oh, I need all
+the personalization in the world. I need
+this. I need that." And they go crazy
+with AI and clay, but you don't really
+need that if your offer is good enough.
+You don't need any personalization if
+you have a banging offer.
+And a way to make your offers hit hard
+are these
+principles right here.
+So, all your offer should include all of
+these things. It should include new
+money. What is the dream outcome? What
+is the perceived likelihood? What is the
+Is there a risk reversal in place? What
+Is there a low friction CTA? Are we
+being specific? Are we talking about the
+outcome and not the product? Are we
+making it sound easy, you know, done for
+you? And how is the timing?
+All of these things
+um they stack up and it what makes a
+banging winning offer.
+So, um
+that's just some sauce there. Um some
+other things to worry about is like,
+okay, am I testing enough? Okay? Am I
+re-wrapping the offer differently than I
+did, let's say, on my last campaign
+where it performed bad?
+Cuz you can have the exact same offer,
+but if you wrap it differently, you can
+get
+you can get a variation that gets one
+lead for every 1,000 email sends.
+Um and you can get that down to, let's
+say, 500 just by re-wrapping the offer
+differently, making it sound sexier, you
+know? And that's another skill you have
+to learn is is taking dull, dense offers
+that are boring and making them just 10
+times sexier.
+Um and that obviously comes with
+experience. And you know, when you get a
+feel of what works and what doesn't, you
+can kind of uh get a feel for what is
+going to rip and what is actually going
+to work. Okay?
+So, another thing here There's just a
+lot of sauce here. Another thing here is
+um okay, after you find a winner,
+you want to be strategic with your sends
+and your capacity.
+So, for example, if you have a winner,
+we like to this is I I got this from
+another guy in the space, but he
+basically says um 70% of your sending
+volume should be going towards a winner.
+20% should be going to different
+variations of that winner, and then 10%
+goes to completely different crazy ideas
+that you've never tested before.
+Okay? Because you always need, again,
+winning offers, winning angles that you
+can test later on
+um before your main one dies, cuz
+eventually that main one the main offer
+that you're using or variation is going
+to end up dying out. So, you always need
+to have more in the chamber to test and
+to just throw out when that one stops
+working. Another one is authenticity
+cuts through fancy copy every single
+time.
+So, what do we mean by that?
+It means you want to study exactly how
+your clients actually talk. So, for
+example, go to their LinkedIn posts and
+see their their, you know, how they
+type,
+their demeanor, their energy, and you
+want to reciprocate that in the email
+copy.
+Okay? That's a that's a specific skill
+itself, but make sure that the variants
+actually match
+their voice, okay? Which a lot of you
+guys don't do great.
+Great. All right, let's move on to the
+next one.
+And then, question four, are interested
+replies converting to meetings?
+This is one where actively dealing with.
+So, the biggest problem with this is
+what are you actually sending
+to the prospect when they answer
+positively to your email, okay? So, for
+example, we have a client again, I'm
+going to reference the same one,
+The one that does creative for tech
+Every time we offer examples of our
+work,
+we get a lot of replies, positive,
+asking for more work.
+But then, when we send the work, and
+when we have a CTA saying like, "Hey, I
+can I can show you how we would do this
+for your company. Do you want to
+schedule a quick time in for tomorrow or
+other day?"
+Then we get ghosted, okay? And this is
+such a big problem. Obviously, speed to
+lead can fix this sometimes. If you
+respond within 5 minutes,
+um and something I see a lot of other
+guys do, we haven't tested this yet, is
+actually call
+that same prospect that got your email,
+but ended up ghosting you. A quick cold
+call. Not really cold, it's a warm call.
+Okay? And
+also, you want to touch You want to
+build more touch points with them on
+different platforms. So, let's say for
+example, we get someone that replies,
+they ghost, we end up connecting with
+them on LinkedIn, and then we shoot them
+a LinkedIn message. And there's actually
+study, Harvard study. I I brought this
+up multiple times, but it's a seven
+seven touch point Harvard study. So, on
+average, it takes seven touch points
+with someone that doesn't even know you
+to convert them into a paying customer.
+Seven touch points. They need to see
+your message seven times. They need to
+see your face seven times before, you
+know, they even engage with you and be
+like, "Okay, let's hop on a call. I'm
+interested to work with you." And we've
+seen that after following up with
+someone until they freaking say yes or
+no.
+You got to be brutal with your
+follow-ups, you know? You got to follow
+up until they until you get a yes or a
+no. It's that simple.
+And obviously, on different platforms,
+email can get money, so you go on
+LinkedIn. If LinkedIn gets money, you
+call them. Et cetera, et cetera. It's
+like a ecosystem.
+Okay.
+And all of those things are working,
+these four key pillars
+right here,
+then you build yourself an amazing cold
+email system. Scale that. Increase the
+volume. Test new segments. Double down
+on what's converting. Obviously with
+different structures.
+That's basically it on how to
+diagnose your cold email campaigns.
+And obviously um
+this is something that you're going to
+run into eventually.
+If you run cold email campaigns for
+yourself or for your clients, so um
+if anything, apply what you learned in
+this video. My biggest recommendation,
+don't sit on this.
+Take all of this and apply it. And if
+you need any help with that, just DM me.
+I'm going to leave my Instagram down
+below. We can work together. I can help
+you out. Um we've helped dozens of
+agency owners with getting their cold
+email system actually started using AI.
+Um
+and yeah, hope you guys got value from
+this video. God bless and take it easy.
+Peace.

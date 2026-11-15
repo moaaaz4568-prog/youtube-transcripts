@@ -1,0 +1,1156 @@
+welcome to the process I'm Jose that
+makes me Chris that makes you Chris and
+today we're going to be going through a
+very special episode we're going to be
+talking about identity and web design uh
+for trudge and storage you guys actually
+asked us one of the most popular videos
+that we have is the O's Identity Design
+and that has about like 12,000 views
+thanks for watching guys and that means
+that you guys like to watch projects and
+you like to see how the things got done
+and I will be very quiet today and allow
+Christo to kind of walk us through this
+he's taking his meds so we're good
+thanks we're taking your feedback
+obviously so that's it we're going to do
+it let us know what you think stick
+around let me try this again I want you
+guys to listen to me yeah I design
+sandwiches my name is Jose and I talk
+about the business of design the I talk
+about a lot of stuff my name is Chris do
+and I talk about the business of design
+at the center of this operating system
+it's about understand Jose can we just
+tell him what the show title is I hate
+you dude you are watching the
+process
+[Applause]
+can you can you tell the people what
+we're going to be doing today I'm going
+to tell the people what we're going to
+be doing today number one your questions
+are always around this how do I
+determine the design style of a project
+number two how do I determine the voice
+and the messaging what it's going to say
+copy number three how do you manage the
+client how do you manage your teams so
+that's what Master do is going to be
+walking us through today and without
+further am I the master or you the
+master no you're Master you just pull my
+move oh crap all right all right
+I'll go like this um I don't know I
+don't know I'm just some Puerto Rican
+hold hold okay we're back let's do we're
+back we're back all right all right
+let's jum into talk about the project
+all right tell me who the client is how
+did you get this client well let's jump
+into the keynote Andrew and right now uh
+here it is we're going to be talking
+about Trojan storage as a self storage
+facility it's started by a couple of USC
+business guys and it's a client that
+I've had for another U another business
+and they they own several different
+things and so this is good this is my
+Chanel to prove that the first job
+wasn't a fluke but they're asking us to
+do the uh the Identity Design which I'm
+very comfortable with and to redo the
+site and the interesting part to this is
+you introduced me to a whole new way of
+working using core as a framework as a
+facilitated framework to understand how
+to build things so let's jump into it
+yeah so the number one question you had
+said which was how do you determine the
+design style and approach how do you do
+that and like I said before without any
+kind of framework without any real
+understanding how to do this you are
+literally kind of just not literally
+figuratively bumping around in the dark
+trying to find the answers you're using
+your intuition you're using your design
+training to do that and that's kind of
+tough to do and you're doing it on your
+own which is very stressful to do so I
+kind of look at like let's turn on the
+light on this let's find out who we're
+building this for and why and now once I
+know who they are I can build something
+for them and it makes the job inherently
+much more easier it's exponentially
+easier okay when you know who you're
+building it for so one of the things
+about about core is you have to define
+the users yep okay and so you ran this
+session but this is how I found broken
+it down just to synthesize it to make it
+easier for you guys to process you need
+to write a story and there are four
+columns here that we've created you can
+use whatever the core framework has a
+little bit more than this this is a
+strip down like made for TV edit right
+and what you're trying to do here it's
+like the way you explain it to me it's
+like Central Casting you're trying to
+look at their primary customer type and
+kind of figure them out through
+demographics and Psych Graphics which is
+their opinions attitudes behaviors that
+kind of thing and just just their
+General makeup like are they single are
+they married are they male female how
+many kids do they have how old are they
+what job do they have what's your
+education and income those kinds of
+things and once you figure that out you
+can determine what their wants and needs
+are yep right because it's a logical
+flow you know who they are now so why
+don't you take us a little bit through
+what you want up doing for them and
+here's an example of the actual profile
+actual profiles that you built so so
+it's very you synthesize very well and
+the the session was live so for people
+who are asking the client is in the room
+and I'm standing up on a whiteboard
+asking them so tell me a little bit
+about your customer tell me their story
+tell me what their gender is and we only
+did three and we time boxed it into uh
+30 minutes or actually I think it was 15
+minutes per user sounds about right and
+we defined them so that gave you a
+foundation but at the end we prioritized
+what were the top three needs that each
+user had which I'm going to get into so
+the keys to making this work and and if
+you guys have seen me uh teach or
+lecture before a designer needs to have
+empathy and Imagination it sounds really
+easy but you really need to do this so
+the image here is like three different
+shoes so are they are they walking
+barefoot at the beach are they Surfer
+laidback are they uh you know just a
+casual person or are they a business or
+worker type person that's why the
+bootprint is there you have to walk in
+their shoes look through the world
+through their eyes look at the world
+through their eyes I didn't say that
+right and another way of looking at this
+and is an exercise I call mind walking
+okay and so the diagram looks something
+like this um you're trying to figure out
+what they're thinking the customer what
+they're hearing doing feeling saying or
+seeing and those could be prompts in
+themselves you know if I'm um a fitness
+freak and I'm 27 I just graduated
+college and I'm a business person what
+am I doing I'm probably at the gym I'm
+probably eating really healthy and I'm
+probably surrounding myself around
+people just like that so that's kind of
+what this is doing so let me tell you
+what the insights that we got okay from
+that session from the session and I
+didn't know this didn't you knew this
+the client I didn't know this Oh I
+thought you knew this anyway I know the
+client told us this the client told us
+this what we discovered was over 90% of
+their clientele is female and you need
+to kind of take that into consideration
+they said a lot of them are single moms
+that's pretty interesting these things
+that I would not know and probably
+things that you couldn't figure out just
+searching on the internet that's why
+there's power in doing this with the
+client we also learned that they're in
+transition hence the need for storage um
+they're getting divorced uh they're
+empty nesters um there their family is
+expanding and they're running out of
+space maybe somebody passed away so
+they're widowers we also learned that
+the most of them are lower middle class
+okay let's assume then if you have a
+giant house you have plenty of space so
+it's these people who need some
+flexibility around space and they've got
+more stuff than they they have space for
+and we also learned that you know and I
+know this moving to me is one of the
+most stressful things that you can do in
+your
+life this is very helpful to me and
+hopefully you guys are starting to
+figure this thing out on on the other
+side here so the action like what do we
+need to do with this information all
+right we need to make sure that in our
+messaging in the way we present the the
+facility that it needs to feel and look
+safe and secure and that's not just
+words on the screen they they do this
+already it's well lit there are cameras
+everywhere their staff are
+professionally trained this is not some
+mom and pop operation remember these are
+USC business guys okay and we need to
+make sure that it's uh is a kid-friendly
+design because a lot of them are going
+to come in with their kids and and
+they're not going to have time to drop
+them off at daycare they picking up
+between soccer practice and school
+whatever it is they need to pick some
+something up or drop something off that
+also means the shter in time you know
+this is probably a truth through all
+things you have to work hard at making
+it simple and intuitive to use
+ultimately you got to make it easy and
+that's that's it in a nutshell that's
+exercise one so that was really getting
+the users to drive what the site needs
+to be based on who they are right got it
+right or what the identity needs to be
+right next is we got to define the brand
+and I'm not going to dive too deep in
+this you guys have seen this in Old we
+can do another session at some other
+point in time what we dive deep on how
+to do this but these are the six
+categories that we use to define the
+brand uh the culture the customer The
+Voice the feel the impact and X Factor
+and these are always kind of mutating
+depending on understanding of what to do
+all right so we know that what's makes
+them different is they're professionally
+run they're very organized they they
+have very modern sensibilities and
+they're highly uh they have a highly
+attentive staff and management team
+that's pretty awesome okay like I said
+this is not a mom and pop operation this
+is something that I borrowed from Marty
+numar just to kind of take those
+keywords plug them into this because
+it's a lot easier to write you'll notice
+what we're doing right now we're
+starting broad we're starting casual
+we're just trying to pull out words we
+don't care how they link up into a
+sentence yet we're not too self-aware
+then we we write it one sentence at a
+time and there's a term called
+scaffolding yeah right came up with that
+term which is SL I learned it from Dr
+Holtzman but yes scaffolding which is
+taking a small step towards your final
+goal every step takes you to the final
+goal right and so then we wrote a
+simplified positioning statement Jose
+you wrote this why don't you read this
+so trudge and storage provides storage
+solutions to local communities in a warm
+professional and friendly environment
+while helping them feel secure and
+giving them peace of mind now keep in
+mind that I didn't write that that that
+was written by the client in the
+facilitated session I just filled it in
+and adjusted it a little bit meaning I
+came into that meeting into that work
+session knowing zero about the client
+other than there were storage right and
+at the end of it I knew not only who
+their customers were what their brand
+was based on the statement and what
+their goals were so I knew more than I
+could have found out even from getting a
+brief from them right awesome and then
+this is something that you like to do I
+was quite impressed by this so you like
+to quickly go out and figure out through
+the internet uh who their competitors
+are so here's a cross sampling of who
+their comp editors are and they range
+from National to local operations right
+obviously the biggest one there is
+public storage and what we see
+immediately is it's dense remember it's
+simple and intuitive if I'm a a single
+mom in transition I'm a lower to kind of
+middle class I don't have time to figure
+this stuff out so we knew right away if
+it gets really cluttered it's not going
+to work so uh Public Storage must be the
+largest national chain of self storage
+facilities you can see they do spend
+some time in cleaning it up and it takes
+some work to do that you know you got to
+pay attention that part we see also is
+that extra space yeah extra space has a
+fairly clean site they have a nice clean
+site very modern clean and light and so
+we knew that somewhere in
+here and the most money right so what
+does that mean are you leading me
+somewhere with that well that uh yeah
+that the more sophisticated business
+operations have the tendency to have
+better execution of their Communications
+right those those guys could be I don't
+know what their the size of their
+business is they could be a billion
+dollar operation sure they they look at
+you can see that so we can do something
+like that we're going to give our
+clients huge leverage in terms of how
+people see them that's the value you can
+provide as a designer so anyways let's
+look at how this translates into a logo
+remember this is kind of or maybe not
+maybe this the first time you're seeing
+it this is how they exist today prior to
+hiring us Trojan storage are USC
+business guys so they're they the colors
+are there this kind of deep crimson and
+this kind of Golden Rod color mix up
+their palette it's from the USC colors
+of course um and there's a lock there's
+a a big padlock it's not totally
+artfully designed you know but and or
+integrated so we knew that there was
+something there okay so the key wordss
+that we walked away from our session was
+it needed to feel safe the logo it
+needed to communicate that it was strong
+and that it was very secure M those are
+the three key words I try not to use big
+words here I try to use words that are
+very visual safe can you can you imagine
+something that looks safe something that
+feels strong and something that feels
+secure and you led this kind of initial
+design Exploration with the the team
+like saying some of the other guys right
+and so we we looked at structures so
+physically how can we encapsulate the
+word trojen storage into a structure how
+do we make it feel solid and strong and
+that's these are kind of different
+iterations of that and we looked at even
+kind of having a roof or an overhang
+where you you may back things into like
+it's a walk up storage or it's a rollup
+door and so that's what you're seeing
+there with playing around with different
+line weights and and I I especially am a
+fan of these these kinds of mixed line
+uh fonts right and I liked one of your
+ideas is a lot the Box Trojan storage
+you think about moving things are in a
+box and it also feels very solid it has
+weight and gravity to it uh the ones on
+the right there they're just a reference
+to the rollup doors that if you were to
+pull up in a space where you can drive
+up to it that's an abstraction of R
+doors but I also like that that it was
+this kind of wedge and it was a strong
+looking structure kind of like uh the
+rock of jolter right so there's a
+reference there and this is where we
+wound up it's an evolutionary process so
+we're taking all the things that they
+liked and synthesizing it into one thing
+now notice here that abstractly it's a
+solid structure there's kind of a roof a
+building thing around it and it's it's
+it's got a solid solid base but
+abstractly if you look at it it looks
+like a lock so we have this brand Equity
+that's there it's now kind of uh
+integrated into a more design and Artful
+way and we can take that and we can test
+to see if there's some flexibility to
+this Mark and we have a horizontal
+configuration and it still looks good
+and it's very modern it still feels
+structured and and later on you're going
+to see how this plays out all right so
+what we're trying to do right now in
+this next phase is we want to establish
+compatibility uh I like to refer to it
+as a fit check I don't know if that's
+your term my term whatever is a term
+that works for me we want to quickly
+check the design Direction before we go
+to far so we don't come back and
+surprise the client but plus I really
+like it not just to not surprise a
+client but there's wonderful things that
+you can find out from the client things
+that you didn't give them U you know you
+didn't think they would react to but
+they do and they guide you in this
+process and it's a wonderful process so
+this is how you embrace the client you
+bring them in you guys are part of the
+same team and we're Partners y I'm not a
+vendor they're not a client we are
+partners and we're to build this thing
+together so here's what their site looks
+like today okay so there's the logo the
+color palette you can see there's space
+it's kind of like this kind of beige
+taupe no it's deeper than taup tan very
+tan it's like a all right Southern
+California Tan and this kind of dark
+dark red anyways it looks like that okay
+and this is the design brief that you
+created for the designers having come
+out of the session you put together some
+colors you want to talk to them about
+Des design brief had a it had a summary
+of who the customers were the users it
+had a summary of what their um of what
+their uh brand attributes and this brand
+statement and it also had the
+competitive audit it had the
+prioritization of what they needed to do
+in terms of Communications in terms of
+Revenue Etc and it had the also the um
+this last part was actually a direction
+for each designer that they could
+actually do a stylescape now they're
+very similar because we knew the colors
+they wanted Etc but the one thing that
+if you look at at the end you know
+there's that like wall like uhy on the
+wall let me let me explain that part cuz
+you weren't on the call that was great
+it came up from something whatever you
+pulled it up and this is the beauty when
+you're still exploring you're not locked
+into it and you don't know exactly where
+it's going to go yet I love this process
+and I like how you do it is cuz I might
+have started there this may be like a
+non-art center approach it's like you're
+kind of exploring the world so to speak
+yeah we showed this to the client not
+only to our designers but we showed this
+to the client and they had a wonderful
+reaction to typography on the wall the
+client had said to me his name is Brett
+Brett said we have over a million square
+feet of walls that are doing nothing
+right now they're a canvas and putting
+graphics on it is cheap that's when I
+jokingly said well putting on is cheap
+but I'm not cheap so it'll cost you some
+money to typ set all that stuff anyways
+that's me Chris doing it right yep okay
+anyways so it turned into the
+stylescapes and here are some
+stylescapes that design team put
+together explain explain what these are
+like you you presented one of each like
+how did these get presented uh these
+were presented uh just one at a time not
+all three up like this right and we
+talked them through and we told them you
+can say anything you can mix and match
+you can react to anything the colors
+photog what do they hate so they
+basically we I basically had a list on
+one side and I said for each client
+stakeholder hey what do you like about
+this and they told me and then what do
+you what do you not like about this
+particular ccape so then we went through
+each one getting each individual person
+on the team to tell us what they liked
+and they didn't like so basically we got
+a temperature read on exactly what you
+know each of them felt so it was
+consensus building and then we presented
+one more that that that we're not
+showing here that Consolidated all their
+feedback and of course as you saw the
+Final Logo they did Choose You know the
+logo the top one they like the top one
+most question for the audience uh did
+you lead into that or going into that
+presentation did you have some kind of
+uh lead into those uh escapes right yes
+so we actually presented the the the the
+brief to them the week before and we got
+their feedback and we said does this
+look like if we present something to you
+based on this would that be okay so then
+when we when we said we were going to
+present stylescapes we also send them an
+example of actually what a stylescape
+looks like for another project so they
+knew what they were going to see and
+then I introduced it by saying here the
+the brand attributes let's go into the
+stylescapes and the brand attributes
+might be also inside the stylescapes so
+did I answer your question no yes half
+did halfway the other the other half so
+when you did the iners meeting um going
+into that did you just open it it's like
+here's the stylescape you guys already
+know what this is what do you like and
+dislike or did did you try and lead them
+to anything no I didn't them I didn't I
+I see what I know the question you're
+trying to sell the idea no he's trying
+to say were you leading the witness so
+to speak that's traditional in design
+you want to you want to sell your idea
+right no I was totally neutral I said I
+have no horse in the game now of course
+I have a horse in three horses in the
+game but well no I do have a horse in
+the game all right the middle one is
+always let's answer this and then we can
+we can hit that up harder a good
+question ask questions below in the
+comments too if you have the same
+question that that's a great question
+what I'm impressed by these stylescape
+is that they don't look like websites
+there are some references here to one or
+two websites but they don't look like
+websites what he's doing is exploring
+typography so here's an interesting
+reaction you see the one in the top
+right you see how you like flip the word
+is this storage the client's like that's
+really cool and I didn't know that they
+would even consider doing kind of these
+more I wouldn't even say AV on C but
+like in design school we' like to play
+around with typography like to crop it
+slap it flip it you know that kind of
+stuff rub it down oh no all right
+anyways that's you promis no I'm just
+kidding you should do that that's good
+so that that's really nice so that's
+where we we started to think oh my gosh
+there's something going on here well
+let's keep moving on all right boom boom
+so we're doing quick mockups of space
+and trying to let them see how the
+design might live now this is where we
+kind of uh transcend into branding and
+messaging okay we're not just doing a
+logo which is a mark that I already
+showed you we're not just doing a
+website which is uh kind of wireframe
+structure features and functions now
+you're starting to see the brand live
+look at this line that Jose wrote less
+stress for your money I wish that RH
+like less stress for your that's from a
+song okay I don't remember who it is by
+but money definitely hard for anyways
+like look at this other one in the
+elevator like watch your step just kind
+of very thoughtful messages or the kids
+it just it makes you feel a certain way
+this is like humanizing a cold brand
+storage space is pretty generic my
+favorite is lights camera safety so
+let's go to that so witty so witty so
+witty anyways so uh look at this is a
+line that I think Jose wrote too and
+he's said smile your belongings are on
+TV
+so usually when you see those um cameras
+about you kind of get creeped out Big
+Brother's always watching but in a space
+like this especially if you're a single
+mom with your kids hey I want somebody
+watching me in case some creeps are
+walks up behind but also I want somebody
+watching my stuff all the time all right
+and we also thought about ideas like
+storage solutions from a toz uh space to
+think wonder and dream look at the way
+we're playing around with the logo think
+I think this is one of s's versions
+where he's taking logo in the upper
+right corner we're deconstructing the
+logo they seem to be driving on all this
+stuff and it tells you that the logo you
+designed is flexible enough to be used
+for lots of different things and we'll
+get into this later but that's why you
+choose to do simple classic design with
+really beautiful fonts which by the way
+I'm really impressed by like I'm
+impressed by your ability to direct
+identity as it relates to application
+and a real simple one so moving on so
+simply store here you can see you
+remember that Cube logo though we didn't
+use it I still like the idea this is a
+wave finding system let's say you're in
+space two it kind of wraps around the
+edges of building really cool there
+bigger storage space to the right so
+here's the feedback that we got and this
+is really important by sharing this
+process with them as you go we're
+scaffolding right I don't want any
+surprises I want to build towards
+something so they want modern design
+they really love the typographic
+applications where they are looking at
+type to exist on walls on boxes and
+everything it's pretty cool stuff and
+they wanted to surprisingly broaden the
+color exploration we had primarily
+stayed with this red and yellow color
+from USC and like no use any colors you
+want I don't care if it's a fire engine
+red or a lemon yellow and that's what it
+wind up being or other colors just have
+fun with it so we knew that they were
+very sophisticated and had great taste
+so here's the problem when you hear all
+these kinds of things it can send you in
+a tail spin I like to look at things
+like graphs because I'm very analytical
+I look on one side of the graph I am a
+robot automaton I look on the left and I
+see fun right I look on the right and I
+see something extremely functional
+hopefully I spelled this right anyway so
+here's One Design led by Jose it's
+reflective of his personality wacky
+fonts fun happy icons a little quirky
+and on the right is something that one
+of our initial stabs this is kind of me
+and the Swiss like bold boxed up right
+so that's what so they didn't want
+either one this is not right for them so
+the sweet spot for Trojan storage is
+somewhere in the middle and this really
+helps to Define things we Define the
+parameters the the left Edge and the
+right Edge and we walk our way in and we
+kind of have a discussion about it so
+that led me to to explore this is a mood
+board I put together typography colors
+uh images that are collection of things
+and it's pretty cool and I also like the
+the signage the wave finding system look
+at that number four really cool so these
+are things that we're going to dra where
+did you find these the inter webs okay
+got it some of this is from the DI line
+it's the packaging Pinterest I have a
+pretty robust collection if you guys
+want to follow me on Pinterest you can
+find it anyways how do you determine the
+voice and the messaging now this is the
+pivot here cuz this design stuff I think
+I could have done it's done much better
+because we did a strategy session with
+the client we fig the process was very
+good thank you hashtag anyways so the
+messaging and you asked me this before I
+am not a copywriter went to design
+school hey hey are you taking my
+questions well you were going to say it
+the slide was already here I was you're
+not so to let me ask it so you're not a
+copywriter how did you do all this m
+stuff well Jose I never thought of
+myself as a copywriter I didn't even
+think of myself as much of a person who
+who could do branding or advertising in
+the way that I see it I know that the
+word branding is misused a lot but when
+you go through this process and you do
+the mind walking and you look at the
+culture as being fun friendly flexible
+and giving and happy and you look at
+that Through The Eyes of the user all of
+a sudden it tells me things I'm going to
+show you some examples and I'm a really
+logical person right so you're going to
+see the connection this is Spock doing
+copy this is pretty freaking
+impressive goer you did not like that
+comment no I'm trying to think of a
+comeback anyways so look here here's the
+voice the voice is it's attentive I
+can't remember what's underneath it but
+it says it's flexible right so listen to
+the way we talked you asked we
+listened that sounds like somebody
+that's attentive and that's flexible
+open 365 days awesome it almost feels
+like it would write itself but remember
+before I said you have to have empathy
+and Imagination you have to look at the
+world through their eyes okay so here's
+a couple more another one okay the voice
+is professional now so how would this
+how do we speak to our customers and our
+culture well we have this white glove
+service and this person you know like Mr
+badier from the TV show he runs his
+finger across and there's no dust it's
+like yes it's very nice exceptionally
+high standards all right let's look at
+some more the feel how do you make
+people feel secure so there's a lot of
+play on this kind of orb camera thing
+that's floating around our heads
+overprotective you bet we're proud of it
+yeah like protect a parent we want
+identify with a mom they get it okay and
+look at this one here you feel protected
+this is the impact so we're awake when
+you're asleep somebody's always keep an
+eye on your stuff and that's important
+because well we'll get into that later
+anyways we synthesize this into a design
+that's going to live within each
+location it's a mat when you come up you
+talk to them so overprotective always
+open exceptionally high standards okay
+and then I found this quote I think I
+don't think I wrote this but I thought
+this was lovely and I showed the client
+this and they're like wow this is great
+let's talk about designing all
+typography all over the walls like they
+had previously mentioned cleaning out
+the past packing up the present and
+preparing for a much brighter future
+these lines come to me you're right so
+the world is full of stimulation lines
+copy imagery but when you have a very
+selective filter a Target to hit only
+the things that make sense fit within
+that filter and that's how you kind of
+have to think about so there's a lot of
+moving Parts here there's a lot of stuff
+going on I got s minutes left but how do
+you manage this is this is the all right
+so our audence okay how do you manage
+how do you know how to ask that question
+I don't know hece magic see the SL oh
+you're looking at my slides I'm looking
+at your that's how I thought you were
+Clairvoyant no how do you manage the
+project with a client and the team all
+right check this out so here's the
+problem when you go away and work on a
+brief that you don't understand or one
+that you Invent Yourself there's a high
+chance of coming back and having total
+misalignment when they mean one thing
+Square you're thinking triangle and this
+happens a lot so what you need to do is
+to have an objective goal so something
+that you can write down and share with
+the client and totally understand that
+and the objective goal needs to be
+visual it needs to be very clear it
+can't be written in my opinion by
+somebody who doesn't understand design
+because then they write words that don't
+mean anything that make you feel good
+but you can't do anything what you're
+saying is that it's not a good idea to
+have a strategist or like a marketing
+person write those things you're saying
+that the designer is better I I think
+the designer is the best candidate to do
+it because they can see it from
+beginning to end otherwise a Chasm
+exists right the chasm is this is one on
+on one side of the Hill the cliff is the
+marketing person right who writes the
+brief or the client in this case and
+they have no connection to what that
+really means on the other end and then
+you have the designer so they try and
+throw it across the chasm and hopefully
+you can catch it read it and make it
+make sense what happens there is it's
+disjointed it's disjointed but if it's
+it's where I'm going to disagree is that
+you could do it in the room with that
+person collaboratively it doesn't have
+to be I haven't done it yet so I don't
+know right got it no I've done it
+collaboratively and it works in a
+facilitator session I still believe that
+designers be in charge but that's
+because I'm a principal okay you came up
+with that you came up with it anyways so
+now here's the image when we're both
+thinking and talking about the same
+thing this is where you forge a
+relationship with your client this is
+how you demonstrate you have a lot of
+value and at the end of the day
+everybody in this room in a life I think
+just wants to be heard and understood so
+when you come in with your ideas your
+agenda and you're leading the witness
+Matthew then that's something else I
+just want to help them build what they
+need and I just need to fact check them
+kind of check their IC those kinds of
+things to make sure we're delivering and
+if I have a better solution for their
+problem I want to bring that to the
+table but what I don't want to do is
+redefine the problem as something that
+they don't need right it's it's Judo and
+it's also the designer as consultant but
+go ahead anyway so this helps you now
+first this face was looking to the left
+now it's looking to the right because
+now you and your entire design team the
+developers everybody that's on your team
+are in alignment we're talking about the
+same kinds of things from the very
+initial creative brief to to the
+delivery all the way to the end we're on
+the same page and that's really critical
+now Jordan bord when he's trying to sell
+you this is The Wolf of Wall Street guy
+I stole this from him he talks about the
+straight line system right between a
+sale the ideal sale is a straight line
+from the opening moment to closing the
+deal and getting a check it's a straight
+line reality doesn't happen like that
+well managing a project doesn't happen
+like that either all right there's a way
+that designers imagine it and it never
+turns out like that you spend more hours
+you go into different directions so what
+we want to do is put a ceiling in a
+basement on this and rain it in so
+between these things designers are
+powerful developers are powerful and
+clients are powerful but we got to keep
+them boxed in and I'm going to show you
+what that looks like straight line all
+right um so here's some an iterative
+process that is is like Evolution you
+can see we went through a couple of
+different interations of this different
+designers even worked on it but you can
+see we don't vary too wildly from side
+to side we're still within that line the
+straight line system right we're pulling
+it back so when it goes bananas with
+explosions and it gets really dense and
+complicated we're going to pull it back
+so the one on the right is very close to
+the one that is actually to the final
+one that you're going to see live yeah
+so now let's talk about development how
+we build this in a site right we're
+going to take this all the way through
+we're taking it home here baby so here's
+a um site map designed by purple pen
+Productions and they they made it really
+tight you can see that there are not
+that many parts to the site we just want
+to deliver on the parts that people need
+to use I need to find storage I need to
+know where it is I need to know how much
+it costs I need to know you guys are
+different okay it's very basic so there
+you go thanks Natalie for that anyways
+so here's what the site looks like now I
+think it's going to launch any day now
+so by the time this air by time you're
+watching this is going to be you can
+check it out okay so the thing will be
+the P look here now so there's an image
+Carousel this is copy that we wrote you
+know uh and we worked on it just because
+we knew what the voice is supposed to
+sound like so you know if you're in a
+house that's cluttered you're going to
+need some more breathing room okay and
+here's a line I wrote letting go is hard
+getting more space shouldn't
+be so this is about what this is empathy
+empathy empathy it's all about empathy
+letting go is hard I get it we don't
+ever want to let anything go right yep
+so and remember that line that um that
+was put up way early in the presentation
+process space to think wonder and dream
+yep clean open space the emotional re
+ction to that and and you expanded the
+color palette a little bit expanded the
+color palette we want it add blue
+because red and yellow were getting a
+little bit too dominating and so we have
+Grays and Blues in in in it so we we
+expand the color this is what it looks
+like on the the iPhone mobile very nice
+mobile version right mobile version is
+really clean and let's talk about the
+benefit yeah why why did we do this let
+me tell you what the client said the
+client said to me after we made some
+significant process uh progress in this
+he said you've somehow been able to
+crawl inside my brain and deliver
+something that I was unable to describe
+this is the brand I always hoped for the
+one I always dreamed of having that's
+very powerful if you can get your
+clients to say that to feel that
+unprompted extremely valuable all right
+and I'm going to tell you what's
+happened this project initially started
+as an a logo redesign and and a site
+faft that's facelift that's all they
+ever wanted from us now it's grown into
+this relationship so they feel like we
+understand their users their needs and
+our Aesthetics are right in alignment
+that they're just kind of like letting
+us have keys to the kingdom and so this
+is what it looks like now so they asked
+us to help them and you're going to see
+an evolution here help us figure out a
+color scheme for our office we want to
+repaint it cuz you know that dark tan
+color that's not going to drive with the
+new logo in the identity system so look
+we're also looking for opportunities to
+put type see the storage there we we we
+said like why don't we put some
+plexiglass behind there and put the word
+storage because we part of the brand is
+to have typography all over the place
+right so that grew into can you help us
+do a sign from one of our building in
+Sacramento and of course this is a very
+modern architectural space that's being
+converted and we designed a sign so what
+they saw in this was wow these guys can
+actually think in 3D and they move
+really fast because we're used to
+working in commercials and digital
+production right we can render images
+and we're moving faster than their
+Architects are so then the the
+relationship is growing and expanding
+now and they ask can you look at the
+interior of some of our other spaces can
+you design something like that so here's
+a line that we wrote It's you know the
+line is worth saving and there's this
+whole Andy Warhol kind of Brad popup box
+and we can use the box boxes as a
+display and as as just supplies and look
+in the back there those white circles
+are just rolls of shipping or packaging
+tape with the Trojan storage so it's
+part art and it's part supply and
+keeping in mind that we also did when we
+did the brief at the beginning we went
+out and we took pictures of different
+storage companies like we had it in the
+brief so we can see what they did I
+really like this next these are these
+are 3 renders here that uh sang and and
+Yong put together for us and it's
+beautiful you know looking at the glass
+and the topography and how they're
+layered in the space specking out
+furniture and helping them having
+conversations about the desk you know I
+love architecture and interior design
+Chris do architect so the client during
+this process had asked me if I'd like to
+design architecture and I said yeah and
+I asked him so why why do you ask me
+that he said because you know what I'd
+like to hire you as the architect
+and that's where I have to get into like
+full disclosure I am not an architect I
+don't want the building to fall down and
+kill anybody so as long as you're
+comfortable with knowing that but you're
+desig no problem I'm going to design it
+he said I'll hire an architect and
+engineer to do whatever you design just
+give me the designs and that'll work out
+so here's a couple more so this is a
+space in Minneapolis this is a big big
+building that's being converted so now
+the pallet of what we can do is much
+greater so we we had like guys like
+saying our designers drive around town
+look at modern architecture and and this
+is not something that's part of his
+world he's used to working on design
+two-dimensional things not 3D
+architectural things so it was a
+learning curve an arc but these are the
+opportunities that we get when we
+demonstrate we understand the problem
+and we deliver on the client's needs so
+a couple more and then we're we're out
+of here so let's sum it up so yeah tell
+what what so the big question is you
+know how can someone else get this level
+of quality I mean you're Christo let's
+say you're Jose cabaler let's say
+somebody out there that's watching us
+and said oh my God I want to do work
+like that what would you recommend
+uh yeah so if you didn't go to uh if you
+weren't lucky like you or I to go to a
+like a private art school or School
+fancy then there's some things that you
+can do first thing you need to do is you
+need to kind of educate Your Design
+palette you got to find really great
+design reference all right and you can
+find a mentor to help you kind of point
+out why this is good or this is bad
+right uh or you can figure it out on
+your own uh what you need to do is stop
+using those junky fonts you guys no free
+fonts is that what you're saying no no
+they could be free but I'm going to help
+you out and I'm just going to give you a
+list I don't need to explain the theory
+behind it but just use these fonts and
+you'll be just fine all right Christo
+says use these fonts uh other thing you
+need to curate stock photography if you
+go on a site like Shutterstock and type
+in happy uh peaceful woman you're going
+to see tens of thousands of images and
+you have to go through all that stuff
+and so there's some rules right what
+makes one photo better than the other to
+the untrained eye they can't tell the
+difference you want to find something
+that the lighting is beautiful that the
+the person isn't looking directly at
+camera there's no kind of overt big
+Expressions it feels like a candid
+moment that somebody could have taken
+not one that was set up specifically for
+this yeah so there's there's a bunch of
+ways that's an art form right there art
+form different episod how to find stock
+and uh you need to hire better than you
+okay a players hire A+ players that's
+what you need to do I sold that from guy
+Kawasaki right that's a huge hire people
+that are better than you do not be
+intimidated by them use work with them
+learn from them let them help bring and
+lift up your projects and don't worry
+about the rest because what will happen
+is you'll have a greatl looking project
+for your portfolio your client will be
+extremely happy and they don't even know
+who you hired they don't care they don't
+care and you're going to have access to
+better clients so this is about
+scaffolding building it up so here's my
+list of fonts one thing though is that
+sometimes people in our audience might
+have a hard time doing that because they
+don't feel confident enough uh in
+themselves to hire somebody better than
+them look I go through that we all go
+through that just do it all right here's
+the list of the fonts you guys this is
+up I'm not going to go through un is the
+Sans serif column and the right is the
+sarif column just use any one of these
+fonts you'll be fine fonts say a lot
+about the personality of voice of the
+brand what you're trying to communicate
+they affect the messaging there's a
+great series of books from dictionary
+the publisher it's called I love type
+series and I think there are six books I
+did a quick little research each one of
+these books has one of the fonts that's
+on the list like I love Futura I love
+avangard I didn't put avangard I love
+Bon I love D and so here's some spreads
+you can see this what's really nice
+about this these have been curated to
+show you great clean modern design
+around one type face that's it it's a
+great series I have a few of those so
+we're going to wrap up here uh we we're
+asking you guys to post something from
+this episode on Twitter or Instagram
+please comment below we're going to be
+uh chatting with you guys uh And
+subscribe if you like the video subscri
+subscribe and like the video subscribe
+subscribe subscribe like the video if
+you want to be in our live audience like
+our awesome live audience we should we
+should give a hand of Applause to our
+live audience or you should applaud for
+yourself just a tweet us that you want
+to actually be a part of the live
+audience here in LA and it's usually
+around lunchtime so you can ditch work
+all right so thank you guys for watching
+today I hope that I didn't talk too much
+and that you got to get a lot of
+Christo's uh magical wisdom and we'll
+see you guys next uh time with more
+awesome stuff on the process subscribe
+subscribe we said it all oh there you go
+wait what I
+can't dude see you guys
+later
+I told you to get the fancy cards I
+haven't gotten them yet
+yeah thank you guys what did you think I
+mean are we still
+[Music]
+rolling

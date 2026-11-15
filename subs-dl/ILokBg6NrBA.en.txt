@@ -1,0 +1,159 @@
+welcome back to Tottori graphics and in
+today's video I've got five different
+illustrator functions that cause
+confusion within graphic designers so
+the first function that often causes
+confusion in the end user of a DB
+illustrator is the compound path
+function now it's a hugely powerful
+function and you do need to understand
+how to use it now to demonstrate I have
+two shapes and the square is in front of
+the circle if I go ahead and use a
+compound path function the square is
+going to be cut into the circle itself
+now you might think this is just like
+the Pathfinder function and in some
+respects it is the difference here is
+that we just have access to both shapes
+firstly you can press a on your keyboard
+to access a direct selection tool and
+then click from one of the anchor points
+and then press V for the standard
+selection tool and then you can select
+the entire square from here you can
+adjust the position and the scale but
+also with the direct selection tool also
+the live corners are accessible as well
+making adjustments like this with the
+Pathfinder function is simply not ideal
+and not doable however we can go one
+step further and we can use a group
+selection tool this tool is found under
+the direct selection tool and it's going
+to allow me to move around the cutout
+section with ease as you can see on the
+screen right now so lastly one awesome
+aspect of this function that makes it a
+non-destructive workflow method is that
+you can release other compound paths
+like so something again the Pathfinder
+window
+so moving on to the second illustrator
+function I'm gonna explain we have the
+align art depicts a great option now I'm
+going to make sure my measurements are
+set to pixels simply for demonstrational
+purposes and you can alternate the align
+to pixel grid function here in
+illustrator CC but in the older versions
+it can be found in the transform window
+at the moment I believe the function
+switched off and I sent me with this
+square around the artboard notice how
+smoothly it moves across the screen I'm
+able to position exactly where I want to
+however if I go ahead and activate it
+notice how choppy the movement is now
+this is because illustrator is snapping
+the shape to the pixel grid of my
+artboards there are times where this can
+be useful there also many times where
+it's going to hamper your workflow so
+like with any tool or any function it's
+got a time and a place and you should
+know when to be using it or not again
+here you can see the difference when
+using the pen tool if you want it to
+freehand draw an illustration having
+this function activate it would be a
+very bad idea as you're not gonna have
+the freedom to move exactly where you
+want to so we arrived at the third
+function that tends to cause some
+confusion within designers and is the
+expand function I've got a circle here
+with a one-point stroke which of course
+is editable
+the expand function can be found here I
+noticed there was a great app option
+below known as expand appearance and
+we're going to be looking at that very
+soon but for now if I use the expand
+function all of my effects The Strokes
+and the text will be converted to paths
+and nailed down this renders the design
+or the object non editable now this is
+helpful when you're sending final
+designs to a client as no matter how
+scaled up or down the design is the
+visual appearance the design is going to
+remain the same the layers window will
+show you how the stroke and the fill are
+now separate vector shapes but how does
+this differ from the fourth function
+expand appearance now going into the
+object fly down menu expand appearance
+is still grayed out the reason being is
+that the expand appearance and expand or
+essentially the same function but the
+difference is that if you perform any
+kind of function or effect in the
+appearance panel you then have to use
+the expand appearance let me show you
+right now if that does confuse you I'm
+just going to apply a simple drop shadow
+in the appearance panel that
+demonstrates nothing too fancy but you
+should be aware the appearance panel
+really does have a lot of options and
+functions open to you as a graphic
+designer
+so now I've used the appearance panel
+you will notice the expand function is
+now grayed out but the expand appearance
+function is now available this is simply
+the difference between these two expand
+functions heading back into the layers
+window you will see that the stroke and
+also another drop shadow have their own
+objects
+so the final illustrator function that
+I'm going to fully explain is the group
+selection tool now you've already seen
+one aspect of this tool earlier where
+you can use it to move objects within a
+compound path also as well as within
+clicker masks but what other things can
+actually do well I have some circles
+here and at the moment there were
+independent and individual but I can go
+ahead and make three different groups by
+selecting each group and pressing
+command or control G this will leave me
+with 3 groups of circles that are unable
+to be moved or selected individually but
+to go one step further I can't put all
+of these three groups into one larger
+single group so now I have three groups
+of circles inside a larger group and
+again the layers window will show
+exactly what I'm talking about
+so with a group selection tool in use
+I can click once to select one object
+within a group something the selection
+tools cannot do but if I click again it
+will select the group that is inside of
+and then a third click will select the
+larger group we can also hold down the
+shift key to select a various items
+within a group or groups and then go
+ahead and edit them afterwards the group
+selection tool allows you to move edit
+and work on design elements that are
+locked down inside groups
+if you learn something today let me know
+with a comment and down the home section
+below and of course until next time guys
+designing future today peace
+you

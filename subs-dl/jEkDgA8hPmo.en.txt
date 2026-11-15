@@ -1,0 +1,1140 @@
+I made this video a little bit more than
+a year ago on clay.com and a lot has
+changed since then. More specifically,
+Clay has made a number of updates to
+their platform including their features
+and their pricing and I've personally
+used it a lot longer, taught it to some
+people on our team and as a result have
+more experience on how to teach the
+platform. So that's why today I want to
+make an updated tutorial on how to use
+clay.com as it is one of the platforms
+that allows us to send over a million
+cold emails per month and book just
+under 5,000 sales meetings for ourselves
+and our clients. So without further ado,
+this is the clay.com tutorial for 2026
+and beyond. So here's exactly what we're
+going to build together in this video.
+The first thing that we're going to do
+is a general overview of the platform.
+So I'm going to go over all the
+different features. I'm going to go over
+the different tools, the different ways
+you can scrape leads and all the
+different capabilities that Clay has so
+that way you understand what Clay does
+and all the different features inside
+the platform. The second thing we're
+going to do is a live build out where
+I'm going to build a workflow end to end
+where I'm going to build a list of
+leads. I'm going to find their emails.
+to validate their emails. I'm going to
+use AI to check if they're a fit or not.
+Then I'm going to push them into a cold
+email campaign or show you how you can
+do that. So by the end of this video,
+you'll be able to see a real example of
+how this works and you can copy it
+inside your business so you can build
+your own workflows inside of Clay. So
+jumping into clay.com, this is the
+website. If you want to sign up, I have
+an affiliate link in the description
+below and it gives you some free credits
+if you sign up to a paid plan so you
+probably want to check that out. But
+this is the website. the first question
+I want to answer and I probably get
+asked the most about Clay is what does
+Clay even do? Because if you go to their
+website and you look at the use cases,
+you can see all kinds of different
+things. There's so many different use
+cases. CRM enrichment, outbound,
+automated inbound, account research,
+territory planning, all these different
+features. So basically what Clay does is
+it is a data orchestrator. So in simple
+terms, what that means is it takes a
+bunch of different tools and it allows
+you to manipulate them in one place. So
+the way I like to think of Clay is it's
+like a canvas where I can interact with
+all the different tools in my
+go-to-market tech stack and I can use it
+in one place. So, if I want to use my
+data tools, if I want to use my
+validation tools, if I want to send it
+over to my sequencing tools, I can do
+that all in one place instead of having
+to go from tool to tool to tool to tool,
+which makes your life miserable, makes
+it hard to automate things, makes it
+hard for them to kind of work together.
+So, what Clay does is it allows you to
+kind of stitch a bunch of tools together
+to make really good and powerful
+workflows that you can use. And so,
+that's why you can use these different
+use cases. So, you can take your CRM,
+you can plug it into Clay, and then have
+your data kind of get re-enriched with
+other tools you might plug in. If you
+want to run outbound email campaigns,
+you can scrape leads through Clay, you
+can enrich leads through Clay, you can
+validate leads through Clay, and then
+you can even run campaigns through Clay,
+which is a new feature they added in the
+last few months or so. And so, there's
+so many different things you can do. So,
+I'm just going to jump into the
+platform. One quick thing I'll actually
+cover that is different that they've
+changed in the last 12 months or so is
+their pricing. You can see their pricing
+is a little bit different. So, now they
+range from free all the way up to
+custom. The only difference in their
+pricing model is now they have these
+action credits. So, you can either pay
+Clay and, you know, scrape data through
+their platform, or if you bring your own
+API keys, they charge you a action limit
+or an action credit, which is basically
+just doing anything inside the platform
+if you want to bring your own API keys.
+So, you can check out their pricing
+here. Otherwise, let's jump into the
+platform. So, first, I'm just going to
+briefly talk about all the different
+bells and whistles and tools that you
+kind of see here. Then, I'm going to
+build an example, so that way I can show
+you how they're actually used, and so
+you can kind of conceptualize it a
+little bit more. So, first thing here,
+the kind of core functionality of Clay,
+which we're going to get to first, is
+this table function here, or the ability
+to create a workbook. So, if I click in
+a workbook here, this is like the canvas
+where I'm going to build all the
+different kind of workflows through
+Clay. So, I'm going to click in that in
+a little bit, but the first place I
+pretty much point everyone to is this
+new button here and the ability to
+create a workbook cuz that's where
+you're going to build all your fun
+different data stuff here. You can
+scrape leads through here. You can just
+click any of these buttons. So, if I
+want to just start finding leads, I can
+use Clay's kind of native scraper. I can
+use these four different tools. So, this
+is what I mean with Clay being kind of a
+orchestrator or a canvas. So, Clay does
+have their own scraper, which they
+implemented, but really a lot of the
+value in Clay is not necessarily what
+their scrapers are, what their email
+sending tool is. It's the ability that
+you can pull in so many other platforms
+and just work together in one place cuz
+there's so many tools out there that try
+and accomplish everything, but the best
+tools are usually specialist tools. And
+so, you can pull all these specialist
+tools in. So, if I want to build a
+lookalike list, I can leverage Ocean. If
+I want to build a list of local
+businesses, I can use Google Maps. If I
+want to build a list of small
+businesses, I can use Open Mart. If I
+want to build a list of companies using
+specific enterprise technologies, I can
+use HGInsights. So, you can find leads
+through Clay. The other thing we're
+going to go through here in a bit is
+signals. So, let's say that you have
+your CRM, right? Or you have a table
+inside of Clay and you want to be
+notified immediately when person changes
+their job or whenever a company has a
+new hire or whenever a job posting goes
+out. You want to have these signals kind
+of piped into a Clay table or your CRM,
+you can do a new signal here. So, we'll
+go through this in a little bit, but if
+you want to know when someone at a
+company's job changes and you want to
+make sure that that's kind of piped into
+your data workflow, you can do that
+here. Ads, I actually don't have a plan
+that supports ads, but you can build
+audiences and ad campaigns through Clay
+as well. Campaigns, you can run cold
+email campaigns through Clay. I believe
+this is just a white label of Smart
+Lead. So, if I press add email account
+here, it says your credentials are
+shared with our email integration
+partner Smart Lead. So, if you're not
+using Smart Lead, this is basically
+Smart Lead. If you are using Smart Lead,
+you can push it over to Smart Lead, too.
+So, you can run cold email campaigns
+through here. You can create AI agents,
+which they call clay agents. These are
+basically web scrapers or AI agents that
+can go out and do stuff that you can run
+through the tables. You can create
+functions, which are like a group of
+workflows. Again, not to get super
+technical. You can build those through
+here. And then they have an MCP. If
+you're an AI person, you probably know
+what MCP is. It's basically like a
+plugin to quad or chat GPT. So, that's a
+quick overview of the features. I know I
+went through those quickly. The more
+important thing is how do we actually
+use these features? Cuz I think that is
+probably the more relevant thing. So,
+what we're going to do is we're going to
+build a sample lead list that we can
+kind of manipulate and play around with.
+And the way that I actually want to kick
+that off is by talking about the tool
+that I forgot to mention, which is their
+AI agent called sculptor up here. So,
+they have this little bar here and it'll
+actually pop up throughout using the
+platform. This is their kind of native
+AI feature that lets you tell Clay what
+to do in plain English and allows Clay
+to do all the fancy stuff here. Because
+there's so many features inside of Clay,
+sometimes it's hard to just use all the
+different features and so you can prompt
+their AI and build stuff through there.
+So, the perfect example, let's build a
+list of CMOs that we can reach out to so
+that way we can kind of build a sample
+workflow. And not only do I want to
+build a list of CMOs, let's say I want
+to build a list of people that just
+became a CMO. So, that means they just
+got a new job as a chief marketing
+officer. They probably have some budget
+that they need to deploy. They probably
+need to spend some money on some
+marketing stuff. So, let's build a lead
+list. So, I'm going to talk to their AI
+agent here called sculptor. I'm going to
+say, "I want you to help me build a list
+of CMOs that were recently promoted or
+became that job in the last 3 months in
+the USA." So, now I'm going to talk to
+their AI agent and we're going to build
+this list here. So, it's asking me to
+clarify. Do you want to find individual
+CMOs who just stepped into the role in
+US-based companies? Also, do you need
+any additional information? We're just
+going to say, "Yes, I just want you to
+find individual
+CMOs and I don't need extra info for
+now. And then you know what? I'm going
+to throw in a little bit more data. I
+want you to make sure they're at
+companies between 11 and 200 employees,
+right? Because I don't want to work or
+reach out to CMOs that are at tiny
+companies. So, it's going to go ahead
+and do a lot of the heavy lifting for me
+here. Now, while this is kind of
+running, I'm just going to open up a new
+tab here and just kind of show you what
+it kind of did for us here. So, you can
+see here it created a find people search
+and then it kind of plugged in a lot of
+this data for us. So, you can see
+experience, months in role, so it has a
+maximum of 3 months in the role. Their
+job title is similar to CMO or chief
+marketing officer. They're at a company
+size of 11 to 200 employees. You can see
+basically just populated a bunch of
+fields for me, which makes my life a lot
+easier. Now, if you want to manually do
+this, you could just go and press this
+new button here, press workbook, and
+then we can also press find people. And
+basically what that AI filtering did for
+me is basically just go and fill this
+stuff out. So, I could go here and put
+people that have a job title similar to
+CMO or chief marketing officer. I can
+also go to experience here and set, you
+know, months in current role to three.
+So, I can kind of replicate everything
+that their AI kind of did for me, but it
+kind of makes your life a little bit
+easier, especially if you're new to
+Clay. So, this is a really cool feature
+that you can kind of leverage. So, this
+is me scraping leads through Clay. Now,
+again, going back to what I was saying
+earlier, whenever we're finding leads,
+there's multiple ways you can find leads
+in Clay. You can use Clay Scraper, which
+is what we did. But let's say I want to
+find local businesses, I might use the
+Google Maps Scraper instead. So, there's
+all kinds of different tools you can
+play around with here. When in doubt, I
+would say ask their AI, it's pretty good
+here. It's not perfect, it's AI, but
+this can kind of directionally show you
+where you kind of need to go. Now, we
+have this list of people that we just
+scraped here. They work at companies
+between 11 and 200 employees. They have
+a job title similar to CMO and chief
+marketing officer. They've been in their
+role for 3 years, and they are in the
+United States. And let's say for the
+sake of this demonstration, I don't want
+to make this list super big. So, I'm
+going to build a list of 50 people. So,
+I'm just going to limit it here. Now, I
+don't need to limit it to 50 people. I'm
+just doing that so I don't burn a bunch
+of credits for the sake of this
+demonstration. The nice thing is that
+this tool specifically does not burn
+credits, which is kind of Clay's main
+billing function here. So, you can see
+there's 2 and 1/2 thousand data credits
+you get on this launch plan. So, if I
+use their native scraper, I actually
+don't spend any credits, which is nice.
+So, I'm just going to go over here and
+press this continue button and save to
+new workbook. So, this is just kind of
+like a fresh canvas or workbook is the
+technical term where I can manipulate
+all this data. Now, Clay's already
+auto-suggesting different ways that I
+can enrich this data to make it more
+kind of full. So, we can get the
+person's full information. We can have
+AI scrape and summarize their LinkedIn
+profile. We can get their work email. We
+can get professional posts and other
+information. For now, I'm not going to
+scrape any additional data. I'm just
+going to press create table. And just
+like that, we have this nice beautiful
+table here where we have 50 or so leads
+that we just scraped completely for free
+through Clay. Now, this sculptor guy
+here is going to sit here on the
+left-hand side. So, this is like your,
+you know, AI co-pilot. If I want to go
+here and prompt it and ask it to do more
+things. I'm just going to close this out
+so I can kind of manually show some
+different features. But just know that
+if you want to do a lot of stuff through
+Clay, you can just press the sculptor
+button here and just talk to it like an
+AI. Again, it's not going to be perfect.
+If you're a beginner, this is a really
+easy way to kind of navigate through the
+platform. So, what have we done so far?
+We have this nice data set of 50 people
+that are Chief Marketing Officers that
+have got their role started in the last
+3 months. So, this is a really nice data
+set that we can reach out to. So, for
+the sake of this example, let's say I
+want to narrow this list further. Let's
+say I only want to reach out to Chief
+Marketing Officers that work at
+companies that are B2B businesses. I'm
+giving that example because I run a
+outbound lead generation agency, and so
+my ideal customers are B2B companies. I
+don't want to work with B2C companies.
+So, it's hard for you to tell that data
+here because right now, we just have
+people's first names, we have their last
+names, we have their locations, we have
+their information. And so, what used to
+have to manually do is I'd have to click
+through every single one of these
+websites and try and figure out if
+they're a B2B company or not, meaning
+they sell to other businesses. So, that
+would normally be a very tedious
+process, but Clay, again, can help us
+automate this process. So, we're going
+to leverage AI, and what we're going to
+do is we're going to have an AI agent
+visit every one of these leads'
+websites, read their company, scan all
+their information, and see if they work
+at a B2B business, so that way we can
+determine if they're a good fit for us
+to reach out to. So, again, I'm going to
+press tools here. And so, this tool
+section is where you can see all the
+different capabilities that Clay has.
+So, we can use AI, we can enrich data,
+we can enrich company, we can find work
+email. They have hundreds of
+enrichments. So, if you click in this
+view all enrichments button, you can see
+all these different categories. So, like
+AI, we can have use AI to scrape some
+stuff, we can generate videos. There's
+so many integrations. If you just Google
+like clay.com integrations and I click
+into here, you can see they have pages
+and pages and pages and pages of
+integrations. These are all the tools
+that natively integrate with Clay. So,
+if you want to use any of these tools
+here that I'm scrolling by, Clay has
+made it super easy for you to just click
+a button and use this tool. Now, the
+great thing here, too, is that if you
+want to use a a tool that Clay doesn't
+have, they have a API endpoint of
+whatever tool you want to use. Literally
+like a hundred plus tools at my
+fingertips that I can use. They're all
+specialists at whatever they want to do.
+So, if I want to use Lemlist to, you
+know, run email sequences, I want to use
+ZoomInfo and pull data in from there, I
+can do that as well. If I want to use
+Prospector to find phone numbers, if I
+want to use Apollo.io to scrape website
+stuff. All these different integrations
+kind of sit inside of Clay. But, not to
+get too sidetracked here, what did we
+want to do? We want to check if these
+companies are B2B companies, meaning
+they sell their services to other
+businesses, not to consumers. So, what
+I'm going to do here is press this
+button that says use AI. And now that I
+click into this, it gives me this nice
+field where I can describe what I want
+AI to do. So, I can use this, or if I
+want to be a little bit more granular, I
+can press this configure button. But,
+for the sake of this video, I'm just
+going to use this kind of simplified
+version. I want to visit the websites of
+all the leads in this table, and I want
+to see if they are B2B companies. If
+they are, I want it to output true, and
+if not, then I want it to output false,
+right? So, I want AI to visit all these
+different websites and see if they're
+B2B companies, and if they are, output
+true, and if they're not, output false.
+Let me press generate here. So, what
+that kind of prompt thing there is is I
+think Clay calls it their meta prompter.
+So, I can write a really lazy prompt
+like that, and then what Clay will do is
+it'll make this big prompt for me here,
+where they can kind of elaborate and
+make the AI do what I want it to do in a
+little bit more detail. So, now push me
+over from the generate tab to the
+configure tab. So, this is where I can
+configure a little bit more settings.
+You can see here, it knows that we want
+to do web research. So, if I click
+between these, you can have AI scrape
+the web, you can have AI modify content,
+or you can have AI create images. Now,
+in this case, we want to scrape a
+website, so it needs to visit the web,
+and so it appropriately assigned this.
+Now, for the model, Clay has their own
+models, and then you can also use the
+kind of out-of-the-box AI models. So,
+you can see Claude 4.5 High Q, you can
+see GPT 4.1. They have all the different
+models that you want to use. Now, again,
+what I like to do to save costs on Clay
+is I don't like using the plug-and-play
+models. I like using like GPT's models
+instead of Clay's models, because then
+what that allows me to do is use my own
+API key. So, you can see here, this
+costs 1.1 credits if I use Clay's credit
+feature here, or I can plug in my own
+API key. And this is really helpful to
+save costs, because if you plug your own
+API key into the platform, you are no
+longer being billed through Clay's
+credit limit, and you're being billed
+through OpenAI's limit that you have set
+up separately. So, this allows us to,
+you know, run hundreds of these
+enrichments all at once. Now, again,
+Clay now has action limits. I'm
+currently recording this video using a
+legacy plan, so I'm not bound by those
+action limits. But, just keep that in
+mind that you can plug in your own API
+keys, and that's one of the many ways
+that you can save a ton of cost through
+Clay. So, now let's go through here. I'm
+going to use GPT-5.1 here. And then you
+can see this big prompt that Clay went
+ahead and wrote for us. So, context,
+you're an AI-powered web scraper that
+determines if a company sells other
+businesses. I want you to visit the
+website and output a boolean
+classification. Here's the instructions.
+Here's the evidence. Here's this, this,
+this. And you can see what Clay did for
+me here is it pulled in the company
+domain. So, if you want to pull in data
+from other columns, all you have to do
+is type {slash} on your keyboard, and it
+will pull in all the other data fields.
+So, let's say to pull in someone's first
+name as an example, I can just click
+like that and pull in their first name.
+What you can see Clay already did is it
+pulled in the company domain. So, what
+it's going to do is it's going to follow
+all these instructions, and then here's
+the company domain that it's going to
+visit to make sure that this works. Now,
+a couple other things that I figure to
+kind of show while we're in this tab
+here, there's the max cost section here.
+So, if you want to make sure that you're
+not doing anything that's crazy
+expensive, you can set a max cost to
+make sure you're not going over that for
+this AI run. This should cost us like
+less than a cent. It really just depends
+on the model you're using. This model is
+a little bit more expensive, so it might
+cost us a couple pennies. If you use
+really cheap models, you can have it
+cost fractions of a penny. You can also
+create outputs, so you can see here
+whenever you use the meta prompter in
+Clay, it's going to make this nice
+output for us here. And then what we can
+also do is we can add conditional logic
+here. So, as an example here, you can
+see this kind of pre-populated example
+that Clay has here. So, only run this
+when score is over 4.2, so we're not
+doing any lead scoring here. But, let's
+say this list is full of people in
+Seattle, New York, and Boston, or
+whatever else. Let's say I only want to
+run this kind of formula for people that
+live in New York. I could go over here
+and say, I only want you to run this for
+leads that live in New York, right? Then
+I can press generate here. And so now,
+it will double-check if they live in New
+York. Now, you can see here, this isn't
+perfect. You can see this guy's location
+is New York, and it says will not run. I
+want you to run this for leads that
+{slash} location contains New York,
+right? So, I'm rewriting this prompt a
+little bit. I'm going to press
+regenerate here. And so now, you can see
+it'll run this one because the location
+contains New York. So, that's just an
+example of how you can use conditional
+logic if you want to do that. So, I'm
+not going to use conditional logic
+because I just want to run this on
+everything. So, I'm going to press save,
+and I'm going to save and run 10 at a
+time. Now, I could just run all of these
+leads at once, but I want to run a
+smaller sample size first before I jump
+all the way into this. So now, you can
+see here, the AI web agent is visiting
+all these people's websites to see if
+they are a B2B business. And you can see
+it's giving the response here. And the
+cool thing again, when we use Clay's
+meta prompter here, it made another
+column to checkbox if they are a B2B
+business or not. So, you can see for all
+these ones where the checkbox is
+checked, you can see they are a B2B
+business. Now, if I want to see the
+reasoning, I can click into this
+response tab here and see the reasoning.
+So, you can see the reasoning here, the
+home page copy is explicitly focused on
+B2B stuff. The B2B marketing platform it
+references CMOs, public companies, blah
+blah blah blah blah. So, you can see it
+made the determination that this is a
+B2B business. Now, if I click into this
+next one, you can see the reasoning here
+that it's not a B2B business is it says
+it's a consumer-focused sunscreen
+e-commerce site. Now, if I click into
+this, I can check their website, and
+this does look like a consumer-focused
+e-commerce sunscreen website. So, Clay's
+web agent is pretty good, especially
+when you equip it with the right AI
+model. You always have to make sure that
+your prompts are good and that you're
+following kind of best practices to make
+sure it works well because fundamentally
+again it's AI at the end of the day and
+it's not perfect. But now when I click
+into this you can see the cost that was
+billed here. So again Clay has their
+action limits whenever you're running
+the enrichments here. You can see this
+cost me about 2 cents to run. And so now
+if I want to run this across all 50
+leads I can just press save and run all
+40 rows that haven't run yet. And just
+like that I have built a list of chief
+marketing officers that are new in their
+role and then now I have it delineated
+between whether or not they're B2B
+businesses. So if I want to reach out to
+these accounts this is a very targeted
+pointed list. If I want to write a cold
+email campaign this will be a very
+targeted list. I could say, "Hey Suzy, I
+saw you recently were promoted to CMO or
+I saw you just became CMO at this
+company and that you sell B2B. Are you
+looking for more leads? We're a B2B
+outbound agency blah blah blah blah
+blah." And so just like that with a
+couple clicks of the button and again
+I'm doing this slow for the sake of the
+tutorial. You can really do this in a
+few minutes but just like that I have 50
+people I can tell if they run a B2B
+business or not and I know that they
+just became chief marketing officers in
+the last 6 months or so and I have all
+their data. So you can see now we have
+this nice beautiful list. I'm going to
+put a quick filter on here to make sure
+that we only have the ones that are
+actually B2B businesses. So I'm going to
+press filter here add filter and I'm
+going to select where B2B classification
+is checked. And so now you can see 33
+out of the 50 people that we just
+scraped are B2B businesses. All right,
+so now we have our nice handy dandy list
+of 33 chief marketing officers that
+started in the last 3 months in their
+role and we know that they work at B2B
+companies. But the logical next step
+that we have here is how do we reach out
+to these people? Now we could totally
+run a LinkedIn outreach sequence so you
+can manually reach out to all these
+people or you could use a LinkedIn
+sequencing tool to reach out to these
+people on your behalf. So I could click
+through one by one and reach out to
+these people but even if you're doing
+that you're still going to probably want
+to hit these people on multiple channels
+or maybe you want to run a large-scale
+cold email campaign. Now, I know this is
+only 33 people, but point still stands,
+we probably want more ways where we can
+contact these people. So, now we're
+going to try and grab these people's
+emails. Now, again, Clay makes this
+super simple. So, I'm going to go over
+here to tools and I'm going to type work
+email. Now, I'm going to introduce you
+to another feature inside of Clay, which
+is a waterfall. Now, the way that a
+waterfall works is instead of just using
+one provider to try and find these
+people's work emails like Apollo or
+Prospector or Lead Magic or whatever,
+instead of just using one singular
+provider, we're going to use multiple
+providers. Now, the reason why we're
+doing that is because it will allow us
+to get the maximum amount of coverage.
+If we just use Prospector or we just use
+Apollo or ZoomInfo or whatever the tool
+is, that's just one data tool. They
+might have, call it 50% of the people in
+this list. We want to make sure we're
+reaching out to all of them. So, that's
+why we want to use multiple different
+providers. And again, this is the value
+of Clay. It's like have to take this
+lead list and send it off to five
+different tools one by one by one. I can
+just click this button here and I'll
+show you how we can run this lead list
+and have five different tools or 10
+different tools try and find their
+emails all at once. So, I'm going to
+press work email here and you can see
+Clay already kind of auto-filled some
+data here. So, what this enrichment's
+going to do is try and find this
+person's work email. It's optimized for
+work email and it's now it's asking for
+multiple inputs. Now, you can see here,
+there's 11 different data providers that
+we're using. So, we can configure this,
+which again, I can go through the full
+configuration and show you how this
+works. But, all that it really needs
+from us is their full name, their
+company's website, their company's name,
+and their social media profiles. Now,
+there's a couple more other optional
+fields here. You don't need to have
+them, but it will help the platforms
+kind of work better. And if I go over to
+the full configuration here, you can see
+all these different providers. So,
+there's Find Email, there's Hunter,
+there's Prospector, there's Kick,
+there's Detagma. And if I want to, I can
+reorder these. So, as it stands right
+now, it's going to start with Find
+Email, then it's going to go to Hunter.
+And if it can't find it through Hunter,
+then it's going to go to Prospector and
+so on. And so, we can configure that as
+well. Additionally, it's going to
+validate the emails in between each
+step. So, if a provider finds an email,
+that doesn't necessarily mean it's a
+good email. So, it's going to try and
+validate it in between each step. So, we
+can switch the validation provider. So,
+if I want to use, you know, Listman
+instead of Find Email here, I can click
+on this and then now it'll use Listman
+to validate these emails. So, I'm going
+to go through here. Let's say I don't
+want to use one of these providers or as
+an example, I like using Prospector, so
+I can put that to the front of the
+queue. Looks like here I have API
+configured for Find Email. I'm going to
+double-check that, but for now, I'll
+just uncheck that because I don't think
+I have an API key plugged in for that
+right now. Lead Magic's another tool
+that I have an API key for. Again, Find
+Email's a good tool. I just don't know
+if I have my API key. So, I'm going to
+actually just delete that for now. So,
+all that being said, let's say these are
+the providers I want to use and I'm
+putting the tools that I have API keys
+for at the front. And again, it has this
+all plugged in here. So, now I'm going
+to press save. Same thing, I'm going to
+run 10 at first to make sure I'm not
+breaking anything before kind of running
+this all the way through. But now, it's
+going to go through and run 10 different
+data providers all at once, which saves
+me so much time. And this isn't true
+just for work emails. You can also do
+this for phone number. So, not to jump
+ahead here, but if I type phone number,
+let's say I want to find the mobile
+phone numbers of all these people. Same
+thing, I could run it through 14
+different mobile phone number providers
+to make sure I get as many mobile phone
+numbers as possible. Again, anyone who
+does cold calling or dialing knows it's
+not easy to get 100% coverage on cold
+leads. Now, if you have a form where
+people are opting in, that's different.
+But if we're scraping completely cold
+leads, it's hard to get all the coverage
+here. So, now you can see this is
+running through. And one thing I forgot
+to mention, this is where conditional
+logic is relevant. If we have these
+leads, we had 50 people and now we're
+narrowing it down to 33. Because I have
+this filter enabled, the conditional
+logic is working as intended, so it's
+only trying to find emails for the 10 or
+for the 33 people out of this table
+here. Now, if I didn't have this filter,
+what I could do here is go to the added
+column and then I could put a run
+condition. So, like I only want you to
+run this if {slash} B2B is B2B is
+checked. So, this is like me just
+telling this, "Hey, only run this if
+we're actually have this box checked."
+So, anyways, we have the filter in
+place, that works, too. So, now you can
+see we found nine out of the 10 of these
+people's emails. I'm just going to
+double-check so you can see this one guy
+here towards the middle here, it looks
+like we did find an email, but it was
+flagged as invalid. And Hunter also
+found the email, which again, it was
+flagged as invalid. So, we actually did
+find emails for all of these. The only
+reason why we didn't get coverage on
+this guy is because it looks like his
+email's invalid. Who knows? Maybe this
+guy just got fired from his job. That's
+totally a reason, right? So, we scraped
+this guy, got hired on as a CMO, and he
+got fired from his job. Who knows if
+that's the case. Maybe that's the case.
+I'm not going to investigate this
+further. But, all that we know is that
+we scraped 10 people and we got nine of
+their emails. We actually got 10 of
+them, but only in this one didn't have a
+valid email. So, again, what I'm going
+to do here, I'm going to click on this
+tab and press the run button. And then
+I'm going to run the empty or out of
+date rows. So, all the rows here that
+are empty right now, it's going to go
+through and run all of these. And now
+we're going to populate all these
+people's emails. So, just like that, a
+few clicks of a button, few seconds of
+waiting here, I now have a list of chief
+role in the last 90 days. And I made
+sure that they work at B2B companies and
+then now we have their work emails. And
+so, this is how useful Clay is as you
+can build these workflows. Now, if I
+want to add more people in, which we're
+going to talk about here in the signals
+section, we can then just push this into
+this table here and have this all kind
+of work through. Now, I can continue to
+add more and more enrichments. I could
+add phone numbers. I could have
+AI-generated personalized first line. I
+could keep going on and on. It's up to
+your discretion. Now, I don't want to
+make this video ridiculously long. And
+for my case of doing outbound, this is
+pretty much all I need. I have a highly
+targeted list. I have people that meet
+my criteria and I have their emails. And
+so, I could run a cold email campaign
+for I want to cold call them, I could
+grab their phone numbers. So, this is a
+table. Now, let's say I want to send
+cold emails to these people. There's
+multiple ways I could do this. I could
+go to this tool section here and I could
+export this to a sequencer. So, let's
+say you use any one of these sequencers,
+Clay, SmartLead, Instantly. These are
+LinkedIn outreach tools like HeyReach.
+If you want to use any of these tools, I
+can just press, let's say, Email Bison
+here and then I can add my Email Bison
+account, press continue. And just like
+that, I can have all these people pushed
+into a campaign. Another way you could
+do this is you could push it into Clay
+sequencer. So, Clay has a sequencer.
+Now, personally, I like just using, you
+know, the standalone sequencers, and I
+think, again, it's just reskinned
+SmartLead, so I'd rather just use
+SmartLead myself, personally. But again,
+if you want to consolidate your tool
+stack, you can just create a Clay email
+campaign. Now, I'm going to go over to
+that section and we'll talk about how to
+create an email campaign. So, now,
+again, we're in this same workbook.
+Again, I don't want to ruin any of our
+progress here, but we're in the same
+workbook and we're creating a campaign
+all in one go. So, now, let's say I
+wanted to, you know, write a cold email
+sequence. So, I want to, let's say I
+want to announce a new product launch.
+I'm just going to press generate demo
+here for the sake of this video cuz I
+don't want to write a whole campaign
+here. But Clay's AI can go through here
+and start to generate an email sequence.
+So, this makes our lives a lot easier.
+I'm going to let this run. So, you can
+see, Clay just created an email
+sequence. Hi, first name. We just
+launched a new product and I thought it
+might be relevant for company name. And
+then, here's where I can, you know,
+write some stuff in here. So, I can
+write two or three sentences about how
+it resonate, whatever, whatever, right?
+So, I can save this campaign, all right?
+And just like that, I have this campaign
+saved. Now, I can go to the settings
+here. If I want to add an email account,
+again, I can just connect your email
+account. You can connect whatever you
+want in here. You can assign which email
+accounts you want to use. You can
+configure whichever settings. So, this
+is really convenient. My personal
+recommendation is that if you are just
+trying to send these like smaller
+account-based type of campaigns, this
+sequencer can be very, very, very useful
+because then you don't need a million
+other tools. If you're trying to do like
+10,000 cold emails a day or 5,000 cold
+emails a day or 1,000 cold emails a day,
+I'd recommend you probably just use your
+own sequencer like Smart Lead instantly.
+If you can see like this, not only is
+Clay doing this, but it is generating
+messaging for you here. I believe it's
+pulling this messaging from some other
+setting here, so I'd probably want to
+configure that first. But all that being
+said, that's how you create a campaign
+through Clay. I can launch this. You can
+do all kinds of stuff here. So, I just
+want to zoom out for a second and talk
+about everything we've done so far. So,
+we've scraped a I would say relatively
+niche set of leads. We scraped chief
+role in the last 3 months. We made sure
+they worked at B2B companies for the
+sake of this demo. After we did that,
+then we got their verified work email so
+we can reach out to, and then we
+generated a fake campaign through Clay,
+which I didn't finish it all the way
+through, but you could go through and
+generate a campaign, connect your email
+accounts, and launch that through there.
+So, that's just one example of stuff you
+can do in kind of a base workflow. Now,
+you can also export that CSV, push it to
+Smart Lead, whatever. That's my personal
+preference is just exporting it and
+throwing it somewhere else, but that is
+a kind of workbook or a real example.
+Now, I'm going to go through some more
+features now that we have a table to
+kind of walk this through. So, signals,
+let's say, as a beautiful example, this
+list that we scraped was chief marketing
+officers that just got hired in the last
+3 months. But let's say, me being the
+smart person that I am, I want any new
+chief marketing officer from a set of
+accounts that I want to scrape. Anytime
+they hire chief marketing officer, I
+want to know about it. So, what we can
+do here is we can go over to, let's say,
+new hire. We can use the existing table
+that we have here, which I forgot what
+this is called. It's probably untitled
+workbook. Let me go back and name this
+table here. Oh, it's C-level CMOs new
+hires. Select table. So, this is the
+company table. Actually, I'm probably
+not using this the right way. So, Clay
+needs a company LinkedIn URL to track
+new hires. So, this is tracking if
+there's a new hire at any one of these
+companies. So, this actually isn't the
+perfect use case because what Clay is
+doing here is it's trying to draw
+companies that exist in this data set.
+If we want Clay to find anytime someone
+becomes a new chief marketing officer,
+you'd need to be like scraping zillions
+of companies, which probably would cost
+Clay a ton of money. So, this is just if
+anyone in this data set. Now that we've
+built that list, we can actually go
+through signals with some real data and
+show what this looks like. So, basically
+what signals are is monitoring of a
+specific action on a specific data set.
+So, as an example, we scraped that list
+of 50 or 33 chief marketing officers
+that started in the last 3 months,
+whatever, whatever. And I want to keep
+an eye out if those companies are
+fundraising for whatever reason. So, I
+can go over here to new signal and press
+news and fundraising, and then I can use
+the existing Clay table we already
+built. So, I'm just going to type CMO
+and pull up the list that we have here.
+So, now we have this beautiful table
+that we already made here, and we're
+going to press next. So, now let's say
+we want to keep an eye out if these
+companies raise any fundraising. So, I
+can type fundraising here. Can type
+whatever else. There's downsizing stuff.
+This is just if we want to monitor any
+news and you can plug in any stuff here.
+So, anyways, we're going to press next
+here, and then it will ask us what
+frequency do we want to be checking for
+these things. So, we can check if they
+are, you know, on a daily basis, weekly
+basis, quarterly basis, whatever it is.
+You can see here, this is the preview
+tab. We can see that six of these
+companies have raised funding recently.
+So, you can see it pulls in the company
+from the table we already made. It shows
+their domain. It shows the news URL. So,
+I can click into this and see this
+company just raised a series B with over
+110 million in funding, which is
+awesome. So, this is, you know, an
+example of signals. I can press next
+here, and then you can have it send a
+message to your Slack channel. So,
+again, this is more of like an
+account-based marketing approach if you
+want to just get notified, or if you
+want to update it in your Salesforce,
+your HubSpot, or whatever it is. I can
+just press save here. And so, now we
+have these handy-dandy companies we just
+scraped, and I think I had it set to
+monthly or something like that. So, on a
+monthly basis, it's going to go through
+and try and figure out if these
+companies are raising money. And if they
+are, you can have it pushed to your
+Slack channel or pushed to HubSpot or
+Salesforce or whatever else. And so now,
+that might be a signal to reach out to
+them. Or, this could be personalization
+that you can use. And now, we go back to
+our table here, this nice little
+workflow thing. You can see this chain
+of events that's now being built. We
+scrape these people, we push them to a
+table, we're monitoring if they're
+fundraising. We can also push them to an
+email campaign. So, you can kind of
+build these, you know, more complicated
+data workflows through Clay. And that's
+basically what the platform is built to
+do. You can see through this
+demonstration, we scraped leads, we took
+those leads, and we processed them in a
+very unique way. Now, we're monitoring
+those leads, we're pushing those people
+into a campaign if we wanted to. Then, I
+could add more leads on top of this. And
+this is a lead list we scraped. We're
+not even getting into plugging in your
+CRM. We're not even getting to uploading
+your own leads or doing any sort of
+repetitive workflows here. And that is
+what Clay is built to do. Now,
+Claygents, we kind of covered Claygents
+in the table section here. So, if we
+want to build a Claygent template, we
+could just kind of type stuff here or
+build an agent and then have it kind of
+run in the same way that we did before.
+Functions, what a function is is
+basically a group of enrichments. So,
+like I just walked through a waterfall,
+which is like a predefined set of 10
+different data tools. You can build your
+custom kind of own waterfalls or
+sequences in which things happen. So,
+you can build that all through here.
+But, I would say that covers the
+majority of things with Clay. Again, the
+power of Clay is that you can scrape
+leads through the platform. You can
+score those leads through the platform.
+You can manipulate and use hundreds of
+different tools in one central place.
+And then, you can create automated rules
+to push into campaigns, to ping your
+Slack channel, to sync it with your CRM,
+and do all kinds of other things.
+Probably the most common use case is
+very similar to what I showed you here,
+which is, "Hey, let's scrape a list.
+Let's take those people, make sure
+they're a fit. And then, after we have
+those people, let's get their emails,
+let's push it to a sending tool." And
+then, we do that typically on a scale of
+tens of thousands or hundreds of
+thousands people. and that's how, you
+know, you can run high-volume outbound
+campaigns. So, that is clay.com. If
+you're interested in signing up, use the
+affiliate link below because it supports
+me, gives me a little bit of a kickback,
+but also because it gives you free
+credits if you sign up for a paid plan.
+You have to sign up for a paid plan to
+claim that offer, so check that out. By
+the way, if you want to work with an
+outbound agency that can run high-volume
+outreach campaigns on your behalf, call
+leads, email leads, and handle that
+whole process so you get sales meetings
+on your calendar, you can apply to work
+with us below at aniva.com. Really
+appreciate you watching this video and
+wishing you the best of luck with Clay.

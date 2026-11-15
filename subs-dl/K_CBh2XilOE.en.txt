@@ -1,0 +1,188 @@
+you and I both love Adobe Illustrator but how can
+we get the most out of this software and we're
+going to start things off right here where I'm
+going to hide this content with this command or
+control 3 just for now and the first thing that we
+can really make use of in today's tutorial is with
+the scale tool which is s on your keyboard or of
+course you can come over to here in the tool panel
+now with this tool selected we can press
+enter on your keyboard which will take us
+to this very Nifty little panel and you'll soon
+see how much potential this single panel has
+now I have a rectangle covering my entire artboard
+and sometimes we want to make multiple shapes
+across our designs at the exact same size so
+for example I can press 25 for the horizontal
+number and now my shape is exactly a quarter of
+my artboard or my design I can then just hold
+down the alt option key and click and drag to
+duplicate this shape before pressing command or
+control D to repeat it twice more and if by Magic
+these four shapes fit exactly onto my artboard up
+to the edges there are multiple ways to do this
+but it's always great to know various different
+workarounds in software plus the scale tool is
+just really great in different situations there
+are a whole variety of reasons why you might
+want to split up your design into sections for
+instance here I'm essentially giving location and
+space to parts of my design and that allows me to
+visualize my layout just a bit differently and
+of course with each segment being a different
+shape we can now have some fun with things such
+as the HSP sliders and if you ask me these HSB
+sliders are pretty underrated in the design
+Community but here I've selected each of the
+four rectangles and then holding down shift and
+highlighting each one as I go with a single click
+but yeah just remember that scale tool does have
+that kind of hidden panel which can be very useful
+but now let's look at something very radically
+different have you ever tried making shadows in
+illustrator but they just end up looking miserable
+now I've got a few tricks that will certainly help
+you make the uglier Shadow have a sense of realism
+attached to it and to demonstrate we have here a
+golden hand and firstly we need to look at where
+the light is coming from on our object and to
+me it seems like it's from the left side of the
+design where the light source would probably be
+so my shadow is probably going to point and
+move towards the right of my design in some
+kind of way get this wrong and your design
+will simply look unrealistic and just an
+impossible fact of nature so let's press L for
+the ellipse tool and then create a shape like so
+now we're going to add a gradient but the next
+few steps are very very important for one side
+of your gradient make sure it's a dark kind
+of black and I've gone for a more charcoal
+kind of black here as opposed to jet black but
+for the opposite side of the gradient we want
+to sample the background color by pressing
+I on your keyboard and then just sampling
+the color then heading into the color here we
+can copy the hex code with command or control C
+now head back to the gradient and paste in the hex
+code into the RGB slider with command or Ctrl V
+we want this side of the gradient to either
+be zero percent opacity or for it just to
+be a low kind of percent and that's so it
+Blends into your design smoothly make sure
+your object is to the front of the layers
+and then add a gaussian blur to your ellipse
+now you might be thinking to yourself that's
+it Shadow complete but hey you'd be wrong often
+when working with raster effects like this in
+illustrator we have unfavorable edges like you
+can see at the very top Edge right here the best
+workaround for this is to add a feather effect
+which can be found up here at the top while
+you're doing this click preview and have a
+look at what kind of values work best for your
+Shadow and then when you're ready just hit OK
+the great thing about this is that we can edit the
+shape and even the gradient after having added the
+blur effect you might even want to add a second
+darker blur kind of closer to the hand for extra
+depth now you might be wondering where did you
+acquire that Golden Hand from and well that is
+the sponsor of today's video it's something I use
+every single day in vato elements on envato there
+are millions of resources that designers can use
+on their projects and lately I've been grabbing
+a bunch of resources from the 3D section you can
+even just click and rotate and choose a kind of
+point of view you want to download which is pretty
+neat there are tons of downloads though and for
+all kinds of different projects and styles and
+you can be confident using them on your designs
+because it's a one license fits all kind of deal
+when you sign up to envato now you can try it for
+seven days totally for free but if you don't like
+it after that you can just move on with your day
+as usual now you can find that link in description
+box below but for now let's head on to more Adobe
+Illustrator discoveries in today's tutorial this
+next section is all about some keyboard shortcuts
+that few people use but which save a bunch of time
+now the first one is to send to the back which is
+shift command bracket and then of course the PC
+variation now this saves just so much time and so
+does the opposite of that one which is bring to
+the front it saves you having to come up to the
+object drop down menu at the top and during long
+workflows this just makes heaps of sense so now
+the snake is actually behind the background layer
+and I can actually keep editing and manipulating
+it freely and here's another Nifty one when you
+have a pile of objects just hold down the command
+or the control key until you see this icon appear
+and then you can just click click click until you
+reach the object you want to this prevents you
+from moving objects around on your design to get
+to one kind of object and often it is actually
+quicker than using the layers panel now here's
+a shortcut that I only recently started using in
+my workflows we know that if you copy something
+and then paste it with a command or control V it
+kind of just pastes it in an annoying location
+you might want to paste the object directly
+exactly behind the copied version so press
+command or control B for back again the
+more you know the more efficient you can
+be when using design software and this one
+is a really neat addition to your knowledge
+so the alternative which I've been
+using for ages actually is command
+or control F and this will paste
+the copy directly over the top
+when working in illustrator we want to try and
+be as precise as possible while saving us time
+and that's exactly what these shortcuts do
+and speaking of being precise I bet you've
+had situations where no matter how hard you try
+an object just won't snap to the edges of your
+artboard for whatever reason one neat solution
+is to turn on the Align to artboard button and
+then snap to the left Edge like so now if I
+duplicate it I can have peace of mind that
+it is in fact a snap to the edges of my artboard
+by using this function in the Align window what
+do you say let's have some fun and make a dope
+background right here selecting both shapes I'm
+going to click make blend and then use the
+specify steps option with a number of four
+then come here and choose blend and make that's
+pretty cool but let's move this across a press a
+for the direct selection tool and then bring the
+blend left anchor into the center of my design
+let's use that copy command of command control
+F and paste the duplicate right in place on top
+then I'm just going to hold down shift so I can
+rotate it perfectly at a 180 degree angle and
+like before instead of moving it and potentially
+not having it perfectly in place we can snap it to
+the right Edge and Presto Chango that looks pretty
+cool actually I'm going to shift-click each blend
+and then change the steps so that we actually
+get rid of these space bars between each bar
+that looks pretty cool but why stop there let's
+uh let's do something else to it press M for the
+rectangle tool and then select a dark color
+preferably black then we're going to add a
+grain of texture to this shape just to give the
+background some added Intrigue and uniqueness
+the final step would be to play around with
+the blend modes in the transparency window
+and as you can see there is a slight texture
+to my design right now you can add as little
+or as much grain to your design but just
+remember to stay precise and one way to
+do that is to work in the Align window
+with the artboard button highlighted if
+you think you're ready for more tips tricks
+and Adobe Illustrator goodness just click a
+video on screen and until next time guys
+design your future today peace foreign

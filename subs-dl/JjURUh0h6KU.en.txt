@@ -1,0 +1,506 @@
+Choosing the wrong database
+can literally destroy your entire
+cold mailing operation.  Because
+after sending hundreds of thousands of
+cold emails and scheduling thousands of
+sales calls across various
+industries, I can assure you that your
+database and prospect list are
+everything.  If your information is
+outdated, you end up in spam,
+contacting retired people or
+even, sometimes, deceased people.  And the worst part
+is that you have to pay for
+those leads.  And the sad thing is that
+most people don't even realize
+their tool is failing them until
+their domains burn down.  Therefore, in
+this video I will show you the tool
+that is probably one of the most
+important in my technological arsenal
+for creating prospect lists.  It's
+called Prospect.io.  We'll cover everything
+from data accuracy to
+how the credit system works,
+mobile numbers for
+cold calling, list building, monitoring,
+integrations, and costs—literally
+everything.  And I'll also give you the
+honest downsides, because there's a
+specific way people
+waste their credits on the
+platform if they don't know what they're doing.  If you do
+n't know me, my name is Jay May Lua
+.  I am the founder of Velocity Flow,
+where we create, execute, and manage
+cold email campaigns for
+many clients across various industries.
+And in the last year, LinkedIn went
+overboard with scrapers.
+They literally banned a bunch of
+lead generation tools that were a
+fundamental part of
+everyone's technology.  And, honestly, the quality of
+data on those platforms has gone
+downhill since that happened.  And
+here are the details about Prospector
+.  Honestly, it didn't even used to be
+a database.  It was just an
+email enrichment tool that you could add to your
+sequence to basically find
+the email for you.  And that's how it
+originally entered my
+technological arsenal.  But then they launched a
+completely new interface, and it went
+from being an
+enrichment tool to being part of my
+daily use for creating prospect lists.
+And since they weren't one of the scrapers
+that were banned, they've honestly
+gained a lot of traction.  Especially
+among all agencies, and let me
+show you exactly why.  Now,
+the most important thing in any
+lead generation tool you
+use is the accuracy of the data.  It doesn't
+matter how beautiful the
+features are.  If the emails bounce, none
+of that matters.  So, if you go and
+look at the screen here, this is what
+Prospector actually looks like on the inside.
+As you can see here, if you look at the
+platform, the user interface they
+have is fairly standard for
+a prospecting platform.  If you've
+used Apollo or any other
+database, it's exactly the same.  They have
+a tab for people, one for
+companies, one for lists, and one for
+CSV enrichment.  They even have
+their own integrated CRM, plus
+API keys and integrations.  You can use
+things like MCP, HubSpot, Monday, or
+Pipedrive.  Now, one of my
+favorite parts of Prospector is that they run
+every email through BounceBan,
+and if it's not verified, you don't even
+have to pay for that prospect.
+Unlike other databases like
+Apollo, where you extract a prospect, it may not
+even have a
+valid address and you still have to pay
+for it.  And honestly, I've never
+seen a prospecting platform
+integrate something like this.  That's why I believe the
+quality of Prospector's data is
+much better than Apollo's.  So,
+starting with their charges, as you can
+see on the screen, it's relatively
+fair.  They have a free plan with which
+you can try the service with 100
+credits per month.  They have the
+starter plan, which costs $50 per month
+per user and gives you 2,000
+monthly credits.  They have the
+growth plan for $99, which gives you
+5,000 credits per month.  And then they have
+the pro plan, which is the one we
+have.  You get 15,000 credits per
+month per user, and it costs
+$249 per month.  Now, there are many
+different features that come with the
+different plans.  The main thing
+I really like about all these
+plans is that each one includes
+API integrations for
+email enrichment tools or
+cascading sequences.  That's one of my
+favorite things about these plans.  Even
+if you wanted to set up a
+prospecting tool with Claude's code, you
+just need to give him your API key.  And I
+think that's why I love that the
+API key basically comes with
+any plan you choose.  In some
+tools I've seen, you have to
+be on the highest plan paying
+$600 a month just to get the
+API integration, but with Prospect.io, they
+basically give it to you for free.  Now,
+starting with the free plan,
+you get 28 search filters, three
+intent themes, AI search, look-
+alike profiles,
+people, a Chrome extension, and over
+50 AI-powered data fields, which,
+honestly, for a free plan, I've
+never seen a better deal.  And
+then you have the initial plan, with 32
+search filters, six
+intent themes, CSV and
+API enrichment, basic integrations, roles and
+permissions, two-
+factor authentication, and 20,000-row selection.
+Many of the tools we used
+in the past only let us export, you
+know, 20,000 leads, but with this one
+you can select up to 20,000 rows at a
+time.  And as you keep climbing,
+everything keeps getting better and better.
+As you can see, 38 search filters,
+nine intent themes, and
+search analytics.  You even get
+integration with HubSpot and Salesforce.
+So you can literally integrate
+your CRM with this.  You have
+CRM enrichment and job change tracking
+.  This tracks people
+who actively change jobs,
+because for some reason people are
+changing jobs every month now.  And you also
+have ICP detection.  Previously you had to
+go to Clay and confirm your ICP, but
+this literally does it for you.  And if
+you look at the Pro plan, it literally has
+all that and more.  You have 41 filters, 12
+intent themes, and the
+highest API rate limits.  Another
+great thing about Prospecto is that many
+platforms you used before, let's say
+you export a CSV, only
+have around 50 to 60% valid contact information
+and they still charge you for it,
+right?  With Prospecto, 83% of your
+leads return with contact information, and
+if they don't have contact information, you
+literally don't even have to
+pay for them, and I honestly think
+that's very valuable.  Now, you
+can use Prospect not only for cold emails
+, but also
+for cold calls.  Each credit
+for cold calls costs 10
+credits, but the quality of the data
+it provides is very good.  Regarding
+how Prospect Credits work
+, obviously a
+verified credit is a
+business email, but you can also extract
+mobile phone numbers.  In fact, we
+'ve been using it at our
+agency for our
+prospecting managers to make cold calls.
+You can get direct mobile numbers
+for literally 10 credits
+and the quality of these lists is
+absolutely amazing.  As I said, their
+platform is pretty much standard
+if you've used a
+lead extraction platform in the past.
+They have a people search tab
+and a business search tab
+.  We practically live in
+both because we are a
+lead generation agency, so we look for
+companies, we find the companies and
+then we find the people in
+those companies, but I'll explain it to you
+quickly.  Then, you have the
+company search tab where you can
+search for companies.  Let's say Nike, for
+example, Nike will appear.  So
+you can search for specific companies
+there.  And then, you know, the location
+.  I am in the United States.  Most
+of the time I just want to work
+with clients in the United States.
+So I'm going to choose the United States
+there.  Therefore, you can filter by
+location.  And then you have the type and the
+business model as well.  So,
+whether they're private, public, or non-
+profit, you can filter by all those
+things.  And then, you can even filter
+by what they are.  For example,
+SaaS companies, marketplaces, e-commerce agencies,
+consulting firms, manufacturing companies, and so on.
+And many of these platforms I've
+seen are even B2B, right?  You can
+filter by B2B.  Is it
+retail?  There are many filters that
+come with this.  Data quality
+is very valuable.  They also have
+a keywords section.  Many
+data extractors have this
+, but the quality I've seen with
+Prospector is absolutely incredible.
+As you can see here, there are three
+characters per keyword.  So you
+just paste all your
+keywords here and you can search
+everywhere.  You can turn this off to
+search all these things like
+web pages, product and
+service tags, AI descriptions, or
+you can turn it on to basically
+disable those other things.  You have all the
+keywords too.  And then, if you
+scroll down, you have to exclude keywords.
+As I said, this is pretty standard
+if you've been on a
+data extraction platform before.  Then
+you have, you know, the number of
+employees.  This is very standard, you
+know, the industry too.  Then
+you have the purchase intent,
+which I haven't delved into too much, but
+from what I've heard, it's really good
+.  Basically, you can find
+customers who are looking for your solution.  Just
+click on add intentions here
+.  You can look for people who want
+things like instruments or
+clinical diagnostics, air quality; there are
+tons of filters you can use.
+As I said, I haven't gone too deep
+into this.  Let's click on financial,
+let's see what it gives us.  So all
+these things, acorns, Afterpay.  So
+you can literally search for people who
+are actively looking for what
+you offer.  As I said, I haven't gone into it
+too much, but I've heard
+good things about it.  You can also
+look for technologies if you're
+tracking e-commerce agencies
+, for example, what kind of
+ads they're running, etc.  Then
+you have the income here, which is
+standard.  Also the financing.
+I've seen this on many other
+platforms, like pre-seed, seed,
+Series A, Series B. And then you also
+have AI matches.
+So, let's say we wanted to
+find a group of companies
+similar to Nike, for example.  I'm going to
+use the same example.  So you just
+click here and search for
+Nike.  You want to find
+Nike's AI matches if that's
+your ideal customer profile.
+Basically, don't use Nike, obviously,
+but I'm just going to use Nike as an
+example.  You know, you have Puma, Total
+Sports.  These are all basically
+companies that are similar to Nike,
+which is very helpful.  You know, let's say you
+have a lot of clients, for example.
+One of your best customers is in
+a specific industry.  You just take
+their domain, paste it into the
+similar companies section, and a
+list of companies similar to that one will appear.
+You can even filter by number of
+employees and growth.  You can filter
+by number of employees per
+department and also by location.
+So, if you want, for example, in the
+United States, even the year of
+foundation, right?  Because some of
+the companies I work with must have been
+operating for a certain amount of time
+.  So that's something that would filter
+by the founding year.
+Job offers too.  So, let's say I
+work with a recruitment
+and staffing firm.  I'm looking for
+people who are currently
+hiring, you know,
+software engineers, for example.  You can
+literally do all of this on the platform
+instead of going to Appify to track
+everything.  Then you have the AI ​​attributes
+here, such as offering demos, offering a
+free trial, having a
+mobile app, not having one, having an API, blog
+, podcast, etc.  They even have the
+company's email provider.  So, if you want to target
+only people with Google emails,
+you simply click on Google,
+Microsoft, etc.  You can even search for
+prizes.  I'm not entirely sure what
+you'd use this for, but I mean,
+if it's a type of personalization you
+want to use, you can filter by
+awards, web traffic, or
+key executive events, and also by
+company news.  Again,
+you could use that for
+customization.  Now, moving on to the
+people tab, again, this is
+pretty standard if you've used any
+data extraction platform,
+but you can search for
+specific people if you want,
+specific job titles, right?  Like
+the founder, if you only want
+decision makers, co-founder, CEO, etc.
+Now, you can even search by
+company as well, and then by
+location again.  Now, the
+contact details.  So, you can
+literally filter out all the
+people who have
+verified work emails and
+verified mobile numbers too.
+So you don't pay for leads that you
+'re not
+actively pursuing.  Again,
+how many people do you want in
+the company, and what type of business model do you want?
+So, this is super
+useful if you're trying to have a
+really focused list with precision
+.  This is something I use all the time
+to keep my list super focused
+.  Let's say I only want to contact
+FinTech companies, for example, I
+simply click there, and then it
+only gives me FinTech companies.
+Again, in the section, number of
+employees, industry, their
+purchase intention, technologies.  As I said,
+all of this is pretty standard, but it
+turns out to be really useful.  As I said, the
+quality of their data is something I've never
+seen before.  Now, one of the
+main things I've found very
+useful regarding the quality of their data is
+the people who have changed
+jobs.  So, if you don't want to
+contact people who changed
+jobs in the last 90 days, only
+show job changes within the
+same company, or only show
+job changes to a new company.  So
+if you want to contact people who have
+changed jobs to a new company
+, you can filter by that.  Or, if
+you just want to contact people, let's say
+someone was promoted to CEO,
+right?  That's something you'd filter
+here too.  Again,
+job offers, if you work in
+staffing and recruitment.  You have
+duplicate control.  I really
+like it a lot because, let's say you've
+extracted a list, right?  In the
+past with Apollo, let's say
+you pulled a list and you're going to target
+the exact same industry.    You
+may have already paid for that lead,
+but Apollo doesn't have this integrated into
+its platform, so
+you're literally paying for the same data
+again and there's no way to filter it.
+At Propel, you can literally filter out
+people you've already extracted
+because they keep it integrated into their
+platform, and that's why I love their
+credit system, because you don't pay
+for leads you've already paid for.  As I was saying,
+AI attributes, persona, you have the
+company's email search engine,
+company awards, and again,
+web traffic.  So there are many
+different things you can use for
+Prospector.  As I said, much of this is
+fairly standard, but just for
+example, one of my favorite parts is
+the time in current position and
+duplicate control.
+Duplicate control is probably one of the
+best parts of this platform.  As I
+said, I don't want to pay for data I've already
+purchased.  And then, if you scroll down to the
+lists, as I said, it saves every list you
+extract and there's literally no
+limit.  So,
+you'd basically have your own
+lead extraction platform if you used it
+enough, with all the people you
+'ve extracted, right?  For us,
+we want to reach our total
+addressable market every 2 months.  So
+we can come back here, take the list,
+make different customizations,
+different approaches, and then
+contact them again without
+ever having to pay for the same data.  If
+you click on this, this is actually
+CSV enrichment.  It allows you to
+enrich any CSV or
+Excel sheet with updated data on
+people or companies.  If you want to
+enrich an old list you have
+, it basically updates it for you.
+Then you have CRM enrichment
+.  As I said, you can integrate HubSpot and
+Salesforce.  I haven't used this yet.  I think I'll do it
+in the future simply because it's
+pretty great to have everything on one
+platform.  I'm only using
+Apollo right now for my CRM.  Then,
+you have your API keys here.  I hope they didn't
+see that.  I'm going to blur
+that part.  And then, all your
+integrations here, as I said before
+, you can even integrate your
+sequencers here.  So, if you use
+Instantly or Email Bison, all your data
+will be in the same place.  And
+as I said, you're not paying for the
+exact same data.  There are a lot of
+different things you can integrate
+with this.  You know, like JustCall,
+Lemlist, Outreach, Reply, Salesloft,
+SmartLead, like all these
+tools.  You can even integrate
+Clay with this, and then finish with
+Zapier for all workflows
+.  And then, you can see all your
+analytics here.  Purple represents
+spending on mail, yellow on
+mobile phones, and then spending on other
+actions.  So you can see where
+your credit spending is basically going
+.  So, that's a
+complete platform.  Literally everything you
+need to prepare for
+success in cold mailing,
+even cold calling,
+built on a database.
+Basically, a database that
+allows you to treat it as your own instead of
+renting it.  If you want a 20% discount
+, you can click on the second
+link in the description below.  And
+if you want us to create,
+run, and manage
+cold email campaigns for your business, you can
+click on the first link below and
+book a free call.  Now,
+creating prospect lists is
+probably one of the most
+important parts, but the second most
+important part is your infrastructure so
+you can send the emails.  So
+, if you want to see the complete
+cold mailing system that
+this prospect list will be integrated into, you can
+click on this video here.  But I
+hope you enjoyed this video.
+Let me know if you have any
+questions in the comments below, and I'll
+see you in the next one.

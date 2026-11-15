@@ -1,0 +1,324 @@
+one thing i've been noticing with many
+of my clients is a heavy emphasis on
+data driven design i think it's going to
+be one of the most important design
+trends of the 2020s and beyond this
+video will give you a better
+understanding of why data will be so
+important to designing the products we
+make the ethical controversies around
+data collection and why some types of
+data are much more valuable than others
+[Music]
+so first of all data are just facts and
+statistics collected for reference or
+analysis everyone uses data to make
+decisions all the time that's nothing
+new but within the context of this video
+i'm talking about millions or even
+billions of data points collected and
+used to inform product decisions this
+somewhat recent phenomenon is allowing
+us to do things that were impossible
+even as recently as a few years ago
+pretty much all major innovations in
+design are a direct result of emerging
+technology and this trend towards big
+data and the designs that will result
+from it are no exception when designing
+the hollow lens 2 microsoft had to
+figure out how to make a headset that
+would fit on everyone's head comfortably
+the hololens 2 weighs about 580 grams
+and that's basically the equivalent of
+strapping a loaf of bread to the front
+of your forehead and wearing it for
+several hours i tested it so you don't
+have to it's very uncomfortable but this
+task gets even more difficult when you
+factor in the radically different shapes
+and sizes of people's heads it's
+basically like trying to make a
+one-size-fits-all shoe individuals have
+radically different facial features as
+well so if you're designing a headset
+that's supposed to fit over your eyes
+it's not going to be easy if one
+person's brow ridge is zero millimeters
+and another's is 15 millimeters so
+microsoft had to scan thousands upon
+thousands of people's heads in order to
+determine the ideal shape for their
+headset design this gave them the
+necessary data to make proper decisions
+in making a one size fits most design
+without that data microsoft would have
+ended up with a far less comfortable
+headset for anyone who's worn a vr or ar
+headset that's clunky and uncomfortable
+you know how much it takes you out of
+the experience
+the hololens team also had to deal with
+heat so when you have a computer
+strapped to your face it's not only
+important to make sure that it's
+comfortable in terms of not hitting any
+pressure points but it also needs to
+direct the heat away from your head
+testing this with physical prototypes
+would have taken forever so instead they
+created a digital twin and a digital
+twin is basically exactly what it sounds
+like it's just a digital clone of
+whatever you're trying to make in real
+life so in the case of hololens they
+probably gathered all of the relevant
+data about the product material
+compositions component arrangement
+material distribution thickness and
+types and various heat diffusion
+features they put all this in a computer
+simulation that was a replica of the
+physical device and placed that digital
+twin through thousands of trials and
+tests until the ai was able to come up
+with a solution that successfully
+diffused the heat that's how they came
+up with this component configuration and
+it's probably how they came up with the
+channels along the top of the hololens
+which helped to cool the device by
+guiding the heat upward and away from
+the person's face
+the digital twin didn't give them a
+perfect finished product it was just
+sort of a model for them but it got them
+close enough to the final design so that
+they could move more quickly the data
+that the hololens team used to create
+this design gave them a very distinct
+competitive advantage and you're going
+to see more of this data-driven design
+as these tools become more accessible
+for everyone to use new cloud computing
+and machine learning tools allow
+companies to sift through this data in a
+way that used to be difficult or
+impossible hololens is one of the most
+comfortable headsets on the market right
+now and i can't stress enough how hard
+it is to make a 580 gram computer
+strapped to your head be comfortable and
+microsoft did it with the help of data
+now data is going to be incredibly
+important to creating a competitive
+advantage in product design but only if
+it's done in a smart way so if we
+continue to use hololens as an example
+their data on facial scans is hard to
+access they can probably continue to
+improve it as they collect more data and
+therefore improve the actual final
+product but eventually it's going to
+lead to diminishing returns so if the
+designers and engineers manage to make
+the headset fit 100 of people and
+everyone can wear it with no issues for
+18 hours making the headset even more
+comfortable after that point is going to
+sort of become unnecessary if the data
+you're collecting stops being useful
+after a certain point it's not as
+valuable of course there's nothing wrong
+with this necessarily you just need to
+think about this as you formulate a
+design strategy as it relates to data
+you can contrast this with a client that
+i've worked with in the medical field
+called insight surgical they're using
+computer vision to identify all of the
+tools in the operating room so that
+something like a gauze pad doesn't
+accidentally end up inside of the
+patient after an operation and yes this
+actually does happen if that data
+becomes even 0.1 percent more accurate
+it could save lives so there's a huge
+benefit to collecting more data in this
+case it also makes it harder and harder
+for other competitors to catch up so if
+one solution is 90 effective at
+identifying these surgical complications
+just because they have more data to rely
+on and another competitor comes up and
+it's only eighty percent as effective
+it's pretty obvious which one you're
+going to choose on top of that getting
+access to medical data is extremely
+difficult because there are all sorts of
+regulations around how medical records
+and patient data are shared this data
+can't be bought and it's very very hard
+to obtain so insight surgical doesn't
+keep any of the video footage and they
+use computer vision to blur out the name
+tags and faces of everyone in the
+operating room so it's totally anonymous
+i think it's important to mention this
+because it's a great example of
+collecting data in an ethical way that
+ultimately benefits the patient and the
+hospital staff another thing is that
+while the data that microsoft has on
+headscans is not especially easy to
+access the resulting product that came
+out of that data is not hard to copy so
+any competing company can just sort of
+get a hololens and copy the way the
+weight is distributed copy the materials
+and padding placement and copy the way
+that the heat is diffused a competitor
+could get the benefits of all of the
+research that the microsoft team did
+without having to do any of the work so
+while the data does give them an initial
+competitive advantage it can quickly be
+copied it's still worth it for microsoft
+and other companies in the long run
+because they're always going to be one
+step ahead of the competition but it's
+not quite as valuable as the data that
+insight surgical has for their computer
+vision anyway if you made it this far
+into the video you should totally
+subscribe it's free it helps me out and
+you can always change your mind later on
+to the rest of the video
+zinger is another company that runs
+thousands of simulations in order to
+optimize the strength to weight ratio of
+various components for their hyper car
+this hyper car is built using several
+computer generated simulations that rely
+heavily on data this allows the
+engineers and designers to come up with
+shapes that a human probably would never
+have thought of nike is another company
+that's investing heavily in data to
+determine the outsole structure and
+pattern for some of their highest
+performing shoes data will enable more
+customizability and personalization for
+each user nike made a customized outsole
+for each of their athletes unique foot
+shapes and running event and it helped
+their team win 45 medals during the 2016
+rio olympics it's getting to a point
+where data not only informs how to
+design something but also what to design
+in the first place so xi'an is a great
+example of this they're the biggest
+fashion brand that you've never heard of
+unless you're their target demographic
+of teenage girls which pretty much none
+of my viewers are the company is
+currently valued at about 15 billion
+dollars their strategy is super data
+heavy and as a result they're
+aggressively taking market share from
+the big fast fashion players like zara h
+m and forever 21. they do this by
+analyzing data from social media and
+other trending search terms so if a
+video goes viral of a girl wearing a
+stylish outfit or top sheen will
+immediately contact one of their
+factories to make a copy of the garment
+the factory will do a limited run of 100
+units and see how the sales go based on
+how fast the first few units sell they
+decide whether or not to create more of
+them other companies do this too zara is
+a big one but to be fair there are a lot
+of issues with xi'an's business model
+and pretty much any fast fashion brand
+they often copy other designers work
+without compensating them they have
+questionable quality and safety
+standards in their factories there's a
+massive amount of environmental waste
+that comes from these brands the ethics
+of xi'an as a company are definitely
+questionable don't get me wrong but they
+clearly have developed a system that's
+really really heavily data driven and i
+think it's a great case study on how
+data can inform product design decisions
+the way that xian collects data is also
+very controversial and it's hard to talk
+about data without talking about privacy
+issues this is usually good for the
+business but it's not always good for
+the end customer a lot of companies are
+taking more data than they need to and
+even selling to third parties or using
+it to influence your decisions and
+purchasing habits in a negative way
+without your knowledge or permission
+more recently apple created a new
+feature on their phones where you can
+decide whether it's okay for certain
+apps to collect track and sell your
+usage habits this totally destroyed
+facebook's revenue and data tracking
+capabilities because they rely very very
+heavily on this information
+not only did facebook lose a ton of
+money on this but their stock price
+plummeted about 26 percent after it was
+reported that fewer people are using
+facebook now there are a lot of reasons
+why fewer people are using facebook but
+the issues they've had with data
+collection is definitely no small part
+of that the same data collection methods
+that turn them into one of the biggest
+companies in the world is finally
+catching up to them the lesson here is
+that companies really need to be careful
+about how the data they collect affects
+their customers so how do you know if
+you've taken your data collection too
+far as a company well i think a good
+starting point would be to ask my users
+and myself two questions number one is
+the data that i'm collecting benefiting
+the customer or is it really only
+benefiting my business's bottom line
+if it's not explicitly benefiting the
+user's experience in some way you
+probably shouldn't do it it might work
+out in the short term but you run the
+risk of having the same issue that
+facebook has recently had and number two
+just tell your user what kind of data
+you're collecting and how you're using
+it in a transparent way and ask him if
+they're okay with it and i don't mean in
+a dense privacy policy that nobody reads
+i mean in real human simple terms data
+collection can be unethical but it's
+just a tool and it's a powerful tool
+that's not going away so rather than
+trying to demonize it we should instead
+focus on how we can collect data that
+actually benefits the end customer
+anyway thanks for checking out the video
+don't forget to subscribe and hit the
+little bell icon to get notified about
+when i post my next video and don't
+forget to smash that like button and all
+the other youtube cliches that youtubers
+say but really all that stuff really
+does help me out so i appreciate you
+have a great day

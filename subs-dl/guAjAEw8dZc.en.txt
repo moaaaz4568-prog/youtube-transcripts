@@ -1,0 +1,335 @@
+[Music]
+hello everybody and welcome to analyzing
+finance with nick
+and in this video i'm going to be doing
+a presentation on exotic options
+and what they are and why they matter
+first just get really started with it
+exotic options are basically a equity
+derivatives contract but they can be
+used for
+futures and currencies as well
+that doesn't have the normal strike and
+payout mechanics of a european or an
+american option
+a european option is an option that
+has a fixed strike price
+uh whether up for put it's a fixed price
+to sell a call a fixed price to buy
+and
+you can only exercise it on the day of
+expiration so
+you could sell it if you want to take
+the profits beforehand and exit the
+position
+but you cannot exercise it until
+the last day of expiration whereas an
+american option is the same as european
+options if you can exercise it
+anytime
+but for anything that doesn't fit in
+those two categories it goes into the
+big bucket of exotic options
+first of these we're going to talk about
+are asian options
+and an asian option is really just where
+the payout is based on the average price
+of the stock over a duration of a
+contract and therefore
+is less path dependent than european or
+american options
+let's just do an example of this say
+if
+i buy
+an option american option an apple with
+a strike of 100
+and even though
+it trades at 90 dollars for 89 of the 90
+days the length of the contract if it
+has a good earnings report and it goes
+from 90 to 120
+my profit on that position is 20 minus
+the strike
+it's just whatever it is at the end
+whereas
+if i did the same thing with an asian
+option
+and i bought 190 day option and for 89
+of those 90 days
+the stock is down it for the 100 strike
+option the stock is at 90.
+but on day 90 it goes to
+150
+just say for example like the best
+earnings report of all time
+the problem is you're still going it's
+still going to expire worthless that's
+if it's the asian option because the
+average price
+is only
+90.66 over that 90 days
+even though it this if close is well
+above the strike
+so this is like if you are confident
+that
+a stock could hold its value but you
+don't want like a bad exogenous shock
+to mess up your payouts
+which is kind of weird because
+it seems like that would be more of a
+way a way to immune place it short
+volatility even though this is
+technically a long ball instrument
+i'm trying to think out what the
+scenario you would use this for
+i think that would i think that might be
+it
+you're just worried about like like
+like some sort of exogenous shock that
+can mess up the average towards the end
+of the contract they have a defined
+event that you're worried about but you
+think
+you the company will do well prior to
+uh
+yeah i mean it could does remove path
+dependency
+which is the one of the
+risks of derivatives trading
+but
+i mean again it's and it's unlike
+selling options you don't it's like you
+don't have unlimited loss so i guess it
+could be a way
+to effectively
+synthetically sell ball
+without
+losing or you think that the price rise
+is going to be gradual because i assume
+given the risk of the average price and
+limiting the the last minute path
+dependency in your favor
+you probably are going to pay a lower
+premium
+next one is bermuda options
+which are a hybrid between european and
+american options whereas a european
+option i explained before you only can
+exercise a day of expiration and
+american is any time a bermudan
+is a fixed range so say like you could
+structure a bermuda option say that you
+only can exercise between
+10 days before the
+the option expires in expiration or from
+day 20 to 45 on the contract or whatever
+way you structure these again the thing
+i've noticed with these exotic options
+is that they're not commonly listed on
+exchanges they're usually done over the
+counter
+uh for institutional clients
+so
+that's why it's called bermuda because
+it's kind of a hybrid model between the
+limited ability to exercise the option
+of europe
+and the unlimited in america and bermuda
+is an island about a thousand miles off
+the coast of north carolina which is
+conveniently between america and europe
+in the atlantic ocean it's also a place
+on my bucket list to visit one day
+the next type of exotic options we're
+going to cover are spread
+barriers and binary options and i'm
+going to get more into barriers when i
+talk about knock-in and knockout options
+on the next slide
+but to make things simple a barrier
+option is really
+an option that
+doesn't have
+take place or
+you don't really have any exposure to it
+until it hits a minimum threshold
+there could be knock in barriers where
+it only comes if the stock breaks
+through
+the given strike
+or knock out barriers where
+you get paid unless if it fails
+to stay above or below a certain barrier
+these are more commonly used in overseas
+markets for reasons that i will explain
+the next slide
+binary options are the financial
+equivalent of a sports bet
+they pay out a fixed amount if you're
+right and expire worthless that you're
+wrong it's like say for example you bet
+on a
+team winning a football game by more
+than seven points if they win by more
+than seven line seven you win more by
+seven you get paid
+two to one and if they don't you get
+nothing and that's kind of the same with
+binary options the ratio may not be the
+same as a sports bet instead of
+point spread obviously it's like a fixed
+price of the asset that you're betting
+on binary options you see a lot of
+advertisements for binary options
+among retail people because they're kind
+of the closest thing to
+gambling
+and that's why they're very risky
+because it's kind of all or nothing
+and that's not really
+in the in the range of investing that i
+typically will pursue
+and then the spread options which are
+probably the most useful of the exotic
+options that we've covered so far
+and that's basically instead of betting
+on
+a single underlying asset this allows
+you to
+basically put a trade on for a specific
+spread between two underlying assets
+uh example say like if i wanted to bet
+on the five-year
+to 30-year treasury spread to narrow
+i can just buy
+a put option on that spread versus
+having to buy a call on one side and put
+on the other
+this allows probably for easier
+liquidity and
+smoother transactions
+it also just makes it a cleaner
+trade you don't have to worry about
+a lot of the greeks underlying as you
+know on each variable they're just all
+kind of consolidated together
+there are certain things that if you
+want to make a certain prediction on an
+economic outlook
+it's better to bet on a spread
+or if you're trying to capture relative
+value
+the spread is also it's kind of like
+pair trades in equity
+and then or basket and knock in knockout
+options
+i did talk about these because knocking
+and knockout options are types of
+barriers
+a basket option is like an option
+instead of on one underlying
+asset it's a basket
+so say if i wanted to basically bet that
+you're not gonna get chaos
+in the north american stock market
+so i can
+have a knockout option
+a basket option a knockout option of
+the use smp the tsx and the mexican
+stock exchange
+and i the the payout can be designed
+i get paid if these
+all stocks move up more than a certain
+amount each or if one hits a certain
+threshold or if all three hit a certain
+threshold or two out of the three
+and you could customize this in any way
+and this is very common among wealth
+management firms
+across the world
+as the yield you get from taking the
+other side of these like basically
+betting not on a crash on a local stock
+index or two or three different
+countries combined
+is higher than the yield you get on
+buying the local government bonds so
+they collect this premium
+and usually it works but if one of the
+let's say if the stock markets you're
+selling has a bear market crash
+then the amount that you have to foot
+gets really high and
+the reason why maybe speculators want to
+buy this
+basket is one they may not be sure
+depending on the construction of an
+index that maybe one relatively performs
+better for some exogenous reasons such
+as nasdaq's heavily concentration tech
+or
+you get cheaper premiums doing it this
+way as a basket
+versus if you did it
+an individual basis
+so why
+use exotic options
+i kind of was going into this throughout
+explaining the pros and cons of each of
+these
+but the general reason why you would
+want to use an exotic option
+is
+if you can get a lower premium
+and be able to make a similar bet you
+would with a regular option
+which are called vanilla options
+at the same price
+they also may have certain features that
+could be useful
+and if you're selling options maybe some
+of these will pay out a higher actually
+maybe more expensive and so they'd be
+better of all selling trades
+i've never traded an exotic option in my
+life so i don't have much hands-on
+experience
+with these
+they
+are used in the marketplace they're just
+not as common as the general american on
+european options that are listed on
+popular exchanges
+if you need a specific type of payout
+or if you think you can get a better
+price
+and increase the risk ratio on whatever
+type of hedge or bet you're trying to
+put on with using these then there could
+be an opportunity there
+but i just think in general it's just
+it's a good thing for people to know
+about because
+there are other ways that you can
+construct a similar viewpoint beyond
+just
+a simple option structure or underlying
+and then you also have strategies which
+are combinations of options which
+i can do in a separate video
+that is of interest to viewers
+overall
+thank you for watching
+and if you like what we do on this show
+feel free to like and subscribe and hit
+the notification bell
+as i with any other video that i do
+nothing on this is investment advice
+there are no specific trades i'm
+suggesting in any of these videos
+including this one
+please do your own research or have your
+financial advisor help you do research
+before making any investment decisions
+thank you for watching and good luck out
+there in the marketplace

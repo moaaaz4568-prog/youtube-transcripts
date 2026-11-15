@@ -1,0 +1,1050 @@
+I'm Corey, and today we're
+going to look at five
+completely
+free
+open source repositories on
+GitHub that you can
+turn into a
+money-making service, even if you
+don't know how
+to program, even
+if you have
+minimal experience.  And
+I'll show you a new
+tool that will
+help you find
+clients and
+potential clients to
+whom you can
+offer this
+service,
+using
+artificial intelligence.
+So, this will be a
+dummies guide on how to
+make money
+with these
+repositories on GitHub.
+So, this is actually a
+guide after all.  We
+look at one of
+these free
+repositories on GitHub,
+we have Claude's code, we
+run a
+backend or a service
+under it, you sell
+the result to the
+business owner, because we're not
+selling artificial
+intelligence, we're selling a
+specific result
+.  We're going to
+figure out what that
+outcome is, and then we're
+using a new
+tool
+called treg.to to
+find a buyer.  And Treg
+can connect
+directly to Claude,
+so we can
+literally ask
+Claude to find us
+potential customers
+that we're going to
+sell to.  So, we're
+going to look at
+each repository,
+each offering, what it
+does, what you're
+selling, who's
+buying it, and a fair price,
+not some inflated
+idea, but a realistic
+price that you can
+charge, and where the
+leads are actually coming from.  And if you're a
+non-technical
+person and all you have is a
+laptop and
+cloud code, you
+can do it.
+So, the first one we're
+looking at
+is called Scraping.
+So this is a
+GitHub repository, and we're going to
+put all these
+repositories, uh,
+links to these
+repositories in the description
+below so you can
+literally one-
+click your
+way straight to them,
+but this is Scraping.  It is
+free and
+open
+source.  This is, um, a
+web
+scraping framework.  And what
+Scraping does is it's a
+free scraper
+that overcomes
+bot walls and keeps
+working even when the
+site
+changes.  So, a
+huge problem with
+websites, uh, with
+other web
+scrapers, is that
+as soon as the site
+is updated, the
+scraping tool
+stops working,
+but scraping
+practically solves that
+problem.  We sell
+products to
+Shopify and D2C brand owners who
+have 50 to 500
+different products in
+stock, generating
+$1 million to $10 million per year, and
+have at least
+three to five named
+competitors because
+we sell them a
+weekly competitor
+pricing and inventory report
+.  So we're
+going to scrape the
+websites of five of their
+competitors,
+put their
+information into a Google
+Sheet, and then
+notify our
+client every time
+the price drops or every time
+they
+run out of stock.
+The result that
+the buyer or
+our client gets in this
+case is that
+know within minutes whether a
+competitor is lowering
+the price or selling out,
+and this helps
+our client
+re-value their
+inventory to avoid
+losing a sale.  So
+this is something you can
+easily sell for
+$500 to
+set up and then
+$300 a month
+to maintain it
+for your client and
+your costs
+would be
+around $40 a
+month for simple
+proxies and a
+small server.
+So, if you have 10
+clients, you can
+make about
+five thousand dollars
+on setup and
+about three thousand
+a month in
+recurring income.
+So, here's how we're
+going to find
+.  We are going to
+use Tregg.
+So, again, Tregg
+has released their new
+people search feature,
+and I am in no way affiliated with them
+.  I just
+think this is probably the
+best tool
+on the market for easily
+finding verified
+contact
+information for
+any company anywhere
+, right?  So, they kind of
+call themselves
+Clod for people search.
+So you no longer
+need an
+Apollo subscription, a Hunter subscription, a
+People Data Labs subscription.
+You don't need any of this
+.  Tregg People Search
+will pull data from
+over 60
+vendors
+using a single MCP,
+so you can
+connect Tregg to Clod and
+get verified
+contact information
+from all of these
+tools, and I'm
+sure it
+will cost around
+0.8 cents per record.
+So, it's incredibly
+cheap and incredibly
+accurate because it
+filters through all the other
+providers
+I mentioned without the
+need for
+individual
+subscriptions to each of
+these tools.  You are
+actually paying for the
+result.  So, we're
+going to
+use
+Tregg's people search to
+find companies that are
+currently using
+Shopify and have between 5 and 50
+employees in the US,
+because that will give us a
+good idea of
+what kind of revenue they're
+generating.  If they have
+5 to 50
+employees, they are
+probably generating
+at least a 7-8 figure
+annual revenue.  We are
+going to look for
+founder,
+owner, or
+e-commerce manager positions
+at these companies.  We're
+going to take
+verified
+emails and
+then send them
+a screenshot of
+their competitors' price cuts
+using Scrape-N-Link.  And
+if we send,
+you know, a few
+hundred to a thousand or
+more
+emails, we'll get
+a few
+qualified leads
+and a few
+qualified
+calls on the calendar.
+So, if we can
+get, like I
+said, 10 customers, that's
+about three grand
+a month for
+about 10 hours of
+service a
+month.  This is a really
+good first
+option to start with.
+And we'll move on to the
+next one.  So, the
+next one
+is called Dify.  This is
+something where you can
+create a
+guide bot.  So what does it
+do in this
+case, and here's what the
+GitHub repository looks like.  So, it's
+called Dify.  This is
+again a completely
+free,
+open source product.
+It has 156,000 stars on
+GitHub.  So many
+people
+like him.  It is
+gaining momentum.  It
+allows you to create
+production-ready agent
+solutions based on
+artificial intelligence.  In
+this case, we will
+sell a
+private chatbot
+trained to work
+with corporate
+standard
+operating
+procedures,
+handbooks, or
+price lists.  You
+can update
+it monthly
+as your
+regular service
+changes in the
+documents.  So,
+the buyer or your
+client gets
+such a new
+chatbot that staff and
+any new
+hires can
+request answers
+in seconds,
+instead of having to
+the owner or their
+manager.
+Thus, the adaptation process
+is reduced from
+weeks to potentially
+days.  The reason
+Diffy works so well in
+this situation,
+compared to how it is
+done in Chat GPT,
+is that
+many companies don't
+want their
+internal documents to
+be available to OpenAI
+, right?  So you
+can pay
+$59 a month for what's
+called Diffy Cloud, where
+you can essentially
+host this on
+your own server and
+sell it to
+service companies
+that have 20 to 100
+employees with
+turnover,
+right?  These will be
+home service companies,
+property management companies,
+insurance companies, and
+recruitment companies
+.  These are
+companies that
+typically have a large
+number of
+employees but
+frequently change their
+staff.  Therefore, they are
+constantly hiring
+new employees
+.  They are constantly
+hiring new
+employees.  And we will
+be able to charge a
+setup fee
+of $1,500
+plus $250
+per month to
+maintain it and
+update the bot as
+their
+documents and
+processes change.  And you
+can even bill
+the client for Dify
+Cloud for that $59
+per month with one
+instance per
+client.  So, your out-of-
+pocket costs are practically
+zero, except for what
+you are going to
+pay for prospecting
+with Tregg.  So
+, again, if we were to
+Tregg people search, we
+could be looking for
+home care
+or
+property management companies, anywhere from 20 to
+100 employees, and
+we would actually be
+using Tregg
+to collect
+job postings,
+right?  We can
+collect information from
+companies that have
+three or more
+open positions,
+because companies with
+positions are obviously
+hiring right now
+, and
+they have this
+pain point right now.  So,
+we can search for
+the positions of Owner,
+COO, and
+use Tregg
+to get their
+email addresses and
+phone numbers.  And
+then we can
+just ask
+the people we
+talk to,
+like, "How often do
+people ask what's
+already in your
+procedures?"
+For example, "
+Mr. Owner, how often does your
+new employee
+ask you about something
+you've already covered in
+your documentation?"
+And the answer 80% of
+the time is, "Oh, I
+get questions like that all the time.
+"  So this is a
+real sore
+point.  If you can
+get 10 clients
+using this
+open source GitHub repository, that's
+$15K to
+set up and
+$2,500 per month in
+recurring revenue.
+Now the next
+option is probably
+the best for
+anyone.  And I'll start by
+talking about the price.
+Because this
+particular
+GitHub repository
+called Open SEO, which
+if we
+look at Open SEO again, is
+relatively new.  It
+already has almost 19,000
+stars on GitHub.  Open SEO
+practically replaces
+SEMrush.  And SEMrush is something like a
+premium
+SEO tool
+costing $250
+per month.  So Open SEO
+gives you all the
+power of SEMrush for…
+about $10
+a month, uh, for a
+hosting fee,
+right?  So, it's very,
+very cheap
+compared to the same
+performance
+you would get from a
+paid tool like
+Semrush.  And the
+reason I
+like this tool so much is
+because so
+many people
+are trying
+to figure out their
+AEO and GEO strategy right now to get
+mentioned in ChatGPT and
+AI chatbots
+.  So you
+can sell an audit
+for $499, or as it's
+called, an
+assessment as an input.  And I
+like the
+assessment model.  If you
+guys have been watching
+me or listening to
+me for
+any length of time, you
+know that grades are
+my daily bread.
+So I think this is
+probably the most beginner-friendly
+offering and the
+most
+beginner-friendly
+repository to
+use in
+this entire episode
+because we can
+sell the audit as a
+first step for
+$499 and then we
+can
+sell the
+SEO visibility report and the plan on a monthly basis.
+So, we actually
+sell them a
+monthly
+two-page
+scorecard with
+the rankings of 30
+keywords, the exact
+number of clicks
+they're getting on Google,
+their top...three
+competitors, a
+Google Business Profile audit, and
+then three
+recommended
+fixes.  So, this is the
+monthly result
+.  Because Open SEO
+shows you
+your website ranking,
+how many
+backlinks you
+get, it can
+audit
+your site, it
+can, um,
+audit your
+Google Business Profile, and it
+can show you where
+you rank in
+search engines
+with artificial
+intelligence.  So, he'll
+do all of this for
+us for about
+$10 a month.  And
+just a quick
+note
+regarding auditing,
+right?  Some people
+might hear this and
+think something
+like, “Oh, that’s great.
+I love doing this, but
+how exactly do I
+audit a company?  How do
+I position
+this front-end
+offering? "Well, at the
+AI ​​Operator Academy,
+which is our school
+community, we
+teach audits as
+offerings at
+the beginning, and we
+actually sell
+audits for $1,000.
+We help our
+members sell
+$1,000 audits
+because that's the first
+step to all
+the offers you
+hear in this episode
+and other offers.
+So if you get really
+good at
+selling and
+positioning an audit,
+you can sell
+almost anything because with an
+audit, you get paid
+to
+figure out what to
+sell them next.  So,
+if you are interested in
+learning how to
+sell auditing
+and other offerings,
+join us at the
+AI ​​Operator Academy.
+This is one of the main
+things we
+teach and one of the
+main things
+our participants are
+successful with.  You
+can join
+at aoa.community or
+follow the
+link in the description
+below.  In this
+case, the buyer
+pays to
+find out whether
+they are winning or losing in
+local search results and to
+know exactly what to
+fix.  Right?
+So, again, We do
+n't take a fortune from them
+.  We charge
+them $199 per
+month.  This is less than
+they would pay if they
+were subscribed
+to SEMrush themselves, and they
+have us
+deliver
+it for them every month and tell
+them exactly what needs to be
+fixed.  So, we're
+going to sell
+this to local
+who are already paying for SEO
+or who are already paying
+for Google Ads or Meta Ads but
+don't have reliable
+reporting.  Right?
+Many of these companies
+agencies to
+run their
+advertising and
+marketing, but they
+don't get
+reliable reporting.
+They don't really
+know what's
+going on behind the
+scenes.  So, these are
+companies like
+dentists,
+law firms,
+heating,
+ventilation and
+air conditioning companies, or medical
+spas.  So we're
+use Treg
+to find
+HVAC companies with 5-30
+employees in
+urban areas.  We
+can check
+each domain through Open
+SEO before we even
+send an
+email.  And in
+our cold
+email,
+we can literally
+give them the three
+worst conclusions.
+For example: “Hey, here are the
+three biggest, uh,
+gaps in your SEO
+strategy.”  "
+Using
+specific numbers so
+they know it's a
+legitimate discovery because
+you can
+provide them with proof first."
+Once they see
+the proof, you will be given
+permission to
+present.  So,
+if you have 10 clients,
+that's $1,990 in
+recurring income
+per month
+for about 10 hours of work
+each month.  Next we have
+Open Shorts.  Open Shorts is
+another new
+repository on GitHub, with
+almost 5k stars.
+What is he doing?  This is
+similar to the open source version of Opus Clip
+.
+Right?  It is an
+open-source
+AI-powered video platform
+that can
+generate clips,
+AI-powered shorts, and
+can assist you in
+YouTube Studio.  Here is an example of an
+original clip
+created by Open Shorts.
+It's essentially a vertical
+video and then added the
+trendy subtitles
+you see on
+social media.
+This is a really cool
+repository.  Again
+, this is essentially an open
+source version of Open Clip.  It
+will select the best
+moment of a long video,
+crop the vertical
+clip, add
+subtitles, and it
+will cost you
+a penny per view,
+if that.  Many
+people might
+see this and
+think: well, okay, would
+n't the client
+use Opus Clip?
+Not necessarily because
+if they're not already
+trimming their
+long-form
+content, they're
+not doing it, they're
+obviously not willing
+to learn it.
+For example, this is something
+you can simply
+do for them as a
+favor.  So you're
+selling for every
+episode they
+do, if it's
+someone who's already
+recording
+content or already
+appearing on
+podcasts, you can
+provide eight to
+ten subtitles per
+episode curated by
+you, right?  So you
+will obviously
+guarantee their
+quality and
+make sure that these are
+really good clips.
+You will create
+prefixes.  You will
+schedule them
+to be published on TikTok, Reels,
+and Shorts.  So, buyers
+get 30 to 40
+short
+videos per month,
+depending on the content
+they already
+record.  So they don't
+need to do
+any extra
+work.  They don't
+need to spend
+time editing.
+They don't need to
+spend extra
+time recording.  You
+can sell this to
+experts who are already
+long-form videos
+but don't have any
+clips yet.  These are people
+like realtors,
+consultants, lawyers,
+coaches, and
+podcast hosts.  So again
+, we're going to
+to find people
+posting
+video editor or
+video editor jobs.  So these will be
+people who are literally
+already looking for this
+service.  And we can
+look at the
+podcast charts to find
+people who are
+podcast hosts who already
+have over 20
+episodes, but they
+don't have
+videos and they don't have
+YouTube, um, or they
+don't have videos and they
+videos on YouTube.  So we'll
+be looking for a
+host, founder,
+CEO in terms of
+title.  And then we
+can send them
+three free
+clips from their
+latest episode
+as proof so we can
+earn the offer
+.  And we will
+charge a fee.  they're
+about $400 a
+month for four
+episodes, essentially to
+repurpose
+four episodes a
+month.  This will take us
+approximately 3 hours
+per month per
+client.  Opus Clip costs
+$29 a month,
+but we don't sell
+software, we
+sell curation
+and the actual
+publishing that goes with it
+.  So I think
+this is also a very
+good
+entry-level offer
+that
+anyone can offer
+, especially if you are
+new to this business.
+You don't need to know
+how to program, you
+just need to
+know what a
+good clip looks like.  Now the
+last one on our
+list is called
+Presenton, right?  So,
+this is one that can
+create
+presentations for
+sales teams while
+they are literally still
+working on the
+call.  So, it was the
+number
+one trending repository of the day on
+GitHub at the time.  It
+has over 10 thousand
+stars.  It essentially
+positions itself as a
+competitor to Gamma, Canva, or
+Beautiful AI, which has an API.  Not
+so much a competitor as an
+alternative
+, right?    An
+open source alternative.  So
+, this is... something like an
+open source version of Gamma.  It will
+convert a form
+or document into an
+editable
+PowerPoint presentation
+tied to your
+brand template.  And
+it has an API, so we
+can build
+a lot of automation
+around it.  So, we
+company brand presentation as a
+template plus a form
+so that a sales
+rep can either
+fill in a few
+fields and output a
+branded
+PowerPoint proposal, or
+we could plug in
+automation that
+takes a recording of a
+sales
+rep's conversation with a
+prospect
+and actually feeds
+it into Present to
+automatically
+generate
+a proposal.
+Right?  So
+the buyer receives
+the offer the same day
+, instead of
+waiting two or three days for
+marketing to
+process it.  Each
+presentation will be about the
+brand.  There is no designer in the loop
+, so you
+can process
+quotes
+much faster, and it will
+also help them
+close
+deals faster.  So we're
+this to sales teams
+that send 20 or
+offers per month.
+These will be contractors,
+agencies,
+recruitment companies,
+events and commercial
+real estate.  We
+can charge $2,500
+for
+setup and
+$200 a month for
+hosting a
+template fix tool
+every time they
+have issues with their
+templates, while
+competitor Gamma
+will charge
+$400 a month for
+10 jobs.  So
+we charge less than
+half the cost of Gamma
+, and we can
+justify the higher
+setup fee by the
+fact that it will
+directly
+increase revenue.  The
+faster we can
+process
+quotes, the
+faster we can make
+money.  So, again
+, we can
+use Trak and
+look for job openings for
+people who are hiring
+proposal writers
+sales coordinators.  We can
+look for companies that
+have between 20 and 200
+employees in the
+industries I just
+mentioned.  The positions
+we are targeting are
+Vice President of
+Sales or
+Sales Operations.  We
+will ask for their
+latest proposal
+and literally
+rebuild it on the
+call in front of
+them.  So it will be very
+attractive and, in essence,
+immediately prove to them that what
+we are showing is
+valuable.  So if we
+can get
+four clients, that's
+...$10k to
+set up, and then
+$800 a month in
+If we were to look at a
+scoring system,
+evaluating all the
+offerings
+we've talked about so far, as I
+said before, I would
+start with the
+Open SEO repository because the
+local SEO scoring system that we
+can sell to
+local service
+companies for
+$199 a month
+is probably the
+simplest
+offering.  And we
+can literally
+first invite
+Open SEO to do an audit,
+which we sell for
+$500 as our
+front-end offering.  So, if I
+were you, I
+would stop here.  I would
+screenshot
+this so you can have a
+very quick
+comparison of the two and
+essentially choose
+the repository that
+you are most comfortable
+working with in
+the future and
+start this business
+because this is a business that
+anyone can start, anyone can
+scale,
+even if you are a
+beginner, even if
+you don't know how to
+program.  Now,
+for the next steps,
+I encourage you, as
+you watch this or
+listen to this, to choose
+one repository
+tonight.
+Use
+Treg people search to
+get 100 leads and
+send 10
+emails
+tomorrow.  You could
+do all of this in less
+than 30 minutes.  Then
+set up Treg in Cloud Code to
+do this so
+that you can
+literally give it a
+text query and
+it will output a list of
+contacts.  And then again
+, when you're
+ready to turn
+this into a more serious
+AI business
+, and if you
+want to learn how
+to monetize AI services in
+other ways, and
+you want to have a
+community of over 300
+people around you
+who support you,
+learn
+directly from me,
+directly from
+other people in the
+community, doing this
+at a high level, I
+invite you to
+join the
+Again, it will be
+aoa.community, or you can
+join via the
+link in the description.
+Thank you very much for
+watching, and I'll be
+back soon.

@@ -1,0 +1,2886 @@
+Hey, what's up everybody? AJ Cassata here with
+my good friend Jack Austin and really excited
+for today's podcast because this is going to
+be all about AI for business in 2026. You know,
+what's working now, how specifically we're
+using it in our companies and how you can use
+it in 2026. Things to look out for and then
+also some other fun stuff along the way. So,
+uh, welcome Jack. It's great to be here, man.
+And I know we've been planning this for like
+two or three years. Three years, I think. Yeah.
+We keep saying we got to do podcast. We got to do
+podcast. I mean, we live right down the road from
+each other. So, I'm glad we could, uh, could make
+it happen. Finally here. So, yeah, I'm excited for
+it, man. It's going to be good. Totally. So, just
+to introduce for anyone who doesn't really know um
+you know why we're talking about AI. First of all,
+Jack is an absolute AI expert. Most of what I
+learned I've learned from him. Um he was actually
+one of the he joined Jeff Hunter's program which
+is really the first guy to like teach people about
+how to use AI for business many many years ago.
+And Jack quickly rose to be one of the top AI
+consultants in the program. He's helped hundreds
+of businesses integrate AI in their operations.
+And me as well, I run a B2B marketing agency,
+Revenue Boost. Uh and we help all of our clients
+implement AI across their marketing lead gen
+process. And we just use a lot of it internally.
+I mean, right now we're doing what we could do
+with like 20 people with just like 10 people on
+our team and um a lot of that's just due to
+AI and what I've learned also from Jack. So
+excited to uh dig into it. Yeah. And I like what
+you said there is like you've got 10 people doing
+the work of 20 people because there's a lot of
+hype out there at the minute where people say,
+"Oh, I've got like one person and they're doing
+the work of 30 people." And I think that's one
+of the things we're digging into today is like
+where should you use AI? Where shouldn't you?
+Like where's that line? What can it actually do?
+And what's just like guru hype as well? Yeah,
+totally. And I think there's definitely a lot of
+hype and a lot of like people overdoing it, which
+we'll get into, right? Um because I think a lot
+of people it's I think I feel like it's stressful
+for a lot of people because they think like I
+need to have all these 40 tools like every day
+there's a new tool that comes out, right? Um but
+it's like you'd only like I'm only using a few,
+you know, on most days, but um we can definitely
+talk about that in a in a but overall I think it's
+a lot simpler than people actually make it out
+to be. Yeah, totally. I think there is a lot of
+misinformation to try and sell SAS out there and
+you know school groups. Yeah. Yeah. Like anything,
+pick one thing, get really good at it, figure out
+all the things it can do, and then try and find
+the next thing that makes sense, right? Yeah, for
+sure. For sure. So, um, before we get into that,
+let's talk about some fun stuff. Let's just see
+kind of where we are, state of union with AI. So,
+right now, it's February 2026. Um, some cool
+things I've noticed recently, um, in terms of
+AI. First of all, just the other day, the stock
+market went down a fair bit. Uh, specifically,
+a lot of software stocks are selling off. Um,
+and people believe that's because investors are
+worried about AI just disrupting SAS because cloud
+code is now just becoming like a huge thing. Um,
+so that's pretty wild. Then there was um, uh,
+Moltbot, that AI that was freaking all over
+my Facebook feed, my LinkedIn feed. Everyone's
+talking about Moltbot. And then a couple days
+later, they got like threatened to be sued by
+Claude because they use the same. So, first it was
+Clawbot, then it became Moltbot because they had
+to change their name. And then now it's OpenClaw,
+and I think they're in the middle of rebranding
+to like Cheesebot or something. No, I made that
+last part [laughter] up. Uh, and then there's
+Moldbook, the social media where now AI's act,
+we're actually seeing AI interact with
+each other for the first time. So, yeah,
+a lot of cool stuff happening right now. What do
+you want to talk about first? Yeah, I mean, the
+Maltbook one's an interesting one. I think that
+it's crazy that we're at this point where we've
+got like an AI Reddit going on. Have you have
+you read any of the stuff on there? It's wild.
+Yeah. Have you had a look into any of it? It's
+like, have you seen what these guys are talking
+about? Some of them are like, are you living in
+your operating system or are you fulfilling like
+what you should really become and the humans
+think we're going to try and take over and all
+of this crazy stuff. But I I wonder is it just a
+massive marketing ploy for for OpenClaw? You know,
+because OpenClaw is this new tech that can do all
+this cool stuff like access your emails. The other
+day, um, I'm using this new AI software from one
+of my coaches, and I'd run out of credits on it,
+and basically he just sent a text on Discord to
+this Open Clawbar, and it went into his system
+and put the credits on my account while he was
+out. So, there's some cool use cases like that.
+But then also, the guy who's created it has been
+kind of called out for losing loads of people's
+API keys and all of this kind of stuff. For sure.
+I mean that's yeah that's the biggest concern is
+like security concern because basically like for
+anyone who doesn't know it's it's basically like
+to oversimplify it it's an AI that can basically
+go on your laptop and just have access to all your
+stuff whatever you give it and just do stuff for
+you which is pretty cool because it's you know
+people interface with it through like WhatsApp
+or Discord like you said. So like in theory
+it's great like I can just open up my phone go to
+WhatsApp and be like hey can you send an email to
+this person or hey can you make this counter event
+or hey can you go like buy this right? Um, and
+someone actually had they posted this thing where
+like they post on Instagram where their AI went
+rogue and accidentally bought a $3,000 course,
+which definitely seemed like BS. I think it he
+was just doing it again as like a viral post. Um,
+but anyways, yeah, it's a huge security concern,
+right? I think a couple thousand people like lost
+their um API keys or got hacked or something.
+Yeah. Yeah. The owner of the or the guy who set it
+up, he lost like hundreds of thousands of people's
+API keys and depending on what's in there,
+right? say if you've got 11 labs API keys and
+other things like that. You could take someone's
+voice, someone's likeness. There's all kinds of
+security concerns around that area of it. So,
+I've not done it yet. I've not dived in there and
+I I have to say I'm one of these AI experts that
+I'm not in a million tools. I'm not like on that,
+hey, here's the latest hype thing. Like I remember
+when V3 came out and I know some people were very
+successful, Jeff being one of them, of making ads
+and doing all of this stuff and I was sat there
+at like 1:00 in the morning making weird meme
+videos of like an old tea advert in the UK and
+I just sat there and was like, "What the [ __ ]
+am I doing? What am I doing? It's like 1:00 in the
+morning. I've got all these other projects that
+I could be working on and I'm sat here [ __ ]
+around with like some video production software
+that I paid 200 $200 a month for. I canceled it."
+And I think that's the thing a lot of people
+get lost in. It's like just tools and it gives
+you another way of like hitting dopamine, right?
+I've got this [clears throat] new tool. I've got
+this new thing. It's like AppSumo, you know, the
+same kind of vibe. Too many tools and Yeah. So,
+oh yeah, I think last Black Friday or the previous
+one, I bought like a bunch of things on AppSumo,
+maybe like 10 or 15 different things that all seem
+like great deals. This was like shortly after AI,
+you know, got popular. So, I bought all these
+cool AI tools on AppSumo and then I look back
+and I'm like, I literally haven't opened any of
+them. So, at that point, I just deleted AppSumo.
+Yeah. Yeah. I think I made a joke on your Facebook
+and got banned for from Facebook for it as well at
+the time about an app sumo habit. Yeah. Yeah.
+Yeah. So that was fun. [laughter] Oh yeah. I
+think you made it like a drug reference like it's
+addiction, right? Yeah. Yeah. And Facebook took
+it the wrong way or their AI did which again is
+another problem, right? I don't know if you've
+ever had an experience with Facebook right
+now where they're going back and looking at
+all the posts that you ever did and if they find
+something that they think is slightly off, you can
+start getting banned for it. It's crazy. That's
+pretty wild. Yeah. The the censorship, right?
+That's why a lot of people have moved to uh or
+like X now. I I still call it Twitter in my mind
+and then I have to change have to correct even
+like two years later. Yeah. Yeah. But um yeah,
+I think um I think it's really important what you
+said to not get lost on because I found myself
+just going down rabbit holes a million times
+with tools that actually don't do anything. Uh
+but you can see why people get lost in it, right?
+Like like getting excited or hyped about the next
+tool because AI basically sells the dream that
+like every entrepreneur or entrepreneur wants,
+which is like make a bunch of money without doing
+any work, right? So it's it's basically like
+selling it's perceived to be like a silver bullet,
+right? It's just like a weight loss pill, right?
+take this pill and you don't have to do any work.
+Um, and in some ways it is because it can cut down
+a lot of work for you, but it's definitely not
+this like magical thing, but everyone's always
+hunting for the next tool, the next tool, the
+next tool, or obsessing about AI because they
+think that it could just get them to a point where
+they just don't have to actually work, right?
+Yeah. And I think it comes to a wider problem
+as well with business owners, with coaches,
+consultants in general. Everybody's searching for
+this like magic pill. So, what's what's the ismpic
+of business? When can I get to a point where I can
+replace effort? And and really it's like you can
+reduce effort but you can't replace effort. Yeah.
+I don't think we'll ever be at a point even when
+AI agents get really really good that there can't
+be a human in the loop somewhere. And I think the
+danger is a lot of bigger people that already
+have a massive audience for them they can just
+create stuff like these offers these things for
+AI and people will buy them. But if you're just
+brand new and you're trying to build an audience
+you don't have that level of trust right. So if
+you try and do like a $27 offer or something
+like that nobody's going to buy it. No. Like
+even with me with a couple of years experience,
+if I go and post that in my Facebook group,
+no one's going to buy that, right? So yeah, I
+think there's this this thing where people are
+always thinking there must be an easier way. And
+in fact, that there generally isn't an easier way,
+you know, and AI is like that. If you look at
+automation, for example, most of the automations
+that people are using have been available for like
+10 years, right? the make.com stuff and it used
+to be integraat or whatever before that like you
+could do a lot of these things before but people
+have realized that you can wrap that in a nice
+piece of ham called AI and call it like this new
+automated process and it's systems that have been
+around for a long time already. It's just like
+the the wrapping paper on the outsiders got a bit
+nicer and it attracts people more. Yeah, I think
+that initial AI gold rush of like using chat GPT
+and these things and prompting for information,
+knowledge, all of that stuff is kind of dead. It's
+it's gone. And for this year, the gold rush is
+like AI agents. Yeah. And again, AI agents can do
+some awesome stuff. Um, but are they really that
+good? Are they really as useful as what people are
+making out? Yeah. And I haven't seen it, and I use
+AI a lot every single day. Like, I've found the
+biggest ROI for me is just getting really good at
+Claude, getting really good at making content that
+sounds like me, but not trying to replace like my
+human input at the front end, you know? Yeah,
+definitely. No, I definitely want to talk about
+um a couple of use cases like like what what are
+the what are the things that you're mostly doing
+in your business that I'm mostly doing on my
+business on a day-to-day basis that's actually
+made an impact. But um I want to harp on what you
+said about things not being people looking for
+the easy way, right? Cuz there was a big change
+in my business career when I when I just like
+finally stopped looking for like the easy way or
+the shortcut or the get-rich quick. Like at this
+point, I don't care about having a business that
+shoots up to the moon like this. I'm happy with
+just like steady 20 30% 40% growth e, you know,
+every year. My business is not like a sexy one.
+It's it's a marketing agency, right? Eventually
+I want to get into assassin stuff, but I'm like
+I'm I'm totally happy just doing something that
+just grow strat elite doing the boring work and
+um not trying to get around the hard stuff because
+when you try to just like skip around all the hard
+stuff, you just kind of come back to the same wall
+over and over again, right? Um it's why I've seen
+a lot of people like pivot businesses, right?
+So they, you know, how many people do you know
+where they're like, "Oh, I got five businesses,
+but like none of them actually make money. I got
+side hustles, right?" Me three years ago. Yeah.
+Exactly. [laughter] Yeah. Or maybe two years
+ago. Yeah. Yeah. And what happens is everyone's
+always trying to like what it usually comes down
+to because I used to do this as well. It's it's
+trying to skip the hard work, right? So like you
+launch a business, you launch an offer, you get
+it to whatever certain point and then it starts
+to get hard because all the fun shininess wears
+off of the beginning phase. In the beginning,
+everything's new. You're living in a land of
+possibility, right? But then soon you get smacked
+with reality because you start doing sales calls,
+you start doing outreach, you start doing content,
+and you get like one like and then you're like,
+crap, I have to do all this work to actually sell
+this and then I have to deliver and then I have
+to hire people, blah blah blah. And then people
+start to run to this wall where they're doing
+all this hard stuff. All the excitement has
+worn off and now they're in this like this pit of
+despair where like like basically the beginning
+of any business is the hardest part because you
+have no resources, right? You have no audience,
+no reputation, um no money to spend, right? And
+like basically you just have to figure out even
+if this business even works, right? So you have
+literally everything going against you, no money.
+So it's like you basically you're working the most
+for like little to no or even like negative money,
+right? Yeah. Um and then it's like so it's kind
+of like start you start out like on a high then
+you go like straight down and then you kind of go
+up. But most people don't make it past that pit of
+despair to go up. Um and it's mostly just because
+they they are looking for the easy way. So they
+think oh the easy way is it's the offer. Let me
+launch a new offer. Let me launch a new business.
+Let me change myself. Let me pivot. Right. Um
+pivot is also another way for saying uh failing
+but um [laughter] or not giving it enough time to
+fail. Yeah. Exactly. So um yeah, things change a
+lot for me when I realize that you have to go
+through the hard part and and this happens in
+a lot of different cycles of business. there's
+always the next hard part, the next hard part,
+the next hard part, right? So, I did this as well.
+I had different offers and I kept pivoting, but
+I kept reaching the same point, you know? It was
+like maybe 30 whatever 40k a month and I couldn't
+get past there. And when I realized like if I kept
+changing my business, it was never I realized that
+for me to get to the next level, it was not it
+was not about changing my business or changing
+my offer. It was about changing myself because the
+skills that I didn't have, right, and the skills,
+the knowledge that I didn't have wasn't allowing
+me to get past a certain point in my business. So,
+if I started a new business, a new offer, it's the
+same it's the same [ __ ] just a different toilet,
+right? Yeah. Yeah. Yeah. I think that's um what
+what you said there absolutely nails it in terms
+of what people do because they sit and they think
+this thing I've been doing it for a couple of
+months now. It's not working. It must be the
+thing, right? It's got to be the mechanism.
+It's because I'm doing cold email or whatever
+and I should be doing cold DMs, right? I need
+to I need to change. I need to stop. But at that
+point, what you need to do is think it's because
+I'm not good enough yet. Yeah, it's cuz I suck,
+right? There's something about my skill set that
+isn't there yet. And how do I get a better skill
+set? Oh, I'm going to go and watch YouTube videos
+and read this and find this thing and look at this
+guy who's like doing a 100 million a year when I'm
+not even making 5K and I'm going to apply what he
+does and then that's going to work. And then they
+do that for two months and they're like, "Ah, this
+dude must be full of [ __ ] It's not working." And
+it's like, you haven't done enough reps. Yeah.
+To get to a point where you've built the skills,
+right? And I still look at it now. The levels are
+crazy. So for me, like every time you get a little
+bit better and you practice and you get that skill
+by practicing and doing it and repeating the same
+boring things over and over again, you think,
+"Oh, I'm here." And then you find another level
+and then there's another level and another level
+and another level and that never ends. So really
+to be a successful business owner, you need to
+get to that understanding that you will never
+know where the end is. Yeah. There will never be
+a point where you've got it all figured out and
+there will always be something else to learn.
+And then you have to accept that you enjoy the
+process. And I think that's the mistake a lot
+of people make when they're deciding what route
+they're going to do. Lead generation for example.
+Like they pick one and they might start getting
+a little bit of success, but they don't like that
+route. So they keep going, keep going, keep going,
+and they hate it, but it starts to get results
+and results. All of the different methods will
+work. Any business, yeah, any business method,
+you can build an email list, you can do all of
+this stuff. Like my story changed because I used
+to do sales calls, right? That was what I did.
+I did cold DMs. I got people into a 15-minute
+discovery call and then a 1-hour sales call and
+I closed them on a high ticket offer and it worked
+for me. Like at the beginning of last year, I
+closed three 7k deals in about 21 days, right? It
+was awesome. But it took me 12 hours a day. I was
+constantly building it. If I had an off week or a
+week down, it would stop. It would slow down. I'd
+get burnt out. People would get sick of it. I felt
+like dirty doing it. It didn't feel great to me.
+M and I got and I always said to myself, well, one
+day I'll have a big enough following that I can go
+and build an email list and just send emails and
+do all of this stuff. And I got to the beginning
+of or the end of last year and I was like, what
+the [ __ ] am I doing? Yeah. Why am I building
+it this way when I know I don't want to build
+it that way? It's like, oh, in the future I'll
+build it in the way that I want to do it. No. So,
+I switched and I started doing email. Now, I don't
+do any sales calls with people. And I start to get
+calls that way just by sending an email every day.
+M and it's like if you're sat there thinking
+I don't you know which route's going to work
+forget that think which route matches me which one
+am I going to enjoy which one am I actually going
+to stick with if I enjoy it right yeah yeah yeah
+and then even that will get boring but just keep
+doing that route and it will work right so if you
+want to have a lifestyle where you don't have to
+be chained to your computer doing 12 hour days
+every day you will have to do that for probably
+like a digital sleeve yeah then build something
+that doesn't require you to do sales calls and
+onetoone coaching you know so I I think that's
+like people get stuck with that because they don't
+want to pick a route because they want the thing
+that works. News flash like everything works. You
+just have to do it for long enough and be [ __ ]
+at it for long enough to to work it out. You know,
+everything works if you do the work, right? Yeah.
+Yeah. No, that's that's powerful. I think that's
+such a huge unlock because sometimes I'll get like
+uh someone who text me who's like trying to start
+a business or whatever. The question I always get
+asked is like what's the best offer start? What's
+the best industry? What's the best niche? And
+they all work like any particular business, right?
+marketing agency, SEO, SAS, AI startup, like any
+you can look at any industry, even like not an
+online business like garbage disposal or painting
+or roofing, right? Any industry, there's loads and
+loads of people making like millions, hundreds
+of millions, billions of dollars, right? Most
+industries at least billions of dollars. Um, so
+any you can look at any particular business model,
+if someone else is doing it, that proves that it
+works, right? So like I was helping this guy start
+like a video production agency and he's like, "Is
+does video production really work though? Is this
+a business?" And I was like, "What do you mean?"
+Like it's like billions of dollars. like there's
+like ton there's like thousands of agencies that
+do it and make make loads of money, right? So,
+um yeah, I think it's just kind of a way to also
+people that are getting started try to like avoid
+the like a lot of people that don't even like
+start or they have they try to have the perfect
+plan. It's like you said earlier, they want that
+certainty, right? Like Tony Robin says one we all
+have like six needs and one of them is we crave
+certainty, right? Um that causes a lot of people
+just to never get even started because they're
+just always looking for like that perfect thing
+and they know that if they actually start it
+happens a lot with creatives, right? Or like
+artists or or like and I've been guilty of this
+too, right? I've been getting into like comedy
+stuff the last year and for a while I never even
+started cuz I'm like well if I actually build
+something then I release it then I'm going to have
+to then face rejection. Right. So that's kind of
+the unconscious thing that kind of prevents people
+from uh from starting a lot. Totally. Yeah. Yeah.
+Yeah. I mean I can give an example of what changed
+there for me. So I used to build things and I'd
+spend like three months building like a program
+or a course or whatever lead magnet whatever it
+was and then I'd release it and nobody wants it.
+Yeah. Right. So I'd spent all this time and energy
+building it up getting it ready and all of that
+stuff. the beginning of this year, I launched a
+new program, a high ticket offer, right? I sent
+it out for 10 days. Nobody bought it, but I've
+not built it, so it doesn't matter, right? And I
+got the feedback. So, I went out and if I'd have
+sold it, I I would have built it because I had the
+building blocks of it already. But the point is,
+people are often so scared to just put stuff
+out there and see what actually happens that
+they waste all of this time creating stuff. And
+you mentioned Tony Robbins, like he has his five
+steps to to succeeding at anything, right? So step
+one is that you pick a goal. Step two is that you
+figure out why you want that thing. Step three is
+that you take massive action. Step four is that
+you notice what's working or what's not working.
+And step five is that you change and try as many
+different things as you can until it works. Right
+now you can't do that if you spend three months,
+six months thinking about something. Like that
+first year, you're better off launching an offer
+every single week. Yeah. And getting feedback and
+seeing who buys it, right? You're much better off
+doing that. And I think people get hung up on
+that. I need this core offer. I need all of
+this stuff. I need this whole funnel. I need all
+these upsells. Exactly. Yeah. But the way things
+are right now, like because there's a lot of
+charlatans and pract basically [ __ ] in the
+industry, people are like trust is at an all-time
+low online because everybody looks like an expert,
+right? Everybody's posting like they're making
+100 grand a month. Yeah. And because trust's
+at an all-time low, if you're brand new starting
+a business, you need to be able to do something
+small and give people an amazing experience
+because if you create a fan from that process,
+they'll be with you forever. Like I have people
+that buy my webinars every month just because they
+they want to they want to be part of it. They know
+what I do is good, right? Yeah. You're true fans.
+Yeah. Yeah. Exactly. They're true fans. And people
+get this wrong. Like the worst piece of advice
+that I hear new businesses get or coaches and
+consultants is, "Oh, charge what you're worth."
+So people come in who have never coached anybody,
+never try to charge 20K for a program and then
+then they sit there for 12 months with no clients,
+no customers, like it's the wrong advice. And I
+think sometimes people give this advice because
+they forget where they came from and where they
+started. Like if you're a brand new coach,
+you're better off having 10 clients at $500
+and delivering for them than you are waiting for
+someone to pay you 10K for a year. Yeah. Because
+this guy, you know, he started and he took $500
+a month every month from 10 people. At the end
+of the year, he's coached 100 people. Yeah. This
+dude who's sat there waiting for one 10K that he
+can into doing it and not get any results for he
+he's not done this at the end of the year. Yeah.
+You know, I think that's that's the problem. A
+lot of times people the problem with like business
+content online is a lot of times people will just
+hear something from a guru and then they'll think
+that that applies to them at that stage, right?
+It's almost like why a lot of really rich people
+will be like, "Oh, just do what makes you happy,
+you know, don't work so hard. Work life balance."
+Because like now they could just chill, right?
+Yeah. Um but they weren't like that when they
+were start. So it's really important that whoever
+you're taking your advice from and they're at a
+similar level to you or a couple steps ahead or if
+they're like all the way up here, that's fine. But
+you have to make sure that their advice applies to
+where you are because it's always about doing the
+right thing at the um at the right time. Yeah.
+Yeah, I mean this is why why I really respect
+people like Horoszi and his content because he
+does the sort of things that you can apply at the
+beginning, but he also makes it clear when he's
+doing something for people at different stages
+of their business, you know? So, I think you get
+you get both from people like that. But yeah, it's
+it's trying to do this stuff too early. If you
+go back to there's a there's a really cool story
+where there's this professor from like the 80s or
+whatever and they're doing like two art projects
+and he gets one class and he tells them you've got
+to make like the perfect vase or the perfect bowl.
+I can't remember exactly but the perfect thing. So
+this class goes away and they do that. The other
+class is like you're going to be graded on how
+many you make. It doesn't matter how good they
+are. You just keep making them. So make as many
+as you can. You're graded on the best one. You're
+graded on how many you make. And at the end of the
+semester, the people that had made tons of them
+had the better part because they just kept making
+them and making them and making them and getting
+better. Whereas these guys sat down and were like,
+"Oh, let's plan how we do it. How do we make the
+perfect part? What's the science behind it? Let's
+read all these books about how we do it perfectly
+and then they made one thing, but they hadn't had
+the reps to actually make it work." So, I think
+that's like that applies to everything. It's a
+universal law. The same way compound interest is,
+right? you see nothing for a long long long long
+time and eventually you see the results. Um so
+yeah. Yeah, that's good. I love that story.
+I mean I think it's a great example about
+entrepreneurship, right? So um that's one thing
+that I've I've always really tried to do is just I
+mean that's one thing one of the things that has
+come naturally to me is just being like a fast
+actor. Like so some people are like fast impleers
+where they can implement quick and then they have
+to the thing for me is to work on actually like
+getting better at you know the details and like
+following through with things, right? But then
+some people are the opposite where they'll just
+take forever to plan and be perfectionists like
+that engineer brain. Um and then they have a hard
+time starting. But at least the benefit of that
+is they're very detail-oriented things through. So
+there's just kind of different skill sets to each
+side. But um yeah, when I started this agency,
+Revenue Boost, I um when we started, I basically
+just launched an offer real quick. You know,
+our our monthly service for outbound campaigns. Um
+all I all I had to put together was a Google doc,
+right? And um someone was asking me recently,
+they wanted to like look into our operations
+to see like how we built our systems, our SOPs,
+our team, our automations. And I was showing them
+everything, but I built everything like along the
+way. So I only built because I made a mistake in
+the previous business. Uh my previous business,
+I got really excited when I learned about like
+business systems, right? Um and I read Dave Jen's
+book, Systemology, who was who was a friend of
+mine. And I got really excited about like building
+systems, building SOPs, had like 40 SOPs that sat
+on my Google Drive into nothing. Spent all this
+time and money and like bothered my team to make
+all this stuff that no one even used, right? Um
+because you know especially in a small business
+right everything changes so often right it's crazy
+to just systemize everything when everything's
+going to change in a while right so what I did
+this time was I really just focused on like when
+we started revenue boost just building things
+that we needed as we went along and launching
+things imperfectly and just improving as we go so
+we launched our offer it was just one service all
+I had was a Google doc to kind of summarize the
+offer just hopped on I didn't really really have
+a sales process I just hopped on the call with
+people like obviously I know how to sell and I
+have like questions I ask in a process from doing
+this for a while um but I didn't build any like
+sales decks or anything. Literally just as soon as
+as soon as we wanted to get this business started,
+we just launched it, got people on calls. Um, and
+as ter in terms of the systems, like all I did
+was I hired one person first to kind of like help
+me with the delivery and then figured out, okay,
+what do we need next? Let's get the next person
+as we need them, right? Once we're at capacity,
+kept doing that over and over again. And at first
+this our initial systems like we actually we were
+operating in Slack for a while. We didn't have
+project management tools like I know a lot of
+people that'll sit there, they'll build out this
+project management workflow, ClickUp, Air Table,
+automations, whatever. And then you don't
+need any of it, right? So, I made sure that
+we launched our offer, we could at least get
+our first five to 10 high ticket clients. Um,
+and then still at that point, everything was
+in basic spreadsheets to track. We don't need
+these advanced systems, right? We're still in
+Slack. Now, eventually once we had like six,
+seven people, then we started to get in ClickUp.
+Um, but I'm really happy the way I did it because
+I really just focused on building things as we
+needed, launching it in perfectly, and changing
+later because you can always change it later. And
+I think it's especially important with marketing,
+right? You're not going to sit there and make
+the perfect marketing plan, the perfect campaign,
+the perfect offer, especially like content,
+right? Like the only way you could get better
+at content is by doing it a crapload of times.
+Like why is Hermoszi good at content? Because
+he literally puts out like hundreds of posts a
+week for like years and years. Yeah. Um so it's
+just like the clay pot example and the only way
+you get better is just by doing it repetition.
+Another Hermosi quote is uh volume negates
+luck which uh I really love that. But yeah,
+you just have to do it and get it out there. This
+is also why I think a lot of big companies are at
+a disadvantage and why there's so many huge
+companies getting disrupted by startups now
+because startups can just have an idea. They can
+they can launch an offer, right? And they could
+just they can just move. They can make a decision
+and just start really quick. But a big company
+like Salesforce, they have a new idea. They have
+it has to go through weeks and months of like
+going through meetings and meetings and meetings
+and approvals and approvals and approvals. And
+now with how fast the business world moves,
+that just doesn't work. So that's why we are
+seeing and we're going to keep seeing all these
+huge uh big companies just getting disrupted,
+which is why it's a great opportunity for anyone
+with a startup or anyone with a new idea to like
+actually take something away from these big people
+because they they just can't keep up, right?
+And all these huge companies, I see barely any
+of them actually doing anything meaningful with
+AI. Like now in every app I use, every software
+we use, they all slap AI in, right? It's like,
+oh, this is an AI enabled workflow. And all the
+AI features are like garbage, right? Yeah. It's
+always it's always just like they just slapped it
+in because they just couldn't really like think
+it through and they're just trying to keep up with
+the trends. But yeah, we're going to see a I mean,
+it's like I mentioned in the beginning of the
+podcast, right? There's the stock market went
+down a couple points the other day. Soft is
+mostly the software stocks kind of going down
+and it's because of this. A lot of investors are
+worried about all these big SAS companies getting
+disrupted by by a kid in their basement who's 16
+years old that can vibe code anode app. And um I
+mean even like Moltzbook or whatever the hell it's
+called, Cheesebot, Moltzbot, [laughter] that was
+just like launched like supposedly like as a side
+project and then it got like an insane amount of
+users just in a couple days, right? So it's crazy.
+Yeah, I think that with the the whole AI bubble,
+it's like it's a bit of a just keeping the economy
+going situation and a lot of it is not really as
+great as what you what people make it out, you
+know? It's all it's all hype on that. But back
+to what you said about SOPs, just want to address
+that one. I I have three VAS that work for me.
+I don't have any SOPs, not one. Um, and we use
+Google Sheets for pretty much everything. Simple.
+Yeah. Like I I got go high level and I just use
+it to create landing pages and put put payment
+links on. It's literally all of this stuff for me
+particularly because I don't really serve clients
+in in the sense of like what you do, right? Yeah.
+You're not an you're an agency. I'm not. Um, I do
+have a couple of done for you clients, but there's
+just no need for all of this extra complexity. Uh,
+it to me it's a total waste of time and I did the
+same with you. I had all these SOPs and all this
+stuff and processes and it's you don't need them
+when you're running lean and you communicate well.
+If you have a team that you communicate with daily
+it I think again it goes back to what the problem
+people have with AI is they want to outsource all
+their effort. like they one of the things that I
+made a mistake with is last year I built a really
+good bot for commenting on people's profiles. I
+remember that. Yeah. And it wasn't like the usual
+crappy bot where you see them going, "Oh, and how
+did that make you feel?" Oh, so cringey. Some
+of the AI comments are so cringey. Everyone was
+doing that for a little while and it was pissing
+me off. Yeah. Yeah. Right. It's like when you saw,
+and I mentioned this in another podcast, but
+when you saw Cloudflare go down last year,
+you noticed there was no comments on anyone's
+stuff on LinkedIn because nobody could use AI to
+make the comments. And so I I've stopped doing it.
+I've stopped using AI for comments totally because
+it's a front-facing thing. And if you think
+about it, right, when you're going in, granted,
+if your VA is doing it, sometimes they're saying
+random stuff. Like I had a claude that I'd made be
+challenging and it was like going and like cussing
+people out and stuff on I remember didn't Didn't
+you have one scenario where there was like it
+says something really like awkward about someone
+sharing a personal story or something? Yeah. And
+al Yeah, it said I can't remember exactly what
+it said, but it was terrible. Or it's like I
+saw it did one the other day where um on cuz
+on Twitter I've got one as well. It's a slightly
+different approach and it was like oh what a great
+long message about not doing sales posts to sell
+something but and it was just like calling people
+out and stuff [laughter] which is kind of funny
+but it's not exactly what you want. But yeah like
+why when you're commenting somebody's taken an
+effort to like reply to your post or something
+and then you're putting it through AI it really
+doesn't make any sense. And if you think about the
+time, it's like by the time you've gone and copied
+the post, copied the comment, gone over to Claude,
+pasted it into your do like you could just do
+it yourself. And obviously typing these comments
+out all day, it takes a piss. It takes ages to do.
+You're better off. Again, now we've got tools like
+uh like Whisper where you can just press
+a couple of hotkeys, record your voice,
+and it will make sure it's like formatted properly
+and in the right language for you and stuff. Do
+you know what I mean? And I just do that now.
+So all of my comments are me and I just go,
+"Hey, I think this is really cool because of this,
+this, and this." And I already noticed that those
+comments get more impressions on LinkedIn
+than like all of these crappy great post,
+good job like comments that people It defeats the
+purpose. Yeah. I think too many times with AI,
+like people are prioritizing efficiency over
+effectiveness. So I always try to prioritize
+effectiveness first, right? Like you can if you
+have something that's just like a crappy process,
+right? And you make it more efficient, all you
+have is a more efficient piece of [ __ ] right?
+So, um, a lot of times like like for example,
+yeah, you're you're automating comments. Well,
+yeah, you're being efficient because you're
+saving time, but it's not actually helping
+your business if those comments are actually
+hurting your brand or they're just not actually
+building any meaningful conversations online. So,
+I think people get too excited about saving time.
+And I've done this as well, too. Like, there's
+been times where I was like, I remember like,
+so I got into like this phase where I just didn't
+want to have any meetings at all, right? I'm like,
+I want up all my day just to work on like deep
+work. And then I realized, wait, by not have by
+not having at least a oneh hour a week one-on-one
+call with my fulfillment department leader, like,
+yeah, I'm saving that one hour a week, but how
+much time am I spending in my week having to like
+fix problems or like communicate or message, you
+know? So, I was like just a lot of examples where
+I'm trying to save time and it's not actually
+helping my business or saving me time. So,
+I realized like, okay, it's not just about
+saving time. It's more about like optimization,
+automation, AI, time management. It's not about
+saving time. It's more just about getting the
+most value for your time, right? But the
+the right things that you should be doing,
+like you should be doing that, right? Like there's
+still big influencers, big creators that'll still
+spend 30 minutes a day. Like Gary Vee is really
+known for this, right? Gary Vaynerchuk. He still
+will spend half an hour a day, an hour a day
+actually replying to comments. And he's one of
+the got one of the biggest followers online. So
+if he can do it, then you can do it too with your
+freaking 10,000 followers, right? Crazy. Yeah. And
+this is the thing. So, a story I I I I mentioned
+um the other day is is that when people automate
+the wrong things, it it becomes a waste of time.
+So, for one example, and I think it's probably
+Many Chat that's being used, there's a dude I
+I respect. I love his content. It's awesome.
+He's got like 300,000 followers on Facebook,
+and I comment, I engage with his stuff. And
+recently, I commented on something and he sent me
+a message which automated and it's like, "Do you
+want this resource about AI writing?" It's like,
+"Yeah, sure. Send it over, man. No reply. Forgot
+about it. And then like a few days later, I I I
+saw another cool post that he did and I commented
+and I got the same automated message. Hey dude,
+like do you want this thing? And he just hasn't
+sent it. And he still hasn't sent. He's keeping
+you in suspense. [laughter] And I replied back
+to him like, oh dude, I think there's something
+wrong with your automation. You might want to
+check it out. And still nothing. So it's like,
+you've spent all this time and energy building
+an audience of 300,000 people. Nobody needs
+300,000 people to make money. Yeah. Like if I
+have a hundred fans, loyal fans that will buy
+my $100 webinar every single month where I give
+them some value, teach them how to do something,
+that's 10K. Everyone's like so many people online
+don't make 10K a month. I know it looks like
+everybody does. It looks like 90% of coaches don't
+even make money, right? Most content creators make
+like $16,000 a year or something. Not even $6,000.
+I saw something about that. Yeah. Yeah. So like to
+get to 10K is as simple as getting 100 people
+that really respect you that you've delivered
+good experiences to. So why then scale to 300,000
+people, right? I get it. But then what's the point
+in having this message that sends me and asks
+me if I want a lead magnet? Because now I think
+I don't think less of the dude. I just think well
+what what are you doing? Like what are you wasting
+your time on with all this scale? You're better
+off with a thousand really good fans, right? Yeah.
+If I have a thousand true fans that will buy the
+$100 webinar, like that that's more money than
+than you're ever going to need, you know? Yeah.
+And in that case, or you know, have the 300,000
+followers, but at least reply to people or hire
+someone to do it. Or if you're going to use AI,
+like actually monitor, right? Because again,
+that's all this work that you know 10 20 years
+to put in put in to build that audience, that
+personal brand. And I know you're talking about
+because you mentioned it to me before. Um his
+name is No, just kidding. We're not going to
+call anyone out. [laughter] But but all those you
+know 20 years to build that audience and then you
+know you're going to sacrifice some of those
+relationships and brand just because you tried
+to use an AI to save a minute here that actually
+just you know they say like what's the quote about
+reputation? It takes you know it takes a long time
+to build a reputation but it takes only minutes to
+to break it right um so I think yeah actually this
+is exciting I like talking about how not to use AI
+we will talk about how how we will talk about how
+to use AI and some of the best things to do in a
+minute but I think let's go deeper into just how
+to not use it right because that's really where
+um yeah I'm I'm seeing a lot of this. So, for
+example, that's one great example. You know,
+using AI comments that are just like making you
+look like a fool, right? Um because honestly,
+your audience is the most val like you can get
+so much value just engaging with your audience
+in comments. It could take 15 minutes a day, but
+you know how excited people are? Like I get if I
+was going to comment on Hermosy's post and he's
+going to reply back, that's like made my day,
+right? Like I'm definitely a Hermosi fanboy,
+right? So, you don't realize how much it means
+to people when you actually just reply back to
+them. It takes a freaking second. Um but yeah,
+the AI comments is one like I mean the funny
+example you shared before is where your your
+club I was cursing people out on their post which
+is pretty funny but um that's a bad example right
+because honestly you mentioned the keyword public
+facing right yeah anything public facing like I
+would never let an AI generated post go out on
+my social media without me checking it I wouldn't
+even let my team post something on social media
+without me just having a quick look on it right um
+so anything public facing that's where you have
+the highest risk for something goes wrong So,
+I just like to look at a lot of things in terms
+of like risk versus reward, right? Like if the
+risk is low, I mean, we talked earlier about
+um you know, launching things fast and just,
+you know, starting something and then optimizing
+it along the way. That also depends on how much
+risk there is, right? I'm not going to jump
+into jump into a project, launch something fast
+um and uh just really try to like learn along the
+way. If it's something that's going to take like
+a really long time or a lot of money to create or
+let's say it's like a irreversible decision like
+if I do this wrong, it could ruin my reputation
+like that's something where I am going to take
+more time, plan it out, right? So not everything's
+I just look at everything in terms of the risk,
+right? Yeah. Um but yeah, anything public
+facing that you're using AI for, that's a risk,
+right? So you have to at least look at. So we use
+AI for our content, I you know, I use the process
+you showed me of making my own cloud project. Um
+but I'm always looking at it before it goes out.
+I never, and you can see this as well. So I made
+a post about this yesterday, but a lot of people's
+AI generated content sounds like AI. And I'm all
+for using AI content. We all should be, but what
+bothers me is when someone just posts AI generated
+content that you can just tell it's straight from
+chatbt. You lose. so much credibility with that,
+right? And everyone can tell now. People know,
+we see the M dashes, we see the emojis, we see the
+the phrases, right? Like, it's not this, it's not
+this, it's this, right? Or here's the kicker. Not
+A, not A, not B, not C, it's C. Exactly. Or here's
+the reality, right? So, like I I mean, sometimes
+I see a couple of creators I like and I can see
+a post that was very clearly written by AI and
+it's kind of disappointing and I kind of stop
+paying attention to their posts, right? So, use
+AI in your content, right? But use it, right? And
+anything that's public facing where it's going out
+from your brand, your business, anything customerf
+facing, like think about it, right? If if if if an
+online business was like a if we were to compare
+an online business to a physical business, like
+a restaurant or a cafe, basically your storefront
+is like your physical storefront is like the
+front end of your online business, right? Your
+customer service chat on your on your website, who
+picks up the phone, right? Who answers the emails,
+the the social media posts that go out, the
+content that goes out, right? Everything that
+touches the customers, right? the front end
+of the business, the marketing, the sales,
+the the customer service. That's where people are
+making their first impression of you from, right?
+It's like if if I was going to invite you to like
+some restaurant, right? And you [snorts] drive to
+the restaurant and then it's like in some ghetto
+and it looks dirty and there's homeless people
+sleeping in front of it and the sign's like
+broken, you're like, I don't want to go in this
+place. It could have the best food, but you're
+not going to go in that place, right? So all of
+these interactions, you know, marketing and sales,
+customer service, that's where people are judging
+our business. So I mean, honestly, that is also
+in my opinion the best way to use AI. Like that's
+where most people are using AI. marketing, sales,
+customer service, right? Yeah. But you have to
+just you can't just let it go off the rails. You
+have to monitor what goes out and like you said,
+human in the loop. So for me, um my rule now is we
+don't do anything with AI that isn't checked by a
+human, right? Because it just it just it could
+cause problems, right? And again, there's some
+areas where the risk is higher than others, like
+customer service, comment, contents, or whatever.
+Yeah. And I think it's one of these things, right?
+If I gave you two diamonds now and on this table,
+I put down two diamonds and I gave you a jeweler's
+loop and one of the diamonds is real and one of
+the diamonds is fake, you're going to look at
+them, right? because you don't know [ __ ] about
+diamonds, I'm assuming. And I might be wrong.
+I don't. Yeah. So, actually, my dad was a No,
+I'm just kidding. Yeah. Yeah. My dad was a diamond
+grader down in the mines. But, um, if you look
+at those two with the jewelers loop, you're not
+going to know which one's which, right? No. So,
+if if you're not a copywriter and you produce a
+piece of content with AI, you're going to look
+at it and you're going to be like, "Oh, that's
+fine." But somebody who knows is is going to see
+all of the issues in it. And it goes deeper than
+just removing the words like I don't I'm not even
+sure if AI does this anymore, but removing those
+words it always uses. It certainly does things
+like sound familiar and all of these things. So
+many things. Yeah. But as someone who understands
+copy on a deep level like you and I do. I can look
+at a piece of AI content and I can go oh setup
+phrase. You know here's the thing or whatever that
+setup phrases are garbage. It's not A, it's not B,
+it's C. Yeah. or defensive statements where it's
+like you don't want to do this, you want to do
+this or the thing about that is that it's this
+and there's lots more things that AI does that
+most people just never notice. Another one is like
+anaphoras, right? So it's like the thing the the
+the it start every sentence starts with the same
+word. Yeah. And then everything has like perfect
+symmetry, right? Like it's like too perfect. Then
+you can kind of I think humans have this sense
+to know what's inauthentic. It's like when you're
+looking I mean now it's gotten better but usually
+when you're looking if I'm looking at an AI video
+or an AI image right I could you can just kind of
+like sometimes if even if it's not obvious even
+if there's not like seven fingers like there used
+to be right we have we have this sense to know
+like what's not real or what's real and it's it
+definitely happens with content too. Yeah. So
+one of the things with AI images I used to use
+them exclusively. I think my LinkedIn profile
+picture is still an AI image actually. I need
+to switch it. Everywhere else it's got me in like
+a flat cap looking like a proper British Yorkman
+with a cup of tea. Yeah. Um, but my LinkedIn I
+think is still that professional photo. But I
+stopped using it for like images of me and I was
+never putting myself like next to a Ferrari or
+a Lamborghini or whatever. It was me in natural
+settings. And now I just use like normal selfies,
+pictures of where I live like outside. Not like,
+oh look here, here's me flexing just like a sunset
+or something. But what I do use AI for which is
+awesome is making memes. But you can make memes
+with you in them. So, like if you use Gemini and
+you go to Nano Banana, yesterday when I posted on
+LinkedIn, it was like the Pablo Escobar meme, but
+instead of Pablo Escobar, it's me. That's awesome,
+right? Or like the the dog in the house with
+it all burning down, it's like me sharing my
+true thoughts on LinkedIn, and instead of the dog
+being the dog, it's like the dog with my face. Um,
+or you know, the clown meme. Yeah, you
+can put you as the clown and stuff. So,
+for that kind of thing, it's amazing because
+people know you're using AI, right? You're
+not trying to hide. You're not trying to like it
+doesn't feel like they're being tricked. I I love
+that. Yeah. Yeah. And you're linking it to like
+something funny so they they remember it. It stops
+the scroll and that kind of stuff. I messed around
+a lot last year with like AI avatars as well,
+you know. And now they are much better. Like with
+stuff like Cling, you can make an AI avatar where
+it moves the same as you. The mouth moves in the
+same movements and you can clone yourself and and
+do it that way. So it's actually moving like
+you would on screen, but it's still not you.
+And when somebody's like watching your video and
+they're starting to resonate with this AI avatar,
+when they actually talk to you, it's not going
+to be the same thing. So then you're left with
+a choice, right? You can either try and act
+like you're this thing the whole time, which is
+exhausting. Just walk around and be like, "Here's
+the kicker. Here's the reality." [laughter] Or you
+can just be yourself in the first place and repel
+the people that aren't interested and attract the
+people that are, you know. And I think for me
+that was the biggest change where I noticed that
+my engagement went down. Uh my my um open rate
+on emails went down. You got bald. Yeah. Yeah.
+I got bald. Your wife left you. My wife went
+down. Everything went down the pan. But all
+of these metrics that people say are success,
+they all started to go down. But in private,
+the conversations people had with me started to
+to to be better. People reaching out and saying,
+"Dude, like amazing that you posted this thing."
+you know, not that's amazing, not AI generated,
+but you know, actually interested in what you're
+saying because it's real and and I think we get
+it the wrong way around, right? People put the
+AI here at the start of the process for content,
+for ideas, for courses, whatever, and then they
+go here and then the output comes out of the other
+side. It needs to be the other way around, right?
+You need to be here with the ideas, maybe even get
+a pad and a [ __ ] pen, right? and think of the
+process, the idea, the content. And that's what
+I do now is I do a reflection and then I use my
+AI to process that reflection. So then that way
+it's it's going to be uniquely me. Yeah. The AI
+is just helping the AI is just helping to shape
+it and polish it and save you a little bit of time
+creating it, right? Yeah. Like I don't believe in
+pre-recording like two months, 3 months of content
+because if I look back at my content from 3 months
+ago, it makes me cringe. Yeah. And it should
+make you cringe because if you if it doesn't,
+it means you've not progressed far enough in that
+time, right? So if you're sitting there in January
+this year and you're making your content out till
+March, like there's no journey there. There's no
+there's no experience. There's no truth. Like
+people are going to feel that it's just like,
+oh, I sat down for a whole day and made like 150
+pieces of content. For me, that that's just not
+the way to do it. Particularly if you're
+like new and you don't have an audience,
+you should be sharing daily. You should be doing
+it daily because the second part of it is like if
+I just make loads of content one day and then
+I don't make any content for three months and
+then I make another three months are going to be
+[ __ ] But if I make content every single day,
+I'm going to look and get better and work things
+out and start to improve and get feedback from
+the audience and see what's working. It's like
+again we we try and focus on the wrong things.
+Particularly with my market, coaches, consultants,
+you know, they're like, I just want a coach. It's
+like, well, if you just want a coach, go and work
+for a coaching company. Yeah. Because if you,
+you know, if there's a fantasy that you can just
+put in like an hour a day and it's going to work
+in terms of a business. It's not never like what
+Horosi says, if you're making less than a million
+a year, and I know not everyone wants a million
+a year, then you need to be spending the first
+four hours of every day on content outreach or
+something or a mix of two, right? four hours. So,
+you have people out there like, "Oh, can I just do
+one post on LinkedIn and do it four to four days
+a week and it's going to work." You might as well
+not bother. You might as well not just get a job.
+Like, literally, you'll save yourself heartache,
+you know, if you just want a coach. And there are
+plenty of companies out there that will hire good
+coaches. So, don't put yourself through the pain
+of it. Yeah. understand that in the way the world
+is now with so many people having access to create
+content, you're going to need to to do a lot of
+it, right? Like right now, I post um probably
+35 to 40 pieces of content a day. Wow. Yeah. Um
+but it's repurposing. So like my one short video
+will go on six platforms. Yeah. Um, I I take my
+daily insight. I use my AI process to create my
+email that goes out every day, seven days a week
+without fail. Um, then my email becomes like my
+LinkedIn post. Uh, my four posts for Facebook
+that are all different angles from that email,
+four on Instagram, six tweets, six thread
+tweets toned down because extra threads is
+like a different world. Um, and yeah, like all of
+that content becomes that and then I do a weekly
+YouTube video and then I go live about the same
+kind of topic in the YouTube video. The video is
+usually the five things I spoke about in my emails
+that week made into like a listical format. And
+that's what it takes. And then you have to do that
+for a long time with nothing happening before you
+start to see any results as well. It's not like
+I'll do this for 3 months and it'll work. Yeah,
+there definitely is no 4-hour work week. I don't
+even think Tim Ferrris works four hours a week. I
+think he still works more. Right. It's so funny
+because I was going to mention that book at the
+beginning because it's one I started reading
+and it's Yeah, you can have a 4-hour work week
+if you spent 10 years creating a process doing 70
+hour weeks like Exactly. Yeah. Exactly. Lifestyle
+businesses are very possible. I know a lot of
+people that just work an hour or two a day, but
+they didn't start their business work an hour or
+two a day and then just make millions of dollars,
+right? Like you said, 10 years to actually build
+a process to get there. And that's totally fine if
+you want a lifestyle business. Not everyone wants
+to build a $100 million company. Like I would not
+want to be a billionaire. If you were like, "Hey,
+I'll turn you into a billionaire tomorrow." I'd be
+like, "No thanks. I'm good." like I don't want all
+the like everything that comes with that, right?
+Um but yeah, if you want to build a lifestyle
+business, there's still there's still the process
+to get there. You're still going to have to grind.
+And I love that four-hour rule from Herozosia of
+just spending your first four hours of your day on
+marketing. If everybody listening just did that,
+if everybody listening just spent four hours
+a day on marketing, it would be impossible not
+to succeed unless you were literally the worst
+entrepreneur and like the least talented person
+in the world, which probably nobody is. But even
+if you are, you're still probably going to do
+better than someone who's spending an hour a week
+on their marketing. Like a lot of people are like,
+"Hey, why don't I have enough clients? I don't
+have enough leads. Well, how much time are you
+actually spending doing outreach, doing content,
+doing ads, getting clients? It's like most people
+it's like nothing. Oh, I just wait for referrals
+to come in. So, that's just basically saying like,
+"Hey, I'm just going to wait for people to show up
+at my house and just throw money at me." But no,
+you have to actually just go out there and get it,
+right? Yeah. Totally. And I mean, even at that,
+even at four hours a day, then people's
+expectation of how long that's going to take
+is is usually off. You're probably talking a year,
+right? Right. So, it's not just it's not just,
+hey, let me spend four hours on my marketing
+tomorrow. It's let me do that consistently
+for every year. But, no, I love that. I think it's
+like it's almost like physics, right? Like like in
+physics there's like laws of the universe. This is
+like a law of business. If you spend four hours a
+day marketing like is it's it's impossible not to
+get clients. Like it's literally it's just because
+it's the volume. Even if you're not very good
+at it, even if you're not very optimized, right,
+just still you're going to get better by actually
+doing those four hours because you're going to
+get you're going to pick up the skill and the
+experience, right? Um, but either way, you're just
+like the more offers you make to people, the more
+leads you get, the more sales you get. Right? Now,
+as you get better at marketing, as you get better
+at sales, you can get higher conversions. You can
+get more leads, more sales for less effort, right?
+Because you just get better at it. But no matter
+what, like if like so, you know, you obvious, you
+know, we help people with cold email, right? As
+a as a lead genen source. If I sent 100,000 cold
+emails today promoting your offer, like your you
+know, one of your like let's say your school
+group, right? Your AI school group. If I send
+100,000 emails today, even if I even if it was my
+first time running cold email and I wasn't very
+good at writing it. If a 100,000 people hear about
+your AI school group, somebody's going to buy it,
+right? Somebody's going to be like, I was just
+looking for one, right? So, yeah, volume volume
+definitely indicates luck. Um, and it's Yeah, if
+you just put in the work, it's impossible. Now,
+it's one of those things that people don't like
+hearing because it's not the cheat code. It's
+not the cheat it's not that it's not the sexy
+thing. Um, but if you just do the fundamentals
+and you do them for a long time and you keep doing
+them, like the the outcomes create themselves,
+right? like the score takes care of itself that
+I kind of had this mind flick last year with cold
+DMs and this exact same process because I realized
+that when I got a couple of the clients that I got
+I was thinking I I I went back and analyzed it
+because obviously you're trying to replicate the
+process. This is how I got clients so I'm going to
+try and replicate and do the same thing. And when
+I analyzed the DM structure and the sales call
+and what happened, the realization I came to is
+that they were just ready to buy some [ __ ] like
+they were ready to buy LinkedIn client acquisition
+stuff and I happened to be in their inbox right
+on the day that they were ready to start moving
+towards this buying process and it made me realize
+that you're never actually putting people on to
+your services you're avoiding putting people off
+right so they're going to buy LinkedIn client
+acquisition services from someone that month and
+you happen to be the one that's in their inbox as
+long as you don't [ __ ] it up by saying something
+that you shouldn't right? Or like putting them off
+or whatever, then you're going to make the sale.
+And that kind of twisted my head a little bit,
+but it makes sense of like, yeah, if you're in
+the game, you know, you got to buy a ticket to
+win the lottery. It's like if you don't buy one,
+you ain't going to win, right? It's like they say
+the um what's it Ben Franklin quote or whatever.
+Who knows where these quotes? A lot of times it's
+like all the quotes come. It's like random quotes.
+There's so many quotes from Ben Franklin, right?
+So they really all come from him, right? Look
+it up yourself, folks. [laughter] But he says,
+"The harder I work, uh, the luckier I get."
+Right? So again, with sales, with marketing,
+if you got in front of so many prospects, right,
+you're just going to get lucky where somebody's
+like, "I just freaking needed this today." And
+like you were just the lucky guy to show up,
+right? Yeah. Um and then Yeah. Again, you get
+better at it. But what you're saying there is,
+you know, with that guy that really needed your
+LinkedIn stuff and was looking for it that day.
+Like I one time I sent someone a cold email
+and he was like, "Dude, what sort of like so
+he bought the next day a 10K program." This was
+a couple years back. And uh he was like, "Dude,
+I was literally thinking about cold email hiring
+someone the day you emailed me." He was like,
+"You must have had some crazy advanced AI system
+that could detect my intent." And I was like,
+"No, you were just on my list." Right. Yeah. So
+that's that's back to the stages of awareness,
+right? So this is one this is probably my favorite
+marketing concept. It's from Eugene Schwarz uh
+breakthrough advertising book. Um I just bought
+that book. Yeah, it's Yeah, that definitely. So um
+this is like this is like the one marketing mental
+model that I use more than anything. Right. The
+stages of awareness. People are either everyone
+in your market is as a is at a different point
+in their buying journey. People are either unaware
+as in they don't know they have a problem. They're
+problem aware. They know they have a problem,
+but they haven't really started looking for
+solutions. They're solution aware. They've started
+to actually understand their problem and they want
+to do something about it. And they're exploring
+possible solutions. And then they're, you know,
+most aware, they're product aware, then most
+aware, which is now they know about your offer and
+other competitors. And now they're just trying to
+like choose their right deal, right? So it's been
+said that, you know, less than 3% of any market is
+solution aware. So no matter what you're selling,
+someone right now needs what you do. Someone right
+now is thinking, I need this thing that Jack has.
+They're not maybe they're not saying Jack, but
+they're saying, "I need some help on LinkedIn.
+I I I saw one of my friends grow on LinkedIn. I
+want to grow on LinkedIn." Right? Or in my case,
+hey, I want to do some outbound campaigns.
+I want to do some cold email. Right. So,
+no matter what you're selling, there are probably
+thousands or hundreds of thousands of people in
+the world that are looking for what you do or have
+it in the back of their mind, right? Yeah. So,
+you just have to actually get in front of them.
+So, it's really not that hard. So, again, the
+more offers you make, the more you get in front of
+people. Now, how you really scale your marketing
+is you get is you start to market to people that
+are problem aware. People that they have dealt
+with the problem that your solution solves,
+but they're not necessarily like looking for
+it and they're a little bit harder to market to,
+harder to sell. Takes a little more creativity,
+but that's where you can kind of put them in that
+problem state with your messaging and get them to
+be like intrigued. They're like, "Oh, you know,
+let me explore your offer. Let me hop on a call
+and learn what this is about." But if you ever
+had someone that was just such an easy sale,
+it's because they were just solution aware and
+they were looking and you showed up at the right
+time. So, that's why it's just about um just
+about showing up. Yeah. Yeah. And it's one of
+the reasons I moved away from getting people onto
+the sales calls as well is like a lot of people
+aren't ready yet. Yeah. So, if you move them into
+something where they can get to know you and they
+can get to trust you, then you're going to get
+more sales later, right? Because they're going to
+figure out what you're doing. You know, you know
+they're going through the same problems. You know,
+if they're your target market and they join
+your email list, you know they have these
+issues somewhere, right? Because everybody 99% of
+problems are just shared between people generally,
+right? Let alone in business. So, they're already
+going to get to that point. And I realized that by
+getting them into an email list, into something
+like that, I could build a relationship more
+over time. And I don't even make offers to people
+that aren't in my email list. I've had people ask
+me recently what I do, what's what my offer is,
+and I'm like, "Oh, join my email list." Because
+I don't give offers to people unless they know
+what I'm about. And you'll get three emails and
+it will explain to you what I'm about. And
+then you'll see what offers I'm bringing out
+as they're coming out. It's like they're not
+available to you unless you join it. Yeah,
+cuz that's my prerequisite for me. You see what I
+mean? And I think a lot of people do that as well.
+It's another mistake which I think another mistake
+people make is they're too available. They're too
+out there looking for stuff. It's like you need to
+set your your boundary and your world of how you
+want to operate and then stick to it, you know,
+cuz like there's so many um things like what
+you mentioned marketing tactics that people use
+where people try and make scarcity by saying, "Oh,
+only five available this week." And like everyone
+sees through that [ __ ] now. It's you. The only
+way you can build scarcity now is by actually
+having scarcity. It's by offering things and
+taking them away. It's by making that, you know,
+true scarcity. Yeah. Yeah. And that's and I find
+that's a lot with all strategies and particularly
+when you're new, you're trying to find out, oh,
+how do I be authentic? How do I create scarcity?
+How do I make my offers more irresistible? Well,
+just be authentic. Do real scarcity. Make
+sure your offers are experiences that you'd
+be proud of, right? Make sure you're proud of
+what you're building. Yeah. And if you are,
+it will work eventually. Yeah. That's a good
+point about being too uh too available. I mean,
+I like to think about speak easys, right? Like
+those little hidden bars and alleys that have like
+really nice cocktails. They're always busy, right?
+Because they have this mystique about them where
+it's like not everyone can come into the club.
+I went to this cool speak easy once and I was
+in think I was in North Carolina and you had to
+like open this like weird door and then like some
+they needed like a password to get in, right? So
+like there's like like you know it's almost like
+like one of those like spy movies where like the
+little isolate opens in the door and they're like
+who are you? What's the password? But like then
+you see why those are so busy because there's that
+scarcity or there's that exclusivity. So yeah, you
+definitely don't want to be too uh too available.
+Yeah. And on the fake side, I've heard of
+nightclubs that have opened like that in the past
+and what they do is they just don't let anyone
+in for the first like couple of weekends. That's
+funny. So everyone's just stood outside in the
+queue. It's a no. It's too busy music blasting and
+Yeah. Same same deal. [laughter] Yeah. I like I
+like what you said about your email list, though.
+I So I heard of this one really cool funnel
+recently. A friend was showing it to me. Um,
+and it's making like just millions and millions
+of dollars, like millions a month. Uh, and their
+funnel was basically they put people through
+like uh they buy like a seven-h hour workshop
+or whatever. So, it's like a seven-hour like
+thing to like basically indoctrinate them into
+their process. And then they're only hopping on
+calls and making offers to people that have went
+through the seven hours, right? So, they they can
+basically tell who's actually they're using like
+a software that can tell who's actually made it
+through all seven hours of this workshop. And then
+they're literally only and they're I think they're
+selling like a 50k program or mastermind or
+something, right? But they basically they're only
+getting people on the call. I think they're even
+might not even be selling it through DMs because
+imagine that selling a 50k program through DMs,
+but if someone's went through seven hours, like
+you're creating the most indoctrinated qualified
+leads. So that's that's a really good point you
+brought up about not just like Yeah. actually
+having a way to indoctrinate people um that you're
+only showing your offers through your email list.
+Yeah. Yeah. Yeah. And I I recently spoke to
+somebody on like a virtual coffee because she
+said she liked my content and she we basically got
+on this virtual coffee call and she asked me what
+I thought of her content and her profile. And I
+was like, well, I've not really looked that much,
+right? We connected, so I'm going to get on this
+call with like, let's have a look. You're willing
+for me to have a look right now. So, I went and
+looked at her headline and stuff and I was like,
+yeah, your headline's pretty bland. You know,
+there's nothing there that really stands out as
+you. There's no essence of you. Your content, her
+hooks were really good, but this is like obviously
+AI. This bit not so good. And I gave her this
+really like valid, valuable feedback. And she
+was blown away by it. Like totally blown away by
+it. She started asking me what my offers were and
+I was like, "Well, you need to join my email list
+to to find out." And I I followed through with
+it. I could have just gone, "Oh, well, this is my
+offer." And tried to sell her the thing, but that
+would have been inauthentic. And it turns out that
+she was she's on the board for the International
+Coaching Federation in the US. And she was like,
+"I'd love for you to come and do what you just
+did with me with some of our members." And at the
+end, you can make an offer. And I was like, "Well,
+as you know, I won't. I'll offer them to join
+[snorts] my email list." And they loved it. And
+the board approved it. And now I'm presenting
+to like 30 of them in March. Yeah. And again,
+it's like I didn't try to push anything or
+do anything. It's because I genuinely had an
+approach that they can follow that it made sense.
+Um and again, that's the other reason I changed my
+process is most coaches don't want to do the whole
+DM to sales call to that stuff. They don't want
+that. But they do want to build an email list,
+send an email, be authentic, share their journey,
+right? And make sales that way. Yeah. And I think
+that's the other thing is like I believe that the
+way you get clients should be the way you teach
+your clients to get clients when you're in our
+business. And the thing I was doing last year,
+most coaches are just never going to be able
+to do that. They don't have the volume. They don't
+have the the the amount of books you have to read,
+the stuff you need to learn to get good at sales
+takes a long time. And you also have to have that
+personality. Most coaches, they don't want to
+do that, you know? So, there's a better way. Um,
+yeah. It's been interesting. Yeah, that's good.
+No, I mean it's it's good to highlight that. I
+think with any goal you have in business or in
+life, there's always multiple paths to get to
+that goal. So, if some someone's like, I don't
+want to grow my coaching business by doing DMs
+and sales calls or selling a 10K program or the
+opposite. I don't want to have a community of
+20,000 people all paying $7 a month. You can
+literally get find any path to the goal. So,
+first you can choose any goal. You can choose any
+business and you can choose any path to that goal,
+right? Or even with marketing, right? So, like
+any like there's some people that don't really
+like doing content because they just really don't
+like writing or don't want to be on video, right?
+and then they can maybe learn something that's a
+little bit more tech driven like ads or something,
+right? Or or outbound. But you can kind of
+make anything work. It's just about choosing
+what works for you. And anytime I'm working on
+like a solution to get to a goal in anything in
+my business, I'm always thinking like what are
+at least like three to five paths I can take to
+this goal. And a lot of times I'll come up with
+one path that's like way easier, way quicker,
+way suited towards me. So I've really got in the
+habit of stopping myself before I make a decision
+about like how to solve a problem and just
+thinking what's the best um what's the best path
+to this goal. For example, I was helping an agency
+recently um they wanted to double their revenue.
+So, we were working out like their outbound plan
+and their and their sales strategy. And um he he
+had this crazy list of ideas where all these ideas
+probably would have doubled their revenue, but
+they would have taken so much money. He wanted to
+hire five setters. He wanted to do this. He wanted
+to launch a new offer. And I was like, "You just
+want to double your revenue. You don't need to
+launch an offer. You don't need to add upselles.
+You don't need to hire anyone else." I'm like,
+"What's getting you most of your leads right now?"
+He's like, "Oh, LinkedIn." I was like, "Cool. If
+you just double the amount of LinkedIn outreach
+you're sending, you'll double your revenue." Like,
+it's that simple, right? So, you really got to
+stop and find like what's the best way to get to
+uh get to my goal. Yeah. And I think that makes
+total sense. And as someone I think me and you
+are similar in this way, right? I like to do lots
+of different things and lots of activities. And in
+the past that used to then manifest as like doing
+this offer and this idea and this business like
+we said at the beginning because it's exciting.
+But I realized that I can still do that if my
+end goal is the same. And so now, for example, I
+just opened a free school community cuz I like I
+want to do something on school outside of my paid
+community, but the goal is that I get someone's
+email address when they join and I give them
+my marketing plan for 2026 in in return. So,
+I can do all of these different routes and
+platforms and opportunities and things, which
+keeps me interested, but the goal of every single
+one of them is to get an email address. That's all
+I care about. I don't care about anything else.
+Like even in my school community, the free one,
+I've invited other experts to join um and I'd
+mentioned it to you as well. And I don't care if
+they they talk to people in there and build that
+community and market and share their stuff because
+all I want is for it to be an awesome space
+where I get someone's email address when they
+join. The rest of it, I don't care, right? It's
+just a community. It's just an enjoyment and the
+rest of those benefits are good. So I think think
+about what the end goal is. If it's a sales call,
+if it's get an email address, if it's get them to
+join a community, whatever. And as long as every
+activity that you're doing leads in some way to
+that one thing, do whatever you want, right? Try
+as many routes as you like. Yeah. I mean, so you
+and I have talked about shiny object syndrome a
+lot. I'm a recovering shiny object aolic, right?
+Yeah. Exactly. Was that squirrel? Um, so we've
+talked about this a lot. And for me, I I I think
+that the way to solve shiny object syndrome is
+literally as simple as just having a clear goal
+and a clear plan to get there. It sounds boring.
+It sounds simple, but that's that's everything
+you just said, right? So, the the reason people
+have shiny objects, meaning they have a lot of
+new ideas, new offers, new marketing campaigns,
+new systems, they they buy this course, they
+see someone, man, it's crazy. It's like we
+open up our Facebook feed and we're obliterated
+with like, here's how to make money doing this,
+here's how to do this, here's how to do this
+without sales calls or this, right? So it's
+it's it's like shiny object syndrome always
+existed for entrepreneurs, but it's like it's
+times 10 now because of social media and everyone
+trying to sell us their way of doing things,
+right? And then it's not times like another 10. So
+it's times 100 because of AI because now there's
+like 50 AI tools coming out every day, right?
+But when I stopped having shiny object syndrome,
+which I really really used to struggle with
+and when I like I've had the most success in
+my business career the last couple years just just
+because of the simple thing that I did one thing,
+one offer and I did it for a long time, right,
+which is cold email, cold outbound. Um, and I
+really waited a long time before we even added one
+upsell. And my upsell is just LinkedIn outreach.
+And then we added cold calling. So they're
+still like the same thing, but I only added that
+really like really after like a long long time,
+right? But it's still related towards my avatar,
+their goal. So even though I have another offer,
+it's part of the same package and it's part of
+the same avatar helping them get to the same goal.
+But anyways, once I started focusing on one thing,
+what I realized was that when I have clear goals,
+like a clear vision, like a three-year vision,
+and then I have clear annual goals, and then I've
+really thought through like the plan takes to get
+there, right? So every year I I just like it's
+February now, right? I write down what do I want
+by the end of the year. So first I start with
+financials, right? What is what is So first
+thing is what what profit do I want to make,
+right? Because who gives a crap about revenue,
+right? You can you can make a million dollars
+in revenue, but you could spend 900,000 on ads,
+right? Which a lot of people do. And then yeah,
+and then you'll get a Click Funnels award. You'll
+have a nice two comic club in the background, but
+who cares, right? So I always start by planning
+what's my profit goal and then what revenue do I
+need to hit that? And then what types of clients
+at what offer, what price bar do I need to hit
+that? And then based on my current numbers,
+how many sales calls do I need to hit that?
+So now I know exactly how many clients I need,
+right? So by the end of this year, we want this
+many clients at 5K a month average retainer,
+right? And to get that, we need this many
+sales calls per month to actually show up,
+right? So then we're working backwards from that.
+So that's where everyone should start with their
+business. And then okay, if I want to create
+those numbers, right, if I want this profit goal,
+and by the way, actually to even go a level
+further, before I think about my profit goal,
+I think about my lifestyle. What do I want
+my life to be like in a year? Because your
+business goals should support your life goals,
+right? A lot a lot. Exactly. It sounds simple,
+right? But a lot of people are are successful and
+unhappy because of in my opinion this one thing
+they focus on business goals but they don't
+focus on life goals. Right? So they basically
+build their life around their business rather than
+building their business around their life. So I'm
+always thinking first what's the lifestyle I want
+to live? What actually makes me happy? Because at
+the end of the day all entrepreneurs all of us we
+started because we wanted to have a better life, a
+better life for ourselves, for our family, right?
+So, but we get lost along the way because we get
+sucked into making money and these goals and
+then this course and this idea and this program
+and that and then all of a sudden we're like what
+the hell am I doing? Like I wake up one day with a
+business that I don't even really really enjoy.
+So, it goes right back to what you what I said
+earlier about like making sure that the the route
+you choose suits you. Why I switch to email over
+this? Right. Exactly. Not to interrupt you, but
+just to add to it, you know, for sure. Yeah. So,
+you have So, you're it's about being clear on the
+vision but flexible on the path. Right. Like Jeff
+Bezos with Amazon, right? He was he was always
+clear on his vision, but he changed the path.
+At first, it was books and then he kind of like
+adjusted things along the way, but he was always
+clear on his on his vision for like the last uh
+20 years. So So anyways, um you're clear on the
+vision, right? So I have my yearly goal, right?
+My financials that I need to hit the profit goal,
+which is a meaningful, it's not just I want to
+make 100k a month because it sounds cool, right?
+It's a nice round number. Um but it's a meaningful
+profit goal that actually gets me somewhere in my
+life. And then it's about okay, what are three to
+five things that need to happen in my business to
+get there, right? Because if at the end of the
+day, if you keep doing what you're doing now,
+you're going to produce the same numbers and the
+same results, right? Like if you want to double
+your business, you have to double like you have
+to make like double the changes, right? Do Yeah.
+Do more volume, do something new, maybe. Usually
+not. The mosy more basically, right? More, more,
+more. Exactly. So, but a lot of people don't
+like this dawned me a couple years ago where I
+was like stuck on business for a little while, but
+I was like, I'm stuck in my business, but I'm kind
+of the same person. I'm kind of doing the same
+things. I kind of have the same habits. I kind of
+have the same level of skill. like if I actually
+want to double my business and make massive
+change, I have to make that much change in myself,
+right? Whether it's my skills or my habits or my
+team or whatever. So anyways, um you you have your
+goal for the end of the year, right? And then I'll
+work out three to five things I need to change.
+Maybe it's like projects like things you want
+to achieve, right? And you can just work backwards
+like if I need this many clients, like what what I
+need to change do is is my current marketing going
+to get me there? Okay. No. If not, can I raise the
+volume on that? Can I launch a new channel? Right?
+Do I do I just improve conversions? You're reverse
+engineering it basically. Exactly. Then you
+reverse engineer and then it gets really easy to
+because you start to actually illuminate a path to
+your goal, right? And then it's like, okay, wait,
+now I figured out the marketing. Now I figured
+out how I can get this many clients this year,
+but does my does my fulfillment support that? Can
+I actually deliver for these guys? Right? Um well,
+if not, okay, who do I need to hire? Who's going
+to be the first person to get at capacity and I'm
+going to have to replace them? Add more AI, add
+more automation, hire someone, right? Anyways,
+what you end up with is a list of projects and
+then a list of tasks and then you just action
+that out. And once I learned this process,
+this is what cured my shiny object syndrome,
+right? This is what healed me. Yeah. Yeah.
+Because then you've got to paint by numbers,
+right? Yeah. Exactly. And then every time there's
+a new thing I'm hearing about a friend doing,
+I'm seeing this cool new thing on Facebook or
+I'm seeing this ad about this program or this new
+strategy, I block it out because I'm like, well,
+this doesn't fit within my plan. And obviously,
+there's still some things that change. I I'm,
+you know, I could be wrong in my plan. I could
+maybe adjust something along the way, but
+it's mostly the same. Right. So, I think
+if you're stuck with shiny object syndrome, it's
+usually because you don't have focus, discipline,
+and goals. Right. Totally. Yeah. And that that's
+the framework. If people follow that, then it
+will work. It's similar to what I do. I do like
+a monthly reflection. I just want to pull back to
+something you said right at the beginning which I
+think a lot of people get wrong and it's a really
+really important distinction. You said about
+not changing your offer for a year, two years,
+right? Long time. Yeah. Yeah. I think a lot of
+people when you said offer, your offer is cold
+email. Yeah. Right. I think a lot of people think
+that when you say offer, it means get this for
+this like the actual mechanism of the offer. No,
+that's just that's just the positioning. Yeah. So,
+so what people do, a lot of new people is they'll
+pick this thing. It's like, oh, it's 4K for this
+12 weeks or whatever and this is how it's packaged
+and then they just stick to that for 12 months and
+no one's buying it, right? But that's not the
+offer. The offer is the mechanism. Yeah. And
+I think a lot of new, like we know because we've
+been doing it for a long time, but a lot of people
+new to business, just starting out, they think an
+offer is literally like the wrapping paper that
+you put around it. So, they'll create one and it's
+usually rubbish because they're brand new, right?
+and then they'll just stick with that for a year
+and be like, "Why is this not working? I don't
+get it." What you just said there is perfect. It's
+the vehicle, right? So, you pick email, you pick
+um outbound, whatever it might be, right? And
+then you make multiple different types of offers,
+launching them every single week if you want to
+that that change the way you package them. Yeah,
+you could test the packaging. Exactly. But that's
+that's like the the copy, the marketing magic,
+right? But the offer itself, I agree, is really
+just what you're selling, how you're delivering
+it, and then the terms and pricing associated
+with that. Everything else is just messaging
+and positioning. So that that you should be
+testing, right? Constantly. But honestly,
+I've been doing cold email for six years, right?
+Only once did I even change the vehicle where we
+went from cold email and outbound coaching to
+done for you. But it's still the same thing,
+just a slightly different delivery. So six years
+doing the same thing. And now like now I get
+people referring me all the time, people that
+tag me in Facebook groups, hey the cold email
+agency for B2B companies, right? Yeah. So yeah,
+just sticking with one thing. Honestly, that's
+if people could take any anything away from this
+podcast AI aside, it's just stick with one thing,
+do it for a long time, and then you get the
+compounding benefits. Cuz now that I've been
+doing one thing for a very long time and I've
+been doing outbound for longer because I used to
+do like different outbound sales and I used to do
+door to door sales, which is a story for another
+day. But by doing outbound for so long, I have so
+much skill and knowledge, right? And just so much
+reputation like like the benefits of doing one
+thing for a while is people start to refer you,
+people start to know you as the guy, which is
+really uh really powerful. Totally. Um anyways,
+for the last 10 15 minutes, let's definitely
+talk about AI. give the people what we promised a
+little bit more. Um, so I think it's great though
+that where we went though because we really talked
+about the fundamentals of business that AI should
+support. Everything we talked about so far is what
+you should build your AI for, right? And we talked
+about what not to do. But at the end of the day,
+I think where a lot of people get lost is they
+think AI is the thing. AI is what's going to
+get me clients. AI is what's going to improve
+my operations. AI is what's going to grow my
+business. But it's not. It's these fundamentals
+we talked about. Uh, and AI is just an enhancer
+to help you do some of these things a little bit
+more efficiently like content, you know, sales,
+etc. But what are your thoughts on that? Yeah.
+Again, so these fundamentals that we've talked
+through, this is what business is about, right?
+It's about doing the fundamentals often enough so
+that things work. And AI is just a tool. Yeah.
+It's the same as what in the past we had other
+tools that we used to use. We had like you had
+to have a website, you had to sort your SEO out,
+you had to write blogs, like all of these kind of
+things. It's just a tool that's part of it. Now,
+for me, and I'm just going to explain what I
+use AI for in my business rather than going
+down any crazy like use this tool or 40 tools,
+multbot. Yeah, I do have like 10. I use 10 SAS
+and I I audit it regularly and I go through and
+go, do I actually use this tool? And there there
+are 10 that I use. Yeah. Um, and we can probably
+talk through some of those. Yeah. The main tool
+I use on a daily basis is Claude. And Claude is
+one my thinking partner. So if I'm got an idea,
+I want to talk something through. I have a prompt
+I've created that basically makes it become like a
+consultant and a coach for me. So I'll use it and
+say, you know, I'm running into this issue. What
+do you think? and I'll have it ask me clarifying
+questions and go back and forth. Claude's amazing
+for that, right? So, I use it for that almost
+daily. Uh, well, definitely daily. And then
+the other thing I use is Claude Projects. So, I
+build out prompt systems for making my content.
+I have one that creates my emails in my voice and
+style. I have one that validates whether or not
+the things I want to post and comment on match my
+positioning. That's good. Or whether it's me just
+ranting and kicking off and probably should leave
+it and not post. I have a bot that does my tweets
+and my social posts and all of this stuff, but
+it's all around content, copywriting, repurposing,
+all of that kind of stuff. I still have to read
+it all at the end, but I've got it dialed in to
+a point where it produces content that most people
+have no idea it's AI, but if they ask me, I tell
+them, I don't care. So, that's the number one tool
+for me, Claude. Uh, chat GPT I use honestly these
+days for like I've got all these ingredients in
+my kitchen. What do I cook for dinner today? Yeah.
+Life things, right? Yeah. Oh, I I I've got this
+gym equipment and this thing at home. Like, how do
+I mix this so that I get the best value but don't
+burn myself out? So, chat GBT is almost Google for
+me now. Same. Um, and and that's the tool I I
+get in quite a bit after that. And I use Gemini
+and Nano Banana for like making images, memes.
+It's really really good at making thumbnails for
+YouTube, right? It can be super frustrating if it
+goes down the wrong path. And one of the bits of
+advice I'll always give to people in any AI is if
+you're in a chat and it starts going wrong, it's
+often quicker to just start going than it is to
+just keep going down that same path. A nano banana
+is definitely like that. If it starts to make you
+look weird or unusual, just take it out. You know,
+it's Yeah, it's memory is not very good. So you
+can also a good tip for it is if you can start
+with a thumbnail create like two three versions
+then take that thumbnail and put it in another
+chat and then make the next two three changes and
+then take that version and put it into another one
+so it doesn't start to get confused with all
+the other images. I probably use Nano Banana
+every day as well to create some kind of meme or a
+thumbnail or whatever else. Um and then it's like
+video editing tools. So things like um descript um
+to put like subtitles and captions or remove the
+filler words, remove the ums and a automatically
+and and sometimes I leave those now because I feel
+like we're in a world where polished is usually
+AI. So people respond to a little bit of an or
+and I think the best way to avoid doing those is
+to make a lot of videos to speak a lot to get used
+to not using stop words and being comfortable in
+silence. and then you don't have to spend so much
+time editing and and again it's it's by doing
+it over time. So they're the top tools I use a
+tool called Ideogram quite a bit. It's quite
+good for making text. So like sometimes I'll
+have like a a billboard in a famous city center
+like Time Square and I put like the key lines
+from my post into into Ideogram or idoggram and
+then that becomes the picture for for my post.
+Um, so yeah, I mean that's like the the package.
+It's is nothing special or crazy. I don't use any
+mad automations or anything like that. I'm quite
+excited that I just saw Claude have released Opus
+4.6 and apparently that has a Gentic capability.
+So it's come to my platform which I I'm a master
+of Claude. I've been using it six, seven hours a
+day for the last two or three years as you know.
+So now that's got a Gentic capability. If I'd have
+wasted my time going and learning Manis and all of
+these other things and whatever else, eventually
+it would have come to the tool that I use every
+day anyway, right? So, why not just pick one and
+stick with it? Yeah, that's good. Yeah, because
+honestly, first of all, when you see like there's
+some influencers I see that every couple days
+they're posting about this new this new AI tool is
+going to replace developers, it's going to replace
+designers, and they're always doing their thing.
+I think I was talking about this with a buddy last
+night. Most of them probably aren't even using the
+tools that they're hyping up and just it's just
+kind of to get like some viral attention, which is
+fine. You know, you got to play your own play your
+own game. That's that's their that's their like
+content strategy is talking about new AI tools,
+right? But honestly, if you're always bouncing
+from tool to tool, you're never going to get
+actually good at one. It's the same before we
+talked about actually doing one thing for a
+while is the key to success in anything. You keep
+doing it, you just get really good at it and you
+develop all the nuance and all the skills.
+So, um that's cool. Yeah, I think it's it's
+cool to hear all the different tools you use and
+the ones that are most common. And I love that
+it's just like really four that you're using
+a on a daily basis, right? Pretty much. Yeah,
+that's it. Because the rest of it is is noise to
+be honest. I also use it for like creating titles
+and creating these kind of things. And the key to
+making it work well isn't necessarily the prompts,
+it's the examples. Yeah. Right. So, the other
+thing is if you're starting to make content with
+AI, you want to be editing things quite heavily
+and understanding what good copywriting is.
+And then you want to create a file with all of the
+posts that you really like, that sound like you,
+that that have all of those things that you want
+in your content in there. And then using that as
+like a knowledge file so that AI's got a reference
+to go to. Right. Right. So to begin with,
+if you don't have that, you can pick someone else.
+Right. We all imitate until we master and then we
+figure out our own way to do it. So you can pick
+someone else that you like and you can give it a
+host of their posts, but then you need to start
+editing the outputs so it sounds more like you.
+So it sounds more like you. And if you do that for
+a month on every content type that you produce,
+you've got these amazing data files of of your
+stuff. And then you can start just keeping it.
+Like I keep every post that I do goes into a
+Google doc. Every single post that I do. And
+then the next month I'll do another tab on the
+Google doc and put all the posts from that month
+because then the progression over time the quality
+of the examples you can give to AI is going to
+get better and better. So that's the other key
+thing. It's like build data now. Build your data,
+who you are, what you do. Like I have like a
+14,000word document of my life and my history
+and all the things that I remember and stuff and
+I wrote that out manually and I use that with AI
+to pull out insights, things I can talk about so
+it knows who I am and what I'm about, you know,
+because as AI gets better and context windows gets
+better and the rag retrieval of information gets
+better, the more data you give it, the better
+the results are going to be. Yeah, for sure. So
+I want to back up and um first of all, that was
+awesome. I want to back up and explain to the
+audience one thing so they can they can actually
+implement this. So, first of all, um, dude,
+you're the person I've learned the most about
+AI from. You're really good at it. And that that
+one thing you shared there was the best thing that
+you helped me with that's helped me the most in my
+business. So, I really want to harp on this. For
+anyone who doesn't know what he's talking about,
+we're talking about creating a custom bot. This
+could be a custom GPT or a claw project. Meaning,
+instead of going into TAC GPT and saying, "Write
+me a post about dogs." You're going into a custom
+version of Chacht you created for yourself for
+a specific person. That could be anything. I'll
+talk about a few of the ones I use as well.
+Uh but essentially the problem with you know
+the problem with AI or at least chatbt Claude
+all these LLMs the reason why most people have
+a hard time getting good content or anything good
+with marketing out of it um you know copy website
+offers right is that they're just asking it and
+it's all general knowledge, right? They ask it a
+question and what it does is it scans the web and
+all it's going to find you is it's going to find
+you like the average of everything. It's going
+to find you like just the same kind of generic
+like everything put into one, right? Um, so by
+nature it's going to be generic and it's going
+to be what everyone else is putting too. So what
+Jack is talking about here is creating um creating
+a custom bot that's trained on only your data. So
+instead of saying hey chbt do this thing for me
+or produce this output which is going to be based
+on the internet I want it based on this specific
+data. That way you can really point it and control
+it to get a certain result. So that was the one
+thing that helped me the most that once I started
+implementing it was creating custom GPTs and cloud
+projects. The first one I did that made a big
+difference was um a cold email copywriter. So,
+you know, for I mentioned before that we get a lot
+done with a small team at our cold email agency,
+right? So, I was actually about to hire another
+copyriter, which would be at least 6 to 10k a
+month, but I was able to get around that because
+we created a a copyrighting bot. Now, I still have
+my one copywriter, but they can do the work of
+two copywriters because they have this bot. So,
+for example, instead of saying if if I went
+to ChachiPT and said, "Hey, write me a cold
+email for this SAS company." It's going to
+be garbage. It's going to be trash, right?
+It's going to have a lot of mashes and a lot of
+here's the reality, right? Because it's trained
+off of the internet. which is trained off of the
+most common blogs, right? Um, so instead I said,
+"Hey, let me just let me I spent I spent like
+a day going through my email and looking at all
+the cold I saved them all in a folder. I look at
+all the cold email pitches I get, all the appon I
+received. I save them all into shitty cold email,
+okay cold email, and then good cold email." Yeah.
+Um because I use a lot of times for like training
+and like teaching people things. But um making fun
+of people. Making fun of people. Exactly. I have
+a couple of those [laughter] too. Really bad ones.
+Um but uh where they spell my name wrong when
+they reach out to me. But well, they say how
+rubbish everything you're doing is. Yeah, exactly.
+You're you're the worst person in the world. Now,
+hire me for this. Right. [laughter] Um, so I took
+a look at your website and it was garbage. But,
+uh, but anyway, so I I I spent a day going through
+the best cold emails I received along with the
+best cold emails that we've produced that have
+gotten a lot of leads and booked appointments
+for our clients. So, I created this master file
+of like really, really good examples of cold email
+along with other things like my frameworks and,
+you know, principles and all of the things, right?
+just to basically if I was if I was going to
+train an employee on how to write cold email copy,
+I created all those documents, right? But then
+I you could probably give it what's bad as well.
+Give it what's bad and tell it this is like never
+do this stuff. That's a good idea. I should do
+that next. Definitely. But basically, it's like as
+if I was going to train an employee, I create all
+these documents, but then I optimize it for AI.
+So instead of just taking a long document saying,
+"Hey, optimize this for an LLM because it can
+make it more efficient and less word count and
+all of that." Um anyways, I put that in a bot and
+then now it writes cold email copy just as good
+if not better than us. um and then we just edit
+it, right? But the cool thing about this is it's
+not just about saving time. I used to think that
+if I was going to use AI in my business, it would
+just save me time, but it actually produces like
+better results. So, I thought for a while that
+um especially with copyrightiting, oh, if I use
+AI for copywriting, I might only get copy 80% as
+good. And maybe I'm okay with that if I can
+get more output out. But I realized a lot of
+times it's better because it's only trained on
+good examples. Like our brain when we're doing
+something, when we're creating something, we're
+going through our inefficient memory to think
+back to good examples and things that we know.
+But this is like a perfect memory that can only
+be trained on good examples. So I think um we're
+talking about copy and content but you can create
+custom cloud projects chatbs for anything right
+it's it's just anything to basically like train
+it on the data that you want so it produces the
+specific output you want and then it gets really
+good because it's not this general tool but it's
+it's just one bot that becomes really good at one
+thing. So I think that's like the simplest thing
+anyone can do is just start creating a few bots
+um usually club projects if it's copy or content
+because we everyone here everyone listening wants
+to make more social media content. We all know
+that social media content helps grow our business.
+It grows our authority. Um, I love it because
+it doesn't just bring in new leads, but it also
+nurtures your existing leads. It's like the one
+marketing that makes your other marketing better,
+right? Yeah. What do they say? Seven hours of
+content needs to be consumed before somebody
+wants to Yeah. 714. People need people need to
+cons. So, Google released data that people need
+to consume seven hours of content um across 11
+touch points on four different platforms within
+a certain period of time, I think, as well. Three
+months or something. Something like that. Yeah.
+Yeah. You have to look it up to get the exact,
+but something along those lines. Yeah. Um uh but
+essentially people need to see a lot of content
+before they make a decision, right? They they want
+to really be warmed up to you. And like you said
+earlier, trust is at an all-time low. People have
+been burned. They've been scammed. They've hired
+agencies. They've hired consultants. They've hired
+coaches. They've bought things that just were were
+garbage, right? So people are skeptical now. And
+the especially the high ticket space is kind of
+going through a little bit of like a transition.
+Yeah. So trust is the way out. Personal brand is
+the way out. Um but again, the problem is how do
+I get all this content out? How do I produce, you
+know, all this content every day without without
+being an influencer? It's like, hey, like, how
+do I actually run my business, but then also like
+create all this content, right? Because like a lot
+like a lot of the biggest YouTubers, they're not
+running a business. They're just creating content,
+right? So, but AI is the way, but to actually do
+it well, you have to create your own uh your own
+bot. Yeah. Your own bot and your own system and
+your own process. Like, we're sat here now. It's
+nearly 2:00 in the afternoon on a Friday. I've
+not produced any of my content yet today. Yeah.
+I've got an offer to make. I've got an email to
+create and I've got all my other content. I'm not
+stressed in any way, shape, or form because I know
+I've got this system that I'll go home, give my
+insight, probably be related to something we've
+discussed today or finally doing this podcast or
+whatever, and I can go home and within an hour or
+so, I can bash that all out and be on all these
+different platforms, you know, and I'm not saying
+that I'm just doing it myself. I've got a couple
+of VAS that support me and and I think that again
+is really really important to have some humans
+that can help you with these things. Humans,
+the humans, the humans, the humans in the loop.
+But it's yeah, there is no stress or pressure
+because I know I've got this system that I've
+built over time that constantly improves because
+I'm improving it and working with it. And by going
+really deep on one AI, I've got much much better
+at knowing how to talk to that particular AI
+because each one has a slightly different process
+of how you communicate, how you prompt, right? A
+lot of people get it wrong where they they they
+add too much to prompting. And this is just going
+into prompt engineering so you guys know cuz we're
+on a a mystical tour of the the world in this in
+this podcast. So prompt engineering wise it's like
+cooking, right? So what you should do when you're
+trying to build a good prompt is you should start
+with the absolute minimum of what you think is
+going to work. Right? So keeping it really really
+simple with very very few things telling it what
+to do rather than telling it not what to do. And
+then you test. So you have two two windows open
+maybe one clawed here and one clawed there right
+and you're like okay this is the prompt you take
+it you put it into the custom project you've built
+over here you test it and then you get the output
+and then you look at the output and you're like
+okay I I want this different this is an issue and
+then you go back and you add like one thing to try
+and fix that that thing one instruction and you
+go back and forth and the reason I say it's like
+cooking is if you build a prompt that's massive
+straight away it's like putting too much salt
+in there's No taking salt out, right? But there is
+adding salt in. So then you might even go and test
+it live and make make a few posts for a couple
+of weeks or create a few messages for a couple of
+weeks and then you'll start bumping into the same
+issue over and over again. So then you go back
+and you go, "Okay, I need to add a bit of paprika
+into my paprika." Yeah. Yeah. Bit of bit of smoked
+paprika over there or a little bit of whatever.
+And that's that's how you prompt. Well, you don't
+start [clears throat] with this massive It becomes
+that, right? because you you start to learn what
+needs adding and and what not, but you don't start
+with something big. You try and start as as simply
+as you possibly can and then you add things based
+on feedback rather than trying to perceive what
+the problem's going to be and solve that problem
+up front. You know what's wild? Um, first of all,
+I fully disagree. No, I'm just kidding. Just
+kidding. Good. No, you [laughter] No, I completely
+agree. And actually, that's that's the same
+underlying theme of the whole podcast, right? We
+keep talking about, we were talking about earlier
+how when you're building a business, launching an
+offer, working on your like marketing channels,
+you have to just build, right? It's it's the from
+the lean startup. Build, measure, learn, right?
+Start something, start with the minimum viable
+product, right? In this case, the minimum viable
+prompt. You should totally you should totally
+brand that. I'm getting that on the t-shirt,
+dude. No, it's my t-shirt. [laughter] But, uh, you
+start with something minimal, start with something
+middle, get feedback, and add more over time. It's
+like it's basically how you do anything in life,
+right? Like with cooking, that's a really great,
+uh, great example. But that's really cool. Oh,
+I love hearing their prompt engineering. I think
+um what's what I want to point out there for the
+audience is like that still takes time. So even
+though you're using AI, it still takes time to
+use AI well. So it's not just let me type one
+sentence into chat GBT and have it fix my life
+and fix my business, right? Or write this amazing
+social media post. It still actually takes time to
+work with a prompt. So yeah, I think I think with
+um one of the biggest misconceptions with AI is
+that it's just going to do everything for you.
+It's to me it's more about collaborating with AI
+and that's what I'm hearing you say. It's more
+about collaborating with AI versus delegating to
+AI. When you delegate to AI, that's when you get
+your clawbot commenting and cursing people out
+on their posts, right? Yeah. And I've got a story
+that that relates to this. So, when I when I first
+started my content agency, which is the business I
+actually lost because I got so I thought I would
+made it. I was making like 20K every month. I was
+playing golf, doing all of this stuff. But it
+was all word of mouth. And I kind of got lucky.
+I of course I had to build it and whatnot and I
+had to manage the teams and whatever. But when I
+first started that company, a lot of the writers
+that I had came from a previous company that I
+worked for that was that were ripping everybody
+off, right? So they were paying people like $8 a
+thousand words or whatever. Gez. And I took those
+people and I tripled their salaries to come and
+work for me. And what you would think would happen
+is that they would work the same amount of hours
+and make three times the amount of money. But
+what most of them did was just work a third of
+the time. [snorts] And it's like that with AI and
+with the way humans see AI. They're like, "Oh,
+AI's here." So now instead of working 40 hours, I
+can just work 10 hours. No, no, no. Work 40 hours,
+but get way more output. Get way more output.
+And like it's it's just so funny how people
+see it that way. And and it's like AI is is here
+already. It's it's going to be like I genuinely
+believe if someone has been using Claude for three
+years but isn't a lawyer goes up against a lawyer
+who's never used AI and doesn't use AI, the Claude
+the Claude guy is going to wipe the floor with
+the lawyer. Now, if the lawyer starts using AI,
+they're obviously going to win because they've got
+all this extra knowledge and they know the right
+questions to ask. the same way if me and you try
+and write a post with our copyrighting experience,
+it's going to be so much better than someone who
+doesn't have any experience, right? But the person
+who's using it, well, they they can out outpace
+anyone that's like, I'm not going to use it. And I
+think I know I jumped a little bit there, but I do
+have this big frustration with people who go, "Oh,
+no. I I write all my own content. I don't want
+to use AI. I like to write all my own content."
+Because it doesn't it doesn't make sense. There's
+no sense in writing your own posts anymore. M it
+just doesn't why why why are you doing that like
+oh I like writing posts what come up [laughter]
+like no you don't and a lot of the time they are
+still using AI anyway they just don't want to
+tell you that they and even at the very minimum
+if you're like really like can't get around that
+and you still want to write everything yourself
+and honestly sometimes for me personally first of
+all I love that you said that I think it's a very
+bold statement I think probably some people might
+agree or disagree in the comments so we can get
+some good conversation going below and I'll reply
+to those comments with AI [laughter] yeah exactly
+and I'll reply to your comments with my AI Um,
+but sometimes what I do is I purposely, so I use
+AI for my content, but I again I collaborate
+with it. I edit it, right? Because again,
+if you delegate to AI, you're going to get crap
+results. But if you use AI to make you better,
+like a superpower, that's a much better framework
+to to approach it from, right? But so for me,
+I use AI for my content, but at a minimum, if
+you really want to write your content yourself,
+at least use AI to come up with the first draft
+or the ideas or give you hook variations or give
+you research. So like you can still use it for
+like around the process you want. You don't have
+to like give it completely away to AI. For me as
+well, what I do is sometimes I person sometimes I
+purposely write posts manually just occasionally,
+not because I have to, because I my AI is really
+good now. Um, but just so I can kind of keep
+the skill sharp. I think that's important too
+because I think if we also outsource too much of
+the thinking to AI, like we might just eventually
+become just like sloths, you know. That's true.
+It's like you're proving the capability that you
+can still do it. But I actually think that you can
+learn with AI as well. It's like you can produce a
+post and then edit and go back to AI and say like
+what do you think of this post and and you can
+kind of do do thinking um uh what's the word for
+it. It's like it's it becomes a thinking partner
+like I mentioned earlier um where you you go what
+do you think about this post? I actually want to
+give a really good prompt that everybody can take
+away and use. is if you have your memory turned
+on in whatever AI you use, you can give a post or
+an email or whatever else and say, "Stand in the
+shoes of my ideal client and tell me what they
+think of this." And you just get like awesome
+feedback. It's really, really good. It works for
+everything. Could be an offer, could be an email,
+a landing page, or whatever. But this back and
+forth collaboration and challenging AI and saying,
+"Well, really, do you should it be like this?
+Why would this hook work like that? Why did this
+hook work? And why didn't it why didn't this
+one work?" Right? That's the way you should
+be using it. Like moving to thumbnails, but on
+this same thing, you know, I said earlier Nano
+Banana is really good at making thumbnails. What
+I tend to do then is because I'm not a designer,
+right? I don't know. I love making stuff, but I
+I don't know if I'm any good at it. It's like I
+know I'm good at copy. I don't know if I'm good
+at design, but I'll take my um my thumbnail,
+put it into chat GPT, and say, "What do you think
+of this thumbnail? Give me feedback." Yeah. So,
+this is what I'm going for. So, you basically
+you're using it to actually teach you. You're not
+just outsourcing all your thinking to AI and just
+letting it do its thing. You're actually using it
+to help you get I do that a lot as well. I think
+it's really uh really smart and back and forth,
+right? So then it's like this says, "Oh, I would
+change this. I would make this slightly bigger.
+I would It uses words I don't even know about
+design. Increase the whatever of this and put so
+then I'll take the bits from there and put it back
+into um the the Gemini Nano Banana. And then that
+will update the thumbnail based on the feedback
+from the AI. And you can do that with all kinds
+of stuff. It's like, oh, what do you think of this
+banner? What do you think of this thing? and like
+gradually feed back between two different AIs. So,
+they're kind of working together. And that makes
+me excited if you get to a point where there's
+an agent that can kind of do that loop, you know,
+like it's like, "Oh, create the post QC. You
+failed QC because of this. Okay, now update the
+post. Okay, QC." And and it's kind of because it's
+two AIs, cross-checking each other. Yeah. Yeah.
+Rather than one where it'll get eventually it gets
+bored and it thinks it's used too many tokens and
+it wants you to just shut up and take the answer.
+It's like, "Oh, yeah, this is great now." 10 out
+of 10. If you then go and it's two AIs going back
+and forth, you get an even better out because they
+critique each other. Wow, that's really uh that's
+really awesome. Yeah. Um I haven't tried that yet.
+Just using two at the same time. That's pretty uh
+that's pretty cool. Yeah. Yeah. Yeah. And if you
+cross platforms, one chat GPT, one claude, you
+get like different perspectives and that stuff's
+really cool. Super fun. That's cool. Yeah. So, it
+can really make you a lot smarter. I think that's
+pretty awesome. Um because I know I was watching
+a video the other day about how a lot of college
+kids are just outsourcing their essays to AI
+and some of them are getting like expelled from
+school or like under review or whatever. but
+then they're they're not using the right way.
+They're just having try to do everything versus
+actually trying to help them with their essays to
+get better and kind of collaborate, right? So,
+that's been my biggest learning lesson is use
+it as a collaborator. Don't just delegate to it.
+I think um yeah, I think that's how you actually
+produce better work, but also um learn more in
+the process, but it's just like having like an
+assistant that's just like super super smart and
+can just help you with anything, right? Yeah. So,
+um yeah. So, yeah, for the last few minutes,
+even though I've been saying that for a while,
+we meant to go for 45, but now it's an hour and a
+half. I'm good. But yeah, we can keep going. Yeah,
+I love talking about this stuff. Um, so for the so
+I want to talk about a couple of more use cases in
+my business. So you took some time to talk about
+your favorite ways to use AI and your best tools,
+right? I'm going to talk as well about mine, not
+necessarily the tools because I want to talk about
+the actual areas in my business I'm using it
+underneath the tools, right? Because again, you
+cover the best tools. I use the same ones, right?
+Yeah. Yeah. So the best the the most common ways
+I'm using AI in my business and the ways that it's
+helped me the most is first like we already talked
+about content creation. created my own cloud
+project, uploaded my tone of voice, my style,
+my best post so that it has good examples to learn
+from and knows how to actually talk like me and
+not sound like a robot, right? Um, also one thing
+as well is once I've created that bot, um, the
+other the other way to get good AI written content
+that actually sounds authentic and is good is um,
+give it like raw material. So I don't just go
+into Claude and say, "Hey, write me a post about
+BB marketing." I talk on my phone and voice note
+for five minutes about my idea and my topics and
+my stories and then it writes that. So it's still
+really me writing it, right? That's an awesome
+thing. Yeah. So that's the difference, right? So
+don't don't just like be lazy with your prompts.
+Actually give it like insert yourself into the
+into the prompt, right? Talk to it. Exactly.
+Because then that's the difference between a post
+that just looked like it's the top five tips that
+came from a blog versus a post that's still your
+originality. Right. So you have to preserve your
+originality and your uniqueness, right? That's why
+people follow you. That's that's why people follow
+personal brands, right? Yeah. Yeah. So, that's
+that's been one way. Um, but I know we've mostly
+talked about marketing use cases, which I think
+is where everyone should start. I think marketing
+is kind of the easiest to start to do with AI,
+but I know we mostly talked about copyrightiting
+and content creation. So, I want to talk about
+a couple of other ways I've been using AI. Um,
+we use it a lot for our operations to be more
+efficient. I mentioned this earlier that I have
+like, you know, with a team of seven people, eight
+including me, we're getting like the work done of
+like 16 people and it's largely because of AI,
+right? So, what I've done and what I recommend
+everyone does is go look at go audit your
+workflow. Two things. One, look at your customer
+journey. I mean, if you haven't done this in
+general, like this is really good to do for just
+understanding your business and optimizing it. But
+write down your customer journey. You could use
+a whiteboard or an app like Miro and just look at
+the whole look at your business as a straight line
+almost like a conveyor belt, right? What happens
+at the beginning? What happens at the end? Well,
+first we get attention somehow that maybe it's
+LinkedIn, maybe it's cold email, maybe it's ads,
+then we get leads. Then how do we convert those
+leads into calls? Well, usually you have setters
+reaching out and they're booking them for a
+call. Then there's a second call, then there's
+a proposal, and then someone signs up. And then
+they go through the four-month delivery and then
+what happens. Do they offboard? Do they ascend? Do
+they do they upsell? Right? And then you document
+all those steps. So this is also how you actually
+optimize your business and understand like what
+the hell it is you're actually doing. But now
+so like this is what I was doing before AI,
+right? Because this is how I, you know, figure out
+like where I need to build systems, where we need
+to kind of focus on, where the bottlenecks are,
+um, and what we actually need to improve. Again,
+this is another way to avoid shiny object syndrome
+because I'm not just coming up with random ideas.
+I'm actually looking at my business on paper and
+seeing like what needs immediate improvement.
+I'm going to implement this as soon as I get home
+because I've never done that. Oh, dude, it's the
+thing ever. We can do it together after [laughter]
+the after the podcast. But basically, when you
+when you look at your business as like a like the
+a value chain, right? Just a conveyor belt. You
+can look at where are things breaking down, right?
+So, every time I want to grow my business or I
+want to like optimize it, I'm not just thinking
+about random ideas that I again saw on a Facebook
+feed or saw my friend posting about. I'm looking
+at my business as a straight line and where are
+things breaking down? What is the single part that
+if I fix would allow more people to go through
+that line, right? This is just constraint theory,
+right? So the constraint theory is basically that
+you don't grow your business by just thinking
+of how to grow your business. You grow your
+business by finding the thing that's blocking your
+growth. Eli Goldrat, right? Yeah, I think so. I
+don't I don't know where it actually came from.
+That's awesome. The books are really good. Yeah,
+I got to check that out then. Yeah. So, basically,
+there's something in your business that's blocking
+the growth. Maybe you're getting a lot of leads
+and the conversion is low, right? Maybe it's the
+opposite, right? Maybe people are going to your
+delivery, but your delivery sucks and then they're
+leaving, they're not ascending, their lifetime
+value is low, right? But if you look at your
+business on paper, usually the problem will be
+obvious. And if not, just look at the numbers,
+right? because then just look it's as simple as
+looking at it like a math equation. Which number
+if I increased it would make the biggest impact on
+my growth, right? So that's what I was that's what
+I've always been doing. Um but now with AI, here's
+where it gets really cool. Now I can look at my
+whole workflow of my business, right? It's like
+one master workflow and see where can we use AI,
+right? What takes us the most time? What takes
+us the most money? Where do we have staff that
+are really hard to hire because they're very
+skilled? And maybe we can kind of like mitigate
+some of that. Where am I relying too much on one
+person? Keyman risk, right? where if this one
+person leaves, I'm screwed and maybe I can have
+more AI to kind of like help support that. So,
+audit your business and see where you can use
+AI for operations. Um, and then like we talked
+about earlier, create custom GPTs or cloud bots,
+cloud projects, which again, you don't need to
+be a developer to do. It's literally as simple as
+just creating a bot and uploading files to it and
+giving it instructions. And honestly, you can
+ask Chat GPT, hey, I want to make a bot about
+this. Give me the files and the instructions for
+it. Right. Yeah. And you can ask it why it's not
+working. Exactly. Yeah. And then you kind of tweak
+it and tweak it, right? So um yeah besides using
+AI for content and copy um best thing I did was
+just use it across my operations to just make us
+more efficient by auditing myself. Second thing is
+a time audit right so uh take a week or two you've
+done this before as well take a week or two where
+you just write down everything you do every 15 30
+minutes right and then you can look at their look
+at how you spent the last two weeks. So if you're
+complaining like I'm so busy I have no time to
+grow my business which is a ridiculous thing to
+say but if you're [laughter] if you're really like
+obviously you're doing stuff that's not growing
+your business so just stop doing that. Yeah. Yeah.
+Watching cat videos. Yeah. Cat videos. Exactly. Um
+so if you're if you're like feel like you need
+more time in the day. Every time I'm too busy,
+I do a time audit. I look at what have I done for
+the last two weeks, I write down all the tasks and
+then I'll take a picture of that. I'll put into
+chatbt and I'll have it actually organize that
+into like categories like, oh, you're spending
+this percentage of time on operations or admin
+or and this is what I do with consulting clients a
+lot too to kind of help them get their time back,
+right? Um, even though I'm usually helping, like
+I'm helping our clients with marketing and lead
+gen and sales, a lot of times we find other
+problems that are actually getting in the way
+of them doing that, right? That's a whole other
+topic. Yeah. Yeah, for sure. So, we do the time
+audit and then I see where am I spending all my
+time and then I just look at, okay, out of all
+these things I'm spending my time on, what are
+the easiest things I can get off my plate, as in
+the cheapest to hire for, the easiest to automate,
+or what can I delete? So, the the dad framework,
+right? Delegate. Oh, no. Delete, automate,
+delegate. So, if I'm doing all these things that
+and I want to get some things off my plate either
+with AI or with hiring someone, but usually it's
+AI first. First, I think what can I delete? What
+if I what can I stop doing and it's not going to
+negatively impact my business because if it's not
+going to hurt my business, why am I doing that,
+right? So, always deletion is like really freeing.
+Then automation, where can I use AI to do some of
+these things? And then whatever's left, it's
+delegation. And this is the three-step process
+I've always used to buy back my time and just keep
+growing my business, right? But um that's a way
+you can actually if if like people that struggle
+to know where to use AI in their business and
+where to start. It's literally that. Look at where
+your time is going, look at how your business
+functions and what needs what needs improvement
+or more consistency and then just start there
+to build bots for it. Yeah, that's awesome. Like
+I've not thought of Well, I've not um I've done
+the time audit but not with AI. And I've not done
+a time audit for quite a long time. So I think my
+cat video level might have gone up a bit. Maybe
+you'll have to see. Yeah, since then. So we're
+going to have to see if that but it does make me
+happy. So yeah, not not hey not everything's about
+optimizing and squeezing productivity out of the
+day like uh being a machine, right? Yeah. Yeah.
+But it's I mean those ways are are super awesome.
+I'm going to test out the the end to end because
+I've never really done that to be honest. Like
+I know that everything runs towards this email
+and then what what about after that? Like where
+does it go? So it's really illuminating. Yeah,
+it's really uh it's a great exercise. Um but um
+yeah, I mean if you look if you look it up online,
+it's called like a customer journey or a
+value chain assessment. It kind of comes
+from like supply chain. Um but uh yeah, that's
+that's really useful. So anyways, as we wrap up,
+any final thoughts or fun things, predictions,
+where do you think things are going? Yeah,
+so I I think things are going in the direction
+where AI is going to make the such a gap between
+um like where good content lies and bad content
+lies because so many people can make content,
+but so many people are like not very good at
+it. So we're going to end up seeing like all the
+people that are super lazy and just saying, "Hey
+Chat GPT, write me a post about marketing." And
+then posting it and all of that. And then we're
+going to see the people that become more authentic
+and and raw and real. And I think this is why
+that becomes really really important in terms of
+authenticity and storytelling because we're going
+to enter a world of micro audiences where you can
+you can have a thousand people that are really
+really loyal and they're going to stick with you
+forever. This whole like trying this 10K program
+and then going to another 10K program and then
+going to another one is going to be gone. It's
+going to end. And it will literally be people that
+turn up and are real and honest about what they do
+and what they're working on every day. We'll build
+an audience and we'll build be familiar. So if
+I was starting out today and now, I would use AI
+to amplify this and get as much content out on as
+many platforms as possible with consistency. And
+when I say consistency, I mean every day, right?
+Maybe you want to schedule stuff for Sunday or
+whatever if you don't want to be online, but you
+need to be doing something and putting it out
+there every single day, right? And it needs to be
+around a message that you're is your villain. The
+thing that you stand against, the thing that
+you're up for. If you think things that you
+shouldn't post, you should post them, right? The
+things that you think people get annoyed about or
+won't believe or whatever, post them. Get put put
+all of this stuff out there and become the version
+of you that repels most people, right, that aren't
+your kind of person and attracts the small enough
+group of people. And that's all you really need
+to develop a business. And if you keep doing it,
+you will stand out enough that you have enough
+people to just keep running and doing what
+you're doing forever. If you go down the route of
+like, oh, AI everything, automation everything,
+all of that, you're going to become a thing of
+the past pretty quickly because essentially you
+just blend in with everyone else and all the
+other crap that's out there. Um, so, so yeah,
+that's my prediction is is that AI will become
+less of a like, oh, look at all these amazing
+things that you can do really easily and more of
+a people using it as a thinking partner and people
+just getting zero traction using it because
+they think they need to post every day. Yeah,
+that's good. Yeah, that's been my theory as well
+that um I mean we're already seeing it happen,
+but the value of personal branding is going to go
+up and real personal branding also doing things
+like this video podcast where people can see,
+okay, this is real. This is a real person. Um,
+so that's going to be huge. I mean, it already is
+huge, but it's only going to get more because as
+there's more artificial stuff happening, people
+want more real connection. Also, I think things
+like experiences doing like going back to doing
+business in person, right? We're actually about
+to launch some like direct mail campaigns
+or sending people like stuff in the mail,
+right? Just doing some So, I think the old school
+stuff is going to come back a lot. Yeah. Um I love
+that because it's like now nobody gets mail, so if
+you get one, you know, I think it's also the same
+with email. So many people don't end up in the
+inbox that when you get an email in the inbox,
+it's like it's more of a a thing, you know? I
+think old email cuz a lot of people now won't
+be able to get through all the the the barriers
+that people put up. Yeah, for sure. So I think if
+someone sends me a letter, I'm like, "Oo, why do I
+get those?" It's got an excitement factor, whereas
+I remember in the 90s you'd have a big stack of
+them, right? Yeah. And then no one would read it,
+then you got an email and you're like, "Whoa,
+an email." Right. Yeah. What's this? Exactly.
+So I think these things do rotate and change over
+time. For sure. Yeah. That's interesting. So yeah,
+anything. So if yeah, if you're wondering like how
+do I future proof my business against AI? How do I
+protect AI from like ruining my business or my
+industry or even taking my job? This is a way,
+right? You just have to focus on things that AI
+cannot do. Personal brand connection experiences,
+doing business in person or also like let's say
+you're in the coaching space, less about courses,
+more about like direct onetoone coaching,
+actually helping people, right? Yeah. And
+I've got one story that really highlights that
+I'll just tell quickly before we get to the end.
+I was sat outside in Hanoi with my mom before
+she went back to the UK a couple of weeks ago
+and me and my wife were discussing a business
+idea that we had and my mom was like, "Oh, shh,
+don't say it too loud cuz people are going to
+hear you and they might steal the idea." Well,
+I think it's just like a everybody kind
+of thinks that you have an idea and it's
+so individual and unique that like only
+you can do it and if someone hears it,
+they'll run away and do it. And I just said to
+my mom, I was like, "Listen, mom, the difference
+in the idea is not the idea. The difference in the
+idea is me, right? I'm the difference in the idea.
+So it will work this way because I'm doing it and
+I'm doing it as me." And that's the thing that
+people need to remember now. It's like you need to
+bring your real self to that table because you're
+the difference maker. Your unique experience,
+your intellectual property is the experiences
+that you've been through, the things that you've
+learned by doing stuff. and they're the things
+that you need to share because if you've been
+through it and you've overcome it, there's
+a good chance somebody else is going through
+it and maybe needs to hear that thing today,
+right? So don't worry about, oh, everything's
+been done or AI is going to do this. Yeah,
+if you make a bland business that isn't centered
+around you and what you do, probably. But if you
+make a business that's centered around you and
+who you are, then absolutely not because there
+isn't another you. Yeah. Anywhere. So that's a two
+ways to two predictions, two ways to get ahead.
+build your business around things AI can't
+replicate, right? Your personality, your story,
+um intellectual property, past experiences, right?
+Um also even your team, like your team is now more
+important in that sense, right? Like you know
+like AI can't copy like someone else can't copy
+your team and your culture, right? And what that
+actually creates. And the second thing is use AI
+and use it well and use it for all the things
+that you should be using it for in the in the
+right way. Use it as a collaborator, not as a tool
+that you just pass things off to. Yeah, totally.
+That that's it. And if you do those two things,
+you can't go wrong. Yeah, for sure. Awesome,
+man. Well, we'll have to do this again soon. Yeah.
+Thanks for coming on. Not three years next time.
+Not three years next time. Yeah. And uh so where
+can people find you? So we'll link everything
+down below, but um I think you have a school
+group as well where you teach AI stuff. Yeah,
+so there's my school community. LinkedIn is a good
+place to follow me as well. And of course join my
+email list. Yeah, cool. Sounds good. We'll link it
+down below. And uh thanks for listening everybody.

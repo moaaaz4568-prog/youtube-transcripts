@@ -1,0 +1,184 @@
+hey what's up guys just put together a
+quick clay table for you that will allow
+you to give you some crazy ideas for
+what you can do with rb2 to Clay if you
+don't know what rbb is go to rbtb.com
+and it is a software that you can
+install on your website and it will
+identify visitors to your website to the
+individual level not the company level
+the individual that hits your website in
+real time and notify you and slack about
+it including their LinkedIn profile
+completely for free right and if you
+choose to upgrade your account which
+you'll be able to trial some of these
+paid features like using clay you can
+build an integration where RB Tob will
+automatically send all of your website
+visitors into a clay table for you and
+you can do a bunch of stuff from there
+right to your imaginations limit I put
+together a quick table goes over an
+example of what you could do with this
+data it's purely just to get you to
+think about what you could do but I also
+build it in a way to where you could
+actually just plug and play it once you
+fill in some of the blanks right and so
+the link to the clay tape is there
+copied over to your workspace you're
+going to have to fill in uh a lot of
+this data but I'll kind of walk you
+through input are these fields right the
+senority of your ideal customer profile
+so here we want just director level
+above and I gave a few examples of the
+titles or if the title contains growth
+or Demand right what services uh do we
+want to sell to so we want to sell to
+SAS so software as a service here's a
+description of the industry that we sell
+into and by the way how you do these is
+uh you click
+you click onto it you click edit column
+and then you put the description or
+whatever here right so when you're over
+here you put it in here that kind of
+stuff okay so anyways a description of
+the uh industry that you sell into your
+company name and then a description of
+your company right and once again you
+just click edit column and put it right
+there right and so from there the rest
+of the table should run pretty much all
+its own right the other part of the
+setup is that you want to if clay
+doesn't automatically do this for you
+you want to create a web hook column if
+this isn't here for you then you just
+click import you'll scroll down and then
+you click import data from web hook what
+it'll do is it'll create a column here
+and you if you want to go to
+sources here is the URL all you have to
+do is copy this go over to rbtb.com and
+then put that web hook in there and then
+rbb will start sending data to this
+table in real time so that's much all
+the setup do the web hook enter
+information about yourself all of that
+kind of stuff and then the rest should
+run and so what data does r B2B send us
+right sends the time that they sent us
+first name last name uh their title
+their LinkedIn URL uh the industry the
+company name uh the city state and zip
+code where they referred from so did
+they come from like Google did they come
+from LinkedIn uh things like that um
+their Twitter URL if it can find it
+their Facebook URL if it can find it uh
+the employee head count the estimated
+revenue of the company and a business
+email which by the way it's actually
+pretty damn good you shouldn't even
+really have to do any enrichment or
+validation on this data I did some
+testing myself and um I hard the only
+enrichment that I had to do um a little
+bit extra was that sometimes it would
+get me a personal email here and if I
+wanted to find their business I would
+maybe waterfall and find it from there
+but it was really good like 90% of
+contacts that popped in here that had an
+email it was valid so it's pretty good
+data they're doing a good waterfall
+enrichment on the back end now here's
+the template that I built for you you
+right so we have we're going to enrich
+the person's LinkedIn profile so we can
+get their company LinkedIn then we're
+going to enrich the company data we're
+going to normalize the company name in
+case you ever want to use that and then
+this is referencing your seniority field
+way in the back that we made at the
+beginning to you know if they fit that
+if their title fits that senority then
+it's going to pass them through here if
+their industry which is pulled from
+their uh company or pulled from the data
+that uh orb2b sent us if it matches your
+industry then it's going to pull it
+through there and then we're cleaning up
+some of the URLs and then here's the
+cool part right and so what this one is
+going to do which by the way you're
+going to want to make sure that you're
+aren't using gpt3 it's not good for for
+this right U but these are high intent
+leads and so it should work and it
+should only run these if it actually
+gets approved through this and this one
+right so anyways here we're just doing a
+simple prompt where we just go hey
+analyze uh the company's website and
+tell me who they sell to right and then
+it gives us some common separated terms
+and then from there uh we created a
+prompt here that basically takes all of
+the data that they and it basically says
+hey tell me how somebody who works as
+this title at that company name could
+use my company's name product to sell to
+these ideal customer profiles right um
+and we want to make sure the output
+doesn't contain the names of the IP
+profiles right go to the website um and
+for the company name here's the website
+here is what our company name does and
+then your company description in there
+and then we're cleaning up some of the
+data outputs here so that we're good and
+here oh let me actually change this for
+you guys on the Fly we want your company
+name there so it'll output a sentence
+that says like your company name could
+help you XYZ right and so from there you
+basically have something where you can
+immediately take that data I use Smart
+lead and send that data through smart
+lead or whatever you want to do right
+but this is just once again just one
+example of how you can use it but what's
+cool is that within minutes of people
+visiting the website they can you can
+use clay to personalize the email make
+it highly relevant add whatever offer
+you want inside of it right you can
+choose to say hey I saw you on the
+website or you can choose to not say
+that it's we're going to do some testing
+to figure out what the result to that is
+it's probably better for you to not say
+it but who knows right and this whole
+thing will just run every time a new
+lead Pops in just automatically runs and
+then if they qualify and they match your
+ICP then they're going to get an email
+from you within minutes right and as a
+PS note right right um I did set up this
+field so that way if you uh uh it should
+just directly link over to uh your smart
+lead account once you connect it here
+and pick a campaign so it should work
+just right out the gate and of course if
+there's any issues with it or whatever
+you know it's Clay so I'm sure you can
+I'm sure you can figure it out but don't
+be afraid to ping me either so anyways
+hope this helps and serves you have a
+great day
+bye-bye

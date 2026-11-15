@@ -1,0 +1,888 @@
+Welcome to Agency Bites, a podcast for
+agency owners, hosted by agency veteran
+and coach Steve Gooberman. Agency Bites
+is a podcast focused on delivering
+actionable [music] agency information
+from agency experts in about 25 minutes.
+Why 25 minutes? Because who has the
+attention span for much more these days?
+And you can squeeze in a listen between
+meetings with time for a bathroom break
+or coffee refill before your next
+meeting.
+This episode of Agency Bites is
+sponsored by Ignition. From proposals to
+payments, Ignition gives agencies the
+tools to work smarter and get paid
+faster. 91% of payments through Ignition
+are collected automatically for
+predictable cash flow. Simplify billing
+and get paid faster at ignitionapp.com.
+Use code outsight 25 to save 50% off on
+monthly pro or pro plus plans. Welcome
+to Agency Bites. I'm your host Steve
+Gooberman from Agency Outsight where I
+coach agency owners to build the
+business of their dreams. This week I'm
+joined by JP Ha, founder and CEO of
+PowerShifter Digital. They're a
+Vancouverbased agency leading the charge
+in AIdriven digital products and content
+creation. He's got more than 30 years in
+design, film, and tech. And he's helped
+agencies transform how they're how they
+work, scaling creativity, streamlining
+workflows, and rethinking how teams
+collaborate with generative tools.
+Thanks for joining me. How are you?
+>> I'm good. Thanks. Pleasure to be here.
+>> Awesome. Uh yeah, man. I I love uh what
+you've been doing, what you've been
+sharing. You know, we're friends through
+the Bureau of Digital and it's a great
+community and a lot of sharing and
+inspiration goes on there, but you kind
+of lead the charge with uh what you're
+doing at PowerShifter in the AI space in
+that community. And so I want to dig
+into that because who else is
+talking about AI today? Nobody. So let's
+be the ones, right? Well, you
+[clears throat] know, maybe we can find
+some signal in the noise from the
+quality of the content. How's that?
+>> That's the goal. That's the goal. So, so
+give kind of I mean, listen, you've
+you've been doing what you're doing for
+ages. When did it shift over from we do
+content, we do design to let's build
+things using these new tools. What was
+that kind of process like for you? Well,
+the the chat GPT epiphany was very soon
+after it was launched um to the public
+for me. Um, and what I quickly realized
+as a person who's dyslexic and has ADHD
+was that even in the form of the when it
+launched
+um it was a complete um epiphany as to
+the things that I could now do. Um, my
+vision and experience with the LLM, my
+GPT was very different. I think than
+most most gravitated to we can make
+content with a prompt and I experienced
+it very differently and saw me or what I
+was using it for was data analysis for
+uh plain text data you know natural
+language data analysis for our research
+for our user user research interviews um
+all kinds of things in that regard and
+then I realized that I've always wanted
+to be able to write ephemeral content,
+news, news type content, industry type
+content, but with the combination of my
+ADHD and dyslexia, I would start and
+then by the time I was finished, it was
+literally yesterday's news or maybe 5
+days old. I never had a huge desire to
+write a lot of evergreen content on my
+own. I have over the years done a lot of
+it with writers um back and forth take
+several weeks and you know get
+successful content up and running. But
+now I realized that I could record my
+articles out loud, transcribe them. I
+trained a GPT very early on on the
+actual writing style that I did have
+that I had done with many years, the
+evergreen content. And I was able to get
+content out very quickly. My content,
+not the prompt and hey, make me
+something, but an editor that edited my
+words, um, which was me, the editor. So,
+it was this weird mirror with the chain
+GPT
+>> and and I just kind of went from there.
+Uh, I went really all in on it. Um, and
+started to generate my own content. And
+it was the same time I was working to
+create my own personal brand I guess you
+could say um on LinkedIn and I had uh
+had just um taken some training several
+months of training on what I should
+create and then GPT and other LLMs felt
+meant that I could actually execute on
+this campaign and so that was really for
+me the the aha moment and then I just
+there's some scant research I think that
+shows this dyslexic as people with
+dyslexia and prompts there's a cor some
+kind of correlation that we seem to be
+able to achieve things uh and prompt
+very well I got um uh I I got a lot of
+great results early on and um we just
+started to apply it internally um
+through our through our um well my
+shared excitement as the leader of the
+agency and then we turned it into a bit
+more formal uh where we were tasking
+people within the agency to start to
+try, test, and explore. And then we had
+showand tell days early in the so every
+Friday we'd have a rotation. Someone
+would have to show something they did
+with some form of generative AI. Um
+could be super simple. One fact, one of
+our PMs
+first used it to do a bunch of
+comparison on refrigerators where they
+were doing a renovation and she showed
+how that worked. But that was her aha
+moment because she had no contextual
+relevant way to explore AI or she
+couldn't figure out how to make it um
+how to make it work with the things that
+were work related but when it came to
+something personal she made that
+connection and then from there that's
+how she ran with it. So after that we
+realized that finding [clears throat]
+ways in which to use the generative AI
+you know it doesn't always have to be
+workrelated if someone's got something
+else like how do you unlock the way in
+which they can connect its power with
+the things they need to do.
+>> We just kept um going further and
+further on that front when it comes to
+operationalizing the agency.
+>> Yeah. It's interesting because you're
+talking about like this content plan
+that you were trained on and then here's
+here are the tools that are going to
+help you execute it and so kind of you
+know if you take that into just a
+everyday agency roll out let's let the
+humans build a strategy and then let's
+use the tools for some of the execution
+work not all of it right to your point
+it's you recording your voice because
+it's easier to do that than to go typing
+it um I've built prompts that's that
+interview me and so I fire up uh
+Riverside and I have GPT running and it
+asks me questions and I'm repeating it
+back and then it converts it into
+content. Probably very similar to what
+you're talking about.
+>> Oh, excellent. See, that's a
+[clears throat] great tip. I I go
+unprompted and so that's um that's
+great. Like and so using the voice um
+the actual audible
+>> it knows what I talk about. It knows you
+know all of my phone calls are dumped
+into it from my recorder. all of my
+client contracts and client notes. And
+so it knows the regular challenges that
+my clients face. And so it prompts me
+like, "Hey, what's a challenge that one
+of your clients uh face this week?" And
+I'll say, you know, finding
+profitability in an organic SEO client.
+And then the GPT will, you know, turn on
+its Diane Sawyer and start interviewing
+me. And then, uh, I've got all this
+video on here. So, it's great. Really
+strong.
+>> I've I'm making a note. Anyways,
+>> go you can listen back to this. There's
+all the notes you need in the in the
+audio when this comes out.
+>> But to your point, so that was kind of
+your force first foray into it. Did you
+guys do any sort of like formal road
+mapping of like here's what I see the
+agency starting to do or are you just
+kind of like
+>> I think like many
+>> like many, you know, there's the that
+that um tried and true expression
+building the plane while you're trying
+to fly it. Well, that was like
+exponentially more relevant when it came
+to adopting AI internally. But I led the
+charge for the longest time. I would say
+for the first year the agency that was
+really me doing the exploring and coming
+back and saying we want to do this, we
+want to do that. And then as I started
+to do public speaking for how other
+agencies could do it, the road map came
+out of creating those decks honestly for
+how to formalize it to present it back
+to others as then how I've formalized
+it. I have a I have a mural board that I
+have shared with the bureau um and um
+I'm happy to share it after when you can
+put it in the show note links and with a
+it's um it has about 65% of the ways
+from marketing all the way through to
+client support of a post product launch
+or project launch. How we're using
+generative AI in the mix. So from
+content generation to contract analysis
+to RFP analysis to generating S so now
+and generating proposals now um we've
+gone proposals for things like web flow
+which are pretty known quantities when
+doing a web flow project. There's really
+not a lot of surprises in a web flow
+project. It's just really the scale
+ultimately and the amount of content,
+but it's pretty straightforward and um
+through feeding it previous proposals
+and also the the LLMs are getting pretty
+smart as they continue to scrape.
+They're pulling in data. They're pulling
+in budgets and estimates and proposals
+and retraining. So, we found that the
+the Web Flow estimations
+are
+90 80 85 85% accurate on average. Um and
+because we have got a trained GPT the
+proposal of a repeated format. So we're
+applying it to not just the content but
+also analysis and the generation of of
+of documents and um it's sped up the
+process uh hugely
+>> I'm sure. Yeah. I mean some shops are
+leaning into uh you know full platforms
+to manage their uh agencies. you know,
+this episode, for example, is sponsored
+by Ignition and you know, not just throw
+a plugin for them, but also like they
+have SEO S. So, so built into their
+platform and so, you know, that's one
+step in optimizing process going from a
+Google doc or an Excel sheet or
+PowerPoint deck or some I've got to
+recreate the wheel. I mean, I I
+still know designers are using Inesign
+documents for their proposals. And so
+>> yes, I just ran into that last year and
+I was um uh it was a design ccentric
+agency and branding agency. And so I I
+understood that to a degree, but in
+order to survive in this economy, the
+deal flow has to be high
+>> and in order to um address and get
+those, it's a numbers game. And so if
+you can increase the input um you're
+going to need to move faster on the
+proposals. And
+>> agreed
+>> I've been doing this for I've been doing
+this for 30 years in various forms or
+another. And one thing I have learned is
+that we spend an agonizing amount of
+time in the early days bespokely making
+all of the proposals and anguish
+agonizing over them. But when I go and
+you part of the exercise was when we
+started to do the training and going
+back over the proposals, I realized
+they're really not very different. And
+uh and and in the effort and and in what
+we do in software and websites and and
+whatnot, there's not a lot of
+subjectivity what the outcomes are. The
+outcomes are going to be what they are
+and we can, you know, uh control that.
+But the subjectivity in a it's not like
+a brand um not doing um campaigns that
+are very specific and subject. So
+realize that we need to just more
+proposals out the better and that's how
+you're going to win.
+>> That's what I mean. Yeah. Quicker and
+the more of them out. Um in and in in an
+economy that's suffering and has been
+for the last several years and it's been
+devastating for a lot of agencies. the
+it's it's a it's purely numbers game. Um
+and you got to remove the subjectivity
+and the agonizing over this and that cuz
+ultimately I find most clients are they
+come back and whether you want it or not
+it's um you're qualified and you're the
+right price. And that has been
+ultimately um you're qualified, you're
+trusted, we vetted you and you're the
+right price. And a lot of times you're
+not the right price. So if that's the
+case, we're not going to race to the
+bottom, but we're going to keep the
+numbers going and increase the proposals
+that need to go out the door. Have I
+resolved that riddle on on the inbound?
+Not yet, but it's we're getting there.
+We're working on some things and our
+outbound has now starting to generate um
+meetings as of this week from a campaign
+that started uh two weeks ago. So,
+>> very cool. I want to dig into that, but
+I'm curious as a followup on AI helping
+you with pricing on like web flow. It's
+very black and white and formulaic. Are
+they able to sense buyers intent on like
+additional value you can add or um you
+know we formalized it to be a $10,000
+project but I think you can ask 15k or
+like any anything like that built into
+it.
+>> Not yet. But what we've done in the last
+few weeks is um well a few things and
+we're going to automate all of this and
+together together. So when we take a
+first discovery call you know it's
+pretty standard now where you you know
+you send them a note of a summary. quite
+often it's a generic summary but you
+know it mints that you heard them and
+you sent them something back.
+Now that's just table stakes for any
+agency. So I thought how can we change
+that? So I redid it. So I did a prompt
+that said what we heard. U so I created
+a what we heard on the call. It's a lot
+softer. It's specific. It's suggestive.
+If there's it makes no um it's not
+assumptive in any way, right? You still
+trying to build trust. Did we hear it
+correctly? Basically did we hear it
+correctly? and his response every single
+time we send that email out is, "Oh god,
+that's amazing. Yes, you totally heard
+me." Just reframing um the actual
+summary to be like that. So then I
+thought,
+>> how can I get one transcription from
+that discovery call to do multiple
+things? So we have a what we heard that
+comes from the lead on the call and then
+we created a new one which is what they
+said and what they meant. So, it's
+listening
+um it's listening to the call um and
+it's it's essentially looking at it from
+a client services perspective and what
+are their real needs, what are they
+asking for, what is their sentiment,
+what are the potential challenges and it
+kind of builds a little profile there
+and it's for those that were not on the
+call. One of the things I find the most
+uh difficult to do is communicate what
+does the prospective client really like
+in between the lines u and trying to
+find the time to do that. This now goes
+with to the team to give it more of an
+analysis. And then we [clears throat] do
+uh a third breakdown is um it either
+writes it as a RFP style, not a brief,
+but more writes it as an RFP or if it's
+smaller, it can write it as a brief so
+that I've got three or four things all
+coming out of the first transcript.
+>> Love that. Yeah.
+>> Yeah. And but the the analysis of the
+client's intent,
+>> uh it's and I actually shared it with
+the agency. I I shared it with the
+bureau the prompt and I made a GPT that
+custom prompt as well that uh that does
+it and um I guess should ask them and
+see how it's working for others. But
+it's been pretty cool for us so far.
+>> Every hour you spend chasing signatures
+or overdue invoices is time you're not
+growing your agency. That's why over
+8,000 customers trust Ignition to
+automate agreements and payments, saving
+up to 18 hours a week. Improve cash flow
+without awkward follow-ups with Ignition
+at ignitionapp.com.
+monthly pro or pro plus plans. Yeah, I
+[snorts] love that. I think the just the
+the core ability to record calls and
+then get some just breakdown for people
+that weren't on the call or feed it into
+a CRM or like all these different things
+that can be done with it is great for
+account management for bisdev for just
+interpreting like what the intent is and
+um direction you can take things and you
+can train them to understand like is
+there room for upsell you know was there
+indication that there's other challenges
+that we can answer for down the road and
+things like that and I just think it's
+brilliant from an account management
+standpoint
+Yeah. And that's our next step to for
+account management. We're going to start
+to take every single call um that we
+have with them. Uh whether it's project
+or otherwise related and those will go
+into a central um at the moment it'll be
+in a G drive for for for you know um and
+we can have Gemini actually use that
+every time something's added to a G
+drive folder. It'll actually go through
+and do some stuff with some of the
+automation that we've got um to start to
+look at account analysis. We're a small
+agency. We've gotten smaller in the last
+few years
+just uh from the e economy uh being what
+it is. And so we're working um with
+fewer uh folks. And we're also um
+looking to not grow immensely, not from
+a revenue, but from a people
+perspective. We're going to see how lean
+we can keep things um so that we're more
+nimble and more be able to adjust to the
+economy. We had to do several rounds
+round rounds of layoffs and it's never
+easy for those being laid off of course
+is the worst. Uh but also the impact to
+the agency from institutional knowledge
+to the emotional challenges that go with
+you know um so we were going to stay
+smaller um more of a Hollywood model but
+so we're going to have some of these
+tools that will assist the teams to be
+able to punch a little higher above
+their weight u until things settle in.
+Ultimately, it is to grow, but um while
+things are still pretty um um
+undetermined trajectory for the next 18
+months at least, we want to stay nimble.
+>> Yeah, I think it's the right model. Um
+yeah, laying off sucks for everybody,
+especially the families with those
+impacted. But if you can grow from a top
+line and additional value to existing
+clients without adding more headcount,
+pulling in resources, freelancers, and
+building more robots as needed. like
+it's a beautiful model and why not keep
+going in that direction?
+>> We and we're going to rely um on our
+trusted network of freelancers. We have
+been in this business for a long time
+and we've had a lot of freelancers that
+have been working with us for 10 plus
+years and always answer the call when we
+when we call them. And the nice thing
+about having a great contractor network
+um is that you can rely on repeatedly is
+that when they step into a project, they
+already know your culture. they know how
+you work and um your trust the trust in
+them is huge and they're not they don't
+feel just like a hired gun and that's
+the other thing which you don't want
+>> right so you mentioned uh and I kind of
+reverted back off track you mentioned
+kind of an automated AIdriven outbound
+campaign that's starting to produce
+results can you talk about kind of some
+of the uh I guess tools of trade that
+you've been using and what that's been
+looking like
+>> we actually hired an agency so it's not
+AI they they were probably using AI. In
+fact,
+>> interestingly enough, the a uh the
+agency did use um a custom AI
+um chatbot for onboarding, not a person.
+>> Um so I was given it was custom about
+all the things that we were trying to
+achieve. Um uh it was an interesting
+take. Um is it better than a human? Um,
+I think a human um would have um if I
+would have changed one thing, I would
+have probably had a human introduce it
+on a call in that as opposed to getting
+the first thing that I got. But I will
+say the summary and and everything that
+happened right after I finished hitting
+that forms like minutes later, stuff
+started to come in that was, you know,
+ready to be actioned and it was parsed
+off to the rest of their team to action.
+So, I do do think that um the bot is an
+interesting approach. We'll see. um the
+campaign uh I've been I was working for
+them for a month and a half building up
+all the you know um ideal customer
+profiles and and our offering and and
+all that good stuff and then they
+started the outbound emails last week. I
+have had success in outbound previously
+with another agency in LinkedIn outbound
+which had a really high an extremely
+high uh uptick when it came to those
+accepting invites. This um is a teach to
+fish. So uh we're this is a one-time
+shot with this agency. So they're
+teaching us the process of of doing
+outbound with not just the emails but
+everything that you need to to and now
+my calendar got uh went out started last
+Monday. We got three meetings this week.
+So that is a good sign.
+>> Awesome. I I hope they're the right
+meetings. A lot of times there's a
+meeting for the sake of meetings,
+>> but I love that you're approaching it
+from what can we learn and then adopt
+and bring inhouse and kind of automate
+and run off on our own.
+>> Um, so the fact that [clears throat]
+you're going into that and the other
+agencies accepting that that's how we're
+approaching the engagement is beautiful.
+>> Well, that's how they position it, they
+positioned it too, which is a teach to
+fish.
+>> Yeah.
+>> Which, um, is an interesting model for
+an agency. We teach our clients to fish,
+but our projects are substantially
+bigger than an outbound campaign one-off
+would be. So, um [clears throat] I don't
+know the longevity of something like
+that. I mean, you um if um you've got to
+do a lot of I mean they're in the
+outbound business, but there's
+ultimately you do run out at some point
+and it gets thin if you're you know and
+every agency strategist I've ever met um
+has said that real growth from comes
+from account growth. So um you know and
+so it'd be an interesting model for
+them. We have um you know we've grown
+big large accounts but the challenge we
+have quite often being in the software
+product space is once the project's done
+they and it can be six or seven figures
+there's really no work for you um in the
+software space and so it is um I do find
+those same uh consultants quite often
+don't totally understand the software
+space and that is predominantly the way
+it goes so you make a lot of money
+upfront in the first 18 months It can
+be, but you are um quite often not the
+ones to to continually build that. They
+when you're building software, the
+ultimate goal for most enterprises to
+bring it inhouse and and run it
+themselves. So, that's a challenge we've
+faced for nearly 20 years.
+>> So, here's a question about that. And I
+just literally an hour ago had a
+conversation with another AI integrator
+agency in Texas where what we were
+talking about is what is that that full
+life cycle of the software and and is it
+that that much of a cliff at the end of
+delivery where AI is changing so quickly
+now that iterations would be um I guess
+integrating new models, new platforms,
+new systems, things like that. So the
+road map and and that life cycle is
+getting extended out even further than a
+traditional here's your software go run
+with it put it on your internal platform
+right I mean isn't there more to it with
+such rapidly changing software
+>> I think hypo like the hypothesis is good
+we have not experienced that firsthand
+just yet um a lot of the um AI work that
+we've done have been proof of concepts
+um because the enterprises are still
+trying to figure out where it fits it's
+in or can we do this and [clears throat]
+hasn't been a huge commitment. It'll be
+interesting to see where we go. I feel
+like that with [clears throat] any hype
+cycle, you know, you've got your, you
+know, we're we're we are
+we are in the trough of disillusionment
+for sure. Um like not just towin, we're
+we're we're pretty well into it. Um
+where the enlightenment is going to hit,
+um I'm not sure. But um I do think we're
+going to see a few things and with every
+cycle that we get um that would you like
+a side of AI with that will be going
+away soon.
+Um just [clears throat] and people are I
+think going to be really asking for
+specifics now that they know what
+generative AI can really do and what it
+what it can't do. Uh so I think we're
+going to see a contraction. Um I think
+we're going to see a contraction in the
+AI space to a degree. Um I um I think
+that all the models are hitting limits.
+So in 20 in 2024
+um with exception to this year it's big
+jump with Google's nanopanana and uh
+that was a big jump but ultimately all
+the image models had really topped out
+in 2024. They cannot get past a certain
+amount of slop in the images or things
+they just can't render. like just and
+they and we're seeing the release
+numbers now stagnate for like 9 months,
+10 months between releases of new
+models. Um we've seen that with um GPTs
+are still 20% error rate or imagination
+rate or whatever. That number is not
+changing. It's like fixed. And so when
+you're running software, it has to have
+a 99.9%,
+you know, accuracy rate. And all the
+software we've done in the past has been
+that way. So I think we're going to see
+a bit of this elastic kind of retracting
+a bit um and realizing it's not the holy
+grail and AGI is a fantasy how it's
+being defined by the CEOs today. But um
+it's going to find its place and I feel
+this is the year where it is finding its
+place. It's finding his groove as a
+tool. Um there is definitely attrition
+that's going to happen. Um uh but I
+think as my son um says and his friends
+have told me it's a very small sample
+size. We are not going to be spending 40
+or 50 years prompting.
+We are going to live a full life like
+you did. We are going to live a life in
+which we learn and explore firsthand. Uh
+we are going to live a life where we
+make mistakes. And we're not going to
+live a life where we're sitting in front
+of a thing telling it what to do. And
+that's small sample size and my kids, my
+friends kids are creative. But
+>> when you look at things at a macro
+level, what you know these CEOs and that
+can't predict in the futurist can't
+predict is that uh they can't really
+predict much at a macro level honestly
+because there's so many factors that we
+just can't take in and then once the
+momentum hits it's too late to stop it.
+And that could I could see if there's a
+you know you keep unemployment long
+enough and enough blame goes to the fact
+that it's for from AI
+>> you know um there are ground swells and
+then employers have to adjust if all of
+a sudden you've got seniors retiring and
+there's no juniors in the um because
+AI's replace them.
+If there's going to be a continued 20
+plus percent error rate in the outputs
+of AI and there's no solve on the
+horizon for it those seniors are gone.
+who's going to be overlooking.
+>> I had, you know, we're doing a lot of
+AI. Uh I'm not trying to come down on
+it. I'm just trying to say like there's
+all these there's a lot of magic here,
+but there's also let's like where do we
+draw the line? I had my very first
+proposal go out the other day which had
+an imagination which I had a
+hallucination in it. I was at a
+conference and didn't have enough time
+to spend looking through the proposal
+and it took a new it took a relatively
+new acronym that is for I can't recall
+but it's for large language models um
+SEO
+um and it made three different versions
+up of what the acronym was and I I
+missed it in here and my team because
+it's such a new acronym my team didn't
+really even think to look for it and
+thought that's what it meant and then
+the client sent it back and said I think
+there's an error here. Luckily, good
+relationship, they know we're doing AI
+and knew I was at a conference and
+didn't get to check it. But that could
+have been devastating for a prospect and
+>> wow. Yeah.
+>> Um, if we had full automation and
+without QA, human QA that know the
+subject matter.
+>> Yep.
+>> You know, we could have done real damage
+to say you're using AI and it's I just
+got some slop in the very first proposal
+that you put forward for us. Um, so
+that's a no-go. So, I'm not sure where
+we're all headed with it. Um, it's
+definitely um um making things um uh
+faster, better, and more cost effective,
+but it's also being heavily subsidized
+right now by tons of investment. So, may
+go up. I mean, I'm my my Gemini Ultra is
+200 some dollars. Um I'm spending more
+on tools for myself than I have spent on
+software ever.
+>> And that also we have to justify those
+costs as well.
+>> Yeah. So, it's an interesting interest,
+excuse me. It's an interesting
+perspective that you have or I guess
+even um prediction of like what the next
+year could look like. It's probably the
+first real seemingly realistic
+perspective take I've I've heard of like
+maybe we have kind of leveled off on
+some sense. There will be some
+contraction. I love the sound of that.
+It's it's not something I hear very
+often. But it's interesting you you
+address kind of the junior bench side of
+things
+>> speaking to a college tomorrow and it's
+one of the things I'm talking about is
+you know kind of you guys are facing
+like a a serious issue of not a lot of
+shops are hiring for the junior bench
+right now but there's going to be a
+massive def deficit in the next three to
+five years as the senior team you know
+attritions out. I'm curious if you've
+got, you know, you got younger kids, if
+you have any, I guess, sage words of
+wisdom of [snorts] like how can they
+differentiate? How can they show up
+differently in the marketplace, show
+their value, things like that?
+Well, I think they have to understand
+prompting it's going to I think like
+anything you know when you see a CV for
+the you know for the last 30 years it
+said it knows how to do you know you can
+do use Microsoft Word you can use
+Photoshop you know I can I my prompting
+level is that you know whatever whatever
+however we want to measure it it's going
+to be a part of the mix and you have to
+understand how LM work and and and and
+how diffusion models work but I think at
+the end of the day you still need to be
+the subject matter expert at whatever
+level you are. If you're a junior, you
+have to be the best junior and know the
+best stuff that you can at that level to
+be able to and not relying on and and I
+think we're going to start to see that
+and feel that of juniors
+without any oversight working the
+models, they still need to have
+mentorship. Um, and I think it's going
+to take some bigger thinking and
+um, and not the obvious bottom line,
+right? So, what is the real bottom line?
+We get false economies sold into us all
+the time because it's moving so fast in
+quarterto quarter thinking.
+>> But is the is the
+is the potential downside two years for
+those that don't think bigger and just
+look for ways to increase margin through
+just a fast adoption of AI? Are they
+getting themselves into a financial
+problem downstream? I think those that
+hedge it and say it's a tool and it's in
+the mix and we're going to continue to
+be um lead the charge with humans first,
+creativity first, those that are
+passionate that that have those that
+have a point of view, those that can um
+interact with clients um and do real
+real thinking. real thinking.
+>> Um I think that those agencies
+ultimately will probably fare better
+than those that went all in and went
+with margins first and only that.
+>> Yeah, I love that and I appreciate that.
+Um on that note, um because you said
+margins first, I'm going to switch over
+to a couple of random rapid fire
+questions for you. Sure. That's a great
+perspective that you just you just
+delivered though because I I absolutely
+love that human first. So, first is
+coffee, tea, or something stronger?
+>> Uh, tea in my big boy cup.
+>> There you go, Papa Bear. I love it.
+What's one thing people would be
+surprised to learn about you?
+>> Uh, surprised to learn about me. Um, I
+was a competitive fencer and I also had
+uh I was a pull valter in grade 8
+because we had a my science teacher was
+an Olympic coach. So, I did two real
+oddball sports in high school.
+>> Touche. I love it. What's one piece of
+advice you'd give your younger self
+before starting your agency?
+>> Don't be so afraid.
+>> Say more about that.
+>> Don't be so afraid of things or what
+people think about you or uh be, you
+know, I'm a pretty sensitive person
+overall, just the way my my brain's
+wired. But um I let a lot of things get
+under my skin for a long time if it
+didn't work out or someone said negative
+things about me. And it's taken I'm 57.
+It's taken a long time to get to a place
+where um I don't let that bother me as
+much. I'm not going to say it's gone
+zero, but I can move off of things a lot
+quicker and I wish that that had been
+sooner. I spent a lot of time worrying
+about what other people thought and then
+when I stopped worrying and started
+doing what I wanted, ultimately a lot of
+better things came out of that.
+>> Yeah, I love that man. Oh, good stuff.
+JP, I am grateful for uh all that you
+shared with us today, your experience um
+on on all levels. Um I'll watch for the
+show notes for people to check out uh
+your mirrorboard and power shifter.
+>> Um so, thank you very much for joining
+us.
+>> My pleasure. [music]
+Thanks again for tuning in to Agency
+Bites. If you know someone with expert
+knowledge on a topic that agency owners
+would love to hear about, go to
+agencysite.com/mpodcast-est
+[music]
+and nominate them.

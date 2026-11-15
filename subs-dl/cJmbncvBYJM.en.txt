@@ -1,0 +1,660 @@
+Hello everyone.
+Welcome back to our
+channel.  Today's
+agenda is
+quite exciting.  We are
+venturing into the world of
+mobile
+meditation apps, and we
+have a “mid-journey
+” for this creative
+journey.  What is "
+middle of the journey"?
+You can ask.
+This is a fantastic
+tool that
+uses artificial
+intelligence to
+create unique
+custom graphics.  It
+offers a refreshing
+way to break free
+from the limitations of
+stock images,
+allowing us
+to add personal
+charm and aesthetic
+beauty to our designs.
+It's essentially an artist
+in your pocket,
+ready to create
+beautiful and unique
+visual effects at
+your request.  If
+you're interested in
+integrating more
+AI tools into
+your design process,
+we recommend
+checking out our
+GPT eBook
+for UX/UI Design in Chat
+, which
+delves deeper into
+how AI
+can be
+used to
+improve and
+streamline your
+design workflow.  You can
+find the link in the
+video description.  Let's
+get to work.
+Our starting point
+today is Figma, where we
+will create three frames
+for the iPhone 14. Each of these
+frames represents a
+screen in our
+meditation app: the splash screen, the
+home screen, and the
+meditation screen.
+To keep everything
+organized, we'll
+rename each
+frame accordingly.  Next, let's
+gather inspiration.
+Browse Pinterest or
+Google to find
+images or
+illustrations you
+like.  Something
+like peaceful
+sunsets and
+soft orange
+or purple
+hues.  Once
+you find something
+you like,
+download it.  We will
+use
+these images as a
+reference point in Midjourney.
+Okay, now it's time to get started
+with
+Midjourney.  If you are
+new to this
+platform, you will
+need to
+register first.
+It's important to note that
+Midjourney currently
+uses Discord for
+account management
+, so you will
+need a
+Discord account.
+If you are not familiar with
+this process, you
+can find a
+detailed step-by-step
+article in the description below
+that will help you
+sign up for
+Midjourney.  After
+successfully
+setting up your
+Midjourney account, it's time to
+start
+generating it.
+Upload
+the image you
+selected earlier to
+Midjourney.  By providing
+images, we
+essentially give Midjourney
+an idea of ​​the style
+we are going for.
+Once
+the image is downloaded, open
+it, right-click,
+and
+select the
+copy
+image address option.  Paste
+it into the chat, and now it's
+time to write our
+tip.  You can
+copy the exact
+prompt I
+use or
+customize it
+to your
+desired results.
+By default,
+Midjourney generates
+images with an
+aspect ratio of 1:1. So, if
+we want to change this,
+we need to add an
+aspect ratio parameter at the end of
+the prompt to change the
+generation aspect ratio to 3:
+2. When you are
+ready, press Enter
+and watch
+Midjourney work its
+magic.  Midjourney can
+take a few
+seconds, and sometimes
+minutes, to
+generate four
+different images
+based on a prompt.  If
+the images aren't exactly what
+you
+hoped for, that's
+okay.  You can
+customize your
+hint to be more
+specific and
+try
+generating new
+images.  If you
+like one of
+the images, you can
+choose
+to zoom it.
+Scaling
+increases the size of
+an image
+while enhancing
+detail for a
+smoother appearance.
+After a short
+wait while
+Midjourney generates the
+scaled
+image, it is
+ready to be
+uploaded.
+Let's take our
+design one
+step further.  To do this, we
+use a
+fantastic
+tool from
+replicate.com called
+Nightmare AI.  This
+tool is a
+game changer.  It can
+significantly improve
+the quality of your
+images.  To
+use it, you
+may need to
+log in with
+your
+GitHub account.  Now
+upload
+the image we
+just created.  You
+will see an option
+to adjust
+the scale.  Rewrite
+it in two, then
+click "Send
+".  Just wait
+a few seconds while
+Nightmare AI works on
+your image.
+Once the processing
+is complete, you
+will immediately see
+the difference.  The image is
+now clearer and of
+higher quality.  Now that
+we have an
+improved image
+, it's time to incorporate
+it into our design.
+the image and
+insert it into the
+main Figma frame.
+Next, we'll repeat the
+process for the
+meditation music screen.
+Find another
+image or
+illustration you
+like and
+upload it to
+Midjourney.  Don't forget
+to copy the
+image address so Midjourney
+understands the style
+we're going for.
+Write a clear
+task that
+reflects what you
+want, then
+let Midjourney
+generate
+the images.  You can
+continue to
+iterate and
+scale
+the image until you
+are satisfied with
+the results.  Once
+you have the
+image you want,
+upload it and
+transfer it to Nightmare AI
+for enhancement.
+Once Nightmare AI is
+up and running and the image
+is loaded, it's time
+to go back to Figma.
+Here we will adjust the
+color of the frames.  Using the
+color picker tool, we will select a
+color directly
+from the image.  This
+will ensure a smooth
+transition between
+the image and the background.
+After that,
+drag the new
+image into the
+meditation frame in Figma and
+adjust its
+size to fit the
+frame.  Let's
+get our
+final splash screen image
+from Midjourney.
+As always, upload
+an image that
+matches your
+design
+vision to Midjourney and
+provide a suitable
+invitation.  This
+time, since we're
+working on a
+splash screen that
+requires a vertically
+oriented
+image,
+use the
+2:3 aspect ratio option in your
+invitation.
+Keep
+improving and
+scaling until you
+achieve a result
+that
+satisfies you.  Once
+you have the perfect
+image, don't
+forget to process
+it with
+Nightmare AI.  Then, insert the
+final image into the
+splash frame in the
+Figma file and resize
+it.  Now that
+we have our
+nice custom graphics,
+we can start
+adding content to the
+screen.  Let's start with the
+screensaver.  For those who
+may be new to
+app design, the
+splash screen is the first
+screen you see
+when you open
+the app.  It is typically
+showcase the
+app's logo and branding
+when
+the app is loaded.  Let's start by
+creating a name for
+our
+meditation app.  Once
+we decide on
+a name, let's
+add a short
+tagline underneath it.    A
+tagline is a
+memorable
+phrase that
+represents a brand
+message or a
+key feature of
+an app.  Now
+let's add
+a logo to our
+screensaver.  You can
+create a new one or
+download the one
+we used from the
+provided Figma file,
+which you can find
+in the video description.  Our
+screensaver is ready.
+Now let's move on to
+designing the home
+screen.  Let's start by
+copying the text from the
+screen saver.  Rewrite
+this text to
+serve as an introduction for the
+home screen.
+Next, you need to
+create a
+search bar that
+users can
+use to
+search for content in the
+app.  We will
+need the magnifying
+glass icon because it is a
+universal symbol
+for the search function.
+We can easily
+get a
+free icon
+from Google Icons or Hero Icons.
+Once we have it
+created, let's
+create an
+auto layout frame
+and apply a
+fill and stroke to it.
+This will be the basic
+structure of our
+search string.
+Oh, yes.
+We can make
+the elements inside the
+search bar
+thinner to make it
+clear that this field is
+currently inactive and
+the text is just a
+placeholder.
+Finally, we can
+add a stroke to the
+search bar.  When we
+are happy with
+the result,
+copy the title
+and change it to
+categories.  We
+are going to
+five different icons
+to represent
+categories.  You can
+find these icons
+for free on Google
+Icons or get them from the
+Figma file under the video.
+Now add an
+auto layout
+to the first icon and
+set the padding
+to 10 pixels on all
+sides.  We will also
+add a background color.  You
+can use the
+color picker to select a
+color from the search bar.
+To give our
+icon a softer
+look, apply a
+corner radius of 8
+pixels.  Now
+duplicate the entire
+frame four times.
+All you need to
+do now is
+copy each
+individual icon,
+right-click
+on the
+existing icon
+inside the frame, and
+select "Paste
+to replace."  Once all
+our icons are in
+place, select them
+all and
+adjust their
+color a bit.  We want
+them to
+blend well with our
+design and not be
+too bright.  To
+ensure that
+icons are evenly spaced
+, add auto-
+positioning.  After
+that, we will remove the
+automatic
+placement
+because we still
+need to add
+names for our
+categories.  Now
+category names.  Grab the
+Text tool and
+enter a name for the
+first category.
+Select the text and
+icon and create an
+layout,
+ensuring a
+four-
+pixel spacing between the two
+elements.  We will also
+adjust the category
+name's through-promotion
+to 80 so that
+the text is not too
+bright.  Repeat
+this process for
+each icon,
+creating
+spacing between
+the icons and
+category names with a
+spacing of four
+pixels.  After
+renaming
+the categories, you should
+have five nicely
+spaced
+category icons, each with its
+own name.
+Now select all
+the frames and apply
+auto-
+placement.  Then
+select all the
+auto
+placements and
+the title and create
+another auto
+placement, this
+time with a spacing of 12
+pixels.  Now we
+only have one
+section of the home
+screen left to
+figure out.
+Copy the previous
+heading and
+customize it for
+this section.  We need to
+Midjourney's magic again to create
+three images for
+this part.
+Follow a familiar
+process.  Find an
+inspiring image
+, send it to
+Midjourney, create
+a prompt, and
+upload the resulting
+image.  Don't
+forget to zoom in on
+the image
+with Nightmare AI
+for a high-quality
+finish.  When your
+image is ready,
+transfer it to a
+Figma file.  Now
+add some
+text layers below the
+image to
+provide more
+information about a
+particular
+mindfulness session.
+frame and rewrite
+the texts for each of
+them.  Return to
+Midjourney to create
+two more images for
+these frames.  Perfectly.
+Now that that's
+done, we have
+one
+important element left to
+add, the
+bottom navigation.
+Let's
+move all the
+screen elements
+up a bit to make
+room for our
+To do this, we will
+need four
+icons, each of which
+represents a separate
+screen of our application.
+You can find these
+icons from sites
+like Google icons or hero icons,
+or find them
+directly in the
+Figma file below the video.
+Once you
+have your
+icons, select the
+second, third, and
+fourth icons and
+set the
+pass-through property
+to 60. This means that
+the icon with
+the brightest
+color represents the
+current screen in
+use.
+Now all that's left to do is
+duplicate the
+bottom navigation and
+move it to the
+last screen.
+Be sure
+to adjust the colors
+so that the second icon
+becomes active.  Now
+let's
+duplicate this frame again
+and move it to the
+Customize the text
+to suit your
+mindfulness session or
+meditation music.
+We're going to add
+a little extra
+interactive
+flair to our
+design – an
+audio waveform visualization.  This
+visual component will
+provide users with a
+graphical
+representation of
+the intensity of the music
+, as well as the progress of the
+audio playback.
+To create this,
+we will draw four
+lines of different lengths.
+Once finished,
+group these lines
+together in an
+automatic layout
+.  This small
+cluster of lines
+will serve as our
+basic
+waveform unit, which we
+can then
+duplicate several
+times until we
+reach a length that
+resembles a full
+audio track.  Now
+let's add some
+color to our
+waveform.  Changing
+the color of certain lines
+will illustrate that
+the audio track is still
+in progress.  Finally, we
+will place the current
+playback time at
+the beginning of our
+waveform and the total
+duration of
+the audio track at the
+end.  This way,
+easily understand where
+they are in the session or music track.
+Great job.  Now
+player controls.  You can
+take these icons from
+Google icons or
+directly from the
+Figma file provided in the
+video description.  Feel
+free
+to customize the color of the
+controls
+if you want.  This
+part is entirely up
+to you and
+your creative
+vision.  Finally, we'll
+add one more touch – a
+status bar at
+the top of
+our screens.  And our
+mobile app is
+ready.  If this
+guide was
+helpful to you,
+subscribe to our
+channel.  We will be
+more content that will
+help you
+technology in your
+design process.

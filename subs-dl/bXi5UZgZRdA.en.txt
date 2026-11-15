@@ -1,0 +1,238 @@
+Yo, what is up everybody? So, got an
+update for RB2B this month. Everything
+that we've uh learned from them over the
+last month. A bunch of really cool uh
+features uh that we are working on uh
+within our own uh custom portal that we
+use day-to-day at sales automation
+systems. And so, going to go through
+give you my thoughts on like copy
+everything that we're seeing with them.
+There's really interesting stuff in here
+in that there's something that uh just
+completely destroyed um some of our uh
+deliverability and it's probably not
+what you think it is. It has nothing to
+do with infrastructure, has nothing to
+do uh with anything like that. It's kind
+of a new phenomenon that we're seeing
+something I call um AI uh spam filters
+um AI fatigue is uh also what I call it
+just kind of depends on uh how we narrow
+in. But so for RB2B uh the entire month
+of September uh we sent just under
+200,000 emails for them about uh 10,000
+emails a day. Um stellar uh human reply
+rate we look for a.3% human reply rate.
+Um reply rates in total are above 1.6%.
+uh we look for a 1% to establish
+deliverability. So we're looking really
+really good there. And then uh positive
+reply rates are at 15%. And uh normally
+this is 20% for them. Uh for example, if
+I go back uh just a month in uh in time,
+you'll see that they were having 20% um
+a month ago with even better uh reply
+rates and things like that. So what the
+heck is going on there? I'll dive into
+that in just a moment. The uh other
+thing though that is really uh notable
+uh to have
+is that we um we're we're starting to
+set up um this sort of data in here
+where we can look at um what success are
+we driving for our clients. So the main
+reason we started doing this is because
+uh for Fixer for example, we were
+driving this one campaign that had um a
+really good uh email to lead ratio. So
+it was something at the time we had to
+send like 1,900 emails in order to get a
+positive reply and that was our best
+variant um at the time. We eventually
+got them to a place where where they
+were doing 600 um emails in order to get
+a uh a sign up, right? So eventually we
+got it really really dialed in. But
+anyways, at this point in time it was
+1,900 in order to get one positive
+reply. Fixer sent us all of their signup
+data. We uh cross-examined it with our
+email set logs in order to go uh cool.
+How many emails did we have to send in
+order to get signups? And this campaign
+that was in fifth place at the time when
+we gauged it by positive reply rate
+suddenly became in first place when it
+came to sign up. And it was also two
+times better in regards to signups than
+the previous first place campaign. And
+so we were like, "Oh, we've been chasing
+the wrong data point this whole time. We
+obviously need to work on uh we
+obviously need to work on uh getting
+signups. Like who cares about how many
+positive replies we get if we aren't
+getting conversions." So that particular
+copy, it was so good that people
+wouldn't even reply. They would just
+sign up more so than the other ones. And
+so we started optimizing around that.
+And so here's where uh this information
+comes in, right? And so here what we're
+doing is we are streaming in all of the
+events from our clients now. So, we know
+all of their signups, all of their
+meetings booked, uh we know all of their
+paying customers, and we're able to
+cross reference that with all of the
+emails that we send to know in real time
+how much of a uh one client's pipeline
+are we responsible for. Uh but two, and
+most importantly, uh which one of our
+campaigns are actually driving results
+for our clients. And so for RB, you can
+see them here. Here's their metrics over
+the last uh month. And we didn't start
+streaming in the data until I think it
+was like midepptember when it started
+becoming perfect. And I Oh, no, no. Um
+uh we actually set it up incorrectly. I
+forget what the date was, but I think
+some of this data up front is a little
+is a little incorrect. And I'm pretty
+sure it's this time here. But if we look
+here, you can see that we're basically
+averaging
+um a 14% of all of their signups. So
+that means 14% of all of their signups
+um for their entire $6 million annual
+reoccurring revenue SAS. 14% of all of
+their signups are from us. Uh which
+makes sense because when we first
+launched with them, uh we knew that that
+number was 17.3%. Now, the interesting
+thing about this number is that I don't
+have financials trimmed in here. So, I
+do not have like how much money has uh
+Adam made from each one of these clients
+linked into here. So, I don't have a
+revenue for number what we created, but
+uh before um when we weren't responsible
+for uh 17.3% of all their signups, we
+were responsible for 42% of all of their
+revenue, right? Um so, who knows exactly
+uh what that looks like, but you know,
+you take that it's like so approximately
+we're probably responsible for about 35%
+of uh their revenue right now, but who
+knows? Um and that is purely just a
+off-hand estimate, right? And so this is
+really informing our data. So when we
+come back into these campaigns, we can
+look at these two things which this also
+transition into what the heck happened
+with some of our deliverability uh for
+them. And so um we've tested um a
+handful of different variants. Uh we've
+been experimenting with a few different
+ideas, but the main ones that we're
+looking at are variant A and variant F.
+Variant A is our copy that we've always
+used for them. And variant F is um new
+copy that we made. It's a little bit
+more shorter, a little bit more
+punchier. I'll show you exactly what
+that copy is. Um the other thing is that
+if I uh do this on the last um last two
+weeks um it's even more true. Actually
+this is still looking at uh this looking
+at the right. Okay. Yeah. So this is
+actually looking at the wrong data here.
+Sorry. Uh boom. It's like the last 30
+days. Okay. There it goes. Yeah. Yeah.
+Yeah. This makes sense. And so basically
+um this is the last week, right? And so
+the last week we said about 10,000 about
+50/50 between A and F. You can see here
+the deliverability on this one is three
+times worse. Um, and this is because
+what's happening is that AI filters are
+starting to uh message gets enough spam
+messages um or complaints, then that
+copy starts not working anymore. And so
+this is something you constantly need to
+be monitoring um as you're scaling up uh
+your campaigns. And so this is their
+exact copy uh that we're using uh that
+we were using that worked for a year and
+a half before it hit fatigue. So um we
+got a lot out of it. And then this is
+the copy that we're using now. And so as
+you can see it's uh it's doing uh
+significantly uh better. And so we're
+actually just going to kill actually um
+we're going to do a quick draft and like
+uh do something to like beef item
+keyword. We're just going to run it
+through our spam filters. We use like
+email guard and the other one that's uh
+really really cool is uh mail meteor
+here. You just pop it into here. So we
+use both of those and uh that usually
+keeps us out of the spam jail. And so uh
+that's we had 15% instead of 20% the
+last month or so. Um, anyways, to kind
+of link it back to my other idea though,
+right, is that you can see here how many
+signups each one of these variants uh
+drove as well, which some of the data
+might be we're we're this is this is
+technically in beta right now. We're
+actually just releasing like these
+real-time analytics to our clients uh
+this week. And so there's a couple
+things in here that don't look perfectly
+right for me, but pretend that the
+numbers are accurate, right? So
+eventually we have like an exact email
+to sign up ratio inside of here where we
+can um extremely accurately uh tell our
+clients um uh we can exactly know uh
+what we need to do in order to to get
+results for them. And so um so yeah,
+that's everything that we've learned
+with RB2B um this month. The main thing
+is that we have real-time attribution
+coming in. So now we can directly uh
+link results uh to different variants to
+make sure that we're actually creating
+the result that we want uh for a
+particular client. Um, and then the
+second thing is that uh uh we we've
+discovered that uh that old copy uh was
+definitely getting fatigued. And so uh
+we're going to either reinvigorate it or
+just completely kill it. Um and then
+overall um really really good um uh
+metrics um all across the board. Uh let
+me pull up the total. So you can see um
+I can't show any other columns cuz it's
+people who signed up their info, but you
+can see here we have 211 uh signups and
+uh this is sent um uh August uh 30th.
+And then here you can see 118 uh
+positive replies, which is pretty uh
+normal for RB2B. There are oops, wrong
+one. There are a lot of people that
+don't even bother replying positively
+and they just sign up anyways. And so,
+uh, pretty pretty insane, uh, pretty
+stellar results across the board. 211,
+um, signups for them. And, um, yeah,
+that doesn't, uh, that doesn't suck. So,
+that's kind of a little bit of the
+behind the m uh, uh, behind the scenes
+of, uh, this entire uh, machine that I
+can form. And so, have a great day. Talk
+to you later. Bye.

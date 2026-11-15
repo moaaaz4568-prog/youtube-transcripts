@@ -1,0 +1,358 @@
+today's video is something many people
+have requested and that is
+some 3d work in blender now i'm not a
+master when it comes to blender
+and i've had the help of a fellow
+designer to show me the ropes
+but if you do follow along today i'm
+sure you're going to learn something
+pretty awesome and maybe end up with a
+sleek sphere render
+at the very very end now for those of
+you who don't know
+blender is a free software that you can
+download right now
+and it's probably one of the most
+powerful and awesome design software
+in the 100 free category now we are
+working with blender 2.9 today
+and with the ev engine
+so when you open up the blender you
+should have a cube on screen
+but that's not something we want today
+for our sphere design so
+left click until you see an outline
+orange border
+and then hit x on your keyboard which is
+the hotkey to delete it
+so we want to add a shape and the
+shortcut to add something in blender is
+shift
+and a and then navigate to the uv sphere
+we're now going to move the sphere
+itself and if you cannot see your
+toolbar
+just press t on your keyboard and then
+navigate to the move tool
+our sphere can move in a 3d x y and z
+axis and we're going to click and drag
+the sphere upwards a little bit from the
+floor
+and speaking of the floor we do need a
+plane that's going to act as our base
+below so hit that shortcut again of
+shift and
+a and then go to add plane
+remember you know it's selected if the
+orange border is
+seen around the edges we want to make
+this plane larger for our render today
+so we need the scale tool
+hover your mouse over the white circle
+until it lights up
+and then click and drag to scale up your
+plane
+so i hope you're following along and we
+are going to take this video in a
+step-by-step easy to follow method
+now a sphere itself isn't going to give
+off that smooth
+shiny effect that we want as it is right
+now anyway
+so right click and then hit shade smooth
+in blender we can add multiple materials
+to our shapes or our designs
+and this is going to offer us different
+effects so firstly we're going to go
+ahead and apply a glossy kind of effect
+but before that we can change our view
+mode here in the top right
+but more about this in a different video
+so you can find the materials menu down
+here in the bottom right with that red
+icon
+and we're going to add a new material
+so the first one is going to be titled
+flora glossy because that's what it's
+going to be
+we are working on the floor first today
+and we're going for a shiny kind of
+surface
+so let's bump up the metallic numbers to
+around 0.9
+you don't really want to go to a full
+one
+also the roughness will need to come
+down to about 0.05 depending on how
+smooth you want your surface and again
+we don't want to go down to absolute
+zero
+as you can see we do have a nice glossy
+floor already
+so we do want some reflections but with
+the ev engine
+we literally need to tell it what
+reflections we want to see
+so come into the render properties menu
+and then come down to
+the screen space reflections and tick
+that box
+we can now see that the sphere is
+reflecting on the plane
+below the reflection is set up
+wherever we view it from so let's come
+into the settings
+and then the screen space reflection
+firstly turn off the half res trace and
+this will offer a kind of more crispy
+reflection
+so i suggest that you play around with
+the other settings so you can get that
+kind of reflection that you want to go
+for in today's video
+and today's video is just showing you
+the process of this kind of
+beginner introduction to designs in
+blender
+if you don't want the reflection to be
+that smooth you can adjust the roughness
+of the plane itself
+as we saw earlier and that's going to
+scatter the light around more often
+giving a more kind of rough texture
+effect
+so now it's time to add a gradient to
+the plane and this might be a bit
+fiddly or a bit difficult to get your
+head around but do follow along and i'm
+sure
+you will understand so let's come up to
+the shading section
+and this will open up a node menu
+we can quickly change the color of the
+gradient here
+but we also want to click off to the
+side and use that keyboard shortcut of
+a in the search bar
+search for a gradient and then add a
+gradient texture like so
+click and drag this onto your base color
+which will link the gradient to the
+color plane
+now with the same process of adding the
+gradients go ahead and add a shift
+ramp and press enter
+so drag and hover it over until the line
+lights up
+and then press a left mouse click which
+should snap
+everything into place as you can see
+here
+now we can come into the color values
+and adjust things accordingly
+and this will make up our gradient as
+you can see
+you can adjust this anytime throughout
+the entire video of course
+but one thing that you do want to take
+note of is how to bump up the color of
+the entire environment
+and to do that come over to the world
+properties menu
+and then into color and increase the
+slider here
+now that's looking pretty neat i would
+suggest
+so let's work on that glossy sphere that
+we all came here today to
+render and we can either create a
+material on the right
+here or actually below as well pretty
+much the same thing
+but we do want to be working with these
+materials so let's click
+new and i'm going to name it marble
+because it's pretty much going to look
+like a marble when it's finished
+so like we did with the plane below
+we're going to raise up the metallics
+and lower the roughness so we have that
+smooth shiny surface of the sphere
+as you should remember from earlier we
+can change the color
+here and let's go for a purple initially
+for the sphere
+notice how the reflection below also
+changes in real time with what we're
+working on
+the marble or sphere looks pretty bland
+right now
+so we can add a texture in the same way
+that we have throughout this tutorial
+and search for a must grave you just
+need to type in
+mus and it should appear like so so
+stretch out the height of this texture
+into the base color here you will notice
+that it has
+removed the color and that's because we
+need to do a few more things before we
+can actually connect this up
+so press shift a again and then search
+for rgb
+click and drag your color from here into
+the rgb node panel
+which you will send over an exact match
+we need to then run the rgb through a
+mix
+so stretch out the rgb to color one node
+and then stretch out the height into the
+factor of this mix
+finally then place the color mix into
+the base
+color and right away we do see a
+difference
+it does look a bit cloudy but what we
+can do is to duplicate this node by
+pressing
+shift and d and then clicking and
+dragging
+so then you want to stretch that color
+into color two of the mix
+shader
+the way we can change the effect on the
+surface of a sphere
+is here with the detail scale and other
+sliders
+to give you a really subtle effect i
+would drag down
+the scale value like so
+so it's best to play around with these
+sliders until you end up with a really
+really nice effect and one you're truly
+happy with
+we are coming towards the end of today's
+video but do stick around to know how
+you can finally render and export your
+design
+but a lot of 3d work relies on lighting
+because it's really important to the
+realism of the final render
+and as a default we do have a point
+light here that blend offers us
+by left clicking we can move it around
+like an object
+but we can also come into our toolbar
+and then click and drag it on three
+different axes
+so over here under the light properties
+menu we have access to other types of
+light sources
+so you can find things like spotlight
+sunlight as an example
+and for this render i think it's
+probably best to go for area light
+and then to rotate it towards the sphere
+itself
+by coming into the toolbar menu
+you might want to change the shape of
+the light to make it more kind of unique
+and more interesting
+and i do think this looks pretty cool on
+this marble surface it almost looks like
+a snooker ball
+you can actually alter the power of your
+light source depending on what you want
+to use it for
+so what if you want more than just one
+light well do hold down
+that command of shift and d and then
+click and drag
+upwards or downwards to duplicate your
+light
+we can adjust and play around with these
+lights for more interesting outcomes
+and notice also how the reflections are
+down below
+on the plane
+so if you want to see the final render
+and how it's going to look
+come into the toggle camera view and
+it's going to snap us into that camera
+view like so
+and we are able to see what we can
+render
+if you want to position this differently
+press n
+on your keyboard n is for november and
+then come into the view tab in this menu
+you then need to lock the camera to a
+view so now when we move the view in the
+camera
+it's going to follow around the render
+and once you're happy with that camera
+angle
+uncheck the box and the camera is going
+to be left in that position
+as you can see with that wireframe lens
+so from here it's probably just a case
+of tweaking more things like the color
+settings
+maybe even the plane and textures and so
+forth
+there is something really cool found in
+the camera menu here and then if you
+come down to the camera data properties
+and you check the depth of field box
+if you then drag the eyedropper tool and
+click the sphere
+it's going to focus the camera on the
+sphere and everything in the background
+will be more blurry
+and this obviously gives a depth of
+field and more realism to your render
+the sphere though is looking a bit
+rugged if you can see on the edges
+here and to rectify this we need to make
+use of something called a modifier
+and to do that come over to the spanner
+or the wrench icon
+add modifier and then subdivision
+so now you can see things have been a
+bit more smoothened around the sphere
+and another finishing touch that you
+might want to include is the bloom
+and also the ambient occlusion
+so how do we actually render and save
+our design
+once you are happy with how things look
+come into the output properties menu
+and then come under output and you can
+see where the render is going to be sent
+to on your computer
+and of course you can change the file
+format too
+to actually commit to a render come up
+to a render in the top
+left and then render image
+but yeah be sure to play around with
+your design your reflections your
+textures your colors and
+just have some fun with what you've seen
+today this has been an introduction into
+adjusting lighting
+textures materials with a sphere shape
+in blender
+if you want to see more content in
+blender do let me know and maybe give a
+suggestion as what you want to see
+within blender itself i have made it as
+intuitive and is easy to follow for
+those beginners and noobs such as myself
+with blender
+so yeah if you do want to learn
+something else about graphic design
+click a video on screen
+and until next time guys design your
+future today peace
+you

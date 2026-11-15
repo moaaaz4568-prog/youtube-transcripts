@@ -1,0 +1,939 @@
+All right. In this video, we're going to
+be talking about how you can leverage AI
+to hyperpersonalize thousands of cold
+emails at a time. That way, you can send
+hyper relevant messages out to your
+prospects and not have to manually write
+each and every one of them. For a little
+bit of context on who I am and why you
+can trust me, my name is Matt Lucero.
+I've sent over 5 million cold emails to
+date on behalf of our customers to help
+them book sales meetings. And so in this
+video, I'm going to share with you the
+exact framework we use to be able to
+personalize thousands or tens of
+thousands or even hundreds of thousands
+of emails at a time using AI. That way
+you can steal it from me, implement it
+in your business, and hopefully not have
+to manually write each and every email
+personalization one at a time. So
+without further ado, let's dive straight
+in. So diving straight in, we're going
+to be talking about how you can
+personalize your emails at scale. And in
+this video, I want to use a realworld
+example. I don't want to just give you
+hypotheticals. I want you an actual
+campaign that I'm going to be running
+for myself and we're going to
+personalize it here together and you're
+going to see all the individual micro
+steps that actually go into this to be
+able to run a successful
+hyperpersonalized campaign. So, in this
+framework here, first we're going to
+cover this and then we're going to
+actually execute on these steps. So,
+there's four main steps that I'm using
+here to be able to personalize your
+emails at scale. The first thing you're
+going to want to do is build the lead
+list and the campaign strategy for that
+matter. So, we're going to want to
+figure out who we're targeting, what is
+the baseline criteria we're going to
+use, and how we're going to personalize
+it. Then we're going to determine
+exactly how we want to personalize the
+emails because it's very important to
+have an idea of what you want to look
+like before you go into it instead of
+just throwing a bunch of stuff at the
+wall and not really being sure exactly
+what you want. Then we're going to
+leverage AI to source or clean up data
+on our behalf. And then we're going to
+insert it in our emails. And so again,
+I'm going to use a real world example
+here. So we're going to dive in and
+we're going to start with step one,
+which is building the lead list. So I'm
+going to use an example again real world
+use case. So in most cases whenever we
+send cold emails for our customers and
+most of the cold email campaigns we're
+running are salesled I want to use a
+real use case that we're using for
+ourselves right now which is a
+recruiting use case. So my company Nevo
+marketing we're hiring for a head of go
+to market and so one of the strategies
+we're doing is we're going to be sending
+cold emails out to people to see if they
+know anyone who could be a good fit for
+this role. So we're just trying to get
+in front of a bunch of people who might
+know someone that could be interested in
+this role. So, how we're going to do
+this? First, we're going to build the
+lead list. So, in the example case here,
+the job that we're hiring for is head of
+go to market. And so, the types of
+people that probably know people that
+are in market for this role are people
+that have very similar titles or people
+that are in adjacent titles. So, right
+now, you're going to see here, this is
+Apollo. Apollo is a lead database. You
+can use a lot of different lead
+databases. Apollo is the primary one we
+use because it has a lot of features
+that make it easy to use and the
+database is already scraped and so we
+can just pull stuff in very seamlessly
+from here. So what I went ahead and did
+is I already built the list criteria cuz
+I didn't want this to be a whole list
+building video. Essentially I just
+scraped people that have titles again
+that are similar to this role keeping in
+mind that people who would be a good fit
+for this role would probably know other
+people that would also be a good fit for
+this role if this makes sense. So we're
+scraping a bunch of people with similar
+job titles. We're scraping the US and
+Canada. And then we're scraping employee
+headcounts that again would be relevant.
+So we have about 21,000 people here. We
+have about 15,000 already scraped
+because we've run campaigns in the past
+for our customers. And so what I'm going
+to do here is uh leverage the data that
+I've already paid for. And I'm going to
+go ahead and scrape 5,000 or so of these
+people. Again, for the sake of this
+video, I might end up reaching out to a
+lot more people, but we're just going to
+scrape this. So, I'm going to take these
+5,000 people that we have already saved
+and I'm going to go ahead and export
+these people through Apollo. So, while
+this is exporting, we're going to let
+this load here. Again, just speed
+running through this these criteria. I
+have another video entirely on Apollo
+and how you can build out job titles,
+location criteria, employees, all this
+stuff and the kind of reasoning going
+into this. But just zooming all the way
+out, we're doing a recruiting campaign.
+We want to reach out to people who might
+know other potential applicants. And so,
+the first thing we're doing is we're
+building this lead list. All right.
+Amazing. So, it's went ahead and loaded
+and we're going to download this lead
+list. So, now we have our lead list
+downloaded here. Step one complete. We
+have our lead list built that now we can
+then personalize. The next thing we're
+going to do here is determine how we
+want to personalize the emails and ideal
+output. So, again, this goes back to
+strategy. We want to determine who we're
+reaching out to. And now, we want to
+determine really what we want the
+personalized emails to ideally look
+like. Again, I went ahead and put
+together a sample script here. In other
+videos, I've talked about how to put
+together scripts with cold email. So, if
+you want to check those out, you can see
+other videos. But here's just an example
+script that we have here. Hi, first
+name. Took a look at your profile on
+LinkedIn. Saw your leading job function
+at normalized company. Just curious, you
+know, anyone looking for a director
+level go to market job. For context, I
+run a cold email agency. Is there anyone
+you can introduce? That's really the
+email at a super high level. Now, I've
+already determined here how I want to
+personalize email. So here's our kind of
+blank canvas email and I've determined
+that things that might be relevant to
+personalize here is calling out what job
+function they're currently leading. So
+for example, if they are a head of
+business development, I might want to
+say hey I saw you're leading the
+business development department or hey I
+saw you're leading sales or hey I saw
+you're leading marketing or growth or
+whatever it might be. I want to include
+a little snippet here that calls that
+out. And then I also want to call out
+their company name. Again this is just
+an example. In a lot of cases, I don't
+think it's really necessary to call out
+their company name, but I'm going to
+show you how you can clean this up with
+AI and again personalize this in emails
+at scale. I already went ahead here, put
+together this email, and I already
+determined how we want to personalize
+the emails because I have the snippets
+in here already. If you are unsure on
+how you want to personalize your emails,
+what I'd really sit and think through is
+if you could manually write an email,
+what parts would you personalize? Now,
+we're sitting here and thinking how we
+can do this at thousands of people at a
+time. But if I'm sitting here and in the
+case of, you know, a recruiting style
+email, I want to personalize each and
+every email. I'm going to sit and think
+for a second, what do I want to call out
+about this person? I probably want to
+call out what their experience is
+currently, which is why we're using the
+job function example here and their
+company name example. We could go a
+different direction and say, "Hey, I
+took a look at your profile on LinkedIn.
+I'm really impressed with your
+experience at XYZ Corp." Or, "Hey, I'm
+really impressed by the LinkedIn post
+that you're making." You can kind of
+take this any direction you want. It
+really just depends again on the
+campaign you're running. And in this
+case, this is a super simple
+personalization. Now, we can also use AI
+to personalize the entire lines at a
+time. So, if I want to, I could just
+have this be an entire snippet where it
+says, "Hey, saw your doing whatever,
+right? You can let AI have kind of like
+a open playbook to put in whatever it
+wants or whatever relevant experience it
+finds." I'm more of a fan of tactically
+trying to find little snippets that I
+know what AI should output. That way I
+have more control over the email because
+if you kind of let AI go off the rails
+and might write something that you uh
+don't want it to say. That way I'm being
+really tactical with what we're doing
+here by having these small snippets. Now
+you see here in the comment section I
+already put what I ideally want AI to
+say. This is going to come in handy
+later whenever we're going to leverage
+AI and we're going to prompt it because
+if you don't know what you want AI to
+output, it's not going to do a very good
+job. And so again, what you're want to
+do before you leverage AI, determine the
+script you're going to want to run. If
+you need help with that, you can check
+out my other videos. And then also to
+determine what snippets you're going to
+use and what the ideal outputs are.
+Again, I'm using myself as an example
+here. If I want to reach out to myself,
+my company is called Anivvo Marketing.
+But if you wanted to specify in a cold
+email, I probably would just say, "Hey,
+I saw you're leading business
+development at ano." I probably wouldn't
+put the marketing. For an example, too,
+let's say we're reaching out to the IRS,
+which their official company name or
+their the official department name is
+the Internal Revenue Service. You'd
+probably want to call them the IRS. So,
+you probably want to have these examples
+in mind, what the outputs look like
+again before we go to AI and start to
+actually run these campaigns. And so,
+again, step one, we built the lead list.
+Step two, I already have an idea of the
+campaign I want to run, what I want to
+say in the emails, and what I want AI to
+personalize. Now, we're going to get to
+the fun part, which is leveraging AI to
+source the data and clean up the data.
+So, what we're going to do here, we're
+going to do three things with AI. First,
+we're going to filter out. In my case, I
+want to reach out to people that know
+other people in the B2B space. So, I'm
+going to filter out people that work at
+companies that are in B2B. We want to
+filter out people that work at BTOC
+companies. So, we're going to start
+there. Then, we're going to clean their
+job function. So, we're going to look at
+their job title, use AI to clean up, and
+make this snippet. And then, we're also
+going to normalize the company name. So,
+we're going to take the company name.
+We're going to clean it up with AI. So,
+then we can get this nice clean output
+like I'm showing you here. So, how are
+we going to do this? We're going to use
+Clay. If you want to check it out,
+there's an affiliate link in the
+description below. If you sign up with
+it, you get a bunch of free credits.
+It's basically a AI canvas you can use
+to personalize a bunch of data at scale
+and do a bunch of go to market
+workflows. So, we're going to jump into
+Clay here. I went to Apollo. I already
+scraped all the people that I want to
+use here. And so, I'm just going to
+import this directly into Clay. If
+you've used Clay before and you want to
+find people directly in here, you can do
+that as well. There's bunch of ways you
+can source data natively through Clay,
+but I'm just going to use Apollo and
+source it from here. So, I'm going to go
+ahead and grab the lead list that I want
+to use that we just scraped from Apollo.
+And we're going to let that load here.
+And then we're going to complete the
+import. And you're going to see all this
+data that we just scraped from Apollo,
+which is about 5,000 people, we just
+dumped into Clay really quick here. And
+so, while this is loading in, you can
+see these are all the people we scraped.
+And so looking back at our filters, you
+can see we scraped head of go to market,
+go to market lead, director of go to
+market, head of business development,
+director of business development. Again,
+I kept this kind of light cuz there's a
+zillion titles we could reach out to,
+but I might also reach out to growth
+titles and sales titles and all kinds of
+other stuff. And so really all I want
+here is in this snippet to filter out
+for the go to market titles, put GTM,
+and for the business development titles
+to put business development. So this is
+pretty straightforward. Here we have our
+list that we just pulled from Apollo.
+And now we're going to want to use AI to
+personalize it. So, real quick, if
+you're watching this video and you want
+someone to come in and actually build
+out a system and manage it like I'm
+showing you in this video here, feel
+free to check the first link in the
+description below. We can either help
+you build out a cold email system and
+manage it and book calls on your behalf
+or help answer any questions you have
+when trying to navigate sending cold
+emails at scale. So, if you want to
+check that out, check the first link in
+the description below. Appreciate you a
+ton and hope you enjoy the rest of the
+video. Going back here to our sheet,
+we've determined how we want to leverage
+AI. And so, actually, I'm going to start
+with this. We're going to filter out all
+the people that work at BTOC companies
+because their experience and their
+network probably isn't going to be as
+relevant as the people who work at B2B
+companies. So, we're going to go over
+here inside Clay and then we're going to
+press add column and we're going to use
+AI here. Now, I'm going to move my
+beautiful face out of the way that way
+you can see the prompting stuff we're
+going to do here. And first, we're going
+to start off by filtering out all the
+people that work at B2B companies. And
+so how are we going to do this? We're
+going to ask AI to check the websites
+that these people work at and we're
+going to have it categorize whether the
+company they work at is a B2B or B TOC
+company. The way that you prompt Clay is
+very similar to how you'd give a normal
+human instructions. And so what we're
+going to do here is we're going to go
+into this use AI tab and we're going to
+go to the prompt and we're going to ask
+it to number one visit the website and
+then number two return if it's a B2B or
+B TOC company. It's funny Clay's
+actually default prompt here is exactly
+this. So, the prompt is actually sitting
+right in front of us. I'm going to tweak
+this slightly more so we can be a little
+bit more defined with this. But, I'm
+going to feed you a company website, and
+I want you to scour the website and
+determine if it's a B2B company or a B2C
+company. If it's a B2B company, output
+B2B. If it's a B2C company, output B2C.
+So again, I'm trying to be as crystal
+clear as I can with AI. We don't want
+there to be any confusion here. If
+you're not sure, output B2B. So I'm
+giving it kind of like an edge case here
+cuz some cases AI might not be able to
+come up with a clear answer, I'm going
+to only reach out to the people that
+work at B2B companies. And so I'd rather
+include like a small segment of the
+market that might not be relevant then
+exclude them out. So I'm just saying,
+hey, if you're really not sure, just
+categorize as B2B. Might as well reach
+out to them. And now I'm going to feed
+it the website. Here is the company's
+website. So again, the way that we're
+prompting this is very similar to how
+you would talk to a human. You just want
+to have clear instructions, clear
+bounds, and make sure you feed it the
+data that is relevant. So we're going to
+feed it the company's website. And so
+I'm going to go over here to the website
+column and feed it the website. One last
+thing I'm going to do before I run this
+is I'm going to switch the model. So
+Clay, this is a tool you can use all
+kinds of different AI models. There's
+plenty of AI models and the one I'm
+going to use actually is not the best AI
+model, but it is the best value AI
+model. So, you can see Anthropic has all
+their stuff here. Gemini, Open AAI, and
+Claggent has their own stuff that
+they've kind of put together. I'm going
+to use GPT4 Mini. The reason why is
+because it is the best value model. If I
+end up using my own API key by going
+over to OpenAI's website and grabbing it
+myself, I'm able to do this for
+significantly cheaper than what Clay is
+charging and be able to do this cost
+effectively at scale. If this ends up
+costing me a dollar per row that I run,
+this is going to cost me $5,000 because
+we have 5,000 rows. A quake credit is
+like three cents. So again, I'm kind of
+exaggerating here. But if it costs 3
+cents per 5,000 rows, I can still add up
+pretty quickly. If I use my own API key,
+it's a lot cheaper. And if we use
+cheaper models, again, it's going to be
+a lot cheaper. So I'm just going to
+save. I'm going to run 10 to start. That
+way, I can see if the outputs look good.
+I'm not going to guess and check and do
+all of the stuff I normally do if we
+were to run a campaign. In most cases,
+I'd want to go and actually verify if
+the outputs are exactly how I want them
+to be myself. In this case, I just want
+to see that it's outputting the right
+thing, which is B2B or B TOC. Now, I'd
+expect most of these people are going to
+be in the B2B space because usually if
+you have like a business development
+title or a go to market title, these are
+titles that are heavily skewed to B2B
+companies, but in the case that we're
+reaching out to like a director of
+marketing or a director of sales or even
+like a director of growth, those are
+titles are more common at BTOC
+companies. And so again, this workflow
+might be more relevant, but again, I'm
+just doing this for the sake of this
+video. The outputs in this case look
+fine. And so I'm just going to have this
+run entirely at scale. So you can see
+just how simple that was with just a
+couple minutes of prompting, couple
+minutes of throwing some leads together
+here. We can have AI do all the
+filtering work that normally someone
+would manually have to go line by line
+and have this done, or you wouldn't be
+able to do this filtering at all, and
+then you'd just be reaching out to a
+bunch of people and not sure that
+they're accurate. So this is the first
+step in our workflow. And so this is
+complete. So first of all, we used AI to
+filter out the people that are B toC.
+I'll show you real quick how you can
+filter this out inside Clay. We can add
+a filter where business model type,
+which is what Clay categorizes as. Let
+me actually make this a separate column
+here. The way that you do this is by
+clicking into the cell and then hovering
+over the response and press adding
+column. I can go ahead here and just
+filter out anyone who has the response
+here B to C. So you can see this one
+does. I can go into the filters tab here
+and then filter out people that have
+this response. I'm also going to show
+you how you can run a conditional
+formula to do this as well. But while
+this is running, we're going to move on
+to the next step here. So, first we
+filtered out B2B. I'm going to highlight
+this green since we're done. Now, we're
+going to want to clean the job function.
+So, again, going back to our use case
+here, we're going to want to say, hey, I
+saw your leading job function. So, the
+output here, assuming they're a head of
+business development or VP of business
+development, I want it to just say
+business development. I actually want it
+to say it in lowercase. So, let me
+revise this and just say business
+development. So, that's the ideal output
+we want here. And if they're in the go
+to market type role, I want to say GTM.
+Or I could even have it spell out go to
+market entirely. So, we're going to
+actually do this here. And then also, we
+can in the case that I actually want to
+run this at scale. I'd also have other
+titles like sales, growth, and a and a
+million other type of things here. But
+again, this is going to be a pretty
+simple use case. So, we had AI scrape
+the web and return this in this case
+here. Now, we're going to use AI yet
+again. And instead of having it research
+the web like we had at default, we're
+just going to have it clean up the data
+that we've already provided because we
+can figure out or clean up the job
+function variable here simply by looking
+at their job title and just telling it
+to clean it up. So, what we're going to
+do, we're going to prompt it here again.
+I'm going to feed you a person's job
+title and I want you to output their job
+function. And so, that's kind of like a
+vague sounding prompt. So, I'm going to
+want to give it a real example. For
+example, if someone is a head of growth,
+I want you to output growth, right? So,
+I'm giving an example. If they're ahead
+of growth, I want you to say growth. All
+right? Let me actually give it a few
+examples cuz I really don't want to mess
+this up. Here's a few examples of inputs
+and outputs. If someone is ahead of
+growth, I want you to output growth. If
+someone is a VP of business development,
+I want you to output business
+development. And if someone is a
+director of operations and partnerships,
+I want you to output operations and
+partnerships. Right? Again, I'm doing
+this on the fly. And you can see how
+this would kind of look back in the
+script here. Hey, took a look at your
+LinkedIn, saw you're leading operations
+and partnerships at company name. To me,
+that sounds normal and that sounds
+great. If someone is the director of
+operations and partnerships, that sounds
+like a good email here. So, we fed it.
+We told AI, "Hey, this is what I want
+you to do." We gave it a bunch of
+examples. Here's what I want you to
+output. And now, we're just going to
+feed it the input. So, here is the job
+title. And then I'm going to feed it the
+job title. And then we're going to let
+it run. I'm going to go over here again.
+I'm going to switch the model. In this
+case, I might want to use a more
+expensive model. So, I'll just show you
+what it looks like if we use a different
+one. We're going to use Sonnet here. And
+again, we're going to use our own API
+key. Again, the model doesn't really
+matter too much as long as it's powerful
+enough that it's giving you a good
+output and that it's cheap enough that
+it fits within your budget. In a lot of
+cases, the ones I use are the like GPT
+401 ones or Anthropics models. Again,
+the exact best practice might depend on
+when you're watching this video and
+depending on what models are out there
+and what the costs are. Uh, the last
+thing I'm going to say is only output
+the department function. Nothing else.
+We're going to have this save and we're
+going to run 10 of these. And again,
+what we're looking for in this case,
+this is very simple since there's GTM
+and there's business development that
+there really should only be two outputs,
+which is business development or GTM.
+And so, again, this is a very simple use
+case. I'm going to try and scroll down
+and find someone or a title here that's
+go to market related. It looks like most
+of these are business development. So,
+I'm going to scroll down. Cool. So, it
+looks like this one's like head of GTM
+and people. And so, I'm going to go over
+here and run this just to make sure that
+this looks good. Cool. And so it says
+GTM and people. So wonderful. So now we
+have this piece figured out and
+personalized as well. We're going to
+highlight the screen since this is
+completed. If I want to run this, all I
+have to do is run column and then run
+all 5,000 of these. Again, this is very
+simple once you have it down and once
+you get the prompting stuff down. And
+then uh we can move on to the next step.
+I'm going to go over here and just click
+through a few more of them. This is a
+bit redundant and again this is a very
+simple use case. I don't want to do a
+super complicated use case for this
+video and confuse everyone just getting
+into this. But this is just an example
+and you can see this is a very uh simple
+example. Another way you could do this,
+I'm sure you could do this with a
+formula and without AI, but the
+beautiful use case here with AI is that
+you can feed it any sort of title. It
+can be a really wacky title and you
+don't have this super complicated
+formula that tries to run for everyone
+and then messes something up. The AI can
+pass in the data and then give you an
+almost perfect output every time. So now
+that's complete. And then one last thing
+that I'm going to do here and that I
+should have done is not run this for the
+people that are B to C since we don't
+want to be reaching out to these people.
+I'm going to actually set a conditional
+formula down here. So you can see inside
+Clay there's an only run formula. And we
+can use AI to prompt this saying I only
+want you to run this column if business
+model type response is B2B. So the
+reason why we're doing this cuz
+ultimately we can have this run on
+everything cuz we don't want to waste
+credits on people that we're ultimately
+not reaching out to. So if someone's B
+to C, we don't want to spend a bunch of
+AI credits on everyone else who's in
+this sheet. That way we're not wasting a
+bunch of credits. So this output's
+correct. I'm going to save and I'm going
+to run 10 of these again. And so let
+this run again real quick here. I'm
+actually going to uh pause this for a
+second here just so we don't burn
+through a ton of credits. All right. So
+now we reran this again. And you can see
+this cell here says run condition not
+met. The reason why is because this
+person's B TOC and we don't want to
+waste a bunch of credits because we're
+not going to end up reaching out to this
+person. Awesome. So, we filtered out the
+people that are not B2B. We clean the
+job function. That way, we can have it
+perfect to insert in an email. That way,
+we're not saying their janky job title
+that might be super long and sound
+really weird. We're just saying the
+function that they're leading. Now, we
+want to normalize the company name. So
+again, we're going to go back to Clay
+here, and we're going to leverage AI one
+more time using again a very similar
+approach. We're going to go over here to
+add column. We're going to use AI again
+here. And then we're going to go over to
+the same use case before. We're not
+going to need to scrape the web since we
+already have the company names. And then
+we're going to pick our model. Again,
+the model doesn't matter here. In this
+case, we might go back to GPT40 Mini.
+I'm just switching between them to show
+you that it doesn't make a whole lot of
+difference. The only difference it
+really makes is cost. And that depends
+on your goals and exactly what you're
+trying to hit and if the outputs are
+good enough for what you want. And now
+in this case, we want to clean the
+company name. So what are we going to
+do? We're going to explain this just as
+if we were explaining it to a human
+being. So we're going to tell it the
+inputs and outputs. We're going to give
+it. So I'm going to feed you a company
+name and I want you to output the
+company name in a clean format so it
+sounds human in a cold email for
+example. So now we're going to tell it
+what it means. Again, we could just, you
+know, just give it the inputs and
+outputs here, but I want to feed it as
+many examples as possible because the
+more examples you give AI, the better
+outputs it's going to give you. So, for
+example, if I feed you the Internal
+Revenue Service, I want you to output
+the IRS. Right? That's a perfect example
+of a long company name and how it can be
+shortened. Or let me just go back.
+Here's a few examples of how this might
+look. So, I'm going to say if I feed you
+the Internal Revenue Service, I want you
+to output the RS. If I feed you Acme
+Corp, I want you to output Acme. If I
+feed you Josh's roofing LLC, I want you
+to output Josh's roofing, etc. So, these
+are just like a few use cases. The more
+examples you can give to AI, the better.
+This is an example where it's
+abbreviating and shortening something.
+This is a case where it's just removing
+like the corporate LLC. This is a case
+where you're capitalizing something and
+removing an LLC, etc. Ultimately, I just
+want you to output a human sounding
+company name so when I use it in a merge
+field in a cold email that it doesn't
+sound automated. We're telling it
+ultimately our motives behind this. So
+hopefully it gives it some more context.
+Here is the company name I want you to
+clean. And then we're going to do the
+slash key here. And then we're going to
+insert the company name. And so you can
+see here Apollo already has this like
+somewhat clean. They call it company
+name for emails. I like to run this
+through one last time. That way it looks
+as clean as possible. And so again,
+we're going to save this and run this 10
+times. Clay's going to do its magic. AI
+is going to work its magic. I ultimately
+couldn't tell you how these uh companies
+do such a great job doing this on the
+back end. And you can see these company
+names look pretty clean to me. Now I
+could go over here and we can run a
+bunch of these. In the case that I see a
+company name that I don't like, I'm
+going to go back into the prompt and I'm
+going to say, "Hey, this looks a little
+bit weird." Or, "Hey, remove this or
+change this around." In the case of this
+video, I'm going to try and keep this
+short. But if you don't like the outputs
+you're seeing, you can change that
+around here. See, I made the same
+mistake twice here, which I didn't
+include the filter here to not do this
+for B toc companies. I'm going to do
+this real quick here. I can actually
+just go to the edit column section and
+just swipe this over here and input it
+into the other column. Again, I'm going
+through this really quickly cuz I know
+your time is valuable and I want to make
+sure that I get through everything in
+this video. And so again, we're going to
+let this rerun. In this case, it looks
+like run conditions not met. And so this
+is exactly what we want to be doing. I'm
+not going to have it run for everything
+cuz again, I just want to do this as a
+demo, but pretend I went through here
+and run ran this, you know, 10,000 times
+or 5,000 times. You'd be all set. Now,
+all this data is nice and neat here
+inside of Clay. But your next and final
+question here, assuming that we have all
+three of these steps completed and
+you're happy with your outputs, you
+looked at all the outputs and you're
+like, man, this looks perfect for cold
+email sending. Now, we're going to want
+to insert these into email. So, this
+ultimately the way that you're actually
+doing this depends on the sending tool
+that you use. I like to use Smart Lead
+because Smart Lead is a phenomenal tool
+and it hasn't let me down yet. And so,
+what we're going to do here is we're
+going to pop open Smart Lead. Again, if
+you want to check out a video on smart
+lead, I have other videos on my channel
+here where I talk about all the ins and
+outs of cold email sending. But you can
+see here, this is the cold email that we
+have here. So, what I'm going to do, so
+I can pull this in, there's two things I
+could do. Either I could have this
+import directly to smart lead inside of
+Clay by adding enrichment and then I
+could type in smart lead and you can see
+here I can add the leads directly to the
+campaigns with all the data that I have
+here. Or I can download this as a CSV.
+I'm going to do this cuz I think it's a
+little bit quicker. And so I'm going to
+go over here, actions, and export. And
+I'm going to download this as a CSV. So
+again, you can directly send this to
+Smart Lead inside of Clay, but I'm just
+going to do this since I think this is a
+little bit quicker. And because I don't
+have the fields mapped inside of Smart
+Lead already. And so now you can see
+this is all set. Now I'm going to go
+back into Smartle and I'm going to
+upload the CSV. I'm going to upload this
+updated list here. I'm going to press
+save. And then now you can see I have
+all these different variables that I
+have set out here. So, I'm going to go
+back to Clay real quick just to verify
+this. You can see clean company name.
+I'm going to call this company name job
+function. We're going to make this a
+custom variable here. And then, let me
+see here. Business model type. What I
+should have done here is actually just
+not even include the people that are B
+to C. Let me actually redo this. So, I'm
+going to go over to the filter section
+here. I'm going to filter for people
+where response equals B2B. Response
+equal to B2B. That way, we're only
+exporting the people that have the right
+criteria in the first place. Let me
+actually redownload this real quick.
+Wonderful. We have it redownloaded. I'm
+not going to go through and rename this
+sheet here, but I'm going to delete this
+and read this. Wonderful. And then now
+we're going to be able to add this in
+here. So, we're going to make the
+company name field mapped here, the job
+function field mapped here. We're going
+to call this a custom field. We're going
+to make sure that we include our email
+here as well. And we're going to include
+their LinkedIn as well. And we're going
+to save and next here. All right. Now,
+finally, we're inside smartly. You can
+see it imported 1,600 people so far here
+that were categorized as B2B. And you
+can see here, this is our copy. I'm just
+going to double check and make sure that
+our variables are named properly here
+inside Smartly. You can press this
+insert variables tab here and then pull
+in the variables. I forgot exactly what
+I named it, but if you want to double
+check what the variables are named, you
+can go inside back into Clay. And the
+way that Smartly names the variables is
+it's just the same name as the column
+here. So this one's called job function.
+So, I'm going to go over here and type
+job function. I'm going to close this
+out. And then the company name, I just
+mapped that as company name. And so, I'm
+going to press insert variables here.
+And I'm going to input company name here
+as well. It looks like smartly tried to
+save it here, but let me try it again.
+And so, hopefully this should be all
+set. Let me double check by doing a
+preview here. And let's see here. Looks
+like it all got pulled in properly here.
+So, hi Carlos. Took a look at your
+profile and saw you're leading business
+development at CNG. Just curious. blah
+blah blah blah blah blah blah.
+Beautiful. So now this is all set. If I
+switch to the next person in the list
+here, same thing. It just pulled in all
+the data from Clay. And if I want to
+continue and run this campaign, which
+this video is not all about cold email
+sending, you can check out the other
+videos for that. All I have to do is
+configure the rest of the settings, add
+the email accounts, and do all the other
+dirty work that I didn't cover in this
+video here, and you should be good to
+send. Now, there's a couple things I
+didn't cover here. Again, if you're
+trying to run a cold email campaign,
+you're going to want to validate your
+leads. You're want to make sure your
+copy is clean. You're going to want to
+split test things. You're going to want
+to add follow-ups. You're going to want
+to make sure your deliverability is all
+set. Warm up your email accounts and do
+all the other best practices I covered
+in this video, but more specifically on
+how you personalize emails with AI. This
+is just how you do it. If you want to
+check out Clay and all the other stuff,
+you can check out the links in the
+description below. If you got value out
+of this, check out the other videos on
+the channel here as well because I have
+a lot of content talking about cold
+email. Really appreciate you. And
+finally, if you're looking for someone
+to help you set up cold email systems or
+help you with any part of this process,
+you can check out one of the links in
+the description below over at Anivvo
+Marketing and you can apply to work with
+us and see if we can help you run any
+sort of cold email campaigns. Appreciate
+you a ton and hope you have a great rest
+of your

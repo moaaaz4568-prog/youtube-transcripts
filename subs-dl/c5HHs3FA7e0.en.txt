@@ -1,0 +1,362 @@
+Our next speakers is going to be Murphy
+McCann. He's my colleague here at
+Spearhead. He is
+[Music]
+extensive as well and he's presenting
+about the future of AI and the AI
+industry and how affected
+by Nick just give everybody a sense of
+kind of where we are now. It might give
+me if you're not real well familiar with
+everything, it might give you a sense of
+what's happened up until now and maybe
+what to expect at least for like the
+coming 12 months. And so with that, I'll
+say one other thing about anything that
+I say. I am not going to recommend to
+buy or sell any investments whatsoever.
+We're going to talk about some of them,
+but none of this is a recommendation.
+So, can everybody hear me well enough?
+Yeah. Yeah. Anyway, so the biggest,
+fastest growing, largest industry in the
+world right now is the AI industry. So,
+let me break that down for you what that
+means. There at the core, you guys have
+heard of Open AI and and Chat Gvt,
+right? You guys have heard of Grock,
+you've heard of Gemini, Google's Gemini,
+you've heard of Deep Seek. Maybe these
+are all models that are they're software
+models that actually predict. They can
+actually write texts. they can talk for
+you. It's really noble technology. The
+technology actually has a really
+farreaching that the direction of it is
+going to places where these models will
+actually be able to do a lot of things
+that normal humans can do in terms of
+thoughts and eventually be able to like
+actually do things poison. and they'll
+eventually be able beyond that to be
+able to run organizations and and maybe
+even societies to some extent. So, and
+my just the the the quickest way to
+summarize where we are that we are in
+the first ending of of of this game of
+at least a nine ending game with regard
+to the software and the software is very
+very computer intensive and we saw a
+smattering of this when people got real
+fond of Bitcoin mining. You got to see
+real fast how how compute intensive some
+things can be. Basically all these
+things you know when you want to respond
+to your girlfriend and you just want to
+do it that actually takes a lot of power
+and a lot of sophisticated software to
+do. So there is in order to get this
+whole industry off the ground. We still
+need a lot of infrastructure. I'm going
+to talk about how much in a little bit.
+The other thing that I want to talk more
+about is the software and where it's
+headed and where companies potentially
+benefit. And then I'll also talk about
+some of the recent things with tariffs
+around the world and the geopolitical
+situation and how that so the
+infrastructure build over the next 5
+years people are saying three and a half
+to4 trillion dollar are going to get
+spent building data centers that is you
+know they actually have a breakdown for
+that there's almost $2 trillion just for
+the processors themselves you guys have
+heard in the video right we all know
+they are the leading manufacturer of AI
+I computer processors. There's a bunch
+of other software and hardware that goes
+around these chips and we're going to be
+spending probably a half to1 trillion
+dollars of that on that in the next 5
+years. And then construction of
+buildings and air conditioners and you
+know cooled oil hats and all the rest of
+that is going to be the remainder. So,
+it's a really substantial amount of
+money that we're going to be spending on
+the and if anybody has heard, you know,
+there's a little bit of controversy in
+the marketplace about, you know, Chinese
+models are going to, you know, require
+less computing power and so forth. I my
+my view on all of that is that with all
+of the models coming to market and being
+used, there is no shortage of demand for
+compute power for all of these mods
+going full. We have a lot of work to do
+in terms of developing the models. We
+also have a lot of work to do in terms
+of deploying them and people actually
+just using them dayto-day. Again, when
+you when you ask, you know, chat GPT to
+draw a picture of a palm tree with a
+duck the size of a horse and you know,
+guess what? You're probably going to
+want to change the color of the horse,
+right? And that'll take a ton of compute
+power. It is just the demand on this on
+this infrastructure is growing
+exponentially and and it's very very
+significant. We do not have enough build
+in the ground as we're talking to even
+come close to satisfying the demands
+that we miss. So, one of the things I
+want to talk about was just to break
+down on the hardware side, you know. So,
+the the critical part of all this are
+the the processors, the chips. Uh, we've
+all heard hopefully of uh Nvidia and the
+Blackwell shift. They are the pinnacle
+of um of the of the AI processing world.
+Um and I wanted to give everybody just
+you know one of the things that's
+happening is that if you were to talk
+about this a year ago you would have
+mentioned two names you probably in this
+space on the hardware side you would
+have mentioned Nvidia and on the
+software side you would have mentioned
+open AI and that would have been it well
+guess what there's a flood of new
+entrance now and on the computing side
+there's people talking about you know
+competing with Nvidia and I I want to
+just give a few high level facts to let
+you decide where the landscape might be
+going in terms of processors. So,
+Nvidia's black belt chip, the throughput
+on that, the power of that chip, it's
+1,410 teraflops. Just just keep that
+number 1410 cuz I don't even fully know
+what a watt is either, you understand?
+And that that chip uses, 1200 watts to
+to run to run for it's a 1200 watt chip.
+So, it's 1,200 watts per hour, you know,
+1,200 kilowatt hours per hour and so
+forth. Contrast that with and guess
+what? Nvidia charges 30 to 40,000 bucks
+per chip and they can make about 50,000
+of these chips per per month. The
+nearest competitor is nowhere close. I
+just want to to to make that move
+people's minds. There's AMD chips, you
+know, is developing chips. Huawei. I
+want to focus on Huawei's for a second.
+They're a Chinese manufacturer. They're
+trying to get into the market and their
+their nearest competitor just so you
+know does black well did 1410. Huawei's
+chip can only do half that in terms of
+did only has half the compute power.
+Huawei wants to charge about half the
+price for their chip. But guess their
+their throughput their their ability to
+manufacture is only 20% of what Nvidia
+can do just on platform, right? So
+they're nowhere close. And guess what?
+The other big player in the market is
+also Nvidia with their second their
+number two chip that they can make
+50,000 units of a month as well. So on
+the hardware side, just continue to
+think of Nvidia. You know what's going
+to happen over time is we know how much
+Nvidia is making on all this business.
+They're generating 45 billion a year in
+cash flow. It's just it's it's a massive
+business. They're they're in a very
+strong position. But people are going to
+continue to chip away at them. They're
+just in a very they just don't they
+can't hold a channel to them and they
+probably won't for years. So I want to
+give you that that. So let's move from
+that's an update on the hardware side
+and the most important part I think and
+let's just talk about the software. We
+talked about chat GPT and what is chat
+GPT at its core? It's a it's it's a
+model that actually writes sentences and
+words. that forms ideas they can follow
+along with thought that well open AI has
+chat GPT but guess what all the other
+majors want their own equivalent of chat
+GPT so there is you've got Google with
+Gemini you've got Neta they're
+developing a thing called Lava you've
+got which is Elon's baby and then you've
+got China which came out with deep you
+know there's a bunch of companies in
+China looking to to get into space as
+well deep se is one that made a name for
+itself And what I would say about all
+these models is that they are all
+different. So, and the major point in
+that is that the AI software world is
+actually very diverse and is going to
+become more diverse over time. You have
+this model out there chat GTT that kind
+of did something that is is broadly
+applicable to a lot of people. But when
+you start to break down, you know, the
+various things that it could do, there
+are other entrance that are doing other
+little facets of what Chachi PT could do
+better that I I I like, I like Gemini, I
+use them both. I haven't used Llama Yen,
+but I'm sure it's going to be awesome.
+It's going to be able to do a number of
+things. And then you think about and and
+these are just models that are writing
+sentences and formulating ideas and
+doing research and bringing research
+into a nice cogent, you know, paragraph
+or outline or, you know, can do a chart
+for you or whatever. But when you think
+about where these things are headed
+next, it's mind-blowing the things that
+that are coming out in terms of their
+capability. And I, you know, you really
+need to keep your ear to in terms of
+what the next chapters of this. I think
+you see some some glimpses of this if
+you look it's why am I spacing on
+Palunteer so Palanteer actually you can
+see a pretty wide set of capabilities
+that are being developed across the
+industry if you look at their software
+there's demos of Palunteer software
+there's demos of it actually running a
+battlefield and choosing which tanks to
+send where and how many services
+basically this thing is thinking way
+beyond like what many people in a room
+can do is doing it efficiently And
+quickly all these Geminis and llamas and
+they are all going to be morphing
+towards this space at some point. Again
+the demand on the computer power is
+going to be really really significant
+and the use cases are going to be really
+really compelling. Already we're seeing
+droves of computer programmers getting
+sidelined because guess what? All these
+models can write code. We don't need
+Python programmers anymore. we don't
+need nearly as many programmers and
+other languages because these jobs are
+already being taken by this these
+models. So we talked about the core
+engines and then what I want to also
+talk about are the other software
+packages that use these core engines and
+deliver specific applications to people.
+So you've got just for instance you know
+Microsoft tries to do their thing by
+leaving AI they try to open AI didn't
+all the Microsoft like one you've got
+more sophisticated things with regards
+to salesforce.com you know I was talking
+to somebody using where's where he was
+he wants to use AI to you know handle
+marketing for his for his real estate
+business there are companies all the way
+around these these cool models that are
+building out solutions for people to use
+in their everyday lives. And so that's
+one set of companies and that's really
+significant. The other thing is we've
+seen automobiles start to adopt this or
+actually really adopt this. So you've
+got I don't know how many people have
+actually spent time in LA recently and
+seen the auto driving cars from Google,
+right? So you have fully automated taxi
+drive taxis uh you know etc. Enjoy
+Google's prett stuff and we know that
+Elon wants to get this on road someday.
+There will be others all those cars need
+AI computing capabilities. They need the
+ability to recognize you know people and
+things on the road not crashing. So and
+then he's got this full world of
+robotics and if you followed that at all
+the the world has gotten really diverse
+really fast. We've got you know people
+that want to make robots to replicate a
+McDonald's restaurant. We got your own
+personal everybody wants their own
+personal robot right? You know like wash
+dishes food. So, you know, this this
+robot's going to be walking around here.
+I mean, Elon's got one. Other people
+have developed them. You know, that
+thing is loaded with AI. I mean, it is
+all image recognition stuff. You know,
+motor skills for the thing to open the
+refrigerator door, grab that egg without
+breaking it. All that stuff is AIS and
+it's just another giant big fat use case
+that is going to be consuming chips and
+compute power exponentially versus what
+we've seen in fast food. And so let's
+move on to how the world is kind of
+shaping around this. We have a slightly
+new world order which is you know every
+country in is going to import anything
+um or any importer that wants to buy
+something from overseas going to get a
+10% tariff on what comes in all the rest
+of this all the rest of the noise is
+going to get you know way way way and
+that's kind of my base case and 10% on
+the way in for goods and service or in
+these goods probably if also not
+service might be somewhere around 10%
+and it's a very manageable will remember
+the producer overseas will need a piece
+of it. The importer will need a piece of
+it and you know very I mean the rest is
+just it's not going to be that big. So
+you know the demand for chips you know
+right now Trump said I think Taiwan is
+supposed to pay a 34% tariff for these
+goods imported you're going to infer a
+34% tariff I really think that that's
+going to get dialed down right now. You
+know, all of these companies rely on
+Taiwan. But just ratchet those
+expectations down to something a
+fraction at 10% and it's just not that
+big a deal. It's not, you know, again,
+three and a half to four trillion
+getting spent over the next, you know, 5
+years is not going to get derailed by
+this. US-based software companies,
+Microsoft, Google, Meta, etc., Oracle,
+all the biggest companies, more than
+half of their revenues are overseas. So
+they are potentially a target for
+reciprocating tariffs. I think it it's
+manageable for them in the same way that
+it's manageable for us. In my base case
+of it's 10% and you know there will be
+carveouts and you know special
+negotiations or special interest. So
+this is a really big topic. I tried to
+summarize it the best I could and how
+many minutes I spent I tried to get it
+to 15 minutes but sure it took more.
+Does anybody have any questions?

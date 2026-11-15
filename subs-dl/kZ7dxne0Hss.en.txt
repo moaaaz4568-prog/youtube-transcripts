@@ -1,0 +1,491 @@
+In this video, I'll explain how you can
+use AI to create the perfect
+8-figure VSL for your business, based
+on the structures of some of the
+best
+YouTube marketers, including Jeremy Haynes and
+Daniel Fasio.  So not only will you be able to
+write the highest-converting VSL
+possible, but you'll also learn how to
+automate
+slide creation, how to record and host the
+video, and how to optimize it over
+time so you can scale your
+coaching offer,
+informational product, or any other service to
+your next revenue goal.  And this is
+n't going to be a
+generic workflow talking about some
+high-level strategy.  This will
+actually cover the exact steps
+you can follow to replicate the system
+these people are using so
+you can create that 8-figure VSL.
+So I'll walk you through this brief
+workflow and explain everything in as much
+detail as necessary so you
+can go and create your own VSL.  If
+you're a coach, consultant, or
+service-based business owner and need
+help getting more clients, my
+links will be in the description.
+First, thinking in terms of
+our inputs, these are the
+main things we need to
+design a high-conversion VSL.
+We need to analyze
+our competitors' scripts.  We need to
+insert
+miscellaneous information about our
+business into the AI ​​system.  What is the name of the
+business? What is the niche?  Etc.
+We need to understand the offer we
+are trying to sell through
+this VSL.  We want to upload
+sales call recordings.  Now, the reason we
+want to input
+sales call recordings is
+because we want to tell the
+AI ​​system exactly what objections
+we consistently face.  So this is
+something I learned from Daniel Fasio and
+you can see his video here.  One of his
+strongest tactics for building
+a $10 million VSL was to
+take all the objections his
+sales team
+frequently faced and inject them into his VSL.
+And of course, we're going to add layers on
+top of that by using AI to
+do it for us and automating that
+process as much as possible.  Now, we'll
+also need to inject our
+ICP, of course, to target
+and qualify them immediately.  And finally,
+we will create an 8-digit VSL structure
+that the AI ​​can actually use
+to create B2B or logical arguments.
+So disclaimer,
+this video is largely for B2B,
+but the same principles will
+apply to B2C, just using a
+different knowledge base or a
+different VSL structure.  To
+break down how you can create these
+things, first, to create your
+competition script, it's as simple as
+finding a competitor.  If you're in
+the information industry and you sell
+to agency owners, one of
+your competitors would be Charlie Morgan.  And this is
+their VSL.  He recently updated his
+VSL page.  As you can see,
+marketing agency owners,
+coaches, consultants, and so on.  This
+is the offer.  And the VSL is
+hosted here in Wistia.  So I'm going to
+explain exactly how you can
+extract its VSL and get its
+exact transcript so you can
+copy and paste it literally into your
+GPT or equivalent in tools like
+DeepSeek or Claude.  And this is proof
+that I've already done it.  As you can see
+if I zoom in on the image, this is actually
+his VSL script from that page.  And
+you can see that I even had the
+AI ​​tool create a summary
+for me.  Now, how did I do this?  A
+couple of simple steps.  First,
+install something we call JDownloader 2
+.  This will basically allow you to
+extract most of the resources from
+a web page.  In this case, you put the
+URL of your website or funnel into
+JDownloader.  Here we are in
+JDownloader and, as you can see, I've
+put the link to Ravi Abuwalla's VSL funnel
+.  And you can see here that I was
+able to extract that VSL or
+video sales letter.  So I have the
+name.  I know it's version six.
+I have the MP4 player.  I can download it in the
+original quality, which is 760 MB.
+All I have to do is
+right-click, start download, and it will end up
+in my folders.  Now, the question is,
+what do you do with that MP4? How do
+you turn it into a script?  Well, you put it
+in a free tool like CapCut
+, or if you have a paid one like Premiere
+Pro, you simply upload the video to the
+editing software and ask it to
+transcribe the video.  As a result,
+you will get a transcript that
+you can copy and paste into Google Docs.
+Now you have a script from the
+competition.  Convert it to PDF and
+you can add it to a custom GPT
+.  You can add it to Claude.  You can
+add it to DeepSeek R1.  And what
+happens when it comes to
+sales recordings?  Well, you should be
+recording with something like Fathom or maybe
+using a paid tool.  But
+with Fathom, what you can do, and I'm going
+to get to that now.  I'm not sure
+how much of this screen I'm going to show.
+Much of it will probably be
+blurry for you.  But what you can
+do when I log into Fathom and click
+on a meeting I had.  Once I
+'ve clicked on that meeting, what I
+can do is go to the transcripts
+and copy the entire transcript into a
+Google Doc.  Or I can scroll down and
+see the questions the potential client asked
+and manually copy them
+to a Google Doc.  Then you can
+simply repeat this process for
+the last 10, 20, 50
+sales calls you've had and convert them
+into TXT documents that can then be
+uploaded back to the AI ​​system.
+Then, finally, when it comes to
+creating the 8-figure VSSL framework.
+creating the 8-figure VSSL framework, it's
+as simple as taking some of the
+best YouTube videos from your niche.
+So, here we have the video of
+Daniel Fasio.  We have Nick Verge
+generating 40 million with VSSL and
+Jeremy Haynes' video sales of 1
+million a month.  So, from all
+these videos, what I did was take the
+YouTube transcripts of these
+videos and put them into the AI ​​system.
+Now, the AI ​​system has what
+we call a knowledge base, which
+is essentially a library or
+brain from which it can retrieve
+information.  So, this AI will have
+all the information that was in
+these three videos combined.
+Consequently, this AI system
+will be able to draft a VSSL using all
+the advice from these people, using
+the objections specifically from your
+sales calls, using
+information about your ICP offer and your
+business in general, and even
+observing a high-performing script
+from your competition and replicating that
+exact framework.  Now, as for which
+tool you want to use, for this
+video, I'll show you a version of GPT
+or ChatGPT because it's easier for
+me to create a custom GPT without
+knowing any code, and it was super
+fast.  If you're using Claude,
+I'd recommend the paid version, or you can
+use DeepSeek, although it's a bit more
+complicated to create your own type of
+AI assistant or GPT in DeepSeek.
+However, if you're more advanced, you could
+be using something like Bubble.  Again
+, a no-code tool that will
+allow you to create custom GPTs or
+custom AI assistants
+from these tools using their
+API.  This is an optional step, but
+something I recommend, taking advice from Daniel
+Fasio, is to extract your
+frequently asked questions and how often they are
+asked.  Once you have all
+your sales call recordings,
+you can manually upload them to GPT and
+ask it to extract all the
+frequently asked questions and determine
+which ones are asked most often.
+Those questions that are asked most
+frequently should be prioritized within the
+VSSL script.  So the ones that come up
+most often should be answered first
+in your VSSL.  Then you can use
+GPT itself to generate a script.  And I'll
+show you an example of that now.  This
+is a very, very basic example of the
+custom GPT I created.  You can see that it's
+called "8-Digit VSSL Machine"
+.  I gave him basic and
+simple instructions, nothing fancy, I didn't really
+set up any
+conversation starters or anything like that.  And
+I added the transcripts of Jeremy
+Haynes, Nick Verge, and Daniel Fasio to his
+knowledge base.  Then I
+gave him the necessary notice.
+I invented some common objections.
+I created a business called Client
+Catalyst, gave it my niche, my
+ideal client, and the duration I wanted for
+the VSSL.  This is something I actually
+put together in about 15 or 20 minutes.  So
+, it's by no means perfect.  This is just
+to illustrate how this system
+can work for you and your
+specific business.  You can see that I put my
+instructions here.  Then, if I open the
+canvas, you'll see that it created a
+very short minimum viable VSSL script.  You can
+see that it has the openness,
+improved credibility, the problem, the solution, the
+introduction of a unique mechanism, and
+the handling of common objections.  Now, you
+might be thinking that it's very
+short, and yes, it is.  This is because it does
+not have any of our
+unique personal mechanisms.  He doesn't have an
+explanation for our social proof.    He does
+not have an explanation of the
+solution we provided.  But that
+can be optimized by adding your
+own files.  So, once
+you have this basic VSSL or this
+VSSL script, you can come here and upload your
+own files.  It could be a list
+of common objections you receive.    This
+could be a full explanation
+of your offer.  It could be your
+existing VSSL script.  This could be a
+complete explanation of your
+unique mechanism.  It could be a list of your
+social proof.  Whatever it is, you can
+add it to this VSSL and extend it to
+range from two to 15, maybe 20
+minutes at most in a B2B environment,
+unless it's a
+training or case study VSSL.
+So, as I said, that was just a
+brief summary of how it works.  Of
+course, things can get
+much more advanced.  As I said, it took
+very little time to create it.  It's just an
+illustration for you.  Now, once
+you have the script, we're not finished
+.  Actually, this is just the beginning
+of the process to create the complete VSSL
+.  We have an automation tool called
+Dr. Slides that allows you to convert
+any Google document into a
+presentation.  Why is this useful
+?  Because your script will be generated as text
+.  You'll take that text, put it in a
+Google Doc,
+format it however you like, and then
+insert it into a slide presentation
+to make it look like Charlie
+Morgan's or Ravi Abuvala's.  If you're feeling
+creative, you can also format
+the Google document and then
+import it directly into Gamma Docs.
+Gamma Docs is very well integrated with
+Google Docs.  So you'll be able to create
+something that looks like Daniel Fazio's VSSL
+very quickly.  Instead of
+hiding the extension, it's basically
+a Google Workspace extension
+called Dr. Slides by Alice Keeler.
+Completely free for our
+purposes.  Then, when it comes
+to formatting the slides or the
+Gamma document, it's as simple
+as creating visual breaks.
+Draw attention to what's most
+important and break down the
+boring parts into points, paragraphs, and
+visuals.  The most important thing
+when explaining complex concepts is to
+provide diagrams like this one.  And
+for that, obviously, I recommend Miro.    You
+should also maximize readability
+.  Don't start using crazy colors.  There's no
+need to use flashy brands or
+strange fonts.  Most
+B2B buyers are
+logical buyers.  They don't need to see
+sophisticated designs to be interested in something.    They
+just need to see results, logic,
+guarantees, risk reduction, etc.
+Make it as easy to consume as
+possible, especially considering
+that not everyone who has
+money and wants to work with you is
+fluent in English or can
+always listen to audio.  That's why it's important
+that you can serve any
+buyer in any situation.  When it comes
+to recording, it won't be a
+surprise, but I recommend Loom.  I think
+most people will
+agree with me.  The alternative to
+Loom would be to use OBS.  Now, the reason I do
+n't recommend OBS is because it
+takes a little longer to
+set up.  And here we are
+maximizing efficiency.  The other
+problem with OBS is that you can't really see
+yourself on the screen.
+So, I can't move like that.  And
+therefore, I wouldn't know if I was
+blocking something with my face.  Now, it's
+important that in Loom you go to
+hide the recording controls.  And
+also in this video and
+audio tab, I strongly recommend that you make
+sure, before you start
+recording, that your
+video quality is 1080p or higher.  I haven't
+included audio in this
+workflow, but I would recommend using a
+microphone.  At a minimum, use a
+tool like Adobe Podcast to
+edit your audio in post-production.
+Then, when it comes to editing, you
+might not think it's important
+because you're in a B2B space, but
+trust me, it makes a huge
+difference in retention,
+comprehension, and ease of consumption.
+Therefore, it doesn't need to be anything
+fancy.  As you can see, many of
+the VSSL B2B are actually very
+basic and simple.  That's not because
+these people are lazy.  It's
+because the basics work.  So,
+my recommendations for editing,
+besides the obvious ones of removing
+silences and making sure the audio
+is clean enough, would be to
+increase the speed to 1.2x before
+uploading and use
+audio normalization.  This means your audio
+becomes more balanced, so you don't
+have quieter and
+louder parts within the video.  Now, it's
+most likely that I'll host the video
+on Wistia.  The reason I don't
+recommend hosting it on something like
+YouTube is because YouTube allows
+people to leave the video by
+clicking the YouTube icon and seeing
+how many views it has, which
+could hurt your social proof.    They
+might start browsing your channel, and you do
+n't want that to happen.  Do you want them to
+book a call right now?
+So do your best to keep them
+on the page.  This is what
+a Wistia video with an
+optimized thumbnail would ideally look like.  And it's optional.  In
+fact, you can remove this
+playback section so they can't
+control where they are in the VSSL
+.  Now, when it comes to
+optimizing the thumbnail,
+you'll usually want a thumbnail in GIF format,
+which is another reason why we want to
+use Wistia.  To do this, go to
+customize thumbnail, then
+select video and choose the duration
+of that GIF.  Then, you'll get a
+moving GIF at the most
+interesting moment of your video.  So,
+probably when there's an interesting diagram or
+screen that you're
+explaining.  This is obviously to
+optimize the CTR.  Now, your VSSL at
+this point is practically
+finished.  Once you have it
+hosted, scripted and edited, all in
+the shortest possible time.  Now is
+really the time to optimize the
+conversion rates of that
+VSSL page.  There are several tools you
+can use for analysis.  One I would
+recommend because it is easier
+to use is VWO.  So VWO is an
+A/B testing tool.  It will
+allow you to direct the same traffic to
+different variations of that
+VSSL page, and then you can determine what
+the conversion rates are when
+these people move from the
+VSSL page to the booking page and to your
+thank you page.  As for
+Wistia, you can also get
+analytics from there.  That's
+another reason why I recommend it
+over something like Loom or YouTube.  With
+Wistia, you can see the click-through rate,
+you can see the engagement rate,
+you can see the retention rates
+within your VSSL.  Now, something to keep
+in mind is that you don't necessarily
+want to optimize the retention rate
+, because when people aren't
+qualified, you want them to leave the
+video.  You really just want
+qualified prospects to stay and
+watch until the end.  I would definitely
+optimize the click-through rate because
+you want everyone to see the video, as they
+might be qualified and you don't even know it yet
+.  And the CTR can also be called the
+participation rate.  And then, as far as
+optimization for
+Meta is concerned, making sure your pixel
+is set up correctly,
+making sure it's well
+trained, and if not, that you're
+training or conditioning it
+properly.  And, of course,
+set up your
+custom conversions within your
+conversion campaign.  So don't just use
+leads or conversions,
+but use something concrete like "this is what I
+want to happen" and
+therefore Meta will be optimized for that.
+So, that was a very
+quick summary of this exact
+VSSL workflow that you can use to
+literally take your competition's VSSL scripts
+.  Take the knowledge of
+some of the
+smartest and most successful marketers
+in the industry and turn it, using
+AI, into a bulletproof script;
+automates the process of creating
+that VSSL;  simplify it as much as
+possible;  optimize it for the
+B2B environment;  and then optimizes the performance of
+that VSSL when booking calls
+or making sales.  So, if
+you found this video valuable, I hope you
+enjoyed it.  I understand that
+there's probably less dopamine than in
+my usual videos and it's less
+exciting, but I think that
+generally means it will be more
+valuable to many more people.  If
+you enjoyed this video, please give it
+a "like", subscribe and all that.
+And if you're a coach or consultant and want to
+get more clients, whether
+through a VSSL or a
+broader client acquisition system, then check out the
+links in the description because they might
+help you.  Great, as
+always, thanks for watching the video and
+see you in the next one.

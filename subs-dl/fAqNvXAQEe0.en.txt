@@ -1,0 +1,604 @@
+Anthropic just dropped Claude design,
+which is a brand new platform that
+completely changes the way that we're
+now able to build slide decks, landing
+pages, and interactive prototypes
+[music]
+and designs for businesses. Now, the
+thing that nobody's talking about is the
+fact that this is not just another tool.
+It's now another way to be able to turn
+AI into client revenue in 2026. You see,
+after scaling my own AI agency to six
+figures in about 14 months, working with
+over 50 businesses, and helping
+thousands to do the same, I can tell you
+that landing pages, pitch decks, brand
+designs as a whole is one of the highest
+paid, low complexity systems that a
+freelancer or an AI agency could sell
+starting right now. And Claude design
+builds all three in under 15 minutes,
+which is why in this video, I'm not just
+going to walk you through how it works
+and why it's the best thing in the
+world, but I'm actually going to show
+you three different use cases that you
+can build with Claude design to actually
+make money with your agency. Looking at
+a $1,500 client landing page you can
+close this week, the $800 pitch deck
+that actually makes money for your
+offers, and the agency retainer where
+you build one design system per client
+and charge them monthly for on-brand
+assets on demand. So, by the end of the
+video, you'll know exactly what this
+feature is, how it works, but also how
+you can actually start generating money
+right away. That being said, let's dive
+in. All right, so for you to actually
+find the Claude design, you have to go
+to claude.ai/new.
+Make sure that you are on a Pro, Max, or
+Teams plan to be able to use this. On
+the left-hand side, you can find design.
+You can press on this, and then it will
+take you to this new website right
+[music] here. You can also just simply
+go to claude.ai/design.
+All right, so first things first, on the
+left-hand side, we have the different
+types of things that we can make. For
+example, we have a prototype, we have a
+slide deck, we can use a template, and
+we can also make other things as well.
+Below, we have a design system. So,
+design system is like [music] the
+claude.md file. For those of you who
+don't know what that is, it's an
+organization level kind of thing. So,
+you set the actual design structure,
+design colors for everything that we're
+going to build, right? So, every single
+prototype that we have here will be
+using a design system that we set. Now,
+bear in mind that if you don't set up
+your own design system, it will use a
+default one. On the upper side, we can
+see all the designs that we made, so
+recent ones and your designs. Then we
+have examples, which is where we can
+take visual elements like the globe
+loader or the text streaming, things
+like these, and put it inside our
+website just by pressing use this
+prompt, and then you'll be able to get
+redirected here, and you can press send,
+and now it will make the actual thing
+based on the visual. Then we also have
+more things like this. You can scroll
+through and kind of see what you like,
+what you don't like, and what you want
+[music] to add inside your your website
+itself. And then again, we have the
+design system, which we're going to
+build as well. And this is going to be
+the main kind of design rules and
+guidelines for what it is that you're
+building. Now, use case number one, and
+it's one of the highest leverage things
+that you can build for businesses, which
+is landing page or websites. So, I'm
+going to pretend I just landed a dentist
+as a client, and we're going to call
+this business Bright Smile Dental in
+Austin, Texas, and this is the kind of
+business that pays $1.5 K to $3,000 for
+a new landing page all day long. So, the
+first thing I do is I choose prototype,
+because that is the thing that allows us
+to build the actual landing pages. I'm
+going to name this Bright Smile Dental.
+I'm going to use high fidelity, which
+means that it's actually clickable, it's
+not just a sketch, right? So, we do
+here, so we choose this one, we press
+create, and now it takes us to this page
+right here. And this is very much a very
+typical vibe coding setup where we have
+on the left-hand side the input, and on
+the right-hand side, we have the output
+that we can see. So, I already wrote
+this prompt. I'm going to go here, I'm
+going to paste this prompt right here,
+and you can see here that you can also
+add the design system as context with
+rules and guidelines as to how you want
+the design, uh screenshots, code bases,
+even drag in a Figma file that you have
+built before inside of this
+specifically. Now, let's say that I
+wanted to use a logo. So, I actually
+just went to this website called Pixela,
+and I made a new logo right here. I made
+two different types. Let's say I want to
+use this,
+I can copy the image, I can go back, and
+I can simply paste [music] it here. And
+now it has this context, and as you can
+see here, now it's starting to show you
+the different files and folders that we
+added to the project. And at the end,
+I'm also going to say, "Make sure that
+you look at the image that I uploaded,
+which is the logo of the business that I
+want to make the website [music] for."
+And now, I can simply just press send.
+As you can see, the prompt says, "I'm
+building a landing page for Bright Smile
+Dental, a high-end cosmetic dentist in
+Austin, Texas. The target market is
+this, the brand [music] feel, the page
+should include X, Y, and Z. Make it feel
+warm and trustworthy. I want it to look
+like a $5,000 agency built this." And
+then I told it about the logo itself.
+So, as always, now it's looking at the
+input, and it's starting to make all the
+different things that needs to make. As
+you can see, it just added the different
+assets or the different folders, the
+same way that you would be working with
+Claude code. It starts to add all the
+assets, all the files, all the folders
+of the website until it gives us a
+preview of what it looks like. And on
+top of that, it also gives us to-dos,
+right? So, very similar to other
+softwares, it gives us step-by-step uh
+kind of tasks that needs to go through,
+so you are kept updated and you know
+exactly what it is that it's doing. All
+right, perfect. So, after a few minutes,
+it created the actual uh website, and
+now what it's doing as well is that it's
+verifying that everything looks good
+inside the website for it to actually
+make tweaks or change anything that
+needs to change specifically. [music] As
+you can start to see, the actual website
+itself is very, very clean, very
+minimalistic design, very cool, very
+simple, and it's something that a dental
+clinic would actually use, which is
+pretty nuts. But of course, nothing that
+we haven't seen before by other
+platforms, but I like the fact that it's
+now going and verifying the website
+before it gives us the full thing and
+tells us, "Yep, it's all good, and it's
+good to go." All right, so now it just
+finished verifying everything, and we're
+good to go. Uh now it's asking me, "Do I
+want live adjustments or marks?"
+Re-logo, terracotta, that's fine. And
+one very interesting thing about Claude
+design when you are building websites is
+that you can go here to draw, and then
+you can
+let's say I I draw around this,
+and I just simply type, "Change this to
+book
+a free dental visit." And I can press Q.
+So, now we just added the screenshot
+here, as you can see, where it had the
+change. Then let's say I wanted to
+change this to
+draw
+2,400, let's say,
+say
+>> [music]
+>> 10,000 plus, not
+2,400. I can press
+Let's go. You can queue this as well.
+This is what will be added. So, two
+different changes, that's it. So, now I
+can go here, and I can say, "Make these
+changes that I attached above." And I
+can [music] press send. As you can see
+here, it says, "Book a free dental
+visit, 10,000 smiles delivered." Right,
+so that easily, we're able to change
+something just by drawing, and I like
+how interactive this is instead of
+having to explain,
+"Hey, can you go here? Can you go there?
+Can you do this? Can you do that?"
+Instead here, we can just simply draw on
+the thing that we want to change. You
+can queue it, so it adds a screenshot
+like this, and then you can simply give
+it all the edits, and it will change it
+for yourself. Hey guys, quick one here.
+If you're someone who wants to start and
+scale your own AI agency, then check out
+the first thing down below, which walks
+you through a full one-to-one mentorship
+program that walks you through exactly
+step-by-step how you can do that. Now,
+let's get back to the video. All right,
+so now you might be asking yourself, "We
+built this here, but how do we publish
+it? How do we deploy it?" So, on the
+right-hand side, under share, we have
+different options here. So, we can
+either copy link and give it to someone
+else, we can duplicate the project,
+export as a PDF, as a zip, as a
+PowerPoint, uh Canva, HTML, but then at
+the end, we have handoff to Claude code.
+If I press this button right here, it
+will take me to this page, and I can
+simply press the command, so copy this
+command. I have my instance of Claude
+code, I opened up a project, and I can
+paste this command right here, and then
+I can say, "Can you inspect the actual
+design, and then add all the files of
+the design in the folder that we have,
+but also give me the localhost link so I
+can open it here." Okay, so essentially,
+what I want to do is I want to add the
+files here, so then I can give it to
+GitHub, and then from GitHub, I can give
+it to Vercel. I just press run. So, now
+it's going to be adding the files. All
+right, perfect. So, now it finished
+adding the different folders and files
+with the assets, the logo of the PNG,
+all the things that we wanted to do. And
+then, we have the localhost link, which
+I can copy here,
+and I can go to the Chrome, I can paste
+it, and now we have the website itself,
+which we have just built
+with the dental visit, 10,000 smiles
+delivered, and we have all the things
+below. Now, as you see, these are blank,
+of course. You can always change them by
+giving an image of yourself and making
+that better, obviously, making it more
+realistic. But now that we have this
+here, right, we have it in Claude code,
+so now how do we deploy it to the web?
+So, in a new instance here, I want to go
+to GitHub, because GitHub is going to be
+the place where we're going to store all
+the folders before giving it to Vercel.
+So, GitHub is like a Google Drive to
+store all the different HTML, all the
+different files, the assets of that
+specific website before we give it to a
+server that allows us to get a link that
+anyone can see. So, instead of GitHub,
+make a an account, and you can press
+create a repository. Name this
+repository uh Bright Smile Dental.
+I can press create [music] repository.
+So, when people say repo, they mean
+repository. And then you get on this
+page, that might confuse you. Uh all you
+have to do here is just copy this code
+right here, this button, and then go
+back to Claude code and say, "Can you
+now deploy this to GitHub?"
+Paste this code right here.
+Press go.
+I usually have my permissions as auto
+mode most of the times. You can't see
+this now. Auto mode on here just because
+it decides what kind of permissions it
+uses in the moment, which is, to me, the
+most efficient way. All right, it just
+finished uploading all the different
+files to GitHub. So, if I go here and I
+refresh,
+as you can see, we have all the
+different files that we need to be able
+to make the website. And finally, if you
+go to Vercel, make an account, it's
+completely free. You can go to add new
+project, and then you can connect your
+GitHub to Vercel. You can press import
+to the one that we just made, and you
+can press deploy, and now it will take a
+couple of minutes to be able to deploy
+and put all the different folders. As
+you can see here, it's in the process of
+deployment. All right, perfect. So, now
+we have just deployed the project. I
+will go to continuity dashboard, and I
+will see that we have the deployment uh
+link. I can copy this, I can go to new
+file, and now this will be the link that
+allows people to be able to access the
+website on the web. And if you want to
+make any changes, you can simply make
+them in uh Claude design, which will
+update Claude code, which will update
+GitHub, which will update Vercel. It's a
+very linear process, but it's actually
+very, very simple once you understand
+all the steps in between. All right, the
+second use case that you can actually
+use cloud design in is going to be to
+make slide decks. [music] Now, slide
+decks are the ways for us to be able to
+give proposals to clients on calls and
+actually close higher ticket deals.
+Whether it's 20K, 30K, 40K, you want to
+act professional, you want to look
+professional by having something in
+place where they can visually see all
+the steps of your project. we're going
+to do is we're going to go to slide
+deck. I'm going to name this
+AI for law firms. I'm not going to use
+speaker notes, and I'm going to press
+create. Now, as always, we're still
+introduced to this UI right here. Now,
+one thing I'm not going to do is I'm not
+going to type a 2,000-word prompt. I
+wrote a one-page offer document with the
+problem, solution, pricing, and proof,
+which is this one right here, which we
+want to translate into a slide deck that
+I can show my clients. So, all I have to
+do is press file,
+PDF download,
+and make sure this is in my desktop.
+I can go here to file, choose the offer
+document, press open, and now it has
+some context as to what it is that I
+want to do. Now, I'm also going to add a
+prompt right here and press run.
+Now, the prompt says, "I just uploaded a
+document describing my consulting offer
+for law firms. Turn this into a pitch
+deck I can walk a managing partner
+through in a 20-minute meeting." Then it
+has the structure of the cover slide,
+the problem, why this problem is getting
+worse, the solution, how it works, the
+ROI, why me, the investment, and the
+thank you. Then we also have design
+style, we have dark background, and then
+we also have some rules and regulations.
+Okay, the reason why I added this
+document is because I don't want to
+overload too much information on the
+prompt itself, but I want to split the
+information into different documents or
+pictures or logos or whatever that may
+be. So, as you can see now, it made the
+different tasks. All right, so it just
+made the slide decks. I'm going to go
+through them real quick. Let's see if
+there's anything wrong. There should be
+a space here. So, now it's actually
+verifying that everything looks good to
+make sure that all the spacing is right,
+all the text is in the appropriate
+place. It looks good to me. There's a
+few changes, so we'll see if it does
+change it, but as you can see, it's
+going through slide by slide
+checking each one to make sure that
+everything looks good before giving it
+back to us and giving us the final
+version. All right, so it just finished
+making all the updates for the slide
+deck. I can go slide by slide,
+and this looks great.
+Very clean. Very, very, very clean. Now,
+one thing I would change here is I would
+say, "Can you space out the sentences so
+that it doesn't overlap in text?"
+Obviously, if I wanted to change
+something, I can simply go to draw, I
+can text, and I can obviously change it
+to my liking. Now, for a pitch deck,
+it's not the same as hosting it in
+Vercel. What we can do here is we can go
+to share, you can press send to Canva.
+Now, the first thing we'd have to do is
+connect our Canva account to the
+connectors inside of cloud design, and
+there we can obviously export it to
+Canva itself and use it in a
+presentation and share it, publish it,
+whatever you have to do. All right, so
+we built a landing page, we built a
+pitch deck. Now, we're going to build
+the design system because this right
+here is the way that we set the rules
+and guidelines for all the different
+designs and colors and palettes that we
+need for every single landing page,
+prototype, slide deck, whatever that may
+be that you want to to build. So, here I
+can go to design system, we can press
+here.
+You can press create,
+and then you get on this page right
+here. So, the first thing you want to
+add is your company name, so I can add
+this here. And then, let's add the
+blurb, right? So, this right here, the
+example I'm using is a coffee company, a
+coffee company that sells coffee, right?
+Pretty much pretty standard. And we said
+premium single origin coffee
+subscription for remote workers and
+founders. Warm, minimalist, and
+intentional, a slow ritual in a fast
+world. So, that's the blurb, the
+explanation of what the company is, so
+it has some context. All right, so using
+Pixela again, I made a new logo for the
+business, which I can copy here, which
+here I can simply upload to add fonts,
+logo, or assets. I can upload this logo
+here. And now, for notes, I'm going to
+type some notes here about the tone,
+typography, and all the things that we
+want to add. So, we have the tone, which
+is warm, masculine, intentional,
+typography, high contrast serif for
+headlines, spacing, imagery, animations,
+and avoid kind of rules and guidelines,
+right? So, if you look at it this way,
+we have all the different things laid
+out so that the AI knows and has some
+context that whenever it has to make a
+landing page, whenever it has to make a
+pitch deck, it knows to follow these
+guidelines here. With that said, I can
+go and press continue to generation. It
+will take about 5 minutes, that's fine.
+I can press generate,
+>> and now we're going to wait for the
+design system to be built. First thing
+we have is tasks, so updated to-dos. So,
+it goes through everything step by step.
+All right, so now we just made the draft
+design system, which we have to review.
+It says it's missing brand fonts. I
+don't believe so cuz we do have it here,
+so that's fine. Uh this looks good,
+looks good.
+I like it.
+Great. Amazing.
+Even better.
+Even better. Great. Awesome. Cool. We
+just have to approve all these different
+things to make sure that we it has a a
+good knowledge on the things that we are
+making. So, now that we have checked and
+we have approved all these different
+things, now it's updating the design
+system and it's going to give us the
+full uh version. All right, cool. So,
+now it's making the final updates by
+verifying and looking at the actual
+[music] design style that we just built.
+And by the way, all the different
+designs and stuff that we are building
+in the back end are just going to be
+[music] files, right? The same way that
+you have skill.md, this.md, the logos.
+Uh right here we have uh different
+images, logo or mark, right? We have
+mark type logo, we have previews, which
+are all different brand logos, different
+design styles, so that whenever we make
+any kind of creative in the future, it
+will always go back and look [music]
+back at this exact design style. And by
+the way, you can have different design
+systems. This is just one of them, but
+you can also upload more in case you
+have different types of designs that you
+want to do. With that said, if I go back
+here and I go to design systems, we have
+Northbound coffee design system here.
+With that said, now I'm going to build
+the landing page, the slide deck, and a
+social media post just by using the
+design system here. So, previously we
+had none, and now we're going to have
+the actual design system. So, I'm going
+to press create. I'm going to copy the
+prompt. I'm going to paste it here.
+Press send. And this is building a
+landing page for Northbound coffee and
+giving it some sort of uh instructions.
+Then we go here to slide deck, I can use
+this design system, I can press create,
+and then I can copy the prompt, and I
+will be able to paste it here. Press go.
+Obviously, this right here is saying
+that it's a six-slide investor pitch
+deck for Northbound coffee. We're
+raising a $500,000 seed round. And so,
+it also gives it instructions to build
+that. And finally, we have the social
+media graphic, which I can go to other,
+social media graphic, design system,
+create, and then finally, we can paste
+this prompt right here,
+>> which says, "Create a 1080 * 1080
+Instagram post announcing our new
+Ethiopian Chigar," whatever that means,
+"single origin release. Warm,
+minimalist, product forward, the kind of
+post that gets saved, not scrolled past.
+Use the Northbound coffee design
+system." I can press send. Now, you
+don't have to necessarily tell it to use
+this right here, but if you're more
+explicit with it, then there's less
+chances that it will error out or it
+will not use it. So, as you can see now,
+it's building all three at the same
+time. And the outcome of this is to see
+that all the different design styles,
+all the different landing pages, pitch
+decks, [music] and the actual post are
+going to be very similar because they're
+all using the same rules and guidelines.
+Whilst previously, they were kind of
+different based on the prompt that we
+gave [music] it. All right, as you can
+see here, it made the landing page with
+the exact design and fonts [music] and
+color that we mentioned, so brand
+guidelines
+using our brand design,
+which is great.
+Then it made the slide deck, which is
+still verifying, that's fine, but it
+still uses the same exact brand [music]
+guidelines here, just perfect. And then
+it made the social media graphic, which
+also has the same exact feel and vibe to
+it, right? And it's all because we're
+using the same exact brand guidelines.
+[music] So, if you're working with a
+business, you want to ask them first,
+what is it that they do? Like, what's
+their brand guidelines? Look at their
+website, right? Understand the rules and
+guidelines so so that whenever we make a
+landing [music] page, a website, a
+creative, a social media post for them,
+we have the rules in places to be able
+to make everything consistent. All
+right, and if you want all the prompts
+from this video in this Notion document,
+then feel free to go to the second link
+down below in my free school community,
+you can go to the classroom section, you
+can go to the templates vault, and
+you'll be able to see the cloud design.
+You can press this button right here.
+All right, so there are there is a full
+walk-through of the new cloud design
+system. And if you want to dive deeper
+into cloud code, then check out this
+video on the screen where I give you the
+full 4-hour cloud code masterclass. With
+that being said, I really hope you found
+value from this video, and I'll see you
+in the next one.

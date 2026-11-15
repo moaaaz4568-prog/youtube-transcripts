@@ -1,0 +1,831 @@
+Companies are now
+paying big bucks
+to appear in
+AI search results, but almost no one
+knows how to do it
+right.  SEO
+overnight turned into
+AEO, which stands for
+AI-enabled optimization
+, and for
+most companies
+it is a real “black
+box.”  So,
+using Latido, an
+agent tool
+from Ahrefs, which is the
+gold standard for SEO
+data, I created
+an app that solves
+this problem.  It
+pulls in Ahrefs data,
+shows you exactly which
+competitors are cited
+in ChatGPT, Perplexity, Copilot,
+etc., writes an article to
+outrank them, and
+then publishes it to
+your site in one
+click.  I'll give you the exact
+prompt in the description so you
+can create it
+yourself.  And if you
+watch until the end,
+I'll show you four
+ways to sell this as a
+service.  In my opinion,
+this is one of the
+most relevant AI
+services that can be
+sold right
+now.  Thanks to Ahrefs for
+sponsoring this
+video, so let's
+get straight to the
+development.  One of the
+biggest
+opportunities in
+AI right now is something that
+many companies are
+willing to pay
+big money for;  Many
+corporate
+budgets
+are directed towards
+solving the very
+problem we will
+analyze in this
+video.  Namely: they don't
+know how to
+position their
+business to
+appear in
+AI search results.  So traditional SEO
+has transformed into what
+people call
+GEO or AEO—optimization
+for AI engines.
+The problem is that
+companies' competitors
+AI search results, but they don't.  So,
+today we are
+creating a small,
+simple app in Latido,
+Ahrefs' agent tool.  It
+connects
+directly to Ahrefs
+to download
+top-notch SEO data
+and tell us exactly
+who our
+competitors are and in which
+search results they
+appear.
+It will then allow us to
+generate content
+to help us
+appear in these
+results, and we
+will be able to host
+this content directly on
+our site once
+approved.
+We can then
+track
+the performance of this
+content over time
+relative to our
+competitors.  This is a
+separate application that
+we will build
+with Latido, and it is a
+service that we
+can sell to
+clients, because,
+again, AI optimization
+remains
+a mystery to many companies.  So if we
+show them that we have a
+system for this and
+can track the
+progress of our
+search results
+compared to our
+competitors, they
+will definitely be willing to
+pay for it.  So, I'll
+show you the entire
+creation process from
+start to finish.
+First, I'll show you a
+prompt that you
+can copy
+and paste directly into
+Latido to create this
+app for yourself
+and then monetize
+it.  So I'll put
+this prompt in the description and in the
+video notes.
+You can
+download it for free and
+use it in
+Latido.  So, I'm going to go
+to my screen and
+show you everything visually
+.  Okay, here's the
+same prompt that I
+used to
+create the application
+in Latido that I'm going
+to show you now.
+This application
+creates four
+outcome options
+for customers if we
+want to sell this
+as a service.  The first is
+diagnostics, that is,
+showing where they
+are
+compared to their
+competitors.  He
+will create content
+that we can
+immediately post on
+their website.
+Again, he will publish
+it through Vercel or
+any other
+website hosting tool and
+then track
+the performance of the
+result.  So, here is the
+full prompt.  I'll add
+it to the notes and
+description.  This is a prompt of
+about 10
+pages.  It's very
+detailed, but it
+will allow you to create
+the application I'll
+show you soon,
+literally in one go
+.  So, first of all,
+let's move on to Latido.  This is
+latido.app, l e t a i d o .app.
+A link to it
+will be in the description.  This is a
+tool from
+the developers of Ahrefs, the
+best
+tool for SEO
+data, so it's
+serious stuff.  I've
+been using it for
+a few weeks and I
+really
+like it.
+Go to "console apps" in the
+upper left
+corner.  When we give
+it the prompt I
+just showed, it
+will create our
+console
+application.  In this
+case, this is exactly the one
+we have.  So what
+we're going to do is actually the
+application itself, right?  This is
+how it is set up.    The
+first step is to go through the
+setup process.
+In this case, I will
+call the brand “Corey Gannum”.    The
+brand website is my
+website, corygannum.com.  Now
+let's name two
+competitors.  These will
+simply be two
+sites that I consider
+my competitors.
+I'll pick two people
+who I don't really
+consider competitors.
+They are my friends, but
+for this
+demonstration they are
+great examples.
+One of them is my friend
+Ryan Dozier, so
+let's take ryandozier.com.  We
+will remove all "https" and
+slashes from the domain in the URL
+to get the
+cleanest
+result possible.
+Let's use ryandozier.com
+, and also take
+markcashif.com, another
+very smart AI
+YouTuber.  Both are
+worth
+subscribing to.  Great
+sites, great brands,
+and, again, "
+competitors" for
+this example.  So
+we'll add them here.  We will
+simply copy them
+directly into the competitor
+names and domains fields
+.
+We
+simply won't
+specify anything for the target country.  This will
+allow you to search for
+global
+AI results on any
+platform.  Here we
+can specify whether
+we want to watch
+only ChatGPT, or Gemini,
+Perplexity, Copilot, etc.  In
+this case,
+we will select all
+platforms.  Hmm, let
+him find five
+possibilities.  So, here are
+five potential
+materials that we
+can create
+based on these
+capabilities.  It
+will push the changes to the
+GitHub repository where
+my site is stored
+.  That is, he will not
+publish everything
+at once.  He will give us a
+chance
+to review, and then
+we will publish.  Next,
+we will click "
+save
+settings" and
+then click "
+find features".
+Now that he's looking for
+opportunities, let's give him
+some work and
+come back when everything is
+ready.  So,
+in literally two
+seconds, he
+analyzed and
+found the five
+opportunities.  He
+received 47
+AI responses and found the five
+most affordable
+options.  So,
+again:
+AI answers—47,
+answers with
+a link to
+a competitor—47,
+answers where
+my brand is not present—47,
+my website is not present—47,
+individual questions—24, and
+final
+possibilities—five.
+If we had specified
+not
+five, but, say, 10, 15,
+or 20 possibilities in the settings,
+it would have given us
+more results.
+But in this case,
+we only wanted to see
+five.  So
+let's see
+what exactly it
+shows us.  The biggest
+opportunity, according to
+our application, is
+an article about what
+Poppy AI is for.
+So, Poppy AI is just
+another popular
+artificial intelligence tool.    It seems to
+me that it is
+intended specifically for
+content creation.
+So, we can
+click on this
+drop-down menu and
+see the
+AI's current response.  That is,
+when people search for AI,
+or ask ChatGPT,
+or google "What is
+Poppy AI for?".    The
+current AI response
+looks like this.
+It gives us the
+same AI summary
+that you usually
+see when you Google a
+question.  So, this is the
+current AI response.
+And below we see which
+competitors
+are mentioned and which
+pages are cited.  In
+the competitor ryandozer.com is mentioned
+.  Ryan has a
+cool article
+called "Poppy AI Review."
+Is this
+popular AI
+tool worth the hype
+?
+Right?  He
+did a great
+job writing this
+article.  It is successfully
+placed on his
+website.  Now, when
+people search Google,
+ChatGPT, Perplexity, Gemini, or
+anywhere else for what
+Poppy AI is for,
+Ryan's article is cited in
+this AI preview.  This is a
+very good signal,
+isn't it?  Let's look
+at the second point: the
+second search
+query—is Poppy AI better
+than ChatGPT?  This is what
+the app shows as the
+second most important
+option.  Again
+, we see the
+This is simply an
+AI review that we see in
+search engines
+like Google.  The competitor
+mentioned, and
+the page cited in
+this case, is the
+same Ryan article.  This
+article clearly
+appears when
+people search for different
+variations of queries about
+Poppy AI.  He did a great job
+with the article,
+securing it a
+place in the
+AI ​​search results.  Now we
+can create an
+article for our
+site to
+compete with
+Ryan's article and
+try to climb
+higher or at least
+appear in the same
+search result as another
+option.  In
+this case, we
+can click "
+Create article".  And
+the system will do
+the following, you see the
+workflow displayed above.
+It says "
+feasibility study", there is a check
+mark.  It's already
+done.  We
+explored the possibility
+.  Now we are in the stage
+of writing the article.
+Once the article is
+written, the system
+will check its own
+draft.  That is, she will
+conduct
+quality control before
+showing it to us.  And
+then
+the message "
+Draft ready" will appear.  And
+when the draft is
+ready, we can
+go here to the
+articles tab, where
+all the created
+drafts will be displayed, which we
+can approve,
+edit, or,
+when we are ready,
+publish directly
+to our website with one click.  So,
+you see, in the time it took
+me
+to explain this to you, it has already
+written a full
+article, proofread the
+draft, and now
+it's ready.  I did
+n't even have to
+pause and
+come back to it.
+The draft is completely
+ready for publication.
+Here is an article it
+wrote for us so
+we could compete
+with one that our
+competitor, Ryan Dozier
+, had already managed to achieve
+good rankings on.
+Suggested
+title: "What is
+Poppy AI for: A
+Plain
+Language Explanation."  It gave
+us this title,
+meta description, and even
+wrote the
+URL slug on its own.  And here is
+the text of the article itself, right?  It
+starts with "
+What is Poppy AI for: A
+Language Explanation."  What follows is a
+sort of brief
+overview.  Then
+we move on to the different
+sections.  So, the
+main problem that
+Poppy AI solves, the key
+application areas, and
+then a numbered
+list, which is very good.
+This indicates
+quality work,
+as
+AI search engines prefer
+structured
+articles from which
+data can be easily extracted,
+such as
+numbered lists,
+charts, etc.  So,
+the article contains a
+wonderful numbered
+list.  Then there is a
+section on how Poppy
+AI differs from a
+regular chatbot,
+and this comparison
+is presented in a table,
+which is again very
+good.  Chatbots with
+artificial intelligence
+really "love" such
+content.  Next section:
+"Who is Poppy AI
+most useful for?"  And a
+simple practical
+example.  So, the work
+was done very qualitatively.
+Limitations worth
+knowing.  It did a good job
+, honestly
+listing all
+the limitations.
+At the end is a section
+with frequently asked
+questions, which is also
+important for
+AI search engines
+when searching for
+answers.  They “
+want” to see an
+FAQ section.  True?  So,
+now that we have a
+draft, right?  We
+can scroll
+down and click "
+Preview
+Article".  If we
+click on it,
+the article will be saved.
+It will
+not be published on
+our main
+website, but on GitHub for
+preview.  A preview
+request will now open
+,
+and then we will receive a
+link where we
+can see how
+this article
+would look on
+our site if we were to
+post it
+directly there.
+So, I'll come back
+here when everything is
+ready and we'll
+see what it
+looks like in a real
+working environment.
+OK.  So, in less than
+20 seconds, the
+preview is
+ready.  Now we
+can go down
+here where it says:
+site preview,
+preview ready,
+open
+preview.  We'll
+open this
+preview and
+see how it
+will look on
+our site.  You
+see up here, it's
+clearly written: this is
+a draft, not
+publicly published.  If you
+could see the URL, I
+know it's
+truncated, but that's
+not on my
+site corygannon.com yet.  This is
+just a
+preview page.  But that's what the
+article will look like, right?
+She looks exactly the same
+as we saw
+in the draft.  It is very
+well structured.
+She perfectly
+generated a table
+comparing Poppy and a
+standard chatbot.
+I'm curious, the FAQ here is
+also perfectly
+designed.  And even
+the source is indicated.  So
+, there is a
+backlink to
+Ryan's article.  So we could
+, if we wanted to,
+since we're technically
+competing with Ryan in
+this case, just
+say, "Remove
+Ryan's article as a
+source."  Because we don't
+necessarily want to
+give him that
+backlink
+if we don't want to.  And from
+this moment on, everything is
+ready.  So, to
+me, it looks
+perfect.  It's
+literally ready to be
+published on my
+website in one click.
+Now that we've
+tested the
+preview,
+we can go into our
+app and turn off
+test mode.
+Because when we
+turn off test
+mode, we get
+the opportunity
+to publish the article
+directly on
+our website.  So, we
+mode.  The system
+will ask us about this.  We
+will click "OK".  Now
+, when test mode
+is turned off, we
+are notified: "
+Test mode
+is turned off."
+Real-time publishing is possible.
+Publishing rights in the
+main branch after
+entering the word "publish"»
+.  So, now that the
+test mode
+is off,
+let's get back to our
+article.  We are even
+asked to check
+the box that says I
+have read this article and
+checked every fact
+and source.  So, we'll
+check the box and
+publish article"
+.  Again,
+the system literally
+forces us
+to confirm this
+multiple times,
+for example, you have to
+type the word PUBLISH in
+capital letters
+to confirm that
+you really want to
+publish this.  Because
+after clicking the
+"publish
+" button, it will immediately
+appear on the
+corygannam.com website.  So, the article
+is published.  I'll
+come back here as soon as
+it's up
+on coreyganem.com and show
+you what it looks like.
+OK.  So, now
+it's on the website.
+Again, exactly
+as we saw before:
+on coreyganem.com, exactly as
+in the
+preview.  It was a
+one-
+click deployment straight to the site, and
+that's exactly what we
+needed.  Now we
+can track
+performance over time.
+We will return to the
+capabilities section
+in our application
+that we created.  And in
+this case, it
+was the first
+opportunity.  We can
+simply click the
+start
+tracking button.  This
+will allow you to get
+new data, right?
+We can do this at
+any time and
+track our
+progress, for example: "
+Okay, this is a new article."
+The system will
+monitor ChatGPT
+daily, or all other
+AI systems for
+quoting.  And it will
+show us how
+our site and our
+article are performing over time.
+If we click the
+enable
+daily checks button,
+the system will do it
+every day and
+report to us here.
+For example, in this
+case it says "
+brand mentioned—no."
+Because we just
+published it.  There
+will be no mention yet.  It says "
+site cited—no.
+"  Citing
+competitors is one thing.
+So, checking and
+updating
+will occur
+daily.  If we want
+to run the update
+manually, we can
+simply click "
+check
+results".    The
+time of
+the last check, the
+original data, and you
+will receive updated
+indicators.  Is
+your brand being mentioned?
+Is there a link to your
+website?  Number of
+competitor mentions,
+including
+baseline, as well as
+your share of AI
+presence for
+that specific
+question.  This is, in fact, a
+complete
+workflow from start to
+finish.  This is a service that
+can be offered to a
+local business
+or even a large
+company as a new
+opportunity.  There are many
+ways
+to monetize this.
+First, you can
+sell an initial
+visibility audit in AI.
+So, literally
+show them: “
+Look, these are all your
+capabilities compared
+to three
+competitors.”  Then you
+can even
+sell a
+prioritized
+gap report if
+they want to
+implement it themselves.
+You can sell
+ready-to-
+use content
+as individual packages.  Or
+you can sell
+this entire system as an
+ongoing service
+that you offer to
+businesses.  For example: "
+Hey, for two thousand a
+month I will
+monitor your
+five main
+competitors."  We
+will create
+content whenever
+we find a gap and
+then measure
+its effectiveness.  And
+every month you
+will receive a report
+showing changes in
+your AI
+search ranking compared to the
+previous month and your
+competitors.  This
+way you can
+show a direct ROI and
+they will know exactly what they are
+paying for.  They don't
+have to think about anything
+, you do it all
+completely turnkey.
+In my opinion, this is one
+of the biggest business
+opportunities right now, because
+no one knows how to
+go about it.  We
+literally
+created
+an application in Latido in one go
+that handles this entire
+process from start to
+finish.  So this, as I
+said, is one of the
+opportunities
+today.  If anyone
+implements this, let
+us know.  I want
+to invite you to the
+podcast and do an
+interview.  I believe
+there is a huge niche
+in SEO and getting
+businesses into
+AI search results.
+Thank you very much for
+watching.  Thank you to Ahrefs
+and Latido for sponsoring
+this video.
+I'll be back soon with a new
+video.

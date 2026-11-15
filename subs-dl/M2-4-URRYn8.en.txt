@@ -1,0 +1,415 @@
+follow along today and learn some handy
+tricks and tips when creating isometric
+designs just like this one right here
+also of course a very quick way on how
+to create an isometric grid but hey
+that's just the beginning so let's get
+into today's tutorial
+so i found some interesting architecture
+that i wanted to use as inspiration for
+this isometric design process but
+crucially i'm not going to copy this
+design
+i'm merely using it as inspiration
+i've also gone ahead and made this
+square as a background using the
+freeform gradient tool
+that can be found right here in the
+gradient menu it's pretty easy to use
+and i'm sure most people out there
+already know how to do that you just
+move around the nodes double click them
+to change their color and so on now i do
+prefer the freeform gradients for sure
+and that's because they are way smoother
+and they have more depth to them
+let's say we get into the isometric
+realm and let's start by making an
+isometric grids
+now if you don't know how to make an
+isometric grid it's actually pretty
+quick and pretty simple
+you need to select the grid tool which
+can be found here if you hold down a
+click over the line segment tool
+double click your artboard and then we
+will use the values of 1000 pixels by
+1000 pixels and 99 dividers for both
+sides
+you may have to adjust the stroke weight
+so it's perfect for you and also don't
+worry i'm going to show you some really
+neat things with this grid later in
+today's tutorial
+next double click the scale tool and
+then hit enter on your keyboard
+it's absolutely crucial to use 100 for
+the horizontal values and then
+86.62 for the vertical ones the
+penultimate step for the grid is to
+shear the grid by 30 degrees
+and yours should look something like
+this
+and finally guys
+rotate it by minus 30 degrees i guess
+you could also rotate it by 330 degrees
+you then have your isometric grids and
+once you position in place it's best to
+lock it down with command or control 2
+and also name it grids in the layers
+panel
+you will soon see that in today's
+tutorial how important the layers panel
+is going to be and that is if you want
+to be an organized designer who doesn't
+end up in the chaotic mess
+now press p for the pen tool and you
+should notice how illustrator snaps the
+pen to sections of your grid
+we're going to drill in the first left
+section of the upstairs part of our
+house and make sure to hold down shift
+for vertical lines and then of course
+just simply follow the grid lines for
+the other parts
+i sped this part up because nobody wants
+to sit through that
+now if you have an outline shape like me
+press shift and x to toggle to a fill
+and if you're not happy with parts of
+your design simply press a for the
+direct selection tool drag and click
+over the anchor points like so
+and then move them carefully to change
+the size or just the shape of your
+remember to keep things isometric by
+following your grid lines
+right so press command or control c to
+copy it and then command or control f to
+duplicate the shape
+now if i head over to the layers panel
+we can see we have two of the same shape
+and later you'll see me have multiple
+groups of objects all labeled in this
+panel and i suggest that you do the same
+with your objects as you go through the
+process because it is going to be super
+important later
+this top shape is going to be a gradient
+and this is a process you will do many
+many times on this design so make sure
+to watch carefully as i apply this
+gradients
+now you want one dark edge and then one
+light edge but in the gradient window
+the light edge should have a zero
+percent opacity
+you can press g on your keyboard to
+adjust the gradient like so
+we're then going to add some grain into
+the shape via the drop down menu and i
+suggest your design should be larger
+than 2000 pixels so the grain effects
+come out really well
+and these are my settings and how my
+grain looks but what we can do now is to
+play with the transparency settings to
+see what works and what doesn't for our
+design and i'll show you some settings
+later that totally gonna change the game
+when it comes to the effects on this
+isometric design but for now experiment
+with transparency blend modes and also
+lowering opacities
+now i've gone ahead and i've made two
+sides of my building and i've grouped
+both shapes of each side in their own
+group with command or control g and you
+can of course see that here in the
+layers panel remember to be organized
+folks because this design is going to
+get busy
+now i'm going to add some 3d depth to
+this and with a pen tool you can press
+caps lock on your keyboard and that will
+turn the pen icon into a cross hair and
+i do find this effective when i'm
+working on this kind of design
+isometric designs like this one are all
+about following the grid and just
+drawing things out
+the current 3d materials effects tools
+in illustrator simply aren't advanced
+enough to make this kind of intricate
+design not yet anyway
+and these grain effects look low
+resolution and poor quality because
+right now they are and we're going to
+change that later don't worry but if you
+see something out of place just press a
+for the direct selection tool click once
+and then move it into place
+so shift x to turn this into a filled
+shape and you can probably see where i'm
+heading with this
+if i then group all of this right side
+together and head into the layers panel
+i can move those paths below the
+original layers to tidy everything up
+and clicking the blue dots in the layers
+panel selects an object directly and
+then we can do things to it to like add
+gradients for example
+just as you saw me earlier i duplicated
+this upward thin shape and now i'm
+adding a gradient to it before going
+ahead and adding that grain effect
+multiply is often the transparency mode
+that i use but it really does depend on
+your design and the colors you're using
+so at this point i'm going to go ahead
+and do the same to the other side and
+then attach a roof slab simply by
+following the lines of my isometric
+grids
+and there you have it so far it's
+looking pretty good
+and just like before if i'm not happy
+with the shape of my design i will just
+use the direct selection tool to drag
+and click anchor points before carefully
+moving them along the grids
+hold down shift and then click multiple
+anchor points at once
+if i don't like it then pressing command
+or control z will move back a step
+and actually the anchor points will
+still be selected which is really really
+handy and that means i don't need to
+reselect them so yeah that's pretty cool
+this shape and my design it will change
+multiple times across this tutorial but
+let's now start adding some glass and
+features
+for the glass i had one simple rectangle
+that follows the isometric path with a
+thin rectangle on the edge to make it 3d
+crucially i could hide this ledge with
+command or control three but later i do
+actually have the grids above all layers
+which i did find most useful
+i will copy and duplicate the glass pane
+and then rename it to light
+pressing a for the direct selection tool
+also means i can double click the corner
+and do this
+and if you press p for the pen tool and
+then hold down the alt option key you
+can adjust anchor points into curves
+like so
+i want this shape to resemble light or
+reflection but i also want it to be
+subtle
+i'm going to add a gradient like i did
+before and have the light side with zero
+percent opacity but the darker side will
+be a light blue
+you'll always find me pressing g for the
+gradient tool when working on gradients
+it's just so intuitive and useful in my
+opinion
+now it doesn't look so bad and you will
+find that your design probably will
+change a lot throughout this process
+i know mine will it really feels like
+we're building a house here so let's
+next lay down some wooden flooring why
+not
+i have a base color that is behind the
+original layers and then these planks on
+top
+each one has a plank and then a gradient
+plank with a blend mode of soft light
+and you can work with the isometric grid
+above all layers and like i said later
+in the process i actually do do that
+but you can also do this instead of
+fiddling around with the layers panel
+select all of your design then shift
+click areas like my group flooring which
+will deselect them
+and then bring everything else to the
+front
+when things are grouped together you
+might want to edit something in specific
+so hold down a click on the direct
+selection tool and then grab the group
+selection tool
+the clue's in the name there i think
+this allows you to grab objects within
+groups and then edit them as you so
+please
+we're making good progress here but now
+what about starting on the ground floor
+using the same methods of following the
+isometric grids duplicating layers and
+turning them into grain gradients i've
+made a supporting pillar below
+this gives a good sense of the building
+having an overhang or a cantilever yeah
+i just threw in some architectural terms
+right there
+so i'm going to draw in the lower right
+side wall and as i do that watch how my
+pen tool path overlaps other objects
+this helps because when we move it
+behind the other objects we know for
+sure there won't be any small gaps
+between them that might show up later
+and as before i just select everything
+shift click the new object and then
+bring the rest to the front it's a
+pretty quick and neat trick
+and to make sure the color matches this
+side up i'm going to sample it from the
+above object with the eyedropper tool
+which is i on my keyboard
+now you can always hide the gradient
+layer of the command or control 3 and
+then reveal it again with shift command
+or control 3.
+when making the grain gradients be sure
+to think about where the light is likely
+to be coming from and also where the
+shadows are going to be this will help
+your design look more realistic
+for the grain effect you can always
+experiment with other textures that
+might provide different results for your
+design and that also applies with the
+transparency modes and opacities
+just experiment and have some fun with
+your own process
+so i've gone ahead and finished the base
+layer for this first floor and added a
+border of three squares on my isometric
+grid and that goes around the entire
+now you can really dive into the whole
+shadow and light thing but sometimes it
+can detract away from the bold style of
+this design
+you're also going to want to add up the
+base objects and then build up details
+and little parts of the design on top of
+them and that will really finish things
+off but moving forwards you can see how
+i now have the grid on top of all my
+layers and it's locked i also have
+everything grouped and labeled and in
+order and this is what i suggest you do
+as you move through your design
+it makes things so much easier trust me
+but if you want to hide the grids you
+can just click the eye icon in the
+layers panel
+okay i'm going to add a light on this
+black pillar a light that is causing the
+yellow orangey glow that you can see in
+the water below
+but before i do that open up your raster
+effect settings
+we should be working in 72 ppi but when
+you change things to high 300 ppi your
+design will take ages to load but also
+is going to look much better
+i was using medium before in my workflow
+which actually looks okay
+but 300 ppi would be very very crisp and
+clean
+but just remember it's best to work in
+72 ppi so your computer doesn't slow
+down so for the lights i will make a
+rectangle and round off the corners with
+the direct selection tool
+remember to keep everything in line with
+your grids
+now we can see the object has a blue dot
+next to it in the layers panel and i
+want it to be above the black pillar but
+below the stonework on the upper floor
+so it's simply a case of moving it in
+the layers panel
+after some resizing and jiggery pokery
+i'm going to change the color to a
+yellowy orange
+then duplicate it either in the layers
+panel or with your keyboard shortcuts
+i've been using the entire tutorial and
+this will be my glow layer
+for this i will need to add a gaussian
+blur effect and again if your design is
+larger in size then the performance will
+be better
+also if you change your raster effect
+settings to something higher mine is set
+to 300 right now as example
+now i want to duplicate the base again
+and this time turn it into a white light
+as before i'm going to add a gaussian
+blur but this time let's play with the
+transparency blend modes for this one
+[Music]
+overlay is looking pretty decent on this
+one actually and by the way if you
+didn't know how i made the water it's
+just a freeform gradient tool similar to
+how we did the background
+i've gone ahead and made these little
+lights that stand outside the house they
+look pretty cool i think but here's how
+i did it
+i started off with a rectangle and
+applied a grayscale gradient that has
+multiple different notes
+this gives it a metallic look
+then press g for the gradient tool as
+usual and adjust things until you're
+good to go
+then press l for the ellipse tool and
+hold down the shift key to make a circle
+from the center
+fill this circle with a light color
+which will act as a base color for your
+light
+and i did the old trick of duplicating
+the circle turning it to white and then
+applying that gaussian blur effect
+finally i copied the base object one
+more time and added another gaussian
+blur but this one would be scaled larger
+and also a darker soft orange
+oh yeah you can also use a direct
+selection tool to round the corners off
+then i had a simple oval shape with a
+gaussian blur and transparency in blend
+modes doubled up for the shadow and
+that's pretty much how i made those
+lights
+and finally i put a circle over
+everything
+right clicked and bam made a clipping
+mask
+this isometric design changed a lot over
+my process and originally i did try
+using the 3d material tools that
+illustrator comes with with the new
+updates but the truth is they're
+inferior when it comes to this and it's
+actually impossible to make something
+like this with those tools
+drop a like if you enjoyed the process
+let me know in the comments and if you
+want to watch something else by me just
+click a video on screen and until next
+time design your future today peace
+is

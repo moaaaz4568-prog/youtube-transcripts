@@ -1,0 +1,584 @@
+Imagine that you want to exchange phone
+numbers with someone. How does that
+whole process happen? Well, obviously
+you have to memorize your own phone
+number and manually read that number out
+to the other person. But of course,
+that's not enough because the other
+person then has to manually type that
+number into their phone and call you.
+Then once you both have each other's
+number, you have to add the new number
+to your contacts, which means navigating
+to the new contact menu, manually typing
+the name of the other person along with
+any other information you want to
+include, and then saving it. Kind of a
+tedious process, right? Well, what if
+you didn't need to do any of that? What
+if you could just open an app, check
+mark a name, hold down a button, and all
+of your contact information is traded
+instantly? No memorizing, no typing
+anything. Just a simple swap. Sounds
+crazy, right? Sounds like a super
+advanced idea that couldn't possibly be
+done today. There's no way a phone app
+could do that. Okay, I'm being sarcastic
+here. Obviously, this can be done. I
+tried to do it. But the further I went
+down the road of app development, the
+more I realized that this project was
+not going to be as easy as it seemed. My
+name is Sebastian Ray and this is the
+episode where I discuss Numbers Swap,
+the app we should have had a long time
+ago. In the first half of this episode,
+I'm going to tell the whole story behind
+the app. And in the second half, I'm
+going to get into the actual details of
+how Number Swap was supposed to function
+along with all my weird ideas for the
+app, which may or may not work. But
+before I get into all that, let me make
+something clear. I want someone to take
+this idea and do something with it.
+Since I wasn't able to finish building
+Numbers Swap myself, the only way this
+app is ever likely to see the light of
+day is if someone else builds it. So now
+with all that out of the way, here's the
+story of how Numbers Swap almost came
+about. Around 2015, when I was still
+living in my parents house after
+dropping out of college, I had the basic
+idea for number Swap. At the time, I
+didn't think it was an important thing.
+At that time, I was mostly focusing on
+writing my book and working out what my
+future was going to look like. But after
+I moved to another city and after I
+settled in and found a job, I started
+thinking about my list and how to take
+these ideas off. And the easiest item to
+strike off my list, I thought, would be
+this number swap idea. It was definitely
+the simplest thing on my list. So, I
+thought it would be a pretty good place
+to start while I was working on my book.
+I can learn to code and just make the
+app myself. And if that doesn't work, I
+can just pay someone to do it. Well, let
+me tell you, I tried both of those
+things and both experiences were not
+what I thought. Now, I might be an
+outlier here, but I've always preferred
+Android over iPhone, and I wanted to
+work on the Android version of the app.
+So, I bought a book which teaches the
+basics of Cotlin, which is a programming
+language for Android apps. The book was
+called Atomic Cotlin. I've got a couple
+things to say about this book. All
+right, first off, the way they explain
+things can be so clunky and awkward.
+Maybe whoever wrote this book, English
+wasn't their first language because so
+many of the examples make very little
+sense when you first read them. Some of
+the explanations were perfectly clear
+and concise, and then there would be
+sections that I'd have to read four or
+five times to understand what the hell
+they were talking about. It was over 2
+years ago that I read this thing, so I
+don't remember everything in it. But I
+do remember that the book was very tough
+for me to get through, especially since
+I was learning coding for the first
+time. And you know what? As a side note,
+I think this is actually a big problem
+with a lot of science and tech
+literature. There are so many smart
+people who go into these fields and make
+big innovations and important
+contributions, but they can't explain
+their ideas at all. Actually
+understanding what they're talking about
+requires you to know about the subject.
+And if you're just starting, you're
+obviously not going to know about the
+subject. I mean, I had to force myself
+to read this book because so much of it
+was poorly explained. And I'm not trying
+to single out atomic cotlin. I just
+think it's an example of a greater
+problem. Anyway, so I spent about four
+months trying to get through atomic
+codlin. I got through most of it and I
+tried running some extremely basic apps,
+but getting those working was a huge
+headache. And at a certain point, I
+realized that if I wanted to actually
+make number swap the way I wanted, it
+was going to take years of coding
+experience. Coding is just not something
+I'm geared toward. It's not something I
+could simply pick up on the weekends.
+There's too much that you have to know.
+When you learn to code, you are quite
+literally learning to talk to a
+computer. And there are so many systems
+and working parts in modern computer
+software and hardware that each device
+is really like its own separate world.
+And guess what? If you want to learn to
+code an app that works for both Android
+and iPhone, you have to learn two
+completely separate worlds. And you have
+to get those worlds to work together.
+Even if I could have built Number Swap
+on my own, I knew it was going to take
+me 5 maybe 10 years to get good enough.
+and I'm just not willing to spend that
+much time on a single item on my list.
+Okay, then I thought maybe I can find a
+programmer or programming team and I can
+pay them to work on it. So, I shopped
+around. I didn't know where to look. So,
+I started on those job posting sites
+like Upwork and Freelancer. But the
+people on those sites were looking for
+$30 to $70 an hour to work on apps,
+which was something I just couldn't
+afford on my $30,000 a year job. So, I
+went to the only place where I knew
+things would be affordable, Fiverr. Boy,
+was that a mistake. I should have known
+that a phone app you get from Fiverr
+wasn't exactly going to be the cream of
+the crop. But I thought, well, a basic
+working app is probably better than
+nothing. And over time, maybe small
+improvements can be made to the app
+until it gets to the point where it's
+smooth and nice and people use it. So, I
+went on Fiverr and I found a programming
+team that I thought might be able to do
+this. They had some apps that looked
+okay and they advertised themselves as
+having extensive front-end and backend
+experience working on Android and iPhone
+apps. It seemed like they might be able
+to accomplish what I was looking for.
+So, I messaged the account manager. He
+was friendly enough and I asked him a
+couple technical questions and he seemed
+like he knew what he was talking about.
+So, I said, "All right, let's do this."
+This is where the first problem came in.
+At first, the account manager was
+responsive and got back to me quickly.
+But as time went on, he was taking
+longer and longer to respond. In the
+beginning stages, I was fine with that.
+I figured this is just how app
+development goes. You can't get
+everything done right away. The problem
+was that he kept promising me that they
+would get things done right away. And
+when there finally was an update, not
+only would there be little progress on
+what he said, but in many cases, he
+would send me stuff that I didn't even
+ask for, like separate pages that I
+never talked about. Or, for example,
+when I was first messaging the manager,
+he told me they'd provide a logo. So, I
+told him what I wanted the logo to look
+like and gave him a concept to use, and
+they just never used it. When they
+finally delivered the first version of
+the app, it had a completely different
+logo. And things like that just kept
+happening over and over. It was like I'd
+ask for something, they'd promise to get
+back to me quickly. Then days or weeks
+later, I'd get an update and it wasn't
+what I asked for. And then I'd have to
+ask them to change X, Y, and Z, and the
+manager would promise me, "Okay, sure.
+We'll get that done right away. No
+problem." And then the whole process
+repeats. Again, I don't have an issue
+with app development taking a long time.
+It took me 4 months just to learn how to
+run a basic program. What I don't like
+is being lied to. If it's going to take
+a while, just say it's going to take a
+while. If it's going to take a whole
+year to develop, I can prepare for that.
+But don't keep promising me something
+will be done in a couple days and then
+not have anything ready in that time. If
+you keep making promises and breaking
+them, eventually I'm not going to trust
+what you say. Now, in all fairness, I
+was asking a lot of them from the
+beginning. There was also a language
+barrier, which was probably part of the
+reason they kept sending me things I
+didn't want. But the problem is the
+account manager explicitly told me that
+what I was asking for was reasonable and
+that his team could do it. And then they
+just wouldn't do what I asked. At one
+point they were taking so long to
+respond that I started to get
+suspicious. Was this Fiverr job actually
+a scam? Do they just steal people's
+ideas and build their apps so they can
+make money off them? And since they're
+in another country, I can't do anything
+about it. Funnily enough, I ended up
+confronting the account manager about
+this. Interesting how he got back to me
+right away about that. He clearly had
+time to answer me then. And of course,
+he tried to reassure me that no, this
+isn't a scam. But at that point, I was
+already almost done with them. It was
+obvious that this whole thing was not
+headed in a good direction. Ultimately,
+the real idiot was me for trying to get
+a complicated app built off Fiverr.
+Fiverr is like a portal to hell. Nothing
+enters there and leaves, at least not in
+a favorable condition. But again, Fiverr
+was all I could afford. I guess the
+saying you get what you pay for really
+is true sometimes. After something like
+5 months of development, they had just
+barely gotten a version of the app that
+could actually send a number from one
+phone to the other. But if you wanted to
+swap both numbers, you needed to take
+extra steps. Also, the app didn't look
+at all how I wanted. It didn't have the
+same kind of check mark function I'd
+asked for. And I remember there was
+another very basic thing that the app
+couldn't do, like adding fields of
+information to a contact aside from your
+phone number and email. And the guy told
+me that if I wanted that feature, they
+were basically going to have to start
+over and rebuild the whole thing. And at
+that point, I just said, "No, I'm not
+doing this anymore. I'm not." So, I
+pulled out. And that was the end of
+Numbers Swap, at least for my part. A
+little while later, I searched for more
+competent programmers and even messaged
+a couple, but there was nothing I could
+afford. There was one team I found that
+looked really good, but when I messaged
+them, they said they typically charge $2
+to $300,000 for an app. And I was just
+like, well, that's not going to happen.
+I still think number Swap is a good
+idea. I really believe that people would
+use it and there are some cool features
+that I think you could include in an app
+like this, which I'll talk about in a
+bit. But after that incident, I kind of
+just gave up on it. Clearly, app
+development is not my wheelhouse. So,
+how was Number Swap supposed to work?
+What were the features I imagined it
+having? This is the part of the episode
+where I'm going to talk about all that.
+Believe it or not, there were actually a
+lot of things I wanted to do with this
+app aside from swapping numbers.
+Ultimately, I envisioned this as
+potentially being a replacement for the
+phone app. So, let's talk about it.
+Obviously, the main thing you'd want an
+app like Numbers Swap to do is swap
+numbers with the press of a button. But
+how exactly is that transaction supposed
+to happen? How do you know you're
+actually swapping numbers with the right
+person? What if you want to give your
+friend's phone number to someone instead
+of your own phone number? What if you
+want to give a fake number to someone?
+What if you want to swap numbers with
+multiple people at the same time? What
+if you want to do a one-way exchange
+where one person sends and one person
+receives? Well, I went through a good
+bit of workshopping on all of this and I
+came up with a system that I think makes
+sense. And of course, this system is
+just a starting point. But here's what I
+got. First off, number swap should allow
+you to create multiple accounts. One
+account might have my real phone number
+on it. But let's say I'm a hot girl and
+a bunch of dudes are constantly asking
+for my number and sometimes I want to
+give them a fake number. I should be
+able to go to the accounts or contact
+screen where all my contacts and
+accounts are listed and where I can
+create new accounts and contact. From
+that screen, I select which account or
+contact I want to use. Whichever account
+or contact I selected, that's what gets
+shared when I press the swap button. And
+obviously, I should be able to create as
+many accounts or contacts as my phone's
+memory will allow. Also, if I want to
+receive someone's number without giving
+anything to the other person, there
+could be a special receive account I can
+select. In any case, once I select an
+account, my phone will then take me to
+the swap screen. Now, the swap screen
+should have a few important features. At
+the bottom, there's, of course, the swap
+button. Now, in order to actually swap
+numbers with someone, both of you should
+have to hold down the swap button at the
+same time, not just press the swap
+button. The reason is because anyone can
+accidentally press a button, but it's
+pretty hard for two people to hold down
+a button at the same time by accident.
+It can happen, I'm sure, but it's pretty
+unlikely to happen. After a second or
+two of holding down the swap button, the
+number exchange takes place and whatever
+information was in the account you
+selected, even if it was just an email
+address, that gets swapped into the
+other person's phone. The new account
+will then appear in your
+contacts. Okay, but how do you know
+you're swapping numbers with the right
+person? What if you're at a party and a
+bunch of people are swapping numbers?
+Couldn't your phone accidentally swap
+numbers with the wrong person? This is
+where the check mark feature comes in.
+On the swap screen, your phone should
+basically have a list of phones or names
+with checkboxes next to each name.
+Before you can perform a swap, you have
+to check mark the person whose number
+you want to swap with. Once both of you
+have check marked each other, then a
+swap can happen. If only one person hits
+the check mark, but the other person
+doesn't, your swap button will be grayed
+out and no swap can be performed. This
+is to prevent swapping with the wrong
+person. Now, here's an issue I ran into.
+On the swap screen, there will obviously
+be a list of phones and names you can
+swap numbers with. But which names
+should appear is a bit of a tricky
+problem. What if there are two people
+named Cassandra that appear on your swap
+page? How do you know which one to check
+mark? Here's the solution I came up
+with. The name that appears on the swap
+screen should of course be based on the
+account or contact you just selected,
+but also there should be some other kind
+of identifying information next to each
+name. For example, your phone's make and
+model appear next to the contact name.
+But what if everyone is using the same
+phone? Well, maybe every person's phone
+should also have a unique ID which is
+automatically generated when you
+download number swap and is always tied
+to your specific phone. So, when you're
+on the swap page looking at other
+people's phones, the contact name shows
+up, the phone's making model shows up,
+and the unique ID shows up next to each
+name. Maybe you can even add some
+personality to it and make it so that
+contacts can have customizable colors
+and patterns so that your account stands
+out from other people's accounts on the
+swap screen. By having all these
+identifying features, there should be
+less confusion about who you're swapping
+with. And if you want to swap numbers
+with multiple people at the same time,
+you just have to check mark multiple
+names. And as long as all the names have
+checkarked each other, a party swap can
+be performed. Another idea I toyed
+around with is what happens after a swap
+takes place. I thought about having some
+sort of dialogue box or pop-up box which
+displays all the contacts your phone
+just received. And this dialogue box
+allows you to modify any of the
+information in those boxes before saving
+the new contacts into your phone.
+However, some people might just want to
+skip this step. So maybe there should be
+a setting which allows users to
+automatically save new contacts rather
+than showing any sort of pop-up. There
+should also be some way of telling which
+account or contact you currently have
+selected when you're on the swap page.
+It's a small thing, but it's important.
+You don't want to accidentally share the
+wrong information with someone else when
+you're performing a swap. Here's yet
+another issue I ran into. How should
+your phone list names on the swap
+screen? In other words, which names
+should appear at the top of the screen
+and which ones should appear at the
+bottom? My first idea was to do it based
+on proximity. Whoever's phone is closest
+to yours appears at the top of your swap
+screen. But how exactly do you determine
+proximity? Do you base it on Wi-Fi? Do
+you base it on Bluetooth? The team I
+worked with wanted to use a combination
+of NFC and Wi-Fi. Wi-Fi to detect the
+phones and NFC to perform the actual
+swap. But the problem with this system
+is that Wi-Fi can be a bit iffy when it
+comes to determining the exact proximity
+of things. At least from what I gathered
+in my limited time working on this.
+Also, what if I want to swap numbers
+with someone who's across the room
+rather than right next to me? If names
+are based on proximity, I would have to
+scroll down the list and kind of guess
+which person's phone is the one I want
+to swap numbers with. And obviously,
+that's not a great solution. There is
+one potential way to solve this problem,
+which I'm about to discuss. But I'll be
+honest, it's not a solution that I like.
+The reason I don't like it is because I
+think it's frankly dystopian and it
+probably wouldn't be good for society.
+but it could technically work. The idea
+is proximity chat. Let's say that I spot
+a cute girl across the room and I want
+to talk to her, but I'm too much of a
+coward to actually walk up and say hi.
+Well, using number swap, there could be
+a way of actually messaging someone
+through the swap screen. Basically, each
+name on the swap screen could have a
+tiny message box next to it or
+underneath it, which shows a preview of
+any messages you've gotten from them.
+And if you click on the message box, it
+expands to a full screen chat where you
+can send and receive messages between
+you and that person. And once you leave
+the area or after a certain amount of
+time, the messages are deleted forever.
+So instead of having to guess which
+phone I want to swap numbers with, I can
+send a simple message to a few phones
+saying, "Girl in red dress." And if she
+responds with boy in white shirt, you
+now have a connection and you can both
+talk and exchange numbers from across
+the room. Obviously, people are going to
+troll this system and use it to send
+inappropriate messages to random
+people's phones. The good thing is if
+you implement what I said before, any
+messages you get should be tied to a
+specific phone and a specific ID. So, if
+someone is sending you messages you
+don't want, it should be possible to
+determine who's sending those messages
+by simply looking at the ID. And as long
+as there's a block feature, which allows
+you to block certain IDs, then you
+should be able to prevent yourself from
+receiving chat messages which come from
+certain people's phones. It should also
+be possible to disable the chat feature
+entirely, especially if you're a parent
+concerned about the messages your kid is
+getting. There should be some parental
+control feature that allows parents to
+have complete control over the proximity
+chat feature, disabling it permanently
+if they want. But in my honest opinion,
+LWD messages are not even the worst
+part. Something like proximity chat
+could end up actually encouraging
+antisocial behavior. The same way that
+the internet has enabled people to
+interact more online and less in person,
+the nature of what proximity chat is
+could encourage people to talk more
+through chat and less through face tof
+face interactions, even when people are
+in the same room as you. It's possible
+that proximity chat could end up being a
+good thing. By having a way to
+communicate with someone before talking
+to their face, it might actually bring
+many people out of their shell and allow
+them to open up more, which could
+generate more friendships and
+relationships. But I know people and I
+know that most folks most of the time
+are going to default to whatever is
+convenient. And I can easily see
+something like proximity chat enabling
+people to talk less and communicate less
+at least in terms of face tof face
+interactions. Personally, I really don't
+like the idea of proximity chat as a
+solution. I think proximity chat opens
+up a can of worms that I don't think we
+should open. But that is just my
+opinion. Some people might want the
+proximity chat feature. And if the
+majority of people want it, there's
+nothing I can really do about that and
+it would technically solve the problem
+of distant
+swaps. But this is all hypothetical at
+this point. Until someone actually
+develops number swap, none of this can
+happen. So if you have better ideas, I'd
+encourage you to do something with them.
+I have also considered the possibility
+that eventually once number Swap becomes
+big enough, you could also use it to
+make phone calls and send normal text
+messages, but that's way in the future
+and people might not actually care about
+that. So, that's it. Those are my ideas
+on number swap. I haven't decided on the
+next episode's topic yet, as is becoming
+the norm for this podcast, which means
+the next episode probably will be out in
+another month. In any case, my name is
+Sebastian Ray. This is the list podcast
+and I'll talk to you in the next one.

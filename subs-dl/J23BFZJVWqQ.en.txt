@@ -1,0 +1,133 @@
+today we're going to look at four ways
+in which you can use compound paths in
+your work flow when working in Adobe
+Illustrator after today's video you
+should have a perfectly clear
+understanding of compound paths and why
+they're so useful something else useful
+to you as a graphic designer is
+Skillshare which hosts over 25,000
+classes throughout the entirety of the
+online learning community you can learn
+useful techniques and skills for graphic
+design logo design and much much more
+skill share is also super affordable but
+today I have a special offer for the
+first 500 people who sign up to skill
+share as they will receive a free trial
+of Skillshare premium for two months
+check out skill share and link down
+below what is actually is a compound
+path now compound path consists of two
+or more vector paths that intersect
+somewhere along the lines no matter how
+many components make up a compound path
+that you act as one individual units if
+you try to select separate paths that
+make up the compound path with the
+selection tool then the whole compound
+path will be selected however you can
+select and move components within the
+path using the group selection tool all
+the direct selection tool so essentially
+it is a non-destructive way to add an
+effect or an operation to a group of
+shapes in Adobe Illustrator so when do
+we actually need to use a compound path
+in our workflow for the first example we
+have three different circles here each
+of which have the same gradients now I
+want to add the gradient spread across
+the entire selection of shapes so I
+might actually come and unite them in
+the Pathfinder window
+this doesn't result in a desired effect
+and even if we did achieve it the three
+circles are now one United vector object
+and that is a destructive workflow so
+instead we can make a compound path and
+hey presto the gradient is spread across
+the entire selection that's not the only
+neat aspect of the compound path the
+compound path also allows us to take the
+direct selection tool and carefully pick
+the center of the circle to manipulate
+it you will notice that the gradient
+stays relative to the orientation of the
+circles which is a neat function of the
+compound path in illustrator we can then
+of course adjust the gradient in the
+gradient window but also you have the
+ability to add other design elements
+into the compound path an illustrator is
+going to keep the gradient relative
+throughout now how awesome is that
+the second useful function of the
+compound path is heavily based around
+non-destructive workflow when working in
+Photoshop or illustrator it's helpful to
+perform functions and operations to
+where we can make edits and changes at a
+later date so if I want to cut out these
+two circles into the square I can use
+the minus front option in the Pathfinder
+window however
+once this has been done it is not easy
+to edit the cut out sections or even
+revert back to the original so instead
+let's create a compound path because I
+can then use a direct selection tool to
+manipulate and to move the cut out
+circles
+this in itself is very handy but I can
+also revert back and release the
+compound path like so so I have two more
+situations in today's video where the
+compound function is useful for your
+graphic design workflow the third point
+in today's tutorial is a kind of
+extension and upgrade in the previous
+points again working in the Pathfinder
+window we can use the minus front option
+to cut out shapes into other shapes
+which you already know however if you
+want to make a quick compound path we
+can use the minus front option but
+what's doing here hold down the alt or
+the option key now the cut out is a
+compound path open for manipulation and
+edits whenever we need to make them the
+last function of a compound path in
+today's illustrator tutorial is based
+around text now often in Illustrator we
+need to convert the text to a compound
+path to add certain effects but also to
+make sure it's non-destructive workflow
+as we can edit the text and the wording
+later one of those effects is using a
+clipping mask on the text itself
+utilizing the shapes behind so like
+before turn the text into a compound
+path like so and then place it over the
+shapes and go ahead and apply a clipping
+mask
+once the clipping mask has been applied
+like all of the other compound
+applications we can then move the text
+as well as edit the wording itself while
+the effect remains the same throughout
+now I hope you better understand the
+compound path function in Adobe
+Illustrator today's video somewhat of a
+reuploads I just expanded on it a little
+bit more i remember if you want to join
+the Skillshare community of over 7
+million creators check out Skillshare
+down in description box below where the
+first 500 people to sign up are going to
+receive two months free of Skillshare
+premium like and share my videos on
+social media and have a great day
+everybody
+and until next time design your future
+today peace

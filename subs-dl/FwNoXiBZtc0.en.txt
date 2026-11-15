@@ -1,0 +1,1380 @@
+Now if you've heard about Claude Code,
+then you most likely heard of Claude
+Code skills. And these are by far one of
+the most powerful things out there right
+now when it comes to automating
+businesses with AI agents. Now the only
+problem is that the information of
+Claude Code skills is scattered across
+hundreds of different videos talking
+about different features, making it very
+hard and time-consuming to piece
+everything together. Which is why in
+this video, I'm going to give you
+everything that you need, which is the
+full Claude Code masterclass that walks
+through exactly what Claude Code skills
+actually are and why they're important.
+Where Claude Code skills are stored
+inside of Claude Code, how to use
+pre-built Claude Code skills, how to
+create your own skills from scratch, and
+how to build self-improving skills step
+by step. And in case you don't know who
+I am, my name is Michele and I've scaled
+my own AI agency to six figures working
+with over 50 businesses to implement AI
+solutions and teaching over 20,000
+people in the process. All starting with
+zero technical knowledge. With that
+being said, let's dive in. All right, so
+we have Claude Code's brain, we have
+skills, which makes super Claude because
+Claude on skills is like Claude on
+steroids. So you can do so much more
+than just the normal interface. What are
+skills? So skills are instruction
+manuals that Claude reads before doing a
+task. So the same way they use a recipe
+card, which are instructions to make
+something, in this case a chocolate cake
+or it can be a burger, it can be a
+pizza, whatever it is, which is a list
+of instructions that show you how you
+can do that thing, Claude has Claude
+Code skills, which are instructions to
+handle PDFs, to create websites, to
+create presentations, and to do all
+those things. So that when we have a
+task that you give to Claude Code, let's
+say you say let's make a website, and
+Claude, which is the agent, goes to the
+skills, right, and says, "Okay, which
+skill do I have to use?" In this case,
+it will use the website skill, right?
+And it will use the website skill to
+give us a perfect result. Now why is
+this important? Because without skills,
+Claude guesses and the result is
+inconsistent. [music] The reason why the
+result is inconsistent is because it
+doesn't have a proper way of doing
+things if it doesn't have [music]
+skills, right? Because skills are
+step-by-step instructions. And so if it
+doesn't have step-by-step instructions,
+it does its own thing however it wants
+to do it in its own way. [music] And the
+way that AI does things can change over
+time, right? And so, what it does now
+might be different than what it does in
+30 minutes, right? Now, with skills,
+Claude [music] follows instructions,
+step-by-step instructions. And so, with
+that said, because it has a clear prompt
+that it has to go through and that has
+to look at, the margin of error will
+decrease massive, which means that it
+will give us a much better output. Now
+that you know exactly what Claude code
+skills are on a general level and why
+they're important, where do you actually
+store them? So, I'm here in my folder
+called the YouTube workspace, which is
+where I manage most of my YouTube stuff,
+strategy, thumbnails, and ideation,
+titles, hooks, bodies, all that stuff.
+No, this is not scripted, so don't
+worry. Uh but essentially, if you see
+here,
+inside this folder, there are series of
+folders. So, dot Claude, brand assets,
+contacts, execution, outputs,
+references, scripts. By the way, if this
+is the first time that you've ever been
+introduced to Claude code, check out
+this video up here cuz it will give you
+the overview of what most of these are
+>> [music]
+>> and why they're, you know, that way. But
+if you already know that and if you
+already have the fundamentals, then this
+will make more sense. [music] We will
+have a folder called the dot Claude
+folder. Now, the dot Claude folder,
+you'll see a dot behind it because you
+actually not be able to see it in your
+folders. I know that doesn't make sense
+yet, but I'll show you. But essentially,
+we have this folder called dot Claude
+and inside the folder of dot Claude, we
+have another folder called skills. So,
+that's where we store skills.
+>> So now, if I go to a new page and I'm
+name this general, I can have the
+folder, I can press this right here and
+I can put dot Claude.
+Boom. And now, inside the dot Claude
+folder, I can then go here and put new
+folder and put [music] skills.
+Okay? So now, when we start adding
+skills, we add it to the folder itself.
+Now, why do we do this? We do this
+because we want to be organized, right?
+And so, Claude knows that every single
+time that it needs to look at a skill,
+it always goes to the skills itself. And
+it goes to all of them step-by-step.
+Now, if you noticed, the dot Claude
+folder also has commands. And so, you
+can also
+go here
+>> and you can put new folder and put
+commands.
+So, as you can see now, we have inside
+the dot Claude folder, we have commands
+and we have skills. Obviously, nothing
+inside, but we'll add [music] them
+later. For the sake of this video, I'm
+only going to be talking about mainly
+skills, but that's essentially where we
+store Claude Code skills. [music] All
+right, so right here, if you've ever
+seen something that looks like this,
+which we call the folder tree inside of
+Cloud Code, this is how the folders are
+stored. So, doc cloud is a folder,
+commands is another folder, skills is
+another folder. Inside each folder,
+there's obviously documents here. So,
+this contains only two documents, which
+>> we'll go through. And skills contains
+different folders. And each folder is a
+skill. There's a lot of folders and
+skills that I've set so far, but
+essentially every skill that we add
+under skills folder is a folder in
+itself because a folder consists of
+documents. If that didn't make too much
+sense, I hope this will. [music] So,
+here we have doc cloud skills. Inside of
+skills, let's say we have the LinkedIn
+writer. So, let's say we want to make a
+skill that writes LinkedIn post. That's
+it. Inside each skill, we have
+>> three different things, okay? We first
+have a skill.md, which is a process
+step-by-step instructions that we tell
+Cloud Code, like, "Hey, here's how the
+skill is done." And then we [music] have
+two more folders. Okay, so each skill,
+which is a folder, has two more folders.
+The first folder is called references.
+Now, just so you know, these two,
+they're not always going to be there.
+Like, sometimes you need reference docs
+or examples or templates. Sometimes you
+don't. Right? So, this is like if or or
+you need it. But in the case that you do
+need them, we'll have references, and
+this includes documents of examples of
+templates or reference docs, anything
+that you need there. On this side, we
+have scripts. Scripts is a Python codes,
+which is again optional in case you need
+them. But essentially, if you're running
+some sort of automation, the code
+represents the automation itself. Okay,
+so this is the instructions, "Hey,
+here's how you do the task." References
+is like, "Here's supporting documents
+that you will need to make the task
+happen." And the scripts will be like
+the Python codes, which you can think of
+like the different n8n nodes, the
+different steps of the automation, which
+are code. Right? So, that's exactly how
+it's stored. Then going back to my
+previous example here of my YouTube
+workspace, which is where I store
+everything for my kind of YouTube
+projects. If I go to doc cloud, this is
+the folder that contains the skills
+folder as well. It also contains this
+right here, agent memory, agents, and
+commands, which I'll walk you through
+later on. But skills is the one that we
+have to worry about. And if I press
+skills, you can see that it has these
+many folders, which are all skills
+themselves. We have cloud.md generator,
+we have comment analysis report, we have
+competitor analysis, excalidraw diagram.
+We have a set of different skills that
+do different things. And if I press on
+one of them, let's say comment analysis
+report,
+I will be able to see the folder of
+references, the folder of scripts, and
+then the [music] skill.md, which is a
+document that outlines everything. Okay?
+And so, skill.md, references, and
+scripts are all folders inside the main
+folder of LinkedIn Writer inside the
+doccloud skills folder. So, they're all
+folders, right? One folder here, one
+folder here, one folder here, one folder
+here, one folder here, and then we have
+the skill.md. Okay, but that's the
+structure of different folders inside
+Clockwork. And it is pretty much the
+same kind of structure as a competitor
+analysis. here, I also have references
+and scripts. This also has the JSON
+file, which is just something that we
+use to store Google tokens. But some of
+them only have the skill.md. And so,
+that's why I say that this is mandatory.
+You always need to have the skill.md.
+The references and scripts, you don't
+always need to have them. Because this
+right here, for example, we don't need
+any reference files, right? We just need
+a skill.md, which has a bunch of
+instructions as to how to actually make
+the Excalidraw diagram. Now, you know
+exactly where skills are stored. Now,
+the next question is, how do we find
+skills and how do we create them? As I
+mentioned before, there's two different
+ways of getting skills. You either get
+them from a pre-built library of people
+who made skills ready for you, or you
+create them. So, the first step, [music]
+let's go through getting them. All
+right, so here I have five different
+what we call marketplaces. So, the same
+way that you go to Amazon to get a
+product, we go to this marketplace to
+get a skill. [music]
+The only difference is that these are
+free, which means you don't have to pay
+for the skill itself. At least as far as
+I know. I'm sure there's skills out
+there that you have to pay for, but as
+far as these ones, you don't have to pay
+for them. Now, the sites here, I'm going
+to leave the links all down below so you
+can check them out. But I have AITMPL,
+which is a Clockwork Templates, which is
+the one that I personally use pretty
+much most of the time. Then we have this
+right here, which is also a pretty
+decent one. Then we have this,
+bunch of skills as well. Then we have
+this here. We have this as well that
+contains different skills. If I go here.
+There we go. Now, it might seem a bit
+intimidating at first when you look at
+this,
+>> just because it does look very, very
+techy. I mean, all of this didn't really
+make much sense to me when I started,
+but it's actually very very simple once
+you break this down. So, let's say I go
+to the Cloud Code templates, okay? And
+like I mentioned, skills are just
+pre-built instructions. It's a prompt,
+right? [music] It does a specific thing.
+So, let's say I wanted to create a
+website. Okay, if I wanted to create a
+website, I would definitely use the
+front-end design. Why? It's because the
+front-end design creates distinctive
+production-grade front-end interfaces
+with high design quality. Use a skill
+when the user asks to build web
+components, pages, artifacts, posters,
+or applications, dashboards, React
+components, HTML, CSS layouts, or when
+styling beautifying any web UI. It
+generates creative, polished code, and
+UI design that avoids generic AI
+aesthetics, okay? So, this is great when
+you're building a website, when you're
+building a UI, which is a front-end, the
+thing that you see inside of software,
+um and so we use this here. Now, the
+skill has different components. It has
+the name right here. It shows you the
+amount of downloads that a skill has,
+and typically the higher the downloads,
+the better the skill is. And front-end
+design is one of the most used skill
+there is out there, which is great. We
+have the install command, and what this
+is is a command where you can copy this,
+and you can simply just paste it into
+Cloud Code, and I'll show you how to do
+that, and it will automatically install
+the skill without you having to give it
+any instructions, okay? Then, we have
+the description of the actual skill. We
+have the license, which is the just a
+document to I'm pretty sure it's to not
+use copyright, like to not copyright the
+the actual skill, so you don't copy it
+and then put it on your own marketplace,
+right? It's it's done for this person.
+And then we have the preview, which is a
+preview of the actual skill and what it
+is and what it does. And then, most
+importantly, we have the code. And the
+code really is a skill.md document. So,
+when we spoke about the skill.md here,
+all it is, it's this. It's this prompt
+right here. And so, every skill is just
+a prompt, right? Don't make it more
+complicated than it is, because that's
+all it is. Just a prompt that it tells
+Cloud Code what to do. Now, if I go
+here, just to show you how it looks like
+on a different website, Constant Idea.
+So, let's do content, content creation.
+Content creation, let's do a random one
+here. And here we can see that we have
+the name of the skill, we have the
+description, we have the command, which
+we spoke about before, and then we have
+the file. So, in comparison to here,
+where we can and we are able to actually
+copy the prompt and paste it to to Cloud
+Code or do whatever. I mean, usually you
+just use a command, is the easiest thing
+to do. Just paste the command and it
+will do everything for you. Here, you
+also have the command, but you have an
+option to download the documents. Okay,
+because this right here will be a
+document for the skill.
+Okay, with the skill.md document. And
+that's it. Instead of downloads, you'll
+have stars. So, 57,000 stars tells me
+that it's pretty good and that a lot of
+people have downloaded it, which tells
+me positive things about the skill. If I
+go to here, I can see that I have Let's
+do file search. [music]
+Let's see what this shows us. One-click
+install,
+one-click copy. So, we can copy this.
+File explorer with the skill.md. This is
+the full prompt. So, they're all like I
+mean, the websites look a bit different,
+but they all have the exact same thing,
+right? They have the description, they
+have the the skill itself. The most
+important thing is you understanding
+what skill do I need to be able to do
+what I want to do. I mean, going into
+these marketplaces and then looking at
+the skill that you need to then be able
+to copy and then paste it. I'm going to
+copy this and I'm going to go to Cloud
+Code in a new version here and I'm going
+to paste this here.
+Okay, and I'm going to go and run. Now,
+it's asking me if I can do this. I'm
+going to press yes and actually turn
+this
+to
+bypass permissions. [music] As you can
+see now, it made a folder called doc
+cloud. If I go inside, I can see that it
+made a folder called skills and inside
+skills, it made a folder called front
+end design and inside front end design,
+it had the skill.md document, which is a
+full prompt that we saw here.
+The exact same thing. And so, like I
+showed you before, I made the folder
+manually, but you can also have Cloud
+make the exact same folder automatically
+for you. Now, let's say I want to use a
+different skill. So, let's say I went
+here and I said, "Okay, let me use the
+senior architect." Okay? I go here, I
+copy this and then I simply just paste
+it here.
+Actually, let me go to a new window.
+And then I can go and press done. I can
+go to bypass permissions, so it doesn't
+ask me every time to approve. And now
+you'll be able to see a new skill being
+added here. There we go, senior
+architect. It's as easy as this. But,
+senior architect in comparison to
+front-end design as references, it has
+scripts and then it has the skill.md.
+So, sometimes it needs references,
+sometimes it needs scripts to be able to
+fulfill the actual skill, but sometimes
+it doesn't. Right? Sometimes you simply
+have a prompt, which is just
+instructions of what it needs to do.
+Now, bear in mind that the skill.md
+document is just a list of instructions
+and it's a [music] standard across all
+the different LLMs. And so, whether
+you're using Claude, Cursor, Codex,
+Gemini CLI, or Copilot, or any other of
+these 20 [music] different you will be
+able to apply this exact document to all
+of them. And that's why it's a very,
+very important document and it also
+makes skills way more valuable than
+people think. I'm going to go here and
+delete the skill right here cuz I'm not
+going to need it. But, next I want to
+show you how to build a website and how
+Claude builds a website before skills
+and then after skills. Okay, so I'm also
+going to delete this front-end design.
+Actually, I'm going to delete the whole
+thing. So, Claude
+folder. Delete it. I'm going to go here
+and I'm going to say, "Can you make a
+website for my agency JM Solutions? It's
+an AI automation agency that helps
+marketing agencies to build delivery
+systems and helps them to double their
+client uh delivery in 30 days." I'm not
+going to put too much effort into this.
+I want to keep everything equal and just
+show you the output, right? I'm also
+going to say the color scheme is going
+to be dark blue uh and yeah, give me the
+landing page in a link that I can access
+on my web. I'm going to go here on plan
+mode cuz I want it to kind of plan first
+before it gives me the actual website
+and then we can go bypass permissions to
+to see the full thing. All right, so
+after a few minutes we got the plan
+here, which is a plan on the landing
+page, dark blue, contacts, approach,
+color, sections. So, we press yes and
+auto accept and then we go to bypass
+permissions so I don't have to do this
+every single time.
+Bypass permissions [music] and that's
+it. All right, it just made the landing
+page. I'm going to copy this.
+I'm going to paste it here.
+And here we have the landing page
+itself. Double your client delivery in
+30 days. So, as you can see, this is the
+design style that it made, okay, with
+the actual caldercom link and
+everything, okay, which is not bad,
+which is not bad. Now, let's say I go
+back and I delete this.
+Again.
+Okay, and I give it the exact same
+prompt.
+But now I'm going to use the skill
+front-end design, copy the command, and
+then paste it here. And now we're going
+to download the skill and then do
+everything again and show you the end
+result. Okay, so it just made the skill
+doc cloud folder skills front-end
+design, and we have the skill that I
+made, which is a prompt. Cool. Now I can
+go here. I'm going to paste the exact
+same prompt. The only thing I am going
+to say is, "Can you use a different
+local host uh number to give me the
+link?" Just because it gave me the link
+of local host 8080, and I want to show
+you the difference between this and
+that. So I can press this, I can go to
+plan mode. It'll make the plan, and then
+we go directly to build the website.
+Okay, it just made a plan. I can press
+yes auto accept and then go to bypass
+permissions. All right, now it made us a
+new link, so I can copy this as well. I
+can go here. You can see this is the old
+website. I can paste the new link. Now
+we'll have the new website here.
+Which is much nicer.
+It has numbers as well. It has
+testimonials in case we need any. And we
+also have the option to book a call as
+well. So there's no obligation, no pushy
+sales, just a clear road map for your
+agency. So as you can see with a skill
+right here, it has made the website a
+lot better because of the prompt that we
+gave it here. And you can apply this
+thing to pretty much anything that you
+do with these pre-built kind of skills
+that you can see on the marketplace. And
+now that you know exactly how to go to a
+marketplace and use someone else's
+skills, in the next section we're going
+to look at how you can build your own
+skills
+>> step by step. I'm going to be building
+my own, show you the full process, so
+eventually you can do the exact same.
+Now to be able for us to make the skill,
+you need to understand the foundation of
+how a skill is actually made, right? Now
+you know that a skill here has different
+folders. So for example, comment
+analysis report has this folder, this
+folder, and this document, okay? Now
+this document is by far the most
+important document because it has the
+instructions. Because not all the skills
+have the reference and scripts, but all
+of them do have an MD document, okay?
+Now let's go here to this one for
+example, and let me actually pull out
+another one as well. Let me actually go
+here. Put this in the right. So you can
+see the the same kind of structure here.
+So first thing that we have with a skill
+that I'm developing is the name and
+description. So, the name and
+description are used because when you
+tell Claude, "Hey, I want to make an
+Excalidraw diagram." or "I want to fetch
+my competitors uh comments, right?" What
+it does is that the first thing
+>> it looks through all the skills
+that we have here, which are going to be
+like 12. Only then does it look at the
+skill that I'm doing. It looks at this
+first part, name and description,
+[music] and then it chooses which skill
+it's meant to use. The reason why it
+does that is because if you don't have
+this small snippet of name description,
+it will go through all the files of all
+the skills, and it will consume so many
+tokens, and it will cost you a lot more.
+And so, here we have a preview saying,
+"Hey, Claude, if you want to use a
+skill, there's a description, and
+there's the [music] name. If you mention
+something similar to this, let's use
+that." It also increases the accuracy of
+which skill it uses. So, first things
+first,
+name, description. So, we have the name
+of the skill, Excalidraw diagram. Then
+we have the description, to use when
+someone asks to draw a diagram, make an
+Excalidraw diagram, or build an editable
+diagram, default for all diagram
+requests. Okay? The whole file here is
+done in markdown formatting because
+that's the way the AI knows how to put
+the text in a hierarchy. So, heading
+two, heading one, heading three, right?
+So, it knows which one is more
+important, right? So, for this, it's a
+heading two. This is a heading three.
+And it goes through step-by-step what
+the skill actually is. Okay? So, step
+one, understand the request.
+>> Step two, research if needed. Step
+three, plan the layout. Step four is
+generate elements. Step five, save and
+deliver. And then we go through step
+six, handle and feedback, critical
+rules, design principles, layout
+systems, and then and color systems,
+typography scales, element schema, and
+then we have the JSON file, which is the
+type of design that Excalidraw, which is
+a diagram that we use to make different
+diagrams, makes the [music] diagrams
+itself. Okay? So, that's the skill right
+here. On the other hand, let's say I go
+here, comment analysis report, which is
+a report that I personally made,
+>> right? That I actually made the
+step-by-step. We have the name
+description, then we have comment
+analysis report, prerequisites for the
+skill itself. This is what it does. We
+need this to start. So, let's grab this
+first. Step one, fetch comments. [music]
+So, what it does is that inside the
+skill, it goes through the scripts fetch
+comments.py. So, scripts [music] fetch
+comments.py, which is the first you can
+say automation of the whole system.
+Fetch the top 200 comments by relevance.
+Look at these channels right here. Step
+two, analyze and write out a report.
+Step three, generate PDF. And then it
+goes to error handling and partial runs
+and all that stuff in case it breaks,
+okay? And so, that's exactly how it's
+made. Now, here I have a empty folder
+inside of doc cloud, which is general,
+which is the one that I used before. I'm
+going to go here and create a doc cloud
+folder. Inside doc cloud folder, I'm
+going to create another folder here
+called skills.
+And then I'm also going to create
+another folder inside of doc cloud,
+which is called commands,
+which is a new thing. Don't worry about
+it. Okay. So, commands will be the thing
+that allows me to call the skills
+itself. So, for example, if I want to
+call comment analysis report, I don't
+have to type comment analysis report. I
+can do {slash} comment
+analysis report, and this is a slash
+command. So, I don't have to type the
+name, it automatically goes there. It
+automatically calls the skill itself,
+which is a good thing to have when we do
+our skills. So, inside skills now, I'm
+going to create a skill So, new folder
+inside. I'm going to name this YouTube
+title
+generation.
+Boom. And inside of YouTube title
+generation, I'm going to create a file,
+which is called the skill.md.
+And the skill.md will be the list of
+instructions of that specific [music]
+skill. So, first thing I'm going to do,
+I'm going to paste this here, which I
+already wrote before. And this will be
+the name and the description of the
+skill itself. So, we're making a YouTube
+title generator. We generate YouTube
+video title ideas. Use [music] when
+asked to brainstorm titles, come up with
+video names, or generate title options
+for a YouTube video. And then now here,
+I can paste this quick sentence saying
+generate 10 title ideas for the given
+topic. Titles should be under 60
+characters, create curiosity, and be
+relevant to a tech AI YouTube audience.
+And I can also say,
+here's a few title frameworks
+that work well. And I can paste this
+which are some title frameworks that we
+use for YouTube videos. So, for example,
+I failed at topic until I learned this.
+I never achieved or I never achieved
+goal until I learned this. Learn the
+skill and never unwanted action again.
+If you action like this, you're going to
+be negative situation forever. Okay, so
+these are all title frameworks. And so,
+this right here will be the skill that
+I'm going to use. I'm going to press
+command S to save, or you can go here
+file save.
+I'm going to test it. Okay, so I'm going
+to go here and say, "I want you to help
+me with title generation.
+I want to create titles for my new
+video, which is about how I broke past
+the six-figure mark with my AI agency
+step by step."
+>> I'm going to press go. And now, what it
+will do is it will think. It will look
+at the YouTube title generation skill,
+because that's the skill that it needs
+to use. And now, it will [music] give me
+10 title ideas for my video, okay, which
+is great. And so, what did we do? We
+created this skill manually and now
+we're testing. So, we're testing that
+this actually works. And as you can see,
+it understood which skill to use. Of
+course, we only have one right now. But
+by the way, just because it has YouTube
+title generation, it doesn't mean that
+it's going to use that every single
+time. And so, we said, "Hey, I want to
+help with titles. I want to create a
+title for my new video." And then, it
+gave me 10 title ideas, which is the
+exact thing that I told it to do in that
+skill. I never hit 100k until I learned
+this skill. Give me 50 minutes and I'll
+show you how to build a six-figure AI
+agency. The smartest strategy to hit
+100k with my AI in 2026. These are
+pretty good uh titles. It's not fun, but
+it'll get your agency to 100k way
+faster. I like that. And so, now you saw
+me actually build a skill step by step.
+So, now that you know how to make it
+manually, there's actually a trick that
+we use when making skills. And that's
+using the skill skill creator. So,
+there's a skill that actually makes
+skills, which makes the whole process
+much easier. Now, why does it do this is
+because I'm going to press go. So, you
+can actually find the skill under manage
+plugins.
+And you'll be able to see skill creator.
+So, you can find it here. I can actually
+just
+install it. I can look at skill creator.
+And you can install it here. Okay, so
+now it's installed in your MacBook. Now,
+it it's asking you, "Do you want it
+available for all your projects? Do you
+want it available just for collaboration
+or just for you? Only for this exact
+title?" Or for for exact project. I like
+to have this skill installed across all
+my projects, which means that first of
+all, I won't be able to see it here, but
+it will be installed in a way where it's
+[music] always available to you, and you
+don't have to reference it or do
+anything, cuz it's automatically going
+to be used whenever you're making a
+skill. And so here I'll say install for
+you, available in all your projects, and
+now whenever I'm making a skill, it will
+use this skill to make that skill. Now,
+where does the skill creator come from?
+So, the skill creator is something that
+Anthropic actually came out and made,
+which is why we use it all the time, and
+it's a skill that allows us to [music]
+be able to use whenever we're creating
+skills. So, you can see skill creator, a
+skill for creating new skills and
+iteratively improving them. At a high
+level, the process of creating a skill
+goes like this. Decide what you want the
+skill to do and roughly how it should do
+it. Write a draft of the skill, create a
+few test prompts, and run Claude with
+access to the skill on them. Help the
+user evaluate the results both on a
+quality level, but also on a
+quantitative level. Rewrite the skill
+based on feedback, repeat until you're
+satisfied, and expand the test and try
+again on a larger scale. And now it goes
+to the whole process to make the skill,
+which is much more efficient and even a
+higher quality rather than us making it
+manually. So, we're going to make a lead
+generation system skill, okay? And this
+lead generation system skill will start
+by
+the input,
+which is niche,
+location,
+and amount of results.
+And that will be me just giving it to
+Claude like on a chat basis, which is
+fine. And here we can use Apify
+Google Maps Scraper. By the way, if you
+don't know what Apify is, it's like the
+Amazon for scrapers, so you can go
+inside, you look at one scraper, which
+allows us to be able to go in Google
+Maps, extract the results based on what
+we [music] want. So, in this case, we
+want, let's say, roofing companies in
+North Carolina. It will scrape all of
+them, obviously within 100 results, and
+then it will go, actually filter
+leads by website exist,
+and then it will [music] go inside
+the website,
+and then it will
+give me a personalized
+icebreaker
+that I can
+use
+for LinkedIn. Okay?
+So, this is an automation, right?
+Something that you would build in n8n,
+we're going to build it here on Klacko.
+And we can simply call it every single
+time that we want. So, the first step
+I'm going to do is explain to Klacko
+roughly what I want, okay? So, I'm going
+to say this. Hey, so the task of today
+is to make a lead generation system. The
+first step is me giving you a niche that
+I want to target, the location of the
+niche, and the amount of results that I
+want. The second step is you have to go
+to Apify and use the Google Maps Scraper
+to be able to do this. Then when you get
+the list of leads, you have to filter by
+which leads have a website. The ones
+that don't have a website, just discard
+them. Then the ones who have a website,
+just go inside the website, scrape the
+website, and then finally, based on a
+personalized template that I'll give
+you, you have to make a personalized
+icebreaker that I can use to connect
+with people for [music] LinkedIn. The
+output will be a Google Sheet with
+company name,
+name,
+website, phone number,
+and it's fine if they don't have a phone
+number, and then icebreaker.
+Okay? That's it. Ask me any questions if
+you have any, and let's go from there.
+Okay. That's the prompt. Now, bear in
+mind, I didn't set up Apify. I didn't
+set up anything. So, we're starting from
+scratch, right? I'm going to go to plan
+mode so so we can plan things out.
+>> And as you can see, I didn't tell it to
+create the skill yet, because I'm going
+through everything step by step first,
+and then I tell it at the end, "Hey, now
+that you've done the whole thing step by
+step, you know what went right, you know
+what went wrong, just make the skill,
+okay?" I'm going to press go. So, how do
+you want to interact with the Google
+Maps API? Do you already have an API key
+or service set?
+>> I'm going to say Apify. How should the
+output Google Sheet be created? Google
+Sheets API? Let's say we do a CSV file
+to make things easier. Tech stack? What
+language framework do you want this
+built in? Python scripts. Yeah, I
+definitely do not want to be building in
+n8n workflow, or else that would not be
+the point of this video. Submit answers.
+And if you're wondering whether
+something like this would be built in an
+10 versus Cloud Code. I would definitely
+build this in Cloud Code cuz much easier
+as well and we don't have [music] to
+pretty much worry about much. Now it's
+asking me, do you already have an API
+key for Apify? So, I don't. So, I can
+actually go find it. apify.com. And by
+the way, if this is the first time that
+you hear about Apify, I would definitely
+recommend checking out this video up
+here which goes through the full
+tutorial on how it [music] works. I'm
+saying that because it is one of the
+most used softwares that I use when
+building automations. So, here I am on
+the dashboard. I can go down to
+settings. I can go to API and
+integration and I can copy my key. And
+by the way, you get $5 of free credits
+when you apply or when you actually get
+into Apify. I have $29 because that's
+what I paid for, but you have the free
+version which is $5. And if you're
+anything like me and you want to rinse
+the software, just make five different
+emails and then [music] go through them.
+So, for the LinkedIn Icebreaker
+template, do you want to provide it now
+or should I build the system first and
+you plug in later? Let me give it to
+now. So, instead of doing LinkedIn
+Icebreaker, what if we do this? Since
+we're going to get their their number as
+well, right? And by the way, you can
+filter by people who have a number like
+a phone number itself. I want you to
+find from the website. So, still do the
+exact same thing that I asked you to,
+but I want you to find from the website
+the value proposition of the business,
+what [music] makes them unique, and give
+me a case study of a client that they've
+helped if you can find [music] it. And
+this is part of testing working with
+Cloud Code and so on which is good. For
+scraping websites to personalize
+icebreakers, how deep should the
+scraping go? Homepage only, homepage and
+about, homepage and about services. I'll
+go homepage about services as well cuz I
+want to know pretty much everything
+about it. It'll be a bit more expensive,
+sure, but that's fine. I can submit
+answers and now we're going [music] to
+go ahead. Now it will remake the plan
+because I told it to change a specific
+thing about the process. [music] So, now
+it's saying that the input will be niche
+location, number of results, the Apify
+Google Maps Scraper to find businesses,
+filter to keep only leads with both a
+website and a phone number. Cool. Scrape
+each website, home, about, and services.
+Extract value proposition, what makes
+them unique, and case study of clients
+they've helped if findable. And output
+will be a CSV file. Great. Perfect.
+Okay, so now it's asking me as well for
+the Anthropic API key to analyze
+websites. So I can go to the console
+here, which is the Anthropic
+platform.apify.com.
+I can log in.
+I can go down to API keys. I can make a
+key, name it Claude
+Claude code.
+Copy the key
+and paste it here. By the way, the
+reason why I'm pasting it into others is
+because if I press yes, I have one, I
+then have to wait a minute where it will
+understand that I told it yes, I have
+one and it will ask me. So I just might
+as well just give it the API key itself.
+Okay, cool. The plan is ready. Here's a
+summary and it has everything here. So
+as you can see, we have the lead
+generation system implementation plan,
+context, pipeline review, files to
+create, implementation details, step one
+Google Maps scraping, step two is
+filter, website scraping, Claude API
+analysis,
+>> CSV output, error handling,
+dependencies, verification. Great,
+amazing. I can press yes, auto accept.
+And now I can go to bypass permissions
+and it will start building it up step by
+step.
+>> As you can see now it's starting to make
+different files. Right. And it's not
+creating a scale, it's just creating the
+actual file itself because we didn't
+tell it yet to create the scale. It said
+it created the files. Great. Want to run
+[music] the test? Yes, run the test with
+roofing companies
+and I don't know why I'm very adamant on
+roof- roofing companies in North
+Carolina. I've never been there in North
+Carolina and I want and I want 100
+results.
+Let's just go 50. Actually 40 [music] to
+make things faster. Actually let's do 30
+cuz I'm not trying to go all day. So,
+there we go. Run the test. Now it will
+start working on it. Okay, so now it's
+running the actual lead generation
+automation. If I go to Apify, I can see
+that it just scraped 34 results, right?
+It just scraped it. And now it's going
+to use those results to then go and
+scrape each website of those results,
+obviously assuming that they have the
+website and phone number. All right, so
+it just finished running. We have the
+leads.csv document, which is this one
+right here. I can actually command A,
+copy. I can go to a new Google Sheet
+right here. I can go here. I can paste
+this, and then I can go to data, [music]
+text to columns. There we go. And now we
+can have
+different things here. So, I can make
+[music] this bold, a little bit of
+formatting here and there. Make this
+white. Sorry, guys. I have to do this
+every single time. So, I also [music]
+can't work with Google Sheets. And now
+we have the company name, location, the
+website, and the phone number, value
+proposition. So, they do comprehensive
+roofing and gutter solutions with a
+family-owned approach that prioritizes
+customer satisfaction and personal
+attention. They offer financing options.
+Okay, cool. Unique differentiation. So,
+this company is led by John Davis with
+30 years plus of industry experience.
+[music]
+They maintain an A+ BBB rating and don't
+consider a job complete until the
+customers are 100% satisfied. Great.
+Now, as you can see, for case studies,
+interesting. Most of them didn't have
+case studies, which is fine. And so,
+this right here is just an extra thing
+that we can do. I'm going to leave it
+here, right? Cuz some of them do. So, we
+have a client testimonial from Tarun
+Mansing details on how Brian completed
+multiple home improvement projects
+inside a building. And so, the reason
+why I asked this is because let's say we
+cold-called in the business. We can see
+something like this. We can commend the
+business in having a case study, and we
+can reference the name of the person who
+gave the case study, right? Which is
+always good. Uh cuz personalization over
+anything is great. [music] And so, that
+right there is the list, right? That we
+have here, which is great. What I can do
+now is this. I can say, "Okay, great.
+Now, what I want you to do here is the
+whole process that I ran you through. I
+want you to create a skill." All right.
+So, now in terms of improvements, I want
+to do a few things. For example,
+location sometimes gets mixed up with
+company name. Website sometimes get
+mixed up with the location. Phone
+number, and this is pretty much all
+shifted for no reason. [music] So, I can
+go here and I can say, "There was one
+problem." Like, for example, Guardian
+Roofing of North Carolina, the location
+is LLC. The website and then the value
+proposition is a phone number, and so
+on, right? And so, we are shifting
+everything [music] by one. So, I want to
+make sure that when you give me the CSV,
+you check that all the columns that we
+have are clearly placed, right? There
+are a lot of them that don't have a
+location, which is fine. So, we can
+leave it there, and you put things in
+the right place. But, there are some of
+them as well that have different things
+in different places. So, I want you to
+fix that and then give it back to me.
+And this is part of iterating the actual
+skill itself. All right, so now it told
+us that it updated the leads.csv. I can
+go here, I can copy this, and go back. I
+can make a new sheet, and I can paste it
+here, and I can go to data,
+split text to columns, and as you can
+see here, now it fixed the area that we
+had before,
+which is perfect. There we go. Now, with
+all this said, we can go to the next
+step and actually create this skill that
+we need. I'm in a new tab, and I can
+say, "Okay, now that you generated the
+lead generation kind of workflow, I want
+you to create a skill so that when I
+call the skill, it basically runs
+through the whole process that we just
+went through. Okay? So, let me know if
+you have any questions, but create a
+skill called lead generation system, and
+then um add it in the in the folder
+itself." I can press go. I can put plan
+mode. But, essentially now it will use
+the skill of skill creator to then be
+able to create the skill. Okay, so now I
+can press yes, and then I can go from
+plan mode to back permissions. All
+right, [music] so now it finished
+creating the skill. I can go here to
+lead generation system, and I can see
+that I have a document called skill.md,
+and this contains [music] the full
+instruction manual for that specific
+skill. So, lead generation system,
+description, instructions, and we go on
+and on. The only thing they didn't do is
+that it didn't make a folder here called
+script and references, [music] because
+this right here and this right here,
+they're both references, even this, and
+then this right here is a script. So,
+what I can say to here is, "Inside the
+skill folder for the lead generation
+system, can you also add a references
+and scripts folder to store the
+appropriate files? So, the lead
+generation.py needs to be in a scripts
+folder,
+um and then the rest as well, like based
+on what you know and obviously your
+definition of scripts and references,
+just include the files there to make
+things organized." And I can press go.
+As you can see now, it just made two
+different folders, references and
+scripts. And inside scripts, we can see
+that we have the lead generation.py, and
+then inside references, we can see that
+it have env, requirements.txt, and
+sample output.csv, which which One thing
+I want to do though is I want to delete
+these ones. [music] So, I can say,
+"Okay, now that you added those inside
+the references and scripts folders, can
+you delete the other ones that we're not
+going to use?" As you can see, it
+deleted both of them and it's also
+asking me, "Hey, do you also want to
+delete the .env and leads.csv [music]
+in the output files?" Yes, delete them.
+There we go. So, now we have a
+references folder, we have a scripts
+folder with the automation, in this case
+the Python file, which doesn't make any
+sense to anyone here. It's just a file
+that runs the automation, right? Because
+behind every automation in n8n make.com
+it's all Python. It's also all JSON.
+Because as you may know, all the
+platforms in n8n or make.com behind the
+automations, it's all code. And so, this
+is the code itself that runs the actual
+system. And as you can see, we start to
+add more and more skills with more and
+more folders. Now, there's one more
+thing that I want to do and it's this,
+which has to do with commands. Now, I
+have a skill called lead generation
+system. I want to create a command so
+that I can put like {slash} lead
+generation and then it calls that
+specific skill automatically. Can you
+make that command? I can go bypass
+permissions and I should be able to see
+a command being made here. All right, so
+now I finished making the command. As
+you can see, we have the lead
+generation.md here. So, if I go to a new
+chat, I can press {slash} lead
+generation
+and then that will activate the lead
+>> system we have in the skills itself.
+There we go. And now it's going to ask
+me, "Hey, what niche do I want,
+location, number of leads, and output
+file?" I was going to say roofing
+companies again. Med spas and London.
+And I want to find 30 and I want
+to name the file
+med spa
+London
+30.
+Boom.
+>> And I can go to bypass permissions.
+Okay? So, that right there is the full
+process of creating a skill step-by-step
+and actually testing it and making a
+command so that whenever I go to clock
+code, I can simply just press {slash}
+the skill name and it will automatically
+call the skill itself. All right, as you
+can see here, we have the result, med
+spas in London. I can make a new sheet
+data
+and then we have the full list right
+here.
+And we just call this simply by pressing
+slash command of that specific skill. So
+now you know exactly how to build your
+own Clockwork skills. But what if I told
+you that your Clockwork skills could
+actually improve themselves 24/7
+overnight without you having to do
+anything. This is where we get to
+self-improving skills. Like we saw
+earlier, the first way of actually
+self-improving your own Clockwork skills
+is to do it manually. So we gave it the
+first basic version, it made this right
+here. Then we said, "Okay, this right
+here is a bit messed up. This right here
+is a bit messed up as well. Can we
+change this?" And then it came and did
+this as well. And so what it did is it
+made it better. It improved itself. And
+this is great because it allows us to
+make a near-perfect score or the output
+for our specific skills. But if you want
+to take your skills to the next level
+and actually measure how much it
+improved by, well, this is where we get
+to the skill evaluation. So the first
+step of skill evaluation is making sure
+that you have the skill creator
+installed. So you need to have this
+installed. And this isn't something that
+we spoke about in one of the first
+steps. Then once we have the skill
+involved, we then have to tell Claude to
+evaluate our skill. And so here I can
+say, "Create an eval for my lead
+generation system skill." I'm just going
+to do the YouTube title generation just
+to keep it more simple. So for my
+YouTube YouTube title generation skill,
+I can press go. Make sure it's bypass
+permissions. As you can see here, it
+created two eval files. One is eval.json
+and one is trigger.eval.json. Basically,
+the whole point of evals is to [music]
+make our skills self-improving and to
+make the skills itself improve
+themselves over time. The first thing it
+made is three test [music] use cases. So
+if I go here to the skill itself, it
+made a folder called evals and we have
+two. So the first thing is test cases.
+So it uses specific inputs to run the
+skill. So let's say we're using the
+prompt of Clockwork beginner video. What
+it tests is framework usage, character
+limit, curiosity variety. Then it uses
+VS Code versus Cursor versus Winthrop
+comparison. So basically, these are
+three video ideas and this is what it
+tests for, right? And each eval has five
+to six expectations checking. Exact
+count, 10 titles, character limit, 60,
+framework adherence, topic relevance,
+curiosity engagement, and variety.
+Whilst on this side, we have 20 trigger
+tests. 10 should be triggered, 10 should
+not. Should trigger is give me YouTube
+title ideas, brainstorm video titles,
+help me name my video, etc. Should not
+trigger is writing scripts about
+YouTube, video script, thumbnails, SEO
+analysis, blog titles, channel growth
+advice, adjacent but distant tasks. And
+so now what it will do is it will test
+[music] the actual skill based on this
+criteria and it improves if it finds
+that this output isn't good enough. So
+it will test all the three use cases and
+it [music] will test all these 20
+triggers. With this said, I can now say
+run the eval for my YouTube title
+generation skill and I can go press run.
+What this will do now is it will go and
+run this two and then give us a kind of
+a report. All right, perfect. Now it's
+finished with the evaluation. It's
+telling us that with the skill it did
+100% correct, without the skill 33%.
+With the skill 100% and then average
+will be 50% here and average will be
+100% here. And it also gave us a full
+document here with the prompt with the
+skill, the outputs that we got, formal
+grades, so six out of six passed, zero
+failed, which is perfect. Then we also
+have the benchmark comparison here,
+which gives us all the data of what the
+output looks like with the skill, what
+the output looks like without the skill,
+okay? And so here we have the pass rate
+with the skill, without the skill.
+Obviously here we have with the skill
+100%, without the skill 50% plus minus
+17. So as you can see, with the skill
+it's a perfect score of 100. And so what
+it did here is that it evaluated 123 so
+that we have the clock code beginner,
+which is the first topic that it used,
+the first task use case. With the skill,
+without the skill, you can see all the
+numbers here. Assertion, so all the
+different things that we needed inside
+that specific uh title. With the skill
+it got everything right, without the
+skill only two. And it did that for all
+the three topics. So topic number one,
+topic number two, and topic number
+three. And then we have the analysis
+notes. So with the skill achieves 100%
+pass rate across all three evals [music]
+versus a 50% average without the skill.
+The biggest skill advantage is in the
+formal compliance, exact count [music]
+10 titles and character limit, baseline
+consistency overproduced and exceeds
+length limits. And so all this is doing
+is it is testing three different use
+cases for our skill and it's telling us,
+"Hey, out of 10 times that we run this,
+how many times fail? How close is it to
+the desired output that we asked it to
+do?" And so you can always have this
+evaluation for every single skill that
+you do, we'll be able to test it. Now of
+course, YouTube channel generation is a
+very easy system, but if we were to do
+something with the lead generation
+system, it would work really well just
+because there's a lot of moving
+components in the actual skill itself.
+And so at this point, you can tell it to
+improve the skill, run the eval again,
+and see the numbers and how it's
+improved. And so at this point now, we
+have 100% accuracy, right? But let's say
+we had 80%. So what we would do in this
+case, even in case it has 80% or
+anywhere less than 100, I can tell it,
+"Hey, it's missing X, Y, and Z. Can you
+improve the skill?" And that improve the
+skill, it tells you, "Hey, it's done."
+And then we ask it to give us the
+evaluation again. And this is a whole
+repetitive loop that it does to make
+sure that these skills are
+self-improving. I'm going to leave all
+the resources of this video down in the
+second link down below, my free school
+community. You can go to the classroom
+section, and you can go to the templates
+vault. So there right there is a full
+masterclass where I took you from a
+complete beginner to an advanced user of
+using Claude code skills. And if you're
+someone who wants to take all these
+technical skills and turn them into a
+real business, then check out the first
+link down below where you can work with
+me one-to-one to help you start and
+scale your own AI agency within 90 days.
+[music] And if you like this video, then
+check out this video on the screen where
+I show you how I would relearn Claude
+code starting over in 2026. With that
+being said, I really hope you found
+value from this video, and I'll see you
+[music] in the next one.

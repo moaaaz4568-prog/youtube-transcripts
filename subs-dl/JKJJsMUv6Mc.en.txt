@@ -1,0 +1,1078 @@
+I'm a 21-year-old freelance video editor
+and I get paid per project, meaning the
+faster that I edit, I literally make
+more. So, in this video, I'm going to
+share how I edit 10 times faster without
+sacrificing quality for my clients. So,
+I originally made this workflow back in
+2022, and it was when I had my first 10K
+month. I was working with a channel.
+They had around 20 million subscribers
+at the time. They got about 40 million
+after I worked with them. and they were
+expecting editors to get two videos done
+per week. I managed to get six to 10
+videos done per week because of my
+workflow and the automations that I set
+up. So, welcome to the video editing
+SOP. By the way, this is the same one
+that I give to editors that I train,
+whether it be on my team, whether it be
+under the clients that I'm hoping or
+just within the coaching program.
+Basically, get them to follow this for
+every single YouTube video. Step one of
+this editing workflow is we need to
+download the footage. Duh. But we're
+also going to scrub through so that
+nothing catches you off guard later.
+There is nothing worse than you color
+grading a piece of footage and then
+midway through editing you realize the
+sun is slowly rising or setting and now
+the color grade doesn't make sense and
+you got to do this weird thing where you
+key frame the color. So that can happen
+but if you just quickly give it a scrub,
+you'll realize it beforehand. Or let's
+say the format of the recording changes.
+It goes from landscape to horizontal for
+some reason. Catching that beforehand
+allows you to set up the project
+properly. So, I always tell people,
+check the footage. Just quickly spend 30
+seconds reading through it or watching
+through it, sorry. Next, we're going to
+create a project file within Premiere
+Pro, whatever. And we're going to call
+it the ID of the project and then the
+title of the project. I always use this
+naming convention where if you have a
+project tracker on something like notion
+or if you're on a larger team, for
+example, when I had that huge channel,
+they were pumping out like 10 20 uploads
+a day. So, we had to use IDs like, oh,
+project 312, project 380, things like
+that. Like right now, this video that
+I'm recording within my YouTube
+workflow, we have an ID for this video.
+So, the editor is going to be using the
+ID. And then we put the title as well.
+That way, we can on a quick glance know
+what that video was about. The reason we
+use IDs is because sometimes the title
+of a video can change. For example, the
+title of this video you could read on
+YouTube. It was probably different to
+what we named that video on the back end
+when we were scripting it or coming up
+with the idea. Having the video ID make
+sure that no matter who's looking at the
+video has it consistently named in the
+same way. The next step once you've
+created the project file is we're going
+to import all the footage and the audio
+into a timeline. Set the correct
+sequence settings and rename the
+sequence to ID assembly. Now there are
+three parts to that. So, let me go
+through them one at a time. First of
+all, I'm just going to draw up Premier
+Pro because I can't be bothered bringing
+it up. Let's say this is your bin. So,
+essentially all your files. This is your
+timeline. This is your preview. So, I'm
+just going to put a video sign here.
+You're going to take all your audio and
+video files from here. And bring them
+into your timeline now before you've
+actually edited any of it. This is
+especially important if you have
+multi-cam footage or just a ton of
+different video clips and audio. We want
+to have full context of everything
+before we start working on it. So, we're
+going to put the main piece of footage
+first, set the sequence settings based
+on that main piece of footage, and then
+add all the pieces of audio and sync as
+necessary. We're also going to rename
+the sequence that's automatically
+created to the ID and then assembly. The
+reason we do this, in fact, you'll find
+that out in a later step, but it's
+important we rename the sequence that
+was created to the project ID and then
+assembly.
+Just like that. Because what we're going
+to do is assemble the project by syncing
+all the footage and audio perfectly. It
+is worth spending the five, 10, 15,
+sometimes 20, 30 minutes just syncing
+everything correctly, especially if
+you've got a lot of pieces of footage
+because the hardest thing to do is fix
+unsynced footage, even by a frame or
+two, after you've ended up cutting it. I
+did it one time where I synced all the
+footage or so I thought I cut up the
+video and because it was a reaction
+video with multiple layers. It was
+really hard to fix when I found out I
+didn't sync the audio correctly. So
+that's why I wrote it out in this
+workflow. I check it every time. Next,
+you want to center the footage through a
+transform effect in the source effect.
+So what you'll realize is inside your
+effect controls, you have two types of
+effects. You have the clip effect which
+everyone is used to. When you drag it on
+the clip, it goes to your clip effects.
+But a little unknown trick is to click
+source effects in the effects tab. Now,
+what this does is if you click on it, by
+the way, in Premiere Pro, it'll be
+completely blank because it looks like
+it's it's a buggy buggy part of your UI.
+But what actually happens is if you drag
+in a transform effect into that source
+section, the transform effect applies
+not just to that clip, but anywhere
+where that clip occurs. For example,
+let's say on your timeline, you have
+footage that is cut up like this. If you
+just add a transformed transformer onto
+this clip, the transform will apply to
+this clip. But if we click on this clip
+and then we go to the source effects,
+what ends up happening is by adding it
+to this one clip, it adds it to all of
+these clips automatically. And the best
+part about this is let's say you realize
+that wait, this this clip wasn't
+centered properly. You can just change
+one of the transforms and it would apply
+it to all of them. So I always center my
+footage through the source effects, not
+clip effects. Next, I'm going to do a
+very basic color correction just to
+color correct the skin tones. So for
+example, sometimes some cameras make
+people's skin look too yellowish.
+Sometimes it looks too reddish.
+Sometimes it looks a bit green tinted,
+magenta tinted, etc. We just want to
+color correct so it hits that um the
+skin tones. Something interesting that I
+actually never knew until I learned
+color correction. Whether you're black,
+whether you're white, whether you're
+Asian, whether you're whatever race, we
+actually all have the same skin, like
+base color, the same hue. The only
+difference is basically how bright it is
+within that color. This sounds obvious,
+like, oh, it's a difference in
+brightness, but it's like when you look
+at two different people of different
+races, it looks like a different color,
+but technically it's not. So you'll see
+in like your lummetry scopes like these
+will be all the colors. What you'll
+realize is everyone's skin tone lays
+across the same line because the only
+difference is through the color. So
+let's say the skin tones in your video
+right now are like here. No matter what
+their race is, you basically need to
+bring it and just slightly curve it so
+that it matches this line. Essentially
+like that. I accidentally moved one of
+those little lines. But what you're
+going to do is color correct just to
+bring it onto line with that. that
+wasn't supposed to move. You get the
+point. So that way you know you've got
+your skin tones correct. And then some
+simple things like color temperature,
+making sure your exposure, your
+highlights, your shadows, your whites,
+your blacks, etc. are color corrected
+properly. That I want to get done first
+time round. And once again, I am doing
+that on the source effects, not the clip
+effects. Because what that means is I'm
+going to be able to change it on one
+clip and it'll automatically be be done
+for the rest. Something in fact before
+we move on, something important. Right
+now we are correcting the color, not
+grading.
+Correction is when you bring the footage
+to its normal state. Grading is when you
+change the color for a specific effect
+or emotion. For example, you correcting
+the footage is making sure that it's not
+too warm, it's not too um too cool as in
+the Kelvin value, and you're making sure
+that just in general like it looks like
+it was taken in normal normal
+circumstances. The grading is where you
+specifically decide, oh, I'd like it to
+have a orange and teal vibe. I want it
+to have like a warm vibe. I want it to
+look like kind of misty. Like that's
+where the grading comes in. But it's
+important you correct first. And grading
+comes right at the end of the workflow.
+Next, we want to adjust the gain and use
+a compressor to set the audio so it
+peaks around minus 3 to minus 6. What
+you'll realize is there's a lot of steps
+of just fixing the footage because these
+things can make or break your video and
+it's how you can tell a good editor from
+a great one. It's how well do they do
+this? And if you want to get faster at
+editing, a lot of the times the best way
+to get faster is just make sure you
+don't do stupid mistakes that future you
+has to spend 30 minutes solving. This is
+how we get around that. It's sort of
+like editing revisions. By you checking
+a video, it might take you an hour, but
+by you leaving in a mistake, you think
+you've saved five minutes, but in
+reality, you've cost yourself an entire
+day cuz you had to block that day out
+for revisions, and now the video took a
+whole day longer. It's like an hour of
+check saves a day of revisions. In the
+same way, an hour of assembling the
+project saves hours, probably like days
+of fixing mistakes down the line. So,
+with audio, all I'm trying to do is
+adjust the gain. So, it's between minus
+3 and - 6 on my audio levels. So you'll
+see like 6 minus 3. And you want when
+the loudest parts of the audio are
+happening, you want them around this
+stage. Now, the reason I mentioned
+compressor is some people's audio will
+have the low parts way too low and the
+high parts way too high and it changes
+way too much, which can mean for the
+viewer it feels kind of ear vapy. Like
+they set it at a certain volume and
+sometimes it's blasting their ears and
+sometimes they feel like they need to
+put the volume higher. So you never want
+that. And what a compressor does, it
+literally compresses those sections
+together. So instead of it being like
+this and this, it would kind of even
+them out like this and this. That way a
+viewer can have it at this audio and it
+sounds fine compared to them having to
+set it here and now this one's too loud.
+But if they set it here, now their
+volume's too quiet. So in order for the
+viewer experience to be as good as
+possible, we use a compressor to get the
+dynamic range of the audio in a nicer
+range. Next, we're going to set a hard
+limiter for our audio at minus 1 dB. A
+lot of people say to do it at zero. I
+found that when you set it to zero, by
+the time that the audio is peaking, so
+you know when if you've ever seen like
+those ear vape compilations or those ear
+vaped memes where it just puts it so
+loud that it actually like maxes out the
+audio level meter, that's called um
+peing essentially. And a hard limiter
+where you set in your audio track. What
+this does is it makes sure if there ever
+is a time where it hits zero or minus
+one, it'll automatically just bring that
+part of the audio down. So, this
+presents prevents air vape. Next, once
+I've got the audio leveled out just like
+this, I want to use audio enhancers.
+Unless the creator has a really good mic
+and they have a amazing um recording
+situation, there's going to be times
+that you need to fix the audio. This
+isn't sound effects, it's just fixing
+the audio. Some of the common ones that
+I like are, as mentioned there, D noise,
+dreverb, DSer, and parametric equalizer.
+I'll walk through quickly what these do.
+I'm not going to go super in-depth, but
+D noiseis, if you ever hear like a
+subtle
+either because of electronic equipment
+or like a constant train going by, which
+I don't think I've ever seen a train
+with infinite length, but you have like
+a constant like noise, then you can take
+that out. It's a balance between having
+it high enough to remove the noise, but
+having it small enough so that it
+doesn't impact the actual audio. So,
+there's no specific number here. It
+depends on the audio. DV is, especially
+if you have like a loud echoey room, DV
+can help. Once again, you want it at a
+high enough percentage to remove the
+echo, but low enough that it doesn't
+hurt the actual recording as much. It's
+always a balance. DS is where those
+hissing sounds like
+those can be really harsh in the
+viewer's ears. And it's a specific
+frequency that these S sounds happen. So
+what a DSER does is it reduces the
+volume just for that specific frequency.
+So it still sounds normal but it's less
+harsh on the ears. So that's what the
+does. A parametric equalizer. It's a
+little too complex for the scope of this
+video. But what it can do is it can turn
+a bad mic not to sound great but a lot
+damn better. So it can make the voices
+sound a lot richer. Especially if it
+sounds a bit tiny or thin. It can make
+it sound richer. So, I like to fix the
+audio like this first because once
+again, it's going to be a lot easier
+than trying to fix audio once you've
+already done the cut. Now, by this
+point, we've actually fully assembled
+the video. But before you go and cut, I
+want you to duplicate the sequence, and
+you're going to rename it to the ID of
+the project main. This is a workflow
+that I call the assembly workflow. And
+it was while I was not an internship,
+but it was at a like a workshop at a
+creative agency that I learned this
+trick at. So I'm around 17 years old and
+this creative agency, they're doing this
+event where young creators, they go in
+and they can just learn. I was pretty
+young at the time. And there was this
+head editor who was sitting at his PC
+and he was essentially showing a big
+project that he did for like a really
+big um company. I think it was channel
+4. So, in the UK, it's a big big client
+for them. Now, this guy had so much
+footage. I think it was like 50 or 60
+hours, something ridiculous like that.
+And they had to bring it down to a 20
+minute episode. Now, here's the thing.
+My editor brain, because I was already
+working with clients at the time, is
+thinking, if you accidentally delete a
+piece of footage, how in the world do
+you bring it back? Like, that must be
+the scariest feeling in the world. Like,
+dude, I've deleted that footage after
+sift through 40 hours of footage. Now,
+to be clear, there's now AI tools and AI
+workflows that can fix that problem, but
+this is still a best practice. What he
+has is a separate sequence that he has
+that he hasn't touched. That is just
+like all the usable footage. Now, what
+that looks like is it's not the full 40
+hours. It's not the 20 minutes, but I
+believe it was around like 6 hours of
+all the usable footage that they could
+ever use. So, there's all the random
+takes, the bad takes taken out, all the
+silences, all the bits with his behind
+the scenes. cuz he just took those out
+and he has that as a separate sequence
+because if he needed he can now find
+that a lot easier. Now, the best part is
+because me and you, we're working on
+social media content, YouTube videos,
+real things, that sort of content. For
+us, we might have realistically like an
+hour footage. Some videos like Il
+videos, you might have 10, 20, 30, which
+it applies more to, but in general, a
+lot of clients you can get for like 30
+minutes, an hour, 2 hours of footage.
+So, let's just say 1 hour footage. The
+usable footage might be, let's say, 20
+minutes. Now the thing is once you've
+gotten it down at each of these stages I
+want to have essentially like an archive
+if I ever want to go back. For example,
+we've assembled the project so far. So
+we've got the audio all right. We've
+made sure all this footage is synced. I
+don't want to lose that by cutting into
+the video. So what I'm going to do is
+I'm going to duplicate the sequence.
+Keep the old one called ID assembly.
+Obviously that being the number but the
+second one which is going to be the
+carbon copy because we literally copy
+and pasted it. I'm just going to call it
+ID main. And that is going to be the
+main place that we're working on the
+video. So, we're going to be doing our
+cuts. And you can do this stage again
+with I call it final, but it's not
+technically the final cuz I'll do like
+V2, V3 as well for revisions. What this
+is going to do is like this is going to
+be the cut version. This was obviously
+the assembled uncut. This would be like
+basically the final video like all the
+VFX, sound effects, music, etc. This is
+going to be like a duplication of this
+after me doing the revisions because I
+always want to keep the OG version just
+in case I need to go back. But what this
+assembly workflow does is you never lose
+progress which could be really scary and
+waste a lot of time. So that is why we
+assemble it, get it ready to cut, then
+duplicate and rename. Next, we're going
+to go through the rough cut stage. So I
+cut in three stages because it's the
+most effective that I found for time,
+quality of the cut, and storytelling. So
+the first stage of cutting is going to
+be the rough cut. The rough cut is where
+we simply remove all the silences and we
+cut the easy to spot mistakes. The
+fastest way to do the rough cut is by
+doing something that I call cutting to
+the waveform. The waveform is that
+squiggly line that is so iconic with
+audio. Cutting to the waveform means
+instead of you listening through every
+part of the video, you just kind of
+scrub through quickly without even
+watching it and just instantly identify
+where the silent sections are, cut those
+out. And if you notice something like,
+for example, if we have a waveform like
+this, we can easily tell, okay, this is
+silent. We can cut that out. These
+three, they look very similar. And if I
+just play it for like half a second
+here, play it for half a second here, I
+now can tell these three are repeat
+takes. I can cut those out. This one's
+longer, so this is probably the main
+take. So within about 1 second, I can
+take all of this 30 seconds of footage
+out without actually needing to listen
+to it. So do you see how cutting to the
+waveform, if you've got like an hourong
+footage, you can literally cut an
+hourong footage down in about 10 minutes
+in terms of doing the actual rough cut
+by cutting to the waveform. the second
+stage. So, now we've cut out all the
+silences and easy to spot mistakes is
+we're going to move on to the fine cut.
+The fine cut is getting pretty damn
+close to how the final cut is going to
+look. When we're doing our fine cut,
+sorry, our rough cut. What you'll
+realize is there might be multiple takes
+of this exact same thing. Now, this
+doesn't mean we're leaving mistakes in,
+but it means that maybe the creator said
+the same thing twice or said a similar
+thing that serves the same purpose. For
+example, let's say I'm going to the
+shops and we're leaving for the shops.
+Now, these two aren't the exact same
+line. So, you could keep them both in,
+but realistically from a storytelling
+perspective, you're going to want to get
+rid of one of them. So, the fine cut is
+where you decide which unnecessary lines
+you're going to keep out or keep in
+depending on how you want to structure
+the video and what pacing you want.
+You're also going to be start deciding
+on the timings for the cuts. So when I
+say timings, I mean like how many frames
+of pauses do you actually keep between
+this clip and this clip. Now here we
+don't want to worry too much about
+anything crazy creative like J cuts,
+things like that. But all we want to do
+is decide which clips stay in, which
+clips stay out. There may also be
+sections here where let's say you have a
+few clips here. you realize that wait if
+I place this section here and then this
+section here it's actually funnier or it
+makes more sense or it's more engaging
+or the tension is held for longer and
+therefore this clip becomes funnier. All
+of these creative and storytelling
+decisions you can make during the fine
+cutting stage as well. So fine cutting
+put simply remove unnecessary takes
+restructure in order to maximize the the
+efficacy of your storytelling and just
+start deciding on your timings for the
+cut. So, are you going to remove a few
+frames of pause here? Are you going to
+add a few frames of pause there, etc.?
+By the end of the fine cut, you should
+feel relatively happy about how the
+entire video plays out. The next and
+final stage of the cutting is, surprise,
+surprise, the final cut. And by the way,
+this technically doesn't say final cut.
+Is more like a quick trick that I tell
+every editor to do. While you're going
+through your fine cut, you're often
+times going to be actually watching
+through the footage at this stage. So,
+what you can do is just add markers as
+you're cutting. So, let's say here you
+have a creative idea to add a dinosaur
+in the background. Just quickly add a
+marker and click M again. And what M
+clicking M again will do is actually
+allow you to add a note to the marker
+and you can just add a quick note for
+yourself that will remind you for the
+idea later like add dinosaur. The reason
+this is so useful is oftent times your
+best ideas will come when you don't need
+them. So just note them down. That way
+when you're coming to your creative or
+more visual stages, you don't have to
+think of new ideas. You can just quickly
+implement the easy to implement ones
+which you've already thought of. And
+then if you need more to add in later,
+then you can start thinking of what
+ideas to add in. Now we're on to the
+final cut. And this is where we finalize
+the exact timings for every cut. So by
+this stage, the video should be ready to
+upload. as in not that it's good, but
+like it's a viewable video where all the
+lines make sense, the timings are
+decent, etc. The final cut is basically
+just watching back in normal speed,
+making sure that all the clip timings
+sound good. If there's an emotional
+section where, let's say, someone's
+saying a joke, and right before the joke
+punch line is given, you want to add a
+bit more pause just to create a bit of
+curiosity, a bit of suspense. You might
+notice that, realize you cut it too
+short, and just add a little bit more
+pause over here. It's going through and
+just fine-tuning those timings. This is
+going to be a checking stage. We
+mentioned it a little bit, but what you
+want to do is watch through the entire
+video in what I call viewer mode. Me and
+you are video editors. So, what will
+happen is because we've watched the
+video so many times, even if the video
+is a bit confusing, we'll still
+understand it. For example, if there's a
+line here and here, and there's a few
+more sections here, you might have cut
+it in a way where sections one and two
+don't actually make sense together. But
+if you had the context from clip 4, then
+it does make sense because you as an
+editor know what happened in clip four
+and you your brain already has that
+context in mind. You don't recognize the
+problem with how clip one transitions to
+clip two from a story perspective. But
+if you watch the video from the
+beginning and you literally just sit
+from the beginning and you remove
+everything you've remembered about the
+video and you literally just watch it
+normal speed, you're not allowed to fast
+forward, you're not allowed to go back,
+you're not allowed to pause it, nothing.
+Just watch it and wait for the times
+that you either feel confused or
+overwhelmed. Because if you as the
+editor feel those negative emotions,
+guess what? The viewer is going to feel
+that. But 10 times worse. Which is why
+we watch it one time from start to
+finish. And if there's any time you're
+confused and you had to click the video
+back, realize that you got to fix that
+clip. Because while you have the luxury
+of just going back in the video, viewers
+don't often go back in the video when
+they're confused. They just click off.
+And that kills retention, which is why
+we check the video in viewer mode, so at
+normal speed, and we just make sure the
+video is good enough to be posted as is.
+It should be a fully perfectly
+understandable video. Next, I'm
+typically going to edit the intro at
+this stage. I used to edit the intro
+right at the end, but now because of
+this cutting process that I have, I
+found I have enough context to edit the
+the intro as well as possible. I'm
+typically going to put a substantially
+greater effort into the intro because
+this intro is basically going to drive
+my entire career. If you think about
+what grows you as an editor, it's going
+to be the previews that you can post. So
+when you cut up a video, you post it
+online on socials, it's going to be the
+video that you put on your portfolio,
+and just all in all, it's going to be
+the proof that you can show future
+clients that, hey, look how [ __ ] sick
+I am. Now, the thing is, when people
+think of a good editor and they're
+seeing a piece of your work, they're not
+thinking about the animation at 8
+minutes and 23 seconds. Sorry, 8 minutes
+30 seconds. They're not thinking about
+it. They're think they're just looking
+at your intro and basing your entire
+credibility and skills based on that
+intro. If you watch a client go through
+your portfolio, you would be surprised,
+somewhat concerned at how little of it
+they actually look at. In fact, they
+just probably watch two, three seconds
+of each video on your portfolio. So,
+it's so important when we're editing
+videos, we focus on the intro to
+optimize for two things. First of all,
+yes, the actual viewers experience and
+making sure the video is just
+objectively good. Like, don't ruin the
+video by adding stupid effects when they
+shouldn't be there. but also making sure
+that you've actually got it up to your
+standards in a way where you would be
+proud to actually put that on your
+portfolio because that's where it's
+going to be. Next, this is more specific
+for educational creators, but often
+times they'll have like a lower third.
+If you don't know what this is, a lower
+third is actually this is a screen. It's
+something that literally goes in the
+lower third. It might be there, it might
+be here, might be like this, but it's
+put in the lower third of the screen.
+For example, a lot of my videos, we have
+like a lower third, which just shows
+some of the clients that I've worked
+with. Alex Hozi, an entrepreneur. He
+does about 250 million plus a year in
+terms of dollars. He does this as a best
+practice as well. It just says the
+companies he's owned, his name, how much
+he makes, etc. So, a lower third can be
+really useful if you're working with
+someone that wants to show proof. Not as
+important for educ for entertainment
+creators, to be honest. Next, I'm going
+to be adding zooms throughout the video.
+I like to do zooms all in one go where
+essentially I'm just going to do little
+zooms to keep the video engaging. If
+it's more of a faster paced slash less
+mature audience, I'm going to be more
+exaggerated with my zooms. So I might
+literally be zooming from let's say 100
+is the base. I might be zooming all the
+way up to like 110, maybe even 115
+from a single zoom. But what you'll
+realize, especially if you edit for more
+mature audiences, this can seem silly,
+exaggerated, just kidish. So in those
+cases, I might be bouncing between 100,
+maybe 103, maybe like 105. 110 is like
+for something that's got to really be
+exaggerated. That's when I'm doing 110.
+Now, the points at which you want to
+zoom, let's say this is an audio
+waveform. Quick tip for zooms, you want
+to do the zooms when the most important
+word in a sentence is said. And also you
+want to match the cut of the zoom with
+the peak in the waveform. For example,
+let's say this is the most important
+word in the sentence. You're going to
+zoom on this word, but you're not going
+to zoom just randomly on the word.
+You're going to zoom at the peak. So not
+when the word starts, not near the
+middle, not at the end, but on the peak.
+It's going to make your zooms hit so
+much harder. So I'm adding the zooms
+throughout the entire video. Next,
+adding b-roll animations throughout the
+video. This is probably where the
+majority of your time is going to go. If
+you're doing more animationheavy videos,
+that's completely fine. Add sound
+effects throughout the video while
+leveling them. So, sound effects. I'm
+typically going to be doing them in
+three stages. You've got whooshes where
+on every single movement I'll do a
+whoosh. Not going to go too deep in
+this, but I will. In the leveling
+section, you want to have functional,
+which just means if this was happening
+in real life, what sound would it make?
+If there's a fire on screen, you should
+probably put a fire sound effect. If you
+have a light that's being shown, like a
+light bulb, you should probably put like
+a flickering light bulb sound effect or
+maybe like a electric hiss, like you
+know that small like hissing sound, like
+a 50 Hz sound. That might work quite
+well with the bulb being on screen. So,
+those are functional sounds. And
+finally, you have unique sound effects.
+These are sounds that don't really make
+sense when you think about what the
+sound effect is, but they just for some
+reason work in the video. I'll give you
+an example. I was editing a video once.
+It was more like a ambitious vibe
+emotion being trying to be put across
+and there was some text on the screen
+and I was just literally sliding this
+text on screen like wiping it. So
+imagine there's no text on screen. You
+wipe this across and the text comes on.
+I put an eagle hawk sound effect here.
+Now, the thing is that makes zero sense
+in this context, but because of the
+emotion that was coming across and the
+movement was sort of like flying across,
+I was like, "Fuck, what if it works?"
+So, I tried it, used some audio
+modulators on it, and it worked. So, I'm
+like, "Damn." Another example, this
+wasn't my edit, but someone else's. They
+were doing like a PS5 versus Xbox scene,
+and you had both consoles here, and it
+kind of looked like two things fighting.
+So the guy put a boxing ring or I think
+it's called like a boxing bell, you
+know, like the ding ding ding. He put
+that sound where it doesn't really make
+sense because it's not a boxing ring,
+but it kind of works, you know? And this
+is how you come up with these more
+realistic, more deeper and richer sound
+design where it actually feels like
+you're part of the video. Now, when it
+comes to leveling, very simple rule with
+audio on sound effects with volume, you
+want the sound effects to be quiet
+enough where if you're not focusing on
+it, you cannot hear it. But you want it
+to be loud enough where if you are
+focusing on it, you can hear it. So, if
+I'm trying to listen to your sound
+effects and I can't I'm finding it hard
+to hear, like I'm actively trying to
+hear it and I can't hear it, then it's
+way too quiet. But if I'm like trying to
+ignore it and I'm just trying to watch
+the video and it's like there's a random
+[ __ ] whoosh that comes out of nowhere
+and it's it's like distracting, that
+one's too loud. So you want it quiet
+enough that when you're not focusing on
+the sound effects, you can't hear it.
+You can barely hear it. And it's loud
+enough where if you're actively focusing
+in it, you can actually hear it and it's
+pretty clear. That's sort of sweet spot
+when it comes to sound effects volume.
+Another thing is relative sound effects
+volume. This is more important where
+let's say you've got two movements like
+movement one and movement two in your
+key frames and you're adding a sound
+effect for one and two. How loud these
+sound effects are relative to each other
+is extremely important. For example, if
+both the movements are the same in terms
+of how impactful they are and the sound
+effect should be roughly the same
+volume. If you've got one movement,
+let's say the key frame, just to
+exaggerate, looks like that versus like
+this for the movement. This one should
+have a much bigger sound effect compared
+to this one because imagine they were
+swapped around. It would look it would
+look and sound so silly. The way I like
+to describe this for editors that are
+learning this, I want you to get your
+hand and wave it by your ear.
+No idea if the mic will pick it up, but
+Oops.
+No idea if you could hear that wave. If
+I if you couldn't, sounds a bit stupid
+or looks a bit stupid, but essentially
+that's what a whoosh is. And that's
+about how loud you would expect it to be
+if your hand is fanning your ear. Now
+compare a different whoosh. You're
+standing at a train station, the
+platform's about a meter away from you,
+and a train blast by. Think about how
+loud that whoosh would be. Imagine the
+volumes of those two whooshes swapped.
+So this was as loud as a train and the
+train was as loud as your hand fanning
+by your ear. It would sound stupid. So
+level your sound effects relative to
+each other so that they match the
+magnitude of the movement. Next, we want
+to just quickly go through the entire
+video and check all the sound effects
+volume levels. This is going to be an
+easy way for you to realize like, yo,
+these are a bit off. I want to change
+the volume quickly by bring this up,
+bring this down. Kind of like how we
+checked the cuts and the timings. We
+just want to check all the volumes real
+quick. Next, I'm adding music throughout
+the entire video. Once again, while
+leveling music, I have the same rules as
+sound effects for volume. So, it should
+be loud enough where if I'm focusing on
+it, I can hear it clearly. It should be
+quiet enough where if I'm not trying to
+focus on it, it's not getting in the way
+of either the voice or just generally
+it's not annoying. Now, at certain
+times, you can move it up, you can move
+the music down, you can put it lower,
+etc. This is called audio ducking where
+let's say this is more like a montage
+section. This might be like a voice
+over. This could be more like an
+emotional section. So it's completely
+fine and recommended to vary your music
+throughout. And in terms of switching
+music, I recommend every sort of like 30
+to 90 seconds, but more realistically
+I'm doing it every sort of 10 to 60
+seconds. This just means that every
+single time there's an emotion change or
+a switch in the story, we have a new
+music to accommodate for that change.
+And if you're not changing it this
+frequently, you're either making one of
+two mistakes. Either you're just not
+changing the music when the emotion
+changes, which is going to feel really
+silly for the viewer. Like the music
+just won't match the emotion. They won't
+feel like they're part of the video. So,
+you're either not changing on the
+emotion or you're not cutting out
+enough. Because honestly, if the emotion
+or story isn't moving at least every 10
+to 60 seconds, you're doing something
+wildly wrong. Like it there should be
+something changing about the emotion or
+in the story about every that period of
+time. Next, we just want to check and
+adjust all the music volume. So, I go
+through all the video, make sure that
+the music matches not only the main
+audio, but also relative to each other,
+they're the right volume. Now, next
+we've got the final checks. So, you want
+to check the entire video. It says here
+the final checks SOP because that's what
+we give to our coaching students. It's a
+process to check the videos properly. We
+have hundreds of SOPs and processes and
+just documented things for people to
+follow within the editing layer. This is
+a YouTube video, so there is what you're
+getting. But essentially, we use a
+four-stage checking process. If you're
+not checking your videos properly, holy
+crap, you're wasting so much time. Like
+this final checks SOP, it takes about 30
+to 60 minutes to check the video
+thoroughly. If you tried checking it on
+your own, like in sort of a disorganized
+way to get the same thoroughess of
+checking the video, it might take you
+three, four hours, but by doing it in a
+more like structured way in our fourstep
+system, we can do it in 30 to 60
+minutes. Now, the thing is, this isn't
+your normal check, like, oh, I just
+watched the video, make sure it's all
+right, because even when you check your
+videos, you've probably found the client
+will still give you revisions. By using
+the final checks SOP, what it does is it
+minimizes both the number of raw
+revisions, meaning just how many notes
+they give and also it minimizes the
+rounds. I used to get I remember this.
+It was a 11 minute video and there was
+like 280 something revisions on there.
+I'll never forget that. That was hell.
+It took longer to finish the revisions
+than it did to edit the video. Like the
+video took two days to edit. The
+revisions took three days because we had
+two revision rounds. It was hell. But by
+doing a proper check, you can save that
+time. What I like to say is an hour of
+checks saves you a day of revisions. So
+it's worth doing your checks properly.
+Once I've done all my checks, going to
+export the full video. Pretty simple.
+Then I'm going to either upload it to
+Google Drive or to Frame.io.io. With the
+editors that we work with, it's part of
+process to use frame.io in order to give
+revisions to them. But if you are
+working with a client that has not
+specified, trust me when I say just send
+it through Google Drive because what
+happens is when you give it through
+frame, you're basically asking for
+revisions. So why even prompt that if
+the first draft of the video is most
+likely fine as long as you've checked it
+correctly. So I like to send it through
+Google Drive. And also when I'm naming
+the file, this is super important. Never
+name it V1. Never do this. Always name
+it final at the end. So it'll be like ID
+name
+final because psychologically what this
+does is it tells the person, hey there's
+no changes to be made. If you name it
+V1, you're basically subconsciously
+telling them that there should be
+revisions and there should be changes.
+Because if I tell you we're going to the
+park first, that insists that we're
+going somewhere after. If I tell you,
+oh, this is the first TV show that we're
+going to watch, that insists that we're
+going to watch more TV shows after that.
+So, V1 begs the existence of a V2. V2
+begs the existence of a V3. So, what I
+always do is I literally just always
+name the video final. Um, I'll still
+keep the old video. And in my own file
+explorer, I'll name it V1, V2, whatever.
+But when I'm sending it, I'm going to
+name it final because it prompts them to
+want to make it the final one. Next, if
+they have sent revisions, complete them
+back to front. So, you want to read
+through all the revisions. And instead
+of completing it from the start to
+finish, you can play it back to front.
+Here's why. Let's say you have all these
+different notes throughout the video.
+And let's say this note is basically
+remove from 30 seconds to 45 seconds.
+Like remove this clip. Once you remove
+this clip, what will happen is all of
+these notes will now no longer be
+aligned by 15 seconds. So they will be
+minus 15 seconds or plus whatever it is.
+Now the problem with that is let's say
+there's another revision to remove this
+section now it gets worse. And by the
+time you get to the last few revisions
+or even a couple of revisions in they
+don't line up with the time stamps
+anymore. But by completing revisions
+back to front what happens is this
+revision let's say it's a cut from here
+to here. That doesn't affect any of the
+other revisions. So I'm going to go
+backwards to front when completing
+revisions and just sending it through
+again. Then you're going to send it
+through get approved. And once it's
+approved, you export all your final
+deliverables and upload to Drive. A lot
+of editors when they send in the video,
+they literally just send in the final
+video, which is crazy. But what you can
+do is you can essentially repackage this
+video to maximize the value that the
+client gets out of it while it takes
+basically no work from you. So, while
+the average editor that they've worked
+with in the past is just sending in the
+final video and saying, "Hope you liked
+it." When you repackage it in an
+efficient way, I'm not going to go
+through all of it today, but when you
+repackage it in an intelligent way, not
+like just creating shorts or stuff like
+that because that takes stupid amount of
+time. That means that the creator gets
+the most amount of value from it. No
+other ed has ever done that for them,
+meaning you're way more valuable. They
+want to keep you, they want to pay you
+more, etc. So, you want to upload those
+to drive, send them through, and then
+finally just message the team with a
+link to the entire folder with all the
+deliverables that you've given. So, that
+is my entire editing workflow. It's the
+same one that I use to scale past 10K a
+month. We've helped hundreds of other
+editors scale as well. It's the same
+workflow we recommend for them. And if
+you are an editor who wants to scale,
+which I'm assuming you are by you
+watching these videos, go click here.
+It's the exact four-step process that I
+use to scale myself to pass 10K a month,
+but also many, many other editors. So,
+go click that video here and I'll see
+you

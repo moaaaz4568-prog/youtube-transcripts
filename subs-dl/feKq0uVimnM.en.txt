@@ -1,0 +1,118 @@
+Yo, good morning. Wanted to give
+everybody a quick snapshot of everything
+that we should be uh posting and testing
+over the next two to three weeks. I have
+been basically gone for the last uh 4ish
+weeks or so. Um was fortunate enough to
+be able to uh go celebrate a 5y year
+anniversary with my lovely wife and the
+whole time I was gone with basically a
+two threeperson business doing close to
+$2 million every single year. Um, and I
+was actually able to clock out for a
+full 2 weeks, which was uh really
+amazing. And just big props to the team,
+our systems, our automations, all of
+that kind of stuff. But anyways, we've
+been doing a lot. The second I got back,
+we immediately uh uh added another
+sequencer to our our stack. We um are
+building a massive uh uh front-end
+analytics for all of our uh sequencer,
+so all the data can stream in. And uh
+we're doing a migration on our master
+inbox. There's so much that we've been
+busy with that I haven't had any time to
+produce anything. And so here's just a
+quick snapshot of everything that you
+should be able to anticipate us uh
+publishing uh uh over the next uh 2 to 3
+weeks or so. And so one the big one is
+um one of our largest clients Fixer.
+We're shooting 2 to 4 million emails a
+month for them. I'll be going over this
+um entire sheet with them. Everything
+that we've been doing um how exactly
+we're thinking about looking at all the
+data and how we reiterate week over
+week. And uh the quick snapshot there is
+we're getting close to being responsible
+for about 19% of all of their weekly
+signups and that's competing with them
+spending a ridiculous amount of coin on
+meta ads every single week, right? Um
+there's uh we're doing a bunch of tests
+when it comes to let's scrape a
+company's followers, run outbound to
+them. We're doing another test where
+we're going to be comparing lookalike
+audience builds. So, it'll take a
+client's companies or uh uh a client's
+customers, run it through a lookike
+builder, put it through Panda Match, put
+it through Ocean, and PS, there's a new
+data provider coming on the market that
+we're probably going to test on the same
+time as them. Stay tuned for that. Um uh
+we're going to be testing uh Lead Magic
+against one of their competitors called
+Wiza. We're going to be doing um uh a
+bunch of custom scrapes for somebody
+that's trying to target home flippers.
+We have um a follow-up on our test to
+see how does smart lead compete against
+instantly compete against bison because
+the last time we did that there was a
+clay a bug between clay and smart lead
+that nobody knew about um that we helped
+them fix and all that kind of stuff.
+We're doing a massive test where we
+pulled 10 million leads and we uh uh
+have split them up between a seniority
+and the product that we're selling is
+equally uh sellable to all of them. And
+so we're going to do massive tests on
+each one of those which ones give us the
+best multiple. Of course, we're going to
+be doing our mega deliverability test in
+real time to see what inboxes uh deliver
+best uh to other inboxes. What are the
+best configurations to achieve maximum
+deliverability at scale? So, what
+inboxes do you use? What inboxes do you
+target? What sequencers do you uh use?
+And everything else in between. going to
+go over our entire front-end analytics
+portal for everything that we've been uh
+building um and how exactly we're
+pulling in all of our data so we can
+have reliable data on every email that
+we're sending and then analyze copy.
+There's so much on that that uh that
+that I can go into today. And then last
+but absolutely not least is that we just
+began migrating all of our master inbox
+systems over to a new tool on the market
+called HOTH. It is really, really cool.
+It has been working basically
+flawlessly. There's been a couple things
+where it's like, "Hey, can you send us a
+HTML body instead?" And they go, "Yeah."
+So, they've been super great. And I
+think uh Hahawk will be a major major uh
+uh game changer in the coming weeks. So,
+anyways, it's a lot to go over, but
+mostly wanted to say that like we'll
+still uh I'm still here. I'm just
+ridiculously busy delivering and
+increasing all of our systems for our
+clients. And uh one thing I can promise
+you is that uh publishing what we're
+doing uh in public is uh my number one
+job for the next 3 months. And so uh my
+goal is two three times a week if I can.
+We'll see if I'll be able to do that
+while I'm running a uh twoerson uh
+business. But I know we can get it done.
+So anyways, appreciate your time as
+always. Peace.

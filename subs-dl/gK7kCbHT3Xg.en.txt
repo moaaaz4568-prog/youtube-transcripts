@@ -1,0 +1,805 @@
+How many times have you been using a
+piece of software that your business
+runs off of? Maybe a course platform,
+maybe a community platform, maybe a CRM,
+and you've gone to try and do something
+that you think would be logical and it
+just doesn't work like that. I have been
+that person for years squeezing a round
+peg into a square hole or a square peg
+into a round hole even. I think you can
+fit a round peg in a square hole. And
+I've definitely been a bit of a platform
+hopper. I've tried loads of different
+course communities, softwares. I've been
+on Teachable. I've been on Kajjabi. I've
+been on Mighty Networks. I nearly
+recently moved to Heartbeat. I've had
+school communities, multiple ones. And
+every single time I'm on one of these
+platforms, I end up frustrated as hell
+because I'm a marketer and I think like
+a person that wants to create a
+fantastic customer experience and design
+something that people are going to want
+to use so that we will have retention.
+We'll have people staying and also an
+amazing on boarding experience so that
+people come in and get a great
+experience and want to continue their
+membership or continue to stay. And
+every single time I come up with an idea
+to improve that process or that journey,
+there just isn't the moving parts that I
+need available to create the thing that
+I want to create. And so I end up in the
+same situation again, which is that
+well, I can't do it or I need to move
+platforms in order to be able to do it.
+A couple of examples, the way payment
+plans are set up. If I want to give
+people an option of paying in three
+month installments instead of monthly
+installments as an example, I can only
+do that if the platform has that as a
+feature. Now, one of the things I always
+do is then head to the road map and see
+well is it coming soon? And actually
+sometimes things are coming soon and so
+it's like okay well just sit tight the
+developers making it. It's coming soon
+and that's really cool. I really love to
+be able to look at a road map for that
+reason. That's kind of how I've worked
+with software. And the thing is is when
+you run an online business and your
+business is solely on the internet and
+your shop is on the internet, the way
+you communicate with people is on the
+internet, the customer experience is on
+the internet. It's all on the flipping
+internet. You need a solution that is
+going to enable you to provide the
+service that you want. Because it's not
+like you've just got your own shop front
+and you've got people coming into it and
+you can just design it and build it how
+you want. No, actually the truth is is
+that historically if you want to build
+your own bit of software, you need a
+team of developers and a budget of at
+least a hundred grand. In fact, I
+remember one of my mentors building an
+app and it cost him half a million. And
+like who's got that budget in the
+soloreneur startup business world? I
+mean unless you've got huge investment
+and then you need to go well is this
+really worth the investment like how
+many users and how many months of
+membership do we need in order to get
+the return on that investment like
+that's a huge operation that you need to
+be running in order for that to make
+sense right so we go back to putting a
+square peg in a round hole again and you
+know the really exciting thing is that
+this limitation just doesn't exist
+anymore. Like, it just doesn't need to
+be the case anymore. And look, here's
+the thing. You still got to understand a
+few things in order to build your own
+platform. Like, it's not super easy. You
+can't just head into Claude and be like,
+"Create me a CRM." I mean, like, there's
+a lot of considerations. You've got
+email deliverability issues. You need
+email verification. I mean, oh my god,
+it's a whole world. Like, it's a whole
+world. Like if you're not in the email
+world anyway, if you don't understand
+all this stuff anyway, it's going to be
+really tough. So you got to have a level
+of understanding about how the things
+you want to build work because you could
+end up getting yourself, you know,
+kneede in just like chaos because you
+don't really know what you're doing. But
+the limitation has been removed because
+you don't need to be a developer
+anymore. You don't need to be able to
+understand code. See what Claude and
+also codeex which is chat GPT's version
+of Claude code what they do is they act
+as essentially senior developer on your
+team. It's like imagine you hired a
+senior developer and you had that person
+on your team. You would say to them I
+want this and then they would transcribe
+what you're wanting into code that
+actually makes it fruition into
+something. So you don't need to be able
+to code. You don't need to understand
+the coding language. You just need to
+understand what you want. That's really
+actually harder than you might think.
+And one of the things that you can get
+wrong is not knowing what you want and
+then building something that just turns
+out to be a little bit strange and
+counterintuitive. So that is essentially
+what we are looking at today. Now should
+you build something for the sake of it
+is the question and the answer is no.
+Like for instance calendar software is
+there any need to build yourself a new
+calendar software because you can? No,
+not necessarily. like there needs to be
+an actual problem that you want to
+solve. And I think the most obvious one
+is course software and also community
+platforms as well. And I'm going to use
+school as a use case for this because
+otherwise we could just be talking in
+general terms and we've got nothing to
+tie it down to. One thing I just want to
+be really clear about is that I think
+school is a great platform and I think
+it's great for the purpose that it was
+created. I'm specifically wanting to
+come off it because it doesn't meet my
+desired use case. I'm going to walk you
+through why and what that looks like and
+and how I plan to change it so that you
+can see my thought process behind that.
+But one thing just to note before we go
+and do that is that every bit of mass
+market software has been made for mass
+market with mass market in mind. Even if
+it's a niche, right? So school is
+specifically targeted to experts who
+want to build a community around the
+thing that they are an expert in or they
+have knowledge in. Right? So that could
+be anything. That could be fermenting
+vegetables and it could be knitting and
+it could be parenting and it could be
+absolutely bloody anything. And so
+that's what their mass market use case
+is. Now that is the same for every piece
+of mass market software. It has been
+produced for a very wide variety of
+people in mind. and the barrier being
+down. What that means is we can now
+without needing to go into that mass
+market solution that is supposed to
+solve a problem for everybody and
+therefore doesn't solve a specific
+problem for anybody. We don't need to
+lean on that as much because now we can
+create our own custom solution. So the
+key really is knowing what custom
+solution looks like for you. So first
+and foremost, I would have a look at
+your customer journey. And the customer
+journey is the most important piece
+because really the only thing that we
+generally build these platforms for is
+to provide a great customer experience
+because customer experience equals
+customers staying and recommending and
+joining. And so without that, what's the
+point? So customer experience is the
+key. But when it comes to designing and
+defining your own customer experience,
+the first thing you want to have a look
+at is the platform that you're on and
+and is it really not good enough for
+what it is that you want to do. So
+inside this school community, the reason
+my school community exists is because it
+essentially is supposed to do two
+things. Number one, it's supposed to
+provide the resources that go with the
+videos that I'm putting out into the
+world. So if you have a look in the
+classroom, I have all these resources
+that I've made that go with the videos
+that I'm putting out on YouTube and also
+my Ruthlessly Effective show. For
+instance, Ruthlessly Effective is the
+kind of the front door because that's
+the videos that I'm putting on YouTube.
+And then off the back of Ruthlessly
+Effective, I create extended show notes.
+And the extended show notes are
+basically everything that I went through
+in that episode in detail so that people
+can copy the exact process that I shared
+or the exact system that I shared into
+their own business without rereading
+their notes, reinventing the wheel. And
+anything for instance that I've shared
+like prompts or this was a make.com
+scenario. I've got the exact you know
+scenario here that they can download and
+use as a step without needing to rebuild
+all this and just use this as a
+template. So that's the purpose of the
+extended show notes inside the school
+community. And so the problem with that
+is is that how it works. If you go to
+the about page, this is what the school
+platform looks like when you click on
+it. And so if I'm on a YouTube video and
+I'm saying, "Oh, jump into the school
+community where you'll get the extended
+show notes." They'll come to this page,
+make their account, land on a community
+that is semi looking a bit dead to be
+honest. There's not that many comments
+and likes on posts. That as a first
+impression isn't the best thing I could
+create in the world. And then from
+there, they've then got to self-nource
+that they're here for. And that's a
+massive problem because if you confuse
+people, you lose people. So instantly,
+what's going to happen is that people
+are going to click on to go into there
+and then go, "Well, I don't know where
+the thing is I'm supposed to be looking
+for, and by now I've forgotten where it
+bloody is." And then just never look at
+it again. Maybe cancel the trial. maybe
+not cancel the trial cuz they forget,
+but not actually be an active user of
+the community. There's no real clear on
+boarding process there. You know, I
+could draft and create an email
+sequence, but there that brings me to
+the next limitation of school. The API
+is very very limited. So in order to get
+my email CRM and any kind of
+automations, getting school when a new
+member joins to ping them a new email
+from my CRM to say welcome and then link
+up a welcome sequence so that they get
+you know properly on boarded via email
+is like virtually impossible because the
+tools that it gives you with Zapia even
+when you buy the $99 per month is like I
+think you can only invite people to your
+school community. So you don't really
+own the email list of people that are in
+school. You have to scrape the emails
+out manually or you know use some really
+highly sticky tape sequence of Zappia
+prompts if you can even find the actions
+that you need to get it to actually
+produce an email sequence or a good on
+boarding series for your new members.
+And this is the problem. I mean there is
+a reason why they do that. it's
+stickiness and it's keeping people
+dependent on the platform. But the
+problem for someone that wants to
+provide a really good on boarding
+experience and you know be able to
+customize these things, it's just far
+too limited. The other thing is inside
+school. So we've got the classroom and
+then we've got so effectively for them
+to get the show notes they're now going
+into two clicks and then you know
+getting it from a back door. The
+community as well is not the best first
+impression if you've got a small
+community. And then the calendar the
+next thing that people come into the
+community for is to join my geekout. And
+on that geekout essentially what we're
+doing is hanging out together as a group
+and sharing what's working well for us
+in business and like AI tools and tech.
+It's the idea is that you can see the
+use cases of other business owners in
+terms of all the changes that are
+happening in online business. Now, the
+thing is that's quite difficult to find
+right now. And so, the whole thing is
+kind of a little bit lackluster for what
+I want it to be. Let me tell you what my
+vision is for this community. My vision
+is is that every single episode has its
+own landing page. And its own landing
+page is essentially like the name of the
+ruthlessly effective episode with grab
+the extended show notes with the that
+being the front door. Then when they
+enter the front door, it takes them
+directly to the show notes that they
+have signed up for. And then there will
+be an automated email sequence because
+it's connected instantly to my CRM and
+therefore they get added and tagged and
+they get the emails going out to let
+them know that there are all these other
+things inside the portal that they need
+to know about. But if we don't tell
+them, they don't even know that they're
+there. There's some really great stuff
+in there. There some really helpful
+things. And so having that email
+sequence is going to raise awareness of
+all the features of the platform. But
+the most important thing, I want to very
+quickly get them invited to the next
+Geekout because the purpose of the
+Geekout is to build relationships with
+my audience. I got people joining the
+community. The Geekout is there so I can
+meet them. I can connect with them. And
+that is the best thing I could possibly
+be doing. But it doesn't even function
+if they don't even know it's there. So
+that's the that brings me to the next
+thing is seeing the actual data off the
+back of what's happening inside the
+community like what I can see on school
+and actually school have been
+advertising my community which is
+amazing thanks school although it's not
+resulted in any signups so look here are
+my analytics now one of the known things
+about school is it's really good for
+discoverability right you get found in
+the algorithm well let me show My
+discoverability is terrible. I am
+ranking 9,496
+on the school search. That's it. If you
+look up one of these keywords, I will
+rank 9,496.
+Ain't nobody scrolling down that far.
+That's probably my bad. I could probably
+spend a bit of time create some better
+tags, but what's the point? Like, I'm
+not on here because I want schools SEO.
+like yeah it would be cool but actually
+like the purpose of this is to serve my
+existing audience. If I had a stream of
+people coming into this without seeing
+my videos they would they would be
+missing a big piece of context. So
+really the front door is the YouTube
+channel and then leading into this
+anyway. So but but just in case like
+I've heard a few people say, "Oh yeah,
+but school's really good for being
+discovered." Yes, but there's a lot of
+school communities and you're not
+necessarily going to get discovered very
+easily. So on here, I just want to show
+you that traffic coming and I imagine
+this is from the school ads because all
+over Facebook I'm seeing strategy geeks
+and that's really cool. You can see that
+it probably is the reason why I've got a
+2.5% conversion rate on the signup page.
+In terms of that it it's not really
+giving me that much data. If I build my
+own system, I can have a full tracking
+dashboard that tells me exactly where
+everyone's coming from, but also gives
+me much more in-depth data about what's
+performing well and what isn't and
+enables me to uh be able to kind of
+customize the journey further based on
+what people need. And here's the thing,
+I want you to think of it like this.
+Being able to build your own soft like
+you would think there are like not very
+many limitations. It is like having a
+box of Lego and you can build anything
+that Lego lets you build. Now
+limitations are you can't build spheres
+with Lego unless you've got a specific
+sphere Lego building kit that gives you
+all the rounded pieces. You can't build
+spheres. But the difference is it's it's
+like buying your own house where you can
+design the inside of it exactly how you
+want. The only limitation you have is,
+well, how do I want it to look? Like,
+how do I want it to be? I'm not an
+interior designer. I don't know how to
+make things look good. And this is the
+same with Canva. You know, we had this
+limitation where you could only get
+graphics done by graphic designers. And
+then Canva turned up and now that made
+it accessible to everyone. And the
+problem was is that PEOPLE JUST ARE BAD
+AT designing stuff. Like they just it's
+a whole new skill set that they just
+don't have yet. And so that is the new
+limitation. And it's not can we build
+it, it's what can we build, what should
+we build and getting the architecture
+right. So that's what I want to just go
+through. On boarding, navigation,
+tracking and data, connections to other
+apps and also design. We'll put that in
+there because I think it looks like it
+was built in the 1980s. Like they didn't
+really put much effort in making that
+look very modern, did they? But that's
+just personal preference and you know
+that's fine. Okay. So, what we want to
+think about then in terms of
+architecture, and I'm sure I'll probably
+miss some things here, and if I do, feel
+free to correct me because I'm not sat
+here pretending to be a developer or
+pretending to be perfect. I'm just
+coming at this from the perspective of
+someone who has been designing and
+creating courses for about eight years
+now, been in online marketing for nearly
+a decade, and has looked after hundreds,
+thousands of customers. And and by the
+way, that is something that is really
+flipping cool because having the
+experience that I've got and now being
+able to build whatever the hell I want
+is a very very fun door that's opened.
+But yeah, anyway, so in terms of
+architecture then what we want to think
+about is hosting, data storage, login,
+the next thing that we want to think
+about is the onboarding process and
+essentially the let's call it the
+function. What are the key functions
+that you want to happen inside that app?
+Like what's the main screen? What's the
+main point? How do you want people to
+experience it? And I'm going to
+essentially stop talking about this
+generally and and get into like what I'm
+going to do for school so that we can
+apply this to an actual use case. So in
+terms of the hosting then I am going to
+use versal and I'm going to do a next is
+it next.js JS I think and the reason
+being and this is an important
+consideration if you want to be on the
+Apple app store you have to build in iOS
+and so I am going to build on Versal and
+that's the type of app I'm going to
+create data storage I use Neon and
+that's really important because you're
+going to need somewhere to store secure
+data and Neon is a really good place to
+do that login my favorite front door for
+apps is clerk it will just create a
+really robust login experience for your
+users where they feel like things are
+secure because they are. It demonstrates
+the security that it has in looks which
+is really nice. And then we want to
+think about also what do we want the
+functions to be. So for me the really
+important thing is that I've got landing
+pages for every episode and this is like
+a community platform that supports a
+podcast. So if you imagine you've got
+show notes for a podcast then every show
+notes is a landing page for that podcast
+extended show not every show notes page.
+So let me give you an example. So Amy
+Porterfield's podcast I think her show
+notes would be like amy
+porterfield.com/2
+and that's everything there. Now, her
+show notes is just a little roundup of
+what she's doing, but I'm basically
+turning every episode into a full-blown
+working workbook for people. And so, it
+would bring you to a page like this with
+the show notes on, but it's got the
+title rendered of what the show notes
+are and the rest blurred. A bit like
+when you go to these newspaper sites now
+and you can't read the rest of the
+article or a Substack and you can't read
+the rest of the Substack. A bit like
+that. So, there's going to be a free
+trial. And this is another thing that's
+important to note is that we've got free
+7-day trial plus then $5 per month,
+which by the way is another really
+annoying restriction of school. I think
+these days what makes sense is to have
+multicurrency
+setup so that anyone from around the
+world sees your product in their
+currency and therefore it reduces the
+friction. But school they force you to
+be in dollars. And um that's a real
+limitation because all my other products
+right now are in pounds. But the thing
+is as well is that the reason why I'm
+putting a price point on this too is so
+that I've got a barrier to entry for the
+Geekouts and for people in the community
+because I really want to bring people in
+that are serious about solving these
+problems and and learning more about
+this stuff. And so it's it's actually
+not a money generator for me. It is just
+a barrier to entry point really. So that
+I'm filtering out people that are just
+not really that interested. And that
+means that I'm not going to build an
+email list again of like 10,000 people
+and a chunk of those are not really
+there because they're really interested.
+That's my kind of focus now with list
+building is that I've got a list of
+people that are super interested in what
+it is that I'm doing. And so that free
+7-day trial, then $5 a month. I'm going
+to use Stripe for that. So, we need to
+get that into the architecture. We've
+got Stripe hosted payments for that
+because it's what I've always used. I
+don't know. See, definitely not going to
+build my own. This one thing is just
+absolutely no point. It works. It does
+everything I need it to do. There's no
+point in changing it. So landing pages
+for every episodes show notes with payw
+wall or trial wall. And then inside the
+community is not the front page anymore.
+The front page is the resources but
+after payment they land on the right
+show notes and then to the left there's
+a menu so that we've got it clear that
+there's other features in there. And so
+we can have the show notes library, the
+geekouts. Now the geekouts is another
+one because the geekouts needs to be its
+own section because yeah, there needs to
+be a calendar for the geekouts, but also
+this is like really cool thing that
+we've started doing inside strategy
+geeks, which is that we're having these
+hangouts and then we're making a tip
+library off the back of it. So, for
+instance, this one here was a hangout
+where we ended up talking about re like
+security of your apps and making them
+safe and making sure that you've got a
+checklist of things that you can tick
+off. And we had Garen on the call who is
+an expert in this exact thing. And we
+were able to like tap into Garin's mind
+and find out from him all the things
+that he recommended. And he went the
+extra mile and created a security
+checklist for everybody that's creating
+their own apps. So, we've got resources
+that are coming in to the portal off the
+back of the Geekouts that are really,
+really powerful. And this recap and tip
+library, let me just show you what it
+looks like. If you didn't manage to get
+to one of these live, you can just come
+and see like the the roundup. And
+there's loads of really cool tips that
+you can pick up of things that people
+have shared, different stuff that, you
+know, they've discovered, that they're
+doing, that they're using, and you get
+to peer over and look at everyone else's
+Lego essentially, and see what what are
+you building, and that's really fun. But
+there is this recap and tip library at
+the moment. So, in terms of the
+geekouts, that needs its own section,
+and that's going to be um the the
+calendar, the replays, the tip library.
+Another thing that I want in the
+functions is to have an AI powered
+search. So it can search the entire
+portal for anything that was discussed
+or talked about. And so the replays will
+include transcripts. So it can search
+everything and it can say, "Oh yeah, you
+need to watch this video." Whether it's
+one of the YouTube videos or one of the
+replays of the Geekouts, it'll be like,
+"Oh, the thing that you're after is in
+this video here. Oh, and here's the
+exact tip library that you need to read.
+I mean, that's flipping cool, isn't it?
+An AI powered search engine that is able
+to now look through all of these
+resources and give people exactly what
+they're after without them even needing
+to look for it. They can type in the
+latest replay of Geekouts and it just
+comes up. And here's the thing, guys.
+I'm getting excited now because this is
+this is what I really really want to
+tell you is that when it comes to kind
+of stuff, all of these are so many
+moving parts for a soloreneur and
+managing that school community at the
+moment. I need to put the events in the
+events calendar, create the tip library,
+upload the tip library, I need to get
+the Zoom recording and put the Zoom
+recording in there with the title and
+build it in the classroom. And because
+school have like absolutely no API or
+MCP where I can just ask AI to do it for
+me. I have it's a lot of manual work for
+me or for an assistant. And look, I'm
+not afraid of working. Like I work so
+hard, but I'm what I'm wanting to do is
+systemize and reduce the amount of work
+that all these moving parts create. So
+it's a constant game of like where
+should we where should we spend our time
+and we've only got so much time to
+spend. But if you've got your own
+platform now, you can create your own
+MCP. You can create your own API entry
+points and web hooks. And what that
+basically means is you can tell Claude
+code that you want it to be connectable
+to your Claude so that you can tell
+Claude to do stuff in your community.
+Like, man, that is gamechanging in terms
+of the amount of time we're now going to
+save because yeah, I want this
+searchable engine and the transcripts
+and the YouTube videos and the and the
+other videos and the replays and the tip
+libraries, but I just don't want to have
+to create and upload and publish all of
+that because quite frankly, I don't have
+time to do so. So, what I'm going to
+create is automations now that take the
+leg work out of running it because if
+it's my platform, I can build them and
+get anything to speak to it and make it
+work. And so, what I'm going to do is
+that when there is a uh replay of
+strategy geeks, it goes from Zoom to
+Google Drive and then it gets added into
+Strategy Geeks as a published replay.
+the transcript is stripped from it,
+turned into the tip library and
+published there for me as well. And
+those things cause the AI search engine
+to readily be able to read them because
+they're now in the system. Then once
+it's done that, it pings a notification
+to everybody to let them know the
+replays up. That is just revolutionary
+the amount of time I've spent like
+manually doing this stuff and hiring
+someone else to do it for me. And it
+costs a lot of money to hire someone to
+do that. And when you're a soloreneur,
+money is tight. You haven't got all the
+budget in the world to spend on a big
+team. And you know, maybe you don't even
+want a team. And so, it's just really
+reduced the friction there for us as
+creators to be able to provide an even
+better experience for our audience. At
+the moment in Strategy Geeks, it's
+taking me six days to get the video
+uploaded because it's just not priority.
+Like, I can't prioritize it over all the
+other stuff I've got. it doesn't make
+any sense. And so when I finally get it
+in there, it's great. But then, you
+know, I send a notification and d So
+here's the cool thing is that inside the
+infrastructure, then we can start to
+think, well, what do we want the
+automations to look like? Because I want
+to get the replays land instantly when
+as soon as they're available in Zoom. If
+we can skip out that Google Drive step,
+we'll just go direct to the source and
+get the goods. Transcripts dropped
+instantly. And of course, you can
+definitely put a gu like I will put a
+thing in here that's like ping me a
+notification or wait for my approval and
+I go in and I just have a look at
+everything it's done just in case it's
+accidentally like put something in there
+that shouldn't be there. Um but then I
+can have a guard like everything waits
+for Cordelia's approval before
+publishing. So that's about creating
+workflows as well. This show happens
+Tuesday at 11. So after the show, we
+need a process where I probably need to
+manually upload the video and the
+transcript into Google Drive. And then
+at 12:00, we've got a scheduled clawed
+co-work session set to run to go and
+retrieve them and then convert it into
+everything that's needed. And so these
+are the kind of workflows that you can
+set up. It's just what I really want to
+get across to you is that all of this is
+now possible and anything is possible.
+Now the question is what can I create?
+how should I create it? What could that
+look like? And the actual designing of
+it. And that's the part that that I'm
+really good at and that you know
+sometimes people can really struggle
+with. And so one thing that I am doing
+at the moment is systems architecture
+calls where I am jumping on to have a
+look at what system you want to build or
+what it could look like and basically I
+design it for you and build it with you
+so that you can be creating custom
+systems for a fraction of the price that
+you would spend on having a dev team
+where you've got a custom solution built
+exactly for what it is that you are
+wanting to create for your on boarding,
+for your course, for your community, for
+whatever it is. Because really, guys, we
+are at the end of the situation where we
+need to put any more square pegs in
+round holes. It is just not needed
+anymore. And just imagine what you could
+build if the barrier to entry was on the
+floor. And that's the thing, the barrier
+to entry is now on the floor. The only
+thing that you need to figure out is
+what should I build, not can I build it
+because it's possible. I just want to
+leave you on this guys, which is that if
+you are feeling like you are building
+your business around a piece of software
+rather than building software around
+your business, you could potentially be
+leaving the business that you could be
+running on the table and running a
+business where it's a bit of a
+compromise. And I don't want that for
+you and it's not necessary anymore. We
+are doing what we're doing. We're
+building what we're building because we
+are the people that had the imagination
+in the first place to create something
+and put it out there in the world. So
+now it's time to unleash that creativity
+and you know get out there and build
+things the way you intended them to be
+built. And if you want some help with
+that, hit me up. I'm your girl. I'm
+Cordelia Cape. This has been ruthlessly
+effective and I hope you got something
+from this. If you did, please drop it in
+the comments. Let me know what is your
+biggest takeaway. What are you taking
+away from this session? And also, if
+you've been building something and you
+want to share it with us, uh, pop it in
+the comments, too. We'd love to see and
+know all about it. Lots of love, guys.
+Have a good one.

@@ -1,0 +1,2650 @@
+I have sent hundreds of thousands of
+cold prospecting messages, scheduling
+thousands of sales calls, not only
+for myself, but for clients in many
+different industries.  And what I've
+learned about
+cold prospecting is that it's not magic.  You just
+need to have a proven system.
+And look, I'm not going to sit here and
+tell you that cold prospecting is
+easy, because honestly, it's not.
+But it's simple when you understand how
+all the pieces fit together.  This is not a
+theoretical course.  I've literally done
+everything, from burning domains to
+running campaigns with zero responses.  I've
+done everything.  Everything here is
+the exact process I currently use
+to schedule sales calls.  Not
+only for my business, but also
+for my clients.  This is exactly
+how we're going to structure it.  First,
+let's start with cold mailing.
+The number one thing will be to build your
+infrastructure, because honestly,
+nothing else matters if you can't reach
+the main inbox.
+Number two will be the construction of
+lists.  How can you actually create
+a list of people who really
+want what you offer?  Number three
+will be the creation of offers, because
+you can have the best infrastructure and
+the best list, but if your offer sounds like a
+sales pitch, they won't read it.    I'll
+also show you how to
+manually extract leads.  And
+then I'll also show you how to
+automate it with Claude Code.  I'll also
+show you how to schedule meetings
+using Loom videos.  Then I'll show you
+my exact LinkedIn system.  And
+finally, we'll finish with one of the
+most important parts: how to handle
+the responses once you receive them
+and overcome objections.  At the end of
+this, you won't just have loose pieces.
+You'll have a complete prospecting system
+that you can run yourself
+or even delegate to the team.  So, let's
+jump straight to the video.
+You could have the best cold email copy in
+the world, the best list, the
+best segmentation, the best offer,
+but none of that matters if you end up in
+spam.  I've sent hundreds of thousands of
+cold emails, and I'm going to show you the
+exact infrastructure setup I use to reach the
+main inbox in 2026. Now, here's
+the question about
+cold email deliverability.  Most people think it's about
+writing good subject lines
+or not using spam words, but that's
+probably only about 1% of the problem.
+Now, the other 99% is their infrastructure
+, their domains, how long they
+run hot, their reputation,
+DNS records, all that kind of stuff.
+And that's exactly what nobody
+else is talking about.  So what we're going to
+do is go through this together step by
+step.  At the end of this video, you'll have
+the
+exact infrastructure checklist I use to
+ensure emails never
+end up in spam.  Now, the first thing we're going to
+do is talk about
+domains.  This is the step where
+most people make a mistake before
+even sending a single email.  Now
+, the first step, and I can't
+emphasize this enough, is to never
+send cold emails from your
+main domain.  For example, my
+primary business domain is
+velocityflow.co.  Therefore, I would never
+send emails from this domain.  And I'll
+tell you exactly why.  Because
+let's suppose you start sending
+cold emails from your
+main domain.  Let's say it sends about
+1,000 emails from its
+main domain.  Naturally,
+cold prospecting people will start
+reporting it as spam simply because they don't
+like the message you're sending them—
+cold prospecting, right?
+So, once people start
+reporting it as spam, all that
+reputation will be linked to its
+main domain.  Now what happens is
+when you have clients, let's say you've just
+signed a client with whom you
+communicate, or even with people in your
+organization.  Now, once you
+send them invoices or try to contact
+them, everything will go to the
+spam folder because your domain has built up that
+reputation.  Instead, what you should
+do is create tons of
+different subdomains under your main domain.
+This is what it looks like here.  So, if
+my main domain is velocityflow.co
+, I would want to create a bunch of
+subdomains from my
+main domain.  Such as velocityflow marketing,
+velocityflow media, velocityflow system
+, and so on.  You might be
+wondering, this is a lot of
+domains.  Where can I get
+these domains?  And I'll show you
+exactly how to do it.  Now, notice
+how these are .info domains.  What
+we've seen in the last two weeks
+is that .info domains are
+completely finished.  We had
+accounts running in warm-up mode
+on .info domains and they were
+blacklisted literally during the
+warm-up and we couldn't send anything.
+The reason this happened is
+because they are so cheap that many
+spammers use them
+to spam people.  Um,
+so that's the reason they
+were banned.  So what
+we did instead was simply
+switch to .co domains.  The reason
+we use additional domains is
+because they look much more professional
+and have exactly the same
+deliverability;  The comparison is
+virtually identical.  And yes, that's why
+we switched to .co.  It's a bit
+more expensive, but it will be worth it because
+you don't want your infrastructure to be
+completely ruined
+overnight.  The reason you want to
+create a bunch of subdomains is
+because each one will be
+connected to a single email account
+.  So, for Google,
+we use two inboxes per
+domain and these can
+probably send about 15 a day
+comfortably, including the
+warm-up.  Now, let's say for
+Microsoft, for example, if you want to be
+really risky, it even goes up to about 99
+per inbox, but
+we recommend staying around
+49. Each email account
+can basically send about five per
+day.  To calculate your infrastructure,
+you can go to our
+speed flow calculator to measure how many
+emails you want to send per month, your
+conversion rate, etc.  And if you want it,
+the link will be in the description.
+But let's say this.  This is how you can measure
+how many contacts you want to reach.  You
+basically base it on your total
+addressable market.  Uh, let's say we'll do, we'll
+do 104,000.  Good.  Contacts
+reached.  The industry average
+response rate is
+approximately 2%.  So we'll
+keep it at 2%.  Meeting conversion rate
+.  You can even lower this
+to be on the more comfortable side,
+to make sure you're really
+managing the correct metrics.  For
+this example, we'll simply
+keep it at 50%.  And then, what we
+'ve recently seen works
+best, I would usually recommend a
+50/50 split between Google and Outlook,
+but recently Google has
+far surpassed Outlook.  So make a
+50/50 split between Google and Outlook
+or a 70/30 split, 70% Google and 30%
+Outlook.  It will be much more expensive,
+but your delivery capacity will be
+much better.  So you need 174
+Google domains.  That will be two
+inboxes per domain.
+So, whatever you get from 174 times 2,
+that's the number of
+Google trays you're going to have.  Then you'll
+have three Outlook domains.  This is
+calculated based on 99
+inboxes per Outlook domain.  You can
+see the total number of domains; there are 177
+domains.  And then, the total number of
+accounts will be 645 accounts for
+104,000 contacts reached, 280
+responses, 104 positive responses and
+approximately 52 meetings scheduled.
+Now that you've calculated how much
+infrastructure you need to send
+the volume you want, you'll want to go to
+ChatGPT to help you create these
+177 subdomains.  Give it a
+quick command by saying something like this.  I have
+Whisper Flow, so I can speak
+instead of having to type everything.  I
+highly recommend it.  Hey, can you generate
+177 subdomains for my
+main domain?  My primary domain is
+velocityflow.co.  I need these to
+be domains that can actually be
+seen as domains.  for the
+average person.  They need to look as
+professional as possible.  Feel free
+to use LLC, Inc., Co., Incorporations,
+things like that.  Make sure there are no
+random cities or anything like that.
+They need to look as professional as
+possible.  And you can simply talk to him
+and say something like that.  Good.  As you can see here
+, we now have our 177
+subdomains.  So, what we want to
+do is copy all of these.  And then we'll
+go to something like, let's see, Pork Bun.
+Good.  As you can see here, we're jumping to Pork
+Bun.  Now, what you need to do is
+click on bulk search and then
+add the available domains to the
+cart.  100 maximum.  So, you
+simply paste your domains there and
+basically click search, and they will
+automatically go to your cart.
+Now, when searching for domains, some of
+them, at random, will not be available
+.  Especially since I bought
+a lot of domains, so many
+of them might not be available.
+But if you're just starting out, there's a good
+chance they'll be
+available.  They cost between $6 and $9
+for .co domains.  So
+make sure you keep that in mind when
+buying the domain.  Then you can
+do the calculation.  Let's say everything
+costs $8.  $8 for 177.
+And that's just for domains.  As you can see
+here, these are all the domains
+right here.  I'm going to blur all of this
+because I don't want you to see my
+subdomains, but these are all the
+domains here.  Now, once you
+actually have your domains, what you
+need to do is purchase your
+inboxes.  So, to do that,
+we can simply go to some
+premium inboxes.  They
+probably have the best deliverability right now
+.  You could use, for
+example, Scaled Mail. It's
+entirely up to you.  I recommend, um,
+Premium Inboxes.  In fact, I have a
+referral code if you want to join
+Premium Inboxes through me.  I
+highly recommend it.  As you can
+see here, we are already on the
+Premium Inboxes interface.  So, basically
+you have to import your domains to
+Premium Inboxes and then purchase the
+inboxes.  So, let's
+look at this together.  So, the
+destination URL for domain forwarding.
+This is for when you send an
+email to someone; your email will appear
+highlighted in blue.  When people
+click on it, that's where it will
+take them.  Basically, you'll want to put
+the main website for these
+subdomains.  It has nothing to do with it; that
+won't be linked to your
+main domain at all.  It's just the place
+where you want to redirect all the
+traffic.  So I would honestly
+recommend just putting your
+website.  I would put my website
+here, velocityflow.co.  And then
+you'll want to choose your
+domain hosting platform.  We
+use Porkbun.  Whether you use GoDaddy
+, Namecheap, or Spaceship,
+we'll simply choose Porkbun because that's what we
+did.  And then you have to
+give them access here.  Make sure you
+do this correctly right here.
+You need to watch the video tutorial.
+Although it's super simple.  Just go to your
+corresponding account and make sure you
+don't have
+two-factor authentication enabled.  Basically, you'll put
+your login details here
+, your password.  Obviously I'm not going
+to do this.  And then what you'll want to
+do is go back to ChatGPT.  Copy all
+these domains from here.  Return to
+Premium Inboxes.  Stick them right here.
+And then go to your sequencer, let's say you
+use Smartlead or Instantly.  I
+personally use Plusvibe.  I
+would choose Plusvibe here.  You need to
+enter your login details
+.  I know you're wondering, why am I
+putting my login details in
+?  Because with Premium Inboxes, they
+basically take care of everything for you
+.  The technical support is excellent.
+They enter your domains, take them over
+, configure all the DNS records
+for you, buy the inboxes
+and upload them to your sequencer, all in
+one.  So you don't have to touch anything.
+And when they upload them to your sequencer,
+they activate the warm-up for you and
+everything else.  So, now choose
+the total number of inboxes you
+want to have.  Make sure that
+when you're here, we're on Google right now
+.  So, just for
+Google, let's go back to the calculator here
+.  For Google, we created 174 domains and
+we need approximately, let's do a
+quick calculation.  That's 348
+Google inboxes that we'll need,
+because it's two per Google domain.    That's
+exactly why we did it.
+So we want 348
+Google inboxes.  Number of trays
+per domain, you need two people.
+So these will be the names of
+those who send the emails, right?    I'll
+give you an example.  My name is Jaden
+.  So it would be jadenvelocityflow.co.
+I would just recommend putting your name.
+You could even use
+random names.  If you click on advanced,
+you could add a lot of names.
+You could ask ChatGPT to give you
+random names.  Have them generated
+automatically for you, and so
+on.  Just leave this
+blank.  It's not important.  Your
+main inbox.  This will be like your
+regular email.  And then
+additional assets.  Leave notes for
+them, like "I want to do this or
+that."  As you can see here, the total
+comes to $1,044.  And that's just
+for inboxes.  Now
+, you'll want to do exactly the same
+for Microsoft.  Just change it to
+Microsoft here.  I believe there were three
+domains for Microsoft.  And doing a
+quick calculation, that will be 297
+Microsoft inboxes.  Keep in mind
+that this is for a huge volume,
+right?
+In this example, we are reaching 100,000 people per month.  for
+you.  If you're doing this for your business, you'll
+probably want to start with a lot
+less, right?  This is only because of the
+scale and volume we handle,
+because our total market is enormous.    You should
+do the same for
+Microsoft accounts.  Enter three, follow the
+same process, Microsoft, enter your
+domain hosting credentials.
+The same applies to the sequencer.  You want to
+enter the total number of trays, and it
+will be 99. And the same below.  The
+same goes for down here.  You're going to leave notes.
+As you can see, that adds up to $891.
+Keep in mind, as I said, this is only
+due to the volume we ship.  It might
+be different for you.  And then you just have to
+click on buy
+accounts.  You buy the accounts.  And
+then, Premium Inboxes takes care of
+everything else.  Now, what they'll want to
+do once they buy their
+email accounts.  They probably
+take about 24 hours to appear in your
+account.  I'm going to blur all my
+accounts again, but I just wanted to
+show you this.  So, this is just
+a workspace we have.  As
+you can see, 1,293 accounts, 153 domains
+specifically for Plus Vibe.  It's
+different for each sequencer, but
+just to show you an example,
+right?  This is a
+mail inbox from, um, Premium Inboxes.
+TRUE?  If they go to the warm-up, it
+basically says 100% delivered in the
+inbox;  It shows you all
+these metrics here, um, but the
+main thing I wanted to show you are
+these settings.  The
+daily heating limit is 25;  It will start
+with five as an initial daily limit and
+then increase by three as it
+warms up.  If they do this
+manually, they can also do it
+this way.  Now, I want to show you
+one from Outlook.  So, we'll go to
+Outlook and see.  Same here.  This
+will be six daily warm-up emails
+.  And check out the settings.  Yes,
+I suppose it doesn't increase.  So, they're only going
+to want to put six.  The great thing about
+Plus Vibe, however, is that they can just
+walk in here, click on "
+warm up," and then select
+all their accounts.  Let's say you
+select all these
+mass actions, enable warm-up, and it
+will basically make the best
+warm-up adjustments tailored to you.
+So, if you also want to
+sign up for Plus Vibe, I
+highly recommend it.  Um, the link is also in
+the description.  Now that you have activated
+your warm-up emails, what you
+should do is warm them up for 2
+weeks before sending a single email,
+because this will build
+your domain's reputation.  This way, when
+they start sending emails, they won't tell
+Google and Microsoft that they are spammers,
+because they have all this reputation
+behind them that proves the opposite.  What I would
+recommend is having two sets of
+email accounts.  So they have a
+50/50 or 70/30 split between Google and
+Microsoft, right?  If Microsoft
+gets weird, they switch to Google;  If
+Google gets weird, they have
+Microsoft.  I would also
+recommend creating a batch A and a
+batch B. Okay?  So these
+are the accounts for sending emails for the
+first month.  And then you're going to change them
+every month.  So, after
+the 30 days are up, you're going to exchange them
+for these.  This is going to be the new
+number one.  This is going to be the new B
+here.  And then you'll want to swap them
+every 30 days while one heats up
+in the background.  This will help you get
+the most out of your investment.
+Honestly, it's a little more expensive,
+but you'll never have infrastructure
+as the limiting problem.  So,
+for this reason I recommend doing this: having
+batch A and then batch B
+warming up in the background.  Always swap them out
+every 30 to 60 days, and
+simply maintain that rotation.
+You should be fine.  Now, another thing
+you'll want to do every two weeks is
+check if your emails are arriving in your
+main inbox.  You can go
+to something, I think it's called Mail Reef or
+Serbble or something like that, to check the
+health of your domain.  Just check if you
+'re reaching the inbox
+.  Let's say that happens, well, you
+checked it two weeks later.  No
+emails arrived, or only a
+few arrived.  Anything below 80
+% means your domain is probably
+burned out.  So if you review that,
+you could simply switch to lot B. You could
+even get new infrastructure
+as well.  The reason this
+works, honestly it's the best, I won't stop
+insisting, is because
+infrastructure will never be your
+limiting problem.  Let's quickly review these
+five things.  You should never send emails
+from your primary domain.  Number one
+.  Number two, you'll want to create several
+subdomains from your
+main domain.  Number three, each of
+these domains must have
+separate inboxes and must include
+your company name.  You'll want to
+have different inboxes
+for different domains, right?
+So, for Google, we're going to do
+two.  You can even make three.  For
+Microsoft, we're going to do 49 or 99.
+Number four, we'll have batch A and
+batch B. Number five, warm up your
+emails for 2 weeks.  In this
+video, I'm going to show you my
+exact process for how I filter, enrich, and
+clean 10,000 leads before sending a
+single email.  Literally, every filter I
+use, every step, and nothing will be
+omitted.  So, you can try to do it
+all yourself.  Now, your
+total addressable market, or
+TAM, is the entire market to which you can
+send an email.  So
+, imagine that this large circle is
+your entire addressable market.
+Now, what you don't want to do is
+send the same email to
+everyone in your total addressable market
+.  You want to segment it into different
+lists using different texts, because
+what works for a SaaS company
+won't work for a
+staffing and recruitment firm.  You can think
+of your total addressable market as
+the entire ocean with many
+different fish inside.  And different baits
+will catch different fish.  So, let's say you're
+trying to catch a
+shark.  You're not going to put a worm on
+the hook to try to catch the
+shark.  What you probably want to do
+instead is put in a
+yellowtail tuna, and that will obviously
+catch the shark.  So, this
+is something you should keep in mind when
+considering who you're sending
+emails to.  Because if you send the same
+email to every prospect, they'll quickly ignore you
+and you'll ruin your entire
+infrastructure.  So instead, what you're going to
+do is segment your
+total addressable market.  You want to
+divide the entire ocean into small
+segments.  So, if you want to catch
+a shark, you're going to come here and use
+shark bait.  But if you want to catch
+tuna, you're going to come here and use
+tuna bait.  And this is something you should
+think about even before sending a
+cold email: who it's addressed to,
+what they want, and what they get from your
+offer.  Now, when it comes to your
+ICP, which is your ideal customer profile,
+this will be one of these segments.  Your
+ICP will be here.  So, an
+example of your ICP could be a
+company with 10 to 50 employees that generates
+X amount of revenue and is
+specifically in the
+fashion industry.  So if that's your ICP,
+you want to segment it in the list.  Now,
+once you've segmented your ICP, you'll want to
+go to Apollo to filter the data.
+As you can see here, we're at Apollo.
+Now, what you want to do is go to the
+companies tab.  Now, after
+being on the companies tab,
+you're going to choose the location where
+you want the leads.  OK?  In my
+specific case, I only work with
+people in the United States, so
+I will select the United States, but
+obviously you can adapt it to your needs.  Now
+, what you want to do instead, this
+is what we do here.  You don't have to
+copy this, but this is what
+has worked best for us.  We don't use
+industry filters because that eliminates many
+prospects we could have
+worked with.  So what we'll do instead
+is rely on the
+keywords section.  Then, you're going to
+click on the keyword type here
+.  You will also include the
+company description.  In fact,
+we have this custom GPT that
+shows the keywords you can
+use to target the people you're
+looking for.  So, what we'll say here
+is that, for example, we look for
+recruitment agencies and personnel.  So what you're going to
+do is say: I do
+personalized cold email campaigns.  I am looking for
+recruitment and staffing agencies that can
+benefit from my service.  Give me
+as many keywords as possible
+and separate them with commas.  Then, it will
+give you a bunch of keywords you
+can use to define your ICP.  Okay,
+you can only do 50 at a time in Apollo
+.  So what I'll do here is
+calculate that this is probably
+around 50. Then I'm going to copy
+this.  I'm going back to Apollo and we'll just
+stick them here.  Okay,
+that yields 178.4 thousand results,
+which is perfect.  But we haven't yet
+filtered by company size.  I will
+ask the GPT the size of the company
+and they will tell me the range of employees.
+So, what you'll want to do, and what
+has worked best for us with
+recruitment companies, is
+probably 11 to 50 employees.
+You can use the custom range
+here.  You can put anywhere from 11 to 50. That,
+obviously, reduces it to 35.2 thousand.  Something we
+'ve also been doing to
+ensure our list is super
+segmented.  If you scroll all the way down, to the
+bottom, you can go to page 100. The
+way Apollo works is
+by starting with the best prospects they
+can give you.  And if you go to
+page 100, they'll probably start to
+be a little less accurate.  So what
+you want to do is go to page
+100 and check out these companies here.
+If you see Flex Up Direct here, it's
+probably not a
+recruitment and staffing agency.  We're going to their
+website, "Discover your ideal job,"
+so yes, it's a good fit.  Premier Global
+Recruitment, well, everything looks correct.
+Good.  Harbor Group is probably
+also a recruitment
+and staffing agency.  But suppose, for
+example, that there was a
+financial company here, someone we didn't
+want.  What we're going to do
+now is go back to GPT and tell them that they're
+giving me financial companies.  Give me
+words of exclusion so that doesn't
+happen.  And then it will give you
+excluded words that you can use.  So, what you'll
+want to do is copy this.
+After that, you'll want to go back to Apollo.
+Once you return to Apollo, there is a
+section for excluded keywords.
+You're going to click there and simply
+copy and paste them.  And you keep going back and
+forth with this until you have a
+good list.  So, let's say we
+have a good list here.  Now,
+what we're going to want to do is go to the
+people tab.  Once we're
+on the people tab,
+well, these are all the people in
+the companies that we just extracted.  And
+obviously, 504,000 is too much.  So
+, what we'll do now is click
+on email status.
+We will click on verified, not
+verified, user managed, and
+update required.  We will click
+on all of these to get as many
+results as possible.  That
+obviously leaked more than half.
+So now what we're going to want to do
+is go to jobs.
+We can go back to GPT here and say:
+give me the relevant decision-makers
+in the companies.  So that will
+give us a lot of
+relevant decision-makers, right?  So
+let's copy them.  There are probably about
+50 of them right there.  We'll go back
+to Apollo and just stick them
+here.  You can also click on the
+advanced filter, but for this, we'll
+just paste them there.  And then
+we'll click on them.  Now it takes us
+to 75,500 results, which is more
+than enough.  What
+we could also do is, if you look at the
+location here, there are two
+different types of locations, right?
+There is the account location and the
+contact location.  So the
+account location is in the United States
+.  We want the
+contact's location to also be
+in the United States.  That will filter out
+about a thousand of them.  After
+that, you can also add many
+other things like technologies, income
+, financing, job offers,
+signals, and things like that.  Perhaps
+for recruitment and selection companies
+, or let's say I have a
+recruitment and selection client.    You
+might want to look at job postings,
+because that's an indicator for
+recruitment agencies.  If someone
+is hiring, then a
+recruitment agency can help them fill
+that position.  So that's something
+you can also consider when applying
+filters.  Okay, there are many
+different things you can do at Apollo.
+But for the sake of this example, I think I
+have a pretty well-
+segmented list.  What we can also
+do on this page is go to
+page 100 and check that they really
+fit what we are looking for.  Star Trek
+recruiting, kinetic group, personal
+energy service group.  Okay, then
+Energy Service Group is probably not
+the right fit.  So what
+we can do is the same as before.
+We simply go back to GPT.  We tell him
+that he is giving us companies that we don't
+want.  Then we copy those words,
+paste them into the
+exclusion tab, and continue iterating until
+we get the setting right.
+Let's say you already have the
+right fit.  Now what you're going to do is
+copy this URL.  Next, we'll move on to
+Ample Leads to extract the data.
+Now, in Ample Leads, you just have to
+paste it here.  You select the number
+of leads you want.  So let's
+put in 10,000.  Then you give
+the file a name and start extracting the
+leads.  OK?  For this example, I
+already extracted them beforehand because it usually
+takes about 24 hours, depending on
+who you are looking for.  But once
+extracted, you descend to here.
+Let's assume this one has 9,459.
+We click on export and
+download it as a CSV file.  Now
+that we have it in CSV format, we move on to
+Million Verifier to verify the
+emails.  As you can see here, we are already on
+Million Verifier.  This is super
+simple.  We used to use Zero Bounce.
+It was integrated with Clay, but it started
+to get too expensive and wasn't worth it
+.  Million Verifier has better
+results and is also much
+cheaper.  Unfortunately, you have to
+improve your Clay plan to integrate it,
+and frankly, it's not worth it.
+So, this is the reason why we
+have this here.  Just go to
+Million Verifier.  They're going to import that
+CSV file right here.  Uh, and it will
+probably take about 15 minutes to
+check the emails.  The reason
+you want to verify emails is
+because, if you have a high bounce rate
+, well, that will completely destroy
+your entire infrastructure.  So
+make sure you only send emails to
+people who can actually
+receive them, so you don't waste time
+trying to contact people who will never
+see them and that it ends up affecting you in the
+long run.  The moral of the story
+is: always verify your emails.  Now that
+the emails have been validated, you'll want to
+move on to Clay.  As you can see, only
+5,000 emails were valid.  I'm not
+sure if you can see it, but we got
+5,000 results.  Emails will be
+imported automatically.  Uh, this
+here is something old.  It's ZeroBounce
+, which we used to use, but we can
+delete it for now because we don't
+use it anymore.  There are a couple of
+different things you can do in this
+situation.  After validating the
+emails, you can do something else, for
+example, with your company name.
+If you click on the
+company name, you can add an
+enrichment.  You can go to Clay and
+select normalize
+company name.  You'll want to click on
+this option here.  This will
+basically standardize all
+company names.  I can
+run it to show them to you.
+I will only run the first 10 rows to
+give you an example.  The reason for
+standardizing company names
+is that, if you use them in your emails,
+you wouldn't want to say "personnel and
+recruitment firm S.A. incorporated".  This will
+eliminate all of that so you sound
+like a real person when using this
+customization.  Just one example here
+.  Dice Connect Incorporation.    He
+simply left it as Connect,
+okay?, as the company name.
+Okay, that's just another example you
+can use.  Obviously you can do
+many other different things in Clay
+as well.  For example, if you wanted to
+combine your first and last name, uh, for
+whatever reason, you can also
+look for an enrichment option for that.
+Now, something we've been doing
+is using this customization here, uh
+, to manipulate our
+email text.  But before we get into
+that, I want to review the
+ICP confirmation agent.  So, what we would do
+here to add the
+ICP confirmation agent is to have it
+confirm our ICP.  And
+this is what I mean,
+making sure your list is as
+segmented as possible.  You want to
+make sure that all these people
+fit your ideal customer profile.
+So, to do that, you're going to click
+on tools, then it will say use AI and it
+will want to generate a prompt for you.  So, let's say I
+want you to look and we're going to
+refer to the column here, the
+column on the company website, and
+confirm if they are my ICP.  Only answer
+yes if they are.  If they are not, do not
+answer.  And then, obviously,
+you'll want to ask him to tell you what
+his ICP is.  You can't just guess
+what your ICP is, so you'll want to
+tell him what it is.  And then she'll have to
+keep interacting
+with him back and forth.  Then, he will integrate it there.
+The reason we don't want it to
+respond to anything other than our ICP is
+because it will make it super easy to
+filter out bad data.  OK?
+For example, if I wanted to filter this,
+I would click on filter in the column
+here and say equal to, or simply,
+well, that it has no results, that it
+is not empty.  And that would filter out all
+potential customers who are not
+our ideal customer profile.  So
+, that's just one of the ways to
+confirm your ideal customer profile.    There
+are also many different things you
+can do in Clay.  How to add
+a point of contact here.  That's something
+we use.  And essentially it
+just uses the exact same
+AI information and gives it what it
+wants.  And then, if a problem arises,
+for example, you can use Sculptor to
+work around the problem you're having.
+Sculptor is like a personal assistant
+in Clay that you can use.  Now, what you
+can also use here is something we
+'ve been using, which is to extract your
+best customer or service.  So you
+can see the prompt I have for this
+.  Visit the prospect's company website
+to locate their
+best-performing case study.  Extract
+the name of the company/client from the
+case study, a real business entity
+, not the case title or
+methodology.  If an
+actual company or customer name is not found,
+identify the main service
+the company offers and format the
+result accordingly.  Return
+the results strictly as
+plain text in one of the two formats
+only.  So that's something we
+'ve been using as well.  Now, what
+this looks like in practice,
+let's say, for example,
+potential customers looking for cybersecurity and
+data protection.  Now, this is
+not the recruitment and
+staffing company I just mentioned.  I
+was just using that as an example.  This is
+specifically for
+potential clients who obviously perform that
+service.  So, this column
+here formulates the AI ​​input to
+insert it into a
+real email format where you can use it.
+You could use this in the text in
+many different ways.  One
+way you can use this is: "
+Hi John, if I could connect you with
+more than 15," and then you would insert this, "
+more than 15 potential clients
+looking for cybersecurity and
+data protection in the next 30 days,
+would that be interesting?"  Now, the reason
+this works is because
+you're literally saying, "If
+I could connect you with more than 15
+potential customers from your ICP,
+would that be interesting?"  So, it's like
+a short and direct customization
+that we've been using.  But after
+that, after you've filled all
+the emails, cleaned all the emails
+, confirmed your ICP, and made any
+customizations you want, what you're going to
+do here is click on
+tools, on export, and download
+this as a CSV file to then upload it to
+your sequencer and start sending
+thousands and thousands of emails.  I found a
+way to replace Clay using Cloud
+Code for a fraction of the cost.  And in
+this video, I'll show you the
+exact setup of Cloud Code, the
+custom skill I built
+that literally handles the entire
+lead enrichment flow, and
+exactly how you can download it
+yourself and have it up and running in
+under 30 minutes.  And I'm not going to skip
+any steps.  You'll see the
+complete account creation, how to install
+the skill yourself, and my
+exact NM process that I now use instead of
+Clay.  And if you're spending hundreds or
+even thousands of dollars a month on
+Clay right now, this video will
+save you a lot of money.  Now,
+Clay has been a very important part
+of our technology stack for a
+long time.  Honestly, we use it
+for everything when it comes to enriching
+leads, verifying data, and
+adding a bunch of customizations
+.  And don't get me wrong, Clay is an
+amazing tool.  But here's
+the problem.  Once you start
+climbing, those credits accumulate
+too quickly.  You start paying for
+cascading enrichments,
+AI credits, and you pay for every row in your
+table.  Then one thing leads to
+another.  You're faced with a bill that
+probably amounts to thousands.  And
+then I thought, why am I still using
+Clay if Claude Code can do
+exactly the same thing?  And if you compare the
+two, Claude Code not only offers
+better results, but it costs a
+fraction of the price.  And honestly,
+I think the best thing about Claude Code is that you do
+n't need to have any
+programming experience.  This literally took me
+an hour to build and I'm
+going to give it away for free.  So, without
+further ado, let's get straight to the
+video.  The first step is quite obvious
+.  You'll need a paid plan from
+Claude.  And if you look at the screen here,
+they have two different options.  They have
+the $20 a month plan, the $100 plan, and
+you can adjust the usage as needed.    There
+are also options for teams
+and companies.  We'll probably
+upgrade to this one, because as I said
+, we'll be replacing Clay completely.
+But honestly, you can use the
+$20-a-month one and it will work
+perfectly fine.  Okay, now that
+you've downloaded Claude Code and purchased the
+pro plan, the next step is to install
+the tool.  You have two
+different options.  You can create your own
+custom tool.  Perhaps
+you are using different tools.
+In my case, I'm using the
+Million checker from AI Arc.  And that's
+honestly all I need.
+You can build this to your liking.  Just
+go to Claude Code, tell him what you want to
+build, and he'll tell you what he needs from
+you.  And then you can simply
+build it yourself.  Or if you want to
+use my custom tool that
+I'm about to show you, you can click
+on the first link in the description.
+And then you simply do this.  Go to
+Claude Code, say "download this
+tool", press V to paste it, and it
+will start downloading.  And then you
+just have to give it the instruction
+to start the tool when you're
+ready.  Good.  As you can see here,
+the download has just finished.  These are the
+instructions that appear here.
+Click exit right here.  As you can see, the
+tool has just finished
+downloading.  Basically, this
+comes from your
+lead generation pipeline repository.
+That's the name of the skill.  It's a
+cloud-based codebar command
+that guides you through a
+five-step workflow to capture ICP,
+extract, filter, and verify emails.
+Ask about customization if
+you want to add details such as your
+best case studies,
+main services, custom names,
+etc.  Then, run the entire process.
+So, what we'll do here is
+ask: what do you need from me to make
+this work?  Then he'll tell you
+exactly what you need.
+Obviously I'm using AI Arc.  So it will
+tell you what API keys
+you need.  I would go to AI Arc.
+Click on My Settings and then on the
+API Keys panel.  Obviously I'm not going
+to show it because it would reveal my
+API key.  I don't want to show my
+API key.  But it's very simple.
+Just click here.  Copy the
+API key and paste it here.  And you can do
+this for literally any
+lead generation system you
+have.  I am specifically
+using AI Arc.  It will tell you exactly
+everything you need.  And then you just
+give it all the API keys so it
+can execute the command.  Once you
+have your keys, the
+lead extraction key and the email verification key.
+All you have to do is go to your
+terminal and say something simple like
+this.  I have Whisper Flow, so I don't have to
+type everything out.  Hey Claude,
+can you use my
+scraping pipeline skill to find me 50
+recruiting firms in the US, with
+1 to 10 employees? I want founders,
+CEOs, co-founders, and owners.  We'll see
+what it does; basically, it will read the
+files we gave it and the contents
+of the directory.  He will also read the MD and
+then proceed with the task.  Something
+else you should do is click
+here and put it in automatic mode
+so it doesn't have to ask you before
+doing each thing.  Basically, it
+does everything by itself without you having to
+ask for permission.  That's the good thing about
+this.  You can simply ask him to
+do it.  You can go work on something else
+and if it has a bug, it will usually
+debug itself.  Basically,
+this is going to be the entire workflow.
+So he's going to perform the search.
+It will confirm the ideal customer profile
+that I provided.  He's going to check the
+emails.  It will ask me to
+customize everything if I want, such as
+case studies, etc.  And then it will create
+a CSV file so you can upload it to your
+sequencer.  Now, the cool thing is that I
+said I would target 150
+potential clients to secure only 50.
+It will be 150 because, after
+verifications and
+profile confirmation, we might lose some
+contacts.  So, in reality, it goes
+a little overboard to ensure you
+get the number of leads you
+want.  OK.  As you can see
+here, after telling it to search for
+staffing and
+recruitment companies, there was a problem with the
+API key, but we fixed it.  I just
+asked him to check it.  Sometimes you'll have to
+debug, but it usually
+corrects itself and is quite fast;
+As you can see here, it says it obtained 118
+verified leads.  I don't have to read
+the data to filter the profile and
+customize it myself.  Okay, it
+will also detect duplicate data here.
+Remove duplicates and apply
+profile filtering.  He will visit all of your
+websites and then write the
+customization we want.  Look, it's going
+super fast.  It obtained 66 clean leads
+.  Some adjustments should work.
+Keyword mismatch
+.  So basically it corrects itself
+and you just relax.  You really don't have to
+do anything.  Basically, he'll do
+everything for you.  And it's as if she's talking to herself
+in a way.  I said 50
+clean leads, all with
+valid emails, now looking for the 50
+websites.  I forgot to show you this part.
+You can say something simple like this.
+Since we already have the leads, I want you to
+clean up all the
+company names.  And I also want you to create
+a column with your
+most outstanding case studies.  If you cannot find
+the case study, add an
+alternative way to find the
+main service the company offers.  And
+you just say something like that.  And then,
+basically, it will proceed: since we already
+have the leads, I want you to clean up
+all the company names.    I
+also want you to create a column
+with the most outstanding case studies
+.  So he will do exactly what we
+ask him to do.  So you don't have to
+do all this manually.  Just like
+in Clay, you would need to
+add an AI column.  You would have to
+run the column and spend
+a lot of money.  Some of the
+results wouldn't even be
+correct.  But with Cloud Code, the
+quality is truly insane.  Good.
+Ready.  As you can see here, that
+probably took about 2 minutes.
+He said I read all 50 websites,
+writing clean company names
+and case study texts for each
+one right now.  Verified.  Very good.
+Emails, clean company names,
+extract the real data.  So now
+let's check it out.  I'm going to tell him to
+bring me the CSV file.  so that I can
+click on it.  Honestly, you can
+say something as simple as that because he'll
+send you this file.  It will take you to
+this pile of code even though it
+says CSV.  It usually downloads
+directly to your files, especially
+once you have automatic mode enabled
+as well.  Okay, so
+you can see this.  So we have the
+names.  I'm going to blur all this
+information because obviously I don't
+want to get sued or anything like that
+.  So I'm going to blur all
+this information from here.  But as
+you can see, first name, last name.  It has the
+full name next to it.  So, in case
+you wanted to add something like a "lead
+waterfall" to that, it's something I
+do too.  If I'm running a
+large search in a small niche and
+I need to get as many emails as
+possible, you have the emails here,
+the status, the job title, and then you have the
+hierarchy, the department, even their
+LinkedIn link, the person's location
+, the city, and it gives you all this
+data.  And you literally just had to
+sit down and, well, I can show you
+this.  So, notice how it says
+prospects seeking
+executive search.  and simply customize
+one for each of them.  So, it
+'s not the same, and it's customized
+for the exact prospect because,
+obviously, once you do
+searches without AI, or really
+any lead database, no
+matter how many filters you put on,
+especially if you do a
+large search, not everyone will be what you're trying to
+target.  So this helps to mitigate
+people reporting you as spam, etc.
+because it's still personalized
+for them.  So, as you can see
+here, there are many different things you
+can do with this as well.
+You can add, you know, a bunch of
+different custom fields,
+clean up company names, whatever
+you want to do with Claude.  You just have to
+tell him what you want to do, he'll
+tell you what he needs from you and he'll
+basically do it.  Now, I also
+wanted to show a comparison of
+Clay's credits.  You have the
+launch plan which costs $185 per
+month.  You only get 15,000 credits.
+There is a growth plan.  It costs
+$495 a month.  And then there's a
+personalized plan.  And it gets super,
+super, super expensive, especially
+once you add in your OpenAI credits
+and the different models you use.
+But you just did all that
+automatically and it only cost $20.
+Obviously, on a larger scale, you'll have to
+buy a bigger Clay plan
+because it doesn't have as many credits.  But
+only in comparison, it's nothing
+compared to Clay.com.  So, that's
+exactly why we
+switched.  Also, in Clay, if I had to
+do all this manually, it would
+probably take me hours,
+especially trying to debug the
+AI ​​models and things like that, trying to
+filter all the data and doing a
+lot of tasks.  It would probably
+take me hours, but this literally
+took me probably between 10 and 15
+minutes.  Everything was automated.  And yes,
+if you're selling something right now,
+I know what you think the problem is.
+You believe you need better marketing,
+more leads, and a
+larger audience.  So you go
+after all that and the situation never
+changes.  And this is exactly what
+most people never realize
+.  An offer is not something you write just
+once.  There are six
+different pieces that are in motion.  And
+if even one part is bad, the whole
+offer fails.  And your customers notice
+that flaw.  They simply don't buy.  And you
+never find out why.  So,
+here's the plan.  I'm going to show you
+exactly what an offer is versus what
+you think it is.  How to get
+someone who's never heard
+of you to actually say yes.  How to
+use guarantees to eliminate all
+risk from the table.  At the end of this,
+you'll be able to see your offer and know
+exactly why buyers
+aren't purchasing your items.  And I'm not going
+to hide anything.  So, let's jump
+straight to the video.  Now, the
+first thing we're going to talk about is:
+what is an offer?  Most
+people think that an offer is just
+describing the service they offer or the
+deliverables that come with it.  An
+example of this would be saying: we have
+a lead generation agency.  And
+honestly, that's the sad thing about
+most people's offer, but that's not
+an offer.  That's simply the
+service you provide.  How do
+we turn this into an offer? And what
+is an offer?  An offer is what the
+potential customer gets from the service
+or product you offer.  So you
+need to be very specific about what
+the customer is actually receiving.
+An example of this would be: 10 to 15
+qualified discovery calls
+scheduled on your calendar each month.
+That's what the customer gets from the
+service you provide.  If you can't
+express what the buyer ends up with
+regardless of what you
+do to achieve it, you don't have an
+offer yet.  The main thing the offer should
+achieve is the end result for the
+buyer, not how it achieves it.  You do
+n't want to sell the
+travel experience.  You want to sell the
+vacation.  He doesn't want to sell the idea of ​​having to
+get on a plane, having to go
+through security, all those things to
+get to the vacation.  You want
+to sell them on what it will be like to be there,
+right?  The beach.  Uh, probably with
+a drink in hand.  He understands the
+idea now.  Now, there are four questions that
+every offer must answer.  Number
+one is the result.  Number two is
+the mechanism.  Number three is the
+reversal of risk.  And number
+four is the form of payment.  Okay,
+let's start with the result.  What does
+the buyer end up with?  It must be a
+change of state, not a deliverable.
+TRUE?  And in the example we're
+looking at, they end up with 10 to 15
+each month.  Now, the mechanism: how does it
+work? Why does your approach produce
+results when others don't?
+What makes you different from the
+rest?  Risk reversal.
+What happens if things don't go well?    It
+should be part of the offer,
+especially when selling to
+cold traffic.  Now, the payment method, this is
+self-explanatory.  What is the
+value exchange like? Is it a
+one-time payment? Is it an upfront charge, an
+advance, performance-based, hybrid,
+etc.?  Your offer should answer these
+four questions, especially when
+dealing with cold traffic.  And if your
+offer omits one of these or leaves doubts,
+the offer will simply be filtered out.
+So make sure you answer
+these four questions.  And this is
+exactly what every
+skeptical buyer thinks when they see your offer.
+The promise, what result will I get?
+The guarantee.  What happens if it doesn't happen?
+And then the evidence.  Who else
+has achieved this?  In other words, as a
+case study.  Evidence always beats
+guarantee, always.  You can offer
+a money-back guarantee.
+Even without a guarantee, if you have a
+success story of someone in your niche
+achieving the desired result, the
+value and confidence will be much
+greater than with any guarantee.
+But if you combine both, your offer is
+truly solid when you have
+social proof, a success story, and a
+very strong guarantee.  Now, the second thing we're
+going to talk about is what
+a result really means.  Okay,
+a result is a change of state.  An
+incorrect example of this would be a
+deliverable, right?  As we saw in the
+first example, we have a
+lead generation agency.  A
+correct state change would obviously be just that,
+a state change.  You are changing
+their current situation.  They feel the
+pain.  They do not have
+scheduled discovery calls.  So you're going to
+solve that problem for them.  10
+to 15 qualified discovery calls
+on your calendar each month or
+we work for free.  What you need to
+understand is that buyers measure
+the change in status against their
+current pain.  What they want are
+scheduled discovery calls.
+They want them to be qualified.  In this
+example, that's what happens, right
+?  They are receiving
+qualified discovery calls on their
+calendar.  The deliverables don't connect
+, right?  You're not going to convince
+potential customers by sending thousands of
+emails daily or qualifying leads
+.  Whatever your process does, you should
+n't sell that part to the customer.
+You must sell them the dream result,
+what you do, not how you achieve it.  Now
+, the way I like to do this is with the
+"so that" ladder.  For example,
+we implemented a
+standardized integration process.  The
+potential customer will say: Why?  And
+then you should add: so that
+new customers get value
+faster.  What does that mean?  To
+reduce the cancellation rate in the first 90 days.  Okay, what does
+that mean?  To
+reduce the average duration of your contracts.
+So this is something you should
+think about: the "why" ladder.
+We send thousands of cold emails every
+day on your behalf.  So that you have as
+many prospects as possible,
+so that we can schedule
+discovery calls for you, and so that you can
+increase your income.  That was a bad
+example, but you get the point.
+You want your deliverables to lead
+to the value you provide.  You never
+want to stop at a step that the
+buyer sees as intermediate.  You want
+to focus on the feature you
+describe that works.  Basically,
+you want to go up to the endpoint
+you described, that is, the value.  This
+is how you use the "so
+that" ladder.  You can still link your
+deliverables when presenting your
+service or product, but you should always
+lead to the value you are
+providing.  Now, something you need to
+determine with your offer is: is it
+demand capture or
+demand generation?  Demand capture versus
+demand generation.  Let's review each
+point so you can see which is which and
+where your offer basically fits
+between the two.  Demand capture refers to
+people who already want it and are
+actively searching for it.  Okay, an example of this:
+a shampoo brand, people
+actively searching for shampoo at that moment.
+Demand generation comes from people who
+have a dry scalp, but do
+n't yet know if they need your product.
+That's just one example.  I use shampoo
+as an example, but in
+lead generation it would be people
+actively seeking lead generation for
+their business versus
+demand generation.  People who need new
+leads, but don't yet know if they need
+your services.  Now, your job in
+both: for demand capture, your
+job is to be the most credible option.
+You need to make yourself credible in your
+demand capture offer.  But in
+this case, you need to create a change in
+beliefs before selling anything.  You need to
+point out the problem to them before
+trying to sell them the solution.  If that
+makes sense.  Now, volume when it
+comes to this and conversion.
+When it comes to demand capture, you
+only need to handle a low volume
+and you get a high conversion rate.  But
+when it comes to
+demand generation, you have to handle a
+high volume and the conversion rate is very low,
+right?  Because you're selling to
+cold prospects.  They don't yet know
+if they need your service.  So,
+basically, you have to show them that they
+need your service, if that makes
+sense.  Now, when we talk about
+creating texts specifically
+for cold emails, when you contact
+these prospects or prospect
+in general, you should go straight to the
+problem/solution with
+demand capture.  And in this case, the first step must
+be education about
+worldview.  The one on the left is
+probably a short and direct text.
+And the one on the right is a question
+about a pain point, followed by
+your offer.  So it has to
+be a little longer.  If you have a
+company or agency, we actually
+create, run, and manage
+campaigns for many clients across
+various industries.  So, if
+you want us to manage your
+prospecting, you can click on the
+link below and book a
+free strategy call.  Now, every
+offer I create is based on
+Alex's value equation.  The value equation
+, in case you don't know it, is: value equals
+desired outcome times
+perceived probability, divided by delay,
+effort, and sacrifice.  So,
+let's analyze it together.  We will use
+the lead generation example again
+.  The desired outcome is that
+people want more leads.  That is the
+dream result for people.
+Understood?  Now, the
+perceived probability they have in mind.
+Lead generation agencies feel generic
+.  The delay.  It takes about 3 months to see a
+real impact and the effort is minimal or
+nonexistent.  They don't really have to make
+an effort because it works in the
+background.  They only have to handle the
+sales side, basically the
+sales calls.  They don't have to touch
+anything.  They don't have to answer messages.
+But this is just one example of a
+lead generation offer.  In
+all markets, the
+desired outcome is almost never the problem,
+because people know what they want.  The
+perceived probability is almost always
+the problem.  Nine times out of ten, it's
+because lead generation agencies feel
+generic.  You must include something that
+differentiates you so that their
+perceived probability of your service achieving what you
+promise, their dream result, is
+greater.  To strengthen that
+perceived probability, you should add case
+studies and social evidence that
+demonstrate you can deliver on your
+promises.  And you can even add
+guarantees to improve the perception,
+like a money-back guarantee
+, right?  Because someone
+will think, "Well, if I pay for this and don't
+expect to get results,
+I'll get my money back anyway."  Therefore, the
+perceived probability of obtaining the
+result is much higher thanks to the
+money-back guarantee.
+So, how do we draft a
+conditional guarantee?  The first thing we
+will do is define the measurable result
+.  What exactly should have happened
+, for example, from 10 to 15
+qualified prospecting calls on
+your calendar each month, and the timeframe,
+by when each month?  And then
+we define the consequence, that is,
+We work for free.  You want to be as
+specific as possible when naming the
+consequence to increase their
+perception of the likelihood of success.
+And finally, you need to define the
+conditions, okay?  What the
+buyer must provide for it to be
+valid.  Naturally, the less
+the buyer has to contribute for it to
+work, the more they will want it, because they only
+have to make the payment and it happens without
+them having to invest much
+time.  Especially if they own
+businesses, right?
+Business owners don't have much time to
+invest in seeing if something works.  But what they do have
+is money.  So
+they're willing to exchange money for
+time any day.  Now, the best
+offer that works with cold traffic
+is something called an entry offer.
+Basically, offer something small and
+free that solves a minor problem
+within the larger problem you're trying to
+solve.  This is exactly what
+works with cold traffic.  What doesn't
+work is the free guide on the
+topic that you offer.  Okay? How is
+anyone going to get any value from that?  But what
+might work is a
+free audit of your
+specific situation.  For example, if you're a
+web designer, you'd offer a
+free audit of
+their site's loading speed, right?  And to show
+how much faster it could be.  Now
+, another example would be a
+recorded webinar.  Nobody is really going to get
+much value out of that.  What you can
+offer instead is a
+free live strategy session.  Another one that does
+n't work is a checklist PDF
+.  Unless it's
+extremely valuable, but
+nowadays many are made with AI and have
+lost all their value because it's just
+automatically generated garbage content.  What you can offer
+instead is a free sample of
+work on your actual asset.
+As a lead generation agency
+: "Let me schedule five
+calls with you to show you that this
+works."  A generic free consultation
+doesn't work.  A
+free diagnosis with written findings;
+this goes back to the SEO example I just
+used as well.  Now, the
+real question is: Does delivering this
+cost you real time or resources?  That's what
+creates the value of this, because
+obviously these don't cost you
+real time or resources, but all of these
+do.  So if you dedicate your time and
+resources to the potential customer, they
+will be much more likely to
+buy from you, especially with
+cold traffic.  They don't know you.  They don't trust you
+.  You have to give them a reason to
+trust you.  Now, to emphasize the
+point, a weak offer.  Once again,
+we help companies grow their
+sales flow.  Just a
+generic lead generation agency.  This
+is what everyone is saying.  But you can
+make this offer solid
+by saying, "We guarantee 50 meetings in
+the next 30 days, timeframe of
+how long it will take, or risk reversal
+. You don't pay."  And when it comes to
+turning your offer into a
+prospecting message that you can actually use
+for these cold leads, you can
+use this framework here.  It is an
+exact text structure.  Line
+one will be a relevant hook, something
+relevant to them.  Especially if
+you have a demand generation offer
+where you need to generate the demand.
+Here you want to include a question
+about a pain point.  It will just be a
+sentence that shows you understand the
+problem they face and that you know their
+world better than they do.  Then, lines
+two to three, you want the
+specific result.  What are you doing to solve
+the problem they are facing?
+Line four will be a test or the
+mechanism.  Basically, a line that
+makes the result credible, whether it's a
+result from a client or the method
+that delivers it.  I would simply
+cross this out.  You don't want to explain what
+you do in the prospecting message
+.  If your offer cannot be explained in
+one sentence, then you don't have an
+offer.  You want to make the
+desired outcome for the
+potential customer as clear as possible.
+Then, on line five, you could add
+a risk reversal and a call
+to action (CTA), something like a
+low-friction request, "Is
+the conversation worth it?"  You never
+want to say, "Do you have 15 minutes
+sometime this week?"  They're not going
+to answer you.  And even if they do, they won't be
+the highest quality potential customer
+.  Because asking a stranger for
+15 minutes of their time when they don't
+even know you is simply a
+bad idea.  It's like asking to marry you on
+the first date.  Now, something else I
+wanted to show you is the
+seven-
+axis scorecard.  This is basically a
+checklist that I review every time I
+create an offer for myself or one of
+my clients.  Number one is the
+packaging or what makes you different.
+You want to name the
+specific person, the problem, and a
+named or generic mechanism.  Now, number
+two is the economy or margin, the
+after-profit or
+adjusted market price.  Number three is
+scalability.  Cheaper to deliver
+at higher volumes or the same cost each
+time.  Number four is
+market power.  Can you improve the
+conditions without
+losing interest? Can you raise the price
+without people losing interest?  The
+number five is the strength of the
+mechanism.  Basically, it explains
+why others failed and why you are
+different.  Number six is ​​the
+volume of tests.  A large number
+of case studies of
+similar or scarce buyers.  Now, let's assume you're
+targeting staffing and
+recruitment companies.  For example, if you have
+five case studies of
+staffing companies, the outcome you're trying to
+sell to this potential client, and you only
+have one stack of social proofs, the
+probability of them buying will be much
+higher.  That's why you want to sell a
+person, a product, or a service to a
+single avatar, because you can accumulate your
+social proof.  If you try to show
+a mergers and acquisitions advisory firm
+the results you
+achieved at a recruitment firm
+, the first question that will come to
+their mind is: how do I know this
+will work for my industry?  That's why it
+'s so important to have social proof
+for the avatar you're trying to offer your
+service or product to.  And number seven
+is the guarantee.  Is the
+conditional result strong enough
+to believe, or is it weak?  Your
+lowest score is what's
+costing you sales right now.  So
+first you have to fix all of this.
+You want to check these seven points on the
+dashboard.  Now, here's the
+honest truth.  You can create the best
+offer in the world and it still won't go
+anywhere if no one sees it or, more
+importantly, if you put it in front of the
+wrong people, because
+frankly, an offer is only
+half the battle.  The other half is
+a system that puts her in front of the
+right people at the
+right time.  The complete setup
+for reaching them and a way to
+build a list of people who
+really want what you have.  So
+watch this video here to see
+the full setup.  If you're
+sending personalized Loom videos
+to every potential customer in your
+cold emails, you're wasting time on
+something that doesn't even work that well.
+I used to do this too.  And then
+I started doing the math.  1,000
+prospects, 60 seconds per video.  That's
+16 hours of recording before I've
+written a single email, created a
+list, or warmed up a domain.  But
+trust me, there's a better way.  And
+in this video, I'm going to show you
+exactly what we do instead
+.  Just one video that does everything
+a custom Loom is supposed to do
+, without the
+manual workload.  Don't get me wrong,
+custom Loom videos still
+work.  But here's the problem
+with them.  You mention their name, open
+their website, and refer to something
+specific about their business.  So it
+feels personal and it feels human.
+The problem is that, on a large scale, it ceases
+to be personal.  It begins to turn
+into a production line.  You're going to
+spend 60 seconds recording the video.  And
+then you have to spend another 60
+seconds editing or trimming it.  And
+then another 60 seconds uploading it and
+adding it to the sequence.  And you have to
+do that for every
+potential client every day.  And the
+results aren't even 10 times
+better than those of a well-
+written email.  Literally, it doesn't even come
+close.  So you end up
+trading hours of your week
+for only a marginal increase, if any
+, in response rates.
+However, there is a deeper problem,
+because the trust that makes
+someone book a call does not come
+from you mentioning your company's name
+.  It comes from you actually
+demonstrating that you know what you're
+talking about.  And that's the main part
+that most people
+overlook.  You have to think of it as a VSSL.
+A good VSSL takes a complete
+stranger and leads them to make a
+purchase without knowing anything about them.    It
+works because the content
+itself is compelling.  The authority is
+real and the offer is clear.  This is how
+you need to think when you make your
+Loom video for cold emails, because they
+work in exactly the same
+way.  A video recorded once and
+sent to each interested response you
+receive.  And when this is done right, it
+surpasses any custom Loom video
+out there, because
+trust is based on the content, not
+on the fact that you opened their
+LinkedIn profile before you started recording.
+Now, what we do at Velocity Flow
+is use a custom GPT trained
+with Alex Hormozi's value equation
+, and it's called 100 Million Offers.
+Then, you would simply enter a
+quick notification.  You would say something like:
+I need to create an entry-level offer
+for an all-inclusive cold mailing agency
+.  And then you're going to send that
+.  Then it will ask you a series of
+questions and you will continue interacting
+until you receive an entry offer.  In
+this case, I'm going to use a Loom video
+as an entry-level offer, showing the
+mechanism or strategy that helped
+client XYZ achieve result XYZ.
+Understood?  So, how would I
+structure that in the
+email text? I like to keep them brief,
+as if I were writing to a friend.  So I would
+say: [Name], I prepared a
+quick 2-minute video showing the
+strategy we used to help
+client XYZ achieve result XYZ.    Do
+you mind if I send it to you?  This is
+exactly what we've been using
+here at Velocity Flow and it's what
+we've found to work best.
+So, as if you were writing to a
+friend: [Name], I prepared a
+strategy or mechanism, or whatever you want
+to call it.  That we use to help
+client XYZ, who will be your
+success story, achieve the result they
+obtained by working with you.  Do you
+mind if I send it to you?  Instead of
+offering your main service
+directly, the reason the
+entry offer is so good is that it
+requires very little effort from the
+potential customer.  All they have to
+do is answer "yes" and you
+'re already giving them value.  You're not
+asking them for anything yet.  Here's another
+example.  So: [Name], I prepared
+a quick 2-minute video showing
+how you can get more than 15
+leads, and that would include your best
+success story.  As prospects for
+client XYZ, or you can also put your
+main service, such as: more than 15
+prospects looking for
+marketing services in the next 30 days.  Do
+you mind if I send it to you?  It's the same
+strategy here.  It works very well.
+This is more for a
+personalized approach.  As you can see, the
+success stories here make it personal.  But
+for him, it doesn't have to be
+personal.  And you can create the
+VSSL video type.  And once they answer
+yes, there's a 90% chance they'll
+click on it.  Basically, you make
+the sale in 2 minutes within that
+video.  And the prospects will arrive on the
+call very interested and ready to
+buy if they end up booking an appointment
+with you.  And when it comes to recording the
+video itself, there's a two-
+part frame you must follow every time.  So
+, if we move on to the screen here, the
+first part is to disassemble.  You're going to
+start by recognizing the format.  You don't
+want to jump straight into the
+sales pitch yet.  You
+mean something like, "Hey, I thought it
+would be easier to record a
+quick video than try to explain everything by
+email."  TRUE?  That will
+lower their defenses.  That way they don't feel like
+they're being sold to immediately
+when they click on the video.  And that's
+all.  It has to be super casual.
+You want to sound human.  It will eliminate the
+feeling that they are about to watch
+a sales presentation.  And it
+actually makes the video feel
+more personal than if you tried to force
+personalization, like sharing their
+website and doing all that, because it's
+obvious you're just trying to sell to them.
+However, when you make a video like that, it
+almost feels like you're creating
+a lead magnet, like
+you've created something free for
+them so they can do it on their own if
+they want.  And then the second part
+will be the test part.  So,
+immediately after they are
+disarmed by your recognition of the
+format.  You'll give them a reason to
+keep watching.  So you have to
+answer these two questions.
+Why should they listen to you, and what have you
+actually done?  Obviously, you could
+start with tests like: "We help
+client XYZ achieve results."  That
+'s exactly how we did it.  I just
+wanted to show you so you can
+do it on your own.  Now the
+prospect's defenses are
+immediately down.  This is
+exactly what we
+essentially do at Velocity Flow.  Sometimes
+we book meetings for
+service companies using cold emails.  But
+we work with many
+different companies as well, such as UDC agencies,
+fractional finance directors,
+recruitment and staffing firms, and
+even in the financial industry,
+which we are just beginning to access.  The
+most important thing is that you should
+keep it brief.  One to two minutes
+is what we've actually seen
+work best, because at the end of the
+day these are business owners who are
+n't going to sit and watch a five-
+minute video, and nowadays
+everyone's attention span is completely
+exhausted.  So you want to keep it
+super short and straight to the point
+after you've lowered their defenses.
+Okay, but obviously it has to be
+real and sound like it's not made up,
+because if they see that, they'll leave in the
+first few seconds of the video.  So I
+wanted to give you an example of a script
+that I would use so that you can copy it
+and use it yourselves.  Essentially,
+I would say something like this.  Hello,
+first name, or I wouldn't even say hello name,
+because obviously it's not
+personalized.  Hi, I thought it would be
+easier to send a quick video
+instead of trying to explain it by email
+as we discussed.  It lowers your defenses.  A
+quick background on who I am.  So you're going
+to introduce yourself.  For example, in
+my case, I manage Velocity Flow.
+We build and manage
+cold mail systems for B2B companies.
+Meetings every month for clients in
+business services or you can list
+the services you want.  I don't know,
+essentially I said commercial services
+in this sense, but list the services you're
+obviously aiming for.  And I want to
+show you exactly how the system we
+use is different from what
+most agencies do.  Explain
+why you are different, why you
+stand out.  Again, instead of sending
+mass emails to huge lists,
+we created targeted infrastructure:
+specific domain,
+specific sequences, and segmentation focused
+on your actual ICP.  The result is a
+much higher response rate from
+people who are truly
+qualified.  You could even add
+intent-based segmentation for us.  I could add that there
+too.  And then you would say what
+I offer: a free audit.  I wouldn't
+use a free audit here.  Um, it
+simply increases
+sales friction, but you'd say
+courtesy audit.  We have a call.  I analyze
+your current situation.  I'll show you
+exactly what a
+campaign would look like in your market.  In other words,
+time, volume, what kind of
+results are realistic.  Um, and then
+you take that information and do whatever you
+want with it.  No pressure.  Then you're
+also going to add, I don't know if
+you're familiar with Alex's value equation,
+but you want to add urgency to the
+offer.  So, we're only doing
+this for a small number of
+companies right now, specifically
+established companies that want to
+have a consistent outbound channel.
+So, if that's you, just
+reply to this email and we'll schedule
+something.  And yes, that is essentially the
+exact script I would use.  Obviously
+, there are many things I would adjust, but
+you can take this script.  I'll leave it in
+the description below in case you want to
+use it in your Loom video.  Now,
+changing your mindset here is super
+easy.  Stop trying to scale
+personalization.  What you want is to
+increase your authority.  A video based
+on clear evidence and a real offer
+will outperform any
+custom Loom video.  You just have to
+record it once and let it do the
+work for you.  It's exactly the same
+as VSSL.  As I explained, the way
+most people prospect on
+LinkedIn in 2026 is completely broken.
+They send connection requests
+manually, copy and paste the same
+message to everyone, and wonder why
+no one responds.  There is literally a
+tool that automates the entire
+system and is getting me an
+absurd number of calls every month.
+In this video, I'll show you
+exactly how to set up an
+automated LinkedIn prospecting machine
+that works while you sleep.
+And most people still don't know this
+tool exists, which means
+that right now is a great opportunity
+.  LinkedIn alone has generated
+hundreds of meetings for our
+agency.  So I'll show you
+exactly what we're doing.
+I'll guide you through
+account setup,
+segmentation, how to write
+response-generating sequences, and
+campaign launch, all in
+under 10 minutes.  And if you're
+prospecting B2B and not using LinkedIn
+to generate leads for your business, you
+'re losing thousands of dollars.
+So let's fix it.  And the
+tool we're going to use is called
+Aimfox.  Now, this is what really
+makes it different.  Every other
+platform I've seen forces you to go
+to Sales Navigator, copy the URL and
+paste it into the platform.  And there are
+too many steps.  But with Aimfox,
+Sales Navigator is
+literally integrated within the platform.
+There are so many things you can do.
+You can search on LinkedIn.
+You can use event attendees.
+You can even upload a
+custom list, such as a CSV file from LinkedIn
+that you've already extracted.  You can use "
+who interacts with posts,"
+thus targeting users who
+interact with posts.  You can even
+use group members.  Obviously,
+you can also use the basic Sales Navigator
+.  You can even upload leads
+from tools like Smartlead or
+any sequencer you use.  And the
+best part is that it's all in one
+place and you don't have to jump between
+different platforms to get the
+data you want.  Now, the first thing you'll
+want to do is set up your
+account on Aimfox.  To do that here,
+you're going to click on add account.
+You can do it through the
+Aimfox Chrome extension.  So
+you can connect to Aimfox using
+an existing LinkedIn session.  This
+is completely safe.  You just need to
+download their cookies or
+you can simply use your email and password.
+But both are safe.  So,
+basically, let's say we're going to
+add the extension here.  We will
+click on next.  You are going to select your
+location.  We will click on next.
+And then it will probably ask you to
+add cookies to your browser to
+set up your LinkedIn account.
+So, let's just
+click on connect.  Now, as you can
+see, mine is already connected.  So
+, what we're going to do is click
+on the three dots here.  We're going to go
+to account settings and then you'll
+click on interaction limits per
+week.  Click here and this
+will show you if your account is ready;
+obviously, you can activate the
+warm-up here.  If you're
+starting with a new account, you can
+configure the warm-up settings
+here, but my account is already warmed up
+.  So we can set our
+connection request limit.  I'm
+going to set it to 200. For
+message requests, I'll set it to 150. And for
+InMails, I could also set it to 150.
+Obviously, you can adjust this depending on
+how active your LinkedIn account already is
+.  Once that's done, we
+click save to keep all
+that data.  Now, we're going to
+show you how to set up a
+campaign.  To set up a campaign, you
+need to go to the
+campaigns tab here.  You will click on
+campaigns.  You will click on create a
+campaign.  And now, the great thing about AimFox
+is that you can run an
+outbound or inbound campaign.  OK?
+An inbound campaign would be, for
+example, targeting people who
+are already connected to you.  If you want to
+send a mass message to all your
+contacts, if you haven't contacted them
+before, that's what you would use it for.  You can,
+of course, perform a search on
+LinkedIn.  You can use
+event attendees.  You can upload a custom CSV file
+.  You can upload them from
+Smartlead.  You can target users
+who have already interacted with your
+posts, group members,
+Sales Navigator, or
+LinkedIn searches.  What we are going to do is
+conduct exit prospecting.
+So, let's focus on
+second and third degree connections.
+So we can do the same here.
+Essentially, searching on LinkedIn,
+event attendees.  You can upload a
+custom CSV file with people.
+For this example only, however,
+we will use Sales Navigator.  So
+the first thing we want to do is
+give the campaign a name.  We will be
+working on personnel selection and
+recruitment.  So you need to
+give the campaign a name.  You will
+select your LinkedIn account here
+.  For this case, I'm going to use my own
+LinkedIn account.  And then you can
+choose your type of reach.  Do you want to
+use InMail or do you want to make connections?    Let's say you're
+trying to grow your
+LinkedIn account to help you
+connect with more people.  You're going to
+click on connect.  And then you can
+select your maximum goals
+here.  The minimum would be 250, or not the
+minimum, but rather the
+default value it has.  I believe 199
+is the maximum if you don't have Sales
+Navigator, but if you do, I think it
+'s 299. For this example,
+we'll just use 199. And then you can also
+exclude targets.  You can exclude
+goals based on campaign activity
+or profile details.
+So, we can click here.
+We want to exclude those
+previously contacted.  We want to disable that.  And
+we want to disable profiles without
+photos.  Or rather, we want to activate it
+because we don't want to contact those
+people.  After setting the
+filters, you should now click on
+create campaign.  And what you'll do here
+is start segmenting the people you
+really want to contact,
+right?  So there are a lot of
+different filters.  Obviously, this is
+Sales Navigator integrated into the
+application, which is much more
+convenient.  You can filter by
+current company, current company size.
+For this example, I'm going to look for
+founders or co-founders of
+recruitment companies.  And the size of
+company I want is 1 to 10
+employees.  Obviously, you can also
+filter by previous company.  If
+you want to contact people from a
+past company, you use the company type
+and the location of the headquarters.  So I
+only want to work with people who
+are in the United States.  So we
+want to include those people.  And
+let's see if the company's employee size
+works, shall we?  We will hire
+1 to 10 employees.  The function
+is obviously to adapt this to your ICP
+as well, but let's say
+staff selection and recruitment.  Well, that
+will be the job function.  You want your
+current position.  So, as I said,
+we're going to address the founders.  So we're
+going to include them.
+You can also include co-founders.  You can
+click on their seniority level
+here.  If you want an entry-level position, if
+you want a director in training, things like that
+.  You can even choose their
+previous position, years at their
+current company, and years in their current role.
+There are many filters you can use for
+this, but obviously adapt it, as I
+said, to your ICP.  Make sure to include
+the geographic location as well.
+So, like I said, I only want to
+work with people in the United States
+.  The industry, as I said for this
+example, will be personnel selection and
+recruitment.  You can even choose
+marketing services.  There are so many
+different things you can
+target, industries you can
+select here, but I'm trying
+to find the selection and
+recruitment one right now.
+You can usually look them up.  insurance.  Let's say
+personnel selection.
+Staff selection and recruitment right here.
+So we're going to include it.
+You can even filter by first and last name.
+Now, the profile language.  Again
+, I only speak English, so I'll choose
+English here.  You can even filter
+by years of experience, groups, the
+school they attended.  This
+basically has all the filters you
+already know from LinkedIn Sales
+Navigator.  So you can target
+people who already follow your company,
+connections, connections from
+past colleagues, shared experiences, or
+job changes.  Now we also
+want to activate this.  Published on
+LinkedIn.  This ensures they are
+actively posting on LinkedIn and
+that you don't waste your time contacting
+people who don't even post,
+because they probably aren't the
+right fit anyway.  Obviously
+you can add workflows here
+such as lists of potential clients,
+people you interact with,
+saving accounts and things like that too.
+But now that you've actually started
+your campaign flow and begun
+segmenting, what you'll do here is
+click next.  So it will prepare
+your goals.  It will probably take between
+5 and 10 minutes, depending on how many
+prospects you have selected.  But
+we're going to pause the video here and
+come back once this is
+completed.  Well, as you can see, it's already
+about 50% finished.  All this information has already
+come out and, obviously, I'm going to
+blur the names out of respect for
+everyone.  But after the list is
+completed—I'm not going to wait until
+everything is finished for the sake of this
+example—we have about 960 prospects right now
+.  So what we'll do
+now is click next right here
+.  And then we'll set up
+our connection request or your
+sequences to contact these
+prospects.  This is step number
+three.  What we will do is set up a
+connection flow and you can also
+create different split tests.
+We're going to make a
+connection request.  As you can see here,
+free LinkedIn accounts can only
+send five connection notes per month.
+So you need to upgrade to premium
+to add notes to your campaign.  What
+we're going to do is make the
+connection request here.  And
+you can also add a new one.  If
+you add a new one, you have to
+tag it, but that's a topic for another
+video.  But what we're going to do is let you
+create a
+split test.  You can create a new flow,
+but for the sake of this example,
+we'll use connection flow A;  This will
+basically connect with them
+automatically.  This doesn't
+really apply here, but let's suppose you
+contact people who speak
+different languages.  It will
+automatically translate messages into
+your prospect's language.  For example, if
+you contact someone who only speaks
+Spanish, they will translate it into Spanish for
+you.  It will allow you to see the target's profile
+immediately before
+connecting with them.  And you can also
+send connection request notes,
+which is essentially what you do
+with LinkedIn's paid plan.
+You can also react to a
+post.  So, if you connect with
+someone, you can also react to
+their post.  I'm going to activate this.
+We're going to react to a post, let's say
+2 hours after
+contacting them.  That way, you're actually
+showing interaction.  You can also
+add a message sequence.
+Then, once they accept your
+connection request, you can add
+a follow-up message sequence
+.  So, if you click
+here, you can choose from many
+different templates.  In fact, they already
+have some lists for you.
+Let's say you reconnect with old
+contacts: "Hi, [name], this topic
+came back to my mind. I just
+wanted to open the door again in case
+now is a better time."  So
+these are tracking methods.  There are
+a lot of different templates that they
+already have here.  There are also questions
+among colleagues.  In fact, this is what
+AI does.  I'm talking to several
+people in your position right now,
+Jonathan, and I've noticed a pattern of
+difficulty in attracting and retaining
+talent in a competitive market.  This
+is simply a question from colleague to
+colleague.  I think you can send
+voice notes, but we're not going to do that.  We're not
+going to do a
+follow-up sequence.  What we're going to do is
+withdraw a connection request;
+you can do that too.  Also, if they don't
+accept it within 7 days, you can withdraw it
+here.  You can even add
+email optimization
+here.  So this is what we're going to
+do.  We can choose a template
+here, you know, like a
+neutral invitation.  Let's see what it has to offer.  This
+is because they have ChatGPT integrated to
+generate one for us.  I'd love to see you
+here.  Hi, Jonathan.  I'm Jaden.  I am a
+founder at Velocity Flow.  I'm contacting you
+because I'm organizing an event
+soon.  I would love for you to
+join us.  This is in case you organize
+a webinar or something similar;  You can
+send it to many LinkedIn accounts.
+This is the connection request we
+drafted.  Hi Jonathan, I'm not
+here to sell you anything yet.  I
+built it for you.  Five.  This is one
+type of lead magnet, but
+you can create your own.  Let's say
+we created a template here.  We'll
+give the template a name.
+Let's call it recruitment and selection.
+And then you can put your issue here.
+Customer question.  You can write whatever
+you want here.  And if you click
+here, you can even add files
+and many other things.  You can, you know,
+use your tags here.  Like the
+name, and I think you could too,
+yes, you could do it just like in your
+sequencer as well.  You can
+add them right here and then
+you can even create a prompt.  So you can
+generate AI or you can have AI
+generate a prompt for you.  Look at the
+prospect's LinkedIn profile.  You don't have to
+do it, it's AI.  You don't need to
+have correct spelling or anything like that
+.  Look at the
+prospect's LinkedIn profile and find an
+achievement to congratulate them on or something similar.
+That's just one example of the many things
+you can do with them.  And then,
+obviously, you see the preview text
+here.  We will not
+include a note here for this one.  So let's
+turn this off quickly.  But
+this is just one of the many things you
+can do with them.
+You could even add voice notes,
+although for this example.  We will only be
+making connection requests.
+Then, obviously, you could add
+messages or sequences if you're
+prospecting on your own.  And
+once you do that, you'll click
+next here.  You're going to check everything.
+This is where you actually set up your
+campaign.  I usually prefer to
+disable it on Sunday because what
+has worked for us is Monday through Saturday.
+Monday is a holiday, or at least for
+me, at the time of this video, tomorrow
+will be Monday.  So I can
+turn it off if I want, but let's
+leave it on.  And we want from 9:00 a.m.  m
+.  at 7:00 p.m.  m.  in the prospectus' time zone
+.  We don't want to write to
+someone at 2:00 a.m.  m.  or connect
+with anyone at that time.  We want from
+9:00 a.m.  m.  at 7 or, well, I think it's
+5:00 p.m.  m.  EST or the time zone they are in
+.  OK?  Okay.  Or
+you can also set the
+working hours.  You can activate it.  But once
+you find the schedule you want,
+you'll check everything.  Click
+next here.  You're just going to
+double-check everything here.  So, for
+your connection flow, you want to
+automatically translate.  You can add a
+connection note, react to a
+post, send a message in
+sequence, withdraw the
+connection request after 7 days.  You check everything
+here.  Then you will click on start.  And
+then you'll start the campaign.  This
+is just one example of how you can
+reach thousands of prospects
+literally without doing anything.  All of this
+is literally automated.  All
+you have to do is reply to them,
+contact them, or you can set up a
+campaign to send
+follow-up messages.  Now you just have to
+receive the leads, since
+you've set up the campaign, and simply
+reply to them to schedule an appointment.  If
+you want to see the prices for the
+paid plan, I'll show them to you here as well.
+If you want to see the agency plan or
+billing, you can view the receipts
+here.  I'm trying to find the
+billing information.  I think it costs around
+$50 a month per account.  So
+, if you want to do that, you can
+subscribe to the paid plan.
+You get a 7-day free trial
+where you literally get all the
+benefits.  That's why I would recommend
+that you do it.  It's really worth it
+.  There are also many integrations
+you can do, such as Smartlead,
+Instantly, or workflows.  You can
+also integrate it with Slack.  We
+integrated it with Slack.  When someone
+responds to a campaign we send, it
+goes directly to Slack and we can
+respond from there.  And that's
+literally the entire
+AimFox setup.  You can contact thousands of
+prospects on autopilot without
+lifting a finger.  Everything I
+showed you doesn't matter if you make a mistake in
+this part here.  This is how you should
+handle interested responses and
+overcome potential objections before the
+call.  This method is called the
+ACA framework.  I used to be a dating agent and my
+mentor taught me this framework.  It's called
+the ACA framework.  It means recognizing, providing
+context, and asking a question.  An
+example of this would be if they ask you
+about the price.  That's the first example we're going
+to use.  How much do you charge?
+Hello, [name].  That's an excellent
+question.  Recognize.  Provide context.    It
+depends a lot on how big and
+fast you want to scale things.  And
+then you're going to ask a question.
+Would you be open to a brief chat
+this week to see if it makes sense
+for you?  With each interested response you
+receive, you should follow this framework
+.  Let's say they want to schedule
+a call immediately.  Hello, name.
+Brilliant.  Recognize, provide context, and then
+ask.  It's exactly the same framework
+for every interested response you
+receive.  We'll give another example here.
+Let's say they ask you for a case study
+.  Have you worked with anyone in my
+niche?  Let's say: "Hello, [name].
+Great question."  Okay, let's
+acknowledge it.  Then we'll provide some context
+.  In fact, I've worked with someone in
+your niche who has a business model
+similar to yours.  Can I send it to you?  And
+this is the template you should use
+for each response you receive.  Or you don't have to
+use it, but this is what
+I use.  Recognize, provide context, and ask
+a question.  Unless they just want
+a call right away.  This is
+exactly how to do it.  Your job is to
+make it as smooth as possible
+for them to schedule a call.  So,
+this is the framework we use for that.
+Hello, name.  Brilliant.  Would you be
+available on Wednesday at 2 p.m.?   Is
+Wednesday at 2 p.m. convenient for you?
+or on Thursday at 3 p.m.  EST?
+Alternatively, here's my
+calendar in case those times don't
+work for you.  Now, you're going to receive two
+types of responses with this template.
+One of them will be: "Tuesday at 2
+p.m. works for me."  And then your
+job is to schedule it for them.  You're going to
+answer this.  Okay, perfect.  I just
+sent you the
+calendar invitation.  Could you accept it?
+You want to make it as smooth as possible.
+I see time and time again that people receive
+an interested response, send their
+calendar link immediately, and
+nobody schedules anything because people are
+lazy.  You have to understand that
+people are lazy.  People want
+you to do things for them.  So
+you have to follow this framework.  Offer
+two times and then leave your
+calendar link if those times don't
+work for them.  Or they could answer: "Would
+this schedule work for you?"  "Yes,
+great. I've already scheduled it for next
+week. I sent you the invitation."  And you
+give them the option to choose their own
+schedule for people who aren't
+lazy.  But nine times out of ten
+, if you follow this structure, once
+you get an
+interested response, let's say someone says, "
+Yes, great."  "Let's schedule a call
+."  You have to use this structure
+because even if they say, "Yes, great."
+"Let's schedule a call."  And you send your
+calendar link.  50% of the
+time, many people don't even make a reservation.
+So you need to make it as
+easy as possible for the
+prospect to book.  Now, let's
+talk about how to handle
+objections.  Handling objections is not
+easy via email.  A
+pro tip is that, once
+you receive an interested response,
+most business owners
+have their number at the bottom of the email.
+Call them immediately, in less than 5
+minutes.  Just call them.  And the
+structure I use for that...
+obviously I don't like cold calls
+, but this isn't a
+cold call because it's basically a
+warm introduction call,
+since they responded to your email.  So
+you want to call them right away and
+basically say, "Yes, you just
+replied to my email."  Simply
+sell them the idea and get them to book on
+your calendar.  That's the best way
+to do it because many of these
+business owners check their
+inbox quickly and walk away
+five minutes later.  You must
+respond to each interested party
+within 15 to 30 minutes of
+receiving it.  And if you really
+want the best results,
+call them right away.  Now,
+handling objections, for example: "No, I
+don't think this will work for me."
+This is just one example of some
+objections they might raise.  As I said, it's
+difficult to handle this via
+cold mail, but you still want to follow
+the exact same structure.  Okay,
+then: acknowledge, give context,
+ask a question.  Okay, let's
+acknowledge it.  "Hello, [name], it's fair
+."  Let's give some context and then we'll
+ask a question, right?  Then:
+"Hello, [name], that's fair."  And then
+we want to link it to our
+initial offer.  "You only have to pay for the
+meetings we schedule for you."  Okay, that
+'s the initial offer, that is, to give
+context, implying that it's
+risk-free for them, basically,
+right?  You must, obviously, add your
+risk reversal or any
+initial offer you have.  And then you want to
+ask a question.  "Would you be
+open to seeing if this could actually
+work for you?"  PD,
+risk reversal.  That's just the structure of
+how I handle objections.  The best
+way is to call them on the phone.  It's
+much easier to handle
+objections this way.  That's exactly
+how I handle objections when they
+arise.  They don't happen to me often, but
+with some companies I have so much
+confidence in the results that sometimes they need to be
+managed.  But that's the
+section for responses from interested parties.
+how to handle the responses once you
+receive them.  And yes, that's the
+complete system, not just random tips
+or a guru talking about how
+the method works.  No, it's the
+exact system I use every day and it generates
+hundreds of meetings for me.  Now,
+honestly, you have two options from
+here.  Option one, you take
+everything in this course and build it
+yourself.  Option two, if you prefer that we
+build this system for you, click on
+the first link below and book a
+free strategy call to see
+if we can help you.  In any
+case, I thank you for joining me
+in this.  And if you found this helpful, please
+subscribe.  I publish content about
+cold prospecting every week
+.

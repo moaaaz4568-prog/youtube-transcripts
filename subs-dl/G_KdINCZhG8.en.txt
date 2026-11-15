@@ -1,0 +1,139 @@
+when logo designing in adobe illustrator
+there are some technical aspects to keep
+in mind however most of these apply to pretty
+much all vector-based programs but let's jump
+right into things today with grids yes grids
+can be insanely useful to us logo designers
+and a quick way to make a grid is by using the
+rectangular grid tool now you can change the width
+and the height of your grid but importantly we
+want to adjust the amount of squares on our grid
+and once you've done that make sure
+to hold down the shift key and click
+we will also want to add a stroke color to the
+grid and likely lower the stroke weight as well
+i personally like to make the grid quite light
+in color so it doesn't distract me from the logo
+artwork that i'm gonna make and also don't forget
+to press command or control 2 to lock the thing
+down we're soon going to talk about some downfalls
+with this grid but let's take a closer look for
+now and see what's what so as you probably know
+pressing p brings up the pen tool but i also like
+to press caps lock which uses the cross hair x
+kind of icon here and if you switch on snapping
+settings in the preference settings menu this
+grid will help you so much when creating logos
+we can also see that illustrator is telling us
+when we're above the grid path or intersection
+so yeah grids can help us align things and create
+logo shapes really easily but what about that
+downfall that i spoke about so here's a logo shape
+and the logo type is seen below but let's set up
+the logo shape so it's flush with the grid and in
+line and once that's been achieved most designers
+will go ahead and make sure to align the logo type
+to the grid so the logo is balanced with the shape
+okay so technically speaking this logo
+is now balanced and perfectly aligned
+but take a look at it properly does the logo
+type feel or appear balanced below the lego shape
+to me it doesn't and that's because of the
+specific lettering on this design the r has
+a hard straight up left edge whereas the l has a
+lower section extending out to the right with free
+open space in the top right this creates the
+illusion that it's not aligned and it's unbalanced
+so if i duplicate the design and then nudge the
+logo type over to the right a tiny little bit we
+can see that visually speaking things look a lot
+better or at least i hope you can see that they do
+it's important to spend time paying attention
+to things like this on your logo designs when
+working in adobe illustrator but we can even go
+a bit deeper still if you see here the text has
+a bounding box around it now sometimes designers
+will select the logo type text and then the logo
+shape and just click the align button relying on
+illustrator to perfectly do everything for them
+however illustrator has ignored the lettering
+itself and has used the bounding box as a guide
+and which as you can see it doesn't actually
+touch the edges of the text but if i go ahead and
+outline the text and then repeat the same process
+we can see that we get a different result again
+so yeah my point here is that don't rely
+on illustrator to align your logo designs
+and don't even rely on the grid to do it
+either the best way to align something
+is to just use your common sense and your eye
+in combination with these tools yes of course
+there are instances where the grid will be the
+best choice mainly when working with shapes but
+think about the context and which method
+is going to be best for what you're doing
+so here's a tip that's going to save you a lot
+of time when working in your logo design projects
+we commonly use the pathfinder tool a lot when
+creating logos one of the most used processes
+is the minus front operation that cuts one shape
+into another the thing is that once we've done
+that we cannot easily play around with the layouts
+because we now just have one shape instead of two
+so what i like to do with my logo design workflow
+is i simply fill one of the shapes with the
+background color or the artboard color and then
+i play around with the layouts to see what i like
+and of course that's with eye on your
+keyboard which is for the eyedropper tool
+now you can arrange your design in different ways
+to see what might work and what doesn't work for
+your logo and you can also maybe duplicate
+them many times over to test out various
+different layouts there is another way though a
+different method so let's go back to the minus
+front operation as we know and the design does
+end up being one shape with the cutout section
+but here we can access the direct selection
+tool and then hold down shift and select the
+inner shapes we are then able to manipulate
+the design whilst only having one vector shape
+you can also press v for the selection tool
+while you're doing this at the same time
+next up a handy tip for when you're working on
+a client's logo and this is to create and save
+custom swatches for each individual clients to
+do that you simply open up the swatches panel
+and then add a new color group here and this
+is handy because you can use color groups on
+various different projects devices and even
+share them with a client or other designers
+but i like them mostly for the reason that i can
+work on a client's logo in the future and i can
+just simply come back to their swatch group
+and have access to the correct brand colors
+a lot of the time i personally use
+pantone because it's a safe bet
+when working in different parts of
+the world or on different computers
+next up something i think that many designers
+forget to do and it does cause problems and you
+can be working on a design for many hours and many
+days and you never see it in different situations
+if you export your design as a png or svg or
+something like that and then take a look at
+it on a different screen or different window or
+different device then you might notice problems
+that you first missed you will be surprised at how
+different alignment and balance can look once you
+export your design and open it up somewhere else
+for example here i've opened my svg in firefox
+it's just a way to prove your work and just get a
+different perspective on things whilst not being
+into that zone in illustrator but yeah there
+are some technical tips when you're working on
+logos in adobe illustrator if you want to check
+out more videos and learn more about graphic
+design do click the video on screen and until
+next time guys design your future today peace
+you

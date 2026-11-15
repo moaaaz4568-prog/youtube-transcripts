@@ -1,0 +1,454 @@
+Most AI editing content falls under one
+of two camps. Either fear-mongering
+telling you the world is ending or it's
+just view horning where people are just
+making viral content for the sake of it.
+I want to actually help you. My name's
+Steve Ahmed. I've edited for some of the
+largest YouTubers in the world and I've
+coached hundreds of editors to help them
+go full-time and scale. And this is how
+we're actually using AI in our
+day-to-day editing.
+First, we need to understand that AI at
+first principles cannot create something
+new. If you do a bit of researching to
+how it all works, it takes a ton of
+previous data like inputs and it just
+calculates averages to figure out what
+it should create next. For example, if
+you tell it to create an animation, it's
+going to look at its training data for
+what an animation looks like and give
+you something generic based off of that.
+And this is where the whole AI slop
+thing comes about. The reason AI video
+generally looks like slop is because if
+you don't prompt it right, it's just
+going to give you an amalgamation, a mix
+of basically everything that it's ever
+been trained on.
+But you can have it be useful within
+video editing if you know how to use it
+the right way. Let's start with the
+example of creating an animation. If you
+want to automate animation, instead of
+just telling AI create me a good
+animation, we need to actually define
+what those terms mean.
+Because AI doesn't know what good looks
+like. AI doesn't know what animation is
+or looks like. We have to actually
+define those things. And here's how we
+do that. We take the big term animation
+and we do ask yourselves, what does this
+task actually consist of? Because while
+for humans it's easier, we can just say
+go animate this thing,
+really what that means is we do a
+certain amount of tasks in a certain
+order and that we call the animation
+process.
+Because to animate a video there's
+actually all these little tasks. First
+of all, you need to watch the video, the
+part that you're actually animating,
+then you need to ideate the anime the
+the visual, so what the design's going
+to look like, then you need to go get
+the assets and put them on your screen
+on your screen, so in Premiere Pro or
+After Effects, you actually compose it
+all. Once you get the composition, you
+now need to add some depth effects, some
+textures, etc., so effects to actually
+make it look better. Then you need to
+think about how you're going to animate
+it, so that how you're going to add the
+movements. Then you need to add the
+movements, and then once you've done the
+animation, you're going to look at it
+and pretty much ask yourself like, does
+this look good or not? So you do the
+checks, then you make any changes
+necessary. So as a human, we say
+animated, but what we really mean is
+these six, seven, eight, nine steps in
+order which we
+bundle up and call it animating.
+So when we're teaching an AI,
+we're going to need to do the exact same
+thing.
+We're going to tell it what the actual
+human process for animating a video is,
+because that way we can actually control
+how it's doing each step. So if we don't
+like the output, we can find out like,
+why is the output going wrong? It's
+because it's messing up in one of these
+steps.
+So let's talk about actually like the
+tech stack that we're using today. Of
+course, AI changes so fast that by the
+time you're watching this, the actual
+tools won't matter as much and because
+they're going to be different. It's more
+the principles that matter and this is
+how you're going to keep up.
+Right now, I'm using Claude code. Um I
+pay for the maximum subscription. I
+think it's like 200 bucks a month.
+Purely because it saves me so much time
+and so much energy and makes me so much
+more money than 200 a month. In my
+opinion, it's worth it. I think they
+have like a 20 buck a month plan. I
+would highly recommend. I'm not
+affiliated. I make no money from you
+getting it or not. I'm This is just what
+I'm using at the moment. I use Claude
+code
+and there's basically like tools that
+Claude code can use. One of them is, for
+example, HyperFrames. Another one is V
+Motion. Another one is FFmpeg. These are
+all tools that an AI can call in order
+for it to complete a certain task.
+So, what you do is you basically tell
+Claude code that, "Hey, I'm trying to do
+this process. I'm trying to build a
+workflow where you can help me create
+animations
+from scratch."
+Here's what it looks like for me to
+create an animation.
+First, we need to do
+actually look at the source footage. We
+need to transcribe it. We need to
+get ideas based on all of that. And we
+go through all the steps until we
+actually have an animation.
+Because what you can then do is have a
+different tool that the AI calls for
+each step.
+For example, for actually watching the
+video, how does an AI know what
+animation is going to make sense here?
+Well, it has to take in the footage. How
+did it do that? We can use FFmpeg, which
+is essentially like a code-based way of
+editing a video, like um
+like trimming. It can size things up.
+It's It's basic, but you can do it
+through code, which AI works very well
+with code. You don't actually know need
+to know any code. For example, I don't
+even know how to do the whole like hello
+world thing. I I know not nothing to do
+with code. But, I know that FFmpeg uses
+code to edit. So, that's going to be
+used to basically trim the section that
+we need. Then, I use OpenAI Whisper.
+Um there's a paid version, which is
+using API, but if you run it locally,
+it's actually free. So, I use that. That
+basically transcribes it. And now we
+have a section of a video with text
+that's super accurate.
+Then, we need to now ideate
+an animation for this.
+That's when you put all that transcript
+and those images
+into an LLM like Claude. And we
+basically ask it like, "Hey, based on
+this line, based on this, and based on
+like this style guide that we've
+created,
+type up like the description for an
+animation." So, it'll talk about the
+colors. It'll talk about where the
+things are positioned, etc.
+Then, we take that and we put it into
+something that can actually create a
+design.
+By default, Claude, as of now, cannot
+create images, and it cannot create um
+essentially like scenes.
+But, it can call a different tool to
+create that.
+That's where things like Runway Motion,
+which you may have heard of, you may not
+have. HyperFrame is another thing that
+similar to Runway Motion, in my opinion,
+it's better right now. But, essentially,
+we put that output that the LLM gave,
+the large language model, Claude,
+ChatGPT, whatever, it gave that
+description of an animation, we feed
+that into Claude again, and we tell it,
+"Use HyperFrame to create this
+animation."
+Then, once we've gotten that and that
+usually take care of the the depth
+effects, the textures, and the
+composition, the assets, all of that
+good stuff.
+Once we've gotten that, that's when we
+actually feed it back into itself, and
+we get it to check its own work. How are
+we going to do that? We use FFmpeg to
+actually take screenshots off the video
+it's created, and then
+basically like
+we get This is how I personally I'm
+doing it. I give it the training within
+my own um coaching program, so like I
+take my own course, I turn it into
+training, because that's I literally
+teach editors to make better scenes. I
+just give it to AI to know what a good
+scene looks like, and then I tell it,
+"Based on this training and these
+principles, give feedback on this edit."
+And then we take that output, we feed it
+back into the AI saying like, "Hey, good
+stuff. Here's the things to change, and
+here's the things to keep the same." And
+then we create another output, and it
+does this until it has at least a 95%
+confidence that this is a good scene.
+And now we've got an animated scene. So,
+like, can you see how the whole broad
+term of animating, we first break break
+it down into micro into its micro
+workflow, like little steps, and we keep
+breaking it down until we've got the
+core actions. And then once we have the
+core core actions or core tasks, that's
+when we can tell an AI like, "Here's the
+things you need to do in order."
+And it can help you, and you can
+literally ask it like, "What tools do
+you recommend for each one of these
+stages?" Now, animating videos is the
+sexy thing that everyone talks about.
+That's why I wanted to cover it, because
+it is useful. But, truthfully, the
+biggest benefit that I found with AI
+with video editing
+is just the unsexy tasks. For example,
+subtitling. Oh my god, it has changed
+the entire way I subtitle full videos.
+Before, I used to do it manually or I
+would use Premiere Pro's automatic
+subtitle generator. If you've ever used
+it, you know how annoying it is. There's
+capital letters randomly, there's like
+full stops and commas out of nowhere,
+there's half the words it'll get wrong.
+Sometimes it's not even like the words
+are wrong and it makes sense. It's just
+like the sentence doesn't make sense.
+Like why would you think it even means
+that? Like why would you think that's
+what it said? So, it's just a pain in
+the ass. And to fix it, you've got to
+like manually go in.
+I use AI now to essentially take the
+subtitles that's auto automatically
+being generated.
+We download it as an SRT file, like a
+subtitle file.
+And then I ask it, like, "Hey,
+here's what the video's about.
+Fix it within the context of this
+video."
+For example, if I'm recording this,
+I might see a line
+let's say I'm recording this.
+It the normal Premiere Pro subtitler
+might have picked it up as "Let's say
+I'm recording the
+Let's say I'm recording crickets." Cuz
+there's crickets around. Imagine it
+picked it up as that.
+An LLM, like an AI, would pick up, like,
+"Wait, crickets doesn't make sense
+within the context of this video. He
+probably meant something else. What's
+the most likely word? Oh, let's plug
+that in instead."
+And because AI, like we spoke about
+before, it's a literally a prediction
+machine of what word comes next and what
+like data comes next. It is so good at
+predicting what words should have been
+there.
+So, it cleans up cleans it all up.
+Then, I just get it to follow the best
+practices within my program. I'm going
+to tell you some of them because it's
+relevant for this. But with subtitling,
+there's three core rules that you have
+to follow when you're doing subtitling.
+Number one, it has to be accurate, which
+we talked about before.
+The AI is going to clean it up. Second
+of all, we want it to follow the natural
+cut points. For example, let's say we're
+saying
+right now I'm using
+my iPhone camera to record this video.
+That's a long line that let's say we're
+cutting every three to four words.
+We want to make sure that we're cutting
+at the most natural points. So,
+for example, um
+I completely forgot the the sentence
+that I used. So, we're going to use a
+different one. I have my tripod I have
+my microphone on a tripod.
+I have I have
+my tripod
+to I have my microphone on a tripod.
+Rather than like
+I have my
+mic on
+a tripod.
+Like you got to break it up um so that
+let's say there's a
+a noun phrase, you don't actually split
+in the middle of it. For example, a
+microphone should never be split between
+two subtitle lines where it says like a
+like it ends on A and then the next line
+where it it switches to the next
+subtitle says microphone.
+Noun pairs should be paired up. There's
+all these other little rules like I just
+get I teach AI now. Here's all the
+rules. Here's a ton of examples. Go do
+it for me. Before it used to be such a
+pain in the ass to do it manually. And
+then the third rule, which is we want to
+make sure that we have consistent
+casing. For example, let's say you've
+got lower case, upper case, and then
+randomly there's just like a
+another capital letter at the beginning
+of a line for some reason. Like you want
+to get rid of those. So, it doesn't
+matter if you do it all in lower case.
+It doesn't matter if you do it all in
+upper case. What matters is you have a
+consistent way of capitalizing. Maybe
+you have all lower case and only the
+eyes are capitalized.
+But what matters is it is consistent and
+AI is so good at doing this. So, what I
+do is
+get an automatically generated
+transcript, feed it into an AI that's
+been trained on this process that I
+already would have done manually,
+and then now it can do what I would have
+been able to do manually but in an
+automatic way.
+The reason I mentioned all of this is
+because if I didn't have my proven and
+already, the AI wouldn't be able to do
+it because when it thinks subtitles,
+it's trained on like so much random data
+that I have no control over. So, it's
+going to get it wrong. Another example
+of the way I'm using AI within actual
+video editing is organizing footage
+{slash} finding clips.
+I used to have to manually look through
+footage in order to find best moments or
+a moment that I have specifically in my
+mind.
+Now, instead what I do is I take
+any video or multiple videos if there's
+lots for a video, and I actually feed it
+through a tool called Open AI Whisper.
+This is basically a tool that just
+transcribes any video that you throw at
+it. So, I feed in the video, I tell it,
+"Yo, transcribe this. Make sure you give
+all the timestamps for every word." And
+it can tell you where a word starts and
+ends.
+Then, whenever I need a section in the
+video, I can literally feed that
+transcript into any AI and say, "Hey,
+there was a section about this thing.
+When did that happen?"
+And the best part about using AI to
+search through a video rather than just
+searching using command F or whatever,
+is because it will search not only exact
+phrasing, but it will search for
+semantics. Let me explain what I mean.
+Let's say there's a video about a guy
+going to a park, and you want to find a
+part where he's cycling over there.
+If you just search cycling
+in a normal transcript, you probably
+wouldn't find a section where he's
+cycling. I doubt he's going to say, "I
+am now cycling to the park." He's
+probably not going to say that.
+But, if you ask an AI that, it will be
+able to infer it. So, it might realize
+like, "Wait, this is the point where
+he's talking about leaving the house,
+and at this timestamp he was at the
+park, so it's likely he was cycling
+between there to get there."
+Oh, and it'll tell you, "Hey, it's most
+likely at this stage." You can go
+double-check it, and you realize it's
+there. Awesome.
+Especially as you work on larger and
+larger videos or videos with multiple
+POVs, multiple pieces of footage,
+multiple cameras, it's a mess. So,
+having this as part of your ingest
+process, where before you actually start
+working on it, similar to how you would
+create proxies, you literally create
+these transcript files for AI to search,
+I found it so useful to be able to just
+edit videos a lot quicker. So, those are
+just some of the examples of how I'm
+using AI within my video editing
+process. The main point I wanted to get
+across in this video is
+AI can only do what you already know how
+to do. And to get the output that you
+actually want,
+take the main task that you're trying to
+get it to do and break it down into
+micro workflows. Break it down into the
+tiny little tasks that it needs to do.
+Tell AI, "I want you to do this big
+task. Here's how you do it step by step.
+Help me automate this or help me build a
+tool stack for this."
+And then now, you can just give it one
+thing, it'll know what steps to take the
+footage or whatever thing through, and
+the output will actually be how you
+want. So, that's how I'm currently using
+AI as a video editor. Things will
+change, but as long as you've got these
+principles, you'll be good. But, in
+order to learn the principles,
+you can go watch this video here. I'll
+walk you through how I actually create
+these amazing scenes, and funnily
+enough, you can literally feed that
+video into AI, and it'll create better
+scenes as well. So, go watch that video
+here.

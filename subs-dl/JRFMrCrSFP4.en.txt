@@ -1,0 +1,511 @@
+Right now, we're generating somewhere
+between $130 and $550,000
+per month in lifetime value for just one
+of our clients, RB2B, using nothing but
+cold email. With some of their
+campaigns, we're even getting one
+positive reply for every nine emails we
+send. So, if you think cold email is
+dead, I'm about to show you exactly why
+you're wrong, and more importantly, how
+to actually make it work at scale. I'll
+give away the exact campaigns we're
+running for RB2B, the email copies that
+we have tested, the infrastructure
+setup, and the complete strategy we use
+[music] to send over 15,000 cold emails
+every single day for RB2B and absolutely
+print money for Adam Robinson. Let's
+dive in. Let me break down the numbers.
+So, our original run with them from
+March 2024 to October 2024, RB2B
+launched their brand new tool from $0
+and went to $4 million in annual
+reoccurring revenue in only 6 months.
+Our cold emails drove 42% of all their
+revenue during that period. And [music]
+it really breaks down into three buckets
+that I'll show you. 21% came from pure
+cold emails who have never heard of RB2B
+before. 15% came from what we call
+inboundled outbound campaigns, which is
+basically using our B2B's tool on their
+own website visitors. It's a very meta
+campaign that's super fun to run. And 6%
+of that revenue came from a weight list
+blast we sent on behalf of our B2B when
+they first launched. And so in total,
+that's 169 million in annual reoccurring
+revenue generated only 5 months from
+cold emails, from sales automation
+systems. What's also interesting is that
+our leads converted two and a half times
+better than leads from their other
+channels, meaning more of them upgraded
+to paid subscription and stayed longer
+than their normal mechanisms. So, we
+weren't just signing people up. We're
+signing up their best customers. So,
+here's the thing. We had to take a
+break. Adam Robinson, the founder, was
+rebuilding the product in October of
+2024, and he wanted to make some major
+changes. So, he was like, "Hey, man. Can
+we go on a quick pause? I need to
+reinvent my product a little bit, do
+some things before we start just
+blasting it again. I was like, "Yep, for
+sure, man." So, here are the current
+numbers after being rehired. In May
+2025, he rehired us and they were at
+$5.3 million in annual reoccurring
+revenue. Now, they're at $6.5 million
+ARR. So, let's take a look at their
+numbers after being rehired by them. So,
+if we take this back, Adam rehired us
+back in May. Actually, let's just go to
+the very beginning of the year so you
+can see everything up until now, right?
+And so, back in May, he hired us again,
+started ticking up, and at that point,
+they were at May, they were at 5.25.3
+million in annual reoccurring revenue.
+Now, they're at about 6.5 million in
+annual reoccurring revenue. And we are
+currently generating between $130,000
+and half a million in lifetime value for
+them every single month. And you might
+ask, why is there a range? Well, let me
+show you a little bit of the math um
+that we did. And so when we first got
+started with RB2, you got to understand
+Adam came to me and he was like, "Hey,
+man. I got this guy Santo on my team. He
+is insane. He's been at Apollo. He's
+been at Gong. He's been at Zoom Info. He
+knows lead genen. He knows how this game
+works, but he's smart enough to know
+that he does not know what it takes to
+do cold email nowadays because it's such
+a rapidly changing uh channel and
+industry." Halfway through the call, he
+was like, "Hey, instead of you just
+doing our cold email infrastructure, can
+you run all of it? can you do all the
+lead list, all the campaign building,
+can you do everything for us? And I was
+like, yeah, for sure. And so that's when
+we started doing campaigns for them. So
+we ran those campaigns when they
+launched for about 6 months. I made a
+post about how I think I estimated that
+we were responsible for about 17% of all
+their revenue. And Santos hit me up and
+he's like, "Hey, let's actually figure
+out what that number is. It might be
+higher, it might be lower, but if we're
+going to talk about it publicly, let's
+figure out what that number is." And I
+was like, "For sure." And so what we did
+is this is a sheet back from then. Going
+to hide as much information as I can,
+but you can see the timestamps so you
+can kind of see everything there. But
+what we did is we analyzed everything.
+So we analyzed all the Stripe data, all
+of their uh users, all of that kind of
+stuff. We cross reference it with every
+email that we sent and we said, "Cool.
+Did this person sign up within 30 days
+of getting our email? And if they did,
+then we attributed it uh to our
+outbound." Right? Here is what it all
+came down to. So in total at the time,
+this was done like October of 2024 when
+we were first buttoning up the
+engagement with them, right? Um you can
+see about 42% of all of their revenue,
+all of their cash collected came from
+our cold emails. You can see the buckets
+21% from cold outbound, 15ish% from
+inbound lead outbound, and then that 6%
+number from the weight list that they
+had, right? And so here is why there's a
+range is that if you take their LTB,
+which they publish all this stuff, you
+can go to rb2b.bearmetrics.com
+to see all this stuff. Adam publishes it
+in real time. And so you can see all
+these numbers, his average conversion
+rates, all of that kind of stuff. And so
+here what we're doing is we took their
+average LTV and this was the stat on
+October 4th when I last uh compiled
+this, right? And the thing is is that if
+you look at how many signups we drove
+for them versus how many of them became
+paid users, our conversion rate from
+free to paid is 50%. But their average
+conversion rate is 13.79%. And so what
+we're doing right now is we're actually
+collecting a lot of data, synchronizing
+with their systems. And what we're doing
+is we're um looking at the uh signups to
+be able to actually uh look at it. And
+so like here the last month we've drove
+um 83 paying customers uh for them for
+example, right? And so we're going to be
+uh figuring out exactly what our
+conversion rate is going forward. But if
+we use our old conversion rate of 50%,
+then that means we're generating 553
+grand in LTV for them, which is pretty
+straightforward. How many people are we
+signing up? How many of them convert
+times the LTV that they're going to pay
+over their lifetime? Generating half a
+million dollars in them. And that's a
+monthly figure. We're generating half a
+million dollars for them per month in
+lifetime value that they're going to
+collect from these people. And what's
+crazy about that too is like Adam can
+sell the company and if he sells it for
+a 10x multiple, you multiply this number
+by 10, I'm basically making Adam himself
+like $5 million a month, [laughter]
+which is pretty pretty insane. And
+that's if he owns 100% of the company,
+blah blah blah. But like totally insane,
+right? And then if we have an average
+conversion rate, we're only generating
+130 140 grand a month in LTV, which is
+obviously just insane. And so on the
+high end, this factors in that our leads
+convert 2.7 times their normal rate. So,
+as you can see, just in September for
+them, we sent about 220,000 emails,
+about 113 positive replies, but we
+generated 240 signups in that time,
+which is great and and normal with what
+we see with them is that so many people
+get our emails, they just go to the
+website, check it out themselves, they
+sign up, and then they never even
+remember to reply to the email ever, and
+they just archive it cuz they're like,
+"Well, I already signed up." And so,
+which is crazy. So, for every one
+positive reply, we get two people to
+sign up, which is really cool with these
+PLG motions. And as you can see, we're
+driving about 10% of their total signups
+within uh this snapshot, which is pretty
+cool. The thing is is that we are
+currently ramping up their system. Some
+days we hit it, some days we don't,
+where we're sending 15,000 emails a day.
+So, we're on track to be able to send
+over 300,000 emails uh per month with
+them. And if we're hitting that kind of
+run rate, then we're signing up about
+350 almost 400 uh people every single
+month just from cold email alone. That's
+pretty insane. And what's even more
+insane is that we're getting the same
+conversion rates or 6.5 million where
+our B2B is now when they only had a
+million dollars in a r when they were a
+brand new company. And it just really
+goes to the the the core power of their
+offer because right now we still only
+have to send about 250 emails in order
+to get uh one person to sign up. And uh
+some campaigns are better than ever. So
+if you look at this snapshot from
+September to October, you can see our
+positive reply rate dipped a little bit
+about to 15% which typically had been
+about 20%. What we saw is we saw copy
+fatigue fit in. And then if we go to the
+last 30 days, you can see here that our
+positive reply is up at 30%. This is
+we're also doing some testing inside of
+here. And so if you see what we've been
+doing over the last 4 weeks, we've been
+testing some other variants inside of
+here. And so you can actually see this
+campaign here is almost a 40% positive
+reply rate. And then same exact uh
+similar thing here. And so we've been uh
+doing some cool messaging stuff uh with
+them to get that number even higher
+because we're always testing. And so let
+me show you the exact campaigns we're
+running for them right now. And by the
+way, if you at any point in this video
+you want to implement the same strategy,
+the same cold email strategy for your
+business, you can click the first link
+in the description and book an intro
+call with us. Now let's dive into the
+campaigns. So here is our best
+performing campaign right now. And so
+you might be asking, okay, what is the
+copy? What are I and A and I? And so
+here you can see the first copy first
+name. We just built a tool that lets you
+know when X are on your site. So what we
+do here is we use AI to actually
+research the lead and the company and
+their position. And we go, hey, who do
+these people uh sell to? Who are their
+customers? And we insert that here. So
+we go, hey, uh we just built a tool that
+lets you know when uh sales and
+marketing professionals are on your
+site. It identifies individuals, not
+companies, and sends their LinkedIn
+profiles to Slack in real time. It's no
+charge. Reply back with yes if you'd
+like me to send you the link to sign up.
+P.S. No, I'm not joking. It identifies
+individual people, not companies, and we
+will not ever charge you a dime. Okay.
+The other one that's working great for
+us right now, basically the same, and
+this has some spin tax. Let me pull up a
+great example. So, hey Blake, we just
+put together a tool that alerts you when
+marketing managers, business owners, and
+wellness professionals are on your site.
+It spots individuals, not businesses,
+and delivers their LinkedIn straight
+into your Slack. It's no charge. Just
+reply yes and I'll send you over the
+link to sign up. PS, seriously, no joke.
+It identifies real individuals, not just
+company visits, and we won't ever charge
+you a dime. And you'll notice these are
+pretty much exactly the same. What we're
+doing here is we're testing the efficacy
+of spin tax. And based on the things,
+the results that you can see here, it's
+basically no difference whatsoever. Uh,
+which we do tests like this all the time
+to kind of go cool, like what's going
+on? And that's it. No fancy AI
+personalization, no elaborate
+storytelling, no uh links in the first
+email. And this copy consistently gets
+us, you know, 30 and right now 40%
+positive reply rates. And we made a lot
+of this copy. Uh we've been testing this
+type of copy for them for over a year
+and a half. And this is absolutely the
+best. I mean, a 40% positive reply rate
+at scale when you send in hundreds of
+thousands of emails per month is uh no
+one else does that that I know of in my
+industry. And you might be asking like
+what are the lists that we're going
+after? We have a ton of in-house data
+that we have been able to develop. So,
+we have SAS lists that are very uh
+specialized. So, there's actually a
+really cool tool called Sassy DB. Really
+good. He's become a friend, a guy by the
+name of Stuart made this and it is
+awesome. Um, it's one of the best like
+SAS databases I found for companies and
+individuals. If you're really trying to
+target SAS, they are really good private
+database. Other than that, we have a lot
+of our own house list built up. So, like
+we have a special list of we like to
+target anybody with growth in their
+title. We have a list of about a quarter
+million people on that list. And like if
+you go to Apollo, it's going to tell you
+I think that there's like 80,000 people
+or something like that that are in
+growth. And so we just have very special
+lists that we've developed for these
+particular verticals uh that we're going
+after, right? And so for example, when
+we launched our B2B, we tested 10
+different industries. We segmented by
+seniority, marketing professionals,
+sales professionals, founders, anyone
+where with growth in their title. And
+each of these were different lists that
+we were constantly testing. And what we
+found the best lists for them were SAS
+founders, marketing directors, sales
+leaders, and growth people. And for
+those particular campaigns, we only have
+to send 50 emails to get one positive
+reply for them versus the average for
+RBB is 250 to one. And we don't
+overpersonalize with AI. We like to just
+ingest a little bit of a line there. And
+the perfect balance isn't just
+referencing their job title or industry.
+We just go straight into value. But it's
+not always perfect. And so you can see
+here we um are constantly we we turned
+all these off cuz none of them ended up
+doing better. But you can see here an
+example of copy here that we tried we
+tried here. We tried all the normal
+stuff. And what we did is we like looked
+out and we we're always testing
+ourselves, right? I I don't want to be
+correct. I want to have the best ideas.
+We're constantly testing stuff. And so
+like these were like different subject
+lines. These are basically the same, but
+they have the different subject lines.
+None of these worked at all. None of
+them came close. I think one of the best
+ones from here on the analytics, one of
+them even got zero positives. And look
+at the difference in reply rates as
+well. It's just there's no sauce there
+at all. This is why testing's super
+important. And the thing about testing
+is you're going to test a lot of bad
+ideas until you double down and you find
+that perfect message. That's why testing
+is so valuable because if you're willing
+to sacrifice a little bit of time to do
+in-depth testing, you find the ones that
+are just I mean these campaigns aren't
+even comparable. One basically gets zero
+and the other one gets 40x the results
+on top of it, right? And so how do we
+even send so many emails for them,
+right? How do we send hundreds of
+thousands of emails uh per month for
+them? We use a three layer system. So,
+here's the infrastructure it takes to be
+able to send 100,000 plus emails per
+month, but even then, for some of our
+clients, we've sent millions and
+millions and even as high as 8.8 million
+emails per month for just a single
+client. Here's what we do is we run
+three completely different sets of
+infrastructure for every client. We have
+an odds set, an even set, and a burner
+set. In the first half of the month, we
+use the odds for active campaigns, and
+they send 20 emails per day per account.
+The second half of the month, we rotate
+in the even set and the odd set starts
+resting. The inactive set drops to one
+email per day because you can't set it
+to zero in most sequencers. And if
+anything breaks, we immediately rotate
+in our burner set, which is just
+constantly only doing warm-up. And we
+rotate it in so that way we can try to
+maintain deliverability. And you know,
+this really saved us when we burned 375
+domains for RB2B in a single day. And
+not long ago, on October 17th, due to
+all new updates with Google's AI spam
+filters, I lost 49.23%
+of all of my Gmail inboxes in a single
+day. And we manage probably over 60,000
+email accounts. So, we lost 30,000 email
+accounts in a day, right? And if
+in a burner set. And this can save us
+hugely. I mean, I remember one time when
+I burned over 375 domains for our B2B in
+a single day. You know, within days, we
+had a burner set live and we were
+immediately back at full sending volume
+for Adam. And the thing is, you have to
+note this isn't foolproof. This isn't
+going to stop email apocalypses as they
+happen. And there's certain things,
+doesn't matter how many backups you
+have, you're just going to sometimes
+have downtime, right? And so, we had
+about 2 3 weeks where some clients, cuz
+it wasn't all of our infrastructure and
+it was pretty, it wasn't uniform from
+client to client. There were some
+clients where we just couldn't get
+emails out. And you know, that's okay.
+That's why our clients pay us. They pay
+us to manage this entire channel for
+them to navigate it when these
+situations happen. Cuz it's not a matter
+of if these situations happen. They do
+happen and they happen multiple times a
+year. We just sent an excess to make up
+for any lost volume that we did over for
+clients over the following weeks. And
+now everyone's back to they're fully
+caught up on everything. So here's why
+we send the volume that we send. The
+thing is, most agencies cap at about
+20,000, maybe 100,000 emails per month,
+but most of them are doing like 5 20,000
+uh emails per month. And we're trying to
+get to a spot to where we're sending
+over 2 million emails per month for RB2B
+alone. And our largest client ever,
+Fixer, we peaked at sending 8.8 million
+emails per month for their PLG Motion
+and signing up 962 users a week. you
+know with more volume it means more data
+more AI personalization more cost and it
+means that we also get to optimize much
+much faster though and so you know with
+these larger clients we can test 30
+variants simultaneously daytoday and let
+the marketplace tell us what works in
+real time it's like having our own
+private ad network is how I like to
+describe it and so when you're sending a
+quarter million emails in a single test
+like we do all the time you get
+definitive answers very fast and you can
+move really really fast uh which is one
+of the main reasons that uh when Fixer
+first approached us and they were like
+hey we need to send a million emails a
+month as fast as possible. We're trying
+to raise our series A. Can you please
+help us? Yes, we could do it. I mean we
+got them set up in a week and campaign
+started running and we did about a 6
+week sprint for them and we signed up
+2,228 users for them. Got them one of
+their first enterprise clients. They
+became a million-doll ARR company and
+later that year by the end of the year
+we helped them raise their series A for
+$10 million. We couldn't be happier for
+them. That is the exact cold email
+machine that's generating somewhere
+between $130 to $550,000
+in monthly lifetime revenue for RB2B.
+Now, if you want us to implement the
+entire same exact cold email strategy
+customized to your specific business,
+find your message market fit, and then
+reach your total addressable market
+consistently. Then click on the first
+link below and book a free call with us.
+We've already helped dozens of B2B and
+SAS and AI companies turn cold email
+into a money printer. So again, the link
+to book your intro call is in the
+description below. And if you want to
+see how I personalize millions of cold
+emails with AI in seconds, then click
+right
