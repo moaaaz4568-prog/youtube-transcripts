@@ -6,10 +6,8 @@ Arabic (and English) YouTube subtitle transcripts as plain text files, downloade
 
 - `subs-new/` — 40 channels, 7,032 Arabic transcript files (`.ar.txt`), one folder per channel.
 - `subs-dl/` — older flat collection, 13,488 transcript files named by YouTube video ID: 6,762 Arabic (`.ar.txt`) + 6,726 English (`.en.txt`), about 6,884 unique videos.
-- `ahmed-bakeer/` — 49 German-language channel transcripts, one file per video.
-- `yasmin-khaled/` — 338 English-learning channel transcripts, one file per video.
 
-Total: 20,907 .txt files.
+Total: 20,520 .txt files.
 
 ## Channels in subs-new/
 
